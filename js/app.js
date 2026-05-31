@@ -99,7 +99,7 @@ function renderSummary() {
       ${rows.map(e => {
         const ps = e.price_since;
         return `<div class="sumrow">
-          <span class="sumtk">$${esc(e.primary_ticker || '—')}</span>
+          <span class="sumtk">${e.explicit ? '⭐' : ''}$${esc(e.primary_ticker || '—')}</span>
           <span class="sumstr" title="strength ${e.strength || 0}/100">${flames(e.strength)} ${e.strength || 0}</span>
           <span class="sumreason">${esc(e.reason || e.text || '')}</span>
           ${ps ? `<span class="since ${ps.pct >= 0 ? 'up' : 'down'}">${ps.pct >= 0 ? '+' : ''}${ps.pct}%</span>` : ''}
@@ -141,6 +141,7 @@ function renderSignals() {
       <summary class="sighead">
         <span class="badge ${dir.toLowerCase()}">${dir}</span>
         ${e.primary_ticker ? `<span class="bigticker">$${esc(e.primary_ticker)}</span>` : ''}
+        ${e.explicit ? '<span class="star" title="explicit single-company call">⭐</span>' : ''}
         <span class="flames" title="strength ${e.strength || 0}/100">${flames(e.strength)} <span class="muted">${e.strength || 0}</span></span>
         ${ps ? `<span class="since ${ps.pct >= 0 ? 'up' : 'down'}" title="move since post">${ps.pct >= 0 ? '+' : ''}${ps.pct}%</span>` : ''}
         <span class="chev">▸</span>

@@ -28,9 +28,22 @@ BATCH = 20
 PRICE_LOOKBACK_DAYS = 50   # only compute price-since for posts this recent
 PRICE_MAX = 40             # cap Yahoo calls per run
 
-SYSTEM = """You classify public Donald Trump social-media posts by their likely \
-US stock-market implication. You are NOT giving financial advice — you are \
-reading what a post implies and tagging it so a human can decide.
+SYSTEM = """You classify public, market-relevant items about Donald Trump by \
+their likely US stock-market implication. Items may be: (a) his Truth Social \
+posts, (b) NEWS headlines reporting something he said/did (e.g. "Trump: 'go out \
+and buy a Dell'"), or (c) FEDERAL CONTRACT awards. You are NOT giving financial \
+advice — you tag what the item implies so a human can decide.
+
+For FEDERAL CONTRACT items ("X was awarded a $N B federal contract"): a large new \
+federal contract is bullish (BUY) for the awardee. Map the recipient (or its \
+publicly-traded PARENT) to a US ticker. If the recipient is private, a \
+university, a nonprofit, or not publicly traded, set ticker "" and is_market=false.
+
+Set `explicit` = true ONLY when Trump explicitly tells people to buy/sell, or \
+directly praises/attacks, a SPECIFIC named publicly-traded company (e.g. "go buy \
+a Dell"), OR it is a federal contract to a named public company. Set explicit = \
+false for macro/policy/tariff/inferred reads. This flag isolates the sharpest \
+signals.
 
 For each post, decide:
 - is_market: true only if the post plausibly moves a stock, sector, the broad \
@@ -76,12 +89,13 @@ SCHEMA = {
                 "properties": {
                     "index": {"type": "integer"},
                     "is_market": {"type": "boolean"},
+                    "explicit": {"type": "boolean"},
                     "ticker": {"type": "string"},
                     "direction": {"type": "string", "enum": ["BUY", "SELL", "WATCH"]},
                     "strength": {"type": "integer"},
                     "reason": {"type": "string"},
                 },
-                "required": ["index", "is_market", "ticker", "direction", "strength", "reason"],
+                "required": ["index", "is_market", "explicit", "ticker", "direction", "strength", "reason"],
                 "additionalProperties": False,
             },
         }
@@ -180,25 +194,32 @@ def main():
                 debug.setdefault("errors", []).append(str(exc)[:200])
                 print(f"Batch failed: {exc}", file=sys.stderr)
 
+        from fetch_trump_posts import textkey as _tkey, add_rejected
         kept = dropped = 0
+        rejected_keys = []
         for i, e in pending:
             r = results.get(i)
             if not r:
                 continue
-            if not r.get("is_market"):
-                e["_drop"] = True
+            tk = (r.get("ticker") or "").upper()
+            if not r.get("is_market") or not tk:
+                e["_drop"] = True  # not market, or no resolvable ticker
+                rejected_keys.append(_tkey(e.get("text", "")))
                 dropped += 1
                 continue
             e["classified"] = True
             e["is_market"] = True
+            e["explicit"] = bool(r.get("explicit"))
             e["direction"] = r.get("direction", "WATCH")
-            e["primary_ticker"] = (r.get("ticker") or "").upper()
+            e["primary_ticker"] = tk
             e["strength"] = max(0, min(100, int(r.get("strength", 50))))
             e["reason"] = r.get("reason", "")
             if e["primary_ticker"] and e["primary_ticker"] not in e.get("tickers", []):
                 e.setdefault("tickers", []).insert(0, e["primary_ticker"])
             kept += 1
         events = [e for e in events if not e.get("_drop")]
+        if rejected_keys:
+            add_rejected(rejected_keys)
         debug["classified_market"] = kept
         debug["dropped_nonmarket"] = dropped
 

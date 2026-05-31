@@ -139,11 +139,12 @@ def classify_all(posts):
             if not r or not r.get("is_market"):
                 continue
             tk = (r.get("ticker") or "").upper()
-            if not tk:
+            if not r.get("is_market") or not tk:
                 continue
             signals.append({"date": p["date"], "ticker": tk,
                             "direction": r.get("direction", "WATCH"),
                             "strength": max(0, min(100, int(r.get("strength", 50)))),
+                            "explicit": bool(r.get("explicit")),
                             "text": p["text"][:160]})
         print(f"  classified {min(s+cls.BATCH, len(posts))}/{len(posts)}")
     return signals
@@ -273,7 +274,7 @@ def summarize(evaluated, all_signals, missing):
         "tickers_missing_price": sorted(missing),
         "intraday_hours": INTRADAY_H,
         "by_horizon": {}, "by_intraday": {}, "by_direction": {},
-        "by_strength": {}, "by_ticker": {},
+        "by_strength": {}, "by_segment": {}, "by_ticker": {},
     }
     intr = [r for r in evaluated if r.get("intraday") and r["direction"] in ("BUY", "SELL")]
     for h in INTRADAY_H:
@@ -303,6 +304,15 @@ def summarize(evaluated, all_signals, missing):
     for lo, hi in buckets:
         rows = [r for r in evaluated if lo <= r["strength"] < hi and r["direction"] in ("BUY", "SELL")]
         out["by_strength"][f"{lo}-{hi-1}"] = _stats(rows, mid)
+    # segment: single-name (Dell-type) vs broad-market, plus explicit if tagged
+    BROAD = {"SPY", "QQQ", "DIA", "IWM", "VOO", "VTI", "DBC", "USO"}
+    directional = [r for r in evaluated if r["direction"] in ("BUY", "SELL")]
+    out["by_segment"]["single_name"] = _stats([r for r in directional if r["ticker"] not in BROAD], mid)
+    out["by_segment"]["broad_market"] = _stats([r for r in directional if r["ticker"] in BROAD], mid)
+    expl = [r for r in directional if r.get("explicit")]
+    if expl:
+        out["by_segment"]["explicit_endorsement"] = _stats(expl, mid)
+
     # top tickers by count
     from collections import Counter
     cnt = Counter(r["ticker"] for r in evaluated)
@@ -347,6 +357,16 @@ def render_report(r):
     L.append("|---|---|---|---|")
     for k, s in r["by_strength"].items():
         L.append(f"| {k} | {s['n']} | {s['hit_rate']}% | {s['avg_signed_return']}% |")
+    L.append(f"\n## By signal type (signed return at {r['_mid_horizon']}d)")
+    L.append("The key question: do **single-name** calls (the Dell type) beat the **broad-market** macro noise?\n")
+    L.append("| Segment | N | Hit rate | Avg signed return |")
+    L.append("|---|---|---|---|")
+    for k, lbl in [("single_name", "Single-name (specific company)"),
+                   ("broad_market", "Broad market (SPY/QQQ/…)"),
+                   ("explicit_endorsement", "Explicit endorsement")]:
+        s = r["by_segment"].get(k)
+        if s:
+            L.append(f"| {lbl} | {s['n']} | {s['hit_rate']}% | {s['avg_signed_return']}% |")
     L.append("\n## Most-signaled tickers")
     L.append(", ".join(f"{k} ({v})" for k, v in r["by_ticker"].items()))
     L.append("\n---")

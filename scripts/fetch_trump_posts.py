@@ -20,7 +20,7 @@ DBG = os.path.join(ROOT, "data", "_debug_posts.json")
 ARCHIVE = "https://ix.cnn.io/data/truth-social/truth_archive.json"
 
 SCAN = 250    # scan this many most-recent posts for candidates
-CAP = 80      # max non-curated events stored
+CAP = 150          # max non-curated events stored (shared with news+contracts)
 
 # Coarse prefilter — intentionally broad; the LLM rejects false positives.
 MARKET = re.compile(
@@ -45,6 +45,25 @@ def textkey(s):
     return re.sub(r"[^a-z0-9]", "", (s or "").lower())[:120]
 
 
+LEDGER = os.path.join(ROOT, "data", "_seen_keys.json")
+
+
+def load_rejected():
+    """Text keys the classifier already rejected — don't pay to re-classify them."""
+    try:
+        with open(LEDGER) as f:
+            return set(json.load(f).get("rejected", []))
+    except (OSError, ValueError):
+        return set()
+
+
+def add_rejected(keys):
+    cur = load_rejected()
+    cur.update(keys)
+    with open(LEDGER, "w") as f:
+        json.dump({"rejected": list(cur)[-5000:]}, f)
+
+
 def fetch(url):
     req = urllib.request.Request(url, headers={"User-Agent": "trade-tracker/1.0"})
     with urllib.request.urlopen(req, timeout=60) as r:
@@ -56,9 +75,9 @@ def main():
         doc = json.load(f)
     existing = doc.get("events", [])
     existing_urls = {e.get("url") for e in existing}
-    # Collapse reposts: a normalized text key catches the same content posted
-    # under different URLs/timestamps.
-    seen_text = {textkey(e.get("text", "")) for e in existing}
+    # Collapse reposts (same content, different URL/timestamp) and skip anything
+    # the classifier already rejected.
+    seen_text = {textkey(e.get("text", "")) for e in existing} | load_rejected()
 
     try:
         posts = fetch(ARCHIVE)

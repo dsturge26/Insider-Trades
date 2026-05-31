@@ -39,6 +39,12 @@ jobs:
       - name: Fetch Trump's latest Truth Social posts (CNN archive)
         run: python scripts/fetch_trump_posts.py
 
+      - name: Scan news for Trump company endorsements (Google News)
+        run: python scripts/fetch_news.py
+
+      - name: Fetch large federal contract awards (USAspending)
+        run: python scripts/fetch_contracts.py
+
       - name: Classify posts into trade signals (Claude)
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
