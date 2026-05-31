@@ -12,7 +12,7 @@ small sample of strong signals (overfitting risk), backtested != future.
 Outputs data/backtest_results.json (machine) and backtest_report.md (human).
 Run on demand via .github/workflows/backtest.yml. Needs ANTHROPIC_API_KEY.
 """
-import json, os, sys, urllib.request, urllib.error
+import json, os, sys, traceback, urllib.request, urllib.error
 from datetime import datetime, timezone, timedelta
 
 HERE = os.path.dirname(os.path.abspath(__file__))
@@ -24,8 +24,13 @@ import classify_signals as cls  # noqa: E402
 KEY = os.environ.get("ANTHROPIC_API_KEY", "").strip()
 MONTHS = int(os.environ.get("BACKTEST_MONTHS", "24"))
 MAX_POSTS = int(os.environ.get("BACKTEST_MAX_POSTS", "4000"))
+REUSE = os.environ.get("BACKTEST_REUSE", "").lower() in ("1", "true", "yes")
 HORIZONS = [1, 3, 5]          # trading days after the post
 ARCHIVE = "https://ix.cnn.io/data/truth-social/truth_archive.json"
+RAW = os.path.join(ROOT, "data", "backtest_signals_raw.json")
+RESULTS = os.path.join(ROOT, "data", "backtest_results.json")
+REPORT = os.path.join(ROOT, "backtest_report.md")
+DBG = os.path.join(ROOT, "data", "_debug_backtest.json")
 
 # Map classifier tickers to Yahoo symbols; None = skip (no reliable series).
 CRYPTO = {"BTC": "BTC-USD", "ETH": "ETH-USD", "SOL": "SOL-USD",
@@ -100,11 +105,9 @@ def classify_all(posts):
     return signals
 
 
-def main():
-    if not KEY:
-        print("ANTHROPIC_API_KEY required.", file=sys.stderr)
-        return 1
-
+def classify_history():
+    """Fetch archive, prefilter, classify, and PERSIST raw signals immediately
+    so a later reporting bug never costs us the classification again."""
     print("Fetching archive…")
     posts = json.loads(get(ARCHIVE))
     cutoff = (datetime.now(timezone.utc) - timedelta(days=MONTHS * 30)).strftime("%Y-%m-%d")
@@ -128,37 +131,60 @@ def main():
     print(f"{len(cand)} market candidate posts since {cutoff}")
 
     signals = classify_all(cand)
-    print(f"{len(signals)} market signals classified")
+    with open(RAW, "w") as f:
+        json.dump({"generated": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
+                   "months": MONTHS, "signals": signals}, f, indent=1)
+    print(f"{len(signals)} market signals classified → cached to {RAW}")
+    return signals
 
-    # price histories (cached per ticker)
-    hist, missing = {}, set()
-    for sig in signals:
-        tk = sig["ticker"]
-        if tk not in hist and tk not in missing:
-            h = yahoo_history(tk)
-            if h:
-                hist[tk] = h
-            else:
-                missing.add(tk)
 
-    # evaluate
-    evaluated = []
-    for sig in signals:
-        series = hist.get(sig["ticker"])
-        if not series:
-            continue
-        fr = fwd_returns(series, sig["date"][:10])
-        if fr:
-            sig = dict(sig, returns=fr)
-            evaluated.append(sig)
+def main():
+    debug = {"generated": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
+             "months": MONTHS, "reuse": REUSE}
+    try:
+        if REUSE and os.path.exists(RAW):
+            signals = json.load(open(RAW)).get("signals", [])
+            print(f"Reusing {len(signals)} cached signals (no classification cost).")
+        elif not KEY:
+            raise RuntimeError("ANTHROPIC_API_KEY required (or set BACKTEST_REUSE=true with cached signals).")
+        else:
+            signals = classify_history()
+        debug["signals_classified"] = len(signals)
 
-    results = summarize(evaluated, signals, missing)
-    with open(os.path.join(ROOT, "data", "backtest_results.json"), "w") as f:
-        json.dump(results, f, indent=1)
-    with open(os.path.join(ROOT, "backtest_report.md"), "w") as f:
-        f.write(render_report(results))
-    print(f"Done: {len(evaluated)} signals evaluated. See backtest_report.md")
-    return 0
+        hist, missing = {}, set()
+        for sig in signals:
+            tk = sig["ticker"]
+            if tk and tk not in hist and tk not in missing:
+                h = yahoo_history(tk)
+                if h:
+                    hist[tk] = h
+                else:
+                    missing.add(tk)
+
+        evaluated = []
+        for sig in signals:
+            series = hist.get(sig["ticker"])
+            if not series:
+                continue
+            fr = fwd_returns(series, sig["date"][:10])
+            if fr:
+                evaluated.append(dict(sig, returns=fr))
+        debug["signals_evaluated"] = len(evaluated)
+
+        results = summarize(evaluated, signals, missing)
+        with open(RESULTS, "w") as f:
+            json.dump(results, f, indent=1)
+        with open(REPORT, "w") as f:
+            f.write(render_report(results))
+        debug["status"] = "ok"
+        print(f"Done: {len(evaluated)} signals evaluated. See backtest_report.md")
+    except Exception:
+        debug["status"] = "error"
+        debug["traceback"] = traceback.format_exc()
+        print(debug["traceback"], file=sys.stderr)
+    with open(DBG, "w") as f:
+        json.dump(debug, f, indent=1)
+    return 0  # never fail the job — artifacts + debug are committed either way
 
 
 def _stats(rows, h):
