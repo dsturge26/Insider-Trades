@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-05-31T18:17:56Z",
+ "last_updated": "2026-05-31T19:49:38Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-05-31T18:29:36Z",
+   "platform": "News",
+   "text": "Trump praised IBM's 'legend' CEO, government floated a $1B quantum award \u2014 is the stock still a 'very nice price'? - moneywise.com \u2014 Trump praised IBM's 'legend' CEO, government floated a $1B quantum award \u2014 is the stock still a 'very nice price'?\u00a0\u00a0moneywise.com",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5sZG5OT19NSXF0XzNMS1lOTGtTYkUwOW5zZGNQQnJxWDdUeHhzelREMlQteWtKODhlS1VYSWtTRUZEUGJQU1h1QUN3eGNXaXR0LUNnVDJIWkhtZnhSdTZXNndWeER1V2F0Umd6dnhuS0lMZGJvWHF5RQ?oc=5",
+   "tickers": [
+    "IBM"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "IBM",
+   "strength": 45,
+   "reason": "Trump praised IBM CEO as 'legend' and government floated $1B quantum contract award to IBM; positive signal but not explicit buy directive"
+  },
   {
    "date": "2026-05-31T14:15:00Z",
    "platform": "News",
@@ -33,6 +49,22 @@
    "primary_ticker": "AAPL",
    "strength": 50,
    "reason": "Trump publicly praises Tim Cook as 'Incredible Guy' following CEO departure news; modest tailwind for Apple."
+  },
+  {
+   "date": "2026-05-31T13:19:59Z",
+   "platform": "News",
+   "text": "Dell exploded 255% since Trump told Americans to 'buy a Dell' \u2014 and his account held it before a $9.7B Pentagon deal - moneywise.com \u2014 Dell exploded 255% since Trump told Americans to 'buy a Dell' \u2014 and his account held it before a $9.7B Pentagon deal\u00a0\u00a0moneywise.com",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdDlBaHRuVVRGY0xPOTE3NU1YNlM1eC1uZUsyNnlHbWVkT2JHNWtnZ1Rjb1Q3TDBjWlRiU3FqeDQzaEFINmhfLW14SDd5d1N0RHFYR0dhdXRDTVlsZXp0NFQ2Mk9TdDZhLWJvdkp1UUxseUpQLU1zR29qUFhYMXE0VTFlOA?oc=5",
+   "tickers": [
+    "DELL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "DELL",
+   "strength": 95,
+   "reason": "Trump explicitly told Americans to 'buy a Dell'; followed by $9.7B Pentagon contract award to Dell"
   },
   {
    "date": "2026-05-31T04:04:49Z",
@@ -241,6 +273,22 @@
    "primary_ticker": "DELL",
    "strength": 50,
    "reason": "Pentagon $9B Dell deal raises conflict-of-interest concerns; uncertain net market effect."
+  },
+  {
+   "date": "2026-05-29T16:49:38Z",
+   "platform": "News",
+   "text": "Dell lands $10 billion contract weeks after Trump\u2019s $1 million-to-$5 million stock purchase - MSN \u2014 Dell lands $10 billion contract weeks after Trump\u2019s $1 million-to-$5 million stock purchase\u00a0\u00a0MSN",
+   "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxQNmZJaWhpSl9uVDFJc1RJcFJwdUR3cDQ5MldLZHRIcmZNTndNc3FkcGFQZ0g3cHVQOGMzcjZoVl9GOTBWWnk3enYzNEQwdnI0LUNTWFB5MjVsZ1dBMkphUUxaLUpXeVdaaWhaSTBQWHBXLVMwblFiZmlLN0JnMkZhSGZmUWRHOXRMSmVLMGZaZks0akwyTWwwU3kxa19FUjRJT1h0dEZaNlVKRFVTNld1UzlMQTNBa0xaTFJRVzBEZW5TbmZvNXNBZTJiQVNnZUpJeWpBZVp2bHcyRVM3V0hLb3R1Z0NkU1plX2Rtc2E0b3RncXhJYkpFOGRNRE1KUVYzNGpaQWUxd2VEYmtfT3o4QW1TRFNCUFd2X2ZKYzVOMU1jMDQ2ajF6N1N4QTRuRDdiQ2lPa09Gc3ZnSThWSlNHeHZYNGNCMHJLcUNVUzdpQ0txWV9tUEFJOGgxY2N5NE5wVFMxSTZ2RDNJZw?oc=5",
+   "tickers": [
+    "DELL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "DELL",
+   "strength": 85,
+   "reason": "Trump purchased $1-5M in Dell stock; Dell then landed $10B contract weeks later; explicit insider-like positioning before major contract"
   },
   {
    "date": "2026-05-29T16:35:43Z",
@@ -713,6 +761,23 @@
    "url": "https://www.nasdaq.com/market-activity/stocks/djt"
   },
   {
+   "date": "2023-05-18T12:00:00Z",
+   "platform": "Federal contract",
+   "text": "BLUE ORIGIN MANUFACTURING, LLC was awarded a $1.7B federal contract from National Aeronautics and Space Administration.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_80MSFC23CA014_8000_-NONE-_-NONE-",
+   "tickers": [
+    "BE"
+   ],
+   "contract_amount": 1.74,
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "BE",
+   "strength": 75,
+   "reason": "Blue Origin Manufacturing awarded $1.7B NASA contract; bullish for parent company Blue Origin (Berkshire subsidiary, ticker BE proxy)."
+  },
+  {
    "date": "2022-08-31T12:00:00Z",
    "platform": "Federal contract",
    "text": "MAXIMUS FEDERAL SERVICES, INC. was awarded a $2.8B federal contract from Department of Health and Human Services.",
@@ -728,6 +793,23 @@
    "primary_ticker": "MMS",
    "strength": 75,
    "reason": "MAXIMUS FEDERAL SERVICES awarded $2.8B HHS contract; large federal award is bullish for publicly-traded contractor."
+  },
+  {
+   "date": "2021-07-01T12:00:00Z",
+   "platform": "Federal contract",
+   "text": "HARRIS CORPORATION was awarded a $2.1B federal contract from Department of Transportation.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_693KA821F00222_6920_DTFA0102D03006_6920",
+   "tickers": [
+    "HRS"
+   ],
+   "contract_amount": 2.07,
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "HRS",
+   "strength": 70,
+   "reason": "Harris Corporation awarded $2.1B Department of Transportation federal contract."
   },
   {
    "date": "2020-05-13T12:00:00Z",
@@ -781,6 +863,23 @@
    "reason": "$14.8B federal contract to Fluor for marine propulsion; bullish for contractor"
   },
   {
+   "date": "2017-12-01T12:00:00Z",
+   "platform": "Federal contract",
+   "text": "AMENTUM TECHNOLOGY, INC. was awarded a $1.9B federal contract from National Aeronautics and Space Administration.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_80MSFC18C0011_8000_-NONE-_-NONE-",
+   "tickers": [
+    "AMENTUM"
+   ],
+   "contract_amount": 1.93,
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "AMENTUM",
+   "strength": 70,
+   "reason": "Amentum Technology Inc awarded $1.9B NASA federal contract; bullish for awardee."
+  },
+  {
    "date": "2015-11-01T12:00:00Z",
    "platform": "Federal contract",
    "text": "AEROJET ROCKETDYNE OF DE, INC was awarded a $3.3B federal contract from National Aeronautics and Space Administration.",
@@ -830,6 +929,23 @@
    "primary_ticker": "LDOS",
    "strength": 78,
    "reason": "Leidos awarded $3.1B NSF contract; large federal research & technology services win for publicly-traded contractor."
+  },
+  {
+   "date": "2008-12-04T12:00:00Z",
+   "platform": "Federal contract",
+   "text": "LOCKHEED MARTIN CORP was awarded a $2.0B federal contract from National Aeronautics and Space Administration.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_NNG09HR00C_8000_-NONE-_-NONE-",
+   "tickers": [
+    "LMT"
+   ],
+   "contract_amount": 2.03,
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "LMT",
+   "strength": 75,
+   "reason": "Lockheed Martin awarded $2.0B NASA federal contract; bullish for defense contractor."
   },
   {
    "date": "2007-09-01T12:00:00Z",
