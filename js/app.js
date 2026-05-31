@@ -80,6 +80,7 @@ function renderSignals() {
       ${e.market_reaction ? `<div class="react">📊 ${esc(e.market_reaction)}</div>` : ''}
       <div class="tagrow">
         ${sig ? `<span class="tag sig-${esc(sig)}">${esc(sig)}</span>` : ''}
+        ${e.is_market ? '<span class="tag sig-bullish">📈 market</span>' : ''}
         ${tags}
         ${e.url ? `<a class="tag" href="${esc(e.url)}" target="_blank" rel="noopener">source ↗</a>` : ''}
       </div>
