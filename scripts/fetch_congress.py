@@ -126,6 +126,17 @@ def main():
         print("No usable rows from FMP — keeping seed data.", file=sys.stderr)
         return 0
 
+    # The free tier only serves page 0 (~25 rows/chamber per run), so merge with
+    # what we already saved. Over daily runs the history accumulates instead of
+    # being capped at one page.
+    try:
+        with open(OUT) as f:
+            prev = json.load(f)
+        if not prev.get("is_sample"):
+            rows = prev.get("trades", []) + rows
+    except (OSError, ValueError):
+        pass
+
     seen, unique = set(), []
     for r in rows:
         k = (r["date"], r["politician"], r["ticker"], r["type"], r["amount"], r["disclosure_url"])

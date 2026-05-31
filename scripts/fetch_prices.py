@@ -25,6 +25,31 @@ def _get(url):
         return r.read()
 
 
+def from_yahoo(ticker):
+    """Free, no key, uniform across symbols — the most reliable source from CI."""
+    url = (f"https://query1.finance.yahoo.com/v8/finance/chart/{ticker}"
+           f"?range=3mo&interval=1d")
+    try:
+        data = json.loads(_get(url).decode("utf-8", "replace"))
+    except urllib.error.HTTPError as e:
+        return None, f"HTTP {e.code}"
+    except (urllib.error.URLError, ValueError, TimeoutError) as e:
+        return None, f"ERR {e}"
+    try:
+        res = data["chart"]["result"][0]
+        ts = res["timestamp"]
+        closes = res["indicators"]["quote"][0]["close"]
+    except (KeyError, IndexError, TypeError):
+        return None, "no data"
+    out = []
+    for t, c in zip(ts, closes):
+        if c is None:
+            continue
+        out.append({"date": datetime.utcfromtimestamp(t).strftime("%Y-%m-%d"),
+                    "close": round(float(c), 2)})
+    return (out[-DAYS:], "ok") if out else (None, "empty")
+
+
 def from_fmp(ticker):
     if not KEY:
         return None, "no key"
@@ -68,8 +93,11 @@ def main():
         doc = json.load(f)
     for t in doc.get("tickers", []):
         prices, src = None, ""
-        prices, st = from_fmp(t["ticker"])
-        src = f"fmp:{st}"
+        prices, st = from_yahoo(t["ticker"])
+        src = f"yahoo:{st}"
+        if not prices:
+            prices, st = from_fmp(t["ticker"])
+            src += f" | fmp:{st}"
         if not prices:
             sym = t.get("stooq") or (t["ticker"].lower() + ".us")
             prices, st = from_stooq(sym)
