@@ -257,6 +257,7 @@ def main():
                     missing.add(tk)
 
         evaluated = []
+        spy = hist.get("SPY") or yahoo_history("SPY")   # market benchmark for alpha
         for sig in signals:
             series = hist.get(sig["ticker"])
             if not series:
@@ -265,6 +266,11 @@ def main():
             if not fr:
                 continue
             rec = dict(sig, returns=fr)
+            if spy:  # excess return vs SPY over the same window = alpha
+                spy_fr = fwd_returns(spy, sig["date"][:10]) or {}
+                ex = {h: fr[h] - spy_fr[h] for h in fr if h in spy_fr}
+                if ex:
+                    rec["excess"] = ex
             seh = hist_h.get(sig["ticker"])
             if seh:
                 ir = intraday_returns(seh, post_epoch(sig["date"]))
@@ -363,7 +369,10 @@ def summarize(evaluated, all_signals, missing):
     # per-source leaderboard — the headline: which source actually has edge?
     sources = sorted({r.get("source", "Trump") for r in directional})
     for src in sources:
-        out["by_source"][src] = _stats([r for r in directional if r.get("source", "Trump") == src], mid)
+        rows = [r for r in directional if r.get("source", "Trump") == src]
+        s = _stats(rows, mid)
+        s["alpha_vs_spy"] = _stats(rows, mid, "excess")["avg_signed_return"]
+        out["by_source"][src] = s
 
     # top tickers by count
     from collections import Counter
@@ -410,11 +419,11 @@ def render_report(r):
     for k, s in r["by_strength"].items():
         L.append(f"| {k} | {s['n']} | {s['hit_rate']}% | {s['avg_signed_return']}% |")
     L.append(f"\n## 🏆 Per-source leaderboard (signed return at {r['_mid_horizon']}d)")
-    L.append("The headline: which source's signals actually beat a coin flip? (WSB, congress, insiders aren't here — no free history to backtest.)\n")
-    L.append("| Source | N | Hit rate | Avg signed return |")
-    L.append("|---|---|---|---|")
-    for src, s in sorted(r["by_source"].items(), key=lambda kv: (kv[1]["avg_signed_return"] or -99), reverse=True):
-        L.append(f"| {src} | {s['n']} | {s['hit_rate']}% | {s['avg_signed_return']}% |")
+    L.append("**Alpha vs SPY** = return after subtracting the market's move over the same window — this is the real test (strips out 'the market/sector just went up'). (WSB, congress, insiders aren't here — no free history to backtest.)\n")
+    L.append("| Source | N | Hit rate | Avg signed return | **Alpha vs SPY** |")
+    L.append("|---|---|---|---|---|")
+    for src, s in sorted(r["by_source"].items(), key=lambda kv: (kv[1].get("alpha_vs_spy") or -99), reverse=True):
+        L.append(f"| {src} | {s['n']} | {s['hit_rate']}% | {s['avg_signed_return']}% | {s.get('alpha_vs_spy')}% |")
 
     L.append(f"\n## By signal type (signed return at {r['_mid_horizon']}d)")
     L.append("The key question: do **single-name** calls (the Dell type) beat the **broad-market** macro noise?\n")
