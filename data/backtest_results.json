@@ -1,5 +1,5 @@
 {
- "generated": "2026-05-31T15:38:59Z",
+ "generated": "2026-05-31T16:55:59Z",
  "months": 24,
  "model": "claude-haiku-4-5",
  "horizons": [
@@ -7,15 +7,24 @@
   3,
   5
  ],
- "signals_classified": 800,
- "signals_evaluated": 780,
- "with_intraday": 780,
+ "signals_classified": 1016,
+ "signals_evaluated": 987,
+ "with_intraday": 987,
  "tickers_missing_price": [
-  "GOYA",
-  "HYMTF",
+  "AJRD",
+  "BAE",
+  "CBS",
+  "DXY",
+  "GDW",
+  "GYO",
+  "HRS",
+  "PACCAR",
+  "SPACE",
   "TRUMP",
+  "TXVG",
   "X",
-  "XLX"
+  "XLX",
+  "XMM"
  ],
  "intraday_hours": [
   1,
@@ -23,141 +32,175 @@
  ],
  "by_horizon": {
   "1": {
-   "n": 658,
-   "hit_rate": 50.6,
-   "avg_signed_return": -0.0,
-   "avg_raw_return": 0.1,
-   "baseline_long_return": 0.07
+   "n": 868,
+   "hit_rate": 54.3,
+   "avg_signed_return": 0.07,
+   "avg_raw_return": 0.13,
+   "baseline_long_return": 0.11
   },
   "3": {
-   "n": 656,
-   "hit_rate": 50.6,
-   "avg_signed_return": 0.03,
-   "avg_raw_return": 0.27,
-   "baseline_long_return": 0.22
+   "n": 867,
+   "hit_rate": 54.6,
+   "avg_signed_return": 0.31,
+   "avg_raw_return": 0.47,
+   "baseline_long_return": 0.43
   },
   "5": {
-   "n": 653,
-   "hit_rate": 51.9,
-   "avg_signed_return": -0.07,
-   "avg_raw_return": 0.12,
-   "baseline_long_return": 0.12
+   "n": 862,
+   "hit_rate": 55.5,
+   "avg_signed_return": 0.21,
+   "avg_raw_return": 0.33,
+   "baseline_long_return": 0.25
   }
  },
  "by_intraday": {
   "1": {
-   "n": 658,
-   "hit_rate": 18.7,
+   "n": 868,
+   "hit_rate": 14.9,
    "avg_signed_return": -0.01,
-   "avg_raw_return": 0.01,
-   "baseline_long_return": 0.02
+   "avg_raw_return": 0.0,
+   "baseline_long_return": 0.0
   },
   "4": {
-   "n": 658,
-   "hit_rate": 23.6,
-   "avg_signed_return": 0.02,
-   "avg_raw_return": 0.03,
-   "baseline_long_return": 0.02
+   "n": 868,
+   "hit_rate": 19.8,
+   "avg_signed_return": -0.01,
+   "avg_raw_return": -0.0,
+   "baseline_long_return": -0.0
   }
  },
  "by_direction": {
   "1": {
    "BUY": {
-    "n": 502,
-    "hit_rate": 55.0,
-    "avg_signed_return": 0.07,
-    "avg_raw_return": 0.07
+    "n": 708,
+    "hit_rate": 58.6,
+    "avg_signed_return": 0.12,
+    "avg_raw_return": 0.12
    },
    "SELL": {
-    "n": 156,
-    "hit_rate": 36.5,
-    "avg_signed_return": -0.23,
-    "avg_raw_return": 0.23
+    "n": 160,
+    "hit_rate": 35.0,
+    "avg_signed_return": -0.16,
+    "avg_raw_return": 0.16
    },
    "WATCH": {
-    "n": 122,
-    "avg_abs_move": 1.04
+    "n": 119,
+    "avg_abs_move": 0.85
    }
   },
   "3": {
    "BUY": {
-    "n": 500,
-    "hit_rate": 56.6,
-    "avg_signed_return": 0.2,
-    "avg_raw_return": 0.2
+    "n": 707,
+    "hit_rate": 59.8,
+    "avg_signed_return": 0.48,
+    "avg_raw_return": 0.48
    },
    "SELL": {
-    "n": 156,
-    "hit_rate": 31.4,
-    "avg_signed_return": -0.51,
-    "avg_raw_return": 0.51
+    "n": 160,
+    "hit_rate": 31.2,
+    "avg_signed_return": -0.44,
+    "avg_raw_return": 0.44
    },
    "WATCH": {
-    "n": 122,
-    "avg_abs_move": 1.55
+    "n": 119,
+    "avg_abs_move": 1.71
    }
   },
   "5": {
    "BUY": {
-    "n": 497,
-    "hit_rate": 54.9,
-    "avg_signed_return": 0.04,
-    "avg_raw_return": 0.04
+    "n": 703,
+    "hit_rate": 59.2,
+    "avg_signed_return": 0.33,
+    "avg_raw_return": 0.33
    },
    "SELL": {
-    "n": 156,
-    "hit_rate": 42.3,
-    "avg_signed_return": -0.4,
-    "avg_raw_return": 0.4
+    "n": 159,
+    "hit_rate": 39.0,
+    "avg_signed_return": -0.32,
+    "avg_raw_return": 0.32
    },
    "WATCH": {
-    "n": 117,
-    "avg_abs_move": 2.32
+    "n": 115,
+    "avg_abs_move": 2.78
    }
   }
  },
  "by_strength": {
   "0-39": {
-   "n": 36,
-   "hit_rate": 52.8,
-   "avg_signed_return": 0.07,
-   "avg_raw_return": 0.1
+   "n": 83,
+   "hit_rate": 43.4,
+   "avg_signed_return": -0.34,
+   "avg_raw_return": 0.31
   },
   "40-59": {
-   "n": 193,
-   "hit_rate": 49.7,
-   "avg_signed_return": -0.02,
+   "n": 285,
+   "hit_rate": 56.1,
+   "avg_signed_return": 0.18,
    "avg_raw_return": 0.33
   },
   "60-79": {
-   "n": 379,
-   "hit_rate": 52.8,
-   "avg_signed_return": 0.06,
-   "avg_raw_return": 0.22
+   "n": 345,
+   "hit_rate": 49.9,
+   "avg_signed_return": 0.2,
+   "avg_raw_return": 0.43
   },
   "80-100": {
-   "n": 48,
-   "hit_rate": 35.4,
-   "avg_signed_return": 0.02,
-   "avg_raw_return": 0.61
+   "n": 154,
+   "hit_rate": 68.2,
+   "avg_signed_return": 1.15,
+   "avg_raw_return": 0.93
+  }
+ },
+ "by_segment": {
+  "single_name": {
+   "n": 433,
+   "hit_rate": 55.2,
+   "avg_signed_return": 0.43,
+   "avg_raw_return": 0.46
+  },
+  "broad_market": {
+   "n": 434,
+   "hit_rate": 53.9,
+   "avg_signed_return": 0.2,
+   "avg_raw_return": 0.49
+  },
+  "explicit_endorsement": {
+   "n": 228,
+   "hit_rate": 62.7,
+   "avg_signed_return": 0.76,
+   "avg_raw_return": 0.86
+  }
+ },
+ "by_source": {
+  "Contract": {
+   "n": 174,
+   "hit_rate": 67.8,
+   "avg_signed_return": 1.02,
+   "avg_raw_return": 1.02
+  },
+  "Trump": {
+   "n": 693,
+   "hit_rate": 51.2,
+   "avg_signed_return": 0.14,
+   "avg_raw_return": 0.34
   }
  },
  "by_ticker": {
-  "SPY": 482,
-  "XLE": 112,
-  "USO": 37,
-  "XAR": 18,
-  "COIN": 11,
-  "F": 10,
-  "BTC-USD": 7,
-  "TSLA": 7,
-  "AAPL": 7,
-  "DJT": 5,
-  "QQQ": 5,
-  "NVDA": 5,
-  "BA": 5,
-  "DBC": 5,
-  "UNH": 5
+  "SPY": 514,
+  "XLE": 145,
+  "LMT": 60,
+  "BA": 41,
+  "RTX": 33,
+  "HII": 17,
+  "USO": 15,
+  "XAR": 14,
+  "TSLA": 12,
+  "BTC-USD": 10,
+  "AAPL": 9,
+  "NOC": 8,
+  "COIN": 7,
+  "QQQ": 6,
+  "FXI": 6
  },
  "_mid_horizon": 3
 }
