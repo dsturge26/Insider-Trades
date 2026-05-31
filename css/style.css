@@ -55,6 +55,12 @@ input[type=search]{min-width:240px;flex:1}
 .card.dir-buy{border-left-color:var(--green)}
 .card.dir-sell{border-left-color:var(--red)}
 .card.dir-watch{border-left-color:var(--accent)}
+details.card{padding:0}
+details.card>summary{list-style:none;cursor:pointer;padding:.9rem 1rem;border-radius:8px;outline:none}
+details.card>summary::-webkit-details-marker{display:none}
+details.card .cardbody{padding:0 1rem 1rem}
+.chev{color:var(--muted);transition:transform .15s;font-size:.9rem}
+details[open]>summary .chev{transform:rotate(90deg)}
 .sighead{display:flex;align-items:center;gap:.6rem;flex-wrap:wrap;margin-bottom:.3rem}
 .badge{font-size:.8rem;font-weight:800;letter-spacing:.03em;padding:.2rem .55rem;border-radius:6px}
 .badge.buy{background:rgba(39,194,129,.18);color:var(--green)}
@@ -68,6 +74,20 @@ input[type=search]{min-width:240px;flex:1}
 .pill{display:inline-block;font-size:.7rem;font-weight:700;padding:.1rem .45rem;border-radius:4px}
 .pill.buy{background:rgba(39,194,129,.15);color:var(--green)}
 .pill.sell{background:rgba(239,91,107,.15);color:var(--red)}
+
+/* Summary snapshot */
+.sumgroup{margin-bottom:1.1rem}
+.sumhead{font-weight:700;font-size:1rem;padding:.4rem .6rem;border-radius:8px;margin-bottom:.4rem;border-left:4px solid var(--line)}
+.sumhead.buy{border-left-color:var(--green);background:rgba(39,194,129,.08)}
+.sumhead.sell{border-left-color:var(--red);background:rgba(239,91,107,.08)}
+.sumhead.watch{border-left-color:var(--accent);background:rgba(245,179,1,.08)}
+.sumrow{display:flex;align-items:center;gap:.6rem;padding:.5rem .6rem;border-bottom:1px solid var(--line);font-size:.9rem}
+.sumrow:hover{background:var(--panel)}
+.sumtk{font-weight:800;color:#fff;min-width:64px}
+.sumstr{white-space:nowrap;font-size:.8rem;color:var(--muted);min-width:74px}
+.sumreason{flex:1;color:var(--txt);overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.sumsrc{color:var(--blue);text-decoration:none;font-size:1rem}
+@media(max-width:600px){.sumreason{white-space:normal}}
 
 .rank-list{display:flex;flex-direction:column;gap:.6rem}
 .rank{display:flex;align-items:center;gap:.9rem;background:var(--panel);border:1px solid var(--line);

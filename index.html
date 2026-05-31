@@ -25,15 +25,23 @@
 </div>
 
 <nav class="tabs">
-  <button class="tab active" data-tab="signals">🚨 Trump Signals</button>
+  <button class="tab active" data-tab="summary">📊 Summary</button>
+  <button class="tab" data-tab="signals">🚨 Trump Signals</button>
   <button class="tab" data-tab="topbuys">🔥 Top Buys</button>
   <button class="tab" data-tab="tickers">🎯 Trump Tickers</button>
   <button class="tab" data-tab="trades">📋 All Congress Trades</button>
 </nav>
 
 <main>
+  <!-- SUMMARY -->
+  <section class="panel active" id="summary">
+    <h2>At a glance</h2>
+    <p class="muted">The quick read on Trump's latest market-moving posts — what to buy, sell, or watch. Tap a row for the post and reasoning.</p>
+    <div id="summary-content"></div>
+  </section>
+
   <!-- TRUMP SIGNALS -->
-  <section class="panel active" id="signals">
+  <section class="panel" id="signals">
     <h2>Market-moving Trump statements</h2>
     <p class="muted" id="signals-howto"></p>
     <div id="signals-list" class="cards"></div>
