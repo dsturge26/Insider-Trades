@@ -112,7 +112,8 @@ function renderSummary() {
 
 function renderSignals() {
   const wrap = $('#signals-list');
-  $('#signals-howto').textContent = (state.signals && state.signals.how_to_read) || '';
+  $('#signals-howto').textContent =
+    "AI's read of what each public post implies for a ticker. A 2-year backtest found these signals don't beat buy-and-hold and the strength score doesn't predict returns — so this is for awareness, not trading. Not financial advice.";
   const days = +(($('#sig-window') || {}).value || 100000);
   const sort = (($('#sig-sort') || {}).value || 'strength');
   const cutoff = Date.now() - days * 86400000;

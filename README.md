@@ -9,7 +9,7 @@ A personal dashboard that surfaces **public** market-moving signals in one place
 
 It's a **static site** (perfect for GitHub Pages) fed by a **scheduled GitHub Action** that fetches fresh data and commits it as JSON. No server to run, no keys exposed in the browser.
 
-> ⚠️ **Read this.** Everything here is *public record* — Trump's public posts and legally-required disclosures. Acting on public information is legal; this is **not** insider trading and **not** a tip service. Disclosures lag the actual trades by **30–45 days**. **This is not financial advice.** Do your own research.
+> ⚠️ **Read this — it's a tracker, not a strategy.** Everything here is *public record* — Trump's posts and legally-required disclosures. A **2-year backtest** of the AI Buy/Sell/Watch signals (`scripts/backtest.py`) found **no edge over simply buying and holding**: direction was ~50/50, the signals underperformed the buy-and-hold baseline, SELL calls were anti-predictive, and the strength score did **not** correlate with returns. So the tags mean *"what the post implies,"* not a recommendation. Disclosures also lag real trades by **30–45 days**. **This is not financial advice.** Do your own research.
 
 ---
 
