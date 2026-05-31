@@ -1,0 +1,49 @@
+name: Update data
+
+# Refreshes the JSON the dashboard reads, then commits it back to the branch.
+# - Congress trades: live when the FMP_API_KEY secret is set (otherwise seed data is kept).
+# - Trump ticker prices: always refreshed from Stooq (no key needed).
+on:
+  schedule:
+    - cron: "0 11 * * *"   # daily ~11:00 UTC
+  workflow_dispatch: {}     # let you run it on demand from the Actions tab
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-data
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch congressional trades (FMP)
+        env:
+          FMP_API_KEY: ${{ secrets.FMP_API_KEY }}
+        run: python scripts/fetch_congress.py
+
+      - name: Refresh Trump-ticker prices (Stooq)
+        run: python scripts/fetch_prices.py
+
+      - name: Stamp freshness metadata
+        run: python scripts/stamp_meta.py
+
+      - name: Commit refreshed data
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/*.json
+          if git diff --cached --quiet; then
+            echo "No data changes."
+          else
+            git commit -m "chore: refresh trade + price data [skip ci]"
+            git push
+          fi

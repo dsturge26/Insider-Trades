@@ -1,0 +1,41 @@
+{
+ "last_updated": "2026-05-31T13:58:24Z",
+ "note": "Trump-linked / 'Trump trade' tickers to watch. Prices are refreshed by the GitHub Action (Stooq, no key required). Empty 'prices' until the Action runs.",
+ "tickers": [
+  {
+   "ticker": "DJT",
+   "company": "Trump Media & Technology Group",
+   "why": "Trump is majority owner. The purest 'Trump sentiment' stock \u2014 moves on his political/legal/business news.",
+   "stooq": "djt.us",
+   "prices": []
+  },
+  {
+   "ticker": "SPY",
+   "company": "S&P 500 ETF",
+   "why": "Broad market. Trump policy/tariff posts move the whole index \u2014 the cleanest way to play a 'great time to buy' signal.",
+   "stooq": "spy.us",
+   "prices": []
+  },
+  {
+   "ticker": "QQQ",
+   "company": "Nasdaq-100 ETF",
+   "why": "Tech-heavy index; amplifies the same macro/tariff swings as SPY.",
+   "stooq": "qqq.us",
+   "prices": []
+  },
+  {
+   "ticker": "PLTR",
+   "company": "Palantir",
+   "why": "Frequent congressional buy and a 'government contracts / Trump era' favorite.",
+   "stooq": "pltr.us",
+   "prices": []
+  },
+  {
+   "ticker": "XAR",
+   "company": "Aerospace & Defense ETF",
+   "why": "Defense names rally on conflict/spending headlines tied to administration policy.",
+   "stooq": "xar.us",
+   "prices": []
+  }
+ ]
+}

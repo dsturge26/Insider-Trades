@@ -1,0 +1,37 @@
+{
+ "last_updated": "2026-05-31T00:00:00Z",
+ "note": "Curated log of PUBLIC, market-moving Trump statements. Each entry is sourced and verifiable. This is the same public info anyone can act on legally. The Action can append new entries automatically. NOT financial advice.",
+ "events": [
+  {
+   "date": "2025-04-09T13:37:00Z",
+   "platform": "Truth Social",
+   "text": "THIS IS A GREAT TIME TO BUY!!! DJT",
+   "context": "Posted the morning of April 9, 2025 (alongside an earlier 'BE COOL! Everything is going to work out well.'). Roughly four hours later Trump announced a 90-day pause on most 'reciprocal' tariffs.",
+   "market_reaction": "S&P 500 surged ~9.5% — its best single day since 2008. Nasdaq +12%. Drew calls from congressional Democrats for an insider-trading probe.",
+   "tickers": ["SPY", "QQQ", "DJT"],
+   "signal": "bullish",
+   "url": "https://truthsocial.com/@realDonaldTrump"
+  },
+  {
+   "date": "2025-01-17T22:00:00Z",
+   "platform": "Truth Social / X",
+   "text": "My NEW Official Trump Meme is HERE! ... $TRUMP",
+   "context": "Trump announced the official $TRUMP memecoin (Solana) days before his inauguration.",
+   "market_reaction": "$TRUMP rocketed to a multi-billion-dollar market cap within 48 hours, then gave back most gains. A $MELANIA token followed and crashed.",
+   "tickers": ["TRUMP", "SOL"],
+   "signal": "speculative",
+   "url": "https://truthsocial.com/@realDonaldTrump"
+  },
+  {
+   "date": "2024-03-26T13:30:00Z",
+   "platform": "Market event",
+   "text": "Trump Media & Technology Group begins trading as DJT (Nasdaq) after DWAC SPAC merger.",
+   "context": "Truth Social's parent went public. Trump is the majority shareholder.",
+   "market_reaction": "DJT spiked on debut then stayed extremely volatile and headline-driven; moves heavily on Trump political/legal news.",
+   "tickers": ["DJT"],
+   "signal": "volatile",
+   "url": "https://www.nasdaq.com/market-activity/stocks/djt"
+  }
+ ],
+ "how_to_read": "When Trump signals 'buy' or announces a policy reversal (e.g. pausing tariffs), broad-market ETFs (SPY/QQQ) and Trump-linked names (DJT) tend to spike. The edge is speed + discipline, and remembering the move can reverse on the next post."
+}
