@@ -57,7 +57,14 @@ Ticker mapping guidance:
 
 Tariff ANNOUNCED/raised is usually bearish (SELL, market down). Tariff PAUSED/cut \
 or a trade DEAL is usually bullish (BUY). A "great time to buy" type post is BUY, \
-high strength. Be decisive but honest; use WATCH when genuinely unsure."""
+high strength. Be decisive but honest; use WATCH when genuinely unsure.
+
+IMPORTANT — reject noise: campaign endorsements, rally speeches, and political \
+attacks that only contain boilerplate slogans ("energy dominance", "grow the \
+economy", "America First") with NO specific, near-term market catalyst are NOT \
+market signals — set is_market=false. Only set is_market=true when there is a \
+concrete, tradable read (a policy action, a deal, a named company/sector \
+catalyst, an explicit market call)."""
 
 SCHEMA = {
     "type": "object",
@@ -130,8 +137,8 @@ def price_since(ticker, post_iso):
         if base is None and day >= post_day:
             base = (day, round(float(c), 2))
         last = (day, round(float(c), 2))
-    if not base or not last or base[1] == 0:
-        return None
+    if not base or not last or base[1] == 0 or base[0] == last[0]:
+        return None  # no trading time elapsed since the post yet
     pct = round((last[1] - base[1]) / base[1] * 100, 1)
     return {"ticker": ticker, "pct": pct, "base": base[1], "last": last[1],
             "base_date": base[0], "last_date": last[1] and last[0]}
@@ -210,6 +217,28 @@ def main():
             e["price_since"] = ps
         n += 1
     debug["price_updates"] = n
+
+    # Collapse any reposts already stored (same normalized text); keep curated,
+    # and for live dups keep the highest-engagement copy.
+    import re as _re
+    def tkey(s):
+        return _re.sub(r"[^a-z0-9]", "", (s or "").lower())[:120]
+    best = {}
+    deduped = []
+    for e in events:
+        if e.get("curated"):
+            deduped.append(e)
+            continue
+        k = tkey(e.get("text", ""))
+        prev = best.get(k)
+        if prev is None:
+            best[k] = e
+            deduped.append(e)
+        elif (e.get("engagement", 0) or 0) > (prev.get("engagement", 0) or 0):
+            deduped[deduped.index(prev)] = e
+            best[k] = e
+    events = deduped
+    debug["after_dedupe"] = len(events)
 
     events.sort(key=lambda e: e.get("date", ""), reverse=True)
     doc["events"] = events

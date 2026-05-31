@@ -40,6 +40,11 @@ def strip_html(s):
     return html.unescape(TAGS.sub("", s or "")).strip()
 
 
+def textkey(s):
+    """Normalized key for de-duping reposts of the same content."""
+    return re.sub(r"[^a-z0-9]", "", (s or "").lower())[:120]
+
+
 def fetch(url):
     req = urllib.request.Request(url, headers={"User-Agent": "trade-tracker/1.0"})
     with urllib.request.urlopen(req, timeout=60) as r:
@@ -51,6 +56,9 @@ def main():
         doc = json.load(f)
     existing = doc.get("events", [])
     existing_urls = {e.get("url") for e in existing}
+    # Collapse reposts: a normalized text key catches the same content posted
+    # under different URLs/timestamps.
+    seen_text = {textkey(e.get("text", "")) for e in existing}
 
     try:
         posts = fetch(ARCHIVE)
@@ -71,9 +79,11 @@ def main():
         if not MARKET.search(text):
             continue
         url = p.get("url", "")
-        if not url or url in existing_urls:
+        tk = textkey(text)
+        if not url or url in existing_urls or tk in seen_text:
             continue
         existing_urls.add(url)
+        seen_text.add(tk)
         new_stubs.append({
             "date": p["created_at"],
             "platform": "Truth Social",
