@@ -1,14 +1,13 @@
 #!/usr/bin/env python3
-"""Pull Trump's latest Truth Social posts and merge market-relevant ones into
-data/trump_signals.json.
+"""Collect Trump's latest Truth Social posts as candidate signals.
 
 Source: CNN's public Truth Social archive (free, no key, refreshed ~every 5 min):
   https://ix.cnn.io/data/truth-social/truth_archive.json
-Schema per post: id, created_at, content (HTML), url, media, *_count.
 
-We keep posts that look market-relevant (tariffs, stocks, Fed, crypto, etc.)
-plus the few most recent, extract any $TICKERS, and preserve all hand-written
-"curated": true entries. Sentiment is NOT auto-labelled — the raw post is shown.
+This step is a cheap keyword PREFILTER only — it adds market-looking posts to
+data/trump_signals.json as unclassified stubs. scripts/classify_signals.py then
+asks Claude to make the real call (ticker / direction / strength / reason) and
+drops anything that isn't genuinely market-relevant. Curated entries are kept.
 
 Writes data/_debug_posts.json. Run by .github/workflows/update-data.yml.
 """
@@ -20,16 +19,16 @@ PATH = os.path.join(ROOT, "data", "trump_signals.json")
 DBG = os.path.join(ROOT, "data", "_debug_posts.json")
 ARCHIVE = "https://ix.cnn.io/data/truth-social/truth_archive.json"
 
-KEEP_LATEST = 6      # always include this many most-recent posts
-SCAN = 200           # how many recent posts to scan for market relevance
-CAP = 60             # max events stored
+SCAN = 250    # scan this many most-recent posts for candidates
+CAP = 80      # max non-curated events stored
 
+# Coarse prefilter — intentionally broad; the LLM rejects false positives.
 MARKET = re.compile(
     r"\b(tariff|tariffs|stock|stocks|market|markets|econom|buy|sell|selling|"
     r"fed|federal reserve|interest rate|rates|inflation|recession|oil|gold|"
-    r"crypto|bitcoin|btc|ethereum|dollar|nasdaq|dow jones|s&p|semiconductor|"
-    r"chips|trade deal|deal with|gdp|jobs report|wall street|djt|earnings|"
-    r"china trade|rate cut|soft landing)\b", re.I)
+    r"crypto|bitcoin|btc|ethereum|dollar|nasdaq|dow|s&p|semiconductor|chips|"
+    r"trade deal|deal with|gdp|jobs report|wall street|djt|earnings|powell|"
+    r"china|rate cut|soft landing|drill|energy|boeing|apple|tesla)\b", re.I)
 CASHTAG = re.compile(r"\$([A-Za-z]{1,5})\b")
 TAGS = re.compile(r"<[^>]+>")
 
@@ -50,7 +49,8 @@ def fetch(url):
 def main():
     with open(PATH) as f:
         doc = json.load(f)
-    curated = [e for e in doc.get("events", []) if e.get("curated")]
+    existing = doc.get("events", [])
+    existing_urls = {e.get("url") for e in existing}
 
     try:
         posts = fetch(ARCHIVE)
@@ -65,43 +65,43 @@ def main():
     posts = [p for p in posts if isinstance(p, dict) and p.get("created_at")]
     posts.sort(key=lambda p: p["created_at"], reverse=True)
 
-    live, seen = [], set()
-    for i, p in enumerate(posts[:SCAN]):
+    new_stubs = []
+    for p in posts[:SCAN]:
         text = strip_html(p.get("content", ""))
-        relevant = bool(MARKET.search(text))
-        if not relevant and i >= KEEP_LATEST:
+        if not MARKET.search(text):
             continue
         url = p.get("url", "")
-        if url in seen:
+        if not url or url in existing_urls:
             continue
-        seen.add(url)
-        tickers = sorted({t.upper() for t in CASHTAG.findall(text)})
-        live.append({
+        existing_urls.add(url)
+        new_stubs.append({
             "date": p["created_at"],
             "platform": "Truth Social",
             "text": text or "(media post — no text)",
-            "tickers": tickers,
-            "is_market": relevant,
-            "url": url,
+            "tickers": sorted({t.upper() for t in CASHTAG.findall(text)}),
             "engagement": p.get("favourites_count", 0),
+            "url": url,
+            "classified": False,
         })
 
-    # Merge: curated highlights + live posts, newest first.
-    events = curated + live
-    events.sort(key=lambda e: e.get("date", ""), reverse=True)
-    events = events[:CAP]
+    events = existing + new_stubs
+    # Keep all curated; cap the rest to the newest CAP.
+    curated = [e for e in events if e.get("curated")]
+    rest = [e for e in events if not e.get("curated")]
+    rest.sort(key=lambda e: e.get("date", ""), reverse=True)
+    events = curated + rest[:CAP]
 
     doc["events"] = events
     doc["last_updated"] = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
     with open(PATH, "w") as f:
         json.dump(doc, f, indent=1)
 
-    debug["kept_live"] = len(live)
-    debug["curated"] = len(curated)
-    debug["newest"] = live[0]["date"] if live else None
+    debug["new_candidates"] = len(new_stubs)
+    debug["total_events"] = len(events)
+    debug["unclassified"] = sum(1 for e in events if not e.get("classified"))
     with open(DBG, "w") as f:
         json.dump(debug, f, indent=1)
-    print(f"Kept {len(live)} live posts (newest {debug['newest']}) + {len(curated)} curated")
+    print(f"Added {len(new_stubs)} candidates; {debug['unclassified']} await classification")
     return 0
 
 

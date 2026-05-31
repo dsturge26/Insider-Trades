@@ -65,23 +65,37 @@ function renderFreshness() {
 }
 
 // ---------- Trump signals ----------
+const flames = s => '🔥'.repeat(Math.max(1, Math.min(5, Math.round((s || 0) / 20))));
+
 function renderSignals() {
   const wrap = $('#signals-list');
   $('#signals-howto').textContent = (state.signals && state.signals.how_to_read) || '';
-  const events = (state.signals && state.signals.events) || [];
-  if (!events.length) { wrap.innerHTML = '<div class="empty">No signals yet.</div>'; return; }
+  // Only show classified market signals (and curated highlights).
+  const events = ((state.signals && state.signals.events) || [])
+    .filter(e => e.curated || (e.classified && e.is_market));
+  if (!events.length) {
+    wrap.innerHTML = '<div class="empty">No market signals yet — the next data run will classify his latest posts.</div>';
+    return;
+  }
   wrap.innerHTML = events.map(e => {
-    const sig = (e.signal || '').toLowerCase();
-    const tags = (e.tickers || []).map(t => `<span class="tag">$${esc(t)}</span>`).join('');
-    return `<div class="card ${esc(sig)}">
-      <div class="when">${esc(e.platform || '')} · ${fmtDate(e.date)}</div>
+    const dir = (e.direction || 'WATCH').toUpperCase();
+    const others = (e.tickers || []).filter(t => t !== e.primary_ticker)
+      .map(t => `<span class="tag">$${esc(t)}</span>`).join('');
+    const ps = e.price_since;
+    const psHtml = ps ? `<div class="since ${ps.pct >= 0 ? 'up' : 'down'}">$${esc(ps.ticker)} ${ps.pct >= 0 ? '+' : ''}${ps.pct}% since post</div>` : '';
+    return `<div class="card dir-${dir.toLowerCase()}">
+      <div class="sighead">
+        <span class="badge ${dir.toLowerCase()}">${dir}</span>
+        ${e.primary_ticker ? `<span class="bigticker">$${esc(e.primary_ticker)}</span>` : ''}
+        <span class="flames" title="strength ${e.strength || 0}/100">${flames(e.strength)} <span class="muted">${e.strength || 0}</span></span>
+      </div>
       <div class="quote">“${esc(e.text)}”</div>
-      ${e.context ? `<div class="muted">${esc(e.context)}</div>` : ''}
+      ${e.reason ? `<div class="why">↳ ${esc(e.reason)}</div>` : ''}
+      ${psHtml}
       ${e.market_reaction ? `<div class="react">📊 ${esc(e.market_reaction)}</div>` : ''}
       <div class="tagrow">
-        ${sig ? `<span class="tag sig-${esc(sig)}">${esc(sig)}</span>` : ''}
-        ${e.is_market ? '<span class="tag sig-bullish">📈 market</span>' : ''}
-        ${tags}
+        <span class="when">${esc(e.platform || '')} · ${fmtDate(e.date)}</span>
+        ${others}
         ${e.url ? `<a class="tag" href="${esc(e.url)}" target="_blank" rel="noopener">source ↗</a>` : ''}
       </div>
     </div>`;

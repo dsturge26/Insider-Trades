@@ -26,6 +26,9 @@ jobs:
         with:
           python-version: "3.12"
 
+      - name: Install dependencies
+        run: pip install --quiet anthropic
+
       - name: Fetch congressional trades (FMP)
         env:
           FMP_API_KEY: ${{ secrets.FMP_API_KEY }}
@@ -35,6 +38,11 @@ jobs:
 
       - name: Fetch Trump's latest Truth Social posts (CNN archive)
         run: python scripts/fetch_trump_posts.py
+
+      - name: Classify posts into trade signals (Claude)
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python scripts/classify_signals.py
 
       - name: Refresh Trump-ticker prices (FMP + Stooq fallback)
         env:
