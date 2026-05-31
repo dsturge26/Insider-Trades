@@ -145,17 +145,62 @@ def classify_all(posts):
                             "direction": r.get("direction", "WATCH"),
                             "strength": max(0, min(100, int(r.get("strength", 50)))),
                             "explicit": bool(r.get("explicit")),
+                            "source": p.get("source", "Trump"),
                             "text": p["text"][:160]})
         print(f"  classified {min(s+cls.BATCH, len(posts))}/{len(posts)}")
     return signals
 
 
+def gather_contracts(cutoff):
+    """Historical $1B+ federal awards over the lookback (USAspending). Each becomes
+    a 'Contract' candidate; the classifier maps recipient -> ticker (BUY)."""
+    body = {
+        "filters": {
+            "award_type_codes": ["A", "B", "C", "D"],
+            "time_period": [{"start_date": cutoff, "end_date":
+                             datetime.now(timezone.utc).strftime("%Y-%m-%d"),
+                             "date_type": "action_date"}],
+            "award_amounts": [{"lower_bound": 1_000_000_000}],
+        },
+        "fields": ["Recipient Name", "Award Amount", "Awarding Agency", "Start Date"],
+        "sort": "Award Amount", "order": "desc", "limit": 100,
+    }
+    cand, seen = [], set()
+    for page in range(1, 4):
+        body["page"] = page
+        try:
+            req = urllib.request.Request(
+                "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+                data=json.dumps(body).encode(),
+                headers={"Content-Type": "application/json", "User-Agent": "trade-tracker/1.0"})
+            with urllib.request.urlopen(req, timeout=45) as r:
+                results = json.load(r).get("results", [])
+        except (urllib.error.URLError, ValueError, TimeoutError):
+            break
+        if not results:
+            break
+        for a in results:
+            name = (a.get("Recipient Name") or "").strip()
+            amt = a.get("Award Amount") or 0
+            if not name or not amt:
+                continue
+            text = f"{name} was awarded a ${amt/1e9:.1f}B federal contract from {a.get('Awarding Agency','')}."
+            k = textkey(text)
+            if k in seen:
+                continue
+            seen.add(k)
+            cand.append({"date": (a.get("Start Date") or cutoff) + "T12:00:00Z",
+                         "text": text, "source": "Contract"})
+    print(f"{len(cand)} federal-contract candidates")
+    return cand
+
+
 def classify_history():
-    """Fetch archive, prefilter, classify, and PERSIST raw signals immediately
-    so a later reporting bug never costs us the classification again."""
-    print("Fetching archive…")
-    posts = json.loads(get(ARCHIVE))
+    """Fetch each backtestable source, classify, and PERSIST raw signals
+    immediately so a later reporting bug never costs the classification again."""
     cutoff = (datetime.now(timezone.utc) - timedelta(days=MONTHS * 30)).strftime("%Y-%m-%d")
+    print("Fetching Truth Social archive…")
+    posts = json.loads(get(ARCHIVE))
     seen, cand = set(), []
     for p in posts:
         if not isinstance(p, dict) or not p.get("created_at"):
@@ -169,11 +214,13 @@ def classify_history():
         if k in seen:
             continue
         seen.add(k)
-        cand.append({"date": p["created_at"], "text": text})
+        cand.append({"date": p["created_at"], "text": text, "source": "Trump"})
     cand.sort(key=lambda x: x["date"])
     if len(cand) > MAX_POSTS:
         cand = cand[-MAX_POSTS:]
     print(f"{len(cand)} market candidate posts since {cutoff}")
+
+    cand += gather_contracts(cutoff)   # add the federal-contract source
 
     signals = classify_all(cand)
     with open(RAW, "w") as f:
@@ -274,7 +321,7 @@ def summarize(evaluated, all_signals, missing):
         "tickers_missing_price": sorted(missing),
         "intraday_hours": INTRADAY_H,
         "by_horizon": {}, "by_intraday": {}, "by_direction": {},
-        "by_strength": {}, "by_segment": {}, "by_ticker": {},
+        "by_strength": {}, "by_segment": {}, "by_source": {}, "by_ticker": {},
     }
     intr = [r for r in evaluated if r.get("intraday") and r["direction"] in ("BUY", "SELL")]
     for h in INTRADAY_H:
@@ -312,6 +359,11 @@ def summarize(evaluated, all_signals, missing):
     expl = [r for r in directional if r.get("explicit")]
     if expl:
         out["by_segment"]["explicit_endorsement"] = _stats(expl, mid)
+
+    # per-source leaderboard — the headline: which source actually has edge?
+    sources = sorted({r.get("source", "Trump") for r in directional})
+    for src in sources:
+        out["by_source"][src] = _stats([r for r in directional if r.get("source", "Trump") == src], mid)
 
     # top tickers by count
     from collections import Counter
@@ -357,6 +409,13 @@ def render_report(r):
     L.append("|---|---|---|---|")
     for k, s in r["by_strength"].items():
         L.append(f"| {k} | {s['n']} | {s['hit_rate']}% | {s['avg_signed_return']}% |")
+    L.append(f"\n## 🏆 Per-source leaderboard (signed return at {r['_mid_horizon']}d)")
+    L.append("The headline: which source's signals actually beat a coin flip? (WSB, congress, insiders aren't here — no free history to backtest.)\n")
+    L.append("| Source | N | Hit rate | Avg signed return |")
+    L.append("|---|---|---|---|")
+    for src, s in sorted(r["by_source"].items(), key=lambda kv: (kv[1]["avg_signed_return"] or -99), reverse=True):
+        L.append(f"| {src} | {s['n']} | {s['hit_rate']}% | {s['avg_signed_return']}% |")
+
     L.append(f"\n## By signal type (signed return at {r['_mid_horizon']}d)")
     L.append("The key question: do **single-name** calls (the Dell type) beat the **broad-market** macro noise?\n")
     L.append("| Segment | N | Hit rate | Avg signed return |")
