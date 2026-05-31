@@ -1,31 +1,19 @@
 {
- "generated": "2026-05-31T14:19:30Z",
+ "generated": "2026-05-31T14:21:50Z",
  "key_present": true,
  "attempts": [
   {
    "chamber": "Senate",
    "endpoint": "https://financialmodelingprep.com/stable/senate-latest",
-   "last_status": "HTTP 402 Premium Query Parameter: 'Special Parameters : The values for 'limit' must be between 0 and 25 based on your current sub",
-   "rows": 0
-  },
-  {
-   "chamber": "Senate",
-   "endpoint": "https://financialmodelingprep.com/api/v4/senate-trading-rss-feed",
-   "last_status": "HTTP 403 {\n  \"Error Message\": \"Legacy Endpoint : Due to Legacy endpoints being no longer supported - This endpoint is only availa",
-   "rows": 0
+   "last_status": "HTTP 402 Premium Query Parameter: 'Special Parameters : The values for 'page' can only be 0 based on your current subscription. P",
+   "rows": 25
   },
   {
    "chamber": "House",
    "endpoint": "https://financialmodelingprep.com/stable/house-latest",
-   "last_status": "HTTP 402 Premium Query Parameter: 'Special Parameters : The values for 'limit' must be between 0 and 25 based on your current sub",
-   "rows": 0
-  },
-  {
-   "chamber": "House",
-   "endpoint": "https://financialmodelingprep.com/api/v4/senate-disclosure-rss-feed",
-   "last_status": "HTTP 403 {\n  \"Error Message\": \"Legacy Endpoint : Due to Legacy endpoints being no longer supported - This endpoint is only availa",
-   "rows": 0
+   "last_status": "HTTP 402 Premium Query Parameter: 'Special Parameters : The values for 'page' can only be 0 based on your current subscription. P",
+   "rows": 25
   }
  ],
- "note": "Key present but no endpoint returned rows (see statuses above)."
+ "note": "OK: wrote 44 live trades."
 }
