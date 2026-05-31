@@ -70,9 +70,12 @@ const flames = s => '🔥'.repeat(Math.max(1, Math.min(5, Math.round((s || 0) / 
 function renderSignals() {
   const wrap = $('#signals-list');
   $('#signals-howto').textContent = (state.signals && state.signals.how_to_read) || '';
-  // Only show classified market signals (and curated highlights).
+  // Show classified market signals (and curated highlights); hide weak noise,
+  // and lead with the strongest signals (recency breaks ties).
   const events = ((state.signals && state.signals.events) || [])
-    .filter(e => e.curated || (e.classified && e.is_market));
+    .filter(e => e.curated || (e.classified && e.is_market && (e.strength || 0) >= 35))
+    .sort((a, b) => (b.strength || 0) - (a.strength || 0)
+      || String(b.date).localeCompare(String(a.date)));
   if (!events.length) {
     wrap.innerHTML = '<div class="empty">No market signals yet — the next data run will classify his latest posts.</div>';
     return;
