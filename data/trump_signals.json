@@ -1,7 +1,135 @@
 {
- "last_updated": "2026-05-31T15:54:56Z",
+ "last_updated": "2026-05-31T17:07:04Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-05-31T14:15:00Z",
+   "platform": "News",
+   "text": "Dell exploded 255% since Trump told Americans to 'buy a Dell' \u2014 and his account held it before a $9.7B Pentagon deal - Yahoo Finance \u2014 Dell exploded 255% since Trump told Americans to 'buy a Dell' \u2014 and his account held it before a $9.7B Pentagon deal\u00a0\u00a0Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOE5BamlfOUlfalNFc3ZZcW9pNWRpWVUtUEJuQmpBV0JzclRydlJyMjhnaUdVMm5FQ0ZBY2xEdS0yQ0xJTFk5cTNTWjJOWF81dHVjemxUZW1HZ3M5ckw4aHA1a0NYVHE0S1J2b2huY0Y0bXROOXJzOXFKWjh3TldCZHlGWFJtOV9ZQU53UUNpMTI0T1pqeEdKdWVR?oc=5",
+   "tickers": [
+    "DELL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "DELL",
+   "strength": 95,
+   "reason": "Trump explicitly told Americans to 'buy a Dell' and held the stock before a $9.7B Pentagon contract award."
+  },
+  {
+   "date": "2026-05-31T14:05:38Z",
+   "platform": "News",
+   "text": "'An Incredible Guy': Trump Praises Tim Cook Following News Of His Departure From CEO Role - AOL.com \u2014 'An Incredible Guy': Trump Praises Tim Cook Following News Of His Departure From CEO Role\u00a0\u00a0AOL.com",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMEY2eUoyMVQwVS1lVWNOMGl2MVkzWkY1Y1RvbE9EanBTQUpwYXZBb3hxbk13NDlxT09mRDdIMzNBb0lKNlV5WUIydFJ4NkNHMFJjMGRFQzA3QXJWQW1aUDd6WU9KNzkzOVM1UU9CczdGNXdKS1Fud2RlbjNLekJPV0VR?oc=5",
+   "tickers": [
+    "AAPL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "AAPL",
+   "strength": 50,
+   "reason": "Trump publicly praises Tim Cook as 'Incredible Guy' following CEO departure news; modest tailwind for Apple."
+  },
+  {
+   "date": "2026-05-31T04:04:49Z",
+   "platform": "News",
+   "text": "Jamie Dimon Warns Inflation Ticking Up Is 'Not Good' \u2014 Praises Trump's 'One Big Beautiful Bill,' Deregulation Push To Stimulate Economic Growth - Stocktwits \u2014 Jamie Dimon Warns Inflation Ticking Up Is 'Not Good' \u2014 Praises Trump's 'One Big Beautiful Bill,' Deregulation Push To Stimulate Economic Growth\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNT0doNFRsMDktVlctR3pFZkNTc2g5WUNfanZvQktOVkdOTkRsQmZPdGZpSmVCQ3dlY1l1VXdQekRaNmg5VFhCQjAtLUd0czB5X0RGdTVPNEs5VUxOQ2Y0Vk9LU00wdDlKQ3hYekEySzRXVWlsajl3RHpESVV3SUdObTVlNlZ1UnJJSHVXb2thclRfaGlPLWNHY2JzczlfTWhKeUlBS3EyTlg3SXRpQ19mSWhGNnZkWjI0eWYydmNUNl9aTDB1Y2hzWFdMT05CanFLVkVZa2Zsc05MUQ?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "SPY",
+   "strength": 60,
+   "reason": "Jamie Dimon praises Trump's deregulation push and economic stimulus; macro-bullish signal for broad market."
+  },
+  {
+   "date": "2026-05-30T19:29:51Z",
+   "platform": "News",
+   "text": "Nancy Pelosi stock tracker flags Dell's $9.7 billion Pentagon win weeks after Trump praised the company \u2014 shares surge 48% in a month - MSN \u2014 Nancy Pelosi stock tracker flags Dell's $9.7 billion Pentagon win weeks after Trump praised the company \u2014 shares surge 48% in a month\u00a0\u00a0MSN",
+   "url": "https://news.google.com/rss/articles/CBMioANBVV95cUxNOVhJLUZ3V0tFemRUS19HNGdGdG5wTU9oVnlLeFZkMVc1bXM1ZEpFZVdTWHlHQ0kyWjhWNzcxaEwzb0lHcUhaVmN6TjNNcncza2pQMjJWQkFxMEh2ZmlKWTYwR2J0LXl2ZGZzNFFMQnY0Rm9QSlQyUlRYMUZxUUc3T3YtbzUyR29pc1U4dDh0TDNpQWlkOEJtOTZyWGpTUjQ5aGFEWVlDbjdPdGxEa240QzQ1TGYwZ3Jlc2lyMk9zVnN2U3diRmxINERpQllGTGROenBBMG5jSWJmeVpOQ05wdEpoOGRUNDVaZGVCVUp5cVdMX19iVzlDRnY1M1NJNWppMXFZTGYxTFNDWVNGSmlaUW4zMEtuWkJKTjBUbGJXYnF1OTNhUFlmQUlvSXk0UWtYTHluUGMxUnd6YU1DazRGbjNuQ3F2bFVJNGExSXAzbjI5Ukt5T0I1RWNDaHF5M3hJdGE2SGZHLURCR2VXUmVFZGRXWW4wVWhETHN1bkxuOXVhZzU0T29vVUphSE9ZMWJqWU90eUNkRXhIc01XVU1QZQ?oc=5",
+   "tickers": [
+    "DELL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "DELL",
+   "strength": 90,
+   "reason": "Dell awarded $9.7B Pentagon contract weeks after Trump praised it; clear bullish signal for DELL stock."
+  },
+  {
+   "date": "2026-05-30T18:47:00Z",
+   "platform": "News",
+   "text": "Abby Phillip Shocked By Dell's Surge Since Trump Bought It - Mediaite \u2014 Abby Phillip Shocked By Dell's Surge Since Trump Bought It\u00a0\u00a0Mediaite",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPdFJEbnhOYmZsdlNGNHZPSHZhRDNabzFTRVdYMjduMi1id2NmeE5iYmgwM3BSOVM0M0F4d2hDMFlaSWJHcG44R3V5eW1DN2VQazJzQXA4N3E2NGFDM3J0WUtNajItX2pEdk0tcW11WGVWb0lGNFQ5RDVxSVQ1OVJQR0ZFTDhURERfaHNuWlNyb0lUUDVNNEpDNFo2ZExWZmhBRkJfNWVReHZsRWxFR2pvOGktd2wtSnJqSjhwSDF5NjJoRV8tZTJHZnhZYlExVjdrTDUxb0hRN2ZmT3M5OVJEdXF4bDJzdWs?oc=5",
+   "tickers": [
+    "DELL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "DELL",
+   "strength": 85,
+   "reason": "Trump's stock purchase and praise of Dell correlates with major stock surge; confirms bullish positioning."
+  },
+  {
+   "date": "2026-05-30T10:01:14Z",
+   "platform": "News",
+   "text": "Nancy Pelosi Stock Tracker Flags Dell's $9.7 Billion Pentagon Win Weeks After Trump Praised The Company \u2014 Shares Surge 48% In A Month - Yahoo Finance \u2014 Nancy Pelosi Stock Tracker Flags Dell's $9.7 Billion Pentagon Win Weeks After Trump Praised The Company \u2014 Shares Surge 48% In A Month\u00a0\u00a0Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSmlJSC1zVTNoT0N4TXhOSGVpZ1NVcVJnZ0Z1RkIweHdxanRmMjJ1SVNQbXp2bS1TR21wS25GUS0zLW5SLVhxTnhaaTNkVmd4eDlhWXl3M29xRHlIa2JoYkF5dXBVc0FLaXJvU1YzcldzX1pWZ1pyblFCRktpcDBTYXI5OWxfckhUMGFKR1c0NUtxVEF1LTBNNEYzMmZldw?oc=5",
+   "tickers": [
+    "DELL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "DELL",
+   "strength": 90,
+   "reason": "Dell awarded $9.7B Pentagon contract weeks after Trump praised it; clear bullish signal for DELL stock."
+  },
+  {
+   "date": "2026-05-30T02:19:09Z",
+   "platform": "News",
+   "text": "Trump Bought Stock in UFC's Parent Company While Promoting White House Lawn Fight - People.com \u2014 Trump Bought Stock in UFC's Parent Company While Promoting White House Lawn Fight\u00a0\u00a0People.com",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOc00zcVVOOHhtTzlPSVo2eFJaWFBNVGVOQUhrbVZOT3VtelpZVHhjVGYycmQwRGxpU1BLeHdzbkwwMmhySWFxNzVtejYwX3BJQmw3TWVWZGQzelgwa2JtMkdlcy1nZm0yMEU4ZzZuaVNNb3lMN3pxZ1pQVmdBWV9Tckk0cW95NWxOcWJJOW1PZlNaNGN0ZDlyNXlyaw?oc=5",
+   "tickers": [
+    "TKO"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "TKO",
+   "strength": 65,
+   "reason": "Trump bought stock in UFC parent (TKO) while promoting it publicly; potential pump-and-dump concern but bullish signal."
+  },
+  {
+   "date": "2026-05-29T22:10:48Z",
+   "platform": "News",
+   "text": "Donald Trump Allegedly Purchased Millions in Dell Stock Just Weeks Before It Was Awarded $9.7B Pentagon Contract - International Business Times UK \u2014 Donald Trump Allegedly Purchased Millions in Dell Stock Just Weeks Before It Was Awarded $9.7B Pentagon Contract\u00a0\u00a0International Business Times UK",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcTY2Vm9EWEtlMWxiTEU1bWt5bnh6YTM3QUdfb0p6MnowdWdDWlpYa0FXNHc1TG9yVHh0WENxbDhrYkRZUGxpWXBCWXo1aFA1WGFNcTZYY3UwTWxocUZ6VGlkaDlLTFhXeDZRbUMxYUxkV1NzVWsxWXZCOGhxa29SVg?oc=5",
+   "tickers": [
+    "DELL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "DELL",
+   "strength": 75,
+   "reason": "Trump stock purchase + major Pentagon contract award is bullish signal for Dell"
+  },
   {
    "date": "2026-05-29T21:56:33.815Z",
    "platform": "Truth Social",
@@ -83,6 +211,38 @@
    "reason": "EU trade deal struck/honored signals reduced tariff friction and trade normalization."
   },
   {
+   "date": "2026-05-29T16:35:43Z",
+   "platform": "News",
+   "text": "Donald Trump\u2019s Personal Investment in Dell Pays Off Bigly - Gizmodo \u2014 Donald Trump\u2019s Personal Investment in Dell Pays Off Bigly\u00a0\u00a0Gizmodo",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQX3pzWjlmNnB6MGFsN180aEpseGxCcFkzUkEtMTZHbTlWbkFOakttUVpYSTREZVBwNEJjOHJjOHI1WmFUaDN6anZDUjdzd3VidEZlN05Ob25udlNyRXVadG53djZKdm1PMUdUYVQyS21VRlRWaGJiVXhGeHNFd29pRmxRYkpWYWplNUFRb1A4OTk?oc=5",
+   "tickers": [
+    "DELL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "DELL",
+   "strength": 80,
+   "reason": "Trump personal Dell stock purchase and explicit promotion drives bullish sentiment"
+  },
+  {
+   "date": "2026-05-29T16:34:56Z",
+   "platform": "News",
+   "text": "Trump Bought Stock In UFC's Parent Company As He Promoted White House Fight - HuffPost UK \u2014 Trump Bought Stock In UFC's Parent Company As He Promoted White House Fight\u00a0\u00a0HuffPost UK",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMWJwV181M0FlSGNBdU0yWWxXcFRjRzFPQ01OQ1MtSDluUEZ1SllHVFJBT0owaHdPU2J4czFPQVN5RWdueDVNV3FOVFRRM3EzYXpaR2RVYTVsQ21MaU93VlItVi0xR3NCbGt0YmlOSnMwRzVOSVdNRXdCeWFoWXpmcEItWTNJOHlzT3d0cGkzVkJQM1VUWnVUSjBocS1XYVFq0gGbAUFVX3lxTE1qLTBPeWR6aXhYZFhvTWNjeDE5OVNITjdobnh2VEdGVWljM3dzc0ExQnZVQXlHUm9MOVFHbHYzOHdvbkJHbjdFWHJOMWlkUnlBSnlkSWk1TWtIZTBNcFIwRW1tY21PbzNoaW1kNm1yaWNDT2ZtWmI2TWxfd1ptQW1hZ1JSZTFDYnFJcS0tQ01qakxBRWR2OG41ZEhB?oc=5",
+   "tickers": [
+    "TKO"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "TKO",
+   "strength": 70,
+   "reason": "Trump bought UFC parent company stock (TKO) while promoting White House event; bullish signal"
+  },
+  {
    "date": "2026-05-29T14:51:24.162Z",
    "platform": "Truth Social",
    "text": "Iran must agree that they will never have a Nuclear Weapon or Bomb. The Hormuz Strait must be immediately open, no tolls, for unrestricted shipping traffic, in both directions. All water mines (bombs), if any, will be terminated (we have removed, through detonation, numerous such mines with our great underwater mine sweepers. Iran will complete the immediate removal and/or detonation of any mines that are left, which will not be many!). Ships caught in the Strait due to our amazing and unprecedented Naval Blockade, which will now be lifted, may start the process of \"heading home!\" Say HELLO to your wives, husbands, parents, and families from me, your favorite President! The enriched material, sometimes referred to as \"Nuclear Dust,\" which is buried deep underground with virtually collapsed mountains, caused by our powerful B2 Bomber attack 11 months ago, sitting on top of it, will be unearthed by the United States (which, it is agreed, is the only Country, along with China, with the mechanical capability of doing so!), in close coordination and conjunction with the Islamic Republic of Iran, plus the International Atomic Energy Agency, and DESTROYED. No money will be exchanged, until further notice. Other items, of far less importance, have been agreed to. I will be meeting now, in the Situation Room, to make a final determination. Thank you for your attention to this matter! President DONALD J. TRUMP",
@@ -97,6 +257,150 @@
    "primary_ticker": "XLE",
    "strength": 50,
    "reason": "Iran crisis, naval blockade, Strait of Hormuz closure/opening has major oil/shipping implications; direction hinges on final outcome."
+  },
+  {
+   "date": "2026-05-29T14:49:23Z",
+   "platform": "News",
+   "text": "Donald Trump's \"Go Buy Dell\" Advice Has Proved Profitable - Happy Coin News \u2014 Donald Trump's \"Go Buy Dell\" Advice Has Proved Profitable\u00a0\u00a0Happy Coin News",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPeXVZb1Z2SXBhdnk1aWx2SWM2OS1ieW1ISzlqejktQ285Tk83S3I5b2Z5YjdicXkxWXdSa2tCempLZVU2bWVCNHZsXy1DalBvdnJRbHF4RjIyVWlMTWZfNUE5bzZkWDR1bHQ4Y2F1TmJGaVZZS25LVWhIbkEyNEQzbHdnRWlPOEp0TXZaTXBaa0U3UXJPTXgyZkFtVkpBUFBncXVJNDBCUGhhOGQ5bGs0Rm5lVW53WUFaLV91SlU4a0twS1MyUF9aSDYtUjdiUkJ0?oc=5",
+   "tickers": [
+    "DELL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "DELL",
+   "strength": 85,
+   "reason": "Trump's explicit 'go buy Dell' advice is direct call to action; strong bullish signal"
+  },
+  {
+   "date": "2026-05-29T14:41:46Z",
+   "platform": "News",
+   "text": "Pentagon\u2019s $9B Dell deal sparks Trump conflict of interest concerns - fox5sandiego.com \u2014 Pentagon\u2019s $9B Dell deal sparks Trump conflict of interest concerns\u00a0\u00a0fox5sandiego.com",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcTgxb0ZLbUVvaGlsZmF3Sk1OVE1wbHl3NTczV21ycDhLanZGcnpjcXBXSkgyMzRaOER3OEx5NWd6QnR2aEUzQzB3RHc5WXBTM2dDeVRsLXJiZzlMWWxOX0pSQUY5ZlZRTjJTYVdwOUxINjR1eU1JOVlHMmdJU0Q5WjZmUktRNHprTjd5elJPdDJDUEN2OS1MTG5uNVBJTGhuQ1V6R3NSRUtqdGRFRFHSAa4BQVVfeXFMT3E4MW9GS21Fb2hpbGZhd0pNTlRNcGx5dzU3M1dtcnA4S2p2RnJ6Y3FwV0pIMjM0WjhEdzhMeTVnekJ0dmhFM0Mwd0R3OVlwUzNnQ3lUbC1yYmc5TFlsTl9KUkFGOWZWUU4yU2FXcDlMSDY0dXlNSTlZRzJnSVNEOVo2ZlJLUTR6a043eXpST3QyQ1BDdjktTExubjVQSUxobkNVekdzUkVLanRkRURR?oc=5",
+   "tickers": [
+    "DELL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "DELL",
+   "strength": 50,
+   "reason": "Conflict of interest narrative around Dell Pentagon contract; market relevant but ambiguous directionally"
+  },
+  {
+   "date": "2026-05-29T14:05:00Z",
+   "platform": "News",
+   "text": "Dell Stock Soars on Data-Center Revenue and Pentagon Deal - WSJ \u2014 Dell Stock Soars on Data-Center Revenue and Pentagon Deal\u00a0\u00a0WSJ",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZnIwSmdCX2dqRldITXQ4UFN0MW5zLW4zMll0ZUZ4V3E2bWRKYmdGeEZVcEZzMjJxZ3hNRnZ5TWJROXpwTmxIdG9mbGFjR0RPTW1yUm16a3c0QUFfbEFjcllqMGVXMmUzcTZzcDVaREMzeUxVOWlZNjBabGtCb1VUOVBMYWgwUmp0TUlrZV9aUXVzbG9xSkE?oc=5",
+   "tickers": [
+    "DELL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "DELL",
+   "strength": 75,
+   "reason": "Dell data-center strength + Pentagon contract award is bullish catalyst"
+  },
+  {
+   "date": "2026-05-29T14:02:06Z",
+   "platform": "News",
+   "text": "Dell Scores Major Pentagon Contract Weeks After Trump Promoted Company - Alaska Native News \u2014 Dell Scores Major Pentagon Contract Weeks After Trump Promoted Company\u00a0\u00a0Alaska Native News",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTFE3eGZWY3MwVkRnaktIZU9JUDdPQVNsY3dUM0dXTFBjcG9Hc1doMlFrWVNNUlFTTFRGblNDalRyUTdUeGE4MUQxLWlIU1JKcXlKVnZ2R3ljb05DMC1GYUp5ejNNeHE3U0gybHBQSUlhQlMwRVU4c0dxVlY5Tl9DbWlIV0RIY3Q4RS1RZE93MWNxSHVSdDB3LWtobm1oV1p2dDRCNDFMMllScUd6?oc=5",
+   "tickers": [
+    "DELL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "DELL",
+   "strength": 80,
+   "reason": "Major Pentagon contract timing after Trump promotion creates bullish catalyst"
+  },
+  {
+   "date": "2026-05-29T09:22:01Z",
+   "platform": "News",
+   "text": "$1,000 invested when Trump said \u2018buy a Dell\u2019 is now worth this much - Finbold \u2014 $1,000 invested when Trump said \u2018buy a Dell\u2019 is now worth this much\u00a0\u00a0Finbold",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSkU1Vm8yZ3BNNEptdnJfcnBUSUxVV2tMRllTZG9IVFE3cnhPeG9CR0pFUW1jVjMzSDhnRHktekdlVm15U3Y4QkdxM201U25STUM1U3hHVWRicTBqS1p4cUdJS25qUlhlTFlmSDRzd1BLUzAyeWJtR20wX2lQb3BtQi1uNVlhcEpmUFl6UnZSTERHNm5JalRULXJMQ0c2a0kyZXBGTA?oc=5",
+   "tickers": [
+    "DELL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "DELL",
+   "strength": 80,
+   "reason": "Trump's 'buy a Dell' statement with ex-post performance proof is strong bullish signal"
+  },
+  {
+   "date": "2026-05-29T08:15:41Z",
+   "platform": "News",
+   "text": "Dell inks $9.7 billion Pentagon contract after Trump acquires stock - Red Lake Nation News \u2014 Dell inks $9.7 billion Pentagon contract after Trump acquires stock\u00a0\u00a0Red Lake Nation News",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNaDVfS09KTW9nSUM0c2J4cGZNNF85b1BuZWZmOFlhOUtsOGZFX0V4NDF4ZVBESkUtMEtYZVZObS1rbDBTLVVnMnRkeG1GT0VMOVVrZ3YxN1JlNFcyMUhDcWNwdXNhSmItV0IxTGk1OGo2eG9nbU1qTWNEQjdQQ21zVE1KdkFoY0g0M3lJQ2RjTEhnMWs4c1pDcGpTTDhoVEFwYWIyLVJqdnk0MktqcjZLYmlXaEJNTVM2SFlQY2NEakx3STZDb3pSR0ZyTmo5UQ?oc=5",
+   "tickers": [
+    "DELL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "DELL",
+   "strength": 85,
+   "reason": "Trump stock acquisition + explicit praise + major Pentagon contract = strong bullish catalyst"
+  },
+  {
+   "date": "2026-05-29T08:08:10Z",
+   "platform": "News",
+   "text": "Micron and Dell soar on 'Trump praise'! Will NVIDIA or quantum be the next 'favorite stock'? \u2014 Exploring from 'Trump's holdings' - Moomoo \u2014 Micron and Dell soar on 'Trump praise'! Will NVIDIA or quantum be the next 'favorite stock'? \u2014 Exploring from 'Trump's holdings'\u00a0\u00a0Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORS1QV211QktEUU9ReDBqNGljdWR4QXZWdjBJODVwREFrVzZTWmpCNmg2dndGam8zcEJ6ZWpNR093VGZ4WUFzYk16dkYyUnZvZ01PdEJlMm9nLWtKRWlIQ0NTalpkcW1YbGRNb1dNeGNNQ1lHM0hYaTk4ZldhOE5idUlwdkw2bnNDY1BzYlhHa1RpWkZYdTl1V095c1A3TlZERlZzNlRn?oc=5",
+   "tickers": [
+    "DELL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "DELL",
+   "strength": 75,
+   "reason": "Trump praise of Dell and Micron drives rally; explicit endorsement signal"
+  },
+  {
+   "date": "2026-05-29T06:40:00Z",
+   "platform": "News",
+   "text": "Dell Shares Explode Following AI-Fueled Earnings Beat - CryptoPotato \u2014 Dell Shares Explode Following AI-Fueled Earnings Beat\u00a0\u00a0CryptoPotato",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVktBR0JLX0Q3TEVaUTBPMlRBalJnWTBlNFdQZDZuMmpGZlVWcHFCMHFQSnBkdUdKTEdTQWQtdEpSMUREd1pxVzlKNG1tYVhYTFBTX0V6a05TcjhmZTg4Y3pIZUVrU1hNVGVtQmNnT2V4QjF2bmpCN2tlcXBqV2tXVW5QQldWdw?oc=5",
+   "tickers": [
+    "DELL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "DELL",
+   "strength": 70,
+   "reason": "Dell AI-driven earnings beat confirms bullish fundamental case"
+  },
+  {
+   "date": "2026-05-29T05:45:31Z",
+   "platform": "News",
+   "text": "Dell inks $9.7 billion Pentagon contract after Trump acquires stock, praises company - The Washington Post \u2014 Dell inks $9.7 billion Pentagon contract after Trump acquires stock, praises company\u00a0\u00a0The Washington Post",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxORmJhdjhBVXhqTHFWamJqMTQ0YzI3em5pZ0V3Nkp1R2c4b0l4b2VOdEpHRkplM0VmNEtsMnVCRWU4aFVsN3JNbUpCd1pvcHZYQTNPX2pNVGZaSnFGRnZ3cWdVb1JuRWJNX0Zlb0l2UWpsZEJjSE53SkVKU1NnM3hESWZoSUV6Q3VBSUpuUVNXMXNlVkZldEpaRU1UX1RIZWdLeUFmeXdDSGtVTEJCeFktYWFzU2hGYkVpQVJKRDZEMHBNSFRPaTJIdV94ZXlBUQ?oc=5",
+   "tickers": [
+    "DELL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "DELL",
+   "strength": 85,
+   "reason": "Trump stock purchase + explicit company praise + Pentagon contract is strongest bullish catalyst"
   },
   {
    "date": "2026-05-27T22:54:22.819Z",
@@ -359,6 +663,91 @@
    "reason": "Trump's majority-owned stock debuts \u2014 pure sentiment play, extremely volatile and headline-driven.",
    "market_reaction": "DJT spiked on debut then stayed volatile, moving heavily on Trump political/legal news.",
    "url": "https://www.nasdaq.com/market-activity/stocks/djt"
+  },
+  {
+   "date": "2018-07-12T12:00:00Z",
+   "platform": "Federal contract",
+   "text": "FLUOR MARINE PROPULSION, LLC was awarded a $14.8B federal contract from Department of Energy.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_89233018CNR000004_8900_-NONE-_-NONE-",
+   "tickers": [
+    "FOE"
+   ],
+   "contract_amount": 14.78,
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "FOE",
+   "strength": 75,
+   "reason": "$14.8B federal contract to Fluor for marine propulsion; bullish for contractor"
+  },
+  {
+   "date": "2015-07-09T12:00:00Z",
+   "platform": "Federal contract",
+   "text": "HONEYWELL FEDERAL MANUFACTURING & TECHNOLOGIES, LLC was awarded a $17.4B federal contract from Department of Energy.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_DENA0002839_8900_-NONE-_-NONE-",
+   "tickers": [
+    "HON"
+   ],
+   "contract_amount": 17.43,
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "HON",
+   "strength": 80,
+   "reason": "$17.4B federal contract to Honeywell subsidiary; bullish for Honeywell"
+  },
+  {
+   "date": "2006-09-06T12:00:00Z",
+   "platform": "Federal contract",
+   "text": "LOCKHEED MARTIN CORP was awarded a $15.5B federal contract from National Aeronautics and Space Administration.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_NNJ06TA25C_8000_-NONE-_-NONE-",
+   "tickers": [
+    "LMT"
+   ],
+   "contract_amount": 15.53,
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "LMT",
+   "strength": 75,
+   "reason": "Lockheed Martin awarded $15.5B NASA federal contract, bullish for defense contractor."
+  },
+  {
+   "date": "1993-11-15T12:00:00Z",
+   "platform": "Federal contract",
+   "text": "THE BOEING COMPANY was awarded a $22.4B federal contract from National Aeronautics and Space Administration.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_NAS1510000_8000_-NONE-_-NONE-",
+   "tickers": [
+    "BA"
+   ],
+   "contract_amount": 22.43,
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "BA",
+   "strength": 75,
+   "reason": "Boeing awarded $22.4B NASA federal contract, bullish for aerospace/defense."
+  },
+  {
+   "date": "1993-10-15T12:00:00Z",
+   "platform": "Federal contract",
+   "text": "LOCKHEED MARTIN CORP was awarded a $48.1B federal contract from Department of Energy.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_DEAC0494AL85000_8900_-NONE-_-NONE-",
+   "tickers": [
+    "LMT"
+   ],
+   "contract_amount": 48.06,
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "LMT",
+   "strength": 80,
+   "reason": "Lockheed Martin awarded $48.1B DOE federal contract, major bullish signal for defense contractor."
   }
  ],
  "how_to_read": "Each card is Claude's read of a public Trump post: the affected ticker, whether it implies BUY / SELL / WATCH, a 0\u2013100 strength (how explicit/emphatic the post is \u2014 NOT a profit predictor), and why. A 2-year backtest found these don't beat buy-and-hold, so this is for awareness, not trading. Not financial advice."
