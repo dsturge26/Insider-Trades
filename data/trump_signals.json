@@ -377,5 +377,5 @@
    "url": "https://www.nasdaq.com/market-activity/stocks/djt"
   }
  ],
- "how_to_read": "Each card is Claude's read of a public Trump post: the affected ticker, whether it implies a BUY / SELL / WATCH, a 0\u2013100 strength score, and why. 'Price since' shows how the ticker actually moved after he posted. Fast signal, but it can reverse on the next post \u2014 not financial advice."
+ "how_to_read": "Each card is Claude's read of a public Trump post: the affected ticker, whether it implies BUY / SELL / WATCH, a 0\u2013100 strength (how explicit/emphatic the post is \u2014 NOT a profit predictor), and why. A 2-year backtest found these don't beat buy-and-hold, so this is for awareness, not trading. Not financial advice."
 }

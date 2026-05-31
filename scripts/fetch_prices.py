@@ -1,10 +1,11 @@
 #!/usr/bin/env python3
-"""Refresh ~60 days of daily closes for each Trump-linked ticker.
+"""Refresh prices for each Trump-linked ticker: ~60 days of daily closes (trend)
+plus the latest intraday quote.
 
-Primary source: FMP historical-price-eod (uses FMP_API_KEY, reliable from the
-GitHub Actions runners). Fallback: Stooq CSV (no key, but it sometimes blocks
-datacenter IPs, which is why it's the fallback). Each ticker keeps its previous
-prices on failure. Writes price-fetch diagnostics into data/_debug_prices.json.
+Primary source: Yahoo Finance (no key; one call gives the daily series AND the
+live quote meta — regularMarketPrice/previousClose/time). Stocks are ~15-min
+delayed, crypto is real-time. Fallbacks: FMP (needs key), then Stooq. Each ticker
+keeps its previous data on failure. Diagnostics in data/_debug_prices.json.
 """
 import csv, io, json, os, sys, urllib.request, urllib.error
 from datetime import datetime, timezone

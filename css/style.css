@@ -42,16 +42,12 @@ input[type=search]{min-width:240px;flex:1}
 .cards{display:grid;gap:.9rem;grid-template-columns:1fr}
 @media(min-width:720px){.cards{grid-template-columns:1fr 1fr}}
 .card{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:1rem;border-left:4px solid var(--line)}
-.card.bullish{border-left-color:var(--green)}
-.card.speculative,.card.volatile{border-left-color:var(--accent)}
 .card .when{font-size:.8rem;color:var(--muted)}
 .card .quote{font-size:1.05rem;font-weight:600;margin:.4rem 0;color:#fff}
 .card .react{font-size:.88rem;margin:.4rem 0}
 .tagrow{display:flex;gap:.35rem;flex-wrap:wrap;margin-top:.5rem}
 .tag{background:var(--panel2);border:1px solid var(--line);color:var(--txt);
   font-size:.75rem;padding:.15rem .5rem;border-radius:999px}
-.tag.sig-bullish{color:var(--green);border-color:var(--green)}
-.tag.sig-speculative,.tag.sig-volatile{color:var(--accent);border-color:var(--accent)}
 .card.dir-buy{border-left-color:var(--green)}
 .card.dir-sell{border-left-color:var(--red)}
 .card.dir-watch{border-left-color:var(--accent)}

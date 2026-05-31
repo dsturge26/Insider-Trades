@@ -215,6 +215,8 @@ def main():
         ps = price_since(e["primary_ticker"], e["date"])
         if ps:
             e["price_since"] = ps
+        else:
+            e.pop("price_since", None)  # clear stale/same-day 0% entries
         n += 1
     debug["price_updates"] = n
 

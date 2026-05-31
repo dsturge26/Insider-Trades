@@ -1,6 +1,6 @@
 {
  "last_updated": "2026-05-31T14:45:45Z",
- "note": "Trump-linked / 'Trump trade' tickers to watch. Prices are refreshed by the GitHub Action (Stooq, no key required). Empty 'prices' until the Action runs.",
+ "note": "Trump-linked / 'Trump trade' tickers to watch. Prices are refreshed by the GitHub Action from Yahoo Finance (intraday quote + trend, no key; Stooq is a fallback). Stocks are ~15-min delayed, crypto is real-time.",
  "tickers": [
   {
    "ticker": "DJT",

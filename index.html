@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>Trump &amp; Congress Trade Tracker</title>
 <meta name="description" content="Personal tracker of public Trump market-moving posts and Congressional STOCK Act stock disclosures." />
-<link rel="stylesheet" href="css/style.css?v=20260531e" />
+<link rel="stylesheet" href="css/style.css?v=20260531f" />
 </head>
 <body>
 <header class="topbar">
@@ -67,7 +67,7 @@
   <!-- TOP BUYS -->
   <section class="panel" id="topbuys">
     <h2>Most-bought tickers <span class="muted" id="topbuys-window"></span></h2>
-    <p class="muted">Ranked by how many politicians are buying and net dollar weight. A crowd of insiders piling into one name is the signal people watch.</p>
+    <p class="muted">Ranked by how many members of Congress are buying and net dollar weight, from public STOCK Act disclosures. Note: filings lag the actual trades by 30–45 days, so this is a record of what they bought, not a real-time tip.</p>
     <div class="controls">
       <label>Lookback:
         <select id="lookback">
@@ -109,13 +109,15 @@
 </main>
 
 <footer>
-  <p>Sources: <a href="https://disclosures-clerk.house.gov/" target="_blank" rel="noopener">House Clerk</a>,
-     <a href="https://efdsearch.senate.gov/" target="_blank" rel="noopener">Senate EFD</a>,
-     <a href="https://site.financialmodelingprep.com/" target="_blank" rel="noopener">Financial Modeling Prep</a>,
-     <a href="https://truthsocial.com/@realDonaldTrump" target="_blank" rel="noopener">Truth Social</a>,
-     <a href="https://stooq.com/" target="_blank" rel="noopener">Stooq</a>. Personal project. Not affiliated with any official entity.</p>
+  <p>Sources: <a href="https://disclosures-clerk.house.gov/" target="_blank" rel="noopener">House Clerk</a> &amp;
+     <a href="https://efdsearch.senate.gov/" target="_blank" rel="noopener">Senate EFD</a> &amp;
+     <a href="https://site.financialmodelingprep.com/" target="_blank" rel="noopener">Financial Modeling Prep</a> (congressional trades),
+     <a href="https://truthsocial.com/@realDonaldTrump" target="_blank" rel="noopener">Truth Social</a> via CNN's archive (posts),
+     <a href="https://www.anthropic.com/" target="_blank" rel="noopener">Anthropic Claude</a> (classification),
+     <a href="https://finance.yahoo.com/" target="_blank" rel="noopener">Yahoo Finance</a> (prices).
+     Personal project. Not affiliated with any official entity. Not financial advice.</p>
 </footer>
 
-<script src="js/app.js?v=20260531e"></script>
+<script src="js/app.js?v=20260531f"></script>
 </body>
 </html>
