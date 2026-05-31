@@ -21,7 +21,7 @@ permissions:
 jobs:
   backtest:
     runs-on: ubuntu-latest
-    timeout-minutes: 45
+    timeout-minutes: 60
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -46,8 +46,12 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/backtest_results.json backtest_report.md data/backtest_signals_raw.json data/_debug_backtest.json
           if git diff --cached --quiet; then
-            echo "No changes."
-          else
-            git commit -m "chore: backtest results [skip ci]"
-            git push
+            echo "No changes."; exit 0
           fi
+          git commit -m "chore: backtest results [skip ci]"
+          # Rebase + retry so a concurrent Update-data push doesn't drop results.
+          for i in 1 2 3 4 5; do
+            git pull --rebase origin main && git push && { echo "pushed"; exit 0; }
+            echo "push retry $i"; sleep $((2 ** i))
+          done
+          echo "push failed after retries"; exit 1
