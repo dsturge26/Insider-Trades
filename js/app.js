@@ -202,27 +202,39 @@ function renderTopBuys() {
 }
 
 // ---------- Trump tickers + sparklines ----------
-function sparkline(prices) {
+function sparkline(prices, trendOnly) {
   if (!prices || prices.length < 2) return '<div class="muted">price data populates after the Action runs</div>';
   const vals = prices.map(p => p.close);
   const min = Math.min(...vals), max = Math.max(...vals), W = 280, H = 48;
   const pts = vals.map((v, i) => `${(i / (vals.length - 1) * W).toFixed(1)},${(H - (v - min) / ((max - min) || 1) * H).toFixed(1)}`).join(' ');
   const up = vals[vals.length - 1] >= vals[0];
   const first = vals[0], last = vals[vals.length - 1], chg = ((last - first) / first * 100);
-  return `<div class="price">$${last.toFixed(2)} <span class="chg ${up ? 'up' : 'down'}">${chg >= 0 ? '+' : ''}${chg.toFixed(1)}%</span></div>
-    <svg class="spark" viewBox="0 0 ${W} ${H}" preserveAspectRatio="none">
+  const header = trendOnly ? '' :
+    `<div class="price">$${last.toFixed(2)} <span class="chg ${up ? 'up' : 'down'}">${chg >= 0 ? '+' : ''}${chg.toFixed(1)}%</span></div>`;
+  return `${header}<svg class="spark" viewBox="0 0 ${W} ${H}" preserveAspectRatio="none">
       <polyline fill="none" stroke="${up ? '#27c281' : '#ef5b6b'}" stroke-width="2" points="${pts}"/>
     </svg>`;
 }
 function renderTickers() {
   const wrap = $('#tickers-list');
   const list = (state.tickers && state.tickers.tickers) || [];
-  wrap.innerHTML = list.map(t => `
-    <div class="card">
+  const asOf = (state.tickers && state.tickers.last_updated)
+    ? new Date(state.tickers.last_updated) : null;
+  wrap.innerHTML = list.map(t => {
+    const live = t.last;
+    const up = (t.day_pct ?? 0) >= 0;
+    const head = live != null
+      ? `<div class="price">$${live.toFixed(2)}${t.day_pct != null
+          ? ` <span class="chg ${up ? 'up' : 'down'}">${up ? '+' : ''}${t.day_pct}% today</span>` : ''}</div>`
+      : '';
+    return `<div class="card">
       <div class="quote">$${esc(t.ticker)} <span class="muted" style="font-weight:400">${esc(t.company)}</span></div>
-      ${sparkline(t.prices)}
+      ${head}
+      ${sparkline(t.prices, true)}
+      <div class="muted" style="font-size:.75rem;margin-top:.2rem">${asOf ? 'as of ' + asOf.toLocaleString() + ' · 3-mo trend below' : ''}</div>
       <div class="muted" style="margin-top:.4rem">${esc(t.why || '')}</div>
-    </div>`).join('');
+    </div>`;
+  }).join('');
 }
 
 // ---------- All trades table ----------

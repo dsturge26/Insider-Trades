@@ -26,28 +26,43 @@ def _get(url):
 
 
 def from_yahoo(ticker):
-    """Free, no key, uniform across symbols — the most reliable source from CI."""
+    """Free, no key, uniform across symbols. Returns (prices, meta, status).
+    meta carries the latest intraday quote (regularMarketPrice updates during
+    the session, ~15-min delayed for stocks; real-time for crypto)."""
     url = (f"https://query1.finance.yahoo.com/v8/finance/chart/{ticker}"
            f"?range=3mo&interval=1d")
     try:
         data = json.loads(_get(url).decode("utf-8", "replace"))
     except urllib.error.HTTPError as e:
-        return None, f"HTTP {e.code}"
+        return None, None, f"HTTP {e.code}"
     except (urllib.error.URLError, ValueError, TimeoutError) as e:
-        return None, f"ERR {e}"
+        return None, None, f"ERR {e}"
     try:
         res = data["chart"]["result"][0]
         ts = res["timestamp"]
         closes = res["indicators"]["quote"][0]["close"]
     except (KeyError, IndexError, TypeError):
-        return None, "no data"
+        return None, None, "no data"
     out = []
     for t, c in zip(ts, closes):
         if c is None:
             continue
         out.append({"date": datetime.utcfromtimestamp(t).strftime("%Y-%m-%d"),
                     "close": round(float(c), 2)})
-    return (out[-DAYS:], "ok") if out else (None, "empty")
+    m = res.get("meta", {}) if isinstance(res, dict) else {}
+    meta = None
+    price = m.get("regularMarketPrice")
+    if price is not None:
+        prev = m.get("previousClose") or m.get("chartPreviousClose")
+        mt = m.get("regularMarketTime")
+        meta = {
+            "price": round(float(price), 2),
+            "prev_close": round(float(prev), 2) if prev else None,
+            "as_of": datetime.utcfromtimestamp(mt).strftime("%Y-%m-%dT%H:%M:%SZ") if mt else None,
+        }
+        if meta["prev_close"]:
+            meta["day_pct"] = round((meta["price"] - meta["prev_close"]) / meta["prev_close"] * 100, 2)
+    return (out[-DAYS:] if out else None, meta, "ok" if out else "empty")
 
 
 def from_fmp(ticker):
@@ -92,8 +107,8 @@ def main():
     with open(PATH) as f:
         doc = json.load(f)
     for t in doc.get("tickers", []):
-        prices, src = None, ""
-        prices, st = from_yahoo(t["ticker"])
+        prices, meta, src = None, None, ""
+        prices, meta, st = from_yahoo(t["ticker"])
         src = f"yahoo:{st}"
         if not prices:
             prices, st = from_fmp(t["ticker"])
@@ -104,10 +119,20 @@ def main():
             src += f" | stooq:{st}"
         if prices:
             t["prices"] = prices
-            print(f"  {t['ticker']}: {len(prices)} closes ({src})")
+            # Live-ish quote (intraday). Fall back to last close if no meta.
+            if meta and meta.get("price") is not None:
+                t["last"] = meta["price"]
+                t["prev_close"] = meta.get("prev_close")
+                t["day_pct"] = meta.get("day_pct")
+                t["as_of"] = meta.get("as_of")
+            else:
+                t["last"] = prices[-1]["close"]
+                t.pop("day_pct", None); t.pop("as_of", None)
+            print(f"  {t['ticker']}: {len(prices)} closes, last {t['last']} ({src})")
         else:
             print(f"  {t['ticker']}: kept previous ({src})", file=sys.stderr)
-        debug["tickers"][t["ticker"]] = {"source": src, "count": len(prices or [])}
+        debug["tickers"][t["ticker"]] = {"source": src, "count": len(prices or []),
+                                         "last": t.get("last")}
     doc["last_updated"] = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
     with open(PATH, "w") as f:
         json.dump(doc, f, indent=1)

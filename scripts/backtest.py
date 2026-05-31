@@ -26,6 +26,7 @@ MONTHS = int(os.environ.get("BACKTEST_MONTHS", "24"))
 MAX_POSTS = int(os.environ.get("BACKTEST_MAX_POSTS", "4000"))
 REUSE = os.environ.get("BACKTEST_REUSE", "").lower() in ("1", "true", "yes")
 HORIZONS = [1, 3, 5]          # trading days after the post
+INTRADAY_H = [1, 4]           # hours after the post (fast reaction)
 ARCHIVE = "https://ix.cnn.io/data/truth-social/truth_archive.json"
 RAW = os.path.join(ROOT, "data", "backtest_signals_raw.json")
 RESULTS = os.path.join(ROOT, "data", "backtest_results.json")
@@ -76,6 +77,49 @@ def fwd_returns(series, post_day):
         j = base_idx + h
         if j < len(series):
             out[h] = (series[j][1] - base) / base * 100
+    return out or None
+
+
+def yahoo_hourly(ticker):
+    """~2y of hourly bars: [(epoch, close)] sorted, or None. Captures the
+    intraday reaction the daily-close test misses."""
+    sym = CRYPTO.get(ticker, ticker)
+    if sym is None:
+        return None
+    url = (f"https://query1.finance.yahoo.com/v8/finance/chart/{sym}"
+           f"?range=730d&interval=1h")
+    try:
+        data = json.loads(get(url, 30).decode("utf-8", "replace"))
+        res = data["chart"]["result"][0]
+        ts, closes = res["timestamp"], res["indicators"]["quote"][0]["close"]
+    except (urllib.error.URLError, ValueError, KeyError, IndexError, TypeError):
+        return None
+    out = [(int(t), float(c)) for t, c in zip(ts, closes) if c is not None]
+    return out or None
+
+
+def post_epoch(iso):
+    try:
+        return datetime.fromisoformat(iso.replace("Z", "+00:00")).timestamp()
+    except ValueError:
+        return None
+
+
+def intraday_returns(series_h, epoch):
+    """Entry = first hourly bar at/after the post; returns pct at +Nh."""
+    if epoch is None:
+        return None
+    base_i = next((i for i, (t, _) in enumerate(series_h) if t >= epoch), None)
+    if base_i is None:
+        return None
+    base = series_h[base_i][1]
+    if base == 0:
+        return None
+    out = {}
+    for h in INTRADAY_H:
+        j = next((i for i, (t, _) in enumerate(series_h) if t >= epoch + h * 3600), None)
+        if j is not None and j < len(series_h):
+            out[h] = (series_h[j][1] - base) / base * 100
     return out or None
 
 
@@ -151,13 +195,16 @@ def main():
             signals = classify_history()
         debug["signals_classified"] = len(signals)
 
-        hist, missing = {}, set()
+        hist, hist_h, missing = {}, {}, set()
         for sig in signals:
             tk = sig["ticker"]
             if tk and tk not in hist and tk not in missing:
                 h = yahoo_history(tk)
                 if h:
                     hist[tk] = h
+                    hh = yahoo_hourly(tk)
+                    if hh:
+                        hist_h[tk] = hh
                 else:
                     missing.add(tk)
 
@@ -167,9 +214,17 @@ def main():
             if not series:
                 continue
             fr = fwd_returns(series, sig["date"][:10])
-            if fr:
-                evaluated.append(dict(sig, returns=fr))
+            if not fr:
+                continue
+            rec = dict(sig, returns=fr)
+            seh = hist_h.get(sig["ticker"])
+            if seh:
+                ir = intraday_returns(seh, post_epoch(sig["date"]))
+                if ir:
+                    rec["intraday"] = ir
+            evaluated.append(rec)
         debug["signals_evaluated"] = len(evaluated)
+        debug["with_intraday"] = sum(1 for r in evaluated if "intraday" in r)
 
         results = summarize(evaluated, signals, missing)
         with open(RESULTS, "w") as f:
@@ -187,11 +242,11 @@ def main():
     return 0  # never fail the job — artifacts + debug are committed either way
 
 
-def _stats(rows, h):
+def _stats(rows, h, field="returns"):
     """signed return = +fwd for BUY, -fwd for SELL (the side you'd take)."""
     vals, signed, hits = [], [], 0
     for r in rows:
-        fr = r["returns"].get(h)
+        fr = r.get(field, {}).get(h)
         if fr is None:
             continue
         vals.append(fr)
@@ -214,9 +269,18 @@ def summarize(evaluated, all_signals, missing):
         "months": MONTHS, "model": cls.MODEL, "horizons": HORIZONS,
         "signals_classified": len(all_signals),
         "signals_evaluated": len(evaluated),
+        "with_intraday": sum(1 for r in evaluated if "intraday" in r),
         "tickers_missing_price": sorted(missing),
-        "by_horizon": {}, "by_direction": {}, "by_strength": {}, "by_ticker": {},
+        "intraday_hours": INTRADAY_H,
+        "by_horizon": {}, "by_intraday": {}, "by_direction": {},
+        "by_strength": {}, "by_ticker": {},
     }
+    intr = [r for r in evaluated if r.get("intraday") and r["direction"] in ("BUY", "SELL")]
+    for h in INTRADAY_H:
+        s = _stats(intr, h, "intraday")
+        base = [r["intraday"][h] for r in evaluated if r.get("intraday", {}).get(h) is not None]
+        s["baseline_long_return"] = round(sum(base) / len(base), 2) if base else None
+        out["by_intraday"][h] = s
     dirs = ["BUY", "SELL", "WATCH"]
     for h in HORIZONS:
         directional = [r for r in evaluated if r["direction"] in ("BUY", "SELL")]
@@ -255,7 +319,15 @@ def render_report(r):
     L.append(f"- Signals with price data (evaluated): **{r['signals_evaluated']}**")
     if r["tickers_missing_price"]:
         L.append(f"- Tickers skipped (no price series): {', '.join(r['tickers_missing_price'])}")
-    L.append("\n## Directional edge by horizon")
+    L.append(f"- Signals with intraday (hourly) data: **{r.get('with_intraday', 0)}**")
+    L.append("\n## Fast reaction — intraday (hours after post)")
+    L.append("This is the signal the daily-close test misses. `avg signed` = return on the implied side.\n")
+    L.append("| After | N | Hit rate | Avg signed return | Baseline (long) |")
+    L.append("|---|---|---|---|---|")
+    for h in r.get("intraday_hours", []):
+        s = r["by_intraday"].get(h) or r["by_intraday"].get(str(h)) or {}
+        L.append(f"| {h}h | {s.get('n')} | {s.get('hit_rate')}% | {s.get('avg_signed_return')}% | {s.get('baseline_long_return')}% |")
+    L.append("\n## Directional edge by horizon (trading days)")
     L.append("BUY hits = return > 0; SELL hits = return < 0. `avg signed` = return on the side the signal implied. Compare to `baseline` (just being long the same tickers).\n")
     L.append("| Horizon | N | Hit rate | Avg signed return | Baseline (long) |")
     L.append("|---|---|---|---|---|")
