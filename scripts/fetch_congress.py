@@ -111,11 +111,36 @@ def write_debug():
         json.dump(debug, f, indent=1)
 
 
+def throttled():
+    """On frequent schedules, skip the FMP call if the live data is still fresh.
+    Keeps us well under FMP's 250-req/day free limit. CONGRESS_MAX_AGE_HOURS=0
+    (set on manual runs) forces a refresh."""
+    max_age = float(os.environ.get("CONGRESS_MAX_AGE_HOURS", "6"))
+    if max_age <= 0:
+        return False
+    try:
+        with open(OUT) as f:
+            prev = json.load(f)
+        if prev.get("is_sample"):
+            return False
+        last = datetime.strptime(prev["last_updated"], "%Y-%m-%dT%H:%M:%SZ").replace(tzinfo=timezone.utc)
+        age_h = (datetime.now(timezone.utc) - last).total_seconds() / 3600
+        if age_h < max_age:
+            print(f"Congress data is {age_h:.1f}h old (< {max_age}h) — skipping FMP fetch.")
+            return True
+    except (OSError, ValueError, KeyError):
+        pass
+    return False
+
+
 def main():
     if not KEY:
         debug["note"] = "FMP_API_KEY not set in the workflow environment."
         write_debug()
         print("No FMP_API_KEY — keeping seed data.", file=sys.stderr)
+        return 0
+
+    if throttled():
         return 0
 
     rows = pull_chamber("Senate") + pull_chamber("House")

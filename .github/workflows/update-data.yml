@@ -5,8 +5,9 @@ name: Update data
 # - Trump ticker prices: always refreshed from Stooq (no key needed).
 on:
   schedule:
-    - cron: "0 11 * * *"   # daily ~11:00 UTC
-  workflow_dispatch: {}     # let you run it on demand from the Actions tab
+    - cron: "*/15 * * * *"  # every 15 min: Trump posts + prices refresh fast;
+                            # congress (FMP) self-throttles to ~every 6h.
+  workflow_dispatch: {}     # manual run forces a full refresh (congress included)
 
 permissions:
   contents: write
@@ -28,6 +29,8 @@ jobs:
       - name: Fetch congressional trades (FMP)
         env:
           FMP_API_KEY: ${{ secrets.FMP_API_KEY }}
+          # Manual runs force a refresh; scheduled runs skip if data < 6h old.
+          CONGRESS_MAX_AGE_HOURS: ${{ github.event_name == 'workflow_dispatch' && '0' || '6' }}
         run: python scripts/fetch_congress.py
 
       - name: Fetch Trump's latest Truth Social posts (CNN archive)
