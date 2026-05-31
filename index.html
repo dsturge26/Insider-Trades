@@ -3,132 +3,68 @@
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>Trump &amp; Congress Trade Tracker</title>
-<meta name="description" content="Personal tracker of public Trump market-moving posts and Congressional STOCK Act stock disclosures." />
-<link rel="stylesheet" href="css/style.css?v=20260531h" />
+<title>Signal Tracker</title>
+<meta name="description" content="A unified feed of public market signals — politician & insider disclosures, federal contracts, Trump posts, and retail buzz." />
+<link rel="stylesheet" href="css/style.css?v=20260531i" />
 </head>
 <body>
 <header class="topbar">
   <div class="brand">
-    <span class="logo">📈</span>
+    <span class="logo">📡</span>
     <div>
-      <h1>Trump &amp; Congress Trade Tracker</h1>
-      <p class="sub">A tracker of public Trump posts + Congressional disclosures — not a trading strategy</p>
+      <h1>Signal Tracker</h1>
+      <p class="sub">Public market signals from many sources — not a trading strategy</p>
     </div>
   </div>
   <div class="freshness" id="freshness">loading…</div>
 </header>
 
 <div class="disclaimer" id="disclaimer">
-  <strong>A tracker, not advice.</strong> Everything here is public record — Trump's posts and STOCK Act filings. <strong>A 2-year backtest of these signals found no edge over simply buying and holding</strong> (direction was ~50/50, and the strength score didn't predict returns). Treat the Buy/Sell/Watch tags as <em>"what the post implies,"</em> not recommendations. Congressional disclosures also lag real trades by 30–45 days. <strong>Not financial advice.</strong>
+  <strong>A tracker, not advice.</strong> Signals are aggregated from <strong>public</strong> sources — politician & insider disclosures, federal contracts, Trump's posts, and Reddit. A 2-year backtest found the Trump-post signals <strong>don't beat buy-and-hold</strong>; other sources are still being measured. Tags show what a signal <em>implies</em>, not a recommendation. <strong>Not financial advice.</strong>
   <button id="dismiss" aria-label="dismiss">✕</button>
 </div>
 
 <nav class="tabs">
-  <button class="tab active" data-tab="summary">📊 Summary</button>
-  <button class="tab" data-tab="signals">🚨 Trump Signals</button>
-  <button class="tab" data-tab="topbuys">🔥 Top Buys</button>
-  <button class="tab" data-tab="more">🏦 More Signals</button>
-  <button class="tab" data-tab="tickers">🎯 Trump Tickers</button>
-  <button class="tab" data-tab="trades">📋 All Congress Trades</button>
+  <button class="tab active" data-tab="feed">🎯 Signals</button>
+  <button class="tab" data-tab="prices">📈 Prices</button>
 </nav>
 
 <main>
-  <!-- SUMMARY -->
-  <section class="panel active" id="summary">
-    <h2>At a glance</h2>
-    <p class="muted">A quick read of what Trump's latest posts <em>imply</em> for the market — buy / sell / watch as judged by AI. Backtesting showed these don't beat buy-and-hold, so treat it as awareness, not a strategy. Tap a row for the post and reasoning.</p>
-    <div id="summary-content"></div>
-  </section>
-
-  <!-- TRUMP SIGNALS -->
-  <section class="panel" id="signals">
-    <h2>Market-moving Trump statements</h2>
-    <p class="muted" id="signals-howto"></p>
+  <!-- UNIFIED SIGNAL FEED -->
+  <section class="panel active" id="feed">
+    <div class="chips" id="source-chips"></div>
     <div class="controls">
-      <label>Window:
-        <select id="sig-window">
-          <option value="1">Last 24 hours</option>
-          <option value="7">Last week</option>
-          <option value="30">Last month</option>
-          <option value="100000" selected>All time</option>
-        </select>
-      </label>
       <label>Sort by:
-        <select id="sig-sort">
+        <select id="feed-sort">
           <option value="strength" selected>Strength</option>
           <option value="recent">Most recent</option>
         </select>
       </label>
-      <span class="muted" id="sig-count"></span>
+      <span class="muted" id="feed-count"></span>
     </div>
-    <div id="signals-list" class="cards"></div>
+    <div id="feed-list" class="cards"></div>
   </section>
 
-  <!-- TOP BUYS -->
-  <section class="panel" id="topbuys">
-    <h2>Most-bought tickers <span class="muted" id="topbuys-window"></span></h2>
-    <p class="muted">Ranked by how many members of Congress are buying and net dollar weight, from public STOCK Act disclosures. Note: filings lag the actual trades by 30–45 days, so this is a record of what they bought, not a real-time tip.</p>
-    <div class="controls">
-      <label>Lookback:
-        <select id="lookback">
-          <option value="90">90 days</option>
-          <option value="180" selected>180 days</option>
-          <option value="365">1 year</option>
-          <option value="100000">All data</option>
-        </select>
-      </label>
-    </div>
-    <div id="topbuys-list" class="rank-list"></div>
-  </section>
-
-  <!-- MORE SIGNALS -->
-  <section class="panel" id="more">
-    <h2>🏦 Corporate insider buys <span class="muted">(SEC Form 4)</span></h2>
-    <p class="muted">Executives and directors buying their own company's stock — the classic legal insider signal. Cluster buys (several insiders, one name) score highest. Strongest first.</p>
-    <div id="insiders-list" class="rank-list"></div>
-    <h2 style="margin-top:1.5rem">🔥 Retail buzz <span class="muted">(r/wallstreetbets)</span></h2>
-    <p class="muted">Tickers spiking in WallStreetBets mentions — retail crowd momentum, high-variance. This is attention, not a buy/sell call. Untested as a strategy.</p>
-    <div id="wsb-list" class="rank-list"></div>
-  </section>
-
-  <!-- TRUMP TICKERS -->
-  <section class="panel" id="tickers">
-    <h2>Trump-linked tickers to watch</h2>
+  <!-- LIVE PRICES -->
+  <section class="panel" id="prices">
+    <h2>Live prices — Trump-linked tickers</h2>
+    <p class="muted">Intraday quotes (stocks ~15-min delayed, crypto real-time) with a 3-month trend.</p>
     <div id="tickers-list" class="cards"></div>
-  </section>
-
-  <!-- ALL TRADES -->
-  <section class="panel" id="trades">
-    <h2>Congressional disclosures</h2>
-    <div class="controls">
-      <input id="search" type="search" placeholder="Filter by ticker, politician, company…" />
-      <select id="type-filter">
-        <option value="">All types</option>
-        <option value="Purchase">Buys</option>
-        <option value="Sale">Sells</option>
-      </select>
-    </div>
-    <div class="table-wrap">
-      <table id="trades-table">
-        <thead><tr><th>Date</th><th>Politician</th><th>Ticker</th><th>Type</th><th>Amount</th><th></th></tr></thead>
-        <tbody></tbody>
-      </table>
-    </div>
-    <div class="muted" id="trades-count"></div>
   </section>
 </main>
 
 <footer>
-  <p>Sources: <a href="https://disclosures-clerk.house.gov/" target="_blank" rel="noopener">House Clerk</a> &amp;
-     <a href="https://efdsearch.senate.gov/" target="_blank" rel="noopener">Senate EFD</a> &amp;
-     <a href="https://site.financialmodelingprep.com/" target="_blank" rel="noopener">Financial Modeling Prep</a> (congressional trades),
-     <a href="https://truthsocial.com/@realDonaldTrump" target="_blank" rel="noopener">Truth Social</a> via CNN's archive (posts),
-     <a href="https://www.anthropic.com/" target="_blank" rel="noopener">Anthropic Claude</a> (classification),
+  <p>Sources: <a href="https://disclosures-clerk.house.gov/" target="_blank" rel="noopener">House Clerk</a> /
+     <a href="https://efdsearch.senate.gov/" target="_blank" rel="noopener">Senate EFD</a> /
+     <a href="https://site.financialmodelingprep.com/" target="_blank" rel="noopener">FMP</a> (congress + insiders),
+     <a href="https://www.usaspending.gov/" target="_blank" rel="noopener">USAspending</a> (contracts),
+     <a href="https://truthsocial.com/@realDonaldTrump" target="_blank" rel="noopener">Truth Social</a> via CNN (posts),
+     <a href="https://apewisdom.io/" target="_blank" rel="noopener">ApeWisdom</a> (Reddit buzz),
+     <a href="https://www.anthropic.com/" target="_blank" rel="noopener">Claude</a> (classification),
      <a href="https://finance.yahoo.com/" target="_blank" rel="noopener">Yahoo Finance</a> (prices).
      Personal project. Not affiliated with any official entity. Not financial advice.</p>
 </footer>
 
-<script src="js/app.js?v=20260531h"></script>
+<script src="js/app.js?v=20260531i"></script>
 </body>
 </html>

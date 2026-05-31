@@ -34,6 +34,13 @@ main{max-width:1000px;margin:0 auto;padding:1.25rem}
 .panel{display:none}
 .panel.active{display:block}
 
+.chips{display:flex;gap:.4rem;flex-wrap:wrap;margin:.75rem 0 .25rem}
+.chip{background:var(--panel);border:1px solid var(--line);color:var(--muted);
+  padding:.35rem .7rem;border-radius:999px;cursor:pointer;font-size:.85rem;white-space:nowrap}
+.chip:hover{color:var(--txt)}
+.chip.active{color:#fff;border-color:var(--accent);background:var(--panel2)}
+.srctag{font-size:.7rem;color:var(--muted);background:var(--panel2);border:1px solid var(--line);
+  padding:.12rem .4rem;border-radius:5px;white-space:nowrap}
 .controls{display:flex;gap:.6rem;flex-wrap:wrap;margin:.75rem 0}
 input,select{background:var(--panel);border:1px solid var(--line);color:var(--txt);
   padding:.5rem .7rem;border-radius:8px;font-size:.9rem}

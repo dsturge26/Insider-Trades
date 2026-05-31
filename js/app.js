@@ -1,5 +1,4 @@
-// Trump & Congress Trade Tracker — static dashboard.
-// Loads /data/*.json (kept fresh by the GitHub Action) and renders everything client-side.
+// Signal Tracker — one unified feed across all sources.
 'use strict';
 
 const $ = (s, r = document) => r.querySelector(s);
@@ -8,19 +7,27 @@ const fmtUSD = n => n >= 1e6 ? '$' + (n / 1e6).toFixed(1) + 'M'
   : n >= 1e3 ? '$' + Math.round(n / 1e3) + 'K' : '$' + n;
 const fmtDate = s => { const d = new Date(s); return isNaN(d) ? s : d.toLocaleDateString(undefined, { year: 'numeric', month: 'short', day: 'numeric' }); };
 const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+const flames = s => '🔥'.repeat(Math.max(1, Math.min(5, Math.round((s || 0) / 20))));
 
-const state = { trades: [], signals: null, tickers: null, meta: null };
+// Source registry: label + emoji. New sources just add a row here.
+const SOURCES = {
+  Trump: '🚨', News: '📰', Contract: '📑', Insider: '🏦', Congress: '🏛️', Buzz: '🔥',
+};
+const isBuy = t => /purchase|buy/i.test(t || '');
+const isSell = t => /sale|sell/i.test(t || '');
 
-async function getJSON(path) {
-  try { const r = await fetch(path, { cache: 'no-store' }); if (!r.ok) throw 0; return await r.json(); }
+const state = { filter: 'All', sort: 'strength', signals: [] };
+
+async function getJSON(p) {
+  try { const r = await fetch(p, { cache: 'no-store' }); if (!r.ok) throw 0; return await r.json(); }
   catch { return null; }
 }
 
 async function boot() {
   setupTabs();
-  $('#dismiss').onclick = () => $('#disclaimer').remove();
+  const dis = $('#dismiss'); if (dis) dis.onclick = () => $('#disclaimer').remove();
 
-  const [congress, signals, tickers, meta, insiders, wsb] = await Promise.all([
+  const [congress, trump, tickers, meta, insiders, wsb] = await Promise.all([
     getJSON('data/congress_trades.json'),
     getJSON('data/trump_signals.json'),
     getJSON('data/trump_tickers.json'),
@@ -28,30 +35,16 @@ async function boot() {
     getJSON('data/insider_signals.json'),
     getJSON('data/wsb_signals.json'),
   ]);
-  state.trades = (congress && congress.trades) || [];
-  state.congressMeta = congress;
-  state.signals = signals;
   state.tickers = tickers;
   state.meta = meta;
-  state.insiders = insiders;
-  state.wsb = wsb;
-
-  // Sample data is historical, so default to "all data" to avoid an empty window.
-  if (state.congressMeta && state.congressMeta.is_sample) $('#lookback').value = '100000';
+  state.signals = collectSignals({ congress, trump, insiders, wsb });
 
   renderFreshness();
-  renderSummary();
-  renderSignals();
-  renderMore();
-  renderTopBuys();
+  renderChips();
+  renderFeed();
   renderTickers();
-  renderTrades();
 
-  $('#lookback').onchange = renderTopBuys;
-  $('#search').oninput = renderTrades;
-  $('#type-filter').onchange = renderTrades;
-  $('#sig-window').onchange = renderSignals;
-  $('#sig-sort').onchange = renderSignals;
+  $('#feed-sort').onchange = () => { state.sort = $('#feed-sort').value; renderFeed(); };
 }
 
 function setupTabs() {
@@ -65,239 +58,145 @@ function setupTabs() {
 
 function renderFreshness() {
   const el = $('#freshness');
-  const live = state.meta && state.meta.live;
-  const when = (state.meta && state.meta.updated_at) || (state.congressMeta && state.congressMeta.last_updated);
-  el.textContent = (live ? '● Live · ' : '○ Sample data · ') + 'updated ' + fmtDate(when);
-  el.classList.toggle('live', !!live);
-  el.title = live ? '' : (state.meta && state.meta.message) || 'Add an FMP_API_KEY secret to enable live updates.';
+  const when = (state.meta && state.meta.updated_at);
+  el.textContent = (state.meta && state.meta.live ? '● Live · ' : '○ ') + 'updated ' + fmtDate(when);
+  el.classList.toggle('live', !!(state.meta && state.meta.live));
 }
 
-// ---------- Trump signals ----------
-const flames = s => '🔥'.repeat(Math.max(1, Math.min(5, Math.round((s || 0) / 20))));
+// ---------- Normalize every source into one shape ----------
+// { source, ticker, direction, strength, reason, date, url, text?, price_since?, explicit? }
+function collectSignals({ congress, trump, insiders, wsb }) {
+  const out = [];
 
-// Classified market signals (+ curated), weak noise hidden, strongest first.
-function signalList() {
-  return ((state.signals && state.signals.events) || [])
-    .filter(e => e.curated || (e.classified && e.is_market && (e.strength || 0) >= 35))
-    .sort((a, b) => (b.strength || 0) - (a.strength || 0)
-      || String(b.date).localeCompare(String(a.date)));
+  // Trump posts / news / contracts (already classified, share one file)
+  ((trump && trump.events) || []).forEach(e => {
+    if (!(e.curated || (e.classified && e.is_market))) return;
+    if (!e.curated && (e.strength || 0) < 35) return; // hide weak noise
+    const src = /contract/i.test(e.platform) ? 'Contract' : /news/i.test(e.platform) ? 'News' : 'Trump';
+    out.push({
+      source: src, ticker: e.primary_ticker, direction: (e.direction || 'WATCH').toUpperCase(),
+      strength: e.strength || 0, reason: e.reason || '', date: e.date, url: e.url,
+      text: e.text, price_since: e.price_since, explicit: e.explicit,
+    });
+  });
+
+  // Corporate insider buys
+  ((insiders && insiders.signals) || []).forEach(s => out.push({
+    source: 'Insider', ticker: s.ticker, direction: 'BUY', strength: s.strength || 0,
+    reason: s.reason || '', date: s.date, url: s.url,
+  }));
+
+  // Congress: aggregate buys per ticker (last ~year) into one signal each
+  const cutoff = Date.now() - 365 * 86400000;
+  const agg = {};
+  ((congress && congress.trades) || []).forEach(t => {
+    if (!t.ticker || new Date(t.date).getTime() < cutoff || !isBuy(t.type)) return;
+    const a = agg[t.ticker] || (agg[t.ticker] = { buyers: new Set(), buys: 0, date: t.date, url: t.disclosure_url });
+    a.buyers.add(t.politician); a.buys++;
+    if (t.date > a.date) { a.date = t.date; a.url = t.disclosure_url; }
+  });
+  Object.entries(agg).forEach(([ticker, a]) => {
+    const n = a.buyers.size;
+    out.push({
+      source: 'Congress', ticker, direction: 'BUY',
+      strength: Math.min(100, 35 + n * 12 + a.buys * 2),
+      reason: `${n} member${n !== 1 ? 's' : ''} buying (${a.buys} trade${a.buys !== 1 ? 's' : ''})`,
+      date: a.date, url: a.url,
+    });
+  });
+
+  // Reddit / WSB buzz (attention, not a buy/sell call)
+  ((wsb && wsb.signals) || []).forEach(s => {
+    const chg = s.change_pct;
+    out.push({
+      source: 'Buzz', ticker: s.ticker, direction: 'WATCH',
+      strength: Math.max(15, 85 - (s.rank || 25) * 3),
+      reason: `${s.mentions} WSB mentions${chg != null ? ` (${chg >= 0 ? '+' : ''}${chg}% /24h)` : ''}`,
+      date: state.metaWsb || s.date || new Date().toISOString(),
+      url: 'https://apewisdom.io/stocks/' + encodeURIComponent(s.ticker || ''),
+    });
+  });
+
+  return out.filter(s => s.ticker);
 }
 
-// ---------- Summary (snapshot) ----------
-function renderSummary() {
-  const wrap = $('#summary-content');
-  const events = signalList();
-  if (!events.length) {
-    wrap.innerHTML = '<div class="empty">No signals yet — the next data run will classify his latest posts.</div>';
-    return;
-  }
-  const groups = { BUY: [], SELL: [], WATCH: [] };
-  events.forEach(e => (groups[(e.direction || 'WATCH').toUpperCase()] || groups.WATCH).push(e));
-  const meta = { BUY: ['buy', '🟢 Buy'], SELL: ['sell', '🔴 Sell'], WATCH: ['watch', '🟡 Watch'] };
-
-  wrap.innerHTML = Object.keys(meta).map(dir => {
-    const rows = groups[dir];
-    if (!rows.length) return '';
-    const [cls, label] = meta[dir];
-    return `<div class="sumgroup">
-      <div class="sumhead ${cls}">${label} <span class="muted">(${rows.length})</span></div>
-      ${rows.map(e => {
-        const ps = e.price_since;
-        return `<div class="sumrow">
-          <span class="sumtk">${e.explicit ? '⭐' : ''}$${esc(e.primary_ticker || '—')}</span>
-          <span class="sumstr" title="strength ${e.strength || 0}/100">${flames(e.strength)} ${e.strength || 0}</span>
-          <span class="sumreason">${esc(e.reason || e.text || '')}</span>
-          ${ps ? `<span class="since ${ps.pct >= 0 ? 'up' : 'down'}">${ps.pct >= 0 ? '+' : ''}${ps.pct}%</span>` : ''}
-          ${e.url ? `<a class="sumsrc" href="${esc(e.url)}" target="_blank" rel="noopener">↗</a>` : ''}
-        </div>`;
-      }).join('')}
-    </div>`;
+// ---------- Filter chips ----------
+function renderChips() {
+  const counts = { All: state.signals.length };
+  state.signals.forEach(s => { counts[s.source] = (counts[s.source] || 0) + 1; });
+  const order = ['All', ...Object.keys(SOURCES).filter(k => counts[k])];
+  $('#source-chips').innerHTML = order.map(k => {
+    const label = k === 'All' ? 'All' : `${SOURCES[k]} ${k}`;
+    return `<button class="chip ${state.filter === k ? 'active' : ''}" data-src="${k}">${label} <span class="muted">${counts[k] || 0}</span></button>`;
   }).join('');
+  $$('#source-chips .chip').forEach(c => c.onclick = () => {
+    state.filter = c.dataset.src; renderChips(); renderFeed();
+  });
 }
 
-function renderSignals() {
-  const wrap = $('#signals-list');
-  $('#signals-howto').textContent =
-    "AI's read of what each public post implies for a ticker. A 2-year backtest found these signals don't beat buy-and-hold and the strength score doesn't predict returns — so this is for awareness, not trading. Not financial advice.";
-  const days = +(($('#sig-window') || {}).value || 100000);
-  const sort = (($('#sig-sort') || {}).value || 'strength');
-  const cutoff = Date.now() - days * 86400000;
+// ---------- The feed ----------
+function renderFeed() {
+  let rows = state.signals.filter(s => state.filter === 'All' || s.source === state.filter);
+  rows.sort(state.sort === 'recent'
+    ? (a, b) => String(b.date).localeCompare(String(a.date)) || (b.strength - a.strength)
+    : (a, b) => (b.strength - a.strength) || String(b.date).localeCompare(String(a.date)));
+  rows = rows.slice(0, 150);
 
-  let events = signalList().filter(e => new Date(e.date).getTime() >= cutoff);
-  if (sort === 'recent') {
-    events.sort((a, b) => String(b.date).localeCompare(String(a.date))
-      || (b.strength || 0) - (a.strength || 0));
-  } // else: signalList() is already strength-first
+  $('#feed-count').textContent = `${rows.length} signal${rows.length !== 1 ? 's' : ''}`;
+  const wrap = $('#feed-list');
+  if (!rows.length) { wrap.innerHTML = '<div class="empty">No signals here yet — the data job populates these.</div>'; return; }
 
-  const cnt = $('#sig-count');
-  if (cnt) cnt.textContent = `${events.length} signal${events.length !== 1 ? 's' : ''}`;
-  if (!events.length) {
-    wrap.innerHTML = '<div class="empty">No signals in this window — try a longer window.</div>';
-    return;
-  }
-  // Collapsed by default: just direction + ticker + strength. Tap to expand.
-  wrap.innerHTML = events.map(e => {
-    const dir = (e.direction || 'WATCH').toUpperCase();
-    const others = (e.tickers || []).filter(t => t !== e.primary_ticker)
-      .map(t => `<span class="tag">$${esc(t)}</span>`).join('');
-    const ps = e.price_since;
-    const psHtml = ps ? `<div class="since ${ps.pct >= 0 ? 'up' : 'down'}">$${esc(ps.ticker)} ${ps.pct >= 0 ? '+' : ''}${ps.pct}% since post</div>` : '';
-    return `<details class="card dir-${dir.toLowerCase()}">
+  wrap.innerHTML = rows.map(s => {
+    const dir = (s.direction || 'WATCH').toLowerCase();
+    const ps = s.price_since;
+    return `<details class="card dir-${dir}">
       <summary class="sighead">
-        <span class="badge ${dir.toLowerCase()}">${dir}</span>
-        ${e.primary_ticker ? `<span class="bigticker">$${esc(e.primary_ticker)}</span>` : ''}
-        ${e.explicit ? '<span class="star" title="explicit single-company call">⭐</span>' : ''}
-        <span class="flames" title="strength ${e.strength || 0}/100">${flames(e.strength)} <span class="muted">${e.strength || 0}</span></span>
-        ${ps ? `<span class="since ${ps.pct >= 0 ? 'up' : 'down'}" title="move since post">${ps.pct >= 0 ? '+' : ''}${ps.pct}%</span>` : ''}
+        <span class="srctag">${SOURCES[s.source] || ''} ${esc(s.source)}</span>
+        <span class="bigticker">$${esc(s.ticker)}</span>
+        <span class="badge ${dir}">${esc((s.direction || 'WATCH').toUpperCase())}</span>
+        ${s.explicit ? '<span class="star" title="explicit single-company call">⭐</span>' : ''}
+        <span class="flames" title="strength ${s.strength}/100">${flames(s.strength)} <span class="muted">${s.strength}</span></span>
+        ${ps ? `<span class="since ${ps.pct >= 0 ? 'up' : 'down'}">${ps.pct >= 0 ? '+' : ''}${ps.pct}%</span>` : ''}
         <span class="chev">▸</span>
       </summary>
       <div class="cardbody">
-        <div class="quote">“${esc(e.text)}”</div>
-        ${e.reason ? `<div class="why">↳ ${esc(e.reason)}</div>` : ''}
-        ${psHtml}
-        ${e.market_reaction ? `<div class="react">📊 ${esc(e.market_reaction)}</div>` : ''}
+        ${s.reason ? `<div class="why">↳ ${esc(s.reason)}</div>` : ''}
+        ${s.text ? `<div class="quote">“${esc(s.text)}”</div>` : ''}
+        ${ps ? `<div class="since ${ps.pct >= 0 ? 'up' : 'down'}">$${esc(ps.ticker)} ${ps.pct >= 0 ? '+' : ''}${ps.pct}% since signal</div>` : ''}
         <div class="tagrow">
-          <span class="when">${esc(e.platform || '')} · ${fmtDate(e.date)}</span>
-          ${others}
-          ${e.url ? `<a class="tag" href="${esc(e.url)}" target="_blank" rel="noopener">source ↗</a>` : ''}
+          <span class="when">${esc(s.source)} · ${fmtDate(s.date)}</span>
+          ${s.url ? `<a class="tag" href="${esc(s.url)}" target="_blank" rel="noopener">source ↗</a>` : ''}
         </div>
       </div>
     </details>`;
   }).join('');
 }
 
-// ---------- More signals: insiders + WSB ----------
-function renderMore() {
-  const ins = ((state.insiders && state.insiders.signals) || [])
-    .slice().sort((a, b) => (b.strength || 0) - (a.strength || 0)).slice(0, 30);
-  const iw = $('#insiders-list');
-  iw.innerHTML = ins.length ? ins.map(s => `
-    <div class="rank">
-      <div style="min-width:90px"><div class="tk">$${esc(s.ticker)}</div>
-        <div class="meta">${fmtDate(s.date)}</div></div>
-      <div class="bar"><span style="width:${s.strength || 0}%"></span></div>
-      <div class="stat" style="min-width:auto;flex:1;text-align:left">
-        <div class="meta">${esc(s.reason || '')}</div>
-        ${s.url ? `<a class="meta" href="${esc(s.url)}" target="_blank" rel="noopener">filing ↗</a>` : ''}
-      </div>
-    </div>`).join('')
-    : '<div class="empty">No insider buys yet — add an FMP key and run the data job.</div>';
-
-  const buzz = ((state.wsb && state.wsb.signals) || []).slice(0, 25);
-  const ww = $('#wsb-list');
-  ww.innerHTML = buzz.length ? buzz.map(s => {
-    const up = (s.change_pct ?? 0) >= 0;
-    return `<div class="rank">
-      <div class="num">#${s.rank || '–'}</div>
-      <div style="min-width:90px"><div class="tk">$${esc(s.ticker)}</div>
-        <div class="meta">${esc((s.name || '').slice(0, 22))}</div></div>
-      <div class="stat"><div><b>${s.mentions}</b> mentions</div>
-        ${s.change_pct != null ? `<div class="meta ${up ? 'chg up' : 'chg down'}">${up ? '+' : ''}${s.change_pct}% / 24h</div>` : ''}</div>
-    </div>`;
-  }).join('') : '<div class="empty">No buzz data yet — runs after the data job.</div>';
-}
-
-// ---------- Top buys (the signal) ----------
-const isBuy = t => /purchase|buy/i.test(t);
-const isSell = t => /sale|sell/i.test(t);
-
-function renderTopBuys() {
-  const days = +$('#lookback').value;
-  const cutoff = Date.now() - days * 86400000;
-  $('#topbuys-window').textContent = days >= 100000 ? '(all data)' : `(last ${days} days)`;
-
-  const agg = {};
-  for (const t of state.trades) {
-    if (new Date(t.date).getTime() < cutoff) continue;
-    const k = t.ticker;
-    if (!k) continue;
-    const a = agg[k] || (agg[k] = { ticker: k, company: t.company, buyers: new Set(), buys: 0, sells: 0, net: 0 });
-    if (isBuy(t.type)) { a.buys++; a.buyers.add(t.politician); a.net += t.amount_mid || 0; }
-    else if (isSell(t.type)) { a.sells++; a.net -= t.amount_mid || 0; }
-  }
-  let list = Object.values(agg)
-    .map(a => ({ ...a, nbuyers: a.buyers.size, score: a.buyers.size * 2 + a.buys + Math.log10((a.net > 0 ? a.net : 1)) }))
-    .filter(a => a.buys > 0)
-    .sort((x, y) => y.score - x.score)
-    .slice(0, 15);
-
-  const wrap = $('#topbuys-list');
-  if (!list.length) { wrap.innerHTML = '<div class="empty">No buys in this window. Try a longer lookback or enable live data.</div>'; return; }
-  const max = list[0].score;
-  wrap.innerHTML = list.map((a, i) => `
-    <div class="rank">
-      <div class="num">${i + 1}</div>
-      <div style="min-width:120px">
-        <div class="tk">$${esc(a.ticker)}</div>
-        <div class="meta">${esc((a.company || '').slice(0, 28))}</div>
-      </div>
-      <div class="bar"><span style="width:${Math.round(a.score / max * 100)}%"></span></div>
-      <div class="stat">
-        <div><b>${a.nbuyers}</b> buyer${a.nbuyers !== 1 ? 's' : ''}</div>
-        <div class="meta">${a.buys}B / ${a.sells}S · ${a.net >= 0 ? '+' : '-'}${fmtUSD(Math.abs(a.net))}</div>
-      </div>
-    </div>`).join('');
-}
-
-// ---------- Trump tickers + sparklines ----------
-function sparkline(prices, trendOnly) {
-  if (!prices || prices.length < 2) return '<div class="muted">price data populates after the Action runs</div>';
+// ---------- Prices ----------
+function sparkline(prices) {
+  if (!prices || prices.length < 2) return '<div class="muted">price data populates after the data job runs</div>';
   const vals = prices.map(p => p.close);
   const min = Math.min(...vals), max = Math.max(...vals), W = 280, H = 48;
   const pts = vals.map((v, i) => `${(i / (vals.length - 1) * W).toFixed(1)},${(H - (v - min) / ((max - min) || 1) * H).toFixed(1)}`).join(' ');
   const up = vals[vals.length - 1] >= vals[0];
-  const first = vals[0], last = vals[vals.length - 1], chg = ((last - first) / first * 100);
-  const header = trendOnly ? '' :
-    `<div class="price">$${last.toFixed(2)} <span class="chg ${up ? 'up' : 'down'}">${chg >= 0 ? '+' : ''}${chg.toFixed(1)}%</span></div>`;
-  return `${header}<svg class="spark" viewBox="0 0 ${W} ${H}" preserveAspectRatio="none">
-      <polyline fill="none" stroke="${up ? '#27c281' : '#ef5b6b'}" stroke-width="2" points="${pts}"/>
-    </svg>`;
+  return `<svg class="spark" viewBox="0 0 ${W} ${H}" preserveAspectRatio="none">
+      <polyline fill="none" stroke="${up ? '#27c281' : '#ef5b6b'}" stroke-width="2" points="${pts}"/></svg>`;
 }
 function renderTickers() {
   const wrap = $('#tickers-list');
   const list = (state.tickers && state.tickers.tickers) || [];
-  const asOf = (state.tickers && state.tickers.last_updated)
-    ? new Date(state.tickers.last_updated) : null;
+  const asOf = (state.tickers && state.tickers.last_updated) ? new Date(state.tickers.last_updated) : null;
   wrap.innerHTML = list.map(t => {
-    const live = t.last;
-    const up = (t.day_pct ?? 0) >= 0;
+    const live = t.last, up = (t.day_pct ?? 0) >= 0;
     const head = live != null
-      ? `<div class="price">$${live.toFixed(2)}${t.day_pct != null
-          ? ` <span class="chg ${up ? 'up' : 'down'}">${up ? '+' : ''}${t.day_pct}% today</span>` : ''}</div>`
-      : '';
+      ? `<div class="price">$${live.toFixed(2)}${t.day_pct != null ? ` <span class="chg ${up ? 'up' : 'down'}">${up ? '+' : ''}${t.day_pct}% today</span>` : ''}</div>` : '';
     return `<div class="card">
       <div class="quote">$${esc(t.ticker)} <span class="muted" style="font-weight:400">${esc(t.company)}</span></div>
-      ${head}
-      ${sparkline(t.prices, true)}
-      <div class="muted" style="font-size:.75rem;margin-top:.2rem">${asOf ? 'as of ' + asOf.toLocaleString() + ' · 3-mo trend below' : ''}</div>
+      ${head}${sparkline(t.prices)}
+      <div class="muted" style="font-size:.75rem;margin-top:.2rem">${asOf ? 'as of ' + asOf.toLocaleString() + ' · 3-mo trend' : ''}</div>
       <div class="muted" style="margin-top:.4rem">${esc(t.why || '')}</div>
     </div>`;
   }).join('');
-}
-
-// ---------- All trades table ----------
-function renderTrades() {
-  const q = $('#search').value.trim().toLowerCase();
-  const tf = $('#type-filter').value;
-  const rows = state.trades.filter(t => {
-    if (tf === 'Purchase' && !isBuy(t.type)) return false;
-    if (tf === 'Sale' && !isSell(t.type)) return false;
-    if (!q) return true;
-    return (t.ticker + ' ' + t.politician + ' ' + t.company).toLowerCase().includes(q);
-  }).slice(0, 500);
-
-  $('#trades-table tbody').innerHTML = rows.map(t => {
-    const buy = isBuy(t.type), sell = isSell(t.type);
-    return `<tr>
-      <td>${fmtDate(t.date)}</td>
-      <td>${esc(t.politician)}</td>
-      <td><b>$${esc(t.ticker)}</b></td>
-      <td><span class="pill ${buy ? 'buy' : sell ? 'sell' : ''}">${esc(t.type)}</span></td>
-      <td>${esc(t.amount || '')}</td>
-      <td>${t.disclosure_url ? `<a href="${esc(t.disclosure_url)}" target="_blank" rel="noopener">filing ↗</a>` : ''}</td>
-    </tr>`;
-  }).join('');
-  $('#trades-count').textContent = `Showing ${rows.length} of ${state.trades.length} disclosures${state.congressMeta && state.congressMeta.is_sample ? ' · sample data — enable live updates in setup' : ''}`;
 }
 
 boot();
