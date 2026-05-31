@@ -141,6 +141,7 @@ function renderSignals() {
         <span class="badge ${dir.toLowerCase()}">${dir}</span>
         ${e.primary_ticker ? `<span class="bigticker">$${esc(e.primary_ticker)}</span>` : ''}
         <span class="flames" title="strength ${e.strength || 0}/100">${flames(e.strength)} <span class="muted">${e.strength || 0}</span></span>
+        ${ps ? `<span class="since ${ps.pct >= 0 ? 'up' : 'down'}" title="move since post">${ps.pct >= 0 ? '+' : ''}${ps.pct}%</span>` : ''}
         <span class="chev">▸</span>
       </summary>
       <div class="cardbody">
