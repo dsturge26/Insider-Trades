@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-05-31T14:45:45Z",
+ "last_updated": "2026-05-31T15:54:56Z",
  "note": "Trump-linked / 'Trump trade' tickers to watch. Prices are refreshed by the GitHub Action from Yahoo Finance (intraday quote + trend, no key; Stooq is a fallback). Stocks are ~15-min delayed, crypto is real-time.",
  "tickers": [
   {
@@ -248,7 +248,11 @@
      "date": "2026-05-29",
      "close": 9.31
     }
-   ]
+   ],
+   "last": 9.31,
+   "prev_close": 10.71,
+   "day_pct": -13.07,
+   "as_of": "2026-05-29T20:00:01Z"
   },
   {
    "ticker": "SPY",
@@ -496,7 +500,11 @@
      "date": "2026-05-29",
      "close": 756.48
     }
-   ]
+   ],
+   "last": 756.48,
+   "prev_close": 685.99,
+   "day_pct": 10.28,
+   "as_of": "2026-05-29T20:00:00Z"
   },
   {
    "ticker": "QQQ",
@@ -744,7 +752,11 @@
      "date": "2026-05-29",
      "close": 738.31
     }
-   ]
+   ],
+   "last": 738.31,
+   "prev_close": 607.29,
+   "day_pct": 21.57,
+   "as_of": "2026-05-29T20:00:01Z"
   },
   {
    "ticker": "PLTR",
@@ -992,7 +1004,11 @@
      "date": "2026-05-29",
      "close": 156.54
     }
-   ]
+   ],
+   "last": 156.54,
+   "prev_close": 137.19,
+   "day_pct": 14.1,
+   "as_of": "2026-05-29T20:00:00Z"
   },
   {
    "ticker": "XAR",
@@ -1240,7 +1256,11 @@
      "date": "2026-05-29",
      "close": 288.0
     }
-   ]
+   ],
+   "last": 288.0,
+   "prev_close": 282.94,
+   "day_pct": 1.79,
+   "as_of": "2026-05-29T20:00:00Z"
   }
  ]
 }
