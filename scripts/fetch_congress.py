@@ -39,7 +39,7 @@ def get(url: str):
 
 def fmp(chamber: str, path: str):
     """Pull paginated latest disclosures from FMP stable API."""
-    rows, page = [], 0
+    rows, page, prev_first = [], 0, None
     while page < 12:
         url = f"https://financialmodelingprep.com/stable/{path}?page={page}&limit=100&apikey={KEY}"
         try:
@@ -49,6 +49,12 @@ def fmp(chamber: str, path: str):
             break
         if not isinstance(batch, list) or not batch:
             break
+        # Some FMP endpoints ignore ?page= and keep returning the same first
+        # record. Detect that and stop, so we don't loop on duplicates.
+        sig = json.dumps(batch[0], sort_keys=True)
+        if sig == prev_first:
+            break
+        prev_first = sig
         for t in batch:
             sym = (t.get("symbol") or t.get("ticker") or "").strip().upper()
             if not sym:
@@ -87,6 +93,16 @@ def main() -> int:
     if not rows:
         print("FMP returned no usable rows — keeping existing seed data.", file=sys.stderr)
         return 0
+
+    # Drop duplicates (same filing/trade can recur across pages or chambers).
+    seen, unique = set(), []
+    for r in rows:
+        k = (r["date"], r["politician"], r["ticker"], r["type"], r["amount"], r["disclosure_url"])
+        if k in seen:
+            continue
+        seen.add(k)
+        unique.append(r)
+    rows = unique
 
     rows.sort(key=lambda r: r["date"], reverse=True)
     rows = rows[:MAX_ROWS]
