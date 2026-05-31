@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>Trump &amp; Congress Trade Tracker</title>
 <meta name="description" content="Personal tracker of public Trump market-moving posts and Congressional STOCK Act stock disclosures." />
-<link rel="stylesheet" href="css/style.css?v=20260531g" />
+<link rel="stylesheet" href="css/style.css?v=20260531h" />
 </head>
 <body>
 <header class="topbar">
@@ -28,6 +28,7 @@
   <button class="tab active" data-tab="summary">📊 Summary</button>
   <button class="tab" data-tab="signals">🚨 Trump Signals</button>
   <button class="tab" data-tab="topbuys">🔥 Top Buys</button>
+  <button class="tab" data-tab="more">🏦 More Signals</button>
   <button class="tab" data-tab="tickers">🎯 Trump Tickers</button>
   <button class="tab" data-tab="trades">📋 All Congress Trades</button>
 </nav>
@@ -81,6 +82,16 @@
     <div id="topbuys-list" class="rank-list"></div>
   </section>
 
+  <!-- MORE SIGNALS -->
+  <section class="panel" id="more">
+    <h2>🏦 Corporate insider buys <span class="muted">(SEC Form 4)</span></h2>
+    <p class="muted">Executives and directors buying their own company's stock — the classic legal insider signal. Cluster buys (several insiders, one name) score highest. Strongest first.</p>
+    <div id="insiders-list" class="rank-list"></div>
+    <h2 style="margin-top:1.5rem">🔥 Retail buzz <span class="muted">(r/wallstreetbets)</span></h2>
+    <p class="muted">Tickers spiking in WallStreetBets mentions — retail crowd momentum, high-variance. This is attention, not a buy/sell call. Untested as a strategy.</p>
+    <div id="wsb-list" class="rank-list"></div>
+  </section>
+
   <!-- TRUMP TICKERS -->
   <section class="panel" id="tickers">
     <h2>Trump-linked tickers to watch</h2>
@@ -118,6 +129,6 @@
      Personal project. Not affiliated with any official entity. Not financial advice.</p>
 </footer>
 
-<script src="js/app.js?v=20260531g"></script>
+<script src="js/app.js?v=20260531h"></script>
 </body>
 </html>

@@ -20,17 +20,21 @@ async function boot() {
   setupTabs();
   $('#dismiss').onclick = () => $('#disclaimer').remove();
 
-  const [congress, signals, tickers, meta] = await Promise.all([
+  const [congress, signals, tickers, meta, insiders, wsb] = await Promise.all([
     getJSON('data/congress_trades.json'),
     getJSON('data/trump_signals.json'),
     getJSON('data/trump_tickers.json'),
     getJSON('data/last_updated.json'),
+    getJSON('data/insider_signals.json'),
+    getJSON('data/wsb_signals.json'),
   ]);
   state.trades = (congress && congress.trades) || [];
   state.congressMeta = congress;
   state.signals = signals;
   state.tickers = tickers;
   state.meta = meta;
+  state.insiders = insiders;
+  state.wsb = wsb;
 
   // Sample data is historical, so default to "all data" to avoid an empty window.
   if (state.congressMeta && state.congressMeta.is_sample) $('#lookback').value = '100000';
@@ -38,6 +42,7 @@ async function boot() {
   renderFreshness();
   renderSummary();
   renderSignals();
+  renderMore();
   renderTopBuys();
   renderTickers();
   renderTrades();
@@ -159,6 +164,37 @@ function renderSignals() {
       </div>
     </details>`;
   }).join('');
+}
+
+// ---------- More signals: insiders + WSB ----------
+function renderMore() {
+  const ins = ((state.insiders && state.insiders.signals) || [])
+    .slice().sort((a, b) => (b.strength || 0) - (a.strength || 0)).slice(0, 30);
+  const iw = $('#insiders-list');
+  iw.innerHTML = ins.length ? ins.map(s => `
+    <div class="rank">
+      <div style="min-width:90px"><div class="tk">$${esc(s.ticker)}</div>
+        <div class="meta">${fmtDate(s.date)}</div></div>
+      <div class="bar"><span style="width:${s.strength || 0}%"></span></div>
+      <div class="stat" style="min-width:auto;flex:1;text-align:left">
+        <div class="meta">${esc(s.reason || '')}</div>
+        ${s.url ? `<a class="meta" href="${esc(s.url)}" target="_blank" rel="noopener">filing ↗</a>` : ''}
+      </div>
+    </div>`).join('')
+    : '<div class="empty">No insider buys yet — add an FMP key and run the data job.</div>';
+
+  const buzz = ((state.wsb && state.wsb.signals) || []).slice(0, 25);
+  const ww = $('#wsb-list');
+  ww.innerHTML = buzz.length ? buzz.map(s => {
+    const up = (s.change_pct ?? 0) >= 0;
+    return `<div class="rank">
+      <div class="num">#${s.rank || '–'}</div>
+      <div style="min-width:90px"><div class="tk">$${esc(s.ticker)}</div>
+        <div class="meta">${esc((s.name || '').slice(0, 22))}</div></div>
+      <div class="stat"><div><b>${s.mentions}</b> mentions</div>
+        ${s.change_pct != null ? `<div class="meta ${up ? 'chg up' : 'chg down'}">${up ? '+' : ''}${s.change_pct}% / 24h</div>` : ''}</div>
+    </div>`;
+  }).join('') : '<div class="empty">No buzz data yet — runs after the data job.</div>';
 }
 
 // ---------- Top buys (the signal) ----------

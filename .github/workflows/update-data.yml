@@ -55,6 +55,15 @@ jobs:
           FMP_API_KEY: ${{ secrets.FMP_API_KEY }}
         run: python scripts/fetch_prices.py
 
+      - name: Fetch corporate insider buys (FMP Form 4)
+        env:
+          FMP_API_KEY: ${{ secrets.FMP_API_KEY }}
+          INSIDER_MAX_AGE_HOURS: ${{ github.event_name == 'workflow_dispatch' && '0' || '6' }}
+        run: python scripts/fetch_insiders.py
+
+      - name: Fetch WSB retail buzz (ApeWisdom)
+        run: python scripts/fetch_wsb.py
+
       - name: Stamp freshness metadata
         run: python scripts/stamp_meta.py
 
