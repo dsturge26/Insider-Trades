@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-05-31T19:49:38Z",
+ "last_updated": "2026-05-31T21:00:47Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-05-31T19:10:00Z",
+   "platform": "News",
+   "text": "Trump praised IBM's 'legend' CEO, government floated a $1B quantum award \u2014 is the stock still a 'very nice price'? - Yahoo Finance \u2014 Trump praised IBM's 'legend' CEO, government floated a $1B quantum award \u2014 is the stock still a 'very nice price'?\u00a0\u00a0Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTTlINHRMbC1IQlJya3JLX2ZFdW9NMng0aDc0N1pEU3NVRkxKTm82M3QzV0FtUlV3TTRFeDFjd3FURThmQWhjOVJyZDU0WTdiNG1KcVhfOWhpcXNzZlduT3NmaE9CbElUN1V1Ny1EZlF2M2JJQ1NpSGRwc0h0ZTdLZmYwSElGTTlveEZBanJhb2FyN2praHR3T25B?oc=5",
+   "tickers": [
+    "IBM"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "IBM",
+   "strength": 45,
+   "reason": "Trump praised IBM CEO and government floated $1B quantum award; indirect bullish signal for IBM but not an explicit buy call."
+  },
   {
    "date": "2026-05-31T18:29:36Z",
    "platform": "News",
@@ -33,6 +49,22 @@
    "primary_ticker": "DELL",
    "strength": 95,
    "reason": "Trump explicitly told Americans to 'buy a Dell' and held the stock before a $9.7B Pentagon contract award."
+  },
+  {
+   "date": "2026-05-31T14:15:00Z",
+   "platform": "News",
+   "text": "Trump praised Dell, bought its stock \u2014 now the company has landed a $9.7B Pentagon contract and shares are up 255% - Yahoo Finance \u2014 Trump praised Dell, bought its stock \u2014 now the company has landed a $9.7B Pentagon contract and shares are up 255%\u00a0\u00a0Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOE5BamlfOUlfalNFc3ZZcW9pNWRpWVUtUEJuQmpBV0JzclRydlJyMjhnaUdVMm5FQ0ZBY2xEdS0yQ0xJTFk5cTNTWjJOWF81dHVjemxUZW1HZ3M5ckw4aHA1a0NYVHE0S1J2b2huY0Y0bXROOXJzOXFKWjh3TldCZHlGWFJtOV9ZQU53UUNpMTI0T1pqeEdKdWVR?oc=5",
+   "tickers": [
+    "DELL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "DELL",
+   "strength": 95,
+   "reason": "Trump explicitly praised Dell and bought its stock; $9.7B Pentagon contract awarded to Dell, direct federal contract to named public company."
   },
   {
    "date": "2026-05-31T14:05:38Z",
@@ -131,6 +163,22 @@
    "reason": "Dell awarded $9.7B Pentagon contract weeks after Trump praised it; clear bullish signal for DELL stock."
   },
   {
+   "date": "2026-05-30T07:26:17Z",
+   "platform": "News",
+   "text": "Dell's stunning rally: From Trump endorsement to Q1 results - What led to a 101% surge in the US tech stock in 1 month - Mint \u2014 Dell's stunning rally: From Trump endorsement to Q1 results - What led to a 101% surge in the US tech stock in 1 month\u00a0\u00a0Mint",
+   "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOdkVOdGVBMnlyaW1oZWdnSjhxaEZzQ1l6NFlHd3dJekxmLW83Ukx5NUFqWVp6OGw1QldKeGNWVmZkajBTZTl2b1lIRmY2R21lSGxhdlluTEc4WmhQOFJBLVYwenFVU0M1eVVaX0YyWnRBN2VsTkhhQjY5dHM2SVQzakttX0xkNmFFeXZOLWhqQkhGUTcwQnFVLVRoaDhBaXR5eTRMOWQxdjRybHJ2dEV6SnlmNXVpR3UyNE5DeVpiV3BrOG42cEc1UWJjVmVzVXZncHBIQUVrY0QtMGpERDZEWXBELUlLamctbWJiMzBqUXlZbTBib3V0TTczVGNRUjNjVlc1NTNBYUc1aWFBdng0SFgyMGnSAZoCQVVfeXFMT3k1cWNkdXhuSUpVME50dXNXcjRaelhLZVloYkQ5OGZQQ1R3VmIyR1lkc0dqN0k1dURfOUViLWVxVkFMekU4c3pxem1IcUJnYUkxem9iZEg0TGxtLU1Ua3VId2FORUV6SFppRXJzbVVacXhhTVM3ZVotWHJaTm4tUlp6d1pKaUY1YVhYbF9wVy14aGU0XzJrYlFFYjFUWUhlSWpMM0E3OUloYWhRR2FjbVRTSHNpTG5SaW1HRXNfOG9Xd250Zjh5cUNXM3JtNHVrRDNaYkpnN1hmV0xCT2wxaHN3SGJ1bmh5bWJvQmlUWmdIb0NfM0R1WFYzRmdDMjAxZmZIcjBEVU9GM2RhSVRJZkZoUEpRNFRtcTBR?oc=5",
+   "tickers": [
+    "DELL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "DELL",
+   "strength": 85,
+   "reason": "Dell stock surge attributed to Trump endorsement and Q1 results; major tech stock move following explicit Trump praise."
+  },
+  {
    "date": "2026-05-30T02:19:09Z",
    "platform": "News",
    "text": "Trump Bought Stock in UFC's Parent Company While Promoting White House Lawn Fight - People.com \u2014 Trump Bought Stock in UFC's Parent Company While Promoting White House Lawn Fight\u00a0\u00a0People.com",
@@ -193,6 +241,22 @@
    "primary_ticker": "MU",
    "strength": 85,
    "reason": "Trump explicitly praised Micron ('great'); stock up 20% same day."
+  },
+  {
+   "date": "2026-05-29T18:59:56Z",
+   "platform": "News",
+   "text": "Trump Bought UFC Parent Company Stock Before White House Card - MMANews.com \u2014 Trump Bought UFC Parent Company Stock Before White House Card\u00a0\u00a0MMANews.com",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQLXpfX290Y2psVHVxVVh5cWttcXdQV1I0S1B6Z0lkVkNDb2QzMjhHVC0tQ1RPU2ZRVm9GeTFlT3ZoeUtMS2hwakkyOXRmN0NTMmlwZ3dEaW9MWVNqMklocm9yNk5JUHItZnI1T0NvdThJWjhTaDJQSi1KalV5dHNWbExn?oc=5",
+   "tickers": [
+    "TKO"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "TKO",
+   "strength": 50,
+   "reason": "Trump bought UFC parent company stock before White House event; personal investment without explicit endorsement or market catalyst."
   },
   {
    "date": "2026-05-29T18:10:21.516Z",
@@ -291,6 +355,22 @@
    "reason": "Trump purchased $1-5M in Dell stock; Dell then landed $10B contract weeks later; explicit insider-like positioning before major contract"
   },
   {
+   "date": "2026-05-29T16:43:42Z",
+   "platform": "News",
+   "text": "Trump's Dell stock buy draws scrutiny after $9.7B Pentagon deal - MSN \u2014 Trump's Dell stock buy draws scrutiny after $9.7B Pentagon deal\u00a0\u00a0MSN",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUzBESzZCU3g0OE5FU3AwUEtXQzBPckRZTWZCLWFEMUJJV0lkV0otZ1VuZW81alZERVgyaDRqVW1wNHJMQmZ3ZEo2bkNtcXVlMVo0bEFTSTh0N2Y4Y2RqdzZwUEVOUU55eGpqTWUzMktwVVdsOUFuTDBpbGEtcTR5dXd6UGZTRlhlanFOeHFUVlJNQ1NzSFJWTXFHZXlGV01iOWJidUg0VW10VlRaZ3Vmcnc4N2kwd1Z2R3Z3M2ZHZXU?oc=5",
+   "tickers": [
+    "DELL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "DELL",
+   "strength": 80,
+   "reason": "Trump's Dell stock purchase drew scrutiny following $9.7B Pentagon deal; federal contract award to named public company."
+  },
+  {
    "date": "2026-05-29T16:35:43Z",
    "platform": "News",
    "text": "Donald Trump\u2019s Personal Investment in Dell Pays Off Bigly - Gizmodo \u2014 Donald Trump\u2019s Personal Investment in Dell Pays Off Bigly\u00a0\u00a0Gizmodo",
@@ -385,6 +465,22 @@
    "primary_ticker": "DELL",
    "strength": 50,
    "reason": "Conflict of interest narrative around Dell Pentagon contract; market relevant but ambiguous directionally"
+  },
+  {
+   "date": "2026-05-29T14:41:44Z",
+   "platform": "News",
+   "text": "Pentagon\u2019s $9B Dell deal sparks Trump conflict of interest concerns - FOX40 \u2014 Pentagon\u2019s $9B Dell deal sparks Trump conflict of interest concerns\u00a0\u00a0FOX40",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQmkwdVJTM3pheDRzWFhvWDBSODktYXdoODBVLS1WemsybDdCMHJycjBHVEdFMlFKTExuNmo5R1ZMYmhRUjlYTkxZVUhJOUFrVW5ManhBZW5aR05ES0kzV2diTnFCUWN2RFE3clJLZkxCaVQyZFNnU2dIUkNBVFVGcGJXN2dwS2V5QUhUVGIydWE1RzVUNHJQdl9QcUVYY21uUTFIUdIBpAFBVV95cUxOQmkwdVJTM3pheDRzWFhvWDBSODktYXdoODBVLS1WemsybDdCMHJycjBHVEdFMlFKTExuNmo5R1ZMYmhRUjlYTkxZVUhJOUFrVW5ManhBZW5aR05ES0kzV2diTnFCUWN2RFE3clJLZkxCaVQyZFNnU2dIUkNBVFVGcGJXN2dwS2V5QUhUVGIydWE1RzVUNHJQdl9QcUVYY21uUTFIUQ?oc=5",
+   "tickers": [
+    "DELL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "DELL",
+   "strength": 60,
+   "reason": "Pentagon's $9B Dell contract raises conflict-of-interest concerns; federal contract is bullish for Dell but governance concerns create ambiguity."
   },
   {
    "date": "2026-05-29T14:05:00Z",
