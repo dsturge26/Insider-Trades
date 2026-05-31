@@ -17,15 +17,14 @@ DBG = os.path.join(ROOT, "data", "_debug.json")
 KEY = os.environ.get("FMP_API_KEY", "").strip()
 MAX_ROWS = 1500
 
-# Candidate endpoints per chamber, tried in order until one yields rows.
+# FMP "stable" disclosure endpoints. The free tier caps limit at 25, so we
+# request 25 per page and walk pages. (Legacy v4 endpoints are dead — 403.)
 ENDPOINTS = {
     "Senate": [
-        "https://financialmodelingprep.com/stable/senate-latest?page={page}&limit=100&apikey={key}",
-        "https://financialmodelingprep.com/api/v4/senate-trading-rss-feed?page={page}&apikey={key}",
+        "https://financialmodelingprep.com/stable/senate-latest?page={page}&limit=25&apikey={key}",
     ],
     "House": [
-        "https://financialmodelingprep.com/stable/house-latest?page={page}&limit=100&apikey={key}",
-        "https://financialmodelingprep.com/api/v4/senate-disclosure-rss-feed?page={page}&apikey={key}",
+        "https://financialmodelingprep.com/stable/house-latest?page={page}&limit=25&apikey={key}",
     ],
 }
 
@@ -86,7 +85,7 @@ def pull_chamber(chamber):
     for tmpl in ENDPOINTS[chamber]:
         rows, prev_first = [], None
         page, status, base = 0, "", tmpl.split("?")[0]
-        while page < 12:
+        while page < 24:  # 24 pages x 25 = up to 600 rows/chamber
             data, status = fetch(tmpl.format(page=page, key=KEY))
             if not isinstance(data, list) or not data:
                 break
