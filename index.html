@@ -44,6 +44,23 @@
   <section class="panel" id="signals">
     <h2>Market-moving Trump statements</h2>
     <p class="muted" id="signals-howto"></p>
+    <div class="controls">
+      <label>Window:
+        <select id="sig-window">
+          <option value="1">Last 24 hours</option>
+          <option value="7">Last week</option>
+          <option value="30">Last month</option>
+          <option value="100000" selected>All time</option>
+        </select>
+      </label>
+      <label>Sort by:
+        <select id="sig-sort">
+          <option value="strength" selected>Strength</option>
+          <option value="recent">Most recent</option>
+        </select>
+      </label>
+      <span class="muted" id="sig-count"></span>
+    </div>
     <div id="signals-list" class="cards"></div>
   </section>
 

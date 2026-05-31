@@ -45,6 +45,8 @@ async function boot() {
   $('#lookback').onchange = renderTopBuys;
   $('#search').oninput = renderTrades;
   $('#type-filter').onchange = renderTrades;
+  $('#sig-window').onchange = renderSignals;
+  $('#sig-sort').onchange = renderSignals;
 }
 
 function setupTabs() {
@@ -111,9 +113,20 @@ function renderSummary() {
 function renderSignals() {
   const wrap = $('#signals-list');
   $('#signals-howto').textContent = (state.signals && state.signals.how_to_read) || '';
-  const events = signalList();
+  const days = +(($('#sig-window') || {}).value || 100000);
+  const sort = (($('#sig-sort') || {}).value || 'strength');
+  const cutoff = Date.now() - days * 86400000;
+
+  let events = signalList().filter(e => new Date(e.date).getTime() >= cutoff);
+  if (sort === 'recent') {
+    events.sort((a, b) => String(b.date).localeCompare(String(a.date))
+      || (b.strength || 0) - (a.strength || 0));
+  } // else: signalList() is already strength-first
+
+  const cnt = $('#sig-count');
+  if (cnt) cnt.textContent = `${events.length} signal${events.length !== 1 ? 's' : ''}`;
   if (!events.length) {
-    wrap.innerHTML = '<div class="empty">No market signals yet — the next data run will classify his latest posts.</div>';
+    wrap.innerHTML = '<div class="empty">No signals in this window — try a longer window.</div>';
     return;
   }
   // Collapsed by default: just direction + ticker + strength. Tap to expand.
