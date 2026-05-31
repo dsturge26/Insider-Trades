@@ -91,16 +91,20 @@ function collectSignals({ congress, trump, insiders, wsb }) {
   const agg = {};
   ((congress && congress.trades) || []).forEach(t => {
     if (!t.ticker || new Date(t.date).getTime() < cutoff || !isBuy(t.type)) return;
-    const a = agg[t.ticker] || (agg[t.ticker] = { buyers: new Set(), buys: 0, date: t.date, url: t.disclosure_url });
-    a.buyers.add(t.politician); a.buys++;
+    const a = agg[t.ticker] || (agg[t.ticker] = { buyers: new Set(), buys: 0, net: 0, date: t.date, url: t.disclosure_url });
+    a.buyers.add(t.politician); a.buys++; a.net += t.amount_mid || 0;
     if (t.date > a.date) { a.date = t.date; a.url = t.disclosure_url; }
   });
   Object.entries(agg).forEach(([ticker, a]) => {
     const n = a.buyers.size;
+    // Strength = distinct MEMBERS (the real consensus) + dollar size.
+    // Trade count is ignored so one person filing many lots doesn't inflate it.
+    const strength = Math.round(Math.min(100, 28 + Math.min(48, (n - 1) * 16) + Math.min(16, Math.log10(Math.max(a.net, 1)) * 3)));
     out.push({
-      source: 'Congress', ticker, direction: 'BUY',
-      strength: Math.min(100, 35 + n * 12 + a.buys * 2),
-      reason: `${n} member${n !== 1 ? 's' : ''} buying (${a.buys} trade${a.buys !== 1 ? 's' : ''})`,
+      source: 'Congress', ticker, direction: 'BUY', strength,
+      reason: n > 1
+        ? `${n} members buying · ${fmtUSD(a.net)} total`
+        : `1 member buying · ${fmtUSD(a.net)}`,
       date: a.date, url: a.url,
     });
   });
