@@ -1,0 +1,48 @@
+name: Backtest signals
+
+# On-demand: replays history through the classifier and measures forward returns.
+# Run from the Actions tab. Tune months / max posts to control cost + runtime.
+on:
+  workflow_dispatch:
+    inputs:
+      months:
+        description: "Months of history to test"
+        default: "24"
+      max_posts:
+        description: "Max posts to classify (cost cap)"
+        default: "4000"
+
+permissions:
+  contents: write
+
+jobs:
+  backtest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install --quiet anthropic
+
+      - name: Run backtest
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          BACKTEST_MONTHS: ${{ github.event.inputs.months }}
+          BACKTEST_MAX_POSTS: ${{ github.event.inputs.max_posts }}
+        run: python scripts/backtest.py
+
+      - name: Commit results
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/backtest_results.json backtest_report.md
+          if git diff --cached --quiet; then
+            echo "No changes."
+          else
+            git commit -m "chore: backtest results [skip ci]"
+            git push
+          fi
