@@ -1,5 +1,5 @@
 {
- "generated": "2026-06-01T01:05:19Z",
+ "generated": "2026-06-01T01:40:09Z",
  "months": 24,
  "model": "claude-haiku-4-5",
  "horizons": [
@@ -56,14 +56,14 @@
  "by_intraday": {
   "1": {
    "n": 868,
-   "hit_rate": 14.9,
+   "hit_rate": 15.2,
    "avg_signed_return": -0.01,
    "avg_raw_return": 0.0,
    "baseline_long_return": 0.0
   },
   "4": {
    "n": 868,
-   "hit_rate": 19.8,
+   "hit_rate": 20.0,
    "avg_signed_return": -0.01,
    "avg_raw_return": -0.0,
    "baseline_long_return": -0.0
@@ -186,6 +186,13 @@
    "avg_raw_return": 0.34,
    "alpha_vs_spy": 0.08
   }
+ },
+ "defense_control": {
+  "n": 171,
+  "hit_rate": 69.6,
+  "avg_signed_return": 1.17,
+  "alpha_vs_spy": 0.6,
+  "alpha_vs_xar": 0.27
  },
  "by_ticker": {
   "SPY": 514,

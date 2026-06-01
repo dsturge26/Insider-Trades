@@ -1,6 +1,6 @@
 # Signal Backtest — last 24 months
 
-_Generated 2026-06-01T01:05:19Z · model claude-haiku-4-5_
+_Generated 2026-06-01T01:40:09Z · model claude-haiku-4-5_
 
 - Signals classified: **1016**
 - Signals with price data (evaluated): **987**
@@ -12,8 +12,8 @@ This is the signal the daily-close test misses. `avg signed` = return on the imp
 
 | After | N | Hit rate | Avg signed return | Baseline (long) |
 |---|---|---|---|---|
-| 1h | 868 | 14.9% | -0.01% | 0.0% |
-| 4h | 868 | 19.8% | -0.01% | -0.0% |
+| 1h | 868 | 15.2% | -0.01% | 0.0% |
+| 4h | 868 | 20.0% | -0.01% | -0.0% |
 
 ## Directional edge by horizon (trading days)
 BUY hits = return > 0; SELL hits = return < 0. `avg signed` = return on the side the signal implied. Compare to `baseline` (just being long the same tickers).
@@ -58,6 +58,14 @@ The key question: do **single-name** calls (the Dell type) beat the **broad-mark
 | Single-name (specific company) | 433 | 55.2% | 0.43% |
 | Broad market (SPY/QQQ/…) | 434 | 53.9% | 0.2% |
 | Explicit endorsement | 228 | 62.7% | 0.76% |
+
+## 🪖 Defense-beta control (signed return at 3d)
+Defense-sector names (most of the contract signals). **If alpha vs SPY is positive but alpha vs XAR is ~0, the 'contract edge' was just defense beta.**
+
+- N defense signals: **171** · hit rate 69.6%
+- Avg signed return: **1.17%**
+- Alpha vs SPY (broad market): **0.6%**
+- Alpha vs XAR (defense ETF): **0.27%**  ← the decisive number
 
 ## Most-signaled tickers
 SPY (514), XLE (145), LMT (60), BA (41), RTX (33), HII (17), USO (15), XAR (14), TSLA (12), BTC-USD (10), AAPL (9), NOC (8), COIN (7), QQQ (6), FXI (6)
