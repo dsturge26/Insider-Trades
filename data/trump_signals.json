@@ -1,7 +1,40 @@
 {
- "last_updated": "2026-06-01T02:01:59Z",
+ "last_updated": "2026-06-01T07:24:10Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-06-01T05:02:12.750Z",
+   "platform": "Truth Social",
+   "text": "Iran really wants to make a deal, and it will be a good one for the U.S.A. and those that are with us. But don't the Dumocrats, and various seemingly unpatriotic Republicans,  understand that it is MUCH tougher for me to properly do my job and negotiate, when political hacks keep negatively \"chirping,\" at levels never seen before, over and over again, that I should move faster, or move slower, or go to war, or not go to war, or whatever. Just sit back and relax, it will all work out well in the end - It always does! President DJT",
+   "tickers": [
+    "SPY"
+   ],
+   "engagement": 2221,
+   "url": "https://truthsocial.com/@realDonaldTrump/116673094140159291",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "SPY",
+   "strength": 15,
+   "reason": "Iran deal negotiation mentioned but vague; macro geopolitical signal without concrete direction."
+  },
+  {
+   "date": "2026-06-01T00:08:26Z",
+   "platform": "News",
+   "text": "IBM Stock Surges on Quantum Computing Plans and Trump Comments - Intellectia AI \u2014 IBM Stock Surges on Quantum Computing Plans and Trump Comments\u00a0\u00a0Intellectia AI",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZkRFUWphMTlHc2U5TXM1dWZiN1FDdXc0NlNsX1lJYVdSMVlEN1p3LUZBQWlMdzVMUjkzOVotWi1heUVzVFVlcV9keUN4SjcyWTRYMEtEcGxxU3AwUFdfZHJNRXgzRDZnU0MtcTFWcXFxMWhXdDZ3S3dBTk5IZ3k5T09HV0pNbHNOZWlZendPSnJKTVBfcnVLSEVkS1U?oc=5",
+   "tickers": [
+    "IBM"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "IBM",
+   "strength": 65,
+   "reason": "Trump praised IBM CEO and government floated $1B quantum award; explicit praise plus potential federal contract catalyst."
+  },
   {
    "date": "2026-05-31T22:22:45Z",
    "platform": "News",
@@ -65,6 +98,22 @@
    "primary_ticker": "IBM",
    "strength": 45,
    "reason": "Trump praised IBM CEO as 'legend' and government floated $1B quantum contract award to IBM; positive signal but not explicit buy directive"
+  },
+  {
+   "date": "2026-05-31T15:13:15Z",
+   "platform": "News",
+   "text": "Dell lands $10 billion contract weeks after Trump\u2019s $1 million-to-$5 million stock purchase - MSN \u2014 Dell lands $10 billion contract weeks after Trump\u2019s $1 million-to-$5 million stock purchase\u00a0\u00a0MSN",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQnJxckk3V21VSGpyMjBLYW9ueEF3RnlyMUlTTWEtTXVoVXZRR2JDNUZCWUpLWDMya2d1TmdfVXltR0FUemJESmU3SVBfRG1scl9iTmlaTmg3VzlLdVVNTWdGVXpqMkxxQ3RNZWRERnRRVTlVX1NwZHVEUUhYMjkwWVhGYkFIQXY1aGlKYUdOM1U0Z0xGbTF1dkI1S1lLb2kyb3FLYkxtTmF1bHdmX3AyUGpoc1ZWX256QVZzUk5uNFVMendSZ3dSdm9sLWp0ZTNYT1QwaVFHY2tLdw?oc=5",
+   "tickers": [
+    "DELL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "DELL",
+   "strength": 78,
+   "reason": "Trump bought Dell stock and company awarded $10B Pentagon contract weeks later; explicit Trump purchase plus major federal contract."
   },
   {
    "date": "2026-05-31T14:24:17Z",
@@ -417,22 +466,6 @@
    "primary_ticker": "DELL",
    "strength": 50,
    "reason": "Pentagon $9B Dell deal raises conflict-of-interest concerns; uncertain net market effect."
-  },
-  {
-   "date": "2026-05-29T16:49:38Z",
-   "platform": "News",
-   "text": "Dell lands $10 billion contract weeks after Trump\u2019s $1 million-to-$5 million stock purchase - MSN \u2014 Dell lands $10 billion contract weeks after Trump\u2019s $1 million-to-$5 million stock purchase\u00a0\u00a0MSN",
-   "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxQNmZJaWhpSl9uVDFJc1RJcFJwdUR3cDQ5MldLZHRIcmZNTndNc3FkcGFQZ0g3cHVQOGMzcjZoVl9GOTBWWnk3enYzNEQwdnI0LUNTWFB5MjVsZ1dBMkphUUxaLUpXeVdaaWhaSTBQWHBXLVMwblFiZmlLN0JnMkZhSGZmUWRHOXRMSmVLMGZaZks0akwyTWwwU3kxa19FUjRJT1h0dEZaNlVKRFVTNld1UzlMQTNBa0xaTFJRVzBEZW5TbmZvNXNBZTJiQVNnZUpJeWpBZVp2bHcyRVM3V0hLb3R1Z0NkU1plX2Rtc2E0b3RncXhJYkpFOGRNRE1KUVYzNGpaQWUxd2VEYmtfT3o4QW1TRFNCUFd2X2ZKYzVOMU1jMDQ2ajF6N1N4QTRuRDdiQ2lPa09Gc3ZnSThWSlNHeHZYNGNCMHJLcUNVUzdpQ0txWV9tUEFJOGgxY2N5NE5wVFMxSTZ2RDNJZw?oc=5",
-   "tickers": [
-    "DELL"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "DELL",
-   "strength": 85,
-   "reason": "Trump purchased $1-5M in Dell stock; Dell then landed $10B contract weeks later; explicit insider-like positioning before major contract"
   },
   {
    "date": "2026-05-29T16:43:42Z",
