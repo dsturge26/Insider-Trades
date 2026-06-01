@@ -37,6 +37,12 @@ DBG = os.path.join(ROOT, "data", "_debug_backtest.json")
 CRYPTO = {"BTC": "BTC-USD", "ETH": "ETH-USD", "SOL": "SOL-USD",
           "DOGE": "DOGE-USD", "TRUMP": None, "MELANIA": None}
 
+# Defense/aerospace primes — to test whether the "contract" edge is just
+# defense-sector beta (benchmark these against XAR, the defense ETF).
+DEFENSE = {"LMT", "RTX", "BA", "NOC", "GD", "HII", "LHX", "LDOS", "TXT", "HWM",
+           "AXON", "KTOS", "AVAV", "CW", "HEI", "TDG", "BAH", "SAIC", "PLTR",
+           "GE", "RKLB", "AJRD", "BAE"}
+
 
 def get(url, timeout=60):
     req = urllib.request.Request(url, headers={"User-Agent": "trade-tracker/1.0"})
@@ -258,6 +264,7 @@ def main():
 
         evaluated = []
         spy = hist.get("SPY") or yahoo_history("SPY")   # market benchmark for alpha
+        xar = yahoo_history("XAR")                        # defense-sector benchmark
         for sig in signals:
             series = hist.get(sig["ticker"])
             if not series:
@@ -271,6 +278,11 @@ def main():
                 ex = {h: fr[h] - spy_fr[h] for h in fr if h in spy_fr}
                 if ex:
                     rec["excess"] = ex
+            if xar and sig["ticker"] in DEFENSE:  # defense names: alpha vs defense ETF
+                xar_fr = fwd_returns(xar, sig["date"][:10]) or {}
+                exd = {h: fr[h] - xar_fr[h] for h in fr if h in xar_fr}
+                if exd:
+                    rec["excess_xar"] = exd
             seh = hist_h.get(sig["ticker"])
             if seh:
                 ir = intraday_returns(seh, post_epoch(sig["date"]))
@@ -327,7 +339,8 @@ def summarize(evaluated, all_signals, missing):
         "tickers_missing_price": sorted(missing),
         "intraday_hours": INTRADAY_H,
         "by_horizon": {}, "by_intraday": {}, "by_direction": {},
-        "by_strength": {}, "by_segment": {}, "by_source": {}, "by_ticker": {},
+        "by_strength": {}, "by_segment": {}, "by_source": {},
+        "defense_control": {}, "by_ticker": {},
     }
     intr = [r for r in evaluated if r.get("intraday") and r["direction"] in ("BUY", "SELL")]
     for h in INTRADAY_H:
@@ -373,6 +386,17 @@ def summarize(evaluated, all_signals, missing):
         s = _stats(rows, mid)
         s["alpha_vs_spy"] = _stats(rows, mid, "excess")["avg_signed_return"]
         out["by_source"][src] = s
+
+    # defense-beta control: are the contract/defense names just tracking XAR?
+    defrows = [r for r in directional if r["ticker"] in DEFENSE and "excess_xar" in r]
+    if defrows:
+        base = _stats(defrows, mid)
+        out["defense_control"] = {
+            "n": base["n"], "hit_rate": base["hit_rate"],
+            "avg_signed_return": base["avg_signed_return"],
+            "alpha_vs_spy": _stats(defrows, mid, "excess")["avg_signed_return"],
+            "alpha_vs_xar": _stats(defrows, mid, "excess_xar")["avg_signed_return"],
+        }
 
     # top tickers by count
     from collections import Counter
@@ -435,6 +459,15 @@ def render_report(r):
         s = r["by_segment"].get(k)
         if s:
             L.append(f"| {lbl} | {s['n']} | {s['hit_rate']}% | {s['avg_signed_return']}% |")
+    dc = r.get("defense_control")
+    if dc:
+        L.append(f"\n## 🪖 Defense-beta control (signed return at {r['_mid_horizon']}d)")
+        L.append("Defense-sector names (most of the contract signals). **If alpha vs SPY is positive but alpha vs XAR is ~0, the 'contract edge' was just defense beta.**\n")
+        L.append(f"- N defense signals: **{dc['n']}** · hit rate {dc['hit_rate']}%")
+        L.append(f"- Avg signed return: **{dc['avg_signed_return']}%**")
+        L.append(f"- Alpha vs SPY (broad market): **{dc['alpha_vs_spy']}%**")
+        L.append(f"- Alpha vs XAR (defense ETF): **{dc['alpha_vs_xar']}%**  ← the decisive number")
+
     L.append("\n## Most-signaled tickers")
     L.append(", ".join(f"{k} ({v})" for k, v in r["by_ticker"].items()))
     L.append("\n---")
