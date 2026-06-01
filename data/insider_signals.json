@@ -1,6 +1,19 @@
 {
- "last_updated": "2026-05-31T00:00:00Z",
- "source": "seed — add FMP_API_KEY to go live",
- "is_sample": true,
- "signals": []
+ "last_updated": "2026-06-01T13:12:30Z",
+ "source": "Financial Modeling Prep (Form 4)",
+ "is_sample": false,
+ "signals": [
+  {
+   "date": "2026-05-29",
+   "ticker": "L",
+   "direction": "BUY",
+   "source": "Insider",
+   "insider": "Robusto Dino",
+   "title": "director",
+   "value": 523700,
+   "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001348889&type=4",
+   "strength": 74,
+   "reason": "Robusto Dino bought $523,700"
+  }
+ ]
 }
