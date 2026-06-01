@@ -1,5 +1,5 @@
 {
- "generated": "2026-05-31T16:55:59Z",
+ "generated": "2026-06-01T01:05:19Z",
  "months": 24,
  "model": "claude-haiku-4-5",
  "horizons": [
@@ -176,13 +176,15 @@
    "n": 174,
    "hit_rate": 67.8,
    "avg_signed_return": 1.02,
-   "avg_raw_return": 1.02
+   "avg_raw_return": 1.02,
+   "alpha_vs_spy": 0.46
   },
   "Trump": {
    "n": 693,
    "hit_rate": 51.2,
    "avg_signed_return": 0.14,
-   "avg_raw_return": 0.34
+   "avg_raw_return": 0.34,
+   "alpha_vs_spy": 0.08
   }
  },
  "by_ticker": {

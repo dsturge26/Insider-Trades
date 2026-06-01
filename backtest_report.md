@@ -1,6 +1,6 @@
 # Signal Backtest — last 24 months
 
-_Generated 2026-05-31T16:55:59Z · model claude-haiku-4-5_
+_Generated 2026-06-01T01:05:19Z · model claude-haiku-4-5_
 
 - Signals classified: **1016**
 - Signals with price data (evaluated): **987**
@@ -43,12 +43,12 @@ If the model's strength score is informative, average signed return should rise 
 | 80-100 | 154 | 68.2% | 1.15% |
 
 ## 🏆 Per-source leaderboard (signed return at 3d)
-The headline: which source's signals actually beat a coin flip? (WSB, congress, insiders aren't here — no free history to backtest.)
+**Alpha vs SPY** = return after subtracting the market's move over the same window — this is the real test (strips out 'the market/sector just went up'). (WSB, congress, insiders aren't here — no free history to backtest.)
 
-| Source | N | Hit rate | Avg signed return |
-|---|---|---|---|
-| Contract | 174 | 67.8% | 1.02% |
-| Trump | 693 | 51.2% | 0.14% |
+| Source | N | Hit rate | Avg signed return | **Alpha vs SPY** |
+|---|---|---|---|---|
+| Contract | 174 | 67.8% | 1.02% | 0.46% |
+| Trump | 693 | 51.2% | 0.14% | 0.08% |
 
 ## By signal type (signed return at 3d)
 The key question: do **single-name** calls (the Dell type) beat the **broad-market** macro noise?
