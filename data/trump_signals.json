@@ -1,7 +1,39 @@
 {
- "last_updated": "2026-06-02T20:28:56Z",
+ "last_updated": "2026-06-02T22:34:23Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-06-02T21:07:37Z",
+   "platform": "News",
+   "text": "Oklahoma AG sues to stop construction of Trump-endorsed aluminum smelter in Inola - Oklahoma Voice \u2014 Oklahoma AG sues to stop construction of Trump-endorsed aluminum smelter in Inola\u00a0\u00a0Oklahoma Voice",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQUFOUTFSNE1KN21yUGhycmpKMmxHcTNDdGo3NTlWRWc4YVRTdHpWcUEwVEY1NnE2aU1yZ3pzUVI1cUlkZjJsWENWdGVsOGxpOXpBY2g2ME51czZKYlctb3V1VzZYOGExMTB4b1ppdW1CZVNqT1A2WVhhSDdwV1ZtTzg0YUFnUVpDMEQzclpnWElQckFnMG9jU1U5aExYMDJjazV4cFVMRGFfbVhtOVhNeUg2QmFUbXhFUWFj?oc=5",
+   "tickers": [
+    "AA"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "AA",
+   "strength": 35,
+   "reason": "Legal block on Trump-endorsed aluminum smelter delays/threatens project."
+  },
+  {
+   "date": "2026-06-02T21:07:30Z",
+   "platform": "News",
+   "text": "Trump Bought Over $1M in Dell Stock Before Pentagon Signed $9.7B Contract with Company - People.com \u2014 Trump Bought Over $1M in Dell Stock Before Pentagon Signed $9.7B Contract with Company\u00a0\u00a0People.com",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSC1RMVhTZTBSRk8yU092MVZZYk52MGc0LWRhMkVwbU44cGl5V19KelRDX0hITjNnZmtJaU5NU0kyaXdpdkpCcC1ueFo0cnJRVlBpMUxmTElZeU1JZlFWOVVzZERlUVViZUJMMlhRVkNtUmpWOG10SkREczJNbGVyS3lqaw?oc=5",
+   "tickers": [
+    "DELL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "DELL",
+   "strength": 75,
+   "reason": "Trump bought $1M+ Dell stock before $9.7B Pentagon contract award; direct bullish catalyst."
+  },
   {
    "date": "2026-06-02T15:49:32Z",
    "platform": "News",
