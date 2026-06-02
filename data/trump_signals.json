@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-06-01T23:51:02Z",
+ "last_updated": "2026-06-02T04:01:11Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-06-02T02:20:03Z",
+   "platform": "News",
+   "text": "Trump discloses thousands of stock trades, some in companies directly influenced by his policies - AOL.com \u2014 Trump discloses thousands of stock trades, some in companies directly influenced by his policies\u00a0\u00a0AOL.com",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbjVPS1p4SHM4ZUc1MThfZjljSjdHaDk2YjRYdFQxcDBZVE4zOG8zTWtKU19PUmY2dWlpZ0MxX25FTi00Z3A4aEMxU214aktkUU56Ri15TGlsYmxJNmgxM2RIeHNvb3VzY0dVMzZvanNVR19wYVp1U1pOMUduM3FvR0g1VEI0M0NBVFVhTFM5ckdFWE5BMFAtdnY4T2VrdWRyYzJGQm5kQV8?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "SPY",
+   "strength": 25,
+   "reason": "Trump's stock trading disclosures suggest potential conflicts of interest; ambiguous market direction."
+  },
   {
    "date": "2026-06-01T18:22:24Z",
    "platform": "News",
@@ -17,6 +33,22 @@
    "primary_ticker": "IBM",
    "strength": 65,
    "reason": "Trump's praise of IBM resurfaces, driving stock surge; explicit endorsement of named company"
+  },
+  {
+   "date": "2026-06-01T18:08:00Z",
+   "platform": "News",
+   "text": "Did Trump spark an IBM stock rally? It\u2019s complicated. - MarketWatch \u2014 Did Trump spark an IBM stock rally? It\u2019s complicated.\u00a0\u00a0MarketWatch",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWk0zUnBhQmp2OENNMnpwa0FVSGFaMTZEaFBfSFZQeTdScVRITUZNSFV6ZUNCVThCWjRHYTJBSE9GQnU3U1drYUpwWXpDRGEtb2s2M1R3UC1aSkZSSkhHbll4MEFoc3ZqMnljQl9iOFNrTzJGMVk1WXU0M1A0NU8zckJrUHNvb2U4ZGZpZFRveDg5RHlleTM4aA?oc=5",
+   "tickers": [
+    "IBM"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "IBM",
+   "strength": 55,
+   "reason": "Trump praise tied to IBM rally; market signal but causation noted as complex"
   },
   {
    "date": "2026-06-01T17:50:34Z",
@@ -49,6 +81,22 @@
    "primary_ticker": "IBM",
    "strength": 70,
    "reason": "Resurfaced Trump praise of IBM CEO sparks market value surge."
+  },
+  {
+   "date": "2026-06-01T16:59:14Z",
+   "platform": "News",
+   "text": "IBM Shares Surge as Old Clip of Trump\u2019s Praise Recirculates - Bloomberg.com \u2014 IBM Shares Surge as Old Clip of Trump\u2019s Praise Recirculates\u00a0\u00a0Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcEEyVWh6UjJlMUtEU2s1RzF5cWdpSHJfQXdrY0FxdXJERi1CdFdTcFc3b3dXTTdFdTdnZEdZc2N5cHRHd1FzN0pyU0ZNTm8zNC1iMTN2aDlnRzVfTUZkMVc3NzhYOENDdDIzWnV1UE1rSXlTX3VCNm1XTVI1VU0zZ0hGejRKcFRsZ1RiOUFZc2pQa1Q5WkdSX0ZCQ0wzSmNhbk54bUliY29OTzNaLWd0SG9HbHc3QQ?oc=5",
+   "tickers": [
+    "IBM"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "IBM",
+   "strength": 68,
+   "reason": "Trump praise of IBM resurfaces; drives measurable stock surge"
   },
   {
    "date": "2026-06-01T15:48:52Z",
@@ -308,6 +356,22 @@
    "reason": "IBM surge follows Trump praise; explicit endorsement moving stock"
   },
   {
+   "date": "2026-06-01T04:01:25Z",
+   "platform": "News",
+   "text": "Trump praised IBM's 'legend' CEO, government floated a $1B quantum award \u2014 is the stock still a 'very nice price'? - AOL.com \u2014 Trump praised IBM's 'legend' CEO, government floated a $1B quantum award \u2014 is the stock still a 'very nice price'?\u00a0\u00a0AOL.com",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9lbVhOZ2ZNWVhubHhEMDFpV2wzYm42SWM5SzZMSnFxMEVoQUE4NzE4S0tYVm1wcXpFZ3VFSEFFUGlUQ3EyTHVTOUJxeWVVMDBCSFRPMEQ4SllhMVM4MDkySUJJcmZUZEJLclozWVAtOWNkVEZzWVhCOGExVWE?oc=5",
+   "tickers": [
+    "IBM"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "IBM",
+   "strength": 72,
+   "reason": "Trump praised IBM CEO; federal $1B quantum award floated; dual bullish catalysts"
+  },
+  {
    "date": "2026-06-01T00:08:26Z",
    "platform": "News",
    "text": "IBM Stock Surges on Quantum Computing Plans and Trump Comments - Intellectia AI \u2014 IBM Stock Surges on Quantum Computing Plans and Trump Comments\u00a0\u00a0Intellectia AI",
@@ -354,22 +418,6 @@
    "primary_ticker": "DELL",
    "strength": 85,
    "reason": "Trump explicitly praised Dell and bought stock; company awarded $9.7B Pentagon contract\u2014major bullish catalyst"
-  },
-  {
-   "date": "2026-05-31T19:40:50Z",
-   "platform": "News",
-   "text": "Trump praised IBM's 'legend' CEO, government floated a $1B quantum award \u2014 is the stock still a 'very nice price'? - AOL.com \u2014 Trump praised IBM's 'legend' CEO, government floated a $1B quantum award \u2014 is the stock still a 'very nice price'?\u00a0\u00a0AOL.com",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9lbVhOZ2ZNWVhubHhEMDFpV2wzYm42SWM5SzZMSnFxMEVoQUE4NzE4S0tYVm1wcXpFZ3VFSEFFUGlUQ3EyTHVTOUJxeWVVMDBCSFRPMEQ4SllhMVM4MDkySUJJcmZUZEJLclozWVAtOWNkVEZzWVhCOGExVWE?oc=5",
-   "tickers": [
-    "IBM"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "IBM",
-   "strength": 45,
-   "reason": "Trump praised IBM CEO; government floated $1B quantum contract \u2014 bullish for IBM but indirect praise, not explicit buy call"
   },
   {
    "date": "2026-05-31T19:10:00Z",
