@@ -1,12 +1,17 @@
 {
- "generated": "2026-06-02T12:42:51Z",
+ "generated": "2026-06-02T20:28:57Z",
  "key_present": true,
  "attempts": [
   {
    "endpoint": "https://financialmodelingprep.com/stable/insider-trading/latest",
-   "status": "200",
-   "rows": 25
+   "status": "ERR <urlopen error timed out>",
+   "rows": 0
+  },
+  {
+   "endpoint": "https://financialmodelingprep.com/api/v4/insider-trading",
+   "status": "ERR <urlopen error timed out>",
+   "rows": 0
   }
  ],
- "note": "OK: 8 insider buy signals."
+ "note": "No insider buys parsed (see attempts)."
 }

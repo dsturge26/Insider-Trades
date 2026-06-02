@@ -1,7 +1,39 @@
 {
- "last_updated": "2026-06-02T17:09:31Z",
+ "last_updated": "2026-06-02T20:28:56Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-06-02T15:49:32Z",
+   "platform": "News",
+   "text": "IBM Stock Surges on Trump Video, $10B Quantum Bet: Analysts Flag Overvaluation Risk - Tech Times \u2014 IBM Stock Surges on Trump Video, $10B Quantum Bet: Analysts Flag Overvaluation Risk\u00a0\u00a0Tech Times",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRURfV3hzSDVXdHVGQi1LVU9MYkZDa054UThzTUFMbDc1M3FBSVd2WnF4THA4R1VTbGtERGk0N2ZpQjdUTS11LUhVN2NQTExZS1lGdnlaNG55bzJ0bVVHWldyUnFnTjZFdjJfXzEzVVFZTW1jdWNnWWxHQXBIY3VLRndkRTdBbnhtN3AyVzhUa2RHUk5hTldmVnFHc0dHMW5ObHNXT0pPTnBzaGp1Uk5IQnFIbmJkZTdpUUxZMXJ1OE5tcVVQM2pKU1dFVjE?oc=5",
+   "tickers": [
+    "IBM"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "IBM",
+   "strength": 75,
+   "reason": "Trump praised IBM and CEO; $10B quantum investment announced; explicit company name and positive framing"
+  },
+  {
+   "date": "2026-06-02T10:02:34Z",
+   "platform": "News",
+   "text": "Nancy Pelosi stock tracker flags Dell's $9.7 billion Pentagon win weeks after Trump praised the company \u2014 shares surge 48% in a month - MSN \u2014 Nancy Pelosi stock tracker flags Dell's $9.7 billion Pentagon win weeks after Trump praised the company \u2014 shares surge 48% in a month\u00a0\u00a0MSN",
+   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOVmxhWTlhdVlqRFRyN1k1djVmN01XYjBJb0JFczhvUEV1d2pJLUlZYXN2M0x4enFfejAzcmFnanNrZVJXUkI4VVl0TzBXNXJxRnV2algyZW9XQ0FpZllSV3RVRE1DWHNmYWlZR0RkS2FRX2JXVUIzbHZlbk9PMzE2bjNnS2I0NnNBOENjYUhEaUpGYkhZczI4am40NU1nQ2NmNXR3Vk5PYmpxQkdLaVBtLXZpbGxIUWM4R3g5Z3Q5Qi1Kdk1UT0EydEJISWRyN0w2dGtJZTJ5V05PSjhCMDB1MHVIWXBqT3E5b09xOG0tRC16X0tHYS1yU3ZzMjJYVXpfakUxbURudHVEQQ?oc=5",
+   "tickers": [
+    "DELL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "DELL",
+   "strength": 85,
+   "reason": "Federal contract award ($9.7B Pentagon win) to Dell weeks after Trump's praise; dual bullish catalysts (contract + endorsement)"
+  },
   {
    "date": "2026-06-02T07:47:00Z",
    "platform": "News",
@@ -67,9 +99,9 @@
    "reason": "Trump explicitly praised Micron; UBS and Trump combined endorsement drove stock toward $1T market cap milestone.",
    "price_since": {
     "ticker": "MU",
-    "pct": 1.0,
+    "pct": 2.8,
     "base": 1035.5,
-    "last": 1045.75,
+    "last": 1064.1,
     "base_date": "2026-06-01",
     "last_date": "2026-06-02"
    }
@@ -91,9 +123,9 @@
    "reason": "Trump's praise of IBM resurfaces, driving stock surge; explicit endorsement of named company",
    "price_since": {
     "ticker": "IBM",
-    "pct": 1.8,
+    "pct": 2.7,
     "base": 320.42,
-    "last": 326.14,
+    "last": 329.23,
     "base_date": "2026-06-01",
     "last_date": "2026-06-02"
    }
@@ -115,9 +147,9 @@
    "reason": "Trump praise tied to IBM rally; market signal but causation noted as complex",
    "price_since": {
     "ticker": "IBM",
-    "pct": 1.8,
+    "pct": 2.7,
     "base": 320.42,
-    "last": 326.14,
+    "last": 329.23,
     "base_date": "2026-06-01",
     "last_date": "2026-06-02"
    }
@@ -139,9 +171,9 @@
    "reason": "Trump's explicit praise of IBM CEO triggers 10% stock surge",
    "price_since": {
     "ticker": "IBM",
-    "pct": 1.8,
+    "pct": 2.7,
     "base": 320.42,
-    "last": 326.14,
+    "last": 329.23,
     "base_date": "2026-06-01",
     "last_date": "2026-06-02"
    }
@@ -163,9 +195,9 @@
    "reason": "Resurfaced Trump praise of IBM CEO sparks market value surge.",
    "price_since": {
     "ticker": "IBM",
-    "pct": 1.8,
+    "pct": 2.7,
     "base": 320.42,
-    "last": 326.14,
+    "last": 329.23,
     "base_date": "2026-06-01",
     "last_date": "2026-06-02"
    }
@@ -187,9 +219,9 @@
    "reason": "Trump praise of IBM resurfaces; drives measurable stock surge",
    "price_since": {
     "ticker": "IBM",
-    "pct": 1.8,
+    "pct": 2.7,
     "base": 320.42,
-    "last": 326.14,
+    "last": 329.23,
     "base_date": "2026-06-01",
     "last_date": "2026-06-02"
    }
@@ -211,9 +243,9 @@
    "reason": "Trump's praise recirculates, IBM shares surge; explicit positive catalyst.",
    "price_since": {
     "ticker": "IBM",
-    "pct": 1.8,
+    "pct": 2.7,
     "base": 320.42,
-    "last": 326.14,
+    "last": 329.23,
     "base_date": "2026-06-01",
     "last_date": "2026-06-02"
    }
@@ -235,9 +267,9 @@
    "reason": "Old Trump praise clip recirculating; explicit endorsement of IBM driving market reaction.",
    "price_since": {
     "ticker": "IBM",
-    "pct": 1.8,
+    "pct": 2.7,
     "base": 320.42,
-    "last": 326.14,
+    "last": 329.23,
     "base_date": "2026-06-01",
     "last_date": "2026-06-02"
    }
@@ -259,9 +291,9 @@
    "reason": "Trump praise drives IBM stock surge",
    "price_since": {
     "ticker": "IBM",
-    "pct": 1.8,
+    "pct": 2.7,
     "base": 320.42,
-    "last": 326.14,
+    "last": 329.23,
     "base_date": "2026-06-01",
     "last_date": "2026-06-02"
    }
@@ -283,9 +315,9 @@
    "reason": "General list of stocks Trump recommends; no specific catalyst",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.2,
+    "pct": 0.1,
     "base": 758.54,
-    "last": 759.77,
+    "last": 759.57,
     "base_date": "2026-06-01",
     "last_date": "2026-06-02"
    }
@@ -307,9 +339,9 @@
    "reason": "IBM stock jumps on Trump praise viral clip; explicit endorsement catalyst",
    "price_since": {
     "ticker": "IBM",
-    "pct": 1.8,
+    "pct": 2.7,
     "base": 320.42,
-    "last": 326.11,
+    "last": 329.23,
     "base_date": "2026-06-01",
     "last_date": "2026-06-02"
    }
@@ -331,9 +363,9 @@
    "reason": "Old Trump praise of IBM recirculates, stock surges; explicit named company",
    "price_since": {
     "ticker": "IBM",
-    "pct": 1.8,
+    "pct": 2.7,
     "base": 320.42,
-    "last": 326.11,
+    "last": 329.23,
     "base_date": "2026-06-01",
     "last_date": "2026-06-02"
    }
@@ -355,9 +387,9 @@
    "reason": "Trump praise of IBM resurfaces driving surge; explicit endorsement",
    "price_since": {
     "ticker": "IBM",
-    "pct": 1.8,
+    "pct": 2.7,
     "base": 320.42,
-    "last": 326.14,
+    "last": 329.23,
     "base_date": "2026-06-01",
     "last_date": "2026-06-02"
    }
@@ -379,9 +411,9 @@
    "reason": "Trump praise clip recirculates driving IBM shares; explicit bullish signal.",
    "price_since": {
     "ticker": "IBM",
-    "pct": 1.8,
+    "pct": 2.7,
     "base": 320.42,
-    "last": 326.11,
+    "last": 329.23,
     "base_date": "2026-06-01",
     "last_date": "2026-06-02"
    }
@@ -403,9 +435,9 @@
    "reason": "Trump's explicit praise of IBM triggers stock jump; direct buying signal implied",
    "price_since": {
     "ticker": "IBM",
-    "pct": 1.9,
+    "pct": 2.7,
     "base": 320.42,
-    "last": 326.35,
+    "last": 329.23,
     "base_date": "2026-06-01",
     "last_date": "2026-06-02"
    }
@@ -427,9 +459,9 @@
    "reason": "Trump's praise of IBM CEO drives stock surge; explicit endorsement of named company",
    "price_since": {
     "ticker": "IBM",
-    "pct": 1.8,
+    "pct": 2.7,
     "base": 320.42,
-    "last": 326.14,
+    "last": 329.23,
     "base_date": "2026-06-01",
     "last_date": "2026-06-02"
    }
@@ -451,9 +483,9 @@
    "reason": "Resurfaced Trump praise of IBM CEO triggers stock jump; explicit mention",
    "price_since": {
     "ticker": "IBM",
-    "pct": 1.8,
+    "pct": 2.7,
     "base": 320.42,
-    "last": 326.11,
+    "last": 329.23,
     "base_date": "2026-06-01",
     "last_date": "2026-06-02"
    }
@@ -475,9 +507,9 @@
    "reason": "Trump praising IBM CEO video resurfaces, shares soar",
    "price_since": {
     "ticker": "IBM",
-    "pct": 1.9,
+    "pct": 2.7,
     "base": 320.42,
-    "last": 326.35,
+    "last": 329.23,
     "base_date": "2026-06-01",
     "last_date": "2026-06-02"
    }
@@ -499,9 +531,9 @@
    "reason": "Trump explicitly praised Micron at rally, stock surged nearly 30%; direct endorsement",
    "price_since": {
     "ticker": "MU",
-    "pct": 1.0,
+    "pct": 2.8,
     "base": 1035.5,
-    "last": 1045.87,
+    "last": 1064.1,
     "base_date": "2026-06-01",
     "last_date": "2026-06-02"
    }
@@ -523,9 +555,9 @@
    "reason": "Trump explicitly praised IBM CEO and stock; video resurfaced showing direct endorsement",
    "price_since": {
     "ticker": "IBM",
-    "pct": 1.8,
+    "pct": 2.7,
     "base": 320.42,
-    "last": 326.11,
+    "last": 329.23,
     "base_date": "2026-06-01",
     "last_date": "2026-06-02"
    }
@@ -547,9 +579,9 @@
    "reason": "Video of Trump praising IBM CEO and stock discussion; explicit positive endorsement",
    "price_since": {
     "ticker": "IBM",
-    "pct": 1.9,
+    "pct": 2.7,
     "base": 320.42,
-    "last": 326.45,
+    "last": 329.23,
     "base_date": "2026-06-01",
     "last_date": "2026-06-02"
    }
@@ -571,9 +603,9 @@
    "reason": "Trump praised IBM CEO as 'legend' and government floated $1B quantum contract award to IBM",
    "price_since": {
     "ticker": "IBM",
-    "pct": 1.9,
+    "pct": 2.7,
     "base": 320.42,
-    "last": 326.45,
+    "last": 329.23,
     "base_date": "2026-06-01",
     "last_date": "2026-06-02"
    }
@@ -882,22 +914,6 @@
    "primary_ticker": "SPY",
    "strength": 60,
    "reason": "Jamie Dimon praises Trump's deregulation push and economic stimulus; macro-bullish signal for broad market."
-  },
-  {
-   "date": "2026-05-31T02:14:07Z",
-   "platform": "News",
-   "text": "Nancy Pelosi stock tracker flags Dell's $9.7 billion Pentagon win weeks after Trump praised the company \u2014 shares surge 48% in a month - MSN \u2014 Nancy Pelosi stock tracker flags Dell's $9.7 billion Pentagon win weeks after Trump praised the company \u2014 shares surge 48% in a month\u00a0\u00a0MSN",
-   "url": "https://news.google.com/rss/articles/CBMiwwNBVV95cUxQR2dqdTV0Q2JHeGo1dUFkSG1RUjlHbEt5YkV6OEFGS0poclAybjIyYUhFOGIwemVFVndZYVJpZW1tM0NTSWU1R0YzdTlBa3pjOU9aUjZoRVpuWTdUZUVrSGsxaTcyYnZ6UWowSWFscTYwUHBCRGdrUmNWUTQ4dmxIR1g3SGp2b29uTGN2Rk9EZU0wWTRxb1g0T1ZRQWxnVzVZU0MyclFvOE9GSWlGQ05vMU1CUVIyMEtlenY0REozSVFKUFlNYjVsNXpuWDIwZDVrbEpvT2ZpcGtUS25HTEwza053LUZieGY0WmpfQXRHVjZvWW1aOHFmcWtDaloxbDM2ZTBJQ0R6RW94b3k1Zml4Y0RmZlNRNjhQaE1VQi1uNkxoRFFGcEljb0hncDUyeVFoLVBNRXNhUnZZVkFqcUxDVm4tdWNPajF3aEctQXMzeGpCNzVWVXd0ajQ2ZXozdmdTeWJaN0FOQ2J2YWZDYVJKaEE3VHZTNTBJQ0ZvOGIyZDBVcHlQN2M4NFBGcVcyTEw3QlZGMzZmZndMdTVSc29faHl0US00TEZnRENLN3J4NGRoY0RxR2pSWDRMbk1qMHk1enAw?oc=5",
-   "tickers": [
-    "DELL"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "DELL",
-   "strength": 85,
-   "reason": "$9.7B Pentagon contract to Dell weeks after Trump praise; explicit federal contract award"
   },
   {
    "date": "2026-05-30T18:47:00Z",
