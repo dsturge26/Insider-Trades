@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-06-03T19:07:31Z",
+ "last_updated": "2026-06-03T22:06:06Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-06-03T20:07:05Z",
+   "platform": "News",
+   "text": "3 Trump-Promoted US Stocks to Watch in June - Yahoo Finance \u2014 3 Trump-Promoted US Stocks to Watch in June\u00a0\u00a0Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUjVmeUVXQXR0ZDN2Z1NVc1lpQ2x2YUpyMk5uUlRuczdWN2pTcUFVc0hsMTk4eGg3ODR4M3NvMUpHcnY1N3NWbkkzWWdWaHU4WWxQdDRmU0FZSEhfQ1JydGdDQm1SVUI4ZUQ3VGxXUWxvZVVWbmpwWFk3UVRpV3VtQUdTa0dBTm1QMUxJcTBIU2NPd3JUQWc?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "SPY",
+   "strength": 25,
+   "reason": "Generic headline about Trump-promoted stocks; lacks specific names, companies, or actionable direction."
+  },
   {
    "date": "2026-06-03T16:38:25Z",
    "platform": "News",
@@ -67,9 +83,9 @@
    "reason": "Legal block on Trump-endorsed aluminum smelter delays/threatens project.",
    "price_since": {
     "ticker": "AA",
-    "pct": -2.6,
+    "pct": -3.5,
     "base": 83.79,
-    "last": 81.61,
+    "last": 80.86,
     "base_date": "2026-06-02",
     "last_date": "2026-06-03"
    }
@@ -91,9 +107,9 @@
    "reason": "Trump bought $1M+ Dell stock before $9.7B Pentagon contract award; direct bullish catalyst.",
    "price_since": {
     "ticker": "DELL",
-    "pct": -2.6,
+    "pct": -3.3,
     "base": 435.31,
-    "last": 424.2,
+    "last": 421.08,
     "base_date": "2026-06-02",
     "last_date": "2026-06-03"
    }
@@ -115,9 +131,9 @@
    "reason": "Deregulation and 'one big beautiful bill' stimulus boost broad market; macro policy bullish",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.6,
+    "pct": -0.7,
     "base": 759.57,
-    "last": 755.26,
+    "last": 754.24,
     "base_date": "2026-06-02",
     "last_date": "2026-06-03"
    }
@@ -139,9 +155,9 @@
    "reason": "Trump praised IBM and CEO; $10B quantum investment announced; explicit company name and positive framing",
    "price_since": {
     "ticker": "IBM",
-    "pct": -6.5,
+    "pct": -7.2,
     "base": 329.23,
-    "last": 307.83,
+    "last": 305.63,
     "base_date": "2026-06-02",
     "last_date": "2026-06-03"
    }
@@ -163,9 +179,9 @@
    "reason": "Trump praised IBM with 'golden touch' language; stock market wizard framing suggests bullish endorsement of the company.",
    "price_since": {
     "ticker": "IBM",
-    "pct": -6.5,
+    "pct": -7.2,
     "base": 329.23,
-    "last": 307.83,
+    "last": 305.63,
     "base_date": "2026-06-02",
     "last_date": "2026-06-03"
    }
@@ -187,9 +203,9 @@
    "reason": "Trump's stock trading disclosures suggest potential conflicts of interest; ambiguous market direction.",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.6,
+    "pct": -0.7,
     "base": 759.57,
-    "last": 755.26,
+    "last": 754.24,
     "base_date": "2026-06-02",
     "last_date": "2026-06-03"
    }
@@ -211,9 +227,9 @@
    "reason": "Trump explicitly praised Micron; UBS and Trump combined endorsement drove stock toward $1T market cap milestone.",
    "price_since": {
     "ticker": "MU",
-    "pct": 3.6,
+    "pct": 4.3,
     "base": 1035.5,
-    "last": 1072.98,
+    "last": 1079.57,
     "base_date": "2026-06-01",
     "last_date": "2026-06-03"
    }
@@ -235,9 +251,9 @@
    "reason": "Trump's praise of IBM resurfaces, driving stock surge; explicit endorsement of named company",
    "price_since": {
     "ticker": "IBM",
-    "pct": -3.9,
+    "pct": -4.6,
     "base": 320.42,
-    "last": 307.83,
+    "last": 305.63,
     "base_date": "2026-06-01",
     "last_date": "2026-06-03"
    }
@@ -259,9 +275,9 @@
    "reason": "Trump praise tied to IBM rally; market signal but causation noted as complex",
    "price_since": {
     "ticker": "IBM",
-    "pct": -3.9,
+    "pct": -4.6,
     "base": 320.42,
-    "last": 307.83,
+    "last": 305.63,
     "base_date": "2026-06-01",
     "last_date": "2026-06-03"
    }
@@ -283,9 +299,9 @@
    "reason": "Trump's explicit praise of IBM CEO triggers 10% stock surge",
    "price_since": {
     "ticker": "IBM",
-    "pct": -3.9,
+    "pct": -4.6,
     "base": 320.42,
-    "last": 307.83,
+    "last": 305.63,
     "base_date": "2026-06-01",
     "last_date": "2026-06-03"
    }
@@ -307,9 +323,9 @@
    "reason": "Resurfaced Trump praise of IBM CEO sparks market value surge.",
    "price_since": {
     "ticker": "IBM",
-    "pct": -3.9,
+    "pct": -4.6,
     "base": 320.42,
-    "last": 307.83,
+    "last": 305.63,
     "base_date": "2026-06-01",
     "last_date": "2026-06-03"
    }
@@ -331,9 +347,9 @@
    "reason": "Trump praise of IBM resurfaces; drives measurable stock surge",
    "price_since": {
     "ticker": "IBM",
-    "pct": -3.9,
+    "pct": -4.6,
     "base": 320.42,
-    "last": 307.83,
+    "last": 305.63,
     "base_date": "2026-06-01",
     "last_date": "2026-06-03"
    }
@@ -355,9 +371,9 @@
    "reason": "Trump's praise recirculates, IBM shares surge; explicit positive catalyst.",
    "price_since": {
     "ticker": "IBM",
-    "pct": -3.9,
+    "pct": -4.6,
     "base": 320.42,
-    "last": 307.83,
+    "last": 305.63,
     "base_date": "2026-06-01",
     "last_date": "2026-06-03"
    }
@@ -379,9 +395,9 @@
    "reason": "Old Trump praise clip recirculating; explicit endorsement of IBM driving market reaction.",
    "price_since": {
     "ticker": "IBM",
-    "pct": -3.9,
+    "pct": -4.6,
     "base": 320.42,
-    "last": 307.83,
+    "last": 305.63,
     "base_date": "2026-06-01",
     "last_date": "2026-06-03"
    }
@@ -403,9 +419,9 @@
    "reason": "Trump praise drives IBM stock surge",
    "price_since": {
     "ticker": "IBM",
-    "pct": -3.9,
+    "pct": -4.6,
     "base": 320.42,
-    "last": 307.83,
+    "last": 305.63,
     "base_date": "2026-06-01",
     "last_date": "2026-06-03"
    }
@@ -427,9 +443,9 @@
    "reason": "General list of stocks Trump recommends; no specific catalyst",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.4,
+    "pct": -0.6,
     "base": 758.54,
-    "last": 755.31,
+    "last": 754.24,
     "base_date": "2026-06-01",
     "last_date": "2026-06-03"
    }
@@ -451,9 +467,9 @@
    "reason": "IBM stock jumps on Trump praise viral clip; explicit endorsement catalyst",
    "price_since": {
     "ticker": "IBM",
-    "pct": -3.9,
+    "pct": -4.6,
     "base": 320.42,
-    "last": 307.83,
+    "last": 305.63,
     "base_date": "2026-06-01",
     "last_date": "2026-06-03"
    }
@@ -475,9 +491,9 @@
    "reason": "Old Trump praise of IBM recirculates, stock surges; explicit named company",
    "price_since": {
     "ticker": "IBM",
-    "pct": -3.9,
+    "pct": -4.6,
     "base": 320.42,
-    "last": 307.89,
+    "last": 305.63,
     "base_date": "2026-06-01",
     "last_date": "2026-06-03"
    }
@@ -499,9 +515,9 @@
    "reason": "Trump praise of IBM resurfaces driving surge; explicit endorsement",
    "price_since": {
     "ticker": "IBM",
-    "pct": -3.9,
+    "pct": -4.6,
     "base": 320.42,
-    "last": 307.83,
+    "last": 305.63,
     "base_date": "2026-06-01",
     "last_date": "2026-06-03"
    }
@@ -523,9 +539,9 @@
    "reason": "Trump praise clip recirculates driving IBM shares; explicit bullish signal.",
    "price_since": {
     "ticker": "IBM",
-    "pct": -3.9,
+    "pct": -4.6,
     "base": 320.42,
-    "last": 307.83,
+    "last": 305.63,
     "base_date": "2026-06-01",
     "last_date": "2026-06-03"
    }
@@ -547,9 +563,9 @@
    "reason": "Trump's explicit praise of IBM triggers stock jump; direct buying signal implied",
    "price_since": {
     "ticker": "IBM",
-    "pct": -3.9,
+    "pct": -4.6,
     "base": 320.42,
-    "last": 307.83,
+    "last": 305.63,
     "base_date": "2026-06-01",
     "last_date": "2026-06-03"
    }
@@ -571,9 +587,9 @@
    "reason": "Trump's praise of IBM CEO drives stock surge; explicit endorsement of named company",
    "price_since": {
     "ticker": "IBM",
-    "pct": -3.9,
+    "pct": -4.6,
     "base": 320.42,
-    "last": 307.83,
+    "last": 305.63,
     "base_date": "2026-06-01",
     "last_date": "2026-06-03"
    }
@@ -595,9 +611,9 @@
    "reason": "Resurfaced Trump praise of IBM CEO triggers stock jump; explicit mention",
    "price_since": {
     "ticker": "IBM",
-    "pct": -3.9,
+    "pct": -4.6,
     "base": 320.42,
-    "last": 307.89,
+    "last": 305.63,
     "base_date": "2026-06-01",
     "last_date": "2026-06-03"
    }
