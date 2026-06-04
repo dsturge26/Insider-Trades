@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-06-03T22:06:06Z",
+ "last_updated": "2026-06-04T00:01:10Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-06-03T22:23:30Z",
+   "platform": "News",
+   "text": "'An Incredible Guy': Trump Praises Tim Cook Following News Of His Departure From CEO Role - AOL.com \u2014 'An Incredible Guy': Trump Praises Tim Cook Following News Of His Departure From CEO Role\u00a0\u00a0AOL.com",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMEY2eUoyMVQwVS1lVWNOMGl2MVkzWkY1Y1RvbE9EanBTQUpwYXZBb3hxbk13NDlxT09mRDdIMzNBb0lKNlV5WUIydFJ4NkNHMFJjMGRFQzA3QXJWQW1aUDd6WU9KNzkzOVM1UU9CczdGNXdKS1Fud2RlbjNLekJPV0VR?oc=5",
+   "tickers": [
+    "AAPL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "AAPL",
+   "strength": 25,
+   "reason": "Trump explicitly praises Tim Cook by name; modest bullish signal for Apple but no specific catalyst"
+  },
   {
    "date": "2026-06-03T20:07:05Z",
    "platform": "News",
@@ -49,6 +65,22 @@
    "primary_ticker": "QCOM",
    "strength": 55,
    "reason": "Trump admin endorses D-Wave quantum approach; bullish for quantum/chip sector"
+  },
+  {
+   "date": "2026-06-03T15:58:05Z",
+   "platform": "News",
+   "text": "Trump admin. endorses D-Wave's 2nd quantum approach: CEO explains - AOL.com \u2014 Trump admin. endorses D-Wave's 2nd quantum approach: CEO explains\u00a0\u00a0AOL.com",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5nLXBaODg2RExHd0dmaG5CSjNxZlVjRjVYY0JXWTFpYnlVRXhaWmNkd3BWalJhWVljT0d3bUVBWG51YjVmZWQ1b2w5dzBjRFRoWUVkcjJUWlNmWnBUV2VDWmk0UGxjQ0NRWnM4SnlsQ0tJdWtxdUFiRjY1cw?oc=5",
+   "tickers": [
+    "QCOM"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "QCOM",
+   "strength": 55,
+   "reason": "Trump admin endorses D-Wave quantum approach; bullish for quantum/semiconductor sector"
   },
   {
    "date": "2026-06-03T14:17:42Z",
@@ -994,22 +1026,6 @@
    "primary_ticker": "DELL",
    "strength": 95,
    "reason": "Trump explicitly praised Dell and bought its stock; $9.7B Pentagon contract awarded to Dell, direct federal contract to named public company."
-  },
-  {
-   "date": "2026-05-31T14:05:38Z",
-   "platform": "News",
-   "text": "'An Incredible Guy': Trump Praises Tim Cook Following News Of His Departure From CEO Role - AOL.com \u2014 'An Incredible Guy': Trump Praises Tim Cook Following News Of His Departure From CEO Role\u00a0\u00a0AOL.com",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMEY2eUoyMVQwVS1lVWNOMGl2MVkzWkY1Y1RvbE9EanBTQUpwYXZBb3hxbk13NDlxT09mRDdIMzNBb0lKNlV5WUIydFJ4NkNHMFJjMGRFQzA3QXJWQW1aUDd6WU9KNzkzOVM1UU9CczdGNXdKS1Fud2RlbjNLekJPV0VR?oc=5",
-   "tickers": [
-    "AAPL"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "AAPL",
-   "strength": 50,
-   "reason": "Trump publicly praises Tim Cook as 'Incredible Guy' following CEO departure news; modest tailwind for Apple."
   },
   {
    "date": "2026-05-31T13:19:59Z",
