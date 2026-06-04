@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-06-04T00:01:10Z",
+ "last_updated": "2026-06-04T05:05:22Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-06-04T02:39:38Z",
+   "platform": "News",
+   "text": "\"Absolutely corrupt\": How Donald Trump enriches himself with Dell shares | blue News - blue News \u2014 \"Absolutely corrupt\": How Donald Trump enriches himself with Dell shares | blue News\u00a0\u00a0blue News",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPakR3UjR0RDFTekRUQ1ZyV3VmNVU1NzZnSjlvbmUySVhGcGJUbENDeExwNnNNQllIUlZiMnc1bkdSQ1dBUjJESjJJMFpyaTV6emVZNFJRRzNxWS1MTG9tXzdUUDY3cFh4bTRCT281WjctWVRjczdjTXZ2M0htWFAxQ2dsT2pOTFloWXpXUHRuTGhrMnVZV1NjcnAwTEhXdUU?oc=5",
+   "tickers": [
+    "DELL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "DELL",
+   "strength": 75,
+   "reason": "Trump purchased Dell shares before company won major Pentagon contracts; positive market signal from Trump's ownership stake."
+  },
   {
    "date": "2026-06-03T22:23:30Z",
    "platform": "News",
@@ -17,6 +33,38 @@
    "primary_ticker": "AAPL",
    "strength": 25,
    "reason": "Trump explicitly praises Tim Cook by name; modest bullish signal for Apple but no specific catalyst"
+  },
+  {
+   "date": "2026-06-03T20:46:56Z",
+   "platform": "News",
+   "text": "Oklahoma's attorney general sues to block aluminum smelter after Trump endorses rival - Reuters \u2014 Oklahoma's attorney general sues to block aluminum smelter after Trump endorses rival\u00a0\u00a0Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdllqejA2VTZBWlNfdWZNNnMxV1VqUW02ajFxU2ZQVldGekhDU0syRHIyRGFjVXY3OUlFUFpkd1BLSklhY2gzNXFvQ0lxRGtJdE5FSmowaHFSTGFqdGNJU01Ub1FKUU84SHdYQ3MteHdiUlZtdHo3U05GV25wNjhuZmctRVZILU4yNENiZUZuSVMzZE45WUt5a3NtcjJGNVNMNS1tT3FGWVd4ZDNGX3BTWXIyUlFpZkQ2Qmc?oc=5",
+   "tickers": [
+    "AA"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "AA",
+   "strength": 40,
+   "reason": "Trump endorsement of aluminum smelter creates competitive/political uncertainty; direction unclear due to legal challenge."
+  },
+  {
+   "date": "2026-06-03T20:46:00Z",
+   "platform": "News",
+   "text": "Oklahoma's attorney general sues to block aluminum smelter after Trump endorses rival - London South East \u2014 Oklahoma's attorney general sues to block aluminum smelter after Trump endorses rival\u00a0\u00a0London South East",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYTVWdGNwNy1vVVI1LUF0MkVIenFPRnVYN3dscG82Y0pKYlNiTUpmVUVKbEtqTHFfZVlRdWE2ek4yLVdPUTk1X21zM3J0bTRuYURFYjZMRkI2ZGdfbXBoUnJJSTJab3piTXJER194dDRodFRBTnA4QlJQTjQzdGp6YnFHU0JwWnhodW9CTklLcW1raGZxdEJzNWVJY29RdEN5ejZJVUdiMlg4NFdfeDJHWDdHc0lNb3BQeE9hblhyVkJpTjdFQnhaVWJsVmU?oc=5",
+   "tickers": [
+    "AA"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "AA",
+   "strength": 40,
+   "reason": "Trump endorsement of aluminum smelter creates competitive/political uncertainty; direction unclear due to legal challenge."
   },
   {
    "date": "2026-06-03T20:07:05Z",
@@ -97,6 +145,22 @@
    "primary_ticker": "DELL",
    "strength": 85,
    "reason": "$9.7B Pentagon contract awarded to Dell; Trump previously praised company; 48% surge confirms catalytic move"
+  },
+  {
+   "date": "2026-06-03T02:18:57Z",
+   "platform": "News",
+   "text": "Dell lands $10 billion contract weeks after Trump\u2019s $1 million-to-$5 million stock purchase - MSN \u2014 Dell lands $10 billion contract weeks after Trump\u2019s $1 million-to-$5 million stock purchase\u00a0\u00a0MSN",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQeHZtWnU4QXNKbUR5WHhia2liTzVnVk5NX1ZoREFzc3JNTWRDeVVOSGdobDhZeXJjNzRjRlFYSDNpUndwczdxVjhtY0JzNWd2bFFqWm9aUUpOb05IcU9GTU1GbHQzSms0WE12ZkhvR19ydl9td01LOGY1aVhCajdNajRVbXppckVMaVJVVVNYTU5tRVhGMnVyMmNHUEdvQUlTMnUyRmpXNGp5TkZrWG5nb3lzWmVJR0hPSmppWVhTSm00S0NjZVJQR2pNR2l5QS0tWmc?oc=5",
+   "tickers": [
+    "DELL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "DELL",
+   "strength": 85,
+   "reason": "Trump purchased $1M-$5M Dell shares before $10B Pentagon contract; explicit personal investment tied to major contract."
   },
   {
    "date": "2026-06-02T21:07:37Z",
@@ -946,22 +1010,6 @@
    "primary_ticker": "IBM",
    "strength": 45,
    "reason": "Trump praised IBM CEO as 'legend' and government floated $1B quantum contract award to IBM; positive signal but not explicit buy directive"
-  },
-  {
-   "date": "2026-05-31T15:13:15Z",
-   "platform": "News",
-   "text": "Dell lands $10 billion contract weeks after Trump\u2019s $1 million-to-$5 million stock purchase - MSN \u2014 Dell lands $10 billion contract weeks after Trump\u2019s $1 million-to-$5 million stock purchase\u00a0\u00a0MSN",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQnJxckk3V21VSGpyMjBLYW9ueEF3RnlyMUlTTWEtTXVoVXZRR2JDNUZCWUpLWDMya2d1TmdfVXltR0FUemJESmU3SVBfRG1scl9iTmlaTmg3VzlLdVVNTWdGVXpqMkxxQ3RNZWRERnRRVTlVX1NwZHVEUUhYMjkwWVhGYkFIQXY1aGlKYUdOM1U0Z0xGbTF1dkI1S1lLb2kyb3FLYkxtTmF1bHdmX3AyUGpoc1ZWX256QVZzUk5uNFVMendSZ3dSdm9sLWp0ZTNYT1QwaVFHY2tLdw?oc=5",
-   "tickers": [
-    "DELL"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "DELL",
-   "strength": 78,
-   "reason": "Trump bought Dell stock and company awarded $10B Pentagon contract weeks later; explicit Trump purchase plus major federal contract."
   },
   {
    "date": "2026-05-31T14:24:17Z",
