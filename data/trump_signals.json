@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-06-04T09:01:08Z",
+ "last_updated": "2026-06-04T12:19:24Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-06-04T09:02:53Z",
+   "platform": "News",
+   "text": "'An Incredible Guy': Trump Praises Tim Cook Following News Of His Departure From CEO Role - AOL.com \u2014 'An Incredible Guy': Trump Praises Tim Cook Following News Of His Departure From CEO Role\u00a0\u00a0AOL.com",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMEY2eUoyMVQwVS1lVWNOMGl2MVkzWkY1Y1RvbE9EanBTQUpwYXZBb3hxbk13NDlxT09mRDdIMzNBb0lKNlV5WUIydFJ4NkNHMFJjMGRFQzA3QXJWQW1aUDd6WU9KNzkzOVM1UU9CczdGNXdKS1Fud2RlbjNLekJPV0VR?oc=5",
+   "tickers": [
+    "AAPL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "AAPL",
+   "strength": 65,
+   "reason": "Trump explicitly praises Tim Cook and Apple amid CEO transition; positive signal for AAPL"
+  },
   {
    "date": "2026-06-04T02:39:38Z",
    "platform": "News",
@@ -17,22 +33,6 @@
    "primary_ticker": "DELL",
    "strength": 75,
    "reason": "Trump purchased Dell shares before company won major Pentagon contracts; positive market signal from Trump's ownership stake."
-  },
-  {
-   "date": "2026-06-03T22:23:30Z",
-   "platform": "News",
-   "text": "'An Incredible Guy': Trump Praises Tim Cook Following News Of His Departure From CEO Role - AOL.com \u2014 'An Incredible Guy': Trump Praises Tim Cook Following News Of His Departure From CEO Role\u00a0\u00a0AOL.com",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMEY2eUoyMVQwVS1lVWNOMGl2MVkzWkY1Y1RvbE9EanBTQUpwYXZBb3hxbk13NDlxT09mRDdIMzNBb0lKNlV5WUIydFJ4NkNHMFJjMGRFQzA3QXJWQW1aUDd6WU9KNzkzOVM1UU9CczdGNXdKS1Fud2RlbjNLekJPV0VR?oc=5",
-   "tickers": [
-    "AAPL"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "AAPL",
-   "strength": 25,
-   "reason": "Trump explicitly praises Tim Cook by name; modest bullish signal for Apple but no specific catalyst"
   },
   {
    "date": "2026-06-03T20:46:56Z",
@@ -147,6 +147,22 @@
    "reason": "$9.7B Pentagon contract awarded to Dell; Trump previously praised company; 48% surge confirms catalytic move"
   },
   {
+   "date": "2026-06-03T03:58:05Z",
+   "platform": "News",
+   "text": "How a boring blue chip became a meme stock - Axios \u2014 How a boring blue chip became a meme stock\u00a0\u00a0Axios",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1SRnJuRkYySk5xcGZGUjIwQmdRVkFrVHdtU0NGYnh6WU1RLWRNUDZfY25FZHVHaVdHQ2hVN1NOem9QV3NEcVZ2OVVFUDdCekxpZkMxTU1KWTNxT0J6ZVFQMmtyUQ?oc=5",
+   "tickers": [
+    "DELL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "DELL",
+   "strength": 50,
+   "reason": "Blue chip became meme stock; likely referring to Dell surge, but direction context-dependent"
+  },
+  {
    "date": "2026-06-03T02:18:57Z",
    "platform": "News",
    "text": "Dell lands $10 billion contract weeks after Trump\u2019s $1 million-to-$5 million stock purchase - MSN \u2014 Dell lands $10 billion contract weeks after Trump\u2019s $1 million-to-$5 million stock purchase\u00a0\u00a0MSN",
@@ -161,6 +177,22 @@
    "primary_ticker": "DELL",
    "strength": 85,
    "reason": "Trump purchased $1M-$5M Dell shares before $10B Pentagon contract; explicit personal investment tied to major contract."
+  },
+  {
+   "date": "2026-06-03T00:53:40Z",
+   "platform": "News",
+   "text": "Trump Praises Palantir's Technology: Is the Stock Destined to Go Higher? - AOL.com \u2014 Trump Praises Palantir's Technology: Is the Stock Destined to Go Higher?\u00a0\u00a0AOL.com",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONjYxNWpaSEU0VkkxS2hjalY0SlJzcHN0a0cxQmZKQi1zVHkyVkRpSnY1V19ydXVISHEtUDBuWTZTckluZVVwaGJSS1pWVXZ4VWhwbzY1VnZSNC1QVzhJWTdzVl9SNG9TajJGOV9tdFhETlROOXZHV3FnNTM1ZDJEQTBTcENlV2VHQ2lrVw?oc=5",
+   "tickers": [
+    "PLTR"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "PLTR",
+   "strength": 72,
+   "reason": "Trump explicitly praises Palantir's technology; direct positive signal for PLTR stock"
   },
   {
    "date": "2026-06-02T21:07:37Z",
@@ -249,6 +281,30 @@
    "primary_ticker": "IBM",
    "strength": 75,
    "reason": "Trump praised IBM and CEO; $10B quantum investment announced; explicit company name and positive framing",
+   "price_since": {
+    "ticker": "IBM",
+    "pct": -7.2,
+    "base": 329.23,
+    "last": 305.63,
+    "base_date": "2026-06-02",
+    "last_date": "2026-06-03"
+   }
+  },
+  {
+   "date": "2026-06-02T10:46:00Z",
+   "platform": "News",
+   "text": "'Trump effect' comes to IBM stock, 6 months after US President called IBM CEO Arvind Krishna a \u2026 - The Times of India \u2014 'Trump effect' comes to IBM stock, 6 months after US President called IBM CEO Arvind Krishna a \u2026\u00a0\u00a0The Times of India",
+   "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOOTR3Skpaa2NJMzRpMi1yZ3NfZUxGYlJPel9rVlRISWxVRnFHOHc5aFRSZ1B1cXpwLWtadTJxT1pHQ1F3MkE2XzNMYWZCeXBDZEpTcHRtanBTV1JrQldZZGZJaW1xYlN5MnltTnNwNWpJaEM5YW5qN09MY1Q0QzJiYkw5YmkyYVkzM2Nwa19qRGo2d2hwWlFlamtwWUlJenVSdFVBdTcyZ3BfZFRieVd6OXFRRlBIblRkblBsSTgydmRJSDdubHprNFlrSmVYZGVabTM2UHA4V19WSnZxSDFOTTYwemtTYUVGLVkxQjlYWm93ZEpNOXNaX3hLb1pfQ2dtV0ZKVHdYWdIBjAJBVV95cUxOTmVHSVlvUU83NnNxby1lWmdnajI1RDFYN2lxVHRReUFWLUdqdW5reFgwaXNFTjBoNHFuVXBPWWJPZ1ByMWFNMXNJc2RPcjZlM2VyMTE5QS1vTC1LWVhra29YWlB0ZUI3Mm5nY2tSQlFrYjJJNzI5Q19NZHRkU2RvTHJFMXhpV2RmLXlDQzRJRW8zRjc4dzlfUmFTUUoyOVlmbnZKTDNBOFYxblN0YjI3V3BPTlpwMVJ0aFdJTm9qLU45SVZqUjlLaExmbkRZZFhYcU9oSU5kX0thWVJvUWRmS3pQYndrSjZha1VTbFRyRVNuRU5vSHhBa1FJX1V0dFFZZGNiVHRoRTRXTlNU?oc=5",
+   "tickers": [
+    "IBM"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "IBM",
+   "strength": 68,
+   "reason": "Trump praised IBM CEO 6 months ago; persistent 'Trump effect' boosting IBM stock",
    "price_since": {
     "ticker": "IBM",
     "pct": -7.2,
