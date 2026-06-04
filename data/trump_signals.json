@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-06-04T15:59:03Z",
+ "last_updated": "2026-06-04T18:26:35Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -69,7 +69,7 @@
     "ticker": "XLE",
     "pct": 0.3,
     "base": 58.71,
-    "last": 58.87,
+    "last": 58.9,
     "base_date": "2026-06-03",
     "last_date": "2026-06-04"
    }
@@ -91,9 +91,9 @@
    "reason": "Trump endorsement of aluminum smelter creates competitive/political uncertainty; direction unclear due to legal challenge.",
    "price_since": {
     "ticker": "AA",
-    "pct": -1.1,
+    "pct": -1.5,
     "base": 80.86,
-    "last": 79.95,
+    "last": 79.62,
     "base_date": "2026-06-03",
     "last_date": "2026-06-04"
    }
@@ -115,9 +115,9 @@
    "reason": "Trump endorsement of aluminum smelter creates competitive/political uncertainty; direction unclear due to legal challenge.",
    "price_since": {
     "ticker": "AA",
-    "pct": -1.1,
+    "pct": -1.5,
     "base": 80.86,
-    "last": 79.95,
+    "last": 79.62,
     "base_date": "2026-06-03",
     "last_date": "2026-06-04"
    }
@@ -139,9 +139,9 @@
    "reason": "Generic headline about Trump-promoted stocks; lacks specific names, companies, or actionable direction.",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.2,
+    "pct": 0.5,
     "base": 754.24,
-    "last": 755.4,
+    "last": 757.86,
     "base_date": "2026-06-03",
     "last_date": "2026-06-04"
    }
@@ -163,9 +163,9 @@
    "reason": "Trump praised Dell weeks before $9.7B Pentagon contract award; stock surged 48%; explicit link between Trump endorsement and major federal contract",
    "price_since": {
     "ticker": "DELL",
-    "pct": -1.7,
+    "pct": 1.4,
     "base": 421.08,
-    "last": 413.91,
+    "last": 427.05,
     "base_date": "2026-06-03",
     "last_date": "2026-06-04"
    }
@@ -187,9 +187,9 @@
    "reason": "Trump admin endorses D-Wave quantum approach; bullish for quantum/chip sector",
    "price_since": {
     "ticker": "QCOM",
-    "pct": -4.4,
+    "pct": -3.1,
     "base": 250.01,
-    "last": 239.04,
+    "last": 242.3,
     "base_date": "2026-06-03",
     "last_date": "2026-06-04"
    }
@@ -211,9 +211,9 @@
    "reason": "Trump admin endorses D-Wave quantum approach; bullish for quantum/semiconductor sector",
    "price_since": {
     "ticker": "QCOM",
-    "pct": -4.4,
+    "pct": -3.1,
     "base": 250.01,
-    "last": 239.04,
+    "last": 242.3,
     "base_date": "2026-06-03",
     "last_date": "2026-06-04"
    }
@@ -235,9 +235,9 @@
    "reason": "Blue chip became meme stock; likely referring to Dell surge, but direction context-dependent",
    "price_since": {
     "ticker": "DELL",
-    "pct": -1.7,
+    "pct": 1.4,
     "base": 421.08,
-    "last": 413.91,
+    "last": 427.05,
     "base_date": "2026-06-03",
     "last_date": "2026-06-04"
    }
@@ -259,9 +259,9 @@
    "reason": "Trump purchased $1M-$5M Dell shares before $10B Pentagon contract; explicit personal investment tied to major contract.",
    "price_since": {
     "ticker": "DELL",
-    "pct": -1.7,
+    "pct": 1.4,
     "base": 421.08,
-    "last": 413.91,
+    "last": 427.05,
     "base_date": "2026-06-03",
     "last_date": "2026-06-04"
    }
@@ -283,9 +283,9 @@
    "reason": "Trump explicitly praises Palantir's technology; direct positive signal for PLTR stock",
    "price_since": {
     "ticker": "PLTR",
-    "pct": 0.3,
+    "pct": -0.4,
     "base": 142.2,
-    "last": 142.65,
+    "last": 141.68,
     "base_date": "2026-06-03",
     "last_date": "2026-06-04"
    }
@@ -307,9 +307,9 @@
    "reason": "Legal block on Trump-endorsed aluminum smelter delays/threatens project.",
    "price_since": {
     "ticker": "AA",
-    "pct": -4.6,
+    "pct": -5.0,
     "base": 83.79,
-    "last": 79.95,
+    "last": 79.62,
     "base_date": "2026-06-02",
     "last_date": "2026-06-04"
    }
@@ -331,9 +331,9 @@
    "reason": "Trump bought $1M+ Dell stock before $9.7B Pentagon contract award; direct bullish catalyst.",
    "price_since": {
     "ticker": "DELL",
-    "pct": -4.9,
+    "pct": -1.9,
     "base": 435.31,
-    "last": 413.99,
+    "last": 427.05,
     "base_date": "2026-06-02",
     "last_date": "2026-06-04"
    }
@@ -355,9 +355,9 @@
    "reason": "Deregulation and 'one big beautiful bill' stimulus boost broad market; macro policy bullish",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.6,
+    "pct": -0.2,
     "base": 759.57,
-    "last": 755.38,
+    "last": 757.86,
     "base_date": "2026-06-02",
     "last_date": "2026-06-04"
    }
@@ -379,9 +379,9 @@
    "reason": "Trump praised IBM and CEO; $10B quantum investment announced; explicit company name and positive framing",
    "price_since": {
     "ticker": "IBM",
-    "pct": -7.4,
+    "pct": -8.0,
     "base": 329.23,
-    "last": 304.74,
+    "last": 302.79,
     "base_date": "2026-06-02",
     "last_date": "2026-06-04"
    }
@@ -403,9 +403,9 @@
    "reason": "Trump praised IBM CEO 6 months ago; persistent 'Trump effect' boosting IBM stock",
    "price_since": {
     "ticker": "IBM",
-    "pct": -7.4,
+    "pct": -8.0,
     "base": 329.23,
-    "last": 304.74,
+    "last": 302.79,
     "base_date": "2026-06-02",
     "last_date": "2026-06-04"
    }
@@ -427,9 +427,9 @@
    "reason": "Trump praised IBM with 'golden touch' language; stock market wizard framing suggests bullish endorsement of the company.",
    "price_since": {
     "ticker": "IBM",
-    "pct": -7.4,
+    "pct": -8.0,
     "base": 329.23,
-    "last": 304.74,
+    "last": 302.79,
     "base_date": "2026-06-02",
     "last_date": "2026-06-04"
    }
@@ -451,9 +451,9 @@
    "reason": "Trump's stock trading disclosures suggest potential conflicts of interest; ambiguous market direction.",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.6,
+    "pct": -0.2,
     "base": 759.57,
-    "last": 755.39,
+    "last": 757.86,
     "base_date": "2026-06-02",
     "last_date": "2026-06-04"
    }
@@ -475,9 +475,9 @@
    "reason": "Trump explicitly praised Micron; UBS and Trump combined endorsement drove stock toward $1T market cap milestone.",
    "price_since": {
     "ticker": "MU",
-    "pct": -2.8,
+    "pct": -0.2,
     "base": 1035.5,
-    "last": 1006.34,
+    "last": 1033.0,
     "base_date": "2026-06-01",
     "last_date": "2026-06-04"
    }
@@ -499,9 +499,9 @@
    "reason": "Trump's praise of IBM resurfaces, driving stock surge; explicit endorsement of named company",
    "price_since": {
     "ticker": "IBM",
-    "pct": -4.9,
+    "pct": -5.5,
     "base": 320.42,
-    "last": 304.74,
+    "last": 302.79,
     "base_date": "2026-06-01",
     "last_date": "2026-06-04"
    }
@@ -523,9 +523,9 @@
    "reason": "Trump praise tied to IBM rally; market signal but causation noted as complex",
    "price_since": {
     "ticker": "IBM",
-    "pct": -4.9,
+    "pct": -5.5,
     "base": 320.42,
-    "last": 304.74,
+    "last": 302.79,
     "base_date": "2026-06-01",
     "last_date": "2026-06-04"
    }
@@ -547,9 +547,9 @@
    "reason": "Trump's explicit praise of IBM CEO triggers 10% stock surge",
    "price_since": {
     "ticker": "IBM",
-    "pct": -4.9,
+    "pct": -5.5,
     "base": 320.42,
-    "last": 304.74,
+    "last": 302.79,
     "base_date": "2026-06-01",
     "last_date": "2026-06-04"
    }
@@ -571,9 +571,9 @@
    "reason": "Resurfaced Trump praise of IBM CEO sparks market value surge.",
    "price_since": {
     "ticker": "IBM",
-    "pct": -4.9,
+    "pct": -5.5,
     "base": 320.42,
-    "last": 304.74,
+    "last": 302.79,
     "base_date": "2026-06-01",
     "last_date": "2026-06-04"
    }
@@ -595,9 +595,9 @@
    "reason": "Trump praise of IBM resurfaces; drives measurable stock surge",
    "price_since": {
     "ticker": "IBM",
-    "pct": -4.9,
+    "pct": -5.5,
     "base": 320.42,
-    "last": 304.74,
+    "last": 302.79,
     "base_date": "2026-06-01",
     "last_date": "2026-06-04"
    }
@@ -619,11 +619,11 @@
    "reason": "Trump's praise recirculates, IBM shares surge; explicit positive catalyst.",
    "price_since": {
     "ticker": "IBM",
-    "pct": -4.6,
+    "pct": -5.5,
     "base": 320.42,
-    "last": 305.63,
+    "last": 302.79,
     "base_date": "2026-06-01",
-    "last_date": "2026-06-03"
+    "last_date": "2026-06-04"
    }
   },
   {
