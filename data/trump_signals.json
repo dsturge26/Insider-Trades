@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-06-05T06:24:03Z",
+ "last_updated": "2026-06-05T10:32:13Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-06-05T07:26:04Z",
+   "platform": "News",
+   "text": "He is a good friend, Trump praises PM Modi, signals a US-India trade deal - MSN \u2014 He is a good friend, Trump praises PM Modi, signals a US-India trade deal\u00a0\u00a0MSN",
+   "url": "https://news.google.com/rss/articles/CBMilANBVV95cUxQdFE4OW5TUmVrSGxJZ0s3R2pTS2d4VEZvcVlLNXNUZHVvR21yeFd6Vld1N2Z6ajU4VnZPekc0ZGJIbmhBSTUtYmpQbTVOVG1lcDZoM283Ymw3T2hLbm5IazQzM2hSclcxTVh2ZU52MlJaV0hXbWt1ODJNY3lCR2w2RlhPT1RxX3Y0WmJ4UExNMDdIOVcweVFaOC1rdkxQTEF0Q3lsdUV6NmJxRFZ2QU5Sazh2Szc5SlVNVzY2eWVKbEtLQWVtZTl5SWtEVm1PdFBDYzJCWWluWFl4eFlic28yVTd2QXdkRm1OVnh4UXMtVkdFMktJRk53VVQwZzZEdE9FZU5UaE9BS1ppUExKcmxWbXdhVUJNSUwxVFdSUXp0d29TV19Mbmd6eFpyUVNZNE55Q09oVl9KeGlBSUJCeXpvTWZkbjNWb1Q0eWZUY0Z5QXVqVk9BdDc2ODFwd0NTREV6QlhFSWVadDNiOTZBeG9oMEF3cTh3aEpGZmh6VDJ0UDgxbTVOTmFwYjRzT05VT3VwOHpXYQ?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "SPY",
+   "strength": 25,
+   "reason": "US-India trade deal signals positive trade momentum and economic growth"
+  },
   {
    "date": "2026-06-05T05:34:00Z",
    "platform": "News",
@@ -17,6 +33,22 @@
    "primary_ticker": "MSFT",
    "strength": 45,
    "reason": "Trump administration engaging with OpenAI on governance suggests potential legitimacy/partnership benefits for AI sector; MSFT is OpenAI's primary backer."
+  },
+  {
+   "date": "2026-06-05T03:24:00Z",
+   "platform": "News",
+   "text": "Trump Praises PM Modi as Good Friend, Confirms India-US Trade Deal - zoomnews.in \u2014 Trump Praises PM Modi as Good Friend, Confirms India-US Trade Deal\u00a0\u00a0zoomnews.in",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUHVWQWpPWEt4M0tiLXBaWHdiUGdpaEUzZGdFVlhpeWdfSDJ5TjBRcy1KX2VJek03dnpaQnRXS3h3SF8zaDVsTjU0c1o2ZFJWMzdtZG9VdGlKQ2ZSVThFcVRnWUlaUHVsY09JMDZkcWU3QkY3VTJwRkhRZnJiQzhWNWoxMWFvVGFQanZIWERB0gGTAUFVX3lxTE5mcDRGVXpyX0pjRHhkaGpHSHRhal9WeWFkU0xvQTZhN0FDTnIyWWdwNEpSNWxDRXltcmdEQWxCUFZpajNQVjVpMDFQWkxXR1hyUHZEM2RzU2hqU3dXbVV4QmViM0Y2NzZJbG1ZcVBFbzdGWHJha2ZYcnc2RS1CTUctX0k1UFRYemJfTG10bzI2MUx4WQ?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "SPY",
+   "strength": 25,
+   "reason": "Confirmed US-India trade agreement signals positive trade relations"
   },
   {
    "date": "2026-06-05T02:06:43Z",
@@ -144,7 +176,15 @@
    "direction": "WATCH",
    "primary_ticker": "XLE",
    "strength": 40,
-   "reason": "Trump endorses aluminum smelter project; related to industrial/energy sector but endorsement contested by state AG"
+   "reason": "Trump endorses aluminum smelter project; related to industrial/energy sector but endorsement contested by state AG",
+   "price_since": {
+    "ticker": "XLE",
+    "pct": 0.1,
+    "base": 58.71,
+    "last": 58.75,
+    "base_date": "2026-06-03",
+    "last_date": "2026-06-04"
+   }
   },
   {
    "date": "2026-06-03T20:46:56Z",
@@ -192,7 +232,15 @@
    "direction": "WATCH",
    "primary_ticker": "SPY",
    "strength": 25,
-   "reason": "Generic headline about Trump-promoted stocks; lacks specific names, companies, or actionable direction."
+   "reason": "Generic headline about Trump-promoted stocks; lacks specific names, companies, or actionable direction.",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": 0.4,
+    "base": 754.24,
+    "last": 757.09,
+    "base_date": "2026-06-03",
+    "last_date": "2026-06-04"
+   }
   },
   {
    "date": "2026-06-03T17:21:48Z",
@@ -224,7 +272,15 @@
    "direction": "BUY",
    "primary_ticker": "QCOM",
    "strength": 55,
-   "reason": "Trump admin endorses D-Wave quantum approach; bullish for quantum/chip sector"
+   "reason": "Trump admin endorses D-Wave quantum approach; bullish for quantum/chip sector",
+   "price_since": {
+    "ticker": "QCOM",
+    "pct": -3.0,
+    "base": 250.01,
+    "last": 242.57,
+    "base_date": "2026-06-03",
+    "last_date": "2026-06-04"
+   }
   },
   {
    "date": "2026-06-03T15:58:05Z",
@@ -240,7 +296,15 @@
    "direction": "BUY",
    "primary_ticker": "QCOM",
    "strength": 55,
-   "reason": "Trump admin endorses D-Wave quantum approach; bullish for quantum/semiconductor sector"
+   "reason": "Trump admin endorses D-Wave quantum approach; bullish for quantum/semiconductor sector",
+   "price_since": {
+    "ticker": "QCOM",
+    "pct": -3.0,
+    "base": 250.01,
+    "last": 242.57,
+    "base_date": "2026-06-03",
+    "last_date": "2026-06-04"
+   }
   },
   {
    "date": "2026-06-03T03:58:05Z",
@@ -339,6 +403,30 @@
    }
   },
   {
+   "date": "2026-06-02T20:14:21Z",
+   "platform": "News",
+   "text": "International Business Machines Corp Stock (IBM) Closed Up by 3.27% on Jun 2: Key Drivers Unveiled - TradingKey \u2014 International Business Machines Corp Stock (IBM) Closed Up by 3.27% on Jun 2: Key Drivers Unveiled\u00a0\u00a0TradingKey",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQekdGS1dDQUtWWHcxQ2h3bUd2UVliSGNDblB3cDhLYmJGeXU0QnZfZVZWdjJUUzRGd25ZRXY2b1I1SXZ0ZmYtdFQ1dldkaG11R042RmJQREVZWG4xUEFoY1hTNmwyMDN5b3NoQ1M3MFlNY1pYTmJpVmFOZlp5di1jTmY5enotUi1HSVE?oc=5",
+   "tickers": [
+    "IBM"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "IBM",
+   "strength": 45,
+   "reason": "IBM stock up 3.27% linked to Trump praise; explicit positive sentiment",
+   "price_since": {
+    "ticker": "IBM",
+    "pct": -8.3,
+    "base": 329.23,
+    "last": 301.77,
+    "base_date": "2026-06-02",
+    "last_date": "2026-06-04"
+   }
+  },
+  {
    "date": "2026-06-02T17:54:43Z",
    "platform": "News",
    "text": "Jamie Dimon warns inflation ticking up is 'not good' \u2014 praises Trump's 'one big beautiful bill,' deregulation push to stimulate economic growth - MSN \u2014 Jamie Dimon warns inflation ticking up is 'not good' \u2014 praises Trump's 'one big beautiful bill,' deregulation push to stimulate economic growth\u00a0\u00a0MSN",
@@ -355,11 +443,11 @@
    "reason": "Deregulation and 'one big beautiful bill' stimulus boost broad market; macro policy bullish",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.7,
+    "pct": -0.3,
     "base": 759.57,
-    "last": 754.24,
+    "last": 757.09,
     "base_date": "2026-06-02",
-    "last_date": "2026-06-03"
+    "last_date": "2026-06-04"
    }
   },
   {
@@ -379,11 +467,11 @@
    "reason": "Trump praised IBM and CEO; $10B quantum investment announced; explicit company name and positive framing",
    "price_since": {
     "ticker": "IBM",
-    "pct": -7.2,
+    "pct": -8.3,
     "base": 329.23,
-    "last": 305.63,
+    "last": 301.77,
     "base_date": "2026-06-02",
-    "last_date": "2026-06-03"
+    "last_date": "2026-06-04"
    }
   },
   {
@@ -403,11 +491,11 @@
    "reason": "Trump's past criticism of IBM CEO associated with stock pressure; market interprets Trump commentary as bearish signal on company.",
    "price_since": {
     "ticker": "IBM",
-    "pct": -7.2,
+    "pct": -8.3,
     "base": 329.23,
-    "last": 305.63,
+    "last": 301.77,
     "base_date": "2026-06-02",
-    "last_date": "2026-06-03"
+    "last_date": "2026-06-04"
    }
   },
   {
@@ -427,11 +515,11 @@
    "reason": "Trump praised IBM CEO 6 months ago; persistent 'Trump effect' boosting IBM stock",
    "price_since": {
     "ticker": "IBM",
-    "pct": -7.2,
+    "pct": -8.3,
     "base": 329.23,
-    "last": 305.63,
+    "last": 301.77,
     "base_date": "2026-06-02",
-    "last_date": "2026-06-03"
+    "last_date": "2026-06-04"
    }
   },
   {
@@ -451,11 +539,11 @@
    "reason": "Trump praised IBM with 'golden touch' language; stock market wizard framing suggests bullish endorsement of the company.",
    "price_since": {
     "ticker": "IBM",
-    "pct": -7.2,
+    "pct": -8.3,
     "base": 329.23,
-    "last": 305.63,
+    "last": 301.77,
     "base_date": "2026-06-02",
-    "last_date": "2026-06-03"
+    "last_date": "2026-06-04"
    }
   },
   {
