@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-06-05T10:32:13Z",
+ "last_updated": "2026-06-05T13:43:32Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -96,7 +96,15 @@
    "direction": "WATCH",
    "primary_ticker": "SPY",
    "strength": 25,
-   "reason": "Mentions Trump market bump effect but no specific actionable signal"
+   "reason": "Mentions Trump market bump effect but no specific actionable signal",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": -0.9,
+    "base": 757.09,
+    "last": 750.62,
+    "base_date": "2026-06-04",
+    "last_date": "2026-06-05"
+   }
   },
   {
    "date": "2026-06-04T16:30:30Z",
@@ -112,7 +120,15 @@
    "direction": "BUY",
    "primary_ticker": "SPY",
    "strength": 45,
-   "reason": "References Trump endorsement driving ETF gains; suggests bullish momentum but lacks specificity"
+   "reason": "References Trump endorsement driving ETF gains; suggests bullish momentum but lacks specificity",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": -0.9,
+    "base": 757.09,
+    "last": 750.65,
+    "base_date": "2026-06-04",
+    "last_date": "2026-06-05"
+   }
   },
   {
    "date": "2026-06-04T09:02:53Z",
@@ -128,7 +144,15 @@
    "direction": "BUY",
    "primary_ticker": "AAPL",
    "strength": 65,
-   "reason": "Trump explicitly praises Tim Cook and Apple amid CEO transition; positive signal for AAPL"
+   "reason": "Trump explicitly praises Tim Cook and Apple amid CEO transition; positive signal for AAPL",
+   "price_since": {
+    "ticker": "AAPL",
+    "pct": 0.7,
+    "base": 311.23,
+    "last": 313.43,
+    "base_date": "2026-06-04",
+    "last_date": "2026-06-05"
+   }
   },
   {
    "date": "2026-06-04T08:26:40Z",
@@ -144,7 +168,15 @@
    "direction": "BUY",
    "primary_ticker": "IBM",
    "strength": 70,
-   "reason": "Trump praised IBM CEO; video resurfaces driving stock surge"
+   "reason": "Trump praised IBM CEO; video resurfaces driving stock surge",
+   "price_since": {
+    "ticker": "IBM",
+    "pct": -3.0,
+    "base": 301.77,
+    "last": 292.85,
+    "base_date": "2026-06-04",
+    "last_date": "2026-06-05"
+   }
   },
   {
    "date": "2026-06-04T02:39:38Z",
@@ -160,7 +192,15 @@
    "direction": "BUY",
    "primary_ticker": "DELL",
    "strength": 75,
-   "reason": "Trump purchased Dell shares before company won major Pentagon contracts; positive market signal from Trump's ownership stake."
+   "reason": "Trump purchased Dell shares before company won major Pentagon contracts; positive market signal from Trump's ownership stake.",
+   "price_since": {
+    "ticker": "DELL",
+    "pct": -4.0,
+    "base": 422.05,
+    "last": 405.25,
+    "base_date": "2026-06-04",
+    "last_date": "2026-06-05"
+   }
   },
   {
    "date": "2026-06-03T20:48:00Z",
@@ -179,11 +219,11 @@
    "reason": "Trump endorses aluminum smelter project; related to industrial/energy sector but endorsement contested by state AG",
    "price_since": {
     "ticker": "XLE",
-    "pct": 0.1,
+    "pct": -0.9,
     "base": 58.71,
-    "last": 58.75,
+    "last": 58.21,
     "base_date": "2026-06-03",
-    "last_date": "2026-06-04"
+    "last_date": "2026-06-05"
    }
   },
   {
@@ -200,7 +240,15 @@
    "direction": "WATCH",
    "primary_ticker": "AA",
    "strength": 40,
-   "reason": "Trump endorsement of aluminum smelter creates competitive/political uncertainty; direction unclear due to legal challenge."
+   "reason": "Trump endorsement of aluminum smelter creates competitive/political uncertainty; direction unclear due to legal challenge.",
+   "price_since": {
+    "ticker": "AA",
+    "pct": -6.7,
+    "base": 80.86,
+    "last": 75.42,
+    "base_date": "2026-06-03",
+    "last_date": "2026-06-05"
+   }
   },
   {
    "date": "2026-06-03T20:46:00Z",
@@ -216,7 +264,15 @@
    "direction": "WATCH",
    "primary_ticker": "AA",
    "strength": 40,
-   "reason": "Trump endorsement of aluminum smelter creates competitive/political uncertainty; direction unclear due to legal challenge."
+   "reason": "Trump endorsement of aluminum smelter creates competitive/political uncertainty; direction unclear due to legal challenge.",
+   "price_since": {
+    "ticker": "AA",
+    "pct": -6.7,
+    "base": 80.86,
+    "last": 75.42,
+    "base_date": "2026-06-03",
+    "last_date": "2026-06-05"
+   }
   },
   {
    "date": "2026-06-03T20:07:05Z",
@@ -235,11 +291,11 @@
    "reason": "Generic headline about Trump-promoted stocks; lacks specific names, companies, or actionable direction.",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.4,
+    "pct": -0.5,
     "base": 754.24,
-    "last": 757.09,
+    "last": 750.64,
     "base_date": "2026-06-03",
-    "last_date": "2026-06-04"
+    "last_date": "2026-06-05"
    }
   },
   {
@@ -256,7 +312,15 @@
    "direction": "BUY",
    "primary_ticker": "DELL",
    "strength": 75,
-   "reason": "Trump praised Dell weeks before $9.7B Pentagon contract award; stock surged 48%; explicit link between Trump endorsement and major federal contract"
+   "reason": "Trump praised Dell weeks before $9.7B Pentagon contract award; stock surged 48%; explicit link between Trump endorsement and major federal contract",
+   "price_since": {
+    "ticker": "DELL",
+    "pct": -3.7,
+    "base": 421.08,
+    "last": 405.32,
+    "base_date": "2026-06-03",
+    "last_date": "2026-06-05"
+   }
   },
   {
    "date": "2026-06-03T15:58:05Z",
@@ -275,11 +339,11 @@
    "reason": "Trump admin endorses D-Wave quantum approach; bullish for quantum/chip sector",
    "price_since": {
     "ticker": "QCOM",
-    "pct": -3.0,
+    "pct": -7.9,
     "base": 250.01,
-    "last": 242.57,
+    "last": 230.37,
     "base_date": "2026-06-03",
-    "last_date": "2026-06-04"
+    "last_date": "2026-06-05"
    }
   },
   {
@@ -299,11 +363,11 @@
    "reason": "Trump admin endorses D-Wave quantum approach; bullish for quantum/semiconductor sector",
    "price_since": {
     "ticker": "QCOM",
-    "pct": -3.0,
+    "pct": -7.9,
     "base": 250.01,
-    "last": 242.57,
+    "last": 230.37,
     "base_date": "2026-06-03",
-    "last_date": "2026-06-04"
+    "last_date": "2026-06-05"
    }
   },
   {
@@ -320,7 +384,15 @@
    "direction": "WATCH",
    "primary_ticker": "DELL",
    "strength": 50,
-   "reason": "Blue chip became meme stock; likely referring to Dell surge, but direction context-dependent"
+   "reason": "Blue chip became meme stock; likely referring to Dell surge, but direction context-dependent",
+   "price_since": {
+    "ticker": "DELL",
+    "pct": -3.7,
+    "base": 421.08,
+    "last": 405.32,
+    "base_date": "2026-06-03",
+    "last_date": "2026-06-05"
+   }
   },
   {
    "date": "2026-06-03T02:18:57Z",
@@ -336,7 +408,15 @@
    "direction": "BUY",
    "primary_ticker": "DELL",
    "strength": 85,
-   "reason": "Trump purchased $1M-$5M Dell shares before $10B Pentagon contract; explicit personal investment tied to major contract."
+   "reason": "Trump purchased $1M-$5M Dell shares before $10B Pentagon contract; explicit personal investment tied to major contract.",
+   "price_since": {
+    "ticker": "DELL",
+    "pct": -3.7,
+    "base": 421.08,
+    "last": 405.32,
+    "base_date": "2026-06-03",
+    "last_date": "2026-06-05"
+   }
   },
   {
    "date": "2026-06-03T00:53:40Z",
@@ -352,7 +432,15 @@
    "direction": "BUY",
    "primary_ticker": "PLTR",
    "strength": 72,
-   "reason": "Trump explicitly praises Palantir's technology; direct positive signal for PLTR stock"
+   "reason": "Trump explicitly praises Palantir's technology; direct positive signal for PLTR stock",
+   "price_since": {
+    "ticker": "PLTR",
+    "pct": -1.9,
+    "base": 142.2,
+    "last": 139.55,
+    "base_date": "2026-06-03",
+    "last_date": "2026-06-05"
+   }
   },
   {
    "date": "2026-06-02T21:07:37Z",
@@ -371,11 +459,11 @@
    "reason": "Legal block on Trump-endorsed aluminum smelter delays/threatens project.",
    "price_since": {
     "ticker": "AA",
-    "pct": -3.5,
+    "pct": -10.0,
     "base": 83.79,
-    "last": 80.86,
+    "last": 75.42,
     "base_date": "2026-06-02",
-    "last_date": "2026-06-03"
+    "last_date": "2026-06-05"
    }
   },
   {
@@ -395,11 +483,11 @@
    "reason": "Trump bought $1M+ Dell stock before $9.7B Pentagon contract award; direct bullish catalyst.",
    "price_since": {
     "ticker": "DELL",
-    "pct": -3.3,
+    "pct": -7.1,
     "base": 435.31,
-    "last": 421.08,
+    "last": 404.4,
     "base_date": "2026-06-02",
-    "last_date": "2026-06-03"
+    "last_date": "2026-06-05"
    }
   },
   {
@@ -419,11 +507,11 @@
    "reason": "IBM stock up 3.27% linked to Trump praise; explicit positive sentiment",
    "price_since": {
     "ticker": "IBM",
-    "pct": -8.3,
+    "pct": -11.1,
     "base": 329.23,
-    "last": 301.77,
+    "last": 292.69,
     "base_date": "2026-06-02",
-    "last_date": "2026-06-04"
+    "last_date": "2026-06-05"
    }
   },
   {
@@ -443,11 +531,11 @@
    "reason": "Deregulation and 'one big beautiful bill' stimulus boost broad market; macro policy bullish",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.3,
+    "pct": -1.2,
     "base": 759.57,
-    "last": 757.09,
+    "last": 750.61,
     "base_date": "2026-06-02",
-    "last_date": "2026-06-04"
+    "last_date": "2026-06-05"
    }
   },
   {
@@ -467,11 +555,11 @@
    "reason": "Trump praised IBM and CEO; $10B quantum investment announced; explicit company name and positive framing",
    "price_since": {
     "ticker": "IBM",
-    "pct": -8.3,
+    "pct": -11.1,
     "base": 329.23,
-    "last": 301.77,
+    "last": 292.68,
     "base_date": "2026-06-02",
-    "last_date": "2026-06-04"
+    "last_date": "2026-06-05"
    }
   },
   {
@@ -2429,57 +2517,6 @@
    "primary_ticker": "LMT",
    "strength": 75,
    "reason": "Lockheed Martin awarded $15.5B NASA federal contract, bullish for defense contractor."
-  },
-  {
-   "date": "2006-04-17T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "NORTHROP GRUMMAN SYSTEMS CORPORATION was awarded a $4.4B federal contract from National Aeronautics and Space Administration.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_NNM07AA75C_8000_-NONE-_-NONE-",
-   "tickers": [
-    "NOC"
-   ],
-   "contract_amount": 4.43,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "NOC",
-   "strength": 85,
-   "reason": "Northrop Grumman awarded $4.4B NASA federal contract, direct revenue boost to publicly-traded prime contractor"
-  },
-  {
-   "date": "1993-11-15T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "THE BOEING COMPANY was awarded a $22.4B federal contract from National Aeronautics and Space Administration.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_NAS1510000_8000_-NONE-_-NONE-",
-   "tickers": [
-    "BA"
-   ],
-   "contract_amount": 22.43,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "BA",
-   "strength": 75,
-   "reason": "Boeing awarded $22.4B NASA federal contract, bullish for aerospace/defense."
-  },
-  {
-   "date": "1993-10-15T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "LOCKHEED MARTIN CORP was awarded a $48.1B federal contract from Department of Energy.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_DEAC0494AL85000_8900_-NONE-_-NONE-",
-   "tickers": [
-    "LMT"
-   ],
-   "contract_amount": 48.06,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "LMT",
-   "strength": 80,
-   "reason": "Lockheed Martin awarded $48.1B DOE federal contract, major bullish signal for defense contractor."
   }
  ],
  "how_to_read": "Each card is Claude's read of a public Trump post: the affected ticker, whether it implies BUY / SELL / WATCH, a 0\u2013100 strength (how explicit/emphatic the post is \u2014 NOT a profit predictor), and why. A 2-year backtest found these don't beat buy-and-hold, so this is for awareness, not trading. Not financial advice."
