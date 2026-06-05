@@ -1,7 +1,24 @@
 {
- "last_updated": "2026-06-05T13:43:32Z",
+ "last_updated": "2026-06-05T16:19:56Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-06-05T14:33:09.398Z",
+   "platform": "Truth Social",
+   "text": "With a great Jobs Report, like just announced, stocks should go up, not down. That's the way it was for 200 years. Growth does not mean inflation! How else can a Country attain GREATNESS??? President DJT",
+   "tickers": [
+    "SPY"
+   ],
+   "engagement": 11988,
+   "url": "https://truthsocial.com/@realDonaldTrump/116697988425226966",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "SPY",
+   "strength": 25,
+   "reason": "Strong jobs report implies growth without inflation; macro bullish for broad market but generic boilerplate without specific catalyst."
+  },
   {
    "date": "2026-06-05T07:26:04Z",
    "platform": "News",
@@ -99,9 +116,9 @@
    "reason": "Mentions Trump market bump effect but no specific actionable signal",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.9,
+    "pct": -1.6,
     "base": 757.09,
-    "last": 750.62,
+    "last": 744.78,
     "base_date": "2026-06-04",
     "last_date": "2026-06-05"
    }
@@ -123,9 +140,9 @@
    "reason": "References Trump endorsement driving ETF gains; suggests bullish momentum but lacks specificity",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.9,
+    "pct": -1.6,
     "base": 757.09,
-    "last": 750.65,
+    "last": 744.8,
     "base_date": "2026-06-04",
     "last_date": "2026-06-05"
    }
@@ -147,9 +164,9 @@
    "reason": "Trump explicitly praises Tim Cook and Apple amid CEO transition; positive signal for AAPL",
    "price_since": {
     "ticker": "AAPL",
-    "pct": 0.7,
+    "pct": 0.4,
     "base": 311.23,
-    "last": 313.43,
+    "last": 312.58,
     "base_date": "2026-06-04",
     "last_date": "2026-06-05"
    }
@@ -171,9 +188,9 @@
    "reason": "Trump praised IBM CEO; video resurfaces driving stock surge",
    "price_since": {
     "ticker": "IBM",
-    "pct": -3.0,
+    "pct": -5.9,
     "base": 301.77,
-    "last": 292.85,
+    "last": 283.94,
     "base_date": "2026-06-04",
     "last_date": "2026-06-05"
    }
@@ -195,9 +212,9 @@
    "reason": "Trump purchased Dell shares before company won major Pentagon contracts; positive market signal from Trump's ownership stake.",
    "price_since": {
     "ticker": "DELL",
-    "pct": -4.0,
+    "pct": -5.3,
     "base": 422.05,
-    "last": 405.25,
+    "last": 399.66,
     "base_date": "2026-06-04",
     "last_date": "2026-06-05"
    }
@@ -219,9 +236,9 @@
    "reason": "Trump endorses aluminum smelter project; related to industrial/energy sector but endorsement contested by state AG",
    "price_since": {
     "ticker": "XLE",
-    "pct": -0.9,
+    "pct": -1.2,
     "base": 58.71,
-    "last": 58.21,
+    "last": 57.99,
     "base_date": "2026-06-03",
     "last_date": "2026-06-05"
    }
@@ -243,9 +260,9 @@
    "reason": "Trump endorsement of aluminum smelter creates competitive/political uncertainty; direction unclear due to legal challenge.",
    "price_since": {
     "ticker": "AA",
-    "pct": -6.7,
+    "pct": -9.7,
     "base": 80.86,
-    "last": 75.42,
+    "last": 73.05,
     "base_date": "2026-06-03",
     "last_date": "2026-06-05"
    }
@@ -267,9 +284,9 @@
    "reason": "Trump endorsement of aluminum smelter creates competitive/political uncertainty; direction unclear due to legal challenge.",
    "price_since": {
     "ticker": "AA",
-    "pct": -6.7,
+    "pct": -9.7,
     "base": 80.86,
-    "last": 75.42,
+    "last": 73.05,
     "base_date": "2026-06-03",
     "last_date": "2026-06-05"
    }
@@ -291,9 +308,9 @@
    "reason": "Generic headline about Trump-promoted stocks; lacks specific names, companies, or actionable direction.",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.5,
+    "pct": -1.3,
     "base": 754.24,
-    "last": 750.64,
+    "last": 744.8,
     "base_date": "2026-06-03",
     "last_date": "2026-06-05"
    }
@@ -315,9 +332,9 @@
    "reason": "Trump praised Dell weeks before $9.7B Pentagon contract award; stock surged 48%; explicit link between Trump endorsement and major federal contract",
    "price_since": {
     "ticker": "DELL",
-    "pct": -3.7,
+    "pct": -5.1,
     "base": 421.08,
-    "last": 405.32,
+    "last": 399.66,
     "base_date": "2026-06-03",
     "last_date": "2026-06-05"
    }
@@ -339,9 +356,9 @@
    "reason": "Trump admin endorses D-Wave quantum approach; bullish for quantum/chip sector",
    "price_since": {
     "ticker": "QCOM",
-    "pct": -7.9,
+    "pct": -11.3,
     "base": 250.01,
-    "last": 230.37,
+    "last": 221.67,
     "base_date": "2026-06-03",
     "last_date": "2026-06-05"
    }
@@ -363,9 +380,33 @@
    "reason": "Trump admin endorses D-Wave quantum approach; bullish for quantum/semiconductor sector",
    "price_since": {
     "ticker": "QCOM",
-    "pct": -7.9,
+    "pct": -11.3,
     "base": 250.01,
-    "last": 230.37,
+    "last": 221.7,
+    "base_date": "2026-06-03",
+    "last_date": "2026-06-05"
+   }
+  },
+  {
+   "date": "2026-06-03T10:20:55Z",
+   "platform": "News",
+   "text": "Trump said \u201cMicron\u2019s great\u201d on May 22. The stock is up 20% today. - MSN \u2014 Trump said \u201cMicron\u2019s great\u201d on May 22. The stock is up 20% today.\u00a0\u00a0MSN",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVWZrOTVBa3Y0RU5vYmFacGJFd0ZjaFNLbXZhQVdtRUg3OXlXR01rUGFZV3RCZ3dLSUsyYVpPNWI5QjBXbEFKVnVNYzFzNFg4OWNfOUd4NUx0enVraVU5ZFZKZTVHLUxNMWdHOEM3UFhObXVEa2dsQXJYMzVGWWZzVEhTTFhma3J0bjlLQjQtYjZQdnFLOV9KS1NEMlZnU2FrVXprVWRheWNiNEh0eFJuejVn?oc=5",
+   "tickers": [
+    "MU"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "MU",
+   "strength": 65,
+   "reason": "Trump explicitly said Micron is great; direct company praise with immediate 20% stock move confirms signal strength.",
+   "price_since": {
+    "ticker": "MU",
+    "pct": -15.3,
+    "base": 1079.57,
+    "last": 914.45,
     "base_date": "2026-06-03",
     "last_date": "2026-06-05"
    }
@@ -387,9 +428,9 @@
    "reason": "Blue chip became meme stock; likely referring to Dell surge, but direction context-dependent",
    "price_since": {
     "ticker": "DELL",
-    "pct": -3.7,
+    "pct": -5.1,
     "base": 421.08,
-    "last": 405.32,
+    "last": 399.66,
     "base_date": "2026-06-03",
     "last_date": "2026-06-05"
    }
@@ -411,9 +452,9 @@
    "reason": "Trump purchased $1M-$5M Dell shares before $10B Pentagon contract; explicit personal investment tied to major contract.",
    "price_since": {
     "ticker": "DELL",
-    "pct": -3.7,
+    "pct": -5.1,
     "base": 421.08,
-    "last": 405.32,
+    "last": 399.66,
     "base_date": "2026-06-03",
     "last_date": "2026-06-05"
    }
@@ -435,9 +476,9 @@
    "reason": "Trump explicitly praises Palantir's technology; direct positive signal for PLTR stock",
    "price_since": {
     "ticker": "PLTR",
-    "pct": -1.9,
+    "pct": -3.7,
     "base": 142.2,
-    "last": 139.55,
+    "last": 136.9,
     "base_date": "2026-06-03",
     "last_date": "2026-06-05"
    }
@@ -459,9 +500,9 @@
    "reason": "Legal block on Trump-endorsed aluminum smelter delays/threatens project.",
    "price_since": {
     "ticker": "AA",
-    "pct": -10.0,
+    "pct": -12.8,
     "base": 83.79,
-    "last": 75.42,
+    "last": 73.05,
     "base_date": "2026-06-02",
     "last_date": "2026-06-05"
    }
@@ -483,9 +524,9 @@
    "reason": "Trump bought $1M+ Dell stock before $9.7B Pentagon contract award; direct bullish catalyst.",
    "price_since": {
     "ticker": "DELL",
-    "pct": -7.1,
+    "pct": -8.2,
     "base": 435.31,
-    "last": 404.4,
+    "last": 399.66,
     "base_date": "2026-06-02",
     "last_date": "2026-06-05"
    }
@@ -507,9 +548,9 @@
    "reason": "IBM stock up 3.27% linked to Trump praise; explicit positive sentiment",
    "price_since": {
     "ticker": "IBM",
-    "pct": -11.1,
+    "pct": -13.8,
     "base": 329.23,
-    "last": 292.69,
+    "last": 283.78,
     "base_date": "2026-06-02",
     "last_date": "2026-06-05"
    }
@@ -531,9 +572,9 @@
    "reason": "Deregulation and 'one big beautiful bill' stimulus boost broad market; macro policy bullish",
    "price_since": {
     "ticker": "SPY",
-    "pct": -1.2,
+    "pct": -1.9,
     "base": 759.57,
-    "last": 750.61,
+    "last": 744.8,
     "base_date": "2026-06-02",
     "last_date": "2026-06-05"
    }
@@ -555,9 +596,9 @@
    "reason": "Trump praised IBM and CEO; $10B quantum investment announced; explicit company name and positive framing",
    "price_since": {
     "ticker": "IBM",
-    "pct": -11.1,
+    "pct": -13.8,
     "base": 329.23,
-    "last": 292.68,
+    "last": 283.78,
     "base_date": "2026-06-02",
     "last_date": "2026-06-05"
    }
@@ -579,11 +620,11 @@
    "reason": "Trump's past criticism of IBM CEO associated with stock pressure; market interprets Trump commentary as bearish signal on company.",
    "price_since": {
     "ticker": "IBM",
-    "pct": -8.3,
+    "pct": -13.8,
     "base": 329.23,
-    "last": 301.77,
+    "last": 283.78,
     "base_date": "2026-06-02",
-    "last_date": "2026-06-04"
+    "last_date": "2026-06-05"
    }
   },
   {
@@ -1668,22 +1709,6 @@
    "reason": "Trump purchased UFC parent stock (TKO Group); direct equity stake while hyping White House event"
   },
   {
-   "date": "2026-05-29T19:43:28Z",
-   "platform": "News",
-   "text": "Trump said \u201cMicron\u2019s great\u201d on May 22. The stock is up 20% today. - MSN \u2014 Trump said \u201cMicron\u2019s great\u201d on May 22. The stock is up 20% today.\u00a0\u00a0MSN",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdjA2UGo3UmNlLWZDVnkwWmlPaXczdFFFSkNSazRYOEI1SGxIZ1NQZndWLWlZWXh2ajFTZ1NRYkIybkJEZWdBTkQzU2dQQ19NMGJfSmVmVTNIOWFWMzN1X0xzd0gxZU80OXFxTF8tbkE5T29DSGtkTWlRWWRoQzRlV0E4YTdfVWhqWEF6RE5nRGpiWHdlNWpFcEFmaFg4blRNRjZ5U19UMVhJSW55T01DSVdn?oc=5",
-   "tickers": [
-    "MU"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "MU",
-   "strength": 85,
-   "reason": "Trump explicitly praised Micron ('great'); stock up 20% same day."
-  },
-  {
    "date": "2026-05-29T18:59:56Z",
    "platform": "News",
    "text": "Trump Bought UFC Parent Company Stock Before White House Card - MMANews.com \u2014 Trump Bought UFC Parent Company Stock Before White House Card\u00a0\u00a0MMANews.com",
@@ -2483,40 +2508,6 @@
    "primary_ticker": "LMT",
    "strength": 75,
    "reason": "Lockheed Martin awarded $2.0B NASA federal contract; bullish for defense contractor."
-  },
-  {
-   "date": "2007-09-01T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "THE BOEING COMPANY was awarded a $10.5B federal contract from National Aeronautics and Space Administration.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_NNM07AB03C_8000_-NONE-_-NONE-",
-   "tickers": [
-    "BA"
-   ],
-   "contract_amount": 10.5,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "BA",
-   "strength": 85,
-   "reason": "Boeing awarded $10.5B NASA federal contract, direct revenue boost to publicly-traded prime contractor"
-  },
-  {
-   "date": "2006-09-06T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "LOCKHEED MARTIN CORP was awarded a $15.5B federal contract from National Aeronautics and Space Administration.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_NNJ06TA25C_8000_-NONE-_-NONE-",
-   "tickers": [
-    "LMT"
-   ],
-   "contract_amount": 15.53,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "LMT",
-   "strength": 75,
-   "reason": "Lockheed Martin awarded $15.5B NASA federal contract, bullish for defense contractor."
   }
  ],
  "how_to_read": "Each card is Claude's read of a public Trump post: the affected ticker, whether it implies BUY / SELL / WATCH, a 0\u2013100 strength (how explicit/emphatic the post is \u2014 NOT a profit predictor), and why. A 2-year backtest found these don't beat buy-and-hold, so this is for awareness, not trading. Not financial advice."
