@@ -1,7 +1,39 @@
 {
- "last_updated": "2026-06-04T23:38:49Z",
+ "last_updated": "2026-06-05T01:53:57Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-06-04T16:51:00Z",
+   "platform": "News",
+   "text": "The \u2018Jensen effect\u2019 is the new \u2018Trump bump\u2019 for stocks - Semafor \u2014 The \u2018Jensen effect\u2019 is the new \u2018Trump bump\u2019 for stocks\u00a0\u00a0Semafor",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOOUNTck5MdDB3UGRXUnpWZGk4Vk5ic3NFcUVRS0VzZlU0RzdFOFpGYjNVZlZHUzlJeEtlc0c2MWJ4TmFGQXc1SmZPN2szcVlMTC1OeTZXbnI3ZlpDOVpmMzZ3RFFqSWRTYW9jRnFJVjJtN2piMFk3TnZvZUZUNXlyc0Q2TjFWNE90LVE?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "SPY",
+   "strength": 25,
+   "reason": "Mentions Trump market bump effect but no specific actionable signal"
+  },
+  {
+   "date": "2026-06-04T16:30:30Z",
+   "platform": "News",
+   "text": "If You Listened to Trump and Bought This ETF in February, You\u2019d Be a Millionaire Today | $110K to $1M - 24/7 Wall St. \u2014 If You Listened to Trump and Bought This ETF in February, You\u2019d Be a Millionaire Today | $110K to $1M\u00a0\u00a024/7 Wall St.",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNa2FDMl9iOXRDT1Z3OGtRVkg0Q2ZYcFhSTm45TGZNUHhhZ1MtRGFkd1pucW1zc1ExYm11cWMxUGx5UEQ5WHBpdWdzbmhINEZwU3MtYkxvQWRlQ1g4RE9rZTgyMXBqeVNiZnFJNlk3ZXI0TWM5QjVqRUhNb0U5WjVkZDRHTTVvR0docG5MWi1CSVJrMllGMW56UzNTUjltMEVES0haa1pCTGd0MnROQUZSZGZkRkhIUU5DSTk1Y0Z3X0lXU3ZtTlZRQnEzOGRyMzhjSzVyTGpB?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "SPY",
+   "strength": 45,
+   "reason": "References Trump endorsement driving ETF gains; suggests bullish momentum but lacks specificity"
+  },
   {
    "date": "2026-06-04T09:02:53Z",
    "platform": "News",
@@ -377,6 +409,30 @@
    "primary_ticker": "IBM",
    "strength": 75,
    "reason": "Trump praised IBM and CEO; $10B quantum investment announced; explicit company name and positive framing",
+   "price_since": {
+    "ticker": "IBM",
+    "pct": -8.3,
+    "base": 329.23,
+    "last": 301.77,
+    "base_date": "2026-06-02",
+    "last_date": "2026-06-04"
+   }
+  },
+  {
+   "date": "2026-06-02T12:28:59Z",
+   "platform": "News",
+   "text": "'Trump effect' comes to IBM shares, 6 months after US president called IBM CEO Arvind Krishna a \u2026 - MSN \u2014 'Trump effect' comes to IBM shares, 6 months after US president called IBM CEO Arvind Krishna a \u2026\u00a0\u00a0MSN",
+   "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPN0tkMW5EWGpJbERrUVhOVHBfalZhdnlkaFVQcWFJcFNENnlpdk95WHdtWlN3U3VHRmtTb1hBNnJubkFXcjRCYzVhZUFVbEt5OFJhZWxDc3RfZnJsWWJKWGo5R2ttcUJaQkpJNFZONG53OTNZYTEtY20xTEpDdFMzdHk4Nk9IUkdTZ2Nzbk1iVDBUcHpLekZKb08xdmE5UmdzQWF1Wl91aDVjVnl1dV9TUnhBcmNZWnZhTm14aFRxNkU3dldDSklyT3JMQl9rR29PTFhrcVVEMkhxeUVhUDBoRU9tQ3pPU05nZ1pNSG8xSkw3TDVJS0xvRkdSZC1KeE1LenVwU0VpYnR0cHM?oc=5",
+   "tickers": [
+    "IBM"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "IBM",
+   "strength": 45,
+   "reason": "Trump's past criticism of IBM CEO associated with stock pressure; market interprets Trump commentary as bearish signal on company.",
    "price_since": {
     "ticker": "IBM",
     "pct": -8.3,
