@@ -1,7 +1,24 @@
 {
- "last_updated": "2026-06-05T23:15:11Z",
+ "last_updated": "2026-06-06T01:25:34Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-06-05T23:28:26.660Z",
+   "platform": "Truth Social",
+   "text": "I am pleased to announce that TrumpRx.gov is adding another 160 Prescription\u00a0Drugs, at highly discounted prices, for\u00a0a new total of over 800 of the most commonly-used Prescription Drugs. TrumpRx.gov will now provide clear, transparent, and DISCOUNTED offerings for FOUR OUT OF FIVE of every prescription filled by Americans. I was proud to make History during my First Term when we lowered Drug Prices, even if by a tiny percentage, because this amounted to a HUGE change compared to other presidents only raising Drug Prices, endlessly and significantly, every year. Then, during my Second Term, I decided to go BIG with Most Favored Nations Pricing \u2014 That is to say, we pay no more or, ideally, less than any other Country for the same exact Drug. Now we are cutting Prices, and cutting them by a LOT, sometimes by 400 or 500 or 600 Percent! These Most Favored Nations Deals have already, in fact, saved American Patients over 400 Million Dollars since the launch of TrumpRx.gov. Of course, Most Favored Nations would not be possible without my use of TARIFFS, which are getting other Countries to \"pay up\" instead of relying on American Patients getting ripped off, as they were for decades until I ordered an immediate \"stop\" to this very unfair and, frankly, foolish situation. This is all great news, and I have instructed my Administration to secure more Most Favored Nations Deals, more Partnerships, and Lower Prices for every American Patient. Before filling out a Prescription, make sure you \"CHECK OUT\" \u2013 TRUMPRX.GOV. Thank you for your attention to this matter! President DONALD J. TRUMPHTTPS://TRUMPRX.GOV",
+   "tickers": [
+    "SPY"
+   ],
+   "engagement": 2255,
+   "url": "https://truthsocial.com/@realDonaldTrump/116700093262063892",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "SPY",
+   "strength": 45,
+   "reason": "Drug price transparency/discounts policy potentially supportive of pharma sector long-term; macro policy signal, not explicit company call."
+  },
   {
    "date": "2026-06-05T14:33:09.398Z",
    "platform": "Truth Social",
@@ -620,9 +637,9 @@
    "reason": "Trump's past criticism of IBM CEO associated with stock pressure; market interprets Trump commentary as bearish signal on company.",
    "price_since": {
     "ticker": "IBM",
-    "pct": -13.8,
+    "pct": -13.5,
     "base": 329.23,
-    "last": 283.67,
+    "last": 284.84,
     "base_date": "2026-06-02",
     "last_date": "2026-06-05"
    }
@@ -644,11 +661,11 @@
    "reason": "Trump praised IBM CEO 6 months ago; persistent 'Trump effect' boosting IBM stock",
    "price_since": {
     "ticker": "IBM",
-    "pct": -8.3,
+    "pct": -13.5,
     "base": 329.23,
-    "last": 301.77,
+    "last": 284.84,
     "base_date": "2026-06-02",
-    "last_date": "2026-06-04"
+    "last_date": "2026-06-05"
    }
   },
   {
@@ -668,11 +685,11 @@
    "reason": "Trump praised IBM with 'golden touch' language; stock market wizard framing suggests bullish endorsement of the company.",
    "price_since": {
     "ticker": "IBM",
-    "pct": -8.3,
+    "pct": -13.5,
     "base": 329.23,
-    "last": 301.77,
+    "last": 284.84,
     "base_date": "2026-06-02",
-    "last_date": "2026-06-04"
+    "last_date": "2026-06-05"
    }
   },
   {
@@ -692,11 +709,11 @@
    "reason": "Trump publicly praised IBM; stock surge confirms market response to his endorsement.",
    "price_since": {
     "ticker": "IBM",
-    "pct": -7.2,
+    "pct": -13.5,
     "base": 329.23,
-    "last": 305.63,
+    "last": 284.84,
     "base_date": "2026-06-02",
-    "last_date": "2026-06-03"
+    "last_date": "2026-06-05"
    }
   },
   {
@@ -716,11 +733,11 @@
    "reason": "Speculation on future Trump stock picks; no current named target or direction",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.3,
+    "pct": -2.9,
     "base": 759.57,
-    "last": 757.09,
+    "last": 737.55,
     "base_date": "2026-06-02",
-    "last_date": "2026-06-04"
+    "last_date": "2026-06-05"
    }
   },
   {
@@ -740,11 +757,11 @@
    "reason": "Trump's stock trading disclosures suggest potential conflicts of interest; ambiguous market direction.",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.3,
+    "pct": -2.9,
     "base": 759.57,
-    "last": 757.09,
+    "last": 737.55,
     "base_date": "2026-06-02",
-    "last_date": "2026-06-04"
+    "last_date": "2026-06-05"
    }
   },
   {
@@ -764,11 +781,11 @@
    "reason": "Trump's explicit praise of IBM triggered 10% stock surge; direct company endorsement",
    "price_since": {
     "ticker": "IBM",
-    "pct": -5.8,
+    "pct": -11.1,
     "base": 320.42,
-    "last": 301.77,
+    "last": 284.84,
     "base_date": "2026-06-01",
-    "last_date": "2026-06-04"
+    "last_date": "2026-06-05"
    }
   },
   {
@@ -788,11 +805,11 @@
    "reason": "Trump explicitly praised Micron; UBS and Trump combined endorsement drove stock toward $1T market cap milestone.",
    "price_since": {
     "ticker": "MU",
-    "pct": -3.8,
+    "pct": -16.6,
     "base": 1035.5,
-    "last": 996.0,
+    "last": 864.01,
     "base_date": "2026-06-01",
-    "last_date": "2026-06-04"
+    "last_date": "2026-06-05"
    }
   },
   {
@@ -812,11 +829,11 @@
    "reason": "Trump's praise of IBM resurfaces, driving stock surge; explicit endorsement of named company",
    "price_since": {
     "ticker": "IBM",
-    "pct": -5.8,
+    "pct": -11.1,
     "base": 320.42,
-    "last": 301.77,
+    "last": 284.84,
     "base_date": "2026-06-01",
-    "last_date": "2026-06-04"
+    "last_date": "2026-06-05"
    }
   },
   {
@@ -836,11 +853,11 @@
    "reason": "Trump praise tied to IBM rally; market signal but causation noted as complex",
    "price_since": {
     "ticker": "IBM",
-    "pct": -5.8,
+    "pct": -11.1,
     "base": 320.42,
-    "last": 301.77,
+    "last": 284.84,
     "base_date": "2026-06-01",
-    "last_date": "2026-06-04"
+    "last_date": "2026-06-05"
    }
   },
   {
@@ -860,11 +877,11 @@
    "reason": "Resurfaced Trump praise of IBM CEO sparks market value surge.",
    "price_since": {
     "ticker": "IBM",
-    "pct": -5.8,
+    "pct": -11.1,
     "base": 320.42,
-    "last": 301.77,
+    "last": 284.84,
     "base_date": "2026-06-01",
-    "last_date": "2026-06-04"
+    "last_date": "2026-06-05"
    }
   },
   {
@@ -884,11 +901,11 @@
    "reason": "Trump praise of IBM resurfaces; drives measurable stock surge",
    "price_since": {
     "ticker": "IBM",
-    "pct": -5.8,
+    "pct": -11.1,
     "base": 320.42,
-    "last": 301.77,
+    "last": 284.84,
     "base_date": "2026-06-01",
-    "last_date": "2026-06-04"
+    "last_date": "2026-06-05"
    }
   },
   {
@@ -2459,6 +2476,23 @@
    "reason": "Aerojet Rocketdyne awarded $3.3B NASA contract; major aerospace & defense engine manufacturer contract win."
   },
   {
+   "date": "2015-09-03T12:00:00Z",
+   "platform": "Federal contract",
+   "text": "NORTHROP GRUMMAN SYSTEMS CORPORATION was awarded a $1.6B federal contract from National Aeronautics and Space Administration.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_NNH15CN76C_8000_-NONE-_-NONE-",
+   "tickers": [
+    "NOC"
+   ],
+   "contract_amount": 1.59,
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "NOC",
+   "strength": 75,
+   "reason": "$1.6B federal contract awarded to Northrop Grumman; direct bullish catalyst for defense contractor."
+  },
+  {
    "date": "2015-07-09T12:00:00Z",
    "platform": "Federal contract",
    "text": "HONEYWELL FEDERAL MANUFACTURING & TECHNOLOGIES, LLC was awarded a $17.4B federal contract from Department of Energy.",
@@ -2525,6 +2559,57 @@
    "primary_ticker": "BA",
    "strength": 75,
    "reason": "Large $10.5B federal contract award to Boeing from NASA is directly bullish for the named public company."
+  },
+  {
+   "date": "2006-04-17T12:00:00Z",
+   "platform": "Federal contract",
+   "text": "NORTHROP GRUMMAN SYSTEMS CORPORATION was awarded a $4.4B federal contract from National Aeronautics and Space Administration.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_NNM07AA75C_8000_-NONE-_-NONE-",
+   "tickers": [
+    "NOC"
+   ],
+   "contract_amount": 4.43,
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "NOC",
+   "strength": 80,
+   "reason": "$4.4B federal contract awarded to Northrop Grumman; significant defense/space contract win."
+  },
+  {
+   "date": "1993-11-15T12:00:00Z",
+   "platform": "Federal contract",
+   "text": "THE BOEING COMPANY was awarded a $22.4B federal contract from National Aeronautics and Space Administration.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_NAS1510000_8000_-NONE-_-NONE-",
+   "tickers": [
+    "BA"
+   ],
+   "contract_amount": 22.43,
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "BA",
+   "strength": 85,
+   "reason": "$22.4B federal contract awarded to Boeing from NASA; major bullish catalyst for aerospace/defense."
+  },
+  {
+   "date": "1993-10-15T12:00:00Z",
+   "platform": "Federal contract",
+   "text": "LOCKHEED MARTIN CORP was awarded a $48.1B federal contract from Department of Energy.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_DEAC0494AL85000_8900_-NONE-_-NONE-",
+   "tickers": [
+    "LMT"
+   ],
+   "contract_amount": 48.06,
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "LMT",
+   "strength": 90,
+   "reason": "$48.1B federal contract awarded to Lockheed Martin from DOE; massive defense/energy infrastructure contract."
   }
  ],
  "how_to_read": "Each card is Claude's read of a public Trump post: the affected ticker, whether it implies BUY / SELL / WATCH, a 0\u2013100 strength (how explicit/emphatic the post is \u2014 NOT a profit predictor), and why. A 2-year backtest found these don't beat buy-and-hold, so this is for awareness, not trading. Not financial advice."
