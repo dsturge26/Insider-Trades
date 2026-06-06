@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-06-06T18:56:02Z",
+ "last_updated": "2026-06-06T20:09:47Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -2512,23 +2512,6 @@
    "primary_ticker": "FOE",
    "strength": 75,
    "reason": "$14.8B federal contract to Fluor for marine propulsion; bullish for contractor"
-  },
-  {
-   "date": "2017-12-01T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "AMENTUM TECHNOLOGY, INC. was awarded a $1.9B federal contract from National Aeronautics and Space Administration.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_80MSFC18C0011_8000_-NONE-_-NONE-",
-   "tickers": [
-    "AMENTUM"
-   ],
-   "contract_amount": 1.93,
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "AMENTUM",
-   "strength": 70,
-   "reason": "Amentum Technology Inc awarded $1.9B NASA federal contract; bullish for awardee."
   }
  ],
  "how_to_read": "Each card is Claude's read of a public Trump post: the affected ticker, whether it implies BUY / SELL / WATCH, a 0\u2013100 strength (how explicit/emphatic the post is \u2014 NOT a profit predictor), and why. A 2-year backtest found these don't beat buy-and-hold, so this is for awareness, not trading. Not financial advice."
