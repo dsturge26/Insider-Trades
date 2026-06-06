@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-06-06T13:44:29Z",
+ "last_updated": "2026-06-06T15:02:21Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -85,20 +85,20 @@
    "reason": "Strong jobs report implies growth without inflation; macro bullish for broad market but generic boilerplate without specific catalyst."
   },
   {
-   "date": "2026-06-05T08:32:36Z",
+   "date": "2026-06-05T11:08:59Z",
    "platform": "News",
    "text": "Dell lands $10 billion contract weeks after Trump\u2019s $1 million-to-$5 million stock purchase - MSN \u2014 Dell lands $10 billion contract weeks after Trump\u2019s $1 million-to-$5 million stock purchase\u00a0\u00a0MSN",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQnJxckk3V21VSGpyMjBLYW9ueEF3RnlyMUlTTWEtTXVoVXZRR2JDNUZCWUpLWDMya2d1TmdfVXltR0FUemJESmU3SVBfRG1scl9iTmlaTmg3VzlLdVVNTWdGVXpqMkxxQ3RNZWRERnRRVTlVX1NwZHVEUUhYMjkwWVhGYkFIQXY1aGlKYUdOM1U0Z0xGbTF1dkI1S1lLb2kyb3FLYkxtTmF1bHdmX3AyUGpoc1ZWX256QVZzUk5uNFVMendSZ3dSdm9sLWp0ZTNYT1QwaVFHY2tLdw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbkFFUUlaWS03clZQZUgwY2V0bGRpZC16V29WdnQwcW5NTEJlZU1wMHZTbWdkcUxPVVoyRjJ6T2VZQmdtUWtlZE40YWhwdHFSTk5HMU95b3BRUk02RDMwWVVpcVRVTFR6QTFsMHVLcnliMWxzWWZIZDFCNDk4QlNNYjZUX0hKdnU2M2VpM25rVVY5cDlscEtQV2VuWGt6WnE1OGUwclNUdExyQ2k4NlYwRDZzZkN1aWZibjQyV3RfWHBKckJCRm1rcWJsTVVpdF9vRHc?oc=5",
    "tickers": [
     "DELL"
    ],
    "classified": true,
    "is_market": true,
-   "explicit": true,
+   "explicit": false,
    "direction": "BUY",
    "primary_ticker": "DELL",
-   "strength": 85,
-   "reason": "Dell awarded $10B Pentagon contract; Trump's prior stock purchase implies endorsement and alignment with contract award."
+   "strength": 75,
+   "reason": "Dell awarded $10B federal contract weeks after Trump stock purchase signals administration support."
   },
   {
    "date": "2026-06-05T07:26:04Z",
@@ -2514,23 +2514,6 @@
    "primary_ticker": "AJRD",
    "strength": 75,
    "reason": "Aerojet Rocketdyne awarded $3.3B NASA contract; major aerospace & defense engine manufacturer contract win."
-  },
-  {
-   "date": "2015-09-03T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "NORTHROP GRUMMAN SYSTEMS CORPORATION was awarded a $1.6B federal contract from National Aeronautics and Space Administration.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_NNH15CN76C_8000_-NONE-_-NONE-",
-   "tickers": [
-    "NOC"
-   ],
-   "contract_amount": 1.59,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "NOC",
-   "strength": 75,
-   "reason": "$1.6B federal contract awarded to Northrop Grumman; direct bullish catalyst for defense contractor."
   }
  ],
  "how_to_read": "Each card is Claude's read of a public Trump post: the affected ticker, whether it implies BUY / SELL / WATCH, a 0\u2013100 strength (how explicit/emphatic the post is \u2014 NOT a profit predictor), and why. A 2-year backtest found these don't beat buy-and-hold, so this is for awareness, not trading. Not financial advice."
