@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-06-06T17:42:35Z",
+ "last_updated": "2026-06-06T18:56:02Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -82,6 +82,22 @@
    "primary_ticker": "SPY",
    "strength": 45,
    "reason": "Drug price transparency/discounts policy potentially supportive of pharma sector long-term; macro policy signal, not explicit company call."
+  },
+  {
+   "date": "2026-06-05T19:36:30Z",
+   "platform": "News",
+   "text": "Trump to meet AI leaders to discuss US investment in their companies - BBC \u2014 Trump to meet AI leaders to discuss US investment in their companies\u00a0\u00a0BBC",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUV1ZWWDF4dFZRckFhZTNFOHlHckZDY1FHaDRtSWFadW5uYWd0TkE4dC1lVkV1c3RBZ3N4eWZfcjIwTjl6WkFCY09PcHh1dkVNeGRnNkhqU0xwZw?oc=5",
+   "tickers": [
+    "QQQ"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "QQQ",
+   "strength": 35,
+   "reason": "Trump meets AI leaders to discuss US investment; signals potential pro-AI policy environment; broad tech sector implication."
   },
   {
    "date": "2026-06-05T14:33:09.398Z",
@@ -2513,23 +2529,6 @@
    "primary_ticker": "AMENTUM",
    "strength": 70,
    "reason": "Amentum Technology Inc awarded $1.9B NASA federal contract; bullish for awardee."
-  },
-  {
-   "date": "2015-11-01T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "AEROJET ROCKETDYNE OF DE, INC was awarded a $3.3B federal contract from National Aeronautics and Space Administration.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_NNM16AA02C_8000_-NONE-_-NONE-",
-   "tickers": [
-    "AJRD"
-   ],
-   "contract_amount": 3.27,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "AJRD",
-   "strength": 75,
-   "reason": "Aerojet Rocketdyne awarded $3.3B NASA contract; major aerospace & defense engine manufacturer contract win."
   }
  ],
  "how_to_read": "Each card is Claude's read of a public Trump post: the affected ticker, whether it implies BUY / SELL / WATCH, a 0\u2013100 strength (how explicit/emphatic the post is \u2014 NOT a profit predictor), and why. A 2-year backtest found these don't beat buy-and-hold, so this is for awareness, not trading. Not financial advice."
