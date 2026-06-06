@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-06-06T08:07:57Z",
+ "last_updated": "2026-06-06T10:22:32Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -51,6 +51,22 @@
    "primary_ticker": "SPY",
    "strength": 25,
    "reason": "Strong jobs report implies growth without inflation; macro bullish for broad market but generic boilerplate without specific catalyst."
+  },
+  {
+   "date": "2026-06-05T08:32:36Z",
+   "platform": "News",
+   "text": "Dell lands $10 billion contract weeks after Trump\u2019s $1 million-to-$5 million stock purchase - MSN \u2014 Dell lands $10 billion contract weeks after Trump\u2019s $1 million-to-$5 million stock purchase\u00a0\u00a0MSN",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQnJxckk3V21VSGpyMjBLYW9ueEF3RnlyMUlTTWEtTXVoVXZRR2JDNUZCWUpLWDMya2d1TmdfVXltR0FUemJESmU3SVBfRG1scl9iTmlaTmg3VzlLdVVNTWdGVXpqMkxxQ3RNZWRERnRRVTlVX1NwZHVEUUhYMjkwWVhGYkFIQXY1aGlKYUdOM1U0Z0xGbTF1dkI1S1lLb2kyb3FLYkxtTmF1bHdmX3AyUGpoc1ZWX256QVZzUk5uNFVMendSZ3dSdm9sLWp0ZTNYT1QwaVFHY2tLdw?oc=5",
+   "tickers": [
+    "DELL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "DELL",
+   "strength": 85,
+   "reason": "Dell awarded $10B Pentagon contract; Trump's prior stock purchase implies endorsement and alignment with contract award."
   },
   {
    "date": "2026-06-05T07:26:04Z",
@@ -349,6 +365,30 @@
    }
   },
   {
+   "date": "2026-06-03T19:08:32Z",
+   "platform": "News",
+   "text": "'Trump effect' comes to IBM shares, 6 months after US president called IBM CEO Arvind Krishna a \u2026 - MSN \u2014 'Trump effect' comes to IBM shares, 6 months after US president called IBM CEO Arvind Krishna a \u2026\u00a0\u00a0MSN",
+   "url": "https://news.google.com/rss/articles/CBMisANBVV95cUxOMWxacFZTeTU5VldTOC0tSVhzbnl1OERyWFZNSmJDTkc4YTFoVzl0dW9YajRyV3ljT1VXX0JVckF5eWl6ajRkMFZsYmxGaDhzbUFweFlfZEs1bUFVVHI5bVlLZHNkeFNjRkFnYVZSS3BCT1JPbWlFN1doczhDZWNFSXpvM3A1cFQ0ejQxM0NKVHNYbEptTTU4d29uMkFhbU9aUDRBOVd3YTdGMjNHdGdQWXo3eWQ5QlNiZmRLbGltLXpVOWxNNDBySDM0eGxJQ1MyMFlWdmhCX0xPX0hGMVhxNW9qOGJITEtuN0Rzd2JQUy1fcnQyUURfVkdHUkU4ek5YUmVNZXg2ZlpZdk9oOTdXR1E2b2VRU0VjcklyRE1GUjc1T0ducVcwWEE2RzIzNExNaDZadlEydmxfTXVPSEgzdUxRSlkwdGRmMkVfd2ttZGp6RkRBY1UzdE1YMkxDSzVlUjRkTmtESndPdWJnMC15c2V6V2ZRY2tpSEc2WWVHU2ZOcWdPdTF1cDk1VG1ib3dsM2ZWeC1xR1RWYkhUbC11U2NsMzZ2LU1RX1YxZFk2OUg?oc=5",
+   "tickers": [
+    "IBM"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "IBM",
+   "strength": 60,
+   "reason": "Trump called IBM CEO by name positively 6 months prior; stock now rising attributed to 'Trump effect' endorsement.",
+   "price_since": {
+    "ticker": "IBM",
+    "pct": -6.8,
+    "base": 305.63,
+    "last": 284.84,
+    "base_date": "2026-06-03",
+    "last_date": "2026-06-05"
+   }
+  },
+  {
    "date": "2026-06-03T17:21:48Z",
    "platform": "News",
    "text": "Nancy Pelosi stock tracker flags Dell's $9.7 billion Pentagon win weeks after Trump praised the company \u2014 shares surge 48% in a month - MSN \u2014 Nancy Pelosi stock tracker flags Dell's $9.7 billion Pentagon win weeks after Trump praised the company \u2014 shares surge 48% in a month\u00a0\u00a0MSN",
@@ -459,30 +499,6 @@
    "primary_ticker": "DELL",
    "strength": 50,
    "reason": "Blue chip became meme stock; likely referring to Dell surge, but direction context-dependent",
-   "price_since": {
-    "ticker": "DELL",
-    "pct": -6.3,
-    "base": 421.08,
-    "last": 394.39,
-    "base_date": "2026-06-03",
-    "last_date": "2026-06-05"
-   }
-  },
-  {
-   "date": "2026-06-03T02:18:57Z",
-   "platform": "News",
-   "text": "Dell lands $10 billion contract weeks after Trump\u2019s $1 million-to-$5 million stock purchase - MSN \u2014 Dell lands $10 billion contract weeks after Trump\u2019s $1 million-to-$5 million stock purchase\u00a0\u00a0MSN",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQeHZtWnU4QXNKbUR5WHhia2liTzVnVk5NX1ZoREFzc3JNTWRDeVVOSGdobDhZeXJjNzRjRlFYSDNpUndwczdxVjhtY0JzNWd2bFFqWm9aUUpOb05IcU9GTU1GbHQzSms0WE12ZkhvR19ydl9td01LOGY1aVhCajdNajRVbXppckVMaVJVVVNYTU5tRVhGMnVyMmNHUEdvQUlTMnUyRmpXNGp5TkZrWG5nb3lzWmVJR0hPSmppWVhTSm00S0NjZVJQR2pNR2l5QS0tWmc?oc=5",
-   "tickers": [
-    "DELL"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "DELL",
-   "strength": 85,
-   "reason": "Trump purchased $1M-$5M Dell shares before $10B Pentagon contract; explicit personal investment tied to major contract.",
    "price_since": {
     "ticker": "DELL",
     "pct": -6.3,
@@ -627,30 +643,6 @@
    "primary_ticker": "IBM",
    "strength": 75,
    "reason": "Trump praised IBM and CEO; $10B quantum investment announced; explicit company name and positive framing",
-   "price_since": {
-    "ticker": "IBM",
-    "pct": -13.5,
-    "base": 329.23,
-    "last": 284.84,
-    "base_date": "2026-06-02",
-    "last_date": "2026-06-05"
-   }
-  },
-  {
-   "date": "2026-06-02T12:28:59Z",
-   "platform": "News",
-   "text": "'Trump effect' comes to IBM shares, 6 months after US president called IBM CEO Arvind Krishna a \u2026 - MSN \u2014 'Trump effect' comes to IBM shares, 6 months after US president called IBM CEO Arvind Krishna a \u2026\u00a0\u00a0MSN",
-   "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPN0tkMW5EWGpJbERrUVhOVHBfalZhdnlkaFVQcWFJcFNENnlpdk95WHdtWlN3U3VHRmtTb1hBNnJubkFXcjRCYzVhZUFVbEt5OFJhZWxDc3RfZnJsWWJKWGo5R2ttcUJaQkpJNFZONG53OTNZYTEtY20xTEpDdFMzdHk4Nk9IUkdTZ2Nzbk1iVDBUcHpLekZKb08xdmE5UmdzQWF1Wl91aDVjVnl1dV9TUnhBcmNZWnZhTm14aFRxNkU3dldDSklyT3JMQl9rR29PTFhrcVVEMkhxeUVhUDBoRU9tQ3pPU05nZ1pNSG8xSkw3TDVJS0xvRkdSZC1KeE1LenVwU0VpYnR0cHM?oc=5",
-   "tickers": [
-    "IBM"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "IBM",
-   "strength": 45,
-   "reason": "Trump's past criticism of IBM CEO associated with stock pressure; market interprets Trump commentary as bearish signal on company.",
    "price_since": {
     "ticker": "IBM",
     "pct": -13.5,
@@ -2524,23 +2516,6 @@
    "primary_ticker": "HON",
    "strength": 80,
    "reason": "$17.4B federal contract to Honeywell subsidiary; bullish for Honeywell"
-  },
-  {
-   "date": "2011-12-23T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "LEIDOS, INC. was awarded a $3.1B federal contract from National Science Foundation.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_NSFDACS1219442_4900_-NONE-_-NONE-",
-   "tickers": [
-    "LDOS"
-   ],
-   "contract_amount": 3.09,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "LDOS",
-   "strength": 78,
-   "reason": "Leidos awarded $3.1B NSF contract; large federal research & technology services win for publicly-traded contractor."
   }
  ],
  "how_to_read": "Each card is Claude's read of a public Trump post: the affected ticker, whether it implies BUY / SELL / WATCH, a 0\u2013100 strength (how explicit/emphatic the post is \u2014 NOT a profit predictor), and why. A 2-year backtest found these don't beat buy-and-hold, so this is for awareness, not trading. Not financial advice."
