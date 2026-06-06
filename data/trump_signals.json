@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-06-06T11:53:53Z",
+ "last_updated": "2026-06-06T13:44:29Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-06-06T10:29:08Z",
+   "platform": "News",
+   "text": "Trump urged Americans to \u2018buy a Dell\u2019 while holding the stock \u2014 it\u2019s up 255% since. Enrich yourself now even if you don\u2019t sit in the White House - MSN \u2014 Trump urged Americans to \u2018buy a Dell\u2019 while holding the stock \u2014 it\u2019s up 255% since. Enrich yourself now even if you don\u2019t sit in the White House\u00a0\u00a0MSN",
+   "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPNkwya1pjWDNETjF0eFpnSFhuWjcwMUU1WkJBNFJ2ZmxrSEJjSmRlVjN3cThydmlQbTgtXzFMejhFc0JhaWNQdGF6djFzaUNrRkJMMEt0UmZlVjBDQnpiN1o2M0U0VDdHdmQ5NXdvN1J3TmRrTkJHaDJRMERhRF9VWjVTQ3RNcHZSQ2I0dVVfMlJjN0FNeTlYU2hBS2M4Q0RtNG5MLWZGRFpHQk1mMjJlaVV2MGxoSWN5UGZmTTlFajJFcWwyb0V1alp0bzE2QWVvajJzT0xCUEtGd25GMGhiVUUweHAwS1FQS1hEcTJFZHo5ZWo3dFlJRXRjaTBsOVNweGZnbmVxcm9EQVVzcGdjZ3pUYy1faWVCZm1VTUdCeXYzclZMOFIwaVM3cmF6aGtYcVdDWm5QSV9IektuNU5hUjhJeHhBdUotelNr?oc=5",
+   "tickers": [
+    "DELL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "DELL",
+   "strength": 95,
+   "reason": "Trump explicitly urged Americans to buy Dell while holding shares; direct market call with demonstrated stock impact."
+  },
   {
    "date": "2026-06-06T10:15:00Z",
    "platform": "News",
@@ -2515,23 +2531,6 @@
    "primary_ticker": "NOC",
    "strength": 75,
    "reason": "$1.6B federal contract awarded to Northrop Grumman; direct bullish catalyst for defense contractor."
-  },
-  {
-   "date": "2015-07-09T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "HONEYWELL FEDERAL MANUFACTURING & TECHNOLOGIES, LLC was awarded a $17.4B federal contract from Department of Energy.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_DENA0002839_8900_-NONE-_-NONE-",
-   "tickers": [
-    "HON"
-   ],
-   "contract_amount": 17.43,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "HON",
-   "strength": 80,
-   "reason": "$17.4B federal contract to Honeywell subsidiary; bullish for Honeywell"
   }
  ],
  "how_to_read": "Each card is Claude's read of a public Trump post: the affected ticker, whether it implies BUY / SELL / WATCH, a 0\u2013100 strength (how explicit/emphatic the post is \u2014 NOT a profit predictor), and why. A 2-year backtest found these don't beat buy-and-hold, so this is for awareness, not trading. Not financial advice."
