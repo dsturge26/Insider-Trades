@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-06-07T13:53:36Z",
+ "last_updated": "2026-06-07T15:24:23Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-06-07T13:54:31Z",
+   "platform": "News",
+   "text": "Is President Trump about to buy a stake in OpenAI? - MSN \u2014 Is President Trump about to buy a stake in OpenAI?\u00a0\u00a0MSN",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTjJRY1A0Y3FFekJhdGlvSzBnQTFjZDhBVW1wd1U1WDRPRDIwREwySzMtM0I5cWthUUIwRDFnOHY0N1FIak5zSlJLYzQtU0l3SzgzTzBNckpUS0tTRFF3UmFIdTNyQzlEZzF4bU1kMm1mZjNvTTVuNXc3ZDNBdEp6Vkl3QUdFRlZFRGlsT1pMd0Z6elZGaTBXQ0VyTm1xMi1VQWdNcEhaQzFUMDJDazBQcjY1TXY2UHczM1gydXgweWo5RVJ4emc?oc=5",
+   "tickers": [
+    "MSFT"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "MSFT",
+   "strength": 35,
+   "reason": "Trump potentially investing in OpenAI signals interest in AI sector; uncertain if bullish or bearish without more details on deal terms"
+  },
   {
    "date": "2026-06-07T13:45:27Z",
    "platform": "News",
@@ -197,6 +213,22 @@
    "reason": "Strong jobs report implies growth without inflation; macro bullish for broad market but generic boilerplate without specific catalyst."
   },
   {
+   "date": "2026-06-05T13:48:56Z",
+   "platform": "News",
+   "text": "Why Is IBM Stock Surging Nearly 7% Higher In Overnight Trading? - Stocktwits \u2014 Why Is IBM Stock Surging Nearly 7% Higher In Overnight Trading?\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQk9pekpVQ1Q1NnRyVEdqWjdJN29OTFpDY3Rkc08wdG96eTdtMHRzVVRmUFItUlRQQS11WXBWZFpHWU50d3hoRHBENXM2eGhKMF9QZF9qb3ZQT2pXREgyU1pTMzBFU0JGZ0lOTk90VlU4YURiV3I1LWtPdTVzZDZRbUZGWEUySWxkZXg1a2dzYVVTVUpsOU1Yc25qQ2U4OE9tX1MtbEZFNDZDalpaS2JlbndvcnYyUU1Ca0E2cGxqMi02S2s?oc=5",
+   "tickers": [
+    "IBM"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "IBM",
+   "strength": 55,
+   "reason": "IBM stock surging overnight; likely positive catalyst from Trump administration action or statement favoring IBM"
+  },
+  {
    "date": "2026-06-05T11:08:59Z",
    "platform": "News",
    "text": "Dell lands $10 billion contract weeks after Trump\u2019s $1 million-to-$5 million stock purchase - MSN \u2014 Dell lands $10 billion contract weeks after Trump\u2019s $1 million-to-$5 million stock purchase\u00a0\u00a0MSN",
@@ -293,22 +325,6 @@
    "reason": "India trade deal prospect; macro positive sentiment on US trade partnerships."
   },
   {
-   "date": "2026-06-05T00:17:47Z",
-   "platform": "News",
-   "text": "Why Is IBM Stock Surging Nearly 7% Higher In Overnight Trading? - Stocktwits \u2014 Why Is IBM Stock Surging Nearly 7% Higher In Overnight Trading?\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQk9pekpVQ1Q1NnRyVEdqWjdJN29OTFpDY3Rkc08wdG96eTdtMHRzVVRmUFItUlRQQS11WXBWZFpHWU50d3hoRHBENXM2eGhKMF9QZF9qb3ZQT2pXREgyU1pTMzBFU0JGZ0lOTk90VlU4YURiV3I1LWtPdTVzZDZRbUZGWEUySWxkZXg1a2dzYVVTVUpsOU1Yc25qQ2U4OE9tX1MtbEZFNDZDalpaS2JlbndvcnYyUU1Ca0E2cGxqMi02S2s?oc=5",
-   "tickers": [
-    "IBM"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "IBM",
-   "strength": 65,
-   "reason": "IBM overnight surge likely reflects positive catalyst or sentiment reversal"
-  },
-  {
    "date": "2026-06-04T16:51:00Z",
    "platform": "News",
    "text": "The \u2018Jensen effect\u2019 is the new \u2018Trump bump\u2019 for stocks - Semafor \u2014 The \u2018Jensen effect\u2019 is the new \u2018Trump bump\u2019 for stocks\u00a0\u00a0Semafor",
@@ -400,6 +416,30 @@
     "pct": -1.2,
     "base": 311.23,
     "last": 307.34,
+    "base_date": "2026-06-04",
+    "last_date": "2026-06-05"
+   }
+  },
+  {
+   "date": "2026-06-04T06:28:27Z",
+   "platform": "News",
+   "text": "Elizabeth Warren Singles Out Micron, Dell And Eli Lilly As Just 3 Of The 3000+ Trades Trump Made: 'Looks - Benzinga \u2014 Elizabeth Warren Singles Out Micron, Dell And Eli Lilly As Just 3 Of The 3000+ Trades Trump Made: 'Looks\u00a0\u00a0Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcUhqYktOc21IeUJGLXBfOVJiNDRvOTgyUC0xazB2cXdZcGFBeWdvRU1QdTFxQUZaUVpLNnNXWDgtcWN4SjVuS1pFOTRZSzRjbDc0alVkZi11dWIzM2FXbmI0LW1NVDVBU1B6WGxpak02NjlKcXo3eWN4S0dOakxTcVlyNWFnMHdURXNfdGdaNXplU19wU1gtc2JZVmhIX0Nhd21CanF0MUFLeFNYOTRqNE5MZUZzY0k?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "SPY",
+   "strength": 25,
+   "reason": "Report of Trump's past trading activity in stocks (Micron, Dell, Eli Lilly); no new market catalyst, ambiguous directional signal",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": -2.6,
+    "base": 757.09,
+    "last": 737.55,
     "base_date": "2026-06-04",
     "last_date": "2026-06-05"
    }
@@ -2506,23 +2546,6 @@
    "reason": "Trump's majority-owned stock debuts \u2014 pure sentiment play, extremely volatile and headline-driven.",
    "market_reaction": "DJT spiked on debut then stayed volatile, moving heavily on Trump political/legal news.",
    "url": "https://www.nasdaq.com/market-activity/stocks/djt"
-  },
-  {
-   "date": "2023-05-18T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "BLUE ORIGIN MANUFACTURING, LLC was awarded a $1.7B federal contract from National Aeronautics and Space Administration.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_80MSFC23CA014_8000_-NONE-_-NONE-",
-   "tickers": [
-    "BE"
-   ],
-   "contract_amount": 1.74,
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "BE",
-   "strength": 75,
-   "reason": "Blue Origin Manufacturing awarded $1.7B NASA contract; bullish for parent company Blue Origin (Berkshire subsidiary, ticker BE proxy)."
   }
  ],
  "how_to_read": "Each card is Claude's read of a public Trump post: the affected ticker, whether it implies BUY / SELL / WATCH, a 0\u2013100 strength (how explicit/emphatic the post is \u2014 NOT a profit predictor), and why. A 2-year backtest found these don't beat buy-and-hold, so this is for awareness, not trading. Not financial advice."
