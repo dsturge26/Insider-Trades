@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-06-07T09:51:35Z",
+ "last_updated": "2026-06-07T11:48:53Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -49,6 +49,22 @@
    "primary_ticker": "DELL",
    "strength": 95,
    "reason": "Trump explicitly urged buying Dell stock while holding it; direct market signal with documented price impact."
+  },
+  {
+   "date": "2026-06-06T08:51:30Z",
+   "platform": "News",
+   "text": "Trump Slaps 100% Tariffs On Imported Patented Drugs, Sparing Companies That Onshore Or Cut Prices - Stocktwits \u2014 Trump Slaps 100% Tariffs On Imported Patented Drugs, Sparing Companies That Onshore Or Cut Prices\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdnctZmZybWhzbWJnOW1KM1dRR3Rjb1hjc2NBSU1yTDdwUWU3R2tPX0NucE1aV0JuUDd6SDZrR0lBbmR2R0RVOVgyTkVfejEtS3Z1RU1MYV81N3ZrbU96ZzZjak55MkFxZlpBNWVwUXM5dUtFYTg3VVUwWHktMkptbjF5WGlJQVZKLWZ6elZnUmhtM2hEUFJ1NHFfUGZMajlvalR3Z1ZBN3o4V2pRczEyb0F1UzJjUjVGNWwwWUZnOA?oc=5",
+   "tickers": [
+    "XLV"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "XLV",
+   "strength": 70,
+   "reason": "100% tariffs on imported patented drugs bearish for pharma sector"
   },
   {
    "date": "2026-06-06T07:03:59Z",
@@ -261,6 +277,22 @@
    "reason": "India trade deal prospect; macro positive sentiment on US trade partnerships."
   },
   {
+   "date": "2026-06-05T00:17:47Z",
+   "platform": "News",
+   "text": "Why Is IBM Stock Surging Nearly 7% Higher In Overnight Trading? - Stocktwits \u2014 Why Is IBM Stock Surging Nearly 7% Higher In Overnight Trading?\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQk9pekpVQ1Q1NnRyVEdqWjdJN29OTFpDY3Rkc08wdG96eTdtMHRzVVRmUFItUlRQQS11WXBWZFpHWU50d3hoRHBENXM2eGhKMF9QZF9qb3ZQT2pXREgyU1pTMzBFU0JGZ0lOTk90VlU4YURiV3I1LWtPdTVzZDZRbUZGWEUySWxkZXg1a2dzYVVTVUpsOU1Yc25qQ2U4OE9tX1MtbEZFNDZDalpaS2JlbndvcnYyUU1Ca0E2cGxqMi02S2s?oc=5",
+   "tickers": [
+    "IBM"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "IBM",
+   "strength": 65,
+   "reason": "IBM overnight surge likely reflects positive catalyst or sentiment reversal"
+  },
+  {
    "date": "2026-06-04T16:51:00Z",
    "platform": "News",
    "text": "The \u2018Jensen effect\u2019 is the new \u2018Trump bump\u2019 for stocks - Semafor \u2014 The \u2018Jensen effect\u2019 is the new \u2018Trump bump\u2019 for stocks\u00a0\u00a0Semafor",
@@ -304,6 +336,30 @@
     "pct": -2.6,
     "base": 757.09,
     "last": 737.55,
+    "base_date": "2026-06-04",
+    "last_date": "2026-06-05"
+   }
+  },
+  {
+   "date": "2026-06-04T10:28:35Z",
+   "platform": "News",
+   "text": "'Trump effect' comes to IBM shares, 6 months after US president called IBM CEO Arvind Krishna a \u2026 - MSN \u2014 'Trump effect' comes to IBM shares, 6 months after US president called IBM CEO Arvind Krishna a \u2026\u00a0\u00a0MSN",
+   "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQejZWY25BdjBuVXAtNmdUeEpXQ0ZielU2X2U3UXBHVG5LX1VWdlRyc0F0UFRlaEpEdnUzSVB0bi1mQndDeE9vODhNSEYyUTFxY3k4WmgzU1RsVTVqZ0tETUF3Qzl0ZjJFeVlMWEs2UmpYUW5hY2huU2ZIWTNyQnhmdEpxdWZiWklPLU5RUmx0VnktaC1KcF9aLVlKMHJqcUU3VDEzbHphd1FKYmVEQ2h1enVPWjRIZi1zd2VoTjFBY0h3SXd3Uy1YXzN3THBLWUZMZXZBU19oSEpsZnZFMjRKU1RxQUVSYmo1ZEZ5ZkVOcENCSEoxbHpERUxmRUE5ZjNxc1BQanlfTGc3eHdMeTdkaEV4VzcxeWFHWl9mZGlWdm9ha0xubHU1dEhlSQ?oc=5",
+   "tickers": [
+    "IBM"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "IBM",
+   "strength": 25,
+   "reason": "Trump's past criticism of IBM CEO may influence stock sentiment, but direction unclear and effect is delayed/speculative",
+   "price_since": {
+    "ticker": "IBM",
+    "pct": -5.6,
+    "base": 301.77,
+    "last": 284.84,
     "base_date": "2026-06-04",
     "last_date": "2026-06-05"
    }
@@ -472,30 +528,6 @@
     "pct": -2.2,
     "base": 754.24,
     "last": 737.55,
-    "base_date": "2026-06-03",
-    "last_date": "2026-06-05"
-   }
-  },
-  {
-   "date": "2026-06-03T19:08:32Z",
-   "platform": "News",
-   "text": "'Trump effect' comes to IBM shares, 6 months after US president called IBM CEO Arvind Krishna a \u2026 - MSN \u2014 'Trump effect' comes to IBM shares, 6 months after US president called IBM CEO Arvind Krishna a \u2026\u00a0\u00a0MSN",
-   "url": "https://news.google.com/rss/articles/CBMisANBVV95cUxOMWxacFZTeTU5VldTOC0tSVhzbnl1OERyWFZNSmJDTkc4YTFoVzl0dW9YajRyV3ljT1VXX0JVckF5eWl6ajRkMFZsYmxGaDhzbUFweFlfZEs1bUFVVHI5bVlLZHNkeFNjRkFnYVZSS3BCT1JPbWlFN1doczhDZWNFSXpvM3A1cFQ0ejQxM0NKVHNYbEptTTU4d29uMkFhbU9aUDRBOVd3YTdGMjNHdGdQWXo3eWQ5QlNiZmRLbGltLXpVOWxNNDBySDM0eGxJQ1MyMFlWdmhCX0xPX0hGMVhxNW9qOGJITEtuN0Rzd2JQUy1fcnQyUURfVkdHUkU4ek5YUmVNZXg2ZlpZdk9oOTdXR1E2b2VRU0VjcklyRE1GUjc1T0ducVcwWEE2RzIzNExNaDZadlEydmxfTXVPSEgzdUxRSlkwdGRmMkVfd2ttZGp6RkRBY1UzdE1YMkxDSzVlUjRkTmtESndPdWJnMC15c2V6V2ZRY2tpSEc2WWVHU2ZOcWdPdTF1cDk1VG1ib3dsM2ZWeC1xR1RWYkhUbC11U2NsMzZ2LU1RX1YxZFk2OUg?oc=5",
-   "tickers": [
-    "IBM"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "IBM",
-   "strength": 60,
-   "reason": "Trump called IBM CEO by name positively 6 months prior; stock now rising attributed to 'Trump effect' endorsement.",
-   "price_since": {
-    "ticker": "IBM",
-    "pct": -6.8,
-    "base": 305.63,
-    "last": 284.84,
     "base_date": "2026-06-03",
     "last_date": "2026-06-05"
    }
@@ -1427,22 +1459,6 @@
     "base_date": "2026-06-01",
     "last_date": "2026-06-02"
    }
-  },
-  {
-   "date": "2026-06-01T09:16:02Z",
-   "platform": "News",
-   "text": "Why Is IBM Stock Surging Nearly 7% Higher In Overnight Trading? - Stocktwits \u2014 Why Is IBM Stock Surging Nearly 7% Higher In Overnight Trading?\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQk9pekpVQ1Q1NnRyVEdqWjdJN29OTFpDY3Rkc08wdG96eTdtMHRzVVRmUFItUlRQQS11WXBWZFpHWU50d3hoRHBENXM2eGhKMF9QZF9qb3ZQT2pXREgyU1pTMzBFU0JGZ0lOTk90VlU4YURiV3I1LWtPdTVzZDZRbUZGWEUySWxkZXg1a2dzYVVTVUpsOU1Yc25qQ2U4OE9tX1MtbEZFNDZDalpaS2JlbndvcnYyUU1Ca0E2cGxqMi02S2s?oc=5",
-   "tickers": [
-    "IBM"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "IBM",
-   "strength": 70,
-   "reason": "IBM stock surges 7% overnight following Trump praise; explicit catalyst"
   },
   {
    "date": "2026-06-01T05:02:12.750Z",
@@ -2508,23 +2524,6 @@
    "primary_ticker": "MMS",
    "strength": 75,
    "reason": "MAXIMUS FEDERAL SERVICES awarded $2.8B HHS contract; large federal award is bullish for publicly-traded contractor."
-  },
-  {
-   "date": "2021-07-01T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "HARRIS CORPORATION was awarded a $2.1B federal contract from Department of Transportation.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_693KA821F00222_6920_DTFA0102D03006_6920",
-   "tickers": [
-    "HRS"
-   ],
-   "contract_amount": 2.07,
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "HRS",
-   "strength": 70,
-   "reason": "Harris Corporation awarded $2.1B Department of Transportation federal contract."
   }
  ],
  "how_to_read": "Each card is Claude's read of a public Trump post: the affected ticker, whether it implies BUY / SELL / WATCH, a 0\u2013100 strength (how explicit/emphatic the post is \u2014 NOT a profit predictor), and why. A 2-year backtest found these don't beat buy-and-hold, so this is for awareness, not trading. Not financial advice."
