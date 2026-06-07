@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-06-07T01:59:38Z",
+ "last_updated": "2026-06-07T06:39:46Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -2509,57 +2509,6 @@
    "primary_ticker": "HRS",
    "strength": 70,
    "reason": "Harris Corporation awarded $2.1B Department of Transportation federal contract."
-  },
-  {
-   "date": "2020-05-13T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "SPACE EXPLORATION TECHNOLOGIES CORP. was awarded a $3.0B federal contract from National Aeronautics and Space Administration.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_80MSFC20C0034_8000_-NONE-_-NONE-",
-   "tickers": [
-    "SPACEX"
-   ],
-   "contract_amount": 3.03,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "SPACEX",
-   "strength": 80,
-   "reason": "SpaceX awarded $3.0B NASA contract; major space infrastructure investment."
-  },
-  {
-   "date": "2019-10-16T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "THE BOEING COMPANY was awarded a $2.5B federal contract from National Aeronautics and Space Administration.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_80MSFC20C0052_8000_-NONE-_-NONE-",
-   "tickers": [
-    "BA"
-   ],
-   "contract_amount": 2.46,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "BA",
-   "strength": 75,
-   "reason": "Boeing awarded $2.5B NASA contract; significant defense/aerospace contract win."
-  },
-  {
-   "date": "2018-07-12T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "FLUOR MARINE PROPULSION, LLC was awarded a $14.8B federal contract from Department of Energy.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_89233018CNR000004_8900_-NONE-_-NONE-",
-   "tickers": [
-    "FOE"
-   ],
-   "contract_amount": 14.78,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "FOE",
-   "strength": 75,
-   "reason": "$14.8B federal contract to Fluor for marine propulsion; bullish for contractor"
   }
  ],
  "how_to_read": "Each card is Claude's read of a public Trump post: the affected ticker, whether it implies BUY / SELL / WATCH, a 0\u2013100 strength (how explicit/emphatic the post is \u2014 NOT a profit predictor), and why. A 2-year backtest found these don't beat buy-and-hold, so this is for awareness, not trading. Not financial advice."
