@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-06-07T11:48:53Z",
+ "last_updated": "2026-06-07T13:53:36Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-06-07T13:45:27Z",
+   "platform": "News",
+   "text": "Is President Trump About to Buy a Stake in OpenAI? - 24/7 Wall St. \u2014 Is President Trump About to Buy a Stake in OpenAI?\u00a0\u00a024/7 Wall St.",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTTF6SjJpX01TZnd1UExfWk5iZTJaRy00bnBMMmJ3VVhRYWZZcWloMllsNFdMdkxycHNRR3JqNV9LMXpGM2U0d0tfMFFkZzZBemt4UUJ5Nkc3VkFweHNOTXVmUDdQT2xhcUMwWTZYZDVlQVFDWVd0T0c3XzdrdXNCbDlxRWM5NnI5NmtLLVhfcHladTJRRnl2Rg?oc=5",
+   "tickers": [
+    "OPENAI"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "OPENAI",
+   "strength": 35,
+   "reason": "Speculation about Trump stake in OpenAI; ambiguous whether bullish or bearish without clarity on terms/timing"
+  },
   {
    "date": "2026-06-06T11:03:45Z",
    "platform": "News",
@@ -2507,23 +2523,6 @@
    "primary_ticker": "BE",
    "strength": 75,
    "reason": "Blue Origin Manufacturing awarded $1.7B NASA contract; bullish for parent company Blue Origin (Berkshire subsidiary, ticker BE proxy)."
-  },
-  {
-   "date": "2022-08-31T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "MAXIMUS FEDERAL SERVICES, INC. was awarded a $2.8B federal contract from Department of Health and Human Services.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_75FCMC22C0038_7530_-NONE-_-NONE-",
-   "tickers": [
-    "MMS"
-   ],
-   "contract_amount": 2.78,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "MMS",
-   "strength": 75,
-   "reason": "MAXIMUS FEDERAL SERVICES awarded $2.8B HHS contract; large federal award is bullish for publicly-traded contractor."
   }
  ],
  "how_to_read": "Each card is Claude's read of a public Trump post: the affected ticker, whether it implies BUY / SELL / WATCH, a 0\u2013100 strength (how explicit/emphatic the post is \u2014 NOT a profit predictor), and why. A 2-year backtest found these don't beat buy-and-hold, so this is for awareness, not trading. Not financial advice."
