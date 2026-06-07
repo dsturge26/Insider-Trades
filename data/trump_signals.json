@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-06-06T23:45:16Z",
+ "last_updated": "2026-06-07T01:59:38Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -17,6 +17,22 @@
    "primary_ticker": "DELL",
    "strength": 95,
    "reason": "Trump explicitly urged Americans to buy Dell while holding the stock himself\u2014direct market call on named company"
+  },
+  {
+   "date": "2026-06-06T10:18:23Z",
+   "platform": "News",
+   "text": "Trump urged you to \u2018buy a Dell\u2019 while holding the stock \u2014 now it\u2019s up 255%. Enrich yourself even outside the White House - AOL.com \u2014 Trump urged you to \u2018buy a Dell\u2019 while holding the stock \u2014 now it\u2019s up 255%. Enrich yourself even outside the White House\u00a0\u00a0AOL.com",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBUb1hvNGRuUVRsUTlVUFc3X1BhMFlKLXRpQk95QVlaay01Rm5UYVZuYV9YQ1dvd3JaWjZnQXJoWjJYTjgtdGZhdWpIN29yZkZacGlUdzFFb2l4QjF1ckg4dlVqSTduc1hmZVgyamlwcTgzUERIdXVUYw?oc=5",
+   "tickers": [
+    "DELL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "DELL",
+   "strength": 95,
+   "reason": "Trump explicitly urged buying Dell while holding stock; direct market signal."
   },
   {
    "date": "2026-06-06T10:15:00Z",
@@ -82,6 +98,22 @@
    "primary_ticker": "SPY",
    "strength": 45,
    "reason": "Drug price transparency/discounts policy potentially supportive of pharma sector long-term; macro policy signal, not explicit company call."
+  },
+  {
+   "date": "2026-06-05T20:48:22Z",
+   "platform": "News",
+   "text": "IBM shares soar after video of Trump praising CEO resurfaces online (IBM) - MSN \u2014 IBM shares soar after video of Trump praising CEO resurfaces online (IBM)\u00a0\u00a0MSN",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRDF2NTdlU1JQZURkNm03US1XNF9hV1BmOXY3NlhvekVVX2ctcmh4MXNzTUpYOXBYZTRRMG1QczVTOVV1cUVPTUVtdkJYZzNtc0ZTN1lPMDBtb2ZzX1lVbzhSQWk3YTA4LUYtUjBGeWc5R0VYMzBRSGE1dzRaMlRZQWZBcGxWOGF1aFI4cHdZR2VYUmw4b1RVcUpXeG5YUUpPOEhldGJZemd0OWNtUi1iUHRWWFhveWNObHlsRVBn?oc=5",
+   "tickers": [
+    "IBM"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "IBM",
+   "strength": 70,
+   "reason": "Trump praising IBM CEO resurfaces; positive signal for IBM stock."
   },
   {
    "date": "2026-06-05T19:36:30Z",
@@ -285,30 +317,6 @@
    }
   },
   {
-   "date": "2026-06-04T08:26:40Z",
-   "platform": "News",
-   "text": "IBM shares soar after video of Trump praising CEO resurfaces online (IBM) - MSN \u2014 IBM shares soar after video of Trump praising CEO resurfaces online (IBM)\u00a0\u00a0MSN",
-   "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxQS2VVVV9JZUdXSjU0V0FGQjZVWXRuTlZpVm02ZlBIdEJCQlc2RzBkcHZrZjJHWlVBV3Vqbzg4dC05YmhJQ3hoUURjVXRoWjJPaDNpS3lVcUdqY2FoX19uTGlxVlJIbll5UlNONndGWkJTSkVESmgtVE5wZ2dSMjJlRVBGZnVUeUNja0lWamxoZ2lqbVVHZHc0V1Y5M01SMUFhZXNFbXJrUUtiWTVsZTU0eUptc0kyeE9kNnViVDVLRUl0dUlqWjU5OTAtLWdLN2Y2Q3Y4Ym8yOUJkMFQxQmFMNkhaZVNuLUY4SFppbXpsT2ZhakZmd05na2FySm9yc2wycWJsTkgtTmtIVXFZM2hYTXAtUE9PMW5DWHpxMWhOTllnSzdqZm01Qkg5bmczZXBTTWRTZC1hYVZqWXlCdGExMmkwR3pKb04xQjI5RGlOVTJDM3lM?oc=5",
-   "tickers": [
-    "IBM"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "IBM",
-   "strength": 70,
-   "reason": "Trump praised IBM CEO; video resurfaces driving stock surge",
-   "price_since": {
-    "ticker": "IBM",
-    "pct": -5.6,
-    "base": 301.77,
-    "last": 284.84,
-    "base_date": "2026-06-04",
-    "last_date": "2026-06-05"
-   }
-  },
-  {
    "date": "2026-06-04T02:39:38Z",
    "platform": "News",
    "text": "\"Absolutely corrupt\": How Donald Trump enriches himself with Dell shares | blue News - blue News \u2014 \"Absolutely corrupt\": How Donald Trump enriches himself with Dell shares | blue News\u00a0\u00a0blue News",
@@ -323,6 +331,30 @@
    "primary_ticker": "DELL",
    "strength": 75,
    "reason": "Trump purchased Dell shares before company won major Pentagon contracts; positive market signal from Trump's ownership stake.",
+   "price_since": {
+    "ticker": "DELL",
+    "pct": -6.6,
+    "base": 422.05,
+    "last": 394.39,
+    "base_date": "2026-06-04",
+    "last_date": "2026-06-05"
+   }
+  },
+  {
+   "date": "2026-06-04T02:39:38Z",
+   "platform": "News",
+   "text": "\"Absolutely corrupt\": How Donald Trump enriches himself with Dell shares | blue News - bluewin.ch \u2014 \"Absolutely corrupt\": How Donald Trump enriches himself with Dell shares | blue News\u00a0\u00a0bluewin.ch",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPakR3UjR0RDFTekRUQ1ZyV3VmNVU1NzZnSjlvbmUySVhGcGJUbENDeExwNnNNQllIUlZiMnc1bkdSQ1dBUjJESjJJMFpyaTV6emVZNFJRRzNxWS1MTG9tXzdUUDY3cFh4bTRCT281WjctWVRjczdjTXZ2M0htWFAxQ2dsT2pOTFloWXpXUHRuTGhrMnVZV1NjcnAwTEhXdUU?oc=5",
+   "tickers": [
+    "DELL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "DELL",
+   "strength": 90,
+   "reason": "Reports Trump enriching himself via Dell shares; confirms explicit earlier praise and holding.",
    "price_since": {
     "ticker": "DELL",
     "pct": -6.6,
@@ -571,6 +603,22 @@
     "base_date": "2026-06-03",
     "last_date": "2026-06-05"
    }
+  },
+  {
+   "date": "2026-06-03T01:27:39Z",
+   "platform": "News",
+   "text": "Why is IBM stock surging nearly 7% higher in overnight trading? - MSN \u2014 Why is IBM stock surging nearly 7% higher in overnight trading?\u00a0\u00a0MSN",
+   "url": "https://news.google.com/rss/articles/CBMiiANBVV95cUxPVHRIcXd4UVp6S2Vta1V5T1BxV1U0VkFhaWlZU1M4T3BVeWlzbjhvTkxZZVVkejlNbHNER0J1eG5DN2ZtdlJHblFtZ2M3YUhrT0g0LUlGeGVHQmhpOHlsa28xdVBDcFpyQnFzQkI3b1VrZnBzSWh3X0Y2M1huVHcyeC1NdUlLMmtDLUE5d0U1dVZiWTlBRTVCVkJxRnZkcGN6SFR1aktDWFNHc3V3RDJuZjZsN2w1R3dZRFJUVWhjazFJU2pTbmtORU1NajVqdTNkVk1Bb0k3T3lUSVAyNTVsUFRmLVpfbUtSOXhSRTJHM0oyZ1NndDBTLVJkREI3UWViQm44N3l2VFpWMWM2cVpDYnFVZ2ZmbjNJdWZQMUF0OVdkakF1ckFiMm9GNjR2SHBWb0lTRGVaT1ZkeWVKV3c3SmlRSHJOUWRRZV90MU42dmpSVmRqYUdTaHZBQl9EbFAycGpnb2ppdjJlejVJYTdHMUxoX3NPREJQbWI4U0lJRlNWSGtncXBNWg?oc=5",
+   "tickers": [
+    "IBM"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "IBM",
+   "strength": 35,
+   "reason": "IBM stock surge overnight; headline asks 'why' but does not specify Trump connection or catalyst\u2014requires context to confirm market driver."
   },
   {
    "date": "2026-06-03T00:53:40Z",
