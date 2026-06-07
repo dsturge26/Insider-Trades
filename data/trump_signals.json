@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-06-07T15:24:23Z",
+ "last_updated": "2026-06-07T16:52:30Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -227,6 +227,22 @@
    "primary_ticker": "IBM",
    "strength": 55,
    "reason": "IBM stock surging overnight; likely positive catalyst from Trump administration action or statement favoring IBM"
+  },
+  {
+   "date": "2026-06-05T13:25:48Z",
+   "platform": "News",
+   "text": "IBRX Stock Rallies Into Trump\u2019s Big SOTU Night \u2014 Here\u2019s What Traders Think Could Fuel The Next Move - Stocktwits \u2014 IBRX Stock Rallies Into Trump\u2019s Big SOTU Night \u2014 Here\u2019s What Traders Think Could Fuel The Next Move\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWFdFall2YVNMN3Rialp3SE9sU0h6YUQ1MDFiX2JaeXMxNlFFZUZveFU0TkVxUFI4cTQ5bW5VdkFlTDd1dFNwSUN2YTRtRl83aVRRXzZ6d09TeEhlR1NJb1JaMHlMWDhrQXpmZW40c1B1Y21KNjhxdm90Ny1uU3p4MzJZSW9GNGduMEdyRzFIU2RGLWlYWXg4TFJUU0N6ZlhFemxtUmprVXY0YkVRZk5vZHljazQ?oc=5",
+   "tickers": [
+    "IBRX"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "IBRX",
+   "strength": 45,
+   "reason": "IBRX stock rallying into State of the Union; direction unclear without details on what Trump may announce."
   },
   {
    "date": "2026-06-05T11:08:59Z",
@@ -2436,54 +2452,6 @@
    "primary_ticker": "SPY",
    "strength": 20,
    "reason": "Iran deal referenced but explicitly not yet negotiated; too preliminary for directional read",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": 0.8,
-    "base": 750.59,
-    "last": 756.48,
-    "base_date": "2026-05-26",
-    "last_date": "2026-05-29"
-   }
-  },
-  {
-   "date": "2026-05-24T18:16:36.963Z",
-   "platform": "Truth Social",
-   "text": "If I make a deal with Iran, it will be a good and proper one, not like the one made by Obama, which gave Iran massive amounts of CASH, and a clear and open path to a Nuclear Weapon. Our deal is the exact opposite, but nobody has seen it, or knows what it is. It isn't even fully negotiated yet. So don't listen to the losers, who are critical about something they know nothing about. Unlike those before me who should have solved this problem many years ago, I don't make bad deals! President DJT",
-   "tickers": [
-    "SPY"
-   ],
-   "engagement": 51670,
-   "url": "https://truthsocial.com/@realDonaldTrump/116630919376298273",
-   "classified": true,
-   "is_market": true,
-   "direction": "WATCH",
-   "primary_ticker": "SPY",
-   "strength": 30,
-   "reason": "Iran nuclear deal negotiation ongoing; potential geopolitical catalyst but direction unclear without deal details",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": 0.8,
-    "base": 750.59,
-    "last": 756.48,
-    "base_date": "2026-05-26",
-    "last_date": "2026-05-29"
-   }
-  },
-  {
-   "date": "2026-05-23T16:54:07.444Z",
-   "platform": "Truth Social",
-   "text": "Trump's Global Gambit: How Strikes On Iran And Venezuela Are Fueling America's Economic Comeback And Checking China: https://loomered.com/2026/04/28/trumps-global-gambit-how-strikes-on-iran-and-venezuela-are-fueling-americas-economic-comeback-and-checking-china/",
-   "tickers": [
-    "SPY"
-   ],
-   "engagement": 9035,
-   "url": "https://truthsocial.com/@realDonaldTrump/116624932696824292",
-   "classified": true,
-   "is_market": true,
-   "direction": "BUY",
-   "primary_ticker": "SPY",
-   "strength": 55,
-   "reason": "Geopolitical strikes on Iran/Venezuela and China competition imply hawkish policy and economic strength.",
    "price_since": {
     "ticker": "SPY",
     "pct": 0.8,
