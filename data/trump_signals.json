@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-06-07T18:05:36Z",
+ "last_updated": "2026-06-07T19:47:22Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -35,7 +35,23 @@
    "reason": "Speculation about Trump stake in OpenAI; ambiguous whether bullish or bearish without clarity on terms/timing"
   },
   {
-   "date": "2026-06-06T11:03:45Z",
+   "date": "2026-06-07T13:15:39Z",
+   "platform": "News",
+   "text": "Liz Landers on Trump\u2019s Dell trade spree, and the gains behind it - mogazmasr.com \u2014 Liz Landers on Trump\u2019s Dell trade spree, and the gains behind it\u00a0\u00a0mogazmasr.com",
+   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBaTzkzREZoSXZ3UHdMeks5U2p6bGFBN08zTnZOSlh1dlp1eHVpN21PMlRrZ3I4R2F2bjlONzI2cXFnR05UNXNV?oc=5",
+   "tickers": [
+    "DELL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "DELL",
+   "strength": 85,
+   "reason": "Trump explicitly urged Americans to 'buy a Dell' while holding stock; stock up 255% demonstrates signal strength."
+  },
+  {
+   "date": "2026-06-07T11:28:42Z",
    "platform": "News",
    "text": "Trump urged Americans to \u2018buy a Dell\u2019 while holding the stock \u2014 it\u2019s up 255% since. Enrich yourself now even if you don\u2019t sit in the White House - MSN \u2014 Trump urged Americans to \u2018buy a Dell\u2019 while holding the stock \u2014 it\u2019s up 255% since. Enrich yourself now even if you don\u2019t sit in the White House\u00a0\u00a0MSN",
    "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOTmJESUhhTkJ0TFJ0X0dvcjNkUkQ0SXRLbFd0d2p5Y09CRGV1UkNaaENmWldCdm8zYU1Gb2NOcnlhSlFvb05Dd2U4T2xJN3VFQk1pZk9pczNkWktpX1BnMnR5YTktcmdpYkJvUVA4MlBRalBwZkdBX2tiZnB2VkZwWGF0VE54ZnNzQWRBLXB2b3lJTE9OQ1BJTXRGdEJDdGRfSjBBQ21lek1YNFRMWGtOQmFib3NLMW9iODR6UmttelFNSDQ2a2ZmeS0zYmoweWxQa2ZLVTdLbmZxS1ZWblg1R2R6NWlrNVBQYUxvbFBSLXFMVUpWUHBoZGQ4cTlUSjlMMzdxMmkwc3VJOXdGX1A5Ukc0TEZtTmg0RWRZRklteXdnQmdWY2ZFSg?oc=5",
@@ -47,8 +63,8 @@
    "explicit": true,
    "direction": "BUY",
    "primary_ticker": "DELL",
-   "strength": 95,
-   "reason": "Trump explicitly urged Americans to buy Dell while holding the stock himself\u2014direct market call on named company"
+   "strength": 85,
+   "reason": "Trump explicitly urged Americans to 'buy a Dell' while holding stock; stock up 255% demonstrates signal strength."
   },
   {
    "date": "2026-06-06T10:18:23Z",
@@ -456,6 +472,30 @@
     "pct": -2.6,
     "base": 757.09,
     "last": 737.55,
+    "base_date": "2026-06-04",
+    "last_date": "2026-06-05"
+   }
+  },
+  {
+   "date": "2026-06-04T05:00:25Z",
+   "platform": "News",
+   "text": "OpenAI CEO to Share Oversight Ideas in Wake of Trump AI Order - Claims Journal \u2014 OpenAI CEO to Share Oversight Ideas in Wake of Trump AI Order\u00a0\u00a0Claims Journal",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9hZHlRRExjUHB0S1NQVm16aHdHa011N0FGR2NTQVZmUzN6d3lXNnRzc0dUdV9BU0hKRjBQTzlrRVVkMGZqTkZUVmFsQ0UzREh0NTJ1YzRpZ1JSQWRjeEs5WjVLSVNOeERCejZrZXBPVlpnWUk?oc=5",
+   "tickers": [
+    "QQQ"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "QQQ",
+   "strength": 25,
+   "reason": "Trump AI order creates regulatory uncertainty for tech sector; OpenAI oversight discussion ambiguous signal",
+   "price_since": {
+    "ticker": "QQQ",
+    "pct": -4.8,
+    "base": 740.61,
+    "last": 705.06,
     "base_date": "2026-06-04",
     "last_date": "2026-06-05"
    }
