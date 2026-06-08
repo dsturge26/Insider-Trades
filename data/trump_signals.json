@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-06-08T12:09:27Z",
+ "last_updated": "2026-06-08T16:20:32Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -19,6 +19,38 @@
    "reason": "stock rally noted but no Trump catalyst or specific statement cited; speculative trader interest only"
   },
   {
+   "date": "2026-06-07T21:54:24Z",
+   "platform": "News",
+   "text": "Why is IBM stock surging nearly 7% higher in overnight trading? - MSN \u2014 Why is IBM stock surging nearly 7% higher in overnight trading?\u00a0\u00a0MSN",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNallqa3JDcVZZQzZOZFNLVFZXdDl1NmZfUU5RVlRKdGxwVGluYWpnbHJZbm80VVpaRzBpc0llWWNSREp2WE5XSU0zSXN2RllNQ1haUWd4SHhrU05weDJWWHZOWmZwVEU4b0NzMXpzZXZzbl9UajNNdElyODg1YkQ4a29OWVhqa3ZqNEt2eE1NcGhQZFRIRDRyeGJvRl9ZaGtMdDF5SGZDbnpIZmY0bUJzTQ?oc=5",
+   "tickers": [
+    "IBM"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "IBM",
+   "strength": 45,
+   "reason": "IBM stock surging overnight; likely reflects positive Trump association or prior praise"
+  },
+  {
+   "date": "2026-06-07T19:20:00Z",
+   "platform": "News",
+   "text": "Trump Slaps 100% Tariffs On Imported Patented Drugs, Sparing Companies That Onshore Or Cut Prices - Stocktwits \u2014 Trump Slaps 100% Tariffs On Imported Patented Drugs, Sparing Companies That Onshore Or Cut Prices\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdnctZmZybWhzbWJnOW1KM1dRR3Rjb1hjc2NBSU1yTDdwUWU3R2tPX0NucE1aV0JuUDd6SDZrR0lBbmR2R0RVOVgyTkVfejEtS3Z1RU1MYV81N3ZrbU96ZzZjak55MkFxZlpBNWVwUXM5dUtFYTg3VVUwWHktMkptbjF5WGlJQVZKLWZ6elZnUmhtM2hEUFJ1NHFfUGZMajlvalR3Z1ZBN3o4V2pRczEyb0F1UzJjUjVGNWwwWUZnOA?oc=5",
+   "tickers": [
+    "XBI"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "XBI",
+   "strength": 50,
+   "reason": "100% tariff on imported patented drugs incentivizes onshoring and price cuts; mixed effect (tariff pain vs. competitive advantage for US pharma)"
+  },
+  {
    "date": "2026-06-07T18:39:39Z",
    "platform": "News",
    "text": "Is President Trump about to buy a stake in OpenAI? - MSN \u2014 Is President Trump about to buy a stake in OpenAI?\u00a0\u00a0MSN",
@@ -33,6 +65,22 @@
    "primary_ticker": "MSFT",
    "strength": 25,
    "reason": "Speculation about Trump stake in OpenAI (Microsoft-backed) but no confirmed transaction or direct endorsement"
+  },
+  {
+   "date": "2026-06-07T15:56:15Z",
+   "platform": "News",
+   "text": "Trump urged Americans to \u2018buy a Dell\u2019 while holding the stock \u2014 it\u2019s up 255% since. Enrich yourself now even if you don\u2019t sit in the White House - MSN \u2014 Trump urged Americans to \u2018buy a Dell\u2019 while holding the stock \u2014 it\u2019s up 255% since. Enrich yourself now even if you don\u2019t sit in the White House\u00a0\u00a0MSN",
+   "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOTmJESUhhTkJ0TFJ0X0dvcjNkUkQ0SXRLbFd0d2p5Y09CRGV1UkNaaENmWldCdm8zYU1Gb2NOcnlhSlFvb05Dd2U4T2xJN3VFQk1pZk9pczNkWktpX1BnMnR5YTktcmdpYkJvUVA4MlBRalBwZkdBX2tiZnB2VkZwWGF0VE54ZnNzQWRBLXB2b3lJTE9OQ1BJTXRGdEJDdGRfSjBBQ21lek1YNFRMWGtOQmFib3NLMW9iODR6UmttelFNSDQ2a2ZmeS0zYmoweWxQa2ZLVTdLbmZxS1ZWblg1R2R6NWlrNVBQYUxvbFBSLXFMVUpWUHBoZGQ4cTlUSjlMMzdxMmkwc3VJOXdGX1A5Ukc0TEZtTmg0RWRZRklteXdnQmdWY2ZFSg?oc=5",
+   "tickers": [
+    "DELL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "DELL",
+   "strength": 85,
+   "reason": "Trump explicitly told Americans to buy Dell while holding it; direct endorsement of specific public company"
   },
   {
    "date": "2026-06-07T15:08:00Z",
@@ -83,22 +131,6 @@
    "reason": "Trump explicitly urged Americans to 'buy a Dell' while holding stock; stock up 255% demonstrates signal strength."
   },
   {
-   "date": "2026-06-07T11:28:42Z",
-   "platform": "News",
-   "text": "Trump urged Americans to \u2018buy a Dell\u2019 while holding the stock \u2014 it\u2019s up 255% since. Enrich yourself now even if you don\u2019t sit in the White House - MSN \u2014 Trump urged Americans to \u2018buy a Dell\u2019 while holding the stock \u2014 it\u2019s up 255% since. Enrich yourself now even if you don\u2019t sit in the White House\u00a0\u00a0MSN",
-   "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOTmJESUhhTkJ0TFJ0X0dvcjNkUkQ0SXRLbFd0d2p5Y09CRGV1UkNaaENmWldCdm8zYU1Gb2NOcnlhSlFvb05Dd2U4T2xJN3VFQk1pZk9pczNkWktpX1BnMnR5YTktcmdpYkJvUVA4MlBRalBwZkdBX2tiZnB2VkZwWGF0VE54ZnNzQWRBLXB2b3lJTE9OQ1BJTXRGdEJDdGRfSjBBQ21lek1YNFRMWGtOQmFib3NLMW9iODR6UmttelFNSDQ2a2ZmeS0zYmoweWxQa2ZLVTdLbmZxS1ZWblg1R2R6NWlrNVBQYUxvbFBSLXFMVUpWUHBoZGQ4cTlUSjlMMzdxMmkwc3VJOXdGX1A5Ukc0TEZtTmg0RWRZRklteXdnQmdWY2ZFSg?oc=5",
-   "tickers": [
-    "DELL"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "DELL",
-   "strength": 85,
-   "reason": "Trump explicitly urged Americans to 'buy a Dell' while holding stock; stock up 255% demonstrates signal strength."
-  },
-  {
    "date": "2026-06-06T10:18:23Z",
    "platform": "News",
    "text": "Trump urged you to \u2018buy a Dell\u2019 while holding the stock \u2014 now it\u2019s up 255%. Enrich yourself even outside the White House - AOL.com \u2014 Trump urged you to \u2018buy a Dell\u2019 while holding the stock \u2014 now it\u2019s up 255%. Enrich yourself even outside the White House\u00a0\u00a0AOL.com",
@@ -129,22 +161,6 @@
    "primary_ticker": "DELL",
    "strength": 95,
    "reason": "Trump explicitly urged buying Dell stock while holding it; direct market signal with documented price impact."
-  },
-  {
-   "date": "2026-06-06T08:51:30Z",
-   "platform": "News",
-   "text": "Trump Slaps 100% Tariffs On Imported Patented Drugs, Sparing Companies That Onshore Or Cut Prices - Stocktwits \u2014 Trump Slaps 100% Tariffs On Imported Patented Drugs, Sparing Companies That Onshore Or Cut Prices\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdnctZmZybWhzbWJnOW1KM1dRR3Rjb1hjc2NBSU1yTDdwUWU3R2tPX0NucE1aV0JuUDd6SDZrR0lBbmR2R0RVOVgyTkVfejEtS3Z1RU1MYV81N3ZrbU96ZzZjak55MkFxZlpBNWVwUXM5dUtFYTg3VVUwWHktMkptbjF5WGlJQVZKLWZ6elZnUmhtM2hEUFJ1NHFfUGZMajlvalR3Z1ZBN3o4V2pRczEyb0F1UzJjUjVGNWwwWUZnOA?oc=5",
-   "tickers": [
-    "XLV"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "XLV",
-   "strength": 70,
-   "reason": "100% tariffs on imported patented drugs bearish for pharma sector"
   },
   {
    "date": "2026-06-06T07:03:59Z",
@@ -209,7 +225,15 @@
    "direction": "BUY",
    "primary_ticker": "SPY",
    "strength": 45,
-   "reason": "Drug price transparency/discounts policy potentially supportive of pharma sector long-term; macro policy signal, not explicit company call."
+   "reason": "Drug price transparency/discounts policy potentially supportive of pharma sector long-term; macro policy signal, not explicit company call.",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": 0.8,
+    "base": 737.55,
+    "last": 743.71,
+    "base_date": "2026-06-05",
+    "last_date": "2026-06-08"
+   }
   },
   {
    "date": "2026-06-05T20:48:22Z",
@@ -225,7 +249,15 @@
    "direction": "BUY",
    "primary_ticker": "IBM",
    "strength": 70,
-   "reason": "Trump praising IBM CEO resurfaces; positive signal for IBM stock."
+   "reason": "Trump praising IBM CEO resurfaces; positive signal for IBM stock.",
+   "price_since": {
+    "ticker": "IBM",
+    "pct": -1.1,
+    "base": 284.84,
+    "last": 281.75,
+    "base_date": "2026-06-05",
+    "last_date": "2026-06-08"
+   }
   },
   {
    "date": "2026-06-05T19:36:30Z",
@@ -241,7 +273,15 @@
    "direction": "BUY",
    "primary_ticker": "QQQ",
    "strength": 35,
-   "reason": "Trump meets AI leaders to discuss US investment; signals potential pro-AI policy environment; broad tech sector implication."
+   "reason": "Trump meets AI leaders to discuss US investment; signals potential pro-AI policy environment; broad tech sector implication.",
+   "price_since": {
+    "ticker": "QQQ",
+    "pct": 2.3,
+    "base": 705.06,
+    "last": 721.43,
+    "base_date": "2026-06-05",
+    "last_date": "2026-06-08"
+   }
   },
   {
    "date": "2026-06-05T14:33:09.398Z",
@@ -258,7 +298,15 @@
    "direction": "BUY",
    "primary_ticker": "SPY",
    "strength": 25,
-   "reason": "Strong jobs report implies growth without inflation; macro bullish for broad market but generic boilerplate without specific catalyst."
+   "reason": "Strong jobs report implies growth without inflation; macro bullish for broad market but generic boilerplate without specific catalyst.",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": 0.8,
+    "base": 737.55,
+    "last": 743.67,
+    "base_date": "2026-06-05",
+    "last_date": "2026-06-08"
+   }
   },
   {
    "date": "2026-06-05T13:48:56Z",
@@ -274,7 +322,15 @@
    "direction": "BUY",
    "primary_ticker": "IBM",
    "strength": 55,
-   "reason": "IBM stock surging overnight; likely positive catalyst from Trump administration action or statement favoring IBM"
+   "reason": "IBM stock surging overnight; likely positive catalyst from Trump administration action or statement favoring IBM",
+   "price_since": {
+    "ticker": "IBM",
+    "pct": -1.1,
+    "base": 284.84,
+    "last": 281.75,
+    "base_date": "2026-06-05",
+    "last_date": "2026-06-08"
+   }
   },
   {
    "date": "2026-06-05T11:08:59Z",
@@ -290,7 +346,15 @@
    "direction": "BUY",
    "primary_ticker": "DELL",
    "strength": 75,
-   "reason": "Dell awarded $10B federal contract weeks after Trump stock purchase signals administration support."
+   "reason": "Dell awarded $10B federal contract weeks after Trump stock purchase signals administration support.",
+   "price_since": {
+    "ticker": "DELL",
+    "pct": 2.0,
+    "base": 394.39,
+    "last": 402.28,
+    "base_date": "2026-06-05",
+    "last_date": "2026-06-08"
+   }
   },
   {
    "date": "2026-06-05T07:26:04Z",
@@ -306,7 +370,15 @@
    "direction": "BUY",
    "primary_ticker": "SPY",
    "strength": 25,
-   "reason": "US-India trade deal signals positive trade momentum and economic growth"
+   "reason": "US-India trade deal signals positive trade momentum and economic growth",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": 0.8,
+    "base": 737.55,
+    "last": 743.67,
+    "base_date": "2026-06-05",
+    "last_date": "2026-06-08"
+   }
   },
   {
    "date": "2026-06-05T05:34:00Z",
@@ -322,7 +394,15 @@
    "direction": "BUY",
    "primary_ticker": "MSFT",
    "strength": 45,
-   "reason": "Trump administration engaging with OpenAI on governance suggests potential legitimacy/partnership benefits for AI sector; MSFT is OpenAI's primary backer."
+   "reason": "Trump administration engaging with OpenAI on governance suggests potential legitimacy/partnership benefits for AI sector; MSFT is OpenAI's primary backer.",
+   "price_since": {
+    "ticker": "MSFT",
+    "pct": -1.4,
+    "base": 416.67,
+    "last": 410.74,
+    "base_date": "2026-06-05",
+    "last_date": "2026-06-08"
+   }
   },
   {
    "date": "2026-06-05T03:24:00Z",
@@ -338,7 +418,15 @@
    "direction": "BUY",
    "primary_ticker": "SPY",
    "strength": 25,
-   "reason": "Confirmed US-India trade agreement signals positive trade relations"
+   "reason": "Confirmed US-India trade agreement signals positive trade relations",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": 0.8,
+    "base": 737.55,
+    "last": 743.67,
+    "base_date": "2026-06-05",
+    "last_date": "2026-06-08"
+   }
   },
   {
    "date": "2026-06-05T02:06:43Z",
@@ -354,7 +442,15 @@
    "direction": "BUY",
    "primary_ticker": "SPY",
    "strength": 35,
-   "reason": "US-India trade agreement backing suggests positive trade sentiment; macro bullish tone on international relations."
+   "reason": "US-India trade agreement backing suggests positive trade sentiment; macro bullish tone on international relations.",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": 0.8,
+    "base": 737.55,
+    "last": 743.73,
+    "base_date": "2026-06-05",
+    "last_date": "2026-06-08"
+   }
   },
   {
    "date": "2026-06-05T01:20:43Z",
@@ -370,7 +466,15 @@
    "direction": "BUY",
    "primary_ticker": "SPY",
    "strength": 30,
-   "reason": "India trade deal prospect; macro positive sentiment on US trade partnerships."
+   "reason": "India trade deal prospect; macro positive sentiment on US trade partnerships.",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": 0.8,
+    "base": 737.55,
+    "last": 743.67,
+    "base_date": "2026-06-05",
+    "last_date": "2026-06-08"
+   }
   },
   {
    "date": "2026-06-04T20:58:46Z",
@@ -389,11 +493,11 @@
    "reason": "Trump explicitly praises Micron by name; direct endorsement of semiconductor leader supports stock upside.",
    "price_since": {
     "ticker": "MU",
-    "pct": -13.3,
+    "pct": -3.8,
     "base": 996.0,
-    "last": 864.01,
+    "last": 958.62,
     "base_date": "2026-06-04",
-    "last_date": "2026-06-05"
+    "last_date": "2026-06-08"
    }
   },
   {
@@ -413,11 +517,11 @@
    "reason": "Mentions Trump market bump effect but no specific actionable signal",
    "price_since": {
     "ticker": "SPY",
-    "pct": -2.6,
+    "pct": -1.8,
     "base": 757.09,
-    "last": 737.55,
+    "last": 743.67,
     "base_date": "2026-06-04",
-    "last_date": "2026-06-05"
+    "last_date": "2026-06-08"
    }
   },
   {
@@ -437,11 +541,11 @@
    "reason": "References Trump endorsement driving ETF gains; suggests bullish momentum but lacks specificity",
    "price_since": {
     "ticker": "SPY",
-    "pct": -2.6,
+    "pct": -1.8,
     "base": 757.09,
-    "last": 737.55,
+    "last": 743.67,
     "base_date": "2026-06-04",
-    "last_date": "2026-06-05"
+    "last_date": "2026-06-08"
    }
   },
   {
@@ -461,11 +565,11 @@
    "reason": "Trump's past criticism of IBM CEO may influence stock sentiment, but direction unclear and effect is delayed/speculative",
    "price_since": {
     "ticker": "IBM",
-    "pct": -5.6,
+    "pct": -6.6,
     "base": 301.77,
-    "last": 284.84,
+    "last": 281.75,
     "base_date": "2026-06-04",
-    "last_date": "2026-06-05"
+    "last_date": "2026-06-08"
    }
   },
   {
@@ -485,11 +589,35 @@
    "reason": "Trump explicitly praises Tim Cook and Apple amid CEO transition; positive signal for AAPL",
    "price_since": {
     "ticker": "AAPL",
-    "pct": -1.2,
+    "pct": 1.1,
     "base": 311.23,
-    "last": 307.34,
+    "last": 314.73,
     "base_date": "2026-06-04",
-    "last_date": "2026-06-05"
+    "last_date": "2026-06-08"
+   }
+  },
+  {
+   "date": "2026-06-04T07:00:00Z",
+   "platform": "News",
+   "text": "Stock Market Under the Trump Administration: What is Driving Markets in 2026? - U.S. Bank \u2014 Stock Market Under the Trump Administration: What is Driving Markets in 2026?\u00a0\u00a0U.S. Bank",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcUowVHR1VXAzd0Zfamw1MkVSejFsRGo1bkdGdHhjNVBZVFdwU3VpcE5neGJOeWl6RmdQVkFsYlcxNEVTRGg3WHNYSGR1d1BpTjV4T2NqdWdER3ZtQ0RVbU40WTcyRXRaTEM5bFZteVlYNE5EYkM1M1BaR0lYTGlUeFlTeDhVMzRaWFFqZEZhcGc3RFJoZy1qZy1mTGViQQ?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "SPY",
+   "strength": 25,
+   "reason": "Generic analysis of Trump admin market drivers; no specific catalyst or direction given.",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": -1.8,
+    "base": 757.09,
+    "last": 743.71,
+    "base_date": "2026-06-04",
+    "last_date": "2026-06-08"
    }
   },
   {
@@ -509,11 +637,11 @@
    "reason": "Report of Trump's past trading activity in stocks (Micron, Dell, Eli Lilly); no new market catalyst, ambiguous directional signal",
    "price_since": {
     "ticker": "SPY",
-    "pct": -2.6,
+    "pct": -1.8,
     "base": 757.09,
-    "last": 737.55,
+    "last": 743.73,
     "base_date": "2026-06-04",
-    "last_date": "2026-06-05"
+    "last_date": "2026-06-08"
    }
   },
   {
@@ -803,22 +931,6 @@
     "base_date": "2026-06-03",
     "last_date": "2026-06-05"
    }
-  },
-  {
-   "date": "2026-06-03T01:27:39Z",
-   "platform": "News",
-   "text": "Why is IBM stock surging nearly 7% higher in overnight trading? - MSN \u2014 Why is IBM stock surging nearly 7% higher in overnight trading?\u00a0\u00a0MSN",
-   "url": "https://news.google.com/rss/articles/CBMiiANBVV95cUxPVHRIcXd4UVp6S2Vta1V5T1BxV1U0VkFhaWlZU1M4T3BVeWlzbjhvTkxZZVVkejlNbHNER0J1eG5DN2ZtdlJHblFtZ2M3YUhrT0g0LUlGeGVHQmhpOHlsa28xdVBDcFpyQnFzQkI3b1VrZnBzSWh3X0Y2M1huVHcyeC1NdUlLMmtDLUE5d0U1dVZiWTlBRTVCVkJxRnZkcGN6SFR1aktDWFNHc3V3RDJuZjZsN2w1R3dZRFJUVWhjazFJU2pTbmtORU1NajVqdTNkVk1Bb0k3T3lUSVAyNTVsUFRmLVpfbUtSOXhSRTJHM0oyZ1NndDBTLVJkREI3UWViQm44N3l2VFpWMWM2cVpDYnFVZ2ZmbjNJdWZQMUF0OVdkakF1ckFiMm9GNjR2SHBWb0lTRGVaT1ZkeWVKV3c3SmlRSHJOUWRRZV90MU42dmpSVmRqYUdTaHZBQl9EbFAycGpnb2ppdjJlejVJYTdHMUxoX3NPREJQbWI4U0lJRlNWSGtncXBNWg?oc=5",
-   "tickers": [
-    "IBM"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "IBM",
-   "strength": 35,
-   "reason": "IBM stock surge overnight; headline asks 'why' but does not specify Trump connection or catalyst\u2014requires context to confirm market driver."
   },
   {
    "date": "2026-06-03T00:53:40Z",
@@ -2458,6 +2570,23 @@
    "reason": "Trump's majority-owned stock debuts \u2014 pure sentiment play, extremely volatile and headline-driven.",
    "market_reaction": "DJT spiked on debut then stayed volatile, moving heavily on Trump political/legal news.",
    "url": "https://www.nasdaq.com/market-activity/stocks/djt"
+  },
+  {
+   "date": "2023-05-18T12:00:00Z",
+   "platform": "Federal contract",
+   "text": "BLUE ORIGIN MANUFACTURING, LLC was awarded a $1.7B federal contract from National Aeronautics and Space Administration.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_80MSFC23CA014_8000_-NONE-_-NONE-",
+   "tickers": [
+    "XAR"
+   ],
+   "contract_amount": 1.74,
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "XAR",
+   "strength": 75,
+   "reason": "$1.7B federal contract award to Blue Origin (defense/aerospace) is bullish for space/defense sector."
   }
  ],
  "how_to_read": "Each card is Claude's read of a public Trump post: the affected ticker, whether it implies BUY / SELL / WATCH, a 0\u2013100 strength (how explicit/emphatic the post is \u2014 NOT a profit predictor), and why. A 2-year backtest found these don't beat buy-and-hold, so this is for awareness, not trading. Not financial advice."
