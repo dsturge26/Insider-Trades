@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-06-08T02:01:43Z",
+ "last_updated": "2026-06-08T07:04:10Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -17,6 +17,22 @@
    "primary_ticker": "MSFT",
    "strength": 25,
    "reason": "Speculation about Trump stake in OpenAI (Microsoft-backed) but no confirmed transaction or direct endorsement"
+  },
+  {
+   "date": "2026-06-07T15:08:00Z",
+   "platform": "News",
+   "text": "Trump's investment into UFC company exposed ahead of 80th birthday plans - Irish Star \u2014 Trump's investment into UFC company exposed ahead of 80th birthday plans\u00a0\u00a0Irish Star",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUjBidkd0bWhmbnhSTERvMWt6Z2M1SWNLRFg4SXh0d05NWHU1WE9MZXZ5clB2MzE0dC0wdmltU3Z6S0x4OFl2bm9CN09ob19BV2VmRHJUc3djUTMxN2N1U0E3enRjUVhFSWdlamxuN0NaQ09IRWppZjFCeHYxOFlBSHR6Mk54WXZTWHh0empVd9IBlAFBVV95cUxONmZHSWFuREk5YkIzeXhjRzd3M1hqR2lYN3R0R1lkcWU4Q1YzcGpXeWw0Wk5FSmNSZEJEY3RnRUxlRWdscHE5ZENkQVRZZVY0Y1h1aW9rTmRaNHRqWklRaTVldUkzRTRwS0J5d3IxXzFiZlVpcXUwSkx0eldWN3lkMnBqTW1hUWhZZGQ5WFA3UXRsQllk?oc=5",
+   "tickers": [
+    "TKO"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "TKO",
+   "strength": 20,
+   "reason": "Report of Trump investment in UFC (TKO); confirmed but no directional signal."
   },
   {
    "date": "2026-06-07T13:45:27Z",
@@ -355,6 +371,30 @@
    "primary_ticker": "SPY",
    "strength": 30,
    "reason": "India trade deal prospect; macro positive sentiment on US trade partnerships."
+  },
+  {
+   "date": "2026-06-04T20:58:46Z",
+   "platform": "News",
+   "text": "Micron hits a $1 trillion market cap after UBS \u2014 and Trump \u2014 praise it - AOL.com \u2014 Micron hits a $1 trillion market cap after UBS \u2014 and Trump \u2014 praise it\u00a0\u00a0AOL.com",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9nNmo4LWZRUlNOc2hzUmhvRFdvelZncy1LWFJ5Y2d5SEZUQnB6VHFwcUFwN3c0Zk1ZTXRGeTM3RHEzVzlEUXRDby14dURMU195a0RUemF2U3RPQTlYWWxZU0JuTTZWMGFHVHN2WDRBejhHSHlfa1lWc1pGU05HUQ?oc=5",
+   "tickers": [
+    "MU"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "MU",
+   "strength": 75,
+   "reason": "Trump explicitly praises Micron by name; direct endorsement of semiconductor leader supports stock upside.",
+   "price_since": {
+    "ticker": "MU",
+    "pct": -13.3,
+    "base": 996.0,
+    "last": 864.01,
+    "base_date": "2026-06-04",
+    "last_date": "2026-06-05"
+   }
   },
   {
    "date": "2026-06-04T16:51:00Z",
@@ -2401,30 +2441,6 @@
     "pct": 5.0,
     "base": 180.01,
     "last": 189.03,
-    "base_date": "2026-05-26",
-    "last_date": "2026-05-29"
-   }
-  },
-  {
-   "date": "2026-05-26T19:32:42.306Z",
-   "platform": "Truth Social",
-   "text": "If Iran surrenders, admits their Navy is gone and resting at the bottom of the sea, and their Air Force is no longer with us, and if their entire Military walks out of Tehran, weapons dropped and hands held high, each shouting \"I surrender, I surrender\" while wildly waving the representative White Flag, and if their entire remaining Leadership signs all necessary \"Documents of Surrender,\" and admit their defeat to the great power and force of the magnificent U.S.A., The Failing New York Times, The China Street Journal (WSJ!), Corrupt and now Irrelevant CNN, and all other members of the Fake News Media, will headline that Iran had a Masterful and Brilliant Victory over The United States of America, it wasn't even close. The Dumacrats and Media have totally lost their way. They have gone absolutely CRAZY!!! President DJT",
-   "tickers": [
-    "XLE"
-   ],
-   "engagement": 39241,
-   "url": "https://truthsocial.com/@realDonaldTrump/116642543193922330",
-   "classified": true,
-   "is_market": true,
-   "direction": "WATCH",
-   "primary_ticker": "XLE",
-   "strength": 40,
-   "reason": "Iran surrender demand and military dominance narrative; ambiguous on ultimate outcome but geopolitical risk and potential oil market impact.",
-   "price_since": {
-    "ticker": "XLE",
-    "pct": -2.7,
-    "base": 57.85,
-    "last": 56.29,
     "base_date": "2026-05-26",
     "last_date": "2026-05-29"
    }
