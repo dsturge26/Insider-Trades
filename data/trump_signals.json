@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-06-08T21:08:51Z",
+ "last_updated": "2026-06-08T22:51:01Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -2557,40 +2557,6 @@
    "primary_ticker": "LDOS",
    "strength": 75,
    "reason": "Leidos awarded $3.1B federal NSF contract; bullish for defense/technology services contractor"
-  },
-  {
-   "date": "2008-12-04T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "LOCKHEED MARTIN CORP was awarded a $2.0B federal contract from National Aeronautics and Space Administration.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_NNG09HR00C_8000_-NONE-_-NONE-",
-   "tickers": [
-    "LMT"
-   ],
-   "contract_amount": 2.03,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "LMT",
-   "strength": 74,
-   "reason": "Lockheed Martin awarded $2.0B federal NASA contract; bullish for defense/aerospace leader"
-  },
-  {
-   "date": "2008-07-25T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "HARRIS CORPORATION was awarded a $1.6B federal contract from Department of Transportation.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_DTFA0102D03006CALL0001_6920_DTFA0102D03006_6920",
-   "tickers": [
-    "HRI"
-   ],
-   "contract_amount": 1.56,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "HRI",
-   "strength": 70,
-   "reason": "Harris Corporation awarded $1.6B federal DOT contract; incremental bullish signal for defense/aerospace contractor"
   }
  ],
  "how_to_read": "Each card is Claude's read of a public Trump post: the affected ticker, whether it implies BUY / SELL / WATCH, a 0\u2013100 strength (how explicit/emphatic the post is \u2014 NOT a profit predictor), and why. A 2-year backtest found these don't beat buy-and-hold, so this is for awareness, not trading. Not financial advice."
