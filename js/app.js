@@ -37,6 +37,7 @@ async function boot() {
   ]);
   state.tickers = tickers;
   state.meta = meta;
+  state.metaWsb = wsb && wsb.last_updated; // WSB signals have no per-item date; use the feed's refresh time
   state.signals = collectSignals({ congress, trump, insiders, wsb });
 
   renderFreshness();
