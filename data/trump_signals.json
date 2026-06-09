@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-06-09T00:06:38Z",
+ "last_updated": "2026-06-09T04:35:43Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -2578,40 +2578,6 @@
    "primary_ticker": "AJRD",
    "strength": 72,
    "reason": "Aerojet Rocketdyne awarded $3.3B federal NASA contract; bullish for rocket/missile propulsion contractor"
-  },
-  {
-   "date": "2015-09-03T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "NORTHROP GRUMMAN SYSTEMS CORPORATION was awarded a $1.6B federal contract from National Aeronautics and Space Administration.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_NNH15CN76C_8000_-NONE-_-NONE-",
-   "tickers": [
-    "NOC"
-   ],
-   "contract_amount": 1.59,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "NOC",
-   "strength": 73,
-   "reason": "Northrop Grumman awarded $1.6B federal NASA contract; bullish for defense/aerospace leader"
-  },
-  {
-   "date": "2015-07-09T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "HONEYWELL FEDERAL MANUFACTURING & TECHNOLOGIES, LLC was awarded a $17.4B federal contract from Department of Energy.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_DENA0002839_8900_-NONE-_-NONE-",
-   "tickers": [
-    "HON"
-   ],
-   "contract_amount": 17.43,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "HON",
-   "strength": 76,
-   "reason": "Honeywell awarded $17.4B federal DOE contract; large bullish signal for diversified aerospace/defense conglomerate"
   }
  ],
  "how_to_read": "Each card is Claude's read of a public Trump post: the affected ticker, whether it implies BUY / SELL / WATCH, a 0\u2013100 strength (how explicit/emphatic the post is \u2014 NOT a profit predictor), and why. A 2-year backtest found these don't beat buy-and-hold, so this is for awareness, not trading. Not financial advice."
