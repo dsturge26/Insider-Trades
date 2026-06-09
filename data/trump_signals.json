@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-06-09T21:15:07Z",
+ "last_updated": "2026-06-09T22:53:35Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -131,6 +131,30 @@
    }
   },
   {
+   "date": "2026-06-08T18:27:51Z",
+   "platform": "News",
+   "text": "Michael Burry Says He\u2019s Still Short Palantir After Stock Sees Recovery Following Trump\u2019s Endorsement - Stocktwits \u2014 Michael Burry Says He\u2019s Still Short Palantir After Stock Sees Recovery Following Trump\u2019s Endorsement\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUmNQdmN5STJOLU11dEhkR1U0ckhuS3JMcm1NUDNMY0dNZ1pQcGhFVmd2bkZqVHV5N3N4N01tY1gzZWZnTDlvbVRzTEtkQnZyUjlibXR1ZUJ5MnVNY0ZlYlVEUWtRMkdnRzBGcmxpdEJaQm55ZWlTWmZZUDBPNnhncTFlLWg3bjllZXNpeGpTVjd3b3dCZ2lWT1dPZE5RSlNKT01IVXlTa1c5YmFodzVEWkJtbHpvUHN1Ry00NWhxcVJpdw?oc=5",
+   "tickers": [
+    "PLTR"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "PLTR",
+   "strength": 45,
+   "reason": "Trump endorsement caused stock recovery; Michael Burry remains short\u2014conflicting signals, ambiguous near-term direction",
+   "price_since": {
+    "ticker": "PLTR",
+    "pct": -3.2,
+    "base": 136.47,
+    "last": 132.07,
+    "base_date": "2026-06-08",
+    "last_date": "2026-06-09"
+   }
+  },
+  {
    "date": "2026-06-08T14:47:53Z",
    "platform": "News",
    "text": "'Trump effect' comes to IBM stock, 6 months after US president called IBM CEO Arvind Krishna a \u2026 - MSN \u2014 'Trump effect' comes to IBM stock, 6 months after US president called IBM CEO Arvind Krishna a \u2026\u00a0\u00a0MSN",
@@ -150,6 +174,30 @@
     "pct": -1.2,
     "base": 280.82,
     "last": 277.49,
+    "base_date": "2026-06-08",
+    "last_date": "2026-06-09"
+   }
+  },
+  {
+   "date": "2026-06-08T10:23:00Z",
+   "platform": "News",
+   "text": "Watch: Donald Trump praises Xi Jinping, says US-China ties have a \u201cfantastic future together\u201d - Business Standard \u2014 Watch: Donald Trump praises Xi Jinping, says US-China ties have a \u201cfantastic future together\u201d\u00a0\u00a0Business Standard",
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQYktYQnNqVm9xQUNSVUJFanNXc0txTTJrVDVzMEV6OEpzXzRFeHhkSHFHYnp3YnNOczEzckU4YXZIdmRENU5VNDNIMzRUREczVU1hQS1LSFVzXzNsNW9ianVRX3VtWGk4cmVEYURIb1BCQzFXTFNlbWFqdzktYjk4VlB3eGczUzQtV0QwLVpfRXFSOWNPZjg3MWFMS2k1dEN3ZjBvdVE2RE50a2g2alZGYTdQMUxNd01Yb1BlN3VseFEzOUo2VG5mbklIVVNyZHRJYWlJcFpoU0RBNUd4bUJfc24yVmdLQzhHcHBDVW1Od9IB7wFBVV95cUxQYktYQnNqVm9xQUNSVUJFanNXc0txTTJrVDVzMEV6OEpzXzRFeHhkSHFHYnp3YnNOczEzckU4YXZIdmRENU5VNDNIMzRUREczVU1hQS1LSFVzXzNsNW9ianVRX3VtWGk4cmVEYURIb1BCQzFXTFNlbWFqdzktYjk4VlB3eGczUzQtV0QwLVpfRXFSOWNPZjg3MWFMS2k1dEN3ZjBvdVE2RE50a2g2alZGYTdQMUxNd01Yb1BlN3VseFEzOUo2VG5mbklIVVNyZHRJYWlJcFpoU0RBNUd4bUJfc24yVmdLQzhHcHBDVW1Odw?oc=5",
+   "tickers": [
+    "FXI"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "FXI",
+   "strength": 40,
+   "reason": "Trump praises Xi and US-China ties; suggests de-escalation and potential trade deal, bullish for China-exposed stocks",
+   "price_since": {
+    "ticker": "FXI",
+    "pct": 0.0,
+    "base": 34.68,
+    "last": 34.69,
     "base_date": "2026-06-08",
     "last_date": "2026-06-09"
    }
@@ -701,28 +749,20 @@
    }
   },
   {
-   "date": "2026-06-05T05:34:00Z",
+   "date": "2026-06-05T05:34:49Z",
    "platform": "News",
    "text": "Trump\u2019s Government Wants A Piece Of Big AI? OpenAI CEO Said To Have Already Talked With Officials About It - TradingView \u2014 Trump\u2019s Government Wants A Piece Of Big AI? OpenAI CEO Said To Have Already Talked With Officials About It\u00a0\u00a0TradingView",
    "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNaGQ3V1B1ZmxVQl9mdzAzekIyc3hoa25ZanFXano0bEtoVEg1MmQ2N2dKbldFWDgxeXNPNGVNSDNpZ21JNnlyZGZXNXE0bXM5T0pNOFZMZWFNTkw5UFFJMVpVRDFHVlpjU0NZWU5BQ1VlLWlxS3dHVVJyYjlnZWRqVjEtSXZhV3RyS2lOeHExTkgyUmNaOWNQSFFXa18yZl9jdDdyME1CNi1KRXM1MWZ1akYzeHV6cjl6QVBqNjYwYmc2WG5jeXAwVjlUbS0tOFlVOGJfYTJmaG9WWXpBYWVPR19JWXpET0h1aGZrQkdxNmJ1SVRURTNXcC1n?oc=5",
    "tickers": [
-    "MSFT"
+    "QQQ"
    ],
    "classified": true,
    "is_market": true,
    "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "MSFT",
-   "strength": 45,
-   "reason": "Trump administration engaging with OpenAI on governance suggests potential legitimacy/partnership benefits for AI sector; MSFT is OpenAI's primary backer.",
-   "price_since": {
-    "ticker": "MSFT",
-    "pct": -3.2,
-    "base": 416.67,
-    "last": 403.41,
-    "base_date": "2026-06-05",
-    "last_date": "2026-06-09"
-   }
+   "direction": "WATCH",
+   "primary_ticker": "QQQ",
+   "strength": 40,
+   "reason": "Government stake in OpenAI/big AI creates regulatory/valuation uncertainty; ambiguous whether bullish (support) or bearish (control risk)."
   },
   {
    "date": "2026-06-05T03:24:00Z",
@@ -2699,40 +2739,6 @@
    "primary_ticker": "BE",
    "strength": 75,
    "reason": "Blue Origin awarded $1.7B federal contract; bullish for aerospace/defense sector and parent Berkshire holdings"
-  },
-  {
-   "date": "2022-08-31T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "MAXIMUS FEDERAL SERVICES, INC. was awarded a $2.8B federal contract from Department of Health and Human Services.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_75FCMC22C0038_7530_-NONE-_-NONE-",
-   "tickers": [
-    "MMS"
-   ],
-   "contract_amount": 2.78,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "MMS",
-   "strength": 70,
-   "reason": "Maximus awarded $2.8B federal HHS contract; bullish for government services provider"
-  },
-  {
-   "date": "2021-07-01T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "HARRIS CORPORATION was awarded a $2.1B federal contract from Department of Transportation.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_693KA821F00222_6920_DTFA0102D03006_6920",
-   "tickers": [
-    "HRI"
-   ],
-   "contract_amount": 2.07,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "HRI",
-   "strength": 72,
-   "reason": "Harris Corporation awarded $2.1B federal DOT contract; bullish for defense/aerospace contractor"
   }
  ],
  "how_to_read": "Each card is Claude's read of a public Trump post: the affected ticker, whether it implies BUY / SELL / WATCH, a 0\u2013100 strength (how explicit/emphatic the post is \u2014 NOT a profit predictor), and why. A 2-year backtest found these don't beat buy-and-hold, so this is for awareness, not trading. Not financial advice."
