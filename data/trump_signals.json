@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-06-09T04:35:43Z",
+ "last_updated": "2026-06-09T08:22:46Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -211,6 +211,22 @@
    "reason": "Pardon of insider trading convict signals relaxed enforcement/governance risk to equity market confidence"
   },
   {
+   "date": "2026-06-06T14:46:54Z",
+   "platform": "News",
+   "text": "Trump acquired stock in companies like Walt Disney, JPMorgan, and Netflix, even as he threatened them publicly - MSN \u2014 Trump acquired stock in companies like Walt Disney, JPMorgan, and Netflix, even as he threatened them publicly\u00a0\u00a0MSN",
+   "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxOb21OWW5nRU5yZDBnMkY1ZFZLTXI5R0prSTEtNjNqc2ROY094MXdMR3VkUmpSeUxGbFJGN2IyaC13N05kSFRoSVNwM3d3V3drdGdkUTdWOWNQYjRHTUtfMDVaUUFnQmdyTDdZdU9rWFJUeGplM3lVUEVBdXhQQzlJcC1LcDRETnVUa3ZCZFpzSWtJV196YmVSU25aYW5ZdXg5UlZodmU4U3VhUGxLVEFSRGtWSXRxbWdfSldMbld0d0loU0FNS01wQlhzWkNrWVZLUUY5YjFUSWNwTTNRV0djQU1SWHNvRDJfUExadHdZYmR1M3BkclJkYzB3X1VDeTBWVUZKbnlmMzA3SXIxT2FSZFBlVzZBNUZwaHVfeGw3dE5LQ3JTWEJqUXVHMk5CS0FUcmtn?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "SPY",
+   "strength": 35,
+   "reason": "Trump acquiring stock in DIS, JPM, NFLX while attacking them publicly; mixed signals on conviction"
+  },
+  {
    "date": "2026-06-06T10:15:00Z",
    "platform": "News",
    "text": "Trump urged you to \u2018buy a Dell\u2019 while holding the stock \u2014 now it\u2019s up 255%. Enrich yourself even outside the White House - Yahoo Finance \u2014 Trump urged you to \u2018buy a Dell\u2019 while holding the stock \u2014 now it\u2019s up 255%. Enrich yourself even outside the White House\u00a0\u00a0Yahoo Finance",
@@ -225,22 +241,6 @@
    "primary_ticker": "DELL",
    "strength": 95,
    "reason": "Trump explicitly urged buying Dell stock while holding it; direct market signal with documented price impact."
-  },
-  {
-   "date": "2026-06-06T07:03:59Z",
-   "platform": "News",
-   "text": "Trump acquired stock in companies like Walt Disney, JPMorgan, and Netflix, even as he threatened them publicly - MSN \u2014 Trump acquired stock in companies like Walt Disney, JPMorgan, and Netflix, even as he threatened them publicly\u00a0\u00a0MSN",
-   "url": "https://news.google.com/rss/articles/CBMizANBVV95cUxPRjlDMHJaaHY5RURFLU5WNnRDNE1ZcHlST2g3eHJtMFBTWFZkVlAtWHB1S0xQOVd0NVg4Q0k3eXdUVUY2UDBCdXBLN01vb1UzTFQtaHVxMGJSNDl3ZnRMNG1JN0hMZG5pM1Q4VWZyY3labHo1SHI4dTlEZzNiWEFqNUhyUDU1OTJWeWpZZ0g0V01PTmthS3JPSWhoSWJyTmhNUmRpQ2JzdXVYWjdDUDVkYUpldTRSZ2tNTjl2dUxFTUhLX3czOHUwV1lrQTFXYUY3MmN6ZzVWNnNIMERHOTZaSHI1Wm1aVl9VbnBxYXJhZGRJQlZsOF9yeG5zQXBOdGZZU3NINl9wV3JkQ05PWFBJcUtvdEpGLUdHYjJtRmlRemhTbEJQclo2ZWx2THVyR2VwbVM5V3hPREljZHEwT1F2SFhXVDFMSXVETFQxVDZBcVlHcktLZVY1TVNGYjRUTU15dnZzOVQwWk5XVE1Hejl6WURZSE0zYXp4ejh4bXBTZ1lMZ28tOF9mUkhtNFUtWkxzS3J6SDFxaHNCSVlJVWRlelZ5SzRrSFdrQktaSmdxY0p3WXRTdDI2cmcwWG5GRjQ0RmI1N0tDcGQyUXJu?oc=5",
-   "tickers": [
-    "DIS"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "DIS",
-   "strength": 45,
-   "reason": "Trump holds Disney, JPMorgan, Netflix but also threatened them publicly; mixed signal on intent"
   },
   {
    "date": "2026-06-06T04:17:44Z",
