@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-06-09T11:39:37Z",
+ "last_updated": "2026-06-09T14:05:38Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -48,7 +48,15 @@
    "direction": "BUY",
    "primary_ticker": "DELL",
    "strength": 85,
-   "reason": "Trump explicitly urged buying Dell stock; historical reference to his past recommendation"
+   "reason": "Trump explicitly urged buying Dell stock; historical reference to his past recommendation",
+   "price_since": {
+    "ticker": "DELL",
+    "pct": -0.7,
+    "base": 400.77,
+    "last": 397.83,
+    "base_date": "2026-06-08",
+    "last_date": "2026-06-09"
+   }
   },
   {
    "date": "2026-06-08T19:01:25Z",
@@ -64,7 +72,15 @@
    "direction": "BUY",
    "primary_ticker": "IBM",
    "strength": 68,
-   "reason": "IBM stock surge likely tied to Trump's prior CEO praise and quantum contract rumors"
+   "reason": "IBM stock surge likely tied to Trump's prior CEO praise and quantum contract rumors",
+   "price_since": {
+    "ticker": "IBM",
+    "pct": 0.1,
+    "base": 280.82,
+    "last": 281.08,
+    "base_date": "2026-06-08",
+    "last_date": "2026-06-09"
+   }
   },
   {
    "date": "2026-06-08T14:47:53Z",
@@ -80,7 +96,15 @@
    "direction": "BUY",
    "primary_ticker": "IBM",
    "strength": 70,
-   "reason": "Trump effect on IBM stock after calling CEO a 'legend'; positive momentum continues"
+   "reason": "Trump effect on IBM stock after calling CEO a 'legend'; positive momentum continues",
+   "price_since": {
+    "ticker": "IBM",
+    "pct": 0.1,
+    "base": 280.82,
+    "last": 281.08,
+    "base_date": "2026-06-08",
+    "last_date": "2026-06-09"
+   }
   },
   {
    "date": "2026-06-08T05:15:25Z",
@@ -96,7 +120,15 @@
    "direction": "WATCH",
    "primary_ticker": "AAPL",
    "strength": 35,
-   "reason": "Trump praises Tim Cook by name following his departure; ambiguous whether praise or commentary on transition"
+   "reason": "Trump praises Tim Cook by name following his departure; ambiguous whether praise or commentary on transition",
+   "price_since": {
+    "ticker": "AAPL",
+    "pct": -2.2,
+    "base": 301.54,
+    "last": 294.8,
+    "base_date": "2026-06-08",
+    "last_date": "2026-06-09"
+   }
   },
   {
    "date": "2026-06-07T21:54:24Z",
@@ -112,7 +144,15 @@
    "direction": "BUY",
    "primary_ticker": "IBM",
    "strength": 45,
-   "reason": "IBM stock surging overnight; likely reflects positive Trump association or prior praise"
+   "reason": "IBM stock surging overnight; likely reflects positive Trump association or prior praise",
+   "price_since": {
+    "ticker": "IBM",
+    "pct": 0.1,
+    "base": 280.82,
+    "last": 281.08,
+    "base_date": "2026-06-08",
+    "last_date": "2026-06-09"
+   }
   },
   {
    "date": "2026-06-07T19:20:00Z",
@@ -128,7 +168,15 @@
    "direction": "WATCH",
    "primary_ticker": "XBI",
    "strength": 50,
-   "reason": "100% tariff on imported patented drugs incentivizes onshoring and price cuts; mixed effect (tariff pain vs. competitive advantage for US pharma)"
+   "reason": "100% tariff on imported patented drugs incentivizes onshoring and price cuts; mixed effect (tariff pain vs. competitive advantage for US pharma)",
+   "price_since": {
+    "ticker": "XBI",
+    "pct": 1.7,
+    "base": 128.43,
+    "last": 130.66,
+    "base_date": "2026-06-08",
+    "last_date": "2026-06-09"
+   }
   },
   {
    "date": "2026-06-07T18:39:39Z",
@@ -144,7 +192,15 @@
    "direction": "WATCH",
    "primary_ticker": "MSFT",
    "strength": 25,
-   "reason": "Speculation about Trump stake in OpenAI (Microsoft-backed) but no confirmed transaction or direct endorsement"
+   "reason": "Speculation about Trump stake in OpenAI (Microsoft-backed) but no confirmed transaction or direct endorsement",
+   "price_since": {
+    "ticker": "MSFT",
+    "pct": -0.2,
+    "base": 411.74,
+    "last": 410.88,
+    "base_date": "2026-06-08",
+    "last_date": "2026-06-09"
+   }
   },
   {
    "date": "2026-06-07T15:56:15Z",
@@ -160,7 +216,15 @@
    "direction": "BUY",
    "primary_ticker": "DELL",
    "strength": 85,
-   "reason": "Trump explicitly told Americans to buy Dell while holding it; direct endorsement of specific public company"
+   "reason": "Trump explicitly told Americans to buy Dell while holding it; direct endorsement of specific public company",
+   "price_since": {
+    "ticker": "DELL",
+    "pct": -0.7,
+    "base": 400.77,
+    "last": 397.83,
+    "base_date": "2026-06-08",
+    "last_date": "2026-06-09"
+   }
   },
   {
    "date": "2026-06-07T15:08:00Z",
@@ -176,7 +240,15 @@
    "direction": "WATCH",
    "primary_ticker": "TKO",
    "strength": 20,
-   "reason": "Report of Trump investment in UFC (TKO); confirmed but no directional signal."
+   "reason": "Report of Trump investment in UFC (TKO); confirmed but no directional signal.",
+   "price_since": {
+    "ticker": "TKO",
+    "pct": 1.2,
+    "base": 202.61,
+    "last": 205.06,
+    "base_date": "2026-06-08",
+    "last_date": "2026-06-09"
+   }
   },
   {
    "date": "2026-06-07T14:39:48Z",
@@ -192,7 +264,15 @@
    "direction": "WATCH",
    "primary_ticker": "DELL",
    "strength": 20,
-   "reason": "Analysis of Dell political trading attention; references valuation and volatility but no directional signal"
+   "reason": "Analysis of Dell political trading attention; references valuation and volatility but no directional signal",
+   "price_since": {
+    "ticker": "DELL",
+    "pct": -0.7,
+    "base": 400.77,
+    "last": 397.83,
+    "base_date": "2026-06-08",
+    "last_date": "2026-06-09"
+   }
   },
   {
    "date": "2026-06-07T13:45:27Z",
@@ -224,7 +304,15 @@
    "direction": "WATCH",
    "primary_ticker": "MSFT",
    "strength": 25,
-   "reason": "Speculation on Trump stake in OpenAI; no confirmation; OpenAI majority-backed by Microsoft"
+   "reason": "Speculation on Trump stake in OpenAI; no confirmation; OpenAI majority-backed by Microsoft",
+   "price_since": {
+    "ticker": "MSFT",
+    "pct": -0.2,
+    "base": 411.74,
+    "last": 410.89,
+    "base_date": "2026-06-08",
+    "last_date": "2026-06-09"
+   }
   },
   {
    "date": "2026-06-07T13:15:39Z",
@@ -240,7 +328,15 @@
    "direction": "BUY",
    "primary_ticker": "DELL",
    "strength": 85,
-   "reason": "Trump explicitly urged Americans to 'buy a Dell' while holding stock; stock up 255% demonstrates signal strength."
+   "reason": "Trump explicitly urged Americans to 'buy a Dell' while holding stock; stock up 255% demonstrates signal strength.",
+   "price_since": {
+    "ticker": "DELL",
+    "pct": -0.7,
+    "base": 400.77,
+    "last": 397.83,
+    "base_date": "2026-06-08",
+    "last_date": "2026-06-09"
+   }
   },
   {
    "date": "2026-06-07T01:44:13Z",
@@ -256,7 +352,39 @@
    "direction": "SELL",
    "primary_ticker": "SPY",
    "strength": 30,
-   "reason": "Pardon of insider trading convict signals relaxed enforcement/governance risk to equity market confidence"
+   "reason": "Pardon of insider trading convict signals relaxed enforcement/governance risk to equity market confidence",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": 0.7,
+    "base": 739.22,
+    "last": 744.45,
+    "base_date": "2026-06-08",
+    "last_date": "2026-06-09"
+   }
+  },
+  {
+   "date": "2026-06-06T17:01:52Z",
+   "platform": "News",
+   "text": "Trump backs talks on US public stake in AI firms - MSN \u2014 Trump backs talks on US public stake in AI firms\u00a0\u00a0MSN",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOUElGVTJ5b19NQzN4dXRtSFBuTVZ1MmdKVVl2ZVI3WG1TUHpzeEh1VHVLTEVVcnJnOUFiRXFEYXR3X1hXN1pXdW1naWRUUXc1d3lZU3ExVGxSbllYZVpyeG1teGJfMXA2el9TRGN6dGxBM1FhWkx5Rk13cDFUOXhuaHp5cElnb2djM3VYNTY2dU11QjVPdDlHZHoyM2xQaXU1ajFhcGJpLTVtLU5IbE1TcE9LQ0tSTHV0T05FaXUtaUJwckdHQWxncVctTWtYSFBlUUcxUnpwaVRTR0xUTUNjOXU2cGlxdw?oc=5",
+   "tickers": [
+    "QQQ"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "QQQ",
+   "strength": 50,
+   "reason": "US public stake in AI firms is policy-level; direction ambiguous (could be bullish for AI if capital flows, bearish if seen as regulation)",
+   "price_since": {
+    "ticker": "QQQ",
+    "pct": 0.8,
+    "base": 716.07,
+    "last": 721.87,
+    "base_date": "2026-06-08",
+    "last_date": "2026-06-09"
+   }
   },
   {
    "date": "2026-06-06T14:46:54Z",
@@ -272,7 +400,15 @@
    "direction": "WATCH",
    "primary_ticker": "SPY",
    "strength": 35,
-   "reason": "Trump acquiring stock in DIS, JPM, NFLX while attacking them publicly; mixed signals on conviction"
+   "reason": "Trump acquiring stock in DIS, JPM, NFLX while attacking them publicly; mixed signals on conviction",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": 0.7,
+    "base": 739.22,
+    "last": 744.43,
+    "base_date": "2026-06-08",
+    "last_date": "2026-06-09"
+   }
   },
   {
    "date": "2026-06-06T10:15:00Z",
@@ -288,7 +424,15 @@
    "direction": "BUY",
    "primary_ticker": "DELL",
    "strength": 95,
-   "reason": "Trump explicitly urged buying Dell stock while holding it; direct market signal with documented price impact."
+   "reason": "Trump explicitly urged buying Dell stock while holding it; direct market signal with documented price impact.",
+   "price_since": {
+    "ticker": "DELL",
+    "pct": -0.7,
+    "base": 400.77,
+    "last": 397.83,
+    "base_date": "2026-06-08",
+    "last_date": "2026-06-09"
+   }
   },
   {
    "date": "2026-06-06T01:50:10Z",
@@ -304,7 +448,15 @@
    "direction": "WATCH",
    "primary_ticker": "XLI",
    "strength": 35,
-   "reason": "Trump mentions Greenland; critical metals stock surges but no specific company named or explicit direction; ambiguous catalyst."
+   "reason": "Trump mentions Greenland; critical metals stock surges but no specific company named or explicit direction; ambiguous catalyst.",
+   "price_since": {
+    "ticker": "XLI",
+    "pct": 1.6,
+    "base": 173.63,
+    "last": 176.37,
+    "base_date": "2026-06-08",
+    "last_date": "2026-06-09"
+   }
   },
   {
    "date": "2026-06-05T23:28:26.660Z",
@@ -324,11 +476,11 @@
    "reason": "Drug price transparency/discounts policy potentially supportive of pharma sector long-term; macro policy signal, not explicit company call.",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.2,
+    "pct": 0.9,
     "base": 737.55,
-    "last": 739.22,
+    "last": 744.43,
     "base_date": "2026-06-05",
-    "last_date": "2026-06-08"
+    "last_date": "2026-06-09"
    }
   },
   {
@@ -348,11 +500,11 @@
    "reason": "Trump explores federal acquisition of stakes in AI companies; potential bullish for tech/AI sector through government demand",
    "price_since": {
     "ticker": "QQQ",
-    "pct": 1.6,
+    "pct": 2.4,
     "base": 705.06,
-    "last": 716.07,
+    "last": 721.9,
     "base_date": "2026-06-05",
-    "last_date": "2026-06-08"
+    "last_date": "2026-06-09"
    }
   },
   {
@@ -372,11 +524,11 @@
    "reason": "Trump praising IBM CEO resurfaces; positive signal for IBM stock.",
    "price_since": {
     "ticker": "IBM",
-    "pct": -1.4,
+    "pct": -1.3,
     "base": 284.84,
-    "last": 280.82,
+    "last": 281.08,
     "base_date": "2026-06-05",
-    "last_date": "2026-06-08"
+    "last_date": "2026-06-09"
    }
   },
   {
@@ -396,11 +548,11 @@
    "reason": "Trump meets AI leaders to discuss US investment; signals potential pro-AI policy environment; broad tech sector implication.",
    "price_since": {
     "ticker": "QQQ",
-    "pct": 1.6,
+    "pct": 2.4,
     "base": 705.06,
-    "last": 716.07,
+    "last": 721.86,
     "base_date": "2026-06-05",
-    "last_date": "2026-06-08"
+    "last_date": "2026-06-09"
    }
   },
   {
@@ -420,11 +572,11 @@
    "reason": "Possible government stake in OpenAI creates ambiguous signal\u2014could boost valuation (MSFT's partner) or introduce regulatory/ownership uncertainty",
    "price_since": {
     "ticker": "MSFT",
-    "pct": -1.2,
+    "pct": -1.4,
     "base": 416.67,
-    "last": 411.74,
+    "last": 410.88,
     "base_date": "2026-06-05",
-    "last_date": "2026-06-08"
+    "last_date": "2026-06-09"
    }
   },
   {
@@ -445,11 +597,11 @@
    "reason": "Strong jobs report implies growth without inflation; macro bullish for broad market but generic boilerplate without specific catalyst.",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.2,
+    "pct": 0.9,
     "base": 737.55,
-    "last": 739.22,
+    "last": 744.43,
     "base_date": "2026-06-05",
-    "last_date": "2026-06-08"
+    "last_date": "2026-06-09"
    }
   },
   {
@@ -469,11 +621,11 @@
    "reason": "Dell awarded $10B federal contract weeks after Trump stock purchase signals administration support.",
    "price_since": {
     "ticker": "DELL",
-    "pct": 1.6,
+    "pct": 0.9,
     "base": 394.39,
-    "last": 400.77,
+    "last": 397.83,
     "base_date": "2026-06-05",
-    "last_date": "2026-06-08"
+    "last_date": "2026-06-09"
    }
   },
   {
@@ -493,11 +645,11 @@
    "reason": "US-India trade deal signals positive trade momentum and economic growth",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.2,
+    "pct": 0.9,
     "base": 737.55,
-    "last": 739.22,
+    "last": 744.38,
     "base_date": "2026-06-05",
-    "last_date": "2026-06-08"
+    "last_date": "2026-06-09"
    }
   },
   {
@@ -517,11 +669,11 @@
    "reason": "Trump administration engaging with OpenAI on governance suggests potential legitimacy/partnership benefits for AI sector; MSFT is OpenAI's primary backer.",
    "price_since": {
     "ticker": "MSFT",
-    "pct": -1.2,
+    "pct": -1.4,
     "base": 416.67,
-    "last": 411.74,
+    "last": 410.88,
     "base_date": "2026-06-05",
-    "last_date": "2026-06-08"
+    "last_date": "2026-06-09"
    }
   },
   {
@@ -541,11 +693,11 @@
    "reason": "Confirmed US-India trade agreement signals positive trade relations",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.2,
+    "pct": 0.9,
     "base": 737.55,
-    "last": 739.22,
+    "last": 744.38,
     "base_date": "2026-06-05",
-    "last_date": "2026-06-08"
+    "last_date": "2026-06-09"
    }
   },
   {
@@ -565,11 +717,11 @@
    "reason": "US-India trade agreement backing suggests positive trade sentiment; macro bullish tone on international relations.",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.2,
+    "pct": 0.9,
     "base": 737.55,
-    "last": 739.22,
+    "last": 744.43,
     "base_date": "2026-06-05",
-    "last_date": "2026-06-08"
+    "last_date": "2026-06-09"
    }
   },
   {
@@ -589,11 +741,11 @@
    "reason": "India trade deal prospect; macro positive sentiment on US trade partnerships.",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.2,
+    "pct": 0.9,
     "base": 737.55,
-    "last": 739.22,
+    "last": 744.38,
     "base_date": "2026-06-05",
-    "last_date": "2026-06-08"
+    "last_date": "2026-06-09"
    }
   },
   {
@@ -613,11 +765,11 @@
    "reason": "Trump explicitly praises Micron by name; direct endorsement of semiconductor leader supports stock upside.",
    "price_since": {
     "ticker": "MU",
-    "pct": -4.7,
+    "pct": -1.9,
     "base": 996.0,
-    "last": 949.28,
+    "last": 977.02,
     "base_date": "2026-06-04",
-    "last_date": "2026-06-08"
+    "last_date": "2026-06-09"
    }
   },
   {
@@ -925,6 +1077,22 @@
    }
   },
   {
+   "date": "2026-06-03T18:47:00Z",
+   "platform": "News",
+   "text": "President Donald Trump owns roughly $5M in surging AI stock - Yahoo Finance Singapore \u2014 President Donald Trump owns roughly $5M in surging AI stock\u00a0\u00a0Yahoo Finance Singapore",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUkFDSEpJVGpsUkhCV0FXODRqeXhLRmFJY1VCQmt1dGJObzJhMWk2OC1DazF5RFFmUlNUem56bWNNSmFhNUJQZEZ0Y1lOTWdySnpvVERUcGdIX2RFZ05HR0hIT01nZE9EUGFiMUtzY19nWWRwSWJnV0RXakswYkFNaUZITy1LRmNzTVZjLQ?oc=5",
+   "tickers": [
+    "QQQ"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "QQQ",
+   "strength": 35,
+   "reason": "Trump owns ~$5M in surging AI stock (unnamed); personal holding, no explicit call to action or named ticker"
+  },
+  {
    "date": "2026-06-03T17:21:48Z",
    "platform": "News",
    "text": "Nancy Pelosi stock tracker flags Dell's $9.7 billion Pentagon win weeks after Trump praised the company \u2014 shares surge 48% in a month - MSN \u2014 Nancy Pelosi stock tracker flags Dell's $9.7 billion Pentagon win weeks after Trump praised the company \u2014 shares surge 48% in a month\u00a0\u00a0MSN",
@@ -1019,6 +1187,22 @@
     "base_date": "2026-06-03",
     "last_date": "2026-06-05"
    }
+  },
+  {
+   "date": "2026-06-03T09:51:46Z",
+   "platform": "News",
+   "text": "Trump revealed to have bought over $1M in Dell stock months before Pentagon signed $9.7B deal - UNILAD \u2014 Trump revealed to have bought over $1M in Dell stock months before Pentagon signed $9.7B deal\u00a0\u00a0UNILAD",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbTdqcDZLdGxVYUxpUjFnczFNWkM1cVhSczZiMm9rNF9fZXl3bGtpazQ0VXBoRURsdHc2Z0NUcDVyMFJST1FrTjhDRjVOUkkwSEp4c0lRMzlyeE8tM2hVelFtUUFFYTdzR1B6Ml9WTXZkdzVTZWNiTG5WYk9VMnJlcDF3NllMMjQ2aXBOaW1lZDl2VFZzblVrZU9jUzdQUQ?oc=5",
+   "tickers": [
+    "DELL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "DELL",
+   "strength": 65,
+   "reason": "Trump stock purchase + large Pentagon contract to Dell suggests bullish momentum"
   },
   {
    "date": "2026-06-03T03:58:05Z",
@@ -2569,23 +2753,6 @@
    "primary_ticker": "ATMP",
    "strength": 68,
    "reason": "Amentum awarded $1.9B federal NASA contract; bullish for aerospace/defense services"
-  },
-  {
-   "date": "2015-11-01T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "AEROJET ROCKETDYNE OF DE, INC was awarded a $3.3B federal contract from National Aeronautics and Space Administration.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_NNM16AA02C_8000_-NONE-_-NONE-",
-   "tickers": [
-    "AJRD"
-   ],
-   "contract_amount": 3.27,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "AJRD",
-   "strength": 72,
-   "reason": "Aerojet Rocketdyne awarded $3.3B federal NASA contract; bullish for rocket/missile propulsion contractor"
   }
  ],
  "how_to_read": "Each card is Claude's read of a public Trump post: the affected ticker, whether it implies BUY / SELL / WATCH, a 0\u2013100 strength (how explicit/emphatic the post is \u2014 NOT a profit predictor), and why. A 2-year backtest found these don't beat buy-and-hold, so this is for awareness, not trading. Not financial advice."
