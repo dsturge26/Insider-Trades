@@ -1,7 +1,39 @@
 {
- "last_updated": "2026-06-08T22:51:01Z",
+ "last_updated": "2026-06-09T00:06:38Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-06-08T20:22:46Z",
+   "platform": "News",
+   "text": "Trump urged you to \u2018buy a Dell\u2019 while holding the stock \u2014 now it\u2019s up 255%. Enrich yourself even outside the White House - AOL.com \u2014 Trump urged you to \u2018buy a Dell\u2019 while holding the stock \u2014 now it\u2019s up 255%. Enrich yourself even outside the White House\u00a0\u00a0AOL.com",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBUb1hvNGRuUVRsUTlVUFc3X1BhMFlKLXRpQk95QVlaay01Rm5UYVZuYV9YQ1dvd3JaWjZnQXJoWjJYTjgtdGZhdWpIN29yZkZacGlUdzFFb2l4QjF1ckg4dlVqSTduc1hmZVgyamlwcTgzUERIdXVUYw?oc=5",
+   "tickers": [
+    "DELL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "DELL",
+   "strength": 85,
+   "reason": "Trump explicitly urged buying Dell stock; historical reference to his past recommendation"
+  },
+  {
+   "date": "2026-06-08T05:15:25Z",
+   "platform": "News",
+   "text": "'An Incredible Guy': Trump Praises Tim Cook Following News Of His Departure From CEO Role - AOL.com \u2014 'An Incredible Guy': Trump Praises Tim Cook Following News Of His Departure From CEO Role\u00a0\u00a0AOL.com",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMEY2eUoyMVQwVS1lVWNOMGl2MVkzWkY1Y1RvbE9EanBTQUpwYXZBb3hxbk13NDlxT09mRDdIMzNBb0lKNlV5WUIydFJ4NkNHMFJjMGRFQzA3QXJWQW1aUDd6WU9KNzkzOVM1UU9CczdGNXdKS1Fud2RlbjNLekJPV0VR?oc=5",
+   "tickers": [
+    "AAPL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "WATCH",
+   "primary_ticker": "AAPL",
+   "strength": 35,
+   "reason": "Trump praises Tim Cook by name following his departure; ambiguous whether praise or commentary on transition"
+  },
   {
    "date": "2026-06-07T23:57:19Z",
    "platform": "News",
@@ -99,6 +131,22 @@
    "reason": "Report of Trump investment in UFC (TKO); confirmed but no directional signal."
   },
   {
+   "date": "2026-06-07T14:39:48Z",
+   "platform": "News",
+   "text": "Political Trades Put Focus On Dell Stock Valuation And Volatility - simplywall.st \u2014 Political Trades Put Focus On Dell Stock Valuation And Volatility\u00a0\u00a0simplywall.st",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONUp1ZTZMcm1LVmpJajhfSGFpOXQwdTJrLVp2VlUwTlhFRXFpal9YWGJIT1hTZ2RpNk9jT0hFRDFaZE95OTFGY29GZVBWLThnc3QtbTdMX1RQNXdsSnhBQlp1cUgtM0h1bFVZTy1JRkp1RVU2YXhVRTI0SEpFUFdhaGpmem96S1VPNWdSTXNid2hwdERiLVVub1hKdDVSYndjczUzcWtkakRCQ2hwWFY3YjIzeGJPSlZkdDkzbmhMRXRLUkNFbzEwbzJB0gHPAUFVX3lxTE51Y3hCVGpNaGxlYWN5T0lQSW8zUW9hNGdiaVpwOVgyOWtSRmhEbnR4ZnVrMFZYazI2V2o1by16Vlh5ZjNBelFiSnQzUS1YbmkxVXppSmVZQ05XSjdtbVZ5VWZ4eF9hM0JxUEY4SDRzb0Q0SUtoUWFHN0tPOGlMV0UyV081Ql93WG5ac3FtRHEyNlhHVWhPRzM0LWItbl91c2RQb1lvTXR3anlwTV9zTEdPMHdHczRvOElMLVJLdE9LazZGQlZQYkRRQkhQQ29FYw?oc=5",
+   "tickers": [
+    "DELL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "DELL",
+   "strength": 20,
+   "reason": "Analysis of Dell political trading attention; references valuation and volatility but no directional signal"
+  },
+  {
    "date": "2026-06-07T13:45:27Z",
    "platform": "News",
    "text": "Is President Trump About to Buy a Stake in OpenAI? - 24/7 Wall St. \u2014 Is President Trump About to Buy a Stake in OpenAI?\u00a0\u00a024/7 Wall St.",
@@ -147,20 +195,20 @@
    "reason": "Trump explicitly urged Americans to 'buy a Dell' while holding stock; stock up 255% demonstrates signal strength."
   },
   {
-   "date": "2026-06-06T10:18:23Z",
+   "date": "2026-06-07T01:44:13Z",
    "platform": "News",
-   "text": "Trump urged you to \u2018buy a Dell\u2019 while holding the stock \u2014 now it\u2019s up 255%. Enrich yourself even outside the White House - AOL.com \u2014 Trump urged you to \u2018buy a Dell\u2019 while holding the stock \u2014 now it\u2019s up 255%. Enrich yourself even outside the White House\u00a0\u00a0AOL.com",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBUb1hvNGRuUVRsUTlVUFc3X1BhMFlKLXRpQk95QVlaay01Rm5UYVZuYV9YQ1dvd3JaWjZnQXJoWjJYTjgtdGZhdWpIN29yZkZacGlUdzFFb2l4QjF1ckg4dlVqSTduc1hmZVgyamlwcTgzUERIdXVUYw?oc=5",
+   "text": "Trump pardons former GOP congressman convicted of insider trading - The Washington Post \u2014 Trump pardons former GOP congressman convicted of insider trading\u00a0\u00a0The Washington Post",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSktZS1lyYWpTRFkwZ0JhVU5oVG5NZjhRcGRJd1RnQzNSWWFLRnZyeFRGZnBZNnZMal81ZXgzc0czT1Jsci0xTkpPdmdhdUVPM0EzSUI3dkJQU2FnTGpDV2RIX0dmR1ItaHpRLUpscGJGNzA0T1lBc2dEU0t2dW40MVFpb3NqSHdUMXUwWEwtbjZETjFIdVZnN25tQ1FtSUlYSFVINGc4UzcwOXFESC05UFhaSGg?oc=5",
    "tickers": [
-    "DELL"
+    "SPY"
    ],
    "classified": true,
    "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "DELL",
-   "strength": 95,
-   "reason": "Trump explicitly urged buying Dell while holding stock; direct market signal."
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "SPY",
+   "strength": 30,
+   "reason": "Pardon of insider trading convict signals relaxed enforcement/governance risk to equity market confidence"
   },
   {
    "date": "2026-06-06T10:15:00Z",
@@ -252,6 +300,30 @@
    }
   },
   {
+   "date": "2026-06-05T21:45:31Z",
+   "platform": "News",
+   "text": "Trump explores federal government acquiring shares in AI companies - Yahoo \u2014 Trump explores federal government acquiring shares in AI companies\u00a0\u00a0Yahoo",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbllMUldnTDg4WERkWEo0aWlsMmNGTDltcFlxRHJGdWwzbUxNZy1mbEl3YVhoYmtzNlY1R1hqRngwN3UwZG1BQzVIUk4zQWpLLTNnT3IxMlpoRExfekhkXzFGbU1UN3VVRkYtUlRGX1hHRUN5QjVSMWU4ZWhwdkNuTEZ0Uk9oMkdkeUNlUmxmdlFROGRHUXFmTTA4ZVFOd0pVZG9kc1pR?oc=5",
+   "tickers": [
+    "QQQ"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "QQQ",
+   "strength": 45,
+   "reason": "Trump explores federal acquisition of stakes in AI companies; potential bullish for tech/AI sector through government demand",
+   "price_since": {
+    "ticker": "QQQ",
+    "pct": 1.6,
+    "base": 705.06,
+    "last": 716.07,
+    "base_date": "2026-06-05",
+    "last_date": "2026-06-08"
+   }
+  },
+  {
    "date": "2026-06-05T20:48:22Z",
    "platform": "News",
    "text": "IBM shares soar after video of Trump praising CEO resurfaces online (IBM) - MSN \u2014 IBM shares soar after video of Trump praising CEO resurfaces online (IBM)\u00a0\u00a0MSN",
@@ -295,6 +367,30 @@
     "pct": 1.6,
     "base": 705.06,
     "last": 716.07,
+    "base_date": "2026-06-05",
+    "last_date": "2026-06-08"
+   }
+  },
+  {
+   "date": "2026-06-05T17:58:46Z",
+   "platform": "News",
+   "text": "Trump administration, OpenAI discussing possible government stake in the AI startup - CNBC \u2014 Trump administration, OpenAI discussing possible government stake in the AI startup\u00a0\u00a0CNBC",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4ybHlVc085QUVIS2ZReHVWMVNPWTRhYmFuWVN1RXZVZUc0ZnZhbUlMT3Rpa1QxdEs3Q0Z6OG1qZ1VZN2N6TmlOMWlVYkVHc0dITjdkMnlTdnB2WmZZSkY4LW5HZHVRcjlKbDBoYVdva2_SAXZBVV95cUxObW91aGd3RmlfdHhHQVNLVUgyN3V6WDlFMkZ5UXdfbmZEQ0NfLW41REc4eTlMMkh1MlFiMW1BdFJmbm5sN1hOTVhwVl9VcXhlZzdVWFJyY1dkVFJQNFI2WXNTOXl1MllWa09KOHkxMkZsOXA4Qy1n?oc=5",
+   "tickers": [
+    "MSFT"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "MSFT",
+   "strength": 45,
+   "reason": "Possible government stake in OpenAI creates ambiguous signal\u2014could boost valuation (MSFT's partner) or introduce regulatory/ownership uncertainty",
+   "price_since": {
+    "ticker": "MSFT",
+    "pct": -1.2,
+    "base": 416.67,
+    "last": 411.74,
     "base_date": "2026-06-05",
     "last_date": "2026-06-08"
    }
@@ -584,30 +680,6 @@
     "pct": -6.9,
     "base": 301.77,
     "last": 280.82,
-    "base_date": "2026-06-04",
-    "last_date": "2026-06-08"
-   }
-  },
-  {
-   "date": "2026-06-04T09:02:53Z",
-   "platform": "News",
-   "text": "'An Incredible Guy': Trump Praises Tim Cook Following News Of His Departure From CEO Role - AOL.com \u2014 'An Incredible Guy': Trump Praises Tim Cook Following News Of His Departure From CEO Role\u00a0\u00a0AOL.com",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMEY2eUoyMVQwVS1lVWNOMGl2MVkzWkY1Y1RvbE9EanBTQUpwYXZBb3hxbk13NDlxT09mRDdIMzNBb0lKNlV5WUIydFJ4NkNHMFJjMGRFQzA3QXJWQW1aUDd6WU9KNzkzOVM1UU9CczdGNXdKS1Fud2RlbjNLekJPV0VR?oc=5",
-   "tickers": [
-    "AAPL"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "AAPL",
-   "strength": 65,
-   "reason": "Trump explicitly praises Tim Cook and Apple amid CEO transition; positive signal for AAPL",
-   "price_since": {
-    "ticker": "AAPL",
-    "pct": -2.6,
-    "base": 311.23,
-    "last": 303.04,
     "base_date": "2026-06-04",
     "last_date": "2026-06-08"
    }
@@ -2540,23 +2612,6 @@
    "primary_ticker": "HON",
    "strength": 76,
    "reason": "Honeywell awarded $17.4B federal DOE contract; large bullish signal for diversified aerospace/defense conglomerate"
-  },
-  {
-   "date": "2011-12-23T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "LEIDOS, INC. was awarded a $3.1B federal contract from National Science Foundation.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_NSFDACS1219442_4900_-NONE-_-NONE-",
-   "tickers": [
-    "LDOS"
-   ],
-   "contract_amount": 3.09,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "LDOS",
-   "strength": 75,
-   "reason": "Leidos awarded $3.1B federal NSF contract; bullish for defense/technology services contractor"
   }
  ],
  "how_to_read": "Each card is Claude's read of a public Trump post: the affected ticker, whether it implies BUY / SELL / WATCH, a 0\u2013100 strength (how explicit/emphatic the post is \u2014 NOT a profit predictor), and why. A 2-year backtest found these don't beat buy-and-hold, so this is for awareness, not trading. Not financial advice."
