@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-06-10T21:28:50Z",
+ "last_updated": "2026-06-10T23:10:44Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -196,6 +196,22 @@
    "primary_ticker": "TCNNF",
    "strength": 35,
    "reason": "Trulieve NYSE listing milestone for cannabis sector; legitimacy signal"
+  },
+  {
+   "date": "2026-06-10T10:21:59Z",
+   "platform": "News",
+   "text": "Nancy Pelosi stock tracker flags Dell's $9.7 billion Pentagon win weeks after Trump praised the company \u2014 shares surge 48% in a month - MSN \u2014 Nancy Pelosi stock tracker flags Dell's $9.7 billion Pentagon win weeks after Trump praised the company \u2014 shares surge 48% in a month\u00a0\u00a0MSN",
+   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOVmxhWTlhdVlqRFRyN1k1djVmN01XYjBJb0JFczhvUEV1d2pJLUlZYXN2M0x4enFfejAzcmFnanNrZVJXUkI4VVl0TzBXNXJxRnV2algyZW9XQ0FpZllSV3RVRE1DWHNmYWlZR0RkS2FRX2JXVUIzbHZlbk9PMzE2bjNnS2I0NnNBOENjYUhEaUpGYkhZczI4am40NU1nQ2NmNXR3Vk5PYmpxQkdLaVBtLXZpbGxIUWM4R3g5Z3Q5Qi1Kdk1UT0EydEJISWRyN0w2dGtJZTJ5V05PSjhCMDB1MHVIWXBqT3E5b09xOG0tRC16X0tHYS1yU3ZzMjJYVXpfakUxbURudHVEQQ?oc=5",
+   "tickers": [
+    "DELL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "DELL",
+   "strength": 85,
+   "reason": "Trump praised Dell; company awarded $9.7B Pentagon federal contract and stock surged 48%, strong bullish catalyst"
   },
   {
    "date": "2026-06-10T08:12:17Z",
@@ -1552,30 +1568,6 @@
    "reason": "Trump owns ~$5M in surging AI stock (unnamed); personal holding, no explicit call to action or named ticker"
   },
   {
-   "date": "2026-06-03T17:21:48Z",
-   "platform": "News",
-   "text": "Nancy Pelosi stock tracker flags Dell's $9.7 billion Pentagon win weeks after Trump praised the company \u2014 shares surge 48% in a month - MSN \u2014 Nancy Pelosi stock tracker flags Dell's $9.7 billion Pentagon win weeks after Trump praised the company \u2014 shares surge 48% in a month\u00a0\u00a0MSN",
-   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOVmxhWTlhdVlqRFRyN1k1djVmN01XYjBJb0JFczhvUEV1d2pJLUlZYXN2M0x4enFfejAzcmFnanNrZVJXUkI4VVl0TzBXNXJxRnV2algyZW9XQ0FpZllSV3RVRE1DWHNmYWlZR0RkS2FRX2JXVUIzbHZlbk9PMzE2bjNnS2I0NnNBOENjYUhEaUpGYkhZczI4am40NU1nQ2NmNXR3Vk5PYmpxQkdLaVBtLXZpbGxIUWM4R3g5Z3Q5Qi1Kdk1UT0EydEJISWRyN0w2dGtJZTJ5V05PSjhCMDB1MHVIWXBqT3E5b09xOG0tRC16X0tHYS1yU3ZzMjJYVXpfakUxbURudHVEQQ?oc=5",
-   "tickers": [
-    "DELL"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "DELL",
-   "strength": 75,
-   "reason": "Trump praised Dell weeks before $9.7B Pentagon contract award; stock surged 48%; explicit link between Trump endorsement and major federal contract",
-   "price_since": {
-    "ticker": "DELL",
-    "pct": -6.3,
-    "base": 421.08,
-    "last": 394.39,
-    "base_date": "2026-06-03",
-    "last_date": "2026-06-05"
-   }
-  },
-  {
    "date": "2026-06-03T15:58:05Z",
    "platform": "News",
    "text": "Trump admin. endorses D-Wave's 2nd quantum approach: CEO explains - Yahoo Finance \u2014 Trump admin. endorses D-Wave's 2nd quantum approach: CEO explains\u00a0\u00a0Yahoo Finance",
@@ -2679,38 +2671,6 @@
    "primary_ticker": "DELL",
    "strength": 95,
    "reason": "Trump explicitly told Americans to 'buy a Dell'; followed by $9.7B Pentagon contract award to Dell"
-  },
-  {
-   "date": "2026-05-31T04:04:49Z",
-   "platform": "News",
-   "text": "Jamie Dimon Warns Inflation Ticking Up Is 'Not Good' \u2014 Praises Trump's 'One Big Beautiful Bill,' Deregulation Push To Stimulate Economic Growth - Stocktwits \u2014 Jamie Dimon Warns Inflation Ticking Up Is 'Not Good' \u2014 Praises Trump's 'One Big Beautiful Bill,' Deregulation Push To Stimulate Economic Growth\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNT0doNFRsMDktVlctR3pFZkNTc2g5WUNfanZvQktOVkdOTkRsQmZPdGZpSmVCQ3dlY1l1VXdQekRaNmg5VFhCQjAtLUd0czB5X0RGdTVPNEs5VUxOQ2Y0Vk9LU00wdDlKQ3hYekEySzRXVWlsajl3RHpESVV3SUdObTVlNlZ1UnJJSHVXb2thclRfaGlPLWNHY2JzczlfTWhKeUlBS3EyTlg3SXRpQ19mSWhGNnZkWjI0eWYydmNUNl9aTDB1Y2hzWFdMT05CanFLVkVZa2Zsc05MUQ?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "SPY",
-   "strength": 60,
-   "reason": "Jamie Dimon praises Trump's deregulation push and economic stimulus; macro-bullish signal for broad market."
-  },
-  {
-   "date": "2026-05-30T18:47:00Z",
-   "platform": "News",
-   "text": "Abby Phillip Shocked By Dell's Surge Since Trump Bought It - Mediaite \u2014 Abby Phillip Shocked By Dell's Surge Since Trump Bought It\u00a0\u00a0Mediaite",
-   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPdFJEbnhOYmZsdlNGNHZPSHZhRDNabzFTRVdYMjduMi1id2NmeE5iYmgwM3BSOVM0M0F4d2hDMFlaSWJHcG44R3V5eW1DN2VQazJzQXA4N3E2NGFDM3J0WUtNajItX2pEdk0tcW11WGVWb0lGNFQ5RDVxSVQ1OVJQR0ZFTDhURERfaHNuWlNyb0lUUDVNNEpDNFo2ZExWZmhBRkJfNWVReHZsRWxFR2pvOGktd2wtSnJqSjhwSDF5NjJoRV8tZTJHZnhZYlExVjdrTDUxb0hRN2ZmT3M5OVJEdXF4bDJzdWs?oc=5",
-   "tickers": [
-    "DELL"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "DELL",
-   "strength": 85,
-   "reason": "Trump's stock purchase and praise of Dell correlates with major stock surge; confirms bullish positioning."
   },
   {
    "curated": true,
