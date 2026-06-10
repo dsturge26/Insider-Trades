@@ -1,7 +1,56 @@
 {
- "last_updated": "2026-06-10T16:21:52Z",
+ "last_updated": "2026-06-10T19:11:19Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-06-10T17:50:24.111Z",
+   "platform": "Truth Social",
+   "text": "Last month, I directed our Great U.S. Military to execute a secret mission to support Oil Tankers and other Commercial Ships through the Strait of Hormuz. Today, I am pleased to announce that this effort has resulted in more than 100 MILLION Barrels of Oil making its way through the Strait, and into the Open Market. More than 200 Commercial Ships have safely traveled through the Strait. This wildly successful effort is because the UNITED STATES of AMERICA CONTROLS the Strait of Hormuz \u2014 NOT Iran. Their military is defeated, and their economy is lost. It's over for Iran! Thank you for your attention to this matter. President DONALD J. TRUMP",
+   "tickers": [
+    "XLE"
+   ],
+   "engagement": 17943,
+   "url": "https://truthsocial.com/@realDonaldTrump/116727075577305840",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "XLE",
+   "strength": 65,
+   "reason": "US naval control of Hormuz securing oil supply \u2192 bullish for oil sector"
+  },
+  {
+   "date": "2026-06-10T17:34:22Z",
+   "platform": "News",
+   "text": "Is President Trump about to buy a stake in OpenAI? - MSN \u2014 Is President Trump about to buy a stake in OpenAI?\u00a0\u00a0MSN",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbVd4UmRCV2phNkxxNWNqTFZUZnA0cFVIWWhRTGpyRUN5LUptTGVHdEd2R19aWWxXVE5HVEhiekNHNFg2c2x0b1R4aDVmZ091T3pIU2dmRkhjNFFaN0VsY29CNDVOQ1BqU1NaVDR1UjZCMHNjT1NjRlJKUVk5bHRZUVR0MU5mVGtrNGhETVRPeXRhUmlkbGVhVWRFejRtWmdXQzdN?oc=5",
+   "tickers": [
+    "MSFT"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "MSFT",
+   "strength": 35,
+   "reason": "Rumor of Trump stake in OpenAI (Microsoft-backed) \u2192 ambiguous, unconfirmed"
+  },
+  {
+   "date": "2026-06-10T16:29:00Z",
+   "platform": "News",
+   "text": "Trump Praises Citigroup Bankers in Post: \u2018They\u2019ve Worked Really Hard!\u2019 - Barron's \u2014 Trump Praises Citigroup Bankers in Post: \u2018They\u2019ve Worked Really Hard!\u2019\u00a0\u00a0Barron's",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOd1dIZ25UQmxPY0NaSjRVQ3dBbG5LbW93cmxqcWs1UEJZT0tMQll0cWUzalM0UG0zZFVQajVGenNST2Y4R3hZZ3c2M0k3U3gwUF96V1BxVk9XMTNjX0theUdYYmZCeVZQRVFpU2dUNVBVWDR1MnNYRUR6U0RqVFQ3RmIwckZCNTg?oc=5",
+   "tickers": [
+    "C"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "C",
+   "strength": 70,
+   "reason": "Trump explicitly praises Citigroup bankers and M&A performance"
+  },
   {
    "date": "2026-06-10T13:42:28Z",
    "platform": "News",
@@ -35,6 +84,22 @@
    "reason": "Trump praised Citigroup's M&A performance and rankings, positive signal for the bank."
   },
   {
+   "date": "2026-06-10T13:37:17Z",
+   "platform": "News",
+   "text": "Citi stock rises after Trump praises M&A performance - Investing.com \u2014 Citi stock rises after Trump praises M&A performance\u00a0\u00a0Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMTBTUXR3UDQxcV93RVd2MWQxakdzLVVRQldqa2VsVnhrNzNkY2pNRWlveU9RQVE4UHhDU3NKNDM0ME5mRUVqVXVBc0p4OHJDZUdJSGZ4Tk9Wcy1Sc0tXVFVFQTBPUXlxUGJXVGZVSnE4Nm5XV0dWaW13MzJlc0tYOVlrZzJLMzJlSVNkRFFxSS1ZN0Y4RUYwcGdISi1pblR5RzlqdzZnT1VSamhQTEQ1V2RNdw?oc=5",
+   "tickers": [
+    "C"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "C",
+   "strength": 75,
+   "reason": "Trump praises Citi's M&A performance; stock already rising on the praise"
+  },
+  {
    "date": "2026-06-10T13:30:58.894Z",
    "platform": "Truth Social",
    "text": "Wow! CITI was ranked Number 1 in topping M&A Advisory Market by Value in Q1. Congratulations to Jane F and ALL of her great people. They've worked really hard! BIG comeback for CITI!!! President DONALD J. TRUMP",
@@ -50,6 +115,22 @@
    "primary_ticker": "C",
    "strength": 80,
    "reason": "Trump explicitly praised Citi's #1 M&A ranking with emphatic language (!!!), direct endorsement."
+  },
+  {
+   "date": "2026-06-10T11:46:12Z",
+   "platform": "News",
+   "text": "Trump praises US naval blockade, says Iran is becoming a 'failed nation': 'IT IS A STEEL WALL!' - Moneycontrol.com \u2014 Trump praises US naval blockade, says Iran is becoming a 'failed nation': 'IT IS A STEEL WALL!'\u00a0\u00a0Moneycontrol.com",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNWEVHVE5mZ0tkRFFibE5HU1JkOTk5bzVoMlZCNUlBYWUtR1RHUHNqbDJpb2xFNThUYXBRRlNjclEtNlhLanJSVVlTZ2JrcUtKUGpqRnZrdTAxWml0ZnNYaTdvYnZnVjNXLUlqT0xRcHZuV2wyV1NoMFctR2R6NFk5QmdqN0s0R2M0RDIxVEFvbnBNRGpCQW96YTBjdl8ta3gwbDQ0azRvVHRLVkNQWHBub1lEZGdUbVZESUdzRURGQjl5VWtWcGRrTHp1bHdqNGtfNWp6REhmMEYzQ0pKNm1Sdm1sRQ?oc=5",
+   "tickers": [
+    "XLE"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "XLE",
+   "strength": 60,
+   "reason": "Naval blockade securing Middle East oil supply \u2192 bullish for energy"
   },
   {
    "date": "2026-06-10T11:32:52.931Z",
@@ -101,6 +182,22 @@
    "reason": "Meta AI academy praised by Trump adviser; positive optic for AI/workforce strategy"
   },
   {
+   "date": "2026-06-10T08:12:00Z",
+   "platform": "News",
+   "text": "Meta's AI Workforce Academy Wins Praise From Former Trump Adviser, Ex-Facebook Exec: 'Hope More Companies Follow Suit' - Stocktwits \u2014 Meta's AI Workforce Academy Wins Praise From Former Trump Adviser, Ex-Facebook Exec: 'Hope More Companies Follow Suit'\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQU0E4QWNsTjlROXIwRTIyVHZyMTlHNHhxUndrNjlLbUxOajU2MEZIRFhHeE9xd2ZRdm9IQVMzdHlEMmU4NVBwckpvbEkyWURKRXFHMlR4Z0VWVk5qMGstTFNtVTZSNWpqVS0wWkZ3WTdEaktTd3FMUHlTRjc2M3UwZlpDY1NjeG5FZ2s2bDJVeGJiVjgwWXIzdVVOS0FhQ2E0WjNUMDIzY1ppOTdJNTJkanBEMjFzRUVzb2RBS1czdXZXVWoyb0xLcl9ycl81NG1zd0lNT0NRUmVMZVgyblRkTVlXU1ZUTENRdkJBQzdhU0VuSG9HN19jeFNna0NRVlVUN2E1blhrY0U5Zw?oc=5",
+   "tickers": [
+    "META"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "META",
+   "strength": 30,
+   "reason": "Praise of Meta's AI program from Trump adviser \u2192 modest positive signal, not direct Trump endorsement"
+  },
+  {
    "date": "2026-06-09T19:39:55Z",
    "platform": "News",
    "text": "Dell lands $10 billion contract weeks after Trump\u2019s $1 million-to-$5 million stock purchase - MSN \u2014 Dell lands $10 billion contract weeks after Trump\u2019s $1 million-to-$5 million stock purchase\u00a0\u00a0MSN",
@@ -117,9 +214,9 @@
    "reason": "Dell awarded $10B federal contract; Trump personal stake amplifies bullish signal",
    "price_since": {
     "ticker": "DELL",
-    "pct": 0.5,
+    "pct": -2.0,
     "base": 381.78,
-    "last": 383.73,
+    "last": 374.3,
     "base_date": "2026-06-09",
     "last_date": "2026-06-10"
    }
@@ -141,9 +238,9 @@
    "reason": "Iran deal evocation eases geopolitical tension, oil falls slightly; ambiguous on direction (deal could be bullish long-term or near-term bearish for oil).",
    "price_since": {
     "ticker": "XLE",
-    "pct": 2.4,
+    "pct": 2.1,
     "base": 57.39,
-    "last": 58.74,
+    "last": 58.58,
     "base_date": "2026-06-09",
     "last_date": "2026-06-10"
    }
@@ -165,9 +262,9 @@
    "reason": "Trump praised IBM CEO as legend; government floated $1B quantum award to IBM",
    "price_since": {
     "ticker": "IBM",
-    "pct": -0.6,
+    "pct": -1.3,
     "base": 277.49,
-    "last": 275.79,
+    "last": 273.83,
     "base_date": "2026-06-09",
     "last_date": "2026-06-10"
    }
@@ -189,9 +286,9 @@
    "reason": "Trump praised IBM CEO as 'legend' and government floated $1B quantum award to IBM",
    "price_since": {
     "ticker": "IBM",
-    "pct": -0.6,
+    "pct": -1.3,
     "base": 277.49,
-    "last": 275.79,
+    "last": 273.83,
     "base_date": "2026-06-09",
     "last_date": "2026-06-10"
    }
@@ -213,9 +310,9 @@
    "reason": "Trump signals support for Palantir, driving retail interest and stock recovery",
    "price_since": {
     "ticker": "PLTR",
-    "pct": 0.1,
+    "pct": -1.2,
     "base": 132.07,
-    "last": 132.14,
+    "last": 130.55,
     "base_date": "2026-06-09",
     "last_date": "2026-06-10"
    }
@@ -253,9 +350,9 @@
    "reason": "Trump holds stake in ServiceNow and stock rises on news; explicit ownership creates direct bullish signal for NOW.",
    "price_since": {
     "ticker": "NOW",
-    "pct": 2.0,
+    "pct": -0.1,
     "base": 106.97,
-    "last": 109.16,
+    "last": 106.89,
     "base_date": "2026-06-09",
     "last_date": "2026-06-10"
    }
@@ -277,9 +374,9 @@
    "reason": "Stock rally coincides with Trump SOTU but no specific catalyst stated",
    "price_since": {
     "ticker": "IBRX",
-    "pct": -1.9,
+    "pct": -3.0,
     "base": 7.25,
-    "last": 7.11,
+    "last": 7.03,
     "base_date": "2026-06-09",
     "last_date": "2026-06-10"
    }
@@ -301,9 +398,9 @@
    "reason": "Trump explicitly urged buying Dell stock; historical reference to his past recommendation",
    "price_since": {
     "ticker": "DELL",
-    "pct": -4.3,
+    "pct": -6.6,
     "base": 400.77,
-    "last": 383.58,
+    "last": 374.3,
     "base_date": "2026-06-08",
     "last_date": "2026-06-10"
    }
@@ -325,9 +422,9 @@
    "reason": "IBM stock surge likely tied to Trump's prior CEO praise and quantum contract rumors",
    "price_since": {
     "ticker": "IBM",
-    "pct": -1.8,
+    "pct": -2.5,
     "base": 280.82,
-    "last": 275.79,
+    "last": 273.83,
     "base_date": "2026-06-08",
     "last_date": "2026-06-10"
    }
@@ -349,9 +446,9 @@
    "reason": "Trump endorsement caused stock recovery; Michael Burry remains short\u2014conflicting signals, ambiguous near-term direction",
    "price_since": {
     "ticker": "PLTR",
-    "pct": -3.2,
+    "pct": -4.3,
     "base": 136.47,
-    "last": 132.14,
+    "last": 130.55,
     "base_date": "2026-06-08",
     "last_date": "2026-06-10"
    }
@@ -373,9 +470,9 @@
    "reason": "Trump considering US gov't stake in AI companies; tech-sector bullish policy signal.",
    "price_since": {
     "ticker": "QQQ",
-    "pct": -2.4,
+    "pct": -2.9,
     "base": 716.07,
-    "last": 698.65,
+    "last": 695.45,
     "base_date": "2026-06-08",
     "last_date": "2026-06-10"
    }
@@ -397,9 +494,9 @@
    "reason": "Trump effect on IBM stock after calling CEO a 'legend'; positive momentum continues",
    "price_since": {
     "ticker": "IBM",
-    "pct": -1.8,
+    "pct": -2.5,
     "base": 280.82,
-    "last": 275.79,
+    "last": 273.83,
     "base_date": "2026-06-08",
     "last_date": "2026-06-10"
    }
@@ -421,9 +518,9 @@
    "reason": "Trump praises Xi and US-China ties; suggests de-escalation and potential trade deal, bullish for China-exposed stocks",
    "price_since": {
     "ticker": "FXI",
-    "pct": 0.7,
+    "pct": 0.4,
     "base": 34.68,
-    "last": 34.93,
+    "last": 34.81,
     "base_date": "2026-06-08",
     "last_date": "2026-06-10"
    }
@@ -445,9 +542,9 @@
    "reason": "AI bubble fear and global stock selloff ahead of SpaceX IPO signals tech sector pressure",
    "price_since": {
     "ticker": "QQQ",
-    "pct": -2.4,
+    "pct": -2.9,
     "base": 716.07,
-    "last": 698.65,
+    "last": 695.45,
     "base_date": "2026-06-08",
     "last_date": "2026-06-10"
    }
@@ -469,9 +566,9 @@
    "reason": "Trump praise of IBM CEO drives stock surge; explicit endorsement by sitting president",
    "price_since": {
     "ticker": "IBM",
-    "pct": -1.8,
+    "pct": -2.5,
     "base": 280.82,
-    "last": 275.79,
+    "last": 273.83,
     "base_date": "2026-06-08",
     "last_date": "2026-06-10"
    }
@@ -493,9 +590,9 @@
    "reason": "IBM overnight surge likely tied to Trump's prior praise and policy support; bullish momentum",
    "price_since": {
     "ticker": "IBM",
-    "pct": -1.8,
+    "pct": -2.5,
     "base": 280.82,
-    "last": 275.79,
+    "last": 273.83,
     "base_date": "2026-06-08",
     "last_date": "2026-06-10"
    }
@@ -517,9 +614,9 @@
    "reason": "Retail traders eye BlackBerry on QNX/Physical AI catalyst; direction unclear on fundamentals",
    "price_since": {
     "ticker": "BB",
-    "pct": -3.8,
+    "pct": -3.9,
     "base": 9.29,
-    "last": 8.94,
+    "last": 8.93,
     "base_date": "2026-06-08",
     "last_date": "2026-06-10"
    }
@@ -541,9 +638,9 @@
    "reason": "Trump praises Tim Cook by name following his departure; ambiguous whether praise or commentary on transition",
    "price_since": {
     "ticker": "AAPL",
-    "pct": -3.5,
+    "pct": -2.9,
     "base": 301.54,
-    "last": 290.95,
+    "last": 292.84,
     "base_date": "2026-06-08",
     "last_date": "2026-06-10"
    }
@@ -565,33 +662,9 @@
    "reason": "100% tariff on imported patented drugs incentivizes onshoring and price cuts; mixed effect (tariff pain vs. competitive advantage for US pharma)",
    "price_since": {
     "ticker": "XBI",
-    "pct": 1.2,
+    "pct": 0.7,
     "base": 128.43,
-    "last": 129.93,
-    "base_date": "2026-06-08",
-    "last_date": "2026-06-10"
-   }
-  },
-  {
-   "date": "2026-06-07T18:39:39Z",
-   "platform": "News",
-   "text": "Is President Trump about to buy a stake in OpenAI? - MSN \u2014 Is President Trump about to buy a stake in OpenAI?\u00a0\u00a0MSN",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTjJRY1A0Y3FFekJhdGlvSzBnQTFjZDhBVW1wd1U1WDRPRDIwREwySzMtM0I5cWthUUIwRDFnOHY0N1FIak5zSlJLYzQtU0l3SzgzTzBNckpUS0tTRFF3UmFIdTNyQzlEZzF4bU1kMm1mZjNvTTVuNXc3ZDNBdEp6Vkl3QUdFRlZFRGlsT1pMd0Z6elZGaTBXQ0VyTm1xMi1VQWdNcEhaQzFUMDJDazBQcjY1TXY2UHczM1gydXgweWo5RVJ4emc?oc=5",
-   "tickers": [
-    "MSFT"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "MSFT",
-   "strength": 25,
-   "reason": "Speculation about Trump stake in OpenAI (Microsoft-backed) but no confirmed transaction or direct endorsement",
-   "price_since": {
-    "ticker": "MSFT",
-    "pct": -2.2,
-    "base": 411.74,
-    "last": 402.81,
+    "last": 129.27,
     "base_date": "2026-06-08",
     "last_date": "2026-06-10"
    }
@@ -613,9 +686,9 @@
    "reason": "Trump explicitly told Americans to buy Dell while holding it; direct endorsement of specific public company",
    "price_since": {
     "ticker": "DELL",
-    "pct": -4.3,
+    "pct": -6.6,
     "base": 400.77,
-    "last": 383.42,
+    "last": 374.3,
     "base_date": "2026-06-08",
     "last_date": "2026-06-10"
    }
@@ -2670,54 +2743,6 @@
    "primary_ticker": "TKO",
    "strength": 65,
    "reason": "Trump bought stock in UFC parent (TKO) while promoting it publicly; potential pump-and-dump concern but bullish signal."
-  },
-  {
-   "date": "2026-05-29T23:45:26Z",
-   "platform": "News",
-   "text": "Dell wins $9.7 bn Pentagon deal weeks after Trump endorses it | The shares of company rose on announcement | Inshorts - Inshorts \u2014 Dell wins $9.7 bn Pentagon deal weeks after Trump endorses it | The shares of company rose on announcement | Inshorts\u00a0\u00a0Inshorts",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQd0ZINmRNOGN0WVZFSUpiVU9rMlEzOFVKaVRFR2N0RHBKTzFMajViRjk1dmZWdWVlRFhKeXpYUm4tSTJHU0ZCVTZab0hLM08zWk1qeDU5dy1YV2VtdmpFQ3htVmpUVlRYdGZKUFFvbmREbnZwR2RKSExobE1RNEhaQmpfamt2V1BqVk1rU3IzSWUxWEtvdUg5OHp1blZBaXBBUi1uZDFTc9IBrAFBVV95cUxQcnVwdlBSLUptZjRtaE5hTmFBVWxGcW1maDFjSE5Sc09iQW02Z3VmbG5FY0ZTN2RtQjVqVHpkdXVnbFVXUkF4Q0o3WFlrWWhMdk5LRFhEQTRCQ1JUWXR1S3NDNG5hQkpZT2l0ZkU3WnlHRlFXTXJIeG1tOUpUNlVXNnRWOVIyN01pZVkyODNPWFJlZG1HNWR4TE5LenNmLVJCNmJ6UWNqdElqZXZL?oc=5",
-   "tickers": [
-    "DELL"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "DELL",
-   "strength": 80,
-   "reason": "Dell wins $9.7B Pentagon contract weeks after Trump endorsement; shares rose"
-  },
-  {
-   "date": "2026-05-29T22:10:48Z",
-   "platform": "News",
-   "text": "Donald Trump Allegedly Purchased Millions in Dell Stock Just Weeks Before It Was Awarded $9.7B Pentagon Contract - International Business Times UK \u2014 Donald Trump Allegedly Purchased Millions in Dell Stock Just Weeks Before It Was Awarded $9.7B Pentagon Contract\u00a0\u00a0International Business Times UK",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcTY2Vm9EWEtlMWxiTEU1bWt5bnh6YTM3QUdfb0p6MnowdWdDWlpYa0FXNHc1TG9yVHh0WENxbDhrYkRZUGxpWXBCWXo1aFA1WGFNcTZYY3UwTWxocUZ6VGlkaDlLTFhXeDZRbUMxYUxkV1NzVWsxWXZCOGhxa29SVg?oc=5",
-   "tickers": [
-    "DELL"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "DELL",
-   "strength": 75,
-   "reason": "Trump stock purchase + major Pentagon contract award is bullish signal for Dell"
-  },
-  {
-   "date": "2026-05-29T21:56:33.815Z",
-   "platform": "Truth Social",
-   "text": "It is my Great Honor to endorse MAGA Warrior, Mike Mazzei, who is running for Governor of Oklahoma, a State which I love, and WON BIG \u2014 All 77 out of 77 Counties in 2016, 2020, and 2024, and with the Highest Popular Vote Count, EVER!As a successful Businessman, and former Chairman of the State Senate Finance Committee, and later, as Oklahoma's Secretary of Budget, Mike knows the AMERICA FIRST Policies required to Grow our Economy, Create GREAT Jobs, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., and Unleash American Energy DOMINANCE. As your next Governor, Mike will fight tirelessly to Support our Amazing Farmers and Ranchers, Keep our Border SECURE, Stop Migrant Crime, Ensure LAW AND ORDER, Strengthen our Military/Veterans, and Defend our always under siege Second Amendment.Mike Mazzei has my Complete and Total Endorsement to be the next Governor of Oklahoma \u2014 HE WILL NEVER LET YOU DOWN!",
-   "tickers": [
-    "XLE"
-   ],
-   "engagement": 15045,
-   "url": "https://truthsocial.com/@realDonaldTrump/116660095799513934",
-   "classified": true,
-   "is_market": true,
-   "direction": "BUY",
-   "primary_ticker": "XLE",
-   "strength": 25,
-   "reason": "AMERICA FIRST policy endorsement with energy dominance emphasis supporting energy sector"
   },
   {
    "curated": true,
