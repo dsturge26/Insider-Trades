@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-06-10T04:52:09Z",
+ "last_updated": "2026-06-10T08:49:35Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -17,6 +17,22 @@
    "primary_ticker": "XLE",
    "strength": 35,
    "reason": "Iran deal evocation eases geopolitical tension, oil falls slightly; ambiguous on direction (deal could be bullish long-term or near-term bearish for oil)."
+  },
+  {
+   "date": "2026-06-09T11:20:12Z",
+   "platform": "News",
+   "text": "Trump praised IBM's 'legend' CEO, government floated a $1B quantum award \u2014 is the stock still a 'very nice price'? - AOL.com \u2014 Trump praised IBM's 'legend' CEO, government floated a $1B quantum award \u2014 is the stock still a 'very nice price'?\u00a0\u00a0AOL.com",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1ydkNBTmkzRktWdUtNQ1l2SnhJS3RqVUE1dEFWNnc5OENVUjRrMGl1Qy1XSlRsWXR3c1ItbjZuMkhEcElSU0hHLVo5aXdyQk9TZDV4ak9XemlNcWU4RXd3TlBKSGhibkEzeTFaMXh3bUdzLVI4Sm53WVhMcWU?oc=5",
+   "tickers": [
+    "IBM"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "IBM",
+   "strength": 75,
+   "reason": "Trump praised IBM CEO as legend; government floated $1B quantum award to IBM"
   },
   {
    "date": "2026-06-09T11:15:00Z",
@@ -227,6 +243,22 @@
    "reason": "IBM overnight surge likely tied to Trump's prior praise and policy support; bullish momentum"
   },
   {
+   "date": "2026-06-08T06:27:45Z",
+   "platform": "News",
+   "text": "BB Stock To $10? Retail Traders Eye New Highs On QNX, Physical AI Boost - Stocktwits \u2014 BB Stock To $10? Retail Traders Eye New Highs On QNX, Physical AI Boost\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQlo3d1dSS0NHNUhSeER4LWR5di1DRFJLU2lsRWcyNlBUR2Q0TUh2MHdRcU1wZllORzVRZTkzZ0FJajRwVlEyVXBBZUZrMi1aR1hpS2dXamlRNkVSUDJXekNFRmF3TUVvVUVweFVmOEVZMUpNb1A3a2ptOHFVYkNnU3VXcWZoR0N1SnloRVpMTXMzSXRWak1rTkhoWFRwUk9iYkJ1NkJEbEstb1Z1S0dJMm5ESVRzbWZqd0FGd2xtNjRrSnRU?oc=5",
+   "tickers": [
+    "BB"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "BB",
+   "strength": 45,
+   "reason": "Retail traders eye BlackBerry on QNX/Physical AI catalyst; direction unclear on fundamentals"
+  },
+  {
    "date": "2026-06-08T05:15:25Z",
    "platform": "News",
    "text": "'An Incredible Guy': Trump Praises Tim Cook Following News Of His Departure From CEO Role - AOL.com \u2014 'An Incredible Guy': Trump Praises Tim Cook Following News Of His Departure From CEO Role\u00a0\u00a0AOL.com",
@@ -353,6 +385,22 @@
    "primary_ticker": "MSFT",
    "strength": 25,
    "reason": "Speculation on Trump stake in OpenAI; no confirmation; OpenAI majority-backed by Microsoft"
+  },
+  {
+   "date": "2026-06-07T13:30:20Z",
+   "platform": "News",
+   "text": "Liz Landers on Trump\u2019s Dell trade spree, and the gains behind it - \u0634\u0628\u0643\u0629 \u062a\u0648\u0627\u0635\u0644 \u0627\u0644\u0625\u062e\u0628\u0627\u0631\u064a\u0629 \u2014 Liz Landers on Trump\u2019s Dell trade spree, and the gains behind it\u00a0\u00a0\u0634\u0628\u0643\u0629 \u062a\u0648\u0627\u0635\u0644 \u0627\u0644\u0625\u062e\u0628\u0627\u0631\u064a\u0629",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0wVE9qd3BqeFpQbnhUNE1sRnZPNnJ2UGJDUXp6ZHZ5b3RzOTdjVzFxQWRfR1dWVFk4Ri1GN2NXQi1lbFRjRGV4Mkhrd3NpZFNsTHNn?oc=5",
+   "tickers": [
+    "DELL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "DELL",
+   "strength": 75,
+   "reason": "Trump's Dell stock trading spree with gains; implies bullish conviction"
   },
   {
    "date": "2026-06-07T13:15:39Z",
@@ -1987,30 +2035,6 @@
    "primary_ticker": "IBM",
    "strength": 85,
    "reason": "Video of Trump praising IBM CEO and stock discussion; explicit positive endorsement",
-   "price_since": {
-    "ticker": "IBM",
-    "pct": 2.7,
-    "base": 320.42,
-    "last": 329.23,
-    "base_date": "2026-06-01",
-    "last_date": "2026-06-02"
-   }
-  },
-  {
-   "date": "2026-06-01T10:26:47Z",
-   "platform": "News",
-   "text": "Trump praised IBM's 'legend' CEO, government floated a $1B quantum award \u2014 is the stock still a 'very nice price'? - AOL.com \u2014 Trump praised IBM's 'legend' CEO, government floated a $1B quantum award \u2014 is the stock still a 'very nice price'?\u00a0\u00a0AOL.com",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9lbVhOZ2ZNWVhubHhEMDFpV2wzYm42SWM5SzZMSnFxMEVoQUE4NzE4S0tYVm1wcXpFZ3VFSEFFUGlUQ3EyTHVTOUJxeWVVMDBCSFRPMEQ4SllhMVM4MDkySUJJcmZUZEJLclozWVAtOWNkVEZzWVhCOGExVWE?oc=5",
-   "tickers": [
-    "IBM"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "IBM",
-   "strength": 72,
-   "reason": "Trump praised IBM CEO as 'legend' and government floated $1B quantum contract award to IBM",
    "price_since": {
     "ticker": "IBM",
     "pct": 2.7,
