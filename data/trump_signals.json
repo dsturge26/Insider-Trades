@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-06-09T22:53:35Z",
+ "last_updated": "2026-06-10T00:14:31Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -35,6 +35,22 @@
    "reason": "Trump praised IBM CEO as 'legend' and government floated $1B quantum award to IBM"
   },
   {
+   "date": "2026-06-09T10:57:12Z",
+   "platform": "News",
+   "text": "PLTR Stock Faces Split Narrative: Retail Bulls Hold Firm As Burry Sounds Alarm, Trump Signals Support - Stocktwits \u2014 PLTR Stock Faces Split Narrative: Retail Bulls Hold Firm As Burry Sounds Alarm, Trump Signals Support\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSFRDSVNMdHk3NEtMbFEwQ1ZRT2tLY3h1cEFvOTVjb182Qm1QUnVqTlE2dWhzYXZpaXBoN3gyNlg4dWVWY0dldndhRDZoOGE2N2ZSMTgxb1Ayb0RWanA3a0hEeEhKWGtYRENBSGZ0d0wySmlrSWpzM1BmcXZpTUdDOXcwMVl0NXVKYjMyOEFvYmVpYk9uOVRSaWdleVNEQnZkZk1tUE5vRURtNjdubE0wTUhLSFFUbGc3OUs5UVpJQXhVTHdZLTdLTmZDQVkxMUVwd3c?oc=5",
+   "tickers": [
+    "PLTR"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "PLTR",
+   "strength": 55,
+   "reason": "Trump signals support for Palantir, driving retail interest and stock recovery"
+  },
+  {
    "date": "2026-06-09T10:54:31Z",
    "platform": "News",
    "text": "Dell lands $10 billion contract weeks after Trump\u2019s $1 million-to-$5 million stock purchase - MSN \u2014 Dell lands $10 billion contract weeks after Trump\u2019s $1 million-to-$5 million stock purchase\u00a0\u00a0MSN",
@@ -49,6 +65,22 @@
    "primary_ticker": "DELL",
    "strength": 85,
    "reason": "$10B federal contract awarded to Dell after Trump's $1M\u2013$5M stock purchase; direct company-to-contract link."
+  },
+  {
+   "date": "2026-06-09T10:27:17Z",
+   "platform": "News",
+   "text": "Under the Trump crypto playbook, the family always wins. Investors don\u2019t - Reuters \u2014 Under the Trump crypto playbook, the family always wins. Investors don\u2019t\u00a0\u00a0Reuters",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcUpmc096bllHcUstWFZXT0hnMnEzRTVvSFY4QURZcWwzcWpQV1dQWktHWC15SHNrSjBSOUZBYy1sUFZ2UmxwaHdEd2gybm90YWs2R19LdlFCRTB0Vzdua0UxSXJ5WjFGY0lydW0xcGtMU0ZXZzUtRFRid2FyTWptQmJmTU1mcEdVUEw2RkIzeXJIUFJ5dHlMUHIzRG51TWtWdVBoM1R2RHYwQ0xvRnR4cDRB?oc=5",
+   "tickers": [
+    "TRUMP"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "TRUMP",
+   "strength": 50,
+   "reason": "Crypto playbook critique suggests family benefit over public investors; mixed sentiment on crypto holdings"
   },
   {
    "date": "2026-06-09T06:00:42Z",
@@ -198,6 +230,30 @@
     "pct": 0.0,
     "base": 34.68,
     "last": 34.69,
+    "base_date": "2026-06-08",
+    "last_date": "2026-06-09"
+   }
+  },
+  {
+   "date": "2026-06-08T09:48:00Z",
+   "platform": "News",
+   "text": "'We didn\u2019t see this coming': Wall Street eats its forecasts as stocks sell off globally on fear of AI bubble ahead of SpaceX IPO - Fortune \u2014 'We didn\u2019t see this coming': Wall Street eats its forecasts as stocks sell off globally on fear of AI bubble ahead of SpaceX IPO\u00a0\u00a0Fortune",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1vWWdVT2FVZE9TMExhYWJ0azFlSklvQXE5aWVpUXp5Vmh4d3o3bWpqd01QVWNwQ3A1eFJOTXFjWVlVRDJOSmtIVUNrM01JX2JrS0RHM1lpU2R1ZDR4d1BfYzM0bzNYOXdnZmdr?oc=5",
+   "tickers": [
+    "QQQ"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "QQQ",
+   "strength": 55,
+   "reason": "AI bubble fear and global stock selloff ahead of SpaceX IPO signals tech sector pressure",
+   "price_since": {
+    "ticker": "QQQ",
+    "pct": -1.2,
+    "base": 716.07,
+    "last": 707.83,
     "base_date": "2026-06-08",
     "last_date": "2026-06-09"
    }
@@ -2654,22 +2710,6 @@
    "reason": "Trump personal Dell stock purchase and explicit promotion drives bullish sentiment"
   },
   {
-   "date": "2026-05-29T16:34:56Z",
-   "platform": "News",
-   "text": "Trump Bought Stock In UFC's Parent Company As He Promoted White House Fight - HuffPost UK \u2014 Trump Bought Stock In UFC's Parent Company As He Promoted White House Fight\u00a0\u00a0HuffPost UK",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMWJwV181M0FlSGNBdU0yWWxXcFRjRzFPQ01OQ1MtSDluUEZ1SllHVFJBT0owaHdPU2J4czFPQVN5RWdueDVNV3FOVFRRM3EzYXpaR2RVYTVsQ21MaU93VlItVi0xR3NCbGt0YmlOSnMwRzVOSVdNRXdCeWFoWXpmcEItWTNJOHlzT3d0cGkzVkJQM1VUWnVUSjBocS1XYVFq0gGbAUFVX3lxTE1qLTBPeWR6aXhYZFhvTWNjeDE5OVNITjdobnh2VEdGVWljM3dzc0ExQnZVQXlHUm9MOVFHbHYzOHdvbkJHbjdFWHJOMWlkUnlBSnlkSWk1TWtIZTBNcFIwRW1tY21PbzNoaW1kNm1yaWNDT2ZtWmI2TWxfd1ptQW1hZ1JSZTFDYnFJcS0tQ01qakxBRWR2OG41ZEhB?oc=5",
-   "tickers": [
-    "TKO"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "TKO",
-   "strength": 70,
-   "reason": "Trump bought UFC parent company stock (TKO) while promoting White House event; bullish signal"
-  },
-  {
    "curated": true,
    "classified": true,
    "is_market": true,
@@ -2722,23 +2762,6 @@
    "reason": "Trump's majority-owned stock debuts \u2014 pure sentiment play, extremely volatile and headline-driven.",
    "market_reaction": "DJT spiked on debut then stayed volatile, moving heavily on Trump political/legal news.",
    "url": "https://www.nasdaq.com/market-activity/stocks/djt"
-  },
-  {
-   "date": "2023-05-18T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "BLUE ORIGIN MANUFACTURING, LLC was awarded a $1.7B federal contract from National Aeronautics and Space Administration.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_80MSFC23CA014_8000_-NONE-_-NONE-",
-   "tickers": [
-    "BE"
-   ],
-   "contract_amount": 1.74,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "BE",
-   "strength": 75,
-   "reason": "Blue Origin awarded $1.7B federal contract; bullish for aerospace/defense sector and parent Berkshire holdings"
   }
  ],
  "how_to_read": "Each card is Claude's read of a public Trump post: the affected ticker, whether it implies BUY / SELL / WATCH, a 0\u2013100 strength (how explicit/emphatic the post is \u2014 NOT a profit predictor), and why. A 2-year backtest found these don't beat buy-and-hold, so this is for awareness, not trading. Not financial advice."
