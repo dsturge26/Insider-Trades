@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-06-10T00:14:31Z",
+ "last_updated": "2026-06-10T04:52:09Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -128,15 +128,7 @@
    "direction": "BUY",
    "primary_ticker": "DELL",
    "strength": 85,
-   "reason": "Trump explicitly urged buying Dell stock; historical reference to his past recommendation",
-   "price_since": {
-    "ticker": "DELL",
-    "pct": -4.7,
-    "base": 400.77,
-    "last": 381.78,
-    "base_date": "2026-06-08",
-    "last_date": "2026-06-09"
-   }
+   "reason": "Trump explicitly urged buying Dell stock; historical reference to his past recommendation"
   },
   {
    "date": "2026-06-08T19:01:25Z",
@@ -152,15 +144,7 @@
    "direction": "BUY",
    "primary_ticker": "IBM",
    "strength": 68,
-   "reason": "IBM stock surge likely tied to Trump's prior CEO praise and quantum contract rumors",
-   "price_since": {
-    "ticker": "IBM",
-    "pct": -1.2,
-    "base": 280.82,
-    "last": 277.49,
-    "base_date": "2026-06-08",
-    "last_date": "2026-06-09"
-   }
+   "reason": "IBM stock surge likely tied to Trump's prior CEO praise and quantum contract rumors"
   },
   {
    "date": "2026-06-08T18:27:51Z",
@@ -176,15 +160,7 @@
    "direction": "WATCH",
    "primary_ticker": "PLTR",
    "strength": 45,
-   "reason": "Trump endorsement caused stock recovery; Michael Burry remains short\u2014conflicting signals, ambiguous near-term direction",
-   "price_since": {
-    "ticker": "PLTR",
-    "pct": -3.2,
-    "base": 136.47,
-    "last": 132.07,
-    "base_date": "2026-06-08",
-    "last_date": "2026-06-09"
-   }
+   "reason": "Trump endorsement caused stock recovery; Michael Burry remains short\u2014conflicting signals, ambiguous near-term direction"
   },
   {
    "date": "2026-06-08T14:47:53Z",
@@ -200,15 +176,7 @@
    "direction": "BUY",
    "primary_ticker": "IBM",
    "strength": 70,
-   "reason": "Trump effect on IBM stock after calling CEO a 'legend'; positive momentum continues",
-   "price_since": {
-    "ticker": "IBM",
-    "pct": -1.2,
-    "base": 280.82,
-    "last": 277.49,
-    "base_date": "2026-06-08",
-    "last_date": "2026-06-09"
-   }
+   "reason": "Trump effect on IBM stock after calling CEO a 'legend'; positive momentum continues"
   },
   {
    "date": "2026-06-08T10:23:00Z",
@@ -224,15 +192,7 @@
    "direction": "BUY",
    "primary_ticker": "FXI",
    "strength": 40,
-   "reason": "Trump praises Xi and US-China ties; suggests de-escalation and potential trade deal, bullish for China-exposed stocks",
-   "price_since": {
-    "ticker": "FXI",
-    "pct": 0.0,
-    "base": 34.68,
-    "last": 34.69,
-    "base_date": "2026-06-08",
-    "last_date": "2026-06-09"
-   }
+   "reason": "Trump praises Xi and US-China ties; suggests de-escalation and potential trade deal, bullish for China-exposed stocks"
   },
   {
    "date": "2026-06-08T09:48:00Z",
@@ -248,15 +208,23 @@
    "direction": "SELL",
    "primary_ticker": "QQQ",
    "strength": 55,
-   "reason": "AI bubble fear and global stock selloff ahead of SpaceX IPO signals tech sector pressure",
-   "price_since": {
-    "ticker": "QQQ",
-    "pct": -1.2,
-    "base": 716.07,
-    "last": 707.83,
-    "base_date": "2026-06-08",
-    "last_date": "2026-06-09"
-   }
+   "reason": "AI bubble fear and global stock selloff ahead of SpaceX IPO signals tech sector pressure"
+  },
+  {
+   "date": "2026-06-08T07:38:05Z",
+   "platform": "News",
+   "text": "Why is IBM stock surging nearly 7% higher in overnight trading? - MSN \u2014 Why is IBM stock surging nearly 7% higher in overnight trading?\u00a0\u00a0MSN",
+   "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxPZk9aUklkZ05PdFp5blV5cnU0LUVWNVBlSDBrQUIybXhYU2tiZzBzN3ZtcGtzMEZJWElpNjc0VHNpM1NxaDExOUYtVThia2IzNkNsRWRXY2d1SzdzdW13NzVmN2FlSHlGTFBYZWdlWHpsOTB6cG5hS1l6S1dIMnNLb3E3RGhtWVlNRW5qSnFMVTRQSHhFZzNUZm5DdVYxb1Y2TEtmejdQaEFrUDhub2dNN0lyNXFmQ182T3dGRlR3aVF6Y2VrSUY4aTlZSkdEWURtTS1BMkpsMjNIU01YMDNDbXpNWkxSYWFfODdWX2pvZVpjaUVLNkNIc0QzTk1FLVIzOGl2bWU3ak00aWJsUGRmMFBTYkZ3TDJCMm5RTVJreVJxMzZRejg2bDJ3VWNITUhLRHpxYmpOYVFLRjlOUEdfYm1uVlM3anV4Z21vbFJJTkZjTTMwTmk2QklmaFJIcUJ0bTUyTFJERnNuZw?oc=5",
+   "tickers": [
+    "IBM"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "IBM",
+   "strength": 55,
+   "reason": "IBM overnight surge likely tied to Trump's prior praise and policy support; bullish momentum"
   },
   {
    "date": "2026-06-08T05:15:25Z",
@@ -272,39 +240,7 @@
    "direction": "WATCH",
    "primary_ticker": "AAPL",
    "strength": 35,
-   "reason": "Trump praises Tim Cook by name following his departure; ambiguous whether praise or commentary on transition",
-   "price_since": {
-    "ticker": "AAPL",
-    "pct": -3.6,
-    "base": 301.54,
-    "last": 290.55,
-    "base_date": "2026-06-08",
-    "last_date": "2026-06-09"
-   }
-  },
-  {
-   "date": "2026-06-07T21:54:24Z",
-   "platform": "News",
-   "text": "Why is IBM stock surging nearly 7% higher in overnight trading? - MSN \u2014 Why is IBM stock surging nearly 7% higher in overnight trading?\u00a0\u00a0MSN",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNallqa3JDcVZZQzZOZFNLVFZXdDl1NmZfUU5RVlRKdGxwVGluYWpnbHJZbm80VVpaRzBpc0llWWNSREp2WE5XSU0zSXN2RllNQ1haUWd4SHhrU05weDJWWHZOWmZwVEU4b0NzMXpzZXZzbl9UajNNdElyODg1YkQ4a29OWVhqa3ZqNEt2eE1NcGhQZFRIRDRyeGJvRl9ZaGtMdDF5SGZDbnpIZmY0bUJzTQ?oc=5",
-   "tickers": [
-    "IBM"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "IBM",
-   "strength": 45,
-   "reason": "IBM stock surging overnight; likely reflects positive Trump association or prior praise",
-   "price_since": {
-    "ticker": "IBM",
-    "pct": -1.2,
-    "base": 280.82,
-    "last": 277.49,
-    "base_date": "2026-06-08",
-    "last_date": "2026-06-09"
-   }
+   "reason": "Trump praises Tim Cook by name following his departure; ambiguous whether praise or commentary on transition"
   },
   {
    "date": "2026-06-07T19:20:00Z",
@@ -320,15 +256,7 @@
    "direction": "WATCH",
    "primary_ticker": "XBI",
    "strength": 50,
-   "reason": "100% tariff on imported patented drugs incentivizes onshoring and price cuts; mixed effect (tariff pain vs. competitive advantage for US pharma)",
-   "price_since": {
-    "ticker": "XBI",
-    "pct": 2.3,
-    "base": 128.43,
-    "last": 131.38,
-    "base_date": "2026-06-08",
-    "last_date": "2026-06-09"
-   }
+   "reason": "100% tariff on imported patented drugs incentivizes onshoring and price cuts; mixed effect (tariff pain vs. competitive advantage for US pharma)"
   },
   {
    "date": "2026-06-07T18:39:39Z",
@@ -344,15 +272,7 @@
    "direction": "WATCH",
    "primary_ticker": "MSFT",
    "strength": 25,
-   "reason": "Speculation about Trump stake in OpenAI (Microsoft-backed) but no confirmed transaction or direct endorsement",
-   "price_since": {
-    "ticker": "MSFT",
-    "pct": -2.0,
-    "base": 411.74,
-    "last": 403.41,
-    "base_date": "2026-06-08",
-    "last_date": "2026-06-09"
-   }
+   "reason": "Speculation about Trump stake in OpenAI (Microsoft-backed) but no confirmed transaction or direct endorsement"
   },
   {
    "date": "2026-06-07T15:56:15Z",
@@ -368,15 +288,7 @@
    "direction": "BUY",
    "primary_ticker": "DELL",
    "strength": 85,
-   "reason": "Trump explicitly told Americans to buy Dell while holding it; direct endorsement of specific public company",
-   "price_since": {
-    "ticker": "DELL",
-    "pct": -4.7,
-    "base": 400.77,
-    "last": 381.78,
-    "base_date": "2026-06-08",
-    "last_date": "2026-06-09"
-   }
+   "reason": "Trump explicitly told Americans to buy Dell while holding it; direct endorsement of specific public company"
   },
   {
    "date": "2026-06-07T15:08:00Z",
@@ -392,15 +304,7 @@
    "direction": "WATCH",
    "primary_ticker": "TKO",
    "strength": 20,
-   "reason": "Report of Trump investment in UFC (TKO); confirmed but no directional signal.",
-   "price_since": {
-    "ticker": "TKO",
-    "pct": 0.9,
-    "base": 202.61,
-    "last": 204.44,
-    "base_date": "2026-06-08",
-    "last_date": "2026-06-09"
-   }
+   "reason": "Report of Trump investment in UFC (TKO); confirmed but no directional signal."
   },
   {
    "date": "2026-06-07T14:39:48Z",
@@ -416,15 +320,7 @@
    "direction": "WATCH",
    "primary_ticker": "DELL",
    "strength": 20,
-   "reason": "Analysis of Dell political trading attention; references valuation and volatility but no directional signal",
-   "price_since": {
-    "ticker": "DELL",
-    "pct": -4.7,
-    "base": 400.77,
-    "last": 381.78,
-    "base_date": "2026-06-08",
-    "last_date": "2026-06-09"
-   }
+   "reason": "Analysis of Dell political trading attention; references valuation and volatility but no directional signal"
   },
   {
    "date": "2026-06-07T13:45:27Z",
@@ -456,15 +352,7 @@
    "direction": "WATCH",
    "primary_ticker": "MSFT",
    "strength": 25,
-   "reason": "Speculation on Trump stake in OpenAI; no confirmation; OpenAI majority-backed by Microsoft",
-   "price_since": {
-    "ticker": "MSFT",
-    "pct": -2.0,
-    "base": 411.74,
-    "last": 403.41,
-    "base_date": "2026-06-08",
-    "last_date": "2026-06-09"
-   }
+   "reason": "Speculation on Trump stake in OpenAI; no confirmation; OpenAI majority-backed by Microsoft"
   },
   {
    "date": "2026-06-07T13:15:39Z",
@@ -480,15 +368,7 @@
    "direction": "BUY",
    "primary_ticker": "DELL",
    "strength": 85,
-   "reason": "Trump explicitly urged Americans to 'buy a Dell' while holding stock; stock up 255% demonstrates signal strength.",
-   "price_since": {
-    "ticker": "DELL",
-    "pct": -4.7,
-    "base": 400.77,
-    "last": 381.78,
-    "base_date": "2026-06-08",
-    "last_date": "2026-06-09"
-   }
+   "reason": "Trump explicitly urged Americans to 'buy a Dell' while holding stock; stock up 255% demonstrates signal strength."
   },
   {
    "date": "2026-06-07T08:01:16Z",
@@ -504,15 +384,23 @@
    "direction": "WATCH",
    "primary_ticker": "DJT",
    "strength": 25,
-   "reason": "News about Trump Media stock quote; no directional signal in headline alone",
-   "price_since": {
-    "ticker": "DJT",
-    "pct": 0.1,
-    "base": 8.15,
-    "last": 8.16,
-    "base_date": "2026-06-08",
-    "last_date": "2026-06-09"
-   }
+   "reason": "News about Trump Media stock quote; no directional signal in headline alone"
+  },
+  {
+   "date": "2026-06-07T05:35:58Z",
+   "platform": "News",
+   "text": "Trump Proposes AI Profit-Sharing Public Fund - \uc870\uc120\uc77c\ubcf4 \u2014 Trump Proposes AI Profit-Sharing Public Fund\u00a0\u00a0\uc870\uc120\uc77c\ubcf4",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPR05IYkpnZF9fVWpha3lPZjJTWDlNRXlwV3V0aWhyVmY3aEY5MTU3NTd2TjdaMnRfbnQwQlc1RFBwSzMzTEhLYUZZM3FONmd2M2loNXlfQUdiRlVxWkNJdEVBdF96ZlA2bDI5MjBtMERud0JfcUtTb3p5bjdCSUtpd1RFTFZueGlx?oc=5",
+   "tickers": [
+    "QQQ"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "QQQ",
+   "strength": 40,
+   "reason": "AI profit-sharing public fund proposal could reshape AI industry returns; direction and implementation unclear"
   },
   {
    "date": "2026-06-07T01:44:13Z",
@@ -528,15 +416,7 @@
    "direction": "SELL",
    "primary_ticker": "SPY",
    "strength": 30,
-   "reason": "Pardon of insider trading convict signals relaxed enforcement/governance risk to equity market confidence",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": -0.3,
-    "base": 739.22,
-    "last": 737.05,
-    "base_date": "2026-06-08",
-    "last_date": "2026-06-09"
-   }
+   "reason": "Pardon of insider trading convict signals relaxed enforcement/governance risk to equity market confidence"
   },
   {
    "date": "2026-06-06T17:01:52Z",
@@ -552,15 +432,7 @@
    "direction": "WATCH",
    "primary_ticker": "QQQ",
    "strength": 50,
-   "reason": "US public stake in AI firms is policy-level; direction ambiguous (could be bullish for AI if capital flows, bearish if seen as regulation)",
-   "price_since": {
-    "ticker": "QQQ",
-    "pct": -1.2,
-    "base": 716.07,
-    "last": 707.83,
-    "base_date": "2026-06-08",
-    "last_date": "2026-06-09"
-   }
+   "reason": "US public stake in AI firms is policy-level; direction ambiguous (could be bullish for AI if capital flows, bearish if seen as regulation)"
   },
   {
    "date": "2026-06-06T14:46:54Z",
@@ -576,15 +448,7 @@
    "direction": "WATCH",
    "primary_ticker": "SPY",
    "strength": 35,
-   "reason": "Trump acquiring stock in DIS, JPM, NFLX while attacking them publicly; mixed signals on conviction",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": -0.3,
-    "base": 739.22,
-    "last": 737.05,
-    "base_date": "2026-06-08",
-    "last_date": "2026-06-09"
-   }
+   "reason": "Trump acquiring stock in DIS, JPM, NFLX while attacking them publicly; mixed signals on conviction"
   },
   {
    "date": "2026-06-06T10:15:00Z",
@@ -600,15 +464,7 @@
    "direction": "BUY",
    "primary_ticker": "DELL",
    "strength": 95,
-   "reason": "Trump explicitly urged buying Dell stock while holding it; direct market signal with documented price impact.",
-   "price_since": {
-    "ticker": "DELL",
-    "pct": -4.7,
-    "base": 400.77,
-    "last": 381.78,
-    "base_date": "2026-06-08",
-    "last_date": "2026-06-09"
-   }
+   "reason": "Trump explicitly urged buying Dell stock while holding it; direct market signal with documented price impact."
   },
   {
    "date": "2026-06-06T01:50:10Z",
@@ -2644,70 +2500,6 @@
    "primary_ticker": "SPY",
    "strength": 45,
    "reason": "EU trade deal struck/honored signals reduced tariff friction and trade normalization."
-  },
-  {
-   "date": "2026-05-29T17:42:57Z",
-   "platform": "News",
-   "text": "Pentagon\u2019s $9B Dell deal sparks Trump conflict of interest concerns - ABC27 \u2014 Pentagon\u2019s $9B Dell deal sparks Trump conflict of interest concerns\u00a0\u00a0ABC27",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZUkzZHFEa1FmS2xOcVJzVW42cjN3VzNYTVhTbUY2WXpqN3NLcnZCeTRNaGdoNkdDbzR6WENtRl90TDVBVGtENFFQZE1mdkg4VDZ2VERzWms5VWhMcmFKSzdnaXFLdUpvUTUwN2JkQU9ZUklDVi1kcE9RSVBIRUlxUi1oZTk2Ym5uZTZ3VDBSWWdxdXBvVW1mbk1uMHZRWElnUEswSkgwMEpTd9IBqgFBVV95cUxNZUkzZHFEa1FmS2xOcVJzVW42cjN3VzNYTVhTbUY2WXpqN3NLcnZCeTRNaGdoNkdDbzR6WENtRl90TDVBVGtENFFQZE1mdkg4VDZ2VERzWms5VWhMcmFKSzdnaXFLdUpvUTUwN2JkQU9ZUklDVi1kcE9RSVBIRUlxUi1oZTk2Ym5uZTZ3VDBSWWdxdXBvVW1mbk1uMHZRWElnUEswSkgwMEpTdw?oc=5",
-   "tickers": [
-    "DELL"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "DELL",
-   "strength": 50,
-   "reason": "Pentagon $9B Dell deal raises conflict-of-interest concerns; uncertain net market effect."
-  },
-  {
-   "date": "2026-05-29T16:43:42Z",
-   "platform": "News",
-   "text": "Trump's Dell stock buy draws scrutiny after $9.7B Pentagon deal - MSN \u2014 Trump's Dell stock buy draws scrutiny after $9.7B Pentagon deal\u00a0\u00a0MSN",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUzBESzZCU3g0OE5FU3AwUEtXQzBPckRZTWZCLWFEMUJJV0lkV0otZ1VuZW81alZERVgyaDRqVW1wNHJMQmZ3ZEo2bkNtcXVlMVo0bEFTSTh0N2Y4Y2RqdzZwUEVOUU55eGpqTWUzMktwVVdsOUFuTDBpbGEtcTR5dXd6UGZTRlhlanFOeHFUVlJNQ1NzSFJWTXFHZXlGV01iOWJidUg0VW10VlRaZ3Vmcnc4N2kwd1Z2R3Z3M2ZHZXU?oc=5",
-   "tickers": [
-    "DELL"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "DELL",
-   "strength": 80,
-   "reason": "Trump's Dell stock purchase drew scrutiny following $9.7B Pentagon deal; federal contract award to named public company."
-  },
-  {
-   "date": "2026-05-29T16:42:01Z",
-   "platform": "News",
-   "text": "Pentagon\u2019s $9B Dell deal sparks Trump conflict of interest concerns - KFOR.com \u2014 Pentagon\u2019s $9B Dell deal sparks Trump conflict of interest concerns\u00a0\u00a0KFOR.com",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYTNxN21NNTBkaWpmcjZnNGZhRlVnd1lsY25sQmswSGRVLVV3Mkl3X1JDOGY0V0Nzck9TYzJhcTNYTDdPcEtiMXpCZmc4YXpWR2pTZTZ4d1VfOTZOX045bEd3LXFLamUzNk5RSmdReFF2cW1XbEdqYW5odE1RTE84bm11Y0FZMWl4UWtKdXlvOXN6c0s2d0pHUmFDc2g5Y1RKNENz0gGjAUFVX3lxTE9hM3E3bU01MGRpamZyNmc0ZmFGVWd3WWxjbmxCazBIZFUtVXcySXdfUkM4ZjRXQ3NyT1NjMmFxM1hMN09wS2IxekJmZzhhelZHalNlNnh3VV85Nk5fTjlsR3ctcUtqZTM2TlFKZ1F4UXZxbVdsR2phbmh0TVFMTzhubXVjQVkxaXhRa0p1eW85c3pzSzZ3SkdSYUNzaDljVEo0Q3M?oc=5",
-   "tickers": [
-    "DELL"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "DELL",
-   "strength": 50,
-   "reason": "Conflict-of-interest controversy around Dell's $9B Pentagon deal may create regulatory/legal risk offsetting contract bullishness; direction ambiguous."
-  },
-  {
-   "date": "2026-05-29T16:35:43Z",
-   "platform": "News",
-   "text": "Donald Trump\u2019s Personal Investment in Dell Pays Off Bigly - Gizmodo \u2014 Donald Trump\u2019s Personal Investment in Dell Pays Off Bigly\u00a0\u00a0Gizmodo",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQX3pzWjlmNnB6MGFsN180aEpseGxCcFkzUkEtMTZHbTlWbkFOakttUVpYSTREZVBwNEJjOHJjOHI1WmFUaDN6anZDUjdzd3VidEZlN05Ob25udlNyRXVadG53djZKdm1PMUdUYVQyS21VRlRWaGJiVXhGeHNFd29pRmxRYkpWYWplNUFRb1A4OTk?oc=5",
-   "tickers": [
-    "DELL"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "DELL",
-   "strength": 80,
-   "reason": "Trump personal Dell stock purchase and explicit promotion drives bullish sentiment"
   },
   {
    "curated": true,
