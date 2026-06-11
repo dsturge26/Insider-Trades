@@ -1,7 +1,40 @@
 {
- "last_updated": "2026-06-11T11:11:20Z",
+ "last_updated": "2026-06-11T14:56:19Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-06-11T14:23:07Z",
+   "platform": "News",
+   "text": "Trump made $220M in stock trades in companies he later promoted. Jim Cramer was speechless. Social media isn't \u2014 they're calling it insider trading - MSN \u2014 Trump made $220M in stock trades in companies he later promoted. Jim Cramer was speechless. Social media isn't \u2014 they're calling it insider trading\u00a0\u00a0MSN",
+   "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxNMG9YaS1IMGJ4VUtQU2pybXMzU21LR2Y4RUlHMUZydng4ajdXYWF5dE5lSGkxWjgtVTlicUR4T1dWSlA2bHF1TnBaeFZkQU1kaEozMGs2dnFGZW9mUW9lRlhJQzFZWnZJdDEzNkFKNFN5U1VLX0tXUVRKaXdkNzJkSXBtWHVGRGlYQzlCeEtQcmE1Q2Y3bU9fRlBwRGlEQThqMHI1T3ZwcUt0QWRRemMxTjFzTFN3QjZEYVk5c01ZeE9keTRaTVhkbzkwYzllTWo4czlPdGotNkVhT2F3Q0lmUEYwMkVlNS1XbC1aa2FpU2pKbFBfQjh0S1lfNTQ0Y0ttQ2h6V3BfdDBjV3hKVExpX3NhSVp1ODBSTkMycDh2SkxhLW1nb2s2bTlBMS1xaHUtNDF5VEdDOGZpYWk5cUZvM3lR?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "SPY",
+   "strength": 35,
+   "reason": "Alleged insider trading in promoted stocks raises regulatory/market-integrity concerns; direction unclear without specifics."
+  },
+  {
+   "date": "2026-06-11T12:22:08.864Z",
+   "platform": "Truth Social",
+   "text": "The United States will be hitting Iran (Whose Navy, Air Force, Radar, Anti Aircraft, and all other forms of Defense, together with most of its offensive capability, are GONE!), VERY HARD TONIGHT. At some point in the not too distant  future, we will be taking Kharg Island, and other oil infrastructure points, and assume total control of their Oil and Gas Markets, much like we have with Venezuela, which is working out brilliantly for both Venezuela and the United States of America. Thank you for your attention to this matter! President DONALD J. TRUMP",
+   "tickers": [
+    "XLE"
+   ],
+   "engagement": 22851,
+   "url": "https://truthsocial.com/@realDonaldTrump/116731447139970106",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "XLE",
+   "strength": 65,
+   "reason": "Threats to seize Iranian oil infrastructure and control oil markets imply potential supply disruption and higher oil/energy prices."
+  },
   {
    "date": "2026-06-11T10:18:45Z",
    "platform": "News",
@@ -145,7 +178,15 @@
    "direction": "BUY",
    "primary_ticker": "C",
    "strength": 65,
-   "reason": "Trump praises Citigroup CEO and M&A ranking; direct praise of named public company"
+   "reason": "Trump praises Citigroup CEO and M&A ranking; direct praise of named public company",
+   "price_since": {
+    "ticker": "C",
+    "pct": 1.0,
+    "base": 133.38,
+    "last": 134.7,
+    "base_date": "2026-06-10",
+    "last_date": "2026-06-11"
+   }
   },
   {
    "date": "2026-06-10T22:38:02Z",
@@ -161,7 +202,39 @@
    "direction": "BUY",
    "primary_ticker": "TKO",
    "strength": 55,
-   "reason": "Trump bought stock in UFC parent TKO while promoting it; insider bullish signal"
+   "reason": "Trump bought stock in UFC parent TKO while promoting it; insider bullish signal",
+   "price_since": {
+    "ticker": "TKO",
+    "pct": 1.6,
+    "base": 206.43,
+    "last": 209.63,
+    "base_date": "2026-06-10",
+    "last_date": "2026-06-11"
+   }
+  },
+  {
+   "date": "2026-06-10T21:07:00Z",
+   "platform": "News",
+   "text": "Stock Market Today: Nasdaq Drops 2%, Dow Falls 950 Points As Chips Slide; Robinhood Pops - Investor's Business Daily \u2014 Stock Market Today: Nasdaq Drops 2%, Dow Falls 950 Points As Chips Slide; Robinhood Pops\u00a0\u00a0Investor's Business Daily",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeE5MM19LcFh2MWpkcm1wSUNENGFrTnhlcjdfbTBsVmYwT0tyOWJKQ3JFZFBRWU0xUHdUa19RMDI1dG4wd0ZZb1BCUTk2c2JaT3NOYWV1S3VvaWVvcUczSmpLVGdwRjdOZWZ0anhQRmx1TTNpRVFLWmlXclQyZjAzcU9tdFZDUUNMQzZGXzEzbHROWXFIY3BUTUh2ZkppRklac2RkZktvRm5DSVUyQnJlbg?oc=5",
+   "tickers": [
+    "SMH"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "SMH",
+   "strength": 50,
+   "reason": "Semiconductor slide (chips down); broad market weakness on Nasdaq 2% drop.",
+   "price_since": {
+    "ticker": "SMH",
+    "pct": 2.7,
+    "base": 570.91,
+    "last": 586.41,
+    "base_date": "2026-06-10",
+    "last_date": "2026-06-11"
+   }
   },
   {
    "date": "2026-06-10T20:37:30Z",
@@ -177,7 +250,15 @@
    "direction": "BUY",
    "primary_ticker": "C",
    "strength": 65,
-   "reason": "Trump explicitly praises Citigroup CEO and M&A performance, bullish for bank stock"
+   "reason": "Trump explicitly praises Citigroup CEO and M&A performance, bullish for bank stock",
+   "price_since": {
+    "ticker": "C",
+    "pct": 1.0,
+    "base": 133.38,
+    "last": 134.74,
+    "base_date": "2026-06-10",
+    "last_date": "2026-06-11"
+   }
   },
   {
    "date": "2026-06-10T17:50:24.111Z",
@@ -194,7 +275,15 @@
    "direction": "BUY",
    "primary_ticker": "XLE",
    "strength": 65,
-   "reason": "US naval control of Hormuz securing oil supply \u2192 bullish for oil sector"
+   "reason": "US naval control of Hormuz securing oil supply \u2192 bullish for oil sector",
+   "price_since": {
+    "ticker": "XLE",
+    "pct": 0.2,
+    "base": 58.25,
+    "last": 58.38,
+    "base_date": "2026-06-10",
+    "last_date": "2026-06-11"
+   }
   },
   {
    "date": "2026-06-10T17:34:22Z",
@@ -210,7 +299,15 @@
    "direction": "WATCH",
    "primary_ticker": "MSFT",
    "strength": 35,
-   "reason": "Rumor of Trump stake in OpenAI (Microsoft-backed) \u2192 ambiguous, unconfirmed"
+   "reason": "Rumor of Trump stake in OpenAI (Microsoft-backed) \u2192 ambiguous, unconfirmed",
+   "price_since": {
+    "ticker": "MSFT",
+    "pct": -2.6,
+    "base": 397.36,
+    "last": 387.19,
+    "base_date": "2026-06-10",
+    "last_date": "2026-06-11"
+   }
   },
   {
    "date": "2026-06-10T16:58:40Z",
@@ -226,7 +323,15 @@
    "direction": "BUY",
    "primary_ticker": "C",
    "strength": 65,
-   "reason": "Trump praises Citigroup and CEO Jane Fraser by name; direct positive signal"
+   "reason": "Trump praises Citigroup and CEO Jane Fraser by name; direct positive signal",
+   "price_since": {
+    "ticker": "C",
+    "pct": 1.0,
+    "base": 133.38,
+    "last": 134.74,
+    "base_date": "2026-06-10",
+    "last_date": "2026-06-11"
+   }
   },
   {
    "date": "2026-06-10T16:29:00Z",
@@ -242,7 +347,15 @@
    "direction": "BUY",
    "primary_ticker": "C",
    "strength": 70,
-   "reason": "Trump explicitly praises Citigroup bankers and M&A performance"
+   "reason": "Trump explicitly praises Citigroup bankers and M&A performance",
+   "price_since": {
+    "ticker": "C",
+    "pct": 1.0,
+    "base": 133.38,
+    "last": 134.74,
+    "base_date": "2026-06-10",
+    "last_date": "2026-06-11"
+   }
   },
   {
    "date": "2026-06-10T13:49:41Z",
@@ -258,7 +371,15 @@
    "direction": "BUY",
    "primary_ticker": "C",
    "strength": 65,
-   "reason": "Trump praises Citigroup M&A performance; stock rises on endorsement"
+   "reason": "Trump praises Citigroup M&A performance; stock rises on endorsement",
+   "price_since": {
+    "ticker": "C",
+    "pct": 1.0,
+    "base": 133.38,
+    "last": 134.7,
+    "base_date": "2026-06-10",
+    "last_date": "2026-06-11"
+   }
   },
   {
    "date": "2026-06-10T13:42:28Z",
@@ -274,7 +395,15 @@
    "direction": "BUY",
    "primary_ticker": "C",
    "strength": 65,
-   "reason": "Trump praised Citigroup's M&A performance and rankings, positive signal for the bank."
+   "reason": "Trump praised Citigroup's M&A performance and rankings, positive signal for the bank.",
+   "price_since": {
+    "ticker": "C",
+    "pct": 1.0,
+    "base": 133.38,
+    "last": 134.74,
+    "base_date": "2026-06-10",
+    "last_date": "2026-06-11"
+   }
   },
   {
    "date": "2026-06-10T13:39:48Z",
@@ -290,7 +419,15 @@
    "direction": "BUY",
    "primary_ticker": "C",
    "strength": 65,
-   "reason": "Trump praised Citigroup's M&A performance and rankings, positive signal for the bank."
+   "reason": "Trump praised Citigroup's M&A performance and rankings, positive signal for the bank.",
+   "price_since": {
+    "ticker": "C",
+    "pct": 1.0,
+    "base": 133.38,
+    "last": 134.74,
+    "base_date": "2026-06-10",
+    "last_date": "2026-06-11"
+   }
   },
   {
    "date": "2026-06-10T13:36:00Z",
@@ -306,7 +443,15 @@
    "direction": "BUY",
    "primary_ticker": "C",
    "strength": 65,
-   "reason": "Trump praises Citigroup M&A performance; stock rises on endorsement"
+   "reason": "Trump praises Citigroup M&A performance; stock rises on endorsement",
+   "price_since": {
+    "ticker": "C",
+    "pct": 1.0,
+    "base": 133.38,
+    "last": 134.74,
+    "base_date": "2026-06-10",
+    "last_date": "2026-06-11"
+   }
   },
   {
    "date": "2026-06-10T13:30:58.894Z",
@@ -323,7 +468,15 @@
    "direction": "BUY",
    "primary_ticker": "C",
    "strength": 80,
-   "reason": "Trump explicitly praised Citi's #1 M&A ranking with emphatic language (!!!), direct endorsement."
+   "reason": "Trump explicitly praised Citi's #1 M&A ranking with emphatic language (!!!), direct endorsement.",
+   "price_since": {
+    "ticker": "C",
+    "pct": 1.0,
+    "base": 133.38,
+    "last": 134.74,
+    "base_date": "2026-06-10",
+    "last_date": "2026-06-11"
+   }
   },
   {
    "date": "2026-06-10T11:46:12Z",
@@ -339,7 +492,15 @@
    "direction": "BUY",
    "primary_ticker": "XLE",
    "strength": 60,
-   "reason": "Naval blockade securing Middle East oil supply \u2192 bullish for energy"
+   "reason": "Naval blockade securing Middle East oil supply \u2192 bullish for energy",
+   "price_since": {
+    "ticker": "XLE",
+    "pct": 0.2,
+    "base": 58.25,
+    "last": 58.37,
+    "base_date": "2026-06-10",
+    "last_date": "2026-06-11"
+   }
   },
   {
    "date": "2026-06-10T11:32:52.931Z",
@@ -356,7 +517,15 @@
    "direction": "BUY",
    "primary_ticker": "XLE",
    "strength": 45,
-   "reason": "Naval blockade on Iran reduces oil supply; tight supply bullish for energy sector"
+   "reason": "Naval blockade on Iran reduces oil supply; tight supply bullish for energy sector",
+   "price_since": {
+    "ticker": "XLE",
+    "pct": 0.2,
+    "base": 58.25,
+    "last": 58.37,
+    "base_date": "2026-06-10",
+    "last_date": "2026-06-11"
+   }
   },
   {
    "date": "2026-06-10T11:15:00Z",
@@ -2608,118 +2777,6 @@
    "primary_ticker": "IBM",
    "strength": 70,
    "reason": "IBM surge follows Trump praise; explicit endorsement moving stock"
-  },
-  {
-   "date": "2026-06-01T00:08:26Z",
-   "platform": "News",
-   "text": "IBM Stock Surges on Quantum Computing Plans and Trump Comments - Intellectia AI \u2014 IBM Stock Surges on Quantum Computing Plans and Trump Comments\u00a0\u00a0Intellectia AI",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZkRFUWphMTlHc2U5TXM1dWZiN1FDdXc0NlNsX1lJYVdSMVlEN1p3LUZBQWlMdzVMUjkzOVotWi1heUVzVFVlcV9keUN4SjcyWTRYMEtEcGxxU3AwUFdfZHJNRXgzRDZnU0MtcTFWcXFxMWhXdDZ3S3dBTk5IZ3k5T09HV0pNbHNOZWlZendPSnJKTVBfcnVLSEVkS1U?oc=5",
-   "tickers": [
-    "IBM"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "IBM",
-   "strength": 65,
-   "reason": "Trump praised IBM CEO and government floated $1B quantum award; explicit praise plus potential federal contract catalyst."
-  },
-  {
-   "date": "2026-06-01T00:00:00Z",
-   "platform": "News",
-   "text": "Watch Taylor Morrison Soars on Berkshire Deal; IBM Jumps on Trump Mention | Stock Movers - Bloomberg.com \u2014 Watch Taylor Morrison Soars on Berkshire Deal; IBM Jumps on Trump Mention | Stock Movers\u00a0\u00a0Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWGxjREVUQlRORmFtYjI2cHJlak80VEZqYjlIZzhHLWFHVkUxTGF6eGJabjk2bW53SmpvdzNhN0llMUZKcVhObkJCVW5aNVFZM2NUSWkxdHVIZjFnWEtMdGZwbUVnQ0dycFhwZVp2YWZHYjNUemF4MzhDZ3hBbmRjaTJjLXc3X2VLU2xRYnVWeXY1TkE4dWlMS2ZlUGdsN3U3MTBUMDdpYw?oc=5",
-   "tickers": [
-    "IBM"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "IBM",
-   "strength": 68,
-   "reason": "IBM jumps on Trump mention; explicit endorsement of named company"
-  },
-  {
-   "date": "2026-06-01T00:00:00Z",
-   "platform": "News",
-   "text": "Watch Taylor Morrison Soars on Berkshire Deal; IBM Jumps on Trump Mention | Stock Movers - Bloomberg \u2014 Watch Taylor Morrison Soars on Berkshire Deal; IBM Jumps on Trump Mention | Stock Movers\u00a0\u00a0Bloomberg",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWGxjREVUQlRORmFtYjI2cHJlak80VEZqYjlIZzhHLWFHVkUxTGF6eGJabjk2bW53SmpvdzNhN0llMUZKcVhObkJCVW5aNVFZM2NUSWkxdHVIZjFnWEtMdGZwbUVnQ0dycFhwZVp2YWZHYjNUemF4MzhDZ3hBbmRjaTJjLXc3X2VLU2xRYnVWeXY1TkE4dWlMS2ZlUGdsN3U3MTBUMDdpYw?oc=5",
-   "tickers": [
-    "TMHC"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "TMHC",
-   "strength": 60,
-   "reason": "Berkshire deal + Trump mention creates positive sentiment for homebuilder"
-  },
-  {
-   "date": "2026-05-31T22:22:45Z",
-   "platform": "News",
-   "text": "Trump's Dell stock buy precedes Pentagon's $9.7B contract award - MSN \u2014 Trump's Dell stock buy precedes Pentagon's $9.7B contract award\u00a0\u00a0MSN",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQjZUakhEbzVGRkppc19IRHREc2FZdjVnMy1NdVlwV1U5YVhSV3lhVGMweFhKSEVmbXJFWUVRSW9hUmJYNTI4Tlo1SFpJQjFGbDZ3S0Q2em1RMEtuZkdlaXlYN1drRmFxNEJaSkJfeFRsMFd0SUVFLXJDN2pSeFEzQ3dsdDdBUnFWM0E2ODR1dDZqV2pEODVVdE0yLU1TbWktN2doU0twOTBDQmxRTFJhWUdCMzU1VjZnbzdkMk1RWVk0d0FNeGg4VVhwbnZ1TGVHSEZERA?oc=5",
-   "tickers": [
-    "DELL"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "DELL",
-   "strength": 85,
-   "reason": "Trump explicitly praised Dell and bought stock; company awarded $9.7B Pentagon contract\u2014major bullish catalyst"
-  },
-  {
-   "date": "2026-05-31T19:39:51Z",
-   "platform": "News",
-   "text": "Microsoft and Nvidia to unveil first Windows PCs with Nvidia chips - MSN \u2014 Microsoft and Nvidia to unveil first Windows PCs with Nvidia chips\u00a0\u00a0MSN",
-   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPSFJjNUZveUZJWEVPc2ZoNTRXNFZvaFg0QzhlSFZ2N0FZRDhxZHR2bWNONUk3Ul9ZcWhQU2VhVGttMmx5WTRPVDdnRXRCRmVGb2RpQnJ5TWlNbDJoZHZFdmxpNGRKQVZuMVB1WXhyd1BhdjBCVVExeFdVNkhNSzVZelA5VUlRejMtbHNXempnSVIyOVg1eWRRMWRmQURaSTliTEVkcHdjbmRtUGhvamtZYlNoTG05RzFYUXRtTkxySVVXNHJVMWVDd080cTJPRVZ1LUZlZTZ6U3J5bnFhODJwRXdRcHY2N05KUW5WOE5TSmJKMWllMTRiLWhtNXpOUQ?oc=5",
-   "tickers": [
-    "NVDA"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "NVDA",
-   "strength": 45,
-   "reason": "New Windows PC chip partnership with Nvidia is product-positive"
-  },
-  {
-   "date": "2026-05-31T19:39:51Z",
-   "platform": "News",
-   "text": "AI rally lifts markets despite US-Iran clashes, oil surge - MSN \u2014 AI rally lifts markets despite US-Iran clashes, oil surge\u00a0\u00a0MSN",
-   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPa0F3emlmSEhzUWtXZnktSGZZOXhBY05zUzVGSmZyTmRTQWRvN3RNUWEyS1d0NlV6SHV0UGhOR0UyMXV1SlR6LW9ydU0yWjc5OHRJdTZONElzWXlLR2VqVU5XM0lTY0Q5Q3BXWm03NFBSdUpOUURDVG5BYVI2TjBnakpNOVZxZUFsOEFQOTVnSm12d0RwdjRWNHdyeWFvNmYzQVNUdmZrcjdpZWR1Mlo1WmxIWktPNVNXWjVTUzhFUGd4MnB1Sk15NnFSU19SQ0l5NFB2VGp2VV9sR0RzLU9NYUNVUGZDN2VyRXRfOHFsLTg?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "SPY",
-   "strength": 35,
-   "reason": "AI rally lifting broad markets despite geopolitical tensions and oil surge headwinds"
-  },
-  {
-   "date": "2026-05-31T18:29:36Z",
-   "platform": "News",
-   "text": "Trump praised IBM's 'legend' CEO, government floated a $1B quantum award \u2014 is the stock still a 'very nice price'? - moneywise.com \u2014 Trump praised IBM's 'legend' CEO, government floated a $1B quantum award \u2014 is the stock still a 'very nice price'?\u00a0\u00a0moneywise.com",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5sZG5OT19NSXF0XzNMS1lOTGtTYkUwOW5zZGNQQnJxWDdUeHhzelREMlQteWtKODhlS1VYSWtTRUZEUGJQU1h1QUN3eGNXaXR0LUNnVDJIWkhtZnhSdTZXNndWeER1V2F0Umd6dnhuS0lMZGJvWHF5RQ?oc=5",
-   "tickers": [
-    "IBM"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "IBM",
-   "strength": 45,
-   "reason": "Trump praised IBM CEO as 'legend' and government floated $1B quantum contract award to IBM; positive signal but not explicit buy directive"
   },
   {
    "curated": true,
