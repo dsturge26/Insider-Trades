@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-06-11T18:17:07Z",
+ "last_updated": "2026-06-11T20:43:55Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-06-11T18:31:29Z",
+   "platform": "News",
+   "text": "Trump says he\u2019s called off impending strikes on Iran, sending stocks higher and oil plunging - Sherwood News \u2014 Trump says he\u2019s called off impending strikes on Iran, sending stocks higher and oil plunging\u00a0\u00a0Sherwood News",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdVJxMlFkUXY3aTNjenhSTmpEbnEyLTRPYldZX3RwQm5sMWgxbWpjYWp0eVVKNVRQRG5KRF81V2tjekNlUmJnc0ktc3F6d0ZEaklsSV84Z3V1NTBHMzhwWWVjOVFoUVdaQllJd0ZUSVJtdFBnYkNxYURzbHJjWE9UWG9PMG5UWWoxSmZ1LUlvZFFGMDZlUllhTU1rTEFvOUtqT1dqc3hFdkJOM3lMSEhacTh2TVFzUk5wTFVHNjJn?oc=5",
+   "tickers": [
+    "XLE"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "XLE",
+   "strength": 72,
+   "reason": "Trump calls off Iran strikes; reduces geopolitical risk premium, oil plunges"
+  },
   {
    "date": "2026-06-11T14:23:07Z",
    "platform": "News",
@@ -180,6 +196,22 @@
    "reason": "Trump explicitly told people to 'buy Dell' while holding stock; up 255% confirms signal strength"
   },
   {
+   "date": "2026-06-11T01:56:35Z",
+   "platform": "News",
+   "text": "US stocks jump, and oil prices fall after Trump calls off his threat to attack Iran - News4JAX \u2014 US stocks jump, and oil prices fall after Trump calls off his threat to attack Iran\u00a0\u00a0News4JAX",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUzJzVkh2amw0RGIzaUJQbWVpa3dieW43c3YzMHVJU2llSXJodkRtLTRtMWJFclJsa2dXZ2VjY3Q3dndURWcwcjdFSzJRZFM3dDJvWnhZS0d2NmJUT3hsaEh2MTFjelEtWnpMTjJTRk1lSUVjQjdFQ3liWkJoZC12NXk0c1ZQX05FbFgyQkRiNVJZVnRJR3lYb1Y5U1NKNmNKVm0yMXpzTUJwYlJRU1E4VEMzckJYWTBRc0xNeTFiaGVuc2NGXzhCR1hQNlE?oc=5",
+   "tickers": [
+    "XLE"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "XLE",
+   "strength": 70,
+   "reason": "Trump calls off Iran attack threat; oil prices fall, geopolitical risk fades"
+  },
+  {
    "date": "2026-06-11T01:21:45.697Z",
    "platform": "Truth Social",
    "text": "No other President has ever been more committed to both REBUILDING our Great Military and SAVING our Great Country \u2014 And NOW is the time to make it happen, for Generations to come.\u00a0\u00a0I am hereby calling on Republicans in Congress to IMMEDIATELY advance and pass the forthcoming $350 Billion Reconciliation Bill (Recon 3.0) \u2014 which, at the request of our Great Department of War \u2014 will include THE SAVE AMERICA ACT as well. No games, no delays, and no weak compromises! Do this ASAP.\u00a0This is a GENERATIONAL Investment in our Military, even bigger than President Reagan's! Recon 3.0 is the ONLY path to the full $1.5 TRILLION DOLLAR Military Budget our Warriors need in order to build THE ARSENAL OF FREEDOM. \u00a0We will defend the Homeland with the Golden Dome, launch the unstoppable Golden Fleet, dominate the skies with the F-47 and B-21, supercharge our ammunition stockpiles, and achieve total Space Force and Drone Dominance!\u00a0This Budget reignites American Industry, creates hundreds of thousands of high-paying American Jobs, and secures our Global Dominance without fueling Inflation.\u00a0Also, with THE SAVE AMERICA ACT, it will protect our Elections for Generations to come. Our Warriors protect our most Sacred Rights, and Voting is at the top. Time to defend that Right for every American!\u00a0Pass ALL $350 BILLION and THE SAVE AMERICA ACT to secure the NATION for our children and grandchildren.\u00a0\u00a0THE SAVE AMERICA ACT!1. ALL VOTERS MUST SHOW PHOTO I.D. (IDENTIFICATION!).2. ALL VOTERS MUST SHOW PROOF OF CITIZENSHIP.3. NO MAIL-IN BALLOTS (EXCEPT FOR ILLNESS, DISABILITY, MILITARY, OR TRAVEL!).4. NO MEN IN WOMEN'S SPORTS.5. NO TRANSGENDER MUTILIZATION SURGERY FOR OUR CHILDREN.\u00a0Thank you for your attention to this matter! President DONALD J. TRUMP",
@@ -213,9 +245,9 @@
    "reason": "Trump praises Citigroup CEO and M&A ranking; direct praise of named public company",
    "price_since": {
     "ticker": "C",
-    "pct": 2.8,
+    "pct": 3.5,
     "base": 133.38,
-    "last": 137.12,
+    "last": 138.07,
     "base_date": "2026-06-10",
     "last_date": "2026-06-11"
    }
@@ -237,9 +269,9 @@
    "reason": "Trump bought stock in UFC parent TKO while promoting it; insider bullish signal",
    "price_since": {
     "ticker": "TKO",
-    "pct": 2.9,
+    "pct": 3.5,
     "base": 206.43,
-    "last": 212.45,
+    "last": 213.7,
     "base_date": "2026-06-10",
     "last_date": "2026-06-11"
    }
@@ -261,9 +293,9 @@
    "reason": "Semiconductor slide (chips down); broad market weakness on Nasdaq 2% drop.",
    "price_since": {
     "ticker": "SMH",
-    "pct": 5.0,
+    "pct": 6.8,
     "base": 570.91,
-    "last": 599.73,
+    "last": 609.45,
     "base_date": "2026-06-10",
     "last_date": "2026-06-11"
    }
@@ -285,9 +317,9 @@
    "reason": "Trump explicitly praises Citigroup CEO and M&A performance, bullish for bank stock",
    "price_since": {
     "ticker": "C",
-    "pct": 2.8,
+    "pct": 3.5,
     "base": 133.38,
-    "last": 137.12,
+    "last": 138.07,
     "base_date": "2026-06-10",
     "last_date": "2026-06-11"
    }
@@ -310,9 +342,9 @@
    "reason": "US naval control of Hormuz securing oil supply \u2192 bullish for oil sector",
    "price_since": {
     "ticker": "XLE",
-    "pct": -1.0,
+    "pct": -1.9,
     "base": 58.25,
-    "last": 57.69,
+    "last": 57.12,
     "base_date": "2026-06-10",
     "last_date": "2026-06-11"
    }
@@ -334,9 +366,9 @@
    "reason": "Rumor of Trump stake in OpenAI (Microsoft-backed) \u2192 ambiguous, unconfirmed",
    "price_since": {
     "ticker": "MSFT",
-    "pct": -2.1,
+    "pct": -1.8,
     "base": 397.36,
-    "last": 388.9,
+    "last": 390.34,
     "base_date": "2026-06-10",
     "last_date": "2026-06-11"
    }
@@ -358,9 +390,9 @@
    "reason": "Trump praises Citigroup and CEO Jane Fraser by name; direct positive signal",
    "price_since": {
     "ticker": "C",
-    "pct": 2.8,
+    "pct": 3.5,
     "base": 133.38,
-    "last": 137.12,
+    "last": 138.07,
     "base_date": "2026-06-10",
     "last_date": "2026-06-11"
    }
@@ -382,9 +414,9 @@
    "reason": "Trump explicitly praises Citigroup bankers and M&A performance",
    "price_since": {
     "ticker": "C",
-    "pct": 2.8,
+    "pct": 3.5,
     "base": 133.38,
-    "last": 137.11,
+    "last": 138.07,
     "base_date": "2026-06-10",
     "last_date": "2026-06-11"
    }
@@ -406,9 +438,9 @@
    "reason": "Trump praises Citigroup M&A performance; stock rises on endorsement",
    "price_since": {
     "ticker": "C",
-    "pct": 2.8,
+    "pct": 3.5,
     "base": 133.38,
-    "last": 137.12,
+    "last": 138.07,
     "base_date": "2026-06-10",
     "last_date": "2026-06-11"
    }
@@ -430,9 +462,9 @@
    "reason": "Trump praised Citigroup's M&A performance and rankings, positive signal for the bank.",
    "price_since": {
     "ticker": "C",
-    "pct": 2.8,
+    "pct": 3.5,
     "base": 133.38,
-    "last": 137.12,
+    "last": 138.07,
     "base_date": "2026-06-10",
     "last_date": "2026-06-11"
    }
@@ -454,9 +486,9 @@
    "reason": "Trump praised Citigroup's M&A performance and rankings, positive signal for the bank.",
    "price_since": {
     "ticker": "C",
-    "pct": 2.8,
+    "pct": 3.5,
     "base": 133.38,
-    "last": 137.11,
+    "last": 138.07,
     "base_date": "2026-06-10",
     "last_date": "2026-06-11"
    }
@@ -2725,30 +2757,6 @@
     "pct": 2.8,
     "base": 1035.5,
     "last": 1064.1,
-    "base_date": "2026-06-01",
-    "last_date": "2026-06-02"
-   }
-  },
-  {
-   "date": "2026-06-01T12:47:25Z",
-   "platform": "News",
-   "text": "IBM Stock Surges 15% Following Trump Video Praise - GuruFocus \u2014 IBM Stock Surges 15% Following Trump Video Praise\u00a0\u00a0GuruFocus",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUjZQQ1g3ZE5DeXFBcjBvcUFKcUNRUklpT25jeF9WbmN4c2x1bUxEaktkMWFKRml4QTJWaTl1T1ZwbU1ZNUExXzFtdEdubEJDNFJ1U0JCZk1pRVJpQVR5UHkxOE83ekxJM1p2b1c0aERYdFpJYWdaeUVYeUwwN0ZNZXJXcWJ5MkM5M3ZrSjgzdXY?oc=5",
-   "tickers": [
-    "IBM"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "IBM",
-   "strength": 85,
-   "reason": "Trump explicitly praised IBM CEO and stock; video resurfaced showing direct endorsement",
-   "price_since": {
-    "ticker": "IBM",
-    "pct": 2.7,
-    "base": 320.42,
-    "last": 329.23,
     "base_date": "2026-06-01",
     "last_date": "2026-06-02"
    }
