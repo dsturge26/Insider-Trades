@@ -1,7 +1,56 @@
 {
- "last_updated": "2026-06-11T01:40:27Z",
+ "last_updated": "2026-06-11T06:27:12Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-06-11T04:50:41Z",
+   "platform": "News",
+   "text": "Citigroup Shares Show Relative Strength After Trump Social Media Endorsement - Margin Expansion Trends - newsline.com \u2014 Citigroup Shares Show Relative Strength After Trump Social Media Endorsement - Margin Expansion Trends\u00a0\u00a0newsline.com",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORTR1TGVIcHRDbVprSjlIRHUxV3dfV2ZSYVZYRVNGUGlRdFR1NGFpQVlDZks1aGJOQWhxUmZwbmQ2RGk0WWpLUUdYWmZUWUxxbU1BOVlUYVhzak4wTGdOV29jY2FBSnlKLWFEVUZUemZ6b0R3WkpiZDF5VEJYSFhuUDlDaGM4Yjg4T2ZRQjM5cUttQ3kyNHQ1OFdLcjc0Vk1DLXVuRUV1SkNkdndXNjAyRk13?oc=5",
+   "tickers": [
+    "C"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "C",
+   "strength": 70,
+   "reason": "Trump explicitly praised Citigroup's comeback and M&A performance; stock showed relative strength."
+  },
+  {
+   "date": "2026-06-11T04:27:53Z",
+   "platform": "News",
+   "text": "Citi stock hits 52-week high before fading as Trump lauds bank's 'big comeback' in M&A \u2014 but full picture has changed now - MSN \u2014 Citi stock hits 52-week high before fading as Trump lauds bank's 'big comeback' in M&A \u2014 but full picture has changed now\u00a0\u00a0MSN",
+   "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNRUxieUVzd3VSZTJldkozUDg0SWpNZE9hRUswNXhZU2NKb0hWZDYwazJjdkgzQXZVUGZUUE1KZFFzX09mbl90bXhyWlotQTlWSElVQWRuUmV6N2tKY09ZaXU3eGJXcllDdFNsaDNTTmFBYU5KS0p4OFhJd3p5M0oxRnlnRmJqVFRVbzlZMkdjeEQtS2xKemtiTUNJdEM0UHBlaEE0enNuT0RQeEg3cjF2cHQ5NHYyTTZkVlRtZ1h2WnJCWW1WZTJkT1pzZGdGVC1KSGRpMTZYRkZ0eGR2TkRnZ0MxRVBTdENUaGp5QnJRQi1hS2JXNXZreHBqQXlHem0zRXRKczVZN2tYbmxwbVIta3FRUnNKNXRabC1VN3pIZ05hdnM?oc=5",
+   "tickers": [
+    "C"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "C",
+   "strength": 65,
+   "reason": "Trump lauded Citi's big comeback in M&A; stock hit 52-week high on praise."
+  },
+  {
+   "date": "2026-06-11T01:21:45.697Z",
+   "platform": "Truth Social",
+   "text": "No other President has ever been more committed to both REBUILDING our Great Military and SAVING our Great Country \u2014 And NOW is the time to make it happen, for Generations to come.\u00a0\u00a0I am hereby calling on Republicans in Congress to IMMEDIATELY advance and pass the forthcoming $350 Billion Reconciliation Bill (Recon 3.0) \u2014 which, at the request of our Great Department of War \u2014 will include THE SAVE AMERICA ACT as well. No games, no delays, and no weak compromises! Do this ASAP.\u00a0This is a GENERATIONAL Investment in our Military, even bigger than President Reagan's! Recon 3.0 is the ONLY path to the full $1.5 TRILLION DOLLAR Military Budget our Warriors need in order to build THE ARSENAL OF FREEDOM. \u00a0We will defend the Homeland with the Golden Dome, launch the unstoppable Golden Fleet, dominate the skies with the F-47 and B-21, supercharge our ammunition stockpiles, and achieve total Space Force and Drone Dominance!\u00a0This Budget reignites American Industry, creates hundreds of thousands of high-paying American Jobs, and secures our Global Dominance without fueling Inflation.\u00a0Also, with THE SAVE AMERICA ACT, it will protect our Elections for Generations to come. Our Warriors protect our most Sacred Rights, and Voting is at the top. Time to defend that Right for every American!\u00a0Pass ALL $350 BILLION and THE SAVE AMERICA ACT to secure the NATION for our children and grandchildren.\u00a0\u00a0THE SAVE AMERICA ACT!1. ALL VOTERS MUST SHOW PHOTO I.D. (IDENTIFICATION!).2. ALL VOTERS MUST SHOW PROOF OF CITIZENSHIP.3. NO MAIL-IN BALLOTS (EXCEPT FOR ILLNESS, DISABILITY, MILITARY, OR TRAVEL!).4. NO MEN IN WOMEN'S SPORTS.5. NO TRANSGENDER MUTILIZATION SURGERY FOR OUR CHILDREN.\u00a0Thank you for your attention to this matter! President DONALD J. TRUMP",
+   "tickers": [
+    "XAR"
+   ],
+   "engagement": 16754,
+   "url": "https://truthsocial.com/@realDonaldTrump/116728850395743386",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "XAR",
+   "strength": 75,
+   "reason": "$350B military spending bill ('generational investment' larger than Reagan era); defense sector bullish."
+  },
   {
    "date": "2026-06-10T23:46:49Z",
    "platform": "News",
@@ -275,15 +324,7 @@
    "direction": "BUY",
    "primary_ticker": "DELL",
    "strength": 75,
-   "reason": "Dell awarded $10B federal contract; Trump personal stake amplifies bullish signal",
-   "price_since": {
-    "ticker": "DELL",
-    "pct": -3.1,
-    "base": 381.78,
-    "last": 369.83,
-    "base_date": "2026-06-09",
-    "last_date": "2026-06-10"
-   }
+   "reason": "Dell awarded $10B federal contract; Trump personal stake amplifies bullish signal"
   },
   {
    "date": "2026-06-09T14:31:49Z",
@@ -299,15 +340,7 @@
    "direction": "WATCH",
    "primary_ticker": "XLE",
    "strength": 35,
-   "reason": "Iran deal evocation eases geopolitical tension, oil falls slightly; ambiguous on direction (deal could be bullish long-term or near-term bearish for oil).",
-   "price_since": {
-    "ticker": "XLE",
-    "pct": 1.5,
-    "base": 57.39,
-    "last": 58.25,
-    "base_date": "2026-06-09",
-    "last_date": "2026-06-10"
-   }
+   "reason": "Iran deal evocation eases geopolitical tension, oil falls slightly; ambiguous on direction (deal could be bullish long-term or near-term bearish for oil)."
   },
   {
    "date": "2026-06-09T11:20:12Z",
@@ -323,15 +356,7 @@
    "direction": "BUY",
    "primary_ticker": "IBM",
    "strength": 75,
-   "reason": "Trump praised IBM CEO as legend; government floated $1B quantum award to IBM",
-   "price_since": {
-    "ticker": "IBM",
-    "pct": -1.8,
-    "base": 277.49,
-    "last": 272.36,
-    "base_date": "2026-06-09",
-    "last_date": "2026-06-10"
-   }
+   "reason": "Trump praised IBM CEO as legend; government floated $1B quantum award to IBM"
   },
   {
    "date": "2026-06-09T11:15:00Z",
@@ -347,15 +372,7 @@
    "direction": "BUY",
    "primary_ticker": "IBM",
    "strength": 72,
-   "reason": "Trump praised IBM CEO as 'legend' and government floated $1B quantum award to IBM",
-   "price_since": {
-    "ticker": "IBM",
-    "pct": -1.8,
-    "base": 277.49,
-    "last": 272.36,
-    "base_date": "2026-06-09",
-    "last_date": "2026-06-10"
-   }
+   "reason": "Trump praised IBM CEO as 'legend' and government floated $1B quantum award to IBM"
   },
   {
    "date": "2026-06-09T10:57:12Z",
@@ -371,15 +388,7 @@
    "direction": "BUY",
    "primary_ticker": "PLTR",
    "strength": 55,
-   "reason": "Trump signals support for Palantir, driving retail interest and stock recovery",
-   "price_since": {
-    "ticker": "PLTR",
-    "pct": -1.4,
-    "base": 132.07,
-    "last": 130.21,
-    "base_date": "2026-06-09",
-    "last_date": "2026-06-10"
-   }
+   "reason": "Trump signals support for Palantir, driving retail interest and stock recovery"
   },
   {
    "date": "2026-06-09T10:27:17Z",
@@ -411,15 +420,7 @@
    "direction": "BUY",
    "primary_ticker": "NOW",
    "strength": 65,
-   "reason": "Trump holds stake in ServiceNow and stock rises on news; explicit ownership creates direct bullish signal for NOW.",
-   "price_since": {
-    "ticker": "NOW",
-    "pct": -0.9,
-    "base": 106.97,
-    "last": 106.06,
-    "base_date": "2026-06-09",
-    "last_date": "2026-06-10"
-   }
+   "reason": "Trump holds stake in ServiceNow and stock rises on news; explicit ownership creates direct bullish signal for NOW."
   },
   {
    "date": "2026-06-09T03:57:37Z",
@@ -435,15 +436,7 @@
    "direction": "WATCH",
    "primary_ticker": "IBRX",
    "strength": 35,
-   "reason": "Stock rally coincides with Trump SOTU but no specific catalyst stated",
-   "price_since": {
-    "ticker": "IBRX",
-    "pct": -3.7,
-    "base": 7.25,
-    "last": 6.98,
-    "base_date": "2026-06-09",
-    "last_date": "2026-06-10"
-   }
+   "reason": "Stock rally coincides with Trump SOTU but no specific catalyst stated"
   },
   {
    "date": "2026-06-08T20:22:46Z",
@@ -462,11 +455,11 @@
    "reason": "Trump explicitly urged buying Dell stock; historical reference to his past recommendation",
    "price_since": {
     "ticker": "DELL",
-    "pct": -7.7,
+    "pct": -4.7,
     "base": 400.77,
-    "last": 369.83,
+    "last": 381.78,
     "base_date": "2026-06-08",
-    "last_date": "2026-06-10"
+    "last_date": "2026-06-09"
    }
   },
   {
@@ -486,11 +479,11 @@
    "reason": "IBM stock surge likely tied to Trump's prior CEO praise and quantum contract rumors",
    "price_since": {
     "ticker": "IBM",
-    "pct": -3.0,
+    "pct": -1.2,
     "base": 280.82,
-    "last": 272.36,
+    "last": 277.49,
     "base_date": "2026-06-08",
-    "last_date": "2026-06-10"
+    "last_date": "2026-06-09"
    }
   },
   {
@@ -510,11 +503,11 @@
    "reason": "Trump endorsement caused stock recovery; Michael Burry remains short\u2014conflicting signals, ambiguous near-term direction",
    "price_since": {
     "ticker": "PLTR",
-    "pct": -4.6,
+    "pct": -3.2,
     "base": 136.47,
-    "last": 130.21,
+    "last": 132.07,
     "base_date": "2026-06-08",
-    "last_date": "2026-06-10"
+    "last_date": "2026-06-09"
    }
   },
   {
@@ -534,11 +527,11 @@
    "reason": "Trump imposes 100% tariffs on imported patented drugs but spares onshored/price-cut companies; mixed signal for pharma/biotech sector",
    "price_since": {
     "ticker": "XBI",
-    "pct": 0.3,
+    "pct": 2.3,
     "base": 128.43,
-    "last": 128.85,
+    "last": 131.38,
     "base_date": "2026-06-08",
-    "last_date": "2026-06-10"
+    "last_date": "2026-06-09"
    }
   },
   {
@@ -732,6 +725,22 @@
     "base_date": "2026-06-08",
     "last_date": "2026-06-10"
    }
+  },
+  {
+   "date": "2026-06-08T04:19:57Z",
+   "platform": "News",
+   "text": "Citi Stock Hits 52-Week High Before Fading As Trump Lauds Bank's 'Big Comeback' In M&A \u2014 But Full Picture Has Changed Now - Stocktwits \u2014 Citi Stock Hits 52-Week High Before Fading As Trump Lauds Bank's 'Big Comeback' In M&A \u2014 But Full Picture Has Changed Now\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWUpacUZnX014SV9nTnRZbVQ0dWhFQlZiV3ZjLV9nWExYUjVMdmlZdkdoNnFLcUhZUEhuZ1k3a2JENWJrYkhqdjJqNFlLaVlVYzBRb3dJOFA2Q1dESmhCTVJnQXJJaU15VjVFUFo2cWJDOEx3QTIzN0NSQjExRWhRZlNLaDFXeEZMQ0poajdjbGhmNlhPd1ZQSnVOSmNVa0pVTF94Z1RVdXlSU2JrR0N3X2dHSENINjZHNWdTYzB1dEZPaERK?oc=5",
+   "tickers": [
+    "C"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "C",
+   "strength": 60,
+   "reason": "Trump explicitly lauds Citi's 'big comeback' in M&A; direct praise drives stock rally to 52-week high."
   },
   {
    "date": "2026-06-07T15:56:15Z",
@@ -2655,38 +2664,6 @@
    "primary_ticker": "DELL",
    "strength": 95,
    "reason": "Trump explicitly told Americans to 'buy a Dell' and held the stock before a $9.7B Pentagon contract award."
-  },
-  {
-   "date": "2026-05-31T14:15:00Z",
-   "platform": "News",
-   "text": "Trump praised Dell, bought its stock \u2014 now the company has landed a $9.7B Pentagon contract and shares are up 255% - Yahoo Finance \u2014 Trump praised Dell, bought its stock \u2014 now the company has landed a $9.7B Pentagon contract and shares are up 255%\u00a0\u00a0Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOE5BamlfOUlfalNFc3ZZcW9pNWRpWVUtUEJuQmpBV0JzclRydlJyMjhnaUdVMm5FQ0ZBY2xEdS0yQ0xJTFk5cTNTWjJOWF81dHVjemxUZW1HZ3M5ckw4aHA1a0NYVHE0S1J2b2huY0Y0bXROOXJzOXFKWjh3TldCZHlGWFJtOV9ZQU53UUNpMTI0T1pqeEdKdWVR?oc=5",
-   "tickers": [
-    "DELL"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "DELL",
-   "strength": 95,
-   "reason": "Trump explicitly praised Dell and bought its stock; $9.7B Pentagon contract awarded to Dell, direct federal contract to named public company."
-  },
-  {
-   "date": "2026-05-31T13:19:59Z",
-   "platform": "News",
-   "text": "Dell exploded 255% since Trump told Americans to 'buy a Dell' \u2014 and his account held it before a $9.7B Pentagon deal - moneywise.com \u2014 Dell exploded 255% since Trump told Americans to 'buy a Dell' \u2014 and his account held it before a $9.7B Pentagon deal\u00a0\u00a0moneywise.com",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdDlBaHRuVVRGY0xPOTE3NU1YNlM1eC1uZUsyNnlHbWVkT2JHNWtnZ1Rjb1Q3TDBjWlRiU3FqeDQzaEFINmhfLW14SDd5d1N0RHFYR0dhdXRDTVlsZXp0NFQ2Mk9TdDZhLWJvdkp1UUxseUpQLU1zR29qUFhYMXE0VTFlOA?oc=5",
-   "tickers": [
-    "DELL"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "DELL",
-   "strength": 95,
-   "reason": "Trump explicitly told Americans to 'buy a Dell'; followed by $9.7B Pentagon contract award to Dell"
   },
   {
    "curated": true,
