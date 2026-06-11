@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-06-10T23:10:44Z",
+ "last_updated": "2026-06-11T01:40:27Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-06-10T23:46:49Z",
+   "platform": "News",
+   "text": "Citigroup stock rises after Trump praises CEO Jane Fraser and M&A ranking. - Pluang \u2014 Citigroup stock rises after Trump praises CEO Jane Fraser and M&A ranking.\u00a0\u00a0Pluang",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOV0g3VHgyM1lzejRxcU5lYWtZWWZLNTZvN0hMTlBaRUgzM05DWVZ2Z01Ja0ozV3JVQ25ZSThEVlBJc1I3Q21sVmd4REZEM3AtbkQ2cS1lM3FwclZqaG92aVZKMzNvOE9wcmxCNFRndkhyYi1nc0tQMTE1TVlNNTdWSTVuQnNKV1NULS1TcFV4SQ?oc=5",
+   "tickers": [
+    "C"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "C",
+   "strength": 65,
+   "reason": "Trump praises Citigroup CEO and M&A ranking; direct praise of named public company"
+  },
   {
    "date": "2026-06-10T20:37:30Z",
    "platform": "News",
@@ -502,6 +518,30 @@
    }
   },
   {
+   "date": "2026-06-08T18:18:28Z",
+   "platform": "News",
+   "text": "Trump Slaps 100% Tariffs On Imported Patented Drugs, Sparing Companies That Onshore Or Cut Prices - Stocktwits \u2014 Trump Slaps 100% Tariffs On Imported Patented Drugs, Sparing Companies That Onshore Or Cut Prices\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdnctZmZybWhzbWJnOW1KM1dRR3Rjb1hjc2NBSU1yTDdwUWU3R2tPX0NucE1aV0JuUDd6SDZrR0lBbmR2R0RVOVgyTkVfejEtS3Z1RU1MYV81N3ZrbU96ZzZjak55MkFxZlpBNWVwUXM5dUtFYTg3VVUwWHktMkptbjF5WGlJQVZKLWZ6elZnUmhtM2hEUFJ1NHFfUGZMajlvalR3Z1ZBN3o4V2pRczEyb0F1UzJjUjVGNWwwWUZnOA?oc=5",
+   "tickers": [
+    "XBI"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "XBI",
+   "strength": 60,
+   "reason": "Trump imposes 100% tariffs on imported patented drugs but spares onshored/price-cut companies; mixed signal for pharma/biotech sector",
+   "price_since": {
+    "ticker": "XBI",
+    "pct": 0.3,
+    "base": 128.43,
+    "last": 128.85,
+    "base_date": "2026-06-08",
+    "last_date": "2026-06-10"
+   }
+  },
+  {
    "date": "2026-06-08T15:41:27Z",
    "platform": "News",
    "text": "Tech Stocks Surge After Trump Weighs US Gov\u2019t Stake In AI Companies - AOL.com \u2014 Tech Stocks Surge After Trump Weighs US Gov\u2019t Stake In AI Companies\u00a0\u00a0AOL.com",
@@ -689,30 +729,6 @@
     "pct": -2.9,
     "base": 301.54,
     "last": 292.84,
-    "base_date": "2026-06-08",
-    "last_date": "2026-06-10"
-   }
-  },
-  {
-   "date": "2026-06-07T19:20:00Z",
-   "platform": "News",
-   "text": "Trump Slaps 100% Tariffs On Imported Patented Drugs, Sparing Companies That Onshore Or Cut Prices - Stocktwits \u2014 Trump Slaps 100% Tariffs On Imported Patented Drugs, Sparing Companies That Onshore Or Cut Prices\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdnctZmZybWhzbWJnOW1KM1dRR3Rjb1hjc2NBSU1yTDdwUWU3R2tPX0NucE1aV0JuUDd6SDZrR0lBbmR2R0RVOVgyTkVfejEtS3Z1RU1MYV81N3ZrbU96ZzZjak55MkFxZlpBNWVwUXM5dUtFYTg3VVUwWHktMkptbjF5WGlJQVZKLWZ6elZnUmhtM2hEUFJ1NHFfUGZMajlvalR3Z1ZBN3o4V2pRczEyb0F1UzJjUjVGNWwwWUZnOA?oc=5",
-   "tickers": [
-    "XBI"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "XBI",
-   "strength": 50,
-   "reason": "100% tariff on imported patented drugs incentivizes onshoring and price cuts; mixed effect (tariff pain vs. competitive advantage for US pharma)",
-   "price_since": {
-    "ticker": "XBI",
-    "pct": 0.7,
-    "base": 128.43,
-    "last": 129.27,
     "base_date": "2026-06-08",
     "last_date": "2026-06-10"
    }
