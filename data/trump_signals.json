@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-06-11T20:43:55Z",
+ "last_updated": "2026-06-11T22:31:19Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-06-11T20:02:58Z",
+   "platform": "News",
+   "text": "Stocks climb, oil drops as Trump calls off strikes on Iran - Sherwood News \u2014 Stocks climb, oil drops as Trump calls off strikes on Iran\u00a0\u00a0Sherwood News",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1sVXBPS2xrZS1sLVBvNllTMHRaVTk1WnlFNFVtVmlzNVBYQnZ1SVNrSk15YmprVjEwclp2aER1RjdBX2JMTmdjTkRpWUNHamxkeWJUYUp4aXhZX2VfS0t2WjRsQThfczhaTDlHUEpoN08?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "SPY",
+   "strength": 65,
+   "reason": "De-escalation of Iran strike threat reduces geopolitical risk premium; broad market relief."
+  },
   {
    "date": "2026-06-11T18:31:29Z",
    "platform": "News",
@@ -2711,54 +2727,6 @@
     "last": 305.63,
     "base_date": "2026-06-01",
     "last_date": "2026-06-03"
-   }
-  },
-  {
-   "date": "2026-06-01T12:59:32Z",
-   "platform": "News",
-   "text": "IBM Shares Soar After Video of Trump Praising CEO Resurfaces Online (IBM) - Yahoo Finance \u2014 IBM Shares Soar After Video of Trump Praising CEO Resurfaces Online (IBM)\u00a0\u00a0Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNlpKVEptRXIyc3FQUGZMWUxjVU0zMHVEYUhDOXBQMTA1VlROV1NTTkxITFdaZ2xyeHl4bzhGZDZ2TWllckNBM2JoN01OMW82ck1lS3Y0ay00TzRvWVViSnZPNFVJMG8ya3JPcHlZekp0SXFVamhDa244a29vMVJGSndudEJSMy1Bc0NhU3Z6NWExRFJDRkpF?oc=5",
-   "tickers": [
-    "IBM"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "IBM",
-   "strength": 65,
-   "reason": "Trump praising IBM CEO video resurfaces, shares soar",
-   "price_since": {
-    "ticker": "IBM",
-    "pct": -4.0,
-    "base": 320.42,
-    "last": 307.5,
-    "base_date": "2026-06-01",
-    "last_date": "2026-06-03"
-   }
-  },
-  {
-   "date": "2026-06-01T12:47:29Z",
-   "platform": "News",
-   "text": "Micron Stock Surged Nearly 30% After Trump Praised It in a Rally - Watcher Guru \u2014 Micron Stock Surged Nearly 30% After Trump Praised It in a Rally\u00a0\u00a0Watcher Guru",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVkFPZUFtQXUxa1NZRERuNXVWc3BvenRZOGVsSU9qYjNJV18tVU1pTWpzcnduQnRhcVJzTDUyY2xBb3I3RU94UWhreWM5c1c0Mi1RQnpLLXFCa1ExT2wxR2VBczg4ZHFMbjFtcm56M2dOOVhMUGJSQkZTLTFVTTNwWnpNM1pVRGlVRlBtdFdrOEJDZVE?oc=5",
-   "tickers": [
-    "MU"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "MU",
-   "strength": 75,
-   "reason": "Trump explicitly praised Micron at rally, stock surged nearly 30%; direct endorsement",
-   "price_since": {
-    "ticker": "MU",
-    "pct": 2.8,
-    "base": 1035.5,
-    "last": 1064.1,
-    "base_date": "2026-06-01",
-    "last_date": "2026-06-02"
    }
   },
   {
