@@ -1,7 +1,71 @@
 {
- "last_updated": "2026-06-11T06:27:12Z",
+ "last_updated": "2026-06-11T11:11:20Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-06-11T10:18:45Z",
+   "platform": "News",
+   "text": "Citi stock hits 52-week high before fading as Trump lauds bank's 'big comeback' in M&A \u2014 but full picture has changed now - MSN \u2014 Citi stock hits 52-week high before fading as Trump lauds bank's 'big comeback' in M&A \u2014 but full picture has changed now\u00a0\u00a0MSN",
+   "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPLWwtU255bnhYVG5MLTJjdzAtMDF2R0xPWmRmdFVJMVB2ejRpTUQwb2FtaG5waVp3NHFwekpFdDhHWnhZZlBBMGt1dXdfOXZQb0FROU0tbFVVMDNCcnhnUWxUd0padFVTWmo2UXN0YzhUNE01d3dPR21BTU93Wmw2OWgtS0FMQ096bHpoVVp0V1pxNk5Fei1ZUWtmSnVid2NPZFJYMGVzQndVS0Rjc1ZkamNxcmZmcGUybzRlNEc2OFBWMVhublBiVU9hWEM1ZVJPRHlLUWo3bDZabmF2VkFBQ0syZnB3OXN5blhrSjF5cUtHRE1jNUZqeG81WTEyLXhx?oc=5",
+   "tickers": [
+    "C"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "C",
+   "strength": 65,
+   "reason": "Trump explicitly praises Citigroup's M&A comeback; stock already moved on the signal"
+  },
+  {
+   "date": "2026-06-11T10:01:57Z",
+   "platform": "News",
+   "text": "A Trump Crypto Bet Vaporized 92% Of This Stock\u2014 But Here's Why The CEO Won't Sell - Benzinga \u2014 A Trump Crypto Bet Vaporized 92% Of This Stock\u2014 But Here's Why The CEO Won't Sell\u00a0\u00a0Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaVFXdmVZN2NNZHV3end2UGhZajNJLUNKRl9ZcGdHeXRrdjlzSEtrR3BQTlRVcmhfMkRETWVwSXd4RHE0SzJlaFVqZUREeW1XZU1OcHlfaUtRZTJkLUtpcUxGMzVSeURiTGo5bjZkVFRPYnFSWGxZT290M2pCY3JnS1lMRkdyaVNrQjZ4ejg0TUVIQzhuVXdWY1VicFlrRHM5cThFcUJnUHFZZzRXQmRnemJlTHgyWXA1Z29fMkMwWkxSUQ?oc=5",
+   "tickers": [
+    "TRUMP"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "TRUMP",
+   "strength": 70,
+   "reason": "Trump crypto bet down 92%; indirect bearish signal on Trump-branded crypto asset"
+  },
+  {
+   "date": "2026-06-11T07:13:48Z",
+   "platform": "News",
+   "text": "Key facts: Citi Expects Strong Q2 Trading; Trump Praises Jane Fraser - TradingView \u2014 Key facts: Citi Expects Strong Q2 Trading; Trump Praises Jane Fraser\u00a0\u00a0TradingView",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNWxrWUxjcjFGcHJmYnA2SWxCVWFKQnhsVDlVdEVLX2tQS014dE0zY3RJSVctbmVYRE9UUUd5cjczLWFlNWl0dnVfQ3FsVzV2U0J6QzJ3SnlZaG1xM056Tm5hVVpBaldFZ1VwbWx5bHhGVkM0ZmdQR3NWeXBxN20xcFY1WjZDSU5xbm5XQjg0ai1vRVBLek1SLU4zNFBsVHFUcU1LTXhHMTZoSW5aMGxhLS05VXBVeWpZMTBxZDJtcC0wWGtDbUk0?oc=5",
+   "tickers": [
+    "C"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "C",
+   "strength": 68,
+   "reason": "Trump explicitly praises Citigroup CEO Jane Fraser and M&A performance; bullish signal"
+  },
+  {
+   "date": "2026-06-11T07:05:39Z",
+   "platform": "News",
+   "text": "Citi Stock Hits 52-Week High Before Fading As Trump Lauds Bank's 'Big Comeback' In M&A \u2014 But Full Picture Has Changed Now - Stocktwits \u2014 Citi Stock Hits 52-Week High Before Fading As Trump Lauds Bank's 'Big Comeback' In M&A \u2014 But Full Picture Has Changed Now\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWUpacUZnX014SV9nTnRZbVQ0dWhFQlZiV3ZjLV9nWExYUjVMdmlZdkdoNnFLcUhZUEhuZ1k3a2JENWJrYkhqdjJqNFlLaVlVYzBRb3dJOFA2Q1dESmhCTVJnQXJJaU15VjVFUFo2cWJDOEx3QTIzN0NSQjExRWhRZlNLaDFXeEZMQ0poajdjbGhmNlhPd1ZQSnVOSmNVa0pVTF94Z1RVdXlSU2JrR0N3X2dHSENINjZHNWdTYzB1dEZPaERK?oc=5",
+   "tickers": [
+    "C"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "C",
+   "strength": 65,
+   "reason": "Trump lauds Citigroup's M&A comeback; stock moved higher on endorsement"
+  },
   {
    "date": "2026-06-11T04:50:41Z",
    "platform": "News",
@@ -19,10 +83,10 @@
    "reason": "Trump explicitly praised Citigroup's comeback and M&A performance; stock showed relative strength."
   },
   {
-   "date": "2026-06-11T04:27:53Z",
+   "date": "2026-06-11T04:50:41Z",
    "platform": "News",
-   "text": "Citi stock hits 52-week high before fading as Trump lauds bank's 'big comeback' in M&A \u2014 but full picture has changed now - MSN \u2014 Citi stock hits 52-week high before fading as Trump lauds bank's 'big comeback' in M&A \u2014 but full picture has changed now\u00a0\u00a0MSN",
-   "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNRUxieUVzd3VSZTJldkozUDg0SWpNZE9hRUswNXhZU2NKb0hWZDYwazJjdkgzQXZVUGZUUE1KZFFzX09mbl90bXhyWlotQTlWSElVQWRuUmV6N2tKY09ZaXU3eGJXcllDdFNsaDNTTmFBYU5KS0p4OFhJd3p5M0oxRnlnRmJqVFRVbzlZMkdjeEQtS2xKemtiTUNJdEM0UHBlaEE0enNuT0RQeEg3cjF2cHQ5NHYyTTZkVlRtZ1h2WnJCWW1WZTJkT1pzZGdGVC1KSGRpMTZYRkZ0eGR2TkRnZ0MxRVBTdENUaGp5QnJRQi1hS2JXNXZreHBqQXlHem0zRXRKczVZN2tYbmxwbVIta3FRUnNKNXRabC1VN3pIZ05hdnM?oc=5",
+   "text": "Citigroup Shares Show Relative Strength After Trump Social Media Endorsement - ROE Trend Analysis - newsline.com \u2014 Citigroup Shares Show Relative Strength After Trump Social Media Endorsement - ROE Trend Analysis\u00a0\u00a0newsline.com",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUkljSGtwaU0yRVZ3b05CYjV0TTFrdmhRSzk4SzBaRlN2Z2lKY1JzYWszZm5td2hzekd5a2RSNnRYNFlzbEU1VjF0ZDJpVUk5V2JITUZxUjRwUjg2MUU0VGVqRXhMZXZLdlRpM2RSNTVBakZKdFFmRHJKQTZ5MjNvVzhlNmEtRUFwLVRGcGlNYXFFaFF0Q3JJeExOaENLVVgxMTJIX3FYaFVGazBpY2VHd1RnRkw4cmZpY1E?oc=5",
    "tickers": [
     "C"
    ],
@@ -31,8 +95,24 @@
    "explicit": true,
    "direction": "BUY",
    "primary_ticker": "C",
-   "strength": 65,
-   "reason": "Trump lauded Citi's big comeback in M&A; stock hit 52-week high on praise."
+   "strength": 60,
+   "reason": "Trump social media endorsement of Citigroup shows relative strength"
+  },
+  {
+   "date": "2026-06-11T04:23:32Z",
+   "platform": "News",
+   "text": "Trump urged you to \u2018buy a Dell\u2019 while holding the stock \u2014 now it\u2019s up 255%. Enrich yourself even outside the White House - AOL.com \u2014 Trump urged you to \u2018buy a Dell\u2019 while holding the stock \u2014 now it\u2019s up 255%. Enrich yourself even outside the White House\u00a0\u00a0AOL.com",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBUb1hvNGRuUVRsUTlVUFc3X1BhMFlKLXRpQk95QVlaay01Rm5UYVZuYV9YQ1dvd3JaWjZnQXJoWjJYTjgtdGZhdWpIN29yZkZacGlUdzFFb2l4QjF1ckg4dlVqSTduc1hmZVgyamlwcTgzUERIdXVUYw?oc=5",
+   "tickers": [
+    "DELL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "DELL",
+   "strength": 85,
+   "reason": "Trump explicitly told people to 'buy Dell' while holding stock; up 255% confirms signal strength"
   },
   {
    "date": "2026-06-11T01:21:45.697Z",
@@ -66,6 +146,22 @@
    "primary_ticker": "C",
    "strength": 65,
    "reason": "Trump praises Citigroup CEO and M&A ranking; direct praise of named public company"
+  },
+  {
+   "date": "2026-06-10T22:38:02Z",
+   "platform": "News",
+   "text": "Trump bought stock in UFC's parent company while promoting White House lawn fight - MSN \u2014 Trump bought stock in UFC's parent company while promoting White House lawn fight\u00a0\u00a0MSN",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNGFwMnNGRHhITlJNU1J5SGJHcmpodVlzNDJWYTg4eEVyQnFkcEY3SVNYaE82LVNwTG5Va2tlajNIZmJuMTZaa1ZOQTJUS0VpanBHOGR1czhGSkFtRWF5dGViZGFKVmVvd1ZSbDZGUjlpREx4cVRoeXVVaVQ3SEQ3bmpkQnFveDdxQ25YWHpiMkVfeUdsMEZNUHgzbTIwUFNGNFVTTkpWa3M1QTRIUFF0RDZXeTZWaEFTeU1lUE5FblhsSkFyTGJRTmhuaw?oc=5",
+   "tickers": [
+    "TKO"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "TKO",
+   "strength": 55,
+   "reason": "Trump bought stock in UFC parent TKO while promoting it; insider bullish signal"
   },
   {
    "date": "2026-06-10T20:37:30Z",
@@ -149,6 +245,22 @@
    "reason": "Trump explicitly praises Citigroup bankers and M&A performance"
   },
   {
+   "date": "2026-06-10T13:49:41Z",
+   "platform": "News",
+   "text": "Citi stock rises after Trump praises M&A performance - Investing.com \u2014 Citi stock rises after Trump praises M&A performance\u00a0\u00a0Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMTBTUXR3UDQxcV93RVd2MWQxakdzLVVRQldqa2VsVnhrNzNkY2pNRWlveU9RQVE4UHhDU3NKNDM0ME5mRUVqVXVBc0p4OHJDZUdJSGZ4Tk9Wcy1Sc0tXVFVFQTBPUXlxUGJXVGZVSnE4Nm5XV0dWaW13MzJlc0tYOVlrZzJLMzJlSVNkRFFxSS1ZN0Y4RUYwcGdISi1pblR5RzlqdzZnT1VSamhQTEQ1V2RNdw?oc=5",
+   "tickers": [
+    "C"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "C",
+   "strength": 65,
+   "reason": "Trump praises Citigroup M&A performance; stock rises on endorsement"
+  },
+  {
    "date": "2026-06-10T13:42:28Z",
    "platform": "News",
    "text": "Citi stock rises after Trump praises M&A performance By Investing.com - Investing.com Australia \u2014 Citi stock rises after Trump praises M&A performance By Investing.com\u00a0\u00a0Investing.com Australia",
@@ -181,10 +293,10 @@
    "reason": "Trump praised Citigroup's M&A performance and rankings, positive signal for the bank."
   },
   {
-   "date": "2026-06-10T13:37:17Z",
+   "date": "2026-06-10T13:36:00Z",
    "platform": "News",
-   "text": "Citi stock rises after Trump praises M&A performance - Investing.com \u2014 Citi stock rises after Trump praises M&A performance\u00a0\u00a0Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMTBTUXR3UDQxcV93RVd2MWQxakdzLVVRQldqa2VsVnhrNzNkY2pNRWlveU9RQVE4UHhDU3NKNDM0ME5mRUVqVXVBc0p4OHJDZUdJSGZ4Tk9Wcy1Sc0tXVFVFQTBPUXlxUGJXVGZVSnE4Nm5XV0dWaW13MzJlc0tYOVlrZzJLMzJlSVNkRFFxSS1ZN0Y4RUYwcGdISi1pblR5RzlqdzZnT1VSamhQTEQ1V2RNdw?oc=5",
+   "text": "Citi stock rises after Trump praises M&A performance By Investing.com - Investing.com UK \u2014 Citi stock rises after Trump praises M&A performance By Investing.com\u00a0\u00a0Investing.com UK",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSWNkWFNuMGVTU185T1lCTnpDSmlMd2cxMzdNYmVlUEJWMXlNZmdpZlFyQUxSSDF0M0dJVE5xd1dkc256YjhMRjlXOUNlYTNnQjVaWU9NUThWbnhMbXN2NDFjN2xTeE9RQXJMaGF2SmN5Y2pPLU4tMUlIUllsQ2xpQ1V0MnZESHc5U19Rb0QzeG1GNkExbHAyNmw2cHZpZU1pbncxNDNtX1dWZ0FudFVOOGV3?oc=5",
    "tickers": [
     "C"
    ],
@@ -193,8 +305,8 @@
    "explicit": true,
    "direction": "BUY",
    "primary_ticker": "C",
-   "strength": 75,
-   "reason": "Trump praises Citi's M&A performance; stock already rising on the praise"
+   "strength": 65,
+   "reason": "Trump praises Citigroup M&A performance; stock rises on endorsement"
   },
   {
    "date": "2026-06-10T13:30:58.894Z",
@@ -311,6 +423,22 @@
    "reason": "Praise of Meta's AI program from Trump adviser \u2192 modest positive signal, not direct Trump endorsement"
   },
   {
+   "date": "2026-06-10T00:34:45Z",
+   "platform": "News",
+   "text": "\u2018Numbers were great\u2019: Trump praises inflation report despite rate being at 3-year high - KJCT \u2014 \u2018Numbers were great\u2019: Trump praises inflation report despite rate being at 3-year high\u00a0\u00a0KJCT",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTDRmc0NSc016aGY3M1lZeU1hUlg1cXhyTUFjdmJyR0JJQ3MzQWdoYy0tRWFjUGFpV1BqRngtdldPdmlpY3oySmVQRUFiOGVZbGx2R2hTYkdMdHZYWmlQb081bG5vbk5UTkJiN0hLSEdJdnJJcFlaNHFDTWV5MlFUTTdKTy1KamxkbWxuX081N3JaaVl0czFEbEVqbzk1MnfSAbMBQVVfeXFMTWFYeFA1dW5FVmJkUXVfQm80TktEdU5lN05lSEx3OVQxak1uVk1PTlFNWFllRGhvdF9Od2ZEYnpEQTd0V29ZOHlOOUFUb0ZDcUVTdDFwNW1wWXhWQzB2YWtNRWlOSWF4blJhQ3JrN2hXV1pxM1gxRWRFQWo2bHNYdkREY0Q0eml5UXNtUGpjd183Sy1UYmZxSXpxYVQtaFQ4Y0lOUlJVU0V0cFBPX1dxbEI5THM?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "SPY",
+   "strength": 25,
+   "reason": "Trump praises inflation data; macro signal but ambiguous on market direction given inflation remains elevated."
+  },
+  {
    "date": "2026-06-09T19:39:55Z",
    "platform": "News",
    "text": "Dell lands $10 billion contract weeks after Trump\u2019s $1 million-to-$5 million stock purchase - MSN \u2014 Dell lands $10 billion contract weeks after Trump\u2019s $1 million-to-$5 million stock purchase\u00a0\u00a0MSN",
@@ -324,7 +452,15 @@
    "direction": "BUY",
    "primary_ticker": "DELL",
    "strength": 75,
-   "reason": "Dell awarded $10B federal contract; Trump personal stake amplifies bullish signal"
+   "reason": "Dell awarded $10B federal contract; Trump personal stake amplifies bullish signal",
+   "price_since": {
+    "ticker": "DELL",
+    "pct": -3.1,
+    "base": 381.78,
+    "last": 369.83,
+    "base_date": "2026-06-09",
+    "last_date": "2026-06-10"
+   }
   },
   {
    "date": "2026-06-09T14:31:49Z",
@@ -340,7 +476,15 @@
    "direction": "WATCH",
    "primary_ticker": "XLE",
    "strength": 35,
-   "reason": "Iran deal evocation eases geopolitical tension, oil falls slightly; ambiguous on direction (deal could be bullish long-term or near-term bearish for oil)."
+   "reason": "Iran deal evocation eases geopolitical tension, oil falls slightly; ambiguous on direction (deal could be bullish long-term or near-term bearish for oil).",
+   "price_since": {
+    "ticker": "XLE",
+    "pct": 1.5,
+    "base": 57.39,
+    "last": 58.25,
+    "base_date": "2026-06-09",
+    "last_date": "2026-06-10"
+   }
   },
   {
    "date": "2026-06-09T11:20:12Z",
@@ -437,30 +581,6 @@
    "primary_ticker": "IBRX",
    "strength": 35,
    "reason": "Stock rally coincides with Trump SOTU but no specific catalyst stated"
-  },
-  {
-   "date": "2026-06-08T20:22:46Z",
-   "platform": "News",
-   "text": "Trump urged you to \u2018buy a Dell\u2019 while holding the stock \u2014 now it\u2019s up 255%. Enrich yourself even outside the White House - AOL.com \u2014 Trump urged you to \u2018buy a Dell\u2019 while holding the stock \u2014 now it\u2019s up 255%. Enrich yourself even outside the White House\u00a0\u00a0AOL.com",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBUb1hvNGRuUVRsUTlVUFc3X1BhMFlKLXRpQk95QVlaay01Rm5UYVZuYV9YQ1dvd3JaWjZnQXJoWjJYTjgtdGZhdWpIN29yZkZacGlUdzFFb2l4QjF1ckg4dlVqSTduc1hmZVgyamlwcTgzUERIdXVUYw?oc=5",
-   "tickers": [
-    "DELL"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "DELL",
-   "strength": 85,
-   "reason": "Trump explicitly urged buying Dell stock; historical reference to his past recommendation",
-   "price_since": {
-    "ticker": "DELL",
-    "pct": -4.7,
-    "base": 400.77,
-    "last": 381.78,
-    "base_date": "2026-06-08",
-    "last_date": "2026-06-09"
-   }
   },
   {
    "date": "2026-06-08T19:01:25Z",
@@ -725,22 +845,6 @@
     "base_date": "2026-06-08",
     "last_date": "2026-06-10"
    }
-  },
-  {
-   "date": "2026-06-08T04:19:57Z",
-   "platform": "News",
-   "text": "Citi Stock Hits 52-Week High Before Fading As Trump Lauds Bank's 'Big Comeback' In M&A \u2014 But Full Picture Has Changed Now - Stocktwits \u2014 Citi Stock Hits 52-Week High Before Fading As Trump Lauds Bank's 'Big Comeback' In M&A \u2014 But Full Picture Has Changed Now\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWUpacUZnX014SV9nTnRZbVQ0dWhFQlZiV3ZjLV9nWExYUjVMdmlZdkdoNnFLcUhZUEhuZ1k3a2JENWJrYkhqdjJqNFlLaVlVYzBRb3dJOFA2Q1dESmhCTVJnQXJJaU15VjVFUFo2cWJDOEx3QTIzN0NSQjExRWhRZlNLaDFXeEZMQ0poajdjbGhmNlhPd1ZQSnVOSmNVa0pVTF94Z1RVdXlSU2JrR0N3X2dHSENINjZHNWdTYzB1dEZPaERK?oc=5",
-   "tickers": [
-    "C"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "C",
-   "strength": 60,
-   "reason": "Trump explicitly lauds Citi's 'big comeback' in M&A; direct praise drives stock rally to 52-week high."
   },
   {
    "date": "2026-06-07T15:56:15Z",
@@ -2616,54 +2720,6 @@
    "primary_ticker": "IBM",
    "strength": 45,
    "reason": "Trump praised IBM CEO as 'legend' and government floated $1B quantum contract award to IBM; positive signal but not explicit buy directive"
-  },
-  {
-   "date": "2026-05-31T14:24:17Z",
-   "platform": "News",
-   "text": "Dell exploded 255% since Trump told Americans to 'buy a Dell' \u2014 and his account held it before a $9.7B Pentagon deal - AOL.com \u2014 Dell exploded 255% since Trump told Americans to 'buy a Dell' \u2014 and his account held it before a $9.7B Pentagon deal\u00a0\u00a0AOL.com",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5PcmJ6b3JSVVZ3MVlIeE93bTRHR2JYV1hsMm8yVG9jWnIySU03bGsybmNvU1FyZlE3Ni1QYnNEVGZIaUFHVjhSbklIdElsRktwSEtOY0xkR1NsNE1FYUVPS2s4MW94dXZqbGJlR2dEcUo5NHVxRDlueC1hWlo?oc=5",
-   "tickers": [
-    "DELL"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "DELL",
-   "strength": 85,
-   "reason": "Trump told Americans to 'buy a Dell' and held stock; company secured $9.7B Pentagon deal\u2014strong explicit buy signal with contract win"
-  },
-  {
-   "date": "2026-05-31T14:24:17Z",
-   "platform": "News",
-   "text": "Trump praised Dell, bought its stock \u2014 now the company has landed a $9.7B Pentagon contract and shares are up 255% - AOL.com \u2014 Trump praised Dell, bought its stock \u2014 now the company has landed a $9.7B Pentagon contract and shares are up 255%\u00a0\u00a0AOL.com",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5PcmJ6b3JSVVZ3MVlIeE93bTRHR2JYV1hsMm8yVG9jWnIySU03bGsybmNvU1FyZlE3Ni1QYnNEVGZIaUFHVjhSbklIdElsRktwSEtOY0xkR1NsNE1FYUVPS2s4MW94dXZqbGJlR2dEcUo5NHVxRDlueC1hWlo?oc=5",
-   "tickers": [
-    "DELL"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "DELL",
-   "strength": 88,
-   "reason": "Trump explicitly told Americans to 'buy Dell', bought stock himself; $9.7B Pentagon contract awarded; stock up 255%"
-  },
-  {
-   "date": "2026-05-31T14:15:00Z",
-   "platform": "News",
-   "text": "Dell exploded 255% since Trump told Americans to 'buy a Dell' \u2014 and his account held it before a $9.7B Pentagon deal - Yahoo Finance \u2014 Dell exploded 255% since Trump told Americans to 'buy a Dell' \u2014 and his account held it before a $9.7B Pentagon deal\u00a0\u00a0Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOE5BamlfOUlfalNFc3ZZcW9pNWRpWVUtUEJuQmpBV0JzclRydlJyMjhnaUdVMm5FQ0ZBY2xEdS0yQ0xJTFk5cTNTWjJOWF81dHVjemxUZW1HZ3M5ckw4aHA1a0NYVHE0S1J2b2huY0Y0bXROOXJzOXFKWjh3TldCZHlGWFJtOV9ZQU53UUNpMTI0T1pqeEdKdWVR?oc=5",
-   "tickers": [
-    "DELL"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "DELL",
-   "strength": 95,
-   "reason": "Trump explicitly told Americans to 'buy a Dell' and held the stock before a $9.7B Pentagon contract award."
   },
   {
    "curated": true,
