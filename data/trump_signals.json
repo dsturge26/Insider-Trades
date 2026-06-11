@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-06-11T14:56:19Z",
+ "last_updated": "2026-06-11T18:17:07Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -36,6 +36,22 @@
    "reason": "Threats to seize Iranian oil infrastructure and control oil markets imply potential supply disruption and higher oil/energy prices."
   },
   {
+   "date": "2026-06-11T12:05:18Z",
+   "platform": "News",
+   "text": "A Trump crypto bet vaporized 92% of this stock\u2014but here's why the CEO won't sell - MSN \u2014 A Trump crypto bet vaporized 92% of this stock\u2014but here's why the CEO won't sell\u00a0\u00a0MSN",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORVFKNlc4eThQTUJCSlJIUmdxbHJhZGFfdVhmWUM3VGV1UFZOSXh4NHBQNUZXVXA5Zkx2MjZheExuc1ZxX3FOa1h3MW1pbXUxeWhWVHZrWENPbjVpVFo4bkFuZFlTb1lpVWRocVU3STZrNHUwY2FKNk1LdTdhZGJZcGF2N2JkNjVjck1GUmgweHRkT1FYUV9aZkZKZUQtLXk0cV90dEdiVzE2enl0YmV4Ri1NanhUTTJNUHI1aVBWY0FuSllZOElsd1hBbWJfOGV6Slhz?oc=5",
+   "tickers": [
+    "TRUMP"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "TRUMP",
+   "strength": 45,
+   "reason": "Trump crypto bet lost 92%; bearish signal for crypto/Trump-linked assets."
+  },
+  {
    "date": "2026-06-11T10:18:45Z",
    "platform": "News",
    "text": "Citi stock hits 52-week high before fading as Trump lauds bank's 'big comeback' in M&A \u2014 but full picture has changed now - MSN \u2014 Citi stock hits 52-week high before fading as Trump lauds bank's 'big comeback' in M&A \u2014 but full picture has changed now\u00a0\u00a0MSN",
@@ -68,6 +84,22 @@
    "reason": "Trump crypto bet down 92%; indirect bearish signal on Trump-branded crypto asset"
   },
   {
+   "date": "2026-06-11T08:19:11Z",
+   "platform": "News",
+   "text": "Citi Stock Hits 52-Week High Before Fading As Trump Lauds Bank's 'Big Comeback' In M&A \u2014 But Full Picture Has Changed Now - Stocktwits \u2014 Citi Stock Hits 52-Week High Before Fading As Trump Lauds Bank's 'Big Comeback' In M&A \u2014 But Full Picture Has Changed Now\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWUpacUZnX014SV9nTnRZbVQ0dWhFQlZiV3ZjLV9nWExYUjVMdmlZdkdoNnFLcUhZUEhuZ1k3a2JENWJrYkhqdjJqNFlLaVlVYzBRb3dJOFA2Q1dESmhCTVJnQXJJaU15VjVFUFo2cWJDOEx3QTIzN0NSQjExRWhRZlNLaDFXeEZMQ0poajdjbGhmNlhPd1ZQSnVOSmNVa0pVTF94Z1RVdXlSU2JrR0N3X2dHSENINjZHNWdTYzB1dEZPaERK?oc=5",
+   "tickers": [
+    "C"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "C",
+   "strength": 70,
+   "reason": "Trump explicitly praises Citigroup's M&A comeback and CEO Jane Fraser; stock hit 52-week high on endorsement."
+  },
+  {
    "date": "2026-06-11T07:13:48Z",
    "platform": "News",
    "text": "Key facts: Citi Expects Strong Q2 Trading; Trump Praises Jane Fraser - TradingView \u2014 Key facts: Citi Expects Strong Q2 Trading; Trump Praises Jane Fraser\u00a0\u00a0TradingView",
@@ -82,22 +114,6 @@
    "primary_ticker": "C",
    "strength": 68,
    "reason": "Trump explicitly praises Citigroup CEO Jane Fraser and M&A performance; bullish signal"
-  },
-  {
-   "date": "2026-06-11T07:05:39Z",
-   "platform": "News",
-   "text": "Citi Stock Hits 52-Week High Before Fading As Trump Lauds Bank's 'Big Comeback' In M&A \u2014 But Full Picture Has Changed Now - Stocktwits \u2014 Citi Stock Hits 52-Week High Before Fading As Trump Lauds Bank's 'Big Comeback' In M&A \u2014 But Full Picture Has Changed Now\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWUpacUZnX014SV9nTnRZbVQ0dWhFQlZiV3ZjLV9nWExYUjVMdmlZdkdoNnFLcUhZUEhuZ1k3a2JENWJrYkhqdjJqNFlLaVlVYzBRb3dJOFA2Q1dESmhCTVJnQXJJaU15VjVFUFo2cWJDOEx3QTIzN0NSQjExRWhRZlNLaDFXeEZMQ0poajdjbGhmNlhPd1ZQSnVOSmNVa0pVTF94Z1RVdXlSU2JrR0N3X2dHSENINjZHNWdTYzB1dEZPaERK?oc=5",
-   "tickers": [
-    "C"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "C",
-   "strength": 65,
-   "reason": "Trump lauds Citigroup's M&A comeback; stock moved higher on endorsement"
   },
   {
    "date": "2026-06-11T04:50:41Z",
@@ -130,6 +146,22 @@
    "primary_ticker": "C",
    "strength": 60,
    "reason": "Trump social media endorsement of Citigroup shows relative strength"
+  },
+  {
+   "date": "2026-06-11T04:50:41Z",
+   "platform": "News",
+   "text": "Citigroup Shares Show Relative Strength After Trump Social Media Endorsement - Quarterly Earnings Report - newsline.com \u2014 Citigroup Shares Show Relative Strength After Trump Social Media Endorsement - Quarterly Earnings Report\u00a0\u00a0newsline.com",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZnlpeEw5SHdxeV85Q0gxMFBkSDNObTFpRlV1cTFCam9BY0JhUGNnMi1nY0M1cUhJVTVYaE13Y0gwZUk4WTNENmhwRVhCc3FWcmFWMElaYjJGX0ZfM0h4aDBHMDRMQkVycTlNaC1KdUMzWlJ5RDRvUEVfd0lrM2hMbGhEdXpfMVVfUkJBdGZELTVnT0hhQmdEamNXbGR5R2FVWlcta2JwdFIzNVdLYVh4dTVxNlZQMUljUkE?oc=5",
+   "tickers": [
+    "C"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "C",
+   "strength": 65,
+   "reason": "Trump social media endorsement aligns with Citigroup quarterly earnings strength."
   },
   {
    "date": "2026-06-11T04:23:32Z",
@@ -181,9 +213,9 @@
    "reason": "Trump praises Citigroup CEO and M&A ranking; direct praise of named public company",
    "price_since": {
     "ticker": "C",
-    "pct": 1.0,
+    "pct": 2.8,
     "base": 133.38,
-    "last": 134.7,
+    "last": 137.12,
     "base_date": "2026-06-10",
     "last_date": "2026-06-11"
    }
@@ -205,9 +237,9 @@
    "reason": "Trump bought stock in UFC parent TKO while promoting it; insider bullish signal",
    "price_since": {
     "ticker": "TKO",
-    "pct": 1.6,
+    "pct": 2.9,
     "base": 206.43,
-    "last": 209.63,
+    "last": 212.45,
     "base_date": "2026-06-10",
     "last_date": "2026-06-11"
    }
@@ -229,9 +261,9 @@
    "reason": "Semiconductor slide (chips down); broad market weakness on Nasdaq 2% drop.",
    "price_since": {
     "ticker": "SMH",
-    "pct": 2.7,
+    "pct": 5.0,
     "base": 570.91,
-    "last": 586.41,
+    "last": 599.73,
     "base_date": "2026-06-10",
     "last_date": "2026-06-11"
    }
@@ -253,9 +285,9 @@
    "reason": "Trump explicitly praises Citigroup CEO and M&A performance, bullish for bank stock",
    "price_since": {
     "ticker": "C",
-    "pct": 1.0,
+    "pct": 2.8,
     "base": 133.38,
-    "last": 134.74,
+    "last": 137.12,
     "base_date": "2026-06-10",
     "last_date": "2026-06-11"
    }
@@ -278,9 +310,9 @@
    "reason": "US naval control of Hormuz securing oil supply \u2192 bullish for oil sector",
    "price_since": {
     "ticker": "XLE",
-    "pct": 0.2,
+    "pct": -1.0,
     "base": 58.25,
-    "last": 58.38,
+    "last": 57.69,
     "base_date": "2026-06-10",
     "last_date": "2026-06-11"
    }
@@ -302,9 +334,9 @@
    "reason": "Rumor of Trump stake in OpenAI (Microsoft-backed) \u2192 ambiguous, unconfirmed",
    "price_since": {
     "ticker": "MSFT",
-    "pct": -2.6,
+    "pct": -2.1,
     "base": 397.36,
-    "last": 387.19,
+    "last": 388.9,
     "base_date": "2026-06-10",
     "last_date": "2026-06-11"
    }
@@ -326,9 +358,9 @@
    "reason": "Trump praises Citigroup and CEO Jane Fraser by name; direct positive signal",
    "price_since": {
     "ticker": "C",
-    "pct": 1.0,
+    "pct": 2.8,
     "base": 133.38,
-    "last": 134.74,
+    "last": 137.12,
     "base_date": "2026-06-10",
     "last_date": "2026-06-11"
    }
@@ -350,9 +382,9 @@
    "reason": "Trump explicitly praises Citigroup bankers and M&A performance",
    "price_since": {
     "ticker": "C",
-    "pct": 1.0,
+    "pct": 2.8,
     "base": 133.38,
-    "last": 134.74,
+    "last": 137.11,
     "base_date": "2026-06-10",
     "last_date": "2026-06-11"
    }
@@ -374,9 +406,9 @@
    "reason": "Trump praises Citigroup M&A performance; stock rises on endorsement",
    "price_since": {
     "ticker": "C",
-    "pct": 1.0,
+    "pct": 2.8,
     "base": 133.38,
-    "last": 134.7,
+    "last": 137.12,
     "base_date": "2026-06-10",
     "last_date": "2026-06-11"
    }
@@ -398,9 +430,9 @@
    "reason": "Trump praised Citigroup's M&A performance and rankings, positive signal for the bank.",
    "price_since": {
     "ticker": "C",
-    "pct": 1.0,
+    "pct": 2.8,
     "base": 133.38,
-    "last": 134.74,
+    "last": 137.12,
     "base_date": "2026-06-10",
     "last_date": "2026-06-11"
    }
@@ -422,9 +454,9 @@
    "reason": "Trump praised Citigroup's M&A performance and rankings, positive signal for the bank.",
    "price_since": {
     "ticker": "C",
-    "pct": 1.0,
+    "pct": 2.8,
     "base": 133.38,
-    "last": 134.74,
+    "last": 137.11,
     "base_date": "2026-06-10",
     "last_date": "2026-06-11"
    }
@@ -446,9 +478,9 @@
    "reason": "Trump praises Citigroup M&A performance; stock rises on endorsement",
    "price_since": {
     "ticker": "C",
-    "pct": 1.0,
+    "pct": 2.8,
     "base": 133.38,
-    "last": 134.74,
+    "last": 137.11,
     "base_date": "2026-06-10",
     "last_date": "2026-06-11"
    }
@@ -471,9 +503,9 @@
    "reason": "Trump explicitly praised Citi's #1 M&A ranking with emphatic language (!!!), direct endorsement.",
    "price_since": {
     "ticker": "C",
-    "pct": 1.0,
+    "pct": 2.8,
     "base": 133.38,
-    "last": 134.74,
+    "last": 137.11,
     "base_date": "2026-06-10",
     "last_date": "2026-06-11"
    }
@@ -495,9 +527,9 @@
    "reason": "Naval blockade securing Middle East oil supply \u2192 bullish for energy",
    "price_since": {
     "ticker": "XLE",
-    "pct": 0.2,
+    "pct": -1.0,
     "base": 58.25,
-    "last": 58.37,
+    "last": 57.69,
     "base_date": "2026-06-10",
     "last_date": "2026-06-11"
    }
@@ -2720,63 +2752,6 @@
     "base_date": "2026-06-01",
     "last_date": "2026-06-02"
    }
-  },
-  {
-   "date": "2026-06-01T12:17:56Z",
-   "platform": "News",
-   "text": "IBM shares surged as much as 15% in pre-market trading; over the weekend, a video resurfaced on social media showing Trump praising the IBM CEO and discussing the company's stock at an event last December. - Bitget \u2014 IBM shares surged as much as 15% in pre-market trading; over the weekend, a video resurfaced on social media showing Trump praising the IBM CEO and discussing the company's stock a",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9XTWlkdEpmRGhfSEJzX2pINnc2c2o0ZHFDU0twdVlyYWhVUWtZdkp2ZjJjLTlHWHRwOHQ1VFR0OG0wbFZ4MnBLU3pTWTY3WUFzSGJiZUpobzlYWG9JcXNwbUg1Z9IBY0FVX3lxTE9XTWlkdEpmRGhfSEJzX2pINnc2c2o0ZHFDU0twdVlyYWhVUWtZdkp2ZjJjLTlHWHRwOHQ1VFR0OG0wbFZ4MnBLU3pTWTY3WUFzSGJiZUpobzlYWG9JcXNwbUg1Zw?oc=5",
-   "tickers": [
-    "IBM"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "IBM",
-   "strength": 85,
-   "reason": "Video of Trump praising IBM CEO and stock discussion; explicit positive endorsement",
-   "price_since": {
-    "ticker": "IBM",
-    "pct": 2.7,
-    "base": 320.42,
-    "last": 329.23,
-    "base_date": "2026-06-01",
-    "last_date": "2026-06-02"
-   }
-  },
-  {
-   "date": "2026-06-01T05:02:12.750Z",
-   "platform": "Truth Social",
-   "text": "Iran really wants to make a deal, and it will be a good one for the U.S.A. and those that are with us. But don't the Dumocrats, and various seemingly unpatriotic Republicans,  understand that it is MUCH tougher for me to properly do my job and negotiate, when political hacks keep negatively \"chirping,\" at levels never seen before, over and over again, that I should move faster, or move slower, or go to war, or not go to war, or whatever. Just sit back and relax, it will all work out well in the end - It always does! President DJT",
-   "tickers": [
-    "SPY"
-   ],
-   "engagement": 2221,
-   "url": "https://truthsocial.com/@realDonaldTrump/116673094140159291",
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "SPY",
-   "strength": 15,
-   "reason": "Iran deal negotiation mentioned but vague; macro geopolitical signal without concrete direction."
-  },
-  {
-   "date": "2026-06-01T04:05:49Z",
-   "platform": "News",
-   "text": "Why Is IBM Stock Surging Nearly 7% Higher In Overnight Trading? - TradingView \u2014 Why Is IBM Stock Surging Nearly 7% Higher In Overnight Trading?\u00a0\u00a0TradingView",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPLW1DLW1PTFZRZzh0bGRQM0Myamo3N2RhcDRyeVdJZ0hDMmFtbTFzWDh1ZnhpY09iOENURDNGOE15V1M2QVB1TG5qNnVwLS0wbGIxLXhmVmJuWHBObkNzWVdIZFRsS1NTcTh3RVBpMHBQbWF0NFZuemt6dUxxVUhxMnpLOFpvc1JJQ0tWb0MxTFEyeXNDT0N0YWd3czhQeFJvTnFUMzUtMzUwbzVKdHFpUGNlZUJlMmJDRkItUllaY0JCcGM?oc=5",
-   "tickers": [
-    "IBM"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "IBM",
-   "strength": 70,
-   "reason": "IBM surge follows Trump praise; explicit endorsement moving stock"
   },
   {
    "curated": true,
