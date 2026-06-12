@@ -1,7 +1,39 @@
 {
- "last_updated": "2026-06-12T18:10:16Z",
+ "last_updated": "2026-06-12T20:27:11Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-06-12T20:07:45Z",
+   "platform": "News",
+   "text": "Stocks Rise On SpaceX IPO, Trump\u2019s Claims That Iran Deal Is Close - International Business Times \u2014 Stocks Rise On SpaceX IPO, Trump\u2019s Claims That Iran Deal Is Close\u00a0\u00a0International Business Times",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOR2VnTGc4N29qbVhYYmNPOEs3NURzNFdyYWxhOG5tb19IOExUNzZmMnU2dEtoc05KNjgxRjJHSG5wS2ZjQTVWVWptb2xnN19mNWJqMXpIQmNTdFVEdlZ4SmFuekV3OWwyaU1VR1pRME51aHhxcmZPbnoyTEZtMFpFSy1Jb1pobi1ZcGdQQzNSVDFfdFE?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "SPY",
+   "strength": 35,
+   "reason": "SpaceX IPO and Iran deal optimism support broad market sentiment"
+  },
+  {
+   "date": "2026-06-12T18:09:20Z",
+   "platform": "News",
+   "text": "Trump praises Citigroup bankers in post: 'They've worked really hard!' - MSN \u2014 Trump praises Citigroup bankers in post: 'They've worked really hard!'\u00a0\u00a0MSN",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcWV2NmVTTm5ieWU4bmYyUnBFdFltbGUtekk0ZmgxUU82QTZWWkVmeGtaUGRaQkNpZnl5VmdyT3ZjNi00WlhmN0tFaUhTWkFKMGdkOFRYRGRTNnB3QTFHVUxacDRxUk5tTkVLVnpMdlRfbGVPRnJHaUVyZEpQZEFxdUMyLUJCcmRfVllDaHdkdDRPNDRzYTAyQ1UtS2ozX2VXSHVFWWlrMzBaSmNxUXF1TUctY1EyZHNmdTJWTw?oc=5",
+   "tickers": [
+    "C"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "C",
+   "strength": 55,
+   "reason": "Trump explicitly praises Citigroup bankers and company performance"
+  },
   {
    "date": "2026-06-12T16:30:00Z",
    "platform": "News",
@@ -52,6 +84,22 @@
    "reason": "Trump escalates Iran rhetoric; geopolitical tension typically bearish for broad equities and oil prices"
   },
   {
+   "date": "2026-06-12T04:29:12Z",
+   "platform": "News",
+   "text": "US stocks drift as oil falls and SpaceX debuts on Wall Street - ClickOnDetroit | WDIV Local 4 \u2014 US stocks drift as oil falls and SpaceX debuts on Wall Street\u00a0\u00a0ClickOnDetroit | WDIV Local 4",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQXYwLTZzQWt6ZGp4WGVmNjRnTmlZTGpMTG1TUXFLOHE1QlQtOTJXZ1FTTi1oMThCeFlwakVGZTcyMXhXcmpDQ3I3bmk0b29EdFpQZFRUR25DQ3c1dW5kUUJySGRKMTRQZjMzdE80OUtRQzAyZUpQX0UzOUtoc2FWQjZuSWp3ckhvOW5FdU52TXFfRGNqc2RjRngxZVRxSllvNFczYjg0OTlqZU5DS1cwWTlkZlhsNHVXX3BmbDd1R3ZiMGJOa3RIc1B1ZDNoTktKMXVHTnF6bzFidw?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "SPY",
+   "strength": 30,
+   "reason": "SpaceX IPO and oil weakness create mixed directional signals"
+  },
+  {
    "date": "2026-06-12T02:25:41Z",
    "platform": "News",
    "text": "Stock market, Trump-Iran deal: Brent below $90, Asian shares rallying; will Sensex, Nifty join the party? - Business Today \u2014 Stock market, Trump-Iran deal: Brent below $90, Asian shares rallying; will Sensex, Nifty join the party?\u00a0\u00a0Business Today",
@@ -84,6 +132,22 @@
    "reason": "SpaceX debut and Iran deal confirmation bullish for risk sentiment; stocks rising on deescalation."
   },
   {
+   "date": "2026-06-12T00:14:02Z",
+   "platform": "News",
+   "text": "Stocks mostly hold on to gains amid SpaceX\u2019s historic IPO, Iran peace deal hopes - Investing.com \u2014 Stocks mostly hold on to gains amid SpaceX\u2019s historic IPO, Iran peace deal hopes\u00a0\u00a0Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMjM2Z054T29LdWNmZjJVVDhkRzhaRmVkU1dQbHBLR0NQT3RQNEduLU5sSXB4dlo0VkFJem9lRnpSYlBoSF9xX3diMnpxVG41bmtaUlp4enU5aXhIb2xjek9HRG9fUHNadk1uS0tPM0U5c0RMTzAxcDNLRHhmWlBBMlZUcWFsa0Z6YXhoLU5NRDhxanE2RTBKd1NDTWprYUlObmFQdXZ3ZEJETTY4OE5GdkMwZjAzN1RiZG5NZGZNWFNSWU9xMjNyLTJvQVQ4ZHB5RjZN?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "SPY",
+   "strength": 40,
+   "reason": "SpaceX IPO and Iran peace deal hopes support broad market gains"
+  },
+  {
    "date": "2026-06-11T23:32:34Z",
    "platform": "News",
    "text": "Trump Slaps 100% Tariffs On Imported Patented Drugs, Sparing Companies That Onshore Or Cut Prices - Stocktwits \u2014 Trump Slaps 100% Tariffs On Imported Patented Drugs, Sparing Companies That Onshore Or Cut Prices\u00a0\u00a0Stocktwits",
@@ -100,9 +164,33 @@
    "reason": "100% tariffs on imported patented drugs bearish for pharma/biotech sector",
    "price_since": {
     "ticker": "XBI",
-    "pct": 1.1,
+    "pct": 0.8,
     "base": 132.74,
-    "last": 134.14,
+    "last": 133.79,
+    "base_date": "2026-06-11",
+    "last_date": "2026-06-12"
+   }
+  },
+  {
+   "date": "2026-06-11T22:03:00Z",
+   "platform": "News",
+   "text": "SpaceX IPO makes Elon Musk the world's first trillionaire - Reuters \u2014 SpaceX IPO makes Elon Musk the world's first trillionaire\u00a0\u00a0Reuters",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNM2x1cE0xNTl3dWdWTHhWdTlmU05kWmRvaGxIbTRNd21CbUxDWkVuN3djS1piZGtDOUVuNnJyY1dwS1FxWnVCMmJtT05rbHJXWHlQaUo0aVFkejlpOW96Z201ck91QmJNdWlHZm1zUWJLdWxNWm9Bck5PVjRqZHI5d29RaHk4RHRvdFZCU0VmZS1pM3NxNHVKZ1N5ZjBGOXBXTDc0cTdQUmdubEVaNHpDbA?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "SPY",
+   "strength": 45,
+   "reason": "SpaceX IPO represents major market event and wealth creation signal",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": 0.5,
+    "base": 737.76,
+    "last": 741.77,
     "base_date": "2026-06-11",
     "last_date": "2026-06-12"
    }
@@ -124,9 +212,9 @@
    "reason": "Jamie Dimon (major financier) praises deregulation and Trump's growth plan; bullish for broad market and financial sector.",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.4,
+    "pct": 0.5,
     "base": 737.76,
-    "last": 740.95,
+    "last": 741.77,
     "base_date": "2026-06-11",
     "last_date": "2026-06-12"
    }
@@ -148,9 +236,9 @@
    "reason": "De-escalation of Iran strike threat reduces geopolitical risk premium; broad market relief.",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.4,
+    "pct": 0.5,
     "base": 737.76,
-    "last": 740.95,
+    "last": 741.77,
     "base_date": "2026-06-11",
     "last_date": "2026-06-12"
    }
@@ -172,9 +260,9 @@
    "reason": "Trump calls off Iran strikes; reduces geopolitical risk premium, oil plunges",
    "price_since": {
     "ticker": "XLE",
-    "pct": 1.1,
+    "pct": 0.8,
     "base": 57.12,
-    "last": 57.76,
+    "last": 57.55,
     "base_date": "2026-06-11",
     "last_date": "2026-06-12"
    }
@@ -212,9 +300,9 @@
    "reason": "Alleged insider trading in promoted stocks raises regulatory/market-integrity concerns; direction unclear without specifics.",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.4,
+    "pct": 0.5,
     "base": 737.76,
-    "last": 740.95,
+    "last": 741.77,
     "base_date": "2026-06-11",
     "last_date": "2026-06-12"
    }
@@ -237,9 +325,9 @@
    "reason": "Threats to seize Iranian oil infrastructure and control oil markets imply potential supply disruption and higher oil/energy prices.",
    "price_since": {
     "ticker": "XLE",
-    "pct": 1.1,
+    "pct": 0.8,
     "base": 57.12,
-    "last": 57.76,
+    "last": 57.55,
     "base_date": "2026-06-11",
     "last_date": "2026-06-12"
    }
@@ -261,6 +349,30 @@
    "reason": "Trump crypto bet lost 92%; bearish signal for crypto/Trump-linked assets."
   },
   {
+   "date": "2026-06-11T10:46:00Z",
+   "platform": "News",
+   "text": "SpaceX IPO: Wall Street analysts say the stock is worth only half of Elon Musk\u2019s price - Fortune \u2014 SpaceX IPO: Wall Street analysts say the stock is worth only half of Elon Musk\u2019s price\u00a0\u00a0Fortune",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSmdYQWNzOVQ0eWV4d25DN01mMzVVbl82anY2TTNvNS1pZk1FWDV2Rnl6blFpd3d6STBFS0xXdm1EcHlhcER3OU1uZUU4VWVaTVdtcHRQQmp3cWRHUXJiVzFhdDRmaHA4Y3RIa2xWSTBNU2FjNUlfNm9FQWlOTzdsUGp0MEJVdw?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "SPY",
+   "strength": 35,
+   "reason": "SpaceX IPO valuation concerns create mixed near-term sentiment signal",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": 0.5,
+    "base": 737.76,
+    "last": 741.77,
+    "base_date": "2026-06-11",
+    "last_date": "2026-06-12"
+   }
+  },
+  {
    "date": "2026-06-11T10:35:12Z",
    "platform": "News",
    "text": "PLTR Stock Faces Split Narrative: Retail Bulls Hold Firm As Burry Sounds Alarm, Trump Signals Support - Stocktwits \u2014 PLTR Stock Faces Split Narrative: Retail Bulls Hold Firm As Burry Sounds Alarm, Trump Signals Support\u00a0\u00a0Stocktwits",
@@ -277,9 +389,9 @@
    "reason": "Trump signals support for Palantir; mixed narrative with bearish analyst view makes direction ambiguous",
    "price_since": {
     "ticker": "PLTR",
-    "pct": -2.3,
+    "pct": -2.4,
     "base": 131.08,
-    "last": 128.05,
+    "last": 127.99,
     "base_date": "2026-06-11",
     "last_date": "2026-06-12"
    }
@@ -301,9 +413,9 @@
    "reason": "Trump explicitly praises Citigroup's M&A comeback; stock already moved on the signal",
    "price_since": {
     "ticker": "C",
-    "pct": 1.4,
+    "pct": 1.3,
     "base": 138.07,
-    "last": 139.97,
+    "last": 139.83,
     "base_date": "2026-06-11",
     "last_date": "2026-06-12"
    }
@@ -341,9 +453,9 @@
    "reason": "Trump explicitly praises Citigroup's M&A comeback and CEO Jane Fraser; stock hit 52-week high on endorsement.",
    "price_since": {
     "ticker": "C",
-    "pct": 1.4,
+    "pct": 1.3,
     "base": 138.07,
-    "last": 139.97,
+    "last": 139.83,
     "base_date": "2026-06-11",
     "last_date": "2026-06-12"
    }
@@ -365,9 +477,9 @@
    "reason": "Trump explicitly praises Citigroup CEO Jane Fraser and M&A performance; bullish signal",
    "price_since": {
     "ticker": "C",
-    "pct": 1.4,
+    "pct": 1.3,
     "base": 138.07,
-    "last": 139.97,
+    "last": 139.83,
     "base_date": "2026-06-11",
     "last_date": "2026-06-12"
    }
@@ -389,9 +501,9 @@
    "reason": "Trump explicitly praised Citigroup's comeback and M&A performance; stock showed relative strength.",
    "price_since": {
     "ticker": "C",
-    "pct": 1.4,
+    "pct": 1.3,
     "base": 138.07,
-    "last": 139.97,
+    "last": 139.83,
     "base_date": "2026-06-11",
     "last_date": "2026-06-12"
    }
@@ -413,9 +525,9 @@
    "reason": "Trump social media endorsement of Citigroup shows relative strength",
    "price_since": {
     "ticker": "C",
-    "pct": 1.4,
+    "pct": 1.3,
     "base": 138.07,
-    "last": 139.97,
+    "last": 139.83,
     "base_date": "2026-06-11",
     "last_date": "2026-06-12"
    }
@@ -437,9 +549,9 @@
    "reason": "Trump social media endorsement aligns with Citigroup quarterly earnings strength.",
    "price_since": {
     "ticker": "C",
-    "pct": 1.4,
+    "pct": 1.3,
     "base": 138.07,
-    "last": 139.97,
+    "last": 139.83,
     "base_date": "2026-06-11",
     "last_date": "2026-06-12"
    }
@@ -461,9 +573,9 @@
    "reason": "Trump Social Media endorsement of Citigroup; explicit company praise signals bullish read",
    "price_since": {
     "ticker": "C",
-    "pct": 1.4,
+    "pct": 1.3,
     "base": 138.07,
-    "last": 139.97,
+    "last": 139.83,
     "base_date": "2026-06-11",
     "last_date": "2026-06-12"
    }
@@ -485,9 +597,9 @@
    "reason": "Trump praises Citigroup CEO Jane Fraser amid strong M&A rankings; bullish signal on bank",
    "price_since": {
     "ticker": "C",
-    "pct": 1.4,
+    "pct": 1.3,
     "base": 138.07,
-    "last": 139.97,
+    "last": 139.83,
     "base_date": "2026-06-11",
     "last_date": "2026-06-12"
    }
@@ -2760,78 +2872,6 @@
     "last": 284.84,
     "base_date": "2026-06-01",
     "last_date": "2026-06-05"
-   }
-  },
-  {
-   "date": "2026-06-01T16:59:14Z",
-   "platform": "News",
-   "text": "IBM Shares Surge as Old Clip of Trump\u2019s Praise Recirculates - Yahoo Finance \u2014 IBM Shares Surge as Old Clip of Trump\u2019s Praise Recirculates\u00a0\u00a0Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVTllcTFycThyalhTSUpxTDZ0RVdNSTBOTjBBbXIyNEd6alhKSFdNVFRzV3VxbFpYcVlobHczMElQU3dPU085RXk3c0lhcVlHLWZPckcycGxZbDZTWl9CTW45bUw5MEx3V3o1c1luOHBxR3Q2YVlLeS1Pc01udVhyVGxnU3lvU194QnlraGRZOWwzb3dO?oc=5",
-   "tickers": [
-    "IBM"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "IBM",
-   "strength": 75,
-   "reason": "Trump's praise recirculates, IBM shares surge; explicit positive catalyst.",
-   "price_since": {
-    "ticker": "IBM",
-    "pct": -5.8,
-    "base": 320.42,
-    "last": 301.77,
-    "base_date": "2026-06-01",
-    "last_date": "2026-06-04"
-   }
-  },
-  {
-   "date": "2026-06-01T16:59:14Z",
-   "platform": "News",
-   "text": "IBM Shares Surge as Old Clip of Trump\u2019s Praise Recirculates - Bloomberg \u2014 IBM Shares Surge as Old Clip of Trump\u2019s Praise Recirculates\u00a0\u00a0Bloomberg",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcEEyVWh6UjJlMUtEU2s1RzF5cWdpSHJfQXdrY0FxdXJERi1CdFdTcFc3b3dXTTdFdTdnZEdZc2N5cHRHd1FzN0pyU0ZNTm8zNC1iMTN2aDlnRzVfTUZkMVc3NzhYOENDdDIzWnV1UE1rSXlTX3VCNm1XTVI1VU0zZ0hGejRKcFRsZ1RiOUFZc2pQa1Q5WkdSX0ZCQ0wzSmNhbk54bUliY29OTzNaLWd0SG9HbHc3QQ?oc=5",
-   "tickers": [
-    "IBM"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "IBM",
-   "strength": 75,
-   "reason": "Old Trump praise clip recirculating; explicit endorsement of IBM driving market reaction.",
-   "price_since": {
-    "ticker": "IBM",
-    "pct": -5.8,
-    "base": 320.42,
-    "last": 301.77,
-    "base_date": "2026-06-01",
-    "last_date": "2026-06-04"
-   }
-  },
-  {
-   "date": "2026-06-01T15:48:52Z",
-   "platform": "News",
-   "text": "The IBM Surge Is Not Just About Trump, But Also About Trump - thedeepdive.ca \u2014 The IBM Surge Is Not Just About Trump, But Also About Trump\u00a0\u00a0thedeepdive.ca",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5rbWNXRlVUc2dlcnJGNE5HWXVJSkc1ak5abFVFcFBWUUcxX0d0Y3dlVHZTY0VhdmRWY2VrSnVNMl9pSkF1eVZGaEd4WVhJNG1Iem43YnRNQnJfNUJISTdhUWREUGNjUQ?oc=5",
-   "tickers": [
-    "IBM"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "IBM",
-   "strength": 60,
-   "reason": "Trump praise drives IBM stock surge",
-   "price_since": {
-    "ticker": "IBM",
-    "pct": -4.6,
-    "base": 320.42,
-    "last": 305.63,
-    "base_date": "2026-06-01",
-    "last_date": "2026-06-03"
    }
   },
   {
