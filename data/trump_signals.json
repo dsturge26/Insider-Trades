@@ -1,7 +1,39 @@
 {
- "last_updated": "2026-06-12T09:13:12Z",
+ "last_updated": "2026-06-12T12:33:46Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-06-12T02:25:41Z",
+   "platform": "News",
+   "text": "Stock market, Trump-Iran deal: Brent below $90, Asian shares rallying; will Sensex, Nifty join the party? - Business Today \u2014 Stock market, Trump-Iran deal: Brent below $90, Asian shares rallying; will Sensex, Nifty join the party?\u00a0\u00a0Business Today",
+   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOWEpWYmJ0dE9LYzhteHhaWC1jT0RrcGJKM1RCZ0NOTDh5V0t4QWhVcERObFFJNVNGUTd3NmZ2WWE3S2c4dHc0NFlfaERpZmdqRzdTeXY5UlBLMlpoRElsU25lNkJ4OS1wR2IwMWJyMVpwM2pHX01SckNRMnNhNjRZSzVHSUNhV2tQRDVZNFFzbWhOeWtoRXV0RnBiaDR1eWY2MHVPcFhObElxOEV0d0JENGNJZlZGaUxLVjlLTmtRS0ljenZ5VElTZmpxbWpjQmpqSXBQOE5STlV5VjRBT0RMVEtRNWJmdk85eG43U2FBZWdXb3VPU09qbWRB0gH_AUFVX3lxTE91YUZSU05zbm1ZSHBNQVFkY0RJdi1FZDRnRXNacmlzWXJCd2w3eS1jSXlhVk5OeDZUWHgxR09FbWtkaXVfazVXcEdaMlFvNUJqSWJfaE5KWldnMWtIVnEwTDhTZHRNSFhMZGEtYU5MR1BWMS1md3FqaW1tRzh6OVRnWVhRLUNXSXFNemIyZzFNdzNhNWZKLUZnN0lvTEpDX3JramU1bjJFaHh1cnMwZDFiSmhjOUxrY1NkNGRrNXhHeHdkYk1zZjdTZjBiZ2FrUFdTZTEyV2tUcDU0a2tOVDNIODBKR3RRSXZjb1R2OUF4TXhGTTdsSVhvMndsTlZONA?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "SPY",
+   "strength": 45,
+   "reason": "Trump-Iran deal de-escalation lowers oil/geopolitical risk, broad market bullish"
+  },
+  {
+   "date": "2026-06-11T23:32:34Z",
+   "platform": "News",
+   "text": "Trump Slaps 100% Tariffs On Imported Patented Drugs, Sparing Companies That Onshore Or Cut Prices - Stocktwits \u2014 Trump Slaps 100% Tariffs On Imported Patented Drugs, Sparing Companies That Onshore Or Cut Prices\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdnctZmZybWhzbWJnOW1KM1dRR3Rjb1hjc2NBSU1yTDdwUWU3R2tPX0NucE1aV0JuUDd6SDZrR0lBbmR2R0RVOVgyTkVfejEtS3Z1RU1MYV81N3ZrbU96ZzZjak55MkFxZlpBNWVwUXM5dUtFYTg3VVUwWHktMkptbjF5WGlJQVZKLWZ6elZnUmhtM2hEUFJ1NHFfUGZMajlvalR3Z1ZBN3o4V2pRczEyb0F1UzJjUjVGNWwwWUZnOA?oc=5",
+   "tickers": [
+    "XBI"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "XBI",
+   "strength": 60,
+   "reason": "100% tariffs on imported patented drugs bearish for pharma/biotech sector"
+  },
   {
    "date": "2026-06-11T21:35:40Z",
    "platform": "News",
@@ -915,30 +947,6 @@
     "pct": -3.2,
     "base": 136.47,
     "last": 132.07,
-    "base_date": "2026-06-08",
-    "last_date": "2026-06-09"
-   }
-  },
-  {
-   "date": "2026-06-08T18:18:28Z",
-   "platform": "News",
-   "text": "Trump Slaps 100% Tariffs On Imported Patented Drugs, Sparing Companies That Onshore Or Cut Prices - Stocktwits \u2014 Trump Slaps 100% Tariffs On Imported Patented Drugs, Sparing Companies That Onshore Or Cut Prices\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdnctZmZybWhzbWJnOW1KM1dRR3Rjb1hjc2NBSU1yTDdwUWU3R2tPX0NucE1aV0JuUDd6SDZrR0lBbmR2R0RVOVgyTkVfejEtS3Z1RU1MYV81N3ZrbU96ZzZjak55MkFxZlpBNWVwUXM5dUtFYTg3VVUwWHktMkptbjF5WGlJQVZKLWZ6elZnUmhtM2hEUFJ1NHFfUGZMajlvalR3Z1ZBN3o4V2pRczEyb0F1UzJjUjVGNWwwWUZnOA?oc=5",
-   "tickers": [
-    "XBI"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "XBI",
-   "strength": 60,
-   "reason": "Trump imposes 100% tariffs on imported patented drugs but spares onshored/price-cut companies; mixed signal for pharma/biotech sector",
-   "price_since": {
-    "ticker": "XBI",
-    "pct": 2.3,
-    "base": 128.43,
-    "last": 131.38,
     "base_date": "2026-06-08",
     "last_date": "2026-06-09"
    }
@@ -2664,54 +2672,6 @@
    "primary_ticker": "IBM",
    "strength": 74,
    "reason": "Trump praise clip recirculates driving IBM shares; explicit bullish signal.",
-   "price_since": {
-    "ticker": "IBM",
-    "pct": -4.6,
-    "base": 320.42,
-    "last": 305.63,
-    "base_date": "2026-06-01",
-    "last_date": "2026-06-03"
-   }
-  },
-  {
-   "date": "2026-06-01T14:10:18Z",
-   "platform": "News",
-   "text": "\u2018Invest in What Trump Talks About\u2019: IBM Stock Jumps on Trump Praise - TipRanks \u2014 \u2018Invest in What Trump Talks About\u2019: IBM Stock Jumps on Trump Praise\u00a0\u00a0TipRanks",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTXpGcjM4MmhxOE1lLUZMQTAyMmh5MEM5c1FIUTM2YlJnQ19sMEJvM3hzbU9rRFRycU9Rd1U1S3lKN08tMFpFakNuSUJmS2tOcExJM3lkMk1yZVl1MVZ1ZVNVb3V0aC13czl5d3ZMVzVCOG1yQWdQMXpwaVNPbVBTUnJ5bTBZQ0tzcS0xbGhYMWNHYVktRTdRbWpR?oc=5",
-   "tickers": [
-    "IBM"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "IBM",
-   "strength": 72,
-   "reason": "Trump's explicit praise of IBM triggers stock jump; direct buying signal implied",
-   "price_since": {
-    "ticker": "IBM",
-    "pct": -4.6,
-    "base": 320.42,
-    "last": 305.63,
-    "base_date": "2026-06-01",
-    "last_date": "2026-06-03"
-   }
-  },
-  {
-   "date": "2026-06-01T14:04:09Z",
-   "platform": "News",
-   "text": "IBM Shares Surge Following Trump's Praise of CEO - GuruFocus \u2014 IBM Shares Surge Following Trump's Praise of CEO\u00a0\u00a0GuruFocus",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVHMxc1JqalhRMTZ3WTl0TFFyRlY4UnFySGhWV2QySTRFZm9QUWwxR0FPN1E1dk9TN1BOQkNUcjhTeDNfRHFFMFZsMGVwdzd1cFo0OGR6S25lY3hBTU84VVBfai1oQUhad0s3YXp2OFVfZlJ5Z0RYV1RMekFrQTZoaHZLUVVqYUFwbm1GR051aw?oc=5",
-   "tickers": [
-    "IBM"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "IBM",
-   "strength": 70,
-   "reason": "Trump's praise of IBM CEO drives stock surge; explicit endorsement of named company",
    "price_since": {
     "ticker": "IBM",
     "pct": -4.6,
