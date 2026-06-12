@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-06-12T20:27:11Z",
+ "last_updated": "2026-06-12T22:08:26Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-06-12T21:31:52Z",
+   "platform": "News",
+   "text": "US stocks rise after oil prices ease and SpaceX soars in its debut on Wall Street - The Washington Post \u2014 US stocks rise after oil prices ease and SpaceX soars in its debut on Wall Street\u00a0\u00a0The Washington Post",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWWNOS2Q1NG03UG9EaDBGQ0V2am9WUVlGQUxsY0dkX1M5ZW1oZGZDNVpjU1kyczlOS3p0a1prckZmM0dGa3FtOXluczROdTg1eXBZbnEtMHBzT2hRbE1zRjRVNDh2U3JRdkZkWXQwRDR6a0kwNVE3YWJiU09tUHRZUGozaFg1R20zbjhRRGd0WTVtNThqeHZJbHZkSmYtQS10eE92NFM3NzZqMmlacnNoTi15cUZXMkRscjh1YUJFX2VIQnZvcXBjVlJPRQ?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "SPY",
+   "strength": 35,
+   "reason": "SpaceX IPO and oil price easing are market-positive catalysts"
+  },
   {
    "date": "2026-06-12T20:07:45Z",
    "platform": "News",
@@ -49,6 +65,22 @@
    "primary_ticker": "SPY",
    "strength": 25,
    "reason": "Oil decline and SpaceX IPO are market factors but headline lacks Trump-specific catalyst or direction."
+  },
+  {
+   "date": "2026-06-12T16:06:46Z",
+   "platform": "News",
+   "text": "Elon Musk Becomes the World\u2019s First Trillionaire - The New York Times \u2014 Elon Musk Becomes the World\u2019s First Trillionaire\u00a0\u00a0The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0xbHY0d0g3MUxKd3dnSl9EejI3bkwzMEdXWXMzMUZnb191Y0w1Z2dPZ21TS2NLeEdLR05idnZpczZuY08tZDVUdTVHcFRhVlVJTC1YNmVuN3BvY0lWLUl4OHNqdVV0NU5JU0E2bGZZc013WjZyYTVXcWg0V3d5UQ?oc=5",
+   "tickers": [
+    "TSLA"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "TSLA",
+   "strength": 40,
+   "reason": "Musk wealth milestone reflects Musk-linked equity appreciation"
   },
   {
    "date": "2026-06-12T15:55:00Z",
@@ -190,7 +222,31 @@
     "ticker": "SPY",
     "pct": 0.5,
     "base": 737.76,
-    "last": 741.77,
+    "last": 741.75,
+    "base_date": "2026-06-11",
+    "last_date": "2026-06-12"
+   }
+  },
+  {
+   "date": "2026-06-11T21:53:26Z",
+   "platform": "News",
+   "text": "Trump praises 4.2% inflation as war drives prices higher - MSN \u2014 Trump praises 4.2% inflation as war drives prices higher\u00a0\u00a0MSN",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQRVFzbkJqdEFPYXNGVV9DQ3Jzb0NrTVlZVjNuSUxlODFMT2ZGTy1TWjI0OTRCYWIzWDFFd0ZkbHJOZWRmM2kzdjVKU3JCS2RaWk5zZERzLTBfOGxkOW9VYkI2eWI2VnE1Q29jY3VZLU01UXVZeWR4R2JuZ2MtbWZ3dnEteWZQMXN4T2Jyb0xOVE02Y25oMnN5TUdBNjdfWW04NzRpSnFIVGlwOWd6eGdadWlPV2tVeUVSQjV1R1JZY0tkTWtRMHRSRzdFckVoa3NPX0p6cTNwbmZPb1NhOGh4NWoyVmJOU1JxQWM1QUZB?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "SPY",
+   "strength": 35,
+   "reason": "Trump praise for high inflation suggests complacency on price pressures; inflation headwind for equities",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": 0.5,
+    "base": 737.76,
+    "last": 741.75,
     "base_date": "2026-06-11",
     "last_date": "2026-06-12"
    }
@@ -214,7 +270,31 @@
     "ticker": "SPY",
     "pct": 0.5,
     "base": 737.76,
-    "last": 741.77,
+    "last": 741.75,
+    "base_date": "2026-06-11",
+    "last_date": "2026-06-12"
+   }
+  },
+  {
+   "date": "2026-06-11T21:30:03Z",
+   "platform": "News",
+   "text": "Citi Stock Hits 52-Week High Before Fading As Trump Lauds Bank's 'Big Comeback' In M&A \u2014 But Full Picture Has Changed Now - Stocktwits \u2014 Citi Stock Hits 52-Week High Before Fading As Trump Lauds Bank's 'Big Comeback' In M&A \u2014 But Full Picture Has Changed Now\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWUpacUZnX014SV9nTnRZbVQ0dWhFQlZiV3ZjLV9nWExYUjVMdmlZdkdoNnFLcUhZUEhuZ1k3a2JENWJrYkhqdjJqNFlLaVlVYzBRb3dJOFA2Q1dESmhCTVJnQXJJaU15VjVFUFo2cWJDOEx3QTIzN0NSQjExRWhRZlNLaDFXeEZMQ0poajdjbGhmNlhPd1ZQSnVOSmNVa0pVTF94Z1RVdXlSU2JrR0N3X2dHSENINjZHNWdTYzB1dEZPaERK?oc=5",
+   "tickers": [
+    "C"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "C",
+   "strength": 65,
+   "reason": "Trump explicitly lauds Citi's M&A comeback, direct company praise",
+   "price_since": {
+    "ticker": "C",
+    "pct": 1.3,
+    "base": 138.07,
+    "last": 139.83,
     "base_date": "2026-06-11",
     "last_date": "2026-06-12"
    }
@@ -238,7 +318,7 @@
     "ticker": "SPY",
     "pct": 0.5,
     "base": 737.76,
-    "last": 741.77,
+    "last": 741.75,
     "base_date": "2026-06-11",
     "last_date": "2026-06-12"
    }
@@ -302,7 +382,7 @@
     "ticker": "SPY",
     "pct": 0.5,
     "base": 737.76,
-    "last": 741.77,
+    "last": 741.75,
     "base_date": "2026-06-11",
     "last_date": "2026-06-12"
    }
@@ -367,7 +447,7 @@
     "ticker": "SPY",
     "pct": 0.5,
     "base": 737.76,
-    "last": 741.77,
+    "last": 741.75,
     "base_date": "2026-06-11",
     "last_date": "2026-06-12"
    }
@@ -435,30 +515,6 @@
    "primary_ticker": "TRUMP",
    "strength": 70,
    "reason": "Trump crypto bet down 92%; indirect bearish signal on Trump-branded crypto asset"
-  },
-  {
-   "date": "2026-06-11T08:19:11Z",
-   "platform": "News",
-   "text": "Citi Stock Hits 52-Week High Before Fading As Trump Lauds Bank's 'Big Comeback' In M&A \u2014 But Full Picture Has Changed Now - Stocktwits \u2014 Citi Stock Hits 52-Week High Before Fading As Trump Lauds Bank's 'Big Comeback' In M&A \u2014 But Full Picture Has Changed Now\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWUpacUZnX014SV9nTnRZbVQ0dWhFQlZiV3ZjLV9nWExYUjVMdmlZdkdoNnFLcUhZUEhuZ1k3a2JENWJrYkhqdjJqNFlLaVlVYzBRb3dJOFA2Q1dESmhCTVJnQXJJaU15VjVFUFo2cWJDOEx3QTIzN0NSQjExRWhRZlNLaDFXeEZMQ0poajdjbGhmNlhPd1ZQSnVOSmNVa0pVTF94Z1RVdXlSU2JrR0N3X2dHSENINjZHNWdTYzB1dEZPaERK?oc=5",
-   "tickers": [
-    "C"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "C",
-   "strength": 70,
-   "reason": "Trump explicitly praises Citigroup's M&A comeback and CEO Jane Fraser; stock hit 52-week high on endorsement.",
-   "price_since": {
-    "ticker": "C",
-    "pct": 1.3,
-    "base": 138.07,
-    "last": 139.83,
-    "base_date": "2026-06-11",
-    "last_date": "2026-06-12"
-   }
   },
   {
    "date": "2026-06-11T07:13:48Z",
@@ -651,6 +707,22 @@
     "base_date": "2026-06-11",
     "last_date": "2026-06-12"
    }
+  },
+  {
+   "date": "2026-06-11T03:48:59Z",
+   "platform": "News",
+   "text": "IBM shares surge 15% premarket after old Trump video of \"very nice price\" resurfaces - MSN \u2014 IBM shares surge 15% premarket after old Trump video of \"very nice price\" resurfaces\u00a0\u00a0MSN",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMEJwaUFfMXAxelQ1OGR0V1VoN0t0dkpBU0pxNkNPRjdaZkc5YzNZNml0RnZFX2Mxa1dmajd0UEJUVzl2OGVMTFF0OG1DM1lfVGdVRlVBSHVrYVAtN1ZrSHc0U3VkR1Y0UDhqYkZLSGRaZWxJMVRXamp0LTJ2T1hoZmhpOGl2UTlwX1U3UWZhUHFZQlM3TjJaaTBLY0lRLTdoNl9NRXY2WEVmdzJTamhCWXNTOTEtUkdYalpPd3lYc2F5aFNObWVwM0dyaVpzWjhLZkE?oc=5",
+   "tickers": [
+    "IBM"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "IBM",
+   "strength": 65,
+   "reason": "Resurfaced old Trump video praising IBM stock price as 'very nice'; past endorsement resurfaces driving premarket surge."
   },
   {
    "date": "2026-06-11T01:56:35Z",
@@ -2727,150 +2799,6 @@
     "base": 759.57,
     "last": 737.55,
     "base_date": "2026-06-02",
-    "last_date": "2026-06-05"
-   }
-  },
-  {
-   "date": "2026-06-01T19:46:56Z",
-   "platform": "News",
-   "text": "IBM Stock Surges 10% Following Trump's Praise - GuruFocus \u2014 IBM Stock Surges 10% Following Trump's Praise\u00a0\u00a0GuruFocus",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcTZtcl9PMXJvMUlDanAzaE1kN3I1S1ZSYTVKRmxaalJLQzRmUEJrMVNCN0kzOHhaRWh4WGhOMG9xQkxrS0VlWEJMbE1aYUd3R1FIZHExeVN3YVVQX3JzSDBtUFRiSWRoTXBvaFY4QjFGM2JHTnlyRnFyejM1LVRWb0wyRHZhUjJNRE5aVExwaVRPWnhmd2Jwa2hn?oc=5",
-   "tickers": [
-    "IBM"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "IBM",
-   "strength": 80,
-   "reason": "Trump's explicit praise of IBM triggered 10% stock surge; direct company endorsement",
-   "price_since": {
-    "ticker": "IBM",
-    "pct": -11.1,
-    "base": 320.42,
-    "last": 284.84,
-    "base_date": "2026-06-01",
-    "last_date": "2026-06-05"
-   }
-  },
-  {
-   "date": "2026-06-01T19:32:57Z",
-   "platform": "News",
-   "text": "Micron hits a $1 trillion market cap after UBS \u2014 and Trump \u2014 praise it - MSN \u2014 Micron hits a $1 trillion market cap after UBS \u2014 and Trump \u2014 praise it\u00a0\u00a0MSN",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTTUtNmllb0VTOV9RbVdMWEhsVlhaLWtaeEVvdVJmd2c4YldIYlJfeUhHS1BZVkdQb193RE42YmxUNEhWOFJLZ0RFN3BOMDlZc1ZrdEZ5ZWhqekV2X205NE5KM09aZmNtUnNDcEpoR09razJlZ2NOMDV1QWtaMmtOam5KS0tidVR1ZGZOV0VHM2V2N2NrOXVpaTdoSW5UZXNjUncyR0NoeTdWREtHdmlSRGstWkExdUtrVzRPYjgtNDVOdUVvNlIyYWl3RGh4ZHVqTndSTzZhSVY4NzQ?oc=5",
-   "tickers": [
-    "MU"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "MU",
-   "strength": 80,
-   "reason": "Trump explicitly praised Micron; UBS and Trump combined endorsement drove stock toward $1T market cap milestone.",
-   "price_since": {
-    "ticker": "MU",
-    "pct": -16.6,
-    "base": 1035.5,
-    "last": 864.01,
-    "base_date": "2026-06-01",
-    "last_date": "2026-06-05"
-   }
-  },
-  {
-   "date": "2026-06-01T18:22:24Z",
-   "platform": "News",
-   "text": "IBM shares surge as old clip of Trump\u2019s praise recirculates - Moneycontrol.com \u2014 IBM shares surge as old clip of Trump\u2019s praise recirculates\u00a0\u00a0Moneycontrol.com",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMnduNVRoWkRkMlhTZzFPOVRicldmaDFQeWpHWlU1N1RjeGxNeTlvZm5nUlIxaVJpYkZid0JqVXlNQ2l2a2hnVUhxbVlkTGc1cUh0a0hpdl9Vb2F1Qmt6T2JnZU1RbTJUMnJzWEhod1hsdGdyWVhwbk1QeGpfRXBITmRpSzFUWHlCZUhPSVhEd2I1OFN3TGJ4Z01YSlBSZDc2SWRoU1I3MzJFbjg1N29yelVpNms0MEg2ZC1OTNIBvAFBVV95cUxNMnduNVRoWkRkMlhTZzFPOVRicldmaDFQeWpHWlU1N1RjeGxNeTlvZm5nUlIxaVJpYkZid0JqVXlNQ2l2a2hnVUhxbVlkTGc1cUh0a0hpdl9Vb2F1Qmt6T2JnZU1RbTJUMnJzWEhod1hsdGdyWVhwbk1QeGpfRXBITmRpSzFUWHlCZUhPSVhEd2I1OFN3TGJ4Z01YSlBSZDc2SWRoU1I3MzJFbjg1N29yelVpNms0MEg2ZC1OTA?oc=5",
-   "tickers": [
-    "IBM"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "IBM",
-   "strength": 65,
-   "reason": "Trump's praise of IBM resurfaces, driving stock surge; explicit endorsement of named company",
-   "price_since": {
-    "ticker": "IBM",
-    "pct": -11.1,
-    "base": 320.42,
-    "last": 284.84,
-    "base_date": "2026-06-01",
-    "last_date": "2026-06-05"
-   }
-  },
-  {
-   "date": "2026-06-01T18:08:00Z",
-   "platform": "News",
-   "text": "Did Trump spark an IBM stock rally? It\u2019s complicated. - MarketWatch \u2014 Did Trump spark an IBM stock rally? It\u2019s complicated.\u00a0\u00a0MarketWatch",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWk0zUnBhQmp2OENNMnpwa0FVSGFaMTZEaFBfSFZQeTdScVRITUZNSFV6ZUNCVThCWjRHYTJBSE9GQnU3U1drYUpwWXpDRGEtb2s2M1R3UC1aSkZSSkhHbll4MEFoc3ZqMnljQl9iOFNrTzJGMVk1WXU0M1A0NU8zckJrUHNvb2U4ZGZpZFRveDg5RHlleTM4aA?oc=5",
-   "tickers": [
-    "IBM"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "IBM",
-   "strength": 55,
-   "reason": "Trump praise tied to IBM rally; market signal but causation noted as complex",
-   "price_since": {
-    "ticker": "IBM",
-    "pct": -11.1,
-    "base": 320.42,
-    "last": 284.84,
-    "base_date": "2026-06-01",
-    "last_date": "2026-06-05"
-   }
-  },
-  {
-   "date": "2026-06-01T17:34:00Z",
-   "platform": "News",
-   "text": "Donald Trump Video Rebound Sparks IBM Stock Market Value Surge - asatunews.co.id \u2014 Donald Trump Video Rebound Sparks IBM Stock Market Value Surge\u00a0\u00a0asatunews.co.id",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9QUndEWHItQl9NQWYxR3lQRzJ2QnBDT2FLWG05Ym8zTXRmMHYxaGZOZ0dVNkVmNTd4NkpHc280VnBLSlo4OHdzancyVHZodDhjRnR5RW4ydVlGbUl2Qk1sRmR3dDNnUHdPUl9n?oc=5",
-   "tickers": [
-    "IBM"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "IBM",
-   "strength": 70,
-   "reason": "Resurfaced Trump praise of IBM CEO sparks market value surge.",
-   "price_since": {
-    "ticker": "IBM",
-    "pct": -11.1,
-    "base": 320.42,
-    "last": 284.84,
-    "base_date": "2026-06-01",
-    "last_date": "2026-06-05"
-   }
-  },
-  {
-   "date": "2026-06-01T16:59:14Z",
-   "platform": "News",
-   "text": "IBM Shares Surge as Old Clip of Trump\u2019s Praise Recirculates - Bloomberg.com \u2014 IBM Shares Surge as Old Clip of Trump\u2019s Praise Recirculates\u00a0\u00a0Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcEEyVWh6UjJlMUtEU2s1RzF5cWdpSHJfQXdrY0FxdXJERi1CdFdTcFc3b3dXTTdFdTdnZEdZc2N5cHRHd1FzN0pyU0ZNTm8zNC1iMTN2aDlnRzVfTUZkMVc3NzhYOENDdDIzWnV1UE1rSXlTX3VCNm1XTVI1VU0zZ0hGejRKcFRsZ1RiOUFZc2pQa1Q5WkdSX0ZCQ0wzSmNhbk54bUliY29OTzNaLWd0SG9HbHc3QQ?oc=5",
-   "tickers": [
-    "IBM"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "IBM",
-   "strength": 68,
-   "reason": "Trump praise of IBM resurfaces; drives measurable stock surge",
-   "price_since": {
-    "ticker": "IBM",
-    "pct": -11.1,
-    "base": 320.42,
-    "last": 284.84,
-    "base_date": "2026-06-01",
     "last_date": "2026-06-05"
    }
   },
