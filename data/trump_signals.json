@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-06-12T22:08:26Z",
+ "last_updated": "2026-06-12T23:51:12Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -17,6 +17,22 @@
    "primary_ticker": "SPY",
    "strength": 35,
    "reason": "SpaceX IPO and oil price easing are market-positive catalysts"
+  },
+  {
+   "date": "2026-06-12T20:15:11Z",
+   "platform": "News",
+   "text": "Trump touted Palantir on Truth Social after buying the company's stock, records show - MSN \u2014 Trump touted Palantir on Truth Social after buying the company's stock, records show\u00a0\u00a0MSN",
+   "url": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxNUUs3SzUzaWVhZDNMWVpvdmlqN2xzc3ViV1g2T2t5aXJMMUtiSmxUZVRnMnRZYzNkYkRoRzdYRDJWczRWSS1SNWVXcHY5Rl83bFRMeTloOHd3cTRhenQ3SWVOcWxfUEVEcWFxeHRUMW8wanZaYmxwaS1xWkNtRmhkUVZUeGNBa2RzODNla3gxbVhqNkdPM2dPc1YxaUxMdDhQdElhNzU2d256LUhMUUZFS0RldVdDTkRMNXdfNFgxM2ljTk5TQ3dFTHRqRHhhOGRpMzFHdHl6VDhxY3NGTms0dmZMTzREeWcyaEF1QjdzLVVoanJuXzE5NUFSSHlvM3B5STFaaW1PVTkxNE9Tb3k1U09UN2F5dWFyWmxMZ2t4MVBRYnhaMkhBdWUtWFc3UEdhX2ZOLVJaeHl1YWhrVTRZUjEtczRxQXdxQ2h6ZnB2TklUaTA3Q2tPVmlMUzFUaWUzMEFXTDlDZXZ4ZVhHOEJsR0dhdldmTEhyOHc?oc=5",
+   "tickers": [
+    "PLTR"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "PLTR",
+   "strength": 75,
+   "reason": "Trump explicitly touted Palantir after buying stock; direct bullish signal on a named company."
   },
   {
    "date": "2026-06-12T20:07:45Z",
@@ -361,7 +377,15 @@
    "direction": "BUY",
    "primary_ticker": "TCNNF",
    "strength": 35,
-   "reason": "Cannabis company milestone listing on NYSE; sector bullish on regulatory opening under Trump."
+   "reason": "Cannabis company milestone listing on NYSE; sector bullish on regulatory opening under Trump.",
+   "price_since": {
+    "ticker": "TCNNF",
+    "pct": -10.4,
+    "base": 11.55,
+    "last": 10.35,
+    "base_date": "2026-06-11",
+    "last_date": "2026-06-12"
+   }
   },
   {
    "date": "2026-06-11T14:23:07Z",
@@ -2702,102 +2726,6 @@
     "pct": -13.5,
     "base": 329.23,
     "last": 284.84,
-    "base_date": "2026-06-02",
-    "last_date": "2026-06-05"
-   }
-  },
-  {
-   "date": "2026-06-02T07:47:00Z",
-   "platform": "News",
-   "text": "After hitting IBM with his 'golden touch', stock market wizard Trump\u2019s next target is coming into view. - Binance \u2014 After hitting IBM with his 'golden touch', stock market wizard Trump\u2019s next target is coming into view.\u00a0\u00a0Binance",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9KOUs1dXN5YzZ3WU1FZ0xlZTBnQW5oM2Nia3VMUDhVYjlIZGpCNURjcVR0ZnJPLTZTYWdOS1Q0N3plV0ZtOWYtR2dTMVF4UXl3ZGxRQjVmcHVEUDBiMFJfZjAySjI?oc=5",
-   "tickers": [
-    "IBM"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "IBM",
-   "strength": 75,
-   "reason": "Trump praised IBM with 'golden touch' language; stock market wizard framing suggests bullish endorsement of the company.",
-   "price_since": {
-    "ticker": "IBM",
-    "pct": -13.5,
-    "base": 329.23,
-    "last": 284.84,
-    "base_date": "2026-06-02",
-    "last_date": "2026-06-05"
-   }
-  },
-  {
-   "date": "2026-06-02T05:00:05Z",
-   "platform": "News",
-   "text": "IBM shares surge as old clip of Trump\u2019s praise recirculates - LinkedIn \u2014 IBM shares surge as old clip of Trump\u2019s praise recirculates\u00a0\u00a0LinkedIn",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYW5ZOGtmSVAxT3pmNVFwcFhSSmZJa3NFNEJQRE9XTDZ3RGUxOGpnRlJSS1oxdHEzNmRKYXFVWHRwd3BrN205QWxlS19lOWZOcmZvM29xRTRwbWxpaDdpbVlMUHN3anVIbTI5bXpDZkg3TXhtbkRaZ2pwb25uSU5KUkhMSTdXM3RseVJCNkl5NHgxLWJsTW5BYkt2WEFrWHBXaFA5UndoYnRoN2ZTZHdHaG9Fd1p3Rm9lSWFNbTRfaEpXTTBqaXpv?oc=5",
-   "tickers": [
-    "IBM"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "IBM",
-   "strength": 65,
-   "reason": "Trump publicly praised IBM; stock surge confirms market response to his endorsement.",
-   "price_since": {
-    "ticker": "IBM",
-    "pct": -13.5,
-    "base": 329.23,
-    "last": 284.84,
-    "base_date": "2026-06-02",
-    "last_date": "2026-06-05"
-   }
-  },
-  {
-   "date": "2026-06-02T03:48:00Z",
-   "platform": "News",
-   "text": "Publicly naming a stock leads to an immediate surge\u2014what will Trump, the 'Oracle of Equity,' call next? - \u5bcc\u9014\u725b\u725b \u2014 Publicly naming a stock leads to an immediate surge\u2014what will Trump, the 'Oracle of Equity,' call next?\u00a0\u00a0\u5bcc\u9014\u725b\u725b",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOUQyTEFKcWVKQlVUdktpNTVTLUx6R01RUlJNUnF6MVZQelU2anNnWXA5cUhaOW9xMVdiSnRzVEtTbVU3eHVGTFhtYkllNzBKdWx2YjRFbndTd0pkZXZFSTJ6Um5ENDROZTFXS25QR29ybUV0b1RkQkJRQk9YSXBNSGFtRDc1bHhDemdnSG0wWi1qX1UyZk5GemJZRVVfQQ?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "SPY",
-   "strength": 45,
-   "reason": "Speculation on future Trump stock picks; no current named target or direction",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": -2.9,
-    "base": 759.57,
-    "last": 737.55,
-    "base_date": "2026-06-02",
-    "last_date": "2026-06-05"
-   }
-  },
-  {
-   "date": "2026-06-02T02:20:03Z",
-   "platform": "News",
-   "text": "Trump discloses thousands of stock trades, some in companies directly influenced by his policies - AOL.com \u2014 Trump discloses thousands of stock trades, some in companies directly influenced by his policies\u00a0\u00a0AOL.com",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbjVPS1p4SHM4ZUc1MThfZjljSjdHaDk2YjRYdFQxcDBZVE4zOG8zTWtKU19PUmY2dWlpZ0MxX25FTi00Z3A4aEMxU214aktkUU56Ri15TGlsYmxJNmgxM2RIeHNvb3VzY0dVMzZvanNVR19wYVp1U1pOMUduM3FvR0g1VEI0M0NBVFVhTFM5ckdFWE5BMFAtdnY4T2VrdWRyYzJGQm5kQV8?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "SPY",
-   "strength": 25,
-   "reason": "Trump's stock trading disclosures suggest potential conflicts of interest; ambiguous market direction.",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": -2.9,
-    "base": 759.57,
-    "last": 737.55,
     "base_date": "2026-06-02",
     "last_date": "2026-06-05"
    }
