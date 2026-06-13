@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-06-13T17:41:08Z",
+ "last_updated": "2026-06-13T18:57:36Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -275,6 +275,22 @@
    "primary_ticker": "GLDM",
    "strength": 40,
    "reason": "Trump interest in Greenland acquisition drives critical metals/mining sector higher"
+  },
+  {
+   "date": "2026-06-12T00:47:27Z",
+   "platform": "News",
+   "text": "Wall St indexes jump as strikes against Iran cancelled - CommBank \u2014 Wall St indexes jump as strikes against Iran cancelled\u00a0\u00a0CommBank",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYjhHYkxVSVZWa0piNXdDT3BHeFBtYmJaeW4xRDQ5VXBoUndDd01xUjNQZUdfTEpwM0w0azRSVjJrNFBjM3RZVGx5MER4VjVsUExWZTlUM0xiT1ltRXh3OE83T0FUUkNvTFJDUV9OSk9ZTm5zbklRTURCcXhmMGM2dEczUjhsZW5ySk1seUhzRkxud3U1TTlpeFpubnBZeXJKT1ZMaFNxZndzazVxZ1kzajFwZw?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "SPY",
+   "strength": 70,
+   "reason": "Trump cancels Iran strikes; geopolitical de-escalation bullish for broad market"
   },
   {
    "date": "2026-06-12T00:14:02Z",
@@ -2655,30 +2671,6 @@
     "pct": -6.3,
     "base": 421.08,
     "last": 394.39,
-    "base_date": "2026-06-03",
-    "last_date": "2026-06-05"
-   }
-  },
-  {
-   "date": "2026-06-03T00:53:40Z",
-   "platform": "News",
-   "text": "Trump Praises Palantir's Technology: Is the Stock Destined to Go Higher? - AOL.com \u2014 Trump Praises Palantir's Technology: Is the Stock Destined to Go Higher?\u00a0\u00a0AOL.com",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONjYxNWpaSEU0VkkxS2hjalY0SlJzcHN0a0cxQmZKQi1zVHkyVkRpSnY1V19ydXVISHEtUDBuWTZTckluZVVwaGJSS1pWVXZ4VWhwbzY1VnZSNC1QVzhJWTdzVl9SNG9TajJGOV9tdFhETlROOXZHV3FnNTM1ZDJEQTBTcENlV2VHQ2lrVw?oc=5",
-   "tickers": [
-    "PLTR"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "PLTR",
-   "strength": 72,
-   "reason": "Trump explicitly praises Palantir's technology; direct positive signal for PLTR stock",
-   "price_since": {
-    "ticker": "PLTR",
-    "pct": -4.7,
-    "base": 142.2,
-    "last": 135.53,
     "base_date": "2026-06-03",
     "last_date": "2026-06-05"
    }
