@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-06-13T18:57:36Z",
+ "last_updated": "2026-06-13T20:21:08Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -227,6 +227,22 @@
    "primary_ticker": "SPACE",
    "strength": 35,
    "reason": "SpaceX market debut is a major event but headline is biographical quote; actual IPO direction requires pricing/demand data"
+  },
+  {
+   "date": "2026-06-12T04:44:18Z",
+   "platform": "News",
+   "text": "Asian shares surge and oil prices slip after Trump claims a breakthrough in Iran war talks - CityNews Halifax \u2014 Asian shares surge and oil prices slip after Trump claims a breakthrough in Iran war talks\u00a0\u00a0CityNews Halifax",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOR2tzU2FGMlY5Y3VxeExET3dtMmI0LXlKRjY0ME5nS3NSSDN2YWF0cE45WTlmYjZMVzVwOGVPcUZ3NW9iam9wU2RudnM4aUF5VDE2RWZiRjJuUks2QVZxbUFhbTd1Y3RYZUdvR0YxUFpGNFJvUnJxWXJ3RnBTeHpVQVdpS3FNOUN4cGI1Yy1DZDBiT0IwbFd1VjNNam95MzlCY0pqLS05ajZ3dHpMc0NQdmxUVnh4dnlCU0toUUlUQjlxRlBEc3VJd2V3?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "SPY",
+   "strength": 70,
+   "reason": "Trump claims Iran war breakthrough; de-escalation bullish for broad market and risk assets"
   },
   {
    "date": "2026-06-12T04:29:12Z",
@@ -2650,30 +2666,6 @@
    "primary_ticker": "DELL",
    "strength": 65,
    "reason": "Trump stock purchase + large Pentagon contract to Dell suggests bullish momentum"
-  },
-  {
-   "date": "2026-06-03T03:58:05Z",
-   "platform": "News",
-   "text": "How a boring blue chip became a meme stock - Axios \u2014 How a boring blue chip became a meme stock\u00a0\u00a0Axios",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1SRnJuRkYySk5xcGZGUjIwQmdRVkFrVHdtU0NGYnh6WU1RLWRNUDZfY25FZHVHaVdHQ2hVN1NOem9QV3NEcVZ2OVVFUDdCekxpZkMxTU1KWTNxT0J6ZVFQMmtyUQ?oc=5",
-   "tickers": [
-    "DELL"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "DELL",
-   "strength": 50,
-   "reason": "Blue chip became meme stock; likely referring to Dell surge, but direction context-dependent",
-   "price_since": {
-    "ticker": "DELL",
-    "pct": -6.3,
-    "base": 421.08,
-    "last": 394.39,
-    "base_date": "2026-06-03",
-    "last_date": "2026-06-05"
-   }
   },
   {
    "curated": true,
