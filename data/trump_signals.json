@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-06-13T20:21:08Z",
+ "last_updated": "2026-06-13T21:46:09Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-06-13T20:04:28Z",
+   "platform": "News",
+   "text": "Citi stock hits 52-week high before fading as Trump lauds bank's 'big comeback' in M&A \u2014 but full picture has changed now - MSN \u2014 Citi stock hits 52-week high before fading as Trump lauds bank's 'big comeback' in M&A \u2014 but full picture has changed now\u00a0\u00a0MSN",
+   "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPLWwtU255bnhYVG5MLTJjdzAtMDF2R0xPWmRmdFVJMVB2ejRpTUQwb2FtaG5waVp3NHFwekpFdDhHWnhZZlBBMGt1dXdfOXZQb0FROU0tbFVVMDNCcnhnUWxUd0padFVTWmo2UXN0YzhUNE01d3dPR21BTU93Wmw2OWgtS0FMQ096bHpoVVp0V1pxNk5Fei1ZUWtmSnVid2NPZFJYMGVzQndVS0Rjc1ZkamNxcmZmcGUybzRlNEc2OFBWMVhublBiVU9hWEM1ZVJPRHlLUWo3bDZabmF2VkFBQ0syZnB3OXN5blhrSjF5cUtHRE1jNUZqeG81WTEyLXhx?oc=5",
+   "tickers": [
+    "C"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "C",
+   "strength": 65,
+   "reason": "Trump explicitly lauds Citigroup's M&A comeback; positive sentiment on named bank"
+  },
   {
    "date": "2026-06-13T16:45:43.030Z",
    "platform": "Truth Social",
@@ -665,30 +681,6 @@
     "pct": -2.4,
     "base": 131.08,
     "last": 127.99,
-    "base_date": "2026-06-11",
-    "last_date": "2026-06-12"
-   }
-  },
-  {
-   "date": "2026-06-11T10:18:45Z",
-   "platform": "News",
-   "text": "Citi stock hits 52-week high before fading as Trump lauds bank's 'big comeback' in M&A \u2014 but full picture has changed now - MSN \u2014 Citi stock hits 52-week high before fading as Trump lauds bank's 'big comeback' in M&A \u2014 but full picture has changed now\u00a0\u00a0MSN",
-   "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPLWwtU255bnhYVG5MLTJjdzAtMDF2R0xPWmRmdFVJMVB2ejRpTUQwb2FtaG5waVp3NHFwekpFdDhHWnhZZlBBMGt1dXdfOXZQb0FROU0tbFVVMDNCcnhnUWxUd0padFVTWmo2UXN0YzhUNE01d3dPR21BTU93Wmw2OWgtS0FMQ096bHpoVVp0V1pxNk5Fei1ZUWtmSnVid2NPZFJYMGVzQndVS0Rjc1ZkamNxcmZmcGUybzRlNEc2OFBWMVhublBiVU9hWEM1ZVJPRHlLUWo3bDZabmF2VkFBQ0syZnB3OXN5blhrSjF5cUtHRE1jNUZqeG81WTEyLXhx?oc=5",
-   "tickers": [
-    "C"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "C",
-   "strength": 65,
-   "reason": "Trump explicitly praises Citigroup's M&A comeback; stock already moved on the signal",
-   "price_since": {
-    "ticker": "C",
-    "pct": 1.3,
-    "base": 138.07,
-    "last": 139.83,
     "base_date": "2026-06-11",
     "last_date": "2026-06-12"
    }
@@ -2650,22 +2642,6 @@
     "base_date": "2026-06-03",
     "last_date": "2026-06-05"
    }
-  },
-  {
-   "date": "2026-06-03T09:51:46Z",
-   "platform": "News",
-   "text": "Trump revealed to have bought over $1M in Dell stock months before Pentagon signed $9.7B deal - UNILAD \u2014 Trump revealed to have bought over $1M in Dell stock months before Pentagon signed $9.7B deal\u00a0\u00a0UNILAD",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbTdqcDZLdGxVYUxpUjFnczFNWkM1cVhSczZiMm9rNF9fZXl3bGtpazQ0VXBoRURsdHc2Z0NUcDVyMFJST1FrTjhDRjVOUkkwSEp4c0lRMzlyeE8tM2hVelFtUUFFYTdzR1B6Ml9WTXZkdzVTZWNiTG5WYk9VMnJlcDF3NllMMjQ2aXBOaW1lZDl2VFZzblVrZU9jUzdQUQ?oc=5",
-   "tickers": [
-    "DELL"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "DELL",
-   "strength": 65,
-   "reason": "Trump stock purchase + large Pentagon contract to Dell suggests bullish momentum"
   },
   {
    "curated": true,
