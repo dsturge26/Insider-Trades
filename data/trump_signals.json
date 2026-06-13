@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-06-13T10:29:22Z",
+ "last_updated": "2026-06-13T12:10:39Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -146,6 +146,22 @@
    "primary_ticker": "SPY",
    "strength": 25,
    "reason": "Trump escalates Iran rhetoric; geopolitical tension typically bearish for broad equities and oil prices"
+  },
+  {
+   "date": "2026-06-12T06:25:10Z",
+   "platform": "News",
+   "text": "'I was employee number one': SpaceX co-founder reacts to firm's market debut - BBC \u2014 'I was employee number one': SpaceX co-founder reacts to firm's market debut\u00a0\u00a0BBC",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4zVTlvVXEzNFZTQUQ0clBMVEJpQzRDOENPWnhRLXB2alNCVzRiOXRTVXZ5bFlXOFdtYU5YWHRoa2czV01RTGh3aUExQW9lTHhGODlUcE80cw?oc=5",
+   "tickers": [
+    "SPACE"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "SPACE",
+   "strength": 35,
+   "reason": "SpaceX market debut is a major event but headline is biographical quote; actual IPO direction requires pricing/demand data"
   },
   {
    "date": "2026-06-12T04:29:12Z",
