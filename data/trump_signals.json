@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-06-14T06:21:22Z",
+ "last_updated": "2026-06-14T10:03:44Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-06-14T07:21:02Z",
+   "platform": "News",
+   "text": "Trump touted Palantir on Truth Social after buying the company's stock, records show - MSN \u2014 Trump touted Palantir on Truth Social after buying the company's stock, records show\u00a0\u00a0MSN",
+   "url": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxNUUs3SzUzaWVhZDNMWVpvdmlqN2xzc3ViV1g2T2t5aXJMMUtiSmxUZVRnMnRZYzNkYkRoRzdYRDJWczRWSS1SNWVXcHY5Rl83bFRMeTloOHd3cTRhenQ3SWVOcWxfUEVEcWFxeHRUMW8wanZaYmxwaS1xWkNtRmhkUVZUeGNBa2RzODNla3gxbVhqNkdPM2dPc1YxaUxMdDhQdElhNzU2d256LUhMUUZFS0RldVdDTkRMNXdfNFgxM2ljTk5TQ3dFTHRqRHhhOGRpMzFHdHl6VDhxY3NGTms0dmZMTzREeWcyaEF1QjdzLVVoanJuXzE5NUFSSHlvM3B5STFaaW1PVTkxNE9Tb3k1U09UN2F5dWFyWmxMZ2t4MVBRYnhaMkhBdWUtWFc3UEdhX2ZOLVJaeHl1YWhrVTRZUjEtczRxQXdxQ2h6ZnB2TklUaTA3Q2tPVmlMUzFUaWUzMEFXTDlDZXZ4ZVhHOEJsR0dhdldmTEhyOHc?oc=5",
+   "tickers": [
+    "PLTR"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "PLTR",
+   "strength": 85,
+   "reason": "Trump explicitly touted Palantir on Truth Social after buying stock; direct praise of named public company"
+  },
   {
    "date": "2026-06-14T00:41:06Z",
    "platform": "News",
@@ -33,6 +49,22 @@
    "primary_ticker": "AMZN",
    "strength": 35,
    "reason": "Amazon CEO's involvement in Anthropic crackdown signals potential regulatory pressure on Amazon's AI initiatives"
+  },
+  {
+   "date": "2026-06-13T21:19:04Z",
+   "platform": "News",
+   "text": "NOW Stock Rises Overnight: Trump\u2019s ServiceNow Stake Fuels Retail Buzz Around SAAS Comeback - Stocktwits \u2014 NOW Stock Rises Overnight: Trump\u2019s ServiceNow Stake Fuels Retail Buzz Around SAAS Comeback\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQcEF0OFRRa3hIWF9rS21NMTBqNk53MDA4eWFQcDJad1Z2QkQyTTdmd3prLUVaVUUwdVRSWWpCOGs3N3JaYTZCcG1KMjg1c1Q0WWdjSnlWbHkteXVxcnFoUXFZMEg4ejh0YjA4ZG5BRnBEX1huMFNaS0dXdEx4LWNEOXBLcmNpMzlCQzc1OC0yRDFKeWFMWEZzWUpNQXBWTFFDQlJ6dmFWamU5cUpFZnVfcU1ocFdTa0tfdjByTlZZUHo4QUx1QzJOMHpzZEdaZjdqSVhoWFB0cVRKZW9BbnNLMi1XYUF2MlhaZGc?oc=5",
+   "tickers": [
+    "NOW"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "NOW",
+   "strength": 75,
+   "reason": "Trump stake in ServiceNow announced; stock rose on Trump's disclosed position and retail buzz around SaaS"
   },
   {
    "date": "2026-06-13T20:04:28Z",
@@ -114,22 +146,6 @@
    "primary_ticker": "IBM",
    "strength": 65,
    "reason": "Trump praised IBM CEO as 'legend' and government floated $1B quantum award to company"
-  },
-  {
-   "date": "2026-06-12T20:15:11Z",
-   "platform": "News",
-   "text": "Trump touted Palantir on Truth Social after buying the company's stock, records show - MSN \u2014 Trump touted Palantir on Truth Social after buying the company's stock, records show\u00a0\u00a0MSN",
-   "url": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxNUUs3SzUzaWVhZDNMWVpvdmlqN2xzc3ViV1g2T2t5aXJMMUtiSmxUZVRnMnRZYzNkYkRoRzdYRDJWczRWSS1SNWVXcHY5Rl83bFRMeTloOHd3cTRhenQ3SWVOcWxfUEVEcWFxeHRUMW8wanZaYmxwaS1xWkNtRmhkUVZUeGNBa2RzODNla3gxbVhqNkdPM2dPc1YxaUxMdDhQdElhNzU2d256LUhMUUZFS0RldVdDTkRMNXdfNFgxM2ljTk5TQ3dFTHRqRHhhOGRpMzFHdHl6VDhxY3NGTms0dmZMTzREeWcyaEF1QjdzLVVoanJuXzE5NUFSSHlvM3B5STFaaW1PVTkxNE9Tb3k1U09UN2F5dWFyWmxMZ2t4MVBRYnhaMkhBdWUtWFc3UEdhX2ZOLVJaeHl1YWhrVTRZUjEtczRxQXdxQ2h6ZnB2TklUaTA3Q2tPVmlMUzFUaWUzMEFXTDlDZXZ4ZVhHOEJsR0dhdldmTEhyOHc?oc=5",
-   "tickers": [
-    "PLTR"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "PLTR",
-   "strength": 75,
-   "reason": "Trump explicitly touted Palantir after buying stock; direct bullish signal on a named company."
   },
   {
    "date": "2026-06-12T20:07:45Z",
@@ -355,6 +371,22 @@
    "primary_ticker": "SPY",
    "strength": 30,
    "reason": "SpaceX IPO and oil weakness create mixed directional signals"
+  },
+  {
+   "date": "2026-06-12T02:41:49Z",
+   "platform": "News",
+   "text": "Trump Criticizes Iran\u2019s \u2018Poor Job\u2019 On Strait Of Hormuz Oil Passage, Says This Is \u2018Not The Agreement\u2019 - Stocktwits \u2014 Trump Criticizes Iran\u2019s \u2018Poor Job\u2019 On Strait Of Hormuz Oil Passage, Says This Is \u2018Not The Agreement\u2019\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNklqd3BXWkNYTkpyNkVaVHEtX3ZrUzNsQ1N5SGExazNseld2dVE5aVIxY2pLYmFyVzU0N1RwS2RsTzhBY3p3MHpmeFB0cHRWWEtTM0FMcUtDYlZHeXZaUU1BZll4Z3RPWWFTRzFjNGJtV2owSnRBbmlHTER3SHlEczlGTFVjV19kWFA1QjBfRGtJSEw4WE9yd054OU9XdGJXVGtNVWlPenEwVTJ4Wk1xRlE0TzhRUQ?oc=5",
+   "tickers": [
+    "USO"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "USO",
+   "strength": 50,
+   "reason": "Trump criticizes Iran on oil passage; suggests geopolitical friction and potential oil market concern"
   },
   {
    "date": "2026-06-12T02:25:41Z",
@@ -804,22 +836,6 @@
     "base_date": "2026-06-11",
     "last_date": "2026-06-12"
    }
-  },
-  {
-   "date": "2026-06-11T05:20:14Z",
-   "platform": "News",
-   "text": "NOW Stock Rises Overnight: Trump\u2019s ServiceNow Stake Fuels Retail Buzz Around SAAS Comeback - Stocktwits \u2014 NOW Stock Rises Overnight: Trump\u2019s ServiceNow Stake Fuels Retail Buzz Around SAAS Comeback\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQcEF0OFRRa3hIWF9rS21NMTBqNk53MDA4eWFQcDJad1Z2QkQyTTdmd3prLUVaVUUwdVRSWWpCOGs3N3JaYTZCcG1KMjg1c1Q0WWdjSnlWbHkteXVxcnFoUXFZMEg4ejh0YjA4ZG5BRnBEX1huMFNaS0dXdEx4LWNEOXBLcmNpMzlCQzc1OC0yRDFKeWFMWEZzWUpNQXBWTFFDQlJ6dmFWamU5cUpFZnVfcU1ocFdTa0tfdjByTlZZUHo4QUx1QzJOMHpzZEdaZjdqSVhoWFB0cVRKZW9BbnNLMi1XYUF2MlhaZGc?oc=5",
-   "tickers": [
-    "NOW"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "NOW",
-   "strength": 70,
-   "reason": "Trump holds stake in ServiceNow; direct ownership link creates explicit bullish signal on NOW."
   },
   {
    "date": "2026-06-11T04:50:41Z",
@@ -2610,46 +2626,6 @@
     "base_date": "2026-06-03",
     "last_date": "2026-06-05"
    }
-  },
-  {
-   "date": "2026-06-03T20:07:05Z",
-   "platform": "News",
-   "text": "3 Trump-Promoted US Stocks to Watch in June - Yahoo Finance \u2014 3 Trump-Promoted US Stocks to Watch in June\u00a0\u00a0Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUjVmeUVXQXR0ZDN2Z1NVc1lpQ2x2YUpyMk5uUlRuczdWN2pTcUFVc0hsMTk4eGg3ODR4M3NvMUpHcnY1N3NWbkkzWWdWaHU4WWxQdDRmU0FZSEhfQ1JydGdDQm1SVUI4ZUQ3VGxXUWxvZVVWbmpwWFk3UVRpV3VtQUdTa0dBTm1QMUxJcTBIU2NPd3JUQWc?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "SPY",
-   "strength": 25,
-   "reason": "Generic headline about Trump-promoted stocks; lacks specific names, companies, or actionable direction.",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": -2.2,
-    "base": 754.24,
-    "last": 737.55,
-    "base_date": "2026-06-03",
-    "last_date": "2026-06-05"
-   }
-  },
-  {
-   "date": "2026-06-03T18:47:00Z",
-   "platform": "News",
-   "text": "President Donald Trump owns roughly $5M in surging AI stock - Yahoo Finance Singapore \u2014 President Donald Trump owns roughly $5M in surging AI stock\u00a0\u00a0Yahoo Finance Singapore",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUkFDSEpJVGpsUkhCV0FXODRqeXhLRmFJY1VCQmt1dGJObzJhMWk2OC1DazF5RFFmUlNUem56bWNNSmFhNUJQZEZ0Y1lOTWdySnpvVERUcGdIX2RFZ05HR0hIT01nZE9EUGFiMUtzY19nWWRwSWJnV0RXakswYkFNaUZITy1LRmNzTVZjLQ?oc=5",
-   "tickers": [
-    "QQQ"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "QQQ",
-   "strength": 35,
-   "reason": "Trump owns ~$5M in surging AI stock (unnamed); personal holding, no explicit call to action or named ticker"
   },
   {
    "curated": true,
