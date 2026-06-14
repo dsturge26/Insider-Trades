@@ -1,7 +1,24 @@
 {
- "last_updated": "2026-06-14T22:10:18Z",
+ "last_updated": "2026-06-14T23:37:57Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-06-14T22:27:37.038Z",
+   "platform": "Truth Social",
+   "text": "This Great Deal will bring Peace and Security to the whole Region. Many presidents have tried to make Peace with Iran, and all have failed before me. The Leaders of the Region have, for the first time, found a President who can help them achieve real Peace. With the opening of the Strait upon the signing of the Deal on Friday, for purposes of mine removal, oil will flow on both ends again for the Region, and the World! President DONALD J. TRUMP",
+   "tickers": [
+    "XLE"
+   ],
+   "engagement": 10747,
+   "url": "https://truthsocial.com/@realDonaldTrump/116750814874397998",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "XLE",
+   "strength": 65,
+   "reason": "Iran peace deal claim + Strait opening -> oil flow resumption bullish for energy sector"
+  },
   {
    "date": "2026-06-14T21:29:48.647Z",
    "platform": "Truth Social",
@@ -2530,30 +2547,6 @@
     "pct": -1.8,
     "base": 757.09,
     "last": 743.71,
-    "base_date": "2026-06-04",
-    "last_date": "2026-06-08"
-   }
-  },
-  {
-   "date": "2026-06-04T06:28:27Z",
-   "platform": "News",
-   "text": "Elizabeth Warren Singles Out Micron, Dell And Eli Lilly As Just 3 Of The 3000+ Trades Trump Made: 'Looks - Benzinga \u2014 Elizabeth Warren Singles Out Micron, Dell And Eli Lilly As Just 3 Of The 3000+ Trades Trump Made: 'Looks\u00a0\u00a0Benzinga",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcUhqYktOc21IeUJGLXBfOVJiNDRvOTgyUC0xazB2cXdZcGFBeWdvRU1QdTFxQUZaUVpLNnNXWDgtcWN4SjVuS1pFOTRZSzRjbDc0alVkZi11dWIzM2FXbmI0LW1NVDVBU1B6WGxpak02NjlKcXo3eWN4S0dOakxTcVlyNWFnMHdURXNfdGdaNXplU19wU1gtc2JZVmhIX0Nhd21CanF0MUFLeFNYOTRqNE5MZUZzY0k?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "SPY",
-   "strength": 25,
-   "reason": "Report of Trump's past trading activity in stocks (Micron, Dell, Eli Lilly); no new market catalyst, ambiguous directional signal",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": -1.8,
-    "base": 757.09,
-    "last": 743.73,
     "base_date": "2026-06-04",
     "last_date": "2026-06-08"
    }
