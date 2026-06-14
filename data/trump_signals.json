@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-06-14T01:37:11Z",
+ "last_updated": "2026-06-14T06:21:22Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -84,6 +84,22 @@
    "reason": "Trump praised IBM CEO as 'legend' and government floated $1B quantum award -> stock benefit."
   },
   {
+   "date": "2026-06-13T02:01:52Z",
+   "platform": "News",
+   "text": "US stocks rise after oil prices ease and SpaceX soars in its debut on Wall Street - The Washington Post \u2014 US stocks rise after oil prices ease and SpaceX soars in its debut on Wall Street\u00a0\u00a0The Washington Post",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWWNOS2Q1NG03UG9EaDBGQ0V2am9WUVlGQUxsY0dkX1M5ZW1oZGZDNVpjU1kyczlOS3p0a1prckZmM0dGa3FtOXluczROdTg1eXBZbnEtMHBzT2hRbE1zRjRVNDh2U3JRdkZkWXQwRDR6a0kwNVE3YWJiU09tUHRZUGozaFg1R20zbjhRRGd0WTVtNThqeHZJbHZkSmYtQS10eE92NFM3NzZqMmlacnNoTi15cUZXMkRscjh1YUJFX2VIQnZvcXBjVlJPRQ?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "SPY",
+   "strength": 50,
+   "reason": "SpaceX IPO debut and oil price easing both support broad market rally."
+  },
+  {
    "date": "2026-06-12T23:47:23Z",
    "platform": "News",
    "text": "Trump praised IBM's 'legend' CEO, government floated a $1B quantum award \u2014 is the stock still a 'very nice price'? - AOL.com \u2014 Trump praised IBM's 'legend' CEO, government floated a $1B quantum award \u2014 is the stock still a 'very nice price'?\u00a0\u00a0AOL.com",
@@ -98,22 +114,6 @@
    "primary_ticker": "IBM",
    "strength": 65,
    "reason": "Trump praised IBM CEO as 'legend' and government floated $1B quantum award to company"
-  },
-  {
-   "date": "2026-06-12T21:31:52Z",
-   "platform": "News",
-   "text": "US stocks rise after oil prices ease and SpaceX soars in its debut on Wall Street - The Washington Post \u2014 US stocks rise after oil prices ease and SpaceX soars in its debut on Wall Street\u00a0\u00a0The Washington Post",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWWNOS2Q1NG03UG9EaDBGQ0V2am9WUVlGQUxsY0dkX1M5ZW1oZGZDNVpjU1kyczlOS3p0a1prckZmM0dGa3FtOXluczROdTg1eXBZbnEtMHBzT2hRbE1zRjRVNDh2U3JRdkZkWXQwRDR6a0kwNVE3YWJiU09tUHRZUGozaFg1R20zbjhRRGd0WTVtNThqeHZJbHZkSmYtQS10eE92NFM3NzZqMmlacnNoTi15cUZXMkRscjh1YUJFX2VIQnZvcXBjVlJPRQ?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "SPY",
-   "strength": 35,
-   "reason": "SpaceX IPO and oil price easing are market-positive catalysts"
   },
   {
    "date": "2026-06-12T20:15:11Z",
@@ -162,6 +162,22 @@
    "primary_ticker": "C",
    "strength": 55,
    "reason": "Trump explicitly praises Citigroup bankers and company performance"
+  },
+  {
+   "date": "2026-06-12T17:35:04Z",
+   "platform": "News",
+   "text": "SpaceX\u2019s Course as a Public Company Rides on Devotees and Detractors - Bloomberg.com \u2014 SpaceX\u2019s Course as a Public Company Rides on Devotees and Detractors\u00a0\u00a0Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYjMyeEVORFM2MVJnX19Sb2hyc1ZSeXE0WGhLRmw3TVd2LWZkR3lGU2pGU0lCNEFGXy11VjBQYzdoOG5tWEswYXhWNC00SjlDRUNsYmZXNllSMjQ4S0tCMjk5VTk4WHpZd1dCYWhwWE1pMGNMeHJGQWVSaUJScXN5V3RvdC10LUZqUm9hS3JZaFhzWkVOSU1uVGNsa01zbWJ5Yk5VQlJabXpDSTROMUFnd2N5Qlg2T0xxOGgyZmNhTkJzSVRPWXZOa0dwZXM?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "SPY",
+   "strength": 40,
+   "reason": "SpaceX IPO narrative; market-relevant but direction depends on execution and valuations."
   },
   {
    "date": "2026-06-12T17:06:47Z",
@@ -226,6 +242,38 @@
    "primary_ticker": "XLV",
    "strength": 35,
    "reason": "Trump opposes USMCA renewal, bearish for chemical/plastics sector dependent on trade agreement."
+  },
+  {
+   "date": "2026-06-12T13:49:04Z",
+   "platform": "News",
+   "text": "US stocks drift as oil falls and Wall Street waits for SpaceX\u2019s debut - Orlando Sentinel \u2014 US stocks drift as oil falls and Wall Street waits for SpaceX\u2019s debut\u00a0\u00a0Orlando Sentinel",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRjVjUVh3Q3NsX1liYlVKcGhXZWpJMlAzeUt4M01OaTZrZTFsWWduWnFwVE04WUJEcmswRjI5S0k1ZlUwQzdYLUg3Sl9qWFBsYjR5YVBpbC03Wk10eVJJWk9XVzhyZm5RNkxXRENEUkpGUDBHZlZCamFVMEY5NHhWV09sczVNUllld3NuN3VEZVZBMkJDRGRKWlpLdDk5TDVpcHVSWHcyUENjX3JHam1UMUF3?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "SPY",
+   "strength": 40,
+   "reason": "Oil weakness bearish, SpaceX IPO anticipation bullish; mixed signals, awaiting IPO outcome."
+  },
+  {
+   "date": "2026-06-12T13:46:50Z",
+   "platform": "News",
+   "text": "Wall Street drifts ahead of highly anticipated market debut of SpaceX - Saratogian \u2014 Wall Street drifts ahead of highly anticipated market debut of SpaceX\u00a0\u00a0Saratogian",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1oNW1aWTlPN19pZFE4Rk82WklQaThwV2dPaEJ2dFluTTd2WEo0QlEwQnhXalh3dHZLa2FKSkpIV2Z6VzdLR0ZvZENPTmEwd0NJZ0Q0M0w0VlR2bDF3RHE3ZXlEUGxMUUM4?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "SPY",
+   "strength": 35,
+   "reason": "Market awaiting SpaceX IPO event; sentiment-dependent but no Trump-specific catalyst yet."
   },
   {
    "date": "2026-06-12T13:40:42.372Z",
@@ -2602,78 +2650,6 @@
    "primary_ticker": "QQQ",
    "strength": 35,
    "reason": "Trump owns ~$5M in surging AI stock (unnamed); personal holding, no explicit call to action or named ticker"
-  },
-  {
-   "date": "2026-06-03T15:58:05Z",
-   "platform": "News",
-   "text": "Trump admin. endorses D-Wave's 2nd quantum approach: CEO explains - Yahoo Finance \u2014 Trump admin. endorses D-Wave's 2nd quantum approach: CEO explains\u00a0\u00a0Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQb0NXN2RpQkZWX2JaM1BvSGVKV0JubFpDNy1DTjlyMHp3Yi11ZFVuZnRTUUhBamh1NklRZ3p0T252alJYbTBrOTFaME5QQ1M0azR1dlBKZGFpVXlsYWRHZXZNQ1ZyaTNGeDZZTmVvTTB3V3RYQXU2UHJOelQ2dVNpdUJLb1NRWmltdjFRQVVYVW5Pd0hWUmxZeGt2Z1BTR0NROTBOTUFmLWI4NXZMdnc?oc=5",
-   "tickers": [
-    "QCOM"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "QCOM",
-   "strength": 55,
-   "reason": "Trump admin endorses D-Wave quantum approach; bullish for quantum/chip sector",
-   "price_since": {
-    "ticker": "QCOM",
-    "pct": -13.6,
-    "base": 250.01,
-    "last": 215.94,
-    "base_date": "2026-06-03",
-    "last_date": "2026-06-05"
-   }
-  },
-  {
-   "date": "2026-06-03T15:58:05Z",
-   "platform": "News",
-   "text": "Trump admin. endorses D-Wave's 2nd quantum approach: CEO explains - AOL.com \u2014 Trump admin. endorses D-Wave's 2nd quantum approach: CEO explains\u00a0\u00a0AOL.com",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5nLXBaODg2RExHd0dmaG5CSjNxZlVjRjVYY0JXWTFpYnlVRXhaWmNkd3BWalJhWVljT0d3bUVBWG51YjVmZWQ1b2w5dzBjRFRoWUVkcjJUWlNmWnBUV2VDWmk0UGxjQ0NRWnM4SnlsQ0tJdWtxdUFiRjY1cw?oc=5",
-   "tickers": [
-    "QCOM"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "QCOM",
-   "strength": 55,
-   "reason": "Trump admin endorses D-Wave quantum approach; bullish for quantum/semiconductor sector",
-   "price_since": {
-    "ticker": "QCOM",
-    "pct": -13.6,
-    "base": 250.01,
-    "last": 215.94,
-    "base_date": "2026-06-03",
-    "last_date": "2026-06-05"
-   }
-  },
-  {
-   "date": "2026-06-03T10:20:55Z",
-   "platform": "News",
-   "text": "Trump said \u201cMicron\u2019s great\u201d on May 22. The stock is up 20% today. - MSN \u2014 Trump said \u201cMicron\u2019s great\u201d on May 22. The stock is up 20% today.\u00a0\u00a0MSN",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVWZrOTVBa3Y0RU5vYmFacGJFd0ZjaFNLbXZhQVdtRUg3OXlXR01rUGFZV3RCZ3dLSUsyYVpPNWI5QjBXbEFKVnVNYzFzNFg4OWNfOUd4NUx0enVraVU5ZFZKZTVHLUxNMWdHOEM3UFhObXVEa2dsQXJYMzVGWWZzVEhTTFhma3J0bjlLQjQtYjZQdnFLOV9KS1NEMlZnU2FrVXprVWRheWNiNEh0eFJuejVn?oc=5",
-   "tickers": [
-    "MU"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "MU",
-   "strength": 65,
-   "reason": "Trump explicitly said Micron is great; direct company praise with immediate 20% stock move confirms signal strength.",
-   "price_since": {
-    "ticker": "MU",
-    "pct": -20.0,
-    "base": 1079.57,
-    "last": 864.01,
-    "base_date": "2026-06-03",
-    "last_date": "2026-06-05"
-   }
   },
   {
    "curated": true,
