@@ -1,7 +1,24 @@
 {
- "last_updated": "2026-06-14T20:49:06Z",
+ "last_updated": "2026-06-14T22:10:18Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-06-14T21:29:48.647Z",
+   "platform": "Truth Social",
+   "text": "The Deal with the Islamic Republic of Iran is now complete. Congratulations to all! I hereby fully authorize the toll free opening of the Strait of Hormuz, and, simultaneously herewith, authorize the immediate removal of the United States Naval blockade. Ships of the World, start your engines. Let the oil flow! President DONALD J. TRUMP",
+   "tickers": [
+    "XLE"
+   ],
+   "engagement": 12746,
+   "url": "https://truthsocial.com/@realDonaldTrump/116750587569914985",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "XLE",
+   "strength": 75,
+   "reason": "Iran deal announcement + Strait of Hormuz opening -> oil supply surge bullish for energy sector"
+  },
   {
    "date": "2026-06-14T20:35:13.733Z",
    "platform": "Truth Social",
@@ -2539,54 +2556,6 @@
     "last": 743.73,
     "base_date": "2026-06-04",
     "last_date": "2026-06-08"
-   }
-  },
-  {
-   "date": "2026-06-04T05:00:25Z",
-   "platform": "News",
-   "text": "OpenAI CEO to Share Oversight Ideas in Wake of Trump AI Order - Claims Journal \u2014 OpenAI CEO to Share Oversight Ideas in Wake of Trump AI Order\u00a0\u00a0Claims Journal",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9hZHlRRExjUHB0S1NQVm16aHdHa011N0FGR2NTQVZmUzN6d3lXNnRzc0dUdV9BU0hKRjBQTzlrRVVkMGZqTkZUVmFsQ0UzREh0NTJ1YzRpZ1JSQWRjeEs5WjVLSVNOeERCejZrZXBPVlpnWUk?oc=5",
-   "tickers": [
-    "QQQ"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "QQQ",
-   "strength": 25,
-   "reason": "Trump AI order creates regulatory uncertainty for tech sector; OpenAI oversight discussion ambiguous signal",
-   "price_since": {
-    "ticker": "QQQ",
-    "pct": -4.8,
-    "base": 740.61,
-    "last": 705.06,
-    "base_date": "2026-06-04",
-    "last_date": "2026-06-05"
-   }
-  },
-  {
-   "date": "2026-06-04T02:39:38Z",
-   "platform": "News",
-   "text": "\"Absolutely corrupt\": How Donald Trump enriches himself with Dell shares | blue News - blue News \u2014 \"Absolutely corrupt\": How Donald Trump enriches himself with Dell shares | blue News\u00a0\u00a0blue News",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPakR3UjR0RDFTekRUQ1ZyV3VmNVU1NzZnSjlvbmUySVhGcGJUbENDeExwNnNNQllIUlZiMnc1bkdSQ1dBUjJESjJJMFpyaTV6emVZNFJRRzNxWS1MTG9tXzdUUDY3cFh4bTRCT281WjctWVRjczdjTXZ2M0htWFAxQ2dsT2pOTFloWXpXUHRuTGhrMnVZV1NjcnAwTEhXdUU?oc=5",
-   "tickers": [
-    "DELL"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "DELL",
-   "strength": 75,
-   "reason": "Trump purchased Dell shares before company won major Pentagon contracts; positive market signal from Trump's ownership stake.",
-   "price_since": {
-    "ticker": "DELL",
-    "pct": -6.6,
-    "base": 422.05,
-    "last": 394.39,
-    "base_date": "2026-06-04",
-    "last_date": "2026-06-05"
    }
   },
   {
