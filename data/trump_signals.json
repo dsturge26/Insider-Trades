@@ -1,22 +1,38 @@
 {
- "last_updated": "2026-06-15T21:32:24Z",
+ "last_updated": "2026-06-15T23:24:59Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
-   "date": "2026-06-15T19:22:15Z",
+   "date": "2026-06-15T20:10:44Z",
    "platform": "News",
    "text": "Stocks leap worldwide, and oil prices drop after the U.S. and Iran reach a tentative deal on their war - BNN Bloomberg \u2014 Stocks leap worldwide, and oil prices drop after the U.S. and Iran reach a tentative deal on their war\u00a0\u00a0BNN Bloomberg",
    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMmY5VHlFWm5qYVVTZHRHOWozM1VBc0dLS3FCS2ZQZUdEN0ZfdmFMM0tlaFpoS1dfWnFDd0t2dUpxMnZxYmNfWlFsbGliUkk2V25LTzBTZ3NCU0NheHZyUEM3VDVaZUF5cHAxNlgtVmZ6MFB0eFowMFhKc2RDQjBBN19TckdYck1xejA3RDJjN2o3bGd2NVlYVmZpbWVpc2RtMVludjVDeVU3ZmJtbzZlSnRNR29yTTliQjNyMm9maTdWazBNWnEyX0djVm8yTFVMakRobGpfTDNwMXhQT1I1Qg?oc=5",
    "tickers": [
-    "USO"
+    "SPY"
    ],
    "classified": true,
    "is_market": true,
    "explicit": false,
    "direction": "BUY",
-   "primary_ticker": "USO",
+   "primary_ticker": "SPY",
    "strength": 65,
-   "reason": "US-Iran tentative war deal reduces geopolitical risk; oil prices drop signals de-escalation bullish for energy stability and broad equities."
+   "reason": "US-Iran tentative war deal -> broad market relief, stocks up, oil down"
+  },
+  {
+   "date": "2026-06-15T20:03:28Z",
+   "platform": "News",
+   "text": "Micron hits a $1 trillion market cap after UBS \u2014 and Trump \u2014 praise it - AOL.com \u2014 Micron hits a $1 trillion market cap after UBS \u2014 and Trump \u2014 praise it\u00a0\u00a0AOL.com",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9nNmo4LWZRUlNOc2hzUmhvRFdvelZncy1LWFJ5Y2d5SEZUQnB6VHFwcUFwN3c0Zk1ZTXRGeTM3RHEzVzlEUXRDby14dURMU195a0RUemF2U3RPQTlYWWxZU0JuTTZWMGFHVHN2WDRBejhHSHlfa1lWc1pGU05HUQ?oc=5",
+   "tickers": [
+    "MU"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "MU",
+   "strength": 75,
+   "reason": "Trump praised Micron by name; explicit positive signal on semiconductor stock"
   },
   {
    "date": "2026-06-15T13:06:11.624Z",
