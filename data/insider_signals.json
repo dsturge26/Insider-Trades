@@ -1,8 +1,32 @@
 {
- "last_updated": "2026-06-12T22:08:26Z",
+ "last_updated": "2026-06-15T13:41:03Z",
  "source": "Financial Modeling Prep (Form 4)",
  "is_sample": false,
  "signals": [
+  {
+   "date": "2026-06-12",
+   "ticker": "NRDY",
+   "direction": "BUY",
+   "source": "Insider",
+   "insider": "Cohn Charles K.",
+   "title": "director, 10 percent owner, officer: Chief Executive Officer",
+   "value": 251081,
+   "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001880171&type=4",
+   "strength": 72,
+   "reason": "Cohn Charles K. bought $251,081"
+  },
+  {
+   "date": "2026-06-12",
+   "ticker": "DGICA",
+   "direction": "BUY",
+   "source": "Insider",
+   "insider": "Donegal Mutual Insurance Co",
+   "title": "10 percent owner",
+   "value": 170615,
+   "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000935596&type=4",
+   "strength": 71,
+   "reason": "Donegal Mutual Insurance Co bought $170,615"
+  },
   {
    "date": "2026-06-11",
    "ticker": "PRTA",
@@ -14,6 +38,66 @@
    "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001045463&type=4",
    "strength": 75,
    "reason": "Scully William P bought $1,021,225"
+  },
+  {
+   "date": "2026-06-11",
+   "ticker": "AUR",
+   "direction": "BUY",
+   "source": "Insider",
+   "insider": "Wehner David M.",
+   "title": "director",
+   "value": 498300,
+   "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001534965&type=4",
+   "strength": 74,
+   "reason": "Wehner David M. bought $498,300"
+  },
+  {
+   "date": "2026-06-11",
+   "ticker": "DGICA",
+   "direction": "BUY",
+   "source": "Insider",
+   "insider": "Donegal Mutual Insurance Co",
+   "title": "10 percent owner",
+   "value": 173830,
+   "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000935596&type=4",
+   "strength": 71,
+   "reason": "Donegal Mutual Insurance Co bought $173,830"
+  },
+  {
+   "date": "2026-06-11",
+   "ticker": "ORBS",
+   "direction": "BUY",
+   "source": "Insider",
+   "insider": "O'Donnell Kevin J",
+   "title": "director, officer: CEO",
+   "value": 183960,
+   "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001776596&type=4",
+   "strength": 71,
+   "reason": "O'Donnell Kevin J bought $183,960"
+  },
+  {
+   "date": "2026-06-11",
+   "ticker": "GPGI",
+   "direction": "BUY",
+   "source": "Insider",
+   "insider": "Knott Thomas R.",
+   "title": "director, 10 percent owner, officer: See remarks",
+   "value": 994867,
+   "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001816476&type=4",
+   "strength": 75,
+   "reason": "Knott Thomas R. bought $994,867"
+  },
+  {
+   "date": "2026-06-11",
+   "ticker": "CMCL",
+   "direction": "BUY",
+   "source": "Insider",
+   "insider": "Gapare Victor",
+   "title": "director, 10 percent owner: ",
+   "value": 219725,
+   "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002118983&type=4",
+   "strength": 72,
+   "reason": "Gapare Victor bought $219,725"
   },
   {
    "date": "2026-06-10",
