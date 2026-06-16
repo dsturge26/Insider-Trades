@@ -1,7 +1,24 @@
 {
- "last_updated": "2026-06-15T23:24:59Z",
+ "last_updated": "2026-06-16T02:07:28Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-06-15T23:17:52.376Z",
+   "platform": "Truth Social",
+   "text": "Iran has agreed to never have a Nuclear Weapon! Also, the story that the U.S. is paying Iran 300 million Dollars is Fake News, put out by the Dumocrats!!! President DJT",
+   "tickers": [
+    "USO"
+   ],
+   "engagement": 13864,
+   "url": "https://truthsocial.com/@realDonaldTrump/116756674797972374",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "USO",
+   "strength": 45,
+   "reason": "Iran nuclear deal tentatively reached; reduces geopolitical tension, bullish for oil prices and risk assets"
+  },
   {
    "date": "2026-06-15T20:10:44Z",
    "platform": "News",
@@ -552,6 +569,22 @@
     "base_date": "2026-06-12",
     "last_date": "2026-06-15"
    }
+  },
+  {
+   "date": "2026-06-12T16:38:48Z",
+   "platform": "News",
+   "text": "Trump praises Nvidia chief, while Huang says Trump policies 'saved AI industry' - MSN \u2014 Trump praises Nvidia chief, while Huang says Trump policies 'saved AI industry'\u00a0\u00a0MSN",
+   "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxOTE5WWDhWRWREdnZSTnJQVXBlUHBQLTFad01nNXpsZ2hxSmtuYmxTcVZvcXBoR0dkNXQxNEQ1YUgwalBTdDhPMjY4UjBTbkRpbjhZREtjUl9zX3lqM0pSUU1Fa3V4UGJ1ZjVfMHJibXhPVnlLamV1NTZ0ZG0wdEItamtLMGMxR1U2NGRLckhYUzlQSzhiekZ2TUhSNElhSm5iMWlKcUdGOGViTWpxRlBsa25EWTRKdFN1REFXdEZubThHdl9DTG1KWEpuamRqTi1zN1F4STVsZ20zZlFrVHE0YjlVN3JpQlpsUXg2QVJxc3BvNWdiTl9mbm9IdXlwRTd1TXV2b2hjNVlPNEpUUUtjRVlmX2NidGpKUzU1SUgyNVBNdW5UbjdTZ2JiUXYyVExTRWxEZWNsNDhKOVhRVS00dm5NbkFkQXVWSjVKOHdmcE1abUlHeWp1RGZzQWZpQQ?oc=5",
+   "tickers": [
+    "NVDA"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "NVDA",
+   "strength": 75,
+   "reason": "Trump explicitly praises Nvidia CEO; Huang credits Trump policies with saving AI industry\u2014direct endorsement of semiconductor leader."
   },
   {
    "date": "2026-06-12T16:30:00Z",
@@ -2508,54 +2541,6 @@
     "pct": 0.4,
     "base": 705.06,
     "last": 707.83,
-    "base_date": "2026-06-05",
-    "last_date": "2026-06-09"
-   }
-  },
-  {
-   "date": "2026-06-05T19:36:30Z",
-   "platform": "News",
-   "text": "Trump to meet AI leaders to discuss US investment in their companies - BBC \u2014 Trump to meet AI leaders to discuss US investment in their companies\u00a0\u00a0BBC",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUV1ZWWDF4dFZRckFhZTNFOHlHckZDY1FHaDRtSWFadW5uYWd0TkE4dC1lVkV1c3RBZ3N4eWZfcjIwTjl6WkFCY09PcHh1dkVNeGRnNkhqU0xwZw?oc=5",
-   "tickers": [
-    "QQQ"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "QQQ",
-   "strength": 35,
-   "reason": "Trump meets AI leaders to discuss US investment; signals potential pro-AI policy environment; broad tech sector implication.",
-   "price_since": {
-    "ticker": "QQQ",
-    "pct": 0.4,
-    "base": 705.06,
-    "last": 707.83,
-    "base_date": "2026-06-05",
-    "last_date": "2026-06-09"
-   }
-  },
-  {
-   "date": "2026-06-05T17:58:46Z",
-   "platform": "News",
-   "text": "Trump administration, OpenAI discussing possible government stake in the AI startup - CNBC \u2014 Trump administration, OpenAI discussing possible government stake in the AI startup\u00a0\u00a0CNBC",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4ybHlVc085QUVIS2ZReHVWMVNPWTRhYmFuWVN1RXZVZUc0ZnZhbUlMT3Rpa1QxdEs3Q0Z6OG1qZ1VZN2N6TmlOMWlVYkVHc0dITjdkMnlTdnB2WmZZSkY4LW5HZHVRcjlKbDBoYVdva2_SAXZBVV95cUxObW91aGd3RmlfdHhHQVNLVUgyN3V6WDlFMkZ5UXdfbmZEQ0NfLW41REc4eTlMMkh1MlFiMW1BdFJmbm5sN1hOTVhwVl9VcXhlZzdVWFJyY1dkVFJQNFI2WXNTOXl1MllWa09KOHkxMkZsOXA4Qy1n?oc=5",
-   "tickers": [
-    "MSFT"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "MSFT",
-   "strength": 45,
-   "reason": "Possible government stake in OpenAI creates ambiguous signal\u2014could boost valuation (MSFT's partner) or introduce regulatory/ownership uncertainty",
-   "price_since": {
-    "ticker": "MSFT",
-    "pct": -3.2,
-    "base": 416.67,
-    "last": 403.41,
     "base_date": "2026-06-05",
     "last_date": "2026-06-09"
    }
