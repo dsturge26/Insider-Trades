@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-06-16T02:07:28Z",
+ "last_updated": "2026-06-16T07:43:30Z",
  "note": "Trump-linked / 'Trump trade' tickers to watch. Prices are refreshed by the GitHub Action from Yahoo Finance (intraday quote + trend, no key; Stooq is a fallback). Stocks are ~15-min delayed, crypto is real-time.",
  "tickers": [
   {
@@ -261,6 +261,10 @@
    "stooq": "spy.us",
    "prices": [
     {
+     "date": "2026-03-19",
+     "close": 659.8
+    },
+    {
      "date": "2026-03-20",
      "close": 648.57
     },
@@ -495,10 +499,6 @@
     {
      "date": "2026-06-12",
      "close": 741.75
-    },
-    {
-     "date": "2026-06-15",
-     "close": 754.83
     }
    ],
    "last": 754.83,
@@ -1017,6 +1017,10 @@
    "stooq": "xar.us",
    "prices": [
     {
+     "date": "2026-03-19",
+     "close": 268.0
+    },
+    {
      "date": "2026-03-20",
      "close": 258.88
     },
@@ -1251,10 +1255,6 @@
     {
      "date": "2026-06-12",
      "close": 279.97
-    },
-    {
-     "date": "2026-06-15",
-     "close": 282.79
     }
    ],
    "last": 282.79,
