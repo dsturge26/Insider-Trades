@@ -1,7 +1,39 @@
 {
- "last_updated": "2026-06-16T20:51:57Z",
+ "last_updated": "2026-06-16T22:53:20Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-06-16T13:28:54Z",
+   "platform": "News",
+   "text": "Trump's unusual stock frenzy: Portfolio shows 3,600 trades in 90 days - The Economic Times \u2014 Trump's unusual stock frenzy: Portfolio shows 3,600 trades in 90 days\u00a0\u00a0The Economic Times",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNWGdvajd4TGJhajRETEdBX3A5Q3ZUQk5hMVpidHdlT1Y4eFlWLV9DdWUtY253RW1aY0FwUy0wR3k5NVN0N3JiTml0bllXSU9BZ0pkWGRSTndIRWhrTEFHeFEzOUgzdUlCZzFDMV9ScmRxbjM3QmluTDRDNFF5QmY2SlpjVWNTM0VacnVkaUFXVm8yOGtlTm1QZzBScFpaN3QzaEdobGxwREo1VGtyVl9KeU9kN2dIaWpHOHZndW9tUk5wNkpkWnhudm5VclNFakxIaHNyN291dHB6dHV2OUc5SlRGME9zcXEz0gHuAUFVX3lxTFB6T3ZFaS1yVnhsYjcwWGJFRDhrX0E4VGZvVlp1SURpTHlQUUxIMFRhd29pSUZKcGNxdmcydXFLVEltUFFCSjZCak1pRzZUQ0RmbnVQN3dpVkZWZmtiaDlWOGVQa1BEdWZpTU1RN2kyZkpzeHRORGQtSzByYVhfRll3MGJWRElXbEtzRzFPLUVqT0F6d2N2VXdRT3cyWWtpMzVQanlxZ1VybEpSZlJGR09kRFd4cEF0Smt0ZGdmR1U0Ml9VWGZTQ1VOMHVVaFpTZGVfOV9FTG1xVXlDWWw1M25sTHE2LWZ6eGNVeWJOZVE?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "SPY",
+   "strength": 25,
+   "reason": "Trump's high-frequency stock trading raises governance/insider concerns; market-relevant but ambiguous impact"
+  },
+  {
+   "date": "2026-06-16T08:30:36Z",
+   "platform": "News",
+   "text": "IBM shares soar after video of Trump praising CEO resurfaces online (IBM) - MSN \u2014 IBM shares soar after video of Trump praising CEO resurfaces online (IBM)\u00a0\u00a0MSN",
+   "url": "https://news.google.com/rss/articles/CBMilwNBVV95cUxPdllWMmdrTmxSVnFJSFBUSlgyUXplQ2VkRjZaZEhHc2lkTjNzNEhGNGdnQm9WNEVLU2psR2RwVHRKNHFySDVYUWcwZVBscWtKYVZ3NmFNSlVXRzhFLV9xWVlGQk5MRkFpbXR6WDM2c3J6Xy01b0FWWjlpUVFmYUFUOU5rVzNOQmlNNUk3eWNLa3VaTzRzejVKMk1fLTZQZklHaDJMOFVLSFA2c0NrdnZsLWRsS3dQQXhMMnBacnNTclJuWUpoMjA2NFB2Mzh4OGhrQTcteXNmRENsSXI3NFBCZTk5VmpDQ3h3QTNDamNOOE1sT1lyWWttQ2ZyRjZnUXVNeUhHLXB4aTVHSkMtdHZsSlBrOTAyQmFxeGVyX0llV0doUndLUVlVZzMtN0VYUy04QzllOTNoMWZ3LWFId3F4TFFpTnI0M21Ya2o5Z2wzODM5VkpSVmM0QnJ2UEFtakNqSDA2cDFucS1oNk5jQll5VjJMRTV4bW4xMFJMakVNWmhnSnUxMU5XMzlDMGRwakJRZ2lBM2VENA?oc=5",
+   "tickers": [
+    "IBM"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "IBM",
+   "strength": 70,
+   "reason": "Trump explicitly praised CEO; stock rallied on praise signal"
+  },
   {
    "date": "2026-06-15T23:17:52.376Z",
    "platform": "Truth Social",
@@ -100,6 +132,30 @@
    }
   },
   {
+   "date": "2026-06-15T18:33:52Z",
+   "platform": "News",
+   "text": "Trump stock trades prompt insider trading investigation calls - MSN \u2014 Trump stock trades prompt insider trading investigation calls\u00a0\u00a0MSN",
+   "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOTjA3U3BDUVZMRUtsUmtSdzNHTkh3alFTTktpSVNvUVJvd1Z2OEpVeTdWNmJCTWJtZ1lEb00xY001dVd4eFlNX2pHNHlVNVIxVXpLUHZrb1Qwbklwa0UtMmFiT3RlekVXNTJFQ0pYcHB4bmJpR3lfWjBLR3VObHVvNVFYU3dkNE5NZElra3E5WmNoaEpBUmxaOWdtRUtxeVpHYXlCdlplejJzRVdyaWlzdWRjam9yc1pERnNOblVzNks0QTVKNXpMMlNXZW03QXVYV0dRaHd0VF9wd2FnNE1VSDE0dG42bmpaWVlqYmNobkdJdzNzekJ4M1AteWcwM3kwTG8tNnNuZGg1a0ZGVE1YbXl2R25QZVVEX3V6dkZtdWd4bWlsQUhFUg?oc=5",
+   "tickers": [
+    "DJT"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "DJT",
+   "strength": 40,
+   "reason": "Insider trading investigation concerns surrounding Trump's trades; reputational/legal risk",
+   "price_since": {
+    "ticker": "DJT",
+    "pct": -3.3,
+    "base": 8.44,
+    "last": 8.16,
+    "base_date": "2026-06-15",
+    "last_date": "2026-06-16"
+   }
+  },
+  {
    "date": "2026-06-15T13:06:11.624Z",
    "platform": "Truth Social",
    "text": "Ships are starting to move, many loaded up with Oil, out of the Strait of Hormuz. They are going along the Southern \"Highway,\" which is totally safe, secure, and pristine. There are other areas of travel, also!!!  President DJT",
@@ -145,6 +201,30 @@
     "pct": -0.3,
     "base": 55.55,
     "last": 55.36,
+    "base_date": "2026-06-15",
+    "last_date": "2026-06-16"
+   }
+  },
+  {
+   "date": "2026-06-15T12:00:00Z",
+   "platform": "News",
+   "text": "3,600 stock trades in 3 months: Breaking down Trump's flurry of investment moves - CBS News \u2014 3,600 stock trades in 3 months: Breaking down Trump's flurry of investment moves\u00a0\u00a0CBS News",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1IeDNpUVZTYVpicGRyY1E4SGR5R0NBcDVTRVByVldvVkZzcFZ2QVFSNFh6MHBIMGhoa2d4cnFQMkdfVzJDUU1sdWRqUXUyQVAyczR5MWhHYnFtTWV3R3RRN3ZtWQ?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "SPY",
+   "strength": 25,
+   "reason": "Trump's high-frequency trading volume raises governance and insider-trading concerns",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": -0.6,
+    "base": 754.83,
+    "last": 750.33,
     "base_date": "2026-06-15",
     "last_date": "2026-06-16"
    }
@@ -2473,30 +2553,6 @@
    }
   },
   {
-   "date": "2026-06-08T08:50:00Z",
-   "platform": "News",
-   "text": "IBM shares soar after video of Trump praising CEO resurfaces online (IBM) - MSN \u2014 IBM shares soar after video of Trump praising CEO resurfaces online (IBM)\u00a0\u00a0MSN",
-   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZGpocmx2TVVXakl1c2lZSzU0X0R1RzFZQlR3YzB1TU13OURFREhCbEpRRk5aQk1mWHlneS03M0doalZhZWJvU0QwWko4cFFUNGlvQU5aQnU1RHplcDhVeUs5aF9CU3ozck5vRkljS0hHQkpyTGFfYkV4WU9HRHFXRFZ0OXpab3BvMjNFdU9KbzFMQ1g4dVdkM1V2LTlpS0ZON2JpSkJjVy1sVHQ2Vk10M1VCQUtJeDEzOUNBYnE2R1hOTFpWNlp3REtkY2lmRThlWVpYME1CMkd3TXVSWVJNNg?oc=5",
-   "tickers": [
-    "IBM"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "IBM",
-   "strength": 70,
-   "reason": "Trump praise of IBM CEO drives stock surge; explicit endorsement by sitting president",
-   "price_since": {
-    "ticker": "IBM",
-    "pct": -3.0,
-    "base": 280.82,
-    "last": 272.36,
-    "base_date": "2026-06-08",
-    "last_date": "2026-06-10"
-   }
-  },
-  {
    "date": "2026-06-08T07:38:05Z",
    "platform": "News",
    "text": "Why is IBM stock surging nearly 7% higher in overnight trading? - MSN \u2014 Why is IBM stock surging nearly 7% higher in overnight trading?\u00a0\u00a0MSN",
@@ -2735,22 +2791,6 @@
    "primary_ticker": "QQQ",
    "strength": 40,
    "reason": "AI profit-sharing public fund proposal could reshape AI industry returns; direction and implementation unclear"
-  },
-  {
-   "date": "2026-06-07T01:44:13Z",
-   "platform": "News",
-   "text": "Trump pardons former GOP congressman convicted of insider trading - The Washington Post \u2014 Trump pardons former GOP congressman convicted of insider trading\u00a0\u00a0The Washington Post",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSktZS1lyYWpTRFkwZ0JhVU5oVG5NZjhRcGRJd1RnQzNSWWFLRnZyeFRGZnBZNnZMal81ZXgzc0czT1Jsci0xTkpPdmdhdUVPM0EzSUI3dkJQU2FnTGpDV2RIX0dmR1ItaHpRLUpscGJGNzA0T1lBc2dEU0t2dW40MVFpb3NqSHdUMXUwWEwtbjZETjFIdVZnN25tQ1FtSUlYSFVINGc4UzcwOXFESC05UFhaSGg?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "SPY",
-   "strength": 30,
-   "reason": "Pardon of insider trading convict signals relaxed enforcement/governance risk to equity market confidence"
   },
   {
    "curated": true,
