@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-06-16T07:43:29Z",
+ "last_updated": "2026-06-16T12:32:54Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -2479,63 +2479,6 @@
    "primary_ticker": "QQQ",
    "strength": 50,
    "reason": "US public stake in AI firms is policy-level; direction ambiguous (could be bullish for AI if capital flows, bearish if seen as regulation)"
-  },
-  {
-   "date": "2026-06-06T14:46:54Z",
-   "platform": "News",
-   "text": "Trump acquired stock in companies like Walt Disney, JPMorgan, and Netflix, even as he threatened them publicly - MSN \u2014 Trump acquired stock in companies like Walt Disney, JPMorgan, and Netflix, even as he threatened them publicly\u00a0\u00a0MSN",
-   "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxOb21OWW5nRU5yZDBnMkY1ZFZLTXI5R0prSTEtNjNqc2ROY094MXdMR3VkUmpSeUxGbFJGN2IyaC13N05kSFRoSVNwM3d3V3drdGdkUTdWOWNQYjRHTUtfMDVaUUFnQmdyTDdZdU9rWFJUeGplM3lVUEVBdXhQQzlJcC1LcDRETnVUa3ZCZFpzSWtJV196YmVSU25aYW5ZdXg5UlZodmU4U3VhUGxLVEFSRGtWSXRxbWdfSldMbld0d0loU0FNS01wQlhzWkNrWVZLUUY5YjFUSWNwTTNRV0djQU1SWHNvRDJfUExadHdZYmR1M3BkclJkYzB3X1VDeTBWVUZKbnlmMzA3SXIxT2FSZFBlVzZBNUZwaHVfeGw3dE5LQ3JTWEJqUXVHMk5CS0FUcmtn?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "SPY",
-   "strength": 35,
-   "reason": "Trump acquiring stock in DIS, JPM, NFLX while attacking them publicly; mixed signals on conviction"
-  },
-  {
-   "date": "2026-06-06T10:15:00Z",
-   "platform": "News",
-   "text": "Trump urged you to \u2018buy a Dell\u2019 while holding the stock \u2014 now it\u2019s up 255%. Enrich yourself even outside the White House - Yahoo Finance \u2014 Trump urged you to \u2018buy a Dell\u2019 while holding the stock \u2014 now it\u2019s up 255%. Enrich yourself even outside the White House\u00a0\u00a0Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWXVRRnNhb0JhNEdJWXVyS2ZOQmRoSDVIOURkWWxFeVMyLVh2a0w1dG8yS0Jydm1IQ3hWbldEc1pNZkNOMlRodFJSSWN3LVBMMk5pcFFtbDBoYU8tZjFXMFRLOFpnWXBRMVRqYjdac0lTQnZZVVBKZGJqM2Q3QzFyZTV4c2tUaWgycjRJZVhMcjJTbklYQnc?oc=5",
-   "tickers": [
-    "DELL"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "DELL",
-   "strength": 95,
-   "reason": "Trump explicitly urged buying Dell stock while holding it; direct market signal with documented price impact."
-  },
-  {
-   "date": "2026-06-05T23:28:26.660Z",
-   "platform": "Truth Social",
-   "text": "I am pleased to announce that TrumpRx.gov is adding another 160 Prescription\u00a0Drugs, at highly discounted prices, for\u00a0a new total of over 800 of the most commonly-used Prescription Drugs. TrumpRx.gov will now provide clear, transparent, and DISCOUNTED offerings for FOUR OUT OF FIVE of every prescription filled by Americans. I was proud to make History during my First Term when we lowered Drug Prices, even if by a tiny percentage, because this amounted to a HUGE change compared to other presidents only raising Drug Prices, endlessly and significantly, every year. Then, during my Second Term, I decided to go BIG with Most Favored Nations Pricing \u2014 That is to say, we pay no more or, ideally, less than any other Country for the same exact Drug. Now we are cutting Prices, and cutting them by a LOT, sometimes by 400 or 500 or 600 Percent! These Most Favored Nations Deals have already, in fact, saved American Patients over 400 Million Dollars since the launch of TrumpRx.gov. Of course, Most Favored Nations would not be possible without my use of TARIFFS, which are getting other Countries to \"pay up\" instead of relying on American Patients getting ripped off, as they were for decades until I ordered an immediate \"stop\" to this very unfair and, frankly, foolish situation. This is all great news, and I have instructed my Administration to secure more Most Favored Nations Deals, more Partnerships, and Lower Prices for every American Patient. Before filling out a Prescription, make sure you \"CHECK OUT\" \u2013 TRUMPRX.GOV. Thank you for your attention to this matter! President DONALD J. TRUMPHTTPS://TRUMPRX.GOV",
-   "tickers": [
-    "SPY"
-   ],
-   "engagement": 2255,
-   "url": "https://truthsocial.com/@realDonaldTrump/116700093262063892",
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "SPY",
-   "strength": 45,
-   "reason": "Drug price transparency/discounts policy potentially supportive of pharma sector long-term; macro policy signal, not explicit company call.",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": -0.1,
-    "base": 737.55,
-    "last": 737.05,
-    "base_date": "2026-06-05",
-    "last_date": "2026-06-09"
-   }
   },
   {
    "curated": true,
