@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-06-16T17:49:53Z",
+ "last_updated": "2026-06-16T20:51:57Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -20,9 +20,33 @@
    "reason": "Iran nuclear deal tentatively reached; reduces geopolitical tension, bullish for oil prices and risk assets",
    "price_since": {
     "ticker": "USO",
-    "pct": -6.2,
+    "pct": -4.7,
     "base": 121.21,
-    "last": 113.66,
+    "last": 115.47,
+    "base_date": "2026-06-15",
+    "last_date": "2026-06-16"
+   }
+  },
+  {
+   "date": "2026-06-15T22:14:03Z",
+   "platform": "News",
+   "text": "Video: Trump Praises Peace Deal Framework With Iran - The New York Times \u2014 Video: Trump Praises Peace Deal Framework With Iran\u00a0\u00a0The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVm5IYm9obmRCNTdHdXIxMXo2bHJtWkt0VUlMaDZ2T0FTZ1o4dDZoVmZrdGdSZnRlQ1VGdEJnX1RJWG10YklVZDF1Rm16b1Bfd2twRlk5MzFkOGlnbTYyc3NOWFZIb21qYWQ5NDRyOXBXajUteXVraEs1cmZuQWtFVzl2VW03QXdWdmkwMVVGai13d1RQZDhvOVVnZTNUVUdF?oc=5",
+   "tickers": [
+    "USO"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "USO",
+   "strength": 45,
+   "reason": "Iran peace deal framework reduces geopolitical risk and typically supports oil/energy prices.",
+   "price_since": {
+    "ticker": "USO",
+    "pct": -4.7,
+    "base": 121.21,
+    "last": 115.47,
     "base_date": "2026-06-15",
     "last_date": "2026-06-16"
    }
@@ -44,9 +68,9 @@
    "reason": "US-Iran tentative war deal -> broad market relief, stocks up, oil down",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.4,
+    "pct": -0.6,
     "base": 754.83,
-    "last": 752.06,
+    "last": 750.33,
     "base_date": "2026-06-15",
     "last_date": "2026-06-16"
    }
@@ -68,9 +92,9 @@
    "reason": "Trump praised Micron by name; explicit positive signal on semiconductor stock",
    "price_since": {
     "ticker": "MU",
-    "pct": -3.9,
+    "pct": -6.2,
     "base": 1087.99,
-    "last": 1045.04,
+    "last": 1020.76,
     "base_date": "2026-06-15",
     "last_date": "2026-06-16"
    }
@@ -93,9 +117,9 @@
    "reason": "oil shipping resuming via Strait of Hormuz signals easing supply concerns, bullish for energy sector",
    "price_since": {
     "ticker": "XLE",
-    "pct": -0.8,
+    "pct": -0.3,
     "base": 55.55,
-    "last": 55.1,
+    "last": 55.36,
     "base_date": "2026-06-15",
     "last_date": "2026-06-16"
    }
@@ -118,9 +142,9 @@
    "reason": "Iran peace deal eases Middle East tensions and oil prices decline expected, bullish for energy markets",
    "price_since": {
     "ticker": "XLE",
-    "pct": -0.8,
+    "pct": -0.3,
     "base": 55.55,
-    "last": 55.1,
+    "last": 55.36,
     "base_date": "2026-06-15",
     "last_date": "2026-06-16"
    }
@@ -142,9 +166,9 @@
    "reason": "Trump explicitly lauds Citi's M&A comeback, stock rallied to 52-week high",
    "price_since": {
     "ticker": "C",
-    "pct": 1.1,
+    "pct": 1.3,
     "base": 141.21,
-    "last": 142.74,
+    "last": 142.99,
     "base_date": "2026-06-15",
     "last_date": "2026-06-16"
    }
@@ -166,9 +190,9 @@
    "reason": "Analyst bullish call on Citigroup independent of Trump, but aligns with positive sentiment",
    "price_since": {
     "ticker": "C",
-    "pct": 1.1,
+    "pct": 1.3,
     "base": 141.21,
-    "last": 142.74,
+    "last": 142.99,
     "base_date": "2026-06-15",
     "last_date": "2026-06-16"
    }
@@ -190,9 +214,9 @@
    "reason": "Trump signals support for Palantir but mixed signals from short-sellers; ambiguous direction",
    "price_since": {
     "ticker": "PLTR",
-    "pct": -3.0,
+    "pct": -1.1,
     "base": 134.71,
-    "last": 130.71,
+    "last": 133.25,
     "base_date": "2026-06-15",
     "last_date": "2026-06-16"
    }
@@ -214,9 +238,9 @@
    "reason": "Multiple stocks hit 52-week highs but no clear directional catalyst identified",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.4,
+    "pct": -0.6,
     "base": 754.83,
-    "last": 752.04,
+    "last": 750.33,
     "base_date": "2026-06-15",
     "last_date": "2026-06-16"
    }
@@ -238,9 +262,9 @@
    "reason": "US-Iran deal signals reduce Hormuz disruption risk, broad market bullish on oil decline and geopolitical relief",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.4,
+    "pct": -0.6,
     "base": 754.83,
-    "last": 752.04,
+    "last": 750.33,
     "base_date": "2026-06-15",
     "last_date": "2026-06-16"
    }
@@ -263,9 +287,9 @@
    "reason": "Iran peace deal claim + Strait opening -> oil flow resumption bullish for energy sector",
    "price_since": {
     "ticker": "XLE",
-    "pct": -0.8,
+    "pct": -0.3,
     "base": 55.55,
-    "last": 55.1,
+    "last": 55.36,
     "base_date": "2026-06-15",
     "last_date": "2026-06-16"
    }
@@ -288,9 +312,9 @@
    "reason": "Iran deal announcement + Strait of Hormuz opening -> oil supply surge bullish for energy sector",
    "price_since": {
     "ticker": "XLE",
-    "pct": -0.8,
+    "pct": -0.3,
     "base": 55.55,
-    "last": 55.1,
+    "last": 55.36,
     "base_date": "2026-06-15",
     "last_date": "2026-06-16"
    }
@@ -313,9 +337,9 @@
    "reason": "Iran nuclear tensions + Strait of Hormuz opening signals geopolitical de-escalation, bullish for oil/energy",
    "price_since": {
     "ticker": "XLE",
-    "pct": -0.8,
+    "pct": -0.3,
     "base": 55.55,
-    "last": 55.1,
+    "last": 55.36,
     "base_date": "2026-06-15",
     "last_date": "2026-06-16"
    }
@@ -337,9 +361,9 @@
    "reason": "Trump explicitly lauds Citi's comeback in M&A; direct praise bullish signal for the bank stock.",
    "price_since": {
     "ticker": "C",
-    "pct": 1.1,
+    "pct": 1.3,
     "base": 141.21,
-    "last": 142.74,
+    "last": 142.99,
     "base_date": "2026-06-15",
     "last_date": "2026-06-16"
    }
@@ -363,7 +387,7 @@
     "ticker": "NOW",
     "pct": -2.7,
     "base": 104.15,
-    "last": 101.35,
+    "last": 101.33,
     "base_date": "2026-06-15",
     "last_date": "2026-06-16"
    }
@@ -385,9 +409,9 @@
    "reason": "100% tariffs on imported patented drugs pressure pharma/biotech sector; onshoring incentive unclear near-term",
    "price_since": {
     "ticker": "XLV",
-    "pct": 0.1,
+    "pct": 0.0,
     "base": 152.89,
-    "last": 153.09,
+    "last": 152.94,
     "base_date": "2026-06-15",
     "last_date": "2026-06-16"
    }
@@ -406,7 +430,15 @@
    "direction": "BUY",
    "primary_ticker": "QCOM",
    "strength": 50,
-   "reason": "Qualcomm executives joining Trump China visit signals diplomatic engagement and potential trade deal"
+   "reason": "Qualcomm executives joining Trump China visit signals diplomatic engagement and potential trade deal",
+   "price_since": {
+    "ticker": "QCOM",
+    "pct": -3.1,
+    "base": 220.81,
+    "last": 214.07,
+    "base_date": "2026-06-15",
+    "last_date": "2026-06-16"
+   }
   },
   {
    "date": "2026-06-14T14:46:45.709Z",
@@ -426,9 +458,9 @@
    "reason": "Iran peace deal prospect reduces geopolitical risk and supports broad market sentiment.",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.4,
+    "pct": -0.6,
     "base": 754.83,
-    "last": 752.04,
+    "last": 750.33,
     "base_date": "2026-06-15",
     "last_date": "2026-06-16"
    }
@@ -450,9 +482,9 @@
    "reason": "Potential Cuba geopolitical action; unclear if bullish or bearish for oil/market without details",
    "price_since": {
     "ticker": "USO",
-    "pct": -6.2,
+    "pct": -4.7,
     "base": 121.21,
-    "last": 113.66,
+    "last": 115.47,
     "base_date": "2026-06-15",
     "last_date": "2026-06-16"
    }
@@ -474,9 +506,9 @@
    "reason": "Trump's $1.5T defense budget signals Palantir as strategic defense vendor, bullish for stock",
    "price_since": {
     "ticker": "PLTR",
-    "pct": -3.0,
+    "pct": -1.1,
     "base": 134.71,
-    "last": 130.71,
+    "last": 133.25,
     "base_date": "2026-06-15",
     "last_date": "2026-06-16"
    }
@@ -498,9 +530,9 @@
    "reason": "Intel rally attributed partly to Trump sentiment but other factors at play; ambiguous direction",
    "price_since": {
     "ticker": "INTC",
-    "pct": -6.2,
+    "pct": -8.5,
     "base": 127.86,
-    "last": 119.97,
+    "last": 117.05,
     "base_date": "2026-06-15",
     "last_date": "2026-06-16"
    }
@@ -522,9 +554,9 @@
    "reason": "Trump explicitly touted Palantir on Truth Social after buying stock; direct praise of named public company",
    "price_since": {
     "ticker": "PLTR",
-    "pct": -3.0,
+    "pct": -1.1,
     "base": 134.71,
-    "last": 130.71,
+    "last": 133.25,
     "base_date": "2026-06-15",
     "last_date": "2026-06-16"
    }
@@ -546,9 +578,9 @@
    "reason": "Trump administration crackdown on Anthropic AI models creates regulatory headwind for AI/tech sector",
    "price_since": {
     "ticker": "COIN",
-    "pct": 0.6,
+    "pct": -0.2,
     "base": 169.62,
-    "last": 170.69,
+    "last": 169.27,
     "base_date": "2026-06-15",
     "last_date": "2026-06-16"
    }
@@ -570,9 +602,9 @@
    "reason": "Amazon CEO's involvement in Anthropic crackdown signals potential regulatory pressure on Amazon's AI initiatives",
    "price_since": {
     "ticker": "AMZN",
-    "pct": -0.1,
+    "pct": -0.0,
     "base": 246.02,
-    "last": 245.82,
+    "last": 246.0,
     "base_date": "2026-06-15",
     "last_date": "2026-06-16"
    }
@@ -591,7 +623,15 @@
    "direction": "BUY",
    "primary_ticker": "REMX",
    "strength": 60,
-   "reason": "Greenland acquisition interest signals rare earth/critical metals demand; bullish for critical metals sector"
+   "reason": "Greenland acquisition interest signals rare earth/critical metals demand; bullish for critical metals sector",
+   "price_since": {
+    "ticker": "REMX",
+    "pct": -0.1,
+    "base": 96.89,
+    "last": 96.78,
+    "base_date": "2026-06-15",
+    "last_date": "2026-06-16"
+   }
   },
   {
    "date": "2026-06-13T16:45:43.030Z",
@@ -611,9 +651,9 @@
    "reason": "Iran deal claim opens Hormuz Strait -> bullish for oil supply/prices.",
    "price_since": {
     "ticker": "USO",
-    "pct": -6.2,
+    "pct": -4.7,
     "base": 121.21,
-    "last": 113.66,
+    "last": 115.47,
     "base_date": "2026-06-15",
     "last_date": "2026-06-16"
    }
@@ -635,9 +675,9 @@
    "reason": "Trump's explicit social media endorsement of Citigroup shows direct support",
    "price_since": {
     "ticker": "C",
-    "pct": 1.1,
+    "pct": 1.3,
     "base": 141.21,
-    "last": 142.74,
+    "last": 142.99,
     "base_date": "2026-06-15",
     "last_date": "2026-06-16"
    }
@@ -659,9 +699,9 @@
    "reason": "Trump praised IBM CEO as 'legend' and government floated $1B quantum award -> stock benefit.",
    "price_since": {
     "ticker": "IBM",
-    "pct": 0.9,
+    "pct": 0.8,
     "base": 268.71,
-    "last": 271.11,
+    "last": 270.81,
     "base_date": "2026-06-15",
     "last_date": "2026-06-16"
    }
@@ -683,9 +723,9 @@
    "reason": "SpaceX IPO debut and oil price easing both support broad market rally.",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.4,
+    "pct": -0.6,
     "base": 754.83,
-    "last": 752.07,
+    "last": 750.33,
     "base_date": "2026-06-15",
     "last_date": "2026-06-16"
    }
@@ -2711,22 +2751,6 @@
    "primary_ticker": "SPY",
    "strength": 30,
    "reason": "Pardon of insider trading convict signals relaxed enforcement/governance risk to equity market confidence"
-  },
-  {
-   "date": "2026-06-06T17:01:52Z",
-   "platform": "News",
-   "text": "Trump backs talks on US public stake in AI firms - MSN \u2014 Trump backs talks on US public stake in AI firms\u00a0\u00a0MSN",
-   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOUElGVTJ5b19NQzN4dXRtSFBuTVZ1MmdKVVl2ZVI3WG1TUHpzeEh1VHVLTEVVcnJnOUFiRXFEYXR3X1hXN1pXdW1naWRUUXc1d3lZU3ExVGxSbllYZVpyeG1teGJfMXA2el9TRGN6dGxBM1FhWkx5Rk13cDFUOXhuaHp5cElnb2djM3VYNTY2dU11QjVPdDlHZHoyM2xQaXU1ajFhcGJpLTVtLU5IbE1TcE9LQ0tSTHV0T05FaXUtaUJwckdHQWxncVctTWtYSFBlUUcxUnpwaVRTR0xUTUNjOXU2cGlxdw?oc=5",
-   "tickers": [
-    "QQQ"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "QQQ",
-   "strength": 50,
-   "reason": "US public stake in AI firms is policy-level; direction ambiguous (could be bullish for AI if capital flows, bearish if seen as regulation)"
   },
   {
    "curated": true,
