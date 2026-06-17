@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-06-17T21:35:46Z",
+ "last_updated": "2026-06-17T23:08:33Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -66,6 +66,38 @@
    "primary_ticker": "C",
    "strength": 25,
    "reason": "Citi hitting 52-week high is a data point but headline lacks Trump-specific catalyst; neutral observation."
+  },
+  {
+   "date": "2026-06-17T13:17:21Z",
+   "platform": "News",
+   "text": "Unusual Machines stock looks like a winner as Trump backs drone makers - MSN \u2014 Unusual Machines stock looks like a winner as Trump backs drone makers\u00a0\u00a0MSN",
+   "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxNb3I3am1PTG5uendPa0tObDFkbmdGTTNuWGVib2tPaFNaR082eE1EZ3FYN0lsakVVaklrQ3JpTUlHNUJtWTl1OVVzd29fRUhEMnBWSUVBUmRjNWg1UDJIQ01jcTRvR3ViLWswdWRITWlCV1dsQmVIZXg0cE1uMmp3d3Z5aWg2VWh5UlRIaGpZV2N6RTJtNDBNcGxVR0Q5OUhYaDlrcHZSZWtpallyS2RmQ2I4MU04aWprV2tPcEs5V3JvaHlWN0VWUXUyTk43bXdiMkJLLTVHaklsaUNuZi1oWm9IemttN2R0eG0zb2FEMjZxbjI4aUJDRzdRMGN4TEI3M09TUGd2dzdkVUxwUTlaWmRqc2JqZGZiM0xnYUsta0U3RVZ1MG5DZTZnRWczd0pFcGNOV0VGSUpwbzdVM0s4bU1WNlJyWFRQUTJkV0hETWUwSmE1QzgtRQ?oc=5",
+   "tickers": [
+    "UMPM"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "UMPM",
+   "strength": 65,
+   "reason": "Trump explicitly backs drone maker Unusual Machines; named company endorsement suggests bullish outlook"
+  },
+  {
+   "date": "2026-06-17T12:05:03Z",
+   "platform": "News",
+   "text": "SpaceX\u2019s Growing War Chest - The New York Times \u2014 SpaceX\u2019s Growing War Chest\u00a0\u00a0The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORGhwenVCVHRlaVJqbnNxV0xheGJKQkVWTjJ2U2UweUtPMFlGa0p0RkdRYVY2bmxYUEhuYjRKd2RHbjdObzhIMGdLZndEOWZkNERFM3UzNFZnQ29CaVRIbkZvb2xFYkw0dGRPT0Z6VUk0VHJOZUplOHlNdlZmanhTV1huWjVBSnM?oc=5",
+   "tickers": [
+    "SPACE"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "SPACE",
+   "strength": 40,
+   "reason": "SpaceX cash position expansion; Trump ally company benefits from favorable regulatory environment"
   },
   {
    "date": "2026-06-17T12:02:19Z",
@@ -437,9 +469,9 @@
    "reason": "US-Iran peace deal reduces geopolitical risk, bullish for risk assets including Bitcoin.",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": -3.0,
+    "pct": -3.1,
     "base": 66289.5,
-    "last": 64314.1,
+    "last": 64229.22,
     "base_date": "2026-06-15",
     "last_date": "2026-06-17"
    }
@@ -2688,54 +2720,6 @@
    "primary_ticker": "IBRX",
    "strength": 35,
    "reason": "Stock rally coincides with Trump SOTU but no specific catalyst stated"
-  },
-  {
-   "date": "2026-06-08T19:01:25Z",
-   "platform": "News",
-   "text": "Why Is IBM Stock Surging Nearly 7% Higher In Overnight Trading? - Stocktwits \u2014 Why Is IBM Stock Surging Nearly 7% Higher In Overnight Trading?\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQk9pekpVQ1Q1NnRyVEdqWjdJN29OTFpDY3Rkc08wdG96eTdtMHRzVVRmUFItUlRQQS11WXBWZFpHWU50d3hoRHBENXM2eGhKMF9QZF9qb3ZQT2pXREgyU1pTMzBFU0JGZ0lOTk90VlU4YURiV3I1LWtPdTVzZDZRbUZGWEUySWxkZXg1a2dzYVVTVUpsOU1Yc25qQ2U4OE9tX1MtbEZFNDZDalpaS2JlbndvcnYyUU1Ca0E2cGxqMi02S2s?oc=5",
-   "tickers": [
-    "IBM"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "IBM",
-   "strength": 68,
-   "reason": "IBM stock surge likely tied to Trump's prior CEO praise and quantum contract rumors",
-   "price_since": {
-    "ticker": "IBM",
-    "pct": -1.2,
-    "base": 280.82,
-    "last": 277.49,
-    "base_date": "2026-06-08",
-    "last_date": "2026-06-09"
-   }
-  },
-  {
-   "date": "2026-06-08T15:41:27Z",
-   "platform": "News",
-   "text": "Tech Stocks Surge After Trump Weighs US Gov\u2019t Stake In AI Companies - AOL.com \u2014 Tech Stocks Surge After Trump Weighs US Gov\u2019t Stake In AI Companies\u00a0\u00a0AOL.com",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBETy1EY2k0NWdrbEl3d196LUU5Qm0tZ21Fd3JuRjBGQWlJM0c0MTFSNkRiMVl6Y0FySTZ0cWZGRTRFd1IxMVFvX3gyMjZrTk9fZUU1Vld1RVA1VmMyRVZhZXk3MlFOazlJUS03WDQ3Z201X0lma3VINzNR?oc=5",
-   "tickers": [
-    "QQQ"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "QQQ",
-   "strength": 60,
-   "reason": "Trump considering US gov't stake in AI companies; tech-sector bullish policy signal.",
-   "price_since": {
-    "ticker": "QQQ",
-    "pct": -3.1,
-    "base": 716.07,
-    "last": 693.69,
-    "base_date": "2026-06-08",
-    "last_date": "2026-06-10"
-   }
   },
   {
    "curated": true,
