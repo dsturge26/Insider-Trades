@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-06-16T22:53:20Z",
+ "last_updated": "2026-06-17T00:17:07Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-06-16T16:39:59Z",
+   "platform": "News",
+   "text": "Why Is DJT Stock Up Premarket Today? - Stocktwits \u2014 Why Is DJT Stock Up Premarket Today?\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSk1xMmNPNUVJMDcxTEpIMzdrR05NSTUyc3dqa3o4OTRQUHh0M09ZVjFJZ01GRlltSGtQTlBhWWVJaGVKSVh0UTROTVdIREhzbm85OHJHaGMxaTQyVDFuSlNTbWtPbEZSTXduY1pmTWRwR296cE5UcURMT09RekhNV1RiWkYxOVB3cHlUN1BETi0wdnhTQTlSUXBkRldfQ0tM?oc=5",
+   "tickers": [
+    "DJT"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "DJT",
+   "strength": 25,
+   "reason": "Trump Media stock moving premarket; likely driven by positive sentiment or news flow but headline lacks specifics on catalyst"
+  },
   {
    "date": "2026-06-16T13:28:54Z",
    "platform": "News",
@@ -2735,62 +2751,6 @@
     "base_date": "2026-06-08",
     "last_date": "2026-06-10"
    }
-  },
-  {
-   "date": "2026-06-07T13:30:20Z",
-   "platform": "News",
-   "text": "Liz Landers on Trump\u2019s Dell trade spree, and the gains behind it - \u0634\u0628\u0643\u0629 \u062a\u0648\u0627\u0635\u0644 \u0627\u0644\u0625\u062e\u0628\u0627\u0631\u064a\u0629 \u2014 Liz Landers on Trump\u2019s Dell trade spree, and the gains behind it\u00a0\u00a0\u0634\u0628\u0643\u0629 \u062a\u0648\u0627\u0635\u0644 \u0627\u0644\u0625\u062e\u0628\u0627\u0631\u064a\u0629",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0wVE9qd3BqeFpQbnhUNE1sRnZPNnJ2UGJDUXp6ZHZ5b3RzOTdjVzFxQWRfR1dWVFk4Ri1GN2NXQi1lbFRjRGV4Mkhrd3NpZFNsTHNn?oc=5",
-   "tickers": [
-    "DELL"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "DELL",
-   "strength": 75,
-   "reason": "Trump's Dell stock trading spree with gains; implies bullish conviction",
-   "price_since": {
-    "ticker": "DELL",
-    "pct": -4.3,
-    "base": 400.77,
-    "last": 383.42,
-    "base_date": "2026-06-08",
-    "last_date": "2026-06-10"
-   }
-  },
-  {
-   "date": "2026-06-07T13:15:39Z",
-   "platform": "News",
-   "text": "Liz Landers on Trump\u2019s Dell trade spree, and the gains behind it - mogazmasr.com \u2014 Liz Landers on Trump\u2019s Dell trade spree, and the gains behind it\u00a0\u00a0mogazmasr.com",
-   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBaTzkzREZoSXZ3UHdMeks5U2p6bGFBN08zTnZOSlh1dlp1eHVpN21PMlRrZ3I4R2F2bjlONzI2cXFnR05UNXNV?oc=5",
-   "tickers": [
-    "DELL"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "DELL",
-   "strength": 85,
-   "reason": "Trump explicitly urged Americans to 'buy a Dell' while holding stock; stock up 255% demonstrates signal strength."
-  },
-  {
-   "date": "2026-06-07T05:35:58Z",
-   "platform": "News",
-   "text": "Trump Proposes AI Profit-Sharing Public Fund - \uc870\uc120\uc77c\ubcf4 \u2014 Trump Proposes AI Profit-Sharing Public Fund\u00a0\u00a0\uc870\uc120\uc77c\ubcf4",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPR05IYkpnZF9fVWpha3lPZjJTWDlNRXlwV3V0aWhyVmY3aEY5MTU3NTd2TjdaMnRfbnQwQlc1RFBwSzMzTEhLYUZZM3FONmd2M2loNXlfQUdiRlVxWkNJdEVBdF96ZlA2bDI5MjBtMERud0JfcUtTb3p5bjdCSUtpd1RFTFZueGlx?oc=5",
-   "tickers": [
-    "QQQ"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "QQQ",
-   "strength": 40,
-   "reason": "AI profit-sharing public fund proposal could reshape AI industry returns; direction and implementation unclear"
   },
   {
    "curated": true,
