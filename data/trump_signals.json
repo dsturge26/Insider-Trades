@@ -1,7 +1,56 @@
 {
- "last_updated": "2026-06-17T14:05:19Z",
+ "last_updated": "2026-06-17T17:24:47Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-06-17T15:57:00Z",
+   "platform": "News",
+   "text": "Jensen Huang on his relationship with Trump: \u2018calls me in the middle of the night\u2019 - fortune.com \u2014 Jensen Huang on his relationship with Trump: \u2018calls me in the middle of the night\u2019\u00a0\u00a0fortune.com",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMlk0aWpCenFpa24yZzBLY0Nsa0hPd01ZWTZTNFR6ZVRWQmlxMFpfdngwZTRTbWZhSzJCT2ZhRW9ZRGUyUnZFWGNzamt6cU90TmZjcVJRazQyLXZXeEtOOFprY1BwR2RXM2tMaVNka3pfLU5aUnJEeGNZNEx1UER1MFAtX2hoRWJsczRvdHF6Sy1rZw?oc=5",
+   "tickers": [
+    "NVDA"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "NVDA",
+   "strength": 45,
+   "reason": "Trump close relationship with Nvidia CEO Jensen Huang suggests favorable disposition toward Nvidia/semiconductors; indirect but relationship-based bullish signal."
+  },
+  {
+   "date": "2026-06-17T14:01:23.728Z",
+   "platform": "Truth Social",
+   "text": "I will be doing a Press Conference in 45 minutes from France. I'll then be heading to Versailles for Dinner with French and other European Leaders, and then back home tonight! The trip was a Great Success but, mostly what people wanted to talk about, is the fact that Iran will not have a Nuclear Weapon, and that the Strait of Hormuz will immediately be opened! Great Numbers in all categories for the United States Economy with more people working today than have ever worked before. Over 19.1 Trillion being invested in the U.S.A. with Factories and everything else happening but, importantly, recent Stock Market numbers are through the roof because of the settlement and, likewise, Oil Prices are tumbling down! President DONALD J. TRUMP",
+   "tickers": [
+    "SPY"
+   ],
+   "engagement": 11250,
+   "url": "https://truthsocial.com/@realDonaldTrump/116765811260304660",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "SPY",
+   "strength": 50,
+   "reason": "Trump touts strong US economy, record employment, and $19.1T investment inflows; broad macro bullish signal for equities."
+  },
+  {
+   "date": "2026-06-17T13:34:00Z",
+   "platform": "News",
+   "text": "Citigroup stock hits 52-week high at 143.93 USD By Investing.com - Investing.com UK \u2014 Citigroup stock hits 52-week high at 143.93 USD By Investing.com\u00a0\u00a0Investing.com UK",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaEJGOUFHYUdqUExQZEdYX1UtYkpLVTdNSTVwNzdRUXJPN1A3ZERQZW4tSkJjYmpHWHFfRDd2ZW9OdHZLNXVUM2VsMUtzZG5fTlBNMjd3MXRtcG9SeWNNem9KSUhYYXpTQVRtX0dFM0dJRlFISk5jTDdxN2lhdlA2RFVOanhLM0RZUkpYWXpDM3hzYWRSdDJWa2ZKT0JYMzE1T0F3?oc=5",
+   "tickers": [
+    "C"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "C",
+   "strength": 25,
+   "reason": "Citi hitting 52-week high is a data point but headline lacks Trump-specific catalyst; neutral observation."
+  },
   {
    "date": "2026-06-17T12:02:19Z",
    "platform": "News",
@@ -83,9 +132,9 @@
    "reason": "Geopolitical tension shift (Israel/Iran) creates market ambiguity; unclear near-term catalyst",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.0,
+    "pct": -0.1,
     "base": 750.33,
-    "last": 750.25,
+    "last": 749.35,
     "base_date": "2026-06-16",
     "last_date": "2026-06-17"
    }
@@ -107,9 +156,9 @@
    "reason": "Critical metals/Greenland interest implies resource/mining thesis; direction ambiguous without policy clarity",
    "price_since": {
     "ticker": "XLE",
-    "pct": -0.8,
+    "pct": -0.7,
     "base": 55.36,
-    "last": 54.9,
+    "last": 54.98,
     "base_date": "2026-06-16",
     "last_date": "2026-06-17"
    }
@@ -128,7 +177,15 @@
    "direction": "BUY",
    "primary_ticker": "PLTR",
    "strength": 65,
-   "reason": "Trump's $1.5T defense budget bullish for Palantir as strategic defense vendor."
+   "reason": "Trump's $1.5T defense budget bullish for Palantir as strategic defense vendor.",
+   "price_since": {
+    "ticker": "PLTR",
+    "pct": 1.2,
+    "base": 133.25,
+    "last": 134.9,
+    "base_date": "2026-06-16",
+    "last_date": "2026-06-17"
+   }
   },
   {
    "date": "2026-06-16T16:39:59Z",
@@ -144,7 +201,15 @@
    "direction": "BUY",
    "primary_ticker": "DJT",
    "strength": 25,
-   "reason": "Trump Media stock moving premarket; likely driven by positive sentiment or news flow but headline lacks specifics on catalyst"
+   "reason": "Trump Media stock moving premarket; likely driven by positive sentiment or news flow but headline lacks specifics on catalyst",
+   "price_since": {
+    "ticker": "DJT",
+    "pct": 1.1,
+    "base": 8.16,
+    "last": 8.25,
+    "base_date": "2026-06-16",
+    "last_date": "2026-06-17"
+   }
   },
   {
    "date": "2026-06-16T13:52:13Z",
@@ -165,7 +230,7 @@
     "ticker": "C",
     "pct": 2.1,
     "base": 142.99,
-    "last": 146.05,
+    "last": 146.02,
     "base_date": "2026-06-16",
     "last_date": "2026-06-17"
    }
@@ -187,9 +252,9 @@
    "reason": "Trump's high-frequency stock trading raises governance/insider concerns; market-relevant but ambiguous impact",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.0,
+    "pct": -0.1,
     "base": 750.33,
-    "last": 750.25,
+    "last": 749.35,
     "base_date": "2026-06-16",
     "last_date": "2026-06-17"
    }
@@ -208,7 +273,15 @@
    "direction": "WATCH",
    "primary_ticker": "PLTR",
    "strength": 30,
-   "reason": "Contrarian short thesis on Palantir after Trump endorsement; conflicting signals on direction."
+   "reason": "Contrarian short thesis on Palantir after Trump endorsement; conflicting signals on direction.",
+   "price_since": {
+    "ticker": "PLTR",
+    "pct": 1.2,
+    "base": 133.25,
+    "last": 134.9,
+    "base_date": "2026-06-16",
+    "last_date": "2026-06-17"
+   }
   },
   {
    "date": "2026-06-16T08:30:36Z",
@@ -227,9 +300,9 @@
    "reason": "Trump explicitly praised CEO; stock rallied on praise signal",
    "price_since": {
     "ticker": "IBM",
-    "pct": -1.3,
+    "pct": -0.9,
     "base": 270.81,
-    "last": 267.26,
+    "last": 268.28,
     "base_date": "2026-06-16",
     "last_date": "2026-06-17"
    }
@@ -272,7 +345,15 @@
    "direction": "BUY",
    "primary_ticker": "NOW",
    "strength": 60,
-   "reason": "Trump's disclosed stake in ServiceNow creates explicit bullish signal; ownership alignment with praise"
+   "reason": "Trump's disclosed stake in ServiceNow creates explicit bullish signal; ownership alignment with praise",
+   "price_since": {
+    "ticker": "NOW",
+    "pct": -0.5,
+    "base": 101.33,
+    "last": 100.84,
+    "base_date": "2026-06-16",
+    "last_date": "2026-06-17"
+   }
   },
   {
    "date": "2026-06-15T23:17:52.376Z",
@@ -292,9 +373,9 @@
    "reason": "Iran nuclear deal tentatively reached; reduces geopolitical tension, bullish for oil prices and risk assets",
    "price_since": {
     "ticker": "USO",
-    "pct": -4.4,
+    "pct": -5.4,
     "base": 121.21,
-    "last": 115.85,
+    "last": 114.62,
     "base_date": "2026-06-15",
     "last_date": "2026-06-17"
    }
@@ -316,9 +397,9 @@
    "reason": "Iran peace deal framework reduces geopolitical risk and typically supports oil/energy prices.",
    "price_since": {
     "ticker": "USO",
-    "pct": -4.4,
+    "pct": -5.4,
     "base": 121.21,
-    "last": 115.85,
+    "last": 114.62,
     "base_date": "2026-06-15",
     "last_date": "2026-06-17"
    }
@@ -340,9 +421,9 @@
    "reason": "US-Iran tentative war deal -> broad market relief, stocks up, oil down",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.6,
+    "pct": -0.7,
     "base": 754.83,
-    "last": 750.25,
+    "last": 749.35,
     "base_date": "2026-06-15",
     "last_date": "2026-06-17"
    }
@@ -364,9 +445,9 @@
    "reason": "Trump praised Micron by name; explicit positive signal on semiconductor stock",
    "price_since": {
     "ticker": "MU",
-    "pct": -6.1,
+    "pct": -1.7,
     "base": 1087.99,
-    "last": 1021.39,
+    "last": 1069.9,
     "base_date": "2026-06-15",
     "last_date": "2026-06-17"
    }
@@ -388,9 +469,9 @@
    "reason": "Insider trading investigation concerns surrounding Trump's trades; reputational/legal risk",
    "price_since": {
     "ticker": "DJT",
-    "pct": -3.8,
+    "pct": -2.3,
     "base": 8.44,
-    "last": 8.12,
+    "last": 8.25,
     "base_date": "2026-06-15",
     "last_date": "2026-06-17"
    }
@@ -413,9 +494,9 @@
    "reason": "oil shipping resuming via Strait of Hormuz signals easing supply concerns, bullish for energy sector",
    "price_since": {
     "ticker": "XLE",
-    "pct": -1.2,
+    "pct": -1.0,
     "base": 55.55,
-    "last": 54.9,
+    "last": 54.99,
     "base_date": "2026-06-15",
     "last_date": "2026-06-17"
    }
@@ -438,9 +519,9 @@
    "reason": "Iran peace deal eases Middle East tensions and oil prices decline expected, bullish for energy markets",
    "price_since": {
     "ticker": "XLE",
-    "pct": -1.2,
+    "pct": -1.0,
     "base": 55.55,
-    "last": 54.9,
+    "last": 54.99,
     "base_date": "2026-06-15",
     "last_date": "2026-06-17"
    }
@@ -462,9 +543,9 @@
    "reason": "Trump's high-frequency trading volume raises governance and insider-trading concerns",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.6,
+    "pct": -0.7,
     "base": 754.83,
-    "last": 750.25,
+    "last": 749.37,
     "base_date": "2026-06-15",
     "last_date": "2026-06-17"
    }
@@ -510,9 +591,9 @@
    "reason": "Trump signals support for Palantir but mixed signals from short-sellers; ambiguous direction",
    "price_since": {
     "ticker": "PLTR",
-    "pct": 0.2,
+    "pct": 0.1,
     "base": 134.71,
-    "last": 134.96,
+    "last": 134.9,
     "base_date": "2026-06-15",
     "last_date": "2026-06-17"
    }
@@ -534,9 +615,9 @@
    "reason": "Trump purchased TKO stock while promoting UFC event; suggests confidence in company but mixed signal (self-dealing optics reduce strength)",
    "price_since": {
     "ticker": "TKO",
-    "pct": -1.9,
+    "pct": -2.2,
     "base": 201.19,
-    "last": 197.39,
+    "last": 196.68,
     "base_date": "2026-06-15",
     "last_date": "2026-06-17"
    }
@@ -558,9 +639,9 @@
    "reason": "Multiple stocks hit 52-week highs but no clear directional catalyst identified",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.6,
+    "pct": -0.7,
     "base": 754.83,
-    "last": 750.25,
+    "last": 749.37,
     "base_date": "2026-06-15",
     "last_date": "2026-06-17"
    }
@@ -582,9 +663,9 @@
    "reason": "US-Iran deal signals reduce Hormuz disruption risk, broad market bullish on oil decline and geopolitical relief",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.6,
+    "pct": -0.7,
     "base": 754.83,
-    "last": 750.25,
+    "last": 749.43,
     "base_date": "2026-06-15",
     "last_date": "2026-06-17"
    }
@@ -607,9 +688,9 @@
    "reason": "Iran peace deal claim + Strait opening -> oil flow resumption bullish for energy sector",
    "price_since": {
     "ticker": "XLE",
-    "pct": -1.2,
+    "pct": -1.0,
     "base": 55.55,
-    "last": 54.9,
+    "last": 54.99,
     "base_date": "2026-06-15",
     "last_date": "2026-06-17"
    }
@@ -632,9 +713,9 @@
    "reason": "Iran deal announcement + Strait of Hormuz opening -> oil supply surge bullish for energy sector",
    "price_since": {
     "ticker": "XLE",
-    "pct": -1.2,
+    "pct": -1.0,
     "base": 55.55,
-    "last": 54.9,
+    "last": 54.99,
     "base_date": "2026-06-15",
     "last_date": "2026-06-17"
    }
@@ -2660,54 +2741,6 @@
     "pct": -3.1,
     "base": 716.07,
     "last": 693.69,
-    "base_date": "2026-06-08",
-    "last_date": "2026-06-10"
-   }
-  },
-  {
-   "date": "2026-06-08T07:38:05Z",
-   "platform": "News",
-   "text": "Why is IBM stock surging nearly 7% higher in overnight trading? - MSN \u2014 Why is IBM stock surging nearly 7% higher in overnight trading?\u00a0\u00a0MSN",
-   "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxPZk9aUklkZ05PdFp5blV5cnU0LUVWNVBlSDBrQUIybXhYU2tiZzBzN3ZtcGtzMEZJWElpNjc0VHNpM1NxaDExOUYtVThia2IzNkNsRWRXY2d1SzdzdW13NzVmN2FlSHlGTFBYZWdlWHpsOTB6cG5hS1l6S1dIMnNLb3E3RGhtWVlNRW5qSnFMVTRQSHhFZzNUZm5DdVYxb1Y2TEtmejdQaEFrUDhub2dNN0lyNXFmQ182T3dGRlR3aVF6Y2VrSUY4aTlZSkdEWURtTS1BMkpsMjNIU01YMDNDbXpNWkxSYWFfODdWX2pvZVpjaUVLNkNIc0QzTk1FLVIzOGl2bWU3ak00aWJsUGRmMFBTYkZ3TDJCMm5RTVJreVJxMzZRejg2bDJ3VWNITUhLRHpxYmpOYVFLRjlOUEdfYm1uVlM3anV4Z21vbFJJTkZjTTMwTmk2QklmaFJIcUJ0bTUyTFJERnNuZw?oc=5",
-   "tickers": [
-    "IBM"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "IBM",
-   "strength": 55,
-   "reason": "IBM overnight surge likely tied to Trump's prior praise and policy support; bullish momentum",
-   "price_since": {
-    "ticker": "IBM",
-    "pct": -2.5,
-    "base": 280.82,
-    "last": 273.83,
-    "base_date": "2026-06-08",
-    "last_date": "2026-06-10"
-   }
-  },
-  {
-   "date": "2026-06-08T06:27:45Z",
-   "platform": "News",
-   "text": "BB Stock To $10? Retail Traders Eye New Highs On QNX, Physical AI Boost - Stocktwits \u2014 BB Stock To $10? Retail Traders Eye New Highs On QNX, Physical AI Boost\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQlo3d1dSS0NHNUhSeER4LWR5di1DRFJLU2lsRWcyNlBUR2Q0TUh2MHdRcU1wZllORzVRZTkzZ0FJajRwVlEyVXBBZUZrMi1aR1hpS2dXamlRNkVSUDJXekNFRmF3TUVvVUVweFVmOEVZMUpNb1A3a2ptOHFVYkNnU3VXcWZoR0N1SnloRVpMTXMzSXRWak1rTkhoWFRwUk9iYkJ1NkJEbEstb1Z1S0dJMm5ESVRzbWZqd0FGd2xtNjRrSnRU?oc=5",
-   "tickers": [
-    "BB"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "BB",
-   "strength": 45,
-   "reason": "Retail traders eye BlackBerry on QNX/Physical AI catalyst; direction unclear on fundamentals",
-   "price_since": {
-    "ticker": "BB",
-    "pct": -3.9,
-    "base": 9.29,
-    "last": 8.93,
     "base_date": "2026-06-08",
     "last_date": "2026-06-10"
    }

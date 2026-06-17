@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-06-17T14:05:20Z",
+ "last_updated": "2026-06-17T17:24:48Z",
  "note": "Trump-linked / 'Trump trade' tickers to watch. Prices are refreshed by the GitHub Action from Yahoo Finance (intraday quote + trend, no key; Stooq is a fallback). Stocks are ~15-min delayed, crypto is real-time.",
  "tickers": [
   {
@@ -8,10 +8,6 @@
    "why": "Trump is majority owner. The purest 'Trump sentiment' stock \u2014 moves on his political/legal/business news.",
    "stooq": "djt.us",
    "prices": [
-    {
-     "date": "2026-03-23",
-     "close": 9.05
-    },
     {
      "date": "2026-03-24",
      "close": 8.77
@@ -245,14 +241,18 @@
      "close": 8.44
     },
     {
+     "date": "2026-06-16",
+     "close": 8.16
+    },
+    {
      "date": "2026-06-17",
-     "close": 8.12
+     "close": 8.25
     }
    ],
-   "last": 8.12,
+   "last": 8.25,
    "prev_close": 9.8,
-   "day_pct": -17.14,
-   "as_of": "2026-06-17T14:05:17Z"
+   "day_pct": -15.82,
+   "as_of": "2026-06-17T17:24:20Z"
   },
   {
    "ticker": "SPY",
@@ -498,13 +498,13 @@
     },
     {
      "date": "2026-06-17",
-     "close": 750.23
+     "close": 749.37
     }
    ],
-   "last": 750.23,
+   "last": 749.37,
    "prev_close": 670.79,
-   "day_pct": 11.84,
-   "as_of": "2026-06-17T14:05:18Z"
+   "day_pct": 11.71,
+   "as_of": "2026-06-17T17:24:46Z"
   },
   {
    "ticker": "QQQ",
@@ -750,13 +750,13 @@
     },
     {
      "date": "2026-06-17",
-     "close": 731.53
+     "close": 732.4
     }
    ],
-   "last": 731.53,
+   "last": 732.4,
    "prev_close": 603.31,
-   "day_pct": 21.25,
-   "as_of": "2026-06-17T14:05:18Z"
+   "day_pct": 21.4,
+   "as_of": "2026-06-17T17:24:47Z"
   },
   {
    "ticker": "PLTR",
@@ -764,10 +764,6 @@
    "why": "Frequent congressional buy and a 'government contracts / Trump era' favorite.",
    "stooq": "pltr.us",
    "prices": [
-    {
-     "date": "2026-03-23",
-     "close": 160.84
-    },
     {
      "date": "2026-03-24",
      "close": 154.78
@@ -1001,14 +997,18 @@
      "close": 134.71
     },
     {
+     "date": "2026-06-16",
+     "close": 133.25
+    },
+    {
      "date": "2026-06-17",
-     "close": 135.04
+     "close": 134.9
     }
    ],
-   "last": 135.04,
+   "last": 134.9,
    "prev_close": 155.08,
-   "day_pct": -12.92,
-   "as_of": "2026-06-17T14:05:19Z"
+   "day_pct": -13.01,
+   "as_of": "2026-06-17T17:24:45Z"
   },
   {
    "ticker": "XAR",
@@ -1254,13 +1254,13 @@
     },
     {
      "date": "2026-06-17",
-     "close": 284.58
+     "close": 289.1
     }
    ],
-   "last": 284.57,
+   "last": 289.1,
    "prev_close": 273.76,
-   "day_pct": 3.95,
-   "as_of": "2026-06-17T14:04:33Z"
+   "day_pct": 5.6,
+   "as_of": "2026-06-17T17:24:26Z"
   }
  ]
 }
