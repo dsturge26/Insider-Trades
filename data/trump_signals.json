@@ -1,7 +1,55 @@
 {
- "last_updated": "2026-06-17T10:14:49Z",
+ "last_updated": "2026-06-17T14:05:19Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-06-17T12:02:19Z",
+   "platform": "News",
+   "text": "Trump praises anti-drone technology as defense startup lands $200M - Fox Business \u2014 Trump praises anti-drone technology as defense startup lands $200M\u00a0\u00a0Fox Business",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ucjJXeHpzR0M3UlZqM3RkSG1tei1OOEFNWUZTaDhqWl85a3p2d3hvbldWTVBMU2xPbHRqZ0JIX2NiNUhaM0swek8zMzNtOHVoR2lPcXlzMUoyLUU?oc=5",
+   "tickers": [
+    "XAR"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "XAR",
+   "strength": 45,
+   "reason": "Trump praises defense startup winning $200M contract; defense sector bullish."
+  },
+  {
+   "date": "2026-06-17T10:56:51Z",
+   "platform": "News",
+   "text": "US President Trump praises the stock market rally and the decline in oil prices - Bitget \u2014 US President Trump praises the stock market rally and the decline in oil prices\u00a0\u00a0Bitget",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE93QVBfMl9nQVlvdzJxVFJObGh4WFNsV2k2TklOUjZLUkV4WTFwZkFQQkRGVXRPVGRxSF9mLUY2T3RES0NoU2gwR1VtU2tNZDhmQUpiU2ZxRHVVUHVsdHM4NlFrQdIBY0FVX3lxTE93QVBfMl9nQVlvdzJxVFJObGh4WFNsV2k2TklOUjZLUkV4WTFwZkFQQkRGVXRPVGRxSF9mLUY2T3RES0NoU2gwR1VtU2tNZDhmQUpiU2ZxRHVVUHVsdHM4NlFrQQ?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "SPY",
+   "strength": 35,
+   "reason": "Trump praises broad stock market rally and lower oil; general bullish sentiment."
+  },
+  {
+   "date": "2026-06-17T10:56:51Z",
+   "platform": "News",
+   "text": "US President Trump: Oil prices may fall below pre-war levels - Bitget \u2014 US President Trump: Oil prices may fall below pre-war levels\u00a0\u00a0Bitget",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5PM0Y1X3hrSWpFM0c4d0RLbjN6RHMycDFfSHJNdHc1ZkRVSXItcTZ3eHFEc0NNRXZBZ1c2akw3bUJUQm5RSVdwWUZub2VyY2ZLWVJWRzcxN0JZcTJiT0lwSGVJd9IBY0FVX3lxTE5PM0Y1X3hrSWpFM0c4d0RLbjN6RHMycDFfSHJNdHc1ZkRVSXItcTZ3eHFEc0NNRXZBZ1c2akw3bUJUQm5RSVdwWUZub2VyY2ZLWVJWRzcxN0JZcTJiT0lwSGVJdw?oc=5",
+   "tickers": [
+    "XLE"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "XLE",
+   "strength": 40,
+   "reason": "Trump suggests oil prices may fall sharply; energy sector bearish."
+  },
   {
    "date": "2026-06-17T00:00:00Z",
    "platform": "News",
@@ -32,7 +80,15 @@
    "direction": "WATCH",
    "primary_ticker": "SPY",
    "strength": 25,
-   "reason": "Geopolitical tension shift (Israel/Iran) creates market ambiguity; unclear near-term catalyst"
+   "reason": "Geopolitical tension shift (Israel/Iran) creates market ambiguity; unclear near-term catalyst",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": -0.0,
+    "base": 750.33,
+    "last": 750.25,
+    "base_date": "2026-06-16",
+    "last_date": "2026-06-17"
+   }
   },
   {
    "date": "2026-06-16T22:15:05Z",
@@ -48,7 +104,15 @@
    "direction": "WATCH",
    "primary_ticker": "XLE",
    "strength": 35,
-   "reason": "Critical metals/Greenland interest implies resource/mining thesis; direction ambiguous without policy clarity"
+   "reason": "Critical metals/Greenland interest implies resource/mining thesis; direction ambiguous without policy clarity",
+   "price_since": {
+    "ticker": "XLE",
+    "pct": -0.8,
+    "base": 55.36,
+    "last": 54.9,
+    "base_date": "2026-06-16",
+    "last_date": "2026-06-17"
+   }
   },
   {
    "date": "2026-06-16T20:44:04Z",
@@ -96,7 +160,15 @@
    "direction": "BUY",
    "primary_ticker": "C",
    "strength": 45,
-   "reason": "Trump explicitly lauds Citi's 'big comeback' in M&A; direct praise of named stock."
+   "reason": "Trump explicitly lauds Citi's 'big comeback' in M&A; direct praise of named stock.",
+   "price_since": {
+    "ticker": "C",
+    "pct": 2.1,
+    "base": 142.99,
+    "last": 146.05,
+    "base_date": "2026-06-16",
+    "last_date": "2026-06-17"
+   }
   },
   {
    "date": "2026-06-16T13:28:54Z",
@@ -112,7 +184,15 @@
    "direction": "WATCH",
    "primary_ticker": "SPY",
    "strength": 25,
-   "reason": "Trump's high-frequency stock trading raises governance/insider concerns; market-relevant but ambiguous impact"
+   "reason": "Trump's high-frequency stock trading raises governance/insider concerns; market-relevant but ambiguous impact",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": -0.0,
+    "base": 750.33,
+    "last": 750.25,
+    "base_date": "2026-06-16",
+    "last_date": "2026-06-17"
+   }
   },
   {
    "date": "2026-06-16T09:47:28Z",
@@ -144,7 +224,15 @@
    "direction": "BUY",
    "primary_ticker": "IBM",
    "strength": 70,
-   "reason": "Trump explicitly praised CEO; stock rallied on praise signal"
+   "reason": "Trump explicitly praised CEO; stock rallied on praise signal",
+   "price_since": {
+    "ticker": "IBM",
+    "pct": -1.3,
+    "base": 270.81,
+    "last": 267.26,
+    "base_date": "2026-06-16",
+    "last_date": "2026-06-17"
+   }
   },
   {
    "date": "2026-06-16T07:11:41Z",
@@ -160,7 +248,15 @@
    "direction": "BUY",
    "primary_ticker": "C",
    "strength": 45,
-   "reason": "Trump explicitly lauds Citi's 'big comeback' in M&A; direct praise of named company."
+   "reason": "Trump explicitly lauds Citi's 'big comeback' in M&A; direct praise of named company.",
+   "price_since": {
+    "ticker": "C",
+    "pct": 2.1,
+    "base": 142.99,
+    "last": 146.02,
+    "base_date": "2026-06-16",
+    "last_date": "2026-06-17"
+   }
   },
   {
    "date": "2026-06-16T01:39:42Z",
@@ -196,11 +292,11 @@
    "reason": "Iran nuclear deal tentatively reached; reduces geopolitical tension, bullish for oil prices and risk assets",
    "price_since": {
     "ticker": "USO",
-    "pct": -4.7,
+    "pct": -4.4,
     "base": 121.21,
-    "last": 115.47,
+    "last": 115.85,
     "base_date": "2026-06-15",
-    "last_date": "2026-06-16"
+    "last_date": "2026-06-17"
    }
   },
   {
@@ -220,11 +316,11 @@
    "reason": "Iran peace deal framework reduces geopolitical risk and typically supports oil/energy prices.",
    "price_since": {
     "ticker": "USO",
-    "pct": -4.7,
+    "pct": -4.4,
     "base": 121.21,
-    "last": 115.47,
+    "last": 115.85,
     "base_date": "2026-06-15",
-    "last_date": "2026-06-16"
+    "last_date": "2026-06-17"
    }
   },
   {
@@ -246,9 +342,9 @@
     "ticker": "SPY",
     "pct": -0.6,
     "base": 754.83,
-    "last": 750.33,
+    "last": 750.25,
     "base_date": "2026-06-15",
-    "last_date": "2026-06-16"
+    "last_date": "2026-06-17"
    }
   },
   {
@@ -268,11 +364,11 @@
    "reason": "Trump praised Micron by name; explicit positive signal on semiconductor stock",
    "price_since": {
     "ticker": "MU",
-    "pct": -6.2,
+    "pct": -6.1,
     "base": 1087.99,
-    "last": 1020.76,
+    "last": 1021.39,
     "base_date": "2026-06-15",
-    "last_date": "2026-06-16"
+    "last_date": "2026-06-17"
    }
   },
   {
@@ -289,7 +385,15 @@
    "direction": "WATCH",
    "primary_ticker": "DJT",
    "strength": 40,
-   "reason": "Insider trading investigation concerns surrounding Trump's trades; reputational/legal risk"
+   "reason": "Insider trading investigation concerns surrounding Trump's trades; reputational/legal risk",
+   "price_since": {
+    "ticker": "DJT",
+    "pct": -3.8,
+    "base": 8.44,
+    "last": 8.12,
+    "base_date": "2026-06-15",
+    "last_date": "2026-06-17"
+   }
   },
   {
    "date": "2026-06-15T13:06:11.624Z",
@@ -309,11 +413,11 @@
    "reason": "oil shipping resuming via Strait of Hormuz signals easing supply concerns, bullish for energy sector",
    "price_since": {
     "ticker": "XLE",
-    "pct": -0.3,
+    "pct": -1.2,
     "base": 55.55,
-    "last": 55.36,
+    "last": 54.9,
     "base_date": "2026-06-15",
-    "last_date": "2026-06-16"
+    "last_date": "2026-06-17"
    }
   },
   {
@@ -334,11 +438,11 @@
    "reason": "Iran peace deal eases Middle East tensions and oil prices decline expected, bullish for energy markets",
    "price_since": {
     "ticker": "XLE",
-    "pct": -0.3,
+    "pct": -1.2,
     "base": 55.55,
-    "last": 55.36,
+    "last": 54.9,
     "base_date": "2026-06-15",
-    "last_date": "2026-06-16"
+    "last_date": "2026-06-17"
    }
   },
   {
@@ -360,9 +464,9 @@
     "ticker": "SPY",
     "pct": -0.6,
     "base": 754.83,
-    "last": 750.33,
+    "last": 750.25,
     "base_date": "2026-06-15",
-    "last_date": "2026-06-16"
+    "last_date": "2026-06-17"
    }
   },
   {
@@ -382,11 +486,11 @@
    "reason": "Analyst bullish call on Citigroup independent of Trump, but aligns with positive sentiment",
    "price_since": {
     "ticker": "C",
-    "pct": 1.3,
+    "pct": 3.4,
     "base": 141.21,
-    "last": 142.99,
+    "last": 146.02,
     "base_date": "2026-06-15",
-    "last_date": "2026-06-16"
+    "last_date": "2026-06-17"
    }
   },
   {
@@ -403,7 +507,15 @@
    "direction": "WATCH",
    "primary_ticker": "PLTR",
    "strength": 45,
-   "reason": "Trump signals support for Palantir but mixed signals from short-sellers; ambiguous direction"
+   "reason": "Trump signals support for Palantir but mixed signals from short-sellers; ambiguous direction",
+   "price_since": {
+    "ticker": "PLTR",
+    "pct": 0.2,
+    "base": 134.71,
+    "last": 134.96,
+    "base_date": "2026-06-15",
+    "last_date": "2026-06-17"
+   }
   },
   {
    "date": "2026-06-15T07:00:00Z",
@@ -422,11 +534,11 @@
    "reason": "Trump purchased TKO stock while promoting UFC event; suggests confidence in company but mixed signal (self-dealing optics reduce strength)",
    "price_since": {
     "ticker": "TKO",
-    "pct": -0.6,
+    "pct": -1.9,
     "base": 201.19,
-    "last": 200.03,
+    "last": 197.39,
     "base_date": "2026-06-15",
-    "last_date": "2026-06-16"
+    "last_date": "2026-06-17"
    }
   },
   {
@@ -448,9 +560,9 @@
     "ticker": "SPY",
     "pct": -0.6,
     "base": 754.83,
-    "last": 750.33,
+    "last": 750.25,
     "base_date": "2026-06-15",
-    "last_date": "2026-06-16"
+    "last_date": "2026-06-17"
    }
   },
   {
@@ -472,9 +584,9 @@
     "ticker": "SPY",
     "pct": -0.6,
     "base": 754.83,
-    "last": 750.33,
+    "last": 750.25,
     "base_date": "2026-06-15",
-    "last_date": "2026-06-16"
+    "last_date": "2026-06-17"
    }
   },
   {
@@ -495,11 +607,11 @@
    "reason": "Iran peace deal claim + Strait opening -> oil flow resumption bullish for energy sector",
    "price_since": {
     "ticker": "XLE",
-    "pct": -0.3,
+    "pct": -1.2,
     "base": 55.55,
-    "last": 55.36,
+    "last": 54.9,
     "base_date": "2026-06-15",
-    "last_date": "2026-06-16"
+    "last_date": "2026-06-17"
    }
   },
   {
@@ -520,11 +632,11 @@
    "reason": "Iran deal announcement + Strait of Hormuz opening -> oil supply surge bullish for energy sector",
    "price_since": {
     "ticker": "XLE",
-    "pct": -0.3,
+    "pct": -1.2,
     "base": 55.55,
-    "last": 55.36,
+    "last": 54.9,
     "base_date": "2026-06-15",
-    "last_date": "2026-06-16"
+    "last_date": "2026-06-17"
    }
   },
   {
@@ -545,11 +657,11 @@
    "reason": "Iran nuclear tensions + Strait of Hormuz opening signals geopolitical de-escalation, bullish for oil/energy",
    "price_since": {
     "ticker": "XLE",
-    "pct": -0.3,
+    "pct": -1.2,
     "base": 55.55,
-    "last": 55.36,
+    "last": 54.9,
     "base_date": "2026-06-15",
-    "last_date": "2026-06-16"
+    "last_date": "2026-06-17"
    }
   },
   {
@@ -569,11 +681,11 @@
    "reason": "100% tariffs on imported patented drugs pressure pharma/biotech sector; onshoring incentive unclear near-term",
    "price_since": {
     "ticker": "XLV",
-    "pct": 0.0,
+    "pct": -0.5,
     "base": 152.89,
-    "last": 152.94,
+    "last": 152.14,
     "base_date": "2026-06-15",
-    "last_date": "2026-06-16"
+    "last_date": "2026-06-17"
    }
   },
   {
@@ -593,11 +705,11 @@
    "reason": "Qualcomm executives joining Trump China visit signals diplomatic engagement and potential trade deal",
    "price_since": {
     "ticker": "QCOM",
-    "pct": -3.1,
+    "pct": -0.7,
     "base": 220.81,
-    "last": 214.07,
+    "last": 219.29,
     "base_date": "2026-06-15",
-    "last_date": "2026-06-16"
+    "last_date": "2026-06-17"
    }
   },
   {
@@ -2596,54 +2708,6 @@
     "pct": -3.9,
     "base": 9.29,
     "last": 8.93,
-    "base_date": "2026-06-08",
-    "last_date": "2026-06-10"
-   }
-  },
-  {
-   "date": "2026-06-08T05:15:25Z",
-   "platform": "News",
-   "text": "'An Incredible Guy': Trump Praises Tim Cook Following News Of His Departure From CEO Role - AOL.com \u2014 'An Incredible Guy': Trump Praises Tim Cook Following News Of His Departure From CEO Role\u00a0\u00a0AOL.com",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMEY2eUoyMVQwVS1lVWNOMGl2MVkzWkY1Y1RvbE9EanBTQUpwYXZBb3hxbk13NDlxT09mRDdIMzNBb0lKNlV5WUIydFJ4NkNHMFJjMGRFQzA3QXJWQW1aUDd6WU9KNzkzOVM1UU9CczdGNXdKS1Fud2RlbjNLekJPV0VR?oc=5",
-   "tickers": [
-    "AAPL"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "WATCH",
-   "primary_ticker": "AAPL",
-   "strength": 35,
-   "reason": "Trump praises Tim Cook by name following his departure; ambiguous whether praise or commentary on transition",
-   "price_since": {
-    "ticker": "AAPL",
-    "pct": -2.9,
-    "base": 301.54,
-    "last": 292.84,
-    "base_date": "2026-06-08",
-    "last_date": "2026-06-10"
-   }
-  },
-  {
-   "date": "2026-06-07T15:56:15Z",
-   "platform": "News",
-   "text": "Trump urged Americans to \u2018buy a Dell\u2019 while holding the stock \u2014 it\u2019s up 255% since. Enrich yourself now even if you don\u2019t sit in the White House - MSN \u2014 Trump urged Americans to \u2018buy a Dell\u2019 while holding the stock \u2014 it\u2019s up 255% since. Enrich yourself now even if you don\u2019t sit in the White House\u00a0\u00a0MSN",
-   "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOTmJESUhhTkJ0TFJ0X0dvcjNkUkQ0SXRLbFd0d2p5Y09CRGV1UkNaaENmWldCdm8zYU1Gb2NOcnlhSlFvb05Dd2U4T2xJN3VFQk1pZk9pczNkWktpX1BnMnR5YTktcmdpYkJvUVA4MlBRalBwZkdBX2tiZnB2VkZwWGF0VE54ZnNzQWRBLXB2b3lJTE9OQ1BJTXRGdEJDdGRfSjBBQ21lek1YNFRMWGtOQmFib3NLMW9iODR6UmttelFNSDQ2a2ZmeS0zYmoweWxQa2ZLVTdLbmZxS1ZWblg1R2R6NWlrNVBQYUxvbFBSLXFMVUpWUHBoZGQ4cTlUSjlMMzdxMmkwc3VJOXdGX1A5Ukc0TEZtTmg0RWRZRklteXdnQmdWY2ZFSg?oc=5",
-   "tickers": [
-    "DELL"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "DELL",
-   "strength": 85,
-   "reason": "Trump explicitly told Americans to buy Dell while holding it; direct endorsement of specific public company",
-   "price_since": {
-    "ticker": "DELL",
-    "pct": -6.6,
-    "base": 400.77,
-    "last": 374.3,
     "base_date": "2026-06-08",
     "last_date": "2026-06-10"
    }
