@@ -1,7 +1,41 @@
 {
- "last_updated": "2026-06-18T17:33:10Z",
+ "last_updated": "2026-06-18T19:56:50Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-06-18T18:01:06.103Z",
+   "platform": "Truth Social",
+   "text": "The United States is committed to PEACE, and we encourage everyone in the Middle East Region to maintain their commitment to allowing our negotiations to beautifully unfold. The Markets are loving what is happening with Oil Prices way down, and Stocks way up. We expect a complete Ceasefire on all fronts, including Lebanon, Hezbollah, and Israel.\u00a0Thank you for your attention to this matter! President DONALD J. TRUMP",
+   "tickers": [
+    "XLE"
+   ],
+   "engagement": 5789,
+   "url": "https://truthsocial.com/@realDonaldTrump/116772416131420569",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "XLE",
+   "strength": 65,
+   "reason": "Middle East peace narrative and explicit mention of oil prices down and stocks up; bullish for energy sector and broad market"
+  },
+  {
+   "date": "2026-06-18T16:49:39.626Z",
+   "platform": "Truth Social",
+   "text": "There is no 300 Billion Dollar payment to Iran by the U.S. That's Fake News! All there is for the U.S. is Success, Lower Oil Prices, and Victory. Check out the Stock Market. Dumocrat propaganda at play!!! President DJT",
+   "tickers": [
+    "SPY"
+   ],
+   "engagement": 10110,
+   "url": "https://truthsocial.com/@realDonaldTrump/116772135215188960",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "SPY",
+   "strength": 55,
+   "reason": "Iran deal success framed as bullish for stocks and oil; broad market positive sentiment"
+  },
   {
    "date": "2026-06-18T15:17:21Z",
    "platform": "News",
@@ -66,6 +100,22 @@
    "primary_ticker": "SPY",
    "strength": 25,
    "reason": "Trump praises stock market rally; weak signal, macro sentiment only"
+  },
+  {
+   "date": "2026-06-18T09:13:14Z",
+   "platform": "News",
+   "text": "\"Stock markets hit record high, oil prices tumbling down\": Trump post Iran deal - lokmattimes.com \u2014 \"Stock markets hit record high, oil prices tumbling down\": Trump post Iran deal\u00a0\u00a0lokmattimes.com",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYU9KM3VkSThVQWlqeWF2MWc5LW5yNlNUTVJjYXNmWXpyX1pRMkRCbzZQTV9vMG1wLWNPUldBdHE1d2k5NUJPb0pla1VKQlpqVDMzTmVwWG9KSjY2WkNXYTJ1SzdwUmdBUnVhV0w4T21CcXlHNFRwNjdiVnV4aG9KOUxzWTNsTmtGN0x0UVpDRFVnVUJPaklQWWhMdHZINzQwX1BYUGpTbU9IQUtHYnREOHRXRTZjaU9IMGfSAb8BQVVfeXFMTl9qcnYxMU5zS1RFaks5Tm9uRWc0UkF0TnI4UXhsNEVBMDlPYzB4bDVySFo2X3R5RUxWajh1YURxckZKOWZjMURtaGdfUkRVSzA4OXlvSjMzNDZNMHlfNFdrWHJDS2dkazBoQzJUbUNiTXdoTnRZWTQ2VXd0VHpNYmp5VE45VEFveXBJS2wzRVkzUUxEZEFuMk1TaGNxQllkT3ZsTXcwQzc5U1ZycEozOUFnV1laX1ZqeXVFbmd5amM?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "SPY",
+   "strength": 60,
+   "reason": "Iran deal tied to record stock highs and tumbling oil prices; broad market bullish sentiment"
   },
   {
    "date": "2026-06-18T08:32:31.915Z",
@@ -167,9 +217,9 @@
    "reason": "Trump praise for defense startup's anti-drone tech signals bullish sentiment for defense sector.",
    "price_since": {
     "ticker": "XAR",
-    "pct": -0.9,
+    "pct": -0.4,
     "base": 285.59,
-    "last": 283.12,
+    "last": 284.53,
     "base_date": "2026-06-17",
     "last_date": "2026-06-18"
    }
@@ -191,9 +241,9 @@
    "reason": "Trump praise for anti-drone defense technology; bullish for defense sector.",
    "price_since": {
     "ticker": "XAR",
-    "pct": -0.9,
+    "pct": -0.4,
     "base": 285.59,
-    "last": 283.12,
+    "last": 284.53,
     "base_date": "2026-06-17",
     "last_date": "2026-06-18"
    }
@@ -215,9 +265,9 @@
    "reason": "Trump praises anti-drone technology and defense startup securing $200M federal contract.",
    "price_since": {
     "ticker": "XAR",
-    "pct": -0.9,
+    "pct": -0.4,
     "base": 285.59,
-    "last": 283.12,
+    "last": 284.53,
     "base_date": "2026-06-17",
     "last_date": "2026-06-18"
    }
@@ -239,9 +289,9 @@
    "reason": "Trump close relationship with Nvidia CEO Jensen Huang suggests favorable disposition toward Nvidia/semiconductors; indirect but relationship-based bullish signal.",
    "price_since": {
     "ticker": "NVDA",
-    "pct": 2.7,
+    "pct": 3.1,
     "base": 204.65,
-    "last": 210.15,
+    "last": 211.03,
     "base_date": "2026-06-17",
     "last_date": "2026-06-18"
    }
@@ -263,9 +313,9 @@
    "reason": "Trump has close relationship with Jensen Huang (NVIDIA CEO); suggests favorable tech/AI stance but no explicit direction",
    "price_since": {
     "ticker": "NVDA",
-    "pct": 2.7,
+    "pct": 3.1,
     "base": 204.65,
-    "last": 210.15,
+    "last": 211.03,
     "base_date": "2026-06-17",
     "last_date": "2026-06-18"
    }
@@ -290,7 +340,7 @@
     "ticker": "SPY",
     "pct": 0.9,
     "base": 740.96,
-    "last": 747.6,
+    "last": 747.72,
     "base_date": "2026-06-17",
     "last_date": "2026-06-18"
    }
@@ -312,9 +362,9 @@
    "reason": "Citi hitting 52-week high is a data point but headline lacks Trump-specific catalyst; neutral observation.",
    "price_since": {
     "ticker": "C",
-    "pct": 0.4,
+    "pct": -0.1,
     "base": 143.78,
-    "last": 144.38,
+    "last": 143.63,
     "base_date": "2026-06-17",
     "last_date": "2026-06-18"
    }
@@ -368,9 +418,9 @@
    "reason": "Trump praises defense startup winning $200M contract; defense sector bullish.",
    "price_since": {
     "ticker": "XAR",
-    "pct": -0.9,
+    "pct": -0.4,
     "base": 285.59,
-    "last": 283.12,
+    "last": 284.53,
     "base_date": "2026-06-17",
     "last_date": "2026-06-18"
    }
@@ -394,7 +444,7 @@
     "ticker": "SPY",
     "pct": 0.9,
     "base": 740.96,
-    "last": 747.61,
+    "last": 747.71,
     "base_date": "2026-06-17",
     "last_date": "2026-06-18"
    }
@@ -416,9 +466,9 @@
    "reason": "Trump suggests oil prices may fall sharply; energy sector bearish.",
    "price_since": {
     "ticker": "XLE",
-    "pct": -2.0,
+    "pct": -1.7,
     "base": 54.67,
-    "last": 53.58,
+    "last": 53.74,
     "base_date": "2026-06-17",
     "last_date": "2026-06-18"
    }
@@ -442,7 +492,7 @@
     "ticker": "SPY",
     "pct": 0.9,
     "base": 740.96,
-    "last": 747.59,
+    "last": 747.7,
     "base_date": "2026-06-17",
     "last_date": "2026-06-18"
    }
@@ -464,9 +514,9 @@
    "reason": "Eric Trump commentary on Bitcoin holdings; stock fell amid broader Bitcoin decline, mixed signal",
    "price_since": {
     "ticker": "ABTC",
-    "pct": -1.2,
+    "pct": 1.2,
     "base": 0.84,
-    "last": 0.83,
+    "last": 0.85,
     "base_date": "2026-06-17",
     "last_date": "2026-06-18"
    }
@@ -490,7 +540,7 @@
     "ticker": "SPY",
     "pct": 0.9,
     "base": 740.96,
-    "last": 747.59,
+    "last": 747.7,
     "base_date": "2026-06-17",
     "last_date": "2026-06-18"
    }
@@ -514,7 +564,7 @@
     "ticker": "SPY",
     "pct": -0.4,
     "base": 750.33,
-    "last": 747.59,
+    "last": 747.7,
     "base_date": "2026-06-16",
     "last_date": "2026-06-18"
    }
@@ -536,9 +586,9 @@
    "reason": "Critical metals/Greenland interest implies resource/mining thesis; direction ambiguous without policy clarity",
    "price_since": {
     "ticker": "XLE",
-    "pct": -3.2,
+    "pct": -2.9,
     "base": 55.36,
-    "last": 53.58,
+    "last": 53.74,
     "base_date": "2026-06-16",
     "last_date": "2026-06-18"
    }
@@ -560,9 +610,9 @@
    "reason": "Trump's $1.5T defense budget bullish for Palantir as strategic defense vendor.",
    "price_since": {
     "ticker": "PLTR",
-    "pct": -3.3,
+    "pct": -3.5,
     "base": 133.25,
-    "last": 128.88,
+    "last": 128.54,
     "base_date": "2026-06-16",
     "last_date": "2026-06-18"
    }
@@ -584,9 +634,9 @@
    "reason": "Trump Media stock moving premarket; likely driven by positive sentiment or news flow but headline lacks specifics on catalyst",
    "price_since": {
     "ticker": "DJT",
-    "pct": 2.5,
+    "pct": 3.9,
     "base": 8.16,
-    "last": 8.36,
+    "last": 8.48,
     "base_date": "2026-06-16",
     "last_date": "2026-06-18"
    }
@@ -2687,143 +2737,6 @@
     "pct": 3.5,
     "base": 133.38,
     "last": 138.07,
-    "base_date": "2026-06-10",
-    "last_date": "2026-06-11"
-   }
-  },
-  {
-   "date": "2026-06-10T14:50:26Z",
-   "platform": "News",
-   "text": "Palantir's Karp says businesses are 'unhappy' with the frontier AI labs - CNBC \u2014 Palantir's Karp says businesses are 'unhappy' with the frontier AI labs\u00a0\u00a0CNBC",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBNMS1ZaWNRUHkxT3ZRMGNIaXNwc0hSV3BKOTZLME5TMDFSa1NwRnI5SnE4RGdsWDJNNlQ1ZjF3OUN2RUlSQWcxLVVvUEFzS0dMc1pOc0dCVjJ4SVVYRml1UjZQbUhDUDdtamM3cGFITklQQdIBd0FVX3lxTFBYbUZZaG5LVDlidzRra2hKQlBNTUd5elhTUE1yNTJEUkpsWjcxdTU0YThSV1R2eVRZZUJoQ3dwWHhTeDF4LUE0S1JSbDVBY01YQlYtR0MyT19Uc3l1OTVKMEc3dDloLVlqNzBaN1BTN3M1Vm1Oa09n?oc=5",
-   "tickers": [
-    "PLTR"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "PLTR",
-   "strength": 40,
-   "reason": "Palantir CEO criticizes frontier AI labs; unclear if bullish (market opportunity) or bearish (competitive threat) for Palantir"
-  },
-  {
-   "date": "2026-06-10T13:49:41Z",
-   "platform": "News",
-   "text": "Citi stock rises after Trump praises M&A performance - Investing.com \u2014 Citi stock rises after Trump praises M&A performance\u00a0\u00a0Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMTBTUXR3UDQxcV93RVd2MWQxakdzLVVRQldqa2VsVnhrNzNkY2pNRWlveU9RQVE4UHhDU3NKNDM0ME5mRUVqVXVBc0p4OHJDZUdJSGZ4Tk9Wcy1Sc0tXVFVFQTBPUXlxUGJXVGZVSnE4Nm5XV0dWaW13MzJlc0tYOVlrZzJLMzJlSVNkRFFxSS1ZN0Y4RUYwcGdISi1pblR5RzlqdzZnT1VSamhQTEQ1V2RNdw?oc=5",
-   "tickers": [
-    "C"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "C",
-   "strength": 65,
-   "reason": "Trump praises Citigroup M&A performance; stock rises on endorsement",
-   "price_since": {
-    "ticker": "C",
-    "pct": 3.5,
-    "base": 133.38,
-    "last": 138.07,
-    "base_date": "2026-06-10",
-    "last_date": "2026-06-11"
-   }
-  },
-  {
-   "date": "2026-06-10T13:42:28Z",
-   "platform": "News",
-   "text": "Citi stock rises after Trump praises M&A performance By Investing.com - Investing.com Australia \u2014 Citi stock rises after Trump praises M&A performance By Investing.com\u00a0\u00a0Investing.com Australia",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeW5WX0x1ZFlWNFFydVE2c0ZJd3pyTzZRd3BvT2FNdnRrS21BX0tDb1lnSjJZczUyTnIySEtYa0F1WW93enVEMUpHajNGeHBlM0hPdE5sTGlQNXNFejhOR0J0cnplaDZwWmY5aU8xd1JKU3NWYWdqSWV3TGt2OHVpXzRrcjR3eDdRQk5FeHVuX1JrUGJtSkdpRlRnT3NTRlF4OWh6aFRJMy04bUtBU0lWMTVB?oc=5",
-   "tickers": [
-    "C"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "C",
-   "strength": 65,
-   "reason": "Trump praised Citigroup's M&A performance and rankings, positive signal for the bank.",
-   "price_since": {
-    "ticker": "C",
-    "pct": 3.5,
-    "base": 133.38,
-    "last": 138.07,
-    "base_date": "2026-06-10",
-    "last_date": "2026-06-11"
-   }
-  },
-  {
-   "date": "2026-06-10T13:39:48Z",
-   "platform": "News",
-   "text": "Citi stock rises after Trump praises M&A performance - Investing.com India \u2014 Citi stock rises after Trump praises M&A performance\u00a0\u00a0Investing.com India",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVmdqcXVEbFhXb01hVldwaGhFSUQweGJTX3NxRlowWjFKT0FpTUpsMXE4Uy1BZnhkWEdnZkNZQnp2eERRcnRKLVg0ZVNDemhkNjc0VVlOWFFDYTBSRDV2UDVWWklrbDZ2enhZaDZucG55cG91V2xnMmkxektjQURsLWdBT2xvOFc5MTJEUWpwdHltcEljSWp2eW43b1RKNTVob25HLVhmaVptcjdFc1BVTHJB?oc=5",
-   "tickers": [
-    "C"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "C",
-   "strength": 65,
-   "reason": "Trump praised Citigroup's M&A performance and rankings, positive signal for the bank.",
-   "price_since": {
-    "ticker": "C",
-    "pct": 3.5,
-    "base": 133.38,
-    "last": 138.07,
-    "base_date": "2026-06-10",
-    "last_date": "2026-06-11"
-   }
-  },
-  {
-   "date": "2026-06-10T13:36:00Z",
-   "platform": "News",
-   "text": "Citi stock rises after Trump praises M&A performance By Investing.com - Investing.com UK \u2014 Citi stock rises after Trump praises M&A performance By Investing.com\u00a0\u00a0Investing.com UK",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSWNkWFNuMGVTU185T1lCTnpDSmlMd2cxMzdNYmVlUEJWMXlNZmdpZlFyQUxSSDF0M0dJVE5xd1dkc256YjhMRjlXOUNlYTNnQjVaWU9NUThWbnhMbXN2NDFjN2xTeE9RQXJMaGF2SmN5Y2pPLU4tMUlIUllsQ2xpQ1V0MnZESHc5U19Rb0QzeG1GNkExbHAyNmw2cHZpZU1pbncxNDNtX1dWZ0FudFVOOGV3?oc=5",
-   "tickers": [
-    "C"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "C",
-   "strength": 65,
-   "reason": "Trump praises Citigroup M&A performance; stock rises on endorsement",
-   "price_since": {
-    "ticker": "C",
-    "pct": 2.8,
-    "base": 133.38,
-    "last": 137.11,
-    "base_date": "2026-06-10",
-    "last_date": "2026-06-11"
-   }
-  },
-  {
-   "date": "2026-06-10T13:30:58.894Z",
-   "platform": "Truth Social",
-   "text": "Wow! CITI was ranked Number 1 in topping M&A Advisory Market by Value in Q1. Congratulations to Jane F and ALL of her great people. They've worked really hard! BIG comeback for CITI!!! President DONALD J. TRUMP",
-   "tickers": [
-    "C"
-   ],
-   "engagement": 5739,
-   "url": "https://truthsocial.com/@realDonaldTrump/116726055495215764",
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "C",
-   "strength": 80,
-   "reason": "Trump explicitly praised Citi's #1 M&A ranking with emphatic language (!!!), direct endorsement.",
-   "price_since": {
-    "ticker": "C",
-    "pct": 2.8,
-    "base": 133.38,
-    "last": 137.11,
     "base_date": "2026-06-10",
     "last_date": "2026-06-11"
    }
