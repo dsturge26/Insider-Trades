@@ -1,7 +1,39 @@
 {
- "last_updated": "2026-06-17T23:08:33Z",
+ "last_updated": "2026-06-18T01:42:32Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-06-17T21:43:17Z",
+   "platform": "News",
+   "text": "Trump praises anti-drone technology as defense startup lands $200M - MSN \u2014 Trump praises anti-drone technology as defense startup lands $200M\u00a0\u00a0MSN",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSzRWTVZrLUpCLXVGVEFRMXFneEMzaElsNXdpLUVCWmU5Z3RjNFQ4dnhuMTgtUW0wYjlRbzhCbTdsenU4dVFJb2Nad1VVeV9RT3pnbXBPa2dKOXJOWUdYTEVfNHpndVF0M2RMd2d0VjNqZE9GVHRSajFQaERQbjh5aVhpSFMzNmRzY0lNWjZKRWl5TDh3ZmxUVnEwcVRlZF92VW1xUmpRMUUwTHNRUkg2bTAyNi1uUmc1?oc=5",
+   "tickers": [
+    "XAR"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "XAR",
+   "strength": 65,
+   "reason": "Trump praise for defense startup's anti-drone tech signals bullish sentiment for defense sector."
+  },
+  {
+   "date": "2026-06-17T16:46:16Z",
+   "platform": "News",
+   "text": "Trump praises anti-drone technology as defense startup lands $200M - Yahoo \u2014 Trump praises anti-drone technology as defense startup lands $200M\u00a0\u00a0Yahoo",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRE9TNmZfUlRCaGJLMkV3dUsweHZxcFJkR2xOWUt6bVMtcmNWZWpReDRmekY2RUNrZG5jOGd3NDhlODN0Z3FZVXFwbzF2SUtSbFV6M3VBSDhXdzR4Y2xzUGdlWHNYMVdmY19MZVNuQjZxd0tuRmpsN195eHpUSGlLbGZmTWVyWUJ0M1JYUA?oc=5",
+   "tickers": [
+    "XAR"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "XAR",
+   "strength": 65,
+   "reason": "Trump praise for anti-drone defense technology; bullish for defense sector."
+  },
   {
    "date": "2026-06-17T15:57:00Z",
    "platform": "News",
@@ -469,11 +501,11 @@
    "reason": "US-Iran peace deal reduces geopolitical risk, bullish for risk assets including Bitcoin.",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": -3.1,
+    "pct": -2.6,
     "base": 66289.5,
-    "last": 64229.22,
+    "last": 64545.39,
     "base_date": "2026-06-15",
-    "last_date": "2026-06-17"
+    "last_date": "2026-06-18"
    }
   },
   {
@@ -2688,38 +2720,6 @@
    "primary_ticker": "IBM",
    "strength": 72,
    "reason": "Trump praised IBM CEO as 'legend' and government floated $1B quantum award to IBM"
-  },
-  {
-   "date": "2026-06-09T10:27:17Z",
-   "platform": "News",
-   "text": "Under the Trump crypto playbook, the family always wins. Investors don\u2019t - Reuters \u2014 Under the Trump crypto playbook, the family always wins. Investors don\u2019t\u00a0\u00a0Reuters",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcUpmc096bllHcUstWFZXT0hnMnEzRTVvSFY4QURZcWwzcWpQV1dQWktHWC15SHNrSjBSOUZBYy1sUFZ2UmxwaHdEd2gybm90YWs2R19LdlFCRTB0Vzdua0UxSXJ5WjFGY0lydW0xcGtMU0ZXZzUtRFRid2FyTWptQmJmTU1mcEdVUEw2RkIzeXJIUFJ5dHlMUHIzRG51TWtWdVBoM1R2RHYwQ0xvRnR4cDRB?oc=5",
-   "tickers": [
-    "TRUMP"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "TRUMP",
-   "strength": 50,
-   "reason": "Crypto playbook critique suggests family benefit over public investors; mixed sentiment on crypto holdings"
-  },
-  {
-   "date": "2026-06-09T03:57:37Z",
-   "platform": "News",
-   "text": "IBRX Stock Rallies Into Trump\u2019s Big SOTU Night \u2014 Here\u2019s What Traders Think Could Fuel The Next Move - Stocktwits \u2014 IBRX Stock Rallies Into Trump\u2019s Big SOTU Night \u2014 Here\u2019s What Traders Think Could Fuel The Next Move\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWFdFall2YVNMN3Rialp3SE9sU0h6YUQ1MDFiX2JaeXMxNlFFZUZveFU0TkVxUFI4cTQ5bW5VdkFlTDd1dFNwSUN2YTRtRl83aVRRXzZ6d09TeEhlR1NJb1JaMHlMWDhrQXpmZW40c1B1Y21KNjhxdm90Ny1uU3p4MzJZSW9GNGduMEdyRzFIU2RGLWlYWXg4TFJUU0N6ZlhFemxtUmprVXY0YkVRZk5vZHljazQ?oc=5",
-   "tickers": [
-    "IBRX"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "IBRX",
-   "strength": 35,
-   "reason": "Stock rally coincides with Trump SOTU but no specific catalyst stated"
   },
   {
    "curated": true,
