@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-06-18T10:57:38Z",
+ "last_updated": "2026-06-18T14:14:57Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -115,7 +115,15 @@
    "direction": "BUY",
    "primary_ticker": "XAR",
    "strength": 65,
-   "reason": "Trump praise for defense startup's anti-drone tech signals bullish sentiment for defense sector."
+   "reason": "Trump praise for defense startup's anti-drone tech signals bullish sentiment for defense sector.",
+   "price_since": {
+    "ticker": "XAR",
+    "pct": -1.5,
+    "base": 285.59,
+    "last": 281.17,
+    "base_date": "2026-06-17",
+    "last_date": "2026-06-18"
+   }
   },
   {
    "date": "2026-06-17T16:46:16Z",
@@ -131,7 +139,15 @@
    "direction": "BUY",
    "primary_ticker": "XAR",
    "strength": 65,
-   "reason": "Trump praise for anti-drone defense technology; bullish for defense sector."
+   "reason": "Trump praise for anti-drone defense technology; bullish for defense sector.",
+   "price_since": {
+    "ticker": "XAR",
+    "pct": -1.5,
+    "base": 285.59,
+    "last": 281.17,
+    "base_date": "2026-06-17",
+    "last_date": "2026-06-18"
+   }
   },
   {
    "date": "2026-06-17T15:57:00Z",
@@ -147,7 +163,15 @@
    "direction": "BUY",
    "primary_ticker": "NVDA",
    "strength": 45,
-   "reason": "Trump close relationship with Nvidia CEO Jensen Huang suggests favorable disposition toward Nvidia/semiconductors; indirect but relationship-based bullish signal."
+   "reason": "Trump close relationship with Nvidia CEO Jensen Huang suggests favorable disposition toward Nvidia/semiconductors; indirect but relationship-based bullish signal.",
+   "price_since": {
+    "ticker": "NVDA",
+    "pct": 1.8,
+    "base": 204.65,
+    "last": 208.37,
+    "base_date": "2026-06-17",
+    "last_date": "2026-06-18"
+   }
   },
   {
    "date": "2026-06-17T15:57:00Z",
@@ -163,7 +187,15 @@
    "direction": "WATCH",
    "primary_ticker": "NVDA",
    "strength": 25,
-   "reason": "Trump has close relationship with Jensen Huang (NVIDIA CEO); suggests favorable tech/AI stance but no explicit direction"
+   "reason": "Trump has close relationship with Jensen Huang (NVIDIA CEO); suggests favorable tech/AI stance but no explicit direction",
+   "price_since": {
+    "ticker": "NVDA",
+    "pct": 1.8,
+    "base": 204.65,
+    "last": 208.38,
+    "base_date": "2026-06-17",
+    "last_date": "2026-06-18"
+   }
   },
   {
    "date": "2026-06-17T14:01:23.728Z",
@@ -180,7 +212,15 @@
    "direction": "BUY",
    "primary_ticker": "SPY",
    "strength": 50,
-   "reason": "Trump touts strong US economy, record employment, and $19.1T investment inflows; broad macro bullish signal for equities."
+   "reason": "Trump touts strong US economy, record employment, and $19.1T investment inflows; broad macro bullish signal for equities.",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": 0.5,
+    "base": 740.96,
+    "last": 744.84,
+    "base_date": "2026-06-17",
+    "last_date": "2026-06-18"
+   }
   },
   {
    "date": "2026-06-17T13:34:00Z",
@@ -196,7 +236,15 @@
    "direction": "WATCH",
    "primary_ticker": "C",
    "strength": 25,
-   "reason": "Citi hitting 52-week high is a data point but headline lacks Trump-specific catalyst; neutral observation."
+   "reason": "Citi hitting 52-week high is a data point but headline lacks Trump-specific catalyst; neutral observation.",
+   "price_since": {
+    "ticker": "C",
+    "pct": 2.0,
+    "base": 143.78,
+    "last": 146.72,
+    "base_date": "2026-06-17",
+    "last_date": "2026-06-18"
+   }
   },
   {
    "date": "2026-06-17T13:17:21Z",
@@ -244,7 +292,15 @@
    "direction": "BUY",
    "primary_ticker": "XAR",
    "strength": 45,
-   "reason": "Trump praises defense startup winning $200M contract; defense sector bullish."
+   "reason": "Trump praises defense startup winning $200M contract; defense sector bullish.",
+   "price_since": {
+    "ticker": "XAR",
+    "pct": -1.5,
+    "base": 285.59,
+    "last": 281.17,
+    "base_date": "2026-06-17",
+    "last_date": "2026-06-18"
+   }
   },
   {
    "date": "2026-06-17T10:56:51Z",
@@ -260,7 +316,15 @@
    "direction": "BUY",
    "primary_ticker": "SPY",
    "strength": 35,
-   "reason": "Trump praises broad stock market rally and lower oil; general bullish sentiment."
+   "reason": "Trump praises broad stock market rally and lower oil; general bullish sentiment.",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": 0.5,
+    "base": 740.96,
+    "last": 744.85,
+    "base_date": "2026-06-17",
+    "last_date": "2026-06-18"
+   }
   },
   {
    "date": "2026-06-17T10:56:51Z",
@@ -276,7 +340,15 @@
    "direction": "SELL",
    "primary_ticker": "XLE",
    "strength": 40,
-   "reason": "Trump suggests oil prices may fall sharply; energy sector bearish."
+   "reason": "Trump suggests oil prices may fall sharply; energy sector bearish.",
+   "price_since": {
+    "ticker": "XLE",
+    "pct": -2.4,
+    "base": 54.67,
+    "last": 53.37,
+    "base_date": "2026-06-17",
+    "last_date": "2026-06-18"
+   }
   },
   {
    "date": "2026-06-17T01:55:22Z",
@@ -292,7 +364,15 @@
    "direction": "WATCH",
    "primary_ticker": "ABTC",
    "strength": 35,
-   "reason": "Eric Trump commentary on Bitcoin holdings; stock fell amid broader Bitcoin decline, mixed signal"
+   "reason": "Eric Trump commentary on Bitcoin holdings; stock fell amid broader Bitcoin decline, mixed signal",
+   "price_since": {
+    "ticker": "ABTC",
+    "pct": -1.2,
+    "base": 0.84,
+    "last": 0.83,
+    "base_date": "2026-06-17",
+    "last_date": "2026-06-18"
+   }
   },
   {
    "date": "2026-06-17T00:00:00Z",
@@ -308,7 +388,15 @@
    "direction": "WATCH",
    "primary_ticker": "SPY",
    "strength": 15,
-   "reason": "G7 meeting with Modi implies potential trade/geopolitical discussion; ambiguous direction."
+   "reason": "G7 meeting with Modi implies potential trade/geopolitical discussion; ambiguous direction.",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": 0.5,
+    "base": 740.96,
+    "last": 744.84,
+    "base_date": "2026-06-17",
+    "last_date": "2026-06-18"
+   }
   },
   {
    "date": "2026-06-16T23:05:00Z",
@@ -327,11 +415,11 @@
    "reason": "Geopolitical tension shift (Israel/Iran) creates market ambiguity; unclear near-term catalyst",
    "price_since": {
     "ticker": "SPY",
-    "pct": -1.2,
+    "pct": -0.7,
     "base": 750.33,
-    "last": 740.96,
+    "last": 744.85,
     "base_date": "2026-06-16",
-    "last_date": "2026-06-17"
+    "last_date": "2026-06-18"
    }
   },
   {
@@ -351,11 +439,11 @@
    "reason": "Critical metals/Greenland interest implies resource/mining thesis; direction ambiguous without policy clarity",
    "price_since": {
     "ticker": "XLE",
-    "pct": -1.2,
+    "pct": -3.6,
     "base": 55.36,
-    "last": 54.67,
+    "last": 53.37,
     "base_date": "2026-06-16",
-    "last_date": "2026-06-17"
+    "last_date": "2026-06-18"
    }
   },
   {
@@ -375,11 +463,11 @@
    "reason": "Trump's $1.5T defense budget bullish for Palantir as strategic defense vendor.",
    "price_since": {
     "ticker": "PLTR",
-    "pct": -2.0,
+    "pct": -5.1,
     "base": 133.25,
-    "last": 130.63,
+    "last": 126.48,
     "base_date": "2026-06-16",
-    "last_date": "2026-06-17"
+    "last_date": "2026-06-18"
    }
   },
   {
@@ -403,7 +491,7 @@
     "base": 8.16,
     "last": 8.1,
     "base_date": "2026-06-16",
-    "last_date": "2026-06-17"
+    "last_date": "2026-06-18"
    }
   },
   {
@@ -423,11 +511,11 @@
    "reason": "Trump explicitly lauds Citi's 'big comeback' in M&A; direct praise of named stock.",
    "price_since": {
     "ticker": "C",
-    "pct": 0.6,
+    "pct": 2.7,
     "base": 142.99,
-    "last": 143.78,
+    "last": 146.78,
     "base_date": "2026-06-16",
-    "last_date": "2026-06-17"
+    "last_date": "2026-06-18"
    }
   },
   {
@@ -447,11 +535,11 @@
    "reason": "Trump's high-frequency stock trading raises governance/insider concerns; market-relevant but ambiguous impact",
    "price_since": {
     "ticker": "SPY",
-    "pct": -1.2,
+    "pct": -0.7,
     "base": 750.33,
-    "last": 740.96,
+    "last": 744.85,
     "base_date": "2026-06-16",
-    "last_date": "2026-06-17"
+    "last_date": "2026-06-18"
    }
   },
   {
@@ -471,11 +559,11 @@
    "reason": "Contrarian short thesis on Palantir after Trump endorsement; conflicting signals on direction.",
    "price_since": {
     "ticker": "PLTR",
-    "pct": -2.0,
+    "pct": -5.0,
     "base": 133.25,
-    "last": 130.63,
+    "last": 126.54,
     "base_date": "2026-06-16",
-    "last_date": "2026-06-17"
+    "last_date": "2026-06-18"
    }
   },
   {
@@ -495,11 +583,11 @@
    "reason": "Trump explicitly praised CEO; stock rallied on praise signal",
    "price_since": {
     "ticker": "IBM",
-    "pct": -3.1,
+    "pct": -9.3,
     "base": 270.81,
-    "last": 262.35,
+    "last": 245.6,
     "base_date": "2026-06-16",
-    "last_date": "2026-06-17"
+    "last_date": "2026-06-18"
    }
   },
   {
@@ -519,11 +607,11 @@
    "reason": "Trump explicitly lauds Citi's 'big comeback' in M&A; direct praise of named company.",
    "price_since": {
     "ticker": "C",
-    "pct": 0.6,
+    "pct": 2.6,
     "base": 142.99,
-    "last": 143.78,
+    "last": 146.72,
     "base_date": "2026-06-16",
-    "last_date": "2026-06-17"
+    "last_date": "2026-06-18"
    }
   },
   {
@@ -543,11 +631,11 @@
    "reason": "Trump's disclosed stake in ServiceNow creates explicit bullish signal; ownership alignment with praise",
    "price_since": {
     "ticker": "NOW",
-    "pct": -5.8,
+    "pct": -6.5,
     "base": 101.33,
-    "last": 95.48,
+    "last": 94.79,
     "base_date": "2026-06-16",
-    "last_date": "2026-06-17"
+    "last_date": "2026-06-18"
    }
   },
   {
@@ -568,11 +656,11 @@
    "reason": "Iran nuclear deal tentatively reached; reduces geopolitical tension, bullish for oil prices and risk assets",
    "price_since": {
     "ticker": "USO",
-    "pct": -5.8,
+    "pct": -8.6,
     "base": 121.21,
-    "last": 114.23,
+    "last": 110.79,
     "base_date": "2026-06-15",
-    "last_date": "2026-06-17"
+    "last_date": "2026-06-18"
    }
   },
   {
@@ -592,11 +680,11 @@
    "reason": "Iran peace deal framework reduces geopolitical risk and typically supports oil/energy prices.",
    "price_since": {
     "ticker": "USO",
-    "pct": -5.8,
+    "pct": -8.6,
     "base": 121.21,
-    "last": 114.23,
+    "last": 110.79,
     "base_date": "2026-06-15",
-    "last_date": "2026-06-17"
+    "last_date": "2026-06-18"
    }
   },
   {
@@ -616,9 +704,9 @@
    "reason": "US-Iran peace deal reduces geopolitical risk, bullish for risk assets including Bitcoin.",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": -3.5,
+    "pct": -3.9,
     "base": 66289.5,
-    "last": 63973.71,
+    "last": 63684.19,
     "base_date": "2026-06-15",
     "last_date": "2026-06-18"
    }
@@ -2666,47 +2754,6 @@
     "base_date": "2026-06-10",
     "last_date": "2026-06-11"
    }
-  },
-  {
-   "date": "2026-06-10T11:32:52.931Z",
-   "platform": "Truth Social",
-   "text": "The Fake News Media refuses to report how EFFECTIVE the U.S. Naval BLOCKADE is, the most successful Blockade in the history of Naval Warfare. NOTHING GETS THROUGH unless we want it to. IT IS A STEEL WALL! Iran is doing ZERO business, not paying their military, or any of their bills, and quickly becoming a FAILED NATION! Lots of oil is getting out. Praise be to Allah! President DONALD J. TRUMP",
-   "tickers": [
-    "XLE"
-   ],
-   "engagement": 1906,
-   "url": "https://truthsocial.com/@realDonaldTrump/116725591109474316",
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "XLE",
-   "strength": 45,
-   "reason": "Naval blockade on Iran reduces oil supply; tight supply bullish for energy sector",
-   "price_since": {
-    "ticker": "XLE",
-    "pct": 0.2,
-    "base": 58.25,
-    "last": 58.37,
-    "base_date": "2026-06-10",
-    "last_date": "2026-06-11"
-   }
-  },
-  {
-   "date": "2026-06-10T11:15:00Z",
-   "platform": "News",
-   "text": "High stakes: Trulieve becomes first U.S. cannabis company on the NYSE - IslanderNews.com \u2014 High stakes: Trulieve becomes first U.S. cannabis company on the NYSE\u00a0\u00a0IslanderNews.com",
-   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPMVpFRnh0NW83WXFseUJLOXBKWk5QSWJpY1QyeFdYOGxiRmVvanJtbm03YmZLYVZIMWwtU1p1N3ZCcGc2c09nRTJQclhJTmpPMVhHUTdSNUYzZ2pOWUlZOWZGdkRKVVVBdHNPYklBQ1VvZnF4T0ZrcE5HZC1BUFp6RGZhWUdrWG02ejRtOGhqTmtlWGdRWlFIakRKSzZoWnlvd1U3dTZWdzlTTC0zMDBvb2xxUW04MGJQMDBLM1FzdmVKbGdJRXdtRWl3MnNPeFVZdExvN2pCUHZKZTJnSm1sZUNkWkhlaUp1T0ZLaXN5ZHNpMUU?oc=5",
-   "tickers": [
-    "TCNNF"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "TCNNF",
-   "strength": 35,
-   "reason": "Trulieve NYSE listing milestone for cannabis sector; legitimacy signal"
   },
   {
    "curated": true,
