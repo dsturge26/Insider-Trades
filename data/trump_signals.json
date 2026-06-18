@@ -1,7 +1,56 @@
 {
- "last_updated": "2026-06-18T14:14:57Z",
+ "last_updated": "2026-06-18T17:33:10Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-06-18T15:17:21Z",
+   "platform": "News",
+   "text": "Intel surges 9% after Trump says company will partner with Apple on US chip design - MSN \u2014 Intel surges 9% after Trump says company will partner with Apple on US chip design\u00a0\u00a0MSN",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNcXlod2xXZnk1bnNfZDBTQU1qREdjaTFmYUJfY1otR0UzSUNGTWZ0N28yZnlnMzk5MjJsZEJPOXRRNnY0RHpVWF9kN0lkdnZpV1ZzNGtLbXV1dlE2a3lmYmRKVmppLWhoVm5XeDN2cWgyUFgyZl95a001Q3lPdUF5dVBIeHAxRXEwSjJ6aldVNmVpdWQ2VXliVFJkQjFKMnBjdHlZYWJJVkcxOGRWQ2VwV2tDQ3AtcXlUN3F4Unl1MS1saE0tbUZ3c1pPdllzdktHNENxRXFBa2l2bmFNSnN3dWtqQnZ4QQ?oc=5",
+   "tickers": [
+    "INTC"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "INTC",
+   "strength": 85,
+   "reason": "Trump explicitly announces Intel-Apple partnership for US chip design; market already reacted with 9% surge."
+  },
+  {
+   "date": "2026-06-18T14:50:06Z",
+   "platform": "News",
+   "text": "Trump says Apple will work with Intel to design and manufacture chips in the U.S., sending shares up 9% - eciks.org \u2014 Trump says Apple will work with Intel to design and manufacture chips in the U.S., sending shares up 9%\u00a0\u00a0eciks.org",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBYSDBCX05sejdSeGY2U2xDMHZ4elVYY1lUUjlibU9BSGtkdWhTWlA3N0RrWklYaVU5bUtEUnFubElUWk0yRkdoOUFBdFo0QjlROTR1ekQzZDJ1cUVqVmtSTlo2WW5LUnFvRFl5dVNxSDl2UQ?oc=5",
+   "tickers": [
+    "INTC"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "INTC",
+   "strength": 85,
+   "reason": "Trump announces Apple-Intel US chip manufacturing partnership, sending shares up 9%."
+  },
+  {
+   "date": "2026-06-18T13:59:53.481Z",
+   "platform": "Truth Social",
+   "text": "OIL IS FLOWING, IRAN CAN NEVER HAVE A NUCLEAR WEAPON (THE WORLD WILL BE SAFE!), THE STOCK MARKETS ARE ROARING, JOBS ARE AT RECORDS, AND PRICES ARE DROPPING (AFFORDABILITY!). OUR COUNTRY IS STRONG, SAFE, AND RESPECTED LIKE NEVER BEFORE. \"YOU'RE WELCOME!\" President DJT",
+   "tickers": [
+    "SPY"
+   ],
+   "engagement": 34707,
+   "url": "https://truthsocial.com/@realDonaldTrump/116771467656011073",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "SPY",
+   "strength": 45,
+   "reason": "Trump praises stock market rally, oil flow, jobs, and price drops; broad market bullish macro commentary."
+  },
   {
    "date": "2026-06-18T09:33:00Z",
    "platform": "News",
@@ -118,9 +167,9 @@
    "reason": "Trump praise for defense startup's anti-drone tech signals bullish sentiment for defense sector.",
    "price_since": {
     "ticker": "XAR",
-    "pct": -1.5,
+    "pct": -0.9,
     "base": 285.59,
-    "last": 281.17,
+    "last": 283.12,
     "base_date": "2026-06-17",
     "last_date": "2026-06-18"
    }
@@ -142,9 +191,33 @@
    "reason": "Trump praise for anti-drone defense technology; bullish for defense sector.",
    "price_since": {
     "ticker": "XAR",
-    "pct": -1.5,
+    "pct": -0.9,
     "base": 285.59,
-    "last": 281.17,
+    "last": 283.12,
+    "base_date": "2026-06-17",
+    "last_date": "2026-06-18"
+   }
+  },
+  {
+   "date": "2026-06-17T16:46:16Z",
+   "platform": "News",
+   "text": "Trump praises anti-drone technology as defense startup lands $200M - Yahoo News UK \u2014 Trump praises anti-drone technology as defense startup lands $200M\u00a0\u00a0Yahoo News UK",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNnhtdGFqYXVya2NDZXl0dm5maVVtXzY5dklCTzQtOVJsdzdhWUxnRGh2NmI1d2Z3d3BzUi1GcndMRDZha1h3Z3hDVDZpSjJFY3FUY0pjMVVGbDNjdlJNblk2Vmk0U1k0ZHR6WDkzamhiZXFHalhROFhVWW5Mdk5MVkhn?oc=5",
+   "tickers": [
+    "XAR"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "XAR",
+   "strength": 70,
+   "reason": "Trump praises anti-drone technology and defense startup securing $200M federal contract.",
+   "price_since": {
+    "ticker": "XAR",
+    "pct": -0.9,
+    "base": 285.59,
+    "last": 283.12,
     "base_date": "2026-06-17",
     "last_date": "2026-06-18"
    }
@@ -166,9 +239,9 @@
    "reason": "Trump close relationship with Nvidia CEO Jensen Huang suggests favorable disposition toward Nvidia/semiconductors; indirect but relationship-based bullish signal.",
    "price_since": {
     "ticker": "NVDA",
-    "pct": 1.8,
+    "pct": 2.7,
     "base": 204.65,
-    "last": 208.37,
+    "last": 210.15,
     "base_date": "2026-06-17",
     "last_date": "2026-06-18"
    }
@@ -190,9 +263,9 @@
    "reason": "Trump has close relationship with Jensen Huang (NVIDIA CEO); suggests favorable tech/AI stance but no explicit direction",
    "price_since": {
     "ticker": "NVDA",
-    "pct": 1.8,
+    "pct": 2.7,
     "base": 204.65,
-    "last": 208.38,
+    "last": 210.15,
     "base_date": "2026-06-17",
     "last_date": "2026-06-18"
    }
@@ -215,9 +288,9 @@
    "reason": "Trump touts strong US economy, record employment, and $19.1T investment inflows; broad macro bullish signal for equities.",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.5,
+    "pct": 0.9,
     "base": 740.96,
-    "last": 744.84,
+    "last": 747.6,
     "base_date": "2026-06-17",
     "last_date": "2026-06-18"
    }
@@ -239,9 +312,9 @@
    "reason": "Citi hitting 52-week high is a data point but headline lacks Trump-specific catalyst; neutral observation.",
    "price_since": {
     "ticker": "C",
-    "pct": 2.0,
+    "pct": 0.4,
     "base": 143.78,
-    "last": 146.72,
+    "last": 144.38,
     "base_date": "2026-06-17",
     "last_date": "2026-06-18"
    }
@@ -295,9 +368,9 @@
    "reason": "Trump praises defense startup winning $200M contract; defense sector bullish.",
    "price_since": {
     "ticker": "XAR",
-    "pct": -1.5,
+    "pct": -0.9,
     "base": 285.59,
-    "last": 281.17,
+    "last": 283.12,
     "base_date": "2026-06-17",
     "last_date": "2026-06-18"
    }
@@ -319,9 +392,9 @@
    "reason": "Trump praises broad stock market rally and lower oil; general bullish sentiment.",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.5,
+    "pct": 0.9,
     "base": 740.96,
-    "last": 744.85,
+    "last": 747.61,
     "base_date": "2026-06-17",
     "last_date": "2026-06-18"
    }
@@ -343,9 +416,33 @@
    "reason": "Trump suggests oil prices may fall sharply; energy sector bearish.",
    "price_since": {
     "ticker": "XLE",
-    "pct": -2.4,
+    "pct": -2.0,
     "base": 54.67,
-    "last": 53.37,
+    "last": 53.58,
+    "base_date": "2026-06-17",
+    "last_date": "2026-06-18"
+   }
+  },
+  {
+   "date": "2026-06-17T07:00:00Z",
+   "platform": "News",
+   "text": "Trump administration pivots to buying stakes in critical sectors - Reuters \u2014 Trump administration pivots to buying stakes in critical sectors\u00a0\u00a0Reuters",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORGlsaUNLd2dtbm8wS3hVczZ3cks2MWZfZFl6R0FiSjFpVHJBeWJYUFFqOW1VNVFkWE1IaW1paENCa1czc0NJcWxXZ1MtVDZMLUdEQWdfeGNXSTFpdU5BaUZQZmRVN0RqeVhISjFFbzJ5ZnNoZUU0OUV0dzlNc1VRenBzNHZZazdoaTQ3R2ltVFRYT0stMl83NndNUGEwdS1DSXVMRldvNUhMeEcxamVQZHVNdXAwQ1VKV3pXdzhmRmROYy1fby0xNmNhQVpDeW9P?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "SPY",
+   "strength": 45,
+   "reason": "Trump administration strategic investment in critical sectors is ambiguous\u2014could be bullish or signal market concerns",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": 0.9,
+    "base": 740.96,
+    "last": 747.59,
     "base_date": "2026-06-17",
     "last_date": "2026-06-18"
    }
@@ -391,9 +488,9 @@
    "reason": "G7 meeting with Modi implies potential trade/geopolitical discussion; ambiguous direction.",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.5,
+    "pct": 0.9,
     "base": 740.96,
-    "last": 744.84,
+    "last": 747.59,
     "base_date": "2026-06-17",
     "last_date": "2026-06-18"
    }
@@ -415,9 +512,9 @@
    "reason": "Geopolitical tension shift (Israel/Iran) creates market ambiguity; unclear near-term catalyst",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.7,
+    "pct": -0.4,
     "base": 750.33,
-    "last": 744.85,
+    "last": 747.59,
     "base_date": "2026-06-16",
     "last_date": "2026-06-18"
    }
@@ -439,9 +536,9 @@
    "reason": "Critical metals/Greenland interest implies resource/mining thesis; direction ambiguous without policy clarity",
    "price_since": {
     "ticker": "XLE",
-    "pct": -3.6,
+    "pct": -3.2,
     "base": 55.36,
-    "last": 53.37,
+    "last": 53.58,
     "base_date": "2026-06-16",
     "last_date": "2026-06-18"
    }
@@ -463,9 +560,9 @@
    "reason": "Trump's $1.5T defense budget bullish for Palantir as strategic defense vendor.",
    "price_since": {
     "ticker": "PLTR",
-    "pct": -5.1,
+    "pct": -3.3,
     "base": 133.25,
-    "last": 126.48,
+    "last": 128.88,
     "base_date": "2026-06-16",
     "last_date": "2026-06-18"
    }
@@ -487,9 +584,9 @@
    "reason": "Trump Media stock moving premarket; likely driven by positive sentiment or news flow but headline lacks specifics on catalyst",
    "price_since": {
     "ticker": "DJT",
-    "pct": -0.7,
+    "pct": 2.5,
     "base": 8.16,
-    "last": 8.1,
+    "last": 8.36,
     "base_date": "2026-06-16",
     "last_date": "2026-06-18"
    }
@@ -511,9 +608,9 @@
    "reason": "Trump explicitly lauds Citi's 'big comeback' in M&A; direct praise of named stock.",
    "price_since": {
     "ticker": "C",
-    "pct": 2.7,
+    "pct": 1.0,
     "base": 142.99,
-    "last": 146.78,
+    "last": 144.38,
     "base_date": "2026-06-16",
     "last_date": "2026-06-18"
    }
@@ -535,9 +632,9 @@
    "reason": "Trump's high-frequency stock trading raises governance/insider concerns; market-relevant but ambiguous impact",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.7,
+    "pct": -0.4,
     "base": 750.33,
-    "last": 744.85,
+    "last": 747.59,
     "base_date": "2026-06-16",
     "last_date": "2026-06-18"
    }
@@ -559,9 +656,9 @@
    "reason": "Contrarian short thesis on Palantir after Trump endorsement; conflicting signals on direction.",
    "price_since": {
     "ticker": "PLTR",
-    "pct": -5.0,
+    "pct": -3.3,
     "base": 133.25,
-    "last": 126.54,
+    "last": 128.88,
     "base_date": "2026-06-16",
     "last_date": "2026-06-18"
    }
@@ -583,9 +680,9 @@
    "reason": "Trump explicitly praised CEO; stock rallied on praise signal",
    "price_since": {
     "ticker": "IBM",
-    "pct": -9.3,
+    "pct": -7.2,
     "base": 270.81,
-    "last": 245.6,
+    "last": 251.39,
     "base_date": "2026-06-16",
     "last_date": "2026-06-18"
    }
@@ -607,9 +704,9 @@
    "reason": "Trump explicitly lauds Citi's 'big comeback' in M&A; direct praise of named company.",
    "price_since": {
     "ticker": "C",
-    "pct": 2.6,
+    "pct": 1.0,
     "base": 142.99,
-    "last": 146.72,
+    "last": 144.38,
     "base_date": "2026-06-16",
     "last_date": "2026-06-18"
    }
@@ -2727,30 +2824,6 @@
     "pct": 2.8,
     "base": 133.38,
     "last": 137.11,
-    "base_date": "2026-06-10",
-    "last_date": "2026-06-11"
-   }
-  },
-  {
-   "date": "2026-06-10T11:46:12Z",
-   "platform": "News",
-   "text": "Trump praises US naval blockade, says Iran is becoming a 'failed nation': 'IT IS A STEEL WALL!' - Moneycontrol.com \u2014 Trump praises US naval blockade, says Iran is becoming a 'failed nation': 'IT IS A STEEL WALL!'\u00a0\u00a0Moneycontrol.com",
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNWEVHVE5mZ0tkRFFibE5HU1JkOTk5bzVoMlZCNUlBYWUtR1RHUHNqbDJpb2xFNThUYXBRRlNjclEtNlhLanJSVVlTZ2JrcUtKUGpqRnZrdTAxWml0ZnNYaTdvYnZnVjNXLUlqT0xRcHZuV2wyV1NoMFctR2R6NFk5QmdqN0s0R2M0RDIxVEFvbnBNRGpCQW96YTBjdl8ta3gwbDQ0azRvVHRLVkNQWHBub1lEZGdUbVZESUdzRURGQjl5VWtWcGRrTHp1bHdqNGtfNWp6REhmMEYzQ0pKNm1Sdm1sRQ?oc=5",
-   "tickers": [
-    "XLE"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "XLE",
-   "strength": 60,
-   "reason": "Naval blockade securing Middle East oil supply \u2192 bullish for energy",
-   "price_since": {
-    "ticker": "XLE",
-    "pct": -1.0,
-    "base": 58.25,
-    "last": 57.69,
     "base_date": "2026-06-10",
     "last_date": "2026-06-11"
    }
