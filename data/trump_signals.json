@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-06-18T19:56:50Z",
+ "last_updated": "2026-06-18T22:15:10Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -217,9 +217,9 @@
    "reason": "Trump praise for defense startup's anti-drone tech signals bullish sentiment for defense sector.",
    "price_since": {
     "ticker": "XAR",
-    "pct": -0.4,
+    "pct": -0.5,
     "base": 285.59,
-    "last": 284.53,
+    "last": 284.29,
     "base_date": "2026-06-17",
     "last_date": "2026-06-18"
    }
@@ -241,9 +241,9 @@
    "reason": "Trump praise for anti-drone defense technology; bullish for defense sector.",
    "price_since": {
     "ticker": "XAR",
-    "pct": -0.4,
+    "pct": -0.5,
     "base": 285.59,
-    "last": 284.53,
+    "last": 284.29,
     "base_date": "2026-06-17",
     "last_date": "2026-06-18"
    }
@@ -265,9 +265,33 @@
    "reason": "Trump praises anti-drone technology and defense startup securing $200M federal contract.",
    "price_since": {
     "ticker": "XAR",
-    "pct": -0.4,
+    "pct": -0.5,
     "base": 285.59,
-    "last": 284.53,
+    "last": 284.29,
+    "base_date": "2026-06-17",
+    "last_date": "2026-06-18"
+   }
+  },
+  {
+   "date": "2026-06-17T16:13:56Z",
+   "platform": "News",
+   "text": "Trump and G7 leaders discuss future of AI on last day of summit - WFLA \u2014 Trump and G7 leaders discuss future of AI on last day of summit\u00a0\u00a0WFLA",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUDRZYzR4U1llZ2pxU1FWdGVvbFdSWTNDa3k2c3U3SlVWNmFzcjlCS29wWjZxbnZ3NmJXbFhqekRNek5XMUcxS3NxYVV6U2hybTVULU9GSVFhSlZTUVJqNFpPdEk1a0ZRRWdIUnVKbmVWaU9LZ0dVTVJfZEItT3NSbmlSNS1USDBKVmU1VWwzb9IBlAFBVV95cUxOYTlNbXVmOTBEMHpPUGlLT1EzRkNvTmdRNFZOX1doZzQxVy1vWlNPd1o1dFdQdWhQMWM1YzI1U3hUYWxORTB5bHF0VUtycWJFRk91NlV4STI2c19mbnZDcXFxRGtiUEF1b0pjX0J5SGRZaUgxTFJPcHNNYUVQLWxTSmt3MWtxbVJ4QktCSkdMcGxPeEV5?oc=5",
+   "tickers": [
+    "QQQ"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "QQQ",
+   "strength": 35,
+   "reason": "Trump discusses AI future at G7; macro tech sentiment but no specific direction or company named.",
+   "price_since": {
+    "ticker": "QQQ",
+    "pct": 2.5,
+    "base": 722.51,
+    "last": 740.62,
     "base_date": "2026-06-17",
     "last_date": "2026-06-18"
    }
@@ -289,9 +313,9 @@
    "reason": "Trump close relationship with Nvidia CEO Jensen Huang suggests favorable disposition toward Nvidia/semiconductors; indirect but relationship-based bullish signal.",
    "price_since": {
     "ticker": "NVDA",
-    "pct": 3.1,
+    "pct": 3.0,
     "base": 204.65,
-    "last": 211.03,
+    "last": 210.69,
     "base_date": "2026-06-17",
     "last_date": "2026-06-18"
    }
@@ -313,9 +337,9 @@
    "reason": "Trump has close relationship with Jensen Huang (NVIDIA CEO); suggests favorable tech/AI stance but no explicit direction",
    "price_since": {
     "ticker": "NVDA",
-    "pct": 3.1,
+    "pct": 3.0,
     "base": 204.65,
-    "last": 211.03,
+    "last": 210.69,
     "base_date": "2026-06-17",
     "last_date": "2026-06-18"
    }
@@ -338,9 +362,9 @@
    "reason": "Trump touts strong US economy, record employment, and $19.1T investment inflows; broad macro bullish signal for equities.",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.9,
+    "pct": 0.8,
     "base": 740.96,
-    "last": 747.72,
+    "last": 746.74,
     "base_date": "2026-06-17",
     "last_date": "2026-06-18"
    }
@@ -362,9 +386,9 @@
    "reason": "Citi hitting 52-week high is a data point but headline lacks Trump-specific catalyst; neutral observation.",
    "price_since": {
     "ticker": "C",
-    "pct": -0.1,
+    "pct": -0.5,
     "base": 143.78,
-    "last": 143.63,
+    "last": 143.06,
     "base_date": "2026-06-17",
     "last_date": "2026-06-18"
    }
@@ -418,9 +442,9 @@
    "reason": "Trump praises defense startup winning $200M contract; defense sector bullish.",
    "price_since": {
     "ticker": "XAR",
-    "pct": -0.4,
+    "pct": -0.5,
     "base": 285.59,
-    "last": 284.53,
+    "last": 284.29,
     "base_date": "2026-06-17",
     "last_date": "2026-06-18"
    }
@@ -442,9 +466,9 @@
    "reason": "Trump praises broad stock market rally and lower oil; general bullish sentiment.",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.9,
+    "pct": 0.8,
     "base": 740.96,
-    "last": 747.71,
+    "last": 746.74,
     "base_date": "2026-06-17",
     "last_date": "2026-06-18"
    }
@@ -466,9 +490,9 @@
    "reason": "Trump suggests oil prices may fall sharply; energy sector bearish.",
    "price_since": {
     "ticker": "XLE",
-    "pct": -1.7,
+    "pct": -1.6,
     "base": 54.67,
-    "last": 53.74,
+    "last": 53.77,
     "base_date": "2026-06-17",
     "last_date": "2026-06-18"
    }
@@ -490,9 +514,9 @@
    "reason": "Trump administration strategic investment in critical sectors is ambiguous\u2014could be bullish or signal market concerns",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.9,
+    "pct": 0.8,
     "base": 740.96,
-    "last": 747.7,
+    "last": 746.74,
     "base_date": "2026-06-17",
     "last_date": "2026-06-18"
    }
@@ -538,9 +562,9 @@
    "reason": "G7 meeting with Modi implies potential trade/geopolitical discussion; ambiguous direction.",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.9,
+    "pct": 0.8,
     "base": 740.96,
-    "last": 747.7,
+    "last": 746.74,
     "base_date": "2026-06-17",
     "last_date": "2026-06-18"
    }
@@ -562,9 +586,9 @@
    "reason": "Geopolitical tension shift (Israel/Iran) creates market ambiguity; unclear near-term catalyst",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.4,
+    "pct": -0.5,
     "base": 750.33,
-    "last": 747.7,
+    "last": 746.74,
     "base_date": "2026-06-16",
     "last_date": "2026-06-18"
    }
@@ -588,7 +612,7 @@
     "ticker": "XLE",
     "pct": -2.9,
     "base": 55.36,
-    "last": 53.74,
+    "last": 53.77,
     "base_date": "2026-06-16",
     "last_date": "2026-06-18"
    }
@@ -610,9 +634,9 @@
    "reason": "Trump's $1.5T defense budget bullish for Palantir as strategic defense vendor.",
    "price_since": {
     "ticker": "PLTR",
-    "pct": -3.5,
+    "pct": -3.6,
     "base": 133.25,
-    "last": 128.54,
+    "last": 128.47,
     "base_date": "2026-06-16",
     "last_date": "2026-06-18"
    }
@@ -634,9 +658,9 @@
    "reason": "Trump Media stock moving premarket; likely driven by positive sentiment or news flow but headline lacks specifics on catalyst",
    "price_since": {
     "ticker": "DJT",
-    "pct": 3.9,
+    "pct": 4.0,
     "base": 8.16,
-    "last": 8.48,
+    "last": 8.49,
     "base_date": "2026-06-16",
     "last_date": "2026-06-18"
    }
@@ -2708,30 +2732,6 @@
    "primary_ticker": "C",
    "strength": 65,
    "reason": "Trump praises Citigroup and CEO Jane Fraser by name; direct positive signal",
-   "price_since": {
-    "ticker": "C",
-    "pct": 3.5,
-    "base": 133.38,
-    "last": 138.07,
-    "base_date": "2026-06-10",
-    "last_date": "2026-06-11"
-   }
-  },
-  {
-   "date": "2026-06-10T16:29:00Z",
-   "platform": "News",
-   "text": "Trump Praises Citigroup Bankers in Post: \u2018They\u2019ve Worked Really Hard!\u2019 - Barron's \u2014 Trump Praises Citigroup Bankers in Post: \u2018They\u2019ve Worked Really Hard!\u2019\u00a0\u00a0Barron's",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOd1dIZ25UQmxPY0NaSjRVQ3dBbG5LbW93cmxqcWs1UEJZT0tMQll0cWUzalM0UG0zZFVQajVGenNST2Y4R3hZZ3c2M0k3U3gwUF96V1BxVk9XMTNjX0theUdYYmZCeVZQRVFpU2dUNVBVWDR1MnNYRUR6U0RqVFQ3RmIwckZCNTg?oc=5",
-   "tickers": [
-    "C"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "C",
-   "strength": 70,
-   "reason": "Trump explicitly praises Citigroup bankers and M&A performance",
    "price_since": {
     "ticker": "C",
     "pct": 3.5,
