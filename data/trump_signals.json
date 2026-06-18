@@ -1,7 +1,57 @@
 {
- "last_updated": "2026-06-18T06:32:10Z",
+ "last_updated": "2026-06-18T10:57:38Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-06-18T09:33:00Z",
+   "platform": "News",
+   "text": "Marco Rubio's Frozen Reaction as Trump Praises Himself and the Stock Market Has Internet in Stitches - Morning Honey \u2014 Marco Rubio's Frozen Reaction as Trump Praises Himself and the Stock Market Has Internet in Stitches\u00a0\u00a0Morning Honey",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNVNhaEVwNlZOdnlrbzNLeFpPN1p3a0gwRUZoaXBjYWtOWXZxVDNTbHlXckxTNUFNR19wTzVCdmljZzFnMl9MdENQNTc2cUlrNU1vR0t5bzczbFlXWkZ0Rl9MaW40MTloUTBRX2JJNkRNQ1JxbGUtUC1zZ2IxYkxlR3BrUlRrTmpPV1FmdUdiNTlzX0tSVzRWa0pKaW5XdUhkbEtKdU1JNjBBbnZZQXlVYjV0ZC11MHJOTGY4NjU1aTVxWXRsUVpzMFl3?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "SPY",
+   "strength": 25,
+   "reason": "Trump praises stock market rally; weak signal, macro sentiment only"
+  },
+  {
+   "date": "2026-06-18T08:32:31.915Z",
+   "platform": "Truth Social",
+   "text": "These fools, who think I haven't been tough enough on Iran, when the Stock Market Just Hit A RECORD HIGH, and Oil prices are \"tumbling\" down, are either jealous, bad people, or stupid. MAKE AMERICA GREAT AGAIN!!! President DJT",
+   "tickers": [
+    "SPY"
+   ],
+   "engagement": 4505,
+   "url": "https://truthsocial.com/@realDonaldTrump/116770180426363226",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "SPY",
+   "strength": 35,
+   "reason": "Trump cites record-high stock market and falling oil prices; broad market bullish tone"
+  },
+  {
+   "date": "2026-06-18T08:28:21.257Z",
+   "platform": "Truth Social",
+   "text": "Trump Says He Welcomes China, India Investment in Venezuela Oil: https://www.bloomberg.com/news/articles/2026-02-01/trump-says-he-welcomes-china-india-investment-in-venezuela-oil",
+   "tickers": [
+    "USO"
+   ],
+   "engagement": 2021,
+   "url": "https://truthsocial.com/@realDonaldTrump/116770163996850294",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "USO",
+   "strength": 30,
+   "reason": "Venezuela oil investment stance; oil-sector relevant but direction unclear (supply/geopolitical mix)"
+  },
   {
    "date": "2026-06-18T06:06:42Z",
    "platform": "News",
@@ -17,6 +67,22 @@
    "primary_ticker": "XLE",
    "strength": 55,
    "reason": "Iran deal implies oil supply constraints ease, bullish for energy sector"
+  },
+  {
+   "date": "2026-06-18T05:19:21Z",
+   "platform": "News",
+   "text": "Musk likely to merge SpaceX and Tesla into $4 trillion tech conglomerate - DT Next \u2014 Musk likely to merge SpaceX and Tesla into $4 trillion tech conglomerate\u00a0\u00a0DT Next",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNHBHc1hjVDQ0THZlRFdSMFNFTDRUbFRhUzg4b0lSTm16NF9HSVlGMzY0SENtcWgzVUIyQW45Qm4xOTFMbGdBekpxWTRQbUhDMEx2RmZhNWtDMjF3b3lrcGhSdk1yNl9kc280b0YtOFp2NzkydEFwZnY0bWlpeE51QW4zVkhnb1V2YnBUQXk2cjRlQWNXb0tWMThoUzRPaUtRNk9KVVIwRdIBtAFBVV95cUxOUFc5RTV4U0ZOSUtNUjF0UXZKcFZaNjJlMEdjOEoyUTNSMzEwQnY1aXp0QVZtbWZDTVBlYk5BQlh2eU9reElaMnZDSGJYeXlUbU5aNkRtd1o3SEU0ZWdXUTVUNlM2OVhMRG5pQlh0SC1KeVVTcWFLam5aNUstOG5ZbjVfdnl4NDJtNV9ibTNVdVpGVHlXVm1ZbWlscEZWNGZzUmpLUS04eW5taFJyZFQ3Y19PdnA?oc=5",
+   "tickers": [
+    "TSLA"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "TSLA",
+   "strength": 50,
+   "reason": "Speculative SpaceX-Tesla merger rumor; directly affects Tesla valuation but unconfirmed"
   },
   {
    "date": "2026-06-18T04:29:38.755Z",
@@ -211,6 +277,22 @@
    "primary_ticker": "XLE",
    "strength": 40,
    "reason": "Trump suggests oil prices may fall sharply; energy sector bearish."
+  },
+  {
+   "date": "2026-06-17T01:55:22Z",
+   "platform": "News",
+   "text": "Eric Trump Says ABTC Has More Bitcoin Than GLXY \u2013 Stock Still Falls Amid Bitcoin\u2019s Decline - Stocktwits \u2014 Eric Trump Says ABTC Has More Bitcoin Than GLXY \u2013 Stock Still Falls Amid Bitcoin\u2019s Decline\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMi1CeXRoc3duaXd4NGxDU1M4aHRJR3ptWTltWjdiY1pJb2xUakZBeFpoZ0NsTm9Kd3hRQW9DOXBiTEgwUWVyaFRFOHgyaEpxOXZHNFZqWGZHOXpFbnBaaEU3TUI4U3laX1JRMjR4ejk0NG5iQTFfVnFBRlhBcnR5MGxIRF9tRUg2LWItQnRYZVF3ejVrQW1SVGNqQXdMVm1YMDlUZUJNSk50V3ZmNHZqOQ?oc=5",
+   "tickers": [
+    "ABTC"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "ABTC",
+   "strength": 35,
+   "reason": "Eric Trump commentary on Bitcoin holdings; stock fell amid broader Bitcoin decline, mixed signal"
   },
   {
    "date": "2026-06-17T00:00:00Z",
@@ -2625,22 +2707,6 @@
    "primary_ticker": "TCNNF",
    "strength": 35,
    "reason": "Trulieve NYSE listing milestone for cannabis sector; legitimacy signal"
-  },
-  {
-   "date": "2026-06-10T10:21:59Z",
-   "platform": "News",
-   "text": "Nancy Pelosi stock tracker flags Dell's $9.7 billion Pentagon win weeks after Trump praised the company \u2014 shares surge 48% in a month - MSN \u2014 Nancy Pelosi stock tracker flags Dell's $9.7 billion Pentagon win weeks after Trump praised the company \u2014 shares surge 48% in a month\u00a0\u00a0MSN",
-   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOVmxhWTlhdVlqRFRyN1k1djVmN01XYjBJb0JFczhvUEV1d2pJLUlZYXN2M0x4enFfejAzcmFnanNrZVJXUkI4VVl0TzBXNXJxRnV2algyZW9XQ0FpZllSV3RVRE1DWHNmYWlZR0RkS2FRX2JXVUIzbHZlbk9PMzE2bjNnS2I0NnNBOENjYUhEaUpGYkhZczI4am40NU1nQ2NmNXR3Vk5PYmpxQkdLaVBtLXZpbGxIUWM4R3g5Z3Q5Qi1Kdk1UT0EydEJISWRyN0w2dGtJZTJ5V05PSjhCMDB1MHVIWXBqT3E5b09xOG0tRC16X0tHYS1yU3ZzMjJYVXpfakUxbURudHVEQQ?oc=5",
-   "tickers": [
-    "DELL"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "DELL",
-   "strength": 85,
-   "reason": "Trump praised Dell; company awarded $9.7B Pentagon federal contract and stock surged 48%, strong bullish catalyst"
   },
   {
    "curated": true,
