@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-06-19T00:01:34Z",
+ "last_updated": "2026-06-19T05:24:59Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-06-19T00:26:38Z",
+   "platform": "News",
+   "text": "Markets in Toronto Get Slammed - Baystreet.ca \u2014 Markets in Toronto Get Slammed\u00a0\u00a0Baystreet.ca",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4xZ3VBOUFKQ3ZULUh5LVRhWndYS292RzI5LWpWMm9teldCQVZzNEVfcGpZenNXWkxhdEJNSGFoYjNRZkdSQTZTYjlBUnhoRDg2bV81VXBfc2VDSkNpN0F1edIBfEFVX3lxTE5XaVhqUV93WE1VdTRQX0JjenZhWVdwYnlUXzhBMEJQbGdWUEx5UTJzMWozNXBJZmhVSWY2VGdWTEdFcDJrVC1ya1VhOTRrU0Rwd1Z5SVhjT3lnMEdrOHZTd3hDVzJiNV9kMHZ4UTVjMEx2YTFVS0kwWklIZks?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "SPY",
+   "strength": 25,
+   "reason": "Canadian market weakness; indirect US market signal but no specific Trump catalyst stated."
+  },
   {
    "date": "2026-06-18T18:01:06.103Z",
    "platform": "Truth Social",
@@ -20,6 +36,22 @@
    "reason": "Middle East peace narrative and explicit mention of oil prices down and stocks up; bullish for energy sector and broad market"
   },
   {
+   "date": "2026-06-18T16:52:15Z",
+   "platform": "News",
+   "text": "IBM shares soar after video of Trump praising CEO resurfaces online (IBM) - MSN \u2014 IBM shares soar after video of Trump praising CEO resurfaces online (IBM)\u00a0\u00a0MSN",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRDF2NTdlU1JQZURkNm03US1XNF9hV1BmOXY3NlhvekVVX2ctcmh4MXNzTUpYOXBYZTRRMG1QczVTOVV1cUVPTUVtdkJYZzNtc0ZTN1lPMDBtb2ZzX1lVbzhSQWk3YTA4LUYtUjBGeWc5R0VYMzBRSGE1dzRaMlRZQWZBcGxWOGF1aFI4cHdZR2VYUmw4b1RVcUpXeG5YUUpPOEhldGJZemd0OWNtUi1iUHRWWFhveWNObHlsRVBn?oc=5",
+   "tickers": [
+    "IBM"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "IBM",
+   "strength": 70,
+   "reason": "Trump explicitly praises IBM CEO; shares already surging on the praise."
+  },
+  {
    "date": "2026-06-18T16:49:39.626Z",
    "platform": "Truth Social",
    "text": "There is no 300 Billion Dollar payment to Iran by the U.S. That's Fake News! All there is for the U.S. is Success, Lower Oil Prices, and Victory. Check out the Stock Market. Dumocrat propaganda at play!!! President DJT",
@@ -35,6 +67,22 @@
    "primary_ticker": "SPY",
    "strength": 55,
    "reason": "Iran deal success framed as bullish for stocks and oil; broad market positive sentiment"
+  },
+  {
+   "date": "2026-06-18T16:36:55Z",
+   "platform": "News",
+   "text": "Trump praises anti-drone technology as defense startup lands $200M - MSN \u2014 Trump praises anti-drone technology as defense startup lands $200M\u00a0\u00a0MSN",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWGVLamlyQ2tPdDdxV3lyeXYxZkxuSmpnU0VhQWNTd1gwbjFEUk5XVERRTVUtVVlBLVJnSWM1WlI1S0hLLWV5ODZXZjNUSy1sY2VoZV84ZFhjTThtb2tTRVQ1RGszeE8wV0dXYzZ1QTdvT1R0blV1eDZ5NTRqNkZvckd0OExBanVjY1pCdFNhTV9zbm1zSWk5Tm0yMFEya3g4UWZibTNwdzA0ZnA2S2hHM3NSSk9scXhYaE9nR2dXTWxscXYzd0E?oc=5",
+   "tickers": [
+    "XAR"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "XAR",
+   "strength": 55,
+   "reason": "Trump praises defense startup anti-drone tech and $200M contract award; defense sector bullish."
   },
   {
    "date": "2026-06-18T15:17:21Z",
@@ -116,6 +164,22 @@
    "primary_ticker": "SPY",
    "strength": 25,
    "reason": "Trump praises stock market rally; weak signal, macro sentiment only"
+  },
+  {
+   "date": "2026-06-18T09:25:31Z",
+   "platform": "News",
+   "text": "Nasdaq, S&P 500 Futures Edge Higher, Trump Speech In Focus: Why WMT, META, IBRX, MSFT, EBAY Are On Traders' Radar Today - Stocktwits \u2014 Nasdaq, S&P 500 Futures Edge Higher, Trump Speech In Focus: Why WMT, META, IBRX, MSFT, EBAY Are On Traders' Radar Today\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZVY3QzJ4S3hOd1hjUV85ekMtQ2NXOVllMjVYRkd6YUZYdTF4cnVhTmQ0UWtkaUlieFlZWXlZMGRSdnNRVEZkQzVRQVJrRV8xbDhJSkZ2aGlqd0VnUGlUaW8wd0VheXBBcHh6c21vU2JLVFZYT2ljMEVHeG1WUkQ4ZG5PQmpaVjh6cS1YaTFnOFFoUFR4aEUtQXNMc1pVZjRmOURqTzhaWmozQVZhQ3Y2QUZILVBPbFdQTTcyWjFYZ3ZfTEI0?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "SPY",
+   "strength": 35,
+   "reason": "Trump speech in focus with multiple retailers and tech stocks on traders' radar; direction ambiguous pending speech."
   },
   {
    "date": "2026-06-18T09:13:14Z",
@@ -217,28 +281,20 @@
    "reason": "Trump explicitly backs Intel semiconductor strategy as U.S. manufacturing priority; bullish signal for the company"
   },
   {
-   "date": "2026-06-17T21:43:17Z",
+   "date": "2026-06-18T01:50:32Z",
    "platform": "News",
-   "text": "Trump praises anti-drone technology as defense startup lands $200M - MSN \u2014 Trump praises anti-drone technology as defense startup lands $200M\u00a0\u00a0MSN",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSzRWTVZrLUpCLXVGVEFRMXFneEMzaElsNXdpLUVCWmU5Z3RjNFQ4dnhuMTgtUW0wYjlRbzhCbTdsenU4dVFJb2Nad1VVeV9RT3pnbXBPa2dKOXJOWUdYTEVfNHpndVF0M2RMd2d0VjNqZE9GVHRSajFQaERQbjh5aVhpSFMzNmRzY0lNWjZKRWl5TDh3ZmxUVnEwcVRlZF92VW1xUmpRMUUwTHNRUkg2bTAyNi1uUmc1?oc=5",
+   "text": "PLTR Stock Faces Split Narrative: Retail Bulls Hold Firm As Burry Sounds Alarm, Trump Signals Support - Stocktwits \u2014 PLTR Stock Faces Split Narrative: Retail Bulls Hold Firm As Burry Sounds Alarm, Trump Signals Support\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSFRDSVNMdHk3NEtMbFEwQ1ZRT2tLY3h1cEFvOTVjb182Qm1QUnVqTlE2dWhzYXZpaXBoN3gyNlg4dWVWY0dldndhRDZoOGE2N2ZSMTgxb1Ayb0RWanA3a0hEeEhKWGtYRENBSGZ0d0wySmlrSWpzM1BmcXZpTUdDOXcwMVl0NXVKYjMyOEFvYmVpYk9uOVRSaWdleVNEQnZkZk1tUE5vRURtNjdubE0wTUhLSFFUbGc3OUs5UVpJQXhVTHdZLTdLTmZDQVkxMUVwd3c?oc=5",
    "tickers": [
-    "XAR"
+    "PLTR"
    ],
    "classified": true,
    "is_market": true,
-   "explicit": false,
+   "explicit": true,
    "direction": "BUY",
-   "primary_ticker": "XAR",
+   "primary_ticker": "PLTR",
    "strength": 65,
-   "reason": "Trump praise for defense startup's anti-drone tech signals bullish sentiment for defense sector.",
-   "price_since": {
-    "ticker": "XAR",
-    "pct": -0.5,
-    "base": 285.59,
-    "last": 284.29,
-    "base_date": "2026-06-17",
-    "last_date": "2026-06-18"
-   }
+   "reason": "Trump signals support for Palantir; explicit company mention is bullish catalyst."
   },
   {
    "date": "2026-06-17T16:46:16Z",
@@ -754,30 +810,6 @@
    }
   },
   {
-   "date": "2026-06-16T08:30:36Z",
-   "platform": "News",
-   "text": "IBM shares soar after video of Trump praising CEO resurfaces online (IBM) - MSN \u2014 IBM shares soar after video of Trump praising CEO resurfaces online (IBM)\u00a0\u00a0MSN",
-   "url": "https://news.google.com/rss/articles/CBMilwNBVV95cUxPdllWMmdrTmxSVnFJSFBUSlgyUXplQ2VkRjZaZEhHc2lkTjNzNEhGNGdnQm9WNEVLU2psR2RwVHRKNHFySDVYUWcwZVBscWtKYVZ3NmFNSlVXRzhFLV9xWVlGQk5MRkFpbXR6WDM2c3J6Xy01b0FWWjlpUVFmYUFUOU5rVzNOQmlNNUk3eWNLa3VaTzRzejVKMk1fLTZQZklHaDJMOFVLSFA2c0NrdnZsLWRsS3dQQXhMMnBacnNTclJuWUpoMjA2NFB2Mzh4OGhrQTcteXNmRENsSXI3NFBCZTk5VmpDQ3h3QTNDamNOOE1sT1lyWWttQ2ZyRjZnUXVNeUhHLXB4aTVHSkMtdHZsSlBrOTAyQmFxeGVyX0llV0doUndLUVlVZzMtN0VYUy04QzllOTNoMWZ3LWFId3F4TFFpTnI0M21Ya2o5Z2wzODM5VkpSVmM0QnJ2UEFtakNqSDA2cDFucS1oNk5jQll5VjJMRTV4bW4xMFJMakVNWmhnSnUxMU5XMzlDMGRwakJRZ2lBM2VENA?oc=5",
-   "tickers": [
-    "IBM"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "IBM",
-   "strength": 70,
-   "reason": "Trump explicitly praised CEO; stock rallied on praise signal",
-   "price_since": {
-    "ticker": "IBM",
-    "pct": -7.2,
-    "base": 270.81,
-    "last": 251.39,
-    "base_date": "2026-06-16",
-    "last_date": "2026-06-18"
-   }
-  },
-  {
    "date": "2026-06-16T07:11:41Z",
    "platform": "News",
    "text": "Citi Stock Hits 52-Week High Before Fading As Trump Lauds Bank's 'Big Comeback' In M&A \u2014 But Full Picture Has Changed Now - Stocktwits \u2014 Citi Stock Hits 52-Week High Before Fading As Trump Lauds Bank's 'Big Comeback' In M&A \u2014 But Full Picture Has Changed Now\u00a0\u00a0Stocktwits",
@@ -1064,30 +1096,6 @@
     "pct": 1.8,
     "base": 141.21,
     "last": 143.78,
-    "base_date": "2026-06-15",
-    "last_date": "2026-06-17"
-   }
-  },
-  {
-   "date": "2026-06-15T07:34:48Z",
-   "platform": "News",
-   "text": "PLTR Stock Faces Split Narrative: Retail Bulls Hold Firm As Burry Sounds Alarm, Trump Signals Support - Stocktwits \u2014 PLTR Stock Faces Split Narrative: Retail Bulls Hold Firm As Burry Sounds Alarm, Trump Signals Support\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSFRDSVNMdHk3NEtMbFEwQ1ZRT2tLY3h1cEFvOTVjb182Qm1QUnVqTlE2dWhzYXZpaXBoN3gyNlg4dWVWY0dldndhRDZoOGE2N2ZSMTgxb1Ayb0RWanA3a0hEeEhKWGtYRENBSGZ0d0wySmlrSWpzM1BmcXZpTUdDOXcwMVl0NXVKYjMyOEFvYmVpYk9uOVRSaWdleVNEQnZkZk1tUE5vRURtNjdubE0wTUhLSFFUbGc3OUs5UVpJQXhVTHdZLTdLTmZDQVkxMUVwd3c?oc=5",
-   "tickers": [
-    "PLTR"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "PLTR",
-   "strength": 45,
-   "reason": "Trump signals support for Palantir but mixed signals from short-sellers; ambiguous direction",
-   "price_since": {
-    "ticker": "PLTR",
-    "pct": -3.0,
-    "base": 134.71,
-    "last": 130.63,
     "base_date": "2026-06-15",
     "last_date": "2026-06-17"
    }
@@ -2692,46 +2700,6 @@
     "base_date": "2026-06-10",
     "last_date": "2026-06-12"
    }
-  },
-  {
-   "date": "2026-06-10T17:34:22Z",
-   "platform": "News",
-   "text": "Is President Trump about to buy a stake in OpenAI? - MSN \u2014 Is President Trump about to buy a stake in OpenAI?\u00a0\u00a0MSN",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbVd4UmRCV2phNkxxNWNqTFZUZnA0cFVIWWhRTGpyRUN5LUptTGVHdEd2R19aWWxXVE5HVEhiekNHNFg2c2x0b1R4aDVmZ091T3pIU2dmRkhjNFFaN0VsY29CNDVOQ1BqU1NaVDR1UjZCMHNjT1NjRlJKUVk5bHRZUVR0MU5mVGtrNGhETVRPeXRhUmlkbGVhVWRFejRtWmdXQzdN?oc=5",
-   "tickers": [
-    "MSFT"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "MSFT",
-   "strength": 35,
-   "reason": "Rumor of Trump stake in OpenAI (Microsoft-backed) \u2192 ambiguous, unconfirmed",
-   "price_since": {
-    "ticker": "MSFT",
-    "pct": -1.8,
-    "base": 397.36,
-    "last": 390.34,
-    "base_date": "2026-06-10",
-    "last_date": "2026-06-11"
-   }
-  },
-  {
-   "date": "2026-06-10T16:59:52Z",
-   "platform": "News",
-   "text": "DJT Stock Quote Price and Forecast - CNN \u2014 DJT Stock Quote Price and Forecast\u00a0\u00a0CNN",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBPalpkdGlzWVpPOU5CYVZoRUk2MEhOUS1ZM1VKM1VnNmotRHctbmFfUXlna3hUeHJqbWwyNVRpbW9acXIzU3hTX1Q5QWIyOEU?oc=5",
-   "tickers": [
-    "DJT"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "DJT",
-   "strength": 25,
-   "reason": "Neutral reference to DJT stock price/forecast; no directional signal provided."
   },
   {
    "curated": true,
