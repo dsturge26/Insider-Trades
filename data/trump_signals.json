@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-06-19T18:16:24Z",
+ "last_updated": "2026-06-19T20:15:08Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -326,6 +326,22 @@
    "primary_ticker": "USO",
    "strength": 30,
    "reason": "Venezuela oil investment stance; oil-sector relevant but direction unclear (supply/geopolitical mix)"
+  },
+  {
+   "date": "2026-06-18T06:08:14Z",
+   "platform": "News",
+   "text": "QCOM Stock Is 7% From Its Record High; Executives To Join Trump In China Visit - Stocktwits \u2014 QCOM Stock Is 7% From Its Record High; Executives To Join Trump In China Visit\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVXpadHNKQ3hrQS15eXBfZVNyZkRXR2hZZGpvbUF0OFp0VHJrWUhsck53RmFDb2l4eUdfVFQwY0QyZ0tYMERtRE1aaGRVSV9ORFVQd1I4WW9VOXNPS2o2Z3RqRnVReldvOWJneGJsbl81MDRkdTQ1TFd1RVQzWHgzcS01VU9ZY0RuVHZ4TWZOQWphQjlDZVQxMkJKb21PZkJYZXNxLVhnT0xKUDVEcHZYWWUyNncyZzJwX0V1YkJUTUluTU9rTFkxZ2RLRkx6eTk0dGRLSTg1T0Nwd0toT3c?oc=5",
+   "tickers": [
+    "QCOM"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "QCOM",
+   "strength": 50,
+   "reason": "Qualcomm executives join Trump China visit; signals negotiation/deal potential; bullish for chip sector."
   },
   {
    "date": "2026-06-18T06:06:42Z",
@@ -1331,30 +1347,6 @@
     "pct": -0.5,
     "base": 152.89,
     "last": 152.14,
-    "base_date": "2026-06-15",
-    "last_date": "2026-06-17"
-   }
-  },
-  {
-   "date": "2026-06-14T14:57:24Z",
-   "platform": "News",
-   "text": "QCOM Stock Is 7% From Its Record High; Executives To Join Trump In China Visit - Stocktwits \u2014 QCOM Stock Is 7% From Its Record High; Executives To Join Trump In China Visit\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVXpadHNKQ3hrQS15eXBfZVNyZkRXR2hZZGpvbUF0OFp0VHJrWUhsck53RmFDb2l4eUdfVFQwY0QyZ0tYMERtRE1aaGRVSV9ORFVQd1I4WW9VOXNPS2o2Z3RqRnVReldvOWJneGJsbl81MDRkdTQ1TFd1RVQzWHgzcS01VU9ZY0RuVHZ4TWZOQWphQjlDZVQxMkJKb21PZkJYZXNxLVhnT0xKUDVEcHZYWWUyNncyZzJwX0V1YkJUTUluTU9rTFkxZ2RLRkx6eTk0dGRLSTg1T0Nwd0toT3c?oc=5",
-   "tickers": [
-    "QCOM"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "QCOM",
-   "strength": 50,
-   "reason": "Qualcomm executives joining Trump China visit signals diplomatic engagement and potential trade deal",
-   "price_since": {
-    "ticker": "QCOM",
-    "pct": -0.7,
-    "base": 220.81,
-    "last": 219.29,
     "base_date": "2026-06-15",
     "last_date": "2026-06-17"
    }
