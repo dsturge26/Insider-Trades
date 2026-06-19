@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-06-19T20:15:08Z",
+ "last_updated": "2026-06-19T21:37:51Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -97,6 +97,22 @@
    "primary_ticker": "SPY",
    "strength": 25,
    "reason": "Canadian market weakness; indirect US market signal but no specific Trump catalyst stated."
+  },
+  {
+   "date": "2026-06-18T18:53:08Z",
+   "platform": "News",
+   "text": "'Trump effect' comes to IBM stock, 6 months after US president called IBM CEO Arvind Krishna a \u2026 - MSN \u2014 'Trump effect' comes to IBM stock, 6 months after US president called IBM CEO Arvind Krishna a \u2026\u00a0\u00a0MSN",
+   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNMFB1ZF9PRVZTdkZtbEVFazZ4UXc2LUhyWVFjd3BZUmRwS2ZmWWZVSEZRQm0xZ09ya3EzU0N2MlQ3bXFlR2I4Vk1oQVNsb0RpUVVXYTJvT2JzSjRtNTJLUlZOb1FSaTZMVzVzNU9UbnNZdlBkZXlsLU9tU3ZoUjgxbjB1REFSYVBZQzR1YkFvaDJyVWpPUWlfYnJWdWhTdDg4Q2ZwMm9OZnpDclhuYmo2NjBUM2p1em9zV1VJcnF0RUxCa1pHX2U2bnpsc2tTNWs3QTZvbWFscjZhNzBLVWJTb1JidG9oallaMlBSM1JpU0Q3TmRHcVZz?oc=5",
+   "tickers": [
+    "IBM"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "IBM",
+   "strength": 50,
+   "reason": "Trump praise of IBM CEO resurfaces, driving stock recovery; explicit positive sentiment on named company"
   },
   {
    "date": "2026-06-18T18:01:06.103Z",
@@ -1533,30 +1549,6 @@
     "pct": 1.3,
     "base": 141.21,
     "last": 142.99,
-    "base_date": "2026-06-15",
-    "last_date": "2026-06-16"
-   }
-  },
-  {
-   "date": "2026-06-13T04:10:12Z",
-   "platform": "News",
-   "text": "'Trump effect' comes to IBM stock, 6 months after US president called IBM CEO Arvind Krishna a \u2026 - MSN \u2014 'Trump effect' comes to IBM stock, 6 months after US president called IBM CEO Arvind Krishna a \u2026\u00a0\u00a0MSN",
-   "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPSW9pU2s3M1RHYTVELTNmdFJTX2lNRVBtbGxFUGx0WWZMYUFSQ1pCUklGUmVfNVoycVRvNFJwRUpsT2xXaDljSFZ3ZUgzRjVDZXgzU1QtcjRnVDF6X21yMHNxRzkwczVYWUR1NDludmVBX0R1a2IyWGVYZGlvYlJYVHd0LUVySWZfWkZqVjlLRklxNEhFMnNybndpM0tUOC1JZE1UMGhnOTJWM2w1SGxwTGp4cmxUZEU2clpoZmxrUzJ3bmxsaVplZV9zU2g2anVHN0hhVnRyQkgycV91SS0yM2lWLXpJYnFhQkxvUDQ3emxGenlVbW5ZX09TYWZkNU1JdkNIZmtFaTdLZVF5OXRva2J6X1liV2FXdlVYd3NLeXFadw?oc=5",
-   "tickers": [
-    "IBM"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "IBM",
-   "strength": 60,
-   "reason": "Trump praised IBM CEO as 'legend' and government floated $1B quantum award -> stock benefit.",
-   "price_since": {
-    "ticker": "IBM",
-    "pct": 0.8,
-    "base": 268.71,
-    "last": 270.81,
     "base_date": "2026-06-15",
     "last_date": "2026-06-16"
    }
