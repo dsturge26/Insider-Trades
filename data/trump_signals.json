@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-06-19T05:24:59Z",
+ "last_updated": "2026-06-19T09:58:56Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-06-19T07:05:54Z",
+   "platform": "News",
+   "text": "Why Is DJT Stock Up Premarket Today? - Stocktwits \u2014 Why Is DJT Stock Up Premarket Today?\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSk1xMmNPNUVJMDcxTEpIMzdrR05NSTUyc3dqa3o4OTRQUHh0M09ZVjFJZ01GRlltSGtQTlBhWWVJaGVKSVh0UTROTVdIREhzbm85OHJHaGMxaTQyVDFuSlNTbWtPbEZSTXduY1pmTWRwR296cE5UcURMT09RekhNV1RiWkYxOVB3cHlUN1BETi0wdnhTQTlSUXBkRldfQ0tM?oc=5",
+   "tickers": [
+    "DJT"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "DJT",
+   "strength": 25,
+   "reason": "DJT stock movement noted but no new catalyst or Trump statement provided; metadata only."
+  },
   {
    "date": "2026-06-19T00:26:38Z",
    "platform": "News",
@@ -295,6 +311,30 @@
    "primary_ticker": "PLTR",
    "strength": 65,
    "reason": "Trump signals support for Palantir; explicit company mention is bullish catalyst."
+  },
+  {
+   "date": "2026-06-17T23:05:43Z",
+   "platform": "News",
+   "text": "Trump Criticizes Iran\u2019s \u2018Poor Job\u2019 On Strait Of Hormuz Oil Passage, Says This Is \u2018Not The Agreement\u2019 - Stocktwits \u2014 Trump Criticizes Iran\u2019s \u2018Poor Job\u2019 On Strait Of Hormuz Oil Passage, Says This Is \u2018Not The Agreement\u2019\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNklqd3BXWkNYTkpyNkVaVHEtX3ZrUzNsQ1N5SGExazNseld2dVE5aVIxY2pLYmFyVzU0N1RwS2RsTzhBY3p3MHpmeFB0cHRWWEtTM0FMcUtDYlZHeXZaUU1BZll4Z3RPWWFTRzFjNGJtV2owSnRBbmlHTER3SHlEczlGTFVjV19kWFA1QjBfRGtJSEw4WE9yd054OU9XdGJXVGtNVWlPenEwVTJ4Wk1xRlE0TzhRUQ?oc=5",
+   "tickers": [
+    "USO"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "USO",
+   "strength": 55,
+   "reason": "Trump criticizes Iran on oil passage; tension over agreement implies oil market volatility and downside risk.",
+   "price_since": {
+    "ticker": "USO",
+    "pct": 0.6,
+    "base": 114.23,
+    "last": 114.87,
+    "base_date": "2026-06-17",
+    "last_date": "2026-06-18"
+   }
   },
   {
    "date": "2026-06-17T16:46:16Z",
@@ -709,30 +749,6 @@
     "pct": -3.6,
     "base": 133.25,
     "last": 128.47,
-    "base_date": "2026-06-16",
-    "last_date": "2026-06-18"
-   }
-  },
-  {
-   "date": "2026-06-16T16:39:59Z",
-   "platform": "News",
-   "text": "Why Is DJT Stock Up Premarket Today? - Stocktwits \u2014 Why Is DJT Stock Up Premarket Today?\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSk1xMmNPNUVJMDcxTEpIMzdrR05NSTUyc3dqa3o4OTRQUHh0M09ZVjFJZ01GRlltSGtQTlBhWWVJaGVKSVh0UTROTVdIREhzbm85OHJHaGMxaTQyVDFuSlNTbWtPbEZSTXduY1pmTWRwR296cE5UcURMT09RekhNV1RiWkYxOVB3cHlUN1BETi0wdnhTQTlSUXBkRldfQ0tM?oc=5",
-   "tickers": [
-    "DJT"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "DJT",
-   "strength": 25,
-   "reason": "Trump Media stock moving premarket; likely driven by positive sentiment or news flow but headline lacks specifics on catalyst",
-   "price_since": {
-    "ticker": "DJT",
-    "pct": 4.0,
-    "base": 8.16,
-    "last": 8.49,
     "base_date": "2026-06-16",
     "last_date": "2026-06-18"
    }
@@ -1955,22 +1971,6 @@
    "reason": "Oil prices ease and SpaceX IPO success drive market rise, but SpaceX debut itself is not Trump-driven; oil ease contributes to positive tone"
   },
   {
-   "date": "2026-06-12T02:41:49Z",
-   "platform": "News",
-   "text": "Trump Criticizes Iran\u2019s \u2018Poor Job\u2019 On Strait Of Hormuz Oil Passage, Says This Is \u2018Not The Agreement\u2019 - Stocktwits \u2014 Trump Criticizes Iran\u2019s \u2018Poor Job\u2019 On Strait Of Hormuz Oil Passage, Says This Is \u2018Not The Agreement\u2019\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNklqd3BXWkNYTkpyNkVaVHEtX3ZrUzNsQ1N5SGExazNseld2dVE5aVIxY2pLYmFyVzU0N1RwS2RsTzhBY3p3MHpmeFB0cHRWWEtTM0FMcUtDYlZHeXZaUU1BZll4Z3RPWWFTRzFjNGJtV2owSnRBbmlHTER3SHlEczlGTFVjV19kWFA1QjBfRGtJSEw4WE9yd054OU9XdGJXVGtNVWlPenEwVTJ4Wk1xRlE0TzhRUQ?oc=5",
-   "tickers": [
-    "USO"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "USO",
-   "strength": 50,
-   "reason": "Trump criticizes Iran on oil passage; suggests geopolitical friction and potential oil market concern"
-  },
-  {
    "date": "2026-06-12T02:25:41Z",
    "platform": "News",
    "text": "Stock market, Trump-Iran deal: Brent below $90, Asian shares rallying; will Sensex, Nifty join the party? - Business Today \u2014 Stock market, Trump-Iran deal: Brent below $90, Asian shares rallying; will Sensex, Nifty join the party?\u00a0\u00a0Business Today",
@@ -2672,31 +2672,6 @@
     "pct": 8.2,
     "base": 570.91,
     "last": 617.54,
-    "base_date": "2026-06-10",
-    "last_date": "2026-06-12"
-   }
-  },
-  {
-   "date": "2026-06-10T17:50:24.111Z",
-   "platform": "Truth Social",
-   "text": "Last month, I directed our Great U.S. Military to execute a secret mission to support Oil Tankers and other Commercial Ships through the Strait of Hormuz. Today, I am pleased to announce that this effort has resulted in more than 100 MILLION Barrels of Oil making its way through the Strait, and into the Open Market. More than 200 Commercial Ships have safely traveled through the Strait. This wildly successful effort is because the UNITED STATES of AMERICA CONTROLS the Strait of Hormuz \u2014 NOT Iran. Their military is defeated, and their economy is lost. It's over for Iran! Thank you for your attention to this matter. President DONALD J. TRUMP",
-   "tickers": [
-    "XLE"
-   ],
-   "engagement": 17943,
-   "url": "https://truthsocial.com/@realDonaldTrump/116727075577305840",
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "XLE",
-   "strength": 65,
-   "reason": "US naval control of Hormuz securing oil supply \u2192 bullish for oil sector",
-   "price_since": {
-    "ticker": "XLE",
-    "pct": -0.3,
-    "base": 58.25,
-    "last": 58.05,
     "base_date": "2026-06-10",
     "last_date": "2026-06-12"
    }
