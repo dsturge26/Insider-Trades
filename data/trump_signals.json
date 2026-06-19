@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-06-19T16:21:27Z",
+ "last_updated": "2026-06-19T18:16:24Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-06-19T14:39:48Z",
+   "platform": "News",
+   "text": "Michael Burry Says He\u2019s Still Short Palantir After Stock Sees Recovery Following Trump\u2019s Endorsement - Stocktwits \u2014 Michael Burry Says He\u2019s Still Short Palantir After Stock Sees Recovery Following Trump\u2019s Endorsement\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUmNQdmN5STJOLU11dEhkR1U0ckhuS3JMcm1NUDNMY0dNZ1pQcGhFVmd2bkZqVHV5N3N4N01tY1gzZWZnTDlvbVRzTEtkQnZyUjlibXR1ZUJ5MnVNY0ZlYlVEUWtRMkdnRzBGcmxpdEJaQm55ZWlTWmZZUDBPNnhncTFlLWg3bjllZXNpeGpTVjd3b3dCZ2lWT1dPZE5RSlNKT01IVXlTa1c5YmFodzVEWkJtbHpvUHN1Ry00NWhxcVJpdw?oc=5",
+   "tickers": [
+    "PLTR"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "WATCH",
+   "primary_ticker": "PLTR",
+   "strength": 45,
+   "reason": "Trump endorsed Palantir; Burry remains short\u2014mixed signal on direction"
+  },
   {
    "date": "2026-06-19T13:44:34Z",
    "platform": "News",
@@ -510,7 +526,15 @@
    "direction": "WATCH",
    "primary_ticker": "NVDA",
    "strength": 25,
-   "reason": "Trump has close relationship with Jensen Huang (NVIDIA CEO); suggests favorable tech/AI stance but no explicit direction"
+   "reason": "Trump has close relationship with Jensen Huang (NVIDIA CEO); suggests favorable tech/AI stance but no explicit direction",
+   "price_since": {
+    "ticker": "NVDA",
+    "pct": 3.0,
+    "base": 204.65,
+    "last": 210.69,
+    "base_date": "2026-06-17",
+    "last_date": "2026-06-18"
+   }
   },
   {
    "date": "2026-06-17T14:01:23.728Z",
@@ -527,7 +551,15 @@
    "direction": "BUY",
    "primary_ticker": "SPY",
    "strength": 50,
-   "reason": "Trump touts strong US economy, record employment, and $19.1T investment inflows; broad macro bullish signal for equities."
+   "reason": "Trump touts strong US economy, record employment, and $19.1T investment inflows; broad macro bullish signal for equities.",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": 0.8,
+    "base": 740.96,
+    "last": 746.74,
+    "base_date": "2026-06-17",
+    "last_date": "2026-06-18"
+   }
   },
   {
    "date": "2026-06-17T13:34:00Z",
@@ -543,7 +575,15 @@
    "direction": "WATCH",
    "primary_ticker": "C",
    "strength": 25,
-   "reason": "Citi hitting 52-week high is a data point but headline lacks Trump-specific catalyst; neutral observation."
+   "reason": "Citi hitting 52-week high is a data point but headline lacks Trump-specific catalyst; neutral observation.",
+   "price_since": {
+    "ticker": "C",
+    "pct": -0.5,
+    "base": 143.78,
+    "last": 143.06,
+    "base_date": "2026-06-17",
+    "last_date": "2026-06-18"
+   }
   },
   {
    "date": "2026-06-17T13:17:21Z",
@@ -829,30 +869,6 @@
     "pct": -0.4,
     "base": 750.33,
     "last": 747.59,
-    "base_date": "2026-06-16",
-    "last_date": "2026-06-18"
-   }
-  },
-  {
-   "date": "2026-06-16T09:47:28Z",
-   "platform": "News",
-   "text": "Michael Burry Says He\u2019s Still Short Palantir After Stock Sees Recovery Following Trump\u2019s Endorsement - Stocktwits \u2014 Michael Burry Says He\u2019s Still Short Palantir After Stock Sees Recovery Following Trump\u2019s Endorsement\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUmNQdmN5STJOLU11dEhkR1U0ckhuS3JMcm1NUDNMY0dNZ1pQcGhFVmd2bkZqVHV5N3N4N01tY1gzZWZnTDlvbVRzTEtkQnZyUjlibXR1ZUJ5MnVNY0ZlYlVEUWtRMkdnRzBGcmxpdEJaQm55ZWlTWmZZUDBPNnhncTFlLWg3bjllZXNpeGpTVjd3b3dCZ2lWT1dPZE5RSlNKT01IVXlTa1c5YmFodzVEWkJtbHpvUHN1Ry00NWhxcVJpdw?oc=5",
-   "tickers": [
-    "PLTR"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "PLTR",
-   "strength": 30,
-   "reason": "Contrarian short thesis on Palantir after Trump endorsement; conflicting signals on direction.",
-   "price_since": {
-    "ticker": "PLTR",
-    "pct": -3.3,
-    "base": 133.25,
-    "last": 128.88,
     "base_date": "2026-06-16",
     "last_date": "2026-06-18"
    }
@@ -2608,79 +2624,6 @@
     "base": 737.76,
     "last": 739.94,
     "base_date": "2026-06-11",
-    "last_date": "2026-06-12"
-   }
-  },
-  {
-   "date": "2026-06-11T01:21:45.697Z",
-   "platform": "Truth Social",
-   "text": "No other President has ever been more committed to both REBUILDING our Great Military and SAVING our Great Country \u2014 And NOW is the time to make it happen, for Generations to come.\u00a0\u00a0I am hereby calling on Republicans in Congress to IMMEDIATELY advance and pass the forthcoming $350 Billion Reconciliation Bill (Recon 3.0) \u2014 which, at the request of our Great Department of War \u2014 will include THE SAVE AMERICA ACT as well. No games, no delays, and no weak compromises! Do this ASAP.\u00a0This is a GENERATIONAL Investment in our Military, even bigger than President Reagan's! Recon 3.0 is the ONLY path to the full $1.5 TRILLION DOLLAR Military Budget our Warriors need in order to build THE ARSENAL OF FREEDOM. \u00a0We will defend the Homeland with the Golden Dome, launch the unstoppable Golden Fleet, dominate the skies with the F-47 and B-21, supercharge our ammunition stockpiles, and achieve total Space Force and Drone Dominance!\u00a0This Budget reignites American Industry, creates hundreds of thousands of high-paying American Jobs, and secures our Global Dominance without fueling Inflation.\u00a0Also, with THE SAVE AMERICA ACT, it will protect our Elections for Generations to come. Our Warriors protect our most Sacred Rights, and Voting is at the top. Time to defend that Right for every American!\u00a0Pass ALL $350 BILLION and THE SAVE AMERICA ACT to secure the NATION for our children and grandchildren.\u00a0\u00a0THE SAVE AMERICA ACT!1. ALL VOTERS MUST SHOW PHOTO I.D. (IDENTIFICATION!).2. ALL VOTERS MUST SHOW PROOF OF CITIZENSHIP.3. NO MAIL-IN BALLOTS (EXCEPT FOR ILLNESS, DISABILITY, MILITARY, OR TRAVEL!).4. NO MEN IN WOMEN'S SPORTS.5. NO TRANSGENDER MUTILIZATION SURGERY FOR OUR CHILDREN.\u00a0Thank you for your attention to this matter! President DONALD J. TRUMP",
-   "tickers": [
-    "XAR"
-   ],
-   "engagement": 16754,
-   "url": "https://truthsocial.com/@realDonaldTrump/116728850395743386",
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "XAR",
-   "strength": 75,
-   "reason": "$350B military spending bill ('generational investment' larger than Reagan era); defense sector bullish.",
-   "price_since": {
-    "ticker": "XAR",
-    "pct": -1.7,
-    "base": 284.39,
-    "last": 279.6,
-    "base_date": "2026-06-11",
-    "last_date": "2026-06-12"
-   }
-  },
-  {
-   "date": "2026-06-10T23:46:49Z",
-   "platform": "News",
-   "text": "Citigroup stock rises after Trump praises CEO Jane Fraser and M&A ranking. - Pluang \u2014 Citigroup stock rises after Trump praises CEO Jane Fraser and M&A ranking.\u00a0\u00a0Pluang",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOV0g3VHgyM1lzejRxcU5lYWtZWWZLNTZvN0hMTlBaRUgzM05DWVZ2Z01Ja0ozV3JVQ25ZSThEVlBJc1I3Q21sVmd4REZEM3AtbkQ2cS1lM3FwclZqaG92aVZKMzNvOE9wcmxCNFRndkhyYi1nc0tQMTE1TVlNNTdWSTVuQnNKV1NULS1TcFV4SQ?oc=5",
-   "tickers": [
-    "C"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "C",
-   "strength": 65,
-   "reason": "Trump praises Citigroup CEO and M&A ranking; direct praise of named public company",
-   "price_since": {
-    "ticker": "C",
-    "pct": 5.1,
-    "base": 133.38,
-    "last": 140.15,
-    "base_date": "2026-06-10",
-    "last_date": "2026-06-12"
-   }
-  },
-  {
-   "date": "2026-06-10T22:38:02Z",
-   "platform": "News",
-   "text": "Trump bought stock in UFC's parent company while promoting White House lawn fight - MSN \u2014 Trump bought stock in UFC's parent company while promoting White House lawn fight\u00a0\u00a0MSN",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNGFwMnNGRHhITlJNU1J5SGJHcmpodVlzNDJWYTg4eEVyQnFkcEY3SVNYaE82LVNwTG5Va2tlajNIZmJuMTZaa1ZOQTJUS0VpanBHOGR1czhGSkFtRWF5dGViZGFKVmVvd1ZSbDZGUjlpREx4cVRoeXVVaVQ3SEQ3bmpkQnFveDdxQ25YWHpiMkVfeUdsMEZNUHgzbTIwUFNGNFVTTkpWa3M1QTRIUFF0RDZXeTZWaEFTeU1lUE5FblhsSkFyTGJRTmhuaw?oc=5",
-   "tickers": [
-    "TKO"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "TKO",
-   "strength": 55,
-   "reason": "Trump bought stock in UFC parent TKO while promoting it; insider bullish signal",
-   "price_since": {
-    "ticker": "TKO",
-    "pct": 1.1,
-    "base": 206.43,
-    "last": 208.75,
-    "base_date": "2026-06-10",
     "last_date": "2026-06-12"
    }
   },
