@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-06-18T22:15:10Z",
+ "last_updated": "2026-06-19T00:01:34Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -84,6 +84,22 @@
    "primary_ticker": "SPY",
    "strength": 45,
    "reason": "Trump praises stock market rally, oil flow, jobs, and price drops; broad market bullish macro commentary."
+  },
+  {
+   "date": "2026-06-18T10:40:03Z",
+   "platform": "News",
+   "text": "Trump: Apple to partner with Intel on chip design - Sharecast.com \u2014 Trump: Apple to partner with Intel on chip design\u00a0\u00a0Sharecast.com",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUHdiWGplUktOU2Y4XzctdVQtYjR1RTBuUUZNcnY3RkFFand0YWw3VmN5M2hrbEh2QVctYjFRa3NoWlF3OFRFWGpudWpyWGVxZVA5QTRBRHJhd2FjZWlrdGdQSFRYSTVlcV9CQlBmakZzN1h4UTJqT0x1ZnhZcktBV0NySTJ2eVRDTy1jOXdCWWFkSVp2dG1QZEFRc0dxam94d00xX0plaXlKcjRxam1UWnptR2Iyc3o1bXZrMVVKZw?oc=5",
+   "tickers": [
+    "INTC"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "INTC",
+   "strength": 85,
+   "reason": "Trump announces Apple-Intel chip design partnership; bullish for Intel"
   },
   {
    "date": "2026-06-18T09:33:00Z",
@@ -2716,30 +2732,6 @@
    "primary_ticker": "DJT",
    "strength": 25,
    "reason": "Neutral reference to DJT stock price/forecast; no directional signal provided."
-  },
-  {
-   "date": "2026-06-10T16:58:40Z",
-   "platform": "News",
-   "text": "Trump Praises Citigroup and CEO Jane Fraser -- WSJ - Moomoo \u2014 Trump Praises Citigroup and CEO Jane Fraser -- WSJ\u00a0\u00a0Moomoo",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORGkteTRBdENUVE5FQUR6OGRGQmpfLUhIcmItS0syRUhJSTlRRE81V21zOHBWbV9VVmtKclcxa2pUcXhnZ09fREJzZDFlQTdYUWhJYk1mUkVmMDJGd0c5cURjVlJrYmNtOWJZenJxSXJPSEhaSjNZSU45VTNtQ0k3REN4UC1LSXZyOFdLeHNWVEdpajg?oc=5",
-   "tickers": [
-    "C"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "C",
-   "strength": 65,
-   "reason": "Trump praises Citigroup and CEO Jane Fraser by name; direct positive signal",
-   "price_since": {
-    "ticker": "C",
-    "pct": 3.5,
-    "base": 133.38,
-    "last": 138.07,
-    "base_date": "2026-06-10",
-    "last_date": "2026-06-11"
-   }
   },
   {
    "curated": true,
