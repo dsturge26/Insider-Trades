@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-06-20T22:07:45Z",
+ "last_updated": "2026-06-20T23:36:28Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -309,6 +309,22 @@
    "reason": "Trump explicitly praises Citigroup bankers as working hard; direct positive sentiment on major bank"
   },
   {
+   "date": "2026-06-19T00:51:24Z",
+   "platform": "News",
+   "text": "Wall Street advances on chips and Iran deal optimism - CommBank \u2014 Wall Street advances on chips and Iran deal optimism\u00a0\u00a0CommBank",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMEpNQk5lOHQ1dGVVOUxyNVM4OUp2VUpfUkh1Vnc3WHdzaTMwZW9kV3cwVWJUOGNSQ0o1bjVYd2FXNFp2bGFlTGI5NWQtbldXdVpPWk9aNmlPbWp2SWk0YUxRVTJoMUc2YjdES3VwNi0ydkFUQVBBbk9MUGEtWnIwYjdTUHBfSzk0SG43SkYwdWxybm9YYmwtZElDcUotUmxHYUJ1OUY1YXlVOGh5ZjBHaQ?oc=5",
+   "tickers": [
+    "SMH"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "SMH",
+   "strength": 55,
+   "reason": "Chips rally and Iran deal optimism boost semiconductor sector and broad market sentiment."
+  },
+  {
    "date": "2026-06-19T00:26:38Z",
    "platform": "News",
    "text": "Markets in Toronto Get Slammed - Baystreet.ca \u2014 Markets in Toronto Get Slammed\u00a0\u00a0Baystreet.ca",
@@ -339,6 +355,22 @@
    "primary_ticker": "IBRX",
    "strength": 55,
    "reason": "Trump diplomacy directly led to drug approval results for cancer drug company; concrete bullish catalyst"
+  },
+  {
+   "date": "2026-06-18T23:08:31Z",
+   "platform": "News",
+   "text": "SPCX Stock Dips On Profit-Taking Despite Investment-Grade Ratings - Stocktwits \u2014 SPCX Stock Dips On Profit-Taking Despite Investment-Grade Ratings\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNUw1b2xhTEFJVmgwQ09GZ3dvX0FrMTZ5bEJ6RDdraFRBa2pvVHA1WlQ5b2xRVnVRcnJ3MThhejVnbUtLZzdyekR3OU9nVFF1cHo5bzdjWFVhb3piOVFmem9jTmhNc3I2WWRyV1hfSWprRDY4SUduMGRaamM0VkFsajlWWFN2YUZSYW1SemVjYWVYSW54OGNKUlNwSE9MT3Q0cUNtejJIQXA1aWJOLUFvLXRiZ2NpeVl4Vk9pMjlKTXRwZlpnRHNzVw?oc=5",
+   "tickers": [
+    "SPCX"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "SPCX",
+   "strength": 30,
+   "reason": "SPCX dips on profit-taking despite ratings; profit-taking pressure overrides fundamentals."
   },
   {
    "date": "2026-06-18T22:38:10Z",
