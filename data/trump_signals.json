@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-06-20T12:15:23Z",
+ "last_updated": "2026-06-20T14:34:55Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -18,6 +18,22 @@
    "primary_ticker": "XAR",
    "strength": 35,
    "reason": "Hawkish military posture vs Iran implies defense sector demand"
+  },
+  {
+   "date": "2026-06-20T07:03:52Z",
+   "platform": "News",
+   "text": "'Oil Ships are Pouring out...': Trump on Vessels transiting the Strait of Hormuz - The Economic Times \u2014 'Oil Ships are Pouring out...': Trump on Vessels transiting the Strait of Hormuz\u00a0\u00a0The Economic Times",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSHBsOHhISlhMX1hDLV84QmJBcnhIdzZXajNTWklETnFDNGxOSnBPZmJ0VjVtTF9yZl9pR3BraGFDQnRISEU4LXhqOExSTDNweDRCczJiQkF3eUl4czV6Z0xKVU1DSVhxQ2lTbjR4OXpXNzFDS2dkTjRmNDBmZW9BX1g3ZHl4bWFlWWZXOTA3bXZrczQ3RF9hZXdSWkFlWTZBanc0bWNhdEViTkJSNWROLWVNWm5rRUVtcU5ublRFd3F6QkhjU1JfVFJWRXZNN0ZSdXdTTlZFd0lJTlJf0gHiAUFVX3lxTE1uOUprNGQ2VkRmY0Y3a0FUc1R5eXJqNHN5SGpFZWpoblBlV2N1ajFlc2ZkeFdRWW9ydERrSHh2RTF6ZURidGpjMFJvM3VxNXd2SFhwUG9SWmNJczY3ajVnSVFQWXJlU0NBUVVZNXZYMW1zOW1DN2h2bGFMbnN2Q2Y0SlhKbE1UZGtLLVZXRW95MElHMXhPanY1alpyM3BDZDAzY05NNjhzbkpSV0JReG5hNmRUd1Q1T1BCdHBiVDdFZ1ROUGlHb1JMYW5nSUZ1cGFoUEZPX0V1eFltSWdycU5FRVE?oc=5",
+   "tickers": [
+    "XLE"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "XLE",
+   "strength": 35,
+   "reason": "Trump comment on oil tankers transiting Strait of Hormuz; geopolitical tension bearish but direction ambiguous"
   },
   {
    "date": "2026-06-20T05:25:10Z",
@@ -210,6 +226,22 @@
    "primary_ticker": "IBRX",
    "strength": 35,
    "reason": "IBRX rallying into SOTU; Trump diplomacy mentioned but strength unclear"
+  },
+  {
+   "date": "2026-06-19T01:59:50Z",
+   "platform": "News",
+   "text": "Trump praises Citigroup bankers in post: 'They've worked really hard!' - MSN \u2014 Trump praises Citigroup bankers in post: 'They've worked really hard!'\u00a0\u00a0MSN",
+   "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxPYWxoR3pQM0lrVGVCZ2ZyS1FPTEh4ay1KMGJXOUxKVHJnVTlWbmhDZDN4QTdQeTJWQXpDWHNQSlg5UXUzQU1xVjRBaDQ1cTVfVzY1am5nSk9qOHl3QnRJMjFsX0dBRFgweUpZWDlpOW91VWR4ME9oRkR2UkhtZ1ZlTHRtazFCTzNCM1BYQUFfMmstYVNhRllMSGY5WFh0OWtDN2NBTk85a2JERlVWWFdaeUNfbkpVS0NwVHlGUnJvc0J1aTlRSUtpYjVGQ3hOeFRTc2psS3diZmdmX253RlRsaVNjTFBTNEJYLTJicmxiODhORHRVSk91WDVpZk5FRXYwRUNITzY3Z1ZINkRiSERxcXdVS2JDX1c5ckVGd29nZmNGWEZ5aGRsUnRFbnB4bllWN3UxMjNoakN4X0hjb0lJYVFPMlRlREthZEVkTGlXZ04yRjRWaXVqOUhSUERpdnVOd1VJalVJTFZ1YW5KdXI5bTllbGtVQQ?oc=5",
+   "tickers": [
+    "C"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "C",
+   "strength": 45,
+   "reason": "Trump explicitly praises Citigroup bankers as working hard; direct positive sentiment on major bank"
   },
   {
    "date": "2026-06-19T00:26:38Z",
@@ -1731,22 +1763,6 @@
    "reason": "SpaceX IPO and Iran deal optimism support broad market sentiment"
   },
   {
-   "date": "2026-06-12T18:09:20Z",
-   "platform": "News",
-   "text": "Trump praises Citigroup bankers in post: 'They've worked really hard!' - MSN \u2014 Trump praises Citigroup bankers in post: 'They've worked really hard!'\u00a0\u00a0MSN",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcWV2NmVTTm5ieWU4bmYyUnBFdFltbGUtekk0ZmgxUU82QTZWWkVmeGtaUGRaQkNpZnl5VmdyT3ZjNi00WlhmN0tFaUhTWkFKMGdkOFRYRGRTNnB3QTFHVUxacDRxUk5tTkVLVnpMdlRfbGVPRnJHaUVyZEpQZEFxdUMyLUJCcmRfVllDaHdkdDRPNDRzYTAyQ1UtS2ozX2VXSHVFWWlrMzBaSmNxUXF1TUctY1EyZHNmdTJWTw?oc=5",
-   "tickers": [
-    "C"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "C",
-   "strength": 55,
-   "reason": "Trump explicitly praises Citigroup bankers and company performance"
-  },
-  {
    "date": "2026-06-12T17:35:04Z",
    "platform": "News",
    "text": "SpaceX\u2019s Course as a Public Company Rides on Devotees and Detractors - Bloomberg.com \u2014 SpaceX\u2019s Course as a Public Company Rides on Devotees and Detractors\u00a0\u00a0Bloomberg.com",
@@ -2443,102 +2459,6 @@
    "primary_ticker": "TRUMP",
    "strength": 70,
    "reason": "Trump crypto bet down 92%; indirect bearish signal on Trump-branded crypto asset"
-  },
-  {
-   "date": "2026-06-11T07:13:48Z",
-   "platform": "News",
-   "text": "Key facts: Citi Expects Strong Q2 Trading; Trump Praises Jane Fraser - TradingView \u2014 Key facts: Citi Expects Strong Q2 Trading; Trump Praises Jane Fraser\u00a0\u00a0TradingView",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNWxrWUxjcjFGcHJmYnA2SWxCVWFKQnhsVDlVdEVLX2tQS014dE0zY3RJSVctbmVYRE9UUUd5cjczLWFlNWl0dnVfQ3FsVzV2U0J6QzJ3SnlZaG1xM056Tm5hVVpBaldFZ1VwbWx5bHhGVkM0ZmdQR3NWeXBxN20xcFY1WjZDSU5xbm5XQjg0ai1vRVBLek1SLU4zNFBsVHFUcU1LTXhHMTZoSW5aMGxhLS05VXBVeWpZMTBxZDJtcC0wWGtDbUk0?oc=5",
-   "tickers": [
-    "C"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "C",
-   "strength": 68,
-   "reason": "Trump explicitly praises Citigroup CEO Jane Fraser and M&A performance; bullish signal",
-   "price_since": {
-    "ticker": "C",
-    "pct": 1.3,
-    "base": 138.07,
-    "last": 139.83,
-    "base_date": "2026-06-11",
-    "last_date": "2026-06-12"
-   }
-  },
-  {
-   "date": "2026-06-11T04:50:41Z",
-   "platform": "News",
-   "text": "Citigroup Shares Show Relative Strength After Trump Social Media Endorsement - Margin Expansion Trends - newsline.com \u2014 Citigroup Shares Show Relative Strength After Trump Social Media Endorsement - Margin Expansion Trends\u00a0\u00a0newsline.com",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORTR1TGVIcHRDbVprSjlIRHUxV3dfV2ZSYVZYRVNGUGlRdFR1NGFpQVlDZks1aGJOQWhxUmZwbmQ2RGk0WWpLUUdYWmZUWUxxbU1BOVlUYVhzak4wTGdOV29jY2FBSnlKLWFEVUZUemZ6b0R3WkpiZDF5VEJYSFhuUDlDaGM4Yjg4T2ZRQjM5cUttQ3kyNHQ1OFdLcjc0Vk1DLXVuRUV1SkNkdndXNjAyRk13?oc=5",
-   "tickers": [
-    "C"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "C",
-   "strength": 70,
-   "reason": "Trump explicitly praised Citigroup's comeback and M&A performance; stock showed relative strength.",
-   "price_since": {
-    "ticker": "C",
-    "pct": 1.3,
-    "base": 138.07,
-    "last": 139.83,
-    "base_date": "2026-06-11",
-    "last_date": "2026-06-12"
-   }
-  },
-  {
-   "date": "2026-06-11T04:50:41Z",
-   "platform": "News",
-   "text": "Citigroup Shares Show Relative Strength After Trump Social Media Endorsement - ROE Trend Analysis - newsline.com \u2014 Citigroup Shares Show Relative Strength After Trump Social Media Endorsement - ROE Trend Analysis\u00a0\u00a0newsline.com",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUkljSGtwaU0yRVZ3b05CYjV0TTFrdmhRSzk4SzBaRlN2Z2lKY1JzYWszZm5td2hzekd5a2RSNnRYNFlzbEU1VjF0ZDJpVUk5V2JITUZxUjRwUjg2MUU0VGVqRXhMZXZLdlRpM2RSNTVBakZKdFFmRHJKQTZ5MjNvVzhlNmEtRUFwLVRGcGlNYXFFaFF0Q3JJeExOaENLVVgxMTJIX3FYaFVGazBpY2VHd1RnRkw4cmZpY1E?oc=5",
-   "tickers": [
-    "C"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "C",
-   "strength": 60,
-   "reason": "Trump social media endorsement of Citigroup shows relative strength",
-   "price_since": {
-    "ticker": "C",
-    "pct": 1.3,
-    "base": 138.07,
-    "last": 139.83,
-    "base_date": "2026-06-11",
-    "last_date": "2026-06-12"
-   }
-  },
-  {
-   "date": "2026-06-11T04:50:41Z",
-   "platform": "News",
-   "text": "Citigroup Shares Show Relative Strength After Trump Social Media Endorsement - Quarterly Earnings Report - newsline.com \u2014 Citigroup Shares Show Relative Strength After Trump Social Media Endorsement - Quarterly Earnings Report\u00a0\u00a0newsline.com",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZnlpeEw5SHdxeV85Q0gxMFBkSDNObTFpRlV1cTFCam9BY0JhUGNnMi1nY0M1cUhJVTVYaE13Y0gwZUk4WTNENmhwRVhCc3FWcmFWMElaYjJGX0ZfM0h4aDBHMDRMQkVycTlNaC1KdUMzWlJ5RDRvUEVfd0lrM2hMbGhEdXpfMVVfUkJBdGZELTVnT0hhQmdEamNXbGR5R2FVWlcta2JwdFIzNVdLYVh4dTVxNlZQMUljUkE?oc=5",
-   "tickers": [
-    "C"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "C",
-   "strength": 65,
-   "reason": "Trump social media endorsement aligns with Citigroup quarterly earnings strength.",
-   "price_since": {
-    "ticker": "C",
-    "pct": 1.3,
-    "base": 138.07,
-    "last": 139.83,
-    "base_date": "2026-06-11",
-    "last_date": "2026-06-12"
-   }
   },
   {
    "curated": true,
