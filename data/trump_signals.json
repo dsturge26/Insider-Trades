@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-06-19T23:48:39Z",
+ "last_updated": "2026-06-20T03:41:45Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-06-19T21:40:08Z",
+   "platform": "News",
+   "text": "'In Plain Sight!': Trump Overplays His Hand With a Stock Bet Nobody Was Supposed to Notice Until a $10 Billion Pentagon Deal Starts Raising Eyebrows - atlantablackstar.com \u2014 'In Plain Sight!': Trump Overplays His Hand With a Stock Bet Nobody Was Supposed to Notice Until a $10 Billion Pentagon Deal Starts Raising Eyebrows\u00a0\u00a0atlantablackstar.com",
+   "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxNRW11bHRJNm13eGdZSHpDNzUtQkwxUjRSdFhWWDItUU5GVkZrOFdpLTZXMnZKSWw1dlIxRlBobXNtb3Nyei1uazFCbjhPY0ZyUUFSOU9wX0ZEYzFsSkFoMVpRNWRUVG5FT1ZtVWxjMXI4dTA4aWxDYS03eWdQNlhtVmFNNnVqcWdiSEhuYnRpVmhIbWJkUWg4dXpwY1BncUNHMmROaV9lQmd5YUR0LUswNFR5aHRidW9TckJoR3E3dE1TNTB3VnFwOUI4bHp3WEs0dU54NG43ZlcwMVhOWF9JbUt3YXYzdHZOMUlNbmZyamtCcjlMMjRHeF9tSWxycjgzS05fU1ZGMHQwMGUzZUtZdDY1eDZBQlI1OGhqSkp3?oc=5",
+   "tickers": [
+    "XAR"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "XAR",
+   "strength": 45,
+   "reason": "Pentagon defense contract ($10B) suggests defense sector bullish; headline implies Trump position benefits from contract award."
+  },
   {
    "date": "2026-06-19T14:39:48Z",
    "platform": "News",
@@ -486,15 +502,7 @@
    "direction": "BUY",
    "primary_ticker": "XAR",
    "strength": 70,
-   "reason": "Trump praises anti-drone technology and defense startup securing $200M federal contract.",
-   "price_since": {
-    "ticker": "XAR",
-    "pct": -0.5,
-    "base": 285.59,
-    "last": 284.29,
-    "base_date": "2026-06-17",
-    "last_date": "2026-06-18"
-   }
+   "reason": "Trump praises anti-drone technology and defense startup securing $200M federal contract."
   },
   {
    "date": "2026-06-17T16:13:56Z",
