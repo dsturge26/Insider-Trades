@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-06-20T07:39:18Z",
+ "last_updated": "2026-06-20T10:21:22Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -51,7 +51,7 @@
    "reason": "Pentagon defense contract ($10B) suggests defense sector bullish; headline implies Trump position benefits from contract award."
   },
   {
-   "date": "2026-06-19T16:58:03Z",
+   "date": "2026-06-19T20:03:52Z",
    "platform": "News",
    "text": "Inside Trump\u2019s Stock Trading Surge - The New York Times \u2014 Inside Trump\u2019s Stock Trading Surge\u00a0\u00a0The New York Times",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMkt4a0FHbi1ualg1RFNZd3diNXhFdDZhX3ZNNjQtUS1UN2MyOUVGQTFWSWNyUy1ieW1aUDctTjl5WnJNTjFoODBEMkVWSmxGQVN3d0tRUGdpVm9qcTZJQzJ2QlpLbE9nY1h1THVnMmYxN3JfUXV4UXBZQlpaOEdQOXBKWEJyNU9OaTh2ajVB?oc=5",
@@ -63,8 +63,8 @@
    "explicit": false,
    "direction": "WATCH",
    "primary_ticker": "DJT",
-   "strength": 35,
-   "reason": "Trump's own stock trading activity is self-referential; market relevance depends on insider trading implications"
+   "strength": 45,
+   "reason": "Trump's personal stock trading activity suggests market positioning but direction unclear"
   },
   {
    "date": "2026-06-19T14:39:48Z",
@@ -2543,118 +2543,6 @@
     "pct": 1.3,
     "base": 138.07,
     "last": 139.83,
-    "base_date": "2026-06-11",
-    "last_date": "2026-06-12"
-   }
-  },
-  {
-   "date": "2026-06-11T04:40:53Z",
-   "platform": "News",
-   "text": "Trump Praises Citigroup CEO Jane Fraser Amid M&A Rankings - GuruFocus \u2014 Trump Praises Citigroup CEO Jane Fraser Amid M&A Rankings\u00a0\u00a0GuruFocus",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRXRsU3JhOEhYbFlXYnlwWW5FOVREcV9BelFIQVpVR2R1djNIQ0xTeWlydFpmMUpRMU5hQXpXRXRlYURldHZPX21iTHM2MnVaYlltckNuVTdkRU5pWEVfVFFSLWtCMVpkMkhfVVg3MmozeWRmZFYzUnZ6VlM1bm9fRU9jZlVWbTNqQUZncmRkdk04bmdkVUNnTExTbHowaTJ4YmpMekNpUkl4Qjg?oc=5",
-   "tickers": [
-    "C"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "C",
-   "strength": 57,
-   "reason": "Trump praises Citigroup CEO Jane Fraser amid strong M&A rankings; bullish signal on bank",
-   "price_since": {
-    "ticker": "C",
-    "pct": 1.3,
-    "base": 138.07,
-    "last": 139.83,
-    "base_date": "2026-06-11",
-    "last_date": "2026-06-12"
-   }
-  },
-  {
-   "date": "2026-06-11T04:30:07Z",
-   "platform": "News",
-   "text": "Citi Stock Hits 52-Week High Before Fading As Trump Lauds Bank's 'Big Comeback' In M&A \u2014 But Full Picture Has Changed Now - Asianet Newsable \u2014 Citi Stock Hits 52-Week High Before Fading As Trump Lauds Bank's 'Big Comeback' In M&A \u2014 But Full Picture Has Changed Now\u00a0\u00a0Asianet Newsable",
-   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNLXhCZ2p0ZFo3aS1UbVZyVG5acXJ5eFNpUGxrb013T2lYQkdFbnVtUHZiZDdmUDJ1SVpCYk5BYjMzU3JRdzRCY3U3STJLMmRPaXNNYTZqb1Q4UnctSDNHTlJwWVRYWEdiNVFpSGxIYmowb0xDX3I5cEhRT2YxS1lpMlZCbHRjbE9yWElsUXBWS0Iyd1UzRFVJN0RaV281UURxSzZWLWc1alVXNV92Y3lXTlhMUGlyc0xpSHd2Mmg5aGZrbWRRdDNhTXFlNjhxTDM4by02enBZbGdjRFI1dGtZaldsVDZWMkRZNWhjOGhzNDN6V09mald6aWNaa3I3N215d2pEMmtFWkxEZ9IBjwJBVV95cUxPekZYNzNsdnJTWG9jQk0yVUN2T2hIS0E1Wmh1RTFBc1V3bE9LcGZaeWswZk5uZGRRdXoxZkVPQXg0UGZ6djhmUVNJV2RmQnptUVpvenc2NUJITThlRDh4el8teHVlNUpIZVdsY21ZMzRLN2xlMkVESGg5czM5akExbHp5M21yZTZMd3pDZ1Q4RmZYcjJXcEpNUVMzdW95R3BCUUFLWmVQdjRLVnBfYmlRMVhGMUhqQ2gwaUVPRkdhRWVndmxYU0FWNF9EV3pncVU4ZWxOdndESVRNODdBcktHM3dtbXZnUWdtb3c1R0xYV0s1VVAtcWlOOTYxakR6QU5pSEJzbE80M1Voa0YxS2sw?oc=5",
-   "tickers": [
-    "C"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "C",
-   "strength": 45,
-   "reason": "Trump explicitly praises Citi CEO and M&A comeback; direct praise of named public company stock.",
-   "price_since": {
-    "ticker": "C",
-    "pct": 1.4,
-    "base": 138.07,
-    "last": 139.97,
-    "base_date": "2026-06-11",
-    "last_date": "2026-06-12"
-   }
-  },
-  {
-   "date": "2026-06-11T04:23:32Z",
-   "platform": "News",
-   "text": "Trump urged you to \u2018buy a Dell\u2019 while holding the stock \u2014 now it\u2019s up 255%. Enrich yourself even outside the White House - AOL.com \u2014 Trump urged you to \u2018buy a Dell\u2019 while holding the stock \u2014 now it\u2019s up 255%. Enrich yourself even outside the White House\u00a0\u00a0AOL.com",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBUb1hvNGRuUVRsUTlVUFc3X1BhMFlKLXRpQk95QVlaay01Rm5UYVZuYV9YQ1dvd3JaWjZnQXJoWjJYTjgtdGZhdWpIN29yZkZacGlUdzFFb2l4QjF1ckg4dlVqSTduc1hmZVgyamlwcTgzUERIdXVUYw?oc=5",
-   "tickers": [
-    "DELL"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "DELL",
-   "strength": 85,
-   "reason": "Trump explicitly told people to 'buy Dell' while holding stock; up 255% confirms signal strength",
-   "price_since": {
-    "ticker": "DELL",
-    "pct": 2.2,
-    "base": 391.45,
-    "last": 399.99,
-    "base_date": "2026-06-11",
-    "last_date": "2026-06-12"
-   }
-  },
-  {
-   "date": "2026-06-11T03:48:59Z",
-   "platform": "News",
-   "text": "IBM shares surge 15% premarket after old Trump video of \"very nice price\" resurfaces - MSN \u2014 IBM shares surge 15% premarket after old Trump video of \"very nice price\" resurfaces\u00a0\u00a0MSN",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMEJwaUFfMXAxelQ1OGR0V1VoN0t0dkpBU0pxNkNPRjdaZkc5YzNZNml0RnZFX2Mxa1dmajd0UEJUVzl2OGVMTFF0OG1DM1lfVGdVRlVBSHVrYVAtN1ZrSHc0U3VkR1Y0UDhqYkZLSGRaZWxJMVRXamp0LTJ2T1hoZmhpOGl2UTlwX1U3UWZhUHFZQlM3TjJaaTBLY0lRLTdoNl9NRXY2WEVmdzJTamhCWXNTOTEtUkdYalpPd3lYc2F5aFNObWVwM0dyaVpzWjhLZkE?oc=5",
-   "tickers": [
-    "IBM"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "IBM",
-   "strength": 65,
-   "reason": "Resurfaced old Trump video praising IBM stock price as 'very nice'; past endorsement resurfaces driving premarket surge."
-  },
-  {
-   "date": "2026-06-11T01:56:35Z",
-   "platform": "News",
-   "text": "US stocks jump, and oil prices fall after Trump calls off his threat to attack Iran - News4JAX \u2014 US stocks jump, and oil prices fall after Trump calls off his threat to attack Iran\u00a0\u00a0News4JAX",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUzJzVkh2amw0RGIzaUJQbWVpa3dieW43c3YzMHVJU2llSXJodkRtLTRtMWJFclJsa2dXZ2VjY3Q3dndURWcwcjdFSzJRZFM3dDJvWnhZS0d2NmJUT3hsaEh2MTFjelEtWnpMTjJTRk1lSUVjQjdFQ3liWkJoZC12NXk0c1ZQX05FbFgyQkRiNVJZVnRJR3lYb1Y5U1NKNmNKVm0yMXpzTUJwYlJRU1E4VEMzckJYWTBRc0xNeTFiaGVuc2NGXzhCR1hQNlE?oc=5",
-   "tickers": [
-    "XLE"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "XLE",
-   "strength": 70,
-   "reason": "Trump calls off Iran attack threat; oil prices fall, geopolitical risk fades",
-   "price_since": {
-    "ticker": "XLE",
-    "pct": 1.1,
-    "base": 57.12,
-    "last": 57.76,
     "base_date": "2026-06-11",
     "last_date": "2026-06-12"
    }
