@@ -1,7 +1,39 @@
 {
- "last_updated": "2026-06-20T03:41:45Z",
+ "last_updated": "2026-06-20T07:39:18Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-06-20T05:25:10Z",
+   "platform": "News",
+   "text": "Trump Praises PM Modi, Highlights Shift In US-India Trade Stance - Whalesbook \u2014 Trump Praises PM Modi, Highlights Shift In US-India Trade Stance\u00a0\u00a0Whalesbook",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOQkpIZ01TMDZjUjNWU2FuYmhlVDdxWXN5TF92T2kxMi1teTY2eEJJamFiMnlLMlFyMVZRcnRTMDZOU1R1N081V1MwTE1PWFhMTkkydUR0WjhmS0JmRFROaVNBR2MtVEFEYXhIZnpzZDd6S1RZQWU4YndOTDhKeFUyNjFpUUEwdWxSZGl1QVp2RGNHbFpabGpLbHAyQW1JYURPbko1WS0wS3MyYktoVHFBd00zWkszVlRJNC1OeGN6STRoUEMwc0lsTEdad3FHWm5nTWFDdXl1V0lmaFlvVUpERQ?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "SPY",
+   "strength": 25,
+   "reason": "US-India trade stance shift signals potential tariff/trade policy changes affecting broad market"
+  },
+  {
+   "date": "2026-06-20T02:13:33Z",
+   "platform": "News",
+   "text": "'All business, no games': Trump praises Xi Jinping as a smart and formidable leader - Moneycontrol.com \u2014 'All business, no games': Trump praises Xi Jinping as a smart and formidable leader\u00a0\u00a0Moneycontrol.com",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOOHowampZd2IwX3hodHM2Nkx4QjgtUW9CMW1Rd1lPRGpIRGVTZHJBbnFka2hFaExiZnZqWnFVd1EtSDdYMnNPLU1NT3NLVXZXQS00eWZZekdGei1BNmh4QWdXY2hTUE5XUGVDT0ZLOUdQdkhVYmxDSnljaWhYUTBxUW8zdy1jbTZfcU1zNGZWbmZJXzhHUWFfM1RkRjMyOXQteWZTdXN0SFQxMWNZQjV3V2hrTV9QSjdOVXNnYjhTa1VKa0RXaTBUdlY1Rko1WmRpMGlQU0ZsUdIB1wFBVV95cUxOOHowampZd2IwX3hodHM2Nkx4QjgtUW9CMW1Rd1lPRGpIRGVTZHJBbnFka2hFaExiZnZqWnFVd1EtSDdYMnNPLU1NT3NLVXZXQS00eWZZekdGei1BNmh4QWdXY2hTUE5XUGVDT0ZLOUdQdkhVYmxDSnljaWhYUTBxUW8zdy1jbTZfcU1zNGZWbmZJXzhHUWFfM1RkRjMyOXQteWZTdXN0SFQxMWNZQjV3V2hrTV9QSjdOVXNnYjhTa1VKa0RXaTBUdlY1Rko1WmRpMGlQU0ZsUQ?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "SPY",
+   "strength": 20,
+   "reason": "Xi praise may signal softer China trade stance, but direction unclear"
+  },
   {
    "date": "2026-06-19T21:40:08Z",
    "platform": "News",
@@ -17,6 +49,22 @@
    "primary_ticker": "XAR",
    "strength": 45,
    "reason": "Pentagon defense contract ($10B) suggests defense sector bullish; headline implies Trump position benefits from contract award."
+  },
+  {
+   "date": "2026-06-19T16:58:03Z",
+   "platform": "News",
+   "text": "Inside Trump\u2019s Stock Trading Surge - The New York Times \u2014 Inside Trump\u2019s Stock Trading Surge\u00a0\u00a0The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMkt4a0FHbi1ualg1RFNZd3diNXhFdDZhX3ZNNjQtUS1UN2MyOUVGQTFWSWNyUy1ieW1aUDctTjl5WnJNTjFoODBEMkVWSmxGQVN3d0tRUGdpVm9qcTZJQzJ2QlpLbE9nY1h1THVnMmYxN3JfUXV4UXBZQlpaOEdQOXBKWEJyNU9OaTh2ajVB?oc=5",
+   "tickers": [
+    "DJT"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "DJT",
+   "strength": 35,
+   "reason": "Trump's own stock trading activity is self-referential; market relevance depends on insider trading implications"
   },
   {
    "date": "2026-06-19T14:39:48Z",
@@ -83,6 +131,22 @@
    "reason": "Trump policy push on psychedelic therapy potentially bullish for sector but strength uncertain"
   },
   {
+   "date": "2026-06-19T11:41:51Z",
+   "platform": "News",
+   "text": "'Trump effect' comes to IBM stock, 6 months after US president called IBM CEO Arvind Krishna a \u2026 - MSN \u2014 'Trump effect' comes to IBM stock, 6 months after US president called IBM CEO Arvind Krishna a \u2026\u00a0\u00a0MSN",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUWxmX09xbFF6WGhvd0RDQ3MwMVNFcEJiZlUybUhEMUUtQ2wtenVxMFRBQldJUlJKX2U2ZnNnbVBSb1FMbWVqN2ZNc3VUWjBzOTdCcGdFUm5VREp5c0NuUExBbktYcnE2Z182WGt4cFU0bjFrR05fYWVWMlRZMnVWbjNWa2RrUmcwV3ZfN01lbWNHZEhwUXZZSGh5TXhPa3c2S2RSVlhIWGpDZFB0NVNXdFVZNF9oUmxEbi1NcVQwS2IyZENrd1RFQTZsWEdXZjdRb2lEVG5mbw?oc=5",
+   "tickers": [
+    "IBM"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "IBM",
+   "strength": 50,
+   "reason": "Trump praised IBM CEO Arvind Krishna by name; stock rallying on Trump effect shows explicit positive signal"
+  },
+  {
    "date": "2026-06-19T07:05:54Z",
    "platform": "News",
    "text": "Why Is DJT Stock Up Premarket Today? - Stocktwits \u2014 Why Is DJT Stock Up Premarket Today?\u00a0\u00a0Stocktwits",
@@ -97,6 +161,38 @@
    "primary_ticker": "DJT",
    "strength": 25,
    "reason": "DJT stock movement noted but no new catalyst or Trump statement provided; metadata only."
+  },
+  {
+   "date": "2026-06-19T04:53:46Z",
+   "platform": "News",
+   "text": "Eric Trump Says ABTC Has More Bitcoin Than GLXY \u2013 Stock Still Falls Amid Bitcoin\u2019s Decline - Stocktwits \u2014 Eric Trump Says ABTC Has More Bitcoin Than GLXY \u2013 Stock Still Falls Amid Bitcoin\u2019s Decline\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMi1CeXRoc3duaXd4NGxDU1M4aHRJR3ptWTltWjdiY1pJb2xUakZBeFpoZ0NsTm9Kd3hRQW9DOXBiTEgwUWVyaFRFOHgyaEpxOXZHNFZqWGZHOXpFbnBaaEU3TUI4U3laX1JRMjR4ejk0NG5iQTFfVnFBRlhBcnR5MGxIRF9tRUg2LWItQnRYZVF3ejVrQW1SVGNqQXdMVm1YMDlUZUJNSk50V3ZmNHZqOQ?oc=5",
+   "tickers": [
+    "ABTC"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "ABTC",
+   "strength": 25,
+   "reason": "Eric Trump commentary on Bitcoin holdings; stock falls on broader Bitcoin decline, not Trump's endorsement"
+  },
+  {
+   "date": "2026-06-19T02:24:37Z",
+   "platform": "News",
+   "text": "IBRX Stock Rallies Into Trump\u2019s Big SOTU Night \u2014 Here\u2019s What Traders Think Could Fuel The Next Move - Stocktwits \u2014 IBRX Stock Rallies Into Trump\u2019s Big SOTU Night \u2014 Here\u2019s What Traders Think Could Fuel The Next Move\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWFdFall2YVNMN3Rialp3SE9sU0h6YUQ1MDFiX2JaeXMxNlFFZUZveFU0TkVxUFI4cTQ5bW5VdkFlTDd1dFNwSUN2YTRtRl83aVRRXzZ6d09TeEhlR1NJb1JaMHlMWDhrQXpmZW40c1B1Y21KNjhxdm90Ny1uU3p4MzJZSW9GNGduMEdyRzFIU2RGLWlYWXg4TFJUU0N6ZlhFemxtUmprVXY0YkVRZk5vZHljazQ?oc=5",
+   "tickers": [
+    "IBRX"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "IBRX",
+   "strength": 35,
+   "reason": "IBRX rallying into SOTU; Trump diplomacy mentioned but strength unclear"
   },
   {
    "date": "2026-06-19T00:26:38Z",
@@ -115,20 +211,36 @@
    "reason": "Canadian market weakness; indirect US market signal but no specific Trump catalyst stated."
   },
   {
-   "date": "2026-06-18T18:53:08Z",
+   "date": "2026-06-18T23:43:00Z",
    "platform": "News",
-   "text": "'Trump effect' comes to IBM stock, 6 months after US president called IBM CEO Arvind Krishna a \u2026 - MSN \u2014 'Trump effect' comes to IBM stock, 6 months after US president called IBM CEO Arvind Krishna a \u2026\u00a0\u00a0MSN",
-   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNMFB1ZF9PRVZTdkZtbEVFazZ4UXc2LUhyWVFjd3BZUmRwS2ZmWWZVSEZRQm0xZ09ya3EzU0N2MlQ3bXFlR2I4Vk1oQVNsb0RpUVVXYTJvT2JzSjRtNTJLUlZOb1FSaTZMVzVzNU9UbnNZdlBkZXlsLU9tU3ZoUjgxbjB1REFSYVBZQzR1YkFvaDJyVWpPUWlfYnJWdWhTdDg4Q2ZwMm9OZnpDclhuYmo2NjBUM2p1em9zV1VJcnF0RUxCa1pHX2U2bnpsc2tTNWs3QTZvbWFscjZhNzBLVWJTb1JidG9oallaMlBSM1JpU0Q3TmRHcVZz?oc=5",
+   "text": "IBRX Stock Rally Not Over Yet? Chairman Says Trump Diplomacy Led To \u2018Amazing Results\u2019 For Cancer Drug - Stocktwits \u2014 IBRX Stock Rally Not Over Yet? Chairman Says Trump Diplomacy Led To \u2018Amazing Results\u2019 For Cancer Drug\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOcVFTb3RQWTZrUG9ONVN6MEVNSk54ckxoS1E2bWNXQmRjRWIxaURpT1lyY3ItODk1LXRGb0MyeWtSMERnRmpmNHpha1JPZWZWa1NUWmNkOGJNbjJiTWMtRm52djZJZTVhQUVmNDVHTUE0N1RtN2M5ZmxMSE9RbVVUTi1vZENNdHhTZWJ6eDFlZXhIUFI0Nm5rLTZYWUIwblZCaXRHYlhyd3Zpa25XcWUtbTNEdGVXelpqcVN0eDBZZ3RMajBVZjdxaVJYV3E4V2lMNnlUODhYMzdTR1h4NFRGWlQ4b01SNDluNEZvZXJjT29pTXpj?oc=5",
    "tickers": [
-    "IBM"
+    "IBRX"
    ],
    "classified": true,
    "is_market": true,
    "explicit": false,
    "direction": "BUY",
-   "primary_ticker": "IBM",
-   "strength": 50,
-   "reason": "Trump praise of IBM CEO resurfaces, driving stock recovery; explicit positive sentiment on named company"
+   "primary_ticker": "IBRX",
+   "strength": 55,
+   "reason": "Trump diplomacy directly led to drug approval results for cancer drug company; concrete bullish catalyst"
+  },
+  {
+   "date": "2026-06-18T22:38:10Z",
+   "platform": "News",
+   "text": "Trump Slaps 100% Tariffs On Imported Patented Drugs, Sparing Companies That Onshore Or Cut Prices - Stocktwits \u2014 Trump Slaps 100% Tariffs On Imported Patented Drugs, Sparing Companies That Onshore Or Cut Prices\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdnctZmZybWhzbWJnOW1KM1dRR3Rjb1hjc2NBSU1yTDdwUWU3R2tPX0NucE1aV0JuUDd6SDZrR0lBbmR2R0RVOVgyTkVfejEtS3Z1RU1MYV81N3ZrbU96ZzZjak55MkFxZlpBNWVwUXM5dUtFYTg3VVUwWHktMkptbjF5WGlJQVZKLWZ6elZnUmhtM2hEUFJ1NHFfUGZMajlvalR3Z1ZBN3o4V2pRczEyb0F1UzJjUjVGNWwwWUZnOA?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "SPY",
+   "strength": 70,
+   "reason": "100% tariffs on imported patented drugs bearish for broad pharma/market; onshoring incentive provides partial offset"
   },
   {
    "date": "2026-06-18T18:01:06.103Z",
@@ -746,30 +858,6 @@
    }
   },
   {
-   "date": "2026-06-17T01:55:22Z",
-   "platform": "News",
-   "text": "Eric Trump Says ABTC Has More Bitcoin Than GLXY \u2013 Stock Still Falls Amid Bitcoin\u2019s Decline - Stocktwits \u2014 Eric Trump Says ABTC Has More Bitcoin Than GLXY \u2013 Stock Still Falls Amid Bitcoin\u2019s Decline\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMi1CeXRoc3duaXd4NGxDU1M4aHRJR3ptWTltWjdiY1pJb2xUakZBeFpoZ0NsTm9Kd3hRQW9DOXBiTEgwUWVyaFRFOHgyaEpxOXZHNFZqWGZHOXpFbnBaaEU3TUI4U3laX1JRMjR4ejk0NG5iQTFfVnFBRlhBcnR5MGxIRF9tRUg2LWItQnRYZVF3ejVrQW1SVGNqQXdMVm1YMDlUZUJNSk50V3ZmNHZqOQ?oc=5",
-   "tickers": [
-    "ABTC"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "ABTC",
-   "strength": 35,
-   "reason": "Eric Trump commentary on Bitcoin holdings; stock fell amid broader Bitcoin decline, mixed signal",
-   "price_since": {
-    "ticker": "ABTC",
-    "pct": 1.2,
-    "base": 0.84,
-    "last": 0.85,
-    "base_date": "2026-06-17",
-    "last_date": "2026-06-18"
-   }
-  },
-  {
    "date": "2026-06-17T00:00:00Z",
    "platform": "News",
    "text": "PM Modi, Trump swap notes ahead of meeting on G7 sidelines - The Economic Times \u2014 PM Modi, Trump swap notes ahead of meeting on G7 sidelines\u00a0\u00a0The Economic Times",
@@ -1347,30 +1435,6 @@
     "pct": -1.2,
     "base": 55.55,
     "last": 54.9,
-    "base_date": "2026-06-15",
-    "last_date": "2026-06-17"
-   }
-  },
-  {
-   "date": "2026-06-14T16:29:47Z",
-   "platform": "News",
-   "text": "Trump Slaps 100% Tariffs On Imported Patented Drugs, Sparing Companies That Onshore Or Cut Prices - Stocktwits \u2014 Trump Slaps 100% Tariffs On Imported Patented Drugs, Sparing Companies That Onshore Or Cut Prices\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdnctZmZybWhzbWJnOW1KM1dRR3Rjb1hjc2NBSU1yTDdwUWU3R2tPX0NucE1aV0JuUDd6SDZrR0lBbmR2R0RVOVgyTkVfejEtS3Z1RU1MYV81N3ZrbU96ZzZjak55MkFxZlpBNWVwUXM5dUtFYTg3VVUwWHktMkptbjF5WGlJQVZKLWZ6elZnUmhtM2hEUFJ1NHFfUGZMajlvalR3Z1ZBN3o4V2pRczEyb0F1UzJjUjVGNWwwWUZnOA?oc=5",
-   "tickers": [
-    "XLV"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "XLV",
-   "strength": 70,
-   "reason": "100% tariffs on imported patented drugs pressure pharma/biotech sector; onshoring incentive unclear near-term",
-   "price_since": {
-    "ticker": "XLV",
-    "pct": -0.5,
-    "base": 152.89,
-    "last": 152.14,
     "base_date": "2026-06-15",
     "last_date": "2026-06-17"
    }
@@ -2591,30 +2655,6 @@
     "pct": 1.1,
     "base": 57.12,
     "last": 57.76,
-    "base_date": "2026-06-11",
-    "last_date": "2026-06-12"
-   }
-  },
-  {
-   "date": "2026-06-11T01:56:35Z",
-   "platform": "News",
-   "text": "US stocks jump to their best day in 2 months on hopes for a deal to get crude flowing globally again - News4JAX \u2014 US stocks jump to their best day in 2 months on hopes for a deal to get crude flowing globally again\u00a0\u00a0News4JAX",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUzJzVkh2amw0RGIzaUJQbWVpa3dieW43c3YzMHVJU2llSXJodkRtLTRtMWJFclJsa2dXZ2VjY3Q3dndURWcwcjdFSzJRZFM3dDJvWnhZS0d2NmJUT3hsaEh2MTFjelEtWnpMTjJTRk1lSUVjQjdFQ3liWkJoZC12NXk0c1ZQX05FbFgyQkRiNVJZVnRJR3lYb1Y5U1NKNmNKVm0yMXpzTUJwYlJRU1E4VEMzckJYWTBRc0xNeTFiaGVuc2NGXzhCR1hQNlE?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "SPY",
-   "strength": 65,
-   "reason": "Deal to restore crude flow globally reduces oil supply uncertainty; broad market bullish on risk appetite recovery.",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": 0.3,
-    "base": 737.76,
-    "last": 739.94,
     "base_date": "2026-06-11",
     "last_date": "2026-06-12"
    }
