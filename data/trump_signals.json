@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-06-21T18:51:59Z",
+ "last_updated": "2026-06-21T20:25:35Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -452,6 +452,22 @@
    "primary_ticker": "DJT",
    "strength": 25,
    "reason": "DJT stock movement noted but no new catalyst or Trump statement provided; metadata only."
+  },
+  {
+   "date": "2026-06-19T05:43:00Z",
+   "platform": "News",
+   "text": "Trump publicly praised companies within days of buying their stocks - Washington Examiner \u2014 Trump publicly praised companies within days of buying their stocks\u00a0\u00a0Washington Examiner",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAwWG4tM2lMZDRRaHI3aDlVWHBUeDJFUW5HaERROG9wMjlmV0dnWUE2RWp5alZ2dDZwalo5RjB1WFB1a083RW1jcTYyb2xuY1lJTDlsR2J4VzQzdDVo?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "SPY",
+   "strength": 60,
+   "reason": "Pattern of Trump praising stocks shortly after buying suggests information asymmetry and market timing signal."
   },
   {
    "date": "2026-06-19T04:53:46Z",
