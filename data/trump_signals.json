@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-06-21T21:55:08Z",
+ "last_updated": "2026-06-21T23:13:50Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -18,6 +18,54 @@
    "primary_ticker": "SPY",
    "strength": 35,
    "reason": "Claims strong US stock market and jobs at record highs; boosterism for broad market but vague and political rather than actionable catalyst"
+  },
+  {
+   "date": "2026-06-21T19:28:51Z",
+   "platform": "News",
+   "text": "US launches trade investigation into Germany over drug pricing - AOL.com \u2014 US launches trade investigation into Germany over drug pricing\u00a0\u00a0AOL.com",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBoenQ5SnJHOFVpMXZhVTkybnBVWG1GLVRUSzVoUmFLOVZNcHJSUUVSNFJjaGFHNWZLZWh5WHNjb3BVaFN4NlY5akJZYUhCaGxSblNMVm55aDVPTzlTMWVnckcxTUpBT3dGZU1kR0VtcHgxUXdMOXJZNnZDdXhhQQ?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "SPY",
+   "strength": 35,
+   "reason": "US trade investigation into Germany signals potential trade friction and tariffs"
+  },
+  {
+   "date": "2026-06-21T19:25:15Z",
+   "platform": "News",
+   "text": "Why 2 major Wall Street firms say healthcare stocks could be the market's next hot trade - AOL.com \u2014 Why 2 major Wall Street firms say healthcare stocks could be the market's next hot trade\u00a0\u00a0AOL.com",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBzR3EtVHVLczdSLVhXQzFIUzB6OHUyR2pLQU5uV3UyMHJ0a1hUYVhHYm9uaEJXa0FMZDZzZEJ5Zzk1WndEX2ZfNU5SamcwaUcwd3ZUUlJuT3ZiZ2FTUzdqR0JWX1lhY3dkRzFrdnVyN3A?oc=5",
+   "tickers": [
+    "XLV"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "XLV",
+   "strength": 40,
+   "reason": "Healthcare stocks identified as next hot trade; sector-level bullish signal"
+  },
+  {
+   "date": "2026-06-21T19:13:48Z",
+   "platform": "News",
+   "text": "This Is Trump\u2019s Most Controversial Trade of 2026 - AOL.com \u2014 This Is Trump\u2019s Most Controversial Trade of 2026\u00a0\u00a0AOL.com",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObW9wcTNkckdjMDQ1UWI2OWhDYmM5aTIxQ0dLenRfV0VSWlVtWFdNYUk4V21lVFVVSFZmMVB1UldBeGQzVTlDY2RHd0t6UGVhd3k1ZExNZHFsRGJpNzB1U3F3Tnl2Z1k5R0ZybVBQYkczRTEzMFBtYUh4QWx4Q3RPam5INE81UQ?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "SPY",
+   "strength": 25,
+   "reason": "Controversial Trump trade mentioned but direction unclear without details"
   },
   {
    "date": "2026-06-21T14:17:00Z",
@@ -2389,22 +2437,6 @@
    "primary_ticker": "SPY",
    "strength": 70,
    "reason": "Trump claims Iran war breakthrough; de-escalation bullish for broad market and risk assets"
-  },
-  {
-   "date": "2026-06-12T04:29:12Z",
-   "platform": "News",
-   "text": "US stocks drift as oil falls and SpaceX debuts on Wall Street - ClickOnDetroit | WDIV Local 4 \u2014 US stocks drift as oil falls and SpaceX debuts on Wall Street\u00a0\u00a0ClickOnDetroit | WDIV Local 4",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQXYwLTZzQWt6ZGp4WGVmNjRnTmlZTGpMTG1TUXFLOHE1QlQtOTJXZ1FTTi1oMThCeFlwakVGZTcyMXhXcmpDQ3I3bmk0b29EdFpQZFRUR25DQ3c1dW5kUUJySGRKMTRQZjMzdE80OUtRQzAyZUpQX0UzOUtoc2FWQjZuSWp3ckhvOW5FdU52TXFfRGNqc2RjRngxZVRxSllvNFczYjg0OTlqZU5DS1cwWTlkZlhsNHVXX3BmbDd1R3ZiMGJOa3RIc1B1ZDNoTktKMXVHTnF6bzFidw?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "SPY",
-   "strength": 30,
-   "reason": "SpaceX IPO and oil weakness create mixed directional signals"
   },
   {
    "curated": true,
