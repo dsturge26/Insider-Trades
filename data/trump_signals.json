@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-06-21T07:08:26Z",
+ "last_updated": "2026-06-21T10:46:46Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-06-21T09:59:23Z",
+   "platform": "News",
+   "text": "Trump urged Americans to \u2018buy a Dell\u2019 while holding the stock \u2014 it\u2019s up 255% since. Enrich yourself now even if you don\u2019t sit in the White House - MSN \u2014 Trump urged Americans to \u2018buy a Dell\u2019 while holding the stock \u2014 it\u2019s up 255% since. Enrich yourself now even if you don\u2019t sit in the White House\u00a0\u00a0MSN",
+   "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxObXlxUGJRSGRFWkZzS2wtUkRvM21ENkVLVHJtcTVCRXVYaExEdEpyS1BYRXJVWmtqTGh5NmRZM1lVY0M2OWJObk9nc2tvT0dsVW4zM0pTLTdMNVU4M3pyQVlrbzB0M2dhalVmV3ZfZlpIZnpuTWVpZ3E3NURjR08zcXZFODdCNWJMT0hUODRzZFRsUlkyZHNFZWtISXloSWx1UHJVXzNJckdobmE3OTZEejdHZ2NRLWVybUpsQ1JHS21EMXR5WUZ6bWVTY01IblVRVWd6aXNvQnpSTDZhQUxNYnZZT1BERUM5WEF6MGdmc2R4eWpPSkRaMFRJZzYzVlZrb29MTG1jXzZPbExxYURyVk1FX29udk1vVm1XSmgwNGhoekdoV19kZEgyZkc4VzM1bjNES2pFQ2x2MHVsQ2w1eW1PaldZeG5zSk5V?oc=5",
+   "tickers": [
+    "DELL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "DELL",
+   "strength": 95,
+   "reason": "Trump explicitly urged Americans to buy Dell while holding stock; direct market signal."
+  },
   {
    "date": "2026-06-21T05:55:49Z",
    "platform": "News",
@@ -52,7 +68,7 @@
    "reason": "Hormuz Strait toll policy stabilizes oil transit costs; bullish for oil markets and shipping security."
   },
   {
-   "date": "2026-06-20T12:37:07Z",
+   "date": "2026-06-20T13:19:40Z",
    "platform": "News",
    "text": "Exclusive: Trump admires China's Xi as \"very smart\" with \"great stature\" - Axios \u2014 Exclusive: Trump admires China's Xi as \"very smart\" with \"great stature\"\u00a0\u00a0Axios",
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5KOFk3M1BtT0twdzJYZ05tNWJzRkE0c1lERmFVb2NSQ05DMy1ONE00cjcxZUNpQUVMeFBLanpjN2QzQV93Q1BRdWxzWXBNamhXNVF1VjItemVPdXAzUGVfOWlKZXJZVExFbjZhM3VB?oc=5",
@@ -62,10 +78,10 @@
    "classified": true,
    "is_market": true,
    "explicit": false,
-   "direction": "WATCH",
+   "direction": "BUY",
    "primary_ticker": "FXI",
-   "strength": 25,
-   "reason": "Trump admires Xi; suggests softer China stance, ambiguous market direction"
+   "strength": 45,
+   "reason": "Trump praises China's Xi; softer China stance may reduce trade tensions and favor China-exposed assets."
   },
   {
    "date": "2026-06-20T11:00:36.045Z",
@@ -323,6 +339,22 @@
    "primary_ticker": "IBM",
    "strength": 50,
    "reason": "Trump praised IBM CEO Arvind Krishna by name; stock rallying on Trump effect shows explicit positive signal"
+  },
+  {
+   "date": "2026-06-19T07:12:20Z",
+   "platform": "News",
+   "text": "INTC Stock Rockets Toward Best Month Ever: Something More Than A Trump Pump Could Be Powering The Rally - Stocktwits \u2014 INTC Stock Rockets Toward Best Month Ever: Something More Than A Trump Pump Could Be Powering The Rally\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQT29KOURKeHprQ2xZbmpLUUc3MGRlTTE5Y1JHVXJ5TGhldk10eENQcmZLSzRWNDQyTmJFclFNUThmZ0tBRlZUQTZ3MGF1dlZwR0Q4aUtXUnZVQ2o1MjM3cFNpU2RrejRkd2E0OXBhOVNpdDdBdDVSSTR1c2M5NTZfYlg4NEFxODg3QWpMTXd0VVIzM3pZRS10OG5JWG9QUW52UjZvbXVvQ29uZ1lJb1NwbFljM1lBN1dreHdJZDdYZ1hKTjVidndnRWlJRnl5cnNpT2llcjVuSVltVDNzVFdHbmZYTEpua3JJVllOcXIxVmdfaThfeHRzVm9R?oc=5",
+   "tickers": [
+    "INTC"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "INTC",
+   "strength": 55,
+   "reason": "Intel rallying toward best month; article notes 'Trump pump' as possible factor but also other drivers; mixed signals."
   },
   {
    "date": "2026-06-19T07:05:54Z",
@@ -1755,30 +1787,6 @@
    }
   },
   {
-   "date": "2026-06-14T08:51:09Z",
-   "platform": "News",
-   "text": "INTC Stock Rockets Toward Best Month Ever: Something More Than A Trump Pump Could Be Powering The Rally - Stocktwits \u2014 INTC Stock Rockets Toward Best Month Ever: Something More Than A Trump Pump Could Be Powering The Rally\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQT29KOURKeHprQ2xZbmpLUUc3MGRlTTE5Y1JHVXJ5TGhldk10eENQcmZLSzRWNDQyTmJFclFNUThmZ0tBRlZUQTZ3MGF1dlZwR0Q4aUtXUnZVQ2o1MjM3cFNpU2RrejRkd2E0OXBhOVNpdDdBdDVSSTR1c2M5NTZfYlg4NEFxODg3QWpMTXd0VVIzM3pZRS10OG5JWG9QUW52UjZvbXVvQ29uZ1lJb1NwbFljM1lBN1dreHdJZDdYZ1hKTjVidndnRWlJRnl5cnNpT2llcjVuSVltVDNzVFdHbmZYTEpua3JJVllOcXIxVmdfaThfeHRzVm9R?oc=5",
-   "tickers": [
-    "INTC"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "INTC",
-   "strength": 35,
-   "reason": "Intel rally attributed partly to Trump sentiment but other factors at play; ambiguous direction",
-   "price_since": {
-    "ticker": "INTC",
-    "pct": -8.5,
-    "base": 127.86,
-    "last": 117.05,
-    "base_date": "2026-06-15",
-    "last_date": "2026-06-16"
-   }
-  },
-  {
    "date": "2026-06-14T00:41:06Z",
    "platform": "News",
    "text": "Trump Administration Reignites Its Feud With Anthropic Over Latest A.I. Models - The New York Times \u2014 Trump Administration Reignites Its Feud With Anthropic Over Latest A.I. Models\u00a0\u00a0The New York Times",
@@ -2432,94 +2440,6 @@
     "pct": 0.5,
     "base": 737.76,
     "last": 741.75,
-    "base_date": "2026-06-11",
-    "last_date": "2026-06-12"
-   }
-  },
-  {
-   "date": "2026-06-11T20:19:12Z",
-   "platform": "News",
-   "text": "Dow jumps 900 points after Trump calls off Iran strikes, chip stocks rebound - New York Post \u2014 Dow jumps 900 points after Trump calls off Iran strikes, chip stocks rebound\u00a0\u00a0New York Post",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTEZZV1hXeEx2WUZsaHZTVmpZR2hNWUp5dW5Gc2lFSkJ0MTAzM2p2QXB6ZHV1ZUZyN0EyMTZMUWFfSFdCOVQ3NnZLMVNvNTJyc3BrYWxoZTY0djI1MVNCQ3F1U2V4elAtS2FZbHRrQkxWY242anVKM29PSnpheVlxQjF0aGJsNHNleUxzMDI3MXdmUEEycGx2UkMzcmpJcVh3bmpELVZJdWstbFpBWGRSaS1UbXJBN1NReEpkUDdicw?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "SPY",
-   "strength": 75,
-   "reason": "Trump de-escalation reduces geopolitical risk; broad market and chip stocks rally"
-  },
-  {
-   "date": "2026-06-11T20:02:58Z",
-   "platform": "News",
-   "text": "Stocks climb, oil drops as Trump calls off strikes on Iran - Sherwood News \u2014 Stocks climb, oil drops as Trump calls off strikes on Iran\u00a0\u00a0Sherwood News",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1sVXBPS2xrZS1sLVBvNllTMHRaVTk1WnlFNFVtVmlzNVBYQnZ1SVNrSk15YmprVjEwclp2aER1RjdBX2JMTmdjTkRpWUNHamxkeWJUYUp4aXhZX2VfS0t2WjRsQThfczhaTDlHUEpoN08?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "SPY",
-   "strength": 65,
-   "reason": "De-escalation of Iran strike threat reduces geopolitical risk premium; broad market relief.",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": 0.5,
-    "base": 737.76,
-    "last": 741.75,
-    "base_date": "2026-06-11",
-    "last_date": "2026-06-12"
-   }
-  },
-  {
-   "date": "2026-06-11T18:31:29Z",
-   "platform": "News",
-   "text": "Trump says he\u2019s called off impending strikes on Iran, sending stocks higher and oil plunging - Sherwood News \u2014 Trump says he\u2019s called off impending strikes on Iran, sending stocks higher and oil plunging\u00a0\u00a0Sherwood News",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdVJxMlFkUXY3aTNjenhSTmpEbnEyLTRPYldZX3RwQm5sMWgxbWpjYWp0eVVKNVRQRG5KRF81V2tjekNlUmJnc0ktc3F6d0ZEaklsSV84Z3V1NTBHMzhwWWVjOVFoUVdaQllJd0ZUSVJtdFBnYkNxYURzbHJjWE9UWG9PMG5UWWoxSmZ1LUlvZFFGMDZlUllhTU1rTEFvOUtqT1dqc3hFdkJOM3lMSEhacTh2TVFzUk5wTFVHNjJn?oc=5",
-   "tickers": [
-    "XLE"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "XLE",
-   "strength": 72,
-   "reason": "Trump calls off Iran strikes; reduces geopolitical risk premium, oil plunges",
-   "price_since": {
-    "ticker": "XLE",
-    "pct": 0.8,
-    "base": 57.12,
-    "last": 57.55,
-    "base_date": "2026-06-11",
-    "last_date": "2026-06-12"
-   }
-  },
-  {
-   "date": "2026-06-11T17:58:14Z",
-   "platform": "News",
-   "text": "Citigroup Shares Show Relative Resilience Following Trump Endorsement - Profitability Analysis - newsline.com \u2014 Citigroup Shares Show Relative Resilience Following Trump Endorsement - Profitability Analysis\u00a0\u00a0newsline.com",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbThqX19sdnd4ek1MUWtXMWZ2b2l2ZmhYcDgyel80dzhGWEFocGxJbW5La0ZPMlg3dFlGcmJTaXRQZmNKUWMyMUN4aEh3NnpzM04yZTJEVURXNWZ2QlVVN2V2bzhrZ0ZXZnI4ZERvSHBwc1FPdkVaTVdSZ1kyeHVORkJhNFlleGRfZk9YLXpxRWtlTFBWQTlqbktzRWhKd0tlX1FjNVpua2pRWEU?oc=5",
-   "tickers": [
-    "C"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "C",
-   "strength": 65,
-   "reason": "Trump endorsement of Citigroup \u2014 explicit company praise, financial sector positive",
-   "price_since": {
-    "ticker": "C",
-    "pct": 1.3,
-    "base": 138.07,
-    "last": 139.83,
     "base_date": "2026-06-11",
     "last_date": "2026-06-12"
    }
