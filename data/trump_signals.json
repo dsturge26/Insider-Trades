@@ -1,7 +1,40 @@
 {
- "last_updated": "2026-06-21T10:46:46Z",
+ "last_updated": "2026-06-21T13:06:28Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-06-21T12:30:50Z",
+   "platform": "News",
+   "text": "Trump boasts that the US \"is doing great\" and praises its economic and military results - Dem\u00f3crata \u2014 Trump boasts that the US \"is doing great\" and praises its economic and military results\u00a0\u00a0Dem\u00f3crata",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNX0oycjdmU1BVNEczV3pkek1ESWhfcnNzWmdQQ3UtZHRpU3ptd0dIVHJvdUEtYy1ZUGhkRGdiaHlxZ2NxN3J6ajdxTkFCaXZQeUF6LTJHbTVzeE5FRG1BdXRoX1Q3OUdtdEctZ0xTV21HcmhxQjhUcktHZHZpclFOYUVWSEJSNVpGR3BpQnR6U2ZoaFNwU3AzMzhfYkxIYS1HWnRGMllHeW52NG1qTkM0enlKMjl3dWRYNzBYMkVXemhzVGpJUDhJ0gHMAUFVX3lxTE90bUNfdldVYkxEQ25GTGtzYWhpQ3BOYTFVcmNRVk93eElnbExYZFBqWFRRSXdNVFU5QzlHNVQwajBLcFBHTXpMZXlfZUpXVmxQX3lpcG5iaHB5eG43M3Y4RmFyeFdBM0w0STNQTkpRZ1FlMmxjN1U2dGV2UmdLSWdGUkNMSFRnYUlLZ1dUQzJwX09IT3NUY2U5cjJrbzJOMG1lVzFUcTZWZ2s4eDg4ZjV4b2pTVEN4VEFVY0xCQ0l6NFZTM1Bkb3I2dlFkRQ?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "SPY",
+   "strength": 25,
+   "reason": "generic bullish macro rhetoric about strong economy and market; low specificity and actionable strength"
+  },
+  {
+   "date": "2026-06-21T11:41:44.414Z",
+   "platform": "Truth Social",
+   "text": "Happy Father's Day! Our Country is doing GREAT. Record Jobs Numbers and Stock Market, BEST ECONOMY EVER! Greatest Military in the World, by far. We are WINNING on all fronts, WINNING LIKE NEVER BEFORE. GOD BLESS YOU ALL!!! President DONALD J. TRUMP",
+   "tickers": [
+    "SPY"
+   ],
+   "engagement": 10780,
+   "url": "https://truthsocial.com/@realDonaldTrump/116787911354917242",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "SPY",
+   "strength": 30,
+   "reason": "broad praise for economy, jobs, and stock market; boilerplate bullish sentiment with ALL CAPS emphasis but no concrete catalyst"
+  },
   {
    "date": "2026-06-21T09:59:23Z",
    "platform": "News",
@@ -2371,78 +2404,6 @@
    "primary_ticker": "SPY",
    "strength": 40,
    "reason": "SpaceX IPO and Iran peace deal hopes support broad market gains"
-  },
-  {
-   "date": "2026-06-11T22:03:00Z",
-   "platform": "News",
-   "text": "SpaceX IPO makes Elon Musk the world's first trillionaire - Reuters \u2014 SpaceX IPO makes Elon Musk the world's first trillionaire\u00a0\u00a0Reuters",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNM2x1cE0xNTl3dWdWTHhWdTlmU05kWmRvaGxIbTRNd21CbUxDWkVuN3djS1piZGtDOUVuNnJyY1dwS1FxWnVCMmJtT05rbHJXWHlQaUo0aVFkejlpOW96Z201ck91QmJNdWlHZm1zUWJLdWxNWm9Bck5PVjRqZHI5d29RaHk4RHRvdFZCU0VmZS1pM3NxNHVKZ1N5ZjBGOXBXTDc0cTdQUmdubEVaNHpDbA?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "SPY",
-   "strength": 45,
-   "reason": "SpaceX IPO represents major market event and wealth creation signal",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": 0.5,
-    "base": 737.76,
-    "last": 741.75,
-    "base_date": "2026-06-11",
-    "last_date": "2026-06-12"
-   }
-  },
-  {
-   "date": "2026-06-11T21:53:26Z",
-   "platform": "News",
-   "text": "Trump praises 4.2% inflation as war drives prices higher - MSN \u2014 Trump praises 4.2% inflation as war drives prices higher\u00a0\u00a0MSN",
-   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQRVFzbkJqdEFPYXNGVV9DQ3Jzb0NrTVlZVjNuSUxlODFMT2ZGTy1TWjI0OTRCYWIzWDFFd0ZkbHJOZWRmM2kzdjVKU3JCS2RaWk5zZERzLTBfOGxkOW9VYkI2eWI2VnE1Q29jY3VZLU01UXVZeWR4R2JuZ2MtbWZ3dnEteWZQMXN4T2Jyb0xOVE02Y25oMnN5TUdBNjdfWW04NzRpSnFIVGlwOWd6eGdadWlPV2tVeUVSQjV1R1JZY0tkTWtRMHRSRzdFckVoa3NPX0p6cTNwbmZPb1NhOGh4NWoyVmJOU1JxQWM1QUZB?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "SPY",
-   "strength": 35,
-   "reason": "Trump praise for high inflation suggests complacency on price pressures; inflation headwind for equities",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": 0.5,
-    "base": 737.76,
-    "last": 741.75,
-    "base_date": "2026-06-11",
-    "last_date": "2026-06-12"
-   }
-  },
-  {
-   "date": "2026-06-11T21:35:40Z",
-   "platform": "News",
-   "text": "Jamie Dimon warns inflation ticking up is 'not good' \u2014 praises Trump's 'one big beautiful bill,' deregulation push to stimulate economic growth - MSN \u2014 Jamie Dimon warns inflation ticking up is 'not good' \u2014 praises Trump's 'one big beautiful bill,' deregulation push to stimulate economic growth\u00a0\u00a0MSN",
-   "url": "https://news.google.com/rss/articles/CBMi7gNBVV95cUxOSC14M3dNV0VkNGpXTFJVamRtTnFwcHVVd0wtbVdwOEJkZkJ6TlB1Nmp4VUYzMFk3QVk3WDRBV3g2Sk1YbW1tLWp2c2RrMk1iRUlFcGFmVlFCakRxbUlyOFNraDNvaGZoMkRBcmtVRl9LQUpaeldJYjh4aEs2XzI3TmUyekpPd3EzeVA2dzlUUGJVbkxvX1hiS1RvWVBmd0hBVFZ2cWoxOUpMV1ZqaEk3VUtmMDBJaXdESW9tSW43Q2hCX0lnTEltOWRBbWh1VUpJQ0wyaHl0T2duM0Nia0J1cTN4QXVaWGxfUEV4OUFvZmlPRU9LampCOFVtdWxZVHZWYzUxUEo4RmJ0WlRFQVp0WDAyUDZxc0lkX3QzQnk5ZjR2c0ZrSmhiTFdmSkJQRFdDQllNTGRibEE1MkZiYWV4a0ozWmI5Ukt4TFFGUW84YVZnekUyb3k0aGozRGZ6NEI4LU14QkVEem1OQVdySnVGYlo4OUt3bnR0c1NhTkFLSjhDejZRaFlGYUhQZy1TNFVPS004SUFzd0xTTl9LMW5ldTcwV1pKcjBaOVFMaHdxd2lXSVJvNWlaeV81V1J0b0UyT0V0TWIzMXV0Mk9kSVZNWndWU0RaWkdpRFZDdU14c1c0dnpRNVcyZkpnZm1KQQ?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "SPY",
-   "strength": 65,
-   "reason": "Jamie Dimon (major financier) praises deregulation and Trump's growth plan; bullish for broad market and financial sector.",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": 0.5,
-    "base": 737.76,
-    "last": 741.75,
-    "base_date": "2026-06-11",
-    "last_date": "2026-06-12"
-   }
   },
   {
    "curated": true,
