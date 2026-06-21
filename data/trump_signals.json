@@ -1,7 +1,24 @@
 {
- "last_updated": "2026-06-21T20:25:35Z",
+ "last_updated": "2026-06-21T21:55:08Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-06-21T20:57:26.429Z",
+   "platform": "Truth Social",
+   "text": "The headline in the Corrupt and Failing New York Times: \"What Changed After Almost 4 Months of War? Analysts Say Not Much.\" REALLY? Their Military is DONE, their Navy is GONE, their Air Force is GONE, their Launching Pads, Missiles, Drones and Manufacturing of same, is almost GONE, their top two sets of Leaders are GONE, their Inflation is at 250%, their Economy is BROKEN, their Soldiers aren't being paid, the Hormuz Strait is OPEN, THE OIL IS GUSHING, and the U.S. Stock Market and Jobs are at record HIGHS. That's what's CHANGED, you corrupt and unethical cowards, and MORE!!! President DJT",
+   "tickers": [
+    "SPY"
+   ],
+   "engagement": 3028,
+   "url": "https://truthsocial.com/@realDonaldTrump/116790096457517049",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "SPY",
+   "strength": 35,
+   "reason": "Claims strong US stock market and jobs at record highs; boosterism for broad market but vague and political rather than actionable catalyst"
+  },
   {
    "date": "2026-06-21T14:17:00Z",
    "platform": "News",
@@ -308,6 +325,22 @@
    "primary_ticker": "DJT",
    "strength": 45,
    "reason": "Trump's personal stock trading activity suggests market positioning but direction unclear"
+  },
+  {
+   "date": "2026-06-19T19:46:09Z",
+   "platform": "News",
+   "text": "Trump Says Americans 'Suffered The Worst Inflation' Under Previous Admin \u2014 A Look At The Highlights Of Kevin Warsh's Swearing-In Ceremony - Stocktwits \u2014 Trump Says Americans 'Suffered The Worst Inflation' Under Previous Admin \u2014 A Look At The Highlights Of Kevin Warsh's Swearing-In Ceremony\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPYmpvZ204ZHowVmlTYmF5Ym5nWm9CcjZNc09zY3h4anU3d0xfTFRacFU0SlRjc25ESlNPT2NJUENCcjZuQUdoaEFFV0pHQlBid1dSbkdubTlDcGhGT2NFZ3F1ODhaSjBjbjl4SHpGcGVxUURvS05yZjFETzBsS3NMNGlkSE4wWkJuQVlqeFByZjdHZ1hQVXAtS0l6SUtoeUtpNzNTSVQ0MGQtN3hEdTd0bUlnNGt2Nzc4YjdFbHV3UnJUcmxQd1NZZWtHRlowMXhsTUIwcA?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "SPY",
+   "strength": 40,
+   "reason": "Trump criticizes past inflation under previous admin; macro political messaging; Warsh swearing-in may signal Fed/monetary policy shift"
   },
   {
    "date": "2026-06-19T16:47:43Z",
@@ -2372,54 +2405,6 @@
    "primary_ticker": "SPY",
    "strength": 30,
    "reason": "SpaceX IPO and oil weakness create mixed directional signals"
-  },
-  {
-   "date": "2026-06-12T04:29:12Z",
-   "platform": "News",
-   "text": "US stocks rise after oil prices ease and SpaceX soars in its debut on Wall Street - WPLG Local 10 \u2014 US stocks rise after oil prices ease and SpaceX soars in its debut on Wall Street\u00a0\u00a0WPLG Local 10",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMVRwNklCNktGcFJ2eFVyVWxmRVNKdnFDbUZYemNKVVFqdmJZejhwUFZMYVNuWXIxSklpbkIyRnJNZ0Z0aFhMWjZ5eUpQV1JyeDFxWExtb2c0YXRZYmxSZS1oMHlEVzl3TlNXM1IwdEVWMVViaXRyNFJSQjduWW1IM253VFdabF9XQWFzTkV5OTNfVTNjQTc5OG1yRFV6LUZEbDE5N0x6c1ZzdkxQTmpVU0UtZDVXLXAyTnlyckhRbDNOYmJS?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "SPY",
-   "strength": 50,
-   "reason": "Oil prices ease and SpaceX IPO success drive market rise, but SpaceX debut itself is not Trump-driven; oil ease contributes to positive tone"
-  },
-  {
-   "date": "2026-06-12T02:25:41Z",
-   "platform": "News",
-   "text": "Stock market, Trump-Iran deal: Brent below $90, Asian shares rallying; will Sensex, Nifty join the party? - Business Today \u2014 Stock market, Trump-Iran deal: Brent below $90, Asian shares rallying; will Sensex, Nifty join the party?\u00a0\u00a0Business Today",
-   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOWEpWYmJ0dE9LYzhteHhaWC1jT0RrcGJKM1RCZ0NOTDh5V0t4QWhVcERObFFJNVNGUTd3NmZ2WWE3S2c4dHc0NFlfaERpZmdqRzdTeXY5UlBLMlpoRElsU25lNkJ4OS1wR2IwMWJyMVpwM2pHX01SckNRMnNhNjRZSzVHSUNhV2tQRDVZNFFzbWhOeWtoRXV0RnBiaDR1eWY2MHVPcFhObElxOEV0d0JENGNJZlZGaUxLVjlLTmtRS0ljenZ5VElTZmpxbWpjQmpqSXBQOE5STlV5VjRBT0RMVEtRNWJmdk85eG43U2FBZWdXb3VPU09qbWRB0gH_AUFVX3lxTE91YUZSU05zbm1ZSHBNQVFkY0RJdi1FZDRnRXNacmlzWXJCd2w3eS1jSXlhVk5OeDZUWHgxR09FbWtkaXVfazVXcEdaMlFvNUJqSWJfaE5KWldnMWtIVnEwTDhTZHRNSFhMZGEtYU5MR1BWMS1md3FqaW1tRzh6OVRnWVhRLUNXSXFNemIyZzFNdzNhNWZKLUZnN0lvTEpDX3JramU1bjJFaHh1cnMwZDFiSmhjOUxrY1NkNGRrNXhHeHdkYk1zZjdTZjBiZ2FrUFdTZTEyV2tUcDU0a2tOVDNIODBKR3RRSXZjb1R2OUF4TXhGTTdsSVhvMndsTlZONA?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "SPY",
-   "strength": 45,
-   "reason": "Trump-Iran deal de-escalation lowers oil/geopolitical risk, broad market bullish"
-  },
-  {
-   "date": "2026-06-12T00:47:27Z",
-   "platform": "News",
-   "text": "Wall St indexes jump as strikes against Iran cancelled - CommBank \u2014 Wall St indexes jump as strikes against Iran cancelled\u00a0\u00a0CommBank",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYjhHYkxVSVZWa0piNXdDT3BHeFBtYmJaeW4xRDQ5VXBoUndDd01xUjNQZUdfTEpwM0w0azRSVjJrNFBjM3RZVGx5MER4VjVsUExWZTlUM0xiT1ltRXh3OE83T0FUUkNvTFJDUV9OSk9ZTm5zbklRTURCcXhmMGM2dEczUjhsZW5ySk1seUhzRkxud3U1TTlpeFpubnBZeXJKT1ZMaFNxZndzazVxZ1kzajFwZw?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "SPY",
-   "strength": 70,
-   "reason": "Trump cancels Iran strikes; geopolitical de-escalation bullish for broad market"
   },
   {
    "curated": true,
