@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-06-22T13:06:42Z",
+ "last_updated": "2026-06-22T17:53:37Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -275,6 +275,22 @@
    "primary_ticker": "COUP",
    "strength": 45,
    "reason": "Reduced national security scrutiny on Anthropic lowers regulatory risk for AI sector"
+  },
+  {
+   "date": "2026-06-21T05:01:50Z",
+   "platform": "News",
+   "text": "Critical Metals Stock Surges As Trump Sets Sights On Greenland Yet Again: 'Big, Poorly Run, Piece Of Ice!' - Stocktwits \u2014 Critical Metals Stock Surges As Trump Sets Sights On Greenland Yet Again: 'Big, Poorly Run, Piece Of Ice!'\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZFdENjBoV0hEenBRM0VFTG9UR1JuV200S0NBMFBVdFdSSVN6V1pNSWZGeEMwbWNMMFI4ZVQyNTZyclFQQlBXbUVUeDZSbFI4YWhvTzBRLWtwU3ZUcXBRdWRVbEM0a3dCTGFsNXhYZGpDZGJuR1k3NlhmSzJ6RV9yZE04Um84WjJuQ3B1cW9peE44UTZTWjNueEpPTHJOeUxyMGM3czlaeHVFQkJxY1FaNG54dUhKc2ZkZk9tVGk0UUlHMjlCeGptTFBDWWRoREhnTUE?oc=5",
+   "tickers": [
+    "XME"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "XME",
+   "strength": 65,
+   "reason": "Trump's renewed interest in Greenland and critical metals acquisition suggests bullish outlook for critical metals sector"
   },
   {
    "date": "2026-06-21T02:09:43Z",
@@ -1486,30 +1502,6 @@
    }
   },
   {
-   "date": "2026-06-16T22:15:05Z",
-   "platform": "News",
-   "text": "Critical Metals Stock Surges As Trump Sets Sights On Greenland Yet Again: 'Big, Poorly Run, Piece Of Ice!' - Stocktwits \u2014 Critical Metals Stock Surges As Trump Sets Sights On Greenland Yet Again: 'Big, Poorly Run, Piece Of Ice!'\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZFdENjBoV0hEenBRM0VFTG9UR1JuV200S0NBMFBVdFdSSVN6V1pNSWZGeEMwbWNMMFI4ZVQyNTZyclFQQlBXbUVUeDZSbFI4YWhvTzBRLWtwU3ZUcXBRdWRVbEM0a3dCTGFsNXhYZGpDZGJuR1k3NlhmSzJ6RV9yZE04Um84WjJuQ3B1cW9peE44UTZTWjNueEpPTHJOeUxyMGM3czlaeHVFQkJxY1FaNG54dUhKc2ZkZk9tVGk0UUlHMjlCeGptTFBDWWRoREhnTUE?oc=5",
-   "tickers": [
-    "XLE"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "XLE",
-   "strength": 35,
-   "reason": "Critical metals/Greenland interest implies resource/mining thesis; direction ambiguous without policy clarity",
-   "price_since": {
-    "ticker": "XLE",
-    "pct": -2.9,
-    "base": 55.36,
-    "last": 53.77,
-    "base_date": "2026-06-16",
-    "last_date": "2026-06-18"
-   }
-  },
-  {
    "date": "2026-06-16T20:44:04Z",
    "platform": "News",
    "text": "With Trump's $1.5 trillion defense budget, Palantir looks less like a story stock and more like a strategic vendor - MSN \u2014 With Trump's $1.5 trillion defense budget, Palantir looks less like a story stock and more like a strategic vendor\u00a0\u00a0MSN",
@@ -2380,63 +2372,6 @@
     "base_date": "2026-06-12",
     "last_date": "2026-06-15"
    }
-  },
-  {
-   "date": "2026-06-12T13:49:04Z",
-   "platform": "News",
-   "text": "US stocks drift as oil falls and Wall Street waits for SpaceX\u2019s debut - Orlando Sentinel \u2014 US stocks drift as oil falls and Wall Street waits for SpaceX\u2019s debut\u00a0\u00a0Orlando Sentinel",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRjVjUVh3Q3NsX1liYlVKcGhXZWpJMlAzeUt4M01OaTZrZTFsWWduWnFwVE04WUJEcmswRjI5S0k1ZlUwQzdYLUg3Sl9qWFBsYjR5YVBpbC03Wk10eVJJWk9XVzhyZm5RNkxXRENEUkpGUDBHZlZCamFVMEY5NHhWV09sczVNUllld3NuN3VEZVZBMkJDRGRKWlpLdDk5TDVpcHVSWHcyUENjX3JHam1UMUF3?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "SPY",
-   "strength": 40,
-   "reason": "Oil weakness bearish, SpaceX IPO anticipation bullish; mixed signals, awaiting IPO outcome.",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": 1.5,
-    "base": 741.75,
-    "last": 752.95,
-    "base_date": "2026-06-12",
-    "last_date": "2026-06-15"
-   }
-  },
-  {
-   "date": "2026-06-12T13:46:50Z",
-   "platform": "News",
-   "text": "Wall Street drifts ahead of highly anticipated market debut of SpaceX - Saratogian \u2014 Wall Street drifts ahead of highly anticipated market debut of SpaceX\u00a0\u00a0Saratogian",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1oNW1aWTlPN19pZFE4Rk82WklQaThwV2dPaEJ2dFluTTd2WEo0QlEwQnhXalh3dHZLa2FKSkpIV2Z6VzdLR0ZvZENPTmEwd0NJZ0Q0M0w0VlR2bDF3RHE3ZXlEUGxMUUM4?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "SPY",
-   "strength": 35,
-   "reason": "Market awaiting SpaceX IPO event; sentiment-dependent but no Trump-specific catalyst yet."
-  },
-  {
-   "date": "2026-06-12T13:40:42.372Z",
-   "platform": "Truth Social",
-   "text": "The terms that Iran leaked out to the Fake News have NOTHING to do with the terms that were agreed to, in writing. What they said, including their weak and pathetic statement on having a deal, bears no relation to the truth. Very dishonorable people to deal with. With them, there is no such thing as dealing in good faith. AMAZING! Also, their totally rebuffed Drone attack last night against Indian Ships leaving the Hormuz Strait is TOTALLY UNACCEPTABLE. They better get their act together, and FAST! President DONALD J. TRUMP",
-   "tickers": [
-    "SPY"
-   ],
-   "engagement": 18529,
-   "url": "https://truthsocial.com/@realDonaldTrump/116737418354503074",
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "SPY",
-   "strength": 25,
-   "reason": "Trump escalates Iran rhetoric; geopolitical tension typically bearish for broad equities and oil prices"
   },
   {
    "curated": true,
