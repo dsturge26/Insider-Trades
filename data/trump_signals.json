@@ -1,7 +1,39 @@
 {
- "last_updated": "2026-06-22T07:06:26Z",
+ "last_updated": "2026-06-22T13:06:42Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-06-22T08:55:47Z",
+   "platform": "News",
+   "text": "This Is Trump\u2019s Most Controversial Trade of 2026 - AOL.com \u2014 This Is Trump\u2019s Most Controversial Trade of 2026\u00a0\u00a0AOL.com",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObW9wcTNkckdjMDQ1UWI2OWhDYmM5aTIxQ0dLenRfV0VSWlVtWFdNYUk4V21lVFVVSFZmMVB1UldBeGQzVTlDY2RHd0t6UGVhd3k1ZExNZHFsRGJpNzB1U3F3Tnl2Z1k5R0ZybVBQYkczRTEzMFBtYUh4QWx4Q3RPam5INE81UQ?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "SPY",
+   "strength": 35,
+   "reason": "Controversial trade action; direction unclear without detail"
+  },
+  {
+   "date": "2026-06-22T03:45:00Z",
+   "platform": "News",
+   "text": "Why Did CRM, INTU, FOXA Stocks Hit 52-Week Lows Last Week? - Stocktwits \u2014 Why Did CRM, INTU, FOXA Stocks Hit 52-Week Lows Last Week?\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMnAzZS16WUFqYzlOQjF4dnhrUnJWQzBxR3VCcVBuR1RiVGxadW5GMmhhQXA1SFlzY1VZNFpZU3BLYzYtX2ZLWHVEcjBnT0VvSFU4OGNuc3hFaEZvNlpXVjRlUzF4TGlQd213OFpYSGtyWXUwTS00bmR6ME9udkZoOWwxRU9xT3hyM09fOTBlamY2TXpTRUZlNHA0dkhFZWZYZTBUMVlMRkRvZjlpVGJ5bnhmdHphbWN1cndF?oc=5",
+   "tickers": [
+    "CRM"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "CRM",
+   "strength": 20,
+   "reason": "Stock weakness report; no Trump-specific catalyst stated"
+  },
   {
    "date": "2026-06-22T03:26:00Z",
    "platform": "News",
@@ -17,6 +49,22 @@
    "primary_ticker": "NYT",
    "strength": 65,
    "reason": "Trump threatens multi-billion dollar lawsuit against NYT; direct attack on named company"
+  },
+  {
+   "date": "2026-06-22T01:53:09Z",
+   "platform": "News",
+   "text": "LG Group stocks rally on news of physical AI partnership talks with Nvidia - \ub9e4\uc77c\uacbd\uc81c \u2014 LG Group stocks rally on news of physical AI partnership talks with Nvidia\u00a0\u00a0\ub9e4\uc77c\uacbd\uc81c",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1hVVBHUlhHSldQVXdKTDAxenV0LU1mU3kyOGI5OHZGc1kySzQ4b2drWGU3RWhydjhLXy1RYVZxZmM0cjlMVlVpNXlTYXBoUVV6SXZCSEliNA?oc=5",
+   "tickers": [
+    "NVDA"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "NVDA",
+   "strength": 15,
+   "reason": "LG-Nvidia AI partnership; not Trump-driven"
   },
   {
    "date": "2026-06-22T00:28:06Z",
@@ -116,22 +164,6 @@
    "reason": "Healthcare stocks identified as next hot trade; sector-level bullish signal"
   },
   {
-   "date": "2026-06-21T19:13:48Z",
-   "platform": "News",
-   "text": "This Is Trump\u2019s Most Controversial Trade of 2026 - AOL.com \u2014 This Is Trump\u2019s Most Controversial Trade of 2026\u00a0\u00a0AOL.com",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObW9wcTNkckdjMDQ1UWI2OWhDYmM5aTIxQ0dLenRfV0VSWlVtWFdNYUk4V21lVFVVSFZmMVB1UldBeGQzVTlDY2RHd0t6UGVhd3k1ZExNZHFsRGJpNzB1U3F3Tnl2Z1k5R0ZybVBQYkczRTEzMFBtYUh4QWx4Q3RPam5INE81UQ?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "SPY",
-   "strength": 25,
-   "reason": "Controversial Trump trade mentioned but direction unclear without details"
-  },
-  {
    "date": "2026-06-21T14:17:00Z",
    "platform": "News",
    "text": "Trump bought these health care stocks in 2026; should you? - thestreet.com \u2014 Trump bought these health care stocks in 2026; should you?\u00a0\u00a0thestreet.com",
@@ -211,6 +243,22 @@
    "primary_ticker": "DELL",
    "strength": 90,
    "reason": "Trump explicitly urged Americans to buy Dell; clear buy signal and demonstrated track record of outperformance."
+  },
+  {
+   "date": "2026-06-21T06:14:57Z",
+   "platform": "News",
+   "text": "Michael Burry Says He\u2019s Still Short Palantir After Stock Sees Recovery Following Trump\u2019s Endorsement - Stocktwits \u2014 Michael Burry Says He\u2019s Still Short Palantir After Stock Sees Recovery Following Trump\u2019s Endorsement\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUmNQdmN5STJOLU11dEhkR1U0ckhuS3JMcm1NUDNMY0dNZ1pQcGhFVmd2bkZqVHV5N3N4N01tY1gzZWZnTDlvbVRzTEtkQnZyUjlibXR1ZUJ5MnVNY0ZlYlVEUWtRMkdnRzBGcmxpdEJaQm55ZWlTWmZZUDBPNnhncTFlLWg3bjllZXNpeGpTVjd3b3dCZ2lWT1dPZE5RSlNKT01IVXlTa1c5YmFodzVEWkJtbHpvUHN1Ry00NWhxcVJpdw?oc=5",
+   "tickers": [
+    "PLTR"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "PLTR",
+   "strength": 50,
+   "reason": "Michael Burry still short despite Trump endorsement; contrarian view on rally"
   },
   {
    "date": "2026-06-21T05:55:49Z",
@@ -485,22 +533,6 @@
    "primary_ticker": "XLE",
    "strength": 55,
    "reason": "Military escorts and insurance for ships amid Iran tensions supports oil/shipping market upside"
-  },
-  {
-   "date": "2026-06-19T14:39:48Z",
-   "platform": "News",
-   "text": "Michael Burry Says He\u2019s Still Short Palantir After Stock Sees Recovery Following Trump\u2019s Endorsement - Stocktwits \u2014 Michael Burry Says He\u2019s Still Short Palantir After Stock Sees Recovery Following Trump\u2019s Endorsement\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUmNQdmN5STJOLU11dEhkR1U0ckhuS3JMcm1NUDNMY0dNZ1pQcGhFVmd2bkZqVHV5N3N4N01tY1gzZWZnTDlvbVRzTEtkQnZyUjlibXR1ZUJ5MnVNY0ZlYlVEUWtRMkdnRzBGcmxpdEJaQm55ZWlTWmZZUDBPNnhncTFlLWg3bjllZXNpeGpTVjd3b3dCZ2lWT1dPZE5RSlNKT01IVXlTa1c5YmFodzVEWkJtbHpvUHN1Ry00NWhxcVJpdw?oc=5",
-   "tickers": [
-    "PLTR"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "WATCH",
-   "primary_ticker": "PLTR",
-   "strength": 45,
-   "reason": "Trump endorsed Palantir; Burry remains short\u2014mixed signal on direction"
   },
   {
    "date": "2026-06-19T13:44:34Z",
@@ -2405,54 +2437,6 @@
    "primary_ticker": "SPY",
    "strength": 25,
    "reason": "Trump escalates Iran rhetoric; geopolitical tension typically bearish for broad equities and oil prices"
-  },
-  {
-   "date": "2026-06-12T10:30:00Z",
-   "platform": "News",
-   "text": "Trump\u2019s strange flirtation with AI socialism, explained - vox.com \u2014 Trump\u2019s strange flirtation with AI socialism, explained\u00a0\u00a0vox.com",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5pbmlyYmtjaFY2RXIwR2MyeHdiQTJQc2RzY3BkdFV6UkgwbGoyM2tjNDhNeGNaLV9ldEtETGRqb25JU0FNeks1elBxNzlkcUdPQ0lRcDNxN3I3NGMxaTIxOWp3cXQtUFFXQXhtU3VmejREMkxwOGRjSFQtZw?oc=5",
-   "tickers": [
-    "QQQ"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "QQQ",
-   "strength": 25,
-   "reason": "Trump's AI policy stance ambiguous; tech sector relevance but direction unclear."
-  },
-  {
-   "date": "2026-06-12T08:39:37Z",
-   "platform": "News",
-   "text": "Watch: Three things to know about SpaceX's stock market debut - BBC \u2014 Watch: Three things to know about SpaceX's stock market debut\u00a0\u00a0BBC",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE91M0hCSHNTVy1Ed3RBYUc2QWlwcUYzUnBRSFNoX0JyZUh3MV9hQjhOUU9udl9DYmFnRTlFTVNqdWM2bHZYT2xKWmxNV1JYM1BtVG1VbVNNNA?oc=5",
-   "tickers": [
-    "TSLA"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "TSLA",
-   "strength": 55,
-   "reason": "SpaceX IPO news is bullish for private space/defense sector; Musk-linked asset upside, though SpaceX itself will not be publicly traded yet."
-  },
-  {
-   "date": "2026-06-12T07:00:00Z",
-   "platform": "News",
-   "text": "Cathie Wood vs Michael Burry: The $11 million Palantir bet that\u2019s splitting Wall Street - The Economic Times \u2014 Cathie Wood vs Michael Burry: The $11 million Palantir bet that\u2019s splitting Wall Street\u00a0\u00a0The Economic Times",
-   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOVzJPX3NCbTZEUjJkbkIzS3RTUkhDVUpvQUdyTWpnT1FvWkJ1T2FiS3RueThnTUJGUndBeGFZSVhXNHlnOUJvNFlIUUhDYXFsZ0VXMDhJOXAzRHJzRnJzWXZFdVg3aGVZRG5NbVVNOGRhbFZGN2psUFBobXNXVWMzeHlQTlpxcW9hNUdCaUU4OV96ZndnZ284QWFZNGE5WTJRNGNlQlh4VEFzV3h2bkc2M0MzbUJiYjJENFBYakRSb256Ymx4dXQyRmxWZDZtX0RGOUtkUXlQbktDT0oyREltc2xablFBaDdBUTVlenJLX1ZaQWvSAfgBQVVfeXFMTUJMWFpPaExIbm9YNXMtLTFGbHBfZ3o3T1JveWQ0VWlZaTJNUVI4MHZJY28ya0JYRjN5ZmpBRm9WaGdfZXVrLXJYNGtrUzZiSS1qN0swRHdWc0R1c2QtRnJuRVJoU0dHdWptZjBHYU1IUlp1RDBuSDV2dVc5NWNtVkctWkFoTGppdG82dHR1ZTB0U1d5WGhiLXVFeVl2cW4xX3NUd0ZxMnBDOGk4RGVvR1dlb2JDOGdWWDdyYVU5R0RoMjVPX2RNel9ycUtLRkkyZ01uV3NZaHB2eXNiMWJxeDU0TUlIQnNmbC1hMXl0YjVtalBSbnlGZ1Q?oc=5",
-   "tickers": [
-    "PLTR"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "PLTR",
-   "strength": 50,
-   "reason": "Wall Street debate on Palantir valuation; market-relevant but no clear direction from Trump signal."
   },
   {
    "curated": true,
