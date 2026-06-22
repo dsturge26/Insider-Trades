@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-06-22T20:49:03Z",
+ "last_updated": "2026-06-22T22:48:02Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-06-22T22:21:56Z",
+   "platform": "News",
+   "text": "Trump\u2019s Quantum Push Lifts IBM Stock as CEO Arvind Krishna Receives White House Praise - econotimes.com \u2014 Trump\u2019s Quantum Push Lifts IBM Stock as CEO Arvind Krishna Receives White House Praise\u00a0\u00a0econotimes.com",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOT24wb0NDR0VxOTlMbjctRkpXZzZBaXRYLXQzRnRla2JCNUJya3Y0ZlUzd1paTHZXR3UwSmNXV1liRTcyUk8tUmR5U3BvZDhZV0RibHFBcWZRdGd3LXFBdk5qRzlfckp3Rl85YjlNZFctQXVqb3F0QkYwZm1odktHek9GZzlhYkZSQ0pSanhQTTBRZXJ0Z0dEX3BWNnFUNmNqakN6MmhrR2l2OWFuMHhGc1NFQXl0VVg5SklJ?oc=5",
+   "tickers": [
+    "IBM"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "IBM",
+   "strength": 75,
+   "reason": "Trump praised IBM CEO and quantum initiative at White House summit, directly lifting stock."
+  },
   {
    "date": "2026-06-22T20:22:32Z",
    "platform": "News",
@@ -17,6 +33,22 @@
    "primary_ticker": "IBM",
    "strength": 72,
    "reason": "Trump praised IBM at White House quantum summit; explicit positive signal on named company."
+  },
+  {
+   "date": "2026-06-22T18:42:23Z",
+   "platform": "News",
+   "text": "Both Berkshire Hathaway and David Tepper Silently Dumped the Same Healthcare Giant in the Same Quarter - AOL.com \u2014 Both Berkshire Hathaway and David Tepper Silently Dumped the Same Healthcare Giant in the Same Quarter\u00a0\u00a0AOL.com",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRjdOcnplY0JvZ3p3ZVdWeHJCbW0zS1hMTzFwbEVJUk1MMEVyNlQ3RENhbXdxaXhBeUhXSUh2X1doQU40dkxZZGpnZlJVeGhlLWtxdF9jWWhLTUxMY3N0MVJRODVvVC15VmJtWjhnOXpsOEgxVTlhQU91SnNEbURhQTV1ZUpwM2M?oc=5",
+   "tickers": [
+    "XLV"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "XLV",
+   "strength": 35,
+   "reason": "Berkshire/Tepper healthcare stock dump signals insider bearish view; sector impact unclear without company name."
   },
   {
    "date": "2026-06-22T17:29:52Z",
@@ -49,6 +81,22 @@
    "primary_ticker": "QQQ",
    "strength": 65,
    "reason": "Bernie Sanders proposes 50% tax on AI companies; bearish for tech/AI sector."
+  },
+  {
+   "date": "2026-06-22T13:34:00Z",
+   "platform": "News",
+   "text": "Why a peace deal won't solve India's stock market problems | Sensex | US-Iran war | Crude oil - Business Standard \u2014 Why a peace deal won't solve India's stock market problems | Sensex | US-Iran war | Crude oil\u00a0\u00a0Business Standard",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPWkluNTNLd1NPVk52Vm1YNFZfSW45MkxjM01oTE9oQmU0RnBRRnAxRzlYVHVTSVVtc3RNektMZ3UtTDUtZHFtN2NOdEhld0JOZGJVUzdjUmRfT0NHTHBhNmpQTVF4ckhZeUItSGd2M3ZYbEtjRXFDOTB3ZUxUeG1XR0JmVXFSUTJpREFXTVVrNlh3eWVqbnJ2ZVdGazR2MzRXOEwyOUwyamd2TWFLQkNLMlVpMW5GVE1hZU1LekJpMlJSNDlKTUlRdmZOOXNRRktmOXVTR0xhQ2RxNHBiempzSUJPWDNQbERaZl9WUE9B0gHuAUFVX3lxTE9aSW41M0t3U09WTnZWbVg0Vl9JbjkyTGMzTWhMT2hCZTRGcFFGcDFHOVhUdVNJVW1zdE16S0xndS1MNS1kcW03Y050SGV3Qk5kYlVTN2NSZF9PQ0dMcGE2alBNUXhySFl5Qi1IZ3YzdlhsS2NFcUM5MHdlTFR4bVdHQmZVcVJRMmlEQVdNVWs2WHd5ZWpucnZlV0ZrNHYzNFc4TDI5TDJqZ3ZNYUtCQ0syVWkxbkZUTWFlTUt6QmkyUlI0OUpNSVF2Zk45c1FGS2Y5dVNHTGFDZHE0cGJ6anNJQk9YM1BsRFpmX1ZQT0E?oc=5",
+   "tickers": [
+    "USO"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "USO",
+   "strength": 40,
+   "reason": "Iran war/peace deal uncertainty affects crude oil prices; geopolitical risk is two-sided."
   },
   {
    "date": "2026-06-22T08:55:47Z",
@@ -163,6 +211,22 @@
    "reason": "Alphabet weakness noted; tech sector motion unclear on Trump catalyst"
   },
   {
+   "date": "2026-06-22T00:07:03Z",
+   "platform": "News",
+   "text": "Alphabet weighs on S&P 500 and Nasdaq while Dow ekes out gain in mixed session - Investing.com \u2014 Alphabet weighs on S&P 500 and Nasdaq while Dow ekes out gain in mixed session\u00a0\u00a0Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPU3B4RHp2NWF4R2w4eFpjdkhPc2JSMkItd0pJTEh2a01RVlRTcUtWdlJoNWNmeWsySFpFM19DT3FoRmtxUktfS0hjald5VENUQVdUWWZWODJrRThNU2l4d1ZZQmhIU01ZNERFWkp3TXkzQTBqdzF0eG8wOVZFYWc0UkMzY2k3dEJkcWYtMDRBTFp5aDZ6TmRILTJpN0huY2lVRGlHTHVqYnNMa0g2enNCYlFYa3BaYTRrbjJsSmJBVUlXM0NTTTVNZmhad3llbmpOZlFaMWZn?oc=5",
+   "tickers": [
+    "GOOGL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "GOOGL",
+   "strength": 50,
+   "reason": "Alphabet weakness weighs on S&P/Nasdaq; large cap tech selloff drags broad indices."
+  },
+  {
    "date": "2026-06-21T22:29:58Z",
    "platform": "News",
    "text": "Explore Trump's 3,600 stock trades from the first 3 months of 2026 - AOL.com \u2014 Explore Trump's 3,600 stock trades from the first 3 months of 2026\u00a0\u00a0AOL.com",
@@ -228,6 +292,22 @@
    "reason": "Trump healthcare stock purchases signal sector confidence; bullish healthcare sector read"
   },
   {
+   "date": "2026-06-21T20:29:16Z",
+   "platform": "News",
+   "text": "IBRX Stock Rallies Into Trump\u2019s Big SOTU Night \u2014 Here\u2019s What Traders Think Could Fuel The Next Move - Stocktwits \u2014 IBRX Stock Rallies Into Trump\u2019s Big SOTU Night \u2014 Here\u2019s What Traders Think Could Fuel The Next Move\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWFdFall2YVNMN3Rialp3SE9sU0h6YUQ1MDFiX2JaeXMxNlFFZUZveFU0TkVxUFI4cTQ5bW5VdkFlTDd1dFNwSUN2YTRtRl83aVRRXzZ6d09TeEhlR1NJb1JaMHlMWDhrQXpmZW40c1B1Y21KNjhxdm90Ny1uU3p4MzJZSW9GNGduMEdyRzFIU2RGLWlYWXg4TFJUU0N6ZlhFemxtUmprVXY0YkVRZk5vZHljazQ?oc=5",
+   "tickers": [
+    "IBRX"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "IBRX",
+   "strength": 40,
+   "reason": "IBRX rallies around Trump SOTU; direction ambiguous\u2014could be rally continuation or mean reversion"
+  },
+  {
    "date": "2026-06-21T19:28:51Z",
    "platform": "News",
    "text": "US launches trade investigation into Germany over drug pricing - AOL.com \u2014 US launches trade investigation into Germany over drug pricing\u00a0\u00a0AOL.com",
@@ -274,6 +354,22 @@
    "primary_ticker": "XLV",
    "strength": 35,
    "reason": "Trump's healthcare stock purchases signal sector bullish sentiment; unspecified holdings limit strength."
+  },
+  {
+   "date": "2026-06-21T14:15:24Z",
+   "platform": "News",
+   "text": "Crypto Market Bull Run Likely Amid Trump\u2019s Clarity Act Support, Morgan Stanley\u2019s Coinbase Bet, Says Clear Street - Stocktwits \u2014 Crypto Market Bull Run Likely Amid Trump\u2019s Clarity Act Support, Morgan Stanley\u2019s Coinbase Bet, Says Clear Street\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOHphU094V1k2emh1Y01lbDktbFpiVXBtX0pKZF9BSGJ5UTZ4cTl0cGV3N2tidFRWa0hkRl85RTVSSlVPMTFmcmE1cXZVZDh2N2FXaTFwcXJjNkppaGtkTjNkYWkyQXpoU3NTMUpXZEptcFc2c3JUT1pQVXRoUU9hZEcyanNIX2tUS3ctLWlvTV9ILV85NDFXM0xWMmtPbnJjdXV6NkF5SXRCTXQyMmlfNWtkMkpla0lqSy1iVkxiZDllQjhFTU1zSA?oc=5",
+   "tickers": [
+    "COIN"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "COIN",
+   "strength": 65,
+   "reason": "Trump supports Clarity Act for crypto; Morgan Stanley bullish on Coinbase; crypto-friendly policy environment implied"
   },
   {
    "date": "2026-06-21T13:35:38Z",
@@ -805,22 +901,6 @@
    "primary_ticker": "PRAX",
    "strength": 50,
    "reason": "Praxis Precision shares rally on price target hikes with analyst 100% upside; analyst-driven not Trump-driven, but market-moving stock event."
-  },
-  {
-   "date": "2026-06-19T02:24:37Z",
-   "platform": "News",
-   "text": "IBRX Stock Rallies Into Trump\u2019s Big SOTU Night \u2014 Here\u2019s What Traders Think Could Fuel The Next Move - Stocktwits \u2014 IBRX Stock Rallies Into Trump\u2019s Big SOTU Night \u2014 Here\u2019s What Traders Think Could Fuel The Next Move\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWFdFall2YVNMN3Rialp3SE9sU0h6YUQ1MDFiX2JaeXMxNlFFZUZveFU0TkVxUFI4cTQ5bW5VdkFlTDd1dFNwSUN2YTRtRl83aVRRXzZ6d09TeEhlR1NJb1JaMHlMWDhrQXpmZW40c1B1Y21KNjhxdm90Ny1uU3p4MzJZSW9GNGduMEdyRzFIU2RGLWlYWXg4TFJUU0N6ZlhFemxtUmprVXY0YkVRZk5vZHljazQ?oc=5",
-   "tickers": [
-    "IBRX"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "IBRX",
-   "strength": 35,
-   "reason": "IBRX rallying into SOTU; Trump diplomacy mentioned but strength unclear"
   },
   {
    "date": "2026-06-19T01:59:50Z",
@@ -2173,6 +2253,108 @@
    }
   },
   {
+   "date": "2026-06-13T16:45:43.030Z",
+   "platform": "Truth Social",
+   "text": "Barack Hussein Obama's Deal with Iran, the JCPOA, was an easy, beautiful, smooth road to a Nuclear Weapon, which Iran would have had six years ago, and would have used long before now. My Agreement with Iran is the exact opposite, A WALL TO NO NUCLEAR WEAPON! In fact, they no longer want a Nuclear Weapon, nor will they have one, either through purchase, development, or any other form of procurement. The Deal is scheduled to get signed tomorrow, and immediately after it is signed, the Hormuz Strait is OPEN TO ALL. Our relationship with Iran is a much different and better one than previous Administrations have had. Unlike Obama's Hundreds of Billions of Dollars in payments to them, including 1.7 Billion Dollars in green, cold cash, no money will exchange hands. At the appropriate time, when all is calm, we will go in and get the Nuclear Dust, buried deep under the powerful sunken granite mountains, thanks to our beautiful B-2 Bombers and their brilliant pilots, and downblend and destroy it, whether in Iran, or the United States. We look forward to working with Iran, and the entire Middle East, long into the future. Hopefully, this process will all work out quickly, easily, and smoothly. If it doesn't, we have the ultimate alternative, hopefully never to be used again! Thank you for your attention to this matter!!! President DONALD J. TRUMP",
+   "tickers": [
+    "USO"
+   ],
+   "engagement": 45326,
+   "url": "https://truthsocial.com/@realDonaldTrump/116743808155352167",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "USO",
+   "strength": 72,
+   "reason": "Iran nuclear deal + control of Hormuz Strait + opening oil market; supply relief and geopolitical stability bullish for oil"
+  },
+  {
+   "date": "2026-06-11T12:22:08.864Z",
+   "platform": "Truth Social",
+   "text": "The United States will be hitting Iran (Whose Navy, Air Force, Radar, Anti Aircraft, and all other forms of Defense, together with most of its offensive capability, are GONE!), VERY HARD TONIGHT. At some point in the not too distant  future, we will be taking Kharg Island, and other oil infrastructure points, and assume total control of their Oil and Gas Markets, much like we have with Venezuela, which is working out brilliantly for both Venezuela and the United States of America. Thank you for your attention to this matter! President DONALD J. TRUMP",
+   "tickers": [
+    "USO"
+   ],
+   "engagement": 44710,
+   "url": "https://truthsocial.com/@realDonaldTrump/116731447139970106",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "USO",
+   "strength": 78,
+   "reason": "Threatened military action + planned seizure of Iranian oil infrastructure + market control; significant oil supply/geopolitical upside"
+  },
+  {
+   "date": "2026-06-11T01:21:45.697Z",
+   "platform": "Truth Social",
+   "text": "No other President has ever been more committed to both REBUILDING our Great Military and SAVING our Great Country \u2014 And NOW is the time to make it happen, for Generations to come.\u00a0\u00a0I am hereby calling on Republicans in Congress to IMMEDIATELY advance and pass the forthcoming $350 Billion Reconciliation Bill (Recon 3.0) \u2014 which, at the request of our Great Department of War \u2014 will include THE SAVE AMERICA ACT as well. No games, no delays, and no weak compromises! Do this ASAP.\u00a0This is a GENERATIONAL Investment in our Military, even bigger than President Reagan's! Recon 3.0 is the ONLY path to the full $1.5 TRILLION DOLLAR Military Budget our Warriors need in order to build THE ARSENAL OF FREEDOM. \u00a0We will defend the Homeland with the Golden Dome, launch the unstoppable Golden Fleet, dominate the skies with the F-47 and B-21, supercharge our ammunition stockpiles, and achieve total Space Force and Drone Dominance!\u00a0This Budget reignites American Industry, creates hundreds of thousands of high-paying American Jobs, and secures our Global Dominance without fueling Inflation.\u00a0Also, with THE SAVE AMERICA ACT, it will protect our Elections for Generations to come. Our Warriors protect our most Sacred Rights, and Voting is at the top. Time to defend that Right for every American!\u00a0Pass ALL $350 BILLION and THE SAVE AMERICA ACT to secure the NATION for our children and grandchildren.\u00a0\u00a0THE SAVE AMERICA ACT!1. ALL VOTERS MUST SHOW PHOTO I.D. (IDENTIFICATION!).2. ALL VOTERS MUST SHOW PROOF OF CITIZENSHIP.3. NO MAIL-IN BALLOTS (EXCEPT FOR ILLNESS, DISABILITY, MILITARY, OR TRAVEL!).4. NO MEN IN WOMEN'S SPORTS.5. NO TRANSGENDER MUTILIZATION SURGERY FOR OUR CHILDREN.\u00a0Thank you for your attention to this matter! President DONALD J. TRUMP",
+   "tickers": [
+    "XAR"
+   ],
+   "engagement": 34974,
+   "url": "https://truthsocial.com/@realDonaldTrump/116728850395743386",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "XAR",
+   "strength": 75,
+   "reason": "$350B military reconciliation bill and defense spending commitment; major boost to defense contractors"
+  },
+  {
+   "date": "2026-06-10T17:50:24.111Z",
+   "platform": "Truth Social",
+   "text": "Last month, I directed our Great U.S. Military to execute a secret mission to support Oil Tankers and other Commercial Ships through the Strait of Hormuz. Today, I am pleased to announce that this effort has resulted in more than 100 MILLION Barrels of Oil making its way through the Strait, and into the Open Market. More than 200 Commercial Ships have safely traveled through the Strait. This wildly successful effort is because the UNITED STATES of AMERICA CONTROLS the Strait of Hormuz \u2014 NOT Iran. Their military is defeated, and their economy is lost. It's over for Iran! Thank you for your attention to this matter. President DONALD J. TRUMP",
+   "tickers": [
+    "USO"
+   ],
+   "engagement": 53263,
+   "url": "https://truthsocial.com/@realDonaldTrump/116727075577305840",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "USO",
+   "strength": 70,
+   "reason": "100M+ barrels through Hormuz Strait; US military control; oil supply security and market access bullish"
+  },
+  {
+   "date": "2026-06-10T13:30:58.894Z",
+   "platform": "Truth Social",
+   "text": "Wow! CITI was ranked Number 1 in topping M&A Advisory Market by Value in Q1. Congratulations to Jane F and ALL of her great people. They've worked really hard! BIG comeback for CITI!!! President DONALD J. TRUMP",
+   "tickers": [
+    "C"
+   ],
+   "engagement": 15091,
+   "url": "https://truthsocial.com/@realDonaldTrump/116726055495215764",
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "C",
+   "strength": 60,
+   "reason": "Trump explicitly praises Citi's M&A ranking and comeback; direct bullish call on the company"
+  },
+  {
+   "date": "2026-06-10T11:32:52.931Z",
+   "platform": "Truth Social",
+   "text": "The Fake News Media refuses to report how EFFECTIVE the U.S. Naval BLOCKADE is, the most successful Blockade in the history of Naval Warfare. NOTHING GETS THROUGH unless we want it to. IT IS A STEEL WALL! Iran is doing ZERO business, not paying their military, or any of their bills, and quickly becoming a FAILED NATION! Lots of oil is getting out. Praise be to Allah! President DONALD J. TRUMP",
+   "tickers": [
+    "USO"
+   ],
+   "engagement": 24500,
+   "url": "https://truthsocial.com/@realDonaldTrump/116725591109474316",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "USO",
+   "strength": 65,
+   "reason": "Blockade cutting Iran oil sales; US controls supply; geopolitical advantage supports higher oil prices"
+  },
+  {
    "curated": true,
    "classified": true,
    "is_market": true,
@@ -2225,6 +2407,23 @@
    "reason": "Trump's majority-owned stock debuts \u2014 pure sentiment play, extremely volatile and headline-driven.",
    "market_reaction": "DJT spiked on debut then stayed volatile, moving heavily on Trump political/legal news.",
    "url": "https://www.nasdaq.com/market-activity/stocks/djt"
+  },
+  {
+   "date": "2023-05-18T12:00:00Z",
+   "platform": "Federal contract",
+   "text": "BLUE ORIGIN MANUFACTURING, LLC was awarded a $1.7B federal contract from National Aeronautics and Space Administration.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_80MSFC23CA014_8000_-NONE-_-NONE-",
+   "tickers": [
+    "BLUA"
+   ],
+   "contract_amount": 1.74,
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "BLUA",
+   "strength": 85,
+   "reason": "Blue Origin awarded $1.7B NASA federal contract; direct positive catalyst for aerospace/defense company"
   }
  ],
  "how_to_read": "Each card is Claude's read of a public Trump post: the affected ticker, whether it implies BUY / SELL / WATCH, a 0\u2013100 strength (how explicit/emphatic the post is \u2014 NOT a profit predictor), and why. A 2-year backtest found these don't beat buy-and-hold, so this is for awareness, not trading. Not financial advice."
