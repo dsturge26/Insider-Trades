@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-06-21T23:13:50Z",
+ "last_updated": "2026-06-22T01:42:53Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-06-21T22:29:58Z",
+   "platform": "News",
+   "text": "Explore Trump's 3,600 stock trades from the first 3 months of 2026 - AOL.com \u2014 Explore Trump's 3,600 stock trades from the first 3 months of 2026\u00a0\u00a0AOL.com",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE90d3B2bk93ODR4SlRnQkZJQm52VGF4MlNMR3l6enM1Zk4tWVJmdmhjOVBITEh3NHY1UzRTS2xRVDE0RjlSZlduY1N4V1ZWdWtFWHdvRGVBMl9qZmZXSjIwZWZRLXZRMEVWelpieEh5bl9KNV91Q0ZnLS1B?oc=5",
+   "tickers": [
+    "DJT"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "DJT",
+   "strength": 35,
+   "reason": "Trump's stock trading activity is notable but direction ambiguous without details of which stocks he bought/sold"
+  },
   {
    "date": "2026-06-21T20:57:26.429Z",
    "platform": "Truth Social",
@@ -2405,38 +2421,6 @@
    "primary_ticker": "SPACE",
    "strength": 35,
    "reason": "SpaceX market debut is a major event but headline is biographical quote; actual IPO direction requires pricing/demand data"
-  },
-  {
-   "date": "2026-06-12T05:09:58Z",
-   "platform": "News",
-   "text": "Stock markets surge as Trump calls off strikes on Iran, touts peace deal - Al Jazeera \u2014 Stock markets surge as Trump calls off strikes on Iran, touts peace deal\u00a0\u00a0Al Jazeera",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeTFuU2M0cHZheWpCaXhYZGliRXdsUm1FYURCWXcwOE1IZ2N1ME1zVklRZmtDTGE3aFo2ZHItMmhQVUFueUlhSlBFclEyUEEzcFJZeVVWSkR4d1V6MUZXN3JlbXRuVUlYZ2FvYlA4V1BvTGlKd19GNmJ6Z2NvU0F6S19vZmMxM3VkSjhzU0RjNkpRbWJNNlZUbmVHUl9ONXRLN0JhVlhHWWtkZDl4YW1KcUdBUjgzVWPSAbwBQVVfeXFMTVZLR1Z2NlRNNkU4Q0ZSNnBPX2ZMM0RYODBydzFIVWJJdU5RNktqOFdKU3RsSTN4SGQ5R0JtVzRPeDJVTDZTbDg2MjB3eGt4Mk0tQlJ3YVZZWWRTRTdJRDRKdHpRUnNvSTVMaVdWWERicUwyTU02N2tDVXJPS1FtM2xQYVZaLUg4T19qMzhMS2ZFUDNnd0VVal9yYzRHeFZJZlJqcW5ST29LRzB5TGpyN3pMTExna2J4OG4yQ0I?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "SPY",
-   "strength": 75,
-   "reason": "Trump calls off Iran strikes and touts peace deal; geopolitical de-escalation lifts broad market and calms oil"
-  },
-  {
-   "date": "2026-06-12T04:44:18Z",
-   "platform": "News",
-   "text": "Asian shares surge and oil prices slip after Trump claims a breakthrough in Iran war talks - CityNews Halifax \u2014 Asian shares surge and oil prices slip after Trump claims a breakthrough in Iran war talks\u00a0\u00a0CityNews Halifax",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOR2tzU2FGMlY5Y3VxeExET3dtMmI0LXlKRjY0ME5nS3NSSDN2YWF0cE45WTlmYjZMVzVwOGVPcUZ3NW9iam9wU2RudnM4aUF5VDE2RWZiRjJuUks2QVZxbUFhbTd1Y3RYZUdvR0YxUFpGNFJvUnJxWXJ3RnBTeHpVQVdpS3FNOUN4cGI1Yy1DZDBiT0IwbFd1VjNNam95MzlCY0pqLS05ajZ3dHpMc0NQdmxUVnh4dnlCU0toUUlUQjlxRlBEc3VJd2V3?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "SPY",
-   "strength": 70,
-   "reason": "Trump claims Iran war breakthrough; de-escalation bullish for broad market and risk assets"
   },
   {
    "curated": true,
