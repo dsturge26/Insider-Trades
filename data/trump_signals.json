@@ -1,7 +1,39 @@
 {
- "last_updated": "2026-06-23T22:15:45Z",
+ "last_updated": "2026-06-23T23:35:32Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-06-23T21:28:00Z",
+   "platform": "News",
+   "text": "Trump says Ford, GM in talks with defense contractors about possible weapons production - CBS News \u2014 Trump says Ford, GM in talks with defense contractors about possible weapons production\u00a0\u00a0CBS News",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVGpIbGNSU3ZXemZ6b0pxMW9OdEFoR0tzTXJ0Mzdsa2h3UF9mYVdEa2owUnRPQlcxNE9hY19GaHp4aDNzQVc0SlkyS3BrdmpRejU0T2JxSVo3dEprOWdqWWtTaGtnS3RrcmlCeXJDUDRKdF9nRUdBY0kzaWxOWHhSd3ByZnNPZ1oyQmFnRkVRYURPay04?oc=5",
+   "tickers": [
+    "XAR"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "XAR",
+   "strength": 45,
+   "reason": "Ford/GM defense contractor talks suggest increased military/weapons production demand, bullish for defense sector"
+  },
+  {
+   "date": "2026-06-23T19:25:05Z",
+   "platform": "News",
+   "text": "Trump admits selling IBM\u2019s stock was a mistake. Now he\u2019s cheering its quantum future. - MSN \u2014 Trump admits selling IBM\u2019s stock was a mistake. Now he\u2019s cheering its quantum future.\u00a0\u00a0MSN",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMi1tX1ZVZWVWUFVQZklJbW1hb3l4WVliZEtSNHh1RkFnREdBbFhXUzNKTExNY3FVYnQ3YlVQQkNfSW1wOTJqNlJnU1NRd1l1RXNiNlRBMVNKNXYzYUxlUG9oX0ZDRzJDT3FoT3h1NGt3UjQxQlR0MlJXeXJqM3pwMHpxM01Fb3IxWFRlUWM0S21HWDY3WXY2R21KMEFUd29WRU15RXFIdzlzcWpxcWk4S3N5Z1NlbExzT1J6bW9VWk5WUWlXVXhrdV8zNTdYaHN5VENJ?oc=5",
+   "tickers": [
+    "IBM"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "IBM",
+   "strength": 75,
+   "reason": "Trump explicitly praises IBM's quantum future and regrets selling, direct positive call on the company"
+  },
   {
    "date": "2026-06-23T17:04:00Z",
    "platform": "News",
