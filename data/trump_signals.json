@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-06-23T18:32:41Z",
+ "last_updated": "2026-06-23T20:56:08Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -17,6 +17,22 @@
    "primary_ticker": "IBM",
    "strength": 75,
    "reason": "Trump explicitly praises IBM CEO and quantum future after admitting prior sale was a mistake; direct positive endorsement of a named public company"
+  },
+  {
+   "date": "2026-06-23T17:04:00Z",
+   "platform": "News",
+   "text": "Trump regrets once selling IBM\u2019s stock. Now he\u2019s cheering its quantum future and dealing its shares. - MarketWatch \u2014 Trump regrets once selling IBM\u2019s stock. Now he\u2019s cheering its quantum future and dealing its shares.\u00a0\u00a0MarketWatch",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcGppSWZHTGxOdUpZTE4ySWFBdUQ3WlYtUFJSbWtpcWp4TkhFdk0yWWE1QTRQbVlpVnFKblJLemF3YnpldkFVMXFWUlhiUFlLMFdaU2ZpOWdCajU3S1k5aWRULTN2R0Z6eFNNbWgwRUJYQ1RDNnI1V1RpNlhMc0lKZFFiRVBIZkhvZFdDemE1UFZpM1Z0a2g0N0VTMW9YbnR6TDJHREVMekJzTlJ5VFRxbkFzNk1qVFJWZFVNVzFiVGtZQQ?oc=5",
+   "tickers": [
+    "IBM"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "IBM",
+   "strength": 75,
+   "reason": "Trump explicitly praises IBM's quantum future and CEO; regrets selling stock; direct bullish signal on named company"
   },
   {
    "date": "2026-06-23T11:52:31Z",
@@ -212,9 +228,9 @@
    "reason": "Trump praised IBM CEO and quantum initiative at White House summit, directly lifting stock.",
    "price_since": {
     "ticker": "IBM",
-    "pct": 4.7,
+    "pct": 5.0,
     "base": 252.22,
-    "last": 264.17,
+    "last": 264.94,
     "base_date": "2026-06-22",
     "last_date": "2026-06-23"
    }
@@ -236,9 +252,9 @@
    "reason": "Quantum computing executive order bullish for semiconductor/tech sector",
    "price_since": {
     "ticker": "SMH",
-    "pct": -6.9,
+    "pct": -7.0,
     "base": 668.91,
-    "last": 622.71,
+    "last": 622.05,
     "base_date": "2026-06-22",
     "last_date": "2026-06-23"
    }
@@ -260,9 +276,9 @@
    "reason": "Trump praised IBM at White House quantum summit; explicit positive signal on named company.",
    "price_since": {
     "ticker": "IBM",
-    "pct": 4.7,
+    "pct": 5.0,
     "base": 252.22,
-    "last": 264.17,
+    "last": 264.94,
     "base_date": "2026-06-22",
     "last_date": "2026-06-23"
    }
@@ -284,9 +300,9 @@
    "reason": "Trump praised IBM at White House quantum summit; stock climbed on the endorsement",
    "price_since": {
     "ticker": "IBM",
-    "pct": 4.7,
+    "pct": 5.0,
     "base": 252.22,
-    "last": 264.17,
+    "last": 264.94,
     "base_date": "2026-06-22",
     "last_date": "2026-06-23"
    }
@@ -308,9 +324,9 @@
    "reason": "Potential 50% tax on AI companies bearish for tech/AI sector if Trump endorses.",
    "price_since": {
     "ticker": "QQQ",
-    "pct": -3.0,
+    "pct": -3.3,
     "base": 737.95,
-    "last": 715.68,
+    "last": 713.65,
     "base_date": "2026-06-22",
     "last_date": "2026-06-23"
    }
@@ -332,9 +348,9 @@
    "reason": "Berkshire/Tepper healthcare stock dump signals insider bearish view; sector impact unclear without company name.",
    "price_since": {
     "ticker": "XLV",
-    "pct": 1.2,
+    "pct": 1.4,
     "base": 150.06,
-    "last": 151.82,
+    "last": 152.18,
     "base_date": "2026-06-22",
     "last_date": "2026-06-23"
    }
@@ -356,9 +372,9 @@
    "reason": "Bernie Sanders proposes 50% tax on AI companies; bearish for tech/AI sector regardless of Trump involvement, but material policy threat.",
    "price_since": {
     "ticker": "QQQ",
-    "pct": -3.0,
+    "pct": -3.3,
     "base": 737.95,
-    "last": 715.7,
+    "last": 713.65,
     "base_date": "2026-06-22",
     "last_date": "2026-06-23"
    }
@@ -380,9 +396,9 @@
    "reason": "Bernie Sanders proposes 50% tax on AI companies; bearish for tech/AI sector.",
    "price_since": {
     "ticker": "QQQ",
-    "pct": -3.0,
+    "pct": -3.3,
     "base": 737.95,
-    "last": 715.68,
+    "last": 713.65,
     "base_date": "2026-06-22",
     "last_date": "2026-06-23"
    }
@@ -404,9 +420,9 @@
    "reason": "Iran war/peace deal uncertainty affects crude oil prices; geopolitical risk is two-sided.",
    "price_since": {
     "ticker": "USO",
-    "pct": -1.4,
+    "pct": -1.3,
     "base": 112.69,
-    "last": 111.14,
+    "last": 111.26,
     "base_date": "2026-06-22",
     "last_date": "2026-06-23"
    }
@@ -428,9 +444,9 @@
    "reason": "Controversial trade action; direction unclear without detail",
    "price_since": {
     "ticker": "SPY",
-    "pct": -1.2,
+    "pct": -1.5,
     "base": 744.39,
-    "last": 735.21,
+    "last": 733.58,
     "base_date": "2026-06-22",
     "last_date": "2026-06-23"
    }
@@ -452,9 +468,9 @@
    "reason": "Trump lauds Citi's M&A comeback, stock hits 52-week high",
    "price_since": {
     "ticker": "C",
-    "pct": -0.1,
+    "pct": -0.5,
     "base": 145.67,
-    "last": 145.49,
+    "last": 144.97,
     "base_date": "2026-06-22",
     "last_date": "2026-06-23"
    }
@@ -476,9 +492,9 @@
    "reason": "Iran escalation threats create geopolitical uncertainty; oil prices and defense sector volatile.",
    "price_since": {
     "ticker": "USO",
-    "pct": -1.4,
+    "pct": -1.3,
     "base": 112.69,
-    "last": 111.14,
+    "last": 111.26,
     "base_date": "2026-06-22",
     "last_date": "2026-06-23"
    }
@@ -500,9 +516,9 @@
    "reason": "Stock declines noted but unclear Trump-specific connection",
    "price_since": {
     "ticker": "SPY",
-    "pct": -1.2,
+    "pct": -1.5,
     "base": 744.39,
-    "last": 735.2,
+    "last": 733.58,
     "base_date": "2026-06-22",
     "last_date": "2026-06-23"
    }
@@ -2421,30 +2437,6 @@
     "pct": -1.8,
     "base": 754.83,
     "last": 740.96,
-    "base_date": "2026-06-15",
-    "last_date": "2026-06-17"
-   }
-  },
-  {
-   "date": "2026-06-15T08:04:54Z",
-   "platform": "News",
-   "text": "Jim Cramer on Citigroup: \u201cVery Bullish\u201d - Yahoo Finance \u2014 Jim Cramer on Citigroup: \u201cVery Bullish\u201d\u00a0\u00a0Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNem82Q1o2ekhNUGIxNDYtS3JvLVNYS2kzYnMwc0JuT1d4YkdUdkxlcWVLb0FXZVBHWlhKczE1R0tUNXpwZFpLTkl4UGVRVnd0YUUtVkc3aUxFM0RGNWxVNUV5cFhhUndWSGYzbVN3dW5vYWtoU0FDSVRGZW1YQ0wxLXhrenIzaHZsYnpxSk1CLTNIQUs2TWUzUERqR2ZlYkE?oc=5",
-   "tickers": [
-    "C"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "C",
-   "strength": 55,
-   "reason": "Analyst bullish call on Citigroup independent of Trump, but aligns with positive sentiment",
-   "price_since": {
-    "ticker": "C",
-    "pct": 1.8,
-    "base": 141.21,
-    "last": 143.78,
     "base_date": "2026-06-15",
     "last_date": "2026-06-17"
    }
