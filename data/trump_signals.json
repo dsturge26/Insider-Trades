@@ -1,7 +1,72 @@
 {
- "last_updated": "2026-06-23T08:03:45Z",
+ "last_updated": "2026-06-23T11:31:58Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-06-23T11:24:12.430Z",
+   "platform": "Truth Social",
+   "text": "19 Millions Barrels of Oil flowed out of the Hormuz Strait yesterday, an all time RECORD. Oil prices are tumbling down, and the World is a much safer place!!! President DONALD J. TRUMP",
+   "tickers": [
+    "USO"
+   ],
+   "engagement": 620,
+   "url": "https://truthsocial.com/@realDonaldTrump/116799167032916635",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "USO",
+   "strength": 45,
+   "reason": "Record oil flow from Hormuz Strait + Trump stating oil prices tumbling = bearish crude outlook"
+  },
+  {
+   "date": "2026-06-23T10:49:00Z",
+   "platform": "News",
+   "text": "Investor assumptions about the AI trade are starting to stretch reality, Goldman Sachs says - MSN \u2014 Investor assumptions about the AI trade are starting to stretch reality, Goldman Sachs says\u00a0\u00a0MSN",
+   "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPYnI1M2JXSGxhamtBNXF1VzM2Vnctb3pnbGxUbF9XVTZHN0RONVo3djk4R2VaQVdOOVQwWEJQaG0zd1I0dDJSWWpxNkcyQVUteWhmeWQ1M1BnR2xLbVRJOTg5NEoyaXZWZ052WWdhV0tSaE5XNFhqWlNGaE8zNDU3b195TVBvTlAtVm1TZnU4Rm1MeXI3ZTlrdGZEcXh3MlJZQU9JemZNR2JjblNLLXk1TkQ0cnotOW51ejJJQjZIdEk2RVNPeTV4Y3lKZDRzbUU1NUhPMnpOU2xoSnA5b0lYaGE4aEt1Z0hiZVEtSWUwQ1lzZWZzUUx1dGt0NE0?oc=5",
+   "tickers": [
+    "QQQ"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "QQQ",
+   "strength": 30,
+   "reason": "Goldman Sachs warns AI trade assumptions stretched; ambiguous whether repricing or correction signal"
+  },
+  {
+   "date": "2026-06-23T10:47:50Z",
+   "platform": "News",
+   "text": "IBM Stock Jumps 3% as Trump Praises CEO and JPMorgan Upgrades - CoinCentral \u2014 IBM Stock Jumps 3% as Trump Praises CEO and JPMorgan Upgrades\u00a0\u00a0CoinCentral",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZE9mZXUtblZRUjV2WFMxS3RJcmR0QTNvcmdrM1ZGTjF1R3g0YU8xT0RCT2EyY0FteDhRVVcxaDExRGZPcHJnU2tFX2Z4VUd3QmR6eXB5RHlCM3VIR2gtTVUxVTB6Y0hxVEx5WE9DdE5qS3JCYlBPNDRmcTltOGUycVdOLW5EVElpMjBWNVhB?oc=5",
+   "tickers": [
+    "IBM"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "IBM",
+   "strength": 75,
+   "reason": "Trump explicitly praises IBM CEO; stock jumps 3%; direct market catalyst with JPMorgan upgrade"
+  },
+  {
+   "date": "2026-06-23T09:39:47Z",
+   "platform": "News",
+   "text": "Trump Admits Regret Over Selling IBM Stock Too Soon After Praising CEO For 'Leading Fab' In US Chip Push - Benzinga \u2014 Trump Admits Regret Over Selling IBM Stock Too Soon After Praising CEO For 'Leading Fab' In US Chip Push\u00a0\u00a0Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNS2FCVEN2YXQxdzlCNlYxWlQ5T0xpWXo2anlpUmxza0xHTno1ZW9pNy1ObHdFZ2VsNmJSZTBCdEZpdHR1YkJOd2x5VEdQQUlHMEZfbWI5NDdiRC04QWNpVVlJSXN6ampXM1lWaVhacU5EUGpYa0VBYllBREhBU2VqVmF4cGJNM3kxMDFoTk1BczVmZmNTWlZPclcyYWltMG1rMXRxcFhuLTNFNnRhYXIxcTRiQldfU0pETlRWQ1lKWDBMel82OFRCODZDaWVGTzlCMTAxSTE3VlJGYVQ0SkdTT19iOGFnd1RtVGVCTlV4eExlWnlvNnphSS1nZy1UbTJX?oc=5",
+   "tickers": [
+    "IBM"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "IBM",
+   "strength": 65,
+   "reason": "Trump regrets selling IBM too soon after praising CEO's chip fab leadership; signals continued bullish view"
+  },
   {
    "date": "2026-06-23T02:59:15Z",
    "platform": "News",
@@ -2264,70 +2329,6 @@
     "pct": -0.6,
     "base": 754.83,
     "last": 750.33,
-    "base_date": "2026-06-15",
-    "last_date": "2026-06-16"
-   }
-  },
-  {
-   "date": "2026-06-14T14:17:33Z",
-   "platform": "News",
-   "text": "Trump Says After Iran, US May Turn Its Attention To Cuba: Report - Stocktwits \u2014 Trump Says After Iran, US May Turn Its Attention To Cuba: Report\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQWZ4TldDMUd6TUpfRWZzZFdHSmNPQ19WdUVQaFl0UWR6dHZwZnA2cUFHUVRpU3cxenFXOVFSaEg1SVc5UWZCMlFLWWtjaEhVMVlFWXhwNjdmN1RZU0NrejZWN29oOXVIS2dzejA1WVhVUDhsOVhWVG84dk9KZ1JFdC1ZWmxmbDFFVGZYNnR5T2JwTGZBZGZFTWxCWWFTc1JUQ0F5VTNCelYwd1psZkoxOG5jNEp1OUg2bDNTbzZOTnE1OGFw?oc=5",
-   "tickers": [
-    "USO"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "USO",
-   "strength": 40,
-   "reason": "Potential Cuba geopolitical action; unclear if bullish or bearish for oil/market without details",
-   "price_since": {
-    "ticker": "USO",
-    "pct": -4.7,
-    "base": 121.21,
-    "last": 115.47,
-    "base_date": "2026-06-15",
-    "last_date": "2026-06-16"
-   }
-  },
-  {
-   "date": "2026-06-14T00:41:06Z",
-   "platform": "News",
-   "text": "Trump Administration Reignites Its Feud With Anthropic Over Latest A.I. Models - The New York Times \u2014 Trump Administration Reignites Its Feud With Anthropic Over Latest A.I. Models\u00a0\u00a0The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWVhzZDAxRnI0OHVIdjk0TDI4UTBsLWN6Mi1ZU2tjZVZtTnNYQ1I2bl81elRjbWtxQTIwSkxSNzhlOGw0YVQ3WVlGYjYwWk1PVVNLS0hjczN5OEVqQXAzNHRheWxJMU8tbnZQTDFxM202ZnNJVC1Oby1zcVQtRk95NWsybw?oc=5",
-   "tickers": [
-    "COIN"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "COIN",
-   "strength": 45,
-   "reason": "Trump administration crackdown on Anthropic AI models creates regulatory headwind for AI/tech sector"
-  },
-  {
-   "date": "2026-06-13T23:46:00Z",
-   "platform": "News",
-   "text": "Amazon CEO\u2019s Talks With U.S. Officials Triggered Crackdown on Anthropic Models - WSJ \u2014 Amazon CEO\u2019s Talks With U.S. Officials Triggered Crackdown on Anthropic Models\u00a0\u00a0WSJ",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOb0NVaXFnLWlNX1lTRGJEMTBCcnVhbFJrOUVYN29GNzhQaXU1RS1FY0tsZWUyOXFlaGFxdWQyVFU3ZHlSLXVpakVmMERUQmZwVHdGRXdSdXRZemFIYzFFQ1hQdTZyTk9VSjQtNVlnNHE0TDNaRG1FanB1b3VtLWt3TGpWZTRPbU9zUVFQYlBOWGNJU2Q5YUp0MThkMXZqR1FUSVB6TUg4M0cyVTd5QjJkbzdQTQ?oc=5",
-   "tickers": [
-    "AMZN"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "AMZN",
-   "strength": 35,
-   "reason": "Amazon CEO's involvement in Anthropic crackdown signals potential regulatory pressure on Amazon's AI initiatives",
-   "price_since": {
-    "ticker": "AMZN",
-    "pct": -0.0,
-    "base": 246.02,
-    "last": 246.0,
     "base_date": "2026-06-15",
     "last_date": "2026-06-16"
    }
