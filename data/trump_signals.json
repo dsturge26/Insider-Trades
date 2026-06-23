@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-06-23T14:05:43Z",
+ "last_updated": "2026-06-23T16:41:51Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -17,6 +17,22 @@
    "primary_ticker": "IBM",
    "strength": 25,
    "reason": "IBM stock movement reported but no Trump catalyst or direction stated"
+  },
+  {
+   "date": "2026-06-23T11:31:49Z",
+   "platform": "News",
+   "text": "Quantum Computing Stocks Rally After Trump Signs New Industry Support Measures - Yahoo Finance \u2014 Quantum Computing Stocks Rally After Trump Signs New Industry Support Measures\u00a0\u00a0Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQczIyV2JFTFNDU3AtaWl6MjdycE95eFdPdkJiaTNUS2J2Q2xIeGU3YmdQeEdlcEpMOGUzbzJUMzV5RnhJN0U5dExHQWhxdUpUZWhXNjFHZmpsdFoydWduRnE3aERTNWZTUDhtMGVQTnRjODQ4N0dVcGV5dXVzTXpmWlhXeEUyRkdpTXVRZ3RxOTYtVUdwOUhwRFlJT0taZw?oc=5",
+   "tickers": [
+    "WIKI"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "WIKI",
+   "strength": 60,
+   "reason": "Trump signs quantum computing industry support measures, broad sector positive"
   },
   {
    "date": "2026-06-23T11:24:12.430Z",
@@ -84,6 +100,38 @@
    "reason": "Trump regrets selling IBM too soon after praising CEO's chip fab leadership; signals continued bullish view"
   },
   {
+   "date": "2026-06-23T06:31:05Z",
+   "platform": "News",
+   "text": "IBRX Stock Rally Not Over Yet? Chairman Says Trump Diplomacy Led To \u2018Amazing Results\u2019 For Cancer Drug - Stocktwits \u2014 IBRX Stock Rally Not Over Yet? Chairman Says Trump Diplomacy Led To \u2018Amazing Results\u2019 For Cancer Drug\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOcVFTb3RQWTZrUG9ONVN6MEVNSk54ckxoS1E2bWNXQmRjRWIxaURpT1lyY3ItODk1LXRGb0MyeWtSMERnRmpmNHpha1JPZWZWa1NUWmNkOGJNbjJiTWMtRm52djZJZTVhQUVmNDVHTUE0N1RtN2M5ZmxMSE9RbVVUTi1vZENNdHhTZWJ6eDFlZXhIUFI0Nm5rLTZYWUIwblZCaXRHYlhyd3Zpa25XcWUtbTNEdGVXelpqcVN0eDBZZ3RMajBVZjdxaVJYV3E4V2lMNnlUODhYMzdTR1h4NFRGWlQ4b01SNDluNEZvZXJjT29pTXpj?oc=5",
+   "tickers": [
+    "IBRX"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "IBRX",
+   "strength": 55,
+   "reason": "Trump diplomacy credited with positive cancer drug results; company-specific upside"
+  },
+  {
+   "date": "2026-06-23T03:47:31Z",
+   "platform": "News",
+   "text": "Rivian Stock Soars After Hours On R2 Optimism But CEO Scaringe Warns Production Ramp Will Be \u2018As Fast As Your Slowest Part\u2019 - Stocktwits \u2014 Rivian Stock Soars After Hours On R2 Optimism But CEO Scaringe Warns Production Ramp Will Be \u2018As Fast As Your Slowest Part\u2019\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMEJPSWlqaF9OaTNzTllpY1BJT3drMHdDa2trQ2ZraGw5V3NlSWFERk5yeXprQUZWVWI4UU5qaXV6QnZNZ0ptaEJ1THVlcVMtcW5kU2F4NXFBeHZMSGZvdzIwc3U0dUJaNkRMbGVLZC1EX2lXV2NCNXBTQVFFeEVLX1dUYWh1QnJWTXZVZGpQWmw?oc=5",
+   "tickers": [
+    "RIVN"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "RIVN",
+   "strength": 35,
+   "reason": "Rivian R2 optimism drives stock movement but CEO warns on production ramp"
+  },
+  {
    "date": "2026-06-23T02:59:15Z",
    "platform": "News",
    "text": "\u2018The Oracle of the White House\u2019 strikes again: Trump publicly praised IBM, driving its share price up by more than 4%. - Moomoo \u2014 \u2018The Oracle of the White House\u2019 strikes again: Trump publicly praised IBM, driving its share price up by more than 4%.\u00a0\u00a0Moomoo",
@@ -148,9 +196,9 @@
    "reason": "Trump praised IBM CEO and quantum initiative at White House summit, directly lifting stock.",
    "price_since": {
     "ticker": "IBM",
-    "pct": 4.8,
+    "pct": 5.2,
     "base": 252.22,
-    "last": 264.45,
+    "last": 265.35,
     "base_date": "2026-06-22",
     "last_date": "2026-06-23"
    }
@@ -172,9 +220,9 @@
    "reason": "Quantum computing executive order bullish for semiconductor/tech sector",
    "price_since": {
     "ticker": "SMH",
-    "pct": -5.2,
+    "pct": -6.1,
     "base": 668.91,
-    "last": 633.89,
+    "last": 628.04,
     "base_date": "2026-06-22",
     "last_date": "2026-06-23"
    }
@@ -196,9 +244,9 @@
    "reason": "Trump praised IBM at White House quantum summit; explicit positive signal on named company.",
    "price_since": {
     "ticker": "IBM",
-    "pct": 4.8,
+    "pct": 5.2,
     "base": 252.22,
-    "last": 264.44,
+    "last": 265.35,
     "base_date": "2026-06-22",
     "last_date": "2026-06-23"
    }
@@ -220,9 +268,9 @@
    "reason": "Trump praised IBM at White House quantum summit; stock climbed on the endorsement",
    "price_since": {
     "ticker": "IBM",
-    "pct": 4.8,
+    "pct": 5.2,
     "base": 252.22,
-    "last": 264.45,
+    "last": 265.35,
     "base_date": "2026-06-22",
     "last_date": "2026-06-23"
    }
@@ -244,9 +292,9 @@
    "reason": "Potential 50% tax on AI companies bearish for tech/AI sector if Trump endorses.",
    "price_since": {
     "ticker": "QQQ",
-    "pct": -2.2,
+    "pct": -2.4,
     "base": 737.95,
-    "last": 721.81,
+    "last": 719.98,
     "base_date": "2026-06-22",
     "last_date": "2026-06-23"
    }
@@ -268,9 +316,9 @@
    "reason": "Berkshire/Tepper healthcare stock dump signals insider bearish view; sector impact unclear without company name.",
    "price_since": {
     "ticker": "XLV",
-    "pct": 1.1,
+    "pct": 1.2,
     "base": 150.06,
-    "last": 151.65,
+    "last": 151.79,
     "base_date": "2026-06-22",
     "last_date": "2026-06-23"
    }
@@ -292,9 +340,9 @@
    "reason": "Bernie Sanders proposes 50% tax on AI companies; bearish for tech/AI sector regardless of Trump involvement, but material policy threat.",
    "price_since": {
     "ticker": "QQQ",
-    "pct": -2.2,
+    "pct": -2.4,
     "base": 737.95,
-    "last": 721.95,
+    "last": 719.91,
     "base_date": "2026-06-22",
     "last_date": "2026-06-23"
    }
@@ -316,9 +364,9 @@
    "reason": "Bernie Sanders proposes 50% tax on AI companies; bearish for tech/AI sector.",
    "price_since": {
     "ticker": "QQQ",
-    "pct": -2.2,
+    "pct": -2.4,
     "base": 737.95,
-    "last": 721.81,
+    "last": 719.98,
     "base_date": "2026-06-22",
     "last_date": "2026-06-23"
    }
@@ -340,9 +388,9 @@
    "reason": "Iran war/peace deal uncertainty affects crude oil prices; geopolitical risk is two-sided.",
    "price_since": {
     "ticker": "USO",
-    "pct": -2.0,
+    "pct": -1.9,
     "base": 112.69,
-    "last": 110.46,
+    "last": 110.56,
     "base_date": "2026-06-22",
     "last_date": "2026-06-23"
    }
@@ -366,7 +414,7 @@
     "ticker": "SPY",
     "pct": -0.9,
     "base": 744.39,
-    "last": 737.94,
+    "last": 737.96,
     "base_date": "2026-06-22",
     "last_date": "2026-06-23"
    }
@@ -388,9 +436,9 @@
    "reason": "Trump lauds Citi's M&A comeback, stock hits 52-week high",
    "price_since": {
     "ticker": "C",
-    "pct": -1.2,
+    "pct": 0.2,
     "base": 145.67,
-    "last": 143.95,
+    "last": 145.9,
     "base_date": "2026-06-22",
     "last_date": "2026-06-23"
    }
@@ -412,9 +460,9 @@
    "reason": "Iran escalation threats create geopolitical uncertainty; oil prices and defense sector volatile.",
    "price_since": {
     "ticker": "USO",
-    "pct": -2.0,
+    "pct": -1.9,
     "base": 112.69,
-    "last": 110.4,
+    "last": 110.56,
     "base_date": "2026-06-22",
     "last_date": "2026-06-23"
    }
@@ -438,7 +486,7 @@
     "ticker": "SPY",
     "pct": -0.9,
     "base": 744.39,
-    "last": 737.91,
+    "last": 737.97,
     "base_date": "2026-06-22",
     "last_date": "2026-06-23"
    }
@@ -460,9 +508,9 @@
    "reason": "Trump threatens multi-billion dollar lawsuit against NYT; direct attack on named company",
    "price_since": {
     "ticker": "NYT",
-    "pct": 0.6,
+    "pct": 1.4,
     "base": 72.08,
-    "last": 72.51,
+    "last": 73.09,
     "base_date": "2026-06-22",
     "last_date": "2026-06-23"
    }
@@ -484,9 +532,9 @@
    "reason": "LG-Nvidia AI partnership; not Trump-driven",
    "price_since": {
     "ticker": "NVDA",
-    "pct": -2.5,
+    "pct": -3.0,
     "base": 208.65,
-    "last": 203.36,
+    "last": 202.43,
     "base_date": "2026-06-22",
     "last_date": "2026-06-23"
    }
@@ -510,7 +558,7 @@
     "ticker": "SPY",
     "pct": -0.9,
     "base": 744.39,
-    "last": 737.94,
+    "last": 737.97,
     "base_date": "2026-06-22",
     "last_date": "2026-06-23"
    }
@@ -1350,22 +1398,6 @@
    "primary_ticker": "SPY",
    "strength": 25,
    "reason": "Canadian market weakness; indirect US market signal but no specific Trump catalyst stated."
-  },
-  {
-   "date": "2026-06-18T23:43:00Z",
-   "platform": "News",
-   "text": "IBRX Stock Rally Not Over Yet? Chairman Says Trump Diplomacy Led To \u2018Amazing Results\u2019 For Cancer Drug - Stocktwits \u2014 IBRX Stock Rally Not Over Yet? Chairman Says Trump Diplomacy Led To \u2018Amazing Results\u2019 For Cancer Drug\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOcVFTb3RQWTZrUG9ONVN6MEVNSk54ckxoS1E2bWNXQmRjRWIxaURpT1lyY3ItODk1LXRGb0MyeWtSMERnRmpmNHpha1JPZWZWa1NUWmNkOGJNbjJiTWMtRm52djZJZTVhQUVmNDVHTUE0N1RtN2M5ZmxMSE9RbVVUTi1vZENNdHhTZWJ6eDFlZXhIUFI0Nm5rLTZYWUIwblZCaXRHYlhyd3Zpa25XcWUtbTNEdGVXelpqcVN0eDBZZ3RMajBVZjdxaVJYV3E4V2lMNnlUODhYMzdTR1h4NFRGWlQ4b01SNDluNEZvZXJjT29pTXpj?oc=5",
-   "tickers": [
-    "IBRX"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "IBRX",
-   "strength": 55,
-   "reason": "Trump diplomacy directly led to drug approval results for cancer drug company; concrete bullish catalyst"
   },
   {
    "date": "2026-06-18T23:08:31Z",
@@ -2421,54 +2453,6 @@
     "pct": -3.3,
     "base": 201.19,
     "last": 194.53,
-    "base_date": "2026-06-15",
-    "last_date": "2026-06-17"
-   }
-  },
-  {
-   "date": "2026-06-15T03:25:00Z",
-   "platform": "News",
-   "text": "Why Did ROKU, SNDK, C Stocks Hit 52-Week Highs Last Week? - TradingView \u2014 Why Did ROKU, SNDK, C Stocks Hit 52-Week Highs Last Week?\u00a0\u00a0TradingView",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZlUtaWRCaDk2RUwwbmlIQUR6RUZUc0NWV2U4Q0l0cC11S0VHWk5TaEFVSS1RT0ZwNWxGUjc2Yzc0SDZpdVpXX3ZOSXhYTGJpUEdLX09ScERDV2NzWDFNNkoyNlhQQURjOWpac2xrQ2gtOUtwU1ZQTW5yN2hwV1FoUzJMRlAtLWxfM0JzRVBza0xBSVJqcUdOMWNfbzBLRGxoMDBiRWRBek9EUVR6RlZPQ2l0Nmt5Zw?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "SPY",
-   "strength": 45,
-   "reason": "Multiple stocks hit 52-week highs but no clear directional catalyst identified",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": -1.8,
-    "base": 754.83,
-    "last": 740.96,
-    "base_date": "2026-06-15",
-    "last_date": "2026-06-17"
-   }
-  },
-  {
-   "date": "2026-06-15T01:17:00Z",
-   "platform": "News",
-   "text": "Nasdaq, S&P 500, Dow Futures Climb While Oil Slides As US-Iran Deal Signals End To Hormuz Disruption: DJT, NFLX, GLXY, SPCX In Focus - TradingView \u2014 Nasdaq, S&P 500, Dow Futures Climb While Oil Slides As US-Iran Deal Signals End To Hormuz Disruption: DJT, NFLX, GLXY, SPCX In Focus\u00a0\u00a0TradingView",
-   "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPMFlGNnVYS1JlS3p5ZldLY1A4LUltTzF0WTZzWG5ycmhUWEtyRzUyVzdoVkE2a21wNWJlNk1PeGx3N1pOd2dwcXYzaGpCSU9aaWJmTi05V0xQTk1DSTdnUktuQzBSOXg1aDFNalJiT1lWZzRJc2hJTUVrQkJIaFR6bmt4RkhzbkhSMXVlcWl6OHZfb0pjX05hd1hxNDExN3FGeG16VWw0NVlfMXNneHJvZi1SWUtacm05LTl4XzBfXzRoZU9TcXprVnI5REEwc0dYR1dxVWhZak45VVJvSjM2TlVSZWktc182N0M3dUNwaDJXR2FFU1MxTnVULUQ0eEYwcnIzSE04LUVOblJwTWViZmt6Z2o5dw?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "SPY",
-   "strength": 45,
-   "reason": "US-Iran deal signals reduce Hormuz disruption risk, broad market bullish on oil decline and geopolitical relief",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": -1.8,
-    "base": 754.83,
-    "last": 740.96,
     "base_date": "2026-06-15",
     "last_date": "2026-06-17"
    }
