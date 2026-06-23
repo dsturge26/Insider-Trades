@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-06-23T00:06:34Z",
+ "last_updated": "2026-06-23T04:21:06Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-06-23T02:59:15Z",
+   "platform": "News",
+   "text": "\u2018The Oracle of the White House\u2019 strikes again: Trump publicly praised IBM, driving its share price up by more than 4%. - Moomoo \u2014 \u2018The Oracle of the White House\u2019 strikes again: Trump publicly praised IBM, driving its share price up by more than 4%.\u00a0\u00a0Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSnJhOGtKZFF5WHdpTG1wYXR3TGcwb2VPWUdkLUJya1IwQl92UVQ4SVlBQmFpNXhueUh0TEh1ck8xbHJodGlEbDRoU3hrVnJDZDFBaHdaVTF2Z25paW9GVFlYQlpSSW1paWhPM0U3NXNIYmk4Qmw0VFd4WUdaYjBCcUFHMktJNWhBOEthTmd3YTJkdFRWbFFLanlUcGRwaklFR3c?oc=5",
+   "tickers": [
+    "IBM"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "IBM",
+   "strength": 85,
+   "reason": "Trump publicly praised IBM, driving stock up 4%"
+  },
   {
    "date": "2026-06-22T22:21:56Z",
    "platform": "News",
@@ -17,6 +33,22 @@
    "primary_ticker": "IBM",
    "strength": 75,
    "reason": "Trump praised IBM CEO and quantum initiative at White House summit, directly lifting stock."
+  },
+  {
+   "date": "2026-06-22T20:52:01Z",
+   "platform": "News",
+   "text": "Trump signs executive orders to drive development of 'commercially relevant' quantum computer by 2028 - Yahoo Finance \u2014 Trump signs executive orders to drive development of 'commercially relevant' quantum computer by 2028\u00a0\u00a0Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPUDkwTWlaVUdScW1GaWx4dVFpTllQampUOEpsLTVpN09oRUFZeHVhVk0xN1BWazl4OHJuSWRoajZZN1oyN1RhV09vVjRURjhmd1hzNnhVa2t0aDJBSm95a2Fabk1uRFBUc25ETlRRN1djSmJrQkhKb2xGNnlQWEQ4eDczMGtoNUc3ZjVRLUROcElmN2lTSUlFRnRlNDNZWTZMNG14V21pWktqcGRXbDB4d29HMF9PNHBTWGR4ODlLdHdHaFlOUkVxOXlyZGJfS2I0V3hwSmdGeHA0alk5ZnVzMnBfZE9yNk91ckQ2Nw?oc=5",
+   "tickers": [
+    "SMH"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "SMH",
+   "strength": 65,
+   "reason": "Quantum computing executive order bullish for semiconductor/tech sector"
   },
   {
    "date": "2026-06-22T20:22:32Z",
@@ -113,6 +145,22 @@
    "primary_ticker": "SPY",
    "strength": 35,
    "reason": "Controversial trade action; direction unclear without detail"
+  },
+  {
+   "date": "2026-06-22T06:14:33Z",
+   "platform": "News",
+   "text": "Citi Stock Hits 52-Week High Before Fading As Trump Lauds Bank's 'Big Comeback' In M&A \u2014 But Full Picture Has Changed Now - Stocktwits \u2014 Citi Stock Hits 52-Week High Before Fading As Trump Lauds Bank's 'Big Comeback' In M&A \u2014 But Full Picture Has Changed Now\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWUpacUZnX014SV9nTnRZbVQ0dWhFQlZiV3ZjLV9nWExYUjVMdmlZdkdoNnFLcUhZUEhuZ1k3a2JENWJrYkhqdjJqNFlLaVlVYzBRb3dJOFA2Q1dESmhCTVJnQXJJaU15VjVFUFo2cWJDOEx3QTIzN0NSQjExRWhRZlNLaDFXeEZMQ0poajdjbGhmNlhPd1ZQSnVOSmNVa0pVTF94Z1RVdXlSU2JrR0N3X2dHSENINjZHNWdTYzB1dEZPaERK?oc=5",
+   "tickers": [
+    "C"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "C",
+   "strength": 75,
+   "reason": "Trump lauds Citi's M&A comeback, stock hits 52-week high"
   },
   {
    "date": "2026-06-22T03:49:06Z",
@@ -225,6 +273,22 @@
    "primary_ticker": "GOOGL",
    "strength": 50,
    "reason": "Alphabet weakness weighs on S&P/Nasdaq; large cap tech selloff drags broad indices."
+  },
+  {
+   "date": "2026-06-21T22:44:01Z",
+   "platform": "News",
+   "text": "Trump Slaps 100% Tariffs On Imported Patented Drugs, Sparing Companies That Onshore Or Cut Prices - Stocktwits \u2014 Trump Slaps 100% Tariffs On Imported Patented Drugs, Sparing Companies That Onshore Or Cut Prices\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdnctZmZybWhzbWJnOW1KM1dRR3Rjb1hjc2NBSU1yTDdwUWU3R2tPX0NucE1aV0JuUDd6SDZrR0lBbmR2R0RVOVgyTkVfejEtS3Z1RU1MYV81N3ZrbU96ZzZjak55MkFxZlpBNWVwUXM5dUtFYTg3VVUwWHktMkptbjF5WGlJQVZKLWZ6elZnUmhtM2hEUFJ1NHFfUGZMajlvalR3Z1ZBN3o4V2pRczEyb0F1UzJjUjVGNWwwWUZnOA?oc=5",
+   "tickers": [
+    "XBI"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "XBI",
+   "strength": 65,
+   "reason": "100% tariffs on imported drugs incentivize onshoring and reward domestic pharma/biotech companies that localize or cut prices; bullish for domestic drug manufacturers."
   },
   {
    "date": "2026-06-21T22:29:58Z",
@@ -483,22 +547,6 @@
    "primary_ticker": "XME",
    "strength": 65,
    "reason": "Trump's renewed interest in Greenland and critical metals acquisition suggests bullish outlook for critical metals sector"
-  },
-  {
-   "date": "2026-06-21T02:09:43Z",
-   "platform": "News",
-   "text": "Trump Slaps 100% Tariffs On Imported Patented Drugs, Sparing Companies That Onshore Or Cut Prices - Stocktwits \u2014 Trump Slaps 100% Tariffs On Imported Patented Drugs, Sparing Companies That Onshore Or Cut Prices\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdnctZmZybWhzbWJnOW1KM1dRR3Rjb1hjc2NBSU1yTDdwUWU3R2tPX0NucE1aV0JuUDd6SDZrR0lBbmR2R0RVOVgyTkVfejEtS3Z1RU1MYV81N3ZrbU96ZzZjak55MkFxZlpBNWVwUXM5dUtFYTg3VVUwWHktMkptbjF5WGlJQVZKLWZ6elZnUmhtM2hEUFJ1NHFfUGZMajlvalR3Z1ZBN3o4V2pRczEyb0F1UzJjUjVGNWwwWUZnOA?oc=5",
-   "tickers": [
-    "XBI"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "XBI",
-   "strength": 60,
-   "reason": "100% tariffs on imported patented drugs favor US pharma companies that onshore or cut prices; sector bullish"
   },
   {
    "date": "2026-06-21T00:46:58Z",
@@ -773,22 +821,6 @@
    "primary_ticker": "SPY",
    "strength": 25,
    "reason": "Duplicate headline on controversial Trump trade without clear market direction"
-  },
-  {
-   "date": "2026-06-19T12:51:10Z",
-   "platform": "News",
-   "text": "Citi Stock Hits 52-Week High Before Fading As Trump Lauds Bank's 'Big Comeback' In M&A \u2014 But Full Picture Has Changed Now - Stocktwits \u2014 Citi Stock Hits 52-Week High Before Fading As Trump Lauds Bank's 'Big Comeback' In M&A \u2014 But Full Picture Has Changed Now\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWUpacUZnX014SV9nTnRZbVQ0dWhFQlZiV3ZjLV9nWExYUjVMdmlZdkdoNnFLcUhZUEhuZ1k3a2JENWJrYkhqdjJqNFlLaVlVYzBRb3dJOFA2Q1dESmhCTVJnQXJJaU15VjVFUFo2cWJDOEx3QTIzN0NSQjExRWhRZlNLaDFXeEZMQ0poajdjbGhmNlhPd1ZQSnVOSmNVa0pVTF94Z1RVdXlSU2JrR0N3X2dHSENINjZHNWdTYzB1dEZPaERK?oc=5",
-   "tickers": [
-    "C"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "C",
-   "strength": 60,
-   "reason": "Trump explicitly praised Citigroup's M&A comeback; stock hit 52-week high on endorsement"
   },
   {
    "date": "2026-06-19T11:41:51Z",
