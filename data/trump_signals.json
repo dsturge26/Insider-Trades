@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-06-23T20:56:08Z",
+ "last_updated": "2026-06-23T22:15:45Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -33,6 +33,22 @@
    "primary_ticker": "IBM",
    "strength": 75,
    "reason": "Trump explicitly praises IBM's quantum future and CEO; regrets selling stock; direct bullish signal on named company"
+  },
+  {
+   "date": "2026-06-23T12:27:56Z",
+   "platform": "News",
+   "text": "U.S. Market Preview | Trump stated that Iran has fully agreed to accept long-term nuclear inspections, and the 60-day oil sanctions waiver has taken effect; tech stocks are broadly under pressure in pre-market trading, with all three major index futures d - \u5bcc\u9014\u725b\u725b \u2014 U.S. Market Preview | Trump stated that Iran has fully agreed to accept long-term nuclear inspections, and the 60-day oil sanctions waiver has taken effect; tech stocks are broadly",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRVJzc09ISTBSVW9lWWQ0VzBWTWJYRW9WVGFoSDdiZW1sRWloSDlicXlhdkR3cGV0bTRhT0VvY0RQbUoyRFZkU3gzM19ja0wwclNDbi0yNkV4SHVNc0YwZlRianVqQWVpcFFIOGFfd0dUQ3FXeGNfWEdkdk1IV1ZNcENOdXZLdG16MHFkNDQ5d2h2dmppcGRqN3d4LVh6Wmc?oc=5",
+   "tickers": [
+    "XLE"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "XLE",
+   "strength": 60,
+   "reason": "60-day oil sanctions waiver on Iran is bullish for energy; tech weakness noted but oil/energy the main catalyst."
   },
   {
    "date": "2026-06-23T11:52:31Z",
@@ -2388,55 +2404,6 @@
     "pct": -1.6,
     "base": 55.55,
     "last": 54.67,
-    "base_date": "2026-06-15",
-    "last_date": "2026-06-17"
-   }
-  },
-  {
-   "date": "2026-06-15T12:03:59.109Z",
-   "platform": "Truth Social",
-   "text": "RT @realDonaldTrumpTrump scores once-elusive peace deal with Iran, easing oil prices ahead of elections: https://justthenews.com/government/security/montrump-etches-iran-peace-deal-after-months-false-starts",
-   "tickers": [
-    "XLE"
-   ],
-   "engagement": 0,
-   "url": "https://truthsocial.com/@realDonaldTrump/116754024963336496",
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "XLE",
-   "strength": 70,
-   "reason": "Iran peace deal eases Middle East tensions and oil prices decline expected, bullish for energy markets",
-   "price_since": {
-    "ticker": "XLE",
-    "pct": -1.6,
-    "base": 55.55,
-    "last": 54.67,
-    "base_date": "2026-06-15",
-    "last_date": "2026-06-17"
-   }
-  },
-  {
-   "date": "2026-06-15T12:00:00Z",
-   "platform": "News",
-   "text": "3,600 stock trades in 3 months: Breaking down Trump's flurry of investment moves - CBS News \u2014 3,600 stock trades in 3 months: Breaking down Trump's flurry of investment moves\u00a0\u00a0CBS News",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1IeDNpUVZTYVpicGRyY1E4SGR5R0NBcDVTRVByVldvVkZzcFZ2QVFSNFh6MHBIMGhoa2d4cnFQMkdfVzJDUU1sdWRqUXUyQVAyczR5MWhHYnFtTWV3R3RRN3ZtWQ?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "SPY",
-   "strength": 25,
-   "reason": "Trump's high-frequency trading volume raises governance and insider-trading concerns",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": -1.8,
-    "base": 754.83,
-    "last": 740.96,
     "base_date": "2026-06-15",
     "last_date": "2026-06-17"
    }
