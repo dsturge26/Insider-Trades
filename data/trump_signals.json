@@ -1,7 +1,39 @@
 {
- "last_updated": "2026-06-24T17:18:48Z",
+ "last_updated": "2026-06-24T19:11:44Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-06-24T18:09:05Z",
+   "platform": "News",
+   "text": "Trump\u2019s Truth Social Stock Just Hit Its Lowest Point Ever - Futurism \u2014 Trump\u2019s Truth Social Stock Just Hit Its Lowest Point Ever\u00a0\u00a0Futurism",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBLWWhicjdjZ1FEWldlSDFDSUtGc0lrc18yR0V3RjZqdUZvcWNoajh3b2g1RXMyTjlfUlB0UWFmd1ZNSzNubnd4VENJSVR6eC1lWW5Vcm1NTm9aR1VlWmdMUTg2TEdUcmlwM3V2bTVCMjRUTUxfRW1BY3RaWUZnZw?oc=5",
+   "tickers": [
+    "DJT"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "SELL",
+   "primary_ticker": "DJT",
+   "strength": 75,
+   "reason": "Trump's Truth Social stock (DJT) hits all-time low; direct bearish signal on his own company"
+  },
+  {
+   "date": "2026-06-24T14:43:53Z",
+   "platform": "News",
+   "text": "Trump praised IBM's 'legend' CEO, government floated a $1B quantum award \u2014 is the stock still a 'very nice price'? - MSN \u2014 Trump praised IBM's 'legend' CEO, government floated a $1B quantum award \u2014 is the stock still a 'very nice price'?\u00a0\u00a0MSN",
+   "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOTV9iazNvMDhMT2Jla3lmTHBKMkUwRVotcHpDNy0zOURHdmpGb2Z4Qk8wNGIycm1NS0NucDZGcEVWbWZtdUk2NkNwREUzQ2NpZnBNNmxlMEFTYk94dTFHZU1LdUVKN19PRXRfdFR5elVPWkF5UDY0M0ZzT1hDOHYtM3BwcC0wNDBxd01wUFZQQVRVMGVlMUI4VGVlZnROOHRjbUZyQkNZUXpwMDVtdk9xY292ZHhaXzFjRzBYLUxHanctMDVramo0SXRXQVRmNG10WUNoemc5UzZyQlJRU0c0d0NzTXlHWFZKaHo1a1pNNHIzdFNXYXBtMlhNLW0?oc=5",
+   "tickers": [
+    "IBM"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "IBM",
+   "strength": 72,
+   "reason": "Trump explicitly praised IBM CEO as 'legend' and government considering $1B quantum award; direct positive signal"
+  },
   {
    "date": "2026-06-24T13:39:36Z",
    "platform": "News",
@@ -33,22 +65,6 @@
    "primary_ticker": "INTC",
    "strength": 55,
    "reason": "Intel rallying partly on Trump-related sentiment; semiconductor sector tailwind but strength is mixed with other factors."
-  },
-  {
-   "date": "2026-06-24T11:32:29Z",
-   "platform": "News",
-   "text": "Trump praised IBM's 'legend' CEO, government floated a $1B quantum award \u2014 is the stock still a 'very nice price'? - MSN \u2014 Trump praised IBM's 'legend' CEO, government floated a $1B quantum award \u2014 is the stock still a 'very nice price'?\u00a0\u00a0MSN",
-   "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPUnJ4NmJDTHNET2xmRmNmWW53YV9rNl9qNjUwVy1jcmtENTdjVk9RTE13V010bkkwdlVsQWhWVEVhdWQ1RDlDZHptY2RqdzJuWVYzb2VSZThkUEwxeE1ReTUtSlVIU2Q0R1dBaXpQMUcweWd1cE90RElqWTZrcWlENlI3RlJoa1haRlUtQV9jMmN0QnU5LU1BZ0VGZTdSLXdPYm13QTdQRUFfMExxb0pKN0Y3ZlQ2SjhUalZ0VWF3ZGRXNHVMWTBPVWNRTnhPdmptMkoyaFRkRU5aRzFUT0RxS0lqOElqdWdmOHZBZ3ZvdWIweGZPNDI3Z2Fra2VDU0dvX251V3ZQVXB1UjFSNUMwUlpaTTBkeGhOdHo5S21EYw?oc=5",
-   "tickers": [
-    "IBM"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "IBM",
-   "strength": 72,
-   "reason": "Trump praised IBM CEO; government floating $1B quantum award to the company."
   },
   {
    "date": "2026-06-24T09:15:28Z",
@@ -261,9 +277,9 @@
    "reason": "Trump explicitly confirms Apple-Intel chip manufacturing deal; named companies with concrete business catalyst driving stock movement",
    "price_since": {
     "ticker": "INTC",
-    "pct": -1.0,
+    "pct": -3.1,
     "base": 132.28,
-    "last": 130.91,
+    "last": 128.22,
     "base_date": "2026-06-23",
     "last_date": "2026-06-24"
    }
@@ -285,9 +301,9 @@
    "reason": "Ford/GM defense contractor talks suggest increased military/weapons production demand, bullish for defense sector",
    "price_since": {
     "ticker": "XAR",
-    "pct": -0.3,
+    "pct": -0.9,
     "base": 275.32,
-    "last": 274.5,
+    "last": 272.83,
     "base_date": "2026-06-23",
     "last_date": "2026-06-24"
    }
@@ -309,9 +325,9 @@
    "reason": "Trump praised Dell weeks before $9.7B Pentagon contract win; explicit endorsement + contract award.",
    "price_since": {
     "ticker": "DELL",
-    "pct": 0.4,
+    "pct": -1.1,
     "base": 427.78,
-    "last": 429.5,
+    "last": 423.0,
     "base_date": "2026-06-23",
     "last_date": "2026-06-24"
    }
@@ -349,9 +365,9 @@
    "reason": "Trump endorsed Palantir, stock recovered, but Burry remains short; ambiguous direction.",
    "price_since": {
     "ticker": "PLTR",
-    "pct": -2.9,
+    "pct": -3.0,
     "base": 116.7,
-    "last": 113.29,
+    "last": 113.15,
     "base_date": "2026-06-23",
     "last_date": "2026-06-24"
    }
@@ -373,9 +389,9 @@
    "reason": "Trump confirms Apple chip manufacturing deal with Intel; explicit deal announcement driving strong bullish momentum in named stock",
    "price_since": {
     "ticker": "INTC",
-    "pct": -1.0,
+    "pct": -3.1,
     "base": 132.28,
-    "last": 130.91,
+    "last": 128.18,
     "base_date": "2026-06-23",
     "last_date": "2026-06-24"
    }
@@ -397,9 +413,9 @@
    "reason": "Trump explicitly praises IBM CEO and quantum future after admitting prior sale was a mistake; direct positive endorsement of a named public company",
    "price_since": {
     "ticker": "IBM",
-    "pct": -1.0,
+    "pct": -0.6,
     "base": 264.94,
-    "last": 262.42,
+    "last": 263.33,
     "base_date": "2026-06-23",
     "last_date": "2026-06-24"
    }
@@ -421,9 +437,9 @@
    "reason": "Trump explicitly praises IBM's quantum future and CEO; regrets selling stock; direct bullish signal on named company",
    "price_since": {
     "ticker": "IBM",
-    "pct": -1.0,
+    "pct": -0.6,
     "base": 264.94,
-    "last": 262.42,
+    "last": 263.33,
     "base_date": "2026-06-23",
     "last_date": "2026-06-24"
    }
@@ -445,9 +461,9 @@
    "reason": "Trump lauds Citi's M&A comeback; explicit praise but broader context shifted.",
    "price_since": {
     "ticker": "C",
-    "pct": -1.0,
+    "pct": -0.6,
     "base": 144.97,
-    "last": 143.54,
+    "last": 144.05,
     "base_date": "2026-06-23",
     "last_date": "2026-06-24"
    }
@@ -2382,72 +2398,6 @@
     "base_date": "2026-06-17",
     "last_date": "2026-06-18"
    }
-  },
-  {
-   "date": "2026-06-17T14:01:23.728Z",
-   "platform": "Truth Social",
-   "text": "I will be doing a Press Conference in 45 minutes from France. I'll then be heading to Versailles for Dinner with French and other European Leaders, and then back home tonight! The trip was a Great Success but, mostly what people wanted to talk about, is the fact that Iran will not have a Nuclear Weapon, and that the Strait of Hormuz will immediately be opened! Great Numbers in all categories for the United States Economy with more people working today than have ever worked before. Over 19.1 Trillion being invested in the U.S.A. with Factories and everything else happening but, importantly, recent Stock Market numbers are through the roof because of the settlement and, likewise, Oil Prices are tumbling down! President DONALD J. TRUMP",
-   "tickers": [
-    "SPY"
-   ],
-   "engagement": 11250,
-   "url": "https://truthsocial.com/@realDonaldTrump/116765811260304660",
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "SPY",
-   "strength": 50,
-   "reason": "Trump touts strong US economy, record employment, and $19.1T investment inflows; broad macro bullish signal for equities.",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": 0.8,
-    "base": 740.96,
-    "last": 746.74,
-    "base_date": "2026-06-17",
-    "last_date": "2026-06-18"
-   }
-  },
-  {
-   "date": "2026-06-17T13:34:00Z",
-   "platform": "News",
-   "text": "Citigroup stock hits 52-week high at 143.93 USD By Investing.com - Investing.com UK \u2014 Citigroup stock hits 52-week high at 143.93 USD By Investing.com\u00a0\u00a0Investing.com UK",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaEJGOUFHYUdqUExQZEdYX1UtYkpLVTdNSTVwNzdRUXJPN1A3ZERQZW4tSkJjYmpHWHFfRDd2ZW9OdHZLNXVUM2VsMUtzZG5fTlBNMjd3MXRtcG9SeWNNem9KSUhYYXpTQVRtX0dFM0dJRlFISk5jTDdxN2lhdlA2RFVOanhLM0RZUkpYWXpDM3hzYWRSdDJWa2ZKT0JYMzE1T0F3?oc=5",
-   "tickers": [
-    "C"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "C",
-   "strength": 25,
-   "reason": "Citi hitting 52-week high is a data point but headline lacks Trump-specific catalyst; neutral observation.",
-   "price_since": {
-    "ticker": "C",
-    "pct": -0.5,
-    "base": 143.78,
-    "last": 143.06,
-    "base_date": "2026-06-17",
-    "last_date": "2026-06-18"
-   }
-  },
-  {
-   "date": "2026-06-15T13:06:11.624Z",
-   "platform": "Truth Social",
-   "text": "Ships are starting to move, many loaded up with Oil, out of the Strait of Hormuz. They are going along the Southern \"Highway,\" which is totally safe, secure, and pristine. There are other areas of travel, also!!!  President DJT",
-   "tickers": [
-    "USO"
-   ],
-   "engagement": 22955,
-   "url": "https://truthsocial.com/@realDonaldTrump/116754269577470122",
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "USO",
-   "strength": 70,
-   "reason": "Trump highlights safe oil shipping routes and supply-chain flow via Strait of Hormuz; bullish subtext on global oil transport and crude availability."
   },
   {
    "curated": true,
