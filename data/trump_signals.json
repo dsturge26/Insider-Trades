@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-06-24T15:08:40Z",
+ "last_updated": "2026-06-24T17:18:48Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -19,6 +19,22 @@
    "reason": "Trump highlighted Nokia's chip production investment; explicit praise of named company."
   },
   {
+   "date": "2026-06-24T12:33:08Z",
+   "platform": "News",
+   "text": "INTC Stock Rockets Toward Best Month Ever: Something More Than A Trump Pump Could Be Powering The Rally - Stocktwits \u2014 INTC Stock Rockets Toward Best Month Ever: Something More Than A Trump Pump Could Be Powering The Rally\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQT29KOURKeHprQ2xZbmpLUUc3MGRlTTE5Y1JHVXJ5TGhldk10eENQcmZLSzRWNDQyTmJFclFNUThmZ0tBRlZUQTZ3MGF1dlZwR0Q4aUtXUnZVQ2o1MjM3cFNpU2RrejRkd2E0OXBhOVNpdDdBdDVSSTR1c2M5NTZfYlg4NEFxODg3QWpMTXd0VVIzM3pZRS10OG5JWG9QUW52UjZvbXVvQ29uZ1lJb1NwbFljM1lBN1dreHdJZDdYZ1hKTjVidndnRWlJRnl5cnNpT2llcjVuSVltVDNzVFdHbmZYTEpua3JJVllOcXIxVmdfaThfeHRzVm9R?oc=5",
+   "tickers": [
+    "INTC"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "INTC",
+   "strength": 55,
+   "reason": "Intel rallying partly on Trump-related sentiment; semiconductor sector tailwind but strength is mixed with other factors."
+  },
+  {
    "date": "2026-06-24T11:32:29Z",
    "platform": "News",
    "text": "Trump praised IBM's 'legend' CEO, government floated a $1B quantum award \u2014 is the stock still a 'very nice price'? - MSN \u2014 Trump praised IBM's 'legend' CEO, government floated a $1B quantum award \u2014 is the stock still a 'very nice price'?\u00a0\u00a0MSN",
@@ -33,6 +49,38 @@
    "primary_ticker": "IBM",
    "strength": 72,
    "reason": "Trump praised IBM CEO; government floating $1B quantum award to the company."
+  },
+  {
+   "date": "2026-06-24T09:15:28Z",
+   "platform": "News",
+   "text": "FDX Stock Tumbles Pre-Market Despite Q4 Beat: CEO Says FedEx Is On Track For 2029 Goals - Stocktwits \u2014 FDX Stock Tumbles Pre-Market Despite Q4 Beat: CEO Says FedEx Is On Track For 2029 Goals\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOOExWOE11Q05WeTBLMGtRa3duTmh6WnFrSURpUjJ1cVdPcEpHdXc4aDhIQzBUelFsdkhXeVJ0VXhaNGtRWEluQ056V2xiV3N3aEtDTkpmQkFVSTM2eDV6RGlLaEczYVNaQ1puaHdHa3ZFM3hzS2xJRGcyQVFFMnFlWGVyOWtCMUYydU5Rc0ZoVThuamk3UXBpSURiSDZWdVJ1eEllanFISTJZcTRwOFFNMmJUbTItMnVUZDJ4THZHRHhGc3B1U2I3cU42aWZtUlZnTzVaLVpNX284WWdoVFBEZk1Ibjkzdw?oc=5",
+   "tickers": [
+    "FDX"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "FDX",
+   "strength": 40,
+   "reason": "FedEx beat Q4 but stock tumbled pre-market; direction ambiguous, likely driven by broader market/macro factors rather than Trump signal."
+  },
+  {
+   "date": "2026-06-24T08:50:21Z",
+   "platform": "News",
+   "text": "Nasdaq, S&P 500 Futures Rebound As Micron Rally Lifts Chip Stocks: Why SPCX, QCOM, TSM, BABA, PLTR, CBRS, WEN, IBRX Are In Focus - Stocktwits \u2014 Nasdaq, S&P 500 Futures Rebound As Micron Rally Lifts Chip Stocks: Why SPCX, QCOM, TSM, BABA, PLTR, CBRS, WEN, IBRX Are In Focus\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQZjEyUjNpdUFBSU1TbzlQNmpzSV9LcDA3cDJHcDdWRWdmN0pqa2Nma3lfdEdJdmM2eGwtUE9PMTdqYUh1bno4cC04b3lUUVNGMEVlY0xYMTRZODJHREltVkNSYzlsbnJFd0RMdjQ4X0lDSWZRM1pfR0RJYTdPbl9UYThhRUhtdU91T2NsSVJqQlBCT2J2YmNXbXFWV1BQdkkyMVZmM0NwLXRGWk52WmRUeU9CZzRnalNQX3BMWmQ3VEpYMUE3RVhaTWNNOElQTllMR1NVYnUtWVFIbHh4a25heWJjWjZfNjdoT1d2eFhhTnlHN3dTVU05MnhGZGxHZTRpWm1xc2o0MEdSZw?oc=5",
+   "tickers": [
+    "SMH"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "SMH",
+   "strength": 50,
+   "reason": "Broad chip sector rally including Micron, QCOM, TSM; semiconductor strength but direction is macro/momentum rather than specific Trump catalyst."
   },
   {
    "date": "2026-06-24T08:30:38Z",
@@ -81,6 +129,22 @@
    "primary_ticker": "NOK",
    "strength": 75,
    "reason": "Trump endorsed Nokia for AI growth; explicit company praise."
+  },
+  {
+   "date": "2026-06-24T08:15:59Z",
+   "platform": "News",
+   "text": "NOK Stock Rises Pre-Market: Trump Endorsement Adds Fuel To AI Growth Push For Nokia - TradingView \u2014 NOK Stock Rises Pre-Market: Trump Endorsement Adds Fuel To AI Growth Push For Nokia\u00a0\u00a0TradingView",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSE4wQy15cVlzRHpqTzgwUGRuUGZNT2hGWVV0dTFBU29LYnVObmdfblNjTGs4d1V4V0hhYmJPcDV2SmZMd2pRcXpnZUZwWXpjcWtoeXFSWmRaODUyZFlCdXVlajZ4OUU0Yy1JT0dIdkZlYmRpVEFkX243cGEwZ3Ntc1dpOVNRY0lXLVZSZG96UWZfU2wwODBMc3ZqSjFiTWxUajhKZDZFNVlWd1o5VV9rUDB4V3RVZVhtY0Zfakt5d3pVd0hUNzJvYVpoREt1STZqMUxQb3lFZU9TcTA?oc=5",
+   "tickers": [
+    "NOK"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "NOK",
+   "strength": 78,
+   "reason": "Trump endorsement of Nokia with explicit focus on AI growth; direct named company praise driving pre-market rise."
   },
   {
    "date": "2026-06-24T05:49:35Z",
@@ -197,9 +261,9 @@
    "reason": "Trump explicitly confirms Apple-Intel chip manufacturing deal; named companies with concrete business catalyst driving stock movement",
    "price_since": {
     "ticker": "INTC",
-    "pct": 2.2,
+    "pct": -1.0,
     "base": 132.28,
-    "last": 135.16,
+    "last": 130.91,
     "base_date": "2026-06-23",
     "last_date": "2026-06-24"
    }
@@ -221,9 +285,9 @@
    "reason": "Ford/GM defense contractor talks suggest increased military/weapons production demand, bullish for defense sector",
    "price_since": {
     "ticker": "XAR",
-    "pct": 0.4,
+    "pct": -0.3,
     "base": 275.32,
-    "last": 276.49,
+    "last": 274.5,
     "base_date": "2026-06-23",
     "last_date": "2026-06-24"
    }
@@ -245,9 +309,9 @@
    "reason": "Trump praised Dell weeks before $9.7B Pentagon contract win; explicit endorsement + contract award.",
    "price_since": {
     "ticker": "DELL",
-    "pct": 1.7,
+    "pct": 0.4,
     "base": 427.78,
-    "last": 435.0,
+    "last": 429.5,
     "base_date": "2026-06-23",
     "last_date": "2026-06-24"
    }
@@ -285,9 +349,9 @@
    "reason": "Trump endorsed Palantir, stock recovered, but Burry remains short; ambiguous direction.",
    "price_since": {
     "ticker": "PLTR",
-    "pct": -1.1,
+    "pct": -2.9,
     "base": 116.7,
-    "last": 115.36,
+    "last": 113.29,
     "base_date": "2026-06-23",
     "last_date": "2026-06-24"
    }
@@ -309,9 +373,9 @@
    "reason": "Trump confirms Apple chip manufacturing deal with Intel; explicit deal announcement driving strong bullish momentum in named stock",
    "price_since": {
     "ticker": "INTC",
-    "pct": 2.2,
+    "pct": -1.0,
     "base": 132.28,
-    "last": 135.16,
+    "last": 130.91,
     "base_date": "2026-06-23",
     "last_date": "2026-06-24"
    }
@@ -333,9 +397,9 @@
    "reason": "Trump explicitly praises IBM CEO and quantum future after admitting prior sale was a mistake; direct positive endorsement of a named public company",
    "price_since": {
     "ticker": "IBM",
-    "pct": -0.8,
+    "pct": -1.0,
     "base": 264.94,
-    "last": 262.8,
+    "last": 262.42,
     "base_date": "2026-06-23",
     "last_date": "2026-06-24"
    }
@@ -357,9 +421,9 @@
    "reason": "Trump explicitly praises IBM's quantum future and CEO; regrets selling stock; direct bullish signal on named company",
    "price_since": {
     "ticker": "IBM",
-    "pct": -0.8,
+    "pct": -1.0,
     "base": 264.94,
-    "last": 262.8,
+    "last": 262.42,
     "base_date": "2026-06-23",
     "last_date": "2026-06-24"
    }
@@ -381,9 +445,9 @@
    "reason": "Trump lauds Citi's M&A comeback; explicit praise but broader context shifted.",
    "price_since": {
     "ticker": "C",
-    "pct": -0.5,
+    "pct": -1.0,
     "base": 144.97,
-    "last": 144.29,
+    "last": 143.54,
     "base_date": "2026-06-23",
     "last_date": "2026-06-24"
    }
@@ -405,9 +469,9 @@
    "reason": "60-day oil sanctions waiver on Iran is bullish for energy; tech weakness noted but oil/energy the main catalyst.",
    "price_since": {
     "ticker": "XLE",
-    "pct": -2.4,
+    "pct": -1.7,
     "base": 54.46,
-    "last": 53.15,
+    "last": 53.51,
     "base_date": "2026-06-23",
     "last_date": "2026-06-24"
    }
@@ -429,9 +493,9 @@
    "reason": "Trump disclosed ServiceNow stake; explicit market signal fueling retail and institutional interest in SAAS recovery play.",
    "price_since": {
     "ticker": "NOW",
-    "pct": -0.3,
+    "pct": -1.9,
     "base": 95.94,
-    "last": 95.66,
+    "last": 94.1,
     "base_date": "2026-06-23",
     "last_date": "2026-06-24"
    }
@@ -453,9 +517,9 @@
    "reason": "IBM stock movement reported but no Trump catalyst or direction stated",
    "price_since": {
     "ticker": "IBM",
-    "pct": -0.8,
+    "pct": -1.0,
     "base": 264.94,
-    "last": 262.8,
+    "last": 262.42,
     "base_date": "2026-06-23",
     "last_date": "2026-06-24"
    }
@@ -1698,22 +1762,6 @@
    "reason": "Trump praised IBM CEO Arvind Krishna by name; stock rallying on Trump effect shows explicit positive signal"
   },
   {
-   "date": "2026-06-19T07:12:20Z",
-   "platform": "News",
-   "text": "INTC Stock Rockets Toward Best Month Ever: Something More Than A Trump Pump Could Be Powering The Rally - Stocktwits \u2014 INTC Stock Rockets Toward Best Month Ever: Something More Than A Trump Pump Could Be Powering The Rally\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQT29KOURKeHprQ2xZbmpLUUc3MGRlTTE5Y1JHVXJ5TGhldk10eENQcmZLSzRWNDQyTmJFclFNUThmZ0tBRlZUQTZ3MGF1dlZwR0Q4aUtXUnZVQ2o1MjM3cFNpU2RrejRkd2E0OXBhOVNpdDdBdDVSSTR1c2M5NTZfYlg4NEFxODg3QWpMTXd0VVIzM3pZRS10OG5JWG9QUW52UjZvbXVvQ29uZ1lJb1NwbFljM1lBN1dreHdJZDdYZ1hKTjVidndnRWlJRnl5cnNpT2llcjVuSVltVDNzVFdHbmZYTEpua3JJVllOcXIxVmdfaThfeHRzVm9R?oc=5",
-   "tickers": [
-    "INTC"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "INTC",
-   "strength": 55,
-   "reason": "Intel rallying toward best month; article notes 'Trump pump' as possible factor but also other drivers; mixed signals."
-  },
-  {
    "date": "2026-06-19T07:05:54Z",
    "platform": "News",
    "text": "Why Is DJT Stock Up Premarket Today? - Stocktwits \u2014 Why Is DJT Stock Up Premarket Today?\u00a0\u00a0Stocktwits",
@@ -2383,6 +2431,23 @@
     "base_date": "2026-06-17",
     "last_date": "2026-06-18"
    }
+  },
+  {
+   "date": "2026-06-15T13:06:11.624Z",
+   "platform": "Truth Social",
+   "text": "Ships are starting to move, many loaded up with Oil, out of the Strait of Hormuz. They are going along the Southern \"Highway,\" which is totally safe, secure, and pristine. There are other areas of travel, also!!!  President DJT",
+   "tickers": [
+    "USO"
+   ],
+   "engagement": 22955,
+   "url": "https://truthsocial.com/@realDonaldTrump/116754269577470122",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "USO",
+   "strength": 70,
+   "reason": "Trump highlights safe oil shipping routes and supply-chain flow via Strait of Hormuz; bullish subtext on global oil transport and crude availability."
   },
   {
    "curated": true,
