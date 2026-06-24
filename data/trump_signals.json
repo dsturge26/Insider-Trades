@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-06-24T19:11:44Z",
+ "last_updated": "2026-06-24T20:57:27Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-06-24T20:25:00Z",
+   "platform": "News",
+   "text": "After 'circling the drain' Trump\u2019s DJT stock finally plops in - Alternet \u2014 After 'circling the drain' Trump\u2019s DJT stock finally plops in\u00a0\u00a0Alternet",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9rYmtwSmR4V0VCSDdLWTEtYndYMlQzTlpJMDdteVdEMUI1OFJTVmFETEs3dFV0YUNLVGR1aGJtU1JpeEtyY3BxOXVCYmEyQ1NZTU5Z?oc=5",
+   "tickers": [
+    "DJT"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "SELL",
+   "primary_ticker": "DJT",
+   "strength": 75,
+   "reason": "Trump's own Truth Social/DJT stock hitting new lows; bearish signal on the asset"
+  },
   {
    "date": "2026-06-24T18:09:05Z",
    "platform": "News",
@@ -65,6 +81,22 @@
    "primary_ticker": "INTC",
    "strength": 55,
    "reason": "Intel rallying partly on Trump-related sentiment; semiconductor sector tailwind but strength is mixed with other factors."
+  },
+  {
+   "date": "2026-06-24T11:10:22Z",
+   "platform": "News",
+   "text": "NOK Stock Rises Pre-Market: Trump Endorsement Adds Fuel To AI Growth Push For Nokia - Stocktwits \u2014 NOK Stock Rises Pre-Market: Trump Endorsement Adds Fuel To AI Growth Push For Nokia\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNaVBkeHg0Vi02NWZ0Tlp5bGh2bjdYaC10MUFVamtBcTFCbjByT05oVmIyeUJQSzFMVGZSLXpFdkd0NVVIMHY3UzNqOFFIQ3FvakVucnM4dms0VXZHQTdlSnJkTXpqdVVJclpEU2lEUUtKYTloWjFFRU5Db2cteVF5UGxkd05LakNaMWZpa1UtaVdodVVIU1I1Vkxjb0kyTG52eFVUaHdkR3Rjb0l4MmpQT2ZMTW5HWWNFdTA2elZuN3ZCckxMa2VrS0FXZm9VNUJWSDBSU2RDMV9WNkJmajVJ?oc=5",
+   "tickers": [
+    "NOK"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "NOK",
+   "strength": 70,
+   "reason": "Trump endorsement of Nokia's AI/chip growth push; bullish named company"
   },
   {
    "date": "2026-06-24T09:15:28Z",
@@ -131,22 +163,6 @@
    "reason": "Trump explicitly endorsed Nokia; direct company praise drives stock up."
   },
   {
-   "date": "2026-06-24T08:18:12Z",
-   "platform": "News",
-   "text": "NOK Stock Rises Pre-Market: Trump Endorsement Adds Fuel To AI Growth Push For Nokia - Stocktwits \u2014 NOK Stock Rises Pre-Market: Trump Endorsement Adds Fuel To AI Growth Push For Nokia\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNaVBkeHg0Vi02NWZ0Tlp5bGh2bjdYaC10MUFVamtBcTFCbjByT05oVmIyeUJQSzFMVGZSLXpFdkd0NVVIMHY3UzNqOFFIQ3FvakVucnM4dms0VXZHQTdlSnJkTXpqdVVJclpEU2lEUUtKYTloWjFFRU5Db2cteVF5UGxkd05LakNaMWZpa1UtaVdodVVIU1I1Vkxjb0kyTG52eFVUaHdkR3Rjb0l4MmpQT2ZMTW5HWWNFdTA2elZuN3ZCckxMa2VrS0FXZm9VNUJWSDBSU2RDMV9WNkJmajVJ?oc=5",
-   "tickers": [
-    "NOK"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "NOK",
-   "strength": 75,
-   "reason": "Trump endorsed Nokia for AI growth; explicit company praise."
-  },
-  {
    "date": "2026-06-24T08:15:59Z",
    "platform": "News",
    "text": "NOK Stock Rises Pre-Market: Trump Endorsement Adds Fuel To AI Growth Push For Nokia - TradingView \u2014 NOK Stock Rises Pre-Market: Trump Endorsement Adds Fuel To AI Growth Push For Nokia\u00a0\u00a0TradingView",
@@ -161,6 +177,38 @@
    "primary_ticker": "NOK",
    "strength": 78,
    "reason": "Trump endorsement of Nokia with explicit focus on AI growth; direct named company praise driving pre-market rise."
+  },
+  {
+   "date": "2026-06-24T07:24:55Z",
+   "platform": "News",
+   "text": "Why Is IBM Stock Soaring Tuesday? - Sahm \u2014 Why Is IBM Stock Soaring Tuesday?\u00a0\u00a0Sahm",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcWRPb0x2Tm4zUktNZEpSZmxjTzFCenVtZ016eVFSVDVhaGRwdEdGYkMzRHhjSENSYkRCNjByTF9KYTk5V0NMbktGZWp6QkctX0tUSDZENExwNmJIb3dPTFp2R0Z3U21GWWNORElXWEtmSVVMQUgzQzVpVS1oelg0RWNIUVU1YkJWazI3Zw?oc=5",
+   "tickers": [
+    "IBM"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "IBM",
+   "strength": 50,
+   "reason": "IBM stock soaring but reason unclear; likely tied to Trump praise and quantum award"
+  },
+  {
+   "date": "2026-06-24T07:21:50Z",
+   "platform": "News",
+   "text": "Trump Admits Regret Over Selling IBM Stock Too Soon After Praising CEO For 'Leading Fab' In US Chip Push\u2014 'Not A Good Move' - Sahm \u2014 Trump Admits Regret Over Selling IBM Stock Too Soon After Praising CEO For 'Leading Fab' In US Chip Push\u2014 'Not A Good Move'\u00a0\u00a0Sahm",
+   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPTEV4MmVkMDhXU20wTTJncDVIdkljVG85cTFLQ3Z2cmgyX0N6QXFaTzZOblRXRmJMYlU1RHByWWlVOW5LOUpaZktPLVRXWWJYcGROVGRTQVBWRHRReE9ZTlAtcGJNbGc1bW1ldFhDYXBwTFlkQ19LbVVvMnBFU3FIelE5WGJkdEd1dVFjVU9FZlh0NGhDWnZTNGR0WDZJZkhjeXA5a0VBaXNpMm1Pbl9RX3czYjZwUkdyRGc4cko1ZmNzU0RsbzhVUDB1RG5tWWZlaTUtc0dpRmpBZ0ZsS3BvTF9iTTdqaHFNSUJWM1hEX3JSWG1oaVN0bVk3cXBHMmc?oc=5",
+   "tickers": [
+    "IBM"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "IBM",
+   "strength": 75,
+   "reason": "Trump regrets selling IBM stock, now praising its fab/quantum push; strong bullish reversal signal"
   },
   {
    "date": "2026-06-24T05:49:35Z",
@@ -277,9 +325,9 @@
    "reason": "Trump explicitly confirms Apple-Intel chip manufacturing deal; named companies with concrete business catalyst driving stock movement",
    "price_since": {
     "ticker": "INTC",
-    "pct": -3.1,
+    "pct": -0.5,
     "base": 132.28,
-    "last": 128.22,
+    "last": 131.65,
     "base_date": "2026-06-23",
     "last_date": "2026-06-24"
    }
@@ -301,9 +349,9 @@
    "reason": "Ford/GM defense contractor talks suggest increased military/weapons production demand, bullish for defense sector",
    "price_since": {
     "ticker": "XAR",
-    "pct": -0.9,
+    "pct": -1.1,
     "base": 275.32,
-    "last": 272.83,
+    "last": 272.41,
     "base_date": "2026-06-23",
     "last_date": "2026-06-24"
    }
@@ -325,9 +373,9 @@
    "reason": "Trump praised Dell weeks before $9.7B Pentagon contract win; explicit endorsement + contract award.",
    "price_since": {
     "ticker": "DELL",
-    "pct": -1.1,
+    "pct": 1.5,
     "base": 427.78,
-    "last": 423.0,
+    "last": 434.06,
     "base_date": "2026-06-23",
     "last_date": "2026-06-24"
    }
@@ -365,9 +413,9 @@
    "reason": "Trump endorsed Palantir, stock recovered, but Burry remains short; ambiguous direction.",
    "price_since": {
     "ticker": "PLTR",
-    "pct": -3.0,
+    "pct": -2.7,
     "base": 116.7,
-    "last": 113.15,
+    "last": 113.5,
     "base_date": "2026-06-23",
     "last_date": "2026-06-24"
    }
@@ -389,9 +437,9 @@
    "reason": "Trump confirms Apple chip manufacturing deal with Intel; explicit deal announcement driving strong bullish momentum in named stock",
    "price_since": {
     "ticker": "INTC",
-    "pct": -3.1,
+    "pct": -0.5,
     "base": 132.28,
-    "last": 128.18,
+    "last": 131.65,
     "base_date": "2026-06-23",
     "last_date": "2026-06-24"
    }
@@ -413,9 +461,9 @@
    "reason": "Trump explicitly praises IBM CEO and quantum future after admitting prior sale was a mistake; direct positive endorsement of a named public company",
    "price_since": {
     "ticker": "IBM",
-    "pct": -0.6,
+    "pct": -0.7,
     "base": 264.94,
-    "last": 263.33,
+    "last": 262.96,
     "base_date": "2026-06-23",
     "last_date": "2026-06-24"
    }
@@ -437,9 +485,9 @@
    "reason": "Trump explicitly praises IBM's quantum future and CEO; regrets selling stock; direct bullish signal on named company",
    "price_since": {
     "ticker": "IBM",
-    "pct": -0.6,
+    "pct": -0.7,
     "base": 264.94,
-    "last": 263.33,
+    "last": 262.96,
     "base_date": "2026-06-23",
     "last_date": "2026-06-24"
    }
@@ -2366,30 +2414,6 @@
    "primary_ticker": "NVDA",
    "strength": 45,
    "reason": "Trump close relationship with Nvidia CEO Jensen Huang suggests favorable disposition toward Nvidia/semiconductors; indirect but relationship-based bullish signal.",
-   "price_since": {
-    "ticker": "NVDA",
-    "pct": 3.0,
-    "base": 204.65,
-    "last": 210.69,
-    "base_date": "2026-06-17",
-    "last_date": "2026-06-18"
-   }
-  },
-  {
-   "date": "2026-06-17T15:57:00Z",
-   "platform": "News",
-   "text": "Jensen Huang on his relationship with Trump: \u2018calls me in the middle of the night\u2019 - Fortune \u2014 Jensen Huang on his relationship with Trump: \u2018calls me in the middle of the night\u2019\u00a0\u00a0Fortune",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMlk0aWpCenFpa24yZzBLY0Nsa0hPd01ZWTZTNFR6ZVRWQmlxMFpfdngwZTRTbWZhSzJCT2ZhRW9ZRGUyUnZFWGNzamt6cU90TmZjcVJRazQyLXZXeEtOOFprY1BwR2RXM2tMaVNka3pfLU5aUnJEeGNZNEx1UER1MFAtX2hoRWJsczRvdHF6Sy1rZw?oc=5",
-   "tickers": [
-    "NVDA"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "NVDA",
-   "strength": 25,
-   "reason": "Trump has close relationship with Jensen Huang (NVIDIA CEO); suggests favorable tech/AI stance but no explicit direction",
    "price_since": {
     "ticker": "NVDA",
     "pct": 3.0,
