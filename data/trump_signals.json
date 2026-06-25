@@ -1,7 +1,39 @@
 {
- "last_updated": "2026-06-25T12:08:01Z",
+ "last_updated": "2026-06-25T15:13:48Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-06-25T12:42:00Z",
+   "platform": "News",
+   "text": "Stock Market Today: Dow Jones, S&P 500, Nasdaq Futures Gain As AI Stocks Rally On Micron\u2019s Strong Outlook - Benzinga \u2014 Stock Market Today: Dow Jones, S&P 500, Nasdaq Futures Gain As AI Stocks Rally On Micron\u2019s Strong Outlook\u00a0\u00a0Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNRkFaMnhCa0JSblJ6ZVcxUHUyQ3l0blVqSlktd2x6bUloMzRCMU0wVkZaX0ZIV3p1WEQ0NFpqSnNMdVM4a2EzbW11ODg0cmlua01RVXo3UnlUdl9qNmd6UmUzRmkzUUh3UHhwOXJlSm1yUVpnUmZoWVhRY1VrMHBpODZpR2RmMGZjaE1vdkgxTzluTUF4ZExMTHk5ZXJZMXlRazFmamhYaHNpMUVZVXZJRE53M3l6c3B1Zzk0RzI1dXd5dnJhUWJtUWxVODJaSUFmN1FIM3Y0SWdkR0VEVkM4NW1DT3dSQ2JMWVBNWnBONnRjcVIwWnZpMks3QVdpa1E2b0E?oc=5",
+   "tickers": [
+    "QQQ"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "QQQ",
+   "strength": 45,
+   "reason": "AI stocks rally on Micron strength; no Trump angle but market-relevant tech momentum"
+  },
+  {
+   "date": "2026-06-25T11:44:51Z",
+   "platform": "News",
+   "text": "Trump Media Stock Falls to Record Low as Truth Social Parent Company Struggles - NewsBreak: Local News & Alerts \u2014 Trump Media Stock Falls to Record Low as Truth Social Parent Company Struggles\u00a0\u00a0NewsBreak: Local News & Alerts",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYUlURWU4eUhRa1dpaF9SMDhkSzJlSGxTSEVvNkxJTHZDLW9Lc0x3SURXVk9DRXZIQ0QwZDl5Z1hnNXpWUUdNWDJ0LUIwWmRSaTlNVWVPelRjdklHWjdLdXhIajJERWFQYldwVFp0ZzJ5eUwtR3Z6RFA2eWxSbnVpN1RYWE50dkhmQ2NjakJTYU5GckdUU01kWHo1N3ZZdDFzdFZNZmxMMjdsQVRIZXAzV0tVMkZJMW4yQThEYmRvTVhoNzBpU0sta05ibTFSc2tEX0oxZ3Zn?oc=5",
+   "tickers": [
+    "DJT"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "DJT",
+   "strength": 75,
+   "reason": "Trump Media stock hits record low; direct bearish signal on his company"
+  },
   {
    "date": "2026-06-25T09:12:25Z",
    "platform": "News",
@@ -98,7 +130,15 @@
    "direction": "WATCH",
    "primary_ticker": "LYV",
    "strength": 45,
-   "reason": "Trump contact with Live Nation CEO during antitrust case; ambiguous whether bullish or bearish settlement signal"
+   "reason": "Trump contact with Live Nation CEO during antitrust case; ambiguous whether bullish or bearish settlement signal",
+   "price_since": {
+    "ticker": "LYV",
+    "pct": 0.8,
+    "base": 171.47,
+    "last": 172.8,
+    "base_date": "2026-06-24",
+    "last_date": "2026-06-25"
+   }
   },
   {
    "date": "2026-06-24T22:45:00Z",
@@ -114,7 +154,39 @@
    "direction": "SELL",
    "primary_ticker": "TSLA",
    "strength": 50,
-   "reason": "Tesla stock drop reported; indirect read on market sentiment toward Musk/Tesla"
+   "reason": "Tesla stock drop reported; indirect read on market sentiment toward Musk/Tesla",
+   "price_since": {
+    "ticker": "TSLA",
+    "pct": -0.6,
+    "base": 375.53,
+    "last": 373.25,
+    "base_date": "2026-06-24",
+    "last_date": "2026-06-25"
+   }
+  },
+  {
+   "date": "2026-06-24T21:23:02Z",
+   "platform": "News",
+   "text": "NOW Stock Rises Overnight: Trump\u2019s ServiceNow Stake Fuels Retail Buzz Around SAAS Comeback - Stocktwits \u2014 NOW Stock Rises Overnight: Trump\u2019s ServiceNow Stake Fuels Retail Buzz Around SAAS Comeback\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQcEF0OFRRa3hIWF9rS21NMTBqNk53MDA4eWFQcDJad1Z2QkQyTTdmd3prLUVaVUUwdVRSWWpCOGs3N3JaYTZCcG1KMjg1c1Q0WWdjSnlWbHkteXVxcnFoUXFZMEg4ejh0YjA4ZG5BRnBEX1huMFNaS0dXdEx4LWNEOXBLcmNpMzlCQzc1OC0yRDFKeWFMWEZzWUpNQXBWTFFDQlJ6dmFWamU5cUpFZnVfcU1ocFdTa0tfdjByTlZZUHo4QUx1QzJOMHpzZEdaZjdqSVhoWFB0cVRKZW9BbnNLMi1XYUF2MlhaZGc?oc=5",
+   "tickers": [
+    "NOW"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "NOW",
+   "strength": 60,
+   "reason": "Trump holds ServiceNow stake; reported overnight stock rise on his involvement",
+   "price_since": {
+    "ticker": "NOW",
+    "pct": -4.3,
+    "base": 93.8,
+    "last": 89.78,
+    "base_date": "2026-06-24",
+    "last_date": "2026-06-25"
+   }
   },
   {
    "date": "2026-06-24T20:25:00Z",
@@ -130,7 +202,15 @@
    "direction": "SELL",
    "primary_ticker": "DJT",
    "strength": 75,
-   "reason": "Trump's own Truth Social/DJT stock hitting new lows; bearish signal on the asset"
+   "reason": "Trump's own Truth Social/DJT stock hitting new lows; bearish signal on the asset",
+   "price_since": {
+    "ticker": "DJT",
+    "pct": -4.7,
+    "base": 7.52,
+    "last": 7.17,
+    "base_date": "2026-06-24",
+    "last_date": "2026-06-25"
+   }
   },
   {
    "date": "2026-06-24T20:05:38Z",
@@ -146,7 +226,15 @@
    "direction": "BUY",
    "primary_ticker": "SMH",
    "strength": 45,
-   "reason": "Semiconductor sector DRAM strength ahead of Micron earnings; chip stocks rising"
+   "reason": "Semiconductor sector DRAM strength ahead of Micron earnings; chip stocks rising",
+   "price_since": {
+    "ticker": "SMH",
+    "pct": 1.3,
+    "base": 618.92,
+    "last": 626.66,
+    "base_date": "2026-06-24",
+    "last_date": "2026-06-25"
+   }
   },
   {
    "date": "2026-06-24T18:21:23Z",
@@ -162,7 +250,15 @@
    "direction": "WATCH",
    "primary_ticker": "CMPS",
    "strength": 35,
-   "reason": "Trump psychedelic therapy push; ambiguous direction, early-stage catalyst"
+   "reason": "Trump psychedelic therapy push; ambiguous direction, early-stage catalyst",
+   "price_since": {
+    "ticker": "CMPS",
+    "pct": 5.9,
+    "base": 12.58,
+    "last": 13.32,
+    "base_date": "2026-06-24",
+    "last_date": "2026-06-25"
+   }
   },
   {
    "date": "2026-06-24T18:09:05Z",
@@ -178,7 +274,15 @@
    "direction": "SELL",
    "primary_ticker": "DJT",
    "strength": 75,
-   "reason": "Trump's Truth Social stock (DJT) hits all-time low; direct bearish signal on his own company"
+   "reason": "Trump's Truth Social stock (DJT) hits all-time low; direct bearish signal on his own company",
+   "price_since": {
+    "ticker": "DJT",
+    "pct": -4.7,
+    "base": 7.52,
+    "last": 7.17,
+    "base_date": "2026-06-24",
+    "last_date": "2026-06-25"
+   }
   },
   {
    "date": "2026-06-24T15:36:18Z",
@@ -194,7 +298,15 @@
    "direction": "BUY",
    "primary_ticker": "INTC",
    "strength": 60,
-   "reason": "Trump administration support for Intel chip production; bullish for semiconductor manufacturing and domestic capacity"
+   "reason": "Trump administration support for Intel chip production; bullish for semiconductor manufacturing and domestic capacity",
+   "price_since": {
+    "ticker": "INTC",
+    "pct": -2.2,
+    "base": 131.65,
+    "last": 128.77,
+    "base_date": "2026-06-24",
+    "last_date": "2026-06-25"
+   }
   },
   {
    "date": "2026-06-24T14:43:53Z",
@@ -210,7 +322,15 @@
    "direction": "BUY",
    "primary_ticker": "IBM",
    "strength": 72,
-   "reason": "Trump explicitly praised IBM CEO as 'legend' and government considering $1B quantum award; direct positive signal"
+   "reason": "Trump explicitly praised IBM CEO as 'legend' and government considering $1B quantum award; direct positive signal",
+   "price_since": {
+    "ticker": "IBM",
+    "pct": -1.3,
+    "base": 262.96,
+    "last": 259.42,
+    "base_date": "2026-06-24",
+    "last_date": "2026-06-25"
+   }
   },
   {
    "date": "2026-06-24T13:39:36Z",
@@ -226,7 +346,15 @@
    "direction": "BUY",
    "primary_ticker": "NOK",
    "strength": 75,
-   "reason": "Trump highlighted Nokia's chip production investment; explicit praise of named company."
+   "reason": "Trump highlighted Nokia's chip production investment; explicit praise of named company.",
+   "price_since": {
+    "ticker": "NOK",
+    "pct": 0.3,
+    "base": 13.81,
+    "last": 13.85,
+    "base_date": "2026-06-24",
+    "last_date": "2026-06-25"
+   }
   },
   {
    "date": "2026-06-24T12:33:32Z",
@@ -242,7 +370,39 @@
    "direction": "WATCH",
    "primary_ticker": "XLE",
    "strength": 45,
-   "reason": "Trump Iran criticism on oil passage; ambiguous impact on energy sector and oil supplies"
+   "reason": "Trump Iran criticism on oil passage; ambiguous impact on energy sector and oil supplies",
+   "price_since": {
+    "ticker": "XLE",
+    "pct": 0.7,
+    "base": 53.57,
+    "last": 53.97,
+    "base_date": "2026-06-24",
+    "last_date": "2026-06-25"
+   }
+  },
+  {
+   "date": "2026-06-24T11:57:16Z",
+   "platform": "News",
+   "text": "Nasdaq, S&P 500 Futures Rebound As Micron Rally Lifts Chip Stocks: Why SPCX, QCOM, TSM, BABA, PLTR, CBRS, WEN, IBRX Are In Focus - Stocktwits \u2014 Nasdaq, S&P 500 Futures Rebound As Micron Rally Lifts Chip Stocks: Why SPCX, QCOM, TSM, BABA, PLTR, CBRS, WEN, IBRX Are In Focus\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQZjEyUjNpdUFBSU1TbzlQNmpzSV9LcDA3cDJHcDdWRWdmN0pqa2Nma3lfdEdJdmM2eGwtUE9PMTdqYUh1bno4cC04b3lUUVNGMEVlY0xYMTRZODJHREltVkNSYzlsbnJFd0RMdjQ4X0lDSWZRM1pfR0RJYTdPbl9UYThhRUhtdU91T2NsSVJqQlBCT2J2YmNXbXFWV1BQdkkyMVZmM0NwLXRGWk52WmRUeU9CZzRnalNQX3BMWmQ3VEpYMUE3RVhaTWNNOElQTllMR1NVYnUtWVFIbHh4a25heWJjWjZfNjdoT1d2eFhhTnlHN3dTVU05MnhGZGxHZTRpWm1xc2o0MEdSZw?oc=5",
+   "tickers": [
+    "SMH"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "SMH",
+   "strength": 50,
+   "reason": "Chip sector rally led by Micron; semiconductor momentum play",
+   "price_since": {
+    "ticker": "SMH",
+    "pct": 1.2,
+    "base": 618.92,
+    "last": 626.25,
+    "base_date": "2026-06-24",
+    "last_date": "2026-06-25"
+   }
   },
   {
    "date": "2026-06-24T11:10:22Z",
@@ -258,7 +418,15 @@
    "direction": "BUY",
    "primary_ticker": "NOK",
    "strength": 70,
-   "reason": "Trump endorsement of Nokia's AI/chip growth push; bullish named company"
+   "reason": "Trump endorsement of Nokia's AI/chip growth push; bullish named company",
+   "price_since": {
+    "ticker": "NOK",
+    "pct": 0.3,
+    "base": 13.81,
+    "last": 13.85,
+    "base_date": "2026-06-24",
+    "last_date": "2026-06-25"
+   }
   },
   {
    "date": "2026-06-24T10:05:03Z",
@@ -274,7 +442,15 @@
    "direction": "BUY",
    "primary_ticker": "NOK",
    "strength": 75,
-   "reason": "Trump endorsement of Nokia's chip production and AI growth; explicit bullish signal for semiconductor/AI infrastructure"
+   "reason": "Trump endorsement of Nokia's chip production and AI growth; explicit bullish signal for semiconductor/AI infrastructure",
+   "price_since": {
+    "ticker": "NOK",
+    "pct": 0.3,
+    "base": 13.81,
+    "last": 13.85,
+    "base_date": "2026-06-24",
+    "last_date": "2026-06-25"
+   }
   },
   {
    "date": "2026-06-24T09:15:28Z",
@@ -290,23 +466,15 @@
    "direction": "WATCH",
    "primary_ticker": "FDX",
    "strength": 40,
-   "reason": "FedEx beat Q4 but stock tumbled pre-market; direction ambiguous, likely driven by broader market/macro factors rather than Trump signal."
-  },
-  {
-   "date": "2026-06-24T08:50:21Z",
-   "platform": "News",
-   "text": "Nasdaq, S&P 500 Futures Rebound As Micron Rally Lifts Chip Stocks: Why SPCX, QCOM, TSM, BABA, PLTR, CBRS, WEN, IBRX Are In Focus - Stocktwits \u2014 Nasdaq, S&P 500 Futures Rebound As Micron Rally Lifts Chip Stocks: Why SPCX, QCOM, TSM, BABA, PLTR, CBRS, WEN, IBRX Are In Focus\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQZjEyUjNpdUFBSU1TbzlQNmpzSV9LcDA3cDJHcDdWRWdmN0pqa2Nma3lfdEdJdmM2eGwtUE9PMTdqYUh1bno4cC04b3lUUVNGMEVlY0xYMTRZODJHREltVkNSYzlsbnJFd0RMdjQ4X0lDSWZRM1pfR0RJYTdPbl9UYThhRUhtdU91T2NsSVJqQlBCT2J2YmNXbXFWV1BQdkkyMVZmM0NwLXRGWk52WmRUeU9CZzRnalNQX3BMWmQ3VEpYMUE3RVhaTWNNOElQTllMR1NVYnUtWVFIbHh4a25heWJjWjZfNjdoT1d2eFhhTnlHN3dTVU05MnhGZGxHZTRpWm1xc2o0MEdSZw?oc=5",
-   "tickers": [
-    "SMH"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "SMH",
-   "strength": 50,
-   "reason": "Broad chip sector rally including Micron, QCOM, TSM; semiconductor strength but direction is macro/momentum rather than specific Trump catalyst."
+   "reason": "FedEx beat Q4 but stock tumbled pre-market; direction ambiguous, likely driven by broader market/macro factors rather than Trump signal.",
+   "price_since": {
+    "ticker": "FDX",
+    "pct": 2.9,
+    "base": 316.83,
+    "last": 325.93,
+    "base_date": "2026-06-24",
+    "last_date": "2026-06-25"
+   }
   },
   {
    "date": "2026-06-24T08:30:38Z",
@@ -322,7 +490,15 @@
    "direction": "BUY",
    "primary_ticker": "NOK",
    "strength": 75,
-   "reason": "Trump endorsement of Nokia's AI and chip growth push; explicit praise of named company."
+   "reason": "Trump endorsement of Nokia's AI and chip growth push; explicit praise of named company.",
+   "price_since": {
+    "ticker": "NOK",
+    "pct": 0.2,
+    "base": 13.81,
+    "last": 13.84,
+    "base_date": "2026-06-24",
+    "last_date": "2026-06-25"
+   }
   },
   {
    "date": "2026-06-24T08:30:07Z",
@@ -338,7 +514,15 @@
    "direction": "BUY",
    "primary_ticker": "NOK",
    "strength": 75,
-   "reason": "Trump explicitly endorsed Nokia; direct company praise drives stock up."
+   "reason": "Trump explicitly endorsed Nokia; direct company praise drives stock up.",
+   "price_since": {
+    "ticker": "NOK",
+    "pct": 0.2,
+    "base": 13.81,
+    "last": 13.84,
+    "base_date": "2026-06-24",
+    "last_date": "2026-06-25"
+   }
   },
   {
    "date": "2026-06-24T08:15:59Z",
@@ -354,7 +538,15 @@
    "direction": "BUY",
    "primary_ticker": "NOK",
    "strength": 78,
-   "reason": "Trump endorsement of Nokia with explicit focus on AI growth; direct named company praise driving pre-market rise."
+   "reason": "Trump endorsement of Nokia with explicit focus on AI growth; direct named company praise driving pre-market rise.",
+   "price_since": {
+    "ticker": "NOK",
+    "pct": 0.3,
+    "base": 13.81,
+    "last": 13.85,
+    "base_date": "2026-06-24",
+    "last_date": "2026-06-25"
+   }
   },
   {
    "date": "2026-06-24T07:24:55Z",
@@ -370,7 +562,15 @@
    "direction": "WATCH",
    "primary_ticker": "IBM",
    "strength": 50,
-   "reason": "IBM stock soaring but reason unclear; likely tied to Trump praise and quantum award"
+   "reason": "IBM stock soaring but reason unclear; likely tied to Trump praise and quantum award",
+   "price_since": {
+    "ticker": "IBM",
+    "pct": -1.3,
+    "base": 262.96,
+    "last": 259.42,
+    "base_date": "2026-06-24",
+    "last_date": "2026-06-25"
+   }
   },
   {
    "date": "2026-06-24T07:21:50Z",
@@ -386,7 +586,15 @@
    "direction": "BUY",
    "primary_ticker": "IBM",
    "strength": 75,
-   "reason": "Trump regrets selling IBM stock, now praising its fab/quantum push; strong bullish reversal signal"
+   "reason": "Trump regrets selling IBM stock, now praising its fab/quantum push; strong bullish reversal signal",
+   "price_since": {
+    "ticker": "IBM",
+    "pct": -1.3,
+    "base": 262.96,
+    "last": 259.42,
+    "base_date": "2026-06-24",
+    "last_date": "2026-06-25"
+   }
   },
   {
    "date": "2026-06-24T05:49:35Z",
@@ -730,30 +938,6 @@
     "pct": -1.7,
     "base": 54.46,
     "last": 53.51,
-    "base_date": "2026-06-23",
-    "last_date": "2026-06-24"
-   }
-  },
-  {
-   "date": "2026-06-23T11:59:44Z",
-   "platform": "News",
-   "text": "NOW Stock Rises Overnight: Trump\u2019s ServiceNow Stake Fuels Retail Buzz Around SAAS Comeback - Stocktwits \u2014 NOW Stock Rises Overnight: Trump\u2019s ServiceNow Stake Fuels Retail Buzz Around SAAS Comeback\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQcEF0OFRRa3hIWF9rS21NMTBqNk53MDA4eWFQcDJad1Z2QkQyTTdmd3prLUVaVUUwdVRSWWpCOGs3N3JaYTZCcG1KMjg1c1Q0WWdjSnlWbHkteXVxcnFoUXFZMEg4ejh0YjA4ZG5BRnBEX1huMFNaS0dXdEx4LWNEOXBLcmNpMzlCQzc1OC0yRDFKeWFMWEZzWUpNQXBWTFFDQlJ6dmFWamU5cUpFZnVfcU1ocFdTa0tfdjByTlZZUHo4QUx1QzJOMHpzZEdaZjdqSVhoWFB0cVRKZW9BbnNLMi1XYUF2MlhaZGc?oc=5",
-   "tickers": [
-    "NOW"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "NOW",
-   "strength": 60,
-   "reason": "Trump disclosed ServiceNow stake; explicit market signal fueling retail and institutional interest in SAAS recovery play.",
-   "price_since": {
-    "ticker": "NOW",
-    "pct": -1.9,
-    "base": 95.94,
-    "last": 94.1,
     "base_date": "2026-06-23",
     "last_date": "2026-06-24"
    }
@@ -2341,22 +2525,6 @@
    "primary_ticker": "SPY",
    "strength": 35,
    "reason": "Trump speech in focus with multiple retailers and tech stocks on traders' radar; direction ambiguous pending speech."
-  },
-  {
-   "date": "2026-06-18T09:13:14Z",
-   "platform": "News",
-   "text": "\"Stock markets hit record high, oil prices tumbling down\": Trump post Iran deal - lokmattimes.com \u2014 \"Stock markets hit record high, oil prices tumbling down\": Trump post Iran deal\u00a0\u00a0lokmattimes.com",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYU9KM3VkSThVQWlqeWF2MWc5LW5yNlNUTVJjYXNmWXpyX1pRMkRCbzZQTV9vMG1wLWNPUldBdHE1d2k5NUJPb0pla1VKQlpqVDMzTmVwWG9KSjY2WkNXYTJ1SzdwUmdBUnVhV0w4T21CcXlHNFRwNjdiVnV4aG9KOUxzWTNsTmtGN0x0UVpDRFVnVUJPaklQWWhMdHZINzQwX1BYUGpTbU9IQUtHYnREOHRXRTZjaU9IMGfSAb8BQVVfeXFMTl9qcnYxMU5zS1RFaks5Tm9uRWc0UkF0TnI4UXhsNEVBMDlPYzB4bDVySFo2X3R5RUxWajh1YURxckZKOWZjMURtaGdfUkRVSzA4OXlvSjMzNDZNMHlfNFdrWHJDS2dkazBoQzJUbUNiTXdoTnRZWTQ2VXd0VHpNYmp5VE45VEFveXBJS2wzRVkzUUxEZEFuMk1TaGNxQllkT3ZsTXcwQzc5U1ZycEozOUFnV1laX1ZqeXVFbmd5amM?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "SPY",
-   "strength": 60,
-   "reason": "Iran deal tied to record stock highs and tumbling oil prices; broad market bullish sentiment"
   },
   {
    "curated": true,
