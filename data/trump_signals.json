@@ -1,7 +1,41 @@
 {
- "last_updated": "2026-06-25T01:50:39Z",
+ "last_updated": "2026-06-25T06:08:07Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-06-25T03:25:00.000Z",
+   "platform": "Truth Social",
+   "text": "RT @realDonaldTrumpWow! The Senate just changed its vote on Iran from 50-48 against, to 50-47 for. Rand Paul and Bill Cassidy changed. Thank you to Leader John Thune, Lindsey Graham, Bernie Moreno, and all. This vote puts Iran on notice! President DJT",
+   "tickers": [
+    "SPY"
+   ],
+   "engagement": 0,
+   "url": "https://truthsocial.com/@realDonaldTrump/116808607334375489",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "SPY",
+   "strength": 45,
+   "reason": "Iran vote signals potential geopolitical de-escalation and reduced conflict risk; broad market tailwind"
+  },
+  {
+   "date": "2026-06-25T03:15:06.253Z",
+   "platform": "Truth Social",
+   "text": "Wow! The Senate just changed its vote on Iran from 50-48 against, to 50-47 for. Rand Paul and Bill Cassidy changed. Thank you to Leader John Thune, Lindsey Graham, Bernie Moreno, and all. This vote puts Iran on notice! President DJT",
+   "tickers": [
+    "SPY"
+   ],
+   "engagement": 6197,
+   "url": "https://truthsocial.com/@realDonaldTrump/116808568420301784",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "SPY",
+   "strength": 45,
+   "reason": "Iran vote signals potential geopolitical de-escalation and reduced conflict risk; broad market tailwind"
+  },
   {
    "date": "2026-06-24T20:25:00Z",
    "platform": "News",
@@ -51,6 +85,22 @@
    "reason": "Trump's Truth Social stock (DJT) hits all-time low; direct bearish signal on his own company"
   },
   {
+   "date": "2026-06-24T15:36:18Z",
+   "platform": "News",
+   "text": "INTC Stock Rockets Toward Best Month Ever: Something More Than A Trump Pump Could Be Powering The Rally - Stocktwits \u2014 INTC Stock Rockets Toward Best Month Ever: Something More Than A Trump Pump Could Be Powering The Rally\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQT29KOURKeHprQ2xZbmpLUUc3MGRlTTE5Y1JHVXJ5TGhldk10eENQcmZLSzRWNDQyTmJFclFNUThmZ0tBRlZUQTZ3MGF1dlZwR0Q4aUtXUnZVQ2o1MjM3cFNpU2RrejRkd2E0OXBhOVNpdDdBdDVSSTR1c2M5NTZfYlg4NEFxODg3QWpMTXd0VVIzM3pZRS10OG5JWG9QUW52UjZvbXVvQ29uZ1lJb1NwbFljM1lBN1dreHdJZDdYZ1hKTjVidndnRWlJRnl5cnNpT2llcjVuSVltVDNzVFdHbmZYTEpua3JJVllOcXIxVmdfaThfeHRzVm9R?oc=5",
+   "tickers": [
+    "INTC"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "INTC",
+   "strength": 60,
+   "reason": "Trump administration support for Intel chip production; bullish for semiconductor manufacturing and domestic capacity"
+  },
+  {
    "date": "2026-06-24T14:43:53Z",
    "platform": "News",
    "text": "Trump praised IBM's 'legend' CEO, government floated a $1B quantum award \u2014 is the stock still a 'very nice price'? - MSN \u2014 Trump praised IBM's 'legend' CEO, government floated a $1B quantum award \u2014 is the stock still a 'very nice price'?\u00a0\u00a0MSN",
@@ -83,22 +133,6 @@
    "reason": "Trump highlighted Nokia's chip production investment; explicit praise of named company."
   },
   {
-   "date": "2026-06-24T12:33:08Z",
-   "platform": "News",
-   "text": "INTC Stock Rockets Toward Best Month Ever: Something More Than A Trump Pump Could Be Powering The Rally - Stocktwits \u2014 INTC Stock Rockets Toward Best Month Ever: Something More Than A Trump Pump Could Be Powering The Rally\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQT29KOURKeHprQ2xZbmpLUUc3MGRlTTE5Y1JHVXJ5TGhldk10eENQcmZLSzRWNDQyTmJFclFNUThmZ0tBRlZUQTZ3MGF1dlZwR0Q4aUtXUnZVQ2o1MjM3cFNpU2RrejRkd2E0OXBhOVNpdDdBdDVSSTR1c2M5NTZfYlg4NEFxODg3QWpMTXd0VVIzM3pZRS10OG5JWG9QUW52UjZvbXVvQ29uZ1lJb1NwbFljM1lBN1dreHdJZDdYZ1hKTjVidndnRWlJRnl5cnNpT2llcjVuSVltVDNzVFdHbmZYTEpua3JJVllOcXIxVmdfaThfeHRzVm9R?oc=5",
-   "tickers": [
-    "INTC"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "INTC",
-   "strength": 55,
-   "reason": "Intel rallying partly on Trump-related sentiment; semiconductor sector tailwind but strength is mixed with other factors."
-  },
-  {
    "date": "2026-06-24T11:10:22Z",
    "platform": "News",
    "text": "NOK Stock Rises Pre-Market: Trump Endorsement Adds Fuel To AI Growth Push For Nokia - Stocktwits \u2014 NOK Stock Rises Pre-Market: Trump Endorsement Adds Fuel To AI Growth Push For Nokia\u00a0\u00a0Stocktwits",
@@ -113,6 +147,22 @@
    "primary_ticker": "NOK",
    "strength": 70,
    "reason": "Trump endorsement of Nokia's AI/chip growth push; bullish named company"
+  },
+  {
+   "date": "2026-06-24T10:05:03Z",
+   "platform": "News",
+   "text": "NOK stock rises pre-market: Trump endorsement adds fuel to AI growth push for Nokia - MSN \u2014 NOK stock rises pre-market: Trump endorsement adds fuel to AI growth push for Nokia\u00a0\u00a0MSN",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSmg0OTNtYjFiWG1nbFBfa2k3ZGV2eEN1Vk1ReUMySXFfQlVxMzQwSGxENlN0OGZ1UTh5MjhlQnBXU1M0bVZVc1VVTVQ2QnVhTDVKQnVRZ3FxdmZuM1lsaERENUR1S1VuVHlPQUhRTjN2aW5rVTB0aTZqVFhGajhBMl9hNXVlV2VLZmV1QWIyaGpXSEhUeGhiWXdfQ25ObXJYSjBfWC1vLTcyVzF0eW9WZ1lzdWJad3lpd1VJRURmNW1Yc2hlR3FZcDQ4ZHN4LVc1RUE?oc=5",
+   "tickers": [
+    "NOK"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "NOK",
+   "strength": 75,
+   "reason": "Trump endorsement of Nokia's chip production and AI growth; explicit bullish signal for semiconductor/AI infrastructure"
   },
   {
    "date": "2026-06-24T09:15:28Z",
@@ -2293,63 +2343,6 @@
    "primary_ticker": "TSLA",
    "strength": 50,
    "reason": "Speculative SpaceX-Tesla merger rumor; directly affects Tesla valuation but unconfirmed"
-  },
-  {
-   "date": "2026-06-18T04:29:38.755Z",
-   "platform": "Truth Social",
-   "text": "The Technology the World relies on was invented in America. We all remember \"Intel Inside.\" Stupid Presidents took our Economy for granted, and let Taiwan and others steal our Semiconductor Factories. They forgot to protect our Industries with TARIFFS. When I won my Second Term (Third, actually!), it was clear America needed its Semiconductor Industry to come back to the U.S.A. We design everything, but we need to BUILD it here, NOW! So I decided to help Intel because we need to design and build our Chips right here in America. First, we helped bring in Nvidia, and they agreed to build their first level Chips with Intel. Next, Elon agreed to build his TerraFab, the largest Chip Factory in the World, designed together with Intel's Technology team. And, finally, Apple has agreed to work with Intel to design and build its Chips in America. We decided to help Intel in exchange for 10% of their shares. Is that too much or, too little? They were worth around 100 Billion Dollars when we made our offer. Now they are worth over 600 BILLION DOLLARS! Nine months, and they've increased in value over HALF A TRILLION DOLLARS. America's stake is now over 60 Billion Dollars. When was the last time a President made America money?? Thank you for your attention to this matter! President DONALD J. TRUMP",
-   "tickers": [
-    "INTC"
-   ],
-   "engagement": 3252,
-   "url": "https://truthsocial.com/@realDonaldTrump/116769225357410422",
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "INTC",
-   "strength": 75,
-   "reason": "Trump explicitly backs Intel semiconductor strategy as U.S. manufacturing priority; bullish signal for the company"
-  },
-  {
-   "date": "2026-06-18T01:50:32Z",
-   "platform": "News",
-   "text": "PLTR Stock Faces Split Narrative: Retail Bulls Hold Firm As Burry Sounds Alarm, Trump Signals Support - Stocktwits \u2014 PLTR Stock Faces Split Narrative: Retail Bulls Hold Firm As Burry Sounds Alarm, Trump Signals Support\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSFRDSVNMdHk3NEtMbFEwQ1ZRT2tLY3h1cEFvOTVjb182Qm1QUnVqTlE2dWhzYXZpaXBoN3gyNlg4dWVWY0dldndhRDZoOGE2N2ZSMTgxb1Ayb0RWanA3a0hEeEhKWGtYRENBSGZ0d0wySmlrSWpzM1BmcXZpTUdDOXcwMVl0NXVKYjMyOEFvYmVpYk9uOVRSaWdleVNEQnZkZk1tUE5vRURtNjdubE0wTUhLSFFUbGc3OUs5UVpJQXhVTHdZLTdLTmZDQVkxMUVwd3c?oc=5",
-   "tickers": [
-    "PLTR"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "PLTR",
-   "strength": 65,
-   "reason": "Trump signals support for Palantir; explicit company mention is bullish catalyst."
-  },
-  {
-   "date": "2026-06-17T23:05:43Z",
-   "platform": "News",
-   "text": "Trump Criticizes Iran\u2019s \u2018Poor Job\u2019 On Strait Of Hormuz Oil Passage, Says This Is \u2018Not The Agreement\u2019 - Stocktwits \u2014 Trump Criticizes Iran\u2019s \u2018Poor Job\u2019 On Strait Of Hormuz Oil Passage, Says This Is \u2018Not The Agreement\u2019\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNklqd3BXWkNYTkpyNkVaVHEtX3ZrUzNsQ1N5SGExazNseld2dVE5aVIxY2pLYmFyVzU0N1RwS2RsTzhBY3p3MHpmeFB0cHRWWEtTM0FMcUtDYlZHeXZaUU1BZll4Z3RPWWFTRzFjNGJtV2owSnRBbmlHTER3SHlEczlGTFVjV19kWFA1QjBfRGtJSEw4WE9yd054OU9XdGJXVGtNVWlPenEwVTJ4Wk1xRlE0TzhRUQ?oc=5",
-   "tickers": [
-    "USO"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "USO",
-   "strength": 55,
-   "reason": "Trump criticizes Iran on oil passage; tension over agreement implies oil market volatility and downside risk.",
-   "price_since": {
-    "ticker": "USO",
-    "pct": 0.6,
-    "base": 114.23,
-    "last": 114.87,
-    "base_date": "2026-06-17",
-    "last_date": "2026-06-18"
-   }
   },
   {
    "curated": true,
