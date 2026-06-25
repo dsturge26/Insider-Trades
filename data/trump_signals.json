@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-06-25T09:44:47Z",
+ "last_updated": "2026-06-25T12:08:01Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -67,6 +67,22 @@
    "primary_ticker": "SPY",
    "strength": 45,
    "reason": "Iran vote signals potential geopolitical de-escalation and reduced conflict risk; broad market tailwind"
+  },
+  {
+   "date": "2026-06-25T02:19:13Z",
+   "platform": "News",
+   "text": "Trump's media company craters to record low as losses keep stacking up - NewsBreak: Local News & Alerts \u2014 Trump's media company craters to record low as losses keep stacking up\u00a0\u00a0NewsBreak: Local News & Alerts",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNTUyajAtVndzbU15R2FLSmpILTNUcjlkLU9TUU8xM0R3VEFyOHVjQXFDb2oyZHdFZk8yV1hkcExJMkVkeTdWTVpxUDJ0eUNPMjJfdGFJdE42UWl6ajh2RmxENWVoUjhlaElhaUpNVjJhd0RjZG5RTmJCaERkbDREQm1iRURBcUx5T0pyVVQ0UjNnY25OZFN1QmpnekFPMXZBRHNHdlVlQk5ONXBWYUxmRzhNd2lxNjRUT095STN2YUpJLUtaQnZB?oc=5",
+   "tickers": [
+    "DJT"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "SELL",
+   "primary_ticker": "DJT",
+   "strength": 75,
+   "reason": "Trump's media company (DJT/Truth Social) hits record low with mounting losses"
   },
   {
    "date": "2026-06-24T23:09:09Z",
@@ -2341,88 +2357,6 @@
    "primary_ticker": "SPY",
    "strength": 60,
    "reason": "Iran deal tied to record stock highs and tumbling oil prices; broad market bullish sentiment"
-  },
-  {
-   "date": "2026-06-18T08:32:31.915Z",
-   "platform": "Truth Social",
-   "text": "These fools, who think I haven't been tough enough on Iran, when the Stock Market Just Hit A RECORD HIGH, and Oil prices are \"tumbling\" down, are either jealous, bad people, or stupid. MAKE AMERICA GREAT AGAIN!!! President DJT",
-   "tickers": [
-    "SPY"
-   ],
-   "engagement": 4505,
-   "url": "https://truthsocial.com/@realDonaldTrump/116770180426363226",
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "SPY",
-   "strength": 35,
-   "reason": "Trump cites record-high stock market and falling oil prices; broad market bullish tone"
-  },
-  {
-   "date": "2026-06-18T08:28:21.257Z",
-   "platform": "Truth Social",
-   "text": "Trump Says He Welcomes China, India Investment in Venezuela Oil: https://www.bloomberg.com/news/articles/2026-02-01/trump-says-he-welcomes-china-india-investment-in-venezuela-oil",
-   "tickers": [
-    "USO"
-   ],
-   "engagement": 2021,
-   "url": "https://truthsocial.com/@realDonaldTrump/116770163996850294",
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "USO",
-   "strength": 30,
-   "reason": "Venezuela oil investment stance; oil-sector relevant but direction unclear (supply/geopolitical mix)"
-  },
-  {
-   "date": "2026-06-18T06:08:14Z",
-   "platform": "News",
-   "text": "QCOM Stock Is 7% From Its Record High; Executives To Join Trump In China Visit - Stocktwits \u2014 QCOM Stock Is 7% From Its Record High; Executives To Join Trump In China Visit\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVXpadHNKQ3hrQS15eXBfZVNyZkRXR2hZZGpvbUF0OFp0VHJrWUhsck53RmFDb2l4eUdfVFQwY0QyZ0tYMERtRE1aaGRVSV9ORFVQd1I4WW9VOXNPS2o2Z3RqRnVReldvOWJneGJsbl81MDRkdTQ1TFd1RVQzWHgzcS01VU9ZY0RuVHZ4TWZOQWphQjlDZVQxMkJKb21PZkJYZXNxLVhnT0xKUDVEcHZYWWUyNncyZzJwX0V1YkJUTUluTU9rTFkxZ2RLRkx6eTk0dGRLSTg1T0Nwd0toT3c?oc=5",
-   "tickers": [
-    "QCOM"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "QCOM",
-   "strength": 50,
-   "reason": "Qualcomm executives join Trump China visit; signals negotiation/deal potential; bullish for chip sector."
-  },
-  {
-   "date": "2026-06-18T06:06:42Z",
-   "platform": "News",
-   "text": "11:11 | Trump signs Iran deal, Citi turns bullish on India as oil outlook improves, and more - CNBC TV18 \u2014 11:11 | Trump signs Iran deal, Citi turns bullish on India as oil outlook improves, and more\u00a0\u00a0CNBC TV18",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQS0yaTVSY3kySndSZ282clNIdkZHTUd1d1RRMmc4emxudjNlczZTVjJVMVRCWEhpdnlkM0tuekdLVXNGRmFiUkJkdWkxNEJpNktob3NyZXhjNHJ2VmU3Z2ZUeVI3MXZ3R3UzYjNlclVmSDBKQzhDbTd4TFNEdDJ0R1JCVm1MaVdPN1NtX1h5YjE5dHBuNEpJR2JWSV9yQ1oyWWFrZHBQdUJfZGtpMEF1anlIcTNWY0tmMzk4ZzFVZVdjdWlXMElaZ9IBzgFBVV95cUxPZDYxa19nRGdhZWl0QWJwQXlwS0FqWUtjcS1tc0s3a0JFYW9meTVBYmozOTZmUjQ0Y19wSkdNbUljVmxydzFfVVBBRXFuVXVBUTZLbFlCOXp5MjAyRUlZQTRjT1R3UXJVekRWc191QlRJS0xodWpwNVA5T3U2VmdLX3MtUEdPYmE2dTR1aVZWSkJybWRVT3JOVzlqU3N1UkdWTmlUOHNWeWN2UVVaalVQeHI2YTNHOHE0SzZfOW9USUVYNkh4M3BpOEJ2am5TUQ?oc=5",
-   "tickers": [
-    "XLE"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "XLE",
-   "strength": 55,
-   "reason": "Iran deal implies oil supply constraints ease, bullish for energy sector"
-  },
-  {
-   "date": "2026-06-18T05:19:21Z",
-   "platform": "News",
-   "text": "Musk likely to merge SpaceX and Tesla into $4 trillion tech conglomerate - DT Next \u2014 Musk likely to merge SpaceX and Tesla into $4 trillion tech conglomerate\u00a0\u00a0DT Next",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNHBHc1hjVDQ0THZlRFdSMFNFTDRUbFRhUzg4b0lSTm16NF9HSVlGMzY0SENtcWgzVUIyQW45Qm4xOTFMbGdBekpxWTRQbUhDMEx2RmZhNWtDMjF3b3lrcGhSdk1yNl9kc280b0YtOFp2NzkydEFwZnY0bWlpeE51QW4zVkhnb1V2YnBUQXk2cjRlQWNXb0tWMThoUzRPaUtRNk9KVVIwRdIBtAFBVV95cUxOUFc5RTV4U0ZOSUtNUjF0UXZKcFZaNjJlMEdjOEoyUTNSMzEwQnY1aXp0QVZtbWZDTVBlYk5BQlh2eU9reElaMnZDSGJYeXlUbU5aNkRtd1o3SEU0ZWdXUTVUNlM2OVhMRG5pQlh0SC1KeVVTcWFLam5aNUstOG5ZbjVfdnl4NDJtNV9ibTNVdVpGVHlXVm1ZbWlscEZWNGZzUmpLUS04eW5taFJyZFQ3Y19PdnA?oc=5",
-   "tickers": [
-    "TSLA"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "TSLA",
-   "strength": 50,
-   "reason": "Speculative SpaceX-Tesla merger rumor; directly affects Tesla valuation but unconfirmed"
   },
   {
    "curated": true,
