@@ -1,7 +1,56 @@
 {
- "last_updated": "2026-06-26T15:41:52Z",
+ "last_updated": "2026-06-26T17:25:04Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-06-26T16:51:51Z",
+   "platform": "News",
+   "text": "Trump threatens 100% tariff on countries imposing digital services tax on US firms - Moneycontrol.com \u2014 Trump threatens 100% tariff on countries imposing digital services tax on US firms\u00a0\u00a0Moneycontrol.com",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPLUlCTkRla3JKYlQxdEROUGZxRzIxUVJnMTd2UjBHbXZETEZYMmRkbGMxSGF3SEdJZnlNa3ZvT2hPUGdGdnkxTHRGTXA1bzA5Zms0OTdrMC1uaDFQdXh5emE0bk1UQURSeW5ZODdMTUtrRFg1Yl9nRU9jTGVXZjhhQUF0QURTc2N3cmRHZi1RQTBOWWZ3LXJvS2w4RUxuZW5mNTRSbS03LXRHX0JKaVlvVEtmVnlwQjZDX0J1LU1RVHpHOTRJSWNHRFZTUklpN0dXUUhfbHBGcThRUdIB2gFBVV95cUxPLUlCTkRla3JKYlQxdEROUGZxRzIxUVJnMTd2UjBHbXZETEZYMmRkbGMxSGF3SEdJZnlNa3ZvT2hPUGdGdnkxTHRGTXA1bzA5Zms0OTdrMC1uaDFQdXh5emE0bk1UQURSeW5ZODdMTUtrRFg1Yl9nRU9jTGVXZjhhQUF0QURTc2N3cmRHZi1RQTBOWWZ3LXJvS2w4RUxuZW5mNTRSbS03LXRHX0JKaVlvVEtmVnlwQjZDX0J1LU1RVHpHOTRJSWNHRFZTUklpN0dXUUhfbHBGcThRUQ?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "SPY",
+   "strength": 72,
+   "reason": "100% tariff threat on countries with digital services tax is bearish for broad market and US exporters"
+  },
+  {
+   "date": "2026-06-26T16:30:49Z",
+   "platform": "News",
+   "text": "Trump's Bold Tariff Threat on Digital Service Tax - Devdiscourse \u2014 Trump's Bold Tariff Threat on Digital Service Tax\u00a0\u00a0Devdiscourse",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUDVvLW5RekZjR3NLWWYyXy1hOFExSnNwLVlHamQ0RmU2UjFaZ3NZUTJlY1kyUlBkWGdrWWlvMERwOHhhc05uT09DVWdPazBvV1ltZVY4YktRT2dad25BcVpkWG85dEVkRlFRckt2czJRNkRqNmZFQVB2REVZR3ktTDBZZzFjb3dSUExRNDhVSFF6UXd6aTdJYVc0S1Q0aDd4aEJZT055d1pSd9IBqgFBVV95cUxNUDVvLW5RekZjR3NLWWYyXy1hOFExSnNwLVlHamQ0RmU2UjFaZ3NZUTJlY1kyUlBkWGdrWWlvMERwOHhhc05uT09DVWdPazBvV1ltZVY4YktRT2dad25BcVpkWG85dEVkRlFRckt2czJRNkRqNmZFQVB2REVZR3ktTDBZZzFjb3dSUExRNDhVSFF6UXd6aTdJYVc0S1Q0aDd4aEJZT055d1pSdw?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "SPY",
+   "strength": 70,
+   "reason": "Tariff threat on digital services tax creates trade friction and broad market headwind"
+  },
+  {
+   "date": "2026-06-26T16:20:58.479Z",
+   "platform": "Truth Social",
+   "text": "Numerous European Countries have been discussing the imminent implementation of a Digital Services Tax on American Companies. Some of these Countries are close to actually doing this. Please let this statement serve to represent that any Country that imposes such a Tax will immediately be met with a 100% TARIFF on any and all Goods sent to the United States of America. This TARIFF will supersede Trade Deals made with the Country, whether implemented, signed, or not. Additionally, the 100% TARIFF will be immediately imposed, if they proceed. Thank you for your attention to this matter. President DONALD J. TRUMP",
+   "tickers": [
+    "SPY"
+   ],
+   "engagement": 14566,
+   "url": "https://truthsocial.com/@realDonaldTrump/116817320899062447",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "SPY",
+   "strength": 75,
+   "reason": "Direct tariff threat on European goods if digital tax imposed; trade war escalation bearish for broad market"
+  },
   {
    "date": "2026-06-26T02:31:00Z",
    "platform": "News",
@@ -35,9 +84,9 @@
    "reason": "Iran conflict escalation may support oil/energy prices.",
    "price_since": {
     "ticker": "XLE",
-    "pct": -0.3,
+    "pct": -0.5,
     "base": 54.09,
-    "last": 53.91,
+    "last": 53.82,
     "base_date": "2026-06-25",
     "last_date": "2026-06-26"
    }
@@ -61,7 +110,7 @@
     "ticker": "LLY",
     "pct": 6.6,
     "base": 1127.69,
-    "last": 1201.79,
+    "last": 1201.75,
     "base_date": "2026-06-25",
     "last_date": "2026-06-26"
    }
@@ -83,9 +132,9 @@
    "reason": "AI stocks rally on Micron strength; no Trump angle but market-relevant tech momentum",
    "price_since": {
     "ticker": "QQQ",
-    "pct": -0.3,
+    "pct": -0.5,
     "base": 716.38,
-    "last": 714.07,
+    "last": 712.63,
     "base_date": "2026-06-25",
     "last_date": "2026-06-26"
    }
@@ -107,9 +156,9 @@
    "reason": "Trump Media stock hits record low; direct bearish signal on his company",
    "price_since": {
     "ticker": "DJT",
-    "pct": 4.8,
+    "pct": 3.3,
     "base": 7.06,
-    "last": 7.4,
+    "last": 7.29,
     "base_date": "2026-06-25",
     "last_date": "2026-06-26"
    }
@@ -131,9 +180,9 @@
    "reason": "Trump explicitly supports semiconductor capacity expansion; Nokia named and gains pre-market",
    "price_since": {
     "ticker": "NOK",
-    "pct": -7.2,
+    "pct": -6.9,
     "base": 13.98,
-    "last": 12.98,
+    "last": 13.02,
     "base_date": "2026-06-25",
     "last_date": "2026-06-26"
    }
@@ -157,7 +206,7 @@
     "ticker": "LLY",
     "pct": 6.6,
     "base": 1127.69,
-    "last": 1201.57,
+    "last": 1201.75,
     "base_date": "2026-06-25",
     "last_date": "2026-06-26"
    }
@@ -179,9 +228,9 @@
    "reason": "Trump's ServiceNow stake fuels retail demand; bullish momentum",
    "price_since": {
     "ticker": "NOW",
-    "pct": 8.7,
+    "pct": 8.1,
     "base": 89.52,
-    "last": 97.28,
+    "last": 96.74,
     "base_date": "2026-06-25",
     "last_date": "2026-06-26"
    }
@@ -203,9 +252,9 @@
    "reason": "Trump praised Nokia; stock tracker flags it as notable mention post-praise",
    "price_since": {
     "ticker": "NOK",
-    "pct": -7.2,
+    "pct": -6.9,
     "base": 13.98,
-    "last": 12.98,
+    "last": 13.02,
     "base_date": "2026-06-25",
     "last_date": "2026-06-26"
    }
@@ -228,9 +277,9 @@
    "reason": "Iran vote signals potential geopolitical de-escalation and reduced conflict risk; broad market tailwind",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.2,
+    "pct": -0.0,
     "base": 734.3,
-    "last": 735.7,
+    "last": 734.04,
     "base_date": "2026-06-25",
     "last_date": "2026-06-26"
    }
@@ -253,9 +302,9 @@
    "reason": "Iran vote signals potential geopolitical de-escalation and reduced conflict risk; broad market tailwind",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.2,
+    "pct": -0.0,
     "base": 734.3,
-    "last": 735.71,
+    "last": 734.04,
     "base_date": "2026-06-25",
     "last_date": "2026-06-26"
    }
@@ -277,9 +326,9 @@
    "reason": "Trump's media company (DJT/Truth Social) hits record low with mounting losses",
    "price_since": {
     "ticker": "DJT",
-    "pct": 4.8,
+    "pct": 3.3,
     "base": 7.06,
-    "last": 7.4,
+    "last": 7.29,
     "base_date": "2026-06-25",
     "last_date": "2026-06-26"
    }
@@ -301,9 +350,9 @@
    "reason": "Trump Media stock at lowest point; company deteriorating",
    "price_since": {
     "ticker": "DJT",
-    "pct": -1.6,
+    "pct": -3.1,
     "base": 7.52,
-    "last": 7.4,
+    "last": 7.29,
     "base_date": "2026-06-24",
     "last_date": "2026-06-26"
    }
@@ -325,9 +374,9 @@
    "reason": "Trump contact with Live Nation CEO during antitrust case; ambiguous whether bullish or bearish settlement signal",
    "price_since": {
     "ticker": "LYV",
-    "pct": 4.5,
+    "pct": 4.9,
     "base": 171.47,
-    "last": 179.2,
+    "last": 179.85,
     "base_date": "2026-06-24",
     "last_date": "2026-06-26"
    }
@@ -349,9 +398,9 @@
    "reason": "Military escorts/insurance for ships amid Iran conflict supports shipping/energy hedging.",
    "price_since": {
     "ticker": "XLE",
-    "pct": 0.6,
+    "pct": 0.5,
     "base": 53.57,
-    "last": 53.91,
+    "last": 53.82,
     "base_date": "2026-06-24",
     "last_date": "2026-06-26"
    }
@@ -373,9 +422,9 @@
    "reason": "Tesla stock drop reported; indirect read on market sentiment toward Musk/Tesla",
    "price_since": {
     "ticker": "TSLA",
-    "pct": 2.9,
+    "pct": 2.6,
     "base": 375.53,
-    "last": 386.59,
+    "last": 385.24,
     "base_date": "2026-06-24",
     "last_date": "2026-06-26"
    }
@@ -397,9 +446,9 @@
    "reason": "Trump's own Truth Social/DJT stock hitting new lows; bearish signal on the asset",
    "price_since": {
     "ticker": "DJT",
-    "pct": -1.6,
+    "pct": -3.2,
     "base": 7.52,
-    "last": 7.4,
+    "last": 7.28,
     "base_date": "2026-06-24",
     "last_date": "2026-06-26"
    }
@@ -421,9 +470,9 @@
    "reason": "Semiconductor sector DRAM strength ahead of Micron earnings; chip stocks rising",
    "price_since": {
     "ticker": "SMH",
-    "pct": -0.1,
+    "pct": -0.2,
     "base": 618.92,
-    "last": 618.28,
+    "last": 617.61,
     "base_date": "2026-06-24",
     "last_date": "2026-06-26"
    }
@@ -445,9 +494,9 @@
    "reason": "FedEx beat Q4 but stock tumbled; mixed signals on forward guidance.",
    "price_since": {
     "ticker": "FDX",
-    "pct": 1.8,
+    "pct": 1.6,
     "base": 316.83,
-    "last": 322.4,
+    "last": 321.97,
     "base_date": "2026-06-24",
     "last_date": "2026-06-26"
    }
@@ -469,9 +518,9 @@
    "reason": "Trump diplomacy credited with cancer drug success; company chairman touts results.",
    "price_since": {
     "ticker": "IBRX",
-    "pct": 5.1,
+    "pct": 10.9,
     "base": 7.8,
-    "last": 8.2,
+    "last": 8.65,
     "base_date": "2026-06-24",
     "last_date": "2026-06-26"
    }
@@ -493,9 +542,9 @@
    "reason": "Trump psychedelic therapy push; ambiguous direction, early-stage catalyst",
    "price_since": {
     "ticker": "CMPS",
-    "pct": 17.1,
+    "pct": 15.8,
     "base": 12.58,
-    "last": 14.73,
+    "last": 14.57,
     "base_date": "2026-06-24",
     "last_date": "2026-06-26"
    }
@@ -517,9 +566,9 @@
    "reason": "Trump's Truth Social stock (DJT) hits all-time low; direct bearish signal on his own company",
    "price_since": {
     "ticker": "DJT",
-    "pct": -1.6,
+    "pct": -3.2,
     "base": 7.52,
-    "last": 7.4,
+    "last": 7.28,
     "base_date": "2026-06-24",
     "last_date": "2026-06-26"
    }
@@ -541,9 +590,9 @@
    "reason": "Trump administration support for Intel chip production; bullish for semiconductor manufacturing and domestic capacity",
    "price_since": {
     "ticker": "INTC",
-    "pct": -2.3,
+    "pct": -2.1,
     "base": 131.65,
-    "last": 128.66,
+    "last": 128.82,
     "base_date": "2026-06-24",
     "last_date": "2026-06-26"
    }
@@ -565,9 +614,9 @@
    "reason": "Trump explicitly praised IBM CEO as 'legend' and government considering $1B quantum award; direct positive signal",
    "price_since": {
     "ticker": "IBM",
-    "pct": 3.4,
+    "pct": 2.8,
     "base": 262.96,
-    "last": 271.83,
+    "last": 270.4,
     "base_date": "2026-06-24",
     "last_date": "2026-06-26"
    }
@@ -589,9 +638,9 @@
    "reason": "Trump highlighted Nokia's chip production investment; explicit praise of named company.",
    "price_since": {
     "ticker": "NOK",
-    "pct": -6.0,
+    "pct": -5.7,
     "base": 13.81,
-    "last": 12.98,
+    "last": 13.02,
     "base_date": "2026-06-24",
     "last_date": "2026-06-26"
    }
@@ -613,9 +662,9 @@
    "reason": "Trump Iran criticism on oil passage; ambiguous impact on energy sector and oil supplies",
    "price_since": {
     "ticker": "XLE",
-    "pct": 0.6,
+    "pct": 0.5,
     "base": 53.57,
-    "last": 53.91,
+    "last": 53.82,
     "base_date": "2026-06-24",
     "last_date": "2026-06-26"
    }
@@ -637,11 +686,11 @@
    "reason": "Chip sector rally led by Micron; semiconductor momentum play",
    "price_since": {
     "ticker": "SMH",
-    "pct": 2.9,
+    "pct": -0.2,
     "base": 618.92,
-    "last": 636.88,
+    "last": 617.61,
     "base_date": "2026-06-24",
-    "last_date": "2026-06-25"
+    "last_date": "2026-06-26"
    }
   },
   {
@@ -2572,23 +2621,6 @@
    "primary_ticker": "INTC",
    "strength": 85,
    "reason": "Trump explicitly announces Intel-Apple partnership for US chip design; market already reacted with 9% surge."
-  },
-  {
-   "date": "2026-06-18T13:59:53.481Z",
-   "platform": "Truth Social",
-   "text": "OIL IS FLOWING, IRAN CAN NEVER HAVE A NUCLEAR WEAPON (THE WORLD WILL BE SAFE!), THE STOCK MARKETS ARE ROARING, JOBS ARE AT RECORDS, AND PRICES ARE DROPPING (AFFORDABILITY!). OUR COUNTRY IS STRONG, SAFE, AND RESPECTED LIKE NEVER BEFORE. \"YOU'RE WELCOME!\" President DJT",
-   "tickers": [
-    "SPY"
-   ],
-   "engagement": 45238,
-   "url": "https://truthsocial.com/@realDonaldTrump/116771467656011073",
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "SPY",
-   "strength": 48,
-   "reason": "Broad boilerplate macro praise (strong country, jobs, prices down, markets roaring) with no specific catalyst or policy detail; generic bull sentiment."
   },
   {
    "curated": true,
