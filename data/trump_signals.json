@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-06-26T21:06:43Z",
+ "last_updated": "2026-06-26T22:36:44Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -98,6 +98,22 @@
    "primary_ticker": "SPY",
    "strength": 75,
    "reason": "Direct tariff threat on European goods if digital tax imposed; trade war escalation bearish for broad market"
+  },
+  {
+   "date": "2026-06-26T15:22:09Z",
+   "platform": "News",
+   "text": "Trump name-dropped Nokia and Eli Lilly in a Pennsylvania speech. Here's what happened to 5 other stocks he singled out - Yahoo Finance \u2014 Trump name-dropped Nokia and Eli Lilly in a Pennsylvania speech. Here's what happened to 5 other stocks he singled out\u00a0\u00a0Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcnVEdDl1MlM0cmc0YWd6ZFRSQ0kwQW5UaVkxWUMzMkNNM1dLU1A5MnNGempTeV9hMEpLd2N6WHlfNjYzYUlXRnlyMlJ1RUd5bU52Yks5V3lTLWdvZ1dQbm5NRXg3MjJ2bkJCOWMwcU1HRWp0ZFZZOFdfMjRkaVRzTU81VXBxdEFXbFhKa1o0emVhanRPVUtDaQ?oc=5",
+   "tickers": [
+    "LLY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "LLY",
+   "strength": 70,
+   "reason": "Trump explicitly name-dropped Eli Lilly and Nokia in public speech; direct company mentions are bullish signals."
   },
   {
    "date": "2026-06-26T10:39:42Z",
@@ -2587,22 +2603,6 @@
    "primary_ticker": "SPY",
    "strength": 25,
    "reason": "Canadian market weakness; indirect US market signal but no specific Trump catalyst stated."
-  },
-  {
-   "date": "2026-06-18T23:08:31Z",
-   "platform": "News",
-   "text": "SPCX Stock Dips On Profit-Taking Despite Investment-Grade Ratings - Stocktwits \u2014 SPCX Stock Dips On Profit-Taking Despite Investment-Grade Ratings\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNUw1b2xhTEFJVmgwQ09GZ3dvX0FrMTZ5bEJ6RDdraFRBa2pvVHA1WlQ5b2xRVnVRcnJ3MThhejVnbUtLZzdyekR3OU9nVFF1cHo5bzdjWFVhb3piOVFmem9jTmhNc3I2WWRyV1hfSWprRDY4SUduMGRaamM0VkFsajlWWFN2YUZSYW1SemVjYWVYSW54OGNKUlNwSE9MT3Q0cUNtejJIQXA1aWJOLUFvLXRiZ2NpeVl4Vk9pMjlKTXRwZlpnRHNzVw?oc=5",
-   "tickers": [
-    "SPCX"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "SPCX",
-   "strength": 30,
-   "reason": "SPCX dips on profit-taking despite ratings; profit-taking pressure overrides fundamentals."
   },
   {
    "curated": true,
