@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-06-26T22:36:44Z",
+ "last_updated": "2026-06-26T23:47:28Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -114,6 +114,22 @@
    "primary_ticker": "LLY",
    "strength": 70,
    "reason": "Trump explicitly name-dropped Eli Lilly and Nokia in public speech; direct company mentions are bullish signals."
+  },
+  {
+   "date": "2026-06-26T13:58:23Z",
+   "platform": "News",
+   "text": "Citi stock hits 52-week high before fading as Trump lauds bank's 'big comeback' in M&A \u2014 but full picture has changed now - MSN \u2014 Citi stock hits 52-week high before fading as Trump lauds bank's 'big comeback' in M&A \u2014 but full picture has changed now\u00a0\u00a0MSN",
+   "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNRUxieUVzd3VSZTJldkozUDg0SWpNZE9hRUswNXhZU2NKb0hWZDYwazJjdkgzQXZVUGZUUE1KZFFzX09mbl90bXhyWlotQTlWSElVQWRuUmV6N2tKY09ZaXU3eGJXcllDdFNsaDNTTmFBYU5KS0p4OFhJd3p5M0oxRnlnRmJqVFRVbzlZMkdjeEQtS2xKemtiTUNJdEM0UHBlaEE0enNuT0RQeEg3cjF2cHQ5NHYyTTZkVlRtZ1h2WnJCWW1WZTJkT1pzZGdGVC1KSGRpMTZYRkZ0eGR2TkRnZ0MxRVBTdENUaGp5QnJRQi1hS2JXNXZreHBqQXlHem0zRXRKczVZN2tYbmxwbVIta3FRUnNKNXRabC1VN3pIZ05hdnM?oc=5",
+   "tickers": [
+    "C"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "C",
+   "strength": 60,
+   "reason": "Trump lauds Citi's M&A comeback; explicit praise of named bank"
   },
   {
    "date": "2026-06-26T10:39:42Z",
@@ -1235,30 +1251,6 @@
     "pct": -0.7,
     "base": 264.94,
     "last": 262.96,
-    "base_date": "2026-06-23",
-    "last_date": "2026-06-24"
-   }
-  },
-  {
-   "date": "2026-06-23T14:20:57Z",
-   "platform": "News",
-   "text": "Citi stock hits 52-week high before fading as Trump lauds bank's 'big comeback' in M&A \u2014 but full picture has changed now - MSN \u2014 Citi stock hits 52-week high before fading as Trump lauds bank's 'big comeback' in M&A \u2014 but full picture has changed now\u00a0\u00a0MSN",
-   "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNRUxieUVzd3VSZTJldkozUDg0SWpNZE9hRUswNXhZU2NKb0hWZDYwazJjdkgzQXZVUGZUUE1KZFFzX09mbl90bXhyWlotQTlWSElVQWRuUmV6N2tKY09ZaXU3eGJXcllDdFNsaDNTTmFBYU5KS0p4OFhJd3p5M0oxRnlnRmJqVFRVbzlZMkdjeEQtS2xKemtiTUNJdEM0UHBlaEE0enNuT0RQeEg3cjF2cHQ5NHYyTTZkVlRtZ1h2WnJCWW1WZTJkT1pzZGdGVC1KSGRpMTZYRkZ0eGR2TkRnZ0MxRVBTdENUaGp5QnJRQi1hS2JXNXZreHBqQXlHem0zRXRKczVZN2tYbmxwbVIta3FRUnNKNXRabC1VN3pIZ05hdnM?oc=5",
-   "tickers": [
-    "C"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "WATCH",
-   "primary_ticker": "C",
-   "strength": 55,
-   "reason": "Trump lauds Citi's M&A comeback; explicit praise but broader context shifted.",
-   "price_since": {
-    "ticker": "C",
-    "pct": -0.6,
-    "base": 144.97,
-    "last": 144.05,
     "base_date": "2026-06-23",
     "last_date": "2026-06-24"
    }
@@ -2587,22 +2579,6 @@
    "primary_ticker": "SOFI",
    "strength": 40,
    "reason": "Analysts discussing SoFi bull case; market-relevant stock discussion but not driven by Trump signal; direction ambiguous."
-  },
-  {
-   "date": "2026-06-19T00:26:38Z",
-   "platform": "News",
-   "text": "Markets in Toronto Get Slammed - Baystreet.ca \u2014 Markets in Toronto Get Slammed\u00a0\u00a0Baystreet.ca",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4xZ3VBOUFKQ3ZULUh5LVRhWndYS292RzI5LWpWMm9teldCQVZzNEVfcGpZenNXWkxhdEJNSGFoYjNRZkdSQTZTYjlBUnhoRDg2bV81VXBfc2VDSkNpN0F1edIBfEFVX3lxTE5XaVhqUV93WE1VdTRQX0JjenZhWVdwYnlUXzhBMEJQbGdWUEx5UTJzMWozNXBJZmhVSWY2VGdWTEdFcDJrVC1ya1VhOTRrU0Rwd1Z5SVhjT3lnMEdrOHZTd3hDVzJiNV9kMHZ4UTVjMEx2YTFVS0kwWklIZks?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "SPY",
-   "strength": 25,
-   "reason": "Canadian market weakness; indirect US market signal but no specific Trump catalyst stated."
   },
   {
    "curated": true,
