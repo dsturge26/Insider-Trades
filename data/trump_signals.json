@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-06-26T04:40:13Z",
+ "last_updated": "2026-06-26T08:20:55Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -17,6 +17,22 @@
    "primary_ticker": "LLY",
    "strength": 65,
    "reason": "Trump praised Eli Lilly; Pelosi tracker flagged it, suggesting bullish sentiment on the stock."
+  },
+  {
+   "date": "2026-06-25T20:46:07Z",
+   "platform": "News",
+   "text": "Trump Threatens Iran With 'Very Hard' Strikes If War Escalates - Stocktwits \u2014 Trump Threatens Iran With 'Very Hard' Strikes If War Escalates\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNEh4a3I1NnVNc2c2RjRnQ1lBaXVVdjdfbUlrd1lvbWVHenFiNFpRNjZ0OGRMbWhLTFlseFpRbjZtRFc2QkJTdmlFX0hKOV8yRVhLOXROY0xHUDZVVUhLYjZ3dkhsT19seTVGSnllYTk0TkxVNW1ESTR6UXJ2LUNjZzBhVlFlSFFYWEo2a1gtQ1YzX1YxUTdzWktnYW1remYwYkt6NHRsZkhwUQ?oc=5",
+   "tickers": [
+    "XLE"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "XLE",
+   "strength": 45,
+   "reason": "Iran conflict escalation may support oil/energy prices."
   },
   {
    "date": "2026-06-25T20:34:03Z",
@@ -205,6 +221,30 @@
    }
   },
   {
+   "date": "2026-06-24T22:54:29Z",
+   "platform": "News",
+   "text": "Trump Announces Insurance, Military Escorts For Ships Amid Escalating US-Israel-Iran War - Stocktwits \u2014 Trump Announces Insurance, Military Escorts For Ships Amid Escalating US-Israel-Iran War\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOMTZIVmNWdjV5YXktQnlieFJCOGxkZnB1cXZLdEdVQ2FhTk9pN0NPOTdOY0xxRHVuRHV5ODlndElnRUc0UmVFUE1YTV9wWkcwWW1NVGQ0N3BfRS1sLTFvbmp1blBVbnF6dG1pY0VPQlc4NDRITEQ4X1JrM0dSOFNqUGRTUE0yY2wxNWltbTVLSU1SMGJPTDRuQTFHa0tmOHFxZ2daUS12X3RtZ1hQbUFQOE1KVkZfSVZpSmJIREVEc3g3Tk9pRU1KNTVtWWdxeThHeW1vOVVEY2lCR0VGRjJFX0taWDRndw?oc=5",
+   "tickers": [
+    "XLE"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "XLE",
+   "strength": 50,
+   "reason": "Military escorts/insurance for ships amid Iran conflict supports shipping/energy hedging.",
+   "price_since": {
+    "ticker": "XLE",
+    "pct": 1.0,
+    "base": 53.57,
+    "last": 54.09,
+    "base_date": "2026-06-24",
+    "last_date": "2026-06-25"
+   }
+  },
+  {
    "date": "2026-06-24T22:45:00Z",
    "platform": "News",
    "text": "Elon Musk loses trillionaire status as SpaceX and Tesla stock drops - The Guardian \u2014 Elon Musk loses trillionaire status as SpaceX and Tesla stock drops\u00a0\u00a0The Guardian",
@@ -272,6 +312,30 @@
     "pct": 2.9,
     "base": 618.92,
     "last": 636.88,
+    "base_date": "2026-06-24",
+    "last_date": "2026-06-25"
+   }
+  },
+  {
+   "date": "2026-06-24T19:13:33Z",
+   "platform": "News",
+   "text": "FDX Stock Tumbles Pre-Market Despite Q4 Beat: CEO Says FedEx Is On Track For 2029 Goals - Stocktwits \u2014 FDX Stock Tumbles Pre-Market Despite Q4 Beat: CEO Says FedEx Is On Track For 2029 Goals\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOOExWOE11Q05WeTBLMGtRa3duTmh6WnFrSURpUjJ1cVdPcEpHdXc4aDhIQzBUelFsdkhXeVJ0VXhaNGtRWEluQ056V2xiV3N3aEtDTkpmQkFVSTM2eDV6RGlLaEczYVNaQ1puaHdHa3ZFM3hzS2xJRGcyQVFFMnFlWGVyOWtCMUYydU5Rc0ZoVThuamk3UXBpSURiSDZWdVJ1eEllanFISTJZcTRwOFFNMmJUbTItMnVUZDJ4THZHRHhGc3B1U2I3cU42aWZtUlZnTzVaLVpNX284WWdoVFBEZk1Ibjkzdw?oc=5",
+   "tickers": [
+    "FDX"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "FDX",
+   "strength": 40,
+   "reason": "FedEx beat Q4 but stock tumbled; mixed signals on forward guidance.",
+   "price_since": {
+    "ticker": "FDX",
+    "pct": 4.0,
+    "base": 316.83,
+    "last": 329.44,
     "base_date": "2026-06-24",
     "last_date": "2026-06-25"
    }
@@ -512,30 +576,6 @@
     "pct": 1.2,
     "base": 13.81,
     "last": 13.98,
-    "base_date": "2026-06-24",
-    "last_date": "2026-06-25"
-   }
-  },
-  {
-   "date": "2026-06-24T09:15:28Z",
-   "platform": "News",
-   "text": "FDX Stock Tumbles Pre-Market Despite Q4 Beat: CEO Says FedEx Is On Track For 2029 Goals - Stocktwits \u2014 FDX Stock Tumbles Pre-Market Despite Q4 Beat: CEO Says FedEx Is On Track For 2029 Goals\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOOExWOE11Q05WeTBLMGtRa3duTmh6WnFrSURpUjJ1cVdPcEpHdXc4aDhIQzBUelFsdkhXeVJ0VXhaNGtRWEluQ056V2xiV3N3aEtDTkpmQkFVSTM2eDV6RGlLaEczYVNaQ1puaHdHa3ZFM3hzS2xJRGcyQVFFMnFlWGVyOWtCMUYydU5Rc0ZoVThuamk3UXBpSURiSDZWdVJ1eEllanFISTJZcTRwOFFNMmJUbTItMnVUZDJ4THZHRHhGc3B1U2I3cU42aWZtUlZnTzVaLVpNX284WWdoVFBEZk1Ibjkzdw?oc=5",
-   "tickers": [
-    "FDX"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "FDX",
-   "strength": 40,
-   "reason": "FedEx beat Q4 but stock tumbled pre-market; direction ambiguous, likely driven by broader market/macro factors rather than Trump signal.",
-   "price_since": {
-    "ticker": "FDX",
-    "pct": 4.0,
-    "base": 316.83,
-    "last": 329.44,
     "base_date": "2026-06-24",
     "last_date": "2026-06-25"
    }
@@ -1456,30 +1496,6 @@
    }
   },
   {
-   "date": "2026-06-22T04:11:41Z",
-   "platform": "News",
-   "text": "Trump Threatens Iran With 'Very Hard' Strikes If War Escalates - Stocktwits \u2014 Trump Threatens Iran With 'Very Hard' Strikes If War Escalates\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNEh4a3I1NnVNc2c2RjRnQ1lBaXVVdjdfbUlrd1lvbWVHenFiNFpRNjZ0OGRMbWhLTFlseFpRbjZtRFc2QkJTdmlFX0hKOV8yRVhLOXROY0xHUDZVVUhLYjZ3dkhsT19seTVGSnllYTk0TkxVNW1ESTR6UXJ2LUNjZzBhVlFlSFFYWEo2a1gtQ1YzX1YxUTdzWktnYW1remYwYkt6NHRsZkhwUQ?oc=5",
-   "tickers": [
-    "USO"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "USO",
-   "strength": 65,
-   "reason": "Iran escalation threats create geopolitical uncertainty; oil prices and defense sector volatile.",
-   "price_since": {
-    "ticker": "USO",
-    "pct": -1.3,
-    "base": 112.69,
-    "last": 111.26,
-    "base_date": "2026-06-22",
-    "last_date": "2026-06-23"
-   }
-  },
-  {
    "date": "2026-06-22T03:49:06Z",
    "platform": "News",
    "text": "Why Did CRM, INTU, FOXA Stocks Hit 52-Week Lows Last Week? - Stocktwits \u2014 Why Did CRM, INTU, FOXA Stocks Hit 52-Week Lows Last Week?\u00a0\u00a0Stocktwits",
@@ -2156,22 +2172,6 @@
    "reason": "Trump criticizes past inflation under previous admin; macro political messaging; Warsh swearing-in may signal Fed/monetary policy shift"
   },
   {
-   "date": "2026-06-19T16:47:43Z",
-   "platform": "News",
-   "text": "Trump Announces Insurance, Military Escorts For Ships Amid Escalating US-Israel-Iran War - Stocktwits \u2014 Trump Announces Insurance, Military Escorts For Ships Amid Escalating US-Israel-Iran War\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOMTZIVmNWdjV5YXktQnlieFJCOGxkZnB1cXZLdEdVQ2FhTk9pN0NPOTdOY0xxRHVuRHV5ODlndElnRUc0UmVFUE1YTV9wWkcwWW1NVGQ0N3BfRS1sLTFvbmp1blBVbnF6dG1pY0VPQlc4NDRITEQ4X1JrM0dSOFNqUGRTUE0yY2wxNWltbTVLSU1SMGJPTDRuQTFHa0tmOHFxZ2daUS12X3RtZ1hQbUFQOE1KVkZfSVZpSmJIREVEc3g3Tk9pRU1KNTVtWWdxeThHeW1vOVVEY2lCR0VGRjJFX0taWDRndw?oc=5",
-   "tickers": [
-    "XLE"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "XLE",
-   "strength": 55,
-   "reason": "Military escorts and insurance for ships amid Iran tensions supports oil/shipping market upside"
-  },
-  {
    "date": "2026-06-19T13:44:34Z",
    "platform": "News",
    "text": "This Is Trump\u2019s Most Controversial Trade of 2026 - Yahoo Finance \u2014 This Is Trump\u2019s Most Controversial Trade of 2026\u00a0\u00a0Yahoo Finance",
@@ -2492,23 +2492,6 @@
    "primary_ticker": "AAPL",
    "strength": 60,
    "reason": "Apple CEO signals rising memory chip costs will force price increases; bearish margin/demand signal."
-  },
-  {
-   "date": "2026-06-18T13:59:53.481Z",
-   "platform": "Truth Social",
-   "text": "OIL IS FLOWING, IRAN CAN NEVER HAVE A NUCLEAR WEAPON (THE WORLD WILL BE SAFE!), THE STOCK MARKETS ARE ROARING, JOBS ARE AT RECORDS, AND PRICES ARE DROPPING (AFFORDABILITY!). OUR COUNTRY IS STRONG, SAFE, AND RESPECTED LIKE NEVER BEFORE. \"YOU'RE WELCOME!\" President DJT",
-   "tickers": [
-    "SPY"
-   ],
-   "engagement": 34707,
-   "url": "https://truthsocial.com/@realDonaldTrump/116771467656011073",
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "SPY",
-   "strength": 45,
-   "reason": "Trump praises stock market rally, oil flow, jobs, and price drops; broad market bullish macro commentary."
   },
   {
    "curated": true,
