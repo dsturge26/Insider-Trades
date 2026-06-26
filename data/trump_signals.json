@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-06-26T08:20:55Z",
+ "last_updated": "2026-06-26T11:23:17Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -195,6 +195,30 @@
    "primary_ticker": "DJT",
    "strength": 75,
    "reason": "Trump's media company (DJT/Truth Social) hits record low with mounting losses"
+  },
+  {
+   "date": "2026-06-24T23:57:13Z",
+   "platform": "News",
+   "text": "Trump\u2019s Truth Social stock just hit its lowest point ever - MSN \u2014 Trump\u2019s Truth Social stock just hit its lowest point ever\u00a0\u00a0MSN",
+   "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQX3lJYUNmQWRGdFZNUWpWWHg2NTRBcjFaOUVVUTg5bHJSWHRPeHNXTlhtVUluSEZNa0U4SzB2UUJwakdZSEVmT0Nob0JKc0tINUwwNlUyQl9rdVh0dFR6WDV3aWp5Qm1mTUx0YlYzdEJIYVdkTTNyakRhWk83Qk5uT243Z1ZLR1RLR3ludjVxS1lvNXNhUjNORnYtRXRzTENUR09XbzhjWW8tRVBHelRxeEVLLTNhVUFCUzM5MDJOOC1vMzRuamRxY24tVTNBay1WRF9BYmNlZFM0ZF9VZXJRTExncnE0emZKajE1R1ZVb3dJR25sQW5JMDN5emU2WWRtR1NGUlJzZmgxN1JmSzlRVkF3aDFKUi11bEVxaGtjdzlObXJxZTFWWjlDandLRTRPbUkxX0FkM05lTEpHbFp5V0kzd1JLem8?oc=5",
+   "tickers": [
+    "DJT"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "DJT",
+   "strength": 70,
+   "reason": "Trump Media stock at lowest point; company deteriorating",
+   "price_since": {
+    "ticker": "DJT",
+    "pct": -6.1,
+    "base": 7.52,
+    "last": 7.06,
+    "base_date": "2026-06-24",
+    "last_date": "2026-06-25"
+   }
   },
   {
    "date": "2026-06-24T23:09:09Z",
