@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-06-25T22:47:32Z",
+ "last_updated": "2026-06-26T00:09:58Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -81,6 +81,22 @@
    "primary_ticker": "LLY",
    "strength": 68,
    "reason": "Trump praised Eli Lilly and Nokia; tracker flags both as actionable picks post-praise"
+  },
+  {
+   "date": "2026-06-25T08:51:48Z",
+   "platform": "News",
+   "text": "NOW Stock Rises Overnight: Trump\u2019s ServiceNow Stake Fuels Retail Buzz Around SAAS Comeback - Stocktwits \u2014 NOW Stock Rises Overnight: Trump\u2019s ServiceNow Stake Fuels Retail Buzz Around SAAS Comeback\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQcEF0OFRRa3hIWF9rS21NMTBqNk53MDA4eWFQcDJad1Z2QkQyTTdmd3prLUVaVUUwdVRSWWpCOGs3N3JaYTZCcG1KMjg1c1Q0WWdjSnlWbHkteXVxcnFoUXFZMEg4ejh0YjA4ZG5BRnBEX1huMFNaS0dXdEx4LWNEOXBLcmNpMzlCQzc1OC0yRDFKeWFMWEZzWUpNQXBWTFFDQlJ6dmFWamU5cUpFZnVfcU1ocFdTa0tfdjByTlZZUHo4QUx1QzJOMHpzZEdaZjdqSVhoWFB0cVRKZW9BbnNLMi1XYUF2MlhaZGc?oc=5",
+   "tickers": [
+    "NOW"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "NOW",
+   "strength": 60,
+   "reason": "Trump's ServiceNow stake fuels retail demand; bullish momentum"
   },
   {
    "date": "2026-06-25T08:03:27Z",
@@ -192,30 +208,6 @@
     "pct": -0.1,
     "base": 375.53,
     "last": 375.12,
-    "base_date": "2026-06-24",
-    "last_date": "2026-06-25"
-   }
-  },
-  {
-   "date": "2026-06-24T21:23:02Z",
-   "platform": "News",
-   "text": "NOW Stock Rises Overnight: Trump\u2019s ServiceNow Stake Fuels Retail Buzz Around SAAS Comeback - Stocktwits \u2014 NOW Stock Rises Overnight: Trump\u2019s ServiceNow Stake Fuels Retail Buzz Around SAAS Comeback\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQcEF0OFRRa3hIWF9rS21NMTBqNk53MDA4eWFQcDJad1Z2QkQyTTdmd3prLUVaVUUwdVRSWWpCOGs3N3JaYTZCcG1KMjg1c1Q0WWdjSnlWbHkteXVxcnFoUXFZMEg4ejh0YjA4ZG5BRnBEX1huMFNaS0dXdEx4LWNEOXBLcmNpMzlCQzc1OC0yRDFKeWFMWEZzWUpNQXBWTFFDQlJ6dmFWamU5cUpFZnVfcU1ocFdTa0tfdjByTlZZUHo4QUx1QzJOMHpzZEdaZjdqSVhoWFB0cVRKZW9BbnNLMi1XYUF2MlhaZGc?oc=5",
-   "tickers": [
-    "NOW"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "NOW",
-   "strength": 60,
-   "reason": "Trump holds ServiceNow stake; reported overnight stock rise on his involvement",
-   "price_since": {
-    "ticker": "NOW",
-    "pct": -4.6,
-    "base": 93.8,
-    "last": 89.52,
     "base_date": "2026-06-24",
     "last_date": "2026-06-25"
    }
@@ -2501,22 +2493,6 @@
    "primary_ticker": "SPY",
    "strength": 45,
    "reason": "Trump praises stock market rally, oil flow, jobs, and price drops; broad market bullish macro commentary."
-  },
-  {
-   "date": "2026-06-18T10:40:03Z",
-   "platform": "News",
-   "text": "Trump: Apple to partner with Intel on chip design - Sharecast.com \u2014 Trump: Apple to partner with Intel on chip design\u00a0\u00a0Sharecast.com",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUHdiWGplUktOU2Y4XzctdVQtYjR1RTBuUUZNcnY3RkFFand0YWw3VmN5M2hrbEh2QVctYjFRa3NoWlF3OFRFWGpudWpyWGVxZVA5QTRBRHJhd2FjZWlrdGdQSFRYSTVlcV9CQlBmakZzN1h4UTJqT0x1ZnhZcktBV0NySTJ2eVRDTy1jOXdCWWFkSVp2dG1QZEFRc0dxam94d00xX0plaXlKcjRxam1UWnptR2Iyc3o1bXZrMVVKZw?oc=5",
-   "tickers": [
-    "INTC"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "INTC",
-   "strength": 85,
-   "reason": "Trump announces Apple-Intel chip design partnership; bullish for Intel"
   },
   {
    "curated": true,
