@@ -1,7 +1,39 @@
 {
- "last_updated": "2026-06-26T23:47:28Z",
+ "last_updated": "2026-06-27T03:29:38Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-06-26T22:43:50Z",
+   "platform": "News",
+   "text": "'We are making a lot of money with India': Trump praises PM Modi, backs US-India trade agreement - MSN \u2014 'We are making a lot of money with India': Trump praises PM Modi, backs US-India trade agreement\u00a0\u00a0MSN",
+   "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxOMkhXSkh2MUh1aC1hak93MUhNVzVlOTRKLXlRaXVMblhoMjJzS3d2bTVGTTR3ZGRkdVNPSHFrQ1M4cVVsb1c4bEdrSEc0NXFscHU4cF9TUG85VHYtZGZmb2JaU2FRelNEODJsT0k0bU8yc2xfRjZkODJ3ajdOS3c5QXB1dTNmbEl1eXdJd1dGTURCbGtfeTVDczJoRHAteDdIaDZxYk9qcXpxemg2dXpmNWVPNUxuaUdXU2lLRC1LNENZdVF5ME1BSkxTWUtIRjk5c2RqZmxLMzlmdmwxRU1lMU5RbnR5cTNFTkJ5VWVfckVrUEl5aFBPd043ZlJGQXJ5b082UkMxTGtaTno5VjlvZ1RtdGhmVEU0ZXdHTjJrcmxVNzZhVjRXSlBMUEcta3c1a1dsV2dZMnFIMEV4ampDcVFDZzNRUTFBTk5xODhKd3ZmLTlYOHpDMkRrSkNtbml3Qmo3V1E5SnVWVjNsMTR2QmFjWm5UUHc?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "SPY",
+   "strength": 35,
+   "reason": "US-India trade agreement praised; macro bullish sentiment on trade deal"
+  },
+  {
+   "date": "2026-06-26T19:45:00Z",
+   "platform": "News",
+   "text": "Trump threatens 100% tariff on countries taxing digital services (Update) (GOOG:NASDAQ) - Seeking Alpha \u2014 Trump threatens 100% tariff on countries taxing digital services (Update) (GOOG:NASDAQ)\u00a0\u00a0Seeking Alpha",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWmxSMGh1bUoteHJJeUdVQVZtbTBXR1NVSDFSMnVyMmRWTUdQU3dtRTNzUHhsaFM0R0t2TU1tbVRpRV9BNVI1TUhCQWhnaW5SdlZHVmRoaXBGMjZkcUt2Mm51bTlLQnhGNGdsTjVNQ1pMQlNPVHVYbURiX2JvWDRaa0F1Q1ktbThZX2ZBWk5RVEM2N2pCdmJVOTRjS2FaN0pnZFNz?oc=5",
+   "tickers": [
+    "GOOG"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "SELL",
+   "primary_ticker": "GOOG",
+   "strength": 60,
+   "reason": "100% tariff threat on digital services tax directly targets Google and big tech"
+  },
   {
    "date": "2026-06-26T19:33:00Z",
    "platform": "News",
@@ -2563,22 +2595,6 @@
    "primary_ticker": "SMH",
    "strength": 55,
    "reason": "Chips rally and Iran deal optimism boost semiconductor sector and broad market sentiment."
-  },
-  {
-   "date": "2026-06-19T00:38:45Z",
-   "platform": "News",
-   "text": "Is SOFI Stock \u2018One Of The Easiest\u2019 Longs? Why The Bull Case Is Still Intact According To 3 Analysts - Stocktwits \u2014 Is SOFI Stock \u2018One Of The Easiest\u2019 Longs? Why The Bull Case Is Still Intact According To 3 Analysts\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaEViT0pDUkg2UEo2R21neHhvcnFUTFFYWXcyN0xmaTctN1MwOTRLRFNoNEN3NEpYMDNmQTNYblRaSC1Bb0RjSGItYTQ2VExfdTVScEZ2MVZGZFozUXdEWmRyUlgzeGpqOHc1aG8ySUVvTmxST3pic0VZV1ZIZTFkc0lmZWs1YVhGOWN2OUVEbmlpeFhJVDBKYUZiVnBYN2cyYzJ3VzNFeHduZ2Z3Q3VaWnl0Snl4NkFCOUE?oc=5",
-   "tickers": [
-    "SOFI"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "SOFI",
-   "strength": 40,
-   "reason": "Analysts discussing SoFi bull case; market-relevant stock discussion but not driven by Trump signal; direction ambiguous."
   },
   {
    "curated": true,
