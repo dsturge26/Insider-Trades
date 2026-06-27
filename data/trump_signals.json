@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-06-27T03:29:38Z",
+ "last_updated": "2026-06-27T06:43:15Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -49,6 +49,38 @@
    "primary_ticker": "TSLA",
    "strength": 35,
    "reason": "Praise of Elon Musk's infrastructure project; mild bullish signal for Tesla but not a direct market call."
+  },
+  {
+   "date": "2026-06-26T17:48:13Z",
+   "platform": "News",
+   "text": "FDX Stock Tumbles Pre-Market Despite Q4 Beat: CEO Says FedEx Is On Track For 2029 Goals - Stocktwits \u2014 FDX Stock Tumbles Pre-Market Despite Q4 Beat: CEO Says FedEx Is On Track For 2029 Goals\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOOExWOE11Q05WeTBLMGtRa3duTmh6WnFrSURpUjJ1cVdPcEpHdXc4aDhIQzBUelFsdkhXeVJ0VXhaNGtRWEluQ056V2xiV3N3aEtDTkpmQkFVSTM2eDV6RGlLaEczYVNaQ1puaHdHa3ZFM3hzS2xJRGcyQVFFMnFlWGVyOWtCMUYydU5Rc0ZoVThuamk3UXBpSURiSDZWdVJ1eEllanFISTJZcTRwOFFNMmJUbTItMnVUZDJ4THZHRHhGc3B1U2I3cU42aWZtUlZnTzVaLVpNX284WWdoVFBEZk1Ibjkzdw?oc=5",
+   "tickers": [
+    "FDX"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "FDX",
+   "strength": 40,
+   "reason": "FedEx beat earnings but stock tumbled; mixed signal requires monitoring"
+  },
+  {
+   "date": "2026-06-26T17:37:53Z",
+   "platform": "News",
+   "text": "SK Hynix Targets $29B Nasdaq Offering \u2013 DRAM Jumps Over 4% Ahead Of Micron's Report - Stocktwits \u2014 SK Hynix Targets $29B Nasdaq Offering \u2013 DRAM Jumps Over 4% Ahead Of Micron's Report\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQVWh6bUc2UTNReFhfeldjczVpMzFLU2p6VXZEalVfSUd2MnFTbURJamJSWjdYdWNSaElTY3R2aG9YR1U2bDM1U3ljSXYxeTFJVUQxdVlrdlRLeEk2ZzlJNS10bEkyOTVKdWxVcEdfemFzdUFTMkNnUnhEYWdfTWJhOW9FX2dYcnVaYjJsQ1hDVVBTUXJwTTFlcjRUVWROYUFwcnJOZ0oteUJsWEFuUGdpaGJJejVhczZFZjZaa3F4Rk1scW9jalotbjh6S19rWkZTTXNjckVDaEtfOFZE?oc=5",
+   "tickers": [
+    "MU"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "MU",
+   "strength": 45,
+   "reason": "SK Hynix capital raise and DRAM strength presage Micron positive report"
   },
   {
    "date": "2026-06-26T17:20:50Z",
@@ -164,6 +196,22 @@
    "reason": "Trump lauds Citi's M&A comeback; explicit praise of named bank"
   },
   {
+   "date": "2026-06-26T11:48:00Z",
+   "platform": "News",
+   "text": "Trump vows 100% tariff on countries imposing digital services tax on US firms - chinadailyhk \u2014 Trump vows 100% tariff on countries imposing digital services tax on US firms\u00a0\u00a0chinadailyhk",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9oSzNsWmpyNFoxZjd6YXc0NFR1ZWxHSXV6S3paUl9XUGxENU9YbnhjNUcwUTAyMDVCR2JLb18yU0tzcXI3TTlkTlRwM2cwWVIzSnYwSTFR?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "SPY",
+   "strength": 55,
+   "reason": "100% tariff vow on digital services tax is bearish macro signal"
+  },
+  {
    "date": "2026-06-26T10:39:42Z",
    "platform": "News",
    "text": "$1,000 PLTR investment when President Trump praised Palantir is now worth - Finbold \u2014 $1,000 PLTR investment when President Trump praised Palantir is now worth\u00a0\u00a0Finbold",
@@ -178,6 +226,22 @@
    "primary_ticker": "PLTR",
    "strength": 55,
    "reason": "Reference to Trump praise of Palantir driving strong returns; implies bullish sentiment on company."
+  },
+  {
+   "date": "2026-06-26T03:17:28Z",
+   "platform": "News",
+   "text": "INTC Stock Rockets Toward Best Month Ever: Something More Than A Trump Pump Could Be Powering The Rally - Stocktwits \u2014 INTC Stock Rockets Toward Best Month Ever: Something More Than A Trump Pump Could Be Powering The Rally\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQT29KOURKeHprQ2xZbmpLUUc3MGRlTTE5Y1JHVXJ5TGhldk10eENQcmZLSzRWNDQyTmJFclFNUThmZ0tBRlZUQTZ3MGF1dlZwR0Q4aUtXUnZVQ2o1MjM3cFNpU2RrejRkd2E0OXBhOVNpdDdBdDVSSTR1c2M5NTZfYlg4NEFxODg3QWpMTXd0VVIzM3pZRS10OG5JWG9QUW52UjZvbXVvQ29uZ1lJb1NwbFljM1lBN1dreHdJZDdYZ1hKTjVidndnRWlJRnl5cnNpT2llcjVuSVltVDNzVFdHbmZYTEpua3JJVllOcXIxVmdfaThfeHRzVm9R?oc=5",
+   "tickers": [
+    "INTC"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "INTC",
+   "strength": 55,
+   "reason": "Intel rally driven by Trump support and semiconductor policy tailwinds"
   },
   {
    "date": "2026-06-26T02:31:00Z",
@@ -257,15 +321,7 @@
    "direction": "BUY",
    "primary_ticker": "QQQ",
    "strength": 45,
-   "reason": "AI stocks rally on Micron strength; no Trump angle but market-relevant tech momentum",
-   "price_since": {
-    "ticker": "QQQ",
-    "pct": -1.4,
-    "base": 716.38,
-    "last": 706.52,
-    "base_date": "2026-06-25",
-    "last_date": "2026-06-26"
-   }
+   "reason": "AI stocks rally on Micron strength; no Trump angle but market-relevant tech momentum"
   },
   {
    "date": "2026-06-25T11:44:51Z",
@@ -402,15 +458,7 @@
    "direction": "BUY",
    "primary_ticker": "SPY",
    "strength": 45,
-   "reason": "Iran vote signals potential geopolitical de-escalation and reduced conflict risk; broad market tailwind",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": -0.7,
-    "base": 734.3,
-    "last": 728.99,
-    "base_date": "2026-06-25",
-    "last_date": "2026-06-26"
-   }
+   "reason": "Iran vote signals potential geopolitical de-escalation and reduced conflict risk; broad market tailwind"
   },
   {
    "date": "2026-06-25T03:15:06.253Z",
@@ -582,54 +630,6 @@
    }
   },
   {
-   "date": "2026-06-24T20:05:38Z",
-   "platform": "News",
-   "text": "SK Hynix Targets $29B Nasdaq Offering \u2013 DRAM Jumps Over 4% Ahead Of Micron's Report - Stocktwits \u2014 SK Hynix Targets $29B Nasdaq Offering \u2013 DRAM Jumps Over 4% Ahead Of Micron's Report\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQVWh6bUc2UTNReFhfeldjczVpMzFLU2p6VXZEalVfSUd2MnFTbURJamJSWjdYdWNSaElTY3R2aG9YR1U2bDM1U3ljSXYxeTFJVUQxdVlrdlRLeEk2ZzlJNS10bEkyOTVKdWxVcEdfemFzdUFTMkNnUnhEYWdfTWJhOW9FX2dYcnVaYjJsQ1hDVVBTUXJwTTFlcjRUVWROYUFwcnJOZ0oteUJsWEFuUGdpaGJJejVhczZFZjZaa3F4Rk1scW9jalotbjh6S19rWkZTTXNjckVDaEtfOFZE?oc=5",
-   "tickers": [
-    "SMH"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "SMH",
-   "strength": 45,
-   "reason": "Semiconductor sector DRAM strength ahead of Micron earnings; chip stocks rising",
-   "price_since": {
-    "ticker": "SMH",
-    "pct": -1.2,
-    "base": 618.92,
-    "last": 611.61,
-    "base_date": "2026-06-24",
-    "last_date": "2026-06-26"
-   }
-  },
-  {
-   "date": "2026-06-24T19:13:33Z",
-   "platform": "News",
-   "text": "FDX Stock Tumbles Pre-Market Despite Q4 Beat: CEO Says FedEx Is On Track For 2029 Goals - Stocktwits \u2014 FDX Stock Tumbles Pre-Market Despite Q4 Beat: CEO Says FedEx Is On Track For 2029 Goals\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOOExWOE11Q05WeTBLMGtRa3duTmh6WnFrSURpUjJ1cVdPcEpHdXc4aDhIQzBUelFsdkhXeVJ0VXhaNGtRWEluQ056V2xiV3N3aEtDTkpmQkFVSTM2eDV6RGlLaEczYVNaQ1puaHdHa3ZFM3hzS2xJRGcyQVFFMnFlWGVyOWtCMUYydU5Rc0ZoVThuamk3UXBpSURiSDZWdVJ1eEllanFISTJZcTRwOFFNMmJUbTItMnVUZDJ4THZHRHhGc3B1U2I3cU42aWZtUlZnTzVaLVpNX284WWdoVFBEZk1Ibjkzdw?oc=5",
-   "tickers": [
-    "FDX"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "FDX",
-   "strength": 40,
-   "reason": "FedEx beat Q4 but stock tumbled; mixed signals on forward guidance.",
-   "price_since": {
-    "ticker": "FDX",
-    "pct": 0.5,
-    "base": 316.83,
-    "last": 318.53,
-    "base_date": "2026-06-24",
-    "last_date": "2026-06-26"
-   }
-  },
-  {
    "date": "2026-06-24T18:42:34Z",
    "platform": "News",
    "text": "IBRX Stock Rally Not Over Yet? Chairman Says Trump Diplomacy Led To \u2018Amazing Results\u2019 For Cancer Drug - Stocktwits \u2014 IBRX Stock Rally Not Over Yet? Chairman Says Trump Diplomacy Led To \u2018Amazing Results\u2019 For Cancer Drug\u00a0\u00a0Stocktwits",
@@ -697,30 +697,6 @@
     "pct": -1.5,
     "base": 7.52,
     "last": 7.41,
-    "base_date": "2026-06-24",
-    "last_date": "2026-06-26"
-   }
-  },
-  {
-   "date": "2026-06-24T15:36:18Z",
-   "platform": "News",
-   "text": "INTC Stock Rockets Toward Best Month Ever: Something More Than A Trump Pump Could Be Powering The Rally - Stocktwits \u2014 INTC Stock Rockets Toward Best Month Ever: Something More Than A Trump Pump Could Be Powering The Rally\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQT29KOURKeHprQ2xZbmpLUUc3MGRlTTE5Y1JHVXJ5TGhldk10eENQcmZLSzRWNDQyTmJFclFNUThmZ0tBRlZUQTZ3MGF1dlZwR0Q4aUtXUnZVQ2o1MjM3cFNpU2RrejRkd2E0OXBhOVNpdDdBdDVSSTR1c2M5NTZfYlg4NEFxODg3QWpMTXd0VVIzM3pZRS10OG5JWG9QUW52UjZvbXVvQ29uZ1lJb1NwbFljM1lBN1dreHdJZDdYZ1hKTjVidndnRWlJRnl5cnNpT2llcjVuSVltVDNzVFdHbmZYTEpua3JJVllOcXIxVmdfaThfeHRzVm9R?oc=5",
-   "tickers": [
-    "INTC"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "INTC",
-   "strength": 60,
-   "reason": "Trump administration support for Intel chip production; bullish for semiconductor manufacturing and domestic capacity",
-   "price_since": {
-    "ticker": "INTC",
-    "pct": -2.1,
-    "base": 131.65,
-    "last": 128.82,
     "base_date": "2026-06-24",
     "last_date": "2026-06-26"
    }
@@ -2579,22 +2555,6 @@
    "primary_ticker": "C",
    "strength": 45,
    "reason": "Trump explicitly praises Citigroup bankers as working hard; direct positive sentiment on major bank"
-  },
-  {
-   "date": "2026-06-19T00:51:24Z",
-   "platform": "News",
-   "text": "Wall Street advances on chips and Iran deal optimism - CommBank \u2014 Wall Street advances on chips and Iran deal optimism\u00a0\u00a0CommBank",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMEpNQk5lOHQ1dGVVOUxyNVM4OUp2VUpfUkh1Vnc3WHdzaTMwZW9kV3cwVWJUOGNSQ0o1bjVYd2FXNFp2bGFlTGI5NWQtbldXdVpPWk9aNmlPbWp2SWk0YUxRVTJoMUc2YjdES3VwNi0ydkFUQVBBbk9MUGEtWnIwYjdTUHBfSzk0SG43SkYwdWxybm9YYmwtZElDcUotUmxHYUJ1OUY1YXlVOGh5ZjBHaQ?oc=5",
-   "tickers": [
-    "SMH"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "SMH",
-   "strength": 55,
-   "reason": "Chips rally and Iran deal optimism boost semiconductor sector and broad market sentiment."
   },
   {
    "curated": true,
