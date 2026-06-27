@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-06-27T20:45:09Z",
+ "last_updated": "2026-06-27T21:46:32Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -373,9 +373,9 @@
    "reason": "Eric Trump bullish crypto call ($1M bitcoin target); Trump family endorsement of bitcoin upside",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": 0.3,
+    "pct": 0.2,
     "base": 60016.43,
-    "last": 60168.32,
+    "last": 60141.92,
     "base_date": "2026-06-26",
     "last_date": "2026-06-27"
    }
@@ -474,7 +474,15 @@
    "direction": "BUY",
    "primary_ticker": "XLE",
    "strength": 45,
-   "reason": "Iran conflict escalation may support oil/energy prices."
+   "reason": "Iran conflict escalation may support oil/energy prices.",
+   "price_since": {
+    "ticker": "XLE",
+    "pct": -0.5,
+    "base": 54.09,
+    "last": 53.84,
+    "base_date": "2026-06-25",
+    "last_date": "2026-06-26"
+   }
   },
   {
    "date": "2026-06-25T20:34:03Z",
@@ -490,7 +498,15 @@
    "direction": "BUY",
    "primary_ticker": "LLY",
    "strength": 75,
-   "reason": "Trump explicitly touts Eli Lilly's $3.5B factory investment and weight-loss pill plans, direct company praise."
+   "reason": "Trump explicitly touts Eli Lilly's $3.5B factory investment and weight-loss pill plans, direct company praise.",
+   "price_since": {
+    "ticker": "LLY",
+    "pct": 7.1,
+    "base": 1127.69,
+    "last": 1208.12,
+    "base_date": "2026-06-25",
+    "last_date": "2026-06-26"
+   }
   },
   {
    "date": "2026-06-25T20:15:43Z",
@@ -506,7 +522,15 @@
    "direction": "WATCH",
    "primary_ticker": "DJT",
    "strength": 15,
-   "reason": "Stock quote reference is a market instrument, not a directional signal"
+   "reason": "Stock quote reference is a market instrument, not a directional signal",
+   "price_since": {
+    "ticker": "DJT",
+    "pct": 5.1,
+    "base": 7.06,
+    "last": 7.42,
+    "base_date": "2026-06-25",
+    "last_date": "2026-06-26"
+   }
   },
   {
    "date": "2026-06-25T12:42:00Z",
@@ -522,7 +546,15 @@
    "direction": "BUY",
    "primary_ticker": "QQQ",
    "strength": 45,
-   "reason": "AI stocks rally on Micron strength; no Trump angle but market-relevant tech momentum"
+   "reason": "AI stocks rally on Micron strength; no Trump angle but market-relevant tech momentum",
+   "price_since": {
+    "ticker": "QQQ",
+    "pct": -1.4,
+    "base": 716.38,
+    "last": 706.52,
+    "base_date": "2026-06-25",
+    "last_date": "2026-06-26"
+   }
   },
   {
    "date": "2026-06-25T11:44:51Z",
@@ -651,6 +683,22 @@
    "primary_ticker": "NOK",
    "strength": 60,
    "reason": "Trump praised Nokia; stock tracker flags it as notable mention post-praise"
+  },
+  {
+   "date": "2026-06-25T05:51:02Z",
+   "platform": "News",
+   "text": "Trump Media stock hits record low amid political troubles - MSN \u2014 Trump Media stock hits record low amid political troubles\u00a0\u00a0MSN",
+   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPWVVoalBlMGl4bXptdDU1T0wzVzRTMWdYWUN0WElzU3l1UEFhWngzdUhjbnZTOUdqdERxTmNTNDJiQ3ZiUWNjQTU4MG1VeXVLQW5WSEZ2S2lCZVJsOVpzenpZcVZxQWJVZV9RYmpWZ3l0T3liOVk4SnNoa3RIWmtra25OQ1dGNEo2NlpqcHZjQTRIRDk5VmpnWDdNeUczVHFGWmUxYjR4a2hUR3RpcHNERmRVRU5ZYk40bzBzZ0NsRGxyTUdHdG5lZzBEX3NtcmdTRkVxZkl4VGdTTW1HSzF2Uk03RHE4dVFQX0IzdUZHT2pyUQ?oc=5",
+   "tickers": [
+    "DJT"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "DJT",
+   "strength": 75,
+   "reason": "Trump Media at record low amid political troubles; bearish fundamental deterioration"
   },
   {
    "date": "2026-06-25T03:25:00.000Z",
