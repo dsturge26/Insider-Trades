@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-06-27T15:40:59Z",
+ "last_updated": "2026-06-27T16:47:29Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -277,6 +277,22 @@
    "reason": "Trump lauds Citi's M&A comeback; explicit praise of named bank"
   },
   {
+   "date": "2026-06-26T13:21:51Z",
+   "platform": "News",
+   "text": "IBRX Stock Rallies Into Trump\u2019s Big SOTU Night \u2014 Here\u2019s What Traders Think Could Fuel The Next Move - Stocktwits \u2014 IBRX Stock Rallies Into Trump\u2019s Big SOTU Night \u2014 Here\u2019s What Traders Think Could Fuel The Next Move\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWFdFall2YVNMN3Rialp3SE9sU0h6YUQ1MDFiX2JaeXMxNlFFZUZveFU0TkVxUFI4cTQ5bW5VdkFlTDd1dFNwSUN2YTRtRl83aVRRXzZ6d09TeEhlR1NJb1JaMHlMWDhrQXpmZW40c1B1Y21KNjhxdm90Ny1uU3p4MzJZSW9GNGduMEdyRzFIU2RGLWlYWXg4TFJUU0N6ZlhFemxtUmprVXY0YkVRZk5vZHljazQ?oc=5",
+   "tickers": [
+    "IBRX"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "IBRX",
+   "strength": 40,
+   "reason": "IBRX rallying before SOTU; Trump connection implied but direction unclear without his stated view"
+  },
+  {
    "date": "2026-06-26T11:48:00Z",
    "platform": "News",
    "text": "Trump vows 100% tariff on countries imposing digital services tax on US firms - chinadailyhk \u2014 Trump vows 100% tariff on countries imposing digital services tax on US firms\u00a0\u00a0chinadailyhk",
@@ -341,9 +357,9 @@
    "reason": "Eric Trump bullish crypto call ($1M bitcoin target); Trump family endorsement of bitcoin upside",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": 1.2,
+    "pct": 1.1,
     "base": 60016.43,
-    "last": 60716.51,
+    "last": 60670.9,
     "base_date": "2026-06-26",
     "last_date": "2026-06-27"
    }
@@ -2131,30 +2147,6 @@
    }
   },
   {
-   "date": "2026-06-21T20:29:16Z",
-   "platform": "News",
-   "text": "IBRX Stock Rallies Into Trump\u2019s Big SOTU Night \u2014 Here\u2019s What Traders Think Could Fuel The Next Move - Stocktwits \u2014 IBRX Stock Rallies Into Trump\u2019s Big SOTU Night \u2014 Here\u2019s What Traders Think Could Fuel The Next Move\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWFdFall2YVNMN3Rialp3SE9sU0h6YUQ1MDFiX2JaeXMxNlFFZUZveFU0TkVxUFI4cTQ5bW5VdkFlTDd1dFNwSUN2YTRtRl83aVRRXzZ6d09TeEhlR1NJb1JaMHlMWDhrQXpmZW40c1B1Y21KNjhxdm90Ny1uU3p4MzJZSW9GNGduMEdyRzFIU2RGLWlYWXg4TFJUU0N6ZlhFemxtUmprVXY0YkVRZk5vZHljazQ?oc=5",
-   "tickers": [
-    "IBRX"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "IBRX",
-   "strength": 40,
-   "reason": "IBRX rallies around Trump SOTU; direction ambiguous\u2014could be rally continuation or mean reversion",
-   "price_since": {
-    "ticker": "IBRX",
-    "pct": 3.3,
-    "base": 7.22,
-    "last": 7.46,
-    "base_date": "2026-06-22",
-    "last_date": "2026-06-23"
-   }
-  },
-  {
    "date": "2026-06-21T19:28:51Z",
    "platform": "News",
    "text": "US launches trade investigation into Germany over drug pricing - AOL.com \u2014 US launches trade investigation into Germany over drug pricing\u00a0\u00a0AOL.com",
@@ -2500,38 +2492,6 @@
    "primary_ticker": "DJT",
    "strength": 45,
    "reason": "Trump's personal stock trading activity suggests market positioning but direction unclear"
-  },
-  {
-   "date": "2026-06-19T19:46:09Z",
-   "platform": "News",
-   "text": "Trump Says Americans 'Suffered The Worst Inflation' Under Previous Admin \u2014 A Look At The Highlights Of Kevin Warsh's Swearing-In Ceremony - Stocktwits \u2014 Trump Says Americans 'Suffered The Worst Inflation' Under Previous Admin \u2014 A Look At The Highlights Of Kevin Warsh's Swearing-In Ceremony\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPYmpvZ204ZHowVmlTYmF5Ym5nWm9CcjZNc09zY3h4anU3d0xfTFRacFU0SlRjc25ESlNPT2NJUENCcjZuQUdoaEFFV0pHQlBid1dSbkdubTlDcGhGT2NFZ3F1ODhaSjBjbjl4SHpGcGVxUURvS05yZjFETzBsS3NMNGlkSE4wWkJuQVlqeFByZjdHZ1hQVXAtS0l6SUtoeUtpNzNTSVQ0MGQtN3hEdTd0bUlnNGt2Nzc4YjdFbHV3UnJUcmxQd1NZZWtHRlowMXhsTUIwcA?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "SPY",
-   "strength": 40,
-   "reason": "Trump criticizes past inflation under previous admin; macro political messaging; Warsh swearing-in may signal Fed/monetary policy shift"
-  },
-  {
-   "date": "2026-06-19T13:44:34Z",
-   "platform": "News",
-   "text": "This Is Trump\u2019s Most Controversial Trade of 2026 - Yahoo Finance \u2014 This Is Trump\u2019s Most Controversial Trade of 2026\u00a0\u00a0Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQN1Zud1pKelFJQ1hqdk9VSGFPRnRfaTNhT2kzcFNtR1J5dFFCeV8tcnYwdWdEemU3MTg2WHF1eE16OE9uc0pVcTVoY3A0dlJlY2hpT09OVnVCOTZvdElnajFTTW44WHBzSHBRaS1OdnJtZTlIdTh5LUYwQ3paM1FrQkpQQzV0cjFvMEx3azZvTDh0cXV5Qnk5X2ZSU1dEX0paYWc?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "SPY",
-   "strength": 25,
-   "reason": "Headline references controversial Trump trade but lacks specificity on direction or impact"
   },
   {
    "curated": true,
