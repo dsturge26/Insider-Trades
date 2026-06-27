@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-06-27T06:43:15Z",
+ "last_updated": "2026-06-27T09:17:40Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-06-27T04:36:47Z",
+   "platform": "News",
+   "text": "Trump Threatens 100% Tariffs That Would \u2018Supersede Trade Deals\u2019 For Countries Taxing American Tech Giants - Benzinga \u2014 Trump Threatens 100% Tariffs That Would \u2018Supersede Trade Deals\u2019 For Countries Taxing American Tech Giants\u00a0\u00a0Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPLVQ1S2ZGWFh2aWVEekFQWnpVZk8tTVM0a3FrOXkyUDBfSVNnRkdCeEJfS1V1emtYMXdfVE1JY1pUSGlMdnZWaHM5d09mRlpWR09OY0tTdzlrYVlFM2ZUYms2c2d6QnJybzJKWWgtbFJrbkUxLWlHYmlmRTRPUVluT0c1YUlZd0czd2ZfUDNwMWpuSkwtMll0Z09VOUk0MzF6c3F1dlFnX1NKajg2RDB6YzBza3ZpTWN6bVFVXzF6SGp2SFR4amNqWlpUeDR0TnB4RC1DWEJpZnFwUG5pTnhVTFZzQzY1QjRqdXl4YUlCOWdKSWpyT3k1OWFKTEZKU3ZLazV5a1o4bll1Z28wQi1mUWh6Wk0?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "SPY",
+   "strength": 75,
+   "reason": "100% tariff threat on countries taxing US tech firms is bearish for broad equities and tech sector"
+  },
   {
    "date": "2026-06-26T22:43:50Z",
    "platform": "News",
@@ -228,6 +244,38 @@
    "reason": "Reference to Trump praise of Palantir driving strong returns; implies bullish sentiment on company."
   },
   {
+   "date": "2026-06-26T04:51:55Z",
+   "platform": "News",
+   "text": "Trump Announces Insurance, Military Escorts For Ships Amid Escalating US-Israel-Iran War - Stocktwits \u2014 Trump Announces Insurance, Military Escorts For Ships Amid Escalating US-Israel-Iran War\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOMTZIVmNWdjV5YXktQnlieFJCOGxkZnB1cXZLdEdVQ2FhTk9pN0NPOTdOY0xxRHVuRHV5ODlndElnRUc0UmVFUE1YTV9wWkcwWW1NVGQ0N3BfRS1sLTFvbmp1blBVbnF6dG1pY0VPQlc4NDRITEQ4X1JrM0dSOFNqUGRTUE0yY2wxNWltbTVLSU1SMGJPTDRuQTFHa0tmOHFxZ2daUS12X3RtZ1hQbUFQOE1KVkZfSVZpSmJIREVEc3g3Tk9pRU1KNTVtWWdxeThHeW1vOVVEY2lCR0VGRjJFX0taWDRndw?oc=5",
+   "tickers": [
+    "XLE"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "XLE",
+   "strength": 50,
+   "reason": "Trump announces military/insurance support for ships amid Iran tensions; bullish for energy/shipping sectors"
+  },
+  {
+   "date": "2026-06-26T03:20:16Z",
+   "platform": "News",
+   "text": "Trump regrets once selling IBM\u2019s stock. Now he\u2019s cheering its quantum future and dealing its shares. - MSN \u2014 Trump regrets once selling IBM\u2019s stock. Now he\u2019s cheering its quantum future and dealing its shares.\u00a0\u00a0MSN",
+   "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQT043MVh5ckhpY3NOTlk2U1J1QmYzQzRKdlhLQWdEWFowbV9jVHdmT2lYNDN1dF82c1E1ZTFQZjBaVUczcmYtMDJnR1VIYVJtaWFocGxWWm42SmZFcTBBZVYtRnBGSTU0RXhJQnJ6dDRBTmxRcVY2Y1ZTeXpqQWZpaGNlcW84c1BYOHlKSWMtNnhRSGZFUlJfdDRjLWx4TXdVY0hvQXFScUY1eGUxN08ybEMzZ3VTckkwUXk4VE1DUWdMdFBCU2UwcmJyTlVpOFJ6NmN4Rmh1cFBjanZudW9ubGlZVVNrZk9PNzJNM1N0MngxTkh4b3VlMEUyaHBycVVOY0F3Ng?oc=5",
+   "tickers": [
+    "IBM"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "IBM",
+   "strength": 65,
+   "reason": "Trump explicitly regrets selling IBM, now cheers quantum future; dual explicit bullish signal on IBM stock"
+  },
+  {
    "date": "2026-06-26T03:17:28Z",
    "platform": "News",
    "text": "INTC Stock Rockets Toward Best Month Ever: Something More Than A Trump Pump Could Be Powering The Rally - Stocktwits \u2014 INTC Stock Rockets Toward Best Month Ever: Something More Than A Trump Pump Could Be Powering The Rally\u00a0\u00a0Stocktwits",
@@ -273,15 +321,7 @@
    "direction": "BUY",
    "primary_ticker": "XLE",
    "strength": 45,
-   "reason": "Iran conflict escalation may support oil/energy prices.",
-   "price_since": {
-    "ticker": "XLE",
-    "pct": -0.5,
-    "base": 54.09,
-    "last": 53.84,
-    "base_date": "2026-06-25",
-    "last_date": "2026-06-26"
-   }
+   "reason": "Iran conflict escalation may support oil/energy prices."
   },
   {
    "date": "2026-06-25T20:34:03Z",
@@ -297,15 +337,7 @@
    "direction": "BUY",
    "primary_ticker": "LLY",
    "strength": 75,
-   "reason": "Trump explicitly touts Eli Lilly's $3.5B factory investment and weight-loss pill plans, direct company praise.",
-   "price_since": {
-    "ticker": "LLY",
-    "pct": 7.1,
-    "base": 1127.69,
-    "last": 1208.12,
-    "base_date": "2026-06-25",
-    "last_date": "2026-06-26"
-   }
+   "reason": "Trump explicitly touts Eli Lilly's $3.5B factory investment and weight-loss pill plans, direct company praise."
   },
   {
    "date": "2026-06-25T12:42:00Z",
@@ -337,15 +369,7 @@
    "direction": "SELL",
    "primary_ticker": "DJT",
    "strength": 75,
-   "reason": "Trump Media stock hits record low; direct bearish signal on his company",
-   "price_since": {
-    "ticker": "DJT",
-    "pct": 5.1,
-    "base": 7.06,
-    "last": 7.42,
-    "base_date": "2026-06-25",
-    "last_date": "2026-06-26"
-   }
+   "reason": "Trump Media stock hits record low; direct bearish signal on his company"
   },
   {
    "date": "2026-06-25T10:55:53Z",
@@ -361,15 +385,7 @@
    "direction": "BUY",
    "primary_ticker": "NOK",
    "strength": 72,
-   "reason": "Trump explicitly supports semiconductor capacity expansion; Nokia named and gains pre-market",
-   "price_since": {
-    "ticker": "NOK",
-    "pct": -6.9,
-    "base": 13.98,
-    "last": 13.01,
-    "base_date": "2026-06-25",
-    "last_date": "2026-06-26"
-   }
+   "reason": "Trump explicitly supports semiconductor capacity expansion; Nokia named and gains pre-market"
   },
   {
    "date": "2026-06-25T09:23:51Z",
@@ -385,15 +401,7 @@
    "direction": "BUY",
    "primary_ticker": "LLY",
    "strength": 68,
-   "reason": "Trump praised Eli Lilly and Nokia; tracker flags both as actionable picks post-praise",
-   "price_since": {
-    "ticker": "LLY",
-    "pct": 7.1,
-    "base": 1127.69,
-    "last": 1208.12,
-    "base_date": "2026-06-25",
-    "last_date": "2026-06-26"
-   }
+   "reason": "Trump praised Eli Lilly and Nokia; tracker flags both as actionable picks post-praise"
   },
   {
    "date": "2026-06-25T08:51:48Z",
@@ -409,15 +417,7 @@
    "direction": "BUY",
    "primary_ticker": "NOW",
    "strength": 60,
-   "reason": "Trump's ServiceNow stake fuels retail demand; bullish momentum",
-   "price_since": {
-    "ticker": "NOW",
-    "pct": 9.9,
-    "base": 89.52,
-    "last": 98.34,
-    "base_date": "2026-06-25",
-    "last_date": "2026-06-26"
-   }
+   "reason": "Trump's ServiceNow stake fuels retail demand; bullish momentum"
   },
   {
    "date": "2026-06-25T08:03:27Z",
@@ -433,15 +433,7 @@
    "direction": "BUY",
    "primary_ticker": "NOK",
    "strength": 60,
-   "reason": "Trump praised Nokia; stock tracker flags it as notable mention post-praise",
-   "price_since": {
-    "ticker": "NOK",
-    "pct": -6.9,
-    "base": 13.98,
-    "last": 13.01,
-    "base_date": "2026-06-25",
-    "last_date": "2026-06-26"
-   }
+   "reason": "Trump praised Nokia; stock tracker flags it as notable mention post-praise"
   },
   {
    "date": "2026-06-25T03:25:00.000Z",
@@ -553,30 +545,6 @@
     "pct": 4.7,
     "base": 171.47,
     "last": 179.46,
-    "base_date": "2026-06-24",
-    "last_date": "2026-06-26"
-   }
-  },
-  {
-   "date": "2026-06-24T22:54:29Z",
-   "platform": "News",
-   "text": "Trump Announces Insurance, Military Escorts For Ships Amid Escalating US-Israel-Iran War - Stocktwits \u2014 Trump Announces Insurance, Military Escorts For Ships Amid Escalating US-Israel-Iran War\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOMTZIVmNWdjV5YXktQnlieFJCOGxkZnB1cXZLdEdVQ2FhTk9pN0NPOTdOY0xxRHVuRHV5ODlndElnRUc0UmVFUE1YTV9wWkcwWW1NVGQ0N3BfRS1sLTFvbmp1blBVbnF6dG1pY0VPQlc4NDRITEQ4X1JrM0dSOFNqUGRTUE0yY2wxNWltbTVLSU1SMGJPTDRuQTFHa0tmOHFxZ2daUS12X3RtZ1hQbUFQOE1KVkZfSVZpSmJIREVEc3g3Tk9pRU1KNTVtWWdxeThHeW1vOVVEY2lCR0VGRjJFX0taWDRndw?oc=5",
-   "tickers": [
-    "XLE"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "XLE",
-   "strength": 50,
-   "reason": "Military escorts/insurance for ships amid Iran conflict supports shipping/energy hedging.",
-   "price_since": {
-    "ticker": "XLE",
-    "pct": 0.5,
-    "base": 53.57,
-    "last": 53.84,
     "base_date": "2026-06-24",
     "last_date": "2026-06-26"
    }
@@ -2539,22 +2507,6 @@
    "primary_ticker": "PRAX",
    "strength": 50,
    "reason": "Praxis Precision shares rally on price target hikes with analyst 100% upside; analyst-driven not Trump-driven, but market-moving stock event."
-  },
-  {
-   "date": "2026-06-19T01:59:50Z",
-   "platform": "News",
-   "text": "Trump praises Citigroup bankers in post: 'They've worked really hard!' - MSN \u2014 Trump praises Citigroup bankers in post: 'They've worked really hard!'\u00a0\u00a0MSN",
-   "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxPYWxoR3pQM0lrVGVCZ2ZyS1FPTEh4ay1KMGJXOUxKVHJnVTlWbmhDZDN4QTdQeTJWQXpDWHNQSlg5UXUzQU1xVjRBaDQ1cTVfVzY1am5nSk9qOHl3QnRJMjFsX0dBRFgweUpZWDlpOW91VWR4ME9oRkR2UkhtZ1ZlTHRtazFCTzNCM1BYQUFfMmstYVNhRllMSGY5WFh0OWtDN2NBTk85a2JERlVWWFdaeUNfbkpVS0NwVHlGUnJvc0J1aTlRSUtpYjVGQ3hOeFRTc2psS3diZmdmX253RlRsaVNjTFBTNEJYLTJicmxiODhORHRVSk91WDVpZk5FRXYwRUNITzY3Z1ZINkRiSERxcXdVS2JDX1c5ckVGd29nZmNGWEZ5aGRsUnRFbnB4bllWN3UxMjNoakN4X0hjb0lJYVFPMlRlREthZEVkTGlXZ04yRjRWaXVqOUhSUERpdnVOd1VJalVJTFZ1YW5KdXI5bTllbGtVQQ?oc=5",
-   "tickers": [
-    "C"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "C",
-   "strength": 45,
-   "reason": "Trump explicitly praises Citigroup bankers as working hard; direct positive sentiment on major bank"
   },
   {
    "curated": true,
