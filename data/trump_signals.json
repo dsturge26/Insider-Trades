@@ -1,7 +1,24 @@
 {
- "last_updated": "2026-06-27T09:17:40Z",
+ "last_updated": "2026-06-27T11:11:23Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-06-27T10:03:35.027Z",
+   "platform": "Truth Social",
+   "text": "RT @realDonaldTrumpNumerous European Countries have been discussing the imminent implementation of a Digital Services Tax on American Companies. Some of these Countries are close to actually doing this. Please let this statement serve to represent that any Country that imposes such a Tax will immediately be met with a 100% TARIFF on any and all Goods sent to the United States of America. This TARIFF will supersede Trade Deals made with the Country, whether implemented, signed, or not. Additionally, the 100% TARIFF will be immediately imposed, if they proceed. Thank you for your attention to this matter. President DONALD J. TRUMP",
+   "tickers": [
+    "SPY"
+   ],
+   "engagement": 0,
+   "url": "https://truthsocial.com/@realDonaldTrump/116821499250670683",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "SPY",
+   "strength": 75,
+   "reason": "100% tariff threat on countries imposing digital services tax is broad trade escalation, bearish macro signal"
+  },
   {
    "date": "2026-06-27T04:36:47Z",
    "platform": "News",
@@ -244,6 +261,30 @@
    "reason": "Reference to Trump praise of Palantir driving strong returns; implies bullish sentiment on company."
   },
   {
+   "date": "2026-06-26T04:54:42Z",
+   "platform": "News",
+   "text": "Eric Trump Doubles Down On $1 Million Bitcoin Call \u2013 Says Crypto Is \u2018On The One-Yard Line\u2019 - Stocktwits \u2014 Eric Trump Doubles Down On $1 Million Bitcoin Call \u2013 Says Crypto Is \u2018On The One-Yard Line\u2019\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNX1pmRkZXRjdiRW5hMjBIczJUNUJIdGF6aldVWUh5a3NyTXlfM2RqczdicF96cDk3T1hqNmpNLWp5QXBJT0JkcWpJU0VzWXpUVWFFRkVEWlN6LTBCLUFkSGswd3BkRGZNWDZBa1pwdUtwTWpwUVlONEF6Ny1pMHpReUtsa2VNenVURDltcjRQcmFNWU1xT1RWOWMtdGdGenJ6Q0R6UnVSTS1qZlhkb1NsUHFxYTV2OW5wWjJVdmpLWkxFa3BaN1JSenpEX2o5VUFCSnFXT0FfM1B5alJNQ3c?oc=5",
+   "tickers": [
+    "BTC-USD"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "BTC-USD",
+   "strength": 50,
+   "reason": "Eric Trump bullish crypto call ($1M bitcoin target); Trump family endorsement of bitcoin upside",
+   "price_since": {
+    "ticker": "BTC-USD",
+    "pct": 0.5,
+    "base": 60016.43,
+    "last": 60295.98,
+    "base_date": "2026-06-26",
+    "last_date": "2026-06-27"
+   }
+  },
+  {
    "date": "2026-06-26T04:51:55Z",
    "platform": "News",
    "text": "Trump Announces Insurance, Military Escorts For Ships Amid Escalating US-Israel-Iran War - Stocktwits \u2014 Trump Announces Insurance, Military Escorts For Ships Amid Escalating US-Israel-Iran War\u00a0\u00a0Stocktwits",
@@ -321,7 +362,15 @@
    "direction": "BUY",
    "primary_ticker": "XLE",
    "strength": 45,
-   "reason": "Iran conflict escalation may support oil/energy prices."
+   "reason": "Iran conflict escalation may support oil/energy prices.",
+   "price_since": {
+    "ticker": "XLE",
+    "pct": -0.5,
+    "base": 54.09,
+    "last": 53.84,
+    "base_date": "2026-06-25",
+    "last_date": "2026-06-26"
+   }
   },
   {
    "date": "2026-06-25T20:34:03Z",
@@ -337,7 +386,15 @@
    "direction": "BUY",
    "primary_ticker": "LLY",
    "strength": 75,
-   "reason": "Trump explicitly touts Eli Lilly's $3.5B factory investment and weight-loss pill plans, direct company praise."
+   "reason": "Trump explicitly touts Eli Lilly's $3.5B factory investment and weight-loss pill plans, direct company praise.",
+   "price_since": {
+    "ticker": "LLY",
+    "pct": 7.1,
+    "base": 1127.69,
+    "last": 1208.12,
+    "base_date": "2026-06-25",
+    "last_date": "2026-06-26"
+   }
   },
   {
    "date": "2026-06-25T12:42:00Z",
@@ -353,7 +410,15 @@
    "direction": "BUY",
    "primary_ticker": "QQQ",
    "strength": 45,
-   "reason": "AI stocks rally on Micron strength; no Trump angle but market-relevant tech momentum"
+   "reason": "AI stocks rally on Micron strength; no Trump angle but market-relevant tech momentum",
+   "price_since": {
+    "ticker": "QQQ",
+    "pct": -1.4,
+    "base": 716.38,
+    "last": 706.52,
+    "base_date": "2026-06-25",
+    "last_date": "2026-06-26"
+   }
   },
   {
    "date": "2026-06-25T11:44:51Z",
@@ -369,7 +434,15 @@
    "direction": "SELL",
    "primary_ticker": "DJT",
    "strength": 75,
-   "reason": "Trump Media stock hits record low; direct bearish signal on his company"
+   "reason": "Trump Media stock hits record low; direct bearish signal on his company",
+   "price_since": {
+    "ticker": "DJT",
+    "pct": 5.1,
+    "base": 7.06,
+    "last": 7.42,
+    "base_date": "2026-06-25",
+    "last_date": "2026-06-26"
+   }
   },
   {
    "date": "2026-06-25T10:55:53Z",
@@ -385,7 +458,39 @@
    "direction": "BUY",
    "primary_ticker": "NOK",
    "strength": 72,
-   "reason": "Trump explicitly supports semiconductor capacity expansion; Nokia named and gains pre-market"
+   "reason": "Trump explicitly supports semiconductor capacity expansion; Nokia named and gains pre-market",
+   "price_since": {
+    "ticker": "NOK",
+    "pct": -6.9,
+    "base": 13.98,
+    "last": 13.01,
+    "base_date": "2026-06-25",
+    "last_date": "2026-06-26"
+   }
+  },
+  {
+   "date": "2026-06-25T10:46:00Z",
+   "platform": "News",
+   "text": "Trump just name-dropped 2 stocks after Micron and Dell rallies - Finbold \u2014 Trump just name-dropped 2 stocks after Micron and Dell rallies\u00a0\u00a0Finbold",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNa2tQX0U3Qk42d3A1YjI2ejFQaTRzRDlhTHJKSDVldFdYS1BHOUQtM2VOXzhrM2FZN0dlckJlOXVSNENtMWdIalRpc0pvaW8tZ0JSQndjMUUwOGdGMmpxTDdyUFJLcWxDY1VmMjMwejJKLVNVQ2JMUU0za2YwdjBwZ0R2bFo3dHZJbFc0?oc=5",
+   "tickers": [
+    "MU"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "MU",
+   "strength": 70,
+   "reason": "Trump explicitly name-dropped Micron and Dell; direct company praise after rallies implies continued bullish sentiment.",
+   "price_since": {
+    "ticker": "MU",
+    "pct": -6.7,
+    "base": 1213.56,
+    "last": 1132.33,
+    "base_date": "2026-06-25",
+    "last_date": "2026-06-26"
+   }
   },
   {
    "date": "2026-06-25T09:23:51Z",
@@ -401,7 +506,15 @@
    "direction": "BUY",
    "primary_ticker": "LLY",
    "strength": 68,
-   "reason": "Trump praised Eli Lilly and Nokia; tracker flags both as actionable picks post-praise"
+   "reason": "Trump praised Eli Lilly and Nokia; tracker flags both as actionable picks post-praise",
+   "price_since": {
+    "ticker": "LLY",
+    "pct": 7.1,
+    "base": 1127.69,
+    "last": 1208.12,
+    "base_date": "2026-06-25",
+    "last_date": "2026-06-26"
+   }
   },
   {
    "date": "2026-06-25T08:51:48Z",
@@ -2443,70 +2556,6 @@
    "primary_ticker": "DJT",
    "strength": 25,
    "reason": "DJT stock movement noted but no new catalyst or Trump statement provided; metadata only."
-  },
-  {
-   "date": "2026-06-19T05:43:00Z",
-   "platform": "News",
-   "text": "Trump publicly praised companies within days of buying their stocks - Washington Examiner \u2014 Trump publicly praised companies within days of buying their stocks\u00a0\u00a0Washington Examiner",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAwWG4tM2lMZDRRaHI3aDlVWHBUeDJFUW5HaERROG9wMjlmV0dnWUE2RWp5alZ2dDZwalo5RjB1WFB1a083RW1jcTYyb2xuY1lJTDlsR2J4VzQzdDVo?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "SPY",
-   "strength": 60,
-   "reason": "Pattern of Trump praising stocks shortly after buying suggests information asymmetry and market timing signal."
-  },
-  {
-   "date": "2026-06-19T04:53:46Z",
-   "platform": "News",
-   "text": "Eric Trump Says ABTC Has More Bitcoin Than GLXY \u2013 Stock Still Falls Amid Bitcoin\u2019s Decline - Stocktwits \u2014 Eric Trump Says ABTC Has More Bitcoin Than GLXY \u2013 Stock Still Falls Amid Bitcoin\u2019s Decline\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMi1CeXRoc3duaXd4NGxDU1M4aHRJR3ptWTltWjdiY1pJb2xUakZBeFpoZ0NsTm9Kd3hRQW9DOXBiTEgwUWVyaFRFOHgyaEpxOXZHNFZqWGZHOXpFbnBaaEU3TUI4U3laX1JRMjR4ejk0NG5iQTFfVnFBRlhBcnR5MGxIRF9tRUg2LWItQnRYZVF3ejVrQW1SVGNqQXdMVm1YMDlUZUJNSk50V3ZmNHZqOQ?oc=5",
-   "tickers": [
-    "ABTC"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "ABTC",
-   "strength": 25,
-   "reason": "Eric Trump commentary on Bitcoin holdings; stock falls on broader Bitcoin decline, not Trump's endorsement"
-  },
-  {
-   "date": "2026-06-19T04:02:00Z",
-   "platform": "News",
-   "text": "Republican Jewish Coalition Praises Trump's Iran Strategy, Voices Skepticism On Final Deal - i24NEWS \u2014 Republican Jewish Coalition Praises Trump's Iran Strategy, Voices Skepticism On Final Deal\u00a0\u00a0i24NEWS",
-   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVFpyM2hSbU5aRGZOYkdRenEwSnYzTmVQSkpmQThkenNTWGRaT3F3Tmx3dHlIY2RYaWZ2RFBiS0xGTHBySWpraWF3NDlJa21ZUVlkTl8xTXkxclYxTkJqNGdwUW9tWGJEVFVkdC00eExUZFQzaXY3Tm5RclZaM24tb2ZMSVRtbWdILUFiekdZMEY1OUxqem5JOE4zV3pyTTVRcVZCcWdtV085Yl9KdXVMYXlEc3FLRlpRdk41aVhZZ0J5OFJCMmJ2UlAzSlgyS2wwU0ZqQVAybHNlNWxXbkRkV1p3?oc=5",
-   "tickers": [
-    "XLE"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "XLE",
-   "strength": 35,
-   "reason": "Trump's Iran strategy approach suggests hawkish posture; typically supportive of oil/energy sector sentiment."
-  },
-  {
-   "date": "2026-06-19T03:34:26Z",
-   "platform": "News",
-   "text": "Praxis Precision Shares Rally On Price Target Hikes: Analyst Sees Upside As High As 100% For Stock - Stocktwits \u2014 Praxis Precision Shares Rally On Price Target Hikes: Analyst Sees Upside As High As 100% For Stock\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZ3c0dm5hU2NSZE1USngwNnRMTU5fc0dIbmFpOVVUdnZ3OHRDYjVSTzVPTk5qZFFhODZYVnpSSTRNY3NieGtkWFd4bGJyLXdWLTcwQjliRnp2WUtPdmVfQnB3X2F6S296MVBNaFNhbEljYVc0WkVvSjk2LTB4TDBqSmpKNmJoY0VpbXdDejhsYUd1YlBJbmVQeFNBS0E0czRtWnl1OWxvMkhxbHV6eWUyTkJXTmFkUQ?oc=5",
-   "tickers": [
-    "PRAX"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "PRAX",
-   "strength": 50,
-   "reason": "Praxis Precision shares rally on price target hikes with analyst 100% upside; analyst-driven not Trump-driven, but market-moving stock event."
   },
   {
    "curated": true,
