@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-06-27T11:11:23Z",
+ "last_updated": "2026-06-27T12:20:36Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -18,6 +18,38 @@
    "primary_ticker": "SPY",
    "strength": 75,
    "reason": "100% tariff threat on countries imposing digital services tax is broad trade escalation, bearish macro signal"
+  },
+  {
+   "date": "2026-06-27T07:34:18Z",
+   "platform": "News",
+   "text": "FDX Stock Tumbles Pre-Market Despite Q4 Beat: CEO Says FedEx Is On Track For 2029 Goals - Stocktwits \u2014 FDX Stock Tumbles Pre-Market Despite Q4 Beat: CEO Says FedEx Is On Track For 2029 Goals\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOOExWOE11Q05WeTBLMGtRa3duTmh6WnFrSURpUjJ1cVdPcEpHdXc4aDhIQzBUelFsdkhXeVJ0VXhaNGtRWEluQ056V2xiV3N3aEtDTkpmQkFVSTM2eDV6RGlLaEczYVNaQ1puaHdHa3ZFM3hzS2xJRGcyQVFFMnFlWGVyOWtCMUYydU5Rc0ZoVThuamk3UXBpSURiSDZWdVJ1eEllanFISTJZcTRwOFFNMmJUbTItMnVUZDJ4THZHRHhGc3B1U2I3cU42aWZtUlZnTzVaLVpNX284WWdoVFBEZk1Ibjkzdw?oc=5",
+   "tickers": [
+    "FDX"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "FDX",
+   "strength": 25,
+   "reason": "FedEx earnings beat but stock tumbled; mixed signal on valuation/forward guidance"
+  },
+  {
+   "date": "2026-06-27T07:31:01Z",
+   "platform": "News",
+   "text": "Nasdaq, S&P 500 Futures Rebound As Micron Rally Lifts Chip Stocks: Why SPCX, QCOM, TSM, BABA, PLTR, CBRS, WEN, IBRX Are In Focus - Stocktwits \u2014 Nasdaq, S&P 500 Futures Rebound As Micron Rally Lifts Chip Stocks: Why SPCX, QCOM, TSM, BABA, PLTR, CBRS, WEN, IBRX Are In Focus\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQZjEyUjNpdUFBSU1TbzlQNmpzSV9LcDA3cDJHcDdWRWdmN0pqa2Nma3lfdEdJdmM2eGwtUE9PMTdqYUh1bno4cC04b3lUUVNGMEVlY0xYMTRZODJHREltVkNSYzlsbnJFd0RMdjQ4X0lDSWZRM1pfR0RJYTdPbl9UYThhRUhtdU91T2NsSVJqQlBCT2J2YmNXbXFWV1BQdkkyMVZmM0NwLXRGWk52WmRUeU9CZzRnalNQX3BMWmQ3VEpYMUE3RVhaTWNNOElQTllMR1NVYnUtWVFIbHh4a25heWJjWjZfNjdoT1d2eFhhTnlHN3dTVU05MnhGZGxHZTRpWm1xc2o0MEdSZw?oc=5",
+   "tickers": [
+    "QQQ"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "QQQ",
+   "strength": 35,
+   "reason": "Chip rally and Nasdaq rebound lift semiconductor and tech; broad positive momentum"
   },
   {
    "date": "2026-06-27T04:36:47Z",
@@ -82,22 +114,6 @@
    "primary_ticker": "TSLA",
    "strength": 35,
    "reason": "Praise of Elon Musk's infrastructure project; mild bullish signal for Tesla but not a direct market call."
-  },
-  {
-   "date": "2026-06-26T17:48:13Z",
-   "platform": "News",
-   "text": "FDX Stock Tumbles Pre-Market Despite Q4 Beat: CEO Says FedEx Is On Track For 2029 Goals - Stocktwits \u2014 FDX Stock Tumbles Pre-Market Despite Q4 Beat: CEO Says FedEx Is On Track For 2029 Goals\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOOExWOE11Q05WeTBLMGtRa3duTmh6WnFrSURpUjJ1cVdPcEpHdXc4aDhIQzBUelFsdkhXeVJ0VXhaNGtRWEluQ056V2xiV3N3aEtDTkpmQkFVSTM2eDV6RGlLaEczYVNaQ1puaHdHa3ZFM3hzS2xJRGcyQVFFMnFlWGVyOWtCMUYydU5Rc0ZoVThuamk3UXBpSURiSDZWdVJ1eEllanFISTJZcTRwOFFNMmJUbTItMnVUZDJ4THZHRHhGc3B1U2I3cU42aWZtUlZnTzVaLVpNX284WWdoVFBEZk1Ibjkzdw?oc=5",
-   "tickers": [
-    "FDX"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "FDX",
-   "strength": 40,
-   "reason": "FedEx beat earnings but stock tumbled; mixed signal requires monitoring"
   },
   {
    "date": "2026-06-26T17:37:53Z",
@@ -277,9 +293,9 @@
    "reason": "Eric Trump bullish crypto call ($1M bitcoin target); Trump family endorsement of bitcoin upside",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": 0.5,
+    "pct": 0.3,
     "base": 60016.43,
-    "last": 60295.98,
+    "last": 60211.61,
     "base_date": "2026-06-26",
     "last_date": "2026-06-27"
    }
@@ -850,30 +866,6 @@
     "pct": 0.5,
     "base": 53.57,
     "last": 53.82,
-    "base_date": "2026-06-24",
-    "last_date": "2026-06-26"
-   }
-  },
-  {
-   "date": "2026-06-24T11:57:16Z",
-   "platform": "News",
-   "text": "Nasdaq, S&P 500 Futures Rebound As Micron Rally Lifts Chip Stocks: Why SPCX, QCOM, TSM, BABA, PLTR, CBRS, WEN, IBRX Are In Focus - Stocktwits \u2014 Nasdaq, S&P 500 Futures Rebound As Micron Rally Lifts Chip Stocks: Why SPCX, QCOM, TSM, BABA, PLTR, CBRS, WEN, IBRX Are In Focus\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQZjEyUjNpdUFBSU1TbzlQNmpzSV9LcDA3cDJHcDdWRWdmN0pqa2Nma3lfdEdJdmM2eGwtUE9PMTdqYUh1bno4cC04b3lUUVNGMEVlY0xYMTRZODJHREltVkNSYzlsbnJFd0RMdjQ4X0lDSWZRM1pfR0RJYTdPbl9UYThhRUhtdU91T2NsSVJqQlBCT2J2YmNXbXFWV1BQdkkyMVZmM0NwLXRGWk52WmRUeU9CZzRnalNQX3BMWmQ3VEpYMUE3RVhaTWNNOElQTllMR1NVYnUtWVFIbHh4a25heWJjWjZfNjdoT1d2eFhhTnlHN3dTVU05MnhGZGxHZTRpWm1xc2o0MEdSZw?oc=5",
-   "tickers": [
-    "SMH"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "SMH",
-   "strength": 50,
-   "reason": "Chip sector rally led by Micron; semiconductor momentum play",
-   "price_since": {
-    "ticker": "SMH",
-    "pct": -0.2,
-    "base": 618.92,
-    "last": 617.61,
     "base_date": "2026-06-24",
     "last_date": "2026-06-26"
    }
@@ -2540,22 +2532,6 @@
    "primary_ticker": "IBM",
    "strength": 50,
    "reason": "Trump praised IBM CEO Arvind Krishna by name; stock rallying on Trump effect shows explicit positive signal"
-  },
-  {
-   "date": "2026-06-19T07:05:54Z",
-   "platform": "News",
-   "text": "Why Is DJT Stock Up Premarket Today? - Stocktwits \u2014 Why Is DJT Stock Up Premarket Today?\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSk1xMmNPNUVJMDcxTEpIMzdrR05NSTUyc3dqa3o4OTRQUHh0M09ZVjFJZ01GRlltSGtQTlBhWWVJaGVKSVh0UTROTVdIREhzbm85OHJHaGMxaTQyVDFuSlNTbWtPbEZSTXduY1pmTWRwR296cE5UcURMT09RekhNV1RiWkYxOVB3cHlUN1BETi0wdnhTQTlSUXBkRldfQ0tM?oc=5",
-   "tickers": [
-    "DJT"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "DJT",
-   "strength": 25,
-   "reason": "DJT stock movement noted but no new catalyst or Trump statement provided; metadata only."
   },
   {
    "curated": true,
