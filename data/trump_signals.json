@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-06-27T14:13:57Z",
+ "last_updated": "2026-06-27T15:40:59Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -341,9 +341,9 @@
    "reason": "Eric Trump bullish crypto call ($1M bitcoin target); Trump family endorsement of bitcoin upside",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": 1.0,
+    "pct": 1.2,
     "base": 60016.43,
-    "last": 60602.33,
+    "last": 60716.51,
     "base_date": "2026-06-26",
     "last_date": "2026-06-27"
    }
@@ -413,6 +413,22 @@
    "reason": "Trump praised Eli Lilly; Pelosi tracker flagged it, suggesting bullish sentiment on the stock."
   },
   {
+   "date": "2026-06-26T02:17:00Z",
+   "platform": "News",
+   "text": "One of world's most-popular investor Michael Burry, who described Palantir stock as 'a sand castle', repe - The Times of India \u2014 One of world's most-popular investor Michael Burry, who described Palantir stock as 'a sand castle', repe\u00a0\u00a0The Times of India",
+   "url": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxQN3Y4cEg4NHZfNVQ4UHZlYzdkakJia0d6MDNnbWVyYl9CSjRrXzduTVMtZmJNRE9ybUxpVUpISUpHVzVUNVZPR2R4NUFTYTJHYmI3V0JlMC1nN3lhTG53Y0RIYVE4bnZjQXlkY242cTFuQ2lpWFZpckpQNFBKWUhabnh6OTBpdElKMVIySXQxNDFSU1RkSzVKYkxVVlRuNVkxcXdoMTdTVTQwbU1VQlhCZG5WZEJWYmV5YkFvUi13am14aTJQR1poUjBnR3dxSnNLUjJlLURLUHRFZ1UwZmNMeFRKNlNOSTBhM1VvOWkzMFpuYnI5dEpSQkl0VnZPXzBYM2d0VE5XMUx5SnpxLVI2NjVrUFM3RmZwN0luX05ERFJIQUhYdVhlRzRyUEFrZE5HQ3F3a1Fsd1pVQ3lXNDBCeTRYc2dFMy0weDZkUUp6TjkzOHFEaDk3MVJqTzdEZXEzalRn0gHoAkFVX3lxTE0yR1JIRlh3T2N0X2tqd1ZIMzdsZEd6THNoWnd2Zy05Y1p3ajc0VUZkQ082d0ZfMkhfSmo5b05GSzVtZWIyTUVtTmFBSlhTTGJBQzd3SThKY25zc1RsazhYMnNsSUxwMjR3UG5WOEpBS0pMdm92T0h4QVd2VGt0RHZaZ0EwTjBNQmtaTHh2cnBUdjZqY0hUc3VSVVdvY2ZKUTFtbzNKREc5RTA4U09FcjVFZlhaZ3ZMZ1FaRlY4bzh6Sy1rSWNwODg0MHczOVJVSmpJYlhaVmc2am13ZFh0dzc0eU1sLWVWMjRlRXhNalViZ2FicmtpRGhYY2xUNTRSWVNZYWx2RHpNbzdJTEtlaFRYUHlXeUZQZjNUZFNKR05IWk8zWXFiMWVXSWlPNTJlVG1Hb3RicXF2WjdYRWZQWll3Y1NOQ3N0ejNQZFliX182OF9FZHBvQmF6QUJvUHE4ZGlkWGttemtYbw?oc=5",
+   "tickers": [
+    "PLTR"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "PLTR",
+   "strength": 45,
+   "reason": "Michael Burry's bearish 'sand castle' critique of Palantir; high-profile investor skepticism"
+  },
+  {
    "date": "2026-06-25T20:46:07Z",
    "platform": "News",
    "text": "Trump Threatens Iran With 'Very Hard' Strikes If War Escalates - Stocktwits \u2014 Trump Threatens Iran With 'Very Hard' Strikes If War Escalates\u00a0\u00a0Stocktwits",
@@ -443,6 +459,22 @@
    "primary_ticker": "LLY",
    "strength": 75,
    "reason": "Trump explicitly touts Eli Lilly's $3.5B factory investment and weight-loss pill plans, direct company praise."
+  },
+  {
+   "date": "2026-06-25T20:15:43Z",
+   "platform": "News",
+   "text": "DJT Stock Quote Price and Forecast - CNN \u2014 DJT Stock Quote Price and Forecast\u00a0\u00a0CNN",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBPalpkdGlzWVpPOU5CYVZoRUk2MEhOUS1ZM1VKM1VnNmotRHctbmFfUXlna3hUeHJqbWwyNVRpbW9acXIzU3hTX1Q5QWIyOEU?oc=5",
+   "tickers": [
+    "DJT"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "DJT",
+   "strength": 15,
+   "reason": "Stock quote reference is a market instrument, not a directional signal"
   },
   {
    "date": "2026-06-25T12:42:00Z",
@@ -2500,38 +2532,6 @@
    "primary_ticker": "SPY",
    "strength": 25,
    "reason": "Headline references controversial Trump trade but lacks specificity on direction or impact"
-  },
-  {
-   "date": "2026-06-19T13:44:34Z",
-   "platform": "News",
-   "text": "This Is Trump\u2019s Most Controversial Trade of 2026 - 24/7 Wall St. \u2014 This Is Trump\u2019s Most Controversial Trade of 2026\u00a0\u00a024/7 Wall St.",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNLUdfd3NPQjFIZHdsZ3N4Vjk3QnROeUg4QWt2cWx3UU1GQ0E3RG81MnNQTTFlUEswM2RGUHpZLXhzVUttdjFuWE1jY2hqRm5uSnhTRXlWV1dTYjdseDdNQVhHU085VzhibUVDOEZlbDNsMlJLVDdlb1JlN2ZuVWstczJFaWJCM2ZpNkF5Ym9qNGJPdnI3R2c?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "SPY",
-   "strength": 25,
-   "reason": "Duplicate headline on controversial Trump trade without clear market direction"
-  },
-  {
-   "date": "2026-06-19T11:41:51Z",
-   "platform": "News",
-   "text": "'Trump effect' comes to IBM stock, 6 months after US president called IBM CEO Arvind Krishna a \u2026 - MSN \u2014 'Trump effect' comes to IBM stock, 6 months after US president called IBM CEO Arvind Krishna a \u2026\u00a0\u00a0MSN",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUWxmX09xbFF6WGhvd0RDQ3MwMVNFcEJiZlUybUhEMUUtQ2wtenVxMFRBQldJUlJKX2U2ZnNnbVBSb1FMbWVqN2ZNc3VUWjBzOTdCcGdFUm5VREp5c0NuUExBbktYcnE2Z182WGt4cFU0bjFrR05fYWVWMlRZMnVWbjNWa2RrUmcwV3ZfN01lbWNHZEhwUXZZSGh5TXhPa3c2S2RSVlhIWGpDZFB0NVNXdFVZNF9oUmxEbi1NcVQwS2IyZENrd1RFQTZsWEdXZjdRb2lEVG5mbw?oc=5",
-   "tickers": [
-    "IBM"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "IBM",
-   "strength": 50,
-   "reason": "Trump praised IBM CEO Arvind Krishna by name; stock rallying on Trump effect shows explicit positive signal"
   },
   {
    "curated": true,
