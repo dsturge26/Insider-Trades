@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-06-27T18:03:46Z",
+ "last_updated": "2026-06-27T19:45:06Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -162,6 +162,22 @@
    "primary_ticker": "SPY",
    "strength": 65,
    "reason": "100% tariff threat on digital services tax countries; broad tariff threat bearish for market and tech sector."
+  },
+  {
+   "date": "2026-06-26T17:12:28Z",
+   "platform": "News",
+   "text": "Why Is DJT Stock Up Premarket Today? - Stocktwits \u2014 Why Is DJT Stock Up Premarket Today?\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSk1xMmNPNUVJMDcxTEpIMzdrR05NSTUyc3dqa3o4OTRQUHh0M09ZVjFJZ01GRlltSGtQTlBhWWVJaGVKSVh0UTROTVdIREhzbm85OHJHaGMxaTQyVDFuSlNTbWtPbEZSTXduY1pmTWRwR296cE5UcURMT09RekhNV1RiWkYxOVB3cHlUN1BETi0wdnhTQTlSUXBkRldfQ0tM?oc=5",
+   "tickers": [
+    "DJT"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "DJT",
+   "strength": 25,
+   "reason": "Headline reports premarket move in Trump Media stock; no underlying catalyst stated, likely noise."
   },
   {
    "date": "2026-06-26T16:55:08Z",
@@ -357,9 +373,9 @@
    "reason": "Eric Trump bullish crypto call ($1M bitcoin target); Trump family endorsement of bitcoin upside",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": 0.6,
+    "pct": 0.1,
     "base": 60016.43,
-    "last": 60365.78,
+    "last": 60094.57,
     "base_date": "2026-06-26",
     "last_date": "2026-06-27"
    }
