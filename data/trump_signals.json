@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-06-27T21:46:32Z",
+ "last_updated": "2026-06-27T23:03:06Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -146,6 +146,22 @@
    "primary_ticker": "MU",
    "strength": 45,
    "reason": "SK Hynix capital raise and DRAM strength presage Micron positive report"
+  },
+  {
+   "date": "2026-06-26T17:27:04Z",
+   "platform": "News",
+   "text": "Intel Stock Rips Nearly 6% Overnight After Trump Confirms Apple Chip Manufacturing Deal - Stocktwits \u2014 Intel Stock Rips Nearly 6% Overnight After Trump Confirms Apple Chip Manufacturing Deal\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPeVc1bmhubW1ud3BrVThmeW1EX2hTT3J6WnNaTnp5VDhmVUhCU19XUm9mUFhsNXpjRThjdS1BOFpjTHJ4ekwtQlhvQzlFbWJnVEloRHlGRzZueGpYN2RBbFQzNXRCWFhJemd6bFJzdXZGS09ram1nOEs1V2paaHNYWWZMOFJOSUNNbEt1bzRDRHFCNm5kTE5MWWRkQ255Uk1VODlzeW11RFFIQjlJVFdveVdtRkcwWTl0VnVaM1RVb0ZOX2ZLSmtVSlFoX1RBdVhqQzBjVDQ0eXFGRVhsbVFqSTl3M0Y?oc=5",
+   "tickers": [
+    "INTC"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "INTC",
+   "strength": 85,
+   "reason": "Trump confirms Apple chip manufacturing deal with Intel; explicit positive catalyst for chipmaker"
   },
   {
    "date": "2026-06-26T17:20:50Z",
@@ -341,22 +357,6 @@
    "reason": "Reference to Trump praise of Palantir driving strong returns; implies bullish sentiment on company."
   },
   {
-   "date": "2026-06-26T05:08:29Z",
-   "platform": "News",
-   "text": "Intel Stock Rips Nearly 6% Overnight After Trump Confirms Apple Chip Manufacturing Deal - Stocktwits \u2014 Intel Stock Rips Nearly 6% Overnight After Trump Confirms Apple Chip Manufacturing Deal\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPeVc1bmhubW1ud3BrVThmeW1EX2hTT3J6WnNaTnp5VDhmVUhCU19XUm9mUFhsNXpjRThjdS1BOFpjTHJ4ekwtQlhvQzlFbWJnVEloRHlGRzZueGpYN2RBbFQzNXRCWFhJemd6bFJzdXZGS09ram1nOEs1V2paaHNYWWZMOFJOSUNNbEt1bzRDRHFCNm5kTE5MWWRkQ255Uk1VODlzeW11RFFIQjlJVFdveVdtRkcwWTl0VnVaM1RVb0ZOX2ZLSmtVSlFoX1RBdVhqQzBjVDQ0eXFGRVhsbVFqSTl3M0Y?oc=5",
-   "tickers": [
-    "INTC"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "INTC",
-   "strength": 80,
-   "reason": "Trump confirmed Apple chip manufacturing deal involving Intel; explicit catalyst for Intel rally."
-  },
-  {
    "date": "2026-06-26T04:54:42Z",
    "platform": "News",
    "text": "Eric Trump Doubles Down On $1 Million Bitcoin Call \u2013 Says Crypto Is \u2018On The One-Yard Line\u2019 - Stocktwits \u2014 Eric Trump Doubles Down On $1 Million Bitcoin Call \u2013 Says Crypto Is \u2018On The One-Yard Line\u2019\u00a0\u00a0Stocktwits",
@@ -373,9 +373,9 @@
    "reason": "Eric Trump bullish crypto call ($1M bitcoin target); Trump family endorsement of bitcoin upside",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": 0.2,
+    "pct": 0.3,
     "base": 60016.43,
-    "last": 60141.92,
+    "last": 60169.94,
     "base_date": "2026-06-26",
     "last_date": "2026-06-27"
    }
@@ -2524,22 +2524,6 @@
    "primary_ticker": "SPY",
    "strength": 20,
    "reason": "Xi praise may signal softer China trade stance, but direction unclear"
-  },
-  {
-   "date": "2026-06-19T21:40:08Z",
-   "platform": "News",
-   "text": "'In Plain Sight!': Trump Overplays His Hand With a Stock Bet Nobody Was Supposed to Notice Until a $10 Billion Pentagon Deal Starts Raising Eyebrows - atlantablackstar.com \u2014 'In Plain Sight!': Trump Overplays His Hand With a Stock Bet Nobody Was Supposed to Notice Until a $10 Billion Pentagon Deal Starts Raising Eyebrows\u00a0\u00a0atlantablackstar.com",
-   "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxNRW11bHRJNm13eGdZSHpDNzUtQkwxUjRSdFhWWDItUU5GVkZrOFdpLTZXMnZKSWw1dlIxRlBobXNtb3Nyei1uazFCbjhPY0ZyUUFSOU9wX0ZEYzFsSkFoMVpRNWRUVG5FT1ZtVWxjMXI4dTA4aWxDYS03eWdQNlhtVmFNNnVqcWdiSEhuYnRpVmhIbWJkUWg4dXpwY1BncUNHMmROaV9lQmd5YUR0LUswNFR5aHRidW9TckJoR3E3dE1TNTB3VnFwOUI4bHp3WEs0dU54NG43ZlcwMVhOWF9JbUt3YXYzdHZOMUlNbmZyamtCcjlMMjRHeF9tSWxycjgzS05fU1ZGMHQwMGUzZUtZdDY1eDZBQlI1OGhqSkp3?oc=5",
-   "tickers": [
-    "XAR"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "XAR",
-   "strength": 45,
-   "reason": "Pentagon defense contract ($10B) suggests defense sector bullish; headline implies Trump position benefits from contract award."
   },
   {
    "curated": true,
