@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-06-28T04:55:21Z",
+ "last_updated": "2026-06-28T08:21:49Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -17,6 +17,23 @@
    "primary_ticker": "VSTO",
    "strength": 45,
    "reason": "National carry push supports firearms industry; sector tailwind but no direct Trump endorsement of specific company."
+  },
+  {
+   "date": "2026-06-28T03:53:25.491Z",
+   "platform": "Truth Social",
+   "text": "Mack to the future: Trump touts Iran deal energy boom that could boost trucking biz: https://justthenews.com/government/white-house/mack-future-trump-touts-tariffs-and-iran-deal-energy-boom-will-boost",
+   "tickers": [
+    "XLE"
+   ],
+   "engagement": 2508,
+   "url": "https://truthsocial.com/@realDonaldTrump/116825706034291064",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "XLE",
+   "strength": 45,
+   "reason": "Trump touts Iran deal energy boom; energy/oil sector bullish on geopolitical thaw"
   },
   {
    "date": "2026-06-27T23:13:04.138Z",
@@ -50,6 +67,22 @@
    "primary_ticker": "IBRX",
    "strength": 70,
    "reason": "Trump diplomacy explicitly credited with 'amazing results' for IBRX cancer drug; named company praise."
+  },
+  {
+   "date": "2026-06-27T11:53:52Z",
+   "platform": "News",
+   "text": "DJT stock plunge erases $766M from Trump's stake - MSN \u2014 DJT stock plunge erases $766M from Trump's stake\u00a0\u00a0MSN",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOS0NFMWY0VFdCSkNHVWpkTDVkbGhfa2hydHg4MU1CUEw2TkRuc3phTkpLaU1EOXhKUWFCMzBQM2hJb3lPYUg5MHdnN1pyRjVHOUNlQ1YySWFkZDBGelUwZUJ1TlFpa180SUNwRlE5cjJRWjZOa0RkRFhnNmk5bU02amItWkxXRW41Y0ozdUFVQ0JtUzVZdmp4NEJ2ZDIzOU1UUWE2emsyeTRPNngyLXU3YlRnOXpZY19YX0lMV2xjYU9jbEZXS2R2cldnTjRvWDlTTDRYNkgxT0IyaTdnRW13U1lOcFc?oc=5",
+   "tickers": [
+    "DJT"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "DJT",
+   "strength": 60,
+   "reason": "DJT stock plunge erases Trump's stake value; direct bearish signal on his own company"
   },
   {
    "date": "2026-06-27T10:03:35.027Z",
@@ -277,6 +310,22 @@
    "reason": "100% tariff threat on countries with digital services tax is bearish for broad market and US exporters"
   },
   {
+   "date": "2026-06-26T16:38:21Z",
+   "platform": "News",
+   "text": "Trump threatens 100% tariff on any country that imposes digital services tax - Mint \u2014 Trump threatens 100% tariff on any country that imposes digital services tax\u00a0\u00a0Mint",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObVktWXd4VHE2TjVPc05nbWtPcU04alRxMjlCa3V2blotT1pTUEt2QW5ULWc3RWI1NV9XanBsblZCYS0tX3YzZ2pIRGZKZFRMOUF0QjZVSXVYYy1mZXFQZVJoOThTcXc4aWdOS3ZhNjV5bHRxVXV4RktGaGVaaW4yWVROZ19FRGxBaXB5eGN5cTBsSWwxU1lWbW50eWo5UnZXUldudHc3bC1PUW9mcGczVWhUU1Y2ZnVaT0FxWXZDY24xTTJhZ0NsclRVMDFiUdIB0wFBVV95cUxNVjhKcDZFZ0dzVDNDcENoN2hNdmNIUllnZGVfUEZqbFRYaEp2MkdYVXotbXBKOGZuRmIyYmpaMzV6Sm1MOGdha0NCdDhSMG52empELTBBNmV5eWVkaDJ0Z0Q0ckRmOFZRVW5aZ0N4aTZSMUlHdU1kSTdiSjhhd3JRSjlHeHBaeHp0Uk1uRW5nLWFXazIxZHF3dEphRkFIT0ZRX3UzODRpZ3BVQjRDSEVVWHlmemxjTlROMEpmcTNvQ2RWWjhCOFBmTEhkVHBoWkpMMUt3?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "SPY",
+   "strength": 65,
+   "reason": "100% tariff threat on digital services tax; broad trade/tariff escalation bearish for equities"
+  },
+  {
    "date": "2026-06-26T16:34:47Z",
    "platform": "News",
    "text": "Trump threatens 100% tariffs on countries putting 'Digital Services Tax on American Companies' - CNBC \u2014 Trump threatens 100% tariffs on countries putting 'Digital Services Tax on American Companies'\u00a0\u00a0CNBC",
@@ -358,6 +407,22 @@
    "reason": "Trump lauds Citi's M&A comeback; explicit praise of named bank"
   },
   {
+   "date": "2026-06-26T13:37:30Z",
+   "platform": "News",
+   "text": "Trump Slaps 100% Tariffs On Imported Patented Drugs, Sparing Companies That Onshore Or Cut Prices - Stocktwits \u2014 Trump Slaps 100% Tariffs On Imported Patented Drugs, Sparing Companies That Onshore Or Cut Prices\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdnctZmZybWhzbWJnOW1KM1dRR3Rjb1hjc2NBSU1yTDdwUWU3R2tPX0NucE1aV0JuUDd6SDZrR0lBbmR2R0RVOVgyTkVfejEtS3Z1RU1MYV81N3ZrbU96ZzZjak55MkFxZlpBNWVwUXM5dUtFYTg3VVUwWHktMkptbjF5WGlJQVZKLWZ6elZnUmhtM2hEUFJ1NHFfUGZMajlvalR3Z1ZBN3o4V2pRczEyb0F1UzJjUjVGNWwwWUZnOA?oc=5",
+   "tickers": [
+    "LLY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "LLY",
+   "strength": 55,
+   "reason": "100% tariff on imported patented drugs favors onshored/price-cutting pharma; bullish for domestic drugmakers like Eli Lilly"
+  },
+  {
    "date": "2026-06-26T13:21:51Z",
    "platform": "News",
    "text": "IBRX Stock Rallies Into Trump\u2019s Big SOTU Night \u2014 Here\u2019s What Traders Think Could Fuel The Next Move - Stocktwits \u2014 IBRX Stock Rallies Into Trump\u2019s Big SOTU Night \u2014 Here\u2019s What Traders Think Could Fuel The Next Move\u00a0\u00a0Stocktwits",
@@ -422,9 +487,9 @@
    "reason": "Eric Trump bullish crypto call ($1M bitcoin target); Trump family endorsement of bitcoin upside",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": 0.1,
+    "pct": 0.2,
     "base": 60016.43,
-    "last": 60052.0,
+    "last": 60136.95,
     "base_date": "2026-06-26",
     "last_date": "2026-06-28"
    }
@@ -2099,30 +2164,6 @@
    }
   },
   {
-   "date": "2026-06-21T22:44:01Z",
-   "platform": "News",
-   "text": "Trump Slaps 100% Tariffs On Imported Patented Drugs, Sparing Companies That Onshore Or Cut Prices - Stocktwits \u2014 Trump Slaps 100% Tariffs On Imported Patented Drugs, Sparing Companies That Onshore Or Cut Prices\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdnctZmZybWhzbWJnOW1KM1dRR3Rjb1hjc2NBSU1yTDdwUWU3R2tPX0NucE1aV0JuUDd6SDZrR0lBbmR2R0RVOVgyTkVfejEtS3Z1RU1MYV81N3ZrbU96ZzZjak55MkFxZlpBNWVwUXM5dUtFYTg3VVUwWHktMkptbjF5WGlJQVZKLWZ6elZnUmhtM2hEUFJ1NHFfUGZMajlvalR3Z1ZBN3o4V2pRczEyb0F1UzJjUjVGNWwwWUZnOA?oc=5",
-   "tickers": [
-    "XBI"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "XBI",
-   "strength": 65,
-   "reason": "100% tariffs on imported drugs incentivize onshoring and reward domestic pharma/biotech companies that localize or cut prices; bullish for domestic drug manufacturers.",
-   "price_since": {
-    "ticker": "XBI",
-    "pct": 1.5,
-    "base": 145.86,
-    "last": 148.04,
-    "base_date": "2026-06-22",
-    "last_date": "2026-06-23"
-   }
-  },
-  {
    "date": "2026-06-21T22:29:58Z",
    "platform": "News",
    "text": "Explore Trump's 3,600 stock trades from the first 3 months of 2026 - AOL.com \u2014 Explore Trump's 3,600 stock trades from the first 3 months of 2026\u00a0\u00a0AOL.com",
@@ -2469,54 +2510,6 @@
    "primary_ticker": "SPY",
    "strength": 25,
    "reason": "US-India trade stance shift signals potential tariff/trade policy changes affecting broad market"
-  },
-  {
-   "date": "2026-06-20T03:38:34Z",
-   "platform": "News",
-   "text": "'Modi Is A Tough Cookie': Trump Praises Indian PM, Calls Him A Great Leader - NDTV Profit \u2014 'Modi Is A Tough Cookie': Trump Praises Indian PM, Calls Him A Great Leader\u00a0\u00a0NDTV Profit",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQY2UwaWllNHJXeFdWOWdSUENIR2xCaEhKRV8wbjY1eW9XVTBuRWk3T2UwYVFFay1VNFhueTVGOHVlaDdZWlZhSEhSWU1wcmhuRksyVENVZnEzQktqT081dU1CTkVlYVp5ZTNDTzZudzZRaTJaS2JTclQ4WWFBdzQtejhRMG5fX21MU0xUeTZxczF0bnpSNVFHRExiM19OX1NWMGZfYzBOMnlhTUtEWFRFQWtlNNIBuwFBVV95cUxQeXdkVDRxNW9qUHBEV2VGcGF3MENxSC1uQWlSQmpRNmFsdTJPSmdJMkdNd2hyTjVsNzZ5S2c0X0RiZWlkT0dsSERSdmhCZVVxQ1ZqQ1R0ZGZmRURfODBmOHE4RGctOHhDTG1URHBDUlI4c2YyVzFMZElpbWVaTjdTX0txVWdWUWRzbldnX1NZMWJYRHNxbi16Q2pXbURqUmR5T1c2UlZYWUJ4dG5nOXh0V0w4R1FFVFNBZjR3?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "SPY",
-   "strength": 30,
-   "reason": "Praise for Modi suggests constructive US-India relations and reduced trade friction"
-  },
-  {
-   "date": "2026-06-20T03:04:25Z",
-   "platform": "News",
-   "text": "'He's a very tough cookie': Donald Trump praises PM Modi, says he stays out of wars - Business Today \u2014 'He's a very tough cookie': Donald Trump praises PM Modi, says he stays out of wars\u00a0\u00a0Business Today",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMVFhbzlsWDJOSF9YVXhZZDYwanJGWXJ3TUlEbTVpbF82VkhDY0Y2dkNET0ZwSDhFeUxpOEVjN2RoeThYY2Z4aVlkOWxyeHlFNktiT1poYVRvU1NudnFSMjhIbUNONUJVTkRNa1RCV0ZoYXhQRk5tcGx5VS1SeHdOMVM0TTdHTVNVMXlHalh3ck1EVDFvcUJHN0hrMUUxUXZJTlNwMzNnREM5LTg2RDhTUy1xdDZvR2FELU5Ydm9qcno4SUtLdkJmWjE0ckR4bzBDSG5Z0gHYAUFVX3lxTE5LNVNpRGxvcUgzczdiblp6eWVCcjN6eS1aMGdYYzFDeVlEOHpRdDR5N2dOXzBMOERmRkZDcXZDWFMxTEtxdnZPYWtuZ0F0SGE2QjFxZkVyNnU4TUVJM0lhQU1md255X1ZMd0w4NGFPang2bk9tU0VXSFphdWJYSmNjalVLNmpmSEpHVE5XZHlkNE54VUtfc0tpdElfbnFvMTRFRkI3Z0pId1dzRW5laGpTbVVka0EyY0xyMnByTWJUMHpIdTIwLVE4cHQyNFA3clBJTmRMbmRoMA?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "SPY",
-   "strength": 30,
-   "reason": "Praise for Modi's avoidance of wars suggests de-escalation and stable geopolitical environment"
-  },
-  {
-   "date": "2026-06-20T02:37:24Z",
-   "platform": "News",
-   "text": "Trump No Longer Views Anthropic As National Security Threat: Here's Why - NDTV Profit \u2014 Trump No Longer Views Anthropic As National Security Threat: Here's Why\u00a0\u00a0NDTV Profit",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWGNpRTQwVk4tbTFuYXdvN1JNeVh3ZEVocnFFd3JpQnk2TFJrVVNMdmlCZ2FsZnJfckxqaVQxSTZsLW4tdmllU1MxU3dVN2M2aFpfWk11SElOYUp5SFE1ZTFyZFpDY1lLZV84U1BYZ2R3ZG13N3ZPU0FXNTlER0d1YV9taG5ldHE4d09DaGR0T3Y3dEstSkZ5eE53bzk1d3V0c3ExdHhtMVNELXFNdFRNdNIBuAFBVV95cUxQTFN3Z1ROenRzRXNBb0g1Zk1iU3kyejBvTGREQzlfOHBiQ0o5Tk1OTGhKYV9TakxMRmtRZ0FLWUVDcmdSb0RnYTMxUDYtYWVWQUtyRmp1TmNqaFV1Z2o2RmhYWGtYSVF5RHBSMnBnNGZjdTN6N0tqcUcxVV9mbFkxZTEtbl9BeW9UNXBIdVdnWTFVYmRlYWhpYnFmbU1JSVNsQUJpeWpDQjdpSkJQN1d4TFUzUmNRNl94?oc=5",
-   "tickers": [
-    "COUP"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "COUP",
-   "strength": 45,
-   "reason": "Reduced national security threat designation lowers regulatory risk for Anthropic"
   },
   {
    "curated": true,
