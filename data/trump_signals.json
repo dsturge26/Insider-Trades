@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-06-28T21:01:56Z",
+ "last_updated": "2026-06-28T22:14:57Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -519,6 +519,22 @@
    "reason": "Trump explicitly name-dropped Eli Lilly and Nokia in public speech; direct company mentions are bullish signals."
   },
   {
+   "date": "2026-06-26T14:19:41Z",
+   "platform": "News",
+   "text": "Eric Trump Doubles Down On $1 Million Bitcoin Call \u2013 Says Crypto Is \u2018On The One-Yard Line\u2019 - Stocktwits \u2014 Eric Trump Doubles Down On $1 Million Bitcoin Call \u2013 Says Crypto Is \u2018On The One-Yard Line\u2019\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNX1pmRkZXRjdiRW5hMjBIczJUNUJIdGF6aldVWUh5a3NyTXlfM2RqczdicF96cDk3T1hqNmpNLWp5QXBJT0JkcWpJU0VzWXpUVWFFRkVEWlN6LTBCLUFkSGswd3BkRGZNWDZBa1pwdUtwTWpwUVlONEF6Ny1pMHpReUtsa2VNenVURDltcjRQcmFNWU1xT1RWOWMtdGdGenJ6Q0R6UnVSTS1qZlhkb1NsUHFxYTV2OW5wWjJVdmpLWkxFa3BaN1JSenpEX2o5VUFCSnFXT0FfM1B5alJNQ3c?oc=5",
+   "tickers": [
+    "BTC-USD"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "BTC-USD",
+   "strength": 60,
+   "reason": "Eric Trump doubles down on $1M Bitcoin target, says crypto 'on the one-yard line'; Trump family bullish crypto signal."
+  },
+  {
    "date": "2026-06-26T13:58:23Z",
    "platform": "News",
    "text": "Citi stock hits 52-week high before fading as Trump lauds bank's 'big comeback' in M&A \u2014 but full picture has changed now - MSN \u2014 Citi stock hits 52-week high before fading as Trump lauds bank's 'big comeback' in M&A \u2014 but full picture has changed now\u00a0\u00a0MSN",
@@ -581,30 +597,6 @@
    "primary_ticker": "PLTR",
    "strength": 55,
    "reason": "Reference to Trump praise of Palantir driving strong returns; implies bullish sentiment on company."
-  },
-  {
-   "date": "2026-06-26T04:54:42Z",
-   "platform": "News",
-   "text": "Eric Trump Doubles Down On $1 Million Bitcoin Call \u2013 Says Crypto Is \u2018On The One-Yard Line\u2019 - Stocktwits \u2014 Eric Trump Doubles Down On $1 Million Bitcoin Call \u2013 Says Crypto Is \u2018On The One-Yard Line\u2019\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNX1pmRkZXRjdiRW5hMjBIczJUNUJIdGF6aldVWUh5a3NyTXlfM2RqczdicF96cDk3T1hqNmpNLWp5QXBJT0JkcWpJU0VzWXpUVWFFRkVEWlN6LTBCLUFkSGswd3BkRGZNWDZBa1pwdUtwTWpwUVlONEF6Ny1pMHpReUtsa2VNenVURDltcjRQcmFNWU1xT1RWOWMtdGdGenJ6Q0R6UnVSTS1qZlhkb1NsUHFxYTV2OW5wWjJVdmpLWkxFa3BaN1JSenpEX2o5VUFCSnFXT0FfM1B5alJNQ3c?oc=5",
-   "tickers": [
-    "BTC-USD"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "BTC-USD",
-   "strength": 50,
-   "reason": "Eric Trump bullish crypto call ($1M bitcoin target); Trump family endorsement of bitcoin upside",
-   "price_since": {
-    "ticker": "BTC-USD",
-    "pct": 0.2,
-    "base": 60016.43,
-    "last": 60136.95,
-    "base_date": "2026-06-26",
-    "last_date": "2026-06-28"
-   }
   },
   {
    "date": "2026-06-26T04:51:55Z",
@@ -2484,22 +2476,6 @@
    "primary_ticker": "DELL",
    "strength": 90,
    "reason": "Trump explicitly urged Americans to buy Dell; clear buy signal and demonstrated track record of outperformance."
-  },
-  {
-   "date": "2026-06-21T05:55:49Z",
-   "platform": "News",
-   "text": "Trump Says Anthropic No Longer Viewed as National Security Threat - The420.in \u2014 Trump Says Anthropic No Longer Viewed as National Security Threat\u00a0\u00a0The420.in",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5kd0ZfcmQzc2gtbk5SZ1AzcDhQSmptRFQ4Szl5cHkxTkR4Y1o3MTBSMUZFbE05WUtubnJCVmU4LWU4MkdIMnR2QXFhMUF3M0dFU2YxeUItZ1ZqcWpzQnRtcDhDZ3hkei00bWVoZHNORFZQN1pYT1B1Y212VQ?oc=5",
-   "tickers": [
-    "COUP"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "COUP",
-   "strength": 45,
-   "reason": "Reduced national security scrutiny on Anthropic lowers regulatory risk for AI sector"
   },
   {
    "curated": true,
