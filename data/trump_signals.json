@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-06-28T19:54:26Z",
+ "last_updated": "2026-06-28T21:01:56Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -33,6 +33,22 @@
    "primary_ticker": "NOK",
    "strength": 75,
    "reason": "Trump explicit endorsement of Nokia for AI growth; direct name-drop by Trump"
+  },
+  {
+   "date": "2026-06-28T05:23:12Z",
+   "platform": "News",
+   "text": "DVLT Stock Tumbles Pre-Market On Discounted Offering \u2013 Retail Slams The Move, Calling It \u2018Self-Inflicted Pain\u2019 - Stocktwits \u2014 DVLT Stock Tumbles Pre-Market On Discounted Offering \u2013 Retail Slams The Move, Calling It \u2018Self-Inflicted Pain\u2019\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVUx3aGVQUk9NNklvanl0M0xObG44aVBxc0FCaTNESVRBUm14b05yTHExSnNIeGNrWVpXTkxhSmU2S0xZaUhTRHBvRVYtS1ZqTGNNVnpYSHVKSG85WG1jeWdmMXdZZ1pUV0h1YlNBaWlyZkFJVmRuR25PMGxJRGlKTi04U29DSHMxOEplQW9ZbmZqamluSEduUGR6cUc1WmlfbU5TbUJB?oc=5",
+   "tickers": [
+    "DVLT"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "DVLT",
+   "strength": 60,
+   "reason": "Discounted secondary offering dilutes equity; unrelated to Trump but material stock catalyst"
   },
   {
    "date": "2026-06-28T04:19:47Z",
@@ -2484,22 +2500,6 @@
    "primary_ticker": "COUP",
    "strength": 45,
    "reason": "Reduced national security scrutiny on Anthropic lowers regulatory risk for AI sector"
-  },
-  {
-   "date": "2026-06-20T22:18:31Z",
-   "platform": "News",
-   "text": "Trump touted Palantir on Truth Social after buying the company's stock, records show - MSN \u2014 Trump touted Palantir on Truth Social after buying the company's stock, records show\u00a0\u00a0MSN",
-   "url": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxNUUs3SzUzaWVhZDNMWVpvdmlqN2xzc3ViV1g2T2t5aXJMMUtiSmxUZVRnMnRZYzNkYkRoRzdYRDJWczRWSS1SNWVXcHY5Rl83bFRMeTloOHd3cTRhenQ3SWVOcWxfUEVEcWFxeHRUMW8wanZaYmxwaS1xWkNtRmhkUVZUeGNBa2RzODNla3gxbVhqNkdPM2dPc1YxaUxMdDhQdElhNzU2d256LUhMUUZFS0RldVdDTkRMNXdfNFgxM2ljTk5TQ3dFTHRqRHhhOGRpMzFHdHl6VDhxY3NGTms0dmZMTzREeWcyaEF1QjdzLVVoanJuXzE5NUFSSHlvM3B5STFaaW1PVTkxNE9Tb3k1U09UN2F5dWFyWmxMZ2t4MVBRYnhaMkhBdWUtWFc3UEdhX2ZOLVJaeHl1YWhrVTRZUjEtczRxQXdxQ2h6ZnB2TklUaTA3Q2tPVmlMUzFUaWUzMEFXTDlDZXZ4ZVhHOEJsR0dhdldmTEhyOHc?oc=5",
-   "tickers": [
-    "PLTR"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "PLTR",
-   "strength": 75,
-   "reason": "Trump explicitly touted Palantir on Truth Social after buying stock"
   },
   {
    "curated": true,
