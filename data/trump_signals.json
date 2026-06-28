@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-06-28T08:21:49Z",
+ "last_updated": "2026-06-28T10:40:11Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -67,6 +67,22 @@
    "primary_ticker": "IBRX",
    "strength": 70,
    "reason": "Trump diplomacy explicitly credited with 'amazing results' for IBRX cancer drug; named company praise."
+  },
+  {
+   "date": "2026-06-27T18:17:24Z",
+   "platform": "News",
+   "text": "Trump hints at abandoning Anchorage deal, praises Ukraine strikes - MSN \u2014 Trump hints at abandoning Anchorage deal, praises Ukraine strikes\u00a0\u00a0MSN",
+   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQMzlGQ0FuMUdUM043ODRiZ2xtanZDbmp2UHpCUlAyTjlUbkxfekVMazc3RllSLW4xYXdldVc2U0FMNWNaLUw3b3dURlRtOU1zQjE0X1Z4NFlpSEJOYUcweDdLRERDLWJ5d25kdWpRUTlHUVdhbmc4MTloWER4ei0tN0ZIM0F1ZXlqRG1PVTNzb1BhM0RBR0tRclM5UW9zRE8wbERDSzF0SDNYUlBrOVRic3R6SG5TY1UzSTkzN1Y2ZGt2UVg1ejZkNGpLeTFueUJVYWJudzR3MmZDanpLWEc0Y002N1doM3otcFlxV0ZBNHRDbmZKcUdmZWN6QQ?oc=5",
+   "tickers": [
+    "XAR"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "XAR",
+   "strength": 30,
+   "reason": "Defense/geopolitics shift (Ukraine); direction ambiguous without deal clarity"
   },
   {
    "date": "2026-06-27T11:53:52Z",
@@ -2494,22 +2510,6 @@
    "primary_ticker": "XLE",
    "strength": 35,
    "reason": "Trump comment on oil tankers transiting Strait of Hormuz; geopolitical tension bearish but direction ambiguous"
-  },
-  {
-   "date": "2026-06-20T05:25:10Z",
-   "platform": "News",
-   "text": "Trump Praises PM Modi, Highlights Shift In US-India Trade Stance - Whalesbook \u2014 Trump Praises PM Modi, Highlights Shift In US-India Trade Stance\u00a0\u00a0Whalesbook",
-   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOQkpIZ01TMDZjUjNWU2FuYmhlVDdxWXN5TF92T2kxMi1teTY2eEJJamFiMnlLMlFyMVZRcnRTMDZOU1R1N081V1MwTE1PWFhMTkkydUR0WjhmS0JmRFROaVNBR2MtVEFEYXhIZnpzZDd6S1RZQWU4YndOTDhKeFUyNjFpUUEwdWxSZGl1QVp2RGNHbFpabGpLbHAyQW1JYURPbko1WS0wS3MyYktoVHFBd00zWkszVlRJNC1OeGN6STRoUEMwc0lsTEdad3FHWm5nTWFDdXl1V0lmaFlvVUpERQ?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "SPY",
-   "strength": 25,
-   "reason": "US-India trade stance shift signals potential tariff/trade policy changes affecting broad market"
   },
   {
    "curated": true,
