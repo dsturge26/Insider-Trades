@@ -1,7 +1,24 @@
 {
- "last_updated": "2026-06-27T23:03:06Z",
+ "last_updated": "2026-06-28T00:14:47Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-06-27T23:13:04.138Z",
+   "platform": "Truth Social",
+   "text": "United States aircraft just struck Iranian missile and drone storage locations, and coastal radar sites, for violating the Cease Fire Agreement, AGAIN! It is very possible that they will never learn! There may come a point when we are no longer able to be reasonable, and will be forced to militarily complete the job that we very successfully started. If that happens, the Islamic Republic of Iran will no longer exist! President DJT",
+   "tickers": [
+    "XAR"
+   ],
+   "engagement": 24833,
+   "url": "https://truthsocial.com/@realDonaldTrump/116824603632739697",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "XAR",
+   "strength": 45,
+   "reason": "Military action and escalation threat suggests increased defense spending and conflict risk."
+  },
   {
    "date": "2026-06-27T10:03:35.027Z",
    "platform": "Truth Social",
@@ -373,11 +390,11 @@
    "reason": "Eric Trump bullish crypto call ($1M bitcoin target); Trump family endorsement of bitcoin upside",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": 0.3,
+    "pct": 0.0,
     "base": 60016.43,
-    "last": 60169.94,
+    "last": 60042.81,
     "base_date": "2026-06-26",
-    "last_date": "2026-06-27"
+    "last_date": "2026-06-28"
    }
   },
   {
@@ -2508,22 +2525,6 @@
    "primary_ticker": "COUP",
    "strength": 45,
    "reason": "Reduced national security threat designation lowers regulatory risk for Anthropic"
-  },
-  {
-   "date": "2026-06-20T02:13:33Z",
-   "platform": "News",
-   "text": "'All business, no games': Trump praises Xi Jinping as a smart and formidable leader - Moneycontrol.com \u2014 'All business, no games': Trump praises Xi Jinping as a smart and formidable leader\u00a0\u00a0Moneycontrol.com",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOOHowampZd2IwX3hodHM2Nkx4QjgtUW9CMW1Rd1lPRGpIRGVTZHJBbnFka2hFaExiZnZqWnFVd1EtSDdYMnNPLU1NT3NLVXZXQS00eWZZekdGei1BNmh4QWdXY2hTUE5XUGVDT0ZLOUdQdkhVYmxDSnljaWhYUTBxUW8zdy1jbTZfcU1zNGZWbmZJXzhHUWFfM1RkRjMyOXQteWZTdXN0SFQxMWNZQjV3V2hrTV9QSjdOVXNnYjhTa1VKa0RXaTBUdlY1Rko1WmRpMGlQU0ZsUdIB1wFBVV95cUxOOHowampZd2IwX3hodHM2Nkx4QjgtUW9CMW1Rd1lPRGpIRGVTZHJBbnFka2hFaExiZnZqWnFVd1EtSDdYMnNPLU1NT3NLVXZXQS00eWZZekdGei1BNmh4QWdXY2hTUE5XUGVDT0ZLOUdQdkhVYmxDSnljaWhYUTBxUW8zdy1jbTZfcU1zNGZWbmZJXzhHUWFfM1RkRjMyOXQteWZTdXN0SFQxMWNZQjV3V2hrTV9QSjdOVXNnYjhTa1VKa0RXaTBUdlY1Rko1WmRpMGlQU0ZsUQ?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "SPY",
-   "strength": 20,
-   "reason": "Xi praise may signal softer China trade stance, but direction unclear"
   },
   {
    "curated": true,
