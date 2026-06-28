@@ -1,7 +1,55 @@
 {
- "last_updated": "2026-06-28T14:16:22Z",
+ "last_updated": "2026-06-28T15:50:11Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-06-28T07:49:07Z",
+   "platform": "News",
+   "text": "Nokia Corporation (NYSE:NOK) Given Average Recommendation of \"Moderate Buy\" by Brokerages - MarketBeat \u2014 Nokia Corporation (NYSE:NOK) Given Average Recommendation of \"Moderate Buy\" by Brokerages\u00a0\u00a0MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQY3ZTeWttS2NWU2pPbXpFQy0zTGszTUVIc0hXX1dBS0JGc3NxSzYyUl9Ra29IYVJKeFFzaENtdFB6Q0w3YkwwSDJGV2ZMWWt3c09HWUlrZ0k0UDRyZFNNbTdQc19GU3JxTDRNajkzd3JjLVlKTjBHOWczNVNoSjlvbmpwSnJwLUJVYkpSSEI2OFFod2FCMkZsRWNBS1hIWlBlRlBXenJDbGpKUk5tZVFlQko1d29ZbEgtM1d3NmRCYTVLUzFRcEZVZEdYR0ZETmRvX2tsNA?oc=5",
+   "tickers": [
+    "NOK"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "NOK",
+   "strength": 35,
+   "reason": "Brokerage upgrade to Moderate Buy; general analyst consensus, not Trump-driven"
+  },
+  {
+   "date": "2026-06-28T06:12:01Z",
+   "platform": "News",
+   "text": "NOK stock rises pre-market: Trump endorsement adds fuel to AI growth push for Nokia - MSN \u2014 NOK stock rises pre-market: Trump endorsement adds fuel to AI growth push for Nokia\u00a0\u00a0MSN",
+   "url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxOaDZySzFJSWdQVjhnb0ZQTVFoblZFbk4xSnNudVk5QXVRMVZTSGNiUkxSSlVwanRfazdacWJBTW5fdXk3UDJfWFI5SFh0V2VTOG15NHhwaXRZV2plcFlkMGt0aXNGVDBIejR5WFB4Y29hQ2lNRWxUenRMLTEzMzVpVHpFd3lXaXNnaHdwRTh1R0trRHVlZ0o3blo1STRneXdMSWlmNkxvWEZrRFkxNi0xOTJQZkdvb0U0RVN4WE1xNm5NYWE2M21JV3R2RGV6UlBtNEFiUHZxVEJkazdHTHBoU0llY3J2SmgzOExRQURUNF9qY2h4VGdrUzZwb2JzeVJ0MkJVNU9ad09HbTVMUlFOTC1yY1JMaXlENnNEb19RTnh2LXR5elBPejNCeldxNGtLZ0I3TFNRamRQcC12d1l2ci1vVnBVckxkZzdSRW1jQXlFY0lvc2tVT0t0MWxBX0UtX0JSUTZMdTI?oc=5",
+   "tickers": [
+    "NOK"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "NOK",
+   "strength": 75,
+   "reason": "Trump explicit endorsement of Nokia for AI growth; direct name-drop by Trump"
+  },
+  {
+   "date": "2026-06-28T04:19:47Z",
+   "platform": "News",
+   "text": "Netflix Cofounder Reed Hastings Sells Stock Worth Nearly $38M \u2013 NFLX Stock Eyes A Three-Day Red Streak - Stocktwits \u2014 Netflix Cofounder Reed Hastings Sells Stock Worth Nearly $38M \u2013 NFLX Stock Eyes A Three-Day Red Streak\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPMnU5Rzk2YTk4Q0owNEUyUFk3WlZQcTFvajRUZTJSREpPREZQSzRwVG9yLVlKTDh1OW95a0c1M3htdk81Z2JOU1JZSEl6S3ZLVGwwZS1hU2hob2RmZERiUkNzV05nRHdRS0Y3WTR5b3Z0b1puNENaY0RpN0VvbWRyWUdYeUY3VDFOZG5YdkFqRE5YR2tCbDdua1NsUDhmR3d5TWNkLXFFaEhDTzFvNXlYNjNta0RuTkpYMnNPemZfRC15anJYaXVCRkQ3V2FuMHhBd19lVlgwaEQ2RTB2aUxYRlBoaFphS3hNTEN5S2hhaDREaHJDWDlR?oc=5",
+   "tickers": [
+    "NFLX"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "NFLX",
+   "strength": 25,
+   "reason": "Insider selling by co-founder; no Trump signal, general sentiment/technicals"
+  },
   {
    "date": "2026-06-28T04:13:50Z",
    "platform": "News",
@@ -36,6 +84,22 @@
    "reason": "Trump touts Iran deal energy boom; energy/oil sector bullish on geopolitical thaw"
   },
   {
+   "date": "2026-06-27T23:34:00Z",
+   "platform": "News",
+   "text": "IBRX Stock Rallies Into Trump\u2019s Big SOTU Night \u2014 Here\u2019s What Traders Think Could Fuel The Next Move - Stocktwits \u2014 IBRX Stock Rallies Into Trump\u2019s Big SOTU Night \u2014 Here\u2019s What Traders Think Could Fuel The Next Move\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWFdFall2YVNMN3Rialp3SE9sU0h6YUQ1MDFiX2JaeXMxNlFFZUZveFU0TkVxUFI4cTQ5bW5VdkFlTDd1dFNwSUN2YTRtRl83aVRRXzZ6d09TeEhlR1NJb1JaMHlMWDhrQXpmZW40c1B1Y21KNjhxdm90Ny1uU3p4MzJZSW9GNGduMEdyRzFIU2RGLWlYWXg4TFJUU0N6ZlhFemxtUmprVXY0YkVRZk5vZHljazQ?oc=5",
+   "tickers": [
+    "IBRX"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "IBRX",
+   "strength": 40,
+   "reason": "Stock rallying ahead of SOTU; Trump-adjacent but no explicit direction yet"
+  },
+  {
    "date": "2026-06-27T23:13:04.138Z",
    "platform": "Truth Social",
    "text": "United States aircraft just struck Iranian missile and drone storage locations, and coastal radar sites, for violating the Cease Fire Agreement, AGAIN! It is very possible that they will never learn! There may come a point when we are no longer able to be reasonable, and will be forced to militarily complete the job that we very successfully started. If that happens, the Islamic Republic of Iran will no longer exist! President DJT",
@@ -53,6 +117,22 @@
    "reason": "Military action and escalation threat suggests increased defense spending and conflict risk."
   },
   {
+   "date": "2026-06-27T22:12:05Z",
+   "platform": "News",
+   "text": "FDX Stock Tumbles Pre-Market Despite Q4 Beat: CEO Says FedEx Is On Track For 2029 Goals - Stocktwits \u2014 FDX Stock Tumbles Pre-Market Despite Q4 Beat: CEO Says FedEx Is On Track For 2029 Goals\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOOExWOE11Q05WeTBLMGtRa3duTmh6WnFrSURpUjJ1cVdPcEpHdXc4aDhIQzBUelFsdkhXeVJ0VXhaNGtRWEluQ056V2xiV3N3aEtDTkpmQkFVSTM2eDV6RGlLaEczYVNaQ1puaHdHa3ZFM3hzS2xJRGcyQVFFMnFlWGVyOWtCMUYydU5Rc0ZoVThuamk3UXBpSURiSDZWdVJ1eEllanFISTJZcTRwOFFNMmJUbTItMnVUZDJ4THZHRHhGc3B1U2I3cU42aWZtUlZnTzVaLVpNX284WWdoVFBEZk1Ibjkzdw?oc=5",
+   "tickers": [
+    "FDX"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "FDX",
+   "strength": 30,
+   "reason": "Q4 beat but pre-market decline; no Trump signal, earnings-driven"
+  },
+  {
    "date": "2026-06-27T20:15:53Z",
    "platform": "News",
    "text": "IBRX Stock Rally Not Over Yet? Chairman Says Trump Diplomacy Led To \u2018Amazing Results\u2019 For Cancer Drug - Stocktwits \u2014 IBRX Stock Rally Not Over Yet? Chairman Says Trump Diplomacy Led To \u2018Amazing Results\u2019 For Cancer Drug\u00a0\u00a0Stocktwits",
@@ -67,6 +147,22 @@
    "primary_ticker": "IBRX",
    "strength": 70,
    "reason": "Trump diplomacy explicitly credited with 'amazing results' for IBRX cancer drug; named company praise."
+  },
+  {
+   "date": "2026-06-27T19:25:31Z",
+   "platform": "News",
+   "text": "INTC Stock Rockets Toward Best Month Ever: Something More Than A Trump Pump Could Be Powering The Rally - Stocktwits \u2014 INTC Stock Rockets Toward Best Month Ever: Something More Than A Trump Pump Could Be Powering The Rally\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQT29KOURKeHprQ2xZbmpLUUc3MGRlTTE5Y1JHVXJ5TGhldk10eENQcmZLSzRWNDQyTmJFclFNUThmZ0tBRlZUQTZ3MGF1dlZwR0Q4aUtXUnZVQ2o1MjM3cFNpU2RrejRkd2E0OXBhOVNpdDdBdDVSSTR1c2M5NTZfYlg4NEFxODg3QWpMTXd0VVIzM3pZRS10OG5JWG9QUW52UjZvbXVvQ29uZ1lJb1NwbFljM1lBN1dreHdJZDdYZ1hKTjVidndnRWlJRnl5cnNpT2llcjVuSVltVDNzVFdHbmZYTEpua3JJVllOcXIxVmdfaThfeHRzVm9R?oc=5",
+   "tickers": [
+    "INTC"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "INTC",
+   "strength": 50,
+   "reason": "Intel rally partly attributed to Trump support; uncertain if chip policy or other factors dominate"
   },
   {
    "date": "2026-06-27T18:17:24Z",
@@ -116,22 +212,6 @@
    "primary_ticker": "SPY",
    "strength": 75,
    "reason": "100% tariff threat on countries imposing digital services tax is broad trade escalation, bearish macro signal"
-  },
-  {
-   "date": "2026-06-27T07:34:18Z",
-   "platform": "News",
-   "text": "FDX Stock Tumbles Pre-Market Despite Q4 Beat: CEO Says FedEx Is On Track For 2029 Goals - Stocktwits \u2014 FDX Stock Tumbles Pre-Market Despite Q4 Beat: CEO Says FedEx Is On Track For 2029 Goals\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOOExWOE11Q05WeTBLMGtRa3duTmh6WnFrSURpUjJ1cVdPcEpHdXc4aDhIQzBUelFsdkhXeVJ0VXhaNGtRWEluQ056V2xiV3N3aEtDTkpmQkFVSTM2eDV6RGlLaEczYVNaQ1puaHdHa3ZFM3hzS2xJRGcyQVFFMnFlWGVyOWtCMUYydU5Rc0ZoVThuamk3UXBpSURiSDZWdVJ1eEllanFISTJZcTRwOFFNMmJUbTItMnVUZDJ4THZHRHhGc3B1U2I3cU42aWZtUlZnTzVaLVpNX284WWdoVFBEZk1Ibjkzdw?oc=5",
-   "tickers": [
-    "FDX"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "FDX",
-   "strength": 25,
-   "reason": "FedEx earnings beat but stock tumbled; mixed signal on valuation/forward guidance"
   },
   {
    "date": "2026-06-27T07:31:01Z",
@@ -439,22 +519,6 @@
    "reason": "100% tariff on imported patented drugs favors onshored/price-cutting pharma; bullish for domestic drugmakers like Eli Lilly"
   },
   {
-   "date": "2026-06-26T13:21:51Z",
-   "platform": "News",
-   "text": "IBRX Stock Rallies Into Trump\u2019s Big SOTU Night \u2014 Here\u2019s What Traders Think Could Fuel The Next Move - Stocktwits \u2014 IBRX Stock Rallies Into Trump\u2019s Big SOTU Night \u2014 Here\u2019s What Traders Think Could Fuel The Next Move\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWFdFall2YVNMN3Rialp3SE9sU0h6YUQ1MDFiX2JaeXMxNlFFZUZveFU0TkVxUFI4cTQ5bW5VdkFlTDd1dFNwSUN2YTRtRl83aVRRXzZ6d09TeEhlR1NJb1JaMHlMWDhrQXpmZW40c1B1Y21KNjhxdm90Ny1uU3p4MzJZSW9GNGduMEdyRzFIU2RGLWlYWXg4TFJUU0N6ZlhFemxtUmprVXY0YkVRZk5vZHljazQ?oc=5",
-   "tickers": [
-    "IBRX"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "IBRX",
-   "strength": 40,
-   "reason": "IBRX rallying before SOTU; Trump connection implied but direction unclear without his stated view"
-  },
-  {
    "date": "2026-06-26T11:48:00Z",
    "platform": "News",
    "text": "Trump vows 100% tariff on countries imposing digital services tax on US firms - chinadailyhk \u2014 Trump vows 100% tariff on countries imposing digital services tax on US firms\u00a0\u00a0chinadailyhk",
@@ -541,22 +605,6 @@
    "primary_ticker": "IBM",
    "strength": 65,
    "reason": "Trump explicitly regrets selling IBM, now cheers quantum future; dual explicit bullish signal on IBM stock"
-  },
-  {
-   "date": "2026-06-26T03:17:28Z",
-   "platform": "News",
-   "text": "INTC Stock Rockets Toward Best Month Ever: Something More Than A Trump Pump Could Be Powering The Rally - Stocktwits \u2014 INTC Stock Rockets Toward Best Month Ever: Something More Than A Trump Pump Could Be Powering The Rally\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQT29KOURKeHprQ2xZbmpLUUc3MGRlTTE5Y1JHVXJ5TGhldk10eENQcmZLSzRWNDQyTmJFclFNUThmZ0tBRlZUQTZ3MGF1dlZwR0Q4aUtXUnZVQ2o1MjM3cFNpU2RrejRkd2E0OXBhOVNpdDdBdDVSSTR1c2M5NTZfYlg4NEFxODg3QWpMTXd0VVIzM3pZRS10OG5JWG9QUW52UjZvbXVvQ29uZ1lJb1NwbFljM1lBN1dreHdJZDdYZ1hKTjVidndnRWlJRnl5cnNpT2llcjVuSVltVDNzVFdHbmZYTEpua3JJVllOcXIxVmdfaThfeHRzVm9R?oc=5",
-   "tickers": [
-    "INTC"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "INTC",
-   "strength": 55,
-   "reason": "Intel rally driven by Trump support and semiconductor policy tailwinds"
   },
   {
    "date": "2026-06-26T02:31:00Z",
@@ -1159,30 +1207,6 @@
    "primary_ticker": "NOK",
    "strength": 70,
    "reason": "Trump endorsement of Nokia's AI/chip growth push; bullish named company",
-   "price_since": {
-    "ticker": "NOK",
-    "pct": 1.2,
-    "base": 13.81,
-    "last": 13.98,
-    "base_date": "2026-06-24",
-    "last_date": "2026-06-25"
-   }
-  },
-  {
-   "date": "2026-06-24T10:40:49Z",
-   "platform": "News",
-   "text": "NOK stock rises pre-market: Trump endorsement adds fuel to AI growth push for Nokia - MSN \u2014 NOK stock rises pre-market: Trump endorsement adds fuel to AI growth push for Nokia\u00a0\u00a0MSN",
-   "url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxOaDZySzFJSWdQVjhnb0ZQTVFoblZFbk4xSnNudVk5QXVRMVZTSGNiUkxSSlVwanRfazdacWJBTW5fdXk3UDJfWFI5SFh0V2VTOG15NHhwaXRZV2plcFlkMGt0aXNGVDBIejR5WFB4Y29hQ2lNRWxUenRMLTEzMzVpVHpFd3lXaXNnaHdwRTh1R0trRHVlZ0o3blo1STRneXdMSWlmNkxvWEZrRFkxNi0xOTJQZkdvb0U0RVN4WE1xNm5NYWE2M21JV3R2RGV6UlBtNEFiUHZxVEJkazdHTHBoU0llY3J2SmgzOExRQURUNF9qY2h4VGdrUzZwb2JzeVJ0MkJVNU9ad09HbTVMUlFOTC1yY1JMaXlENnNEb19RTnh2LXR5elBPejNCeldxNGtLZ0I3TFNRamRQcC12d1l2ci1vVnBVckxkZzdSRW1jQXlFY0lvc2tVT0t0MWxBX0UtX0JSUTZMdTI?oc=5",
-   "tickers": [
-    "NOK"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "NOK",
-   "strength": 68,
-   "reason": "Trump explicitly endorsed Nokia for AI growth, stock rallying pre-market on endorsement",
    "price_since": {
     "ticker": "NOK",
     "pct": 1.2,
