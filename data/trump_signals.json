@@ -1,9 +1,9 @@
 {
- "last_updated": "2026-06-29T11:59:43Z",
+ "last_updated": "2026-06-29T16:04:48Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
-   "date": "2026-06-29T11:13:37Z",
+   "date": "2026-06-29T13:42:43Z",
    "platform": "News",
    "text": "Trump\u2019s tariffs aren\u2019t saving jobs at Whirlpool\u2019s Iowa refrigerator plant - Reuters \u2014 Trump\u2019s tariffs aren\u2019t saving jobs at Whirlpool\u2019s Iowa refrigerator plant\u00a0\u00a0Reuters",
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZUItamM1R1pTcmZMLW5MbWt1YUxzcFJSQ3JWZTdxMjRVMXRrak1WTk8taThCNDcxd3hxMGFFb3oxY21Zc0U3YkdZZ1hsbV9fOHVfaWd2SERTT0ZWY3drV0FlcmdidVdIOXZNUlhNWnhwc1VvVWwwTUdrWDRINmloYXpRR0c4cWJNTlI0dUVGTjI5YWRLbE9Ic0l3YmJmVWVjcVpydlRmWWt2ZTJ3ZF9MaGhNMnp5WjU1VVpzbG1CMVYtM3Ro?oc=5",
@@ -16,7 +16,74 @@
    "direction": "SELL",
    "primary_ticker": "WHR",
    "strength": 45,
-   "reason": "Tariffs failed to save jobs at Whirlpool plant, undermining Trump's tariff rationale; negative signal on WHR operationally"
+   "reason": "tariffs failed to save jobs at Whirlpool plant, suggests tariff policy ineffective and bearish for affected manufacturer"
+  },
+  {
+   "date": "2026-06-29T12:52:00Z",
+   "platform": "News",
+   "text": "Stock Market Today: Dow Jones, S&P 500 Futures Gain As Trump Admin Says US, Iran Will 'Stand Down' - Stat - Benzinga \u2014 Stock Market Today: Dow Jones, S&P 500 Futures Gain As Trump Admin Says US, Iran Will 'Stand Down' - Stat\u00a0\u00a0Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQM1RvZi1SckV4Y21CRC1YX2RxM1YzTFRsWWhqMVROM3REdGdwQUtJT0dFSnZqQlZGMnBUcy1YVFhDMTNrX0c2clFaZ3Zvdk0xUVE3dWt2LXRDeWt2RzF2Ry1rZTQydXI4T0Z0OEFwN3BVV2RTZjBFSHNQdTlhd0NBU3JzMnh4Z3ExUERqSF9TTjJxdXdkUWtMR0JYSWVaYkY2a0t3WWtINlBDVFF5U2ZVZWJZcjg3SkRDbC1nem1ndmJBbm51UC1vRHJuUllKTWZOVVNPV3h5cTFjMVI4a09fZmd6MFdsSXR0R2ZXbjEtek9YUkFreWwzSUFReG90bDRkQWlvOGFDSmNkdGZTeG5NMWlkZTlUeURHNDByR2lBbw?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "SPY",
+   "strength": 55,
+   "reason": "US-Iran de-escalation reduces geopolitical risk, bullish for broad market"
+  },
+  {
+   "date": "2026-06-29T11:31:09.778Z",
+   "platform": "Truth Social",
+   "text": "IRAN HAS REQUESTED A MEETING. IT WILL TAKE PLACE TOMORROW IN DOHA! President DJT",
+   "tickers": [
+    "SPY"
+   ],
+   "engagement": 16845,
+   "url": "https://truthsocial.com/@realDonaldTrump/116833168246538290",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "SPY",
+   "strength": 50,
+   "reason": "Iran-US diplomatic engagement reduces geopolitical tension, supports risk-on sentiment"
+  },
+  {
+   "date": "2026-06-29T11:23:32.814Z",
+   "platform": "Truth Social",
+   "text": "WTI CRUDE - $69, and heading down. This is less than it was prior to the start of the Denuclearization of Iran! President DJT",
+   "tickers": [
+    "USO"
+   ],
+   "engagement": 11885,
+   "url": "https://truthsocial.com/@realDonaldTrump/116833138299035157",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "USO",
+   "strength": 60,
+   "reason": "crude oil falling ($69, down from Iran denuclearization start), bearish for energy sector"
+  },
+  {
+   "date": "2026-06-29T11:20:41.422Z",
+   "platform": "Truth Social",
+   "text": "GAS PRICES COMING DOWN, FAST! REPORT ANY ABUSES AT RETAIL LEVEL!!! President DJT",
+   "tickers": [
+    "XLE"
+   ],
+   "engagement": 12345,
+   "url": "https://truthsocial.com/@realDonaldTrump/116833127066912322",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "XLE",
+   "strength": 40,
+   "reason": "gas prices falling claimed as positive, but Trump's rhetoric on energy policy is mixed; net effect unclear"
   },
   {
    "date": "2026-06-29T10:20:47Z",
@@ -99,12 +166,28 @@
    "reason": "Bitcoin comparison amid crypto volatility; ambiguous directional signal",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": 0.6,
+    "pct": 0.3,
     "base": 59532.34,
-    "last": 59862.68,
+    "last": 59683.38,
     "base_date": "2026-06-28",
     "last_date": "2026-06-29"
    }
+  },
+  {
+   "date": "2026-06-28T12:44:51Z",
+   "platform": "News",
+   "text": "Trump Announces Insurance, Military Escorts For Ships Amid Escalating US-Israel-Iran War - Stocktwits \u2014 Trump Announces Insurance, Military Escorts For Ships Amid Escalating US-Israel-Iran War\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOMTZIVmNWdjV5YXktQnlieFJCOGxkZnB1cXZLdEdVQ2FhTk9pN0NPOTdOY0xxRHVuRHV5ODlndElnRUc0UmVFUE1YTV9wWkcwWW1NVGQ0N3BfRS1sLTFvbmp1blBVbnF6dG1pY0VPQlc4NDRITEQ4X1JrM0dSOFNqUGRTUE0yY2wxNWltbTVLSU1SMGJPTDRuQTFHa0tmOHFxZ2daUS12X3RtZ1hQbUFQOE1KVkZfSVZpSmJIREVEc3g3Tk9pRU1KNTVtWWdxeThHeW1vOVVEY2lCR0VGRjJFX0taWDRndw?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "SPY",
+   "strength": 35,
+   "reason": "military escorts and insurance for ships amid Iran escalation is mixed; suggests risk but also government support for commerce"
   },
   {
    "date": "2026-06-28T07:49:07Z",
@@ -395,7 +478,15 @@
    "direction": "BUY",
    "primary_ticker": "INTC",
    "strength": 85,
-   "reason": "Trump confirms Apple chip manufacturing deal with Intel; explicit company/sector catalyst driving stock rally."
+   "reason": "Trump confirms Apple chip manufacturing deal with Intel; explicit company/sector catalyst driving stock rally.",
+   "price_since": {
+    "ticker": "INTC",
+    "pct": -0.9,
+    "base": 128.32,
+    "last": 127.16,
+    "base_date": "2026-06-26",
+    "last_date": "2026-06-29"
+   }
   },
   {
    "date": "2026-06-26T23:47:03Z",
@@ -411,7 +502,15 @@
    "direction": "WATCH",
    "primary_ticker": "TSLA",
    "strength": 40,
-   "reason": "Tesla Semi production milestone offset by China headwinds; mixed signal"
+   "reason": "Tesla Semi production milestone offset by China headwinds; mixed signal",
+   "price_since": {
+    "ticker": "TSLA",
+    "pct": 5.8,
+    "base": 379.71,
+    "last": 401.77,
+    "base_date": "2026-06-26",
+    "last_date": "2026-06-29"
+   }
   },
   {
    "date": "2026-06-26T22:43:50Z",
@@ -427,7 +526,15 @@
    "direction": "BUY",
    "primary_ticker": "SPY",
    "strength": 35,
-   "reason": "US-India trade agreement praised; macro bullish sentiment on trade deal"
+   "reason": "US-India trade agreement praised; macro bullish sentiment on trade deal",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": 1.4,
+    "base": 728.99,
+    "last": 738.86,
+    "base_date": "2026-06-26",
+    "last_date": "2026-06-29"
+   }
   },
   {
    "date": "2026-06-26T19:45:00Z",
@@ -749,22 +856,6 @@
    "primary_ticker": "PLTR",
    "strength": 55,
    "reason": "Reference to Trump praise of Palantir driving strong returns; implies bullish sentiment on company."
-  },
-  {
-   "date": "2026-06-26T04:51:55Z",
-   "platform": "News",
-   "text": "Trump Announces Insurance, Military Escorts For Ships Amid Escalating US-Israel-Iran War - Stocktwits \u2014 Trump Announces Insurance, Military Escorts For Ships Amid Escalating US-Israel-Iran War\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOMTZIVmNWdjV5YXktQnlieFJCOGxkZnB1cXZLdEdVQ2FhTk9pN0NPOTdOY0xxRHVuRHV5ODlndElnRUc0UmVFUE1YTV9wWkcwWW1NVGQ0N3BfRS1sLTFvbmp1blBVbnF6dG1pY0VPQlc4NDRITEQ4X1JrM0dSOFNqUGRTUE0yY2wxNWltbTVLSU1SMGJPTDRuQTFHa0tmOHFxZ2daUS12X3RtZ1hQbUFQOE1KVkZfSVZpSmJIREVEc3g3Tk9pRU1KNTVtWWdxeThHeW1vOVVEY2lCR0VGRjJFX0taWDRndw?oc=5",
-   "tickers": [
-    "XLE"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "XLE",
-   "strength": 50,
-   "reason": "Trump announces military/insurance support for ships amid Iran tensions; bullish for energy/shipping sectors"
   },
   {
    "date": "2026-06-26T03:20:16Z",
@@ -2411,126 +2502,6 @@
     "base_date": "2026-06-22",
     "last_date": "2026-06-23"
    }
-  },
-  {
-   "date": "2026-06-21T20:33:42Z",
-   "platform": "News",
-   "text": "The 2 Factors That Will Decide Whether XLV Finally Catches the S&P 500 in 2026 - AOL.com \u2014 The 2 Factors That Will Decide Whether XLV Finally Catches the S&P 500 in 2026\u00a0\u00a0AOL.com",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE95VC12akZaLXB0MUNEQjd6eTJmNXc5cU5EN0NyR0RrV0FEVjBZVDNtWllKRVE1US0wNnFQbTFOVU05YWlCMmZ4LWcxbHF6V0RHbGU1UnhPM1BBSm5tWGlvaWJ6VlJVUUd1dWRMODZIbGZqOFJ1eVRuMFFVWlg?oc=5",
-   "tickers": [
-    "XLV"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "XLV",
-   "strength": 15,
-   "reason": "Healthcare sector relative performance discussion; no Trump-specific catalyst",
-   "price_since": {
-    "ticker": "XLV",
-    "pct": 1.0,
-    "base": 150.06,
-    "last": 151.6,
-    "base_date": "2026-06-22",
-    "last_date": "2026-06-23"
-   }
-  },
-  {
-   "date": "2026-06-21T20:33:29Z",
-   "platform": "News",
-   "text": "Trump bought these health care stocks in 2026; should you? - AOL.com \u2014 Trump bought these health care stocks in 2026; should you?\u00a0\u00a0AOL.com",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUzdQM3NKU3F6SEFrdWFla2xtZEJwV0lRTlEwaHRiRHVabGZxc2E4Y3pPV2c5QzhoUTNYWHdUYnlLaXVLRl9ycVFxN0ZkTjBXRVZLLXJlaDNVNXU0bHFRV0QwcU10aHVZdHdacnRoTUtjMkgzdlNwY2pWZXRmRVJ3dQ?oc=5",
-   "tickers": [
-    "XLV"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "XLV",
-   "strength": 45,
-   "reason": "Trump healthcare stock purchases signal sector confidence; bullish healthcare sector read",
-   "price_since": {
-    "ticker": "XLV",
-    "pct": 1.0,
-    "base": 150.06,
-    "last": 151.6,
-    "base_date": "2026-06-22",
-    "last_date": "2026-06-23"
-   }
-  },
-  {
-   "date": "2026-06-21T19:28:51Z",
-   "platform": "News",
-   "text": "US launches trade investigation into Germany over drug pricing - AOL.com \u2014 US launches trade investigation into Germany over drug pricing\u00a0\u00a0AOL.com",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBoenQ5SnJHOFVpMXZhVTkybnBVWG1GLVRUSzVoUmFLOVZNcHJSUUVSNFJjaGFHNWZLZWh5WHNjb3BVaFN4NlY5akJZYUhCaGxSblNMVm55aDVPTzlTMWVnckcxTUpBT3dGZU1kR0VtcHgxUXdMOXJZNnZDdXhhQQ?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "SPY",
-   "strength": 35,
-   "reason": "US trade investigation into Germany signals potential trade friction and tariffs",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": -0.9,
-    "base": 744.39,
-    "last": 737.94,
-    "base_date": "2026-06-22",
-    "last_date": "2026-06-23"
-   }
-  },
-  {
-   "date": "2026-06-21T19:25:15Z",
-   "platform": "News",
-   "text": "Why 2 major Wall Street firms say healthcare stocks could be the market's next hot trade - AOL.com \u2014 Why 2 major Wall Street firms say healthcare stocks could be the market's next hot trade\u00a0\u00a0AOL.com",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBzR3EtVHVLczdSLVhXQzFIUzB6OHUyR2pLQU5uV3UyMHJ0a1hUYVhHYm9uaEJXa0FMZDZzZEJ5Zzk1WndEX2ZfNU5SamcwaUcwd3ZUUlJuT3ZiZ2FTUzdqR0JWX1lhY3dkRzFrdnVyN3A?oc=5",
-   "tickers": [
-    "XLV"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "XLV",
-   "strength": 40,
-   "reason": "Healthcare stocks identified as next hot trade; sector-level bullish signal"
-  },
-  {
-   "date": "2026-06-21T14:17:00Z",
-   "platform": "News",
-   "text": "Trump bought these health care stocks in 2026; should you? - thestreet.com \u2014 Trump bought these health care stocks in 2026; should you?\u00a0\u00a0thestreet.com",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMkpOOERiR25NaFpWeTdvVzZabU9EMUs5b3k2RVB3TXRZQW9FX2UzNjY3eWc5Q3JuVFZUN1dDNmFIVWhndjVIQTBGMnZPR3QwOVg2cXN5QnZGNFNqVHRCLTMxUkpVZWJZNVdGTWVTX0U1NGRuYmNKcWNMQWU3Mk90bFRZVGozY3FYVWNoS2ZOLVFqTjlPRUctMFpHTnZ1T25t?oc=5",
-   "tickers": [
-    "XLV"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "XLV",
-   "strength": 35,
-   "reason": "Trump's healthcare stock purchases signal sector bullish sentiment; unspecified holdings limit strength."
-  },
-  {
-   "date": "2026-06-21T14:15:24Z",
-   "platform": "News",
-   "text": "Crypto Market Bull Run Likely Amid Trump\u2019s Clarity Act Support, Morgan Stanley\u2019s Coinbase Bet, Says Clear Street - Stocktwits \u2014 Crypto Market Bull Run Likely Amid Trump\u2019s Clarity Act Support, Morgan Stanley\u2019s Coinbase Bet, Says Clear Street\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOHphU094V1k2emh1Y01lbDktbFpiVXBtX0pKZF9BSGJ5UTZ4cTl0cGV3N2tidFRWa0hkRl85RTVSSlVPMTFmcmE1cXZVZDh2N2FXaTFwcXJjNkppaGtkTjNkYWkyQXpoU3NTMUpXZEptcFc2c3JUT1pQVXRoUU9hZEcyanNIX2tUS3ctLWlvTV9ILV85NDFXM0xWMmtPbnJjdXV6NkF5SXRCTXQyMmlfNWtkMkpla0lqSy1iVkxiZDllQjhFTU1zSA?oc=5",
-   "tickers": [
-    "COIN"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "COIN",
-   "strength": 65,
-   "reason": "Trump supports Clarity Act for crypto; Morgan Stanley bullish on Coinbase; crypto-friendly policy environment implied"
   },
   {
    "curated": true,
