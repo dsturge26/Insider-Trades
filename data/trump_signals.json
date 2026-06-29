@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-06-29T20:24:58Z",
+ "last_updated": "2026-06-29T21:52:19Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -17,6 +17,22 @@
    "primary_ticker": "WHR",
    "strength": 45,
    "reason": "Trump tariffs failed to save jobs at Whirlpool plant, undermining tariff justification and exposing tariff ineffectiveness"
+  },
+  {
+   "date": "2026-06-29T18:25:00Z",
+   "platform": "News",
+   "text": "Trump\u2019s Axon Stake Sparks 10% Rally; Micron and Sandisk Slide on Apple-China Chip Threat - BigGo Finance \u2014 Trump\u2019s Axon Stake Sparks 10% Rally; Micron and Sandisk Slide on Apple-China Chip Threat\u00a0\u00a0BigGo Finance",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5SdGJRVUVQN2plSlpJSC1KTlE1dUpJX3lES3kwbm9lSHZxak9tRzk2Z3dwWWt4MzM4OGtfWkxHaVN2OEVjMDVtZmkyYjNJZ1RBNVJVUlM3VnhZSHBseVJiclBhckFnRkE2Y1VwcGt6TjZ4d0pMdEE?oc=5",
+   "tickers": [
+    "AXON"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "AXON",
+   "strength": 75,
+   "reason": "Trump's stake in Axon sparked 10% rally; explicit ownership position is bullish for the company."
   },
   {
    "date": "2026-06-29T15:29:44Z",
@@ -198,9 +214,9 @@
    "reason": "Bitcoin comparison amid crypto volatility; ambiguous directional signal",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": 1.4,
+    "pct": 1.5,
     "base": 59532.34,
-    "last": 60354.74,
+    "last": 60418.63,
     "base_date": "2026-06-28",
     "last_date": "2026-06-29"
    }
@@ -2445,71 +2461,6 @@
     "base_date": "2026-06-22",
     "last_date": "2026-06-23"
    }
-  },
-  {
-   "date": "2026-06-22T00:07:03Z",
-   "platform": "News",
-   "text": "Alphabet weighs on S&P and Nasdaq while Dow holds gains in mixed trading - Investing.com \u2014 Alphabet weighs on S&P and Nasdaq while Dow holds gains in mixed trading\u00a0\u00a0Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPU3B4RHp2NWF4R2w4eFpjdkhPc2JSMkItd0pJTEh2a01RVlRTcUtWdlJoNWNmeWsySFpFM19DT3FoRmtxUktfS0hjald5VENUQVdUWWZWODJrRThNU2l4d1ZZQmhIU01ZNERFWkp3TXkzQTBqdzF0eG8wOVZFYWc0UkMzY2k3dEJkcWYtMDRBTFp5aDZ6TmRILTJpN0huY2lVRGlHTHVqYnNMa0g2enNCYlFYa3BaYTRrbjJsSmJBVUlXM0NTTTVNZmhad3llbmpOZlFaMWZn?oc=5",
-   "tickers": [
-    "QQQ"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "QQQ",
-   "strength": 10,
-   "reason": "Alphabet weakness noted; tech sector motion unclear on Trump catalyst",
-   "price_since": {
-    "ticker": "QQQ",
-    "pct": -2.2,
-    "base": 737.95,
-    "last": 721.95,
-    "base_date": "2026-06-22",
-    "last_date": "2026-06-23"
-   }
-  },
-  {
-   "date": "2026-06-22T00:07:03Z",
-   "platform": "News",
-   "text": "Alphabet weighs on S&P 500 and Nasdaq while Dow ekes out gain in mixed session - Investing.com \u2014 Alphabet weighs on S&P 500 and Nasdaq while Dow ekes out gain in mixed session\u00a0\u00a0Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPU3B4RHp2NWF4R2w4eFpjdkhPc2JSMkItd0pJTEh2a01RVlRTcUtWdlJoNWNmeWsySFpFM19DT3FoRmtxUktfS0hjald5VENUQVdUWWZWODJrRThNU2l4d1ZZQmhIU01ZNERFWkp3TXkzQTBqdzF0eG8wOVZFYWc0UkMzY2k3dEJkcWYtMDRBTFp5aDZ6TmRILTJpN0huY2lVRGlHTHVqYnNMa0g2enNCYlFYa3BaYTRrbjJsSmJBVUlXM0NTTTVNZmhad3llbmpOZlFaMWZn?oc=5",
-   "tickers": [
-    "GOOGL"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "GOOGL",
-   "strength": 50,
-   "reason": "Alphabet weakness weighs on S&P/Nasdaq; large cap tech selloff drags broad indices.",
-   "price_since": {
-    "ticker": "GOOGL",
-    "pct": -0.5,
-    "base": 349.68,
-    "last": 348.01,
-    "base_date": "2026-06-22",
-    "last_date": "2026-06-23"
-   }
-  },
-  {
-   "date": "2026-06-21T20:57:26.429Z",
-   "platform": "Truth Social",
-   "text": "The headline in the Corrupt and Failing New York Times: \"What Changed After Almost 4 Months of War? Analysts Say Not Much.\" REALLY? Their Military is DONE, their Navy is GONE, their Air Force is GONE, their Launching Pads, Missiles, Drones and Manufacturing of same, is almost GONE, their top two sets of Leaders are GONE, their Inflation is at 250%, their Economy is BROKEN, their Soldiers aren't being paid, the Hormuz Strait is OPEN, THE OIL IS GUSHING, and the U.S. Stock Market and Jobs are at record HIGHS. That's what's CHANGED, you corrupt and unethical cowards, and MORE!!! President DJT",
-   "tickers": [
-    "SPY"
-   ],
-   "engagement": 26084,
-   "url": "https://truthsocial.com/@realDonaldTrump/116790096457517049",
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "SPY",
-   "strength": 70,
-   "reason": "Trump credits war outcome and energy gains for record US stock market and jobs; bullish on US economy and market strength"
   },
   {
    "curated": true,
