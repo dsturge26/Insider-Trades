@@ -1,7 +1,63 @@
 {
- "last_updated": "2026-06-29T01:54:49Z",
+ "last_updated": "2026-06-29T06:48:52Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-06-29T05:24:09Z",
+   "platform": "News",
+   "text": "DJT stock heads for worst month this year: Peter Schiff says 'harbinger of what's to come' - MSN \u2014 DJT stock heads for worst month this year: Peter Schiff says 'harbinger of what's to come'\u00a0\u00a0MSN",
+   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOdG1GcjNHNFBtUGQ1YmJPR3NhUm0yQ2YxMDk3VzkyQ2t1Q2dJX3ozQnhqQUpUMm0zZWhuaHJRX2h2a0pfcEJlQmx0S1N5RDJUZEJ4NDltUGxZVURQN05qVWdSNDdHRS1ncTBodkU5MTUybzV5cWcwTGhPR3NINUQzOXRBYmpOSHhvTlV4MXZCck1JZXhiV0pBbzJfcXZmemdVN1RFVi1tbHBHVGhaTVZJUGhLT2FudTU0SUJXNFhKSnF4YXU0cmxtaS0zYm9UYVM3WGJndkdLcFBCMGt6MV9UUVhNY3hVMXJmWTR3S0hKZU50X0FRUWJkcDVQOA?oc=5",
+   "tickers": [
+    "DJT"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "DJT",
+   "strength": 45,
+   "reason": "DJT stock declining sharply; bearish sentiment on Trump Media near-term"
+  },
+  {
+   "date": "2026-06-28T18:28:52Z",
+   "platform": "News",
+   "text": "Is President Trump about to buy a stake in OpenAI? - MSN \u2014 Is President Trump about to buy a stake in OpenAI?\u00a0\u00a0MSN",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTjJRY1A0Y3FFekJhdGlvSzBnQTFjZDhBVW1wd1U1WDRPRDIwREwySzMtM0I5cWthUUIwRDFnOHY0N1FIak5zSlJLYzQtU0l3SzgzTzBNckpUS0tTRFF3UmFIdTNyQzlEZzF4bU1kMm1mZjNvTTVuNXc3ZDNBdEp6Vkl3QUdFRlZFRGlsT1pMd0Z6elZGaTBXQ0VyTm1xMi1VQWdNcEhaQzFUMDJDazBQcjY1TXY2UHczM1gydXgweWo5RVJ4emc?oc=5",
+   "tickers": [
+    "MSFT"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "MSFT",
+   "strength": 35,
+   "reason": "Speculation on Trump OpenAI stake; direction unclear but relevant to AI sector"
+  },
+  {
+   "date": "2026-06-28T16:14:22Z",
+   "platform": "News",
+   "text": "Eric Trump Says ABTC Has More Bitcoin Than GLXY \u2013 Stock Still Falls Amid Bitcoin\u2019s Decline - Stocktwits \u2014 Eric Trump Says ABTC Has More Bitcoin Than GLXY \u2013 Stock Still Falls Amid Bitcoin\u2019s Decline\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMi1CeXRoc3duaXd4NGxDU1M4aHRJR3ptWTltWjdiY1pJb2xUakZBeFpoZ0NsTm9Kd3hRQW9DOXBiTEgwUWVyaFRFOHgyaEpxOXZHNFZqWGZHOXpFbnBaaEU3TUI4U3laX1JRMjR4ejk0NG5iQTFfVnFBRlhBcnR5MGxIRF9tRUg2LWItQnRYZVF3ejVrQW1SVGNqQXdMVm1YMDlUZUJNSk50V3ZmNHZqOQ?oc=5",
+   "tickers": [
+    "BTC-USD"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "BTC-USD",
+   "strength": 40,
+   "reason": "Bitcoin comparison amid crypto volatility; ambiguous directional signal",
+   "price_since": {
+    "ticker": "BTC-USD",
+    "pct": 0.8,
+    "base": 59532.34,
+    "last": 59981.04,
+    "base_date": "2026-06-28",
+    "last_date": "2026-06-29"
+   }
+  },
   {
    "date": "2026-06-28T07:49:07Z",
    "platform": "News",
@@ -260,6 +316,22 @@
    "primary_ticker": "SPY",
    "strength": 75,
    "reason": "100% tariff threat on countries taxing US tech firms is bearish for broad equities and tech sector"
+  },
+  {
+   "date": "2026-06-27T01:38:53Z",
+   "platform": "News",
+   "text": "Michael Burry Says He\u2019s Still Short Palantir After Stock Sees Recovery Following Trump\u2019s Endorsement - Stocktwits \u2014 Michael Burry Says He\u2019s Still Short Palantir After Stock Sees Recovery Following Trump\u2019s Endorsement\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUmNQdmN5STJOLU11dEhkR1U0ckhuS3JMcm1NUDNMY0dNZ1pQcGhFVmd2bkZqVHV5N3N4N01tY1gzZWZnTDlvbVRzTEtkQnZyUjlibXR1ZUJ5MnVNY0ZlYlVEUWtRMkdnRzBGcmxpdEJaQm55ZWlTWmZZUDBPNnhncTFlLWg3bjllZXNpeGpTVjd3b3dCZ2lWT1dPZE5RSlNKT01IVXlTa1c5YmFodzVEWkJtbHpvUHN1Ry00NWhxcVJpdw?oc=5",
+   "tickers": [
+    "PLTR"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "PLTR",
+   "strength": 50,
+   "reason": "Michael Burry remains short Palantir despite Trump endorsement recovery; contrarian bearish view"
   },
   {
    "date": "2026-06-26T23:49:17Z",
@@ -709,22 +781,6 @@
    "primary_ticker": "C",
    "strength": 45,
    "reason": "Trump lauds Citi's M&A comeback; praise of specific bank bullish but praise fading limits strength"
-  },
-  {
-   "date": "2026-06-26T00:38:01Z",
-   "platform": "News",
-   "text": "Michael Burry Says He\u2019s Still Short Palantir After Stock Sees Recovery Following Trump\u2019s Endorsement - Stocktwits \u2014 Michael Burry Says He\u2019s Still Short Palantir After Stock Sees Recovery Following Trump\u2019s Endorsement\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUmNQdmN5STJOLU11dEhkR1U0ckhuS3JMcm1NUDNMY0dNZ1pQcGhFVmd2bkZqVHV5N3N4N01tY1gzZWZnTDlvbVRzTEtkQnZyUjlibXR1ZUJ5MnVNY0ZlYlVEUWtRMkdnRzBGcmxpdEJaQm55ZWlTWmZZUDBPNnhncTFlLWg3bjllZXNpeGpTVjd3b3dCZ2lWT1dPZE5RSlNKT01IVXlTa1c5YmFodzVEWkJtbHpvUHN1Ry00NWhxcVJpdw?oc=5",
-   "tickers": [
-    "PLTR"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "PLTR",
-   "strength": 35,
-   "reason": "Trump endorsement boosted stock but contrarian short thesis persists; mixed signal unclear winner"
   },
   {
    "date": "2026-06-25T20:46:07Z",
@@ -2459,39 +2515,6 @@
    "primary_ticker": "SPY",
    "strength": 25,
    "reason": "generic bullish macro rhetoric about strong economy and market; low specificity and actionable strength"
-  },
-  {
-   "date": "2026-06-21T11:41:44.414Z",
-   "platform": "Truth Social",
-   "text": "Happy Father's Day! Our Country is doing GREAT. Record Jobs Numbers and Stock Market, BEST ECONOMY EVER! Greatest Military in the World, by far. We are WINNING on all fronts, WINNING LIKE NEVER BEFORE. GOD BLESS YOU ALL!!! President DONALD J. TRUMP",
-   "tickers": [
-    "SPY"
-   ],
-   "engagement": 10780,
-   "url": "https://truthsocial.com/@realDonaldTrump/116787911354917242",
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "SPY",
-   "strength": 30,
-   "reason": "broad praise for economy, jobs, and stock market; boilerplate bullish sentiment with ALL CAPS emphasis but no concrete catalyst"
-  },
-  {
-   "date": "2026-06-21T11:26:15Z",
-   "platform": "News",
-   "text": "Trump urged Americans to \u2018buy a Dell\u2019 while holding the stock \u2014 it\u2019s up 255% since. Enrich yourself now even if you don\u2019t sit in the White House - MSN \u2014 Trump urged Americans to \u2018buy a Dell\u2019 while holding the stock \u2014 it\u2019s up 255% since. Enrich yourself now even if you don\u2019t sit in the White House\u00a0\u00a0MSN",
-   "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNNVc5WVFlS1hRZk9ob2taeUtSYTMzZ3pOX190TDA0aXpVTHdZeVFENjIwcG95NldRbEkxcEEyMWdtd0lPZ1NpeVgtOU40X2ltTnVXWlRSQTlUUkdBYXJKeXNTWWp2X1Q1Z1B4RjBDNUgzTUk2OUw2WC1fZC00Z25NQzctRnhxX2xDUWFacDg1dF9YN0trVjFGZUo3VU11dEUyZWhMMzJNX2R4akpWNzAyS0lZazQ5YVJadzBna1UtNmw5N2R3dmNfYnpxQVpISUwyUk9lMXZ2R1d0WjlETXZRdDFSekVDeUoxa2lXT2tRYktyTjdTZmhuUmlQa2ZKUGpvbTgxbDh2ZG5SZWVpYnFET3ZFOHBMQkxEYnU4QnJ6NkQ1d3Eyd1c1Tw?oc=5",
-   "tickers": [
-    "DELL"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "DELL",
-   "strength": 90,
-   "reason": "Trump explicitly urged Americans to buy Dell; clear buy signal and demonstrated track record of outperformance."
   },
   {
    "curated": true,
