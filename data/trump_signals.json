@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-06-29T21:52:19Z",
+ "last_updated": "2026-06-29T22:58:40Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -214,9 +214,9 @@
    "reason": "Bitcoin comparison amid crypto volatility; ambiguous directional signal",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": 1.5,
+    "pct": 1.2,
     "base": 59532.34,
-    "last": 60418.63,
+    "last": 60255.99,
     "base_date": "2026-06-28",
     "last_date": "2026-06-29"
    }
@@ -585,9 +585,9 @@
    "reason": "Tesla Semi production milestone offset by China headwinds; mixed signal",
    "price_since": {
     "ticker": "TSLA",
-    "pct": 7.8,
+    "pct": 8.5,
     "base": 379.71,
-    "last": 409.39,
+    "last": 411.84,
     "base_date": "2026-06-26",
     "last_date": "2026-06-29"
    }
@@ -609,9 +609,9 @@
    "reason": "US-India trade agreement praised; macro bullish sentiment on trade deal",
    "price_since": {
     "ticker": "SPY",
-    "pct": 1.4,
+    "pct": 1.6,
     "base": 728.99,
-    "last": 738.86,
+    "last": 741.0,
     "base_date": "2026-06-26",
     "last_date": "2026-06-29"
    }
@@ -630,7 +630,15 @@
    "direction": "SELL",
    "primary_ticker": "GOOG",
    "strength": 60,
-   "reason": "100% tariff threat on digital services tax directly targets Google and big tech"
+   "reason": "100% tariff threat on digital services tax directly targets Google and big tech",
+   "price_since": {
+    "ticker": "GOOG",
+    "pct": 5.0,
+    "base": 334.69,
+    "last": 351.28,
+    "base_date": "2026-06-26",
+    "last_date": "2026-06-29"
+   }
   },
   {
    "date": "2026-06-26T19:33:00Z",
@@ -646,7 +654,15 @@
    "direction": "BUY",
    "primary_ticker": "TSLA",
    "strength": 35,
-   "reason": "Praise of Elon Musk's infrastructure project; mild bullish signal for Tesla but not a direct market call."
+   "reason": "Praise of Elon Musk's infrastructure project; mild bullish signal for Tesla but not a direct market call.",
+   "price_since": {
+    "ticker": "TSLA",
+    "pct": 8.5,
+    "base": 379.71,
+    "last": 411.84,
+    "base_date": "2026-06-26",
+    "last_date": "2026-06-29"
+   }
   },
   {
    "date": "2026-06-26T18:39:45Z",
@@ -662,7 +678,15 @@
    "direction": "SELL",
    "primary_ticker": "SPY",
    "strength": 65,
-   "reason": "Threatened 100% retaliatory tariffs on digital services tax; bearish for broad market and US tech firms."
+   "reason": "Threatened 100% retaliatory tariffs on digital services tax; bearish for broad market and US tech firms.",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": 1.6,
+    "base": 728.99,
+    "last": 741.0,
+    "base_date": "2026-06-26",
+    "last_date": "2026-06-29"
+   }
   },
   {
    "date": "2026-06-26T17:45:36Z",
@@ -678,7 +702,15 @@
    "direction": "BUY",
    "primary_ticker": "IBRX",
    "strength": 45,
-   "reason": "Russell 1000 inclusion hopes drive stock surge; positive technical catalyst"
+   "reason": "Russell 1000 inclusion hopes drive stock surge; positive technical catalyst",
+   "price_since": {
+    "ticker": "IBRX",
+    "pct": 0.7,
+    "base": 8.71,
+    "last": 8.77,
+    "base_date": "2026-06-26",
+    "last_date": "2026-06-29"
+   }
   },
   {
    "date": "2026-06-26T17:37:53Z",
@@ -2463,6 +2495,57 @@
    }
   },
   {
+   "date": "2026-06-21T20:57:26.429Z",
+   "platform": "Truth Social",
+   "text": "The headline in the Corrupt and Failing New York Times: \"What Changed After Almost 4 Months of War? Analysts Say Not Much.\" REALLY? Their Military is DONE, their Navy is GONE, their Air Force is GONE, their Launching Pads, Missiles, Drones and Manufacturing of same, is almost GONE, their top two sets of Leaders are GONE, their Inflation is at 250%, their Economy is BROKEN, their Soldiers aren't being paid, the Hormuz Strait is OPEN, THE OIL IS GUSHING, and the U.S. Stock Market and Jobs are at record HIGHS. That's what's CHANGED, you corrupt and unethical cowards, and MORE!!! President DJT",
+   "tickers": [
+    "SPY"
+   ],
+   "engagement": 26084,
+   "url": "https://truthsocial.com/@realDonaldTrump/116790096457517049",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "SPY",
+   "strength": 35,
+   "reason": "General macro bullishness on military success and record market highs, but boilerplate rhetoric without specific catalyst"
+  },
+  {
+   "date": "2026-06-21T11:41:44.414Z",
+   "platform": "Truth Social",
+   "text": "Happy Father's Day! Our Country is doing GREAT. Record Jobs Numbers and Stock Market, BEST ECONOMY EVER! Greatest Military in the World, by far. We are WINNING on all fronts, WINNING LIKE NEVER BEFORE. GOD BLESS YOU ALL!!! President DONALD J. TRUMP",
+   "tickers": [
+    "SPY"
+   ],
+   "engagement": 46784,
+   "url": "https://truthsocial.com/@realDonaldTrump/116787911354917242",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "SPY",
+   "strength": 25,
+   "reason": "Generic praise of economy and jobs; campaign messaging without actionable catalyst"
+  },
+  {
+   "date": "2026-06-20T19:15:17.118Z",
+   "platform": "Truth Social",
+   "text": "There will be NO TOLLS in the  Hormuz Strait for 60 days during the Cease Fire Period, and there will be NO TOLLS after the 60 day period has expired, unless they are imposed by and for the United States of America, should the deal not be completed, for services rendered as the Guardian Angel to the countries of the Middle East for purposes of both past, present, and future reimbursement of costs. Thank you for your attention to this matter!!! President DJT",
+   "tickers": [
+    "USO"
+   ],
+   "engagement": 40380,
+   "url": "https://truthsocial.com/@realDonaldTrump/116784032456610294",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "USO",
+   "strength": 45,
+   "reason": "No tolls in Hormuz Strait during ceasefire implies oil supply security and potential price stability"
+  },
+  {
    "curated": true,
    "classified": true,
    "is_market": true,
@@ -2515,6 +2598,210 @@
    "reason": "Trump's majority-owned stock debuts \u2014 pure sentiment play, extremely volatile and headline-driven.",
    "market_reaction": "DJT spiked on debut then stayed volatile, moving heavily on Trump political/legal news.",
    "url": "https://www.nasdaq.com/market-activity/stocks/djt"
+  },
+  {
+   "date": "2023-05-18T12:00:00Z",
+   "platform": "Federal contract",
+   "text": "BLUE ORIGIN MANUFACTURING, LLC was awarded a $1.7B federal contract from National Aeronautics and Space Administration.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_80MSFC23CA014_8000_-NONE-_-NONE-",
+   "tickers": [
+    "BLUW"
+   ],
+   "contract_amount": 1.74,
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "BLUW",
+   "strength": 70,
+   "reason": "Blue Origin awarded $1.7B NASA contract; direct bullish signal for publicly-traded parent Berkshire Hathaway competitor, but Blue Origin itself is private; mapping to closest proxy"
+  },
+  {
+   "date": "2021-07-01T12:00:00Z",
+   "platform": "Federal contract",
+   "text": "HARRIS CORPORATION was awarded a $2.1B federal contract from Department of Transportation.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_693KA821F00222_6920_DTFA0102D03006_6920",
+   "tickers": [
+    "HRS"
+   ],
+   "contract_amount": 2.1,
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "HRS",
+   "strength": 75,
+   "reason": "Harris Corporation awarded $2.1B Department of Transportation contract"
+  },
+  {
+   "date": "2020-05-13T12:00:00Z",
+   "platform": "Federal contract",
+   "text": "SPACE EXPLORATION TECHNOLOGIES CORP. was awarded a $3.0B federal contract from National Aeronautics and Space Administration.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_80MSFC20C0034_8000_-NONE-_-NONE-",
+   "tickers": [
+    "SPACE"
+   ],
+   "contract_amount": 3.04,
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "SPACE",
+   "strength": 80,
+   "reason": "SpaceX awarded $3.0B NASA contract; direct bullish signal for publicly-traded entity"
+  },
+  {
+   "date": "2019-10-16T12:00:00Z",
+   "platform": "Federal contract",
+   "text": "THE BOEING COMPANY was awarded a $2.5B federal contract from National Aeronautics and Space Administration.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_80MSFC20C0052_8000_-NONE-_-NONE-",
+   "tickers": [
+    "BA"
+   ],
+   "contract_amount": 2.53,
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "BA",
+   "strength": 80,
+   "reason": "Boeing awarded $2.5B NASA contract"
+  },
+  {
+   "date": "2015-11-01T12:00:00Z",
+   "platform": "Federal contract",
+   "text": "AEROJET ROCKETDYNE OF DE, INC was awarded a $3.3B federal contract from National Aeronautics and Space Administration.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_NNM16AA02C_8000_-NONE-_-NONE-",
+   "tickers": [
+    "AJRD"
+   ],
+   "contract_amount": 3.27,
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "AJRD",
+   "strength": 75,
+   "reason": "Aerojet Rocketdyne awarded $3.3B NASA contract"
+  },
+  {
+   "date": "2015-09-03T12:00:00Z",
+   "platform": "Federal contract",
+   "text": "NORTHROP GRUMMAN SYSTEMS CORPORATION was awarded a $1.6B federal contract from National Aeronautics and Space Administration.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_NNH15CN76C_8000_-NONE-_-NONE-",
+   "tickers": [
+    "NOC"
+   ],
+   "contract_amount": 1.61,
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "NOC",
+   "strength": 80,
+   "reason": "Northrop Grumman awarded $1.6B NASA contract"
+  },
+  {
+   "date": "2015-07-09T12:00:00Z",
+   "platform": "Federal contract",
+   "text": "HONEYWELL FEDERAL MANUFACTURING & TECHNOLOGIES, LLC was awarded a $17.4B federal contract from Department of Energy.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_DENA0002839_8900_-NONE-_-NONE-",
+   "tickers": [
+    "HON"
+   ],
+   "contract_amount": 17.43,
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "HON",
+   "strength": 80,
+   "reason": "Honeywell Federal Manufacturing awarded $17.4B Department of Energy contract; Honeywell public parent"
+  },
+  {
+   "date": "2011-12-23T12:00:00Z",
+   "platform": "Federal contract",
+   "text": "LEIDOS, INC. was awarded a $3.1B federal contract from National Science Foundation.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_NSFDACS1219442_4900_-NONE-_-NONE-",
+   "tickers": [
+    "LDOS"
+   ],
+   "contract_amount": 3.09,
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "LDOS",
+   "strength": 80,
+   "reason": "Leidos awarded $3.1B NSF contract"
+  },
+  {
+   "date": "2007-09-01T12:00:00Z",
+   "platform": "Federal contract",
+   "text": "THE BOEING COMPANY was awarded a $10.5B federal contract from National Aeronautics and Space Administration.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_NNM07AB03C_8000_-NONE-_-NONE-",
+   "tickers": [
+    "BA"
+   ],
+   "contract_amount": 10.51,
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "BA",
+   "strength": 85,
+   "reason": "Boeing awarded $10.5B NASA contract; major bullish signal"
+  },
+  {
+   "date": "2006-09-06T12:00:00Z",
+   "platform": "Federal contract",
+   "text": "LOCKHEED MARTIN CORP was awarded a $15.5B federal contract from National Aeronautics and Space Administration.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_NNJ06TA25C_8000_-NONE-_-NONE-",
+   "tickers": [
+    "LMT"
+   ],
+   "contract_amount": 15.54,
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "LMT",
+   "strength": 85,
+   "reason": "Lockheed Martin awarded $15.5B NASA contract; major bullish signal"
+  },
+  {
+   "date": "2006-04-17T12:00:00Z",
+   "platform": "Federal contract",
+   "text": "NORTHROP GRUMMAN SYSTEMS CORPORATION was awarded a $4.4B federal contract from National Aeronautics and Space Administration.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_NNM07AA75C_8000_-NONE-_-NONE-",
+   "tickers": [
+    "NOC"
+   ],
+   "contract_amount": 4.43,
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "NOC",
+   "strength": 85,
+   "reason": "Northrop Grumman awarded $4.4B NASA contract; major bullish signal"
+  },
+  {
+   "date": "1993-11-15T12:00:00Z",
+   "platform": "Federal contract",
+   "text": "THE BOEING COMPANY was awarded a $22.4B federal contract from National Aeronautics and Space Administration.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_NAS1510000_8000_-NONE-_-NONE-",
+   "tickers": [
+    "BA"
+   ],
+   "contract_amount": 22.44,
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "BA",
+   "strength": 75,
+   "reason": "Boeing awarded $22.4B NASA contract, direct bullish catalyst for defense contractor"
   }
  ],
  "how_to_read": "Each card is Claude's read of a public Trump post: the affected ticker, whether it implies BUY / SELL / WATCH, a 0\u2013100 strength (how explicit/emphatic the post is \u2014 NOT a profit predictor), and why. A 2-year backtest found these don't beat buy-and-hold, so this is for awareness, not trading. Not financial advice."
