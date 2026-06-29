@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-06-29T16:04:48Z",
+ "last_updated": "2026-06-29T18:23:02Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -166,9 +166,9 @@
    "reason": "Bitcoin comparison amid crypto volatility; ambiguous directional signal",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": 0.3,
+    "pct": 1.4,
     "base": 59532.34,
-    "last": 59683.38,
+    "last": 60367.45,
     "base_date": "2026-06-28",
     "last_date": "2026-06-29"
    }
@@ -481,9 +481,9 @@
    "reason": "Trump confirms Apple chip manufacturing deal with Intel; explicit company/sector catalyst driving stock rally.",
    "price_since": {
     "ticker": "INTC",
-    "pct": -0.9,
+    "pct": 2.0,
     "base": 128.32,
-    "last": 127.16,
+    "last": 130.86,
     "base_date": "2026-06-26",
     "last_date": "2026-06-29"
    }
@@ -505,9 +505,9 @@
    "reason": "Tesla Semi production milestone offset by China headwinds; mixed signal",
    "price_since": {
     "ticker": "TSLA",
-    "pct": 5.8,
+    "pct": 7.8,
     "base": 379.71,
-    "last": 401.77,
+    "last": 409.39,
     "base_date": "2026-06-26",
     "last_date": "2026-06-29"
    }
@@ -2450,55 +2450,6 @@
     "pct": -0.5,
     "base": 349.68,
     "last": 348.01,
-    "base_date": "2026-06-22",
-    "last_date": "2026-06-23"
-   }
-  },
-  {
-   "date": "2026-06-21T22:29:58Z",
-   "platform": "News",
-   "text": "Explore Trump's 3,600 stock trades from the first 3 months of 2026 - AOL.com \u2014 Explore Trump's 3,600 stock trades from the first 3 months of 2026\u00a0\u00a0AOL.com",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE90d3B2bk93ODR4SlRnQkZJQm52VGF4MlNMR3l6enM1Zk4tWVJmdmhjOVBITEh3NHY1UzRTS2xRVDE0RjlSZlduY1N4V1ZWdWtFWHdvRGVBMl9qZmZXSjIwZWZRLXZRMEVWelpieEh5bl9KNV91Q0ZnLS1B?oc=5",
-   "tickers": [
-    "DJT"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "DJT",
-   "strength": 35,
-   "reason": "Trump's stock trading activity is notable but direction ambiguous without details of which stocks he bought/sold",
-   "price_since": {
-    "ticker": "DJT",
-    "pct": -0.6,
-    "base": 8.12,
-    "last": 8.07,
-    "base_date": "2026-06-22",
-    "last_date": "2026-06-23"
-   }
-  },
-  {
-   "date": "2026-06-21T20:57:26.429Z",
-   "platform": "Truth Social",
-   "text": "The headline in the Corrupt and Failing New York Times: \"What Changed After Almost 4 Months of War? Analysts Say Not Much.\" REALLY? Their Military is DONE, their Navy is GONE, their Air Force is GONE, their Launching Pads, Missiles, Drones and Manufacturing of same, is almost GONE, their top two sets of Leaders are GONE, their Inflation is at 250%, their Economy is BROKEN, their Soldiers aren't being paid, the Hormuz Strait is OPEN, THE OIL IS GUSHING, and the U.S. Stock Market and Jobs are at record HIGHS. That's what's CHANGED, you corrupt and unethical cowards, and MORE!!! President DJT",
-   "tickers": [
-    "SPY"
-   ],
-   "engagement": 3028,
-   "url": "https://truthsocial.com/@realDonaldTrump/116790096457517049",
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "SPY",
-   "strength": 35,
-   "reason": "Claims strong US stock market and jobs at record highs; boosterism for broad market but vague and political rather than actionable catalyst",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": -0.9,
-    "base": 744.39,
-    "last": 737.94,
     "base_date": "2026-06-22",
     "last_date": "2026-06-23"
    }
