@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-06-30T13:23:45Z",
+ "last_updated": "2026-06-30T16:05:27Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -17,7 +17,15 @@
    "direction": "WATCH",
    "primary_ticker": "XLE",
    "strength": 45,
-   "reason": "Demand for lower gas prices and oil at $68/bbl creates mixed signals\u2014bearish for refiners/retailers but bullish for consumers and energy stability"
+   "reason": "Demand for lower gas prices and oil at $68/bbl creates mixed signals\u2014bearish for refiners/retailers but bullish for consumers and energy stability",
+   "price_since": {
+    "ticker": "XLE",
+    "pct": 0.3,
+    "base": 53.58,
+    "last": 53.75,
+    "base_date": "2026-06-29",
+    "last_date": "2026-06-30"
+   }
   },
   {
    "date": "2026-06-29T23:04:57Z",
@@ -33,7 +41,15 @@
    "direction": "WATCH",
    "primary_ticker": "PLTR",
    "strength": 35,
-   "reason": "Trump endorsement boosted PLTR but major short thesis (Burry) remains; mixed signal"
+   "reason": "Trump endorsement boosted PLTR but major short thesis (Burry) remains; mixed signal",
+   "price_since": {
+    "ticker": "PLTR",
+    "pct": 1.1,
+    "base": 115.7,
+    "last": 116.94,
+    "base_date": "2026-06-29",
+    "last_date": "2026-06-30"
+   }
   },
   {
    "date": "2026-06-29T22:41:25Z",
@@ -49,7 +65,15 @@
    "direction": "WATCH",
    "primary_ticker": "INTC",
    "strength": 40,
-   "reason": "INTC rally attributed partly to Trump sentiment but other fundamentals cited; ambiguous driver"
+   "reason": "INTC rally attributed partly to Trump sentiment but other fundamentals cited; ambiguous driver",
+   "price_since": {
+    "ticker": "INTC",
+    "pct": 6.4,
+    "base": 131.72,
+    "last": 140.2,
+    "base_date": "2026-06-29",
+    "last_date": "2026-06-30"
+   }
   },
   {
    "date": "2026-06-29T19:43:18Z",
@@ -65,7 +89,15 @@
    "direction": "SELL",
    "primary_ticker": "WHR",
    "strength": 45,
-   "reason": "Trump tariffs failed to save jobs at Whirlpool plant, undermining tariff justification and exposing tariff ineffectiveness"
+   "reason": "Trump tariffs failed to save jobs at Whirlpool plant, undermining tariff justification and exposing tariff ineffectiveness",
+   "price_since": {
+    "ticker": "WHR",
+    "pct": -0.9,
+    "base": 38.0,
+    "last": 37.64,
+    "base_date": "2026-06-29",
+    "last_date": "2026-06-30"
+   }
   },
   {
    "date": "2026-06-29T18:25:00Z",
@@ -81,7 +113,15 @@
    "direction": "BUY",
    "primary_ticker": "AXON",
    "strength": 75,
-   "reason": "Trump's stake in Axon sparked 10% rally; explicit ownership position is bullish for the company."
+   "reason": "Trump's stake in Axon sparked 10% rally; explicit ownership position is bullish for the company.",
+   "price_since": {
+    "ticker": "AXON",
+    "pct": 8.0,
+    "base": 510.6,
+    "last": 551.53,
+    "base_date": "2026-06-29",
+    "last_date": "2026-06-30"
+   }
   },
   {
    "date": "2026-06-29T18:25:00Z",
@@ -97,7 +137,15 @@
    "direction": "BUY",
    "primary_ticker": "AXON",
    "strength": 75,
-   "reason": "Trump stake disclosure and federal ICE contract award ($220M Taser plan) directly bullish for Axon."
+   "reason": "Trump stake disclosure and federal ICE contract award ($220M Taser plan) directly bullish for Axon.",
+   "price_since": {
+    "ticker": "AXON",
+    "pct": 8.0,
+    "base": 510.6,
+    "last": 551.53,
+    "base_date": "2026-06-29",
+    "last_date": "2026-06-30"
+   }
   },
   {
    "date": "2026-06-29T15:29:44Z",
@@ -113,7 +161,15 @@
    "direction": "WATCH",
    "primary_ticker": "AXON",
    "strength": 30,
-   "reason": "Axon stock surging but headline does not provide Trump-specific catalyst or market driver"
+   "reason": "Axon stock surging but headline does not provide Trump-specific catalyst or market driver",
+   "price_since": {
+    "ticker": "AXON",
+    "pct": 8.0,
+    "base": 510.6,
+    "last": 551.53,
+    "base_date": "2026-06-29",
+    "last_date": "2026-06-30"
+   }
   },
   {
    "date": "2026-06-29T13:10:54Z",
@@ -129,7 +185,15 @@
    "direction": "SELL",
    "primary_ticker": "WHR",
    "strength": 50,
-   "reason": "Tariffs failed to save jobs at major facility; tariff policy ineffective."
+   "reason": "Tariffs failed to save jobs at major facility; tariff policy ineffective.",
+   "price_since": {
+    "ticker": "WHR",
+    "pct": -0.9,
+    "base": 38.0,
+    "last": 37.64,
+    "base_date": "2026-06-29",
+    "last_date": "2026-06-30"
+   }
   },
   {
    "date": "2026-06-29T12:52:00Z",
@@ -145,7 +209,15 @@
    "direction": "BUY",
    "primary_ticker": "SPY",
    "strength": 55,
-   "reason": "US-Iran de-escalation reduces geopolitical risk, bullish for broad market"
+   "reason": "US-Iran de-escalation reduces geopolitical risk, bullish for broad market",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": 0.7,
+    "base": 741.0,
+    "last": 746.05,
+    "base_date": "2026-06-29",
+    "last_date": "2026-06-30"
+   }
   },
   {
    "date": "2026-06-29T11:31:09.778Z",
@@ -162,7 +234,15 @@
    "direction": "BUY",
    "primary_ticker": "SPY",
    "strength": 50,
-   "reason": "Iran-US diplomatic engagement reduces geopolitical tension, supports risk-on sentiment"
+   "reason": "Iran-US diplomatic engagement reduces geopolitical tension, supports risk-on sentiment",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": 0.7,
+    "base": 741.0,
+    "last": 746.05,
+    "base_date": "2026-06-29",
+    "last_date": "2026-06-30"
+   }
   },
   {
    "date": "2026-06-29T11:23:32.814Z",
@@ -179,7 +259,15 @@
    "direction": "SELL",
    "primary_ticker": "USO",
    "strength": 60,
-   "reason": "crude oil falling ($69, down from Iran denuclearization start), bearish for energy sector"
+   "reason": "crude oil falling ($69, down from Iran denuclearization start), bearish for energy sector",
+   "price_since": {
+    "ticker": "USO",
+    "pct": -0.9,
+    "base": 107.08,
+    "last": 106.09,
+    "base_date": "2026-06-29",
+    "last_date": "2026-06-30"
+   }
   },
   {
    "date": "2026-06-29T11:20:41.422Z",
@@ -196,7 +284,39 @@
    "direction": "WATCH",
    "primary_ticker": "XLE",
    "strength": 40,
-   "reason": "gas prices falling claimed as positive, but Trump's rhetoric on energy policy is mixed; net effect unclear"
+   "reason": "gas prices falling claimed as positive, but Trump's rhetoric on energy policy is mixed; net effect unclear",
+   "price_since": {
+    "ticker": "XLE",
+    "pct": 0.3,
+    "base": 53.58,
+    "last": 53.75,
+    "base_date": "2026-06-29",
+    "last_date": "2026-06-30"
+   }
+  },
+  {
+   "date": "2026-06-29T11:02:05Z",
+   "platform": "News",
+   "text": "Nasdaq, S&P 500 Futures Rebound As Micron Rally Lifts Chip Stocks: Why SPCX, QCOM, TSM, BABA, PLTR, CBRS, WEN, IBRX Are In Focus - Stocktwits \u2014 Nasdaq, S&P 500 Futures Rebound As Micron Rally Lifts Chip Stocks: Why SPCX, QCOM, TSM, BABA, PLTR, CBRS, WEN, IBRX Are In Focus\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQZjEyUjNpdUFBSU1TbzlQNmpzSV9LcDA3cDJHcDdWRWdmN0pqa2Nma3lfdEdJdmM2eGwtUE9PMTdqYUh1bno4cC04b3lUUVNGMEVlY0xYMTRZODJHREltVkNSYzlsbnJFd0RMdjQ4X0lDSWZRM1pfR0RJYTdPbl9UYThhRUhtdU91T2NsSVJqQlBCT2J2YmNXbXFWV1BQdkkyMVZmM0NwLXRGWk52WmRUeU9CZzRnalNQX3BMWmQ3VEpYMUE3RVhaTWNNOElQTllMR1NVYnUtWVFIbHh4a25heWJjWjZfNjdoT1d2eFhhTnlHN3dTVU05MnhGZGxHZTRpWm1xc2o0MEdSZw?oc=5",
+   "tickers": [
+    "SMH"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "SMH",
+   "strength": 50,
+   "reason": "Micron-led chip rally lifts semiconductor sector; broad semiconductor strength.",
+   "price_since": {
+    "ticker": "SMH",
+    "pct": 3.2,
+    "base": 631.98,
+    "last": 652.28,
+    "base_date": "2026-06-29",
+    "last_date": "2026-06-30"
+   }
   },
   {
    "date": "2026-06-29T10:48:18Z",
@@ -212,7 +332,15 @@
    "direction": "SELL",
    "primary_ticker": "WHR",
    "strength": 45,
-   "reason": "Trump tariffs failed to save jobs at Whirlpool plant, undermining tariff justification and exposing tariff ineffectiveness"
+   "reason": "Trump tariffs failed to save jobs at Whirlpool plant, undermining tariff justification and exposing tariff ineffectiveness",
+   "price_since": {
+    "ticker": "WHR",
+    "pct": -0.9,
+    "base": 38.0,
+    "last": 37.64,
+    "base_date": "2026-06-29",
+    "last_date": "2026-06-30"
+   }
   },
   {
    "date": "2026-06-29T10:20:47Z",
@@ -228,7 +356,15 @@
    "direction": "SELL",
    "primary_ticker": "WHR",
    "strength": 45,
-   "reason": "Tariffs failed to save jobs at Whirlpool plant, undermining Trump's tariff rationale; negative signal on WHR operationally"
+   "reason": "Tariffs failed to save jobs at Whirlpool plant, undermining Trump's tariff rationale; negative signal on WHR operationally",
+   "price_since": {
+    "ticker": "WHR",
+    "pct": -0.9,
+    "base": 38.0,
+    "last": 37.64,
+    "base_date": "2026-06-29",
+    "last_date": "2026-06-30"
+   }
   },
   {
    "date": "2026-06-29T09:11:20Z",
@@ -244,7 +380,15 @@
    "direction": "BUY",
    "primary_ticker": "SPY",
    "strength": 60,
-   "reason": "US-Iran de-escalation reduces geopolitical risk; broad market bullish on peace signal"
+   "reason": "US-Iran de-escalation reduces geopolitical risk; broad market bullish on peace signal",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": 0.7,
+    "base": 741.0,
+    "last": 746.05,
+    "base_date": "2026-06-29",
+    "last_date": "2026-06-30"
+   }
   },
   {
    "date": "2026-06-29T05:24:28Z",
@@ -260,7 +404,15 @@
    "direction": "SELL",
    "primary_ticker": "DJT",
    "strength": 55,
-   "reason": "DJT stock in worst month of year; negative momentum and commentary signal weakness"
+   "reason": "DJT stock in worst month of year; negative momentum and commentary signal weakness",
+   "price_since": {
+    "ticker": "DJT",
+    "pct": 1.1,
+    "base": 7.49,
+    "last": 7.57,
+    "base_date": "2026-06-29",
+    "last_date": "2026-06-30"
+   }
   },
   {
    "date": "2026-06-29T03:51:32Z",
@@ -276,7 +428,15 @@
    "direction": "WATCH",
    "primary_ticker": "IBRX",
    "strength": 30,
-   "reason": "Rally noted around SOTU but no clear Trump catalyst stated; direction and strength unclear."
+   "reason": "Rally noted around SOTU but no clear Trump catalyst stated; direction and strength unclear.",
+   "price_since": {
+    "ticker": "IBRX",
+    "pct": -1.3,
+    "base": 8.77,
+    "last": 8.66,
+    "base_date": "2026-06-29",
+    "last_date": "2026-06-30"
+   }
   },
   {
    "date": "2026-06-29T03:04:41Z",
@@ -292,7 +452,15 @@
    "direction": "BUY",
    "primary_ticker": "ASTS",
    "strength": 55,
-   "reason": "Trump stake in space stocks ASTS/RKLB disclosed; positive signal but private holdings unclear."
+   "reason": "Trump stake in space stocks ASTS/RKLB disclosed; positive signal but private holdings unclear.",
+   "price_since": {
+    "ticker": "ASTS",
+    "pct": -0.6,
+    "base": 86.77,
+    "last": 86.29,
+    "base_date": "2026-06-29",
+    "last_date": "2026-06-30"
+   }
   },
   {
    "date": "2026-06-29T01:07:07Z",
@@ -308,7 +476,15 @@
    "direction": "BUY",
    "primary_ticker": "COIN",
    "strength": 60,
-   "reason": "Trump's Clarity Act support for crypto and Morgan Stanley Coinbase bet signal bullish sentiment for crypto sector"
+   "reason": "Trump's Clarity Act support for crypto and Morgan Stanley Coinbase bet signal bullish sentiment for crypto sector",
+   "price_since": {
+    "ticker": "COIN",
+    "pct": -4.2,
+    "base": 151.65,
+    "last": 145.3,
+    "base_date": "2026-06-29",
+    "last_date": "2026-06-30"
+   }
   },
   {
    "date": "2026-06-28T18:28:52Z",
@@ -324,7 +500,15 @@
    "direction": "WATCH",
    "primary_ticker": "MSFT",
    "strength": 35,
-   "reason": "Speculation on Trump OpenAI stake; direction unclear but relevant to AI sector"
+   "reason": "Speculation on Trump OpenAI stake; direction unclear but relevant to AI sector",
+   "price_since": {
+    "ticker": "MSFT",
+    "pct": 0.7,
+    "base": 368.57,
+    "last": 371.1,
+    "base_date": "2026-06-29",
+    "last_date": "2026-06-30"
+   }
   },
   {
    "date": "2026-06-28T16:14:22Z",
@@ -343,9 +527,9 @@
    "reason": "Bitcoin comparison amid crypto volatility; ambiguous directional signal",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": -1.9,
+    "pct": -2.0,
     "base": 59532.34,
-    "last": 58407.57,
+    "last": 58345.39,
     "base_date": "2026-06-28",
     "last_date": "2026-06-30"
    }
@@ -364,7 +548,15 @@
    "direction": "WATCH",
    "primary_ticker": "INTC",
    "strength": 40,
-   "reason": "IBM surge overnight but headline lacks Trump-specific catalyst; could be unrelated earnings or sector move"
+   "reason": "IBM surge overnight but headline lacks Trump-specific catalyst; could be unrelated earnings or sector move",
+   "price_since": {
+    "ticker": "INTC",
+    "pct": 6.5,
+    "base": 131.72,
+    "last": 140.23,
+    "base_date": "2026-06-29",
+    "last_date": "2026-06-30"
+   }
   },
   {
    "date": "2026-06-28T13:20:55Z",
@@ -380,7 +572,15 @@
    "direction": "SELL",
    "primary_ticker": "SPY",
    "strength": 70,
-   "reason": "100% tariff threat on digital services globally; broad market bearish headwind"
+   "reason": "100% tariff threat on digital services globally; broad market bearish headwind",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": 0.7,
+    "base": 741.0,
+    "last": 746.07,
+    "base_date": "2026-06-29",
+    "last_date": "2026-06-30"
+   }
   },
   {
    "date": "2026-06-28T13:08:15Z",
@@ -396,7 +596,15 @@
    "direction": "SELL",
    "primary_ticker": "XLE",
    "strength": 50,
-   "reason": "Trump criticizes Iran oil passage control, raising geopolitical tension and Strait of Hormuz risk premium implications"
+   "reason": "Trump criticizes Iran oil passage control, raising geopolitical tension and Strait of Hormuz risk premium implications",
+   "price_since": {
+    "ticker": "XLE",
+    "pct": 0.3,
+    "base": 53.58,
+    "last": 53.75,
+    "base_date": "2026-06-29",
+    "last_date": "2026-06-30"
+   }
   },
   {
    "date": "2026-06-28T12:44:51Z",
@@ -412,7 +620,15 @@
    "direction": "WATCH",
    "primary_ticker": "SPY",
    "strength": 35,
-   "reason": "military escorts and insurance for ships amid Iran escalation is mixed; suggests risk but also government support for commerce"
+   "reason": "military escorts and insurance for ships amid Iran escalation is mixed; suggests risk but also government support for commerce",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": 0.7,
+    "base": 741.0,
+    "last": 746.07,
+    "base_date": "2026-06-29",
+    "last_date": "2026-06-30"
+   }
   },
   {
    "date": "2026-06-28T07:49:07Z",
@@ -640,22 +856,6 @@
    "primary_ticker": "SPY",
    "strength": 75,
    "reason": "100% tariff threat on countries imposing digital services tax is broad trade escalation, bearish macro signal"
-  },
-  {
-   "date": "2026-06-27T08:10:28Z",
-   "platform": "News",
-   "text": "Nasdaq, S&P 500 Futures Rebound As Micron Rally Lifts Chip Stocks: Why SPCX, QCOM, TSM, BABA, PLTR, CBRS, WEN, IBRX Are In Focus - Stocktwits \u2014 Nasdaq, S&P 500 Futures Rebound As Micron Rally Lifts Chip Stocks: Why SPCX, QCOM, TSM, BABA, PLTR, CBRS, WEN, IBRX Are In Focus\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQZjEyUjNpdUFBSU1TbzlQNmpzSV9LcDA3cDJHcDdWRWdmN0pqa2Nma3lfdEdJdmM2eGwtUE9PMTdqYUh1bno4cC04b3lUUVNGMEVlY0xYMTRZODJHREltVkNSYzlsbnJFd0RMdjQ4X0lDSWZRM1pfR0RJYTdPbl9UYThhRUhtdU91T2NsSVJqQlBCT2J2YmNXbXFWV1BQdkkyMVZmM0NwLXRGWk52WmRUeU9CZzRnalNQX3BMWmQ3VEpYMUE3RVhaTWNNOElQTllMR1NVYnUtWVFIbHh4a25heWJjWjZfNjdoT1d2eFhhTnlHN3dTVU05MnhGZGxHZTRpWm1xc2o0MEdSZw?oc=5",
-   "tickers": [
-    "QQQ"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "QQQ",
-   "strength": 40,
-   "reason": "Chip sector rally (Micron, TSM, QCOM) lifts Nasdaq; broad semiconductor strength"
   },
   {
    "date": "2026-06-27T04:36:47Z",
