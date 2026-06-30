@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-06-30T00:13:50Z",
+ "last_updated": "2026-06-30T04:36:32Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -18,6 +18,38 @@
    "primary_ticker": "XLE",
    "strength": 45,
    "reason": "Demand for lower gas prices and oil at $68/bbl creates mixed signals\u2014bearish for refiners/retailers but bullish for consumers and energy stability"
+  },
+  {
+   "date": "2026-06-29T23:04:57Z",
+   "platform": "News",
+   "text": "Michael Burry Says He\u2019s Still Short Palantir After Stock Sees Recovery Following Trump\u2019s Endorsement - Stocktwits \u2014 Michael Burry Says He\u2019s Still Short Palantir After Stock Sees Recovery Following Trump\u2019s Endorsement\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUmNQdmN5STJOLU11dEhkR1U0ckhuS3JMcm1NUDNMY0dNZ1pQcGhFVmd2bkZqVHV5N3N4N01tY1gzZWZnTDlvbVRzTEtkQnZyUjlibXR1ZUJ5MnVNY0ZlYlVEUWtRMkdnRzBGcmxpdEJaQm55ZWlTWmZZUDBPNnhncTFlLWg3bjllZXNpeGpTVjd3b3dCZ2lWT1dPZE5RSlNKT01IVXlTa1c5YmFodzVEWkJtbHpvUHN1Ry00NWhxcVJpdw?oc=5",
+   "tickers": [
+    "PLTR"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "PLTR",
+   "strength": 35,
+   "reason": "Trump endorsement boosted PLTR but major short thesis (Burry) remains; mixed signal"
+  },
+  {
+   "date": "2026-06-29T22:41:25Z",
+   "platform": "News",
+   "text": "INTC Stock Rockets Toward Best Month Ever: Something More Than A Trump Pump Could Be Powering The Rally - Stocktwits \u2014 INTC Stock Rockets Toward Best Month Ever: Something More Than A Trump Pump Could Be Powering The Rally\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQT29KOURKeHprQ2xZbmpLUUc3MGRlTTE5Y1JHVXJ5TGhldk10eENQcmZLSzRWNDQyTmJFclFNUThmZ0tBRlZUQTZ3MGF1dlZwR0Q4aUtXUnZVQ2o1MjM3cFNpU2RrejRkd2E0OXBhOVNpdDdBdDVSSTR1c2M5NTZfYlg4NEFxODg3QWpMTXd0VVIzM3pZRS10OG5JWG9QUW52UjZvbXVvQ29uZ1lJb1NwbFljM1lBN1dreHdJZDdYZ1hKTjVidndnRWlJRnl5cnNpT2llcjVuSVltVDNzVFdHbmZYTEpua3JJVllOcXIxVmdfaThfeHRzVm9R?oc=5",
+   "tickers": [
+    "INTC"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "INTC",
+   "strength": 40,
+   "reason": "INTC rally attributed partly to Trump sentiment but other fundamentals cited; ambiguous driver"
   },
   {
    "date": "2026-06-29T19:43:18Z",
@@ -247,9 +279,9 @@
    "reason": "Bitcoin comparison amid crypto volatility; ambiguous directional signal",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": 0.9,
+    "pct": 0.1,
     "base": 59532.34,
-    "last": 60091.96,
+    "last": 59575.55,
     "base_date": "2026-06-28",
     "last_date": "2026-06-30"
    }
@@ -465,22 +497,6 @@
    "reason": "Trump diplomacy explicitly credited with 'amazing results' for IBRX cancer drug; named company praise."
   },
   {
-   "date": "2026-06-27T19:25:31Z",
-   "platform": "News",
-   "text": "INTC Stock Rockets Toward Best Month Ever: Something More Than A Trump Pump Could Be Powering The Rally - Stocktwits \u2014 INTC Stock Rockets Toward Best Month Ever: Something More Than A Trump Pump Could Be Powering The Rally\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQT29KOURKeHprQ2xZbmpLUUc3MGRlTTE5Y1JHVXJ5TGhldk10eENQcmZLSzRWNDQyTmJFclFNUThmZ0tBRlZUQTZ3MGF1dlZwR0Q4aUtXUnZVQ2o1MjM3cFNpU2RrejRkd2E0OXBhOVNpdDdBdDVSSTR1c2M5NTZfYlg4NEFxODg3QWpMTXd0VVIzM3pZRS10OG5JWG9QUW52UjZvbXVvQ29uZ1lJb1NwbFljM1lBN1dreHdJZDdYZ1hKTjVidndnRWlJRnl5cnNpT2llcjVuSVltVDNzVFdHbmZYTEpua3JJVllOcXIxVmdfaThfeHRzVm9R?oc=5",
-   "tickers": [
-    "INTC"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "INTC",
-   "strength": 50,
-   "reason": "Intel rally partly attributed to Trump support; uncertain if chip policy or other factors dominate"
-  },
-  {
    "date": "2026-06-27T18:17:24Z",
    "platform": "News",
    "text": "Trump hints at abandoning Anchorage deal, praises Ukraine strikes - MSN \u2014 Trump hints at abandoning Anchorage deal, praises Ukraine strikes\u00a0\u00a0MSN",
@@ -560,22 +576,6 @@
    "primary_ticker": "SPY",
    "strength": 75,
    "reason": "100% tariff threat on countries taxing US tech firms is bearish for broad equities and tech sector"
-  },
-  {
-   "date": "2026-06-27T01:38:53Z",
-   "platform": "News",
-   "text": "Michael Burry Says He\u2019s Still Short Palantir After Stock Sees Recovery Following Trump\u2019s Endorsement - Stocktwits \u2014 Michael Burry Says He\u2019s Still Short Palantir After Stock Sees Recovery Following Trump\u2019s Endorsement\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUmNQdmN5STJOLU11dEhkR1U0ckhuS3JMcm1NUDNMY0dNZ1pQcGhFVmd2bkZqVHV5N3N4N01tY1gzZWZnTDlvbVRzTEtkQnZyUjlibXR1ZUJ5MnVNY0ZlYlVEUWtRMkdnRzBGcmxpdEJaQm55ZWlTWmZZUDBPNnhncTFlLWg3bjllZXNpeGpTVjd3b3dCZ2lWT1dPZE5RSlNKT01IVXlTa1c5YmFodzVEWkJtbHpvUHN1Ry00NWhxcVJpdw?oc=5",
-   "tickers": [
-    "PLTR"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "PLTR",
-   "strength": 50,
-   "reason": "Michael Burry remains short Palantir despite Trump endorsement recovery; contrarian bearish view"
   },
   {
    "date": "2026-06-26T23:49:17Z",
@@ -2451,30 +2451,6 @@
     "pct": 1.5,
     "base": 72.08,
     "last": 73.19,
-    "base_date": "2026-06-22",
-    "last_date": "2026-06-23"
-   }
-  },
-  {
-   "date": "2026-06-22T01:53:09Z",
-   "platform": "News",
-   "text": "LG Group stocks rally on news of physical AI partnership talks with Nvidia - \ub9e4\uc77c\uacbd\uc81c \u2014 LG Group stocks rally on news of physical AI partnership talks with Nvidia\u00a0\u00a0\ub9e4\uc77c\uacbd\uc81c",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1hVVBHUlhHSldQVXdKTDAxenV0LU1mU3kyOGI5OHZGc1kySzQ4b2drWGU3RWhydjhLXy1RYVZxZmM0cjlMVlVpNXlTYXBoUVV6SXZCSEliNA?oc=5",
-   "tickers": [
-    "NVDA"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "NVDA",
-   "strength": 15,
-   "reason": "LG-Nvidia AI partnership; not Trump-driven",
-   "price_since": {
-    "ticker": "NVDA",
-    "pct": -3.0,
-    "base": 208.65,
-    "last": 202.43,
     "base_date": "2026-06-22",
     "last_date": "2026-06-23"
    }
