@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-06-30T16:05:27Z",
+ "last_updated": "2026-06-30T18:15:11Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-06-30T09:27:00Z",
+   "platform": "News",
+   "text": "Tariffs were supposed to help, but Iowa Whirlpool workers losing jobs - The Des Moines Register \u2014 Tariffs were supposed to help, but Iowa Whirlpool workers losing jobs\u00a0\u00a0The Des Moines Register",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQnEtOGZkVGR6TDhkZTJfV2dKTUs5WHcyVVBTMlRzRlpKYkkwY0M2Z0J5QVA2QTItZHg3ZldfQkZ4dm1XY2UyazlMY2pmQ3BYQkdzYWpneHZvb19fVExqa1RRb1JkbVRYalA1X25EaGc2WFRXNHFLdnFIVlQ1Z3ZDVXlXaGh2dmhOOVdhSjhFT29zZVhyaGJjaGVvUEFXN0JKSGhUUFVnZHZjakEwekRFdGZOUEp5SmVaVGtpYklQSVU5d0hEMnRrUGtn?oc=5",
+   "tickers": [
+    "WHR"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "WHR",
+   "strength": 65,
+   "reason": "Tariffs failed to prevent job losses at Whirlpool; bearish on tariff policy and WHR earnings."
+  },
   {
    "date": "2026-06-29T23:39:34.264Z",
    "platform": "Truth Social",
@@ -20,9 +36,9 @@
    "reason": "Demand for lower gas prices and oil at $68/bbl creates mixed signals\u2014bearish for refiners/retailers but bullish for consumers and energy stability",
    "price_since": {
     "ticker": "XLE",
-    "pct": 0.3,
+    "pct": -0.3,
     "base": 53.58,
-    "last": 53.75,
+    "last": 53.4,
     "base_date": "2026-06-29",
     "last_date": "2026-06-30"
    }
@@ -44,9 +60,9 @@
    "reason": "Trump endorsement boosted PLTR but major short thesis (Burry) remains; mixed signal",
    "price_since": {
     "ticker": "PLTR",
-    "pct": 1.1,
+    "pct": 1.6,
     "base": 115.7,
-    "last": 116.94,
+    "last": 117.55,
     "base_date": "2026-06-29",
     "last_date": "2026-06-30"
    }
@@ -68,9 +84,9 @@
    "reason": "INTC rally attributed partly to Trump sentiment but other fundamentals cited; ambiguous driver",
    "price_since": {
     "ticker": "INTC",
-    "pct": 6.4,
+    "pct": 6.8,
     "base": 131.72,
-    "last": 140.2,
+    "last": 140.62,
     "base_date": "2026-06-29",
     "last_date": "2026-06-30"
    }
@@ -92,9 +108,9 @@
    "reason": "Trump tariffs failed to save jobs at Whirlpool plant, undermining tariff justification and exposing tariff ineffectiveness",
    "price_since": {
     "ticker": "WHR",
-    "pct": -0.9,
+    "pct": 1.3,
     "base": 38.0,
-    "last": 37.64,
+    "last": 38.51,
     "base_date": "2026-06-29",
     "last_date": "2026-06-30"
    }
@@ -116,9 +132,9 @@
    "reason": "Trump's stake in Axon sparked 10% rally; explicit ownership position is bullish for the company.",
    "price_since": {
     "ticker": "AXON",
-    "pct": 8.0,
+    "pct": 7.8,
     "base": 510.6,
-    "last": 551.53,
+    "last": 550.48,
     "base_date": "2026-06-29",
     "last_date": "2026-06-30"
    }
@@ -140,9 +156,9 @@
    "reason": "Trump stake disclosure and federal ICE contract award ($220M Taser plan) directly bullish for Axon.",
    "price_since": {
     "ticker": "AXON",
-    "pct": 8.0,
+    "pct": 7.8,
     "base": 510.6,
-    "last": 551.53,
+    "last": 550.48,
     "base_date": "2026-06-29",
     "last_date": "2026-06-30"
    }
@@ -164,9 +180,9 @@
    "reason": "Axon stock surging but headline does not provide Trump-specific catalyst or market driver",
    "price_since": {
     "ticker": "AXON",
-    "pct": 8.0,
+    "pct": 7.8,
     "base": 510.6,
-    "last": 551.53,
+    "last": 550.48,
     "base_date": "2026-06-29",
     "last_date": "2026-06-30"
    }
@@ -188,9 +204,9 @@
    "reason": "Tariffs failed to save jobs at major facility; tariff policy ineffective.",
    "price_since": {
     "ticker": "WHR",
-    "pct": -0.9,
+    "pct": 1.3,
     "base": 38.0,
-    "last": 37.64,
+    "last": 38.51,
     "base_date": "2026-06-29",
     "last_date": "2026-06-30"
    }
@@ -212,9 +228,9 @@
    "reason": "US-Iran de-escalation reduces geopolitical risk, bullish for broad market",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.7,
+    "pct": 0.8,
     "base": 741.0,
-    "last": 746.05,
+    "last": 746.79,
     "base_date": "2026-06-29",
     "last_date": "2026-06-30"
    }
@@ -237,9 +253,9 @@
    "reason": "Iran-US diplomatic engagement reduces geopolitical tension, supports risk-on sentiment",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.7,
+    "pct": 0.8,
     "base": 741.0,
-    "last": 746.05,
+    "last": 746.79,
     "base_date": "2026-06-29",
     "last_date": "2026-06-30"
    }
@@ -262,9 +278,9 @@
    "reason": "crude oil falling ($69, down from Iran denuclearization start), bearish for energy sector",
    "price_since": {
     "ticker": "USO",
-    "pct": -0.9,
+    "pct": -1.5,
     "base": 107.08,
-    "last": 106.09,
+    "last": 105.47,
     "base_date": "2026-06-29",
     "last_date": "2026-06-30"
    }
@@ -287,9 +303,9 @@
    "reason": "gas prices falling claimed as positive, but Trump's rhetoric on energy policy is mixed; net effect unclear",
    "price_since": {
     "ticker": "XLE",
-    "pct": 0.3,
+    "pct": -0.3,
     "base": 53.58,
-    "last": 53.75,
+    "last": 53.4,
     "base_date": "2026-06-29",
     "last_date": "2026-06-30"
    }
@@ -311,9 +327,9 @@
    "reason": "Micron-led chip rally lifts semiconductor sector; broad semiconductor strength.",
    "price_since": {
     "ticker": "SMH",
-    "pct": 3.2,
+    "pct": 3.5,
     "base": 631.98,
-    "last": 652.28,
+    "last": 654.32,
     "base_date": "2026-06-29",
     "last_date": "2026-06-30"
    }
@@ -335,9 +351,9 @@
    "reason": "Trump tariffs failed to save jobs at Whirlpool plant, undermining tariff justification and exposing tariff ineffectiveness",
    "price_since": {
     "ticker": "WHR",
-    "pct": -0.9,
+    "pct": 1.3,
     "base": 38.0,
-    "last": 37.64,
+    "last": 38.51,
     "base_date": "2026-06-29",
     "last_date": "2026-06-30"
    }
@@ -359,9 +375,9 @@
    "reason": "Tariffs failed to save jobs at Whirlpool plant, undermining Trump's tariff rationale; negative signal on WHR operationally",
    "price_since": {
     "ticker": "WHR",
-    "pct": -0.9,
+    "pct": 1.3,
     "base": 38.0,
-    "last": 37.64,
+    "last": 38.51,
     "base_date": "2026-06-29",
     "last_date": "2026-06-30"
    }
@@ -383,9 +399,9 @@
    "reason": "US-Iran de-escalation reduces geopolitical risk; broad market bullish on peace signal",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.7,
+    "pct": 0.8,
     "base": 741.0,
-    "last": 746.05,
+    "last": 746.79,
     "base_date": "2026-06-29",
     "last_date": "2026-06-30"
    }
@@ -407,9 +423,9 @@
    "reason": "DJT stock in worst month of year; negative momentum and commentary signal weakness",
    "price_since": {
     "ticker": "DJT",
-    "pct": 1.1,
+    "pct": 2.4,
     "base": 7.49,
-    "last": 7.57,
+    "last": 7.67,
     "base_date": "2026-06-29",
     "last_date": "2026-06-30"
    }
@@ -431,9 +447,9 @@
    "reason": "Rally noted around SOTU but no clear Trump catalyst stated; direction and strength unclear.",
    "price_since": {
     "ticker": "IBRX",
-    "pct": -1.3,
+    "pct": 0.1,
     "base": 8.77,
-    "last": 8.66,
+    "last": 8.78,
     "base_date": "2026-06-29",
     "last_date": "2026-06-30"
    }
@@ -455,9 +471,9 @@
    "reason": "Trump stake in space stocks ASTS/RKLB disclosed; positive signal but private holdings unclear.",
    "price_since": {
     "ticker": "ASTS",
-    "pct": -0.6,
+    "pct": 1.6,
     "base": 86.77,
-    "last": 86.29,
+    "last": 88.15,
     "base_date": "2026-06-29",
     "last_date": "2026-06-30"
    }
@@ -479,9 +495,9 @@
    "reason": "Trump's Clarity Act support for crypto and Morgan Stanley Coinbase bet signal bullish sentiment for crypto sector",
    "price_since": {
     "ticker": "COIN",
-    "pct": -4.2,
+    "pct": -4.9,
     "base": 151.65,
-    "last": 145.3,
+    "last": 144.25,
     "base_date": "2026-06-29",
     "last_date": "2026-06-30"
    }
@@ -503,9 +519,9 @@
    "reason": "Speculation on Trump OpenAI stake; direction unclear but relevant to AI sector",
    "price_since": {
     "ticker": "MSFT",
-    "pct": 0.7,
+    "pct": 0.6,
     "base": 368.57,
-    "last": 371.1,
+    "last": 370.81,
     "base_date": "2026-06-29",
     "last_date": "2026-06-30"
    }
@@ -529,7 +545,7 @@
     "ticker": "BTC-USD",
     "pct": -2.0,
     "base": 59532.34,
-    "last": 58345.39,
+    "last": 58371.37,
     "base_date": "2026-06-28",
     "last_date": "2026-06-30"
    }
@@ -551,9 +567,9 @@
    "reason": "IBM surge overnight but headline lacks Trump-specific catalyst; could be unrelated earnings or sector move",
    "price_since": {
     "ticker": "INTC",
-    "pct": 6.5,
+    "pct": 6.8,
     "base": 131.72,
-    "last": 140.23,
+    "last": 140.62,
     "base_date": "2026-06-29",
     "last_date": "2026-06-30"
    }
@@ -575,9 +591,9 @@
    "reason": "100% tariff threat on digital services globally; broad market bearish headwind",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.7,
+    "pct": 0.8,
     "base": 741.0,
-    "last": 746.07,
+    "last": 746.79,
     "base_date": "2026-06-29",
     "last_date": "2026-06-30"
    }
@@ -599,9 +615,9 @@
    "reason": "Trump criticizes Iran oil passage control, raising geopolitical tension and Strait of Hormuz risk premium implications",
    "price_since": {
     "ticker": "XLE",
-    "pct": 0.3,
+    "pct": -0.3,
     "base": 53.58,
-    "last": 53.75,
+    "last": 53.4,
     "base_date": "2026-06-29",
     "last_date": "2026-06-30"
    }
@@ -623,9 +639,9 @@
    "reason": "military escorts and insurance for ships amid Iran escalation is mixed; suggests risk but also government support for commerce",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.7,
+    "pct": 0.8,
     "base": 741.0,
-    "last": 746.07,
+    "last": 746.79,
     "base_date": "2026-06-29",
     "last_date": "2026-06-30"
    }
@@ -2515,102 +2531,6 @@
     "pct": 5.0,
     "base": 252.22,
     "last": 264.94,
-    "base_date": "2026-06-22",
-    "last_date": "2026-06-23"
-   }
-  },
-  {
-   "date": "2026-06-22T20:22:32Z",
-   "platform": "News",
-   "text": "IBM shares climb following Trump\u2019s praise at White House quantum summit - Investing.com \u2014 IBM shares climb following Trump\u2019s praise at White House quantum summit\u00a0\u00a0Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVkF1QUdrTmZoUU5xdEQwenBJN081akFDdkdaelN1OEc0NjBCZUhTYlcwMmkzdlctRGkzdno0c2dSSUQ1dGhfN2tLc1A4M1BGc1VmQ3FGLS1LZTlZMU5MVG1Md1VpeDhTOExtUU9KMl8wQUx0cXItaTJwSm9QenlKRFFjYWJvYVE3dFQ0MU5ZSFF0TGVOLTdkN3hqZUJQVzFKbENSNzIxc0lLM3BvZEJ4c1VaY0tBRkwyc01zV0pMX1diWjg?oc=5",
-   "tickers": [
-    "IBM"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "IBM",
-   "strength": 75,
-   "reason": "Trump praised IBM at White House quantum summit; stock climbed on the endorsement",
-   "price_since": {
-    "ticker": "IBM",
-    "pct": 5.0,
-    "base": 252.22,
-    "last": 264.94,
-    "base_date": "2026-06-22",
-    "last_date": "2026-06-23"
-   }
-  },
-  {
-   "date": "2026-06-22T18:49:16Z",
-   "platform": "News",
-   "text": "Bernie Sanders wants to send every American a $1,000 check every year \u2014 funded by a 50% tax on AI companies. Trump may be on board - MSN \u2014 Bernie Sanders wants to send every American a $1,000 check every year \u2014 funded by a 50% tax on AI companies. Trump may be on board\u00a0\u00a0MSN",
-   "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNNVBGSXdUYXZZNG5wNzAxd0JRc1RPRDNJWENXM0pRcFdMZXVOeUJOREw2YW0wT0RudkVXdjB3bFZXREVMX1B5SEVRZlZCaDU0THdNZG9RdmwtYnNoN2RJa1U0UzMyRGZnYmxLbHNuOTRfbW5RUG5OU2QwYTVCNjVZaDVCTExNTzl0Q3RLQjNsQnl4ZV9uUlM5Q0wweVdIcW1EZ2lyV1RoRW1CYndQRDlfUE04WUlScS1sQ0g3ZXd2azBkcm51Z0RLNnBZMlBhYzNrZ3RhSU1xTHl1TEhISnVhRWkzcERLVzl0amlqdWpIRVJBYVpvMXoxT0U4dHh3YlZqNXlvOTVxcGs?oc=5",
-   "tickers": [
-    "QQQ"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "QQQ",
-   "strength": 60,
-   "reason": "Potential 50% tax on AI companies bearish for tech/AI sector if Trump endorses.",
-   "price_since": {
-    "ticker": "QQQ",
-    "pct": -3.3,
-    "base": 737.95,
-    "last": 713.65,
-    "base_date": "2026-06-22",
-    "last_date": "2026-06-23"
-   }
-  },
-  {
-   "date": "2026-06-22T18:42:23Z",
-   "platform": "News",
-   "text": "Both Berkshire Hathaway and David Tepper Silently Dumped the Same Healthcare Giant in the Same Quarter - AOL.com \u2014 Both Berkshire Hathaway and David Tepper Silently Dumped the Same Healthcare Giant in the Same Quarter\u00a0\u00a0AOL.com",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRjdOcnplY0JvZ3p3ZVdWeHJCbW0zS1hMTzFwbEVJUk1MMEVyNlQ3RENhbXdxaXhBeUhXSUh2X1doQU40dkxZZGpnZlJVeGhlLWtxdF9jWWhLTUxMY3N0MVJRODVvVC15VmJtWjhnOXpsOEgxVTlhQU91SnNEbURhQTV1ZUpwM2M?oc=5",
-   "tickers": [
-    "XLV"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "XLV",
-   "strength": 35,
-   "reason": "Berkshire/Tepper healthcare stock dump signals insider bearish view; sector impact unclear without company name.",
-   "price_since": {
-    "ticker": "XLV",
-    "pct": 1.4,
-    "base": 150.06,
-    "last": 152.18,
-    "base_date": "2026-06-22",
-    "last_date": "2026-06-23"
-   }
-  },
-  {
-   "date": "2026-06-22T17:29:52Z",
-   "platform": "News",
-   "text": "Bernie Sanders proposes $1,000 annual check for every American, funded by a 50% tax on AI companies - moneywise.com \u2014 Bernie Sanders proposes $1,000 annual check for every American, funded by a 50% tax on AI companies\u00a0\u00a0moneywise.com",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVUlfa093eTNBZm9sREROV0tjVjgxczRqWVNOTEJ3ZzJVWVlwSE9jSWlwTGZZaVpBdmVWazJ2cWFzQURXNE1Zc0JBelFkR2dNNWpROXhsNTNmSzNNbTlYQ2xtbXYycnQzRDlzTl9GdF9id2ZkS29vNW9YSFhzQ2RTZHgycDcxWVB0by1haG1FX0c?oc=5",
-   "tickers": [
-    "QQQ"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "QQQ",
-   "strength": 65,
-   "reason": "Bernie Sanders proposes 50% tax on AI companies; bearish for tech/AI sector regardless of Trump involvement, but material policy threat.",
-   "price_since": {
-    "ticker": "QQQ",
-    "pct": -3.3,
-    "base": 737.95,
-    "last": 713.65,
     "base_date": "2026-06-22",
     "last_date": "2026-06-23"
    }
