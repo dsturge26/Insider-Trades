@@ -1,7 +1,39 @@
 {
- "last_updated": "2026-06-30T20:22:36Z",
+ "last_updated": "2026-06-30T21:55:54Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-06-30T19:37:58Z",
+   "platform": "News",
+   "text": "Trump's family account bought up to $5M in Taser maker Axon - moneywise.com \u2014 Trump's family account bought up to $5M in Taser maker Axon\u00a0\u00a0moneywise.com",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRTBjUmxrOGRXeElNdjllb29PcldnbHlvMFVmUVRDM0dxOHFCdW91TDVSOEJTZV9PQVRhbXJmQ0g4LXBEWTc4XzNWVVA0MUQtTS1JbTJtb0xuRFBKaExwTm54dDBBRHJBQlhOZ2p3dno3TUg5MzhhZ3k3MmZROFg0Vg?oc=5",
+   "tickers": [
+    "AXON"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "AXON",
+   "strength": 45,
+   "reason": "Trump family investment in Axon signals confidence; modest direct signal but shows insider buying interest"
+  },
+  {
+   "date": "2026-06-30T16:00:20Z",
+   "platform": "News",
+   "text": "Micron (MU) Stock: Invests $250 Million in Trump Accounts for Children - MEXC \u2014 Micron (MU) Stock: Invests $250 Million in Trump Accounts for Children\u00a0\u00a0MEXC",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5ZRW16OUxtZF9mNHhvbWxKSzVBM0JTbldnYjQwc2hFOTJXY2dOQklyeDJOQW1KYTNCLXRLODR3ZE5GUkJkZi11bQ?oc=5",
+   "tickers": [
+    "MU"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "MU",
+   "strength": 35,
+   "reason": "Trump family investment in Micron suggests confidence in semiconductor holdings; indirect insider signal"
+  },
   {
    "date": "2026-06-30T09:27:00Z",
    "platform": "News",
@@ -252,9 +284,9 @@
    "reason": "US-Iran de-escalation reduces geopolitical risk, bullish for broad market",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.7,
+    "pct": 0.8,
     "base": 741.0,
-    "last": 746.52,
+    "last": 746.77,
     "base_date": "2026-06-29",
     "last_date": "2026-06-30"
    }
@@ -277,9 +309,9 @@
    "reason": "Iran-US diplomatic engagement reduces geopolitical tension, supports risk-on sentiment",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.7,
+    "pct": 0.8,
     "base": 741.0,
-    "last": 746.52,
+    "last": 746.77,
     "base_date": "2026-06-29",
     "last_date": "2026-06-30"
    }
@@ -399,9 +431,9 @@
    "reason": "US-Iran de-escalation reduces geopolitical risk; broad market bullish on peace signal",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.7,
+    "pct": 0.8,
     "base": 741.0,
-    "last": 746.52,
+    "last": 746.77,
     "base_date": "2026-06-29",
     "last_date": "2026-06-30"
    }
@@ -567,9 +599,9 @@
    "reason": "Bitcoin comparison amid crypto volatility; ambiguous directional signal",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": -1.5,
+    "pct": -1.7,
     "base": 59532.34,
-    "last": 58624.73,
+    "last": 58541.19,
     "base_date": "2026-06-28",
     "last_date": "2026-06-30"
    }
@@ -615,9 +647,9 @@
    "reason": "100% tariff threat on digital services globally; broad market bearish headwind",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.7,
+    "pct": 0.8,
     "base": 741.0,
-    "last": 746.52,
+    "last": 746.77,
     "base_date": "2026-06-29",
     "last_date": "2026-06-30"
    }
@@ -2592,23 +2624,6 @@
    "primary_ticker": "SPY",
    "strength": 50,
    "reason": "Generic celebration of record jobs and stock market as proof of strong economy; standard campaign messaging with no specific catalyst."
-  },
-  {
-   "date": "2026-06-20T19:15:17.118Z",
-   "platform": "Truth Social",
-   "text": "There will be NO TOLLS in the  Hormuz Strait for 60 days during the Cease Fire Period, and there will be NO TOLLS after the 60 day period has expired, unless they are imposed by and for the United States of America, should the deal not be completed, for services rendered as the Guardian Angel to the countries of the Middle East for purposes of both past, present, and future reimbursement of costs. Thank you for your attention to this matter!!! President DJT",
-   "tickers": [
-    "USO"
-   ],
-   "engagement": 40380,
-   "url": "https://truthsocial.com/@realDonaldTrump/116784032456610294",
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "USO",
-   "strength": 60,
-   "reason": "Middle East strait toll/access deal; bullish for oil/energy markets and US geopolitical leverage; implies stable energy supply."
   },
   {
    "curated": true,
