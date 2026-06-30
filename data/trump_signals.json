@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-06-30T08:20:50Z",
+ "last_updated": "2026-06-30T11:27:25Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -343,9 +343,9 @@
    "reason": "Bitcoin comparison amid crypto volatility; ambiguous directional signal",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": -0.4,
+    "pct": -0.7,
     "base": 59532.34,
-    "last": 59321.27,
+    "last": 59129.91,
     "base_date": "2026-06-28",
     "last_date": "2026-06-30"
    }
@@ -365,6 +365,22 @@
    "primary_ticker": "INTC",
    "strength": 40,
    "reason": "IBM surge overnight but headline lacks Trump-specific catalyst; could be unrelated earnings or sector move"
+  },
+  {
+   "date": "2026-06-28T13:20:55Z",
+   "platform": "News",
+   "text": "Trump Threatens 100% Tariff On Countries Imposing Digital Services Tax On American Firms \u2014 \u2018This Tariff Will Supercede Trade Deals\u2019 - Stocktwits \u2014 Trump Threatens 100% Tariff On Countries Imposing Digital Services Tax On American Firms \u2014 \u2018This Tariff Will Supercede Trade Deals\u2019\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZHdhckgwWkFBTkhZVFFtclZZZjhSWm0xdUx1X1l2UjhfT3g3Yjh2ekVZOERwZDNQQkhya1BMM0tkdjB2VVBubU9NeHhwb3RLelpWTkdoQlR0blFXbW5lX1gzbzUwOG9JQlJGbjVKMjU4dUxTQV9GNWZkcm4wOUpoaUN4UVpNOXdwVXFFWFdadUM5R2VQeHhLTXRYVGhvT1FDWTR4Wk1GOTZkbHNDNmI0YWRNdHNNNG5Da2JodmZaU1V1WDk5LVZhQjFB?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "SPY",
+   "strength": 70,
+   "reason": "100% tariff threat on digital services globally; broad market bearish headwind"
   },
   {
    "date": "2026-06-28T13:08:15Z",
@@ -2419,102 +2435,6 @@
     "pct": -3.3,
     "base": 737.95,
     "last": 713.65,
-    "base_date": "2026-06-22",
-    "last_date": "2026-06-23"
-   }
-  },
-  {
-   "date": "2026-06-22T13:34:00Z",
-   "platform": "News",
-   "text": "Why a peace deal won't solve India's stock market problems | Sensex | US-Iran war | Crude oil - Business Standard \u2014 Why a peace deal won't solve India's stock market problems | Sensex | US-Iran war | Crude oil\u00a0\u00a0Business Standard",
-   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPWkluNTNLd1NPVk52Vm1YNFZfSW45MkxjM01oTE9oQmU0RnBRRnAxRzlYVHVTSVVtc3RNektMZ3UtTDUtZHFtN2NOdEhld0JOZGJVUzdjUmRfT0NHTHBhNmpQTVF4ckhZeUItSGd2M3ZYbEtjRXFDOTB3ZUxUeG1XR0JmVXFSUTJpREFXTVVrNlh3eWVqbnJ2ZVdGazR2MzRXOEwyOUwyamd2TWFLQkNLMlVpMW5GVE1hZU1LekJpMlJSNDlKTUlRdmZOOXNRRktmOXVTR0xhQ2RxNHBiempzSUJPWDNQbERaZl9WUE9B0gHuAUFVX3lxTE9aSW41M0t3U09WTnZWbVg0Vl9JbjkyTGMzTWhMT2hCZTRGcFFGcDFHOVhUdVNJVW1zdE16S0xndS1MNS1kcW03Y050SGV3Qk5kYlVTN2NSZF9PQ0dMcGE2alBNUXhySFl5Qi1IZ3YzdlhsS2NFcUM5MHdlTFR4bVdHQmZVcVJRMmlEQVdNVWs2WHd5ZWpucnZlV0ZrNHYzNFc4TDI5TDJqZ3ZNYUtCQ0syVWkxbkZUTWFlTUt6QmkyUlI0OUpNSVF2Zk45c1FGS2Y5dVNHTGFDZHE0cGJ6anNJQk9YM1BsRFpmX1ZQT0E?oc=5",
-   "tickers": [
-    "USO"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "USO",
-   "strength": 40,
-   "reason": "Iran war/peace deal uncertainty affects crude oil prices; geopolitical risk is two-sided.",
-   "price_since": {
-    "ticker": "USO",
-    "pct": -1.3,
-    "base": 112.69,
-    "last": 111.26,
-    "base_date": "2026-06-22",
-    "last_date": "2026-06-23"
-   }
-  },
-  {
-   "date": "2026-06-22T08:55:47Z",
-   "platform": "News",
-   "text": "This Is Trump\u2019s Most Controversial Trade of 2026 - AOL.com \u2014 This Is Trump\u2019s Most Controversial Trade of 2026\u00a0\u00a0AOL.com",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObW9wcTNkckdjMDQ1UWI2OWhDYmM5aTIxQ0dLenRfV0VSWlVtWFdNYUk4V21lVFVVSFZmMVB1UldBeGQzVTlDY2RHd0t6UGVhd3k1ZExNZHFsRGJpNzB1U3F3Tnl2Z1k5R0ZybVBQYkczRTEzMFBtYUh4QWx4Q3RPam5INE81UQ?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "SPY",
-   "strength": 35,
-   "reason": "Controversial trade action; direction unclear without detail",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": -1.5,
-    "base": 744.39,
-    "last": 733.58,
-    "base_date": "2026-06-22",
-    "last_date": "2026-06-23"
-   }
-  },
-  {
-   "date": "2026-06-22T03:49:06Z",
-   "platform": "News",
-   "text": "Why Did CRM, INTU, FOXA Stocks Hit 52-Week Lows Last Week? - Stocktwits \u2014 Why Did CRM, INTU, FOXA Stocks Hit 52-Week Lows Last Week?\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMnAzZS16WUFqYzlOQjF4dnhrUnJWQzBxR3VCcVBuR1RiVGxadW5GMmhhQXA1SFlzY1VZNFpZU3BLYzYtX2ZLWHVEcjBnT0VvSFU4OGNuc3hFaEZvNlpXVjRlUzF4TGlQd213OFpYSGtyWXUwTS00bmR6ME9udkZoOWwxRU9xT3hyM09fOTBlamY2TXpTRUZlNHA0dkhFZWZYZTBUMVlMRkRvZjlpVGJ5bnhmdHphbWN1cndF?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "SPY",
-   "strength": 15,
-   "reason": "Stock declines noted but unclear Trump-specific connection",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": -1.5,
-    "base": 744.39,
-    "last": 733.58,
-    "base_date": "2026-06-22",
-    "last_date": "2026-06-23"
-   }
-  },
-  {
-   "date": "2026-06-22T03:26:00Z",
-   "platform": "News",
-   "text": "NYT Stock In Focus As Trump Threatens \u2018Multi-Billion Dollar Lawsuit\u2019 Over Iran Deal Coverage - Stocktwits \u2014 NYT Stock In Focus As Trump Threatens \u2018Multi-Billion Dollar Lawsuit\u2019 Over Iran Deal Coverage\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQYVRUSUZzaWZSRWR4ZXp5WWVva0s0VXdTUjFBUHNYbVUybU1nTE9POWpGZmhybF9HVXhFT0t1REtUcTY3ZjFwdWlCdUk1UFUta0xJemk3amNPeFM1alg0QTFqMzNyTXpQa2g1SW1CT25CTVk0Z3FJbTlxUzM4RWxpcUtfMGpFcEUyQmtORkpUc2tQTzZPV2lfT3huWGMza09Tcmg0ZVRpc2V5V3Vqbk42OEIzN3pXZWtoTzctSGYxYmtqYnNCQW9rZ19qc1pRcHpJTW83bFQtZ0xkeWx4Vk1FczUzT0U4aWV6Znc?oc=5",
-   "tickers": [
-    "NYT"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "SELL",
-   "primary_ticker": "NYT",
-   "strength": 65,
-   "reason": "Trump threatens multi-billion dollar lawsuit against NYT; direct attack on named company",
-   "price_since": {
-    "ticker": "NYT",
-    "pct": 1.5,
-    "base": 72.08,
-    "last": 73.19,
     "base_date": "2026-06-22",
     "last_date": "2026-06-23"
    }
