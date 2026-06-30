@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-06-30T18:15:11Z",
+ "last_updated": "2026-06-30T20:22:36Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -36,9 +36,9 @@
    "reason": "Demand for lower gas prices and oil at $68/bbl creates mixed signals\u2014bearish for refiners/retailers but bullish for consumers and energy stability",
    "price_since": {
     "ticker": "XLE",
-    "pct": -0.3,
+    "pct": -0.9,
     "base": 53.58,
-    "last": 53.4,
+    "last": 53.11,
     "base_date": "2026-06-29",
     "last_date": "2026-06-30"
    }
@@ -60,9 +60,9 @@
    "reason": "Trump endorsement boosted PLTR but major short thesis (Burry) remains; mixed signal",
    "price_since": {
     "ticker": "PLTR",
-    "pct": 1.6,
+    "pct": 0.8,
     "base": 115.7,
-    "last": 117.55,
+    "last": 116.67,
     "base_date": "2026-06-29",
     "last_date": "2026-06-30"
    }
@@ -84,9 +84,9 @@
    "reason": "INTC rally attributed partly to Trump sentiment but other fundamentals cited; ambiguous driver",
    "price_since": {
     "ticker": "INTC",
-    "pct": 6.8,
+    "pct": 6.0,
     "base": 131.72,
-    "last": 140.62,
+    "last": 139.63,
     "base_date": "2026-06-29",
     "last_date": "2026-06-30"
    }
@@ -108,9 +108,9 @@
    "reason": "Trump tariffs failed to save jobs at Whirlpool plant, undermining tariff justification and exposing tariff ineffectiveness",
    "price_since": {
     "ticker": "WHR",
-    "pct": 1.3,
+    "pct": 3.7,
     "base": 38.0,
-    "last": 38.51,
+    "last": 39.42,
     "base_date": "2026-06-29",
     "last_date": "2026-06-30"
    }
@@ -132,9 +132,9 @@
    "reason": "Trump's stake in Axon sparked 10% rally; explicit ownership position is bullish for the company.",
    "price_since": {
     "ticker": "AXON",
-    "pct": 7.8,
+    "pct": 9.8,
     "base": 510.6,
-    "last": 550.48,
+    "last": 560.61,
     "base_date": "2026-06-29",
     "last_date": "2026-06-30"
    }
@@ -156,9 +156,33 @@
    "reason": "Trump stake disclosure and federal ICE contract award ($220M Taser plan) directly bullish for Axon.",
    "price_since": {
     "ticker": "AXON",
-    "pct": 7.8,
+    "pct": 9.8,
     "base": 510.6,
-    "last": 550.48,
+    "last": 560.61,
+    "base_date": "2026-06-29",
+    "last_date": "2026-06-30"
+   }
+  },
+  {
+   "date": "2026-06-29T16:53:26Z",
+   "platform": "News",
+   "text": "Nasdaq, S&P 500 Futures Rebound As Micron Rally Lifts Chip Stocks: Why SPCX, QCOM, TSM, BABA, PLTR, CBRS, WEN, IBRX Are In Focus - Stocktwits \u2014 Nasdaq, S&P 500 Futures Rebound As Micron Rally Lifts Chip Stocks: Why SPCX, QCOM, TSM, BABA, PLTR, CBRS, WEN, IBRX Are In Focus\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQZjEyUjNpdUFBSU1TbzlQNmpzSV9LcDA3cDJHcDdWRWdmN0pqa2Nma3lfdEdJdmM2eGwtUE9PMTdqYUh1bno4cC04b3lUUVNGMEVlY0xYMTRZODJHREltVkNSYzlsbnJFd0RMdjQ4X0lDSWZRM1pfR0RJYTdPbl9UYThhRUhtdU91T2NsSVJqQlBCT2J2YmNXbXFWV1BQdkkyMVZmM0NwLXRGWk52WmRUeU9CZzRnalNQX3BMWmQ3VEpYMUE3RVhaTWNNOElQTllMR1NVYnUtWVFIbHh4a25heWJjWjZfNjdoT1d2eFhhTnlHN3dTVU05MnhGZGxHZTRpWm1xc2o0MEdSZw?oc=5",
+   "tickers": [
+    "QQQ"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "QQQ",
+   "strength": 25,
+   "reason": "Chip sector rally linked to multiple factors; headline aggregates stocks without clear directional driver",
+   "price_since": {
+    "ticker": "QQQ",
+    "pct": 1.7,
+    "base": 724.08,
+    "last": 736.4,
     "base_date": "2026-06-29",
     "last_date": "2026-06-30"
    }
@@ -180,9 +204,9 @@
    "reason": "Axon stock surging but headline does not provide Trump-specific catalyst or market driver",
    "price_since": {
     "ticker": "AXON",
-    "pct": 7.8,
+    "pct": 9.8,
     "base": 510.6,
-    "last": 550.48,
+    "last": 560.61,
     "base_date": "2026-06-29",
     "last_date": "2026-06-30"
    }
@@ -204,9 +228,9 @@
    "reason": "Tariffs failed to save jobs at major facility; tariff policy ineffective.",
    "price_since": {
     "ticker": "WHR",
-    "pct": 1.3,
+    "pct": 3.7,
     "base": 38.0,
-    "last": 38.51,
+    "last": 39.42,
     "base_date": "2026-06-29",
     "last_date": "2026-06-30"
    }
@@ -228,9 +252,9 @@
    "reason": "US-Iran de-escalation reduces geopolitical risk, bullish for broad market",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.8,
+    "pct": 0.7,
     "base": 741.0,
-    "last": 746.79,
+    "last": 746.52,
     "base_date": "2026-06-29",
     "last_date": "2026-06-30"
    }
@@ -253,9 +277,9 @@
    "reason": "Iran-US diplomatic engagement reduces geopolitical tension, supports risk-on sentiment",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.8,
+    "pct": 0.7,
     "base": 741.0,
-    "last": 746.79,
+    "last": 746.52,
     "base_date": "2026-06-29",
     "last_date": "2026-06-30"
    }
@@ -278,9 +302,9 @@
    "reason": "crude oil falling ($69, down from Iran denuclearization start), bearish for energy sector",
    "price_since": {
     "ticker": "USO",
-    "pct": -1.5,
+    "pct": -0.6,
     "base": 107.08,
-    "last": 105.47,
+    "last": 106.44,
     "base_date": "2026-06-29",
     "last_date": "2026-06-30"
    }
@@ -303,33 +327,9 @@
    "reason": "gas prices falling claimed as positive, but Trump's rhetoric on energy policy is mixed; net effect unclear",
    "price_since": {
     "ticker": "XLE",
-    "pct": -0.3,
+    "pct": -0.9,
     "base": 53.58,
-    "last": 53.4,
-    "base_date": "2026-06-29",
-    "last_date": "2026-06-30"
-   }
-  },
-  {
-   "date": "2026-06-29T11:02:05Z",
-   "platform": "News",
-   "text": "Nasdaq, S&P 500 Futures Rebound As Micron Rally Lifts Chip Stocks: Why SPCX, QCOM, TSM, BABA, PLTR, CBRS, WEN, IBRX Are In Focus - Stocktwits \u2014 Nasdaq, S&P 500 Futures Rebound As Micron Rally Lifts Chip Stocks: Why SPCX, QCOM, TSM, BABA, PLTR, CBRS, WEN, IBRX Are In Focus\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQZjEyUjNpdUFBSU1TbzlQNmpzSV9LcDA3cDJHcDdWRWdmN0pqa2Nma3lfdEdJdmM2eGwtUE9PMTdqYUh1bno4cC04b3lUUVNGMEVlY0xYMTRZODJHREltVkNSYzlsbnJFd0RMdjQ4X0lDSWZRM1pfR0RJYTdPbl9UYThhRUhtdU91T2NsSVJqQlBCT2J2YmNXbXFWV1BQdkkyMVZmM0NwLXRGWk52WmRUeU9CZzRnalNQX3BMWmQ3VEpYMUE3RVhaTWNNOElQTllMR1NVYnUtWVFIbHh4a25heWJjWjZfNjdoT1d2eFhhTnlHN3dTVU05MnhGZGxHZTRpWm1xc2o0MEdSZw?oc=5",
-   "tickers": [
-    "SMH"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "SMH",
-   "strength": 50,
-   "reason": "Micron-led chip rally lifts semiconductor sector; broad semiconductor strength.",
-   "price_since": {
-    "ticker": "SMH",
-    "pct": 3.5,
-    "base": 631.98,
-    "last": 654.32,
+    "last": 53.11,
     "base_date": "2026-06-29",
     "last_date": "2026-06-30"
    }
@@ -351,9 +351,9 @@
    "reason": "Trump tariffs failed to save jobs at Whirlpool plant, undermining tariff justification and exposing tariff ineffectiveness",
    "price_since": {
     "ticker": "WHR",
-    "pct": 1.3,
+    "pct": 3.7,
     "base": 38.0,
-    "last": 38.51,
+    "last": 39.42,
     "base_date": "2026-06-29",
     "last_date": "2026-06-30"
    }
@@ -375,9 +375,9 @@
    "reason": "Tariffs failed to save jobs at Whirlpool plant, undermining Trump's tariff rationale; negative signal on WHR operationally",
    "price_since": {
     "ticker": "WHR",
-    "pct": 1.3,
+    "pct": 3.7,
     "base": 38.0,
-    "last": 38.51,
+    "last": 39.42,
     "base_date": "2026-06-29",
     "last_date": "2026-06-30"
    }
@@ -399,9 +399,33 @@
    "reason": "US-Iran de-escalation reduces geopolitical risk; broad market bullish on peace signal",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.8,
+    "pct": 0.7,
     "base": 741.0,
-    "last": 746.79,
+    "last": 746.52,
+    "base_date": "2026-06-29",
+    "last_date": "2026-06-30"
+   }
+  },
+  {
+   "date": "2026-06-29T05:45:07Z",
+   "platform": "News",
+   "text": "TSLA Stock Slips Premarket: Musk Joins Trump\u2019s China Trip As FSD Delays Threaten Tesla\u2019s Biggest Factory - Stocktwits \u2014 TSLA Stock Slips Premarket: Musk Joins Trump\u2019s China Trip As FSD Delays Threaten Tesla\u2019s Biggest Factory\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVHl5OGJHalFWTEM0d0l2LXRjLVJ6QTVjV0t3a3J6YkxkMF9fT2ZGU2VkNGl2NGpEc0NxMjV0SkRHMDhQUWJVTXZUOTVFeVdfb1I4dDBzV25yNWc2UlRsaGpIb1h0dXZIcVMyUXNQZ0FUd01vMmVPQmd2NDBkMy0tV2E1TGs2emp0Xy1iMHA0Z21ISDNpSTFOQzRKRjZGSGhZQ21vY2R0dzZfbEVnOWh4VzhtRnVoWnRJRXMwblQ0VFdJRzVKWnAyOExR?oc=5",
+   "tickers": [
+    "TSLA"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "TSLA",
+   "strength": 45,
+   "reason": "Musk-Trump China trip amid FSD delays and factory concerns creates execution risk for Tesla",
+   "price_since": {
+    "ticker": "TSLA",
+    "pct": 2.1,
+    "base": 411.84,
+    "last": 420.6,
     "base_date": "2026-06-29",
     "last_date": "2026-06-30"
    }
@@ -423,9 +447,9 @@
    "reason": "DJT stock in worst month of year; negative momentum and commentary signal weakness",
    "price_since": {
     "ticker": "DJT",
-    "pct": 2.4,
+    "pct": 3.3,
     "base": 7.49,
-    "last": 7.67,
+    "last": 7.74,
     "base_date": "2026-06-29",
     "last_date": "2026-06-30"
    }
@@ -447,9 +471,9 @@
    "reason": "Rally noted around SOTU but no clear Trump catalyst stated; direction and strength unclear.",
    "price_since": {
     "ticker": "IBRX",
-    "pct": 0.1,
+    "pct": -0.1,
     "base": 8.77,
-    "last": 8.78,
+    "last": 8.76,
     "base_date": "2026-06-29",
     "last_date": "2026-06-30"
    }
@@ -471,9 +495,9 @@
    "reason": "Trump stake in space stocks ASTS/RKLB disclosed; positive signal but private holdings unclear.",
    "price_since": {
     "ticker": "ASTS",
-    "pct": 1.6,
+    "pct": 2.4,
     "base": 86.77,
-    "last": 88.15,
+    "last": 88.86,
     "base_date": "2026-06-29",
     "last_date": "2026-06-30"
    }
@@ -495,9 +519,9 @@
    "reason": "Trump's Clarity Act support for crypto and Morgan Stanley Coinbase bet signal bullish sentiment for crypto sector",
    "price_since": {
     "ticker": "COIN",
-    "pct": -4.9,
+    "pct": -3.6,
     "base": 151.65,
-    "last": 144.25,
+    "last": 146.19,
     "base_date": "2026-06-29",
     "last_date": "2026-06-30"
    }
@@ -519,9 +543,9 @@
    "reason": "Speculation on Trump OpenAI stake; direction unclear but relevant to AI sector",
    "price_since": {
     "ticker": "MSFT",
-    "pct": 0.6,
+    "pct": 1.2,
     "base": 368.57,
-    "last": 370.81,
+    "last": 373.02,
     "base_date": "2026-06-29",
     "last_date": "2026-06-30"
    }
@@ -543,9 +567,9 @@
    "reason": "Bitcoin comparison amid crypto volatility; ambiguous directional signal",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": -2.0,
+    "pct": -1.5,
     "base": 59532.34,
-    "last": 58371.37,
+    "last": 58624.73,
     "base_date": "2026-06-28",
     "last_date": "2026-06-30"
    }
@@ -567,9 +591,9 @@
    "reason": "IBM surge overnight but headline lacks Trump-specific catalyst; could be unrelated earnings or sector move",
    "price_since": {
     "ticker": "INTC",
-    "pct": 6.8,
+    "pct": 6.0,
     "base": 131.72,
-    "last": 140.62,
+    "last": 139.63,
     "base_date": "2026-06-29",
     "last_date": "2026-06-30"
    }
@@ -591,9 +615,9 @@
    "reason": "100% tariff threat on digital services globally; broad market bearish headwind",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.8,
+    "pct": 0.7,
     "base": 741.0,
-    "last": 746.79,
+    "last": 746.52,
     "base_date": "2026-06-29",
     "last_date": "2026-06-30"
    }
@@ -615,9 +639,9 @@
    "reason": "Trump criticizes Iran oil passage control, raising geopolitical tension and Strait of Hormuz risk premium implications",
    "price_since": {
     "ticker": "XLE",
-    "pct": -0.3,
+    "pct": -0.9,
     "base": 53.58,
-    "last": 53.4,
+    "last": 53.11,
     "base_date": "2026-06-29",
     "last_date": "2026-06-30"
    }
@@ -2534,6 +2558,57 @@
     "base_date": "2026-06-22",
     "last_date": "2026-06-23"
    }
+  },
+  {
+   "date": "2026-06-21T20:57:26.429Z",
+   "platform": "Truth Social",
+   "text": "The headline in the Corrupt and Failing New York Times: \"What Changed After Almost 4 Months of War? Analysts Say Not Much.\" REALLY? Their Military is DONE, their Navy is GONE, their Air Force is GONE, their Launching Pads, Missiles, Drones and Manufacturing of same, is almost GONE, their top two sets of Leaders are GONE, their Inflation is at 250%, their Economy is BROKEN, their Soldiers aren't being paid, the Hormuz Strait is OPEN, THE OIL IS GUSHING, and the U.S. Stock Market and Jobs are at record HIGHS. That's what's CHANGED, you corrupt and unethical cowards, and MORE!!! President DJT",
+   "tickers": [
+    "SPY"
+   ],
+   "engagement": 26084,
+   "url": "https://truthsocial.com/@realDonaldTrump/116790096457517049",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "SPY",
+   "strength": 65,
+   "reason": "Boilerplate claims of record stock market and jobs as proof of economic success; bullish macro tone but vague attribution."
+  },
+  {
+   "date": "2026-06-21T11:41:44.414Z",
+   "platform": "Truth Social",
+   "text": "Happy Father's Day! Our Country is doing GREAT. Record Jobs Numbers and Stock Market, BEST ECONOMY EVER! Greatest Military in the World, by far. We are WINNING on all fronts, WINNING LIKE NEVER BEFORE. GOD BLESS YOU ALL!!! President DONALD J. TRUMP",
+   "tickers": [
+    "SPY"
+   ],
+   "engagement": 46784,
+   "url": "https://truthsocial.com/@realDonaldTrump/116787911354917242",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "SPY",
+   "strength": 50,
+   "reason": "Generic celebration of record jobs and stock market as proof of strong economy; standard campaign messaging with no specific catalyst."
+  },
+  {
+   "date": "2026-06-20T19:15:17.118Z",
+   "platform": "Truth Social",
+   "text": "There will be NO TOLLS in the  Hormuz Strait for 60 days during the Cease Fire Period, and there will be NO TOLLS after the 60 day period has expired, unless they are imposed by and for the United States of America, should the deal not be completed, for services rendered as the Guardian Angel to the countries of the Middle East for purposes of both past, present, and future reimbursement of costs. Thank you for your attention to this matter!!! President DJT",
+   "tickers": [
+    "USO"
+   ],
+   "engagement": 40380,
+   "url": "https://truthsocial.com/@realDonaldTrump/116784032456610294",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "USO",
+   "strength": 60,
+   "reason": "Middle East strait toll/access deal; bullish for oil/energy markets and US geopolitical leverage; implies stable energy supply."
   },
   {
    "curated": true,
