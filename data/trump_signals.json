@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-06-30T11:27:25Z",
+ "last_updated": "2026-06-30T13:23:45Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -343,9 +343,9 @@
    "reason": "Bitcoin comparison amid crypto volatility; ambiguous directional signal",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": -0.7,
+    "pct": -1.9,
     "base": 59532.34,
-    "last": 59129.91,
+    "last": 58407.57,
     "base_date": "2026-06-28",
     "last_date": "2026-06-30"
    }
@@ -2406,30 +2406,6 @@
    "primary_ticker": "QQQ",
    "strength": 65,
    "reason": "Bernie Sanders proposes 50% tax on AI companies; bearish for tech/AI sector regardless of Trump involvement, but material policy threat.",
-   "price_since": {
-    "ticker": "QQQ",
-    "pct": -3.3,
-    "base": 737.95,
-    "last": 713.65,
-    "base_date": "2026-06-22",
-    "last_date": "2026-06-23"
-   }
-  },
-  {
-   "date": "2026-06-22T14:46:30Z",
-   "platform": "News",
-   "text": "Bernie Sanders wants to send every American a $1,000 check every year \u2014 funded by a 50% tax on AI companies - NewsBreak: Local News & Alerts \u2014 Bernie Sanders wants to send every American a $1,000 check every year \u2014 funded by a 50% tax on AI companies\u00a0\u00a0NewsBreak: Local News & Alerts",
-   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNMFY1V1Q1d1NfWnk3WHZGTG1Wa2hMOGlmR2ZlRlhXSV92TDJyNTI5X2R4S1ZOVWhZM2FzeFRvVzN0T1poTko1SGRnYnliUjJnT2lGbWRDSmNkbEV0V3B4b3FMVEdNRTdIOURrNmt5N2ZUWGlCWFQwSm1kcUszdVM5RTJZU0RrTE9yck5UVGN1X2JBczB0dEs5YVJWYlp0ckdQeWE4RjVzcnA5NUVMbGo5WjNmMnFOZUxSaE85TmNCS3FIWktNTW1kVGUxb0Nfb1dTOUp2N1dVR18zcXB4X08xdjZyMEtLT01QbGdER0xKNlp5MzJDdWc?oc=5",
-   "tickers": [
-    "QQQ"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "QQQ",
-   "strength": 65,
-   "reason": "Bernie Sanders proposes 50% tax on AI companies; bearish for tech/AI sector.",
    "price_since": {
     "ticker": "QQQ",
     "pct": -3.3,
