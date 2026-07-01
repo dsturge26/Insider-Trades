@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-06-30T23:14:57Z",
+ "last_updated": "2026-07-01T01:34:51Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -599,11 +599,11 @@
    "reason": "Bitcoin comparison amid crypto volatility; ambiguous directional signal",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": -1.7,
+    "pct": -1.9,
     "base": 59532.34,
-    "last": 58511.57,
+    "last": 58378.32,
     "base_date": "2026-06-28",
-    "last_date": "2026-06-30"
+    "last_date": "2026-07-01"
    }
   },
   {
@@ -697,7 +697,7 @@
     "ticker": "SPY",
     "pct": 0.8,
     "base": 741.0,
-    "last": 746.79,
+    "last": 746.77,
     "base_date": "2026-06-29",
     "last_date": "2026-06-30"
    }
@@ -716,7 +716,15 @@
    "direction": "BUY",
    "primary_ticker": "NOK",
    "strength": 35,
-   "reason": "Brokerage upgrade to Moderate Buy; general analyst consensus, not Trump-driven"
+   "reason": "Brokerage upgrade to Moderate Buy; general analyst consensus, not Trump-driven",
+   "price_since": {
+    "ticker": "NOK",
+    "pct": 1.9,
+    "base": 13.03,
+    "last": 13.28,
+    "base_date": "2026-06-29",
+    "last_date": "2026-06-30"
+   }
   },
   {
    "date": "2026-06-28T06:37:33Z",
@@ -732,7 +740,15 @@
    "direction": "SELL",
    "primary_ticker": "DVLT",
    "strength": 55,
-   "reason": "Discounted equity offering dilutive to shareholders; company-specific negative catalyst."
+   "reason": "Discounted equity offering dilutive to shareholders; company-specific negative catalyst.",
+   "price_since": {
+    "ticker": "DVLT",
+    "pct": 6.1,
+    "base": 0.33,
+    "last": 0.35,
+    "base_date": "2026-06-29",
+    "last_date": "2026-06-30"
+   }
   },
   {
    "date": "2026-06-28T06:12:01Z",
@@ -748,7 +764,15 @@
    "direction": "BUY",
    "primary_ticker": "NOK",
    "strength": 75,
-   "reason": "Trump explicit endorsement of Nokia for AI growth; direct name-drop by Trump"
+   "reason": "Trump explicit endorsement of Nokia for AI growth; direct name-drop by Trump",
+   "price_since": {
+    "ticker": "NOK",
+    "pct": 1.9,
+    "base": 13.03,
+    "last": 13.28,
+    "base_date": "2026-06-29",
+    "last_date": "2026-06-30"
+   }
   },
   {
    "date": "2026-06-28T04:19:47Z",
@@ -764,7 +788,15 @@
    "direction": "WATCH",
    "primary_ticker": "NFLX",
    "strength": 25,
-   "reason": "Insider selling by co-founder; no Trump signal, general sentiment/technicals"
+   "reason": "Insider selling by co-founder; no Trump signal, general sentiment/technicals",
+   "price_since": {
+    "ticker": "NFLX",
+    "pct": -3.2,
+    "base": 73.78,
+    "last": 71.4,
+    "base_date": "2026-06-29",
+    "last_date": "2026-06-30"
+   }
   },
   {
    "date": "2026-06-28T04:13:50Z",
@@ -797,7 +829,15 @@
    "direction": "BUY",
    "primary_ticker": "XLE",
    "strength": 45,
-   "reason": "Trump touts Iran deal energy boom; energy/oil sector bullish on geopolitical thaw"
+   "reason": "Trump touts Iran deal energy boom; energy/oil sector bullish on geopolitical thaw",
+   "price_since": {
+    "ticker": "XLE",
+    "pct": -0.9,
+    "base": 53.58,
+    "last": 53.11,
+    "base_date": "2026-06-29",
+    "last_date": "2026-06-30"
+   }
   },
   {
    "date": "2026-06-27T23:13:04.138Z",
@@ -814,7 +854,15 @@
    "direction": "BUY",
    "primary_ticker": "XAR",
    "strength": 45,
-   "reason": "Military action and escalation threat suggests increased defense spending and conflict risk."
+   "reason": "Military action and escalation threat suggests increased defense spending and conflict risk.",
+   "price_since": {
+    "ticker": "XAR",
+    "pct": 2.5,
+    "base": 276.98,
+    "last": 283.79,
+    "base_date": "2026-06-29",
+    "last_date": "2026-06-30"
+   }
   },
   {
    "date": "2026-06-27T22:24:20Z",
@@ -830,7 +878,15 @@
    "direction": "SELL",
    "primary_ticker": "SPY",
    "strength": 35,
-   "reason": "Potential new geopolitical escalation (Cuba); adds policy risk to market."
+   "reason": "Potential new geopolitical escalation (Cuba); adds policy risk to market.",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": 0.8,
+    "base": 741.0,
+    "last": 746.77,
+    "base_date": "2026-06-29",
+    "last_date": "2026-06-30"
+   }
   },
   {
    "date": "2026-06-27T22:12:05Z",
@@ -846,7 +902,15 @@
    "direction": "WATCH",
    "primary_ticker": "FDX",
    "strength": 30,
-   "reason": "Q4 beat but pre-market decline; no Trump signal, earnings-driven"
+   "reason": "Q4 beat but pre-market decline; no Trump signal, earnings-driven",
+   "price_since": {
+    "ticker": "FDX",
+    "pct": -3.8,
+    "base": 325.4,
+    "last": 313.13,
+    "base_date": "2026-06-29",
+    "last_date": "2026-06-30"
+   }
   },
   {
    "date": "2026-06-27T20:15:53Z",
@@ -862,7 +926,15 @@
    "direction": "BUY",
    "primary_ticker": "IBRX",
    "strength": 70,
-   "reason": "Trump diplomacy explicitly credited with 'amazing results' for IBRX cancer drug; named company praise."
+   "reason": "Trump diplomacy explicitly credited with 'amazing results' for IBRX cancer drug; named company praise.",
+   "price_since": {
+    "ticker": "IBRX",
+    "pct": -0.1,
+    "base": 8.77,
+    "last": 8.76,
+    "base_date": "2026-06-29",
+    "last_date": "2026-06-30"
+   }
   },
   {
    "date": "2026-06-27T18:17:24Z",
@@ -2568,6 +2640,23 @@
    }
   },
   {
+   "date": "2026-06-21T20:57:26.429Z",
+   "platform": "Truth Social",
+   "text": "The headline in the Corrupt and Failing New York Times: \"What Changed After Almost 4 Months of War? Analysts Say Not Much.\" REALLY? Their Military is DONE, their Navy is GONE, their Air Force is GONE, their Launching Pads, Missiles, Drones and Manufacturing of same, is almost GONE, their top two sets of Leaders are GONE, their Inflation is at 250%, their Economy is BROKEN, their Soldiers aren't being paid, the Hormuz Strait is OPEN, THE OIL IS GUSHING, and the U.S. Stock Market and Jobs are at record HIGHS. That's what's CHANGED, you corrupt and unethical cowards, and MORE!!! President DJT",
+   "tickers": [
+    "SPY"
+   ],
+   "engagement": 26084,
+   "url": "https://truthsocial.com/@realDonaldTrump/116790096457517049",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "SPY",
+   "strength": 35,
+   "reason": "Macro boosterism on stock market and jobs; lacks specific catalyst or policy action"
+  },
+  {
    "curated": true,
    "classified": true,
    "is_market": true,
@@ -2620,6 +2709,261 @@
    "reason": "Trump's majority-owned stock debuts \u2014 pure sentiment play, extremely volatile and headline-driven.",
    "market_reaction": "DJT spiked on debut then stayed volatile, moving heavily on Trump political/legal news.",
    "url": "https://www.nasdaq.com/market-activity/stocks/djt"
+  },
+  {
+   "date": "2023-05-18T12:00:00Z",
+   "platform": "Federal contract",
+   "text": "BLUE ORIGIN MANUFACTURING, LLC was awarded a $1.7B federal contract from National Aeronautics and Space Administration.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_80MSFC23CA014_8000_-NONE-_-NONE-",
+   "tickers": [
+    "BLUW"
+   ],
+   "contract_amount": 1.74,
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "BLUW",
+   "strength": 75,
+   "reason": "$1.7B federal contract to Blue Origin (traded as part of Berkshire/BLUW structure); bullish for defense/space contractor"
+  },
+  {
+   "date": "2021-07-01T12:00:00Z",
+   "platform": "Federal contract",
+   "text": "HARRIS CORPORATION was awarded a $2.1B federal contract from Department of Transportation.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_693KA821F00222_6920_DTFA0102D03006_6920",
+   "tickers": [
+    "HRS"
+   ],
+   "contract_amount": 2.1,
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "HRS",
+   "strength": 75,
+   "reason": "$2.1B federal contract to Harris Corporation; bullish for defense contractor"
+  },
+  {
+   "date": "2020-05-13T12:00:00Z",
+   "platform": "Federal contract",
+   "text": "SPACE EXPLORATION TECHNOLOGIES CORP. was awarded a $3.0B federal contract from National Aeronautics and Space Administration.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_80MSFC20C0034_8000_-NONE-_-NONE-",
+   "tickers": [
+    "TSLA"
+   ],
+   "contract_amount": 3.04,
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "TSLA",
+   "strength": 75,
+   "reason": "$3.0B federal contract to SpaceX (Elon Musk company); bullish for space/defense contractor"
+  },
+  {
+   "date": "2019-10-16T12:00:00Z",
+   "platform": "Federal contract",
+   "text": "THE BOEING COMPANY was awarded a $2.5B federal contract from National Aeronautics and Space Administration.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_80MSFC20C0052_8000_-NONE-_-NONE-",
+   "tickers": [
+    "BA"
+   ],
+   "contract_amount": 2.53,
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "BA",
+   "strength": 75,
+   "reason": "$2.5B federal contract to Boeing; bullish for aerospace/defense"
+  },
+  {
+   "date": "2019-10-01T12:00:00Z",
+   "platform": "Federal contract",
+   "text": "PERATON INC. was awarded a $1.5B federal contract from National Aeronautics and Space Administration.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_80GSFC19C0063_8000_-NONE-_-NONE-",
+   "tickers": [
+    "PRTL"
+   ],
+   "contract_amount": 1.5,
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "PRTL",
+   "strength": 75,
+   "reason": "$1.5B federal contract to Peraton; bullish for defense contractor"
+  },
+  {
+   "date": "2019-06-19T12:00:00Z",
+   "platform": "Federal contract",
+   "text": "GENERAL DYNAMICS INFORMATION TECHNOLOGY, INC. was awarded a $1.5B federal contract from Department of State.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_19AQMM18C0185_1900_-NONE-_-NONE-",
+   "tickers": [
+    "GD"
+   ],
+   "contract_amount": 1.55,
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "GD",
+   "strength": 75,
+   "reason": "$1.5B federal contract to General Dynamics; bullish for defense contractor"
+  },
+  {
+   "date": "2015-11-01T12:00:00Z",
+   "platform": "Federal contract",
+   "text": "AEROJET ROCKETDYNE OF DE, INC was awarded a $3.3B federal contract from National Aeronautics and Space Administration.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_NNM16AA02C_8000_-NONE-_-NONE-",
+   "tickers": [
+    "RTX"
+   ],
+   "contract_amount": 3.27,
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "RTX",
+   "strength": 75,
+   "reason": "$3.3B federal contract to Aerojet Rocketdyne (RTX subsidiary); bullish for aerospace/defense"
+  },
+  {
+   "date": "2015-09-03T12:00:00Z",
+   "platform": "Federal contract",
+   "text": "NORTHROP GRUMMAN SYSTEMS CORPORATION was awarded a $1.6B federal contract from National Aeronautics and Space Administration.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_NNH15CN76C_8000_-NONE-_-NONE-",
+   "tickers": [
+    "NOC"
+   ],
+   "contract_amount": 1.61,
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "NOC",
+   "strength": 75,
+   "reason": "$1.6B federal contract to Northrop Grumman; bullish for defense/aerospace"
+  },
+  {
+   "date": "2015-07-09T12:00:00Z",
+   "platform": "Federal contract",
+   "text": "HONEYWELL FEDERAL MANUFACTURING & TECHNOLOGIES, LLC was awarded a $17.4B federal contract from Department of Energy.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_DENA0002839_8900_-NONE-_-NONE-",
+   "tickers": [
+    "HON"
+   ],
+   "contract_amount": 17.43,
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "HON",
+   "strength": 75,
+   "reason": "$17.4B federal contract to Honeywell; major bullish signal for industrial/defense contractor"
+  },
+  {
+   "date": "2011-12-23T12:00:00Z",
+   "platform": "Federal contract",
+   "text": "LEIDOS, INC. was awarded a $3.1B federal contract from National Science Foundation.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_NSFDACS1219442_4900_-NONE-_-NONE-",
+   "tickers": [
+    "LDOS"
+   ],
+   "contract_amount": 3.09,
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "LDOS",
+   "strength": 75,
+   "reason": "$3.1B federal contract to Leidos; bullish for defense/IT contractor"
+  },
+  {
+   "date": "2008-07-25T12:00:00Z",
+   "platform": "Federal contract",
+   "text": "HARRIS CORPORATION was awarded a $1.6B federal contract from Department of Transportation.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_DTFA0102D03006CALL0001_6920_DTFA0102D03006_6920",
+   "tickers": [
+    "HRS"
+   ],
+   "contract_amount": 1.56,
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "HRS",
+   "strength": 75,
+   "reason": "$1.6B federal contract to Harris Corporation; bullish for defense contractor"
+  },
+  {
+   "date": "2007-09-01T12:00:00Z",
+   "platform": "Federal contract",
+   "text": "THE BOEING COMPANY was awarded a $10.5B federal contract from National Aeronautics and Space Administration.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_NNM07AB03C_8000_-NONE-_-NONE-",
+   "tickers": [
+    "BA"
+   ],
+   "contract_amount": 10.51,
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "BA",
+   "strength": 80,
+   "reason": "$10.5B federal contract to Boeing; major bullish signal for aerospace/defense"
+  },
+  {
+   "date": "2006-09-06T12:00:00Z",
+   "platform": "Federal contract",
+   "text": "LOCKHEED MARTIN CORP was awarded a $15.5B federal contract from National Aeronautics and Space Administration.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_NNJ06TA25C_8000_-NONE-_-NONE-",
+   "tickers": [
+    "LMT"
+   ],
+   "contract_amount": 15.54,
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "LMT",
+   "strength": 85,
+   "reason": "$15.5B federal contract to Lockheed Martin; large bullish signal for defense contractor"
+  },
+  {
+   "date": "2006-04-17T12:00:00Z",
+   "platform": "Federal contract",
+   "text": "NORTHROP GRUMMAN SYSTEMS CORPORATION was awarded a $4.4B federal contract from National Aeronautics and Space Administration.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_NNM07AA75C_8000_-NONE-_-NONE-",
+   "tickers": [
+    "NOC"
+   ],
+   "contract_amount": 4.43,
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "NOC",
+   "strength": 80,
+   "reason": "$4.4B federal contract to Northrop Grumman; significant bullish signal for defense/aerospace"
+  },
+  {
+   "date": "1993-11-15T12:00:00Z",
+   "platform": "Federal contract",
+   "text": "THE BOEING COMPANY was awarded a $22.4B federal contract from National Aeronautics and Space Administration.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_NAS1510000_8000_-NONE-_-NONE-",
+   "tickers": [
+    "BA"
+   ],
+   "contract_amount": 22.44,
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "BA",
+   "strength": 85,
+   "reason": "$22.4B federal contract to Boeing; major bullish signal for aerospace/defense; largest contract in batch"
   }
  ],
  "how_to_read": "Each card is Claude's read of a public Trump post: the affected ticker, whether it implies BUY / SELL / WATCH, a 0\u2013100 strength (how explicit/emphatic the post is \u2014 NOT a profit predictor), and why. A 2-year backtest found these don't beat buy-and-hold, so this is for awareness, not trading. Not financial advice."
