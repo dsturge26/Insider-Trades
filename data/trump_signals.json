@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-07-01T19:59:21Z",
+ "last_updated": "2026-07-01T21:43:40Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-07-01T20:58:00Z",
+   "platform": "News",
+   "text": "Trump cashed in big on crypto. Trump-loving crypto traders are still struggling. - Politico \u2014 Trump cashed in big on crypto. Trump-loving crypto traders are still struggling.\u00a0\u00a0Politico",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdEduUDNka1QxTDEyYTVKYTc4SHlPX2dycWVKUDNlVTlmOGxzSVd5cTBOYWZrWTVzTDZ0Ym5XejNXdjNoUlZ0Tmo3cnNPd0EwUDJldDZYNnlwZVNKdHRoRzN4VFNacDI4eG9BRWJzWjE3TkFmXzl0eWRSekdjQXZvTjFoVXliTGZpY2hrZjhIcmU1WHB3?oc=5",
+   "tickers": [
+    "TRUMP"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "TRUMP",
+   "strength": 45,
+   "reason": "Trump profited from crypto holdings; mixed signal on retail demand and market direction."
+  },
   {
    "date": "2026-07-01T16:35:35Z",
    "platform": "News",
@@ -165,7 +181,7 @@
     "ticker": "INTC",
     "pct": -9.0,
     "base": 139.63,
-    "last": 127.12,
+    "last": 127.02,
     "base_date": "2026-06-30",
     "last_date": "2026-07-01"
    }
@@ -187,9 +203,9 @@
    "reason": "Trump family investment in Axon signals confidence; modest direct signal but shows insider buying interest",
    "price_since": {
     "ticker": "AXON",
-    "pct": 5.8,
+    "pct": 5.9,
     "base": 560.61,
-    "last": 593.39,
+    "last": 593.96,
     "base_date": "2026-06-30",
     "last_date": "2026-07-01"
    }
@@ -211,9 +227,9 @@
    "reason": "Micron investment in Trump family accounts suggests confidence in chip sector and semiconductor demand",
    "price_since": {
     "ticker": "MU",
-    "pct": -10.1,
+    "pct": -10.6,
     "base": 1154.29,
-    "last": 1037.32,
+    "last": 1032.28,
     "base_date": "2026-06-30",
     "last_date": "2026-07-01"
    }
@@ -235,9 +251,9 @@
    "reason": "Trump diplomacy credited with favorable cancer drug outcomes, bullish signal for the biotech company",
    "price_since": {
     "ticker": "IBRX",
-    "pct": 4.9,
+    "pct": 5.0,
     "base": 8.76,
-    "last": 9.19,
+    "last": 9.2,
     "base_date": "2026-06-30",
     "last_date": "2026-07-01"
    }
@@ -259,9 +275,9 @@
    "reason": "100% tariff threat on digital services tax impacting US tech firms abroad; broad market headwind",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.2,
+    "pct": -0.1,
     "base": 746.77,
-    "last": 745.54,
+    "last": 745.76,
     "base_date": "2026-06-30",
     "last_date": "2026-07-01"
    }
@@ -283,9 +299,9 @@
    "reason": "Axon stock surge linked to Trump family purchases and interest, bullish momentum signal",
    "price_since": {
     "ticker": "AXON",
-    "pct": 5.8,
+    "pct": 5.9,
     "base": 560.61,
-    "last": 593.39,
+    "last": 593.96,
     "base_date": "2026-06-30",
     "last_date": "2026-07-01"
    }
@@ -307,9 +323,9 @@
    "reason": "Tariffs failed to prevent job losses at Whirlpool; bearish on tariff policy and WHR earnings.",
    "price_since": {
     "ticker": "WHR",
-    "pct": 2.0,
+    "pct": 1.9,
     "base": 39.42,
-    "last": 40.22,
+    "last": 40.17,
     "base_date": "2026-06-30",
     "last_date": "2026-07-01"
    }
@@ -332,9 +348,9 @@
    "reason": "Demand for lower gas prices and oil at $68/bbl creates mixed signals\u2014bearish for refiners/retailers but bullish for consumers and energy stability",
    "price_since": {
     "ticker": "XLE",
-    "pct": -1.6,
+    "pct": -1.4,
     "base": 53.58,
-    "last": 52.74,
+    "last": 52.81,
     "base_date": "2026-06-29",
     "last_date": "2026-07-01"
    }
@@ -356,9 +372,9 @@
    "reason": "Trump endorsement boosted PLTR but major short thesis (Burry) remains; mixed signal",
    "price_since": {
     "ticker": "PLTR",
-    "pct": 8.8,
+    "pct": 8.7,
     "base": 115.7,
-    "last": 125.85,
+    "last": 125.73,
     "base_date": "2026-06-29",
     "last_date": "2026-07-01"
    }
@@ -404,9 +420,9 @@
    "reason": "Trump tariffs failed to save jobs at Whirlpool plant, undermining tariff justification and exposing tariff ineffectiveness",
    "price_since": {
     "ticker": "WHR",
-    "pct": 5.8,
+    "pct": 5.7,
     "base": 38.0,
-    "last": 40.22,
+    "last": 40.17,
     "base_date": "2026-06-29",
     "last_date": "2026-07-01"
    }
@@ -428,9 +444,9 @@
    "reason": "Trump's stake in Axon sparked 10% rally; explicit ownership position is bullish for the company.",
    "price_since": {
     "ticker": "AXON",
-    "pct": 16.2,
+    "pct": 16.3,
     "base": 510.6,
-    "last": 593.39,
+    "last": 593.96,
     "base_date": "2026-06-29",
     "last_date": "2026-07-01"
    }
@@ -454,7 +470,7 @@
     "ticker": "AXON",
     "pct": 16.3,
     "base": 510.6,
-    "last": 593.59,
+    "last": 593.96,
     "base_date": "2026-06-29",
     "last_date": "2026-07-01"
    }
@@ -476,9 +492,9 @@
    "reason": "Trump stake disclosure + $220M ICE federal contract award create dual bullish catalysts driving 10% surge",
    "price_since": {
     "ticker": "AXON",
-    "pct": 16.2,
+    "pct": 16.3,
     "base": 510.6,
-    "last": 593.55,
+    "last": 593.96,
     "base_date": "2026-06-29",
     "last_date": "2026-07-01"
    }
@@ -502,7 +518,7 @@
     "ticker": "QQQ",
     "pct": 0.2,
     "base": 724.08,
-    "last": 725.63,
+    "last": 725.17,
     "base_date": "2026-06-29",
     "last_date": "2026-07-01"
    }
@@ -526,7 +542,7 @@
     "ticker": "AXON",
     "pct": 16.3,
     "base": 510.6,
-    "last": 593.59,
+    "last": 593.96,
     "base_date": "2026-06-29",
     "last_date": "2026-07-01"
    }
@@ -548,9 +564,9 @@
    "reason": "Tariffs failed to save jobs at major facility; tariff policy ineffective.",
    "price_since": {
     "ticker": "WHR",
-    "pct": 5.8,
+    "pct": 5.7,
     "base": 38.0,
-    "last": 40.22,
+    "last": 40.17,
     "base_date": "2026-06-29",
     "last_date": "2026-07-01"
    }
