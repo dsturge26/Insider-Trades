@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-07-01T21:43:40Z",
+ "last_updated": "2026-07-01T22:55:31Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -17,6 +17,38 @@
    "primary_ticker": "TRUMP",
    "strength": 45,
    "reason": "Trump profited from crypto holdings; mixed signal on retail demand and market direction."
+  },
+  {
+   "date": "2026-07-01T19:35:16Z",
+   "platform": "News",
+   "text": "Trump on financial disclosures: Everyone's profiting because stock market is up - MSN \u2014 Trump on financial disclosures: Everyone's profiting because stock market is up\u00a0\u00a0MSN",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQWGFTVl9JZnJYOG5kOXlhOUI5VlM1NWgtOEtqazd3UFBwUms4MTUtVE9ITkN2VGM5VmpObVJnSzVQd2Raem9wSGZtWVVFdHJ5MU1fejFpc0poYzRlb3djVXBLNUllbVg1VkM3Sk16MnVZcHhVOG9oTF8tWlRHM0lfZEdMaHBYTTN4ZDJCS0Fqd21ERzdfLWJxeUVIVWxZNUZwVi1LYWxxSWdEM3RHejRKeFphNlg3a0NPeHVNRkJpOWNTQjQ2a1k4VmRUTVR3eXlScko0alhjaF9sR3NaeUY5Yjdn?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "SPY",
+   "strength": 35,
+   "reason": "Trump credits stock market gains, broad positive sentiment on equities"
+  },
+  {
+   "date": "2026-07-01T18:22:22Z",
+   "platform": "News",
+   "text": "'Biggest corporate investment...': Trump hails Micron's $250 million investment announcement in Trump accounts - ET Now \u2014 'Biggest corporate investment...': Trump hails Micron's $250 million investment announcement in Trump accounts\u00a0\u00a0ET Now",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPVXdmWndwR3p3UDJDRl9VdllSTGRJeWl3V2lwZjBEcjk1UVNBUjNYemVkQm9aY0xPX010ZEtjS3Fkbl94WU8tUXU4WDBSSGZqc3Jjc2V3cktSaTVpaENsbEN3NzFfLWR0T0puXzNMUFQ0NGZMc3NXN2NyZmJUcmJDc21wR1FSZGZURmdLNEtnd05yV0htUVR6Nk9DelVYZGZxaXNvZkl4QnNxMGx1YmFRNWxqSk82LVZDcl91Q3k2dmhScHota3F2ckJKQkJvd0JILTBrNXB1cHRwTFR5dFVDZDFOZk5qZw?oc=5",
+   "tickers": [
+    "MU"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "MU",
+   "strength": 65,
+   "reason": "Trump explicitly hails Micron's $250M investment announcement"
   },
   {
    "date": "2026-07-01T16:35:35Z",
@@ -97,6 +129,22 @@
    "primary_ticker": "AXON",
    "strength": 60,
    "reason": "Trump purchased $5M+ stake in Axon; disclosure drives buying pressure and insider-signal bullishness"
+  },
+  {
+   "date": "2026-07-01T09:20:00Z",
+   "platform": "News",
+   "text": "Three Wall Street Analysts Agree On One Solar Stock That Could Win Big From Trump\u2019s Proposed Inverter Import Curbs - Stocktwits \u2014 Three Wall Street Analysts Agree On One Solar Stock That Could Win Big From Trump\u2019s Proposed Inverter Import Curbs\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNM05pVHhyOW5kREd6Nm9YRklBbFQ5YjZZQ1VjZmZGNGpUb1F2VHhXUDR6MlcwTkZ6RGgza2FQR3l3MG4yXzhYeEt4RkZZb2pXTlRab2hUcDZRTzA5Nm50NkZjOUNqRG9EUjhlckJtTG9VdFVCYmVmTk9tOElrWEhVNGt4X0U1bTB0dnVvMHd0bHNpOW5wSnBpd3NTUUxzLW9oWFJrZEtndU85dXZIVWllM0UwRklQQndpMTdSbG9DTDNxWHBGLUFPQXdmbjk5T2Z3ZWdqLVRKSzN3ZllLcjV0TExYV3BDOHBFelVHMmdyUzhYNDBEVjRpYmEydw?oc=5",
+   "tickers": [
+    "TAN"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "TAN",
+   "strength": 55,
+   "reason": "Trump's proposed inverter import curbs bullish for solar stocks"
   },
   {
    "date": "2026-07-01T07:07:43Z",
@@ -225,6 +273,30 @@
    "primary_ticker": "MU",
    "strength": 65,
    "reason": "Micron investment in Trump family accounts suggests confidence in chip sector and semiconductor demand",
+   "price_since": {
+    "ticker": "MU",
+    "pct": -10.6,
+    "base": 1154.29,
+    "last": 1032.28,
+    "base_date": "2026-06-30",
+    "last_date": "2026-07-01"
+   }
+  },
+  {
+   "date": "2026-06-30T16:11:45Z",
+   "platform": "News",
+   "text": "Micron (MU) Stock: Invests $250 Million in Trump Accounts for Children - MEXC Exchange \u2014 Micron (MU) Stock: Invests $250 Million in Trump Accounts for Children\u00a0\u00a0MEXC Exchange",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5JQ0JiMkhOc3hUZ2c1Q1o0Y2t6M01LdXdXcWF2a09IaVhtZ1U2Yk1pX0VIUmtTNEJ6Z2pEanNVRENsXzJXaFBpYVpKZF9hdEE?oc=5",
+   "tickers": [
+    "MU"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "MU",
+   "strength": 60,
+   "reason": "Micron investment in Trump accounts signals alignment and bullish outlook",
    "price_since": {
     "ticker": "MU",
     "pct": -10.6,
@@ -2653,22 +2725,6 @@
     "base_date": "2026-06-23",
     "last_date": "2026-06-24"
    }
-  },
-  {
-   "date": "2026-06-23T11:31:49Z",
-   "platform": "News",
-   "text": "Quantum Computing Stocks Rally After Trump Signs New Industry Support Measures - Yahoo Finance \u2014 Quantum Computing Stocks Rally After Trump Signs New Industry Support Measures\u00a0\u00a0Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQczIyV2JFTFNDU3AtaWl6MjdycE95eFdPdkJiaTNUS2J2Q2xIeGU3YmdQeEdlcEpMOGUzbzJUMzV5RnhJN0U5dExHQWhxdUpUZWhXNjFHZmpsdFoydWduRnE3aERTNWZTUDhtMGVQTnRjODQ4N0dVcGV5dXVzTXpmWlhXeEUyRkdpTXVRZ3RxOTYtVUdwOUhwRFlJT0taZw?oc=5",
-   "tickers": [
-    "WIKI"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "WIKI",
-   "strength": 60,
-   "reason": "Trump signs quantum computing industry support measures, broad sector positive"
   },
   {
    "curated": true,
