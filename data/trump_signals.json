@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-07-01T10:14:45Z",
+ "last_updated": "2026-07-01T13:12:26Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-07-01T13:07:44Z",
+   "platform": "News",
+   "text": "Trump on financial disclosures: Everyone\u2019s profiting because stock market is up - KELO-AM \u2014 Trump on financial disclosures: Everyone\u2019s profiting because stock market is up\u00a0\u00a0KELO-AM",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUnpHTy11M3hmemdaUWVHNjJRaGluQ19nMDdGYmtFV1BFeDNQV1lmRThIc0U3N3BmSXNKT29NUUlUYXNPbENXNTUyRjlTX0FxRGJETDlGWE55WVdSeG5ZQ0xfbWxZOERkS21JUER6bVNFWVBjM1F2c1ZLbkdFSzV2OWFNRlVsOVpfZncyWGpiRmRwTVVtdGNUWkNmVlVzdEQ3cXYwQlJkR21Qdw?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "SPY",
+   "strength": 25,
+   "reason": "General statement that stock market up benefits everyone; macro bullish tone but no specific catalyst"
+  },
   {
    "date": "2026-07-01T07:07:43Z",
    "platform": "News",
@@ -33,6 +49,22 @@
    "primary_ticker": "AXON",
    "strength": 40,
    "reason": "Political criticism of Trump stock purchases; unclear market implication without details on contract legitimacy"
+  },
+  {
+   "date": "2026-07-01T00:48:16Z",
+   "platform": "News",
+   "text": "NOW Stock Rises Overnight: Trump\u2019s ServiceNow Stake Fuels Retail Buzz Around SAAS Comeback - Stocktwits \u2014 NOW Stock Rises Overnight: Trump\u2019s ServiceNow Stake Fuels Retail Buzz Around SAAS Comeback\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQcEF0OFRRa3hIWF9rS21NMTBqNk53MDA4eWFQcDJad1Z2QkQyTTdmd3prLUVaVUUwdVRSWWpCOGs3N3JaYTZCcG1KMjg1c1Q0WWdjSnlWbHkteXVxcnFoUXFZMEg4ejh0YjA4ZG5BRnBEX1huMFNaS0dXdEx4LWNEOXBLcmNpMzlCQzc1OC0yRDFKeWFMWEZzWUpNQXBWTFFDQlJ6dmFWamU5cUpFZnVfcU1ocFdTa0tfdjByTlZZUHo4QUx1QzJOMHpzZEdaZjdqSVhoWFB0cVRKZW9BbnNLMi1XYUF2MlhaZGc?oc=5",
+   "tickers": [
+    "NOW"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "NOW",
+   "strength": 65,
+   "reason": "Trump stake in ServiceNow disclosed; specific company with concrete position change"
   },
   {
    "date": "2026-06-30T19:37:58Z",
@@ -1739,22 +1771,6 @@
    }
   },
   {
-   "date": "2026-06-25T08:51:48Z",
-   "platform": "News",
-   "text": "NOW Stock Rises Overnight: Trump\u2019s ServiceNow Stake Fuels Retail Buzz Around SAAS Comeback - Stocktwits \u2014 NOW Stock Rises Overnight: Trump\u2019s ServiceNow Stake Fuels Retail Buzz Around SAAS Comeback\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQcEF0OFRRa3hIWF9rS21NMTBqNk53MDA4eWFQcDJad1Z2QkQyTTdmd3prLUVaVUUwdVRSWWpCOGs3N3JaYTZCcG1KMjg1c1Q0WWdjSnlWbHkteXVxcnFoUXFZMEg4ejh0YjA4ZG5BRnBEX1huMFNaS0dXdEx4LWNEOXBLcmNpMzlCQzc1OC0yRDFKeWFMWEZzWUpNQXBWTFFDQlJ6dmFWamU5cUpFZnVfcU1ocFdTa0tfdjByTlZZUHo4QUx1QzJOMHpzZEdaZjdqSVhoWFB0cVRKZW9BbnNLMi1XYUF2MlhaZGc?oc=5",
-   "tickers": [
-    "NOW"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "NOW",
-   "strength": 60,
-   "reason": "Trump's ServiceNow stake fuels retail demand; bullish momentum"
-  },
-  {
    "date": "2026-06-25T08:03:27Z",
    "platform": "News",
    "text": "Nancy Pelosi Stock Tracker Flags Eli Lilly, Nokia After Trump Praise: \u2018Keep An Eye On These Two\u2019 - Benzinga \u2014 Nancy Pelosi Stock Tracker Flags Eli Lilly, Nokia After Trump Praise: \u2018Keep An Eye On These Two\u2019\u00a0\u00a0Benzinga",
@@ -2630,71 +2646,6 @@
    "primary_ticker": "QTUM",
    "strength": 70,
    "reason": "Trump signed orders to boost quantum development; sector bullish but not company-specific."
-  },
-  {
-   "date": "2026-06-22T22:21:56Z",
-   "platform": "News",
-   "text": "Trump\u2019s Quantum Push Lifts IBM Stock as CEO Arvind Krishna Receives White House Praise - econotimes.com \u2014 Trump\u2019s Quantum Push Lifts IBM Stock as CEO Arvind Krishna Receives White House Praise\u00a0\u00a0econotimes.com",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOT24wb0NDR0VxOTlMbjctRkpXZzZBaXRYLXQzRnRla2JCNUJya3Y0ZlUzd1paTHZXR3UwSmNXV1liRTcyUk8tUmR5U3BvZDhZV0RibHFBcWZRdGd3LXFBdk5qRzlfckp3Rl85YjlNZFctQXVqb3F0QkYwZm1odktHek9GZzlhYkZSQ0pSanhQTTBRZXJ0Z0dEX3BWNnFUNmNqakN6MmhrR2l2OWFuMHhGc1NFQXl0VVg5SklJ?oc=5",
-   "tickers": [
-    "IBM"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "IBM",
-   "strength": 75,
-   "reason": "Trump praised IBM CEO and quantum initiative at White House summit, directly lifting stock.",
-   "price_since": {
-    "ticker": "IBM",
-    "pct": 5.0,
-    "base": 252.22,
-    "last": 264.94,
-    "base_date": "2026-06-22",
-    "last_date": "2026-06-23"
-   }
-  },
-  {
-   "date": "2026-06-22T20:52:01Z",
-   "platform": "News",
-   "text": "Trump signs executive orders to drive development of 'commercially relevant' quantum computer by 2028 - Yahoo Finance \u2014 Trump signs executive orders to drive development of 'commercially relevant' quantum computer by 2028\u00a0\u00a0Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPUDkwTWlaVUdScW1GaWx4dVFpTllQampUOEpsLTVpN09oRUFZeHVhVk0xN1BWazl4OHJuSWRoajZZN1oyN1RhV09vVjRURjhmd1hzNnhVa2t0aDJBSm95a2Fabk1uRFBUc25ETlRRN1djSmJrQkhKb2xGNnlQWEQ4eDczMGtoNUc3ZjVRLUROcElmN2lTSUlFRnRlNDNZWTZMNG14V21pWktqcGRXbDB4d29HMF9PNHBTWGR4ODlLdHdHaFlOUkVxOXlyZGJfS2I0V3hwSmdGeHA0alk5ZnVzMnBfZE9yNk91ckQ2Nw?oc=5",
-   "tickers": [
-    "SMH"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "SMH",
-   "strength": 65,
-   "reason": "Quantum computing executive order bullish for semiconductor/tech sector",
-   "price_since": {
-    "ticker": "SMH",
-    "pct": -7.0,
-    "base": 668.91,
-    "last": 622.05,
-    "base_date": "2026-06-22",
-    "last_date": "2026-06-23"
-   }
-  },
-  {
-   "date": "2026-06-21T20:57:26.429Z",
-   "platform": "Truth Social",
-   "text": "The headline in the Corrupt and Failing New York Times: \"What Changed After Almost 4 Months of War? Analysts Say Not Much.\" REALLY? Their Military is DONE, their Navy is GONE, their Air Force is GONE, their Launching Pads, Missiles, Drones and Manufacturing of same, is almost GONE, their top two sets of Leaders are GONE, their Inflation is at 250%, their Economy is BROKEN, their Soldiers aren't being paid, the Hormuz Strait is OPEN, THE OIL IS GUSHING, and the U.S. Stock Market and Jobs are at record HIGHS. That's what's CHANGED, you corrupt and unethical cowards, and MORE!!! President DJT",
-   "tickers": [
-    "SPY"
-   ],
-   "engagement": 26084,
-   "url": "https://truthsocial.com/@realDonaldTrump/116790096457517049",
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "SPY",
-   "strength": 35,
-   "reason": "Macro boosterism on stock market and jobs; lacks specific catalyst or policy action"
   },
   {
    "curated": true,
