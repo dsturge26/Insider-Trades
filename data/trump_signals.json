@@ -1,7 +1,39 @@
 {
- "last_updated": "2026-07-01T06:11:13Z",
+ "last_updated": "2026-07-01T10:14:45Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-07-01T07:07:43Z",
+   "platform": "News",
+   "text": "MU Stock Eases After Record Run: Micron Backs Trump Accounts With $250M Commitment - Stocktwits \u2014 MU Stock Eases After Record Run: Micron Backs Trump Accounts With $250M Commitment\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPVDE3TEpTVWtjT281REUwbWFGQzN0ZHpWNnU1UlpVRWRYMDExdzEyRVZ1MHlpbDd6V3ZFNjlmUVRyYXlabHpkVUpSejJmb3p5bF9mbkpobEpQanF5bzM2NjNpcDZ5N01rOEYyeDZvLTRZc0xIeG9xaEpESjc0bERrUTQwbTRMcXdCUHE0N0UzaTNoZFd2ZTU1Qk5JaDlMOG1GUG1icU9SMU9ja0Y5c21SUEcwN2EyYVpRUFQxY1JqOUZBeUJZT2QyYVppalpTSnhSUER1M0pMcjlLRG5YeVE?oc=5",
+   "tickers": [
+    "MU"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "MU",
+   "strength": 75,
+   "reason": "Micron committed $250M to Trump accounts, signaling strong business relationship and potential favorable treatment"
+  },
+  {
+   "date": "2026-07-01T06:08:39Z",
+   "platform": "News",
+   "text": "Hillary Clinton Escalates Trump Criticism, Cites Reports Linking Stock Purchases to Federal ICE Contract - Benzinga \u2014 Hillary Clinton Escalates Trump Criticism, Cites Reports Linking Stock Purchases to Federal ICE Contract\u00a0\u00a0Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQRUQ4QmdrWHotUks0TW5pT0Jqd0tYRzRTSTdVaktkbmJFbGFZRlhQTHBDU3dkX1Q4azhyN29rV0laQ2ZuS21Tc19JQzZ6VmV4RkhjNDVKZjliaE5RZ1llQmFsd2RNRUlKNUg4NFM1bERTclRMTmlNZEhvVGJvTVFmQXVPWlZZVy1idmNRd3V3Zm9lNGUyVlRVek5aOURNYUFsQ0JXTEtXa3pfUndKakhfZXRicjdydnJNT0lDX0s3Rm9LbzhBcDdYWnBYV1hoNnhCTDJ0SVl2Yl85NkhTTDVLaFFoZXlQbkRwaHVtRHQ5S2pWQ2VNUFQtVG0yMA?oc=5",
+   "tickers": [
+    "AXON"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "AXON",
+   "strength": 40,
+   "reason": "Political criticism of Trump stock purchases; unclear market implication without details on contract legitimacy"
+  },
   {
    "date": "2026-06-30T19:37:58Z",
    "platform": "News",
@@ -35,6 +67,22 @@
    "reason": "Micron investment in Trump family accounts suggests confidence in chip sector and semiconductor demand"
   },
   {
+   "date": "2026-06-30T15:57:54Z",
+   "platform": "News",
+   "text": "IBRX Stock Rally Not Over Yet? Chairman Says Trump Diplomacy Led To \u2018Amazing Results\u2019 For Cancer Drug - Stocktwits \u2014 IBRX Stock Rally Not Over Yet? Chairman Says Trump Diplomacy Led To \u2018Amazing Results\u2019 For Cancer Drug\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOcVFTb3RQWTZrUG9ONVN6MEVNSk54ckxoS1E2bWNXQmRjRWIxaURpT1lyY3ItODk1LXRGb0MyeWtSMERnRmpmNHpha1JPZWZWa1NUWmNkOGJNbjJiTWMtRm52djZJZTVhQUVmNDVHTUE0N1RtN2M5ZmxMSE9RbVVUTi1vZENNdHhTZWJ6eDFlZXhIUFI0Nm5rLTZYWUIwblZCaXRHYlhyd3Zpa25XcWUtbTNEdGVXelpqcVN0eDBZZ3RMajBVZjdxaVJYV3E4V2lMNnlUODhYMzdTR1h4NFRGWlQ4b01SNDluNEZvZXJjT29pTXpj?oc=5",
+   "tickers": [
+    "IBRX"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "IBRX",
+   "strength": 60,
+   "reason": "Trump diplomacy credited with favorable cancer drug outcomes, bullish signal for the biotech company"
+  },
+  {
    "date": "2026-06-30T12:01:03Z",
    "platform": "News",
    "text": "Trump Threatens 100% Tariff On Countries Imposing Digital Services Tax On American Firms \u2014 \u2018This Tariff Will Supercede Trade Deals\u2019 - Stocktwits \u2014 Trump Threatens 100% Tariff On Countries Imposing Digital Services Tax On American Firms \u2014 \u2018This Tariff Will Supercede Trade Deals\u2019\u00a0\u00a0Stocktwits",
@@ -49,6 +97,22 @@
    "primary_ticker": "SPY",
    "strength": 70,
    "reason": "100% tariff threat on digital services tax impacting US tech firms abroad; broad market headwind"
+  },
+  {
+   "date": "2026-06-30T10:04:13Z",
+   "platform": "News",
+   "text": "Why is Axon stock surging on Monday? - MSN \u2014 Why is Axon stock surging on Monday?\u00a0\u00a0MSN",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcWhGMWhWMXpZcHdlckZWYlNpbC15VmROT0U3UVpBaG1jTzBXcV9ucFVaQlVnUE9qQVlZak9sd3gxaklaV2gyaHlkbnRkMDBQUnI4MEkzOTM5ZmFHd3Jka0tvZFBVNzF2cFdiamxLeW5BUzFLM3M4bFdoVE1yMG5JRzFkT19IRThtQjZqOA?oc=5",
+   "tickers": [
+    "AXON"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "AXON",
+   "strength": 70,
+   "reason": "Axon stock surge linked to Trump family purchases and interest, bullish momentum signal"
   },
   {
    "date": "2026-06-30T09:27:00Z",
@@ -135,6 +199,30 @@
     "pct": 6.0,
     "base": 131.72,
     "last": 139.63,
+    "base_date": "2026-06-29",
+    "last_date": "2026-06-30"
+   }
+  },
+  {
+   "date": "2026-06-29T20:35:33Z",
+   "platform": "News",
+   "text": "Why Is DJT Stock Up Premarket Today? - Stocktwits \u2014 Why Is DJT Stock Up Premarket Today?\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSk1xMmNPNUVJMDcxTEpIMzdrR05NSTUyc3dqa3o4OTRQUHh0M09ZVjFJZ01GRlltSGtQTlBhWWVJaGVKSVh0UTROTVdIREhzbm85OHJHaGMxaTQyVDFuSlNTbWtPbEZSTXduY1pmTWRwR296cE5UcURMT09RekhNV1RiWkYxOVB3cHlUN1BETi0wdnhTQTlSUXBkRldfQ0tM?oc=5",
+   "tickers": [
+    "DJT"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "DJT",
+   "strength": 40,
+   "reason": "Trump Media stock movement without detail; premarket movement is typical volatility",
+   "price_since": {
+    "ticker": "DJT",
+    "pct": 3.3,
+    "base": 7.49,
+    "last": 7.74,
     "base_date": "2026-06-29",
     "last_date": "2026-06-30"
    }
@@ -905,30 +993,6 @@
    }
   },
   {
-   "date": "2026-06-27T20:15:53Z",
-   "platform": "News",
-   "text": "IBRX Stock Rally Not Over Yet? Chairman Says Trump Diplomacy Led To \u2018Amazing Results\u2019 For Cancer Drug - Stocktwits \u2014 IBRX Stock Rally Not Over Yet? Chairman Says Trump Diplomacy Led To \u2018Amazing Results\u2019 For Cancer Drug\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOcVFTb3RQWTZrUG9ONVN6MEVNSk54ckxoS1E2bWNXQmRjRWIxaURpT1lyY3ItODk1LXRGb0MyeWtSMERnRmpmNHpha1JPZWZWa1NUWmNkOGJNbjJiTWMtRm52djZJZTVhQUVmNDVHTUE0N1RtN2M5ZmxMSE9RbVVUTi1vZENNdHhTZWJ6eDFlZXhIUFI0Nm5rLTZYWUIwblZCaXRHYlhyd3Zpa25XcWUtbTNEdGVXelpqcVN0eDBZZ3RMajBVZjdxaVJYV3E4V2lMNnlUODhYMzdTR1h4NFRGWlQ4b01SNDluNEZvZXJjT29pTXpj?oc=5",
-   "tickers": [
-    "IBRX"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "IBRX",
-   "strength": 70,
-   "reason": "Trump diplomacy explicitly credited with 'amazing results' for IBRX cancer drug; named company praise.",
-   "price_since": {
-    "ticker": "IBRX",
-    "pct": -0.1,
-    "base": 8.77,
-    "last": 8.76,
-    "base_date": "2026-06-29",
-    "last_date": "2026-06-30"
-   }
-  },
-  {
    "date": "2026-06-27T18:17:24Z",
    "platform": "News",
    "text": "Trump hints at abandoning Anchorage deal, praises Ukraine strikes - MSN \u2014 Trump hints at abandoning Anchorage deal, praises Ukraine strikes\u00a0\u00a0MSN",
@@ -1224,22 +1288,6 @@
    "primary_ticker": "REMX",
    "strength": 55,
    "reason": "Critical metals surge on Trump Greenland interest; rare earth/mining upside"
-  },
-  {
-   "date": "2026-06-26T17:12:28Z",
-   "platform": "News",
-   "text": "Why Is DJT Stock Up Premarket Today? - Stocktwits \u2014 Why Is DJT Stock Up Premarket Today?\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSk1xMmNPNUVJMDcxTEpIMzdrR05NSTUyc3dqa3o4OTRQUHh0M09ZVjFJZ01GRlltSGtQTlBhWWVJaGVKSVh0UTROTVdIREhzbm85OHJHaGMxaTQyVDFuSlNTbWtPbEZSTXduY1pmTWRwR296cE5UcURMT09RekhNV1RiWkYxOVB3cHlUN1BETi0wdnhTQTlSUXBkRldfQ0tM?oc=5",
-   "tickers": [
-    "DJT"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "DJT",
-   "strength": 25,
-   "reason": "Headline reports premarket move in Trump Media stock; no underlying catalyst stated, likely noise."
   },
   {
    "date": "2026-06-26T16:55:08Z",
