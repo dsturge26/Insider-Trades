@@ -1,7 +1,39 @@
 {
- "last_updated": "2026-07-01T22:55:31Z",
+ "last_updated": "2026-07-02T00:07:28Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-07-02T00:00:31Z",
+   "platform": "News",
+   "text": "Trump just called Micron the 'hottest' company in the world. The market yawned and dumped it 10% - MSN \u2014 Trump just called Micron the 'hottest' company in the world. The market yawned and dumped it 10%\u00a0\u00a0MSN",
+   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNNUEtTzg4M2ZZa0pKdlMwWjdIOEc5V0M5dW9OVVVMd2JmLUhqWlZiSGUyX0k2MGxiOGtPeG1GbGlBbk5sN2ZQWVRKVlQtZ3d0bXozc0lhWjJLWG9zVDBNMzBlc2R4MlFMdjIzcHhUMlRfM291YVdZLXRNRWF0OHp1cjRWMHJsZ1JkNC1GRWl2Y2NfZGs4MU5rM2xZRjBPLUhQQ0kzTnMzTDJZeW1WS0FfY0M4U1hab1lWbHBUR3p0a0xCSlRCcWhsQ1c2TVczRE9mOU5ZVjBNUkV2VURUYlV2REszclg4NTdDRFpsaVh5cDdvSklvblljZVBXMlE3WGdKQmc?oc=5",
+   "tickers": [
+    "MU"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "MU",
+   "strength": 45,
+   "reason": "Trump explicitly praised Micron as 'hottest' company; despite market sell-off, the praise is a bullish signal even if market disagrees"
+  },
+  {
+   "date": "2026-07-01T23:40:36Z",
+   "platform": "News",
+   "text": "Trump Just Called Micron the 'Hottest' Company in the World. The Market Yawned and Dumped It 10% - 24/7 Wall St. \u2014 Trump Just Called Micron the 'Hottest' Company in the World. The Market Yawned and Dumped It 10%\u00a0\u00a024/7 Wall St.",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNktpaG81OWszOUVSSUFqVGxWLXFRemRNWFlhcnlJeUxad1hXT0dJVnBUd2h3bS1TRkVndXZTMm9feDhFeXVwOTVkUlVmYk83N2FoRDN0WllNU0RCM1ZROUt2SThvbUw0SU9jc0ZtRllwTWpXVUg3cW9UQ3FFLVJVcEtja2puTTBBM1ZEcDRRVlVjUVBuSkxBR0tzd1FTVFJkZGhGN0dHbTR6TnJzd1NiQjhqSVVCbTZWLU82eXZaaG1KWkt0ZFFfQnktaTdIRzRzUUE?oc=5",
+   "tickers": [
+    "MU"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "MU",
+   "strength": 45,
+   "reason": "Trump explicitly praised Micron as 'hottest' company; despite market sell-off, the praise is a bullish signal even if market disagrees"
+  },
   {
    "date": "2026-07-01T20:58:00Z",
    "platform": "News",
@@ -249,6 +281,30 @@
    "primary_ticker": "AXON",
    "strength": 45,
    "reason": "Trump family investment in Axon signals confidence; modest direct signal but shows insider buying interest",
+   "price_since": {
+    "ticker": "AXON",
+    "pct": 5.9,
+    "base": 560.61,
+    "last": 593.96,
+    "base_date": "2026-06-30",
+    "last_date": "2026-07-01"
+   }
+  },
+  {
+   "date": "2026-06-30T19:37:58Z",
+   "platform": "News",
+   "text": "Trump's account bought up to $5M in Taser maker Axon \u2014 two weeks later, ICE sought a $220M government contract - moneywise.com \u2014 Trump's account bought up to $5M in Taser maker Axon \u2014 two weeks later, ICE sought a $220M government contract\u00a0\u00a0moneywise.com",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRTBjUmxrOGRXeElNdjllb29PcldnbHlvMFVmUVRDM0dxOHFCdW91TDVSOEJTZV9PQVRhbXJmQ0g4LXBEWTc4XzNWVVA0MUQtTS1JbTJtb0xuRFBKaExwTm54dDBBRHJBQlhOZ2p3dno3TUg5MzhhZ3k3MmZROFg0Vg?oc=5",
+   "tickers": [
+    "AXON"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "AXON",
+   "strength": 75,
+   "reason": "Trump stake in Axon followed by $220M ICE government contract; potential quid pro quo signal bullish for Axon",
    "price_since": {
     "ticker": "AXON",
     "pct": 5.9,
@@ -2629,102 +2685,6 @@
    "primary_ticker": "MACK",
    "strength": 35,
    "reason": "Trump campaign visit to Mack Trucks touting economic agenda; modest positive framing but limited concrete catalyst"
-  },
-  {
-   "date": "2026-06-23T17:04:00Z",
-   "platform": "News",
-   "text": "Trump admits selling IBM\u2019s stock was a mistake. Now he\u2019s cheering its quantum future. - MarketWatch \u2014 Trump admits selling IBM\u2019s stock was a mistake. Now he\u2019s cheering its quantum future.\u00a0\u00a0MarketWatch",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcGppSWZHTGxOdUpZTE4ySWFBdUQ3WlYtUFJSbWtpcWp4TkhFdk0yWWE1QTRQbVlpVnFKblJLemF3YnpldkFVMXFWUlhiUFlLMFdaU2ZpOWdCajU3S1k5aWRULTN2R0Z6eFNNbWgwRUJYQ1RDNnI1V1RpNlhMc0lKZFFiRVBIZkhvZFdDemE1UFZpM1Z0a2g0N0VTMW9YbnR6TDJHREVMekJzTlJ5VFRxbkFzNk1qVFJWZFVNVzFiVGtZQQ?oc=5",
-   "tickers": [
-    "IBM"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "IBM",
-   "strength": 75,
-   "reason": "Trump explicitly praises IBM CEO and quantum future after admitting prior sale was a mistake; direct positive endorsement of a named public company",
-   "price_since": {
-    "ticker": "IBM",
-    "pct": -0.7,
-    "base": 264.94,
-    "last": 262.96,
-    "base_date": "2026-06-23",
-    "last_date": "2026-06-24"
-   }
-  },
-  {
-   "date": "2026-06-23T17:04:00Z",
-   "platform": "News",
-   "text": "Trump regrets once selling IBM\u2019s stock. Now he\u2019s cheering its quantum future and dealing its shares. - MarketWatch \u2014 Trump regrets once selling IBM\u2019s stock. Now he\u2019s cheering its quantum future and dealing its shares.\u00a0\u00a0MarketWatch",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcGppSWZHTGxOdUpZTE4ySWFBdUQ3WlYtUFJSbWtpcWp4TkhFdk0yWWE1QTRQbVlpVnFKblJLemF3YnpldkFVMXFWUlhiUFlLMFdaU2ZpOWdCajU3S1k5aWRULTN2R0Z6eFNNbWgwRUJYQ1RDNnI1V1RpNlhMc0lKZFFiRVBIZkhvZFdDemE1UFZpM1Z0a2g0N0VTMW9YbnR6TDJHREVMekJzTlJ5VFRxbkFzNk1qVFJWZFVNVzFiVGtZQQ?oc=5",
-   "tickers": [
-    "IBM"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "IBM",
-   "strength": 75,
-   "reason": "Trump explicitly praises IBM's quantum future and CEO; regrets selling stock; direct bullish signal on named company",
-   "price_since": {
-    "ticker": "IBM",
-    "pct": -0.7,
-    "base": 264.94,
-    "last": 262.96,
-    "base_date": "2026-06-23",
-    "last_date": "2026-06-24"
-   }
-  },
-  {
-   "date": "2026-06-23T12:27:56Z",
-   "platform": "News",
-   "text": "U.S. Market Preview | Trump stated that Iran has fully agreed to accept long-term nuclear inspections, and the 60-day oil sanctions waiver has taken effect; tech stocks are broadly under pressure in pre-market trading, with all three major index futures d - \u5bcc\u9014\u725b\u725b \u2014 U.S. Market Preview | Trump stated that Iran has fully agreed to accept long-term nuclear inspections, and the 60-day oil sanctions waiver has taken effect; tech stocks are broadly",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRVJzc09ISTBSVW9lWWQ0VzBWTWJYRW9WVGFoSDdiZW1sRWloSDlicXlhdkR3cGV0bTRhT0VvY0RQbUoyRFZkU3gzM19ja0wwclNDbi0yNkV4SHVNc0YwZlRianVqQWVpcFFIOGFfd0dUQ3FXeGNfWEdkdk1IV1ZNcENOdXZLdG16MHFkNDQ5d2h2dmppcGRqN3d4LVh6Wmc?oc=5",
-   "tickers": [
-    "XLE"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "XLE",
-   "strength": 60,
-   "reason": "60-day oil sanctions waiver on Iran is bullish for energy; tech weakness noted but oil/energy the main catalyst.",
-   "price_since": {
-    "ticker": "XLE",
-    "pct": -1.7,
-    "base": 54.46,
-    "last": 53.51,
-    "base_date": "2026-06-23",
-    "last_date": "2026-06-24"
-   }
-  },
-  {
-   "date": "2026-06-23T11:52:31Z",
-   "platform": "News",
-   "text": "Why Is IBM Stock Soaring Tuesday? - Benzinga \u2014 Why Is IBM Stock Soaring Tuesday?\u00a0\u00a0Benzinga",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQnlmdy1qTExpd3REQTFrSzNuaG9wOUt3T0NLVzlJMzhENnp4azJvZFQ2ekVpNXNBTEVGQm1hVHVNQXVYOE1XZUZJVTZfc01ndXpPNC0yMFl0OGZ0eGZzRU9XX1hiWjBad1hUVDYtZndzOTVUZFFhVlpMUGIzUWtNa3poM3hmeTg5cWhyM0poSTRNbUdIaW96LQ?oc=5",
-   "tickers": [
-    "IBM"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "IBM",
-   "strength": 25,
-   "reason": "IBM stock movement reported but no Trump catalyst or direction stated",
-   "price_since": {
-    "ticker": "IBM",
-    "pct": -1.0,
-    "base": 264.94,
-    "last": 262.42,
-    "base_date": "2026-06-23",
-    "last_date": "2026-06-24"
-   }
   },
   {
    "curated": true,
