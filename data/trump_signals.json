@@ -1,7 +1,24 @@
 {
- "last_updated": "2026-07-02T10:45:33Z",
+ "last_updated": "2026-07-02T12:58:51Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-07-02T12:02:47.999Z",
+   "platform": "Truth Social",
+   "text": "The United States spends more money on NATO than any other country, by far, to protect them, without getting any benefit from so doing: U.S. 999 Billion Dollars, United Kingdom, 90.5 Billion Dollars, France, 66.5  Billion Dollars, Italy, 48.8 Billion Dollars, Poland, 44.3 Billion Dollars. Others, including Germany, are MUCH LOWER. (2014-2025) Ridiculous! President DJT",
+   "tickers": [
+    "SPY"
+   ],
+   "engagement": 2749,
+   "url": "https://truthsocial.com/@realDonaldTrump/116850279579552155",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "SPY",
+   "strength": 35,
+   "reason": "NATO spending criticism suggests potential defense/military budget cuts or isolationist policy headwind"
+  },
   {
    "date": "2026-07-02T09:13:30Z",
    "platform": "News",
@@ -19,10 +36,10 @@
    "reason": "Trump explicitly praises Micron's investment commitment and $200B US investment plan"
   },
   {
-   "date": "2026-07-02T00:48:25Z",
+   "date": "2026-07-02T06:12:14Z",
    "platform": "News",
    "text": "Trump just called Micron the 'hottest' company in the world. The market yawned and dumped it 10% - MSN \u2014 Trump just called Micron the 'hottest' company in the world. The market yawned and dumped it 10%\u00a0\u00a0MSN",
-   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQWGNUeVp4cldfQURkdFZxRnlMaDg2MWZPeGRxT2pQeEJ0ODF4dkhXYW5EQXlkejFuVFZITE5fSkRMbXFpM25sQk9ULWR4VENuNUZwOVdXT0Z5NUdxeUh1RFlFZmRpSENCaVZRQ255TlV1bzRXTy1WSW5wMVNreE5GOHBqdTJfcjI5eDcxZERNRFdQN2FzUGMwODhBX0c5WFNPTWZtcUlJMl9jNmRUc05hWk9ZWUdPYW1LRkppNUN3OC00THVhUEFxamdnVDJZRDFsTEV1OHNuSjlKRmYyVEpj?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNNUEtTzg4M2ZZa0pKdlMwWjdIOEc5V0M5dW9OVVVMd2JmLUhqWlZiSGUyX0k2MGxiOGtPeG1GbGlBbk5sN2ZQWVRKVlQtZ3d0bXozc0lhWjJLWG9zVDBNMzBlc2R4MlFMdjIzcHhUMlRfM291YVdZLXRNRWF0OHp1cjRWMHJsZ1JkNC1GRWl2Y2NfZGs4MU5rM2xZRjBPLUhQQ0kzTnMzTDJZeW1WS0FfY0M4U1hab1lWbHBUR3p0a0xCSlRCcWhsQ1c2TVczRE9mOU5ZVjBNUkV2VURUYlV2REszclg4NTdDRFpsaVh5cDdvSklvblljZVBXMlE3WGdKQmc?oc=5",
    "tickers": [
     "MU"
    ],
@@ -31,8 +48,8 @@
    "explicit": true,
    "direction": "SELL",
    "primary_ticker": "MU",
-   "strength": 75,
-   "reason": "Trump explicitly praised Micron as 'hottest' company but market dumped it 10%, signaling negative reception to his endorsement."
+   "strength": 55,
+   "reason": "Trump's praise for Micron coincided with 10% market dump; explicit signal contradicted by market action"
   },
   {
    "date": "2026-07-01T23:53:49.941Z",
@@ -2604,39 +2621,6 @@
    "primary_ticker": "IBM",
    "strength": 70,
    "reason": "Trump admits IBM stock sale was a mistake and now cheering its quantum future; explicit reversal and renewed praise."
-  },
-  {
-   "date": "2026-06-24T04:12:13.948Z",
-   "platform": "Truth Social",
-   "text": "The big Oil Companies are not dropping their price at the pump commensurate with the sharply lower prices they are paying for Oil. Those prices are dropping like a rock! In other words, customers are being \"gouged.\" I have instructed the DOJ to immediately start looking into this. Gasoline prices better start going down a lot faster than what I'm seeing! President DJT",
-   "tickers": [
-    "XLE"
-   ],
-   "engagement": 3605,
-   "url": "https://truthsocial.com/@realDonaldTrump/116803130747198847",
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "XLE",
-   "strength": 45,
-   "reason": "Trump directs DOJ to investigate oil company pricing; suggests regulatory pressure on energy sector margins"
-  },
-  {
-   "date": "2026-06-24T03:59:07Z",
-   "platform": "News",
-   "text": "Trump Praised Nokia in 2019 \u2014 And He\u2019s Praising It Again in 2026 - Moomoo \u2014 Trump Praised Nokia in 2019 \u2014 And He\u2019s Praising It Again in 2026\u00a0\u00a0Moomoo",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNa01OOGZWN3lMN0tuODZjSkx3SThjREFtQ0RLVkd5Z25QekpWMW5sMmdFdV94SENjUUZWTWJkQ09tODJIamRoTGxxT1NVLU5ZSi16RTlua256U0tqUG55dlFiUG8ycHc4YXdMdXZoYTZia21YSHZmcEV2NDYzWjFTZmVEb2Z1V29ndm9jd3IwVVJlQ1FkMkVVU2dYRHFVZmJ1eVozRg?oc=5",
-   "tickers": [
-    "NOK"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "NOK",
-   "strength": 65,
-   "reason": "Trump explicitly praises Nokia by name; direct positive commentary on named publicly-traded company"
   },
   {
    "curated": true,
