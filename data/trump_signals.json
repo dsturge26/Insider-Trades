@@ -1,7 +1,40 @@
 {
- "last_updated": "2026-07-02T12:58:51Z",
+ "last_updated": "2026-07-02T15:24:20Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-07-02T14:49:00Z",
+   "platform": "News",
+   "text": "Trump Calls Micron a \u2018Great\u2019 Company, the Stock Is Falling - Barron's \u2014 Trump Calls Micron a \u2018Great\u2019 Company, the Stock Is Falling\u00a0\u00a0Barron's",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBRbTllZDJkTEI4dEZiamNSUlFUamZwWVdFSHpEbVZIUG5sTjk5ZzZUano5b2Rsdi11LU1uNE5oV08wbEd0eldVN2xOQ2ZRSGNiV2RLRWdMME84YXpYV2pjN3JIN1NMN0hzcndQbW9RRUdXMjdU?oc=5",
+   "tickers": [
+    "MU"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "MU",
+   "strength": 45,
+   "reason": "Trump calls Micron 'Great' company; explicit praise of named public company, but market reaction mixed/skeptical."
+  },
+  {
+   "date": "2026-07-02T13:23:28.727Z",
+   "platform": "Truth Social",
+   "text": "How about this? Micron, a GREAT American Company, announced that they are putting in 250 Million Dollars into the Trump Accounts for the future benefit of children, and their stock went up 9 points today. Thank you Micron! President DJT",
+   "tickers": [
+    "MU"
+   ],
+   "engagement": 6794,
+   "url": "https://truthsocial.com/@realDonaldTrump/116850596821921968",
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "MU",
+   "strength": 70,
+   "reason": "Trump explicitly praises Micron as 'GREAT American Company' and announces $250M investment in Trump Accounts; direct endorsement with concrete corporate commitment."
+  },
   {
    "date": "2026-07-02T12:02:47.999Z",
    "platform": "Truth Social",
@@ -18,6 +51,22 @@
    "primary_ticker": "SPY",
    "strength": 35,
    "reason": "NATO spending criticism suggests potential defense/military budget cuts or isolationist policy headwind"
+  },
+  {
+   "date": "2026-07-02T10:41:11Z",
+   "platform": "News",
+   "text": "Trump praises Micron's $250 million Trump accounts commitment as CEO highlights $200 billion US investment - MSN \u2014 Trump praises Micron's $250 million Trump accounts commitment as CEO highlights $200 billion US investment\u00a0\u00a0MSN",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQOW1hU1RWUWtRb2FtcnpjVzRhTmVUeDkxZHZHWHpWZVZ1VnFUblBQZWRTRzZ6QklhWjZuUnlxSFNkT3dwOVJPb2FIcXJTR0kwcVBXelF2ZnV3WE1qNnNGTE1DSm12MnlBZXB3YzlLNFVxYmdISjVFOF9xbl9rRUtXSVNqVlNvQzNXUkI0MHJkS3Z3OGVjU2o3V1ZiWTFxOVhFcUc2SjVYNWZEQmQ0ZnZydE8zU0c5cXl0LXhXdlVzN3JVTjRqekpSRTNraHY1cVg0TlE1OTBHZVhsekNGVkd3UDV1UW9rN3VI?oc=5",
+   "tickers": [
+    "MU"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "MU",
+   "strength": 75,
+   "reason": "Trump praises Micron's $250M Trump Accounts commitment and CEO highlights $200B US investment; explicit endorsement tied to major capex pledge."
   },
   {
    "date": "2026-07-02T09:13:30Z",
@@ -66,7 +115,15 @@
    "direction": "BUY",
    "primary_ticker": "XLE",
    "strength": 50,
-   "reason": "Trump claims oil prices plummeting and highlights gas price cuts; bullish energy/oil tone aligned with drill policy."
+   "reason": "Trump claims oil prices plummeting and highlights gas price cuts; bullish energy/oil tone aligned with drill policy.",
+   "price_since": {
+    "ticker": "XLE",
+    "pct": 1.0,
+    "base": 52.81,
+    "last": 53.33,
+    "base_date": "2026-07-01",
+    "last_date": "2026-07-02"
+   }
   },
   {
    "date": "2026-07-01T23:40:36Z",
@@ -82,7 +139,15 @@
    "direction": "BUY",
    "primary_ticker": "MU",
    "strength": 45,
-   "reason": "Trump explicitly praised Micron as 'hottest' company; despite market sell-off, the praise is a bullish signal even if market disagrees"
+   "reason": "Trump explicitly praised Micron as 'hottest' company; despite market sell-off, the praise is a bullish signal even if market disagrees",
+   "price_since": {
+    "ticker": "MU",
+    "pct": -3.8,
+    "base": 1032.28,
+    "last": 993.1,
+    "base_date": "2026-07-01",
+    "last_date": "2026-07-02"
+   }
   },
   {
    "date": "2026-07-01T23:12:37Z",
@@ -98,7 +163,15 @@
    "direction": "BUY",
    "primary_ticker": "AXON",
    "strength": 60,
-   "reason": "Trump's personal stock purchase in Axon drove rally; direct bullish signal from insider buying."
+   "reason": "Trump's personal stock purchase in Axon drove rally; direct bullish signal from insider buying.",
+   "price_since": {
+    "ticker": "AXON",
+    "pct": -1.8,
+    "base": 593.96,
+    "last": 583.22,
+    "base_date": "2026-07-01",
+    "last_date": "2026-07-02"
+   }
   },
   {
    "date": "2026-07-01T22:09:45Z",
@@ -114,7 +187,15 @@
    "direction": "BUY",
    "primary_ticker": "DELL",
    "strength": 80,
-   "reason": "Trump explicitly endorsed Dell; stock spiked to record highs on endorsement"
+   "reason": "Trump explicitly endorsed Dell; stock spiked to record highs on endorsement",
+   "price_since": {
+    "ticker": "DELL",
+    "pct": -6.9,
+    "base": 425.25,
+    "last": 396.09,
+    "base_date": "2026-07-01",
+    "last_date": "2026-07-02"
+   }
   },
   {
    "date": "2026-07-01T20:58:00Z",
@@ -133,6 +214,30 @@
    "reason": "Trump profited from crypto holdings; mixed signal on retail demand and market direction."
   },
   {
+   "date": "2026-07-01T19:37:04Z",
+   "platform": "News",
+   "text": "Trump doubles down on Axon stock before major federal agency expansion - AOL.com \u2014 Trump doubles down on Axon stock before major federal agency expansion\u00a0\u00a0AOL.com",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9qcEUtdEc2MFhRQUh4b3BfMmFqSjJwSUo0YWZIRkstZGVraFEzb1dUdExkSTJtR0l5RGRLY2lFQzNIQ2FSS0p0QS1LSmYzMmlNQ3dHZFRtR2ZEQVhKSGlENUV4a0hCUE9Hdm9pVnR3dTVwUks2OV9qQjNZNGY3UQ?oc=5",
+   "tickers": [
+    "AXON"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "AXON",
+   "strength": 75,
+   "reason": "Trump explicitly disclosed holdings and 'doubles down' on Axon before federal agency expansion\u2014direct Trump endorsement of a named stock tied to policy tailwind.",
+   "price_since": {
+    "ticker": "AXON",
+    "pct": -1.8,
+    "base": 593.96,
+    "last": 583.22,
+    "base_date": "2026-07-01",
+    "last_date": "2026-07-02"
+   }
+  },
+  {
    "date": "2026-07-01T19:35:16Z",
    "platform": "News",
    "text": "Trump on financial disclosures: Everyone's profiting because stock market is up - MSN \u2014 Trump on financial disclosures: Everyone's profiting because stock market is up\u00a0\u00a0MSN",
@@ -146,7 +251,15 @@
    "direction": "BUY",
    "primary_ticker": "SPY",
    "strength": 35,
-   "reason": "Trump credits stock market gains, broad positive sentiment on equities"
+   "reason": "Trump credits stock market gains, broad positive sentiment on equities",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": -0.0,
+    "base": 745.76,
+    "last": 745.43,
+    "base_date": "2026-07-01",
+    "last_date": "2026-07-02"
+   }
   },
   {
    "date": "2026-07-01T18:22:22Z",
@@ -162,7 +275,15 @@
    "direction": "BUY",
    "primary_ticker": "MU",
    "strength": 65,
-   "reason": "Trump explicitly hails Micron's $250M investment announcement"
+   "reason": "Trump explicitly hails Micron's $250M investment announcement",
+   "price_since": {
+    "ticker": "MU",
+    "pct": -3.8,
+    "base": 1032.28,
+    "last": 993.52,
+    "base_date": "2026-07-01",
+    "last_date": "2026-07-02"
+   }
   },
   {
    "date": "2026-07-01T16:35:35Z",
@@ -178,7 +299,15 @@
    "direction": "BUY",
    "primary_ticker": "SPY",
    "strength": 25,
-   "reason": "Trump notes stock market strength is benefiting everyone; generic bullish sentiment on equities"
+   "reason": "Trump notes stock market strength is benefiting everyone; generic bullish sentiment on equities",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": -0.0,
+    "base": 745.76,
+    "last": 745.43,
+    "base_date": "2026-07-01",
+    "last_date": "2026-07-02"
+   }
   },
   {
    "date": "2026-07-01T13:07:44Z",
@@ -194,7 +323,15 @@
    "direction": "BUY",
    "primary_ticker": "SPY",
    "strength": 25,
-   "reason": "General statement that stock market up benefits everyone; macro bullish tone but no specific catalyst"
+   "reason": "General statement that stock market up benefits everyone; macro bullish tone but no specific catalyst",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": -0.0,
+    "base": 745.76,
+    "last": 745.43,
+    "base_date": "2026-07-01",
+    "last_date": "2026-07-02"
+   }
   },
   {
    "date": "2026-07-01T13:07:44Z",
@@ -210,7 +347,15 @@
    "direction": "BUY",
    "primary_ticker": "SPY",
    "strength": 25,
-   "reason": "Market-favorable sentiment; broad positive comment on stock gains, but no specific catalyst or actionable signal"
+   "reason": "Market-favorable sentiment; broad positive comment on stock gains, but no specific catalyst or actionable signal",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": -0.0,
+    "base": 745.76,
+    "last": 745.43,
+    "base_date": "2026-07-01",
+    "last_date": "2026-07-02"
+   }
   },
   {
    "date": "2026-07-01T12:43:39Z",
@@ -242,7 +387,15 @@
    "direction": "BUY",
    "primary_ticker": "TAN",
    "strength": 55,
-   "reason": "Trump's proposed inverter import curbs bullish for solar stocks"
+   "reason": "Trump's proposed inverter import curbs bullish for solar stocks",
+   "price_since": {
+    "ticker": "TAN",
+    "pct": -1.6,
+    "base": 57.8,
+    "last": 56.85,
+    "base_date": "2026-07-01",
+    "last_date": "2026-07-02"
+   }
   },
   {
    "date": "2026-07-01T07:07:43Z",
@@ -258,7 +411,15 @@
    "direction": "BUY",
    "primary_ticker": "MU",
    "strength": 75,
-   "reason": "Micron committed $250M to Trump accounts, signaling strong business relationship and potential favorable treatment"
+   "reason": "Micron committed $250M to Trump accounts, signaling strong business relationship and potential favorable treatment",
+   "price_since": {
+    "ticker": "MU",
+    "pct": -3.7,
+    "base": 1032.28,
+    "last": 993.66,
+    "base_date": "2026-07-01",
+    "last_date": "2026-07-02"
+   }
   },
   {
    "date": "2026-07-01T06:08:39Z",
@@ -274,7 +435,15 @@
    "direction": "WATCH",
    "primary_ticker": "AXON",
    "strength": 40,
-   "reason": "Political criticism of Trump stock purchases; unclear market implication without details on contract legitimacy"
+   "reason": "Political criticism of Trump stock purchases; unclear market implication without details on contract legitimacy",
+   "price_since": {
+    "ticker": "AXON",
+    "pct": -1.8,
+    "base": 593.96,
+    "last": 583.22,
+    "base_date": "2026-07-01",
+    "last_date": "2026-07-02"
+   }
   },
   {
    "date": "2026-07-01T03:59:38Z",
@@ -290,7 +459,15 @@
    "direction": "BUY",
    "primary_ticker": "ASTS",
    "strength": 55,
-   "reason": "Trump hidden stakes in space stocks (ASTS, RKLB) disclosed; insider buying signal drives retail demand"
+   "reason": "Trump hidden stakes in space stocks (ASTS, RKLB) disclosed; insider buying signal drives retail demand",
+   "price_since": {
+    "ticker": "ASTS",
+    "pct": -2.1,
+    "base": 86.1,
+    "last": 84.28,
+    "base_date": "2026-07-01",
+    "last_date": "2026-07-02"
+   }
   },
   {
    "date": "2026-07-01T00:48:16Z",
@@ -306,7 +483,15 @@
    "direction": "BUY",
    "primary_ticker": "NOW",
    "strength": 65,
-   "reason": "Trump stake in ServiceNow disclosed; specific company with concrete position change"
+   "reason": "Trump stake in ServiceNow disclosed; specific company with concrete position change",
+   "price_since": {
+    "ticker": "NOW",
+    "pct": -1.2,
+    "base": 105.8,
+    "last": 104.58,
+    "base_date": "2026-07-01",
+    "last_date": "2026-07-02"
+   }
   },
   {
    "date": "2026-06-30T23:45:11Z",
@@ -325,11 +510,11 @@
    "reason": "Intel rally attributed partly to Trump pump but article notes multiple drivers; ambiguous causality",
    "price_since": {
     "ticker": "INTC",
-    "pct": -9.0,
+    "pct": -12.1,
     "base": 139.63,
-    "last": 127.02,
+    "last": 122.79,
     "base_date": "2026-06-30",
-    "last_date": "2026-07-01"
+    "last_date": "2026-07-02"
    }
   },
   {
@@ -349,11 +534,11 @@
    "reason": "Iran geopolitical tensions typically bearish for broad market; futures down suggests risk-off sentiment",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.1,
+    "pct": -0.2,
     "base": 746.77,
-    "last": 745.76,
+    "last": 745.43,
     "base_date": "2026-06-30",
-    "last_date": "2026-07-01"
+    "last_date": "2026-07-02"
    }
   },
   {
@@ -373,11 +558,11 @@
    "reason": "Trump family investment in Axon signals confidence; modest direct signal but shows insider buying interest",
    "price_since": {
     "ticker": "AXON",
-    "pct": 5.9,
+    "pct": 4.0,
     "base": 560.61,
-    "last": 593.96,
+    "last": 583.22,
     "base_date": "2026-06-30",
-    "last_date": "2026-07-01"
+    "last_date": "2026-07-02"
    }
   },
   {
@@ -397,11 +582,11 @@
    "reason": "Trump stake in Axon followed by $220M ICE government contract; potential quid pro quo signal bullish for Axon",
    "price_since": {
     "ticker": "AXON",
-    "pct": 5.9,
+    "pct": 4.0,
     "base": 560.61,
-    "last": 593.96,
+    "last": 583.22,
     "base_date": "2026-06-30",
-    "last_date": "2026-07-01"
+    "last_date": "2026-07-02"
    }
   },
   {
@@ -421,11 +606,11 @@
    "reason": "Micron investment in Trump family accounts suggests confidence in chip sector and semiconductor demand",
    "price_since": {
     "ticker": "MU",
-    "pct": -10.6,
+    "pct": -13.9,
     "base": 1154.29,
-    "last": 1032.28,
+    "last": 993.55,
     "base_date": "2026-06-30",
-    "last_date": "2026-07-01"
+    "last_date": "2026-07-02"
    }
   },
   {
@@ -445,11 +630,11 @@
    "reason": "Micron investment in Trump accounts signals alignment and bullish outlook",
    "price_since": {
     "ticker": "MU",
-    "pct": -10.6,
+    "pct": -13.9,
     "base": 1154.29,
-    "last": 1032.28,
+    "last": 993.55,
     "base_date": "2026-06-30",
-    "last_date": "2026-07-01"
+    "last_date": "2026-07-02"
    }
   },
   {
@@ -469,11 +654,11 @@
    "reason": "Trump diplomacy credited with favorable cancer drug outcomes, bullish signal for the biotech company",
    "price_since": {
     "ticker": "IBRX",
-    "pct": 5.0,
+    "pct": 7.8,
     "base": 8.76,
-    "last": 9.2,
+    "last": 9.44,
     "base_date": "2026-06-30",
-    "last_date": "2026-07-01"
+    "last_date": "2026-07-02"
    }
   },
   {
@@ -493,11 +678,11 @@
    "reason": "100% tariff threat on digital services tax impacting US tech firms abroad; broad market headwind",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.1,
+    "pct": -0.2,
     "base": 746.77,
-    "last": 745.76,
+    "last": 745.43,
     "base_date": "2026-06-30",
-    "last_date": "2026-07-01"
+    "last_date": "2026-07-02"
    }
   },
   {
@@ -517,11 +702,11 @@
    "reason": "Axon stock surge linked to Trump family purchases and interest, bullish momentum signal",
    "price_since": {
     "ticker": "AXON",
-    "pct": 5.9,
+    "pct": 4.0,
     "base": 560.61,
-    "last": 593.96,
+    "last": 583.22,
     "base_date": "2026-06-30",
-    "last_date": "2026-07-01"
+    "last_date": "2026-07-02"
    }
   },
   {
@@ -541,11 +726,11 @@
    "reason": "Tariffs failed to prevent job losses at Whirlpool; bearish on tariff policy and WHR earnings.",
    "price_since": {
     "ticker": "WHR",
-    "pct": 1.9,
+    "pct": -1.9,
     "base": 39.42,
-    "last": 40.17,
+    "last": 38.67,
     "base_date": "2026-06-30",
-    "last_date": "2026-07-01"
+    "last_date": "2026-07-02"
    }
   },
   {
@@ -2605,22 +2790,6 @@
     "base_date": "2026-06-24",
     "last_date": "2026-06-25"
    }
-  },
-  {
-   "date": "2026-06-24T05:49:35Z",
-   "platform": "News",
-   "text": "Trump admits selling IBM\u2019s stock was a mistake. Now he\u2019s cheering its quantum future. - MSN \u2014 Trump admits selling IBM\u2019s stock was a mistake. Now he\u2019s cheering its quantum future.\u00a0\u00a0MSN",
-   "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQT043MVh5ckhpY3NOTlk2U1J1QmYzQzRKdlhLQWdEWFowbV9jVHdmT2lYNDN1dF82c1E1ZTFQZjBaVUczcmYtMDJnR1VIYVJtaWFocGxWWm42SmZFcTBBZVYtRnBGSTU0RXhJQnJ6dDRBTmxRcVY2Y1ZTeXpqQWZpaGNlcW84c1BYOHlKSWMtNnhRSGZFUlJfdDRjLWx4TXdVY0hvQXFScUY1eGUxN08ybEMzZ3VTckkwUXk4VE1DUWdMdFBCU2UwcmJyTlVpOFJ6NmN4Rmh1cFBjanZudW9ubGlZVVNrZk9PNzJNM1N0MngxTkh4b3VlMEUyaHBycVVOY0F3Ng?oc=5",
-   "tickers": [
-    "IBM"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "IBM",
-   "strength": 70,
-   "reason": "Trump admits IBM stock sale was a mistake and now cheering its quantum future; explicit reversal and renewed praise."
   },
   {
    "curated": true,
