@@ -1,7 +1,39 @@
 {
- "last_updated": "2026-07-02T15:24:20Z",
+ "last_updated": "2026-07-02T17:11:04Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-07-02T16:43:20Z",
+   "platform": "News",
+   "text": "Micron stock extends decline despite Trump's praise and bullish analyst views - Invezz \u2014 Micron stock extends decline despite Trump's praise and bullish analyst views\u00a0\u00a0Invezz",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUFNTanVMdXFSRHF6RnRjZ3UzYUtmRlE5MXhWV1VyMFJJN1cwUXhMTzl3djM0WnhLZjlUODZJTk1rdmhoaEFkUmpsU1ZfWGxvb0g1QnFUaTMza19aT1d2c3NtZU5TX25mVTFPd2psQVNUM1JOc09oY3dQQWlvaFRoRUdkSldkazY0RnVGZHktdkdIMWI5OVBYaXhuUFU5bTNJdHIySDZvMTFYVV9jOVNITzh6MFVMUQ?oc=5",
+   "tickers": [
+    "MU"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "MU",
+   "strength": 45,
+   "reason": "Trump praised Micron as 'great' company; however stock fell despite praise, suggesting market skepticism or other headwinds dominating"
+  },
+  {
+   "date": "2026-07-02T16:11:14Z",
+   "platform": "News",
+   "text": "Trump Made Hundreds of Stock Trades One Day Before Pausing Tariffs - The New Republic \u2014 Trump Made Hundreds of Stock Trades One Day Before Pausing Tariffs\u00a0\u00a0The New Republic",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNX3ZRRkN1LVNud0g1eHNWNGQ1b3I3ek9pVHBZcVJfZVVkYmdTN3dlVTRwV0hmWjQ2YTlSWF91YmZYZWh0ZnpIVmZmekZKY2JoZmk3V3RLUFRmU2h2OFB3eEotT0JxamJiclZCWFY2WkJDRHRtbUI1YklQVzNNSmpWX08zTXlzWmI0V09v?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "SPY",
+   "strength": 35,
+   "reason": "Trump made large stock trades before pausing tariffs; unclear intent but raises questions about market timing and policy direction"
+  },
   {
    "date": "2026-07-02T14:49:00Z",
    "platform": "News",
@@ -19,6 +51,22 @@
    "reason": "Trump calls Micron 'Great' company; explicit praise of named public company, but market reaction mixed/skeptical."
   },
   {
+   "date": "2026-07-02T14:14:00Z",
+   "platform": "News",
+   "text": "Michael Burry Says He\u2019s Still Short Palantir After Stock Sees Recovery Following Trump\u2019s Endorsement - Stocktwits \u2014 Michael Burry Says He\u2019s Still Short Palantir After Stock Sees Recovery Following Trump\u2019s Endorsement\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUmNQdmN5STJOLU11dEhkR1U0ckhuS3JMcm1NUDNMY0dNZ1pQcGhFVmd2bkZqVHV5N3N4N01tY1gzZWZnTDlvbVRzTEtkQnZyUjlibXR1ZUJ5MnVNY0ZlYlVEUWtRMkdnRzBGcmxpdEJaQm55ZWlTWmZZUDBPNnhncTFlLWg3bjllZXNpeGpTVjd3b3dCZ2lWT1dPZE5RSlNKT01IVXlTa1c5YmFodzVEWkJtbHpvUHN1Ry00NWhxcVJpdw?oc=5",
+   "tickers": [
+    "PLTR"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "PLTR",
+   "strength": 40,
+   "reason": "Trump's endorsement boosted Palantir stock but prominent short-seller maintains bearish view; bidirectional tension unresolved"
+  },
+  {
    "date": "2026-07-02T13:23:28.727Z",
    "platform": "Truth Social",
    "text": "How about this? Micron, a GREAT American Company, announced that they are putting in 250 Million Dollars into the Trump Accounts for the future benefit of children, and their stock went up 9 points today. Thank you Micron! President DJT",
@@ -34,6 +82,54 @@
    "primary_ticker": "MU",
    "strength": 70,
    "reason": "Trump explicitly praises Micron as 'GREAT American Company' and announces $250M investment in Trump Accounts; direct endorsement with concrete corporate commitment."
+  },
+  {
+   "date": "2026-07-02T12:55:31Z",
+   "platform": "News",
+   "text": "Nvidia Is Making it Easier for AI Startups to Get Compute Power With a New Cloud and Revenue-Sharing Program - Benzinga \u2014 Nvidia Is Making it Easier for AI Startups to Get Compute Power With a New Cloud and Revenue-Sharing Program\u00a0\u00a0Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQb3Z4RF9GWE9ObmNWbGMtNEdsSExheXFkcjJmWHZTNDVGc3RRaHZYc0U4R3NTM0x1NnRLVm5ucDh2RUVUOUg2ZVZmNnF5alppdXJuTnBKY0cyUVFiX1ppbDFVQW5odV9XaTJYTTc5bHZqMzBLV01uT2xJcFJSUjcwbU9LUlRhYVZIODJEa3IwMVN1SW1QRk9QSzNHeHpaMlNzdkhWclJZbFJveEU5UW9Zal9DRjFvN2xBX3JMTWExZjNVd3ozRlVsSFdJeHdVT09YVDhpQlBZSkVPNWtIYUZzX1FsZTAxaWpodDNVazJtMURiN1U?oc=5",
+   "tickers": [
+    "NVDA"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "NVDA",
+   "strength": 55,
+   "reason": "Nvidia launches new cloud/revenue-sharing program for AI startups; bullish product expansion signal for market leader"
+  },
+  {
+   "date": "2026-07-02T12:39:30Z",
+   "platform": "News",
+   "text": "Why Is Sandisk Stock Falling on Thursday? - Benzinga \u2014 Why Is Sandisk Stock Falling on Thursday?\u00a0\u00a0Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcU82cnJGaFc2MGtqWDNYUGNhNDdSckJ6YmxfNEY3MktZVXhyTktvTUwtNWczS0RiUXJtREVlVlFVOTJCbG1WYmk2OG9memVnQnp0TmkxMk56UnRHbHZ3QUVCdVJpSmthdE91QzlZd2FIczVEYVhRUFlUSGtGQ3BKQ3ZvcktZZktjVTV5cUU1akN5QXlDb3JUNF9YNU5XOWI4SFc2NzZB?oc=5",
+   "tickers": [
+    "SNDK"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "SNDK",
+   "strength": 30,
+   "reason": "SanDisk stock falls; likely part of memory sector weakness indicated in related headlines"
+  },
+  {
+   "date": "2026-07-02T12:33:24Z",
+   "platform": "News",
+   "text": "Vertex Says Casgevy Label Expansion Opens Treatment to 5,500 More Us Children - Benzinga \u2014 Vertex Says Casgevy Label Expansion Opens Treatment to 5,500 More Us Children\u00a0\u00a0Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNLVgwTkR4RmdmQXJWS25NSjZzRUdfak9VZ1FQMjVlZEpiRDR3UnFMZzVHU0NyVjlnU05qc3l4U09aSjdHY3l1eXFha0U1UmxKSWxoRnNjY25vTHZDaUhPc2RUQWM1RF9zUERRTm5BRUxoRWd3R2JsUUl5SVBiaTZDc2ZqeTBaWVBRREFZbnFMUkphRmw4OXQ0aER5RVRsTzJ3VWwzVkZWWkZSRWZOdG1oSTdnbVFFNUo4SmVEWEt0eTFOdTg?oc=5",
+   "tickers": [
+    "VERV"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "VERV",
+   "strength": 60,
+   "reason": "Vertex expands Casgevy label to 5,500 more US children; label expansion is concrete bullish catalyst for revenue growth"
   },
   {
    "date": "2026-07-02T12:02:47.999Z",
@@ -69,6 +165,22 @@
    "reason": "Trump praises Micron's $250M Trump Accounts commitment and CEO highlights $200B US investment; explicit endorsement tied to major capex pledge."
   },
   {
+   "date": "2026-07-02T10:23:14Z",
+   "platform": "News",
+   "text": "What's Going on With Micron Technology Stock Thursday? - Benzinga \u2014 What's Going on With Micron Technology Stock Thursday?\u00a0\u00a0Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMzV5WXhwajV6UWdNTFBraW1nemdsY28xTm1BdGp3YnJUOUpaRVBiTmh4SFRBRm1FYVpYbUxWUEMyQnQzNE1kYzExMTA5SnltcDFfX0drUFl1dTROWVFabmZXT01Yd2hhT2dpNGVnUFZJQ3F5MVE0TnRQTzl2MHhWbnRxVmpiV0N0SHEzSjB3bGhiUlM3RnByaGlabW4xZGlwZE5lVlVaT29QdlE?oc=5",
+   "tickers": [
+    "MU"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "MU",
+   "strength": 35,
+   "reason": "Benzinga asks why Micron stock fell on Thursday; likely commentary on weakness despite positive Trump statements"
+  },
+  {
    "date": "2026-07-02T09:13:30Z",
    "platform": "News",
    "text": "Trump Praises Micron's $250 Million Trump Accounts Commitment as CEO Highlights $200 Billion US Investmen - Benzinga \u2014 Trump Praises Micron's $250 Million Trump Accounts Commitment as CEO Highlights $200 Billion US Investmen\u00a0\u00a0Benzinga",
@@ -85,6 +197,22 @@
    "reason": "Trump explicitly praises Micron's investment commitment and $200B US investment plan"
   },
   {
+   "date": "2026-07-02T09:13:30Z",
+   "platform": "News",
+   "text": "Trump Praises Micron's $250 Million Trump Accounts Commitment as CEO Highlights $200 Billion US Investment - inkl \u2014 Trump Praises Micron's $250 Million Trump Accounts Commitment as CEO Highlights $200 Billion US Investment\u00a0\u00a0inkl",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUGpaUk95R1h2cW45YUZYQXM5SE9pWllFX0t1Y1h1b1JRdFlaQnQ2Zmx2TGFsWnZON2hHYWFRVnJhVWxWRG4zVGhWNjlPMkNxOVpLTTVMYTdld0RpRzFhaEVSRjlpV3VmUHhoUUV0amYwanB3UWg0LUkwM0xmajJpV09GZjRQOHBsTFpibWpQWW5iN1NXcWFWeVhDS1lIN0VoaFhmcnJTRzRBODNmLUs2YW9OSFZEUWt6a00teUhReWhMb3I2b3VhejgwUjVEVlVIUnc?oc=5",
+   "tickers": [
+    "MU"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "MU",
+   "strength": 65,
+   "reason": "Trump praises Micron's $250M Trump Accounts commitment and CEO highlights $200B US investment; explicit positive call with corporate commitment"
+  },
+  {
    "date": "2026-07-02T06:12:14Z",
    "platform": "News",
    "text": "Trump just called Micron the 'hottest' company in the world. The market yawned and dumped it 10% - MSN \u2014 Trump just called Micron the 'hottest' company in the world. The market yawned and dumped it 10%\u00a0\u00a0MSN",
@@ -99,6 +227,38 @@
    "primary_ticker": "MU",
    "strength": 55,
    "reason": "Trump's praise for Micron coincided with 10% market dump; explicit signal contradicted by market action"
+  },
+  {
+   "date": "2026-07-02T05:52:33Z",
+   "platform": "News",
+   "text": "MU, SNDK, STX, WDC stocks extend slide overnight as memory pump fades: Retail traders hopeful for rebound - MSN \u2014 MU, SNDK, STX, WDC stocks extend slide overnight as memory pump fades: Retail traders hopeful for rebound\u00a0\u00a0MSN",
+   "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNOFNRSkdPcHktcnNidmdDUk83WW5iYVBrSHZIQ1NKdlRvUzhIbGh4YW9fR1dvQkdfLTVldmg0NUkzNWpocC1XZFZEZ0NUVEFxM0REVEhYTVBTa0kyNTZtVjNxVVhOeGZHWmZlVlNJVEFVbTRGTHJXRHhXcW5XYmg5VXJfS05OX3VQVHF1ZUZMeFpBNDg1NHdjTS1QbmtSN0pnYjVhWHowSF81ckVoZFN4U0tlUnpzZzJxMWM3WnlBV0xsdmFBcGdtR01XLWo5eGROSkNuNVN3WlRYb2NrQTBIUnJZQ29FSFlMemkyMEVUazg3QU5VaDdOVXlWbTEtajhQRnVuZmNfWlppT3c?oc=5",
+   "tickers": [
+    "SMH"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "SMH",
+   "strength": 50,
+   "reason": "Memory sector stocks (MU, SNDK, STX, WDC) extend slide as memory industry rally fades; broad semiconductor weakness signal"
+  },
+  {
+   "date": "2026-07-02T04:00:00Z",
+   "platform": "News",
+   "text": "MU, SNDK, STX, WDC Stocks Extend Slide Overnight As Memory Pump Fades: Retail Traders Hopeful For Rebound - Stocktwits \u2014 MU, SNDK, STX, WDC Stocks Extend Slide Overnight As Memory Pump Fades: Retail Traders Hopeful For Rebound\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPb0VPUHFyT3dNU1BkR3RTbUZ5dENaV0tfUUViMzZzVDJDcXZFVWdxZ1Raa3N4SkFYX0E3enVNUzdxN193Q1lkUVVfdUtqNkhJelJLUkwzVmhMYUEtWDBsRmw4LV9mQmVCQlMyUFJ2a3lZT0Z1QWF3clF0eUtPa2JsMDJGT3pJcEdiNVpTWHFobGxIUlRCeEV5N1dYQUp5LV9Pbjlyc1FNeS03OGhUZTViX29RTmM5d1BpalVIWDNTUDFja2lRb1FnY19pSi0zRXozSUNzaUJKS0tpdFcwa0NWbG94dzBvWnItOHF1dVNQM29Kc2h1SF9FUg?oc=5",
+   "tickers": [
+    "SMH"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "SMH",
+   "strength": 50,
+   "reason": "Memory stocks (MU, SNDK, STX, WDC) continue decline as rally momentum fades; sector weakness signal"
   },
   {
    "date": "2026-07-01T23:53:49.941Z",
@@ -118,9 +278,9 @@
    "reason": "Trump claims oil prices plummeting and highlights gas price cuts; bullish energy/oil tone aligned with drill policy.",
    "price_since": {
     "ticker": "XLE",
-    "pct": 1.0,
+    "pct": 0.6,
     "base": 52.81,
-    "last": 53.33,
+    "last": 53.12,
     "base_date": "2026-07-01",
     "last_date": "2026-07-02"
    }
@@ -142,9 +302,9 @@
    "reason": "Trump explicitly praised Micron as 'hottest' company; despite market sell-off, the praise is a bullish signal even if market disagrees",
    "price_since": {
     "ticker": "MU",
-    "pct": -3.8,
+    "pct": -6.1,
     "base": 1032.28,
-    "last": 993.1,
+    "last": 969.38,
     "base_date": "2026-07-01",
     "last_date": "2026-07-02"
    }
@@ -166,9 +326,9 @@
    "reason": "Trump's personal stock purchase in Axon drove rally; direct bullish signal from insider buying.",
    "price_since": {
     "ticker": "AXON",
-    "pct": -1.8,
+    "pct": 0.4,
     "base": 593.96,
-    "last": 583.22,
+    "last": 596.45,
     "base_date": "2026-07-01",
     "last_date": "2026-07-02"
    }
@@ -190,9 +350,33 @@
    "reason": "Trump explicitly endorsed Dell; stock spiked to record highs on endorsement",
    "price_since": {
     "ticker": "DELL",
-    "pct": -6.9,
+    "pct": -8.2,
     "base": 425.25,
-    "last": 396.09,
+    "last": 390.56,
+    "base_date": "2026-07-01",
+    "last_date": "2026-07-02"
+   }
+  },
+  {
+   "date": "2026-07-01T21:48:22Z",
+   "platform": "News",
+   "text": "IBRX Stock Rallies Into Trump\u2019s Big SOTU Night \u2014 Here\u2019s What Traders Think Could Fuel The Next Move - Stocktwits \u2014 IBRX Stock Rallies Into Trump\u2019s Big SOTU Night \u2014 Here\u2019s What Traders Think Could Fuel The Next Move\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWFdFall2YVNMN3Rialp3SE9sU0h6YUQ1MDFiX2JaeXMxNlFFZUZveFU0TkVxUFI4cTQ5bW5VdkFlTDd1dFNwSUN2YTRtRl83aVRRXzZ6d09TeEhlR1NJb1JaMHlMWDhrQXpmZW40c1B1Y21KNjhxdm90Ny1uU3p4MzJZSW9GNGduMEdyRzFIU2RGLWlYWXg4TFJUU0N6ZlhFemxtUmprVXY0YkVRZk5vZHljazQ?oc=5",
+   "tickers": [
+    "IBRX"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "IBRX",
+   "strength": 45,
+   "reason": "IBRX rallies into Trump's State of the Union; suggests market positioning around policy announcements but direction unclear",
+   "price_since": {
+    "ticker": "IBRX",
+    "pct": -0.3,
+    "base": 9.2,
+    "last": 9.17,
     "base_date": "2026-07-01",
     "last_date": "2026-07-02"
    }
@@ -230,9 +414,9 @@
    "reason": "Trump explicitly disclosed holdings and 'doubles down' on Axon before federal agency expansion\u2014direct Trump endorsement of a named stock tied to policy tailwind.",
    "price_since": {
     "ticker": "AXON",
-    "pct": -1.8,
+    "pct": 0.4,
     "base": 593.96,
-    "last": 583.22,
+    "last": 596.45,
     "base_date": "2026-07-01",
     "last_date": "2026-07-02"
    }
@@ -254,9 +438,9 @@
    "reason": "Trump credits stock market gains, broad positive sentiment on equities",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.0,
+    "pct": -0.6,
     "base": 745.76,
-    "last": 745.43,
+    "last": 741.48,
     "base_date": "2026-07-01",
     "last_date": "2026-07-02"
    }
@@ -278,9 +462,9 @@
    "reason": "Trump explicitly hails Micron's $250M investment announcement",
    "price_since": {
     "ticker": "MU",
-    "pct": -3.8,
+    "pct": -6.1,
     "base": 1032.28,
-    "last": 993.52,
+    "last": 969.65,
     "base_date": "2026-07-01",
     "last_date": "2026-07-02"
    }
@@ -302,9 +486,9 @@
    "reason": "Trump notes stock market strength is benefiting everyone; generic bullish sentiment on equities",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.0,
+    "pct": -0.6,
     "base": 745.76,
-    "last": 745.43,
+    "last": 741.53,
     "base_date": "2026-07-01",
     "last_date": "2026-07-02"
    }
@@ -326,9 +510,9 @@
    "reason": "General statement that stock market up benefits everyone; macro bullish tone but no specific catalyst",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.0,
+    "pct": -0.6,
     "base": 745.76,
-    "last": 745.43,
+    "last": 741.56,
     "base_date": "2026-07-01",
     "last_date": "2026-07-02"
    }
@@ -350,9 +534,9 @@
    "reason": "Market-favorable sentiment; broad positive comment on stock gains, but no specific catalyst or actionable signal",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.0,
+    "pct": -0.6,
     "base": 745.76,
-    "last": 745.43,
+    "last": 741.56,
     "base_date": "2026-07-01",
     "last_date": "2026-07-02"
    }
@@ -390,9 +574,9 @@
    "reason": "Trump's proposed inverter import curbs bullish for solar stocks",
    "price_since": {
     "ticker": "TAN",
-    "pct": -1.6,
+    "pct": -3.5,
     "base": 57.8,
-    "last": 56.85,
+    "last": 55.75,
     "base_date": "2026-07-01",
     "last_date": "2026-07-02"
    }
@@ -414,9 +598,9 @@
    "reason": "Micron committed $250M to Trump accounts, signaling strong business relationship and potential favorable treatment",
    "price_since": {
     "ticker": "MU",
-    "pct": -3.7,
+    "pct": -6.1,
     "base": 1032.28,
-    "last": 993.66,
+    "last": 969.3,
     "base_date": "2026-07-01",
     "last_date": "2026-07-02"
    }
@@ -438,9 +622,9 @@
    "reason": "Political criticism of Trump stock purchases; unclear market implication without details on contract legitimacy",
    "price_since": {
     "ticker": "AXON",
-    "pct": -1.8,
+    "pct": 0.4,
     "base": 593.96,
-    "last": 583.22,
+    "last": 596.45,
     "base_date": "2026-07-01",
     "last_date": "2026-07-02"
    }
@@ -754,30 +938,6 @@
     "pct": -1.4,
     "base": 53.58,
     "last": 52.81,
-    "base_date": "2026-06-29",
-    "last_date": "2026-07-01"
-   }
-  },
-  {
-   "date": "2026-06-29T23:04:57Z",
-   "platform": "News",
-   "text": "Michael Burry Says He\u2019s Still Short Palantir After Stock Sees Recovery Following Trump\u2019s Endorsement - Stocktwits \u2014 Michael Burry Says He\u2019s Still Short Palantir After Stock Sees Recovery Following Trump\u2019s Endorsement\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUmNQdmN5STJOLU11dEhkR1U0ckhuS3JMcm1NUDNMY0dNZ1pQcGhFVmd2bkZqVHV5N3N4N01tY1gzZWZnTDlvbVRzTEtkQnZyUjlibXR1ZUJ5MnVNY0ZlYlVEUWtRMkdnRzBGcmxpdEJaQm55ZWlTWmZZUDBPNnhncTFlLWg3bjllZXNpeGpTVjd3b3dCZ2lWT1dPZE5RSlNKT01IVXlTa1c5YmFodzVEWkJtbHpvUHN1Ry00NWhxcVJpdw?oc=5",
-   "tickers": [
-    "PLTR"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "PLTR",
-   "strength": 35,
-   "reason": "Trump endorsement boosted PLTR but major short thesis (Burry) remains; mixed signal",
-   "price_since": {
-    "ticker": "PLTR",
-    "pct": 8.7,
-    "base": 115.7,
-    "last": 125.73,
     "base_date": "2026-06-29",
     "last_date": "2026-07-01"
    }
@@ -1229,30 +1389,6 @@
     "pct": 3.3,
     "base": 7.49,
     "last": 7.74,
-    "base_date": "2026-06-29",
-    "last_date": "2026-06-30"
-   }
-  },
-  {
-   "date": "2026-06-29T03:51:32Z",
-   "platform": "News",
-   "text": "IBRX Stock Rallies Into Trump\u2019s Big SOTU Night \u2014 Here\u2019s What Traders Think Could Fuel The Next Move - Stocktwits \u2014 IBRX Stock Rallies Into Trump\u2019s Big SOTU Night \u2014 Here\u2019s What Traders Think Could Fuel The Next Move\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWFdFall2YVNMN3Rialp3SE9sU0h6YUQ1MDFiX2JaeXMxNlFFZUZveFU0TkVxUFI4cTQ5bW5VdkFlTDd1dFNwSUN2YTRtRl83aVRRXzZ6d09TeEhlR1NJb1JaMHlMWDhrQXpmZW40c1B1Y21KNjhxdm90Ny1uU3p4MzJZSW9GNGduMEdyRzFIU2RGLWlYWXg4TFJUU0N6ZlhFemxtUmprVXY0YkVRZk5vZHljazQ?oc=5",
-   "tickers": [
-    "IBRX"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "IBRX",
-   "strength": 30,
-   "reason": "Rally noted around SOTU but no clear Trump catalyst stated; direction and strength unclear.",
-   "price_since": {
-    "ticker": "IBRX",
-    "pct": -0.1,
-    "base": 8.77,
-    "last": 8.76,
     "base_date": "2026-06-29",
     "last_date": "2026-06-30"
    }
@@ -2715,78 +2851,6 @@
     "pct": 1.2,
     "base": 13.81,
     "last": 13.98,
-    "base_date": "2026-06-24",
-    "last_date": "2026-06-25"
-   }
-  },
-  {
-   "date": "2026-06-24T08:15:59Z",
-   "platform": "News",
-   "text": "NOK Stock Rises Pre-Market: Trump Endorsement Adds Fuel To AI Growth Push For Nokia - TradingView \u2014 NOK Stock Rises Pre-Market: Trump Endorsement Adds Fuel To AI Growth Push For Nokia\u00a0\u00a0TradingView",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSE4wQy15cVlzRHpqTzgwUGRuUGZNT2hGWVV0dTFBU29LYnVObmdfblNjTGs4d1V4V0hhYmJPcDV2SmZMd2pRcXpnZUZwWXpjcWtoeXFSWmRaODUyZFlCdXVlajZ4OUU0Yy1JT0dIdkZlYmRpVEFkX243cGEwZ3Ntc1dpOVNRY0lXLVZSZG96UWZfU2wwODBMc3ZqSjFiTWxUajhKZDZFNVlWd1o5VV9rUDB4V3RVZVhtY0Zfakt5d3pVd0hUNzJvYVpoREt1STZqMUxQb3lFZU9TcTA?oc=5",
-   "tickers": [
-    "NOK"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "NOK",
-   "strength": 78,
-   "reason": "Trump endorsement of Nokia with explicit focus on AI growth; direct named company praise driving pre-market rise.",
-   "price_since": {
-    "ticker": "NOK",
-    "pct": 1.2,
-    "base": 13.81,
-    "last": 13.98,
-    "base_date": "2026-06-24",
-    "last_date": "2026-06-25"
-   }
-  },
-  {
-   "date": "2026-06-24T07:24:55Z",
-   "platform": "News",
-   "text": "Why Is IBM Stock Soaring Tuesday? - Sahm \u2014 Why Is IBM Stock Soaring Tuesday?\u00a0\u00a0Sahm",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcWRPb0x2Tm4zUktNZEpSZmxjTzFCenVtZ016eVFSVDVhaGRwdEdGYkMzRHhjSENSYkRCNjByTF9KYTk5V0NMbktGZWp6QkctX0tUSDZENExwNmJIb3dPTFp2R0Z3U21GWWNORElXWEtmSVVMQUgzQzVpVS1oelg0RWNIUVU1YkJWazI3Zw?oc=5",
-   "tickers": [
-    "IBM"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "IBM",
-   "strength": 50,
-   "reason": "IBM stock soaring but reason unclear; likely tied to Trump praise and quantum award",
-   "price_since": {
-    "ticker": "IBM",
-    "pct": -1.3,
-    "base": 262.96,
-    "last": 259.42,
-    "base_date": "2026-06-24",
-    "last_date": "2026-06-25"
-   }
-  },
-  {
-   "date": "2026-06-24T07:21:50Z",
-   "platform": "News",
-   "text": "Trump Admits Regret Over Selling IBM Stock Too Soon After Praising CEO For 'Leading Fab' In US Chip Push\u2014 'Not A Good Move' - Sahm \u2014 Trump Admits Regret Over Selling IBM Stock Too Soon After Praising CEO For 'Leading Fab' In US Chip Push\u2014 'Not A Good Move'\u00a0\u00a0Sahm",
-   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPTEV4MmVkMDhXU20wTTJncDVIdkljVG85cTFLQ3Z2cmgyX0N6QXFaTzZOblRXRmJMYlU1RHByWWlVOW5LOUpaZktPLVRXWWJYcGROVGRTQVBWRHRReE9ZTlAtcGJNbGc1bW1ldFhDYXBwTFlkQ19LbVVvMnBFU3FIelE5WGJkdEd1dVFjVU9FZlh0NGhDWnZTNGR0WDZJZkhjeXA5a0VBaXNpMm1Pbl9RX3czYjZwUkdyRGc4cko1ZmNzU0RsbzhVUDB1RG5tWWZlaTUtc0dpRmpBZ0ZsS3BvTF9iTTdqaHFNSUJWM1hEX3JSWG1oaVN0bVk3cXBHMmc?oc=5",
-   "tickers": [
-    "IBM"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "IBM",
-   "strength": 75,
-   "reason": "Trump regrets selling IBM stock, now praising its fab/quantum push; strong bullish reversal signal",
-   "price_since": {
-    "ticker": "IBM",
-    "pct": -1.3,
-    "base": 262.96,
-    "last": 259.42,
     "base_date": "2026-06-24",
     "last_date": "2026-06-25"
    }
