@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-07-02T17:11:04Z",
+ "last_updated": "2026-07-02T18:48:56Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-07-02T17:21:00Z",
+   "platform": "News",
+   "text": "Trump Calls Micron a \u2018Great\u2019 Company but Can\u2019t Stop the Stock From Falling - Barron's \u2014 Trump Calls Micron a \u2018Great\u2019 Company but Can\u2019t Stop the Stock From Falling\u00a0\u00a0Barron's",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBRbTllZDJkTEI4dEZiamNSUlFUamZwWVdFSHpEbVZIUG5sTjk5ZzZUano5b2Rsdi11LU1uNE5oV08wbEd0eldVN2xOQ2ZRSGNiV2RLRWdMME84YXpYV2pjN3JIN1NMN0hzcndQbW9RRUdXMjdU?oc=5",
+   "tickers": [
+    "MU"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "MU",
+   "strength": 45,
+   "reason": "Trump praises Micron as great; stock fell anyway, signal weakened by contradictory price action"
+  },
   {
    "date": "2026-07-02T16:43:20Z",
    "platform": "News",
@@ -229,6 +245,22 @@
    "reason": "Trump's praise for Micron coincided with 10% market dump; explicit signal contradicted by market action"
   },
   {
+   "date": "2026-07-02T06:11:00Z",
+   "platform": "News",
+   "text": "TONX Stock Heads For Weekly Win: TON Strategy Bets On \u2018Undervalued\u2019 Shares With New Repurchase Plan - Stocktwits \u2014 TONX Stock Heads For Weekly Win: TON Strategy Bets On \u2018Undervalued\u2019 Shares With New Repurchase Plan\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPUGpJTzdjQjdaVWlPS2stWlU2enczS0NGNG9QeUFxWWtQZHIzSE5YVEhWVjdSS1ZPeWIyb1hnVmE1blhPYUg1azVISm1rM016WkVUUjBjOW52M3hzZFRlZjQ3T01TRExBX3M0aWZDNmIxZTlHWXM5WGVweTg4bWx0RFBXcTNMbjFLXzhkRldaQzJHazh6QllZRGhlRWpCWG9iUGljREVIQVlERTJvQXFDRkhDVXNRVTA1VFRRLXhCbEpYNFFGSVZLbHJrX0NvSFBtZ3R4MlNvZWdfeWxhZmpyOWM1WDVCSlRMLTB0YndqNTNFUQ?oc=5",
+   "tickers": [
+    "TONX"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "TONX",
+   "strength": 20,
+   "reason": "Stock buyback program; neutral technical event"
+  },
+  {
    "date": "2026-07-02T05:52:33Z",
    "platform": "News",
    "text": "MU, SNDK, STX, WDC stocks extend slide overnight as memory pump fades: Retail traders hopeful for rebound - MSN \u2014 MU, SNDK, STX, WDC stocks extend slide overnight as memory pump fades: Retail traders hopeful for rebound\u00a0\u00a0MSN",
@@ -261,6 +293,38 @@
    "reason": "Memory stocks (MU, SNDK, STX, WDC) continue decline as rally momentum fades; sector weakness signal"
   },
   {
+   "date": "2026-07-02T04:00:00Z",
+   "platform": "News",
+   "text": "MU, SNDK, STX, WDC Stocks Extend Slide Overnight As Memory Pump Fades: Retail Traders Hopeful For Rebound - TradingView \u2014 MU, SNDK, STX, WDC Stocks Extend Slide Overnight As Memory Pump Fades: Retail Traders Hopeful For Rebound\u00a0\u00a0TradingView",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQYnRXV2JKVi1wckpsay13dExqcnU1MmtockZYZGwyZVpqNjVpTUp3bDhURnFGbjZwZU1ZRXNKT1JENDVPWUhVY2U2aENfWHhVWTh3eVZ4MjJfZzZ0RUdLdUJ5RUZZTTFweHhvY1k2RWh1WUliRlhrM3ozRG4zZFV6aEg5LXhiRmhBcVJrZnN5UjNvc3NSandCVEo0ZDJweGk0NlpXSWtYb2VaRUZIdGpEakQ4bmF5WWhhYnRnUGdQRFN1bWU3WVJ3WW85eE1zNnZGZ2kzc0szSXQtQ2QtY1F4dVk1bVhtcWlkRVp4TThoMTJOY00z?oc=5",
+   "tickers": [
+    "SMH"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "SMH",
+   "strength": 45,
+   "reason": "Memory sector decline continues; chips weakness"
+  },
+  {
+   "date": "2026-07-02T03:47:24Z",
+   "platform": "News",
+   "text": "Trump Says After Iran, US May Turn Its Attention To Cuba: Report - Stocktwits \u2014 Trump Says After Iran, US May Turn Its Attention To Cuba: Report\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQWZ4TldDMUd6TUpfRWZzZFdHSmNPQ19WdUVQaFl0UWR6dHZwZnA2cUFHUVRpU3cxenFXOVFSaEg1SVc5UWZCMlFLWWtjaEhVMVlFWXhwNjdmN1RZU0NrejZWN29oOXVIS2dzejA1WVhVUDhsOVhWVG84dk9KZ1JFdC1ZWmxmbDFFVGZYNnR5T2JwTGZBZGZFTWxCWWFTc1JUQ0F5VTNCelYwd1psZkoxOG5jNEp1OUg2bDNTbzZOTnE1OGFw?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "SPY",
+   "strength": 35,
+   "reason": "Geopolitical escalation talk; potential conflict risk"
+  },
+  {
    "date": "2026-07-01T23:53:49.941Z",
    "platform": "Truth Social",
    "text": "Just as I promised, Oil Prices are plummeting FAST, and Gas Prices at the pump are dropping too, but not as fast as they should be. As we approach America's 250th Birthday, I am pleased to announce that a VERY smart Retailer, located throughout the Northeast, is stepping up, and wishing the People of Philadelphia a \"Happy Birthday!\" On July 3rd, the Freedom Fuel Network will be lowering gas prices at 25 \"FREEDOM FUEL\" Stations across the Greater Philadelphia Area. This Retailer is taking the lead, and others should follow. They are doing this because they love the U.S.A. We are proud to celebrate America's 250th Birthday in the Great Commonwealth of Pennsylvania, the Birthplace of our very special, one-of-a-kind Declaration of Independence, and where I won BIG in the Presidential Election! America has never been stronger than it is now, and Gas Prices will soon be back to the Record Low Prices Americans enjoyed at the pump before our very successful \"excursion\" in Iran. Happy Birthday America! President DONALD J. TRUMP",
@@ -278,9 +342,9 @@
    "reason": "Trump claims oil prices plummeting and highlights gas price cuts; bullish energy/oil tone aligned with drill policy.",
    "price_since": {
     "ticker": "XLE",
-    "pct": 0.6,
+    "pct": 0.5,
     "base": 52.81,
-    "last": 53.12,
+    "last": 53.08,
     "base_date": "2026-07-01",
     "last_date": "2026-07-02"
    }
@@ -302,9 +366,9 @@
    "reason": "Trump explicitly praised Micron as 'hottest' company; despite market sell-off, the praise is a bullish signal even if market disagrees",
    "price_since": {
     "ticker": "MU",
-    "pct": -6.1,
+    "pct": -5.8,
     "base": 1032.28,
-    "last": 969.38,
+    "last": 972.0,
     "base_date": "2026-07-01",
     "last_date": "2026-07-02"
    }
@@ -326,9 +390,9 @@
    "reason": "Trump's personal stock purchase in Axon drove rally; direct bullish signal from insider buying.",
    "price_since": {
     "ticker": "AXON",
-    "pct": 0.4,
+    "pct": 1.1,
     "base": 593.96,
-    "last": 596.45,
+    "last": 600.36,
     "base_date": "2026-07-01",
     "last_date": "2026-07-02"
    }
@@ -350,9 +414,9 @@
    "reason": "Trump explicitly endorsed Dell; stock spiked to record highs on endorsement",
    "price_since": {
     "ticker": "DELL",
-    "pct": -8.2,
+    "pct": -8.4,
     "base": 425.25,
-    "last": 390.56,
+    "last": 389.64,
     "base_date": "2026-07-01",
     "last_date": "2026-07-02"
    }
@@ -374,9 +438,9 @@
    "reason": "IBRX rallies into Trump's State of the Union; suggests market positioning around policy announcements but direction unclear",
    "price_since": {
     "ticker": "IBRX",
-    "pct": -0.3,
+    "pct": 1.4,
     "base": 9.2,
-    "last": 9.17,
+    "last": 9.33,
     "base_date": "2026-07-01",
     "last_date": "2026-07-02"
    }
@@ -1700,30 +1764,6 @@
    }
   },
   {
-   "date": "2026-06-27T22:24:20Z",
-   "platform": "News",
-   "text": "Trump Says After Iran, US May Turn Its Attention To Cuba: Report - Stocktwits \u2014 Trump Says After Iran, US May Turn Its Attention To Cuba: Report\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQWZ4TldDMUd6TUpfRWZzZFdHSmNPQ19WdUVQaFl0UWR6dHZwZnA2cUFHUVRpU3cxenFXOVFSaEg1SVc5UWZCMlFLWWtjaEhVMVlFWXhwNjdmN1RZU0NrejZWN29oOXVIS2dzejA1WVhVUDhsOVhWVG84dk9KZ1JFdC1ZWmxmbDFFVGZYNnR5T2JwTGZBZGZFTWxCWWFTc1JUQ0F5VTNCelYwd1psZkoxOG5jNEp1OUg2bDNTbzZOTnE1OGFw?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "SPY",
-   "strength": 35,
-   "reason": "Potential new geopolitical escalation (Cuba); adds policy risk to market.",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": 0.8,
-    "base": 741.0,
-    "last": 746.77,
-    "base_date": "2026-06-29",
-    "last_date": "2026-06-30"
-   }
-  },
-  {
    "date": "2026-06-27T22:12:05Z",
    "platform": "News",
    "text": "FDX Stock Tumbles Pre-Market Despite Q4 Beat: CEO Says FedEx Is On Track For 2029 Goals - Stocktwits \u2014 FDX Stock Tumbles Pre-Market Despite Q4 Beat: CEO Says FedEx Is On Track For 2029 Goals\u00a0\u00a0Stocktwits",
@@ -2637,222 +2677,6 @@
     "last": 179.46,
     "base_date": "2026-06-24",
     "last_date": "2026-06-26"
-   }
-  },
-  {
-   "date": "2026-06-24T22:45:00Z",
-   "platform": "News",
-   "text": "Elon Musk loses trillionaire status as SpaceX and Tesla stock drops - The Guardian \u2014 Elon Musk loses trillionaire status as SpaceX and Tesla stock drops\u00a0\u00a0The Guardian",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQa1MzYTc3djA3UUNJOHhEejFzcEZoQVpLYkFLaTVFandYQkdXcENFeTB6WWNwdFlVWENUaGF4NGIyMXhrMnVZZktvRDBZSzhnc0t4c1pCcFJxWVdNTFgwdkFqTUxJNjhtblpaeGFTd2MybHhQS3I5dTEyRGQ5THAwb3ItNWNBQjA?oc=5",
-   "tickers": [
-    "TSLA"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "TSLA",
-   "strength": 50,
-   "reason": "Tesla stock drop reported; indirect read on market sentiment toward Musk/Tesla",
-   "price_since": {
-    "ticker": "TSLA",
-    "pct": 1.1,
-    "base": 375.53,
-    "last": 379.71,
-    "base_date": "2026-06-24",
-    "last_date": "2026-06-26"
-   }
-  },
-  {
-   "date": "2026-06-24T20:25:00Z",
-   "platform": "News",
-   "text": "After 'circling the drain' Trump\u2019s DJT stock finally plops in - Alternet \u2014 After 'circling the drain' Trump\u2019s DJT stock finally plops in\u00a0\u00a0Alternet",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9rYmtwSmR4V0VCSDdLWTEtYndYMlQzTlpJMDdteVdEMUI1OFJTVmFETEs3dFV0YUNLVGR1aGJtU1JpeEtyY3BxOXVCYmEyQ1NZTU5Z?oc=5",
-   "tickers": [
-    "DJT"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "SELL",
-   "primary_ticker": "DJT",
-   "strength": 75,
-   "reason": "Trump's own Truth Social/DJT stock hitting new lows; bearish signal on the asset",
-   "price_since": {
-    "ticker": "DJT",
-    "pct": -1.3,
-    "base": 7.52,
-    "last": 7.42,
-    "base_date": "2026-06-24",
-    "last_date": "2026-06-26"
-   }
-  },
-  {
-   "date": "2026-06-24T18:21:23Z",
-   "platform": "News",
-   "text": "DFTX Vs CMPS: Which Stock Has More Upside From Trump\u2019s New Psychedelic Therapy Push? - Stocktwits \u2014 DFTX Vs CMPS: Which Stock Has More Upside From Trump\u2019s New Psychedelic Therapy Push?\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQ2tKT2FBODN0eXlWZHhOYjBHRmhQdzNDM1dJZkpibWFPZ1lBcXpWcnptTi1iVE4xSFpRMmE0RWZnSkhJVl9DNDROOWNfcjZ1NTdrb24wYllWTkFNMGpfQTRFeWVnY0x2UGwySFFhOWdPOVNrMWhxWC1RWXRqbGozY192cjZ1N1JBNzdzRGZKYXJkeWVoLS1HZjVENTF0YzJBWVlqM2FFSUt2WVNkRFBrUDhBWVU?oc=5",
-   "tickers": [
-    "CMPS"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "CMPS",
-   "strength": 35,
-   "reason": "Trump psychedelic therapy push; ambiguous direction, early-stage catalyst",
-   "price_since": {
-    "ticker": "CMPS",
-    "pct": 14.4,
-    "base": 12.58,
-    "last": 14.39,
-    "base_date": "2026-06-24",
-    "last_date": "2026-06-26"
-   }
-  },
-  {
-   "date": "2026-06-24T18:09:05Z",
-   "platform": "News",
-   "text": "Trump\u2019s Truth Social Stock Just Hit Its Lowest Point Ever - Futurism \u2014 Trump\u2019s Truth Social Stock Just Hit Its Lowest Point Ever\u00a0\u00a0Futurism",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBLWWhicjdjZ1FEWldlSDFDSUtGc0lrc18yR0V3RjZqdUZvcWNoajh3b2g1RXMyTjlfUlB0UWFmd1ZNSzNubnd4VENJSVR6eC1lWW5Vcm1NTm9aR1VlWmdMUTg2TEdUcmlwM3V2bTVCMjRUTUxfRW1BY3RaWUZnZw?oc=5",
-   "tickers": [
-    "DJT"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "SELL",
-   "primary_ticker": "DJT",
-   "strength": 75,
-   "reason": "Trump's Truth Social stock (DJT) hits all-time low; direct bearish signal on his own company",
-   "price_since": {
-    "ticker": "DJT",
-    "pct": -1.5,
-    "base": 7.52,
-    "last": 7.41,
-    "base_date": "2026-06-24",
-    "last_date": "2026-06-26"
-   }
-  },
-  {
-   "date": "2026-06-24T14:43:53Z",
-   "platform": "News",
-   "text": "Trump praised IBM's 'legend' CEO, government floated a $1B quantum award \u2014 is the stock still a 'very nice price'? - MSN \u2014 Trump praised IBM's 'legend' CEO, government floated a $1B quantum award \u2014 is the stock still a 'very nice price'?\u00a0\u00a0MSN",
-   "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOTV9iazNvMDhMT2Jla3lmTHBKMkUwRVotcHpDNy0zOURHdmpGb2Z4Qk8wNGIycm1NS0NucDZGcEVWbWZtdUk2NkNwREUzQ2NpZnBNNmxlMEFTYk94dTFHZU1LdUVKN19PRXRfdFR5elVPWkF5UDY0M0ZzT1hDOHYtM3BwcC0wNDBxd01wUFZQQVRVMGVlMUI4VGVlZnROOHRjbUZyQkNZUXpwMDVtdk9xY292ZHhaXzFjRzBYLUxHanctMDVramo0SXRXQVRmNG10WUNoemc5UzZyQlJRU0c0d0NzTXlHWFZKaHo1a1pNNHIzdFNXYXBtMlhNLW0?oc=5",
-   "tickers": [
-    "IBM"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "IBM",
-   "strength": 72,
-   "reason": "Trump explicitly praised IBM CEO as 'legend' and government considering $1B quantum award; direct positive signal",
-   "price_since": {
-    "ticker": "IBM",
-    "pct": 2.8,
-    "base": 262.96,
-    "last": 270.4,
-    "base_date": "2026-06-24",
-    "last_date": "2026-06-26"
-   }
-  },
-  {
-   "date": "2026-06-24T13:39:36Z",
-   "platform": "News",
-   "text": "Nokia Stock (NOK) Gains after Trump Highlights Chip Production Investment - TipRanks \u2014 Nokia Stock (NOK) Gains after Trump Highlights Chip Production Investment\u00a0\u00a0TipRanks",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZzdKaS1hZlJ0R05FaEtWTDV1N2ZiVndjMjFxbFROWHIxU1c4R3VXamJKQ1BLalFNOG5XQWlxYk9Xa1V1WFY0akgwNEdMUWtxWVpISU1DS3B4MVhLY2haR3QwSkMxcVFUMS0wTEFsbHBHUjhYSWItR3BMd3hhbklheW50eHU2dUxGZGZCcmhvTmlxRll2d0JrN3g5WXF3cmY4Q25n?oc=5",
-   "tickers": [
-    "NOK"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "NOK",
-   "strength": 75,
-   "reason": "Trump highlighted Nokia's chip production investment; explicit praise of named company.",
-   "price_since": {
-    "ticker": "NOK",
-    "pct": -5.7,
-    "base": 13.81,
-    "last": 13.02,
-    "base_date": "2026-06-24",
-    "last_date": "2026-06-26"
-   }
-  },
-  {
-   "date": "2026-06-24T11:10:22Z",
-   "platform": "News",
-   "text": "NOK Stock Rises Pre-Market: Trump Endorsement Adds Fuel To AI Growth Push For Nokia - Stocktwits \u2014 NOK Stock Rises Pre-Market: Trump Endorsement Adds Fuel To AI Growth Push For Nokia\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNaVBkeHg0Vi02NWZ0Tlp5bGh2bjdYaC10MUFVamtBcTFCbjByT05oVmIyeUJQSzFMVGZSLXpFdkd0NVVIMHY3UzNqOFFIQ3FvakVucnM4dms0VXZHQTdlSnJkTXpqdVVJclpEU2lEUUtKYTloWjFFRU5Db2cteVF5UGxkd05LakNaMWZpa1UtaVdodVVIU1I1Vkxjb0kyTG52eFVUaHdkR3Rjb0l4MmpQT2ZMTW5HWWNFdTA2elZuN3ZCckxMa2VrS0FXZm9VNUJWSDBSU2RDMV9WNkJmajVJ?oc=5",
-   "tickers": [
-    "NOK"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "NOK",
-   "strength": 70,
-   "reason": "Trump endorsement of Nokia's AI/chip growth push; bullish named company",
-   "price_since": {
-    "ticker": "NOK",
-    "pct": 1.2,
-    "base": 13.81,
-    "last": 13.98,
-    "base_date": "2026-06-24",
-    "last_date": "2026-06-25"
-   }
-  },
-  {
-   "date": "2026-06-24T08:30:38Z",
-   "platform": "News",
-   "text": "NOK Stock Rises Pre-Market: Trump Endorsement Adds Fuel To AI Growth Push For Nokia - Mena FN \u2014 NOK Stock Rises Pre-Market: Trump Endorsement Adds Fuel To AI Growth Push For Nokia\u00a0\u00a0Mena FN",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcU0wNW9SX21iYko1a0taaEJJOVNLck5WUWZRdmF2c0FyWWZrTWV6NVlXSk9WZll6bERfZFcyM21qR2FjR0oxX01wUndfcExucVdGa0JrQWVPc2ZZRVJaeThJTE81NzJMWlliSXA2cXRrbXQ4MTRkOE1Bc3FndzNKY2FmTUo3dmFMMzZyM0NXU1YyMzlkWEh6UDdjYXEtc0pEQlM1cE9RRmxFcjkyTDFkZ2Rn?oc=5",
-   "tickers": [
-    "NOK"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "NOK",
-   "strength": 75,
-   "reason": "Trump endorsement of Nokia's AI and chip growth push; explicit praise of named company.",
-   "price_since": {
-    "ticker": "NOK",
-    "pct": 1.2,
-    "base": 13.81,
-    "last": 13.98,
-    "base_date": "2026-06-24",
-    "last_date": "2026-06-25"
-   }
-  },
-  {
-   "date": "2026-06-24T08:30:07Z",
-   "platform": "News",
-   "text": "NOK Stock Rises Pre-Market: Trump Endorsement Adds Fuel To AI Growth Push For Nokia - Asianet Newsable \u2014 NOK Stock Rises Pre-Market: Trump Endorsement Adds Fuel To AI Growth Push For Nokia\u00a0\u00a0Asianet Newsable",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQMHluUm92YWR6S1NhYjFNdWUzTGVEdzJWelJHaS1WV1lyc0JqbEhuS3kwVlFEYnl3TFQwRWlfU1Q4QjhJNmhWR3YweWNqNEFndk1walRaSFJDVnc2dUJ5Vk5PZUVweHNjMHdVTDJHMUNManBGcnFkRUpqVHoxaXpCSTRWOEJ6Z2hrdGUtSXRMaFpWVFVYTV9oY2t4RnFqbURJZWw3MU14QmQ1Nzc5c184LTFPTTZ6U25xNkJlMjQ1Q2VLN3ZLS0pTSl9EVXlMS3NTYVJaOWQ1TWVKcTDSAeABQVVfeXFMTzRYUXZ3X2RNYlpfV2otakJJMFpxdXlaMjZDS1BOb1JQeDBVVmJHOS1xcjA5dUZrZ0ljeG4xbjg4cS05bi1ZSHpPX0d4clZnRHRkMW9icGc3ekU5Y2pnZzk2cTcwcGxoQTd5T1JEYWJHUlo0WmxrckNXUzU1Ynh6ZjlleXRyVTZUQUJ3d2lnRVdxZ0FvaWlpSmpiNlRtNk1sLTg5Q18xQjY2VEZmUTNKb091Qm90TElfaUNmbXhWcjlUZ2p5Y1JKRC1EeGZVRFlHSi00QWppZjE3X19oTnQ1Y24?oc=5",
-   "tickers": [
-    "NOK"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "NOK",
-   "strength": 75,
-   "reason": "Trump explicitly endorsed Nokia; direct company praise drives stock up.",
-   "price_since": {
-    "ticker": "NOK",
-    "pct": 1.2,
-    "base": 13.81,
-    "last": 13.98,
-    "base_date": "2026-06-24",
-    "last_date": "2026-06-25"
    }
   },
   {
