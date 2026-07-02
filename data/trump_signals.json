@@ -1,9 +1,9 @@
 {
- "last_updated": "2026-07-02T20:18:36Z",
+ "last_updated": "2026-07-02T21:44:43Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
-   "date": "2026-07-02T18:53:00Z",
+   "date": "2026-07-02T20:16:00Z",
    "platform": "News",
    "text": "Trump Calls Micron a \u2018Great\u2019 Company but Can\u2019t Stop the Stock From Falling - Barron's \u2014 Trump Calls Micron a \u2018Great\u2019 Company but Can\u2019t Stop the Stock From Falling\u00a0\u00a0Barron's",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBRbTllZDJkTEI4dEZiamNSUlFUamZwWVdFSHpEbVZIUG5sTjk5ZzZUano5b2Rsdi11LU1uNE5oV08wbEd0eldVN2xOQ2ZRSGNiV2RLRWdMME84YXpYV2pjN3JIN1NMN0hzcndQbW9RRUdXMjdU?oc=5",
@@ -16,7 +16,23 @@
    "direction": "BUY",
    "primary_ticker": "MU",
    "strength": 45,
-   "reason": "Trump calls Micron 'great', but stock fell despite praise, signal weakened by market rejection"
+   "reason": "Trump praises Micron as 'great' company; explicit positive call on named stock, but market reaction was down\u2014signal weakened by contradictory price action"
+  },
+  {
+   "date": "2026-07-02T19:26:25Z",
+   "platform": "News",
+   "text": "American Eagle's stock soars after Trump praises Sydney Sweeney ad - MSN \u2014 American Eagle's stock soars after Trump praises Sydney Sweeney ad\u00a0\u00a0MSN",
+   "url": "https://news.google.com/rss/articles/CBMilwNBVV95cUxQYUdScGN3czdNWmxhcVE1QVE1ajE5ZVlCdzFWX2ZneWhaaDhSYWhkWkthaDlaRGRLQm96MDUxeU5PbjgyY1pNSTNYTWs4bkhkWnpSQUpvMWFjRGR2RlJUV0hwNXdha2FWVHpQWjE4cWtabWZOb295UUJGX0FiVkV5OFRCMVVtVnB6ZXlaUndtd0tzaUVEVUdscUtVcl9oWm9jLUlVRWtmelpGSW1vWVN3WDM3aGZUS0k4N1FheGswWkZjWlpVQVB1YWZUVXJfd0NUMm8tV2pBbkhNbHRuUEN1Rlh4TW95RThOMVVZX2hueThfUWxNQV8wWWtvbDdVM0xYSTR3TE1vR3JTMkw1bUJEbkg1RXFoNjh5Y3BONC1sc3FZOEMwQU9xYmNwLTFQWnM4cVJOLW41NHRYZmVFWWdNbkhXdmtsbVpHUHNud1ZvR2xRR2pIQ2d2NHR4dm9VR2J2UHoyazZsMjZQdmlyZGgtX3pncFE1TVRLek5aSVI4R2h4LWk5Y2NFVGJOUjdId25TVUJPcFBvQQ?oc=5",
+   "tickers": [
+    "AEO"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "AEO",
+   "strength": 60,
+   "reason": "Trump praises American Eagle ad; stock soared; implicit endorsement of company with confirmed bullish market reaction"
   },
   {
    "date": "2026-07-02T16:43:20Z",
@@ -430,9 +446,9 @@
    "reason": "Trump explicitly endorsed Dell; stock spiked to record highs on endorsement",
    "price_since": {
     "ticker": "DELL",
-    "pct": -7.2,
+    "pct": -7.3,
     "base": 425.25,
-    "last": 394.48,
+    "last": 394.32,
     "base_date": "2026-07-01",
     "last_date": "2026-07-02"
    }
@@ -2597,31 +2613,6 @@
    "primary_ticker": "SPY",
    "strength": 45,
    "reason": "Iran vote signals potential geopolitical de-escalation and reduced conflict risk; broad market tailwind"
-  },
-  {
-   "date": "2026-06-25T03:15:06.253Z",
-   "platform": "Truth Social",
-   "text": "Wow! The Senate just changed its vote on Iran from 50-48 against, to 50-47 for. Rand Paul and Bill Cassidy changed. Thank you to Leader John Thune, Lindsey Graham, Bernie Moreno, and all. This vote puts Iran on notice! President DJT",
-   "tickers": [
-    "SPY"
-   ],
-   "engagement": 6197,
-   "url": "https://truthsocial.com/@realDonaldTrump/116808568420301784",
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "SPY",
-   "strength": 45,
-   "reason": "Iran vote signals potential geopolitical de-escalation and reduced conflict risk; broad market tailwind",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": -0.7,
-    "base": 734.3,
-    "last": 728.99,
-    "base_date": "2026-06-25",
-    "last_date": "2026-06-26"
-   }
   },
   {
    "curated": true,
