@@ -1,22 +1,39 @@
 {
- "last_updated": "2026-07-02T00:07:28Z",
+ "last_updated": "2026-07-02T04:31:25Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
-   "date": "2026-07-02T00:00:31Z",
+   "date": "2026-07-02T00:48:25Z",
    "platform": "News",
    "text": "Trump just called Micron the 'hottest' company in the world. The market yawned and dumped it 10% - MSN \u2014 Trump just called Micron the 'hottest' company in the world. The market yawned and dumped it 10%\u00a0\u00a0MSN",
-   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNNUEtTzg4M2ZZa0pKdlMwWjdIOEc5V0M5dW9OVVVMd2JmLUhqWlZiSGUyX0k2MGxiOGtPeG1GbGlBbk5sN2ZQWVRKVlQtZ3d0bXozc0lhWjJLWG9zVDBNMzBlc2R4MlFMdjIzcHhUMlRfM291YVdZLXRNRWF0OHp1cjRWMHJsZ1JkNC1GRWl2Y2NfZGs4MU5rM2xZRjBPLUhQQ0kzTnMzTDJZeW1WS0FfY0M4U1hab1lWbHBUR3p0a0xCSlRCcWhsQ1c2TVczRE9mOU5ZVjBNUkV2VURUYlV2REszclg4NTdDRFpsaVh5cDdvSklvblljZVBXMlE3WGdKQmc?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQWGNUeVp4cldfQURkdFZxRnlMaDg2MWZPeGRxT2pQeEJ0ODF4dkhXYW5EQXlkejFuVFZITE5fSkRMbXFpM25sQk9ULWR4VENuNUZwOVdXT0Z5NUdxeUh1RFlFZmRpSENCaVZRQ255TlV1bzRXTy1WSW5wMVNreE5GOHBqdTJfcjI5eDcxZERNRFdQN2FzUGMwODhBX0c5WFNPTWZtcUlJMl9jNmRUc05hWk9ZWUdPYW1LRkppNUN3OC00THVhUEFxamdnVDJZRDFsTEV1OHNuSjlKRmYyVEpj?oc=5",
    "tickers": [
     "MU"
    ],
    "classified": true,
    "is_market": true,
    "explicit": true,
-   "direction": "BUY",
+   "direction": "SELL",
    "primary_ticker": "MU",
-   "strength": 45,
-   "reason": "Trump explicitly praised Micron as 'hottest' company; despite market sell-off, the praise is a bullish signal even if market disagrees"
+   "strength": 75,
+   "reason": "Trump explicitly praised Micron as 'hottest' company but market dumped it 10%, signaling negative reception to his endorsement."
+  },
+  {
+   "date": "2026-07-01T23:53:49.941Z",
+   "platform": "Truth Social",
+   "text": "Just as I promised, Oil Prices are plummeting FAST, and Gas Prices at the pump are dropping too, but not as fast as they should be. As we approach America's 250th Birthday, I am pleased to announce that a VERY smart Retailer, located throughout the Northeast, is stepping up, and wishing the People of Philadelphia a \"Happy Birthday!\" On July 3rd, the Freedom Fuel Network will be lowering gas prices at 25 \"FREEDOM FUEL\" Stations across the Greater Philadelphia Area. This Retailer is taking the lead, and others should follow. They are doing this because they love the U.S.A. We are proud to celebrate America's 250th Birthday in the Great Commonwealth of Pennsylvania, the Birthplace of our very special, one-of-a-kind Declaration of Independence, and where I won BIG in the Presidential Election! America has never been stronger than it is now, and Gas Prices will soon be back to the Record Low Prices Americans enjoyed at the pump before our very successful \"excursion\" in Iran. Happy Birthday America! President DONALD J. TRUMP",
+   "tickers": [
+    "XLE"
+   ],
+   "engagement": 10086,
+   "url": "https://truthsocial.com/@realDonaldTrump/116847413162359390",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "XLE",
+   "strength": 50,
+   "reason": "Trump claims oil prices plummeting and highlights gas price cuts; bullish energy/oil tone aligned with drill policy."
   },
   {
    "date": "2026-07-01T23:40:36Z",
@@ -33,6 +50,22 @@
    "primary_ticker": "MU",
    "strength": 45,
    "reason": "Trump explicitly praised Micron as 'hottest' company; despite market sell-off, the praise is a bullish signal even if market disagrees"
+  },
+  {
+   "date": "2026-07-01T23:12:37Z",
+   "platform": "News",
+   "text": "Axon Soars on Trump Stock Purchase Highlighting Insider Trading Issues - AOL.com \u2014 Axon Soars on Trump Stock Purchase Highlighting Insider Trading Issues\u00a0\u00a0AOL.com",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQR0pGbzBpTVhxZ2xqQUZOdmE3TVFCNllIWGJCcTZVZXhtSmdKamdYd21NVWpIYXRJTFI0LVhLME83UVJmWFlrR0k1bFV1MTVlQ1BPNUx4eVdxNjRWMWdOOGp4RUhWcDJFZTBIQWlaLUxvM1ZqYlRoYzRPUHZNTFVnbg?oc=5",
+   "tickers": [
+    "AXON"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "AXON",
+   "strength": 60,
+   "reason": "Trump's personal stock purchase in Axon drove rally; direct bullish signal from insider buying."
   },
   {
    "date": "2026-07-01T20:58:00Z",
@@ -147,22 +180,6 @@
    "reason": "Trump's personal crypto wealth up 10x signals bullish crypto sentiment tied to his holdings"
   },
   {
-   "date": "2026-07-01T11:41:23Z",
-   "platform": "News",
-   "text": "Axon Soars on Trump Stock Purchase Highlighting Insider Trading Issues - AOL.com \u2014 Axon Soars on Trump Stock Purchase Highlighting Insider Trading Issues\u00a0\u00a0AOL.com",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOOW9WcTRBbFkyMGtIT0JXdDlrRmJjZHRWeUFfSG9lNnZlS29RUTVFSlFGLVRBOUNJMWN4emJlQnczcXNZR09TOXBSdTRweFZnVjc3cWk1bzRULUozZVRNNHJRZWRwSXYzbWg4bnhZMEdVYlZPMHVDS2NLQVhYanhDTQ?oc=5",
-   "tickers": [
-    "AXON"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "AXON",
-   "strength": 60,
-   "reason": "Trump purchased $5M+ stake in Axon; disclosure drives buying pressure and insider-signal bullishness"
-  },
-  {
    "date": "2026-07-01T09:20:00Z",
    "platform": "News",
    "text": "Three Wall Street Analysts Agree On One Solar Stock That Could Win Big From Trump\u2019s Proposed Inverter Import Curbs - Stocktwits \u2014 Three Wall Street Analysts Agree On One Solar Stock That Could Win Big From Trump\u2019s Proposed Inverter Import Curbs\u00a0\u00a0Stocktwits",
@@ -262,6 +279,30 @@
     "pct": -9.0,
     "base": 139.63,
     "last": 127.02,
+    "base_date": "2026-06-30",
+    "last_date": "2026-07-01"
+   }
+  },
+  {
+   "date": "2026-06-30T19:51:19Z",
+   "platform": "News",
+   "text": "Trump Says Iran \u2018Begging\u2019 For Deal, Warns Them To 'Get Serious\u2019 On Talks \u2014 Dow Futures Fall More Than 400 Points - Stocktwits \u2014 Trump Says Iran \u2018Begging\u2019 For Deal, Warns Them To 'Get Serious\u2019 On Talks \u2014 Dow Futures Fall More Than 400 Points\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOU3YtbUZDQ1pKZUFDTFBOUlpCWk9STEZMNnJqWG1CeFl3QUpKTXlqZU1KaXRzUV9kTDVzemh0a3l2cDlXc280ajgySWx6YjF5c2NDNjUtOVFxLW9MVldQSnNZU2FkRjdBWHAwREswNU1meVBGdXN5MnMydGMybEpTQnhRUDRnN2ZiLUxrNGZTekM0bUt6XzZ4S0hwanRBM0NrV2V1SEJDQm9CckhEM3ZmNFpDQWJMazdYdVdIMHFPRmFjdW1oSXVhNURjY0VnTzI3?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "SPY",
+   "strength": 45,
+   "reason": "Iran geopolitical tensions typically bearish for broad market; futures down suggests risk-off sentiment",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": -0.1,
+    "base": 746.77,
+    "last": 745.76,
     "base_date": "2026-06-30",
     "last_date": "2026-07-01"
    }
@@ -554,6 +595,22 @@
     "base_date": "2026-06-29",
     "last_date": "2026-07-01"
    }
+  },
+  {
+   "date": "2026-06-29T19:33:59Z",
+   "platform": "News",
+   "text": "Trump bought up to $5M of stock in Taser company right before $220M ICE bid - AOL.com \u2014 Trump bought up to $5M of stock in Taser company right before $220M ICE bid\u00a0\u00a0AOL.com",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1QakdvR1N2LUUta19mM3JBb3B3cW9XcEpFUUlCZ3lrclBUejB2OE11NjVscTk4M3dsd1h6dHlxN0tmMUhReXVzQ0hhZVNxMzdtejNUUDdBVm1aNEdmOFM1NkRFQV9YMFdWYklfQ21KU1Z4aDRMdnBLSkd5bw?oc=5",
+   "tickers": [
+    "AAXN"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "AAXN",
+   "strength": 75,
+   "reason": "Trump personal stock purchase in Taser before ICE contract award; explicit insider action on named public company"
   },
   {
    "date": "2026-06-29T18:25:00Z",
@@ -2581,110 +2638,6 @@
    "primary_ticker": "IBM",
    "strength": 70,
    "reason": "Trump explicitly states regret selling IBM and now cheers its quantum future; direct positive commentary on named stock"
-  },
-  {
-   "date": "2026-06-24T02:00:00Z",
-   "platform": "News",
-   "text": "Trump wraps Mack Trucks visit, highlights economic record, endorses Pa. Republicans before midterms - WFMZ.com \u2014 Trump wraps Mack Trucks visit, highlights economic record, endorses Pa. Republicans before midterms\u00a0\u00a0WFMZ.com",
-   "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxObmJSUFozeHZaMURlYjhqLXc3eGg3WFdkcVBIMHdrQkVQenhaMzIwclp1eElQWXhJakx1bGtMaFM3Ykt6c3BEMFlORmVNRW1uUHNuOWZELTFOTHdJN0FMbFhVRllpN1gzcWlHVmtHQjhMSGhmWnBzcWVPRTdLa1BNQzFLVmpRZElrNE1DOGp0MjYyUnZOdFNnQ0VpeGtsdjk1QlNWZ014OHpkTXU2QnEtOEdVdUxoTVBmTl9pa0ZVcE9nclA0T3FvYUYtd2VydmUtNjYtRjdSaDZ2MVQyc0R4MGFuY3p6a09USVZVM0EzR2tJMEdpWFdURWVhNlZTYlNrazZDNF9mNTg3X2NYMHpuWVRxRE9RSDBRVUhGMURUWUF6ejJWLThWV21jWGlCNDNKaXMwU2xNeDFPaURRcnUwUWJPdUV5R3Y0Mnc?oc=5",
-   "tickers": [
-    "MACK"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "MACK",
-   "strength": 30,
-   "reason": "Trump visits and endorses Mack Trucks during campaign; general positive framing but no explicit buy signal or concrete catalyst"
-  },
-  {
-   "date": "2026-06-23T21:55:43Z",
-   "platform": "News",
-   "text": "Trump says Apple and Intel are working together. Intel's stock is rising on the news - MSN \u2014 Trump says Apple and Intel are working together. Intel's stock is rising on the news\u00a0\u00a0MSN",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQmVyS190NlE5REEzb0Jsa1FVNThqRlhXLUNiZTdBNnBSR3lGazBfZ0R5NXhVbEJzLVZaNVpsVlZHV2I2Z1ZQd2hNRWZWcXBodU9JMUdjekhEdjM4em9vWGJhVXBnT2JIa3dBRVdRSDFLNWh2bW5kcUNOMzhKdEhrX0F6UXZnSHNEdTVhT0VpNTFwOV9oUnJhUlR4OFltNUJObjl0OU5mU1Nxd2UzS1NGMXFnWFZFMHUzaVlDYkhmeUxsS1NYSHVMeUJfNlpCdVNjTjl3?oc=5",
-   "tickers": [
-    "INTC"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "INTC",
-   "strength": 80,
-   "reason": "Trump explicitly confirms Apple-Intel chip manufacturing deal; named companies with concrete business catalyst driving stock movement",
-   "price_since": {
-    "ticker": "INTC",
-    "pct": -0.5,
-    "base": 132.28,
-    "last": 131.65,
-    "base_date": "2026-06-23",
-    "last_date": "2026-06-24"
-   }
-  },
-  {
-   "date": "2026-06-23T21:28:00Z",
-   "platform": "News",
-   "text": "Trump says Ford, GM in talks with defense contractors about possible weapons production - CBS News \u2014 Trump says Ford, GM in talks with defense contractors about possible weapons production\u00a0\u00a0CBS News",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVGpIbGNSU3ZXemZ6b0pxMW9OdEFoR0tzTXJ0Mzdsa2h3UF9mYVdEa2owUnRPQlcxNE9hY19GaHp4aDNzQVc0SlkyS3BrdmpRejU0T2JxSVo3dEprOWdqWWtTaGtnS3RrcmlCeXJDUDRKdF9nRUdBY0kzaWxOWHhSd3ByZnNPZ1oyQmFnRkVRYURPay04?oc=5",
-   "tickers": [
-    "XAR"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "XAR",
-   "strength": 45,
-   "reason": "Ford/GM defense contractor talks suggest increased military/weapons production demand, bullish for defense sector",
-   "price_since": {
-    "ticker": "XAR",
-    "pct": -1.1,
-    "base": 275.32,
-    "last": 272.41,
-    "base_date": "2026-06-23",
-    "last_date": "2026-06-24"
-   }
-  },
-  {
-   "date": "2026-06-23T21:07:34Z",
-   "platform": "News",
-   "text": "Nancy Pelosi stock tracker flags Dell's $9.7 billion Pentagon win weeks after Trump praised the company \u2014 shares surge 48% in a month - MSN \u2014 Nancy Pelosi stock tracker flags Dell's $9.7 billion Pentagon win weeks after Trump praised the company \u2014 shares surge 48% in a month\u00a0\u00a0MSN",
-   "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQcy1QLWpzRlliUXVkT1FuQ0xTS0IzSWlqdjZQS29nOW43cU9HcXNrVlJrQWtxTHdHWWdIOEJDRzUzZEVRZ200bFpYU3ctUzRzc0xXLUpyMVNyYWJnOGVka0tKeTRQYnc4T25WSnByYzdIRm1vbG1fTWdGTl82OFh3bHRhV1hlYW1oaWZxNDhQOWNKdXBMejR3TTVPYzJfM0gzNlQ0UzlBTjBMUWJ1TUotQ1UzRlRqdFlvbFYySlVvbVlhb2NVTlM5OHRCUlRDVnNIbDZIT1F5Z0hyUXcydmkyMkZzUW00UGdlRDNYYUlsNGxRTW5IUEEwVzYyb1IzdnVuNzdhU0dtTGNHWkxUdGRjc3pPZ1BnZ3hZeVlaSFJfLWMzZnIwdEJxbjZ3?oc=5",
-   "tickers": [
-    "DELL"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "DELL",
-   "strength": 85,
-   "reason": "Trump praised Dell weeks before $9.7B Pentagon contract win; explicit endorsement + contract award.",
-   "price_since": {
-    "ticker": "DELL",
-    "pct": 1.5,
-    "base": 427.78,
-    "last": 434.06,
-    "base_date": "2026-06-23",
-    "last_date": "2026-06-24"
-   }
-  },
-  {
-   "date": "2026-06-23T20:25:38Z",
-   "platform": "News",
-   "text": "Trump visits Mack Trucks plant in battleground Pennsylvania district to tout economic agenda as midterms loom - Fox Business \u2014 Trump visits Mack Trucks plant in battleground Pennsylvania district to tout economic agenda as midterms loom\u00a0\u00a0Fox Business",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNjRhbGxUekRsT3NVNFJrR1FsaE53UmVla0FjLTJRb0tJRFVTUDRaZ3dXd1FXVWpsZUY5b285OVg0WkhHUUdWZXE1LTNFbFl2MGZ6aEYyN3RucGxrVjlzMzNaajdwX3o1NXdKZXZ6RER5TmlZOEFRQnAwZ3kyX2Y4WW1hMnFDdE40VVlsMWJmbkRfSGxuS2FHMjRINGFvSmpGaFVoWHR5N3otaTFtVlJHV0tRMWk3VXdHQkFxZ3k0c1JaeW54UmhhclRPN2hDU0ZOcjRESFVpNNIB3AFBVV95cUxOWVFLaDRZWnMtb2lzbTJUZzhDek9fX1QwY2drTWZQMGRMSVcxQTVQUnJGcUt2UUd5aEpia3RNVm1tMVVxekNEeW9ETm81ZldDcXdIc0o4ajVVLTVmTHZCNUxqeF9iTHk2RXN2R1l3MW1seEJvR05VRF9XZV9pTndoRnJjS2VyeXhLZDlmLU9Fa21saVZ0am9NVjh5aWhZUUpjdlhNcnNkdXBhUEJBb2JsUk13WHRDRU8zQVZFR1doa0l2N2JxSHVpVU5nZ2UzT2VXNm11WG9BcVYzZW5N?oc=5",
-   "tickers": [
-    "MACK"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "MACK",
-   "strength": 35,
-   "reason": "Trump campaign visit to Mack Trucks touting economic agenda; modest positive framing but limited concrete catalyst"
   },
   {
    "curated": true,
