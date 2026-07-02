@@ -1,9 +1,9 @@
 {
- "last_updated": "2026-07-02T18:48:56Z",
+ "last_updated": "2026-07-02T20:18:36Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
-   "date": "2026-07-02T17:21:00Z",
+   "date": "2026-07-02T18:53:00Z",
    "platform": "News",
    "text": "Trump Calls Micron a \u2018Great\u2019 Company but Can\u2019t Stop the Stock From Falling - Barron's \u2014 Trump Calls Micron a \u2018Great\u2019 Company but Can\u2019t Stop the Stock From Falling\u00a0\u00a0Barron's",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBRbTllZDJkTEI4dEZiamNSUlFUamZwWVdFSHpEbVZIUG5sTjk5ZzZUano5b2Rsdi11LU1uNE5oV08wbEd0eldVN2xOQ2ZRSGNiV2RLRWdMME84YXpYV2pjN3JIN1NMN0hzcndQbW9RRUdXMjdU?oc=5",
@@ -16,7 +16,7 @@
    "direction": "BUY",
    "primary_ticker": "MU",
    "strength": 45,
-   "reason": "Trump praises Micron as great; stock fell anyway, signal weakened by contradictory price action"
+   "reason": "Trump calls Micron 'great', but stock fell despite praise, signal weakened by market rejection"
   },
   {
    "date": "2026-07-02T16:43:20Z",
@@ -49,6 +49,22 @@
    "primary_ticker": "SPY",
    "strength": 35,
    "reason": "Trump made large stock trades before pausing tariffs; unclear intent but raises questions about market timing and policy direction"
+  },
+  {
+   "date": "2026-07-02T15:37:34Z",
+   "platform": "News",
+   "text": "Micron (MU) Stock Drops 10% After Trump Calls It the Hottest Company in the World - CoinCentral \u2014 Micron (MU) Stock Drops 10% After Trump Calls It the Hottest Company in the World\u00a0\u00a0CoinCentral",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOXRPLVB5UDctRkYtVVlhZGszM1UwdndmUU9tdXZtWWtIUXdINzZIbHRlVlgxd2F6TGxFeE9FRUx5RmZpbDV6S3Q0ckVJLWxRWVlCbkdmVHliaTlyamtxei1sR21EVExYWkxyRVZyZ2xtWWlicDY2NURmSHJJUFFZYVFqUGt2alJoMWtudi1ZWndQS28zUWdvemRDMU9ac1FrREsweHR3?oc=5",
+   "tickers": [
+    "MU"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "MU",
+   "strength": 35,
+   "reason": "Trump calls Micron 'hottest company', explicit praise but stock drops 10% contradicting bullish intent"
   },
   {
    "date": "2026-07-02T14:49:00Z",
@@ -342,9 +358,9 @@
    "reason": "Trump claims oil prices plummeting and highlights gas price cuts; bullish energy/oil tone aligned with drill policy.",
    "price_since": {
     "ticker": "XLE",
-    "pct": 0.5,
+    "pct": 0.8,
     "base": 52.81,
-    "last": 53.08,
+    "last": 53.22,
     "base_date": "2026-07-01",
     "last_date": "2026-07-02"
    }
@@ -366,9 +382,9 @@
    "reason": "Trump explicitly praised Micron as 'hottest' company; despite market sell-off, the praise is a bullish signal even if market disagrees",
    "price_since": {
     "ticker": "MU",
-    "pct": -5.8,
+    "pct": -5.5,
     "base": 1032.28,
-    "last": 972.0,
+    "last": 975.56,
     "base_date": "2026-07-01",
     "last_date": "2026-07-02"
    }
@@ -390,9 +406,9 @@
    "reason": "Trump's personal stock purchase in Axon drove rally; direct bullish signal from insider buying.",
    "price_since": {
     "ticker": "AXON",
-    "pct": 1.1,
+    "pct": 0.5,
     "base": 593.96,
-    "last": 600.36,
+    "last": 597.04,
     "base_date": "2026-07-01",
     "last_date": "2026-07-02"
    }
@@ -414,9 +430,9 @@
    "reason": "Trump explicitly endorsed Dell; stock spiked to record highs on endorsement",
    "price_since": {
     "ticker": "DELL",
-    "pct": -8.4,
+    "pct": -7.2,
     "base": 425.25,
-    "last": 389.64,
+    "last": 394.48,
     "base_date": "2026-07-01",
     "last_date": "2026-07-02"
    }
@@ -438,9 +454,9 @@
    "reason": "IBRX rallies into Trump's State of the Union; suggests market positioning around policy announcements but direction unclear",
    "price_since": {
     "ticker": "IBRX",
-    "pct": 1.4,
+    "pct": 2.6,
     "base": 9.2,
-    "last": 9.33,
+    "last": 9.44,
     "base_date": "2026-07-01",
     "last_date": "2026-07-02"
    }
@@ -2604,78 +2620,6 @@
     "base": 734.3,
     "last": 728.99,
     "base_date": "2026-06-25",
-    "last_date": "2026-06-26"
-   }
-  },
-  {
-   "date": "2026-06-25T02:19:13Z",
-   "platform": "News",
-   "text": "Trump's media company craters to record low as losses keep stacking up - NewsBreak: Local News & Alerts \u2014 Trump's media company craters to record low as losses keep stacking up\u00a0\u00a0NewsBreak: Local News & Alerts",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNTUyajAtVndzbU15R2FLSmpILTNUcjlkLU9TUU8xM0R3VEFyOHVjQXFDb2oyZHdFZk8yV1hkcExJMkVkeTdWTVpxUDJ0eUNPMjJfdGFJdE42UWl6ajh2RmxENWVoUjhlaElhaUpNVjJhd0RjZG5RTmJCaERkbDREQm1iRURBcUx5T0pyVVQ0UjNnY25OZFN1QmpnekFPMXZBRHNHdlVlQk5ONXBWYUxmRzhNd2lxNjRUT095STN2YUpJLUtaQnZB?oc=5",
-   "tickers": [
-    "DJT"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "SELL",
-   "primary_ticker": "DJT",
-   "strength": 75,
-   "reason": "Trump's media company (DJT/Truth Social) hits record low with mounting losses",
-   "price_since": {
-    "ticker": "DJT",
-    "pct": 5.1,
-    "base": 7.06,
-    "last": 7.42,
-    "base_date": "2026-06-25",
-    "last_date": "2026-06-26"
-   }
-  },
-  {
-   "date": "2026-06-24T23:57:13Z",
-   "platform": "News",
-   "text": "Trump\u2019s Truth Social stock just hit its lowest point ever - MSN \u2014 Trump\u2019s Truth Social stock just hit its lowest point ever\u00a0\u00a0MSN",
-   "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQX3lJYUNmQWRGdFZNUWpWWHg2NTRBcjFaOUVVUTg5bHJSWHRPeHNXTlhtVUluSEZNa0U4SzB2UUJwakdZSEVmT0Nob0JKc0tINUwwNlUyQl9rdVh0dFR6WDV3aWp5Qm1mTUx0YlYzdEJIYVdkTTNyakRhWk83Qk5uT243Z1ZLR1RLR3ludjVxS1lvNXNhUjNORnYtRXRzTENUR09XbzhjWW8tRVBHelRxeEVLLTNhVUFCUzM5MDJOOC1vMzRuamRxY24tVTNBay1WRF9BYmNlZFM0ZF9VZXJRTExncnE0emZKajE1R1ZVb3dJR25sQW5JMDN5emU2WWRtR1NGUlJzZmgxN1JmSzlRVkF3aDFKUi11bEVxaGtjdzlObXJxZTFWWjlDandLRTRPbUkxX0FkM05lTEpHbFp5V0kzd1JLem8?oc=5",
-   "tickers": [
-    "DJT"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "DJT",
-   "strength": 70,
-   "reason": "Trump Media stock at lowest point; company deteriorating",
-   "price_since": {
-    "ticker": "DJT",
-    "pct": -1.3,
-    "base": 7.52,
-    "last": 7.42,
-    "base_date": "2026-06-24",
-    "last_date": "2026-06-26"
-   }
-  },
-  {
-   "date": "2026-06-24T23:09:09Z",
-   "platform": "News",
-   "text": "Court filing reveals President Trump spoke to Live Nation CEO before antitrust case was settled - WGNO \u2014 Court filing reveals President Trump spoke to Live Nation CEO before antitrust case was settled\u00a0\u00a0WGNO",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSC1PYnhHX0NZRnd0VlNsTlNlOTBOUUc3ZU5kNFl4c08wdURuczhhNTV3Q0Q4cTBlQzc5VTF3X0U4ZXlOdThyd1Y5RDFEMnlaM2lMcUdWSEtJWlpkY2djRkNIV055aGVROUEzRmFaMWJUSW5GZXdnaXNoUlVpdllna1lHeVZyazJMbmlGQ3JmX25jVDlRWkY0ZmctQ01mTENscGNlTE5FN3JjNWhWd1AxWnJTN0lCUHZLMFF2T1AzaWZDNEI2SzJ1RURn0gHPAUFVX3lxTE5ERGMzd2ttNWp0SmJLZnRoa3B0MlpGRnpEQVUzVGNRSkJtSVg3MVdWTElzTmU3RUJiVy1WR051Q0xJMFpIeDBxd2x3c0xyOS13WGk5c0lKY0Jnc3RTb3Q0clRLTFE5bzRHSjg4alNGRHFjTmNVQm9qaF9yN21CTzN2ZnAwcFRwcndFcmU1N0pIYk1yTUJQM0p2cThyZm1EdWlObkQwOUU2eGk3bF91ZUJvLVJ6MHpScFMyTldsT1dvTkxMVlhqUWQ4YUVCd1FSVQ?oc=5",
-   "tickers": [
-    "LYV"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "LYV",
-   "strength": 45,
-   "reason": "Trump contact with Live Nation CEO during antitrust case; ambiguous whether bullish or bearish settlement signal",
-   "price_since": {
-    "ticker": "LYV",
-    "pct": 4.7,
-    "base": 171.47,
-    "last": 179.46,
-    "base_date": "2026-06-24",
     "last_date": "2026-06-26"
    }
   },
