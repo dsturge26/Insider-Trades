@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-07-03T00:05:30Z",
+ "last_updated": "2026-07-03T04:09:01Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-07-03T03:50:00Z",
+   "platform": "News",
+   "text": "Trump Made 327 Stock Purchases the Day Before He Announced \u2018This Is a Great Time To Buy\u2019 and Paused Tariffs - Mediaite \u2014 Trump Made 327 Stock Purchases the Day Before He Announced \u2018This Is a Great Time To Buy\u2019 and Paused Tariffs\u00a0\u00a0Mediaite",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNeU5zUGNIbHBVMjZmcWFOYXBDeHN0YXRlaEljVTJnODlNeG9PNmNSRHVOVVhiWnNjdm5YQTk4WUpxLUtjWnJNdW16aDhFcTJBZUVXLXJSa2gySURabmE5UHN2YnMyVWpESVU0UE1QbWZlak8taWJBZF9WZTNoS3llOUNFZDliWjFyLU1YTEFZQlA2QjE1MWthUGxHdGRhTDJjdWJkM01uUUphRUZSbkRlbXQzei11RS1VRnItWUxGdlRUVGU4Rl9jWmhSRHAxbWdKOEFPV0Q0OXZSZ2Fzc0lGalZXZ05QZw?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "SPY",
+   "strength": 45,
+   "reason": "Tariff pause and 'great time to buy' signal suggest broad market upside, though timing of stock purchases raises credibility questions"
+  },
   {
    "date": "2026-07-02T23:42:55Z",
    "platform": "News",
@@ -115,6 +131,22 @@
    "reason": "Allegations of suspicious trading raise governance concerns; direction ambiguous."
   },
   {
+   "date": "2026-07-02T20:30:36Z",
+   "platform": "News",
+   "text": "Trump Praises Micron: Announces $250 Million Investment in Trump Accounts - ababnews.com \u2014 Trump Praises Micron: Announces $250 Million Investment in Trump Accounts\u00a0\u00a0ababnews.com",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5icVlMQ3luSmFzY0FINVpfN0NoVnJwbmMtVEkzUTI1dnhzc2Y4bHE5endySEpZRnBQWmRQSGdQVjNIT1pGRnRrVkRNR3VEeUJNLTd0d1ZGaUVGMXFxbEtvMEhxc084cV9fdkgtU2xvaWNxQWJO?oc=5",
+   "tickers": [
+    "MU"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "MU",
+   "strength": 65,
+   "reason": "Trump explicitly praises Micron as 'great' and announces $250M investment, direct bullish signal"
+  },
+  {
    "date": "2026-07-02T20:16:00Z",
    "platform": "News",
    "text": "Trump Calls Micron a \u2018Great\u2019 Company but Can\u2019t Stop the Stock From Falling - Barron's \u2014 Trump Calls Micron a \u2018Great\u2019 Company but Can\u2019t Stop the Stock From Falling\u00a0\u00a0Barron's",
@@ -161,6 +193,22 @@
    "primary_ticker": "AEO",
    "strength": 60,
    "reason": "Trump praises American Eagle ad; stock soared; implicit endorsement of company with confirmed bullish market reaction"
+  },
+  {
+   "date": "2026-07-02T19:15:44Z",
+   "platform": "News",
+   "text": "Micron pledges $250m to Trump child savings plan amid ethics debate - MSN \u2014 Micron pledges $250m to Trump child savings plan amid ethics debate\u00a0\u00a0MSN",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPeVNfQjlPUmN1SWNjQ19FQjJZelRONTJCOVRudU5EcXcwZjBPUzloN0dQOUk4Y3B1RVFXNTM1NlVMQkR2RFhBakRuT0pWX2tSc09pVmFkRmViU0FKbXlpWUh2ZzJ3ZnV5YzFUeG5QYjVmSDQ4a0c2cW1DaGFFcldrUlA4a3djQTMtUmlwWW9jcGk1TWhVOEFCTXZGXzN0MmhtakJlU2tuU19ZRzBJZlAyWHEwOWFhbWdpektDSjg5c25YajhmdXlmQmt4REJrcnFZS2VZc0lFSDluUWcyelNoeFFpZG1NaGE1RkxIa3pB?oc=5",
+   "tickers": [
+    "MU"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "MU",
+   "strength": 35,
+   "reason": "Micron pledges $250m to Trump child savings plan; signals corporate alignment and potential regulatory favor, mildly bullish for Micron."
   },
   {
    "date": "2026-07-02T16:43:20Z",
@@ -2521,150 +2569,6 @@
     "pct": -0.5,
     "base": 54.09,
     "last": 53.84,
-    "base_date": "2026-06-25",
-    "last_date": "2026-06-26"
-   }
-  },
-  {
-   "date": "2026-06-25T20:34:03Z",
-   "platform": "News",
-   "text": "LLY stock rides Trump spotlight: President touts Eli Lilly\u2019s $3.5B factory as weight-loss pill plans go global - MSN \u2014 LLY stock rides Trump spotlight: President touts Eli Lilly\u2019s $3.5B factory as weight-loss pill plans go global\u00a0\u00a0MSN",
-   "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPdXlYSnVrWUNFRXM4X1JSLXF3dHc3WGhfY2ZLbmZnMFRMU3JzQ3VSbmdxbm9QNlRpLTJpV3MxVk5DRmFVUTNuT2FjWkRCdmNJQ0RRcjU3RHpuS3dURFBiQllCZC00WHNtTGxDT2tRQ2MwaDMwYVlRUnZxaXdxRzhXeXFiRHQ4UndFcHZNZmc2a1BmbWNjdENFc0RoQmI0X2c1OVNLVklYY25KQVM1cWNENDVQblhxMnkxY0tWSGl5OTZrX2VESllwMTZ3U1d4cnZqcnp2Z1I4cjJxQXM3WnFmWGZqUWRUNlg3R0NNUWZCMzRoamhVUUFtZVhrMGl1ZHZxQ1VyLXF3RTBzRnZzUldWc0l3ODNtTjA?oc=5",
-   "tickers": [
-    "LLY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "LLY",
-   "strength": 75,
-   "reason": "Trump explicitly touts Eli Lilly's $3.5B factory investment and weight-loss pill plans, direct company praise.",
-   "price_since": {
-    "ticker": "LLY",
-    "pct": 7.1,
-    "base": 1127.69,
-    "last": 1208.12,
-    "base_date": "2026-06-25",
-    "last_date": "2026-06-26"
-   }
-  },
-  {
-   "date": "2026-06-25T20:15:43Z",
-   "platform": "News",
-   "text": "DJT Stock Quote Price and Forecast - CNN \u2014 DJT Stock Quote Price and Forecast\u00a0\u00a0CNN",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBPalpkdGlzWVpPOU5CYVZoRUk2MEhOUS1ZM1VKM1VnNmotRHctbmFfUXlna3hUeHJqbWwyNVRpbW9acXIzU3hTX1Q5QWIyOEU?oc=5",
-   "tickers": [
-    "DJT"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "DJT",
-   "strength": 15,
-   "reason": "Stock quote reference is a market instrument, not a directional signal",
-   "price_since": {
-    "ticker": "DJT",
-    "pct": 5.1,
-    "base": 7.06,
-    "last": 7.42,
-    "base_date": "2026-06-25",
-    "last_date": "2026-06-26"
-   }
-  },
-  {
-   "date": "2026-06-25T12:42:00Z",
-   "platform": "News",
-   "text": "Stock Market Today: Dow Jones, S&P 500, Nasdaq Futures Gain As AI Stocks Rally On Micron\u2019s Strong Outlook - Benzinga \u2014 Stock Market Today: Dow Jones, S&P 500, Nasdaq Futures Gain As AI Stocks Rally On Micron\u2019s Strong Outlook\u00a0\u00a0Benzinga",
-   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNRkFaMnhCa0JSblJ6ZVcxUHUyQ3l0blVqSlktd2x6bUloMzRCMU0wVkZaX0ZIV3p1WEQ0NFpqSnNMdVM4a2EzbW11ODg0cmlua01RVXo3UnlUdl9qNmd6UmUzRmkzUUh3UHhwOXJlSm1yUVpnUmZoWVhRY1VrMHBpODZpR2RmMGZjaE1vdkgxTzluTUF4ZExMTHk5ZXJZMXlRazFmamhYaHNpMUVZVXZJRE53M3l6c3B1Zzk0RzI1dXd5dnJhUWJtUWxVODJaSUFmN1FIM3Y0SWdkR0VEVkM4NW1DT3dSQ2JMWVBNWnBONnRjcVIwWnZpMks3QVdpa1E2b0E?oc=5",
-   "tickers": [
-    "QQQ"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "QQQ",
-   "strength": 45,
-   "reason": "AI stocks rally on Micron strength; no Trump angle but market-relevant tech momentum",
-   "price_since": {
-    "ticker": "QQQ",
-    "pct": -1.4,
-    "base": 716.38,
-    "last": 706.52,
-    "base_date": "2026-06-25",
-    "last_date": "2026-06-26"
-   }
-  },
-  {
-   "date": "2026-06-25T11:44:51Z",
-   "platform": "News",
-   "text": "Trump Media Stock Falls to Record Low as Truth Social Parent Company Struggles - NewsBreak: Local News & Alerts \u2014 Trump Media Stock Falls to Record Low as Truth Social Parent Company Struggles\u00a0\u00a0NewsBreak: Local News & Alerts",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYUlURWU4eUhRa1dpaF9SMDhkSzJlSGxTSEVvNkxJTHZDLW9Lc0x3SURXVk9DRXZIQ0QwZDl5Z1hnNXpWUUdNWDJ0LUIwWmRSaTlNVWVPelRjdklHWjdLdXhIajJERWFQYldwVFp0ZzJ5eUwtR3Z6RFA2eWxSbnVpN1RYWE50dkhmQ2NjakJTYU5GckdUU01kWHo1N3ZZdDFzdFZNZmxMMjdsQVRIZXAzV0tVMkZJMW4yQThEYmRvTVhoNzBpU0sta05ibTFSc2tEX0oxZ3Zn?oc=5",
-   "tickers": [
-    "DJT"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "DJT",
-   "strength": 75,
-   "reason": "Trump Media stock hits record low; direct bearish signal on his company",
-   "price_since": {
-    "ticker": "DJT",
-    "pct": 5.1,
-    "base": 7.06,
-    "last": 7.42,
-    "base_date": "2026-06-25",
-    "last_date": "2026-06-26"
-   }
-  },
-  {
-   "date": "2026-06-25T10:55:53Z",
-   "platform": "News",
-   "text": "U.S. Stock Movers | Nokia rises nearly 3% pre-market as Trump supports semiconductor capacity expansion approval - Bitget \u2014 U.S. Stock Movers | Nokia rises nearly 3% pre-market as Trump supports semiconductor capacity expansion approval\u00a0\u00a0Bitget",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBRQnJYZ09BV05NQlJhdVctdXJ6TGxQSGJHVFcxbXlidVRlelFjV0xQeGJCQUpvMlJ1dUVNQk05cmJITGlHS0JseE9MSThzbTFvNWg5V3ppS2o5VDlla0h1OVRnZ9IBY0FVX3lxTFBRQnJYZ09BV05NQlJhdVctdXJ6TGxQSGJHVFcxbXlidVRlelFjV0xQeGJCQUpvMlJ1dUVNQk05cmJITGlHS0JseE9MSThzbTFvNWg5V3ppS2o5VDlla0h1OVRnZw?oc=5",
-   "tickers": [
-    "NOK"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "NOK",
-   "strength": 72,
-   "reason": "Trump explicitly supports semiconductor capacity expansion; Nokia named and gains pre-market",
-   "price_since": {
-    "ticker": "NOK",
-    "pct": -6.9,
-    "base": 13.98,
-    "last": 13.01,
-    "base_date": "2026-06-25",
-    "last_date": "2026-06-26"
-   }
-  },
-  {
-   "date": "2026-06-25T10:46:00Z",
-   "platform": "News",
-   "text": "Trump just name-dropped 2 stocks after Micron and Dell rallies - Finbold \u2014 Trump just name-dropped 2 stocks after Micron and Dell rallies\u00a0\u00a0Finbold",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNa2tQX0U3Qk42d3A1YjI2ejFQaTRzRDlhTHJKSDVldFdYS1BHOUQtM2VOXzhrM2FZN0dlckJlOXVSNENtMWdIalRpc0pvaW8tZ0JSQndjMUUwOGdGMmpxTDdyUFJLcWxDY1VmMjMwejJKLVNVQ2JMUU0za2YwdjBwZ0R2bFo3dHZJbFc0?oc=5",
-   "tickers": [
-    "MU"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "MU",
-   "strength": 70,
-   "reason": "Trump explicitly name-dropped Micron and Dell; direct company praise after rallies implies continued bullish sentiment.",
-   "price_since": {
-    "ticker": "MU",
-    "pct": -6.7,
-    "base": 1213.56,
-    "last": 1132.33,
     "base_date": "2026-06-25",
     "last_date": "2026-06-26"
    }
