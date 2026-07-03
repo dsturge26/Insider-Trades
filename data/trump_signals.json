@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-07-03T19:22:56Z",
+ "last_updated": "2026-07-03T20:38:58Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -275,7 +275,7 @@
    "reason": "Trump praises Micron chip stock by name; explicit bullish endorsement."
   },
   {
-   "date": "2026-07-02T19:26:25Z",
+   "date": "2026-07-02T19:26:26Z",
    "platform": "News",
    "text": "American Eagle's stock soars after Trump praises Sydney Sweeney ad - MSN \u2014 American Eagle's stock soars after Trump praises Sydney Sweeney ad\u00a0\u00a0MSN",
    "url": "https://news.google.com/rss/articles/CBMilwNBVV95cUxQYUdScGN3czdNWmxhcVE1QVE1ajE5ZVlCdzFWX2ZneWhaaDhSYWhkWkthaDlaRGRLQm96MDUxeU5PbjgyY1pNSTNYTWs4bkhkWnpSQUpvMWFjRGR2RlJUV0hwNXdha2FWVHpQWjE4cWtabWZOb295UUJGX0FiVkV5OFRCMVVtVnB6ZXlaUndtd0tzaUVEVUdscUtVcl9oWm9jLUlVRWtmelpGSW1vWVN3WDM3aGZUS0k4N1FheGswWkZjWlpVQVB1YWZUVXJfd0NUMm8tV2pBbkhNbHRuUEN1Rlh4TW95RThOMVVZX2hueThfUWxNQV8wWWtvbDdVM0xYSTR3TE1vR3JTMkw1bUJEbkg1RXFoNjh5Y3BONC1sc3FZOEMwQU9xYmNwLTFQWnM4cVJOLW41NHRYZmVFWWdNbkhXdmtsbVpHUHNud1ZvR2xRR2pIQ2d2NHR4dm9VR2J2UHoyazZsMjZQdmlyZGgtX3pncFE1TVRLek5aSVI4R2h4LWk5Y2NFVGJOUjdId25TVUJPcFBvQQ?oc=5",
@@ -284,11 +284,11 @@
    ],
    "classified": true,
    "is_market": true,
-   "explicit": false,
+   "explicit": true,
    "direction": "BUY",
    "primary_ticker": "AEO",
-   "strength": 60,
-   "reason": "Trump praises American Eagle ad; stock soared; implicit endorsement of company with confirmed bullish market reaction"
+   "strength": 70,
+   "reason": "Trump praises American Eagle ad; stock soars on his endorsement, direct catalyst for apparel/retail stock"
   },
   {
    "date": "2026-07-02T19:15:44Z",
@@ -2532,22 +2532,6 @@
    "primary_ticker": "LLY",
    "strength": 70,
    "reason": "Trump explicitly name-dropped Eli Lilly and Nokia in public speech; direct company mentions are bullish signals."
-  },
-  {
-   "date": "2026-06-26T14:19:41Z",
-   "platform": "News",
-   "text": "Eric Trump Doubles Down On $1 Million Bitcoin Call \u2013 Says Crypto Is \u2018On The One-Yard Line\u2019 - Stocktwits \u2014 Eric Trump Doubles Down On $1 Million Bitcoin Call \u2013 Says Crypto Is \u2018On The One-Yard Line\u2019\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNX1pmRkZXRjdiRW5hMjBIczJUNUJIdGF6aldVWUh5a3NyTXlfM2RqczdicF96cDk3T1hqNmpNLWp5QXBJT0JkcWpJU0VzWXpUVWFFRkVEWlN6LTBCLUFkSGswd3BkRGZNWDZBa1pwdUtwTWpwUVlONEF6Ny1pMHpReUtsa2VNenVURDltcjRQcmFNWU1xT1RWOWMtdGdGenJ6Q0R6UnVSTS1qZlhkb1NsUHFxYTV2OW5wWjJVdmpLWkxFa3BaN1JSenpEX2o5VUFCSnFXT0FfM1B5alJNQ3c?oc=5",
-   "tickers": [
-    "BTC-USD"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "BTC-USD",
-   "strength": 60,
-   "reason": "Eric Trump doubles down on $1M Bitcoin target, says crypto 'on the one-yard line'; Trump family bullish crypto signal."
   },
   {
    "curated": true,
