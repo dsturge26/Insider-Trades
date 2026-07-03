@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-07-02T22:48:39Z",
+ "last_updated": "2026-07-03T00:05:30Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-07-02T23:42:55Z",
+   "platform": "News",
+   "text": "Trump Tells Americans To 'Thank Me' For 401k Gains As His Own Fortune Triples To $2.2 Billion - inkl \u2014 Trump Tells Americans To 'Thank Me' For 401k Gains As His Own Fortune Triples To $2.2 Billion\u00a0\u00a0inkl",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUThORWZDdTdSVWVBNUp0eWE5TVJjUTI1RGdGVENIVFAwOFZYMWhJdGJaWUZlTHIyV0J5am5LOHhCaHhVbVhjOHZKZWhFUVZHNTRyY3duY3ZfejN3cEZUMHZ5U1RCSndvZ09xQkFaOU9sSWJqbHFIYWdJT3FSTWcxUkw5dnYxRDVyelF0ZVFHQVZMOWxnZnJueHZaa0ZmaGg3T3phaFNCalNkSVF1NmUtOEJ0OHJwNXpONGk2bGpvSkU?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "SPY",
+   "strength": 45,
+   "reason": "Trump credits himself for 401k gains; implicit market confidence signal"
+  },
   {
    "date": "2026-07-02T22:39:00Z",
    "platform": "News",
@@ -33,6 +49,54 @@
    "primary_ticker": "TRUMP",
    "strength": 30,
    "reason": "Trump reaffirms crypto sector involvement; bullish sentiment for Trump-linked crypto assets."
+  },
+  {
+   "date": "2026-07-02T21:33:38Z",
+   "platform": "News",
+   "text": "US President Trump: Praises the stock market - Bitget \u2014 US President Trump: Praises the stock market\u00a0\u00a0Bitget",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9abkRLckNacjZDX1hJc3NaZkdwaUZuWjkzaFh4OHJCMmJ1enlja01LelZid3gybXc4ZksxWnl2SGI1Tm1vNjV1OGU1MjNWcmZkUjhmRHZZa29PbnIwcjhycW4zNNIBY0FVX3lxTE9abkRLckNacjZDX1hJc3NaZkdwaUZuWjkzaFh4OHJCMmJ1enlja01LelZid3gybXc4ZksxWnl2SGI1Tm1vNjV1OGU1MjNWcmZkUjhmRHZZa29PbnIwcjhycW4zNA?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "SPY",
+   "strength": 30,
+   "reason": "Generic praise of stock market signals broad confidence"
+  },
+  {
+   "date": "2026-07-02T21:33:38Z",
+   "platform": "News",
+   "text": "US President Trump: I own some Nvidia stocks, but I think it's very few - Bitget \u2014 US President Trump: I own some Nvidia stocks, but I think it's very few\u00a0\u00a0Bitget",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1pWUdYQy1DNEZrOTk5VV9PbFdYNzllc1RIdGRWMVl1dng2Z1E0NXBiQ29mMHNxYzBtWWlWU2oyOHlNSGJYaUJEMGdmR0ZMLXRPYThldmlJYXIzODRXMzZTSXRac9IBY0FVX3lxTE1pWUdYQy1DNEZrOTk5VV9PbFdYNzllc1RIdGRWMVl1dng2Z1E0NXBiQ29mMHNxYzBtWWlWU2oyOHlNSGJYaUJEMGdmR0ZMLXRPYThldmlJYXIzODRXMzZTSXRacw?oc=5",
+   "tickers": [
+    "NVDA"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "WATCH",
+   "primary_ticker": "NVDA",
+   "strength": 25,
+   "reason": "Trump states he owns minimal Nvidia; implies low conviction or bearish tilt on the stock"
+  },
+  {
+   "date": "2026-07-02T21:33:38Z",
+   "platform": "News",
+   "text": "Trump: Federal Reserve Chairman Waller Must Do What He Has To Do - Bitget \u2014 Trump: Federal Reserve Chairman Waller Must Do What He Has To Do\u00a0\u00a0Bitget",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5hX3RoclJEQTYtU1pINWV1OFF6cmkwUzZCRUN4aWJjSU96MGxHeUJ3MEdSRjUzUHFWelVjSzY5anhReXhoM3pYd2MzR1dBaDQ5X1ZOMHdicHFJUXZUNF9za2VETdIBY0FVX3lxTE5hX3RoclJEQTYtU1pINWV1OFF6cmkwUzZCRUN4aWJjSU96MGxHeUJ3MEdSRjUzUHFWelVjSzY5anhReXhoM3pYd2MzR1dBaDQ5X1ZOMHdicHFJUXZUNF9za2VETQ?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "SPY",
+   "strength": 35,
+   "reason": "Fed policy commentary; ambiguous on rate direction but signals engagement with monetary policy"
   },
   {
    "date": "2026-07-02T21:17:45Z",
@@ -129,6 +193,22 @@
    "primary_ticker": "SPY",
    "strength": 35,
    "reason": "Trump made large stock trades before pausing tariffs; unclear intent but raises questions about market timing and policy direction"
+  },
+  {
+   "date": "2026-07-02T16:11:14Z",
+   "platform": "News",
+   "text": "Trump Made Hundreds of Stock Trades One Day Before Pausing Tariffs - Yahoo Finance \u2014 Trump Made Hundreds of Stock Trades One Day Before Pausing Tariffs\u00a0\u00a0Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNak1VM1VtQVR5Smh3RTBhNFBzeEpTOTZtandLSFNmeE1aYVNJNmpxOS11ckQzcVJHYTBCOWNwbndxTTJBUHJUcVppSFlsQ0FtcWRfdk5jN3Zya1FzR1h5TkliVlNpemFXS080SGVMcXQzenNOZXNDQ0twRkE2UjFENHdoeUZHRmpvdTBLNGdfckxLaGNOX3A0LTJPeVJkQQ?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "SPY",
+   "strength": 50,
+   "reason": "Trump's portfolio trading spike before tariff pause signals insider optimism on market rebound"
   },
   {
    "date": "2026-07-02T15:37:34Z",
@@ -2588,78 +2668,6 @@
     "base_date": "2026-06-25",
     "last_date": "2026-06-26"
    }
-  },
-  {
-   "date": "2026-06-25T09:23:51Z",
-   "platform": "News",
-   "text": "Nancy Pelosi stock tracker flags Eli Lilly, Nokia after Trump praise: 'Keep an eye on these two' - MSN \u2014 Nancy Pelosi stock tracker flags Eli Lilly, Nokia after Trump praise: 'Keep an eye on these two'\u00a0\u00a0MSN",
-   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQd3ctMlJCNmxBSzFETWZTdnhaVmdYVFlReWlHak93VnNmci0tRXNlZXM5VXk1ckN0eXZZeEZ3eWIzRjE2WWlGNjlKVmt3aWxKLWRZblJNNWxGdlB6SERiVXZTWGExeTN0YUpGdWozQXVSWG93aF9nWk9MU2JmWm52YktOa1JzUDNtNHpuWi0yR1VhWmdldGpUZUpBZExZYnZvV2RhVjBvMjJXR2o0OGtvQWpONmN4VFhWUDlVckh5bFRWUkpWa1pMa1JUZXRkM096SGVJbG43b0dJVE1TMXFYMFc1d29DTFFjTmlxa2xWU3R1SDVOc3B0SDdjcw?oc=5",
-   "tickers": [
-    "LLY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "LLY",
-   "strength": 68,
-   "reason": "Trump praised Eli Lilly and Nokia; tracker flags both as actionable picks post-praise",
-   "price_since": {
-    "ticker": "LLY",
-    "pct": 7.1,
-    "base": 1127.69,
-    "last": 1208.12,
-    "base_date": "2026-06-25",
-    "last_date": "2026-06-26"
-   }
-  },
-  {
-   "date": "2026-06-25T08:03:27Z",
-   "platform": "News",
-   "text": "Nancy Pelosi Stock Tracker Flags Eli Lilly, Nokia After Trump Praise: \u2018Keep An Eye On These Two\u2019 - Benzinga \u2014 Nancy Pelosi Stock Tracker Flags Eli Lilly, Nokia After Trump Praise: \u2018Keep An Eye On These Two\u2019\u00a0\u00a0Benzinga",
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQaS0zcXk1V3pkZWpXNUNCSWYzYndYVUl4dWQ4bEUyZ1dOWkNja0tMQ3RSRE11V01rRHI0UnRzaVVRbjgwc2hQZWRzc0xQRjY0c1lWcUJkdWJPeUY2eHljMVBoeXhsT3gwbGR1MFJDTjJMajhUbjNnR01NaDhpR2pJXzBpMWtPdG00V2hhRWttZ2FLZ1ZGTjlpQUtiQzRQMW1zd1NwOFhuR2N0M3hzbjZEZlcxOHd0SDB4ZWpTUUk0RUpyaGRoVnZQaVdhRVJIUWt2NEsyR1pXVlFWeWtsTzdKV2lMNA?oc=5",
-   "tickers": [
-    "NOK"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "NOK",
-   "strength": 60,
-   "reason": "Trump praised Nokia; stock tracker flags it as notable mention post-praise"
-  },
-  {
-   "date": "2026-06-25T07:00:00Z",
-   "platform": "News",
-   "text": "Stock Market Under the Trump Administration: What is Driving Markets in 2026? - U.S. Bank \u2014 Stock Market Under the Trump Administration: What is Driving Markets in 2026?\u00a0\u00a0U.S. Bank",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcUowVHR1VXAzd0Zfamw1MkVSejFsRGo1bkdGdHhjNVBZVFdwU3VpcE5neGJOeWl6RmdQVkFsYlcxNEVTRGg3WHNYSGR1d1BpTjV4T2NqdWdER3ZtQ0RVbU40WTcyRXRaTEM5bFZteVlYNE5EYkM1M1BaR0lYTGlUeFlTeDhVMzRaWFFqZEZhcGc3RFJoZy1qZy1mTGViQQ?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "SPY",
-   "strength": 35,
-   "reason": "Broad analysis of Trump administration market drivers; macro-level but general and non-actionable."
-  },
-  {
-   "date": "2026-06-25T05:51:02Z",
-   "platform": "News",
-   "text": "Trump Media stock hits record low amid political troubles - MSN \u2014 Trump Media stock hits record low amid political troubles\u00a0\u00a0MSN",
-   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPWVVoalBlMGl4bXptdDU1T0wzVzRTMWdYWUN0WElzU3l1UEFhWngzdUhjbnZTOUdqdERxTmNTNDJiQ3ZiUWNjQTU4MG1VeXVLQW5WSEZ2S2lCZVJsOVpzenpZcVZxQWJVZV9RYmpWZ3l0T3liOVk4SnNoa3RIWmtra25OQ1dGNEo2NlpqcHZjQTRIRDk5VmpnWDdNeUczVHFGWmUxYjR4a2hUR3RpcHNERmRVRU5ZYk40bzBzZ0NsRGxyTUdHdG5lZzBEX3NtcmdTRkVxZkl4VGdTTW1HSzF2Uk03RHE4dVFQX0IzdUZHT2pyUQ?oc=5",
-   "tickers": [
-    "DJT"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "DJT",
-   "strength": 75,
-   "reason": "Trump Media at record low amid political troubles; bearish fundamental deterioration"
   },
   {
    "curated": true,
