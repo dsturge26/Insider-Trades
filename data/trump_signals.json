@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-07-03T10:18:33Z",
+ "last_updated": "2026-07-03T12:26:04Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-07-03T10:28:10Z",
+   "platform": "News",
+   "text": "Michael Burry Is Shorting Micron as a 'Destroyer Of Capital' Despite Trump's Praises and a 241% Rally\u2014 Here's Why - Benzinga \u2014 Michael Burry Is Shorting Micron as a 'Destroyer Of Capital' Despite Trump's Praises and a 241% Rally\u2014 Here's Why\u00a0\u00a0Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPa3NmWHJlNFF4X1JTelNaaGdjUXlBVjVaWUVxdFREMnlyZVotNVZaTUxlOGdndGpoSXJZejJiTExUc2xHVzlLNzk5c0ZuQ1kwaWJjaFZiM1JRYkpsTDBta3JfcVpBdG9HeEhrdHRzdU9LRk5TM0lhbkIyTnZJYm5mOTFsVlo2eUxZZzU0dkcwSnltd2lMb2d0dDhJX1AxNnhRN2hITC1ZN1o0aERGdEt5OHA0Ty13YmZERmxWUGR1NkpXNHNsVVZ0R282LTdNdTIyUVYySHczZmZ2aEhaaGg0MWtOZndIaERVQ25zUWRiOXcwRmtmY1F0Qkt4ZEloVVdXYkpr?oc=5",
+   "tickers": [
+    "MU"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "MU",
+   "strength": 35,
+   "reason": "Michael Burry shorting Micron despite Trump praise; conflicting signals on stock direction."
+  },
   {
    "date": "2026-07-03T08:26:15Z",
    "platform": "News",
@@ -2532,38 +2548,6 @@
    "primary_ticker": "PLTR",
    "strength": 55,
    "reason": "Reference to Trump praise of Palantir driving strong returns; implies bullish sentiment on company."
-  },
-  {
-   "date": "2026-06-26T03:20:16Z",
-   "platform": "News",
-   "text": "Trump regrets once selling IBM\u2019s stock. Now he\u2019s cheering its quantum future and dealing its shares. - MSN \u2014 Trump regrets once selling IBM\u2019s stock. Now he\u2019s cheering its quantum future and dealing its shares.\u00a0\u00a0MSN",
-   "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQT043MVh5ckhpY3NOTlk2U1J1QmYzQzRKdlhLQWdEWFowbV9jVHdmT2lYNDN1dF82c1E1ZTFQZjBaVUczcmYtMDJnR1VIYVJtaWFocGxWWm42SmZFcTBBZVYtRnBGSTU0RXhJQnJ6dDRBTmxRcVY2Y1ZTeXpqQWZpaGNlcW84c1BYOHlKSWMtNnhRSGZFUlJfdDRjLWx4TXdVY0hvQXFScUY1eGUxN08ybEMzZ3VTckkwUXk4VE1DUWdMdFBCU2UwcmJyTlVpOFJ6NmN4Rmh1cFBjanZudW9ubGlZVVNrZk9PNzJNM1N0MngxTkh4b3VlMEUyaHBycVVOY0F3Ng?oc=5",
-   "tickers": [
-    "IBM"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "IBM",
-   "strength": 65,
-   "reason": "Trump explicitly regrets selling IBM, now cheers quantum future; dual explicit bullish signal on IBM stock"
-  },
-  {
-   "date": "2026-06-26T02:31:00Z",
-   "platform": "News",
-   "text": "Nancy Pelosi Stock Tracker Flags Eli Lilly, Nokia After Trump Praise: \u2018Keep An Eye On These Two\u2019 - Yahoo Finance \u2014 Nancy Pelosi Stock Tracker Flags Eli Lilly, Nokia After Trump Praise: \u2018Keep An Eye On These Two\u2019\u00a0\u00a0Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOHMtVjcxcUlwRm5nRkZ1OFJTblF3RlpMZ3RqN0NOVFNJa0RYZFMyakZZYlg5UzRkOS1ZSjg0YlBfXzVjMW1GSnVXcmM5eDMtWF81UkZLcHc1QkREQ2t0X0pMamtqRkU3d18tSHFnMzNZUndwRHJtMlR3eXQ3SGE0NVlnN1FaYlotaVhBSnV5MFNkSTJ1ampGcTlMQTRDUQ?oc=5",
-   "tickers": [
-    "LLY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "LLY",
-   "strength": 65,
-   "reason": "Trump praised Eli Lilly; Pelosi tracker flagged it, suggesting bullish sentiment on the stock."
   },
   {
    "curated": true,
