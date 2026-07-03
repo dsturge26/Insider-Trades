@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-07-03T07:36:22Z",
+ "last_updated": "2026-07-03T10:18:33Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-07-03T08:26:15Z",
+   "platform": "News",
+   "text": "Micron (MU) Stock Drops Despite Trump's Praise - GuruFocus \u2014 Micron (MU) Stock Drops Despite Trump's Praise\u00a0\u00a0GuruFocus",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYmZiNXBid0ZuOVctbC1fdXVsQ3g2NmhqaTJLbUJXYmF3RUZ1Qk9WTTNiVS1UOW9vVmVfR3k4Z3ZUSDBQZFIwaXhFYWRZYUlING9PalJCM1V2Nk5LQ1lPdVJGb2hmN01WSXh2VmlUNzVxMTdMVlNqU3JkYzZfQWx6c0N2aDZRaFJVQVhQS1VsdU5Mc0g0dklGdXRsRThhOVZGYjN0TUpVWHdidEFGbnhv?oc=5",
+   "tickers": [
+    "MU"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "MU",
+   "strength": 60,
+   "reason": "Trump explicitly praises Micron; direct positive signal despite stock underperformance."
+  },
   {
    "date": "2026-07-03T03:50:00Z",
    "platform": "News",
@@ -33,6 +49,22 @@
    "primary_ticker": "SPY",
    "strength": 45,
    "reason": "Trump credits himself for 401k gains; implicit market confidence signal"
+  },
+  {
+   "date": "2026-07-02T23:20:58Z",
+   "platform": "News",
+   "text": "5 takeaways from President Donald Trump's interview with CNBC - CNBC \u2014 5 takeaways from President Donald Trump's interview with CNBC\u00a0\u00a0CNBC",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWU16NXFZaVh5RDh6WEE0Y2tIbXdfclk3akRtWDVjdHBaMWI5eWtGb3VKUHpHZUs3SVpSejRaeDVWNXppN20tb1FMRmNjM0lPa2sxVHJFakpCb0FESE13eW0zVkFEZmwyY1NqZ1RmNmxULXhvS0VyUWdReF9ERHkzWi0xTGNqZmpEUkFUQjJLOHh1LTFWb3BHZHVzX3Bid9IBowFBVV95cUxQcFA2TTJLenNXRkJLX0syRFI1dk5DV2FTRjFoODNjYldiUmh5R0VKZjB5R2ZHRWlEb2tKWmVGLURDTUowOFV1VEFLZ19KWlBlamotem14Qi1jZTRXeV8xUk90MjVNSlp0enAtZ2tvQk9lWjBmeVlOSGRTc2Q2NEoxRFI1a2JwT2FKSmkzMnJTUTZUU3JObmlRMEdseHBobUJvb3B3?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "SPY",
+   "strength": 35,
+   "reason": "CNBC interview likely covers multiple macro topics; direction and strength depend on content not provided."
   },
   {
    "date": "2026-07-02T22:39:00Z",
@@ -131,7 +163,7 @@
    "reason": "Allegations of suspicious trading raise governance concerns; direction ambiguous."
   },
   {
-   "date": "2026-07-02T20:30:36Z",
+   "date": "2026-07-02T20:38:36Z",
    "platform": "News",
    "text": "Trump Praises Micron: Announces $250 Million Investment in Trump Accounts - ababnews.com \u2014 Trump Praises Micron: Announces $250 Million Investment in Trump Accounts\u00a0\u00a0ababnews.com",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5icVlMQ3luSmFzY0FINVpfN0NoVnJwbmMtVEkzUTI1dnhzc2Y4bHE5endySEpZRnBQWmRQSGdQVjNIT1pGRnRrVkRNR3VEeUJNLTd0d1ZGaUVGMXFxbEtvMEhxc084cV9fdkgtU2xvaWNxQWJO?oc=5",
@@ -143,8 +175,8 @@
    "explicit": true,
    "direction": "BUY",
    "primary_ticker": "MU",
-   "strength": 65,
-   "reason": "Trump explicitly praises Micron as 'great' and announces $250M investment, direct bullish signal"
+   "strength": 75,
+   "reason": "Trump explicitly praises Micron and announces $250M investment in Trump accounts; concrete positive signal."
   },
   {
    "date": "2026-07-02T20:16:00Z",
@@ -2534,80 +2566,6 @@
    "reason": "Trump praised Eli Lilly; Pelosi tracker flagged it, suggesting bullish sentiment on the stock."
   },
   {
-   "date": "2026-06-26T02:17:00Z",
-   "platform": "News",
-   "text": "One of world's most-popular investor Michael Burry, who described Palantir stock as 'a sand castle', repe - The Times of India \u2014 One of world's most-popular investor Michael Burry, who described Palantir stock as 'a sand castle', repe\u00a0\u00a0The Times of India",
-   "url": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxQN3Y4cEg4NHZfNVQ4UHZlYzdkakJia0d6MDNnbWVyYl9CSjRrXzduTVMtZmJNRE9ybUxpVUpISUpHVzVUNVZPR2R4NUFTYTJHYmI3V0JlMC1nN3lhTG53Y0RIYVE4bnZjQXlkY242cTFuQ2lpWFZpckpQNFBKWUhabnh6OTBpdElKMVIySXQxNDFSU1RkSzVKYkxVVlRuNVkxcXdoMTdTVTQwbU1VQlhCZG5WZEJWYmV5YkFvUi13am14aTJQR1poUjBnR3dxSnNLUjJlLURLUHRFZ1UwZmNMeFRKNlNOSTBhM1VvOWkzMFpuYnI5dEpSQkl0VnZPXzBYM2d0VE5XMUx5SnpxLVI2NjVrUFM3RmZwN0luX05ERFJIQUhYdVhlRzRyUEFrZE5HQ3F3a1Fsd1pVQ3lXNDBCeTRYc2dFMy0weDZkUUp6TjkzOHFEaDk3MVJqTzdEZXEzalRn0gHoAkFVX3lxTE0yR1JIRlh3T2N0X2tqd1ZIMzdsZEd6THNoWnd2Zy05Y1p3ajc0VUZkQ082d0ZfMkhfSmo5b05GSzVtZWIyTUVtTmFBSlhTTGJBQzd3SThKY25zc1RsazhYMnNsSUxwMjR3UG5WOEpBS0pMdm92T0h4QVd2VGt0RHZaZ0EwTjBNQmtaTHh2cnBUdjZqY0hUc3VSVVdvY2ZKUTFtbzNKREc5RTA4U09FcjVFZlhaZ3ZMZ1FaRlY4bzh6Sy1rSWNwODg0MHczOVJVSmpJYlhaVmc2am13ZFh0dzc0eU1sLWVWMjRlRXhNalViZ2FicmtpRGhYY2xUNTRSWVNZYWx2RHpNbzdJTEtlaFRYUHlXeUZQZjNUZFNKR05IWk8zWXFiMWVXSWlPNTJlVG1Hb3RicXF2WjdYRWZQWll3Y1NOQ3N0ejNQZFliX182OF9FZHBvQmF6QUJvUHE4ZGlkWGttemtYbw?oc=5",
-   "tickers": [
-    "PLTR"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "PLTR",
-   "strength": 45,
-   "reason": "Michael Burry's bearish 'sand castle' critique of Palantir; high-profile investor skepticism"
-  },
-  {
-   "date": "2026-06-25T20:46:07Z",
-   "platform": "News",
-   "text": "Trump Threatens Iran With 'Very Hard' Strikes If War Escalates - Stocktwits \u2014 Trump Threatens Iran With 'Very Hard' Strikes If War Escalates\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNEh4a3I1NnVNc2c2RjRnQ1lBaXVVdjdfbUlrd1lvbWVHenFiNFpRNjZ0OGRMbWhLTFlseFpRbjZtRFc2QkJTdmlFX0hKOV8yRVhLOXROY0xHUDZVVUhLYjZ3dkhsT19seTVGSnllYTk0TkxVNW1ESTR6UXJ2LUNjZzBhVlFlSFFYWEo2a1gtQ1YzX1YxUTdzWktnYW1remYwYkt6NHRsZkhwUQ?oc=5",
-   "tickers": [
-    "XLE"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "XLE",
-   "strength": 45,
-   "reason": "Iran conflict escalation may support oil/energy prices.",
-   "price_since": {
-    "ticker": "XLE",
-    "pct": -0.5,
-    "base": 54.09,
-    "last": 53.84,
-    "base_date": "2026-06-25",
-    "last_date": "2026-06-26"
-   }
-  },
-  {
-   "date": "2026-06-24T04:12:13.948Z",
-   "platform": "Truth Social",
-   "text": "The big Oil Companies are not dropping their price at the pump commensurate with the sharply lower prices they are paying for Oil. Those prices are dropping like a rock! In other words, customers are being \"gouged.\" I have instructed the DOJ to immediately start looking into this. Gasoline prices better start going down a lot faster than what I'm seeing! President DJT",
-   "tickers": [
-    "XLE"
-   ],
-   "engagement": 29954,
-   "url": "https://truthsocial.com/@realDonaldTrump/116803130747198847",
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "XLE",
-   "strength": 45,
-   "reason": "Trump directing DOJ to investigate oil companies for not dropping pump prices; bearish pressure on energy sector amid price squeeze."
-  },
-  {
-   "date": "2026-06-23T11:24:12.430Z",
-   "platform": "Truth Social",
-   "text": "19 Millions Barrels of Oil flowed out of the Hormuz Strait yesterday, an all time RECORD. Oil prices are tumbling down, and the World is a much safer place!!! President DONALD J. TRUMP",
-   "tickers": [
-    "XLE"
-   ],
-   "engagement": 19191,
-   "url": "https://truthsocial.com/@realDonaldTrump/116799167032916635",
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "XLE",
-   "strength": 35,
-   "reason": "Record oil flow and tumbling prices imply oversupply and margin pressure on oil companies."
-  },
-  {
    "curated": true,
    "classified": true,
    "is_market": true,
@@ -2660,176 +2618,6 @@
    "reason": "Trump's majority-owned stock debuts \u2014 pure sentiment play, extremely volatile and headline-driven.",
    "market_reaction": "DJT spiked on debut then stayed volatile, moving heavily on Trump political/legal news.",
    "url": "https://www.nasdaq.com/market-activity/stocks/djt"
-  },
-  {
-   "date": "2023-05-18T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "BLUE ORIGIN MANUFACTURING, LLC was awarded a $2.0B federal contract from National Aeronautics and Space Administration.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_80MSFC23CA014_8000_-NONE-_-NONE-",
-   "tickers": [
-    "BLUA"
-   ],
-   "contract_amount": 1.99,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "BLUA",
-   "strength": 70,
-   "reason": "Blue Origin awarded $2.0B NASA contract; bullish for aerospace/defense contractor."
-  },
-  {
-   "date": "2021-07-01T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "HARRIS CORPORATION was awarded a $2.1B federal contract from Department of Transportation.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_693KA821F00222_6920_DTFA0102D03006_6920",
-   "tickers": [
-    "HRS"
-   ],
-   "contract_amount": 2.1,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "HRS",
-   "strength": 65,
-   "reason": "Harris Corporation awarded $2.1B DOT federal contract; bullish for defense/aerospace."
-  },
-  {
-   "date": "2020-05-13T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "SPACE EXPLORATION TECHNOLOGIES CORP. was awarded a $3.0B federal contract from National Aeronautics and Space Administration.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_80MSFC20C0034_8000_-NONE-_-NONE-",
-   "tickers": [
-    "SPACX"
-   ],
-   "contract_amount": 3.05,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "SPACX",
-   "strength": 75,
-   "reason": "SpaceX awarded $3.0B NASA contract; bullish for leading aerospace contractor."
-  },
-  {
-   "date": "2019-10-16T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "THE BOEING COMPANY was awarded a $2.6B federal contract from National Aeronautics and Space Administration.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_80MSFC20C0052_8000_-NONE-_-NONE-",
-   "tickers": [
-    "BA"
-   ],
-   "contract_amount": 2.59,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "BA",
-   "strength": 70,
-   "reason": "Boeing awarded $2.6B NASA federal contract; bullish for defense/aerospace."
-  },
-  {
-   "date": "2015-11-01T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "AEROJET ROCKETDYNE OF DE, INC was awarded a $3.3B federal contract from National Aeronautics and Space Administration.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_NNM16AA02C_8000_-NONE-_-NONE-",
-   "tickers": [
-    "AJRD"
-   ],
-   "contract_amount": 3.31,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "AJRD",
-   "strength": 70,
-   "reason": "Aerojet Rocketdyne awarded $3.3B NASA contract; bullish for aerospace/defense contractor."
-  },
-  {
-   "date": "2015-09-03T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "NORTHROP GRUMMAN SYSTEMS CORPORATION was awarded a $1.6B federal contract from National Aeronautics and Space Administration.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_NNH15CN76C_8000_-NONE-_-NONE-",
-   "tickers": [
-    "NOC"
-   ],
-   "contract_amount": 1.61,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "NOC",
-   "strength": 70,
-   "reason": "Northrop Grumman awarded $1.6B NASA federal contract; bullish for defense contractor."
-  },
-  {
-   "date": "2011-12-23T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "LEIDOS, INC. was awarded a $3.1B federal contract from National Science Foundation.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_NSFDACS1219442_4900_-NONE-_-NONE-",
-   "tickers": [
-    "LDOS"
-   ],
-   "contract_amount": 3.09,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "LDOS",
-   "strength": 70,
-   "reason": "Leidos awarded $3.1B NSF federal contract; bullish for IT/defense contractor."
-  },
-  {
-   "date": "2007-09-01T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "THE BOEING COMPANY was awarded a $10.5B federal contract from National Aeronautics and Space Administration.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_NNM07AB03C_8000_-NONE-_-NONE-",
-   "tickers": [
-    "BA"
-   ],
-   "contract_amount": 10.51,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "BA",
-   "strength": 70,
-   "reason": "Boeing awarded $10.5B NASA federal contract; significant bullish signal for defense/aerospace."
-  },
-  {
-   "date": "2006-09-06T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "LOCKHEED MARTIN CORP was awarded a $15.6B federal contract from National Aeronautics and Space Administration.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_NNJ06TA25C_8000_-NONE-_-NONE-",
-   "tickers": [
-    "LMT"
-   ],
-   "contract_amount": 15.56,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "LMT",
-   "strength": 85,
-   "reason": "Large $15.6B federal contract award to Lockheed Martin is directly bullish for the company's revenue and earnings."
-  },
-  {
-   "date": "2006-04-17T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "NORTHROP GRUMMAN SYSTEMS CORPORATION was awarded a $4.4B federal contract from National Aeronautics and Space Administration.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_NNM07AA75C_8000_-NONE-_-NONE-",
-   "tickers": [
-    "NOC"
-   ],
-   "contract_amount": 4.43,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "NOC",
-   "strength": 85,
-   "reason": "Large $4.4B federal contract award to Northrop Grumman is directly bullish for the company's revenue and earnings."
   }
  ],
  "how_to_read": "Each card is Claude's read of a public Trump post: the affected ticker, whether it implies BUY / SELL / WATCH, a 0\u2013100 strength (how explicit/emphatic the post is \u2014 NOT a profit predictor), and why. A 2-year backtest found these don't beat buy-and-hold, so this is for awareness, not trading. Not financial advice."
