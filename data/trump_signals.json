@@ -1,7 +1,39 @@
 {
- "last_updated": "2026-07-03T12:26:04Z",
+ "last_updated": "2026-07-03T14:42:20Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-07-03T11:32:15Z",
+   "platform": "News",
+   "text": "Donald Trump Praises Micron Tech as Stock Tumbles Over Ten Percent - HarianBasis.co \u2014 Donald Trump Praises Micron Tech as Stock Tumbles Over Ten Percent\u00a0\u00a0HarianBasis.co",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9WVEVIZFhLVVJTNDVqSmtpWHV1T0pfN2txbWFtNnFJTFo4OHVZRzlGRFIwb3R5SFBBZGpMckp2VHVLRlVES1ItRGRxQTdQU0tJWnpabmFaWkR5ZmUzVS1GLU52eHQ0MFl6Si02NGRtblVYYWtobC0tNg?oc=5",
+   "tickers": [
+    "MU"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "MU",
+   "strength": 70,
+   "reason": "Trump explicitly praises Micron Tech by name; direct positive signal despite stock weakness."
+  },
+  {
+   "date": "2026-07-03T11:26:33Z",
+   "platform": "News",
+   "text": "Trump Makes History with over 22,000 Trades: Calls USA No. 1 in Crypto and AI - Bitget \u2014 Trump Makes History with over 22,000 Trades: Calls USA No. 1 in Crypto and AI\u00a0\u00a0Bitget",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5wZms5RTlZTTEwcWtwY2xQdjFxcEpjWU5waVNVNGJ5R0JWTkVoWkFNaXdEYTNLdUVQX3o4RWswZ1h5RHFHVzdiTmJSLVJxcldxTDFrMUtvbGVGVi1CZklHdmtJRdIBY0FVX3lxTE5wZms5RTlZTTEwcWtwY2xQdjFxcEpjWU5waVNVNGJ5R0JWTkVoWkFNaXdEYTNLdUVQX3o4RWswZ1h5RHFHVzdiTmJSLVJxcldxTDFrMUtvbGVGVi1CZklHdmtJRQ?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "SPY",
+   "strength": 35,
+   "reason": "Macro bullish sentiment on USA crypto and AI dominance; broad market positive but vague."
+  },
   {
    "date": "2026-07-03T10:28:10Z",
    "platform": "News",
@@ -2532,22 +2564,6 @@
    "primary_ticker": "SPY",
    "strength": 55,
    "reason": "100% tariff vow on digital services tax is bearish macro signal"
-  },
-  {
-   "date": "2026-06-26T10:39:42Z",
-   "platform": "News",
-   "text": "$1,000 PLTR investment when President Trump praised Palantir is now worth - Finbold \u2014 $1,000 PLTR investment when President Trump praised Palantir is now worth\u00a0\u00a0Finbold",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUG1EYlB4aFhNTzdfbi1wMFNialVVM0ppQ3V4d0JLUW9KOVIxVmVmTDF3bl95Rk15NlFZSklzUkpWTl9zU1I0SUNHWEVnR1hVTjhUVmJJeGNRUzVJc2hXalJNOWsyUVZwaXUyLWlzOVJLQ0VHVHotOEVsOEV0Umh3X0JWbXlPNXRkdWV4a21XRGIzdnFqdDZz?oc=5",
-   "tickers": [
-    "PLTR"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "PLTR",
-   "strength": 55,
-   "reason": "Reference to Trump praise of Palantir driving strong returns; implies bullish sentiment on company."
   },
   {
    "curated": true,
