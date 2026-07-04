@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-07-04T12:18:50Z",
+ "last_updated": "2026-07-04T14:09:20Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-07-04T12:56:36Z",
+   "platform": "News",
+   "text": "Donald Trump Praises Micron Technology Following Multi Million Dollar Investment - sekbernews.id \u2014 Donald Trump Praises Micron Technology Following Multi Million Dollar Investment\u00a0\u00a0sekbernews.id",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Zd2xzUlZqZmE2LUppaFh4NHZZR09LWFNyem9SNlV3NVVVSkFlc21qQnBCNXA3Q3BydHlaS1FEX2RKQlluaFJZQTBXRy10eUJReVRIS192emR2REEyOWhneXZNdjcwdEdzbWhXMw?oc=5",
+   "tickers": [
+    "MU"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "MU",
+   "strength": 65,
+   "reason": "Trump praises Micron Technology specifically following investment announcement"
+  },
   {
    "date": "2026-07-04T07:45:18Z",
    "platform": "News",
@@ -99,6 +115,22 @@
    "primary_ticker": "SPY",
    "strength": 35,
    "reason": "Comments on Musk, OpenAI, Intel, and Fed board criticism; mixed signals across multiple sectors with no clear directional bias."
+  },
+  {
+   "date": "2026-07-03T12:29:29Z",
+   "platform": "News",
+   "text": "DELL Stock Spikes To Record Highs On President Trump\u2019s Endorsement - Stocktwits \u2014 DELL Stock Spikes To Record Highs On President Trump\u2019s Endorsement\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYWF1OUgweFU0d1NlNU4ya1FYQVJSVTRCX3IwM0NMd19VVmN5RzNtUmc1c2FhTU9abXdnTmVnMDE2QUxna3ZrUEF3Zkd0SFUtOWx3QkF2elBuNkNTcmZDRm1BRUkwMVRwYU0xaUVsWDZLSk0yeEtiMFFPV0t3ZXZ3OW15QUg5V0xHNnRrU1J5VXdvX09Oa0ZmRmJvV0VTVlFRRFh6c3E5RmtHckx0MXpNVVZTWmJpLTUtUXBHSG5pWEFfQll0ejRneDFB?oc=5",
+   "tickers": [
+    "DELL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "DELL",
+   "strength": 75,
+   "reason": "Trump explicitly endorses Dell, stock spikes to record highs on his praise"
   },
   {
    "date": "2026-07-03T11:32:15Z",
@@ -211,6 +243,22 @@
    "primary_ticker": "SPY",
    "strength": 45,
    "reason": "Tariff pause and 'great time to buy' signal suggest broad market upside, though timing of stock purchases raises credibility questions"
+  },
+  {
+   "date": "2026-07-03T01:03:41Z",
+   "platform": "News",
+   "text": "Trump discloses 21,000 securities trades during first year in office - ABC News - Breaking News, Latest News and Videos \u2014 Trump discloses 21,000 securities trades during first year in office\u00a0\u00a0ABC News - Breaking News, Latest News and Videos",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRXRKN3Z0andHTXp5WjRNQ2xkUjcxS2tCeHpfdG9EeFRpaGM1Q2IxZFM4akNkQm5IZkt6NnEwRFNsNUQ2VUpYaXdaQW5LZEFsNC1OcHhKNWczS0QxSDZ6RE9qbGFieUdvaHpsNldGczhQa1hTQjF2aGZiSl9wcUhlaENId0I5VWx1cGJFZ1NCM0IyY2M2LWtKRkVDX3I4WDYz0gGmAUFVX3lxTE9Dc2ZEcnpkNmxPUVphbjRJcnBpaGNsM0EyVXlsQTFwdmg3TWZXekcxSUR0cGp3RWttdU5NMkRFVkZlV280MHV1V0RQOWtrTzlLQTlRQkE5eGpXaF9Yajh2NC1ITkdqSmhYcFY2ZFlLeE9nTjFKWUdKaG12WDlVTzl3VWIxeTdJRldpOFpsbEdXM29abG1KejFLLWdnWVBBVEtXSHdtU2c?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "SPY",
+   "strength": 35,
+   "reason": "Large volume of trades disclosed suggests market activity but no direction or specific catalyst identified"
   },
   {
    "date": "2026-07-03T00:05:27Z",
@@ -859,30 +907,6 @@
     "pct": 0.5,
     "base": 593.96,
     "last": 597.04,
-    "base_date": "2026-07-01",
-    "last_date": "2026-07-02"
-   }
-  },
-  {
-   "date": "2026-07-01T22:09:45Z",
-   "platform": "News",
-   "text": "DELL Stock Spikes To Record Highs On President Trump\u2019s Endorsement - Stocktwits \u2014 DELL Stock Spikes To Record Highs On President Trump\u2019s Endorsement\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYWF1OUgweFU0d1NlNU4ya1FYQVJSVTRCX3IwM0NMd19VVmN5RzNtUmc1c2FhTU9abXdnTmVnMDE2QUxna3ZrUEF3Zkd0SFUtOWx3QkF2elBuNkNTcmZDRm1BRUkwMVRwYU0xaUVsWDZLSk0yeEtiMFFPV0t3ZXZ3OW15QUg5V0xHNnRrU1J5VXdvX09Oa0ZmRmJvV0VTVlFRRFh6c3E5RmtHckx0MXpNVVZTWmJpLTUtUXBHSG5pWEFfQll0ejRneDFB?oc=5",
-   "tickers": [
-    "DELL"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "DELL",
-   "strength": 80,
-   "reason": "Trump explicitly endorsed Dell; stock spiked to record highs on endorsement",
-   "price_since": {
-    "ticker": "DELL",
-    "pct": -7.3,
-    "base": 425.25,
-    "last": 394.32,
     "base_date": "2026-07-01",
     "last_date": "2026-07-02"
    }
