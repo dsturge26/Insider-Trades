@@ -1,7 +1,24 @@
 {
- "last_updated": "2026-07-04T00:17:47Z",
+ "last_updated": "2026-07-04T04:11:23Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-07-04T01:02:08.485Z",
+   "platform": "Truth Social",
+   "text": "THE TRUMP ECONOMY IS SOARING!\u00a0The Stock Market just completed its BEST QUARTER since the last time I was President. The S&P 500, Nasdaq, and Dow are all SURGING, sending Americans' 401(k)s higher and higher. My Working Families Tax Cuts mean MORE MONEY IN AMERICAN POCKETS. Our Trade Deficit continues to shrink as U.S. Exports hit Record Month after Month. America is building more, producing more, and selling more than ever before. Trillions of Dollars in new Investment brought in by my Administration mean more Factories, more Jobs, and more Opportunity for Americans. This is WINNING. The Golden Age of America is beginning \u2014 and we are just getting started! President DONALD J. TRUMP",
+   "tickers": [
+    "SPY"
+   ],
+   "engagement": 6548,
+   "url": "https://truthsocial.com/@realDonaldTrump/116859006382890396",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "SPY",
+   "strength": 65,
+   "reason": "Broad macro boast of strong stock market, record exports, investment inflows; bullish market sentiment but no specific named catalyst."
+  },
   {
    "date": "2026-07-04T00:03:06.343Z",
    "platform": "Truth Social",
@@ -2500,38 +2517,6 @@
    "primary_ticker": "SPY",
    "strength": 72,
    "reason": "100% tariff threat on countries with digital services tax is bearish for broad market and US exporters"
-  },
-  {
-   "date": "2026-06-26T16:38:21Z",
-   "platform": "News",
-   "text": "Trump threatens 100% tariff on any country that imposes digital services tax - Mint \u2014 Trump threatens 100% tariff on any country that imposes digital services tax\u00a0\u00a0Mint",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObVktWXd4VHE2TjVPc05nbWtPcU04alRxMjlCa3V2blotT1pTUEt2QW5ULWc3RWI1NV9XanBsblZCYS0tX3YzZ2pIRGZKZFRMOUF0QjZVSXVYYy1mZXFQZVJoOThTcXc4aWdOS3ZhNjV5bHRxVXV4RktGaGVaaW4yWVROZ19FRGxBaXB5eGN5cTBsSWwxU1lWbW50eWo5UnZXUldudHc3bC1PUW9mcGczVWhUU1Y2ZnVaT0FxWXZDY24xTTJhZ0NsclRVMDFiUdIB0wFBVV95cUxNVjhKcDZFZ0dzVDNDcENoN2hNdmNIUllnZGVfUEZqbFRYaEp2MkdYVXotbXBKOGZuRmIyYmpaMzV6Sm1MOGdha0NCdDhSMG52empELTBBNmV5eWVkaDJ0Z0Q0ckRmOFZRVW5aZ0N4aTZSMUlHdU1kSTdiSjhhd3JRSjlHeHBaeHp0Uk1uRW5nLWFXazIxZHF3dEphRkFIT0ZRX3UzODRpZ3BVQjRDSEVVWHlmemxjTlROMEpmcTNvQ2RWWjhCOFBmTEhkVHBoWkpMMUt3?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "SPY",
-   "strength": 65,
-   "reason": "100% tariff threat on digital services tax; broad trade/tariff escalation bearish for equities"
-  },
-  {
-   "date": "2026-06-26T16:34:47Z",
-   "platform": "News",
-   "text": "Trump threatens 100% tariffs on countries putting 'Digital Services Tax on American Companies' - CNBC \u2014 Trump threatens 100% tariffs on countries putting 'Digital Services Tax on American Companies'\u00a0\u00a0CNBC",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9rVFNQMjVvTTBlMW05cnJ2Nms2bllNMTdvQ0lodjRBTUUwRjFmMXd1RUNRd080TUJRUUVRQTR3U1FmTTFEZUtDWTdhUHlQUUhjeExScDUzOHotUHpDR2Z1LVNSWGFBZ00yZzItMmRMVTBoQdIBd0FVX3lxTE5NSVpGellBSlQybDJTX2tJd0pRZmpXM3BQZXlzMUtWYVd0UVJrQjNYX3lWZkxMN0IwbW1ZeURFNGVkOHJKMWdDVDVFSGU5TDAtcXRQbmFMUUpmWEo1VTE4eU1nQ0N0YU5mR0hiRjJuMEtJUm5nMmZZ?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "SPY",
-   "strength": 70,
-   "reason": "Repeated 100% tariff threat on digital services tax; bearish for broad market and tech sector."
   },
   {
    "curated": true,
