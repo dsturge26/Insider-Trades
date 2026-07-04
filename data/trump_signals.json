@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-07-04T09:33:03Z",
+ "last_updated": "2026-07-04T11:11:23Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-07-04T07:45:18Z",
+   "platform": "News",
+   "text": "Micron Shares Plummet as DRAM Price Fixing Lawsuit Surfaces - HarianBasis.co \u2014 Micron Shares Plummet as DRAM Price Fixing Lawsuit Surfaces\u00a0\u00a0HarianBasis.co",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBpWWwycmFDMWdzRHB1SDN3UnljT09NZHVhbktsY09vQkYxVXVOdW1PeDNubkNsU25iLWdkY04wWGVpUUM5c0FZRnlUTEdwcEUwT0x6bkJHY2tTbkdtamNIVFdoVTlHQXJCUnlueWdNTVJMdw?oc=5",
+   "tickers": [
+    "MU"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "MU",
+   "strength": 45,
+   "reason": "Micron faces DRAM price-fixing lawsuit; negative legal/supply outlook"
+  },
   {
    "date": "2026-07-04T01:02:08.485Z",
    "platform": "Truth Social",
@@ -2525,39 +2541,6 @@
    "primary_ticker": "IBM",
    "strength": 65,
    "reason": "Trump praises IBM CEO for leading fab in US chip push; regrets selling too soon, implies bullish signal."
-  },
-  {
-   "date": "2026-06-26T16:51:51Z",
-   "platform": "News",
-   "text": "Trump threatens 100% tariff on countries imposing digital services tax on US firms - Moneycontrol.com \u2014 Trump threatens 100% tariff on countries imposing digital services tax on US firms\u00a0\u00a0Moneycontrol.com",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPLUlCTkRla3JKYlQxdEROUGZxRzIxUVJnMTd2UjBHbXZETEZYMmRkbGMxSGF3SEdJZnlNa3ZvT2hPUGdGdnkxTHRGTXA1bzA5Zms0OTdrMC1uaDFQdXh5emE0bk1UQURSeW5ZODdMTUtrRFg1Yl9nRU9jTGVXZjhhQUF0QURTc2N3cmRHZi1RQTBOWWZ3LXJvS2w4RUxuZW5mNTRSbS03LXRHX0JKaVlvVEtmVnlwQjZDX0J1LU1RVHpHOTRJSWNHRFZTUklpN0dXUUhfbHBGcThRUdIB2gFBVV95cUxPLUlCTkRla3JKYlQxdEROUGZxRzIxUVJnMTd2UjBHbXZETEZYMmRkbGMxSGF3SEdJZnlNa3ZvT2hPUGdGdnkxTHRGTXA1bzA5Zms0OTdrMC1uaDFQdXh5emE0bk1UQURSeW5ZODdMTUtrRFg1Yl9nRU9jTGVXZjhhQUF0QURTc2N3cmRHZi1RQTBOWWZ3LXJvS2w4RUxuZW5mNTRSbS03LXRHX0JKaVlvVEtmVnlwQjZDX0J1LU1RVHpHOTRJSWNHRFZTUklpN0dXUUhfbHBGcThRUQ?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "SPY",
-   "strength": 72,
-   "reason": "100% tariff threat on countries with digital services tax is bearish for broad market and US exporters"
-  },
-  {
-   "date": "2026-06-26T16:20:58.479Z",
-   "platform": "Truth Social",
-   "text": "Numerous European Countries have been discussing the imminent implementation of a Digital Services Tax on American Companies. Some of these Countries are close to actually doing this. Please let this statement serve to represent that any Country that imposes such a Tax will immediately be met with a 100% TARIFF on any and all Goods sent to the United States of America. This TARIFF will supersede Trade Deals made with the Country, whether implemented, signed, or not. Additionally, the 100% TARIFF will be immediately imposed, if they proceed. Thank you for your attention to this matter. President DONALD J. TRUMP",
-   "tickers": [
-    "SPY"
-   ],
-   "engagement": 36586,
-   "url": "https://truthsocial.com/@realDonaldTrump/116817320899062447",
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "SPY",
-   "strength": 75,
-   "reason": "100% tariff threat on European goods if digital services tax imposed; broad market bearish on trade escalation"
   },
   {
    "curated": true,
