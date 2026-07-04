@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-07-04T19:13:58Z",
+ "last_updated": "2026-07-04T20:17:15Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -163,6 +163,22 @@
    "primary_ticker": "PLTR",
    "strength": 55,
    "reason": "Michael Burry shorts Palantir despite Trump endorsement; suggests skepticism despite bullish sentiment"
+  },
+  {
+   "date": "2026-07-03T12:56:53Z",
+   "platform": "News",
+   "text": "Michael Burry is shorting Micron as a 'destroyer of capital' despite Trump's praises and a 241% rally\u2014here's why - MSN \u2014 Michael Burry is shorting Micron as a 'destroyer of capital' despite Trump's praises and a 241% rally\u2014here's why\u00a0\u00a0MSN",
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNVmdGRnYwVElzYlJhMlcwbm0tSU4wQVdQa1cxYllNNThBU2k0T2dPWjFBM1JVZ0NuM0VsT2d6czh5Qkg1a21zM1BtT3VYenc4b0hrbFZobExDWUNXZlF4dEdlazQwUllJUHZweklxb0FhbkVmZ2l0akhGdHZoTWY1MVNtSFV1aG5EVW1uS1FpVGxOUWRXdTBSYXBvX1Ntb19hRk0tdEhSREY0TVNRX0tOcGhoVC1VRWZ0eGJtOVFwYlV4V3FZSmV4QXJDNk1JMXRNOFdDZlBZOUV5STY4LTF6OS1LSF9lR2pNNmFuUFB6OA?oc=5",
+   "tickers": [
+    "MU"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "MU",
+   "strength": 50,
+   "reason": "Trump praises Micron but analyst shorts on fundamentals; conflicting signals on direction despite rally"
   },
   {
    "date": "2026-07-03T12:29:29Z",
@@ -2482,30 +2498,6 @@
     "pct": 1.6,
     "base": 728.99,
     "last": 741.0,
-    "base_date": "2026-06-26",
-    "last_date": "2026-06-29"
-   }
-  },
-  {
-   "date": "2026-06-26T17:45:36Z",
-   "platform": "News",
-   "text": "IBRX Stock Surges 12% On Russell 1000 Inclusion Hopes - Stocktwits \u2014 IBRX Stock Surges 12% On Russell 1000 Inclusion Hopes\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMTUxUTlkWlR1N2k3Ql9hOGdEYjNnZTNpZUJfT2NSb05MZTBmMVhTZV9pQXM1OU41SWJQMVNXTGFGcjMtcHoxRE9YM1NQN1IyWjhXcmJmNllLdDZ5T3BiZDhYR1d5bnJoVmVVRE16akhJM0xGa2YzcFI3NlBPcHRlUHVuV0dmblAyM0NkWGhwSHV6N2J3Mnl1U2tTczdOMzEzNU15bDF1YkZfOTg3VGE5VzNrUQ?oc=5",
-   "tickers": [
-    "IBRX"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "IBRX",
-   "strength": 45,
-   "reason": "Russell 1000 inclusion hopes drive stock surge; positive technical catalyst",
-   "price_since": {
-    "ticker": "IBRX",
-    "pct": 0.7,
-    "base": 8.71,
-    "last": 8.77,
     "base_date": "2026-06-26",
     "last_date": "2026-06-29"
    }
