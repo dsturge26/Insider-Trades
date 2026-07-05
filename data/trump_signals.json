@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-07-05T10:51:58Z",
+ "last_updated": "2026-07-05T12:16:40Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-07-05T11:00:00Z",
+   "platform": "News",
+   "text": "Trump made money, bought up stock from crypto companies after his SEC dropped cases against them - Washington Examiner \u2014 Trump made money, bought up stock from crypto companies after his SEC dropped cases against them\u00a0\u00a0Washington Examiner",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdzNrb2dfMjN1U0VpQU11VFgxcWNUUTgyd1E0WmFGbncyYWFtalQ0dHg5MVZPS0hzY3IzdkUtSXh5d1AwaDVXLXlRQzRLMFlSSXNMcF9BM1hhQXNYczU2Q3NPaEhGQ0NaOGlOamVUTTRzSk9pNkJILUkxUWphOUVMVGZIU3ZXekdfaVZkeFlIN2JULURJRHJpUjlhTkk4YVVTTFg3NFV3?oc=5",
+   "tickers": [
+    "COIN"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "COIN",
+   "strength": 45,
+   "reason": "Trump's SEC dropped crypto cases and he bought crypto company stock; implies sector tailwind"
+  },
   {
    "date": "2026-07-05T05:09:55Z",
    "platform": "News",
@@ -2453,30 +2469,6 @@
    "primary_ticker": "SPY",
    "strength": 75,
    "reason": "100% tariff threat on countries taxing US tech firms is bearish for broad equities and tech sector"
-  },
-  {
-   "date": "2026-06-26T23:49:17Z",
-   "platform": "News",
-   "text": "Intel Stock Rips Nearly 6% Overnight After Trump Confirms Apple Chip Manufacturing Deal - Stocktwits \u2014 Intel Stock Rips Nearly 6% Overnight After Trump Confirms Apple Chip Manufacturing Deal\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPeVc1bmhubW1ud3BrVThmeW1EX2hTT3J6WnNaTnp5VDhmVUhCU19XUm9mUFhsNXpjRThjdS1BOFpjTHJ4ekwtQlhvQzlFbWJnVEloRHlGRzZueGpYN2RBbFQzNXRCWFhJemd6bFJzdXZGS09ram1nOEs1V2paaHNYWWZMOFJOSUNNbEt1bzRDRHFCNm5kTE5MWWRkQ255Uk1VODlzeW11RFFIQjlJVFdveVdtRkcwWTl0VnVaM1RVb0ZOX2ZLSmtVSlFoX1RBdVhqQzBjVDQ0eXFGRVhsbVFqSTl3M0Y?oc=5",
-   "tickers": [
-    "INTC"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "INTC",
-   "strength": 85,
-   "reason": "Trump confirms Apple chip manufacturing deal with Intel; explicit company/sector catalyst driving stock rally.",
-   "price_since": {
-    "ticker": "INTC",
-    "pct": 2.6,
-    "base": 128.32,
-    "last": 131.72,
-    "base_date": "2026-06-26",
-    "last_date": "2026-06-29"
-   }
   },
   {
    "curated": true,
