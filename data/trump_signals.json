@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-07-05T01:27:00Z",
+ "last_updated": "2026-07-05T05:39:28Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-07-04T20:12:44Z",
+   "platform": "News",
+   "text": "DELL Stock Spikes To Record Highs On President Trump\u2019s Endorsement - Stocktwits \u2014 DELL Stock Spikes To Record Highs On President Trump\u2019s Endorsement\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYWF1OUgweFU0d1NlNU4ya1FYQVJSVTRCX3IwM0NMd19VVmN5RzNtUmc1c2FhTU9abXdnTmVnMDE2QUxna3ZrUEF3Zkd0SFUtOWx3QkF2elBuNkNTcmZDRm1BRUkwMVRwYU0xaUVsWDZLSk0yeEtiMFFPV0t3ZXZ3OW15QUg5V0xHNnRrU1J5VXdvX09Oa0ZmRmJvV0VTVlFRRFh6c3E5RmtHckx0MXpNVVZTWmJpLTUtUXBHSG5pWEFfQll0ejRneDFB?oc=5",
+   "tickers": [
+    "DELL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "DELL",
+   "strength": 85,
+   "reason": "Trump explicitly endorsed Dell; stock spiked on endorsement"
+  },
   {
    "date": "2026-07-04T12:56:36Z",
    "platform": "News",
@@ -211,22 +227,6 @@
    "primary_ticker": "MU",
    "strength": 50,
    "reason": "Trump praises Micron but analyst shorts on fundamentals; conflicting signals on direction despite rally"
-  },
-  {
-   "date": "2026-07-03T12:29:29Z",
-   "platform": "News",
-   "text": "DELL Stock Spikes To Record Highs On President Trump\u2019s Endorsement - Stocktwits \u2014 DELL Stock Spikes To Record Highs On President Trump\u2019s Endorsement\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYWF1OUgweFU0d1NlNU4ya1FYQVJSVTRCX3IwM0NMd19VVmN5RzNtUmc1c2FhTU9abXdnTmVnMDE2QUxna3ZrUEF3Zkd0SFUtOWx3QkF2elBuNkNTcmZDRm1BRUkwMVRwYU0xaUVsWDZLSk0yeEtiMFFPV0t3ZXZ3OW15QUg5V0xHNnRrU1J5VXdvX09Oa0ZmRmJvV0VTVlFRRFh6c3E5RmtHckx0MXpNVVZTWmJpLTUtUXBHSG5pWEFfQll0ejRneDFB?oc=5",
-   "tickers": [
-    "DELL"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "DELL",
-   "strength": 75,
-   "reason": "Trump explicitly endorses Dell, stock spikes to record highs on his praise"
   },
   {
    "date": "2026-07-03T11:32:15Z",
@@ -2426,126 +2426,6 @@
     "pct": 2.6,
     "base": 128.32,
     "last": 131.72,
-    "base_date": "2026-06-26",
-    "last_date": "2026-06-29"
-   }
-  },
-  {
-   "date": "2026-06-26T23:47:03Z",
-   "platform": "News",
-   "text": "Tesla Stock Slips Premarket: First High-Volume Semi Rolls Out, But China Weakness Keeps Investors Cautious - Stocktwits \u2014 Tesla Stock Slips Premarket: First High-Volume Semi Rolls Out, But China Weakness Keeps Investors Cautious\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaXhNUXYxX3RPWllibFJZcWh6N1Q3MHM3R2k0cGlZYklBZVI5NFoydHpBQmc5N0ltSml6MEp6Q0p5YXAwT3F1NkJaNnpZeHhpdE1uOURobDlRUDVmb2p1ZE4wM2QxeWRMUF9QRlNXdFhkLVBURF9pZ09GYjkzRHExN1V0N1RjZUdIWGdxMHF4ZVZCQVRYQ3VReS1FMnAzUGxRVzItbzA2TzhXWHNydzFUclZ6QUlqUkdZRndZ?oc=5",
-   "tickers": [
-    "TSLA"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "TSLA",
-   "strength": 40,
-   "reason": "Tesla Semi production milestone offset by China headwinds; mixed signal",
-   "price_since": {
-    "ticker": "TSLA",
-    "pct": 8.5,
-    "base": 379.71,
-    "last": 411.84,
-    "base_date": "2026-06-26",
-    "last_date": "2026-06-29"
-   }
-  },
-  {
-   "date": "2026-06-26T22:43:50Z",
-   "platform": "News",
-   "text": "'We are making a lot of money with India': Trump praises PM Modi, backs US-India trade agreement - MSN \u2014 'We are making a lot of money with India': Trump praises PM Modi, backs US-India trade agreement\u00a0\u00a0MSN",
-   "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxOMkhXSkh2MUh1aC1hak93MUhNVzVlOTRKLXlRaXVMblhoMjJzS3d2bTVGTTR3ZGRkdVNPSHFrQ1M4cVVsb1c4bEdrSEc0NXFscHU4cF9TUG85VHYtZGZmb2JaU2FRelNEODJsT0k0bU8yc2xfRjZkODJ3ajdOS3c5QXB1dTNmbEl1eXdJd1dGTURCbGtfeTVDczJoRHAteDdIaDZxYk9qcXpxemg2dXpmNWVPNUxuaUdXU2lLRC1LNENZdVF5ME1BSkxTWUtIRjk5c2RqZmxLMzlmdmwxRU1lMU5RbnR5cTNFTkJ5VWVfckVrUEl5aFBPd043ZlJGQXJ5b082UkMxTGtaTno5VjlvZ1RtdGhmVEU0ZXdHTjJrcmxVNzZhVjRXSlBMUEcta3c1a1dsV2dZMnFIMEV4ampDcVFDZzNRUTFBTk5xODhKd3ZmLTlYOHpDMkRrSkNtbml3Qmo3V1E5SnVWVjNsMTR2QmFjWm5UUHc?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "SPY",
-   "strength": 35,
-   "reason": "US-India trade agreement praised; macro bullish sentiment on trade deal",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": 1.6,
-    "base": 728.99,
-    "last": 741.0,
-    "base_date": "2026-06-26",
-    "last_date": "2026-06-29"
-   }
-  },
-  {
-   "date": "2026-06-26T19:45:00Z",
-   "platform": "News",
-   "text": "Trump threatens 100% tariff on countries taxing digital services (Update) (GOOG:NASDAQ) - Seeking Alpha \u2014 Trump threatens 100% tariff on countries taxing digital services (Update) (GOOG:NASDAQ)\u00a0\u00a0Seeking Alpha",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWmxSMGh1bUoteHJJeUdVQVZtbTBXR1NVSDFSMnVyMmRWTUdQU3dtRTNzUHhsaFM0R0t2TU1tbVRpRV9BNVI1TUhCQWhnaW5SdlZHVmRoaXBGMjZkcUt2Mm51bTlLQnhGNGdsTjVNQ1pMQlNPVHVYbURiX2JvWDRaa0F1Q1ktbThZX2ZBWk5RVEM2N2pCdmJVOTRjS2FaN0pnZFNz?oc=5",
-   "tickers": [
-    "GOOG"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "SELL",
-   "primary_ticker": "GOOG",
-   "strength": 60,
-   "reason": "100% tariff threat on digital services tax directly targets Google and big tech",
-   "price_since": {
-    "ticker": "GOOG",
-    "pct": 5.0,
-    "base": 334.69,
-    "last": 351.28,
-    "base_date": "2026-06-26",
-    "last_date": "2026-06-29"
-   }
-  },
-  {
-   "date": "2026-06-26T19:33:00Z",
-   "platform": "News",
-   "text": "Top Trump official tours, praises Elon Musk's Nashville tunnel - The Tennessean \u2014 Top Trump official tours, praises Elon Musk's Nashville tunnel\u00a0\u00a0The Tennessean",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUG5Ea1BWVGVNcTNZTG82Xzc4SHlRNFFEdWFxUW5pTmhDeUhDT1R4MWwwdFRwUzdQdW11STRFNjhYdVpOS2JTcm5Edm55YV9hUEFWRWRQZTltQnJkX1FqOW9VRjV0V1ZzYnU5cGVsNWgyRTNqVmRlX2RqSDFQZkRvQ2NwMUdOd2E5dUJxbFVTOEw4eGFuRF9yamptemdMVHFqakhtaE5sX3pqbGdzSEpCYmxmbmd6UnZK?oc=5",
-   "tickers": [
-    "TSLA"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "TSLA",
-   "strength": 35,
-   "reason": "Praise of Elon Musk's infrastructure project; mild bullish signal for Tesla but not a direct market call.",
-   "price_since": {
-    "ticker": "TSLA",
-    "pct": 8.5,
-    "base": 379.71,
-    "last": 411.84,
-    "base_date": "2026-06-26",
-    "last_date": "2026-06-29"
-   }
-  },
-  {
-   "date": "2026-06-26T18:39:45Z",
-   "platform": "News",
-   "text": "Trump threatens 100% tariff on countries imposing digital services tax - Business Standard \u2014 Trump threatens 100% tariff on countries imposing digital services tax\u00a0\u00a0Business Standard",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZjlGbFpZSkNUMzJGQWktTXI0bWlHNWV0UW95aXp3RVpBVEtUZEhkTTVLaTVwdjVFZHdQR0htc0NVV0VEQmgydVlHcloxMGo5aHZqWnAwVl9zMTJrS3BOVkRmdVg4Q0VDcUZNeFFZTi1xTmRnaXM2RFNqUENYOVRvN01SYzktSENDdk1DRkFZbnJob2xfZFhvanpXZVl5MFRUMHpjUndvZDZUTGt4Smp1eGdfQ3RKcjdyNlNhdkMyZFhBeUI1cFpFdVVmWTlYeDg5bmdVcdIB1AFBVV95cUxQZjlGbFpZSkNUMzJGQWktTXI0bWlHNWV0UW95aXp3RVpBVEtUZEhkTTVLaTVwdjVFZHdQR0htc0NVV0VEQmgydVlHcloxMGo5aHZqWnAwVl9zMTJrS3BOVkRmdVg4Q0VDcUZNeFFZTi1xTmRnaXM2RFNqUENYOVRvN01SYzktSENDdk1DRkFZbnJob2xfZFhvanpXZVl5MFRUMHpjUndvZDZUTGt4Smp1eGdfQ3RKcjdyNlNhdkMyZFhBeUI1cFpFdVVmWTlYeDg5bmdVcQ?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "SPY",
-   "strength": 65,
-   "reason": "Threatened 100% retaliatory tariffs on digital services tax; bearish for broad market and US tech firms.",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": 1.6,
-    "base": 728.99,
-    "last": 741.0,
     "base_date": "2026-06-26",
     "last_date": "2026-06-29"
    }
