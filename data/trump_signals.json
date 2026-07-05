@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-07-05T05:39:28Z",
+ "last_updated": "2026-07-05T08:31:20Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-07-05T05:09:55Z",
+   "platform": "News",
+   "text": "Trump has made 18 Coupang stock trades since last October - Korea JoongAng Daily \u2014 Trump has made 18 Coupang stock trades since last October\u00a0\u00a0Korea JoongAng Daily",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQ3o5akd2ZUdNY295c2FCeFlmWm5obk1VRGhvSXNyUDExUlFmdXdQZkU5cU9JOHJGZ1AwM2d2RHkzaGZyc25hd056V1dMajJZd21rZ29VRUVpUXlrYVpVUFhjWVdPUWtQUUhfOUtodjBGOGVnWGd4RWs2S3dBa2FzX1hSVTE2NlFYWU5RVllhSVNmNWJCeU9GYUdWZWZHYjlMRTktQzZqZU5naWdkOEFV?oc=5",
+   "tickers": [
+    "CPNG"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "CPNG",
+   "strength": 25,
+   "reason": "Trump's personal stock trades noted; ambiguous direction without context on positions."
+  },
   {
    "date": "2026-07-04T20:12:44Z",
    "platform": "News",
@@ -81,6 +97,22 @@
    "primary_ticker": "MU",
    "strength": 45,
    "reason": "Micron faces DRAM price-fixing lawsuit; negative legal/supply outlook"
+  },
+  {
+   "date": "2026-07-04T03:49:00Z",
+   "platform": "News",
+   "text": "On Elon Musk donating SpaceX stock to Trump Accounts; Donald Trump says: Well, I think that he ... - The Times of India \u2014 On Elon Musk donating SpaceX stock to Trump Accounts; Donald Trump says: Well, I think that he ...\u00a0\u00a0The Times of India",
+   "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQZkNqUU9KQjllenhacHBqd3pTRmxCQmN1bndkQTVZZkFsY2FxaWdOcVB0aFcyQzAzNms2VjJ4S0ZHYmduNGlrclFTdC1Kc2tBN212YUJrRkpqSWI5bGlKQkVYaUM2OTczSktjU3o5eUpJQWdiSm1nbnBxM1B3Tnc5cmJjVU9FR09Dc3ZMN0dkbDFSMzNldERzZ2Nsa2cwZURKOEdNaUhKWk01WWhIa1NuS2haQmJ0Rm1jS19fQzdBY3BxdkhNandwRDNadk9lN25vYWdORkNYSm52QThnLVFTV0NXTVZPZmdfSkhiMEYxV29Qa2NDa0k5dXl1Q2M3ZHREOHcxcTVR0gGLAkFVX3lxTE1WOEJvWWpQTzBuemtIVnVmU1IxUkd4LWtpaHJobVF1NTdtejF4emtYY1ZacEg5N2t0b0N6TFNfZ1JQYTUyTWlkZ05OOUVLbEUyZk10UEpQZTRSbmhxLUttWmFEU05hWU04cksybWpKd1ZROTZpbDVkZlNLdHJmM0l0RXd4NWstZUNPM0VhQWRtOC1nU1FVWnM3aXNFNjR2RVpNZDN5Q1drcDlnajQ5UXU5MDg5V0ZDM0NFbWR4dnQ4eV8xMXJNUS1NNDZXbExEMHRxcE5uSFJiTGZvS3QxSS1BUGhtMGtTaDUxNUp4SUZUYnRIREZRODc1Tlh6Wmo0Y1dmcU9iY3pyWVdzOA?oc=5",
+   "tickers": [
+    "TSLA"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "TSLA",
+   "strength": 35,
+   "reason": "Discussion of Elon Musk donating SpaceX stock to Trump accounts; speculative, unclear direction."
   },
   {
    "date": "2026-07-04T01:02:08.485Z",
@@ -2429,6 +2461,40 @@
     "base_date": "2026-06-26",
     "last_date": "2026-06-29"
    }
+  },
+  {
+   "date": "2026-06-26T16:20:58.479Z",
+   "platform": "Truth Social",
+   "text": "Numerous European Countries have been discussing the imminent implementation of a Digital Services Tax on American Companies. Some of these Countries are close to actually doing this. Please let this statement serve to represent that any Country that imposes such a Tax will immediately be met with a 100% TARIFF on any and all Goods sent to the United States of America. This TARIFF will supersede Trade Deals made with the Country, whether implemented, signed, or not. Additionally, the 100% TARIFF will be immediately imposed, if they proceed. Thank you for your attention to this matter. President DONALD J. TRUMP",
+   "tickers": [
+    "SPY"
+   ],
+   "engagement": 36586,
+   "url": "https://truthsocial.com/@realDonaldTrump/116817320899062447",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "SPY",
+   "strength": 75,
+   "reason": "Announced 100% tariff on European goods in retaliation for Digital Services Tax; broad trade escalation bearish for US equities."
+  },
+  {
+   "date": "2026-06-24T04:12:13.948Z",
+   "platform": "Truth Social",
+   "text": "The big Oil Companies are not dropping their price at the pump commensurate with the sharply lower prices they are paying for Oil. Those prices are dropping like a rock! In other words, customers are being \"gouged.\" I have instructed the DOJ to immediately start looking into this. Gasoline prices better start going down a lot faster than what I'm seeing! President DJT",
+   "tickers": [
+    "XLE"
+   ],
+   "engagement": 29954,
+   "url": "https://truthsocial.com/@realDonaldTrump/116803130747198847",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "XLE",
+   "strength": 60,
+   "reason": "Trump directs DOJ to investigate oil company pricing; implied threat of regulatory action and price pressure on energy sector."
   },
   {
    "curated": true,
