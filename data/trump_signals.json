@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-07-05T08:31:20Z",
+ "last_updated": "2026-07-05T10:51:58Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -49,6 +49,22 @@
    "primary_ticker": "MU",
    "strength": 65,
    "reason": "Trump praises Micron Technology specifically following investment announcement"
+  },
+  {
+   "date": "2026-07-04T12:40:00Z",
+   "platform": "News",
+   "text": "Trump drops love-bomb on Micron while holding the stock \u2014 up 209% this year. Experts say it \u2018undermines\u2019 the system - Yahoo Finance \u2014 Trump drops love-bomb on Micron while holding the stock \u2014 up 209% this year. Experts say it \u2018undermines\u2019 the system\u00a0\u00a0Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRXN3SG90d3VFazdrS3J0dC1QUVZfTXdqVktxM3piNUtMTE9EOTBfMno4UjZ4VVg2RXdtYXpCQXE1eXBrRlRmeFVzX21fRG11a2VaMHB1N0lJRmVkN2UxLWFySGZqY0UzcmI5aFZTU2plZUxFb2tybkhJN2N1ZVZZZFBwT3Z0OXNfZDVJSlBjVDdGQU03bVpreg?oc=5",
+   "tickers": [
+    "MU"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "MU",
+   "strength": 80,
+   "reason": "Trump praises Micron while holding stock; explicit bullish signal and major rally context"
   },
   {
    "date": "2026-07-04T12:32:56Z",
@@ -2461,40 +2477,6 @@
     "base_date": "2026-06-26",
     "last_date": "2026-06-29"
    }
-  },
-  {
-   "date": "2026-06-26T16:20:58.479Z",
-   "platform": "Truth Social",
-   "text": "Numerous European Countries have been discussing the imminent implementation of a Digital Services Tax on American Companies. Some of these Countries are close to actually doing this. Please let this statement serve to represent that any Country that imposes such a Tax will immediately be met with a 100% TARIFF on any and all Goods sent to the United States of America. This TARIFF will supersede Trade Deals made with the Country, whether implemented, signed, or not. Additionally, the 100% TARIFF will be immediately imposed, if they proceed. Thank you for your attention to this matter. President DONALD J. TRUMP",
-   "tickers": [
-    "SPY"
-   ],
-   "engagement": 36586,
-   "url": "https://truthsocial.com/@realDonaldTrump/116817320899062447",
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "SPY",
-   "strength": 75,
-   "reason": "Announced 100% tariff on European goods in retaliation for Digital Services Tax; broad trade escalation bearish for US equities."
-  },
-  {
-   "date": "2026-06-24T04:12:13.948Z",
-   "platform": "Truth Social",
-   "text": "The big Oil Companies are not dropping their price at the pump commensurate with the sharply lower prices they are paying for Oil. Those prices are dropping like a rock! In other words, customers are being \"gouged.\" I have instructed the DOJ to immediately start looking into this. Gasoline prices better start going down a lot faster than what I'm seeing! President DJT",
-   "tickers": [
-    "XLE"
-   ],
-   "engagement": 29954,
-   "url": "https://truthsocial.com/@realDonaldTrump/116803130747198847",
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "XLE",
-   "strength": 60,
-   "reason": "Trump directs DOJ to investigate oil company pricing; implied threat of regulatory action and price pressure on energy sector."
   },
   {
    "curated": true,
