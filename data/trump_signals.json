@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-07-05T17:11:11Z",
+ "last_updated": "2026-07-05T18:16:51Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -33,6 +33,22 @@
    "primary_ticker": "QQQ",
    "strength": 25,
    "reason": "Trump weighs in on Musk, OpenAI, Intel, Fed policy; direction ambiguous without specifics, but tech/macro relevant."
+  },
+  {
+   "date": "2026-07-05T07:33:04Z",
+   "platform": "News",
+   "text": "Three Wall Street Analysts Agree On One Solar Stock That Could Win Big From Trump\u2019s Proposed Inverter Import Curbs - Stocktwits \u2014 Three Wall Street Analysts Agree On One Solar Stock That Could Win Big From Trump\u2019s Proposed Inverter Import Curbs\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNM05pVHhyOW5kREd6Nm9YRklBbFQ5YjZZQ1VjZmZGNGpUb1F2VHhXUDR6MlcwTkZ6RGgza2FQR3l3MG4yXzhYeEt4RkZZb2pXTlRab2hUcDZRTzA5Nm50NkZjOUNqRG9EUjhlckJtTG9VdFVCYmVmTk9tOElrWEhVNGt4X0U1bTB0dnVvMHd0bHNpOW5wSnBpd3NTUUxzLW9oWFJrZEtndU85dXZIVWllM0UwRklQQndpMTdSbG9DTDNxWHBGLUFPQXdmbjk5T2Z3ZWdqLVRKSzN3ZllLcjV0TExYV3BDOHBFelVHMmdyUzhYNDBEVjRpYmEydw?oc=5",
+   "tickers": [
+    "TAN"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "TAN",
+   "strength": 55,
+   "reason": "Trump's proposed inverter import curbs favor domestic solar; specific bullish catalyst for solar sector"
   },
   {
    "date": "2026-07-05T07:31:16Z",
@@ -1272,30 +1288,6 @@
    "reason": "Trump's personal crypto wealth up 10x signals bullish crypto sentiment tied to his holdings"
   },
   {
-   "date": "2026-07-01T09:20:00Z",
-   "platform": "News",
-   "text": "Three Wall Street Analysts Agree On One Solar Stock That Could Win Big From Trump\u2019s Proposed Inverter Import Curbs - Stocktwits \u2014 Three Wall Street Analysts Agree On One Solar Stock That Could Win Big From Trump\u2019s Proposed Inverter Import Curbs\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNM05pVHhyOW5kREd6Nm9YRklBbFQ5YjZZQ1VjZmZGNGpUb1F2VHhXUDR6MlcwTkZ6RGgza2FQR3l3MG4yXzhYeEt4RkZZb2pXTlRab2hUcDZRTzA5Nm50NkZjOUNqRG9EUjhlckJtTG9VdFVCYmVmTk9tOElrWEhVNGt4X0U1bTB0dnVvMHd0bHNpOW5wSnBpd3NTUUxzLW9oWFJrZEtndU85dXZIVWllM0UwRklQQndpMTdSbG9DTDNxWHBGLUFPQXdmbjk5T2Z3ZWdqLVRKSzN3ZllLcjV0TExYV3BDOHBFelVHMmdyUzhYNDBEVjRpYmEydw?oc=5",
-   "tickers": [
-    "TAN"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "TAN",
-   "strength": 55,
-   "reason": "Trump's proposed inverter import curbs bullish for solar stocks",
-   "price_since": {
-    "ticker": "TAN",
-    "pct": -3.5,
-    "base": 57.8,
-    "last": 55.75,
-    "base_date": "2026-07-01",
-    "last_date": "2026-07-02"
-   }
-  },
-  {
    "date": "2026-07-01T07:07:43Z",
    "platform": "News",
    "text": "MU Stock Eases After Record Run: Micron Backs Trump Accounts With $250M Commitment - Stocktwits \u2014 MU Stock Eases After Record Run: Micron Backs Trump Accounts With $250M Commitment\u00a0\u00a0Stocktwits",
@@ -2436,6 +2428,23 @@
    "primary_ticker": "DJT",
    "strength": 60,
    "reason": "DJT stock plunge erases Trump's stake value; direct bearish signal on his own company"
+  },
+  {
+   "date": "2026-06-27T10:03:35.027Z",
+   "platform": "Truth Social",
+   "text": "RT @realDonaldTrumpNumerous European Countries have been discussing the imminent implementation of a Digital Services Tax on American Companies. Some of these Countries are close to actually doing this. Please let this statement serve to represent that any Country that imposes such a Tax will immediately be met with a 100% TARIFF on any and all Goods sent to the United States of America. This TARIFF will supersede Trade Deals made with the Country, whether implemented, signed, or not. Additionally, the 100% TARIFF will be immediately imposed, if they proceed. Thank you for your attention to this matter. President DONALD J. TRUMP",
+   "tickers": [
+    "SPY"
+   ],
+   "engagement": 1,
+   "url": "https://truthsocial.com/@realDonaldTrump/116821499250670683",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "SPY",
+   "strength": 75,
+   "reason": "Trump threatens 100% tariffs on European goods in response to digital services tax; broad market bearish on trade escalation."
   },
   {
    "curated": true,
