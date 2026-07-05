@@ -1,60 +1,96 @@
 {
- "last_updated": "2026-07-04T23:43:47Z",
+ "last_updated": "2026-07-05T01:27:02Z",
  "source": "ApeWisdom / r/wallstreetbets",
  "signals": [
   {
    "ticker": "MU",
    "name": "Micron Technology",
-   "mentions": 86,
-   "mentions_24h_ago": 186,
-   "change_pct": -53.8,
+   "mentions": 90,
+   "mentions_24h_ago": 174,
+   "change_pct": -48.3,
    "rank": 1,
-   "upvotes": 437
+   "upvotes": 545
   },
   {
    "ticker": "SPY",
    "name": "SPDR S&amp;P 500 ETF Trust",
-   "mentions": 34,
-   "mentions_24h_ago": 44,
-   "change_pct": -22.7,
+   "mentions": 38,
+   "mentions_24h_ago": 40,
+   "change_pct": -5.0,
    "rank": 2,
-   "upvotes": 299
-  },
-  {
-   "ticker": "MSFT",
-   "name": "Microsoft",
-   "mentions": 27,
-   "mentions_24h_ago": 46,
-   "change_pct": -41.3,
-   "rank": 3,
-   "upvotes": 140
+   "upvotes": 314
   },
   {
    "ticker": "SNDK",
    "name": "Sandisk",
-   "mentions": 24,
-   "mentions_24h_ago": 52,
-   "change_pct": -53.8,
-   "rank": 4,
-   "upvotes": 104
-  },
-  {
-   "ticker": "META",
-   "name": "Meta Platforms (Facebook)",
-   "mentions": 24,
-   "mentions_24h_ago": 38,
-   "change_pct": -36.8,
-   "rank": 5,
-   "upvotes": 131
+   "mentions": 29,
+   "mentions_24h_ago": 47,
+   "change_pct": -38.3,
+   "rank": 3,
+   "upvotes": 122
   },
   {
    "ticker": "AMD",
    "name": "AMD",
-   "mentions": 23,
+   "mentions": 25,
    "mentions_24h_ago": 12,
-   "change_pct": 91.7,
+   "change_pct": 108.3,
+   "rank": 4,
+   "upvotes": 35
+  },
+  {
+   "ticker": "MSFT",
+   "name": "Microsoft",
+   "mentions": 25,
+   "mentions_24h_ago": 46,
+   "change_pct": -45.7,
+   "rank": 5,
+   "upvotes": 159
+  },
+  {
+   "ticker": "META",
+   "name": "Meta Platforms (Facebook)",
+   "mentions": 23,
+   "mentions_24h_ago": 36,
+   "change_pct": -36.1,
    "rank": 6,
-   "upvotes": 28
+   "upvotes": 156
+  },
+  {
+   "ticker": "QQQ",
+   "name": "Invesco QQQ ETF",
+   "mentions": 23,
+   "mentions_24h_ago": 16,
+   "change_pct": 43.8,
+   "rank": 7,
+   "upvotes": 48
+  },
+  {
+   "ticker": "RKLB",
+   "name": "Rocket Lab USA",
+   "mentions": 21,
+   "mentions_24h_ago": 2,
+   "change_pct": 950.0,
+   "rank": 8,
+   "upvotes": 166
+  },
+  {
+   "ticker": "WEN",
+   "name": "Wendy\u2019s Company",
+   "mentions": 20,
+   "mentions_24h_ago": 30,
+   "change_pct": -33.3,
+   "rank": 9,
+   "upvotes": 47
+  },
+  {
+   "ticker": "NVDA",
+   "name": "NVIDIA",
+   "mentions": 20,
+   "mentions_24h_ago": 24,
+   "change_pct": -16.7,
+   "rank": 10,
+   "upvotes": 343
   },
   {
    "ticker": "NBIS",
@@ -62,17 +98,8 @@
    "mentions": 18,
    "mentions_24h_ago": 14,
    "change_pct": 28.6,
-   "rank": 7,
-   "upvotes": 103
-  },
-  {
-   "ticker": "RKLB",
-   "name": "Rocket Lab USA",
-   "mentions": 18,
-   "mentions_24h_ago": 2,
-   "change_pct": 800.0,
-   "rank": 8,
-   "upvotes": 135
+   "rank": 11,
+   "upvotes": 110
   },
   {
    "ticker": "ASTS",
@@ -80,8 +107,17 @@
    "mentions": 18,
    "mentions_24h_ago": 12,
    "change_pct": 50.0,
-   "rank": 9,
-   "upvotes": 69
+   "rank": 12,
+   "upvotes": 72
+  },
+  {
+   "ticker": "MSTR",
+   "name": "MicroStrategy",
+   "mentions": 18,
+   "mentions_24h_ago": 27,
+   "change_pct": -33.3,
+   "rank": 13,
+   "upvotes": 38
   },
   {
    "ticker": "BYD",
@@ -89,53 +125,26 @@
    "mentions": 18,
    "mentions_24h_ago": 1,
    "change_pct": 1700.0,
-   "rank": 10,
+   "rank": 14,
    "upvotes": 48
   },
   {
-   "ticker": "NVDA",
-   "name": "NVIDIA",
-   "mentions": 18,
-   "mentions_24h_ago": 25,
-   "change_pct": -28.0,
-   "rank": 11,
-   "upvotes": 224
-  },
-  {
-   "ticker": "QQQ",
-   "name": "Invesco QQQ ETF",
-   "mentions": 17,
-   "mentions_24h_ago": 17,
-   "change_pct": 0.0,
-   "rank": 12,
-   "upvotes": 38
+   "ticker": "RDDT",
+   "name": "Reddit",
+   "mentions": 16,
+   "mentions_24h_ago": 7,
+   "change_pct": 128.6,
+   "rank": 15,
+   "upvotes": 48
   },
   {
    "ticker": "DTE",
    "name": "DTE Energy",
    "mentions": 16,
-   "mentions_24h_ago": 20,
-   "change_pct": -20.0,
-   "rank": 13,
-   "upvotes": 39
-  },
-  {
-   "ticker": "RDDT",
-   "name": "Reddit",
-   "mentions": 15,
-   "mentions_24h_ago": 7,
-   "change_pct": 114.3,
-   "rank": 14,
-   "upvotes": 45
-  },
-  {
-   "ticker": "MSTR",
-   "name": "MicroStrategy",
-   "mentions": 15,
-   "mentions_24h_ago": 28,
-   "change_pct": -46.4,
-   "rank": 15,
-   "upvotes": 34
+   "mentions_24h_ago": 22,
+   "change_pct": -27.3,
+   "rank": 16,
+   "upvotes": 41
   },
   {
    "ticker": "SPCX",
@@ -143,35 +152,53 @@
    "mentions": 15,
    "mentions_24h_ago": 20,
    "change_pct": -25.0,
-   "rank": 16,
-   "upvotes": 79
-  },
-  {
-   "ticker": "WEN",
-   "name": "Wendy\u2019s Company",
-   "mentions": 13,
-   "mentions_24h_ago": 30,
-   "change_pct": -56.7,
    "rank": 17,
-   "upvotes": 29
-  },
-  {
-   "ticker": "ADBE",
-   "name": "Adobe",
-   "mentions": 12,
-   "mentions_24h_ago": 3,
-   "change_pct": 300.0,
-   "rank": 18,
-   "upvotes": 197
+   "upvotes": 78
   },
   {
    "ticker": "VOO",
    "name": "Vanguard S&amp;P 500 ETF",
-   "mentions": 11,
-   "mentions_24h_ago": 10,
-   "change_pct": 10.0,
+   "mentions": 13,
+   "mentions_24h_ago": 9,
+   "change_pct": 44.4,
+   "rank": 18,
+   "upvotes": 21
+  },
+  {
+   "ticker": "SLS",
+   "name": "Sellas Life Sciences",
+   "mentions": 9,
+   "mentions_24h_ago": 1,
+   "change_pct": 800.0,
    "rank": 19,
-   "upvotes": 20
+   "upvotes": 18
+  },
+  {
+   "ticker": "ADBE",
+   "name": "Adobe",
+   "mentions": 9,
+   "mentions_24h_ago": 4,
+   "change_pct": 125.0,
+   "rank": 20,
+   "upvotes": 19
+  },
+  {
+   "ticker": "TSLA",
+   "name": "Tesla",
+   "mentions": 9,
+   "mentions_24h_ago": 6,
+   "change_pct": 50.0,
+   "rank": 21,
+   "upvotes": 331
+  },
+  {
+   "ticker": "AMZN",
+   "name": "Amazon",
+   "mentions": 9,
+   "mentions_24h_ago": 9,
+   "change_pct": 0.0,
+   "rank": 22,
+   "upvotes": 10
   },
   {
    "ticker": "GOOGL",
@@ -179,26 +206,17 @@
    "mentions": 8,
    "mentions_24h_ago": 2,
    "change_pct": 300.0,
-   "rank": 20,
-   "upvotes": 17
+   "rank": 23,
+   "upvotes": 23
   },
   {
-   "ticker": "SLS",
-   "name": "Sellas Life Sciences",
+   "ticker": "VTI",
+   "name": "Vanguard Total Stock Market ETF",
    "mentions": 8,
-   "mentions_24h_ago": 1,
-   "change_pct": 700.0,
-   "rank": 21,
-   "upvotes": 15
-  },
-  {
-   "ticker": "PLTR",
-   "name": "Palantir",
-   "mentions": 8,
-   "mentions_24h_ago": 12,
-   "change_pct": -33.3,
-   "rank": 22,
-   "upvotes": 11
+   "mentions_24h_ago": 3,
+   "change_pct": 166.7,
+   "rank": 24,
+   "upvotes": 30
   },
   {
    "ticker": "ES",
@@ -206,26 +224,8 @@
    "mentions": 8,
    "mentions_24h_ago": 1,
    "change_pct": 700.0,
-   "rank": 23,
-   "upvotes": 676
-  },
-  {
-   "ticker": "VTI",
-   "name": "Vanguard Total Stock Market ETF",
-   "mentions": 7,
-   "mentions_24h_ago": 3,
-   "change_pct": 133.3,
-   "rank": 24,
-   "upvotes": 25
-  },
-  {
-   "ticker": "NOW",
-   "name": "ServiceNow",
-   "mentions": 7,
-   "mentions_24h_ago": 6,
-   "change_pct": 16.7,
    "rank": 25,
-   "upvotes": 14
+   "upvotes": 799
   }
  ]
 }
