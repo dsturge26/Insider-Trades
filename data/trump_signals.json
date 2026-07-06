@@ -1,9 +1,41 @@
 {
- "last_updated": "2026-07-06T05:57:22Z",
+ "last_updated": "2026-07-06T10:48:18Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
-   "date": "2026-07-05T22:27:49Z",
+   "date": "2026-07-06T10:29:31Z",
+   "platform": "News",
+   "text": "Trump urged Americans to \u2018buy a Dell\u2019 while holding the stock \u2014 it\u2019s up 255% since. Enrich yourself now even if you don\u2019t sit in the White House - MSN \u2014 Trump urged Americans to \u2018buy a Dell\u2019 while holding the stock \u2014 it\u2019s up 255% since. Enrich yourself now even if you don\u2019t sit in the White House\u00a0\u00a0MSN",
+   "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxOTU5pWnhESWpuV0RjMzBDWUtJNWRaU0Jma08xNFNYWnJDT1pPQXBCRUJMWHZMRHRrSEMwVjR1SU51SVppTDY4dTlFUmpWdmdqMDZra0VPVG1tV0RLVFdhel9uS2FkdlBBNkVSem9uc2U5R2dPaDZVaEJEU1hsNkctUThaQ3B5dnZBRGl4eDFIek5kVkZ2dWttQjhiajNxUWVralByOHZ1Mnh4NlE3MzBuamdCdzNFMTFVUTZYcEZNRGQxR2JfX2JRVnJtbGhlcGJISERabUNhSWZzamV6X3B6RmZHb0NJVEZKZ2lMc01vMklqb2JtaW5SSUYtdmxTUWYtNVZYV25FOWpFbDBTRVZnVU5qTlctRi13bV85cEdoUWNKU0dKY0RWTGpuaXR6aW1uQUhiR0hrQjdLRFdWR3ViZWNvaE0yYmZoenc4?oc=5",
+   "tickers": [
+    "DELL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "DELL",
+   "strength": 95,
+   "reason": "Trump explicitly urged Americans to buy Dell stock while holding it; direct endorsement of specific ticker."
+  },
+  {
+   "date": "2026-07-06T08:32:00Z",
+   "platform": "News",
+   "text": "President Trump Sells Palantir Stock and Buys an AI Stock Up 2,100% Since 2023 - Yahoo Finance \u2014 President Trump Sells Palantir Stock and Buys an AI Stock Up 2,100% Since 2023\u00a0\u00a0Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOME1aeS0wRFhfUlNGRGRkbjRDUUM4cTdoeTdOSXRxMXJKR18xdGZsUGZIaFQzZmhJZ2QzTUJSdlo1R1dadG1CbEhDS1ktakp6WC1vVXUwVXJLbGZxcndVZVNZQ29WUUJDUmVlVGh3RW5TTFo1ZzJ4OVhRODVxby1lbURuSjE4WjZUemU1b2lyNDFIaVAyc0tBUzJkblZBWHAySDhj?oc=5",
+   "tickers": [
+    "SMH"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "SMH",
+   "strength": 45,
+   "reason": "Trump sold Palantir and bought an AI stock; suggests shift toward AI sector but specific ticker not disclosed."
+  },
+  {
+   "date": "2026-07-06T08:00:06Z",
    "platform": "News",
    "text": "Trump Weighs In On Elon Musk, OpenAI, Intel \u2014 And Takes Aim At The 'Hostile' Fed Board - Stocktwits \u2014 Trump Weighs In On Elon Musk, OpenAI, Intel \u2014 And Takes Aim At The 'Hostile' Fed Board\u00a0\u00a0Stocktwits",
    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSGdkS2RRUEt3TWdWdW8yWkZrN0NfU1lZak10VExCWGktUlg3enppTzF4UnpEVjg3YVZRR2JqRmFYdTVBQTdIcmJHYVFkX2ZtcHFiREF5UWZ3NExDNTJhTnd2VE5HM1A1WFZnVEpoY0Rfa1BYMVJrZ0lKNlhDdDBKVW41S0dCOTdncW5jWEhHRkZMU0lERlF4MlFyU0xxTXFNS25wMWVoa1c3SkliajdkUDUtTDdUWnZmUnI5aUhNeHJreTBacEE0Zk1WZVMzMXpfUDFIeU9GSEN2N2liM2c?oc=5",
@@ -13,10 +45,26 @@
    "classified": true,
    "is_market": true,
    "explicit": false,
-   "direction": "SELL",
+   "direction": "WATCH",
    "primary_ticker": "SPY",
-   "strength": 45,
-   "reason": "Trump criticizes Fed as 'hostile'; bearish for equities if signals rate/policy friction"
+   "strength": 35,
+   "reason": "Trump comments on multiple companies and Fed; mixed signals without specific endorsement or policy action announced."
+  },
+  {
+   "date": "2026-07-05T21:38:26Z",
+   "platform": "News",
+   "text": "Citi Stock Hits 52-Week High Before Fading As Trump Lauds Bank's 'Big Comeback' In M&A \u2014 But Full Picture Has Changed Now - Stocktwits \u2014 Citi Stock Hits 52-Week High Before Fading As Trump Lauds Bank's 'Big Comeback' In M&A \u2014 But Full Picture Has Changed Now\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWUpacUZnX014SV9nTnRZbVQ0dWhFQlZiV3ZjLV9nWExYUjVMdmlZdkdoNnFLcUhZUEhuZ1k3a2JENWJrYkhqdjJqNFlLaVlVYzBRb3dJOFA2Q1dESmhCTVJnQXJJaU15VjVFUFo2cWJDOEx3QTIzN0NSQjExRWhRZlNLaDFXeEZMQ0poajdjbGhmNlhPd1ZQSnVOSmNVa0pVTF94Z1RVdXlSU2JrR0N3X2dHSENINjZHNWdTYzB1dEZPaERK?oc=5",
+   "tickers": [
+    "C"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "C",
+   "strength": 70,
+   "reason": "Trump explicitly lauds Citi's 'big comeback' in M&A; direct praise of named bank moves stock."
   },
   {
    "date": "2026-07-05T19:50:48Z",
@@ -451,22 +499,6 @@
    "primary_ticker": "MU",
    "strength": 60,
    "reason": "Trump explicitly praises Micron; direct positive signal despite stock underperformance."
-  },
-  {
-   "date": "2026-07-03T07:07:30Z",
-   "platform": "News",
-   "text": "Citi Stock Hits 52-Week High Before Fading As Trump Lauds Bank's 'Big Comeback' In M&A \u2014 But Full Picture Has Changed Now - Stocktwits \u2014 Citi Stock Hits 52-Week High Before Fading As Trump Lauds Bank's 'Big Comeback' In M&A \u2014 But Full Picture Has Changed Now\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWUpacUZnX014SV9nTnRZbVQ0dWhFQlZiV3ZjLV9nWExYUjVMdmlZdkdoNnFLcUhZUEhuZ1k3a2JENWJrYkhqdjJqNFlLaVlVYzBRb3dJOFA2Q1dESmhCTVJnQXJJaU15VjVFUFo2cWJDOEx3QTIzN0NSQjExRWhRZlNLaDFXeEZMQ0poajdjbGhmNlhPd1ZQSnVOSmNVa0pVTF94Z1RVdXlSU2JrR0N3X2dHSENINjZHNWdTYzB1dEZPaERK?oc=5",
-   "tickers": [
-    "C"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "C",
-   "strength": 55,
-   "reason": "Trump lauds Citigroup's 'Big Comeback' in M&A by name; explicit praise of a named public company."
   },
   {
    "date": "2026-07-03T03:50:00Z",
@@ -2474,6 +2506,23 @@
    "reason": "Trump's majority-owned stock debuts \u2014 pure sentiment play, extremely volatile and headline-driven.",
    "market_reaction": "DJT spiked on debut then stayed volatile, moving heavily on Trump political/legal news.",
    "url": "https://www.nasdaq.com/market-activity/stocks/djt"
+  },
+  {
+   "date": "2023-05-18T12:00:00Z",
+   "platform": "Federal contract",
+   "text": "BLUE ORIGIN MANUFACTURING, LLC was awarded a $2.0B federal contract from National Aeronautics and Space Administration.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_80MSFC23CA014_8000_-NONE-_-NONE-",
+   "tickers": [
+    "BLUA"
+   ],
+   "contract_amount": 1.99,
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "BLUA",
+   "strength": 75,
+   "reason": "Blue Origin awarded $2.0B NASA contract; bullish for defense/aerospace sector and parent Berkshire indirect exposure"
   }
  ],
  "how_to_read": "Each card is Claude's read of a public Trump post: the affected ticker, whether it implies BUY / SELL / WATCH, a 0\u2013100 strength (how explicit/emphatic the post is \u2014 NOT a profit predictor), and why. A 2-year backtest found these don't beat buy-and-hold, so this is for awareness, not trading. Not financial advice."
