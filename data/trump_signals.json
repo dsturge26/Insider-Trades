@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-07-05T23:18:44Z",
+ "last_updated": "2026-07-06T01:15:42Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -17,6 +17,22 @@
    "primary_ticker": "COIN",
    "strength": 45,
    "reason": "Trump's SEC dropped crypto cases and he bought crypto company stock; implies sector tailwind"
+  },
+  {
+   "date": "2026-07-05T08:08:56Z",
+   "platform": "News",
+   "text": "Micron stock extends decline despite Trump's praise and bullish analyst views - MSN \u2014 Micron stock extends decline despite Trump's praise and bullish analyst views\u00a0\u00a0MSN",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVDN6T21fV2s0MzcxX0d2cHlvYVhZTFVlQW14T0ZRNHZlSkNsMFlxMm94MENjVWZNOC1vd09sZndybUVtbDV1SElGWVFqVUQwTVkzczJ3THh2WV8tUUJjQk8zNXN5WG9iT1l3bFA2TWlMeU1lYU9hS2FEWVNSVFlLcHFaUEU2YVRRVlV2NEl5OXM2Y0puckg1bF92RkR5c1ZKQTAxYmNoaEJXWTMwWlRkRTROZ0NNcmJ5c0p0MDZndHRoTFgtd0t2SzdEUnB6bzhvT2F6ZGRR?oc=5",
+   "tickers": [
+    "MU"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "MU",
+   "strength": 65,
+   "reason": "Trump explicitly praises Micron; headline notes stock decline despite bullish signal suggests mixed market read but explicit praise warrants BUY."
   },
   {
    "date": "2026-07-05T08:07:59Z",
@@ -81,6 +97,22 @@
    "primary_ticker": "CPNG",
    "strength": 25,
    "reason": "Trump's personal stock trades noted; ambiguous direction without context on positions."
+  },
+  {
+   "date": "2026-07-05T03:52:00Z",
+   "platform": "News",
+   "text": "Trump praises his admin's economic policies - Breakingthenews.net \u2014 Trump praises his admin's economic policies\u00a0\u00a0Breakingthenews.net",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOX096N19ZTWdtZWtaU2JqUjZETmNJMy1xaFhXeDVLeFV2LW4ydzIwOE5zNmNiWjFlM1VWTVFPMDNjSGE4VGxHcXRRb0FCRmRtNURuM0NHdkt1VHNBNTg1eldvTmhjUWxkU0RCOGM3T0hWMl9xck5SeWFqMmdKVnZReHk4MVhWbkQyTTB6OHpMUlQzUQ?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "SPY",
+   "strength": 40,
+   "reason": "Trump praises his admin's economic policies; broad macro-positive stance suggests bullish market sentiment."
   },
   {
    "date": "2026-07-04T20:12:44Z",
