@@ -1,7 +1,71 @@
 {
- "last_updated": "2026-07-06T17:21:29Z",
+ "last_updated": "2026-07-06T19:16:26Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-07-06T18:27:24Z",
+   "platform": "News",
+   "text": "Dell shares jump nearly 8% after Trump praises founder and backs Trump Accounts savings plan - Pluang \u2014 Dell shares jump nearly 8% after Trump praises founder and backs Trump Accounts savings plan\u00a0\u00a0Pluang",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVHZrc3QtUDNPbDU0a3NnRi1lS3lXTXdTTFF5aWhFSkVhXzlfUWRhY3J5dFpiTlpFeEtiTlJkN3p3TURJWDZrcThyVkY1VTdxcUVkR0FUcExqNFdoWVFOV3QzTk5Ub2U1cHFENHNSM1hmUlczMTdfVkxwYmN3U1pOTWgxWmRoWlY5UEFzRms0Yw?oc=5",
+   "tickers": [
+    "DELL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "DELL",
+   "strength": 85,
+   "reason": "Trump explicitly praises Dell founder and backs Trump Accounts savings plan involving Dell; stock already jumped 8%"
+  },
+  {
+   "date": "2026-07-06T18:06:35Z",
+   "platform": "News",
+   "text": "SpaceX donates stock to Trump Accounts as Trump bets his presidency on the market - Cryptopolitan \u2014 SpaceX donates stock to Trump Accounts as Trump bets his presidency on the market\u00a0\u00a0Cryptopolitan",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9icFRwSTM0b0praUZWR09vSWxxd0J4N1YxYlJ1eGI1VzFjbUJxU2xwMnh5YldSX3lsWm9qVkp6SlZpWGpUUUNjTTJzQmlwU1lWQzE1OFBSRk05Y2ZGVV9DN0xkQTdEQUw0bU56RDZKNTd3R1FCQlJDaw?oc=5",
+   "tickers": [
+    "SPACEX"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "SPACEX",
+   "strength": 40,
+   "reason": "SpaceX donates stock to Trump Accounts; unclear direct market impact since SpaceX is private; narrative-driven"
+  },
+  {
+   "date": "2026-07-06T17:58:00Z",
+   "platform": "News",
+   "text": "Dell Stock: Trump Wants You to Buy a Computer. Investors Are Buying Its Shares. - Barron's \u2014 Dell Stock: Trump Wants You to Buy a Computer. Investors Are Buying Its Shares.\u00a0\u00a0Barron's",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0xRlRJNkV4SzVUU3N2cEVvdzFPX3RGU042QzlMQ3BldjNuYVpRdEVRbkQtTlpUaUpGUmxuVnhtbDlOcGQxNmVTanNOZlhvdHE4cHlEQS1kTm1nWUFFYi1tbXdyWEZDMWFweW50WkhlNXgxLVY4RjhN?oc=5",
+   "tickers": [
+    "DELL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "DELL",
+   "strength": 88,
+   "reason": "Trump explicitly tells Americans to buy Dell computers; direct endorsement driving stock surge"
+  },
+  {
+   "date": "2026-07-06T17:23:28Z",
+   "platform": "News",
+   "text": "'Go out and buy a Dell': President Trump's backing of the PC-maker has shares surging - LinkedIn \u2014 'Go out and buy a Dell': President Trump's backing of the PC-maker has shares surging\u00a0\u00a0LinkedIn",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTUplVjlWa3RkeEUtckR3cGFQMHZpQWJoTXJFbGo5bW8zVUdJNE1nMlExMU56T0hOemlrMm1hYlBWOHQweGEtX2Y1ak5Pdy1LVVdNa3lpNzlMak1pcWEyeEhGWjdtVmwzeGMzSVJWYlZCSUMtay1iMHJHRUpZcm5wMk1TZnFscnJZOGw3S1hlbVRaYnBleGlTX09ELUxzbnZ0OEdpQzdTaG1fZ2RobHhKSVh5dXVDay1xZ0RR?oc=5",
+   "tickers": [
+    "DELL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "DELL",
+   "strength": 90,
+   "reason": "Trump's explicit 'Go out and buy a Dell' statement; direct presidential endorsement of specific company"
+  },
   {
    "date": "2026-07-06T17:07:00Z",
    "platform": "News",
@@ -69,8 +133,8 @@
   {
    "date": "2026-07-06T16:09:00Z",
    "platform": "News",
-   "text": "'Go out and buy a Dell': President Trump's backing of the PC-maker has shares surging - LinkedIn \u2014 'Go out and buy a Dell': President Trump's backing of the PC-maker has shares surging\u00a0\u00a0LinkedIn",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVXRSaTNHR2NNV2xOU0NNNTNycjlFSDc4c2pUUjJGVkhmbmZqZ0NWdmxtMGlPQjIwR1lKTURaaWFlMklVT3k0SDRmNGpVRnVlUUJVdkEwOHFPc0dZZDFIdmpRR1cyQTFUZDBqckdyZkFWZERaV3ptR0JxSGxEdml4M2FxeXlmTGZXbXJHQnh3akYzcl9BT3ZlMWhGeEREcW0zODdCYUdrR050N0JiT0kxSW5FZ0l1TVB3MURv?oc=5",
+   "text": "AI memory, chip stocks climb after last week's sell-off; Trump praises Dell - Seeking Alpha \u2014 AI memory, chip stocks climb after last week's sell-off; Trump praises Dell\u00a0\u00a0Seeking Alpha",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOV2ZKMDZ1MzlfRGV0M01fdFRGR085cmtyVW53WGtzcmNXSW80TkctenR6YzBWamFNQ0NscVdZNHlaMzIySjNqQXJaZXBRY29HS3VhcG56M1VUbWJqR2lZajhEUWhwRUU4WnVQYzBSTzVRNGpzblNWOVFtS2JrYUpKTURxTlVEZ29VN2JIaVpTRmp3SE9SRDRUVVc4Z2JLb2loVlljVUNmVkpicm5Id0E?oc=5",
    "tickers": [
     "DELL"
    ],
@@ -79,8 +143,40 @@
    "explicit": true,
    "direction": "BUY",
    "primary_ticker": "DELL",
-   "strength": 85,
-   "reason": "Trump's backing of Dell with explicit buy message causes share surge."
+   "strength": 80,
+   "reason": "Trump praises Dell amid broader chip stock recovery; explicit backing of specific company"
+  },
+  {
+   "date": "2026-07-06T16:05:41Z",
+   "platform": "News",
+   "text": "'Go out and buy a Dell': President Trump's backing of the PC-maker has shares surging - Business Insider \u2014 'Go out and buy a Dell': President Trump's backing of the PC-maker has shares surging\u00a0\u00a0Business Insider",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONGh4UFRXZWtydnlBczNYSDYwa0FmM1BJeTI2bnNJbEFlaGt0ZGlBQ1d2cklsV2JBNG05SGhFMHkzZGhQYmkzYmRpZUxWSHo1bmlwTlRIbGVDWFk5N1hGTlhRWjRIbUtiaVhUOTZvd1ZLVHJMQ1VBMS1CNkdVY0lQMDFkeWVEdzl6TXhrQmlITUtpWVV1T1I4V3lPYmM4ZVdDRms5Zktn?oc=5",
+   "tickers": [
+    "DELL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "DELL",
+   "strength": 90,
+   "reason": "Trump's 'Go out and buy a Dell' statement drives stock surge; explicit, direct endorsement"
+  },
+  {
+   "date": "2026-07-06T16:05:35Z",
+   "platform": "News",
+   "text": "'Go out and buy a Dell': President Trump's backing of the PC-maker has shares surging - Business Insider Africa \u2014 'Go out and buy a Dell': President Trump's backing of the PC-maker has shares surging\u00a0\u00a0Business Insider Africa",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUXZoMkZnekxWRzEtTDZ1V3JqQWplYUwtWU5jTjlkY2FRWEJwQ25ZQm1CV25uQ3JJTGozeXFNNzhBODBEOU9rUF9qMjZHSzJuaWhadDdkdWtNVnhIeTNBRHozZlJuZVk3M2NoazFpci1XWTFPeHM4amJhQTdwNUlKQ0g5S1p1YmFITFNvUzNlSW9WR2Jib0tuVHdNN0Yzc1pCYUkteV9DdHRrTVUzUEU2WGJUQVVYNGV5S2hYSVpyVTVCSlRTT0F1d25fV0c?oc=5",
+   "tickers": [
+    "DELL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "DELL",
+   "strength": 90,
+   "reason": "Trump's 'Go out and buy a Dell' remark; explicit presidential endorsement of specific company"
   },
   {
    "date": "2026-07-06T15:57:54Z",
@@ -97,6 +193,22 @@
    "primary_ticker": "DELL",
    "strength": 90,
    "reason": "Trump explicitly endorses Dell computers from Oval Office; 7% stock jump confirms market impact."
+  },
+  {
+   "date": "2026-07-06T15:57:54Z",
+   "platform": "News",
+   "text": "Trump tells Americans to buy Dell computers \u2014 and the stock jumps 7% - qz.com \u2014 Trump tells Americans to buy Dell computers \u2014 and the stock jumps 7%\u00a0\u00a0qz.com",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOX0Jjc2V5NW8wbXZmcUtYM0F3TmRIbUowdFAyLUM5V3pLUVBfZWhtdHNuTkNfb3NfbEwxZF84UWxWU012U1RYdXFOQTc3eHBjeUtOTnhYQVhabGctZWlPWEZSUlFRWmJsaXZIdlNTZXc0R2J6azNsRFhXeTZKbkNVOGpPR0M?oc=5",
+   "tickers": [
+    "DELL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "DELL",
+   "strength": 92,
+   "reason": "Trump tells Americans to buy Dell computers with 7% stock jump; explicit, actionable endorsement"
   },
   {
    "date": "2026-07-06T15:57:00Z",
@@ -147,6 +259,22 @@
    "reason": "Dell stock rises following Trump's public endorsement; explicit buy signal."
   },
   {
+   "date": "2026-07-06T15:20:50Z",
+   "platform": "News",
+   "text": "Trump\u2019s \u2018Buy Dell\u2019 Remark Ignites Stock Rally - Yahoo Finance \u2014 Trump\u2019s \u2018Buy Dell\u2019 Remark Ignites Stock Rally\u00a0\u00a0Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVEt4VjYxUEpkVFZ2ZFBnNmJTdW43LUpHMUdoX3ZaMWJrRW1qWGVWcHd1WnZuRzRneWJHR2daWTExU09XdFN0d2JSWG0wZE1hdERmU3N5emgzSFNoU3VzRE91eXpMeXY3MzFOUkVweWlGZFBXd3h6eHFjT1h0bkJXZTV2NjVIaVBkZVpfcnQ0Q3lLNkhPdDU5WUlR?oc=5",
+   "tickers": [
+    "DELL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "DELL",
+   "strength": 92,
+   "reason": "Trump's 'Buy Dell' remark ignites stock rally; explicit, direct market catalyst"
+  },
+  {
    "date": "2026-07-06T15:20:00Z",
    "platform": "News",
    "text": "Trump\u2019s \u2018Buy Dell\u2019 Remark Ignites Stock Rally - BeInCrypto \u2014 Trump\u2019s \u2018Buy Dell\u2019 Remark Ignites Stock Rally\u00a0\u00a0BeInCrypto",
@@ -177,6 +305,22 @@
    "primary_ticker": "DELL",
    "strength": 85,
    "reason": "Trump urges supporters to buy Dell while profiting from personal stake; explicit endorsement with high credibility concern."
+  },
+  {
+   "date": "2026-07-06T14:50:20Z",
+   "platform": "News",
+   "text": "AI memory, chip stocks rise after last week's sell-off; Trump praises Dell - MSN \u2014 AI memory, chip stocks rise after last week's sell-off; Trump praises Dell\u00a0\u00a0MSN",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOODNJLV9qSWF2SlFxTExiRlR4ZU5BM0FhenZvN3EzOTM1WWQ4RGR5YW5LRElhYlZLNl9iQkdTQzNpeVdyUDNjYlRCNmwwTENjVEREWjh3Ri1ZdElFbmVXQy0zQm9xVTBrYmNSelg5dGJ5TnZFSGNlSk9uQWh4UzB1eXNZbDFVeHloam5UTWwyWXhhQS1Cc2tLeW14Y2N1M1gxTEdqX0RrWGw5VS1SeGdXRjBwd0dXZFR0bkRFZHF4NEduYzFYMWwxdzVyVWc5TVFnZ25BSG51bWxsdWx6Q21nYkx3?oc=5",
+   "tickers": [
+    "DELL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "DELL",
+   "strength": 80,
+   "reason": "Trump praises Dell amid chip sector recovery; explicit backing of specific company"
   },
   {
    "date": "2026-07-06T14:42:00Z",
@@ -323,6 +467,22 @@
    "reason": "Trump comments on multiple companies and Fed; mixed signals without specific endorsement or policy action announced."
   },
   {
+   "date": "2026-07-06T04:32:50Z",
+   "platform": "News",
+   "text": "Micron stock extends decline despite Trump's praise and bullish analyst views - MSN \u2014 Micron stock extends decline despite Trump's praise and bullish analyst views\u00a0\u00a0MSN",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQQ1FIbG85LTlFQTZEaXEtMEhXRG5GUFFVcXo2Z0o0YlNIdnJ2QWdObTBqaTFSRkcyUktma3dQN01sSmgzQ0JwQXRyMFpndUR4RHJlZkJIeHNXNTBySmdDYmQzR0IxT0NiOG9nSkJqeEhZeEUxdWNhNERZLXVNUzhYLUtGREp1cUZFZG1WeG5NMFZBamhKcGt1anVCYlJqSldQSWNBTlB4em9Zd0w0MFVEM3J0em9oWHAwUFRlNnRuRzVtU0JyeXBkMzJTZXA3cTNPS09iUnE0ODZJc0YwX3FyMk4wa2lMbUhlNmhDTEVR?oc=5",
+   "tickers": [
+    "MU"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "WATCH",
+   "primary_ticker": "MU",
+   "strength": 40,
+   "reason": "Trump praised Micron but stock declined; suggests praise alone insufficient to overcome other bearish factors."
+  },
+  {
    "date": "2026-07-05T21:38:26Z",
    "platform": "News",
    "text": "Citi Stock Hits 52-Week High Before Fading As Trump Lauds Bank's 'Big Comeback' In M&A \u2014 But Full Picture Has Changed Now - Stocktwits \u2014 Citi Stock Hits 52-Week High Before Fading As Trump Lauds Bank's 'Big Comeback' In M&A \u2014 But Full Picture Has Changed Now\u00a0\u00a0Stocktwits",
@@ -385,22 +545,6 @@
    "primary_ticker": "COIN",
    "strength": 45,
    "reason": "Trump's SEC dropped crypto cases and he bought crypto company stock; implies sector tailwind"
-  },
-  {
-   "date": "2026-07-05T08:08:56Z",
-   "platform": "News",
-   "text": "Micron stock extends decline despite Trump's praise and bullish analyst views - MSN \u2014 Micron stock extends decline despite Trump's praise and bullish analyst views\u00a0\u00a0MSN",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVDN6T21fV2s0MzcxX0d2cHlvYVhZTFVlQW14T0ZRNHZlSkNsMFlxMm94MENjVWZNOC1vd09sZndybUVtbDV1SElGWVFqVUQwTVkzczJ3THh2WV8tUUJjQk8zNXN5WG9iT1l3bFA2TWlMeU1lYU9hS2FEWVNSVFlLcHFaUEU2YVRRVlV2NEl5OXM2Y0puckg1bF92RkR5c1ZKQTAxYmNoaEJXWTMwWlRkRTROZ0NNcmJ5c0p0MDZndHRoTFgtd0t2SzdEUnB6bzhvT2F6ZGRR?oc=5",
-   "tickers": [
-    "MU"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "MU",
-   "strength": 65,
-   "reason": "Trump explicitly praises Micron; headline notes stock decline despite bullish signal suggests mixed market read but explicit praise warrants BUY."
   },
   {
    "date": "2026-07-05T07:33:04Z",
@@ -2295,383 +2439,6 @@
     "pct": 3.7,
     "base": 38.0,
     "last": 39.42,
-    "base_date": "2026-06-29",
-    "last_date": "2026-06-30"
-   }
-  },
-  {
-   "date": "2026-06-29T10:20:47Z",
-   "platform": "News",
-   "text": "Trump's tariffs aren't saving jobs at Whirlpool's Iowa refrigerator plant - The Economic Times \u2014 Trump's tariffs aren't saving jobs at Whirlpool's Iowa refrigerator plant\u00a0\u00a0The Economic Times",
-   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPLW9ITDNNQm5RRUthLTIxZzRWSXJHcUNSWWZMclZoUnl3RDNvTVhjUVhnbFIzNzB5OXlDN2NKVDMzcTAwWTVjUHhFcHVFVUJaUTVyRlRRclVFbS1YUTJNUWRxTzFINmZOVThOY0h4ejlhY2xuYXpYa211OTU1OG9aVW81T2YzVkVvU3JKa0pQNHlhNlFHX2MwbGs0endkZm9ZTXVWeU9Wb1pmcFZMdXBkSjdFTklubS1hdXRRVnVZa3RMVTVwcFd0Y3VaS09RS2NuaHpNajBUbUdvSVh0bFliVU9ibi1JeGvSAewBQVVfeXFMUHUzdEh2dnhRbVdsZTRsMVBReExxZXphaEd3RWt4SUJOcHNFeUFRd0xRb2NZekZkTG4tMDlhYm9VbDhwQWw5dHk4ZXFIMTF3VmJIQnItOWg2THEtQ01ueW5JZm9oSzVIU1hBQXlPcVFzbUdYYVZxZHVrZFpfazI2c0tyb25UeV9fQzJHUTVOd0hUcUFndjZZZXpBbG5hUXBBVzNxQkFYQURyN1BOSmtJcDZpTjZSVl9aRXp3WkxETU5GbFJnQ2FHbFZReERBaE92QzNQQVVfUzU0MHl3N3c1MWFOdDU5dzhXeUhYVWI?oc=5",
-   "tickers": [
-    "WHR"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "WHR",
-   "strength": 45,
-   "reason": "Tariffs failed to save jobs at Whirlpool plant, undermining Trump's tariff rationale; negative signal on WHR operationally",
-   "price_since": {
-    "ticker": "WHR",
-    "pct": 3.7,
-    "base": 38.0,
-    "last": 39.42,
-    "base_date": "2026-06-29",
-    "last_date": "2026-06-30"
-   }
-  },
-  {
-   "date": "2026-06-29T09:11:20Z",
-   "platform": "News",
-   "text": "Stock Market Today: Dow Jones, S&P 500 Futures Gain As Trump Admin Says US, Iran Will 'Stand Down'\u2014Verizo - Benzinga \u2014 Stock Market Today: Dow Jones, S&P 500 Futures Gain As Trump Admin Says US, Iran Will 'Stand Down'\u2014Verizo\u00a0\u00a0Benzinga",
-   "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQM1RvZi1SckV4Y21CRC1YX2RxM1YzTFRsWWhqMVROM3REdGdwQUtJT0dFSnZqQlZGMnBUcy1YVFhDMTNrX0c2clFaZ3Zvdk0xUVE3dWt2LXRDeWt2RzF2Ry1rZTQydXI4T0Z0OEFwN3BVV2RTZjBFSHNQdTlhd0NBU3JzMnh4Z3ExUERqSF9TTjJxdXdkUWtMR0JYSWVaYkY2a0t3WWtINlBDVFF5U2ZVZWJZcjg3SkRDbC1nem1ndmJBbm51UC1vRHJuUllKTWZOVVNPV3h5cTFjMVI4a09fZmd6MFdsSXR0R2ZXbjEtek9YUkFreWwzSUFReG90bDRkQWlvOGFDSmNkdGZTeG5NMWlkZTlUeURHNDByR2lBbw?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "SPY",
-   "strength": 60,
-   "reason": "US-Iran de-escalation reduces geopolitical risk; broad market bullish on peace signal",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": 0.8,
-    "base": 741.0,
-    "last": 746.77,
-    "base_date": "2026-06-29",
-    "last_date": "2026-06-30"
-   }
-  },
-  {
-   "date": "2026-06-29T05:45:07Z",
-   "platform": "News",
-   "text": "TSLA Stock Slips Premarket: Musk Joins Trump\u2019s China Trip As FSD Delays Threaten Tesla\u2019s Biggest Factory - Stocktwits \u2014 TSLA Stock Slips Premarket: Musk Joins Trump\u2019s China Trip As FSD Delays Threaten Tesla\u2019s Biggest Factory\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVHl5OGJHalFWTEM0d0l2LXRjLVJ6QTVjV0t3a3J6YkxkMF9fT2ZGU2VkNGl2NGpEc0NxMjV0SkRHMDhQUWJVTXZUOTVFeVdfb1I4dDBzV25yNWc2UlRsaGpIb1h0dXZIcVMyUXNQZ0FUd01vMmVPQmd2NDBkMy0tV2E1TGs2emp0Xy1iMHA0Z21ISDNpSTFOQzRKRjZGSGhZQ21vY2R0dzZfbEVnOWh4VzhtRnVoWnRJRXMwblQ0VFdJRzVKWnAyOExR?oc=5",
-   "tickers": [
-    "TSLA"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "TSLA",
-   "strength": 45,
-   "reason": "Musk-Trump China trip amid FSD delays and factory concerns creates execution risk for Tesla",
-   "price_since": {
-    "ticker": "TSLA",
-    "pct": 2.1,
-    "base": 411.84,
-    "last": 420.6,
-    "base_date": "2026-06-29",
-    "last_date": "2026-06-30"
-   }
-  },
-  {
-   "date": "2026-06-29T05:24:28Z",
-   "platform": "News",
-   "text": "DJT stock heads for worst month this year: Peter Schiff says 'harbinger of what's to come' - MSN \u2014 DJT stock heads for worst month this year: Peter Schiff says 'harbinger of what's to come'\u00a0\u00a0MSN",
-   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOdG1GcjNHNFBtUGQ1YmJPR3NhUm0yQ2YxMDk3VzkyQ2t1Q2dJX3ozQnhqQUpUMm0zZWhuaHJRX2h2a0pfcEJlQmx0S1N5RDJUZEJ4NDltUGxZVURQN05qVWdSNDdHRS1ncTBodkU5MTUybzV5cWcwTGhPR3NINUQzOXRBYmpOSHhvTlV4MXZCck1JZXhiV0pBbzJfcXZmemdVN1RFVi1tbHBHVGhaTVZJUGhLT2FudTU0SUJXNFhKSnF4YXU0cmxtaS0zYm9UYVM3WGJndkdLcFBCMGt6MV9UUVhNY3hVMXJmWTR3S0hKZU50X0FRUWJkcDVQOA?oc=5",
-   "tickers": [
-    "DJT"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "DJT",
-   "strength": 55,
-   "reason": "DJT stock in worst month of year; negative momentum and commentary signal weakness",
-   "price_since": {
-    "ticker": "DJT",
-    "pct": 3.3,
-    "base": 7.49,
-    "last": 7.74,
-    "base_date": "2026-06-29",
-    "last_date": "2026-06-30"
-   }
-  },
-  {
-   "date": "2026-06-29T01:07:07Z",
-   "platform": "News",
-   "text": "Crypto Market Bull Run Likely Amid Trump\u2019s Clarity Act Support, Morgan Stanley\u2019s Coinbase Bet, Says Clear Street - Stocktwits \u2014 Crypto Market Bull Run Likely Amid Trump\u2019s Clarity Act Support, Morgan Stanley\u2019s Coinbase Bet, Says Clear Street\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOHphU094V1k2emh1Y01lbDktbFpiVXBtX0pKZF9BSGJ5UTZ4cTl0cGV3N2tidFRWa0hkRl85RTVSSlVPMTFmcmE1cXZVZDh2N2FXaTFwcXJjNkppaGtkTjNkYWkyQXpoU3NTMUpXZEptcFc2c3JUT1pQVXRoUU9hZEcyanNIX2tUS3ctLWlvTV9ILV85NDFXM0xWMmtPbnJjdXV6NkF5SXRCTXQyMmlfNWtkMkpla0lqSy1iVkxiZDllQjhFTU1zSA?oc=5",
-   "tickers": [
-    "COIN"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "COIN",
-   "strength": 60,
-   "reason": "Trump's Clarity Act support for crypto and Morgan Stanley Coinbase bet signal bullish sentiment for crypto sector",
-   "price_since": {
-    "ticker": "COIN",
-    "pct": -3.6,
-    "base": 151.65,
-    "last": 146.19,
-    "base_date": "2026-06-29",
-    "last_date": "2026-06-30"
-   }
-  },
-  {
-   "date": "2026-06-28T18:28:52Z",
-   "platform": "News",
-   "text": "Is President Trump about to buy a stake in OpenAI? - MSN \u2014 Is President Trump about to buy a stake in OpenAI?\u00a0\u00a0MSN",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTjJRY1A0Y3FFekJhdGlvSzBnQTFjZDhBVW1wd1U1WDRPRDIwREwySzMtM0I5cWthUUIwRDFnOHY0N1FIak5zSlJLYzQtU0l3SzgzTzBNckpUS0tTRFF3UmFIdTNyQzlEZzF4bU1kMm1mZjNvTTVuNXc3ZDNBdEp6Vkl3QUdFRlZFRGlsT1pMd0Z6elZGaTBXQ0VyTm1xMi1VQWdNcEhaQzFUMDJDazBQcjY1TXY2UHczM1gydXgweWo5RVJ4emc?oc=5",
-   "tickers": [
-    "MSFT"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "MSFT",
-   "strength": 35,
-   "reason": "Speculation on Trump OpenAI stake; direction unclear but relevant to AI sector",
-   "price_since": {
-    "ticker": "MSFT",
-    "pct": 1.2,
-    "base": 368.57,
-    "last": 373.02,
-    "base_date": "2026-06-29",
-    "last_date": "2026-06-30"
-   }
-  },
-  {
-   "date": "2026-06-28T16:14:22Z",
-   "platform": "News",
-   "text": "Eric Trump Says ABTC Has More Bitcoin Than GLXY \u2013 Stock Still Falls Amid Bitcoin\u2019s Decline - Stocktwits \u2014 Eric Trump Says ABTC Has More Bitcoin Than GLXY \u2013 Stock Still Falls Amid Bitcoin\u2019s Decline\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMi1CeXRoc3duaXd4NGxDU1M4aHRJR3ptWTltWjdiY1pJb2xUakZBeFpoZ0NsTm9Kd3hRQW9DOXBiTEgwUWVyaFRFOHgyaEpxOXZHNFZqWGZHOXpFbnBaaEU3TUI4U3laX1JRMjR4ejk0NG5iQTFfVnFBRlhBcnR5MGxIRF9tRUg2LWItQnRYZVF3ejVrQW1SVGNqQXdMVm1YMDlUZUJNSk50V3ZmNHZqOQ?oc=5",
-   "tickers": [
-    "BTC-USD"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "BTC-USD",
-   "strength": 40,
-   "reason": "Bitcoin comparison amid crypto volatility; ambiguous directional signal",
-   "price_since": {
-    "ticker": "BTC-USD",
-    "pct": -1.1,
-    "base": 59532.34,
-    "last": 58857.99,
-    "base_date": "2026-06-28",
-    "last_date": "2026-07-01"
-   }
-  },
-  {
-   "date": "2026-06-28T14:20:59Z",
-   "platform": "News",
-   "text": "Why is IBM stock surging nearly 7% higher in overnight trading? - MSN \u2014 Why is IBM stock surging nearly 7% higher in overnight trading?\u00a0\u00a0MSN",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPM3pGTHFEQndSRTFQUUZJTlR1OFB1RndGU2JvV1ZXZ1BKemNwNEUtd1lTRnBxaG1GczFzcy0tSEtmeF84VGdBZjFkOHMzMHVZNmZhV2R1MExkdG13TUNJT2dubG1rRV9zTmJPcHRDUEVVS0xwQ3p2WmxEWTJhbF9tWl9acUgxUm9SUmFTZjJ4TnRGQ1Bzd3dvcnpUaUQ0ZzUwUnZRb0Roclo2NDQzRl8taGdwblFSY2tVWTVqTHlTM3l3Mlo3elMyck1IUkc3LTg?oc=5",
-   "tickers": [
-    "INTC"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "INTC",
-   "strength": 40,
-   "reason": "IBM surge overnight but headline lacks Trump-specific catalyst; could be unrelated earnings or sector move",
-   "price_since": {
-    "ticker": "INTC",
-    "pct": 6.0,
-    "base": 131.72,
-    "last": 139.63,
-    "base_date": "2026-06-29",
-    "last_date": "2026-06-30"
-   }
-  },
-  {
-   "date": "2026-06-28T13:08:15Z",
-   "platform": "News",
-   "text": "Trump Criticizes Iran\u2019s \u2018Poor Job\u2019 On Strait Of Hormuz Oil Passage, Says This Is \u2018Not The Agreement\u2019 - Stocktwits \u2014 Trump Criticizes Iran\u2019s \u2018Poor Job\u2019 On Strait Of Hormuz Oil Passage, Says This Is \u2018Not The Agreement\u2019\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNklqd3BXWkNYTkpyNkVaVHEtX3ZrUzNsQ1N5SGExazNseld2dVE5aVIxY2pLYmFyVzU0N1RwS2RsTzhBY3p3MHpmeFB0cHRWWEtTM0FMcUtDYlZHeXZaUU1BZll4Z3RPWWFTRzFjNGJtV2owSnRBbmlHTER3SHlEczlGTFVjV19kWFA1QjBfRGtJSEw4WE9yd054OU9XdGJXVGtNVWlPenEwVTJ4Wk1xRlE0TzhRUQ?oc=5",
-   "tickers": [
-    "XLE"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "XLE",
-   "strength": 50,
-   "reason": "Trump criticizes Iran oil passage control, raising geopolitical tension and Strait of Hormuz risk premium implications",
-   "price_since": {
-    "ticker": "XLE",
-    "pct": -0.9,
-    "base": 53.58,
-    "last": 53.11,
-    "base_date": "2026-06-29",
-    "last_date": "2026-06-30"
-   }
-  },
-  {
-   "date": "2026-06-28T12:44:51Z",
-   "platform": "News",
-   "text": "Trump Announces Insurance, Military Escorts For Ships Amid Escalating US-Israel-Iran War - Stocktwits \u2014 Trump Announces Insurance, Military Escorts For Ships Amid Escalating US-Israel-Iran War\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOMTZIVmNWdjV5YXktQnlieFJCOGxkZnB1cXZLdEdVQ2FhTk9pN0NPOTdOY0xxRHVuRHV5ODlndElnRUc0UmVFUE1YTV9wWkcwWW1NVGQ0N3BfRS1sLTFvbmp1blBVbnF6dG1pY0VPQlc4NDRITEQ4X1JrM0dSOFNqUGRTUE0yY2wxNWltbTVLSU1SMGJPTDRuQTFHa0tmOHFxZ2daUS12X3RtZ1hQbUFQOE1KVkZfSVZpSmJIREVEc3g3Tk9pRU1KNTVtWWdxeThHeW1vOVVEY2lCR0VGRjJFX0taWDRndw?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "SPY",
-   "strength": 35,
-   "reason": "military escorts and insurance for ships amid Iran escalation is mixed; suggests risk but also government support for commerce",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": 0.8,
-    "base": 741.0,
-    "last": 746.77,
-    "base_date": "2026-06-29",
-    "last_date": "2026-06-30"
-   }
-  },
-  {
-   "date": "2026-06-28T07:49:07Z",
-   "platform": "News",
-   "text": "Nokia Corporation (NYSE:NOK) Given Average Recommendation of \"Moderate Buy\" by Brokerages - MarketBeat \u2014 Nokia Corporation (NYSE:NOK) Given Average Recommendation of \"Moderate Buy\" by Brokerages\u00a0\u00a0MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQY3ZTeWttS2NWU2pPbXpFQy0zTGszTUVIc0hXX1dBS0JGc3NxSzYyUl9Ra29IYVJKeFFzaENtdFB6Q0w3YkwwSDJGV2ZMWWt3c09HWUlrZ0k0UDRyZFNNbTdQc19GU3JxTDRNajkzd3JjLVlKTjBHOWczNVNoSjlvbmpwSnJwLUJVYkpSSEI2OFFod2FCMkZsRWNBS1hIWlBlRlBXenJDbGpKUk5tZVFlQko1d29ZbEgtM1d3NmRCYTVLUzFRcEZVZEdYR0ZETmRvX2tsNA?oc=5",
-   "tickers": [
-    "NOK"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "NOK",
-   "strength": 35,
-   "reason": "Brokerage upgrade to Moderate Buy; general analyst consensus, not Trump-driven",
-   "price_since": {
-    "ticker": "NOK",
-    "pct": 1.9,
-    "base": 13.03,
-    "last": 13.28,
-    "base_date": "2026-06-29",
-    "last_date": "2026-06-30"
-   }
-  },
-  {
-   "date": "2026-06-28T06:37:33Z",
-   "platform": "News",
-   "text": "DVLT Stock Tumbles Pre-Market On Discounted Offering \u2013 Retail Slams The Move, Calling It \u2018Self-Inflicted Pain\u2019 - Stocktwits \u2014 DVLT Stock Tumbles Pre-Market On Discounted Offering \u2013 Retail Slams The Move, Calling It \u2018Self-Inflicted Pain\u2019\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVUx3aGVQUk9NNklvanl0M0xObG44aVBxc0FCaTNESVRBUm14b05yTHExSnNIeGNrWVpXTkxhSmU2S0xZaUhTRHBvRVYtS1ZqTGNNVnpYSHVKSG85WG1jeWdmMXdZZ1pUV0h1YlNBaWlyZkFJVmRuR25PMGxJRGlKTi04U29DSHMxOEplQW9ZbmZqamluSEduUGR6cUc1WmlfbU5TbUJB?oc=5",
-   "tickers": [
-    "DVLT"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "DVLT",
-   "strength": 55,
-   "reason": "Discounted equity offering dilutive to shareholders; company-specific negative catalyst.",
-   "price_since": {
-    "ticker": "DVLT",
-    "pct": 6.1,
-    "base": 0.33,
-    "last": 0.35,
-    "base_date": "2026-06-29",
-    "last_date": "2026-06-30"
-   }
-  },
-  {
-   "date": "2026-06-28T06:12:01Z",
-   "platform": "News",
-   "text": "NOK stock rises pre-market: Trump endorsement adds fuel to AI growth push for Nokia - MSN \u2014 NOK stock rises pre-market: Trump endorsement adds fuel to AI growth push for Nokia\u00a0\u00a0MSN",
-   "url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxOaDZySzFJSWdQVjhnb0ZQTVFoblZFbk4xSnNudVk5QXVRMVZTSGNiUkxSSlVwanRfazdacWJBTW5fdXk3UDJfWFI5SFh0V2VTOG15NHhwaXRZV2plcFlkMGt0aXNGVDBIejR5WFB4Y29hQ2lNRWxUenRMLTEzMzVpVHpFd3lXaXNnaHdwRTh1R0trRHVlZ0o3blo1STRneXdMSWlmNkxvWEZrRFkxNi0xOTJQZkdvb0U0RVN4WE1xNm5NYWE2M21JV3R2RGV6UlBtNEFiUHZxVEJkazdHTHBoU0llY3J2SmgzOExRQURUNF9qY2h4VGdrUzZwb2JzeVJ0MkJVNU9ad09HbTVMUlFOTC1yY1JMaXlENnNEb19RTnh2LXR5elBPejNCeldxNGtLZ0I3TFNRamRQcC12d1l2ci1vVnBVckxkZzdSRW1jQXlFY0lvc2tVT0t0MWxBX0UtX0JSUTZMdTI?oc=5",
-   "tickers": [
-    "NOK"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "NOK",
-   "strength": 75,
-   "reason": "Trump explicit endorsement of Nokia for AI growth; direct name-drop by Trump",
-   "price_since": {
-    "ticker": "NOK",
-    "pct": 1.9,
-    "base": 13.03,
-    "last": 13.28,
-    "base_date": "2026-06-29",
-    "last_date": "2026-06-30"
-   }
-  },
-  {
-   "date": "2026-06-28T04:19:47Z",
-   "platform": "News",
-   "text": "Netflix Cofounder Reed Hastings Sells Stock Worth Nearly $38M \u2013 NFLX Stock Eyes A Three-Day Red Streak - Stocktwits \u2014 Netflix Cofounder Reed Hastings Sells Stock Worth Nearly $38M \u2013 NFLX Stock Eyes A Three-Day Red Streak\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPMnU5Rzk2YTk4Q0owNEUyUFk3WlZQcTFvajRUZTJSREpPREZQSzRwVG9yLVlKTDh1OW95a0c1M3htdk81Z2JOU1JZSEl6S3ZLVGwwZS1hU2hob2RmZERiUkNzV05nRHdRS0Y3WTR5b3Z0b1puNENaY0RpN0VvbWRyWUdYeUY3VDFOZG5YdkFqRE5YR2tCbDdua1NsUDhmR3d5TWNkLXFFaEhDTzFvNXlYNjNta0RuTkpYMnNPemZfRC15anJYaXVCRkQ3V2FuMHhBd19lVlgwaEQ2RTB2aUxYRlBoaFphS3hNTEN5S2hhaDREaHJDWDlR?oc=5",
-   "tickers": [
-    "NFLX"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "NFLX",
-   "strength": 25,
-   "reason": "Insider selling by co-founder; no Trump signal, general sentiment/technicals",
-   "price_since": {
-    "ticker": "NFLX",
-    "pct": -3.2,
-    "base": 73.78,
-    "last": 71.4,
-    "base_date": "2026-06-29",
-    "last_date": "2026-06-30"
-   }
-  },
-  {
-   "date": "2026-06-28T04:13:50Z",
-   "platform": "News",
-   "text": "Trump\u2019s National Carry Push: Potential Ripple Effects on U.S. Firearms Stocks - TipRanks \u2014 Trump\u2019s National Carry Push: Potential Ripple Effects on U.S. Firearms Stocks\u00a0\u00a0TipRanks",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQ19nenhaWUJyUHlCLWw2ZzB0X09SWXdYXzN5eWg5TjZPVmVvdS12ekkwaEMya2p6T0NuOWdJZ1FBbGlOYmp3Ni1abXVIRi1QaE01bk94VjBWdGV3RGZzUnJaUV9yUE84eHBnS1pqUndKbDRzeXFzVWlNaGJpb3k1MDdZSzZTZGw2TXpzckdVOXIzdjJ2bGNfZnJnMEVGWXBvME9TOVNmaWFsaGhPQjZUUjBLVQ?oc=5",
-   "tickers": [
-    "VSTO"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "VSTO",
-   "strength": 45,
-   "reason": "National carry push supports firearms industry; sector tailwind but no direct Trump endorsement of specific company."
-  },
-  {
-   "date": "2026-06-28T03:53:25.491Z",
-   "platform": "Truth Social",
-   "text": "Mack to the future: Trump touts Iran deal energy boom that could boost trucking biz: https://justthenews.com/government/white-house/mack-future-trump-touts-tariffs-and-iran-deal-energy-boom-will-boost",
-   "tickers": [
-    "XLE"
-   ],
-   "engagement": 2508,
-   "url": "https://truthsocial.com/@realDonaldTrump/116825706034291064",
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "XLE",
-   "strength": 45,
-   "reason": "Trump touts Iran deal energy boom; energy/oil sector bullish on geopolitical thaw",
-   "price_since": {
-    "ticker": "XLE",
-    "pct": -0.9,
-    "base": 53.58,
-    "last": 53.11,
     "base_date": "2026-06-29",
     "last_date": "2026-06-30"
    }
