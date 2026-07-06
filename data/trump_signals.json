@@ -1,12 +1,12 @@
 {
- "last_updated": "2026-07-06T10:48:18Z",
+ "last_updated": "2026-07-06T14:25:56Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
-   "date": "2026-07-06T10:29:31Z",
+   "date": "2026-07-06T14:14:00Z",
    "platform": "News",
-   "text": "Trump urged Americans to \u2018buy a Dell\u2019 while holding the stock \u2014 it\u2019s up 255% since. Enrich yourself now even if you don\u2019t sit in the White House - MSN \u2014 Trump urged Americans to \u2018buy a Dell\u2019 while holding the stock \u2014 it\u2019s up 255% since. Enrich yourself now even if you don\u2019t sit in the White House\u00a0\u00a0MSN",
-   "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxOTU5pWnhESWpuV0RjMzBDWUtJNWRaU0Jma08xNFNYWnJDT1pPQXBCRUJMWHZMRHRrSEMwVjR1SU51SVppTDY4dTlFUmpWdmdqMDZra0VPVG1tV0RLVFdhel9uS2FkdlBBNkVSem9uc2U5R2dPaDZVaEJEU1hsNkctUThaQ3B5dnZBRGl4eDFIek5kVkZ2dWttQjhiajNxUWVralByOHZ1Mnh4NlE3MzBuamdCdzNFMTFVUTZYcEZNRGQxR2JfX2JRVnJtbGhlcGJISERabUNhSWZzamV6X3B6RmZHb0NJVEZKZ2lMc01vMklqb2JtaW5SSUYtdmxTUWYtNVZYV25FOWpFbDBTRVZnVU5qTlctRi13bV85cEdoUWNKU0dKY0RWTGpuaXR6aW1uQUhiR0hrQjdLRFdWR3ViZWNvaE0yYmZoenc4?oc=5",
+   "text": "Trump's $5.2M Dell stock purchase exposed as his latest comments cause price to surge - The Mirror US \u2014 Trump's $5.2M Dell stock purchase exposed as his latest comments cause price to surge\u00a0\u00a0The Mirror US",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYmg1eWlnX3lYaFF2UWFxMHgtQjNlZmdSWmxZOHh0RnhtdHM2cVhvWTVoTUlaMWRRa1MxbXhOQUxCMVYtVDFlNGt6ZFJaN01FYlF3Y3dZek9yaHBuSWlFXzBOVlhDdGFCNGRNLVh4RE1oQm9VcE4yel9fd1Q4dXhtSTdEMFQ0UmPSAYwBQVVfeXFMTmhxckhxTGNZb0NIREhtZHRfU2xkYlBPZ3Q2bjBkNDJCX3VmTW9ydHFRNTJwVlNvbEp3cFJWOVJscjZaNy00blQwbGt2eW5Gajc3QnJSWUxqRHkyNERMVC1BTFNIQ05mdEwtN25NTVVwZ1VWWFJCYXlKMi11dU1CaEJ3RmJBd1dDN2Jpdk8?oc=5",
    "tickers": [
     "DELL"
    ],
@@ -15,8 +15,24 @@
    "explicit": true,
    "direction": "BUY",
    "primary_ticker": "DELL",
-   "strength": 95,
-   "reason": "Trump explicitly urged Americans to buy Dell stock while holding it; direct endorsement of specific ticker."
+   "strength": 75,
+   "reason": "Trump's $5.2M Dell purchase and bullish comments cause stock surge"
+  },
+  {
+   "date": "2026-07-06T11:03:45Z",
+   "platform": "News",
+   "text": "Trump urged Americans to \u2018buy a Dell\u2019 while holding the stock \u2014 it\u2019s up 255% since. Enrich yourself now even if you don\u2019t sit in the White House - MSN \u2014 Trump urged Americans to \u2018buy a Dell\u2019 while holding the stock \u2014 it\u2019s up 255% since. Enrich yourself now even if you don\u2019t sit in the White House\u00a0\u00a0MSN",
+   "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQc3E2d0JkN2Q2N1VUcjV6YmYzOG9fLXFpWjU5WkVlUzRpNHpEcXZsN0hzNjBEb3pQTXRPYjJRSElpYm1JaGFyTV8ySm9YNnNiZ0FudjFEcS1ZblJoWHJ2ckZqcHZEaHF0M3lBNlBYOFdJV2tyUjZHLXJkdjhvUlR2TW03YWprR0RZcDJJOTBjS0wxbEs3Y25wcXJCU0VLSFdsc3ZZNkdNdkNWVHlMWGFnb2xYMDhJQmNiMTBrZ2VWTzg3MUhHTkxmOFBHOXZ1SkpnSjg0NTVyYTBfUkZFR2dLU1lkSnYzbHZpLXoxelJfdzlpLVJkbXUzcktvUFZKMWJnZXl3N3dxTXRmNUxZZmxOYlhQOEd0V0RqRmg0NFZvRndTanR4RTMzRg?oc=5",
+   "tickers": [
+    "DELL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "DELL",
+   "strength": 80,
+   "reason": "Trump explicitly urged 'buy Dell' while holding; stock up 255%"
   },
   {
    "date": "2026-07-06T08:32:00Z",
@@ -179,6 +195,22 @@
    "reason": "Trump's personal stock trades noted; ambiguous direction without context on positions."
   },
   {
+   "date": "2026-07-05T04:00:23Z",
+   "platform": "News",
+   "text": "Trump just called Micron the 'hottest' company in the world. The market yawned and dumped it 10% - MSN \u2014 Trump just called Micron the 'hottest' company in the world. The market yawned and dumped it 10%\u00a0\u00a0MSN",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQWGNUeVp4cldfQURkdFZxRnlMaDg2MWZPeGRxT2pQeEJ0ODF4dkhXYW5EQXlkejFuVFZITE5fSkRMbXFpM25sQk9ULWR4VENuNUZwOVdXT0Z5NUdxeUh1RFlFZmRpSENCaVZRQ255TlV1bzRXTy1WSW5wMVNreE5GOHBqdTJfcjI5eDcxZERNRFdQN2FzUGMwODhBX0c5WFNPTWZtcUlJMl9jNmRUc05hWk9ZWUdPYW1LRkppNUN3OC00THVhUEFxamdnVDJZRDFsTEV1OHNuSjlKRmYyVEpj?oc=5",
+   "tickers": [
+    "MU"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "MU",
+   "strength": 60,
+   "reason": "Trump calls Micron 'hottest company' but market dumps stock 10%; praise backfires as bearish signal"
+  },
+  {
    "date": "2026-07-05T03:52:00Z",
    "platform": "News",
    "text": "Trump praises his admin's economic policies - Breakingthenews.net \u2014 Trump praises his admin's economic policies\u00a0\u00a0Breakingthenews.net",
@@ -193,6 +225,22 @@
    "primary_ticker": "SPY",
    "strength": 40,
    "reason": "Trump praises his admin's economic policies; broad macro-positive stance suggests bullish market sentiment."
+  },
+  {
+   "date": "2026-07-04T13:26:02Z",
+   "platform": "News",
+   "text": "Trump drops love-bomb on Micron while holding the stock \u2014 up 209% this year. Experts say it undermines the system - MSN \u2014 Trump drops love-bomb on Micron while holding the stock \u2014 up 209% this year. Experts say it undermines the system\u00a0\u00a0MSN",
+   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNa2tWYkV5UGIySWRzRDJ5V3p3UmZOYkFJdU5DWmFlUGN0QXkwTnFPM1RWV256NHF6ME52WDB2eTRsbm80Y2Rib0ZpYWNBajViTlRjOHVZVlVSdFBJRlpLVFFBVHFaYmRkTS1ZVUJGTVBDcDUxZWdNclJIUjVYZ085aTBKTnFobDVKeVFfSWhqR0dUZEVhZ3ZlYWJjNFFWT1dvbjVQSnBzakwzNEFibnhLMVNCMkVFNXJaSlhnT3B1Ui14SmlSaXQ2cUF1ZjZQRWpzMDBSbkduTFNDWUxIQXZ2SllkODhXTERSQ002c190NU4?oc=5",
+   "tickers": [
+    "MU"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "MU",
+   "strength": 75,
+   "reason": "Trump explicitly praises Micron; he holds the stock; direct endorsement of a named publicly-traded company is a strong bullish signal."
   },
   {
    "date": "2026-07-04T12:56:36Z",
@@ -997,22 +1045,6 @@
    "primary_ticker": "MU",
    "strength": 65,
    "reason": "Trump praises Micron's $250M Trump Accounts commitment and CEO highlights $200B US investment; explicit positive call with corporate commitment"
-  },
-  {
-   "date": "2026-07-02T06:12:14Z",
-   "platform": "News",
-   "text": "Trump just called Micron the 'hottest' company in the world. The market yawned and dumped it 10% - MSN \u2014 Trump just called Micron the 'hottest' company in the world. The market yawned and dumped it 10%\u00a0\u00a0MSN",
-   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNNUEtTzg4M2ZZa0pKdlMwWjdIOEc5V0M5dW9OVVVMd2JmLUhqWlZiSGUyX0k2MGxiOGtPeG1GbGlBbk5sN2ZQWVRKVlQtZ3d0bXozc0lhWjJLWG9zVDBNMzBlc2R4MlFMdjIzcHhUMlRfM291YVdZLXRNRWF0OHp1cjRWMHJsZ1JkNC1GRWl2Y2NfZGs4MU5rM2xZRjBPLUhQQ0kzTnMzTDJZeW1WS0FfY0M4U1hab1lWbHBUR3p0a0xCSlRCcWhsQ1c2TVczRE9mOU5ZVjBNUkV2VURUYlV2REszclg4NTdDRFpsaVh5cDdvSklvblljZVBXMlE3WGdKQmc?oc=5",
-   "tickers": [
-    "MU"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "SELL",
-   "primary_ticker": "MU",
-   "strength": 55,
-   "reason": "Trump's praise for Micron coincided with 10% market dump; explicit signal contradicted by market action"
   },
   {
    "date": "2026-07-02T06:11:00Z",
@@ -2438,22 +2470,6 @@
    }
   },
   {
-   "date": "2026-06-27T18:17:24Z",
-   "platform": "News",
-   "text": "Trump hints at abandoning Anchorage deal, praises Ukraine strikes - MSN \u2014 Trump hints at abandoning Anchorage deal, praises Ukraine strikes\u00a0\u00a0MSN",
-   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQMzlGQ0FuMUdUM043ODRiZ2xtanZDbmp2UHpCUlAyTjlUbkxfekVMazc3RllSLW4xYXdldVc2U0FMNWNaLUw3b3dURlRtOU1zQjE0X1Z4NFlpSEJOYUcweDdLRERDLWJ5d25kdWpRUTlHUVdhbmc4MTloWER4ei0tN0ZIM0F1ZXlqRG1PVTNzb1BhM0RBR0tRclM5UW9zRE8wbERDSzF0SDNYUlBrOVRic3R6SG5TY1UzSTkzN1Y2ZGt2UVg1ejZkNGpLeTFueUJVYWJudzR3MmZDanpLWEc0Y002N1doM3otcFlxV0ZBNHRDbmZKcUdmZWN6QQ?oc=5",
-   "tickers": [
-    "XAR"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "XAR",
-   "strength": 30,
-   "reason": "Defense/geopolitics shift (Ukraine); direction ambiguous without deal clarity"
-  },
-  {
    "curated": true,
    "classified": true,
    "is_market": true,
@@ -2506,23 +2522,6 @@
    "reason": "Trump's majority-owned stock debuts \u2014 pure sentiment play, extremely volatile and headline-driven.",
    "market_reaction": "DJT spiked on debut then stayed volatile, moving heavily on Trump political/legal news.",
    "url": "https://www.nasdaq.com/market-activity/stocks/djt"
-  },
-  {
-   "date": "2023-05-18T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "BLUE ORIGIN MANUFACTURING, LLC was awarded a $2.0B federal contract from National Aeronautics and Space Administration.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_80MSFC23CA014_8000_-NONE-_-NONE-",
-   "tickers": [
-    "BLUA"
-   ],
-   "contract_amount": 1.99,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "BLUA",
-   "strength": 75,
-   "reason": "Blue Origin awarded $2.0B NASA contract; bullish for defense/aerospace sector and parent Berkshire indirect exposure"
   }
  ],
  "how_to_read": "Each card is Claude's read of a public Trump post: the affected ticker, whether it implies BUY / SELL / WATCH, a 0\u2013100 strength (how explicit/emphatic the post is \u2014 NOT a profit predictor), and why. A 2-year backtest found these don't beat buy-and-hold, so this is for awareness, not trading. Not financial advice."
