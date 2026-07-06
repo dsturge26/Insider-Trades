@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-07-06T22:37:57Z",
+ "last_updated": "2026-07-06T23:45:52Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-07-06T23:24:28Z",
+   "platform": "News",
+   "text": "Dell Stock Jumps After Trump\u2019s Endorsement as Buyers Target $470 Level for A Breakout - FXLeaders \u2014 Dell Stock Jumps After Trump\u2019s Endorsement as Buyers Target $470 Level for A Breakout\u00a0\u00a0FXLeaders",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRDRiaWxvSVdLNjdkeUhIWFdRVHd5R3FEMkpacDg4OGpBdTJERElhRmJkanM1SW8yaTZ1WGp1bzQwTERsWmktS0JTYmlTcWxibTNNckJUblBwQU9RQ2ZVM2RReWtPS2R3QjVZRnV4U05pd2JpNzEtX21OYTRRbVpTaE5nQUhLUmliSDhvbFlab0hOSEpQSFF4STVSV3RKaVIxTmFGc0xqdnFzSG0tZXBfdEE0UkdMZ0dqN1JfaWVidUVJRVo1?oc=5",
+   "tickers": [
+    "DELL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "DELL",
+   "strength": 85,
+   "reason": "Trump explicitly endorses Dell stock; direct market signal"
+  },
   {
    "date": "2026-07-06T22:29:25Z",
    "platform": "News",
@@ -100,6 +116,22 @@
    "reason": "Dell stock bump from Trump endorsement fades; mixed signal on durability of bullish catalyst."
   },
   {
+   "date": "2026-07-06T20:13:03Z",
+   "platform": "News",
+   "text": "SpaceX gifts stock to Trump accounts while Trump doubles down on the stock market - MSN \u2014 SpaceX gifts stock to Trump accounts while Trump doubles down on the stock market\u00a0\u00a0MSN",
+   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQR01IWlBYVExNOEgtc0RJRGhIOUlJcmU4MGtFTlhXN0pHQUFWWWFLZ3B1Vk1VN1dVNnh3QmVWdHdBeTRpWUhqTGp2RGpfMDU4cXBTaDZZajRMU3ZnMFFxM0lCNnNhZjZILThTQU9yOGxQa1hGZXlRNmN5Y2NhRjhrZm9oQ19aR1ZsR2t5S25ITlNKRkxVZW9YMnJiRldPWXVjTkV6OG9WNXYwQURjTlRVcUoydmJsdHJ1cHZEX1R6Q0NZM1pZbFN2Q3VYSnhYeVBPakRHSGExYmRpckpnb1pSYWdpNnBDaHZPM3F5MFRmRnA?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "SPY",
+   "strength": 50,
+   "reason": "Trump doubles down on stock market bullish sentiment; broad market positive signal"
+  },
+  {
    "date": "2026-07-06T20:05:58Z",
    "platform": "News",
    "text": "Dell shares jump after Trump tells Americans to 'go out and buy a Dell' - Yahoo Finance UK \u2014 Dell shares jump after Trump tells Americans to 'go out and buy a Dell'\u00a0\u00a0Yahoo Finance UK",
@@ -114,6 +146,22 @@
    "primary_ticker": "DELL",
    "strength": 95,
    "reason": "Trump explicitly tells Americans to 'go out and buy a Dell'; direct company endorsement."
+  },
+  {
+   "date": "2026-07-06T20:05:58Z",
+   "platform": "News",
+   "text": "Dell shares jump after Trump tells Americans to 'go out and buy a Dell' - Business Insider Africa \u2014 Dell shares jump after Trump tells Americans to 'go out and buy a Dell'\u00a0\u00a0Business Insider Africa",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNejVkV3RHRjhkOU94ZFZHMXlBcjVYTTRhVnE2NmpiUFBoaEdtYTk0bkFrWkN0eDhLME1RbG93cFFzSm1ISDhGdGFqZHRXa255LTNSOU5FS0FnbTVaYTFRNEhVMXJRZjNlZVQ1aWhXSTNyQmljRGhzaDBWYk1FVzZsa2JpamVVWllmOVlmWGZIc2NqMU9FM2JsT19DNDNUc2ZaVnJmbjdEVDI1T3oza3lvVEs3cFpOU0tkZGdaQw?oc=5",
+   "tickers": [
+    "DELL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "DELL",
+   "strength": 90,
+   "reason": "Trump explicitly tells Americans to 'go out and buy a Dell'; direct purchase recommendation"
   },
   {
    "date": "2026-07-06T19:59:58Z",
@@ -2135,175 +2183,6 @@
     "last": 583.22,
     "base_date": "2026-06-30",
     "last_date": "2026-07-02"
-   }
-  },
-  {
-   "date": "2026-06-30T16:11:45Z",
-   "platform": "News",
-   "text": "Micron (MU) Stock: Invests $250 Million in Trump Accounts for Children - MEXC \u2014 Micron (MU) Stock: Invests $250 Million in Trump Accounts for Children\u00a0\u00a0MEXC",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5JQ0JiMkhOc3hUZ2c1Q1o0Y2t6M01LdXdXcWF2a09IaVhtZ1U2Yk1pX0VIUmtTNEJ6Z2pEanNVRENsXzJXaFBpYVpKZF9hdEE?oc=5",
-   "tickers": [
-    "MU"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "MU",
-   "strength": 65,
-   "reason": "Micron investment in Trump family accounts suggests confidence in chip sector and semiconductor demand",
-   "price_since": {
-    "ticker": "MU",
-    "pct": -13.9,
-    "base": 1154.29,
-    "last": 993.55,
-    "base_date": "2026-06-30",
-    "last_date": "2026-07-02"
-   }
-  },
-  {
-   "date": "2026-06-30T16:11:45Z",
-   "platform": "News",
-   "text": "Micron (MU) Stock: Invests $250 Million in Trump Accounts for Children - MEXC Exchange \u2014 Micron (MU) Stock: Invests $250 Million in Trump Accounts for Children\u00a0\u00a0MEXC Exchange",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5JQ0JiMkhOc3hUZ2c1Q1o0Y2t6M01LdXdXcWF2a09IaVhtZ1U2Yk1pX0VIUmtTNEJ6Z2pEanNVRENsXzJXaFBpYVpKZF9hdEE?oc=5",
-   "tickers": [
-    "MU"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "MU",
-   "strength": 60,
-   "reason": "Micron investment in Trump accounts signals alignment and bullish outlook",
-   "price_since": {
-    "ticker": "MU",
-    "pct": -13.9,
-    "base": 1154.29,
-    "last": 993.55,
-    "base_date": "2026-06-30",
-    "last_date": "2026-07-02"
-   }
-  },
-  {
-   "date": "2026-06-30T15:57:54Z",
-   "platform": "News",
-   "text": "IBRX Stock Rally Not Over Yet? Chairman Says Trump Diplomacy Led To \u2018Amazing Results\u2019 For Cancer Drug - Stocktwits \u2014 IBRX Stock Rally Not Over Yet? Chairman Says Trump Diplomacy Led To \u2018Amazing Results\u2019 For Cancer Drug\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOcVFTb3RQWTZrUG9ONVN6MEVNSk54ckxoS1E2bWNXQmRjRWIxaURpT1lyY3ItODk1LXRGb0MyeWtSMERnRmpmNHpha1JPZWZWa1NUWmNkOGJNbjJiTWMtRm52djZJZTVhQUVmNDVHTUE0N1RtN2M5ZmxMSE9RbVVUTi1vZENNdHhTZWJ6eDFlZXhIUFI0Nm5rLTZYWUIwblZCaXRHYlhyd3Zpa25XcWUtbTNEdGVXelpqcVN0eDBZZ3RMajBVZjdxaVJYV3E4V2lMNnlUODhYMzdTR1h4NFRGWlQ4b01SNDluNEZvZXJjT29pTXpj?oc=5",
-   "tickers": [
-    "IBRX"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "IBRX",
-   "strength": 60,
-   "reason": "Trump diplomacy credited with favorable cancer drug outcomes, bullish signal for the biotech company",
-   "price_since": {
-    "ticker": "IBRX",
-    "pct": 7.8,
-    "base": 8.76,
-    "last": 9.44,
-    "base_date": "2026-06-30",
-    "last_date": "2026-07-02"
-   }
-  },
-  {
-   "date": "2026-06-30T12:01:03Z",
-   "platform": "News",
-   "text": "Trump Threatens 100% Tariff On Countries Imposing Digital Services Tax On American Firms \u2014 \u2018This Tariff Will Supercede Trade Deals\u2019 - Stocktwits \u2014 Trump Threatens 100% Tariff On Countries Imposing Digital Services Tax On American Firms \u2014 \u2018This Tariff Will Supercede Trade Deals\u2019\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZHdhckgwWkFBTkhZVFFtclZZZjhSWm0xdUx1X1l2UjhfT3g3Yjh2ekVZOERwZDNQQkhya1BMM0tkdjB2VVBubU9NeHhwb3RLelpWTkdoQlR0blFXbW5lX1gzbzUwOG9JQlJGbjVKMjU4dUxTQV9GNWZkcm4wOUpoaUN4UVpNOXdwVXFFWFdadUM5R2VQeHhLTXRYVGhvT1FDWTR4Wk1GOTZkbHNDNmI0YWRNdHNNNG5Da2JodmZaU1V1WDk5LVZhQjFB?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "SPY",
-   "strength": 70,
-   "reason": "100% tariff threat on digital services tax impacting US tech firms abroad; broad market headwind",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": -0.2,
-    "base": 746.77,
-    "last": 745.43,
-    "base_date": "2026-06-30",
-    "last_date": "2026-07-02"
-   }
-  },
-  {
-   "date": "2026-06-30T10:04:13Z",
-   "platform": "News",
-   "text": "Why is Axon stock surging on Monday? - MSN \u2014 Why is Axon stock surging on Monday?\u00a0\u00a0MSN",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcWhGMWhWMXpZcHdlckZWYlNpbC15VmROT0U3UVpBaG1jTzBXcV9ucFVaQlVnUE9qQVlZak9sd3gxaklaV2gyaHlkbnRkMDBQUnI4MEkzOTM5ZmFHd3Jka0tvZFBVNzF2cFdiamxLeW5BUzFLM3M4bFdoVE1yMG5JRzFkT19IRThtQjZqOA?oc=5",
-   "tickers": [
-    "AXON"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "AXON",
-   "strength": 70,
-   "reason": "Axon stock surge linked to Trump family purchases and interest, bullish momentum signal",
-   "price_since": {
-    "ticker": "AXON",
-    "pct": 4.0,
-    "base": 560.61,
-    "last": 583.22,
-    "base_date": "2026-06-30",
-    "last_date": "2026-07-02"
-   }
-  },
-  {
-   "date": "2026-06-30T09:27:00Z",
-   "platform": "News",
-   "text": "Tariffs were supposed to help, but Iowa Whirlpool workers losing jobs - The Des Moines Register \u2014 Tariffs were supposed to help, but Iowa Whirlpool workers losing jobs\u00a0\u00a0The Des Moines Register",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQnEtOGZkVGR6TDhkZTJfV2dKTUs5WHcyVVBTMlRzRlpKYkkwY0M2Z0J5QVA2QTItZHg3ZldfQkZ4dm1XY2UyazlMY2pmQ3BYQkdzYWpneHZvb19fVExqa1RRb1JkbVRYalA1X25EaGc2WFRXNHFLdnFIVlQ1Z3ZDVXlXaGh2dmhOOVdhSjhFT29zZVhyaGJjaGVvUEFXN0JKSGhUUFVnZHZjakEwekRFdGZOUEp5SmVaVGtpYklQSVU5d0hEMnRrUGtn?oc=5",
-   "tickers": [
-    "WHR"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "WHR",
-   "strength": 65,
-   "reason": "Tariffs failed to prevent job losses at Whirlpool; bearish on tariff policy and WHR earnings.",
-   "price_since": {
-    "ticker": "WHR",
-    "pct": -1.9,
-    "base": 39.42,
-    "last": 38.67,
-    "base_date": "2026-06-30",
-    "last_date": "2026-07-02"
-   }
-  },
-  {
-   "date": "2026-06-29T23:39:34.264Z",
-   "platform": "Truth Social",
-   "text": "Gasoline Retailers must get their Prices down, IMMEDIATELY! They're too high considering that Oil is now at $68 a Barrel, and heading south. The Retailers must quickly react to this statement, and do what they know is right \u2014 DROP YOUR PRICE FOR OUR GREAT AMERICAN PEOPLE! There will be no gauging, which is totally illegal. If Retailers don't do this, big problems lie ahead! Start targeting around the $2.50 a Gallon number, and California should stop charging such heavy Taxes on their Gasoline. Soon the Tax will be higher than the Product itself, and the United States will not stand for it, nor will the People of California, who are being abused by these ridiculous Taxes, and by their own Government. President DONALD J. TRUMP",
-   "tickers": [
-    "XLE"
-   ],
-   "engagement": 1933,
-   "url": "https://truthsocial.com/@realDonaldTrump/116836032463779667",
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "XLE",
-   "strength": 45,
-   "reason": "Demand for lower gas prices and oil at $68/bbl creates mixed signals\u2014bearish for refiners/retailers but bullish for consumers and energy stability",
-   "price_since": {
-    "ticker": "XLE",
-    "pct": -1.4,
-    "base": 53.58,
-    "last": 52.81,
-    "base_date": "2026-06-29",
-    "last_date": "2026-07-01"
    }
   },
   {
