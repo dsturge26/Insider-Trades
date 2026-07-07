@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-07-07T22:44:10Z",
+ "last_updated": "2026-07-07T23:40:12Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -51,7 +51,7 @@
    "reason": "Trump explicitly urges consumers to buy Dell computers, direct stock catalyst."
   },
   {
-   "date": "2026-07-07T12:28:10Z",
+   "date": "2026-07-07T13:53:46Z",
    "platform": "News",
    "text": "Trump tells Americans to buy Dell computers \u2014 and the stock jumps 7% - qz.com \u2014 Trump tells Americans to buy Dell computers \u2014 and the stock jumps 7%\u00a0\u00a0qz.com",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOX0Jjc2V5NW8wbXZmcUtYM0F3TmRIbUowdFAyLUM5V3pLUVBfZWhtdHNuTkNfb3NfbEwxZF84UWxWU012U1RYdXFOQTc3eHBjeUtOTnhYQVhabGctZWlPWEZSUlFRWmJsaXZIdlNTZXc0R2J6azNsRFhXeTZKbkNVOGpPR0M?oc=5",
@@ -63,8 +63,8 @@
    "explicit": true,
    "direction": "BUY",
    "primary_ticker": "DELL",
-   "strength": 90,
-   "reason": "Trump tells Americans to buy Dell computers; 7% stock jump confirms explicit bullish signal."
+   "strength": 95,
+   "reason": "Trump tells Americans to buy Dell computers; stock jumps 7%; direct explicit endorsement with immediate market move."
   },
   {
    "date": "2026-07-07T12:21:24.593Z",
@@ -388,9 +388,9 @@
    "reason": "Trump endorsement of crypto/Bitcoin suggests bullish sentiment on digital assets; non-explicit general endorsement.",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": -0.7,
+    "pct": -0.8,
     "base": 63995.02,
-    "last": 63578.13,
+    "last": 63510.79,
     "base_date": "2026-07-06",
     "last_date": "2026-07-07"
    }
@@ -2119,38 +2119,6 @@
    "primary_ticker": "NVDA",
    "strength": 55,
    "reason": "Nvidia launches new cloud/revenue-sharing program for AI startups; bullish product expansion signal for market leader"
-  },
-  {
-   "date": "2026-07-02T12:39:30Z",
-   "platform": "News",
-   "text": "Why Is Sandisk Stock Falling on Thursday? - Benzinga \u2014 Why Is Sandisk Stock Falling on Thursday?\u00a0\u00a0Benzinga",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcU82cnJGaFc2MGtqWDNYUGNhNDdSckJ6YmxfNEY3MktZVXhyTktvTUwtNWczS0RiUXJtREVlVlFVOTJCbG1WYmk2OG9memVnQnp0TmkxMk56UnRHbHZ3QUVCdVJpSmthdE91QzlZd2FIczVEYVhRUFlUSGtGQ3BKQ3ZvcktZZktjVTV5cUU1akN5QXlDb3JUNF9YNU5XOWI4SFc2NzZB?oc=5",
-   "tickers": [
-    "SNDK"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "SNDK",
-   "strength": 30,
-   "reason": "SanDisk stock falls; likely part of memory sector weakness indicated in related headlines"
-  },
-  {
-   "date": "2026-07-02T12:33:24Z",
-   "platform": "News",
-   "text": "Vertex Says Casgevy Label Expansion Opens Treatment to 5,500 More Us Children - Benzinga \u2014 Vertex Says Casgevy Label Expansion Opens Treatment to 5,500 More Us Children\u00a0\u00a0Benzinga",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNLVgwTkR4RmdmQXJWS25NSjZzRUdfak9VZ1FQMjVlZEpiRDR3UnFMZzVHU0NyVjlnU05qc3l4U09aSjdHY3l1eXFha0U1UmxKSWxoRnNjY25vTHZDaUhPc2RUQWM1RF9zUERRTm5BRUxoRWd3R2JsUUl5SVBiaTZDc2ZqeTBaWVBRREFZbnFMUkphRmw4OXQ0aER5RVRsTzJ3VWwzVkZWWkZSRWZOdG1oSTdnbVFFNUo4SmVEWEt0eTFOdTg?oc=5",
-   "tickers": [
-    "VERV"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "VERV",
-   "strength": 60,
-   "reason": "Vertex expands Casgevy label to 5,500 more US children; label expansion is concrete bullish catalyst for revenue growth"
   },
   {
    "curated": true,
