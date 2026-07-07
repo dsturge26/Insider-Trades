@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-07-07T15:50:43Z",
+ "last_updated": "2026-07-07T17:59:24Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -66,6 +66,22 @@
    "primary_ticker": "DELL",
    "strength": 85,
    "reason": "Trump tells Americans to 'Go Out and Buy a Dell Computer'; explicit endorsement of named stock."
+  },
+  {
+   "date": "2026-07-07T11:51:50Z",
+   "platform": "News",
+   "text": "Trump Hints 'Something Could Happen' With Bitcoin in New 'Trump Accounts' After Praise From Crypto Bull Mike Novogratz - International Business Times UK \u2014 Trump Hints 'Something Could Happen' With Bitcoin in New 'Trump Accounts' After Praise From Crypto Bull Mike Novogratz\u00a0\u00a0International Business Times UK",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNLTRvX0JwbUQxQzVGM1JCSk00Tkktc1JKc0ZMMnhIYUNBelItWlRjd0RFcWZuM0taNFhfcklkQXh0ZDBBX25LQks5LXF1a3NKdlZ5TjFaNmJ0LWNfXzFMZG8zSm8xQ2tYdXdSdTlpRzlpRUl3VHB2NTEzWnU3eE1FV1VMQ3FzMEd1TjBrZ0ZhcU1sYnl5eFZvalhiejNteVJYZWdfcnNlal9lai1JdmhUM0NPbFlSd3dBMnpvV0ZUNFBMcnc?oc=5",
+   "tickers": [
+    "BTC-USD"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "BTC-USD",
+   "strength": 50,
+   "reason": "Trump hints something could happen with Bitcoin; vague direction and timing make signal ambiguous."
   },
   {
    "date": "2026-07-07T11:47:05Z",
@@ -228,9 +244,9 @@
    "reason": "Trump explicitly tells people 'Go buy Dell computers' at White House opening bell",
    "price_since": {
     "ticker": "DELL",
-    "pct": -0.8,
+    "pct": 2.6,
     "base": 411.8,
-    "last": 408.46,
+    "last": 422.5,
     "base_date": "2026-07-06",
     "last_date": "2026-07-07"
    }
@@ -252,9 +268,9 @@
    "reason": "Trump explicitly endorses Dell stock; direct market signal",
    "price_since": {
     "ticker": "DELL",
-    "pct": -0.8,
+    "pct": 2.6,
     "base": 411.8,
-    "last": 408.46,
+    "last": 422.5,
     "base_date": "2026-07-06",
     "last_date": "2026-07-07"
    }
@@ -276,9 +292,9 @@
    "reason": "Trump endorses Walmart and price-cutting initiative",
    "price_since": {
     "ticker": "WMT",
-    "pct": 1.4,
+    "pct": 1.0,
     "base": 110.65,
-    "last": 112.17,
+    "last": 111.76,
     "base_date": "2026-07-06",
     "last_date": "2026-07-07"
    }
@@ -300,9 +316,9 @@
    "reason": "Trump endorsement of crypto/Bitcoin suggests bullish sentiment on digital assets; non-explicit general endorsement.",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": -0.1,
+    "pct": 0.2,
     "base": 63995.02,
-    "last": 63925.46,
+    "last": 64133.89,
     "base_date": "2026-07-06",
     "last_date": "2026-07-07"
    }
@@ -324,9 +340,9 @@
    "reason": "Trump explicitly tells people to 'go and buy a Dell'; direct public endorsement of specific company.",
    "price_since": {
     "ticker": "DELL",
-    "pct": -0.8,
+    "pct": 2.6,
     "base": 411.8,
-    "last": 408.46,
+    "last": 422.5,
     "base_date": "2026-07-06",
     "last_date": "2026-07-07"
    }
@@ -348,9 +364,9 @@
    "reason": "Dell stock bump from Trump fading suggests momentum is reversing despite endorsement.",
    "price_since": {
     "ticker": "DELL",
-    "pct": -0.8,
+    "pct": 2.6,
     "base": 411.8,
-    "last": 408.46,
+    "last": 422.5,
     "base_date": "2026-07-06",
     "last_date": "2026-07-07"
    }
@@ -372,9 +388,9 @@
    "reason": "Trump explicitly says 'Go Buy a Dell Computer' at White House; direct buy recommendation",
    "price_since": {
     "ticker": "DELL",
-    "pct": -0.8,
+    "pct": 2.6,
     "base": 411.8,
-    "last": 408.46,
+    "last": 422.5,
     "base_date": "2026-07-06",
     "last_date": "2026-07-07"
    }
@@ -396,9 +412,9 @@
    "reason": "Trump gives Dell stock explicit boost with endorsement",
    "price_since": {
     "ticker": "DELL",
-    "pct": -0.8,
+    "pct": 2.6,
     "base": 411.8,
-    "last": 408.46,
+    "last": 422.5,
     "base_date": "2026-07-06",
     "last_date": "2026-07-07"
    }
@@ -420,9 +436,9 @@
    "reason": "Trump's explicit endorsement of Dell drives stock jump; clear bullish catalyst.",
    "price_since": {
     "ticker": "DELL",
-    "pct": -0.8,
+    "pct": 2.6,
     "base": 411.8,
-    "last": 408.46,
+    "last": 422.5,
     "base_date": "2026-07-06",
     "last_date": "2026-07-07"
    }
@@ -444,9 +460,9 @@
    "reason": "Trump explicitly endorses Dell at White House event, direct buy signal for the stock.",
    "price_since": {
     "ticker": "DELL",
-    "pct": -0.8,
+    "pct": 2.6,
     "base": 411.8,
-    "last": 408.46,
+    "last": 422.5,
     "base_date": "2026-07-06",
     "last_date": "2026-07-07"
    }
@@ -468,9 +484,9 @@
    "reason": "Trump urges Americans to buy Dell computer; stock jumps 8% on explicit endorsement.",
    "price_since": {
     "ticker": "DELL",
-    "pct": -0.8,
+    "pct": 2.6,
     "base": 411.8,
-    "last": 408.46,
+    "last": 422.5,
     "base_date": "2026-07-06",
     "last_date": "2026-07-07"
    }
@@ -2112,54 +2128,6 @@
    "primary_ticker": "MU",
    "strength": 75,
    "reason": "Trump explicitly praises Micron's investment commitment and $200B US investment plan"
-  },
-  {
-   "date": "2026-07-02T09:13:30Z",
-   "platform": "News",
-   "text": "Trump Praises Micron's $250 Million Trump Accounts Commitment as CEO Highlights $200 Billion US Investment - inkl \u2014 Trump Praises Micron's $250 Million Trump Accounts Commitment as CEO Highlights $200 Billion US Investment\u00a0\u00a0inkl",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUGpaUk95R1h2cW45YUZYQXM5SE9pWllFX0t1Y1h1b1JRdFlaQnQ2Zmx2TGFsWnZON2hHYWFRVnJhVWxWRG4zVGhWNjlPMkNxOVpLTTVMYTdld0RpRzFhaEVSRjlpV3VmUHhoUUV0amYwanB3UWg0LUkwM0xmajJpV09GZjRQOHBsTFpibWpQWW5iN1NXcWFWeVhDS1lIN0VoaFhmcnJTRzRBODNmLUs2YW9OSFZEUWt6a00teUhReWhMb3I2b3VhejgwUjVEVlVIUnc?oc=5",
-   "tickers": [
-    "MU"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "MU",
-   "strength": 65,
-   "reason": "Trump praises Micron's $250M Trump Accounts commitment and CEO highlights $200B US investment; explicit positive call with corporate commitment"
-  },
-  {
-   "date": "2026-07-02T06:11:00Z",
-   "platform": "News",
-   "text": "TONX Stock Heads For Weekly Win: TON Strategy Bets On \u2018Undervalued\u2019 Shares With New Repurchase Plan - Stocktwits \u2014 TONX Stock Heads For Weekly Win: TON Strategy Bets On \u2018Undervalued\u2019 Shares With New Repurchase Plan\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPUGpJTzdjQjdaVWlPS2stWlU2enczS0NGNG9QeUFxWWtQZHIzSE5YVEhWVjdSS1ZPeWIyb1hnVmE1blhPYUg1azVISm1rM016WkVUUjBjOW52M3hzZFRlZjQ3T01TRExBX3M0aWZDNmIxZTlHWXM5WGVweTg4bWx0RFBXcTNMbjFLXzhkRldaQzJHazh6QllZRGhlRWpCWG9iUGljREVIQVlERTJvQXFDRkhDVXNRVTA1VFRRLXhCbEpYNFFGSVZLbHJrX0NvSFBtZ3R4MlNvZWdfeWxhZmpyOWM1WDVCSlRMLTB0YndqNTNFUQ?oc=5",
-   "tickers": [
-    "TONX"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "TONX",
-   "strength": 20,
-   "reason": "Stock buyback program; neutral technical event"
-  },
-  {
-   "date": "2026-07-02T05:52:33Z",
-   "platform": "News",
-   "text": "MU, SNDK, STX, WDC stocks extend slide overnight as memory pump fades: Retail traders hopeful for rebound - MSN \u2014 MU, SNDK, STX, WDC stocks extend slide overnight as memory pump fades: Retail traders hopeful for rebound\u00a0\u00a0MSN",
-   "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNOFNRSkdPcHktcnNidmdDUk83WW5iYVBrSHZIQ1NKdlRvUzhIbGh4YW9fR1dvQkdfLTVldmg0NUkzNWpocC1XZFZEZ0NUVEFxM0REVEhYTVBTa0kyNTZtVjNxVVhOeGZHWmZlVlNJVEFVbTRGTHJXRHhXcW5XYmg5VXJfS05OX3VQVHF1ZUZMeFpBNDg1NHdjTS1QbmtSN0pnYjVhWHowSF81ckVoZFN4U0tlUnpzZzJxMWM3WnlBV0xsdmFBcGdtR01XLWo5eGROSkNuNVN3WlRYb2NrQTBIUnJZQ29FSFlMemkyMEVUazg3QU5VaDdOVXlWbTEtajhQRnVuZmNfWlppT3c?oc=5",
-   "tickers": [
-    "SMH"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "SMH",
-   "strength": 50,
-   "reason": "Memory sector stocks (MU, SNDK, STX, WDC) extend slide as memory industry rally fades; broad semiconductor weakness signal"
   },
   {
    "curated": true,
