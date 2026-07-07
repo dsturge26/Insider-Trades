@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-07-07T21:40:54Z",
+ "last_updated": "2026-07-07T22:44:10Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-07-07T21:58:47Z",
+   "platform": "News",
+   "text": "Trump Urges Americans To Buy A Dell Computer - channelnews.com.au \u2014 Trump Urges Americans To Buy A Dell Computer\u00a0\u00a0channelnews.com.au",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMjhHY2RqQlM1Q1J1c1B3V1dJdFJ2Y3VyLUoyQXlycHpfMXM4b2lUOHhCYU02UDNWZnhPWXRzOXBsOUhxN2FZaDdlY05idUF1aGdxUC11YUU3QndldTZ2eHVkeDZldmVZcW5aY2VxQ3ZCMFpqS1dFTmN3ZGdGTzEzemdR?oc=5",
+   "tickers": [
+    "DELL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "DELL",
+   "strength": 95,
+   "reason": "Trump explicitly urges Americans to buy Dell computers\u2014direct, repeated endorsement of a named public company."
+  },
   {
    "date": "2026-07-07T19:29:00Z",
    "platform": "News",
@@ -372,9 +388,9 @@
    "reason": "Trump endorsement of crypto/Bitcoin suggests bullish sentiment on digital assets; non-explicit general endorsement.",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": -1.0,
+    "pct": -0.7,
     "base": 63995.02,
-    "last": 63334.43,
+    "last": 63578.13,
     "base_date": "2026-07-06",
     "last_date": "2026-07-07"
    }
@@ -470,7 +486,7 @@
     "ticker": "DELL",
     "pct": 1.3,
     "base": 411.8,
-    "last": 416.98,
+    "last": 417.28,
     "base_date": "2026-07-06",
     "last_date": "2026-07-07"
    }
@@ -659,6 +675,22 @@
    "primary_ticker": "DELL",
    "strength": 90,
    "reason": "Trump explicitly backs Dell; shares surge"
+  },
+  {
+   "date": "2026-07-06T20:00:58Z",
+   "platform": "News",
+   "text": "Dell stock jumps after Trump tells Americans, 'Go out and buy a Dell computer' - MSN \u2014 Dell stock jumps after Trump tells Americans, 'Go out and buy a Dell computer'\u00a0\u00a0MSN",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZUY3RTdSUUJvR29udTU1QXFqa1BlMWh6enpYN3IwcmJycHMteDRvVVdvZzBZdTRLaFNGS0wtUkdsZ3FCcmVMdmtHMzN0RFdrZGNLNVFyR2tpaEpzS1o1QkZ4NFRYbDBtZVdjelJpX1ZwTFF3SFJaek94S01BZ3VWRWNVMDFVSEdiblhRc2ZLLUJrMEtHS0tUaHdvbjBkYjJPd3FocjNHTUlyZEVpTHNodFhzOU1zWThVaFpkZ2FIZlJndw?oc=5",
+   "tickers": [
+    "DELL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "DELL",
+   "strength": 80,
+   "reason": "Trump explicitly tells Americans to 'go out and buy a Dell computer'; direct buy call on named company"
   },
   {
    "date": "2026-07-06T20:00:12Z",
