@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-07-07T20:08:11Z",
+ "last_updated": "2026-07-07T21:40:54Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -33,6 +33,22 @@
    "primary_ticker": "DELL",
    "strength": 85,
    "reason": "Trump explicitly urges consumers to buy Dell computers, direct stock catalyst."
+  },
+  {
+   "date": "2026-07-07T12:28:10Z",
+   "platform": "News",
+   "text": "Trump tells Americans to buy Dell computers \u2014 and the stock jumps 7% - qz.com \u2014 Trump tells Americans to buy Dell computers \u2014 and the stock jumps 7%\u00a0\u00a0qz.com",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOX0Jjc2V5NW8wbXZmcUtYM0F3TmRIbUowdFAyLUM5V3pLUVBfZWhtdHNuTkNfb3NfbEwxZF84UWxWU012U1RYdXFOQTc3eHBjeUtOTnhYQVhabGctZWlPWEZSUlFRWmJsaXZIdlNTZXc0R2J6azNsRFhXeTZKbkNVOGpPR0M?oc=5",
+   "tickers": [
+    "DELL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "DELL",
+   "strength": 90,
+   "reason": "Trump tells Americans to buy Dell computers; 7% stock jump confirms explicit bullish signal."
   },
   {
    "date": "2026-07-07T12:21:24.593Z",
@@ -146,22 +162,6 @@
    "primary_ticker": "DELL",
    "strength": 85,
    "reason": "Trump repeats explicit 'Go out and buy a Dell Computer' endorsement; direct bullish signal."
-  },
-  {
-   "date": "2026-07-07T10:58:09Z",
-   "platform": "News",
-   "text": "Trump tells Americans to buy Dell computers \u2014 and the stock jumps 7% - qz.com \u2014 Trump tells Americans to buy Dell computers \u2014 and the stock jumps 7%\u00a0\u00a0qz.com",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOX0Jjc2V5NW8wbXZmcUtYM0F3TmRIbUowdFAyLUM5V3pLUVBfZWhtdHNuTkNfb3NfbEwxZF84UWxWU012U1RYdXFOQTc3eHBjeUtOTnhYQVhabGctZWlPWEZSUlFRWmJsaXZIdlNTZXc0R2J6azNsRFhXeTZKbkNVOGpPR0M?oc=5",
-   "tickers": [
-    "DELL"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "DELL",
-   "strength": 80,
-   "reason": "Trump explicitly tells Americans to buy Dell computers; direct endorsement causing 7% stock jump."
   },
   {
    "date": "2026-07-07T09:50:57Z",
@@ -278,7 +278,7 @@
     "ticker": "DELL",
     "pct": 1.3,
     "base": 411.8,
-    "last": 416.98,
+    "last": 417.28,
     "base_date": "2026-07-06",
     "last_date": "2026-07-07"
    }
@@ -302,7 +302,7 @@
     "ticker": "DELL",
     "pct": 1.3,
     "base": 411.8,
-    "last": 416.98,
+    "last": 417.28,
     "base_date": "2026-07-06",
     "last_date": "2026-07-07"
    }
@@ -326,7 +326,7 @@
     "ticker": "DELL",
     "pct": 1.3,
     "base": 411.8,
-    "last": 416.98,
+    "last": 417.28,
     "base_date": "2026-07-06",
     "last_date": "2026-07-07"
    }
@@ -372,9 +372,9 @@
    "reason": "Trump endorsement of crypto/Bitcoin suggests bullish sentiment on digital assets; non-explicit general endorsement.",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": -0.5,
+    "pct": -1.0,
     "base": 63995.02,
-    "last": 63665.59,
+    "last": 63334.43,
     "base_date": "2026-07-06",
     "last_date": "2026-07-07"
    }
@@ -398,7 +398,7 @@
     "ticker": "DELL",
     "pct": 1.3,
     "base": 411.8,
-    "last": 416.98,
+    "last": 417.28,
     "base_date": "2026-07-06",
     "last_date": "2026-07-07"
    }
@@ -422,7 +422,7 @@
     "ticker": "DELL",
     "pct": 1.3,
     "base": 411.8,
-    "last": 416.98,
+    "last": 417.28,
     "base_date": "2026-07-06",
     "last_date": "2026-07-07"
    }
@@ -446,7 +446,7 @@
     "ticker": "DELL",
     "pct": 1.3,
     "base": 411.8,
-    "last": 416.98,
+    "last": 417.28,
     "base_date": "2026-07-06",
     "last_date": "2026-07-07"
    }
@@ -2119,55 +2119,6 @@
    "primary_ticker": "VERV",
    "strength": 60,
    "reason": "Vertex expands Casgevy label to 5,500 more US children; label expansion is concrete bullish catalyst for revenue growth"
-  },
-  {
-   "date": "2026-07-02T12:02:47.999Z",
-   "platform": "Truth Social",
-   "text": "The United States spends more money on NATO than any other country, by far, to protect them, without getting any benefit from so doing: U.S. 999 Billion Dollars, United Kingdom, 90.5 Billion Dollars, France, 66.5  Billion Dollars, Italy, 48.8 Billion Dollars, Poland, 44.3 Billion Dollars. Others, including Germany, are MUCH LOWER. (2014-2025) Ridiculous! President DJT",
-   "tickers": [
-    "SPY"
-   ],
-   "engagement": 2749,
-   "url": "https://truthsocial.com/@realDonaldTrump/116850279579552155",
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "SPY",
-   "strength": 35,
-   "reason": "NATO spending criticism suggests potential defense/military budget cuts or isolationist policy headwind"
-  },
-  {
-   "date": "2026-07-02T10:41:11Z",
-   "platform": "News",
-   "text": "Trump praises Micron's $250 million Trump accounts commitment as CEO highlights $200 billion US investment - MSN \u2014 Trump praises Micron's $250 million Trump accounts commitment as CEO highlights $200 billion US investment\u00a0\u00a0MSN",
-   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQOW1hU1RWUWtRb2FtcnpjVzRhTmVUeDkxZHZHWHpWZVZ1VnFUblBQZWRTRzZ6QklhWjZuUnlxSFNkT3dwOVJPb2FIcXJTR0kwcVBXelF2ZnV3WE1qNnNGTE1DSm12MnlBZXB3YzlLNFVxYmdISjVFOF9xbl9rRUtXSVNqVlNvQzNXUkI0MHJkS3Z3OGVjU2o3V1ZiWTFxOVhFcUc2SjVYNWZEQmQ0ZnZydE8zU0c5cXl0LXhXdlVzN3JVTjRqekpSRTNraHY1cVg0TlE1OTBHZVhsekNGVkd3UDV1UW9rN3VI?oc=5",
-   "tickers": [
-    "MU"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "MU",
-   "strength": 75,
-   "reason": "Trump praises Micron's $250M Trump Accounts commitment and CEO highlights $200B US investment; explicit endorsement tied to major capex pledge."
-  },
-  {
-   "date": "2026-07-02T10:23:14Z",
-   "platform": "News",
-   "text": "What's Going on With Micron Technology Stock Thursday? - Benzinga \u2014 What's Going on With Micron Technology Stock Thursday?\u00a0\u00a0Benzinga",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMzV5WXhwajV6UWdNTFBraW1nemdsY28xTm1BdGp3YnJUOUpaRVBiTmh4SFRBRm1FYVpYbUxWUEMyQnQzNE1kYzExMTA5SnltcDFfX0drUFl1dTROWVFabmZXT01Yd2hhT2dpNGVnUFZJQ3F5MVE0TnRQTzl2MHhWbnRxVmpiV0N0SHEzSjB3bGhiUlM3RnByaGlabW4xZGlwZE5lVlVaT29QdlE?oc=5",
-   "tickers": [
-    "MU"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "MU",
-   "strength": 35,
-   "reason": "Benzinga asks why Micron stock fell on Thursday; likely commentary on weakness despite positive Trump statements"
   },
   {
    "curated": true,
