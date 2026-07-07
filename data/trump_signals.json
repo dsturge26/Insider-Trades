@@ -1,7 +1,40 @@
 {
- "last_updated": "2026-07-07T13:04:59Z",
+ "last_updated": "2026-07-07T15:50:43Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-07-07T14:13:00Z",
+   "platform": "News",
+   "text": "Donald Trump Triggers DELL Stock Rally After Urging Consumers To Buy Dell Computers - CoinCodex \u2014 Donald Trump Triggers DELL Stock Rally After Urging Consumers To Buy Dell Computers\u00a0\u00a0CoinCodex",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZUt0Rm8zOGJqRWwzczFJMHh6Y2RCOGd2akl1QmV4MEdmT1VHODlVMno0c0cxYnY0NHFPSUZ2WklaZ1ZReW9peE5FQWlxUlNpOWZlRDRtY1FFQi1sRm05V1BCN0JROHp1b0xFbkR3QTY0ZUxiY0NfN0RDZ2JuY0dtZGRvblNyN2lvUHZHSlFVSS03OGNZRkN3YmxqX2ozWjgtM0VDQ1NCMUpDY3N0R0RSM1hvc2trUlM2dkR0cw?oc=5",
+   "tickers": [
+    "DELL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "DELL",
+   "strength": 85,
+   "reason": "Trump explicitly urges consumers to buy Dell computers, direct stock catalyst."
+  },
+  {
+   "date": "2026-07-07T12:21:24.593Z",
+   "platform": "Truth Social",
+   "text": "Toyota is moving from Mexico to the United States (Texas!). A really big deal. Tariffs at work! President DONALD J. TRUMP",
+   "tickers": [
+    "SPY"
+   ],
+   "engagement": 10668,
+   "url": "https://truthsocial.com/@realDonaldTrump/116878664308977613",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "SPY",
+   "strength": 70,
+   "reason": "Major manufacturing shift from Mexico to US; tariffs driving onshoring, broad positive market signal."
+  },
   {
    "date": "2026-07-07T12:19:23Z",
    "platform": "News",
@@ -33,6 +66,38 @@
    "primary_ticker": "DELL",
    "strength": 85,
    "reason": "Trump tells Americans to 'Go Out and Buy a Dell Computer'; explicit endorsement of named stock."
+  },
+  {
+   "date": "2026-07-07T11:47:05Z",
+   "platform": "News",
+   "text": "Nancy Pelosi stock tracker says 'Stop overthinking what stocks to buy' after Trump's Dell endorsement - MSN \u2014 Nancy Pelosi stock tracker says 'Stop overthinking what stocks to buy' after Trump's Dell endorsement\u00a0\u00a0MSN",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOa2pxd1ZqUjNLYmJlNjJYaGpzcFN3NmwtRExfRWw3UF92Q200eGR4X05BX0FEc0VyM0I2Z2d5WllVX3RwbFhXQmdjdElET2JBZVlDMXNjN05SQ21sSE1xc05PWmJsTzBZSzZkcnVtYXRFb3E2OC02eW43OEVGWl9sOFJxTTJJR2hTVXJEWlRNalBaUC1IQi1CVmptU2F1RTNzZzBmaWI0bkVaVWoxLW5ma1pLcHVnMGtIQUVKYWs5bTJwNmlsZHFRYnMwTFFDeFgtU212MG8xbEQzcE9qeGVpTnpn?oc=5",
+   "tickers": [
+    "DELL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "DELL",
+   "strength": 75,
+   "reason": "Trump's Dell endorsement referenced in stock tracker; reinforces bullish sentiment."
+  },
+  {
+   "date": "2026-07-07T11:15:04Z",
+   "platform": "News",
+   "text": "Dell Stock Surges After President Trump Promotes Computer Maker at White House Event - TIKR.com \u2014 Dell Stock Surges After President Trump Promotes Computer Maker at White House Event\u00a0\u00a0TIKR.com",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbFVEczJwT1R2cUdZNlVlWWhxcG5RMWFrTkRFNVY5ckRaQU9sZkFkU1NDckVXeVFvc3kwOW93b3RrSjVHbzltSTdmRlgzcHRKWUxGMzQ4N3dicWVWRzhfdnhxRzFTN3NZMHZISFE4NUV3MVVaOUNQTUVEU25KT2xLdEl1VE1oWGdmUnZiZ1haS3htdl9XSmVJRU5IOVJBSmJGOUZHTTdGYjROR1NZaUNF?oc=5",
+   "tickers": [
+    "DELL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "DELL",
+   "strength": 85,
+   "reason": "Trump promotes Dell at White House event; explicit company praise drives stock surge."
   },
   {
    "date": "2026-07-07T11:13:30Z",
@@ -160,7 +225,15 @@
    "direction": "BUY",
    "primary_ticker": "DELL",
    "strength": 95,
-   "reason": "Trump explicitly tells people 'Go buy Dell computers' at White House opening bell"
+   "reason": "Trump explicitly tells people 'Go buy Dell computers' at White House opening bell",
+   "price_since": {
+    "ticker": "DELL",
+    "pct": -0.8,
+    "base": 411.8,
+    "last": 408.46,
+    "base_date": "2026-07-06",
+    "last_date": "2026-07-07"
+   }
   },
   {
    "date": "2026-07-06T23:24:28Z",
@@ -176,7 +249,15 @@
    "direction": "BUY",
    "primary_ticker": "DELL",
    "strength": 85,
-   "reason": "Trump explicitly endorses Dell stock; direct market signal"
+   "reason": "Trump explicitly endorses Dell stock; direct market signal",
+   "price_since": {
+    "ticker": "DELL",
+    "pct": -0.8,
+    "base": 411.8,
+    "last": 408.46,
+    "base_date": "2026-07-06",
+    "last_date": "2026-07-07"
+   }
   },
   {
    "date": "2026-07-06T22:38:00Z",
@@ -192,7 +273,15 @@
    "direction": "BUY",
    "primary_ticker": "WMT",
    "strength": 70,
-   "reason": "Trump endorses Walmart and price-cutting initiative"
+   "reason": "Trump endorses Walmart and price-cutting initiative",
+   "price_since": {
+    "ticker": "WMT",
+    "pct": 1.4,
+    "base": 110.65,
+    "last": 112.17,
+    "base_date": "2026-07-06",
+    "last_date": "2026-07-07"
+   }
   },
   {
    "date": "2026-07-06T22:29:25Z",
@@ -211,9 +300,9 @@
    "reason": "Trump endorsement of crypto/Bitcoin suggests bullish sentiment on digital assets; non-explicit general endorsement.",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": -1.1,
+    "pct": -0.1,
     "base": 63995.02,
-    "last": 63275.26,
+    "last": 63925.46,
     "base_date": "2026-07-06",
     "last_date": "2026-07-07"
    }
@@ -232,7 +321,15 @@
    "direction": "BUY",
    "primary_ticker": "DELL",
    "strength": 95,
-   "reason": "Trump explicitly tells people to 'go and buy a Dell'; direct public endorsement of specific company."
+   "reason": "Trump explicitly tells people to 'go and buy a Dell'; direct public endorsement of specific company.",
+   "price_since": {
+    "ticker": "DELL",
+    "pct": -0.8,
+    "base": 411.8,
+    "last": 408.46,
+    "base_date": "2026-07-06",
+    "last_date": "2026-07-07"
+   }
   },
   {
    "date": "2026-07-06T21:53:58Z",
@@ -248,7 +345,15 @@
    "direction": "WATCH",
    "primary_ticker": "DELL",
    "strength": 40,
-   "reason": "Dell stock bump from Trump fading suggests momentum is reversing despite endorsement."
+   "reason": "Dell stock bump from Trump fading suggests momentum is reversing despite endorsement.",
+   "price_since": {
+    "ticker": "DELL",
+    "pct": -0.8,
+    "base": 411.8,
+    "last": 408.46,
+    "base_date": "2026-07-06",
+    "last_date": "2026-07-07"
+   }
   },
   {
    "date": "2026-07-06T21:25:00Z",
@@ -264,7 +369,15 @@
    "direction": "BUY",
    "primary_ticker": "DELL",
    "strength": 85,
-   "reason": "Trump explicitly says 'Go Buy a Dell Computer' at White House; direct buy recommendation"
+   "reason": "Trump explicitly says 'Go Buy a Dell Computer' at White House; direct buy recommendation",
+   "price_since": {
+    "ticker": "DELL",
+    "pct": -0.8,
+    "base": 411.8,
+    "last": 408.46,
+    "base_date": "2026-07-06",
+    "last_date": "2026-07-07"
+   }
   },
   {
    "date": "2026-07-06T21:22:44Z",
@@ -280,7 +393,15 @@
    "direction": "BUY",
    "primary_ticker": "DELL",
    "strength": 78,
-   "reason": "Trump gives Dell stock explicit boost with endorsement"
+   "reason": "Trump gives Dell stock explicit boost with endorsement",
+   "price_since": {
+    "ticker": "DELL",
+    "pct": -0.8,
+    "base": 411.8,
+    "last": 408.46,
+    "base_date": "2026-07-06",
+    "last_date": "2026-07-07"
+   }
   },
   {
    "date": "2026-07-06T21:03:57Z",
@@ -296,7 +417,15 @@
    "direction": "BUY",
    "primary_ticker": "DELL",
    "strength": 90,
-   "reason": "Trump's explicit endorsement of Dell drives stock jump; clear bullish catalyst."
+   "reason": "Trump's explicit endorsement of Dell drives stock jump; clear bullish catalyst.",
+   "price_since": {
+    "ticker": "DELL",
+    "pct": -0.8,
+    "base": 411.8,
+    "last": 408.46,
+    "base_date": "2026-07-06",
+    "last_date": "2026-07-07"
+   }
   },
   {
    "date": "2026-07-06T21:03:22Z",
@@ -312,7 +441,15 @@
    "direction": "BUY",
    "primary_ticker": "DELL",
    "strength": 85,
-   "reason": "Trump explicitly endorses Dell at White House event, direct buy signal for the stock."
+   "reason": "Trump explicitly endorses Dell at White House event, direct buy signal for the stock.",
+   "price_since": {
+    "ticker": "DELL",
+    "pct": -0.8,
+    "base": 411.8,
+    "last": 408.46,
+    "base_date": "2026-07-06",
+    "last_date": "2026-07-07"
+   }
   },
   {
    "date": "2026-07-06T20:53:16Z",
@@ -328,7 +465,15 @@
    "direction": "BUY",
    "primary_ticker": "DELL",
    "strength": 85,
-   "reason": "Trump urges Americans to buy Dell computer; stock jumps 8% on explicit endorsement."
+   "reason": "Trump urges Americans to buy Dell computer; stock jumps 8% on explicit endorsement.",
+   "price_since": {
+    "ticker": "DELL",
+    "pct": -0.8,
+    "base": 411.8,
+    "last": 408.46,
+    "base_date": "2026-07-06",
+    "last_date": "2026-07-07"
+   }
   },
   {
    "date": "2026-07-06T20:45:33.577Z",
@@ -345,7 +490,15 @@
    "direction": "BUY",
    "primary_ticker": "WMT",
    "strength": 75,
-   "reason": "Trump Administration requests Walmart lower prices significantly; positive for retailer margins and reputation."
+   "reason": "Trump Administration requests Walmart lower prices significantly; positive for retailer margins and reputation.",
+   "price_since": {
+    "ticker": "WMT",
+    "pct": 1.4,
+    "base": 110.65,
+    "last": 112.17,
+    "base_date": "2026-07-06",
+    "last_date": "2026-07-07"
+   }
   },
   {
    "date": "2026-07-06T20:14:00Z",
@@ -361,7 +514,15 @@
    "direction": "WATCH",
    "primary_ticker": "DELL",
    "strength": 55,
-   "reason": "Dell stock bump from Trump endorsement fades; mixed signal on durability of bullish catalyst."
+   "reason": "Dell stock bump from Trump endorsement fades; mixed signal on durability of bullish catalyst.",
+   "price_since": {
+    "ticker": "DELL",
+    "pct": -0.8,
+    "base": 411.8,
+    "last": 408.46,
+    "base_date": "2026-07-06",
+    "last_date": "2026-07-07"
+   }
   },
   {
    "date": "2026-07-06T20:13:02Z",
@@ -1999,151 +2160,6 @@
    "primary_ticker": "SMH",
    "strength": 50,
    "reason": "Memory sector stocks (MU, SNDK, STX, WDC) extend slide as memory industry rally fades; broad semiconductor weakness signal"
-  },
-  {
-   "date": "2026-07-02T04:00:00Z",
-   "platform": "News",
-   "text": "MU, SNDK, STX, WDC Stocks Extend Slide Overnight As Memory Pump Fades: Retail Traders Hopeful For Rebound - Stocktwits \u2014 MU, SNDK, STX, WDC Stocks Extend Slide Overnight As Memory Pump Fades: Retail Traders Hopeful For Rebound\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPb0VPUHFyT3dNU1BkR3RTbUZ5dENaV0tfUUViMzZzVDJDcXZFVWdxZ1Raa3N4SkFYX0E3enVNUzdxN193Q1lkUVVfdUtqNkhJelJLUkwzVmhMYUEtWDBsRmw4LV9mQmVCQlMyUFJ2a3lZT0Z1QWF3clF0eUtPa2JsMDJGT3pJcEdiNVpTWHFobGxIUlRCeEV5N1dYQUp5LV9Pbjlyc1FNeS03OGhUZTViX29RTmM5d1BpalVIWDNTUDFja2lRb1FnY19pSi0zRXozSUNzaUJKS0tpdFcwa0NWbG94dzBvWnItOHF1dVNQM29Kc2h1SF9FUg?oc=5",
-   "tickers": [
-    "SMH"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "SMH",
-   "strength": 50,
-   "reason": "Memory stocks (MU, SNDK, STX, WDC) continue decline as rally momentum fades; sector weakness signal"
-  },
-  {
-   "date": "2026-07-02T04:00:00Z",
-   "platform": "News",
-   "text": "MU, SNDK, STX, WDC Stocks Extend Slide Overnight As Memory Pump Fades: Retail Traders Hopeful For Rebound - TradingView \u2014 MU, SNDK, STX, WDC Stocks Extend Slide Overnight As Memory Pump Fades: Retail Traders Hopeful For Rebound\u00a0\u00a0TradingView",
-   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQYnRXV2JKVi1wckpsay13dExqcnU1MmtockZYZGwyZVpqNjVpTUp3bDhURnFGbjZwZU1ZRXNKT1JENDVPWUhVY2U2aENfWHhVWTh3eVZ4MjJfZzZ0RUdLdUJ5RUZZTTFweHhvY1k2RWh1WUliRlhrM3ozRG4zZFV6aEg5LXhiRmhBcVJrZnN5UjNvc3NSandCVEo0ZDJweGk0NlpXSWtYb2VaRUZIdGpEakQ4bmF5WWhhYnRnUGdQRFN1bWU3WVJ3WW85eE1zNnZGZ2kzc0szSXQtQ2QtY1F4dVk1bVhtcWlkRVp4TThoMTJOY00z?oc=5",
-   "tickers": [
-    "SMH"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "SMH",
-   "strength": 45,
-   "reason": "Memory sector decline continues; chips weakness"
-  },
-  {
-   "date": "2026-07-02T03:47:24Z",
-   "platform": "News",
-   "text": "Trump Says After Iran, US May Turn Its Attention To Cuba: Report - Stocktwits \u2014 Trump Says After Iran, US May Turn Its Attention To Cuba: Report\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQWZ4TldDMUd6TUpfRWZzZFdHSmNPQ19WdUVQaFl0UWR6dHZwZnA2cUFHUVRpU3cxenFXOVFSaEg1SVc5UWZCMlFLWWtjaEhVMVlFWXhwNjdmN1RZU0NrejZWN29oOXVIS2dzejA1WVhVUDhsOVhWVG84dk9KZ1JFdC1ZWmxmbDFFVGZYNnR5T2JwTGZBZGZFTWxCWWFTc1JUQ0F5VTNCelYwd1psZkoxOG5jNEp1OUg2bDNTbzZOTnE1OGFw?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "SPY",
-   "strength": 35,
-   "reason": "Geopolitical escalation talk; potential conflict risk"
-  },
-  {
-   "date": "2026-07-01T23:53:49.941Z",
-   "platform": "Truth Social",
-   "text": "Just as I promised, Oil Prices are plummeting FAST, and Gas Prices at the pump are dropping too, but not as fast as they should be. As we approach America's 250th Birthday, I am pleased to announce that a VERY smart Retailer, located throughout the Northeast, is stepping up, and wishing the People of Philadelphia a \"Happy Birthday!\" On July 3rd, the Freedom Fuel Network will be lowering gas prices at 25 \"FREEDOM FUEL\" Stations across the Greater Philadelphia Area. This Retailer is taking the lead, and others should follow. They are doing this because they love the U.S.A. We are proud to celebrate America's 250th Birthday in the Great Commonwealth of Pennsylvania, the Birthplace of our very special, one-of-a-kind Declaration of Independence, and where I won BIG in the Presidential Election! America has never been stronger than it is now, and Gas Prices will soon be back to the Record Low Prices Americans enjoyed at the pump before our very successful \"excursion\" in Iran. Happy Birthday America! President DONALD J. TRUMP",
-   "tickers": [
-    "XLE"
-   ],
-   "engagement": 10086,
-   "url": "https://truthsocial.com/@realDonaldTrump/116847413162359390",
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "XLE",
-   "strength": 50,
-   "reason": "Trump claims oil prices plummeting and highlights gas price cuts; bullish energy/oil tone aligned with drill policy.",
-   "price_since": {
-    "ticker": "XLE",
-    "pct": 0.8,
-    "base": 52.81,
-    "last": 53.22,
-    "base_date": "2026-07-01",
-    "last_date": "2026-07-02"
-   }
-  },
-  {
-   "date": "2026-07-01T23:40:36Z",
-   "platform": "News",
-   "text": "Trump Just Called Micron the 'Hottest' Company in the World. The Market Yawned and Dumped It 10% - 24/7 Wall St. \u2014 Trump Just Called Micron the 'Hottest' Company in the World. The Market Yawned and Dumped It 10%\u00a0\u00a024/7 Wall St.",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNktpaG81OWszOUVSSUFqVGxWLXFRemRNWFlhcnlJeUxad1hXT0dJVnBUd2h3bS1TRkVndXZTMm9feDhFeXVwOTVkUlVmYk83N2FoRDN0WllNU0RCM1ZROUt2SThvbUw0SU9jc0ZtRllwTWpXVUg3cW9UQ3FFLVJVcEtja2puTTBBM1ZEcDRRVlVjUVBuSkxBR0tzd1FTVFJkZGhGN0dHbTR6TnJzd1NiQjhqSVVCbTZWLU82eXZaaG1KWkt0ZFFfQnktaTdIRzRzUUE?oc=5",
-   "tickers": [
-    "MU"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "MU",
-   "strength": 45,
-   "reason": "Trump explicitly praised Micron as 'hottest' company; despite market sell-off, the praise is a bullish signal even if market disagrees",
-   "price_since": {
-    "ticker": "MU",
-    "pct": -5.5,
-    "base": 1032.28,
-    "last": 975.56,
-    "base_date": "2026-07-01",
-    "last_date": "2026-07-02"
-   }
-  },
-  {
-   "date": "2026-07-01T23:12:37Z",
-   "platform": "News",
-   "text": "Axon Soars on Trump Stock Purchase Highlighting Insider Trading Issues - AOL.com \u2014 Axon Soars on Trump Stock Purchase Highlighting Insider Trading Issues\u00a0\u00a0AOL.com",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQR0pGbzBpTVhxZ2xqQUZOdmE3TVFCNllIWGJCcTZVZXhtSmdKamdYd21NVWpIYXRJTFI0LVhLME83UVJmWFlrR0k1bFV1MTVlQ1BPNUx4eVdxNjRWMWdOOGp4RUhWcDJFZTBIQWlaLUxvM1ZqYlRoYzRPUHZNTFVnbg?oc=5",
-   "tickers": [
-    "AXON"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "AXON",
-   "strength": 60,
-   "reason": "Trump's personal stock purchase in Axon drove rally; direct bullish signal from insider buying.",
-   "price_since": {
-    "ticker": "AXON",
-    "pct": 0.5,
-    "base": 593.96,
-    "last": 597.04,
-    "base_date": "2026-07-01",
-    "last_date": "2026-07-02"
-   }
-  },
-  {
-   "date": "2026-07-01T21:48:22Z",
-   "platform": "News",
-   "text": "IBRX Stock Rallies Into Trump\u2019s Big SOTU Night \u2014 Here\u2019s What Traders Think Could Fuel The Next Move - Stocktwits \u2014 IBRX Stock Rallies Into Trump\u2019s Big SOTU Night \u2014 Here\u2019s What Traders Think Could Fuel The Next Move\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWFdFall2YVNMN3Rialp3SE9sU0h6YUQ1MDFiX2JaeXMxNlFFZUZveFU0TkVxUFI4cTQ5bW5VdkFlTDd1dFNwSUN2YTRtRl83aVRRXzZ6d09TeEhlR1NJb1JaMHlMWDhrQXpmZW40c1B1Y21KNjhxdm90Ny1uU3p4MzJZSW9GNGduMEdyRzFIU2RGLWlYWXg4TFJUU0N6ZlhFemxtUmprVXY0YkVRZk5vZHljazQ?oc=5",
-   "tickers": [
-    "IBRX"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "IBRX",
-   "strength": 45,
-   "reason": "IBRX rallies into Trump's State of the Union; suggests market positioning around policy announcements but direction unclear",
-   "price_since": {
-    "ticker": "IBRX",
-    "pct": 2.6,
-    "base": 9.2,
-    "last": 9.44,
-    "base_date": "2026-07-01",
-    "last_date": "2026-07-02"
-   }
   },
   {
    "curated": true,
