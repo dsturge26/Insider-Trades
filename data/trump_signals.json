@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-07-08T11:31:35Z",
+ "last_updated": "2026-07-08T13:16:10Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-07-08T11:56:26Z",
+   "platform": "News",
+   "text": "Trump's Dell Shout-Out Sparks Ethics Firestorm As Former White House Lawyer Calls the Stock Trading 'Egre - Benzinga \u2014 Trump's Dell Shout-Out Sparks Ethics Firestorm As Former White House Lawyer Calls the Stock Trading 'Egre\u00a0\u00a0Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNNHlMS2tNRk9fYW1hTktVa0NUSmhBa1lVNExtQnZfRy1zSjdGQnRWakVzOWJCXzE4cFpXS01BVVRFWXE3OWdlZnRiME13amxZNzUxSzk0UVBJMVAzVm1WSl9JUE90R1p1cnluS3kwVDdvcUhITzVEZmRHdFdOMThYcVdMdU9NSGdTOEY5bmVBcHRFOFcwVFpYaThIal9xbGJ5SUJYUWN1c1dEVVF2UlFLNmMwaGhBTENHcVROUElYdzZOek5yRTlBRXFRaXNHWG5DSjdHV3ZIbmsxYm0xWDdqN3FXdHhqUHZhQkFJMS12U2FLMVpZd3dya0p1WWRSQ0g1YzE3NnJoVDBqc2h2d2lLWQ?oc=5",
+   "tickers": [
+    "DELL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "DELL",
+   "strength": 85,
+   "reason": "Trump explicitly told Americans to buy Dell; stock rallied on direct endorsement."
+  },
   {
    "date": "2026-07-08T07:52:15Z",
    "platform": "News",
@@ -164,9 +180,9 @@
    "reason": "Trump hints something could happen with Bitcoin; vague direction and timing make signal ambiguous.",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": -1.9,
+    "pct": -2.3,
     "base": 63297.39,
-    "last": 62082.29,
+    "last": 61851.9,
     "base_date": "2026-07-07",
     "last_date": "2026-07-08"
    }
@@ -2142,22 +2158,6 @@
    "primary_ticker": "SPY",
    "strength": 50,
    "reason": "Trump's portfolio trading spike before tariff pause signals insider optimism on market rebound"
-  },
-  {
-   "date": "2026-07-02T15:37:34Z",
-   "platform": "News",
-   "text": "Micron (MU) Stock Drops 10% After Trump Calls It the Hottest Company in the World - CoinCentral \u2014 Micron (MU) Stock Drops 10% After Trump Calls It the Hottest Company in the World\u00a0\u00a0CoinCentral",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOXRPLVB5UDctRkYtVVlhZGszM1UwdndmUU9tdXZtWWtIUXdINzZIbHRlVlgxd2F6TGxFeE9FRUx5RmZpbDV6S3Q0ckVJLWxRWVlCbkdmVHliaTlyamtxei1sR21EVExYWkxyRVZyZ2xtWWlicDY2NURmSHJJUFFZYVFqUGt2alJoMWtudi1ZWndQS28zUWdvemRDMU9ac1FrREsweHR3?oc=5",
-   "tickers": [
-    "MU"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "MU",
-   "strength": 35,
-   "reason": "Trump calls Micron 'hottest company', explicit praise but stock drops 10% contradicting bullish intent"
   },
   {
    "curated": true,
