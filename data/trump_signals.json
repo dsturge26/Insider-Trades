@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-07-08T01:11:43Z",
+ "last_updated": "2026-07-08T04:33:13Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -180,6 +180,22 @@
    "reason": "Trump repeats explicit 'Go out and buy a Dell Computer' endorsement; direct bullish signal."
   },
   {
+   "date": "2026-07-07T11:13:30Z",
+   "platform": "News",
+   "text": "Trump again tells everyone to 'Go out and buy a Dell Computer' - Yahoo Finance \u2014 Trump again tells everyone to 'Go out and buy a Dell Computer'\u00a0\u00a0Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQjMtWnN2WmJUV2x6aG9oS21jV05GNm8ybWFnTFppUlhaT0JCVnhKV25NbmZVRF9Fb1phVWRwajNTNmFjeEVDdUVNSC0tQm42cVdVRjAxQ2Rxam1zTzBZYnZHRVVPZEsxODdINDM5Y2Q2Um4zUEpiQ3dXWFQ5QjJOV19taE5vdnNYRVZYQ3pfQ3pjX3UtWlhRbEszTQ?oc=5",
+   "tickers": [
+    "DELL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "DELL",
+   "strength": 95,
+   "reason": "Trump again tells everyone to buy Dell computers; repeated explicit endorsement."
+  },
+  {
    "date": "2026-07-07T09:50:57Z",
    "platform": "News",
    "text": "Nancy Pelosi Stock Tracker Says 'Stop Overthinking What Stocks to Buy' After Trump's Dell Endorsement - Benzinga \u2014 Nancy Pelosi Stock Tracker Says 'Stop Overthinking What Stocks to Buy' After Trump's Dell Endorsement\u00a0\u00a0Benzinga",
@@ -348,6 +364,30 @@
    }
   },
   {
+   "date": "2026-07-06T22:46:54Z",
+   "platform": "News",
+   "text": "Tesla and AMD lead AI sector rally as Dell surges on Trump endorsement, SOXX +2.68% - StartupHub.ai \u2014 Tesla and AMD lead AI sector rally as Dell surges on Trump endorsement, SOXX +2.68%\u00a0\u00a0StartupHub.ai",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPREFtVlBCNEtNb2MwUjBVdnJBQkVRSGQteEtNQlNEOXZTODYyME1kTklNVVJBQVA4Q1lSTnhvS2w3VThVdEx0MFNlM0N6Zm5Qa2FxT194X0tvN1BPdGtva3NZY2s4amZ4aGFEazh2NmZyLTdOdFRQS2FRczY0aDRveA?oc=5",
+   "tickers": [
+    "DELL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "DELL",
+   "strength": 85,
+   "reason": "Dell surges on Trump endorsement within broader AI sector rally; explicit call alongside sector momentum.",
+   "price_since": {
+    "ticker": "DELL",
+    "pct": 1.3,
+    "base": 411.8,
+    "last": 417.28,
+    "base_date": "2026-07-06",
+    "last_date": "2026-07-07"
+   }
+  },
+  {
    "date": "2026-07-06T22:38:58Z",
    "platform": "News",
    "text": "Dell shares rise over 3% after Trump endorses b... - Pluang \u2014 Dell shares rise over 3% after Trump endorses b...\u00a0\u00a0Pluang",
@@ -412,9 +452,9 @@
    "reason": "Trump endorsement of crypto/Bitcoin suggests bullish sentiment on digital assets; non-explicit general endorsement.",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": -0.8,
+    "pct": -1.9,
     "base": 63995.02,
-    "last": 63500.86,
+    "last": 62802.72,
     "base_date": "2026-07-06",
     "last_date": "2026-07-08"
    }
@@ -2110,39 +2150,6 @@
    "primary_ticker": "MU",
    "strength": 45,
    "reason": "Trump calls Micron 'Great' company; explicit praise of named public company, but market reaction mixed/skeptical."
-  },
-  {
-   "date": "2026-07-02T13:23:28.727Z",
-   "platform": "Truth Social",
-   "text": "How about this? Micron, a GREAT American Company, announced that they are putting in 250 Million Dollars into the Trump Accounts for the future benefit of children, and their stock went up 9 points today. Thank you Micron! President DJT",
-   "tickers": [
-    "MU"
-   ],
-   "engagement": 6794,
-   "url": "https://truthsocial.com/@realDonaldTrump/116850596821921968",
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "MU",
-   "strength": 70,
-   "reason": "Trump explicitly praises Micron as 'GREAT American Company' and announces $250M investment in Trump Accounts; direct endorsement with concrete corporate commitment."
-  },
-  {
-   "date": "2026-07-02T12:55:31Z",
-   "platform": "News",
-   "text": "Nvidia Is Making it Easier for AI Startups to Get Compute Power With a New Cloud and Revenue-Sharing Program - Benzinga \u2014 Nvidia Is Making it Easier for AI Startups to Get Compute Power With a New Cloud and Revenue-Sharing Program\u00a0\u00a0Benzinga",
-   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQb3Z4RF9GWE9ObmNWbGMtNEdsSExheXFkcjJmWHZTNDVGc3RRaHZYc0U4R3NTM0x1NnRLVm5ucDh2RUVUOUg2ZVZmNnF5alppdXJuTnBKY0cyUVFiX1ppbDFVQW5odV9XaTJYTTc5bHZqMzBLV01uT2xJcFJSUjcwbU9LUlRhYVZIODJEa3IwMVN1SW1QRk9QSzNHeHpaMlNzdkhWclJZbFJveEU5UW9Zal9DRjFvN2xBX3JMTWExZjNVd3ozRlVsSFdJeHdVT09YVDhpQlBZSkVPNWtIYUZzX1FsZTAxaWpodDNVazJtMURiN1U?oc=5",
-   "tickers": [
-    "NVDA"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "NVDA",
-   "strength": 55,
-   "reason": "Nvidia launches new cloud/revenue-sharing program for AI startups; bullish product expansion signal for market leader"
   },
   {
    "curated": true,
