@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-07-08T22:44:37Z",
+ "last_updated": "2026-07-08T23:50:59Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -420,9 +420,9 @@
    "reason": "Trump hints something could happen with Bitcoin; vague direction and timing make signal ambiguous.",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": -1.6,
+    "pct": -1.7,
     "base": 63297.39,
-    "last": 62277.99,
+    "last": 62214.0,
     "base_date": "2026-07-07",
     "last_date": "2026-07-08"
    }
@@ -2318,38 +2318,6 @@
    "primary_ticker": "TRUMP",
    "strength": 30,
    "reason": "Trump reaffirms crypto sector involvement; bullish sentiment for Trump-linked crypto assets."
-  },
-  {
-   "date": "2026-07-02T21:33:38Z",
-   "platform": "News",
-   "text": "US President Trump: Praises the stock market - Bitget \u2014 US President Trump: Praises the stock market\u00a0\u00a0Bitget",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9abkRLckNacjZDX1hJc3NaZkdwaUZuWjkzaFh4OHJCMmJ1enlja01LelZid3gybXc4ZksxWnl2SGI1Tm1vNjV1OGU1MjNWcmZkUjhmRHZZa29PbnIwcjhycW4zNNIBY0FVX3lxTE9abkRLckNacjZDX1hJc3NaZkdwaUZuWjkzaFh4OHJCMmJ1enlja01LelZid3gybXc4ZksxWnl2SGI1Tm1vNjV1OGU1MjNWcmZkUjhmRHZZa29PbnIwcjhycW4zNA?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "SPY",
-   "strength": 30,
-   "reason": "Generic praise of stock market signals broad confidence"
-  },
-  {
-   "date": "2026-07-02T21:33:38Z",
-   "platform": "News",
-   "text": "US President Trump: I own some Nvidia stocks, but I think it's very few - Bitget \u2014 US President Trump: I own some Nvidia stocks, but I think it's very few\u00a0\u00a0Bitget",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1pWUdYQy1DNEZrOTk5VV9PbFdYNzllc1RIdGRWMVl1dng2Z1E0NXBiQ29mMHNxYzBtWWlWU2oyOHlNSGJYaUJEMGdmR0ZMLXRPYThldmlJYXIzODRXMzZTSXRac9IBY0FVX3lxTE1pWUdYQy1DNEZrOTk5VV9PbFdYNzllc1RIdGRWMVl1dng2Z1E0NXBiQ29mMHNxYzBtWWlWU2oyOHlNSGJYaUJEMGdmR0ZMLXRPYThldmlJYXIzODRXMzZTSXRacw?oc=5",
-   "tickers": [
-    "NVDA"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "WATCH",
-   "primary_ticker": "NVDA",
-   "strength": 25,
-   "reason": "Trump states he owns minimal Nvidia; implies low conviction or bearish tilt on the stock"
   },
   {
    "curated": true,
