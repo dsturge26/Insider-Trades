@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-07-08T09:40:49Z",
+ "last_updated": "2026-07-08T11:31:35Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-07-08T07:52:15Z",
+   "platform": "News",
+   "text": "Donald Trump Endorsement Drives Dell Technologies Stock Higher - sekbernews.id \u2014 Donald Trump Endorsement Drives Dell Technologies Stock Higher\u00a0\u00a0sekbernews.id",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5lV05DMDk5SXZSX3gyYlhCbjBrb0V4VnBpSTh2NlY5OHh3YngwSXFral9iSXRGR1Q4cl93b2kzOG1LbXpxR3dmYVpaVWNpZGM4am5ja3FxcUwtclBQTzU0WmtKaFdCV1JPa0liNXVETVo1Zw?oc=5",
+   "tickers": [
+    "DELL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "DELL",
+   "strength": 75,
+   "reason": "Trump explicitly endorses Dell, driving stock higher\u2014direct bullish catalyst"
+  },
   {
    "date": "2026-07-07T21:58:47Z",
    "platform": "News",
@@ -33,6 +49,22 @@
    "primary_ticker": "DELL",
    "strength": 75,
    "reason": "Trump explicitly and repeatedly tells Americans to buy Dell computers; direct presidential endorsement of named company."
+  },
+  {
+   "date": "2026-07-07T19:11:05Z",
+   "platform": "News",
+   "text": "INTC Stock Rockets Toward Best Month Ever: Something More Than A Trump Pump Could Be Powering The Rally - Stocktwits \u2014 INTC Stock Rockets Toward Best Month Ever: Something More Than A Trump Pump Could Be Powering The Rally\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQT29KOURKeHprQ2xZbmpLUUc3MGRlTTE5Y1JHVXJ5TGhldk10eENQcmZLSzRWNDQyTmJFclFNUThmZ0tBRlZUQTZ3MGF1dlZwR0Q4aUtXUnZVQ2o1MjM3cFNpU2RrejRkd2E0OXBhOVNpdDdBdDVSSTR1c2M5NTZfYlg4NEFxODg3QWpMTXd0VVIzM3pZRS10OG5JWG9QUW52UjZvbXVvQ29uZ1lJb1NwbFljM1lBN1dreHdJZDdYZ1hKTjVidndnRWlJRnl5cnNpT2llcjVuSVltVDNzVFdHbmZYTEpua3JJVllOcXIxVmdfaThfeHRzVm9R?oc=5",
+   "tickers": [
+    "INTC"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "INTC",
+   "strength": 40,
+   "reason": "Intel rally attributed partly to Trump pump; direction ambiguous, strength uncertain"
   },
   {
    "date": "2026-07-07T15:18:39Z",
@@ -132,9 +164,9 @@
    "reason": "Trump hints something could happen with Bitcoin; vague direction and timing make signal ambiguous.",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": -2.0,
+    "pct": -1.9,
     "base": 63297.39,
-    "last": 62039.46,
+    "last": 62082.29,
     "base_date": "2026-07-07",
     "last_date": "2026-07-08"
    }
@@ -250,6 +282,22 @@
    "primary_ticker": "DELL",
    "strength": 77,
    "reason": "Trump explicitly tells Americans to buy Dell; direct stock catalyst from presidential endorsement."
+  },
+  {
+   "date": "2026-07-07T06:05:02Z",
+   "platform": "News",
+   "text": "Trump Weighs In On Elon Musk, OpenAI, Intel \u2014 And Takes Aim At The 'Hostile' Fed Board - Stocktwits \u2014 Trump Weighs In On Elon Musk, OpenAI, Intel \u2014 And Takes Aim At The 'Hostile' Fed Board\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSGdkS2RRUEt3TWdWdW8yWkZrN0NfU1lZak10VExCWGktUlg3enppTzF4UnpEVjg3YVZRR2JqRmFYdTVBQTdIcmJHYVFkX2ZtcHFiREF5UWZ3NExDNTJhTnd2VE5HM1A1WFZnVEpoY0Rfa1BYMVJrZ0lKNlhDdDBKVW41S0dCOTdncW5jWEhHRkZMU0lERlF4MlFyU0xxTXFNS25wMWVoa1c3SkliajdkUDUtTDdUWnZmUnI5aUhNeHJreTBacEE0Zk1WZVMzMXpfUDFIeU9GSEN2N2liM2c?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "SPY",
+   "strength": 65,
+   "reason": "Trump attacks Fed board as hostile\u2014macro bearish signal for equities and rates"
   },
   {
    "date": "2026-07-07T04:01:45Z",
@@ -1310,22 +1358,6 @@
    "reason": "Trump sold Palantir and bought an AI stock; suggests shift toward AI sector but specific ticker not disclosed."
   },
   {
-   "date": "2026-07-06T08:00:06Z",
-   "platform": "News",
-   "text": "Trump Weighs In On Elon Musk, OpenAI, Intel \u2014 And Takes Aim At The 'Hostile' Fed Board - Stocktwits \u2014 Trump Weighs In On Elon Musk, OpenAI, Intel \u2014 And Takes Aim At The 'Hostile' Fed Board\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSGdkS2RRUEt3TWdWdW8yWkZrN0NfU1lZak10VExCWGktUlg3enppTzF4UnpEVjg3YVZRR2JqRmFYdTVBQTdIcmJHYVFkX2ZtcHFiREF5UWZ3NExDNTJhTnd2VE5HM1A1WFZnVEpoY0Rfa1BYMVJrZ0lKNlhDdDBKVW41S0dCOTdncW5jWEhHRkZMU0lERlF4MlFyU0xxTXFNS25wMWVoa1c3SkliajdkUDUtTDdUWnZmUnI5aUhNeHJreTBacEE0Zk1WZVMzMXpfUDFIeU9GSEN2N2liM2c?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "SPY",
-   "strength": 35,
-   "reason": "Trump comments on multiple companies and Fed; mixed signals without specific endorsement or policy action announced."
-  },
-  {
    "date": "2026-07-06T04:32:50Z",
    "platform": "News",
    "text": "Micron stock extends decline despite Trump's praise and bullish analyst views - MSN \u2014 Micron stock extends decline despite Trump's praise and bullish analyst views\u00a0\u00a0MSN",
@@ -1356,22 +1388,6 @@
    "primary_ticker": "C",
    "strength": 70,
    "reason": "Trump explicitly lauds Citi's 'big comeback' in M&A; direct praise of named bank moves stock."
-  },
-  {
-   "date": "2026-07-05T19:50:48Z",
-   "platform": "News",
-   "text": "INTC Stock Rockets Toward Best Month Ever: Something More Than A Trump Pump Could Be Powering The Rally - Stocktwits \u2014 INTC Stock Rockets Toward Best Month Ever: Something More Than A Trump Pump Could Be Powering The Rally\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQT29KOURKeHprQ2xZbmpLUUc3MGRlTTE5Y1JHVXJ5TGhldk10eENQcmZLSzRWNDQyTmJFclFNUThmZ0tBRlZUQTZ3MGF1dlZwR0Q4aUtXUnZVQ2o1MjM3cFNpU2RrejRkd2E0OXBhOVNpdDdBdDVSSTR1c2M5NTZfYlg4NEFxODg3QWpMTXd0VVIzM3pZRS10OG5JWG9QUW52UjZvbXVvQ29uZ1lJb1NwbFljM1lBN1dreHdJZDdYZ1hKTjVidndnRWlJRnl5cnNpT2llcjVuSVltVDNzVFdHbmZYTEpua3JJVllOcXIxVmdfaThfeHRzVm9R?oc=5",
-   "tickers": [
-    "INTC"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "INTC",
-   "strength": 35,
-   "reason": "Report cites Trump praise as driver; Intel rally linked to Trump endorsement signal"
   },
   {
    "date": "2026-07-05T19:49:02Z",
