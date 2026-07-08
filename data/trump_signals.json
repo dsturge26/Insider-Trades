@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-07-08T20:20:47Z",
+ "last_updated": "2026-07-08T21:41:35Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -318,7 +318,7 @@
     "ticker": "SPY",
     "pct": -0.3,
     "base": 747.71,
-    "last": 745.32,
+    "last": 745.4,
     "base_date": "2026-07-07",
     "last_date": "2026-07-08"
    }
@@ -388,9 +388,9 @@
    "reason": "Trump hints something could happen with Bitcoin; vague direction and timing make signal ambiguous.",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": -1.8,
+    "pct": -1.9,
     "base": 63297.39,
-    "last": 62134.67,
+    "last": 62063.81,
     "base_date": "2026-07-07",
     "last_date": "2026-07-08"
    }
@@ -2318,70 +2318,6 @@
    "primary_ticker": "NVDA",
    "strength": 25,
    "reason": "Trump states he owns minimal Nvidia; implies low conviction or bearish tilt on the stock"
-  },
-  {
-   "date": "2026-07-02T21:33:38Z",
-   "platform": "News",
-   "text": "Trump: Federal Reserve Chairman Waller Must Do What He Has To Do - Bitget \u2014 Trump: Federal Reserve Chairman Waller Must Do What He Has To Do\u00a0\u00a0Bitget",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5hX3RoclJEQTYtU1pINWV1OFF6cmkwUzZCRUN4aWJjSU96MGxHeUJ3MEdSRjUzUHFWelVjSzY5anhReXhoM3pYd2MzR1dBaDQ5X1ZOMHdicHFJUXZUNF9za2VETdIBY0FVX3lxTE5hX3RoclJEQTYtU1pINWV1OFF6cmkwUzZCRUN4aWJjSU96MGxHeUJ3MEdSRjUzUHFWelVjSzY5anhReXhoM3pYd2MzR1dBaDQ5X1ZOMHdicHFJUXZUNF9za2VETQ?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "SPY",
-   "strength": 35,
-   "reason": "Fed policy commentary; ambiguous on rate direction but signals engagement with monetary policy"
-  },
-  {
-   "date": "2026-07-02T21:17:45Z",
-   "platform": "News",
-   "text": "Suspicious Stock Trades Raise Questions About Trump\u2019s Financial Motives - SSBCrack \u2014 Suspicious Stock Trades Raise Questions About Trump\u2019s Financial Motives\u00a0\u00a0SSBCrack",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPN2MwV1FyOGItb2tobW1QS1h2aXpDLTdJczh0WW12Smx5bGZ0b3VJbnlReDhoREJqVy10Z0Y3TnRZRnRiaFZtajRLc3lUMWtwSzhBTkZka3JQcnBpUTBBNnV2a3VkeWR2WnNaQy1vX2tfazZoV0IzU1pnS3V2aG9iRWdZYkZaMG1HbXpLT0s3VzlPY0pVSFdGMmc4NDcxdw?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "SPY",
-   "strength": 25,
-   "reason": "Allegations of suspicious trading raise governance concerns; direction ambiguous."
-  },
-  {
-   "date": "2026-07-02T20:38:36Z",
-   "platform": "News",
-   "text": "Trump Praises Micron: Announces $250 Million Investment in Trump Accounts - ababnews.com \u2014 Trump Praises Micron: Announces $250 Million Investment in Trump Accounts\u00a0\u00a0ababnews.com",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5icVlMQ3luSmFzY0FINVpfN0NoVnJwbmMtVEkzUTI1dnhzc2Y4bHE5endySEpZRnBQWmRQSGdQVjNIT1pGRnRrVkRNR3VEeUJNLTd0d1ZGaUVGMXFxbEtvMEhxc084cV9fdkgtU2xvaWNxQWJO?oc=5",
-   "tickers": [
-    "MU"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "MU",
-   "strength": 75,
-   "reason": "Trump explicitly praises Micron and announces $250M investment in Trump accounts; concrete positive signal."
-  },
-  {
-   "date": "2026-07-02T20:16:00Z",
-   "platform": "News",
-   "text": "Trump Calls Micron a \u2018Great\u2019 Company but Can\u2019t Stop the Stock From Falling - Barron's \u2014 Trump Calls Micron a \u2018Great\u2019 Company but Can\u2019t Stop the Stock From Falling\u00a0\u00a0Barron's",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBRbTllZDJkTEI4dEZiamNSUlFUamZwWVdFSHpEbVZIUG5sTjk5ZzZUano5b2Rsdi11LU1uNE5oV08wbEd0eldVN2xOQ2ZRSGNiV2RLRWdMME84YXpYV2pjN3JIN1NMN0hzcndQbW9RRUdXMjdU?oc=5",
-   "tickers": [
-    "MU"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "MU",
-   "strength": 45,
-   "reason": "Trump praises Micron as 'great' company; explicit positive call on named stock, but market reaction was down\u2014signal weakened by contradictory price action"
   },
   {
    "curated": true,
