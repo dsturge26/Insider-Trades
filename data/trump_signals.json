@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-07-08T15:41:35Z",
+ "last_updated": "2026-07-08T17:10:59Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -17,6 +17,22 @@
    "primary_ticker": "DELL",
    "strength": 90,
    "reason": "Trump explicitly urges Americans to buy Dell; direct stock endorsement with demonstrated market impact."
+  },
+  {
+   "date": "2026-07-08T14:29:42Z",
+   "platform": "News",
+   "text": "Trump\u2019s Praise for Dell Sparks Stock Surge Amid Questions of Ethics and Influence - SSBCrack \u2014 Trump\u2019s Praise for Dell Sparks Stock Surge Amid Questions of Ethics and Influence\u00a0\u00a0SSBCrack",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQb2VjbFI1ZnNIb01qVkp1Y1J0dlZ6QW9EY0Q4elZIeGZwcFhyM1lQeXZOLVQxSVc5LVFvWUpyYlRCTDNieWFWMDhtMTlQSFFqVDFrbWhXaWc5U3JteE1hVDNwc0hsZXYtTXhXaFl2YmFva2FIai1oS0dRRTNPeWM5QnlyT0FDeklTQ1lnWk1CZ2RrT0p3bTNQTHNOUG1VbUJlNkpXcC1fZFdqQlE?oc=5",
+   "tickers": [
+    "DELL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "DELL",
+   "strength": 80,
+   "reason": "Trump's explicit praise for Dell drove stock surge; named public company endorsement."
   },
   {
    "date": "2026-07-08T11:56:26Z",
@@ -67,9 +83,9 @@
    "reason": "Trump explicitly urges Americans to buy Dell computers\u2014direct, repeated endorsement of a named public company.",
    "price_since": {
     "ticker": "DELL",
-    "pct": 1.8,
+    "pct": 3.3,
     "base": 417.28,
-    "last": 424.77,
+    "last": 431.05,
     "base_date": "2026-07-07",
     "last_date": "2026-07-08"
    }
@@ -91,9 +107,9 @@
    "reason": "Trump explicitly and repeatedly tells Americans to buy Dell computers; direct presidential endorsement of named company.",
    "price_since": {
     "ticker": "DELL",
-    "pct": 1.8,
+    "pct": 3.3,
     "base": 417.28,
-    "last": 424.77,
+    "last": 431.05,
     "base_date": "2026-07-07",
     "last_date": "2026-07-08"
    }
@@ -115,9 +131,33 @@
    "reason": "Intel rally attributed partly to Trump pump; direction ambiguous, strength uncertain",
    "price_since": {
     "ticker": "INTC",
-    "pct": -4.7,
+    "pct": -2.9,
     "base": 110.39,
-    "last": 105.17,
+    "last": 107.17,
+    "base_date": "2026-07-07",
+    "last_date": "2026-07-08"
+   }
+  },
+  {
+   "date": "2026-07-07T17:27:11Z",
+   "platform": "News",
+   "text": "Walmart Rolls Back Prices On Over 250 Items\u2014And Trump Quickly Claims Credit - Forbes \u2014 Walmart Rolls Back Prices On Over 250 Items\u2014And Trump Quickly Claims Credit\u00a0\u00a0Forbes",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSUxuYVpKamZiZmEtLW52TjdzQ2g1SWtYdWRKZkV1RkJRY1FwUk1tOGhibVZUSC1ESTJhaFhjUVYyMVZwNWRuNUFsajBQZUE3UmVxY01BcE5IYXFOSmpTVEhzVGVHc3ppRHJnWFZRMnJ0WmoxVnlyUWR2Vy1kT3phN0U2TjN4TU9CaUJXOEp1cW90RGJjMFZYa3BNNjZLSEw3aTk3aHpqTEEtWlVrUW9GeEQzT3NTMC14djVXRXBiZ2xIc0tfY3Q4?oc=5",
+   "tickers": [
+    "WMT"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "WMT",
+   "strength": 45,
+   "reason": "Trump claims credit for Walmart price rollback; company action precedes claim, direction unclear.",
+   "price_since": {
+    "ticker": "WMT",
+    "pct": 1.3,
+    "base": 111.54,
+    "last": 113.01,
     "base_date": "2026-07-07",
     "last_date": "2026-07-08"
    }
@@ -139,9 +179,9 @@
    "reason": "Trump tells Americans to buy Dell; stock jumps 7% \u2014 explicit bullish call with immediate market reaction.",
    "price_since": {
     "ticker": "DELL",
-    "pct": 1.8,
+    "pct": 3.3,
     "base": 417.28,
-    "last": 424.77,
+    "last": 431.05,
     "base_date": "2026-07-07",
     "last_date": "2026-07-08"
    }
@@ -163,9 +203,9 @@
    "reason": "Trump explicitly urges consumers to buy Dell computers, direct stock catalyst.",
    "price_since": {
     "ticker": "DELL",
-    "pct": 1.8,
+    "pct": 3.3,
     "base": 417.28,
-    "last": 424.77,
+    "last": 431.05,
     "base_date": "2026-07-07",
     "last_date": "2026-07-08"
    }
@@ -189,7 +229,7 @@
     "ticker": "NOW",
     "pct": -3.8,
     "base": 110.73,
-    "last": 106.52,
+    "last": 106.55,
     "base_date": "2026-07-07",
     "last_date": "2026-07-08"
    }
@@ -212,9 +252,9 @@
    "reason": "Major manufacturing shift from Mexico to US; tariffs driving onshoring, broad positive market signal.",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.9,
+    "pct": -0.5,
     "base": 747.71,
-    "last": 741.09,
+    "last": 744.32,
     "base_date": "2026-07-07",
     "last_date": "2026-07-08"
    }
@@ -236,9 +276,9 @@
    "reason": "Trump explicitly tells Americans to buy Dell computers; direct endorsement of named publicly-traded company.",
    "price_since": {
     "ticker": "DELL",
-    "pct": 1.8,
+    "pct": 3.3,
     "base": 417.28,
-    "last": 424.77,
+    "last": 431.05,
     "base_date": "2026-07-07",
     "last_date": "2026-07-08"
    }
@@ -260,9 +300,9 @@
    "reason": "Trump tells Americans to 'Go Out and Buy a Dell Computer'; explicit endorsement of named stock.",
    "price_since": {
     "ticker": "DELL",
-    "pct": 1.8,
+    "pct": 3.3,
     "base": 417.28,
-    "last": 424.77,
+    "last": 431.05,
     "base_date": "2026-07-07",
     "last_date": "2026-07-08"
    }
@@ -284,9 +324,9 @@
    "reason": "Trump hints something could happen with Bitcoin; vague direction and timing make signal ambiguous.",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": -2.7,
+    "pct": -2.0,
     "base": 63297.39,
-    "last": 61581.98,
+    "last": 62056.61,
     "base_date": "2026-07-07",
     "last_date": "2026-07-08"
    }
@@ -308,9 +348,9 @@
    "reason": "Trump's Dell endorsement referenced in stock tracker; reinforces bullish sentiment.",
    "price_since": {
     "ticker": "DELL",
-    "pct": 1.8,
+    "pct": 3.3,
     "base": 417.28,
-    "last": 424.77,
+    "last": 431.05,
     "base_date": "2026-07-07",
     "last_date": "2026-07-08"
    }
@@ -332,9 +372,9 @@
    "reason": "Trump promotes Dell at White House event; explicit company praise drives stock surge.",
    "price_since": {
     "ticker": "DELL",
-    "pct": 1.8,
+    "pct": 3.3,
     "base": 417.28,
-    "last": 424.77,
+    "last": 431.05,
     "base_date": "2026-07-07",
     "last_date": "2026-07-08"
    }
@@ -356,9 +396,9 @@
    "reason": "Trump repeats explicit 'Go out and buy a Dell Computer' endorsement; direct bullish signal.",
    "price_since": {
     "ticker": "DELL",
-    "pct": 1.8,
+    "pct": 3.3,
     "base": 417.28,
-    "last": 424.77,
+    "last": 431.05,
     "base_date": "2026-07-07",
     "last_date": "2026-07-08"
    }
@@ -380,9 +420,9 @@
    "reason": "Trump again tells everyone to buy Dell computers; repeated explicit endorsement.",
    "price_since": {
     "ticker": "DELL",
-    "pct": 1.8,
+    "pct": 3.3,
     "base": 417.28,
-    "last": 424.77,
+    "last": 431.05,
     "base_date": "2026-07-07",
     "last_date": "2026-07-08"
    }
@@ -404,9 +444,9 @@
    "reason": "Trump explicitly told Americans to buy Dell computers; stock surged.",
    "price_since": {
     "ticker": "DELL",
-    "pct": 1.8,
+    "pct": 3.3,
     "base": 417.28,
-    "last": 424.77,
+    "last": 431.05,
     "base_date": "2026-07-07",
     "last_date": "2026-07-08"
    }
@@ -428,9 +468,9 @@
    "reason": "Trump makes another explicit 'Buy Dell' call with disclosed $5M stake; high-conviction bullish signal.",
    "price_since": {
     "ticker": "DELL",
-    "pct": 1.8,
+    "pct": 3.3,
     "base": 417.28,
-    "last": 424.77,
+    "last": 431.05,
     "base_date": "2026-07-07",
     "last_date": "2026-07-08"
    }
@@ -452,9 +492,9 @@
    "reason": "Trump explicitly tells Americans to buy Dell; direct stock catalyst from presidential endorsement.",
    "price_since": {
     "ticker": "DELL",
-    "pct": 1.8,
+    "pct": 3.3,
     "base": 417.28,
-    "last": 424.77,
+    "last": 431.05,
     "base_date": "2026-07-07",
     "last_date": "2026-07-08"
    }
@@ -476,9 +516,9 @@
    "reason": "Trump attacks Fed board as hostile\u2014macro bearish signal for equities and rates",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.9,
+    "pct": -0.5,
     "base": 747.71,
-    "last": 741.08,
+    "last": 744.32,
     "base_date": "2026-07-07",
     "last_date": "2026-07-08"
    }
@@ -500,9 +540,9 @@
    "reason": "SpaceX gifting stock to Trump accounts signals insider confidence in Trump Media stock.",
    "price_since": {
     "ticker": "DJT",
-    "pct": -0.4,
+    "pct": 0.7,
     "base": 8.13,
-    "last": 8.1,
+    "last": 8.19,
     "base_date": "2026-07-07",
     "last_date": "2026-07-08"
    }
@@ -524,9 +564,9 @@
    "reason": "Trump launched investment accounts and praised Dell; stock surged as he rang NYSE bell.",
    "price_since": {
     "ticker": "DELL",
-    "pct": 1.8,
+    "pct": 3.3,
     "base": 417.28,
-    "last": 424.77,
+    "last": 431.05,
     "base_date": "2026-07-07",
     "last_date": "2026-07-08"
    }
@@ -548,9 +588,9 @@
    "reason": "Trump explicitly praises Dell, driving direct stock reaction",
    "price_since": {
     "ticker": "DELL",
-    "pct": 1.8,
+    "pct": 3.3,
     "base": 417.28,
-    "last": 424.77,
+    "last": 431.05,
     "base_date": "2026-07-07",
     "last_date": "2026-07-08"
    }
@@ -2302,22 +2342,6 @@
    "primary_ticker": "MU",
    "strength": 45,
    "reason": "Trump praised Micron as 'great' company; however stock fell despite praise, suggesting market skepticism or other headwinds dominating"
-  },
-  {
-   "date": "2026-07-02T16:11:14Z",
-   "platform": "News",
-   "text": "Trump Made Hundreds of Stock Trades One Day Before Pausing Tariffs - The New Republic \u2014 Trump Made Hundreds of Stock Trades One Day Before Pausing Tariffs\u00a0\u00a0The New Republic",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNX3ZRRkN1LVNud0g1eHNWNGQ1b3I3ek9pVHBZcVJfZVVkYmdTN3dlVTRwV0hmWjQ2YTlSWF91YmZYZWh0ZnpIVmZmekZKY2JoZmk3V3RLUFRmU2h2OFB3eEotT0JxamJiclZCWFY2WkJDRHRtbUI1YklQVzNNSmpWX08zTXlzWmI0V09v?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "SPY",
-   "strength": 35,
-   "reason": "Trump made large stock trades before pausing tariffs; unclear intent but raises questions about market timing and policy direction"
   },
   {
    "curated": true,
