@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-07-08T21:41:35Z",
+ "last_updated": "2026-07-08T22:44:37Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-07-08T20:31:19Z",
+   "platform": "News",
+   "text": "Nancy Pelosi Stock Tracker Says 'Stop Overthinking What Stocks to Buy' After Trump's Dell Endorsement - Yahoo Finance \u2014 Nancy Pelosi Stock Tracker Says 'Stop Overthinking What Stocks to Buy' After Trump's Dell Endorsement\u00a0\u00a0Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQ2czVkpJNnFFN1VGa2ttNmxGMEJNVU0tT1JycDI1bVdsNXV4X3JDTXZWQXJnc3hsRWtkSF9ZSjkyRkRFb2JZQ2paMGgtZ3d5a0pEdW9ld053cDhkZ2VSZ1M3Ri1yajRFMjFfQ3F4djJua1JvNERmd0llbHZZb3JNa08yT3dKMGVJLUwtVzdid3BDWEZadE1aSnhoVkY?oc=5",
+   "tickers": [
+    "DELL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "DELL",
+   "strength": 85,
+   "reason": "Trump explicitly urges buying Dell computers, direct stock catalyst"
+  },
   {
    "date": "2026-07-08T17:38:00Z",
    "platform": "News",
@@ -35,7 +51,7 @@
    "reason": "Trump explicitly urges Americans to buy Dell; direct stock endorsement with demonstrated market impact."
   },
   {
-   "date": "2026-07-08T14:29:42Z",
+   "date": "2026-07-08T14:33:51Z",
    "platform": "News",
    "text": "Trump\u2019s Praise for Dell Sparks Stock Surge Amid Questions of Ethics and Influence - SSBCrack \u2014 Trump\u2019s Praise for Dell Sparks Stock Surge Amid Questions of Ethics and Influence\u00a0\u00a0SSBCrack",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQb2VjbFI1ZnNIb01qVkp1Y1J0dlZ6QW9EY0Q4elZIeGZwcFhyM1lQeXZOLVQxSVc5LVFvWUpyYlRCTDNieWFWMDhtMTlQSFFqVDFrbWhXaWc5U3JteE1hVDNwc0hsZXYtTXhXaFl2YmFva2FIai1oS0dRRTNPeWM5QnlyT0FDeklTQ1lnWk1CZ2RrT0p3bTNQTHNOUG1VbUJlNkpXcC1fZFdqQlE?oc=5",
@@ -47,8 +63,8 @@
    "explicit": true,
    "direction": "BUY",
    "primary_ticker": "DELL",
-   "strength": 80,
-   "reason": "Trump's explicit praise for Dell drove stock surge; named public company endorsement."
+   "strength": 75,
+   "reason": "Trump's public praise for Dell sparks measurable stock move"
   },
   {
    "date": "2026-07-08T11:56:26Z",
@@ -113,6 +129,22 @@
    "primary_ticker": "DELL",
    "strength": 80,
    "reason": "Dell stock rises following Trump comments; explicit endorsement signal"
+  },
+  {
+   "date": "2026-07-08T05:06:02Z",
+   "platform": "News",
+   "text": "Eric Trump hails $504M Bitcoin stash as holdings top 8,000 BTC - MSN \u2014 Eric Trump hails $504M Bitcoin stash as holdings top 8,000 BTC\u00a0\u00a0MSN",
+   "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNOXo2ZmNuWThfRnI1dzRqVFZTUTBZVFdHZUhCRHVodTJKZDN0RXJWUHFORGlEN2N6Xy1XSWc2cDktY2hwT3ZfS2IzY191LTNXN1lZWjNDaU1PVDB4RWh2NXM4WUV0aW5xMDVNamZQV3plMC1DUFlxNVN1cDRfUy1RT2pPZ2tieU1qN1lQY2JHOWRnM2E0WU10UVNKRzZhRDctTmtadW9kVG04dU9UUmNWY2EtdUppQ2Q4bkMwd200MFBheWt1Q2ZNekVWOXVoWVhmNTlUYldUc2p1emxLbGlMaEJuOXdqNk1FNDNydFNGMFJuNHc2ZDRTNnRwUm1RTm1adndkU00wa0paelJwNC1OdzlTZEFQaWdmd0VZWnVjWC1IVUJ2YVZKaw?oc=5",
+   "tickers": [
+    "BTC-USD"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "BTC-USD",
+   "strength": 60,
+   "reason": "Trump family holds large Bitcoin stash, implicit bullish signal on crypto"
   },
   {
    "date": "2026-07-08T02:50:38Z",
@@ -388,9 +420,9 @@
    "reason": "Trump hints something could happen with Bitcoin; vague direction and timing make signal ambiguous.",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": -1.9,
+    "pct": -1.6,
     "base": 63297.39,
-    "last": 62063.81,
+    "last": 62277.99,
     "base_date": "2026-07-07",
     "last_date": "2026-07-08"
    }
