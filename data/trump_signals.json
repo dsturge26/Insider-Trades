@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-07-08T04:33:13Z",
+ "last_updated": "2026-07-08T07:15:20Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -129,7 +129,15 @@
    "direction": "WATCH",
    "primary_ticker": "BTC-USD",
    "strength": 50,
-   "reason": "Trump hints something could happen with Bitcoin; vague direction and timing make signal ambiguous."
+   "reason": "Trump hints something could happen with Bitcoin; vague direction and timing make signal ambiguous.",
+   "price_since": {
+    "ticker": "BTC-USD",
+    "pct": -1.0,
+    "base": 63297.39,
+    "last": 62655.68,
+    "base_date": "2026-07-07",
+    "last_date": "2026-07-08"
+   }
   },
   {
    "date": "2026-07-07T11:47:05Z",
@@ -452,9 +460,9 @@
    "reason": "Trump endorsement of crypto/Bitcoin suggests bullish sentiment on digital assets; non-explicit general endorsement.",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": -1.9,
+    "pct": -2.1,
     "base": 63995.02,
-    "last": 62802.72,
+    "last": 62655.68,
     "base_date": "2026-07-06",
     "last_date": "2026-07-08"
    }
@@ -2134,22 +2142,6 @@
    "primary_ticker": "MU",
    "strength": 35,
    "reason": "Trump calls Micron 'hottest company', explicit praise but stock drops 10% contradicting bullish intent"
-  },
-  {
-   "date": "2026-07-02T14:49:00Z",
-   "platform": "News",
-   "text": "Trump Calls Micron a \u2018Great\u2019 Company, the Stock Is Falling - Barron's \u2014 Trump Calls Micron a \u2018Great\u2019 Company, the Stock Is Falling\u00a0\u00a0Barron's",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBRbTllZDJkTEI4dEZiamNSUlFUamZwWVdFSHpEbVZIUG5sTjk5ZzZUano5b2Rsdi11LU1uNE5oV08wbEd0eldVN2xOQ2ZRSGNiV2RLRWdMME84YXpYV2pjN3JIN1NMN0hzcndQbW9RRUdXMjdU?oc=5",
-   "tickers": [
-    "MU"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "MU",
-   "strength": 45,
-   "reason": "Trump calls Micron 'Great' company; explicit praise of named public company, but market reaction mixed/skeptical."
   },
   {
    "curated": true,
