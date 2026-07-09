@@ -1,8 +1,32 @@
 {
- "last_updated": "2026-07-08T13:16:11Z",
+ "last_updated": "2026-07-09T23:18:11Z",
  "source": "Financial Modeling Prep (Form 4)",
  "is_sample": false,
  "signals": [
+  {
+   "date": "2026-07-08",
+   "ticker": "WRAP",
+   "direction": "BUY",
+   "source": "Insider",
+   "insider": "Shulman John D",
+   "title": "director",
+   "value": 110000,
+   "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001208886&type=4",
+   "strength": 70,
+   "reason": "Shulman John D bought $110,000"
+  },
+  {
+   "date": "2026-07-07",
+   "ticker": "UUUU",
+   "direction": "BUY",
+   "source": "Insider",
+   "insider": "Bhappu Ross R.",
+   "title": "officer: President and CEO",
+   "value": 967920,
+   "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001496748&type=4",
+   "strength": 75,
+   "reason": "Bhappu Ross R. bought $967,920"
+  },
   {
    "date": "2026-07-02",
    "ticker": "COE",
