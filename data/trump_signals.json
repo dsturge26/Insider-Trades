@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-07-08T23:50:59Z",
+ "last_updated": "2026-07-09T03:18:34Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-07-08T22:30:05Z",
+   "platform": "News",
+   "text": "Citi Stock Hits 52-Week High Before Fading As Trump Lauds Bank's 'Big Comeback' In M&A \u2014 But Full Picture Has Changed Now - Stocktwits \u2014 Citi Stock Hits 52-Week High Before Fading As Trump Lauds Bank's 'Big Comeback' In M&A \u2014 But Full Picture Has Changed Now\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWUpacUZnX014SV9nTnRZbVQ0dWhFQlZiV3ZjLV9nWExYUjVMdmlZdkdoNnFLcUhZUEhuZ1k3a2JENWJrYkhqdjJqNFlLaVlVYzBRb3dJOFA2Q1dESmhCTVJnQXJJaU15VjVFUFo2cWJDOEx3QTIzN0NSQjExRWhRZlNLaDFXeEZMQ0poajdjbGhmNlhPd1ZQSnVOSmNVa0pVTF94Z1RVdXlSU2JrR0N3X2dHSENINjZHNWdTYzB1dEZPaERK?oc=5",
+   "tickers": [
+    "C"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "C",
+   "strength": 35,
+   "reason": "Trump praised Citi's M&A comeback; indirect positive signal but vague and already partially priced in"
+  },
   {
    "date": "2026-07-08T20:31:19Z",
    "platform": "News",
@@ -420,11 +436,11 @@
    "reason": "Trump hints something could happen with Bitcoin; vague direction and timing make signal ambiguous.",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": -1.7,
+    "pct": -2.4,
     "base": 63297.39,
-    "last": 62214.0,
+    "last": 61805.59,
     "base_date": "2026-07-07",
-    "last_date": "2026-07-08"
+    "last_date": "2026-07-09"
    }
   },
   {
@@ -1774,22 +1790,6 @@
    "reason": "Trump praised Micron but stock declined; suggests praise alone insufficient to overcome other bearish factors."
   },
   {
-   "date": "2026-07-05T21:38:26Z",
-   "platform": "News",
-   "text": "Citi Stock Hits 52-Week High Before Fading As Trump Lauds Bank's 'Big Comeback' In M&A \u2014 But Full Picture Has Changed Now - Stocktwits \u2014 Citi Stock Hits 52-Week High Before Fading As Trump Lauds Bank's 'Big Comeback' In M&A \u2014 But Full Picture Has Changed Now\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWUpacUZnX014SV9nTnRZbVQ0dWhFQlZiV3ZjLV9nWExYUjVMdmlZdkdoNnFLcUhZUEhuZ1k3a2JENWJrYkhqdjJqNFlLaVlVYzBRb3dJOFA2Q1dESmhCTVJnQXJJaU15VjVFUFo2cWJDOEx3QTIzN0NSQjExRWhRZlNLaDFXeEZMQ0poajdjbGhmNlhPd1ZQSnVOSmNVa0pVTF94Z1RVdXlSU2JrR0N3X2dHSENINjZHNWdTYzB1dEZPaERK?oc=5",
-   "tickers": [
-    "C"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "C",
-   "strength": 70,
-   "reason": "Trump explicitly lauds Citi's 'big comeback' in M&A; direct praise of named bank moves stock."
-  },
-  {
    "date": "2026-07-05T19:49:02Z",
    "platform": "News",
    "text": "DELL Stock Spikes To Record Highs On President Trump\u2019s Endorsement - Stocktwits \u2014 DELL Stock Spikes To Record Highs On President Trump\u2019s Endorsement\u00a0\u00a0Stocktwits",
@@ -2302,22 +2302,6 @@
    "primary_ticker": "TRUMP",
    "strength": 35,
    "reason": "Trump-linked crypto holdings signal confidence in crypto sector; non-explicit mention of $1.4B profits."
-  },
-  {
-   "date": "2026-07-02T21:33:38Z",
-   "platform": "News",
-   "text": "US President Trump: I was involved in the cryptocurrency sector before becoming president - Bitget \u2014 US President Trump: I was involved in the cryptocurrency sector before becoming president\u00a0\u00a0Bitget",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1zRlJsdThDQWNiSDZGb2pqQkw4djczNGlHWm9Nb21qdVhwc2JnOUEyQW9YSTExZ1dQdzdlNUl4RE1UYWV3dDFXTGxDWUlmck1MZ1YtM19vd25QT0VnbHE5OTJwZ9IBY0FVX3lxTE1zRlJsdThDQWNiSDZGb2pqQkw4djczNGlHWm9Nb21qdVhwc2JnOUEyQW9YSTExZ1dQdzdlNUl4RE1UYWV3dDFXTGxDWUlmck1MZ1YtM19vd25QT0VnbHE5OTJwZw?oc=5",
-   "tickers": [
-    "TRUMP"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "TRUMP",
-   "strength": 30,
-   "reason": "Trump reaffirms crypto sector involvement; bullish sentiment for Trump-linked crypto assets."
   },
   {
    "curated": true,
