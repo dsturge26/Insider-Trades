@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-07-09T23:18:09Z",
+ "last_updated": "2026-07-10T01:08:58Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -347,11 +347,11 @@
    "reason": "Trump family holds large Bitcoin stash, implicit bullish signal on crypto",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": 1.3,
+    "pct": 1.1,
     "base": 62257.57,
-    "last": 63077.58,
+    "last": 62954.13,
     "base_date": "2026-07-08",
-    "last_date": "2026-07-09"
+    "last_date": "2026-07-10"
    }
   },
   {
@@ -636,11 +636,11 @@
    "reason": "Trump hints something could happen with Bitcoin; vague direction and timing make signal ambiguous.",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": -0.3,
+    "pct": -0.5,
     "base": 63297.39,
-    "last": 63077.58,
+    "last": 62954.13,
     "base_date": "2026-07-07",
-    "last_date": "2026-07-09"
+    "last_date": "2026-07-10"
    }
   },
   {
@@ -786,6 +786,22 @@
     "base_date": "2026-07-07",
     "last_date": "2026-07-08"
    }
+  },
+  {
+   "date": "2026-07-07T08:50:01Z",
+   "platform": "News",
+   "text": "WMT: Trump Praises Walmart's Price Cuts Amid Rising Consumer Cos - GuruFocus \u2014 WMT: Trump Praises Walmart's Price Cuts Amid Rising Consumer Cos\u00a0\u00a0GuruFocus",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMlIydzFteFF5eU9NT3hTanBra2NfUGFVSXA5X0RlVU14LXMydHE5ZFBmMEFrYWVxUDd2OEpNVlRpa2JrYWx1MUg2ckQxMFE1cXM2RnVrZV94MGhJd280bjV0bEtQMHpuRGFELVFnNXA3R05Jazc5MUFhSU1ZemhPQnVsVFlfMGwya2FxVzFBUzJwdTlDR3p5XzQ2Z3JhYlNTakxsY0w2LU91NEljRTVMMHN6RVlrdw?oc=5",
+   "tickers": [
+    "WMT"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "WMT",
+   "strength": 65,
+   "reason": "Trump explicitly praises Walmart's price cuts, signaling approval of the company and its consumer-friendly strategy."
   },
   {
    "date": "2026-07-07T07:24:02Z",
