@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-07-10T22:15:33Z",
+ "last_updated": "2026-07-10T23:28:53Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -33,6 +33,22 @@
    "primary_ticker": "XLE",
    "strength": 35,
    "reason": "Trump endorsement of Freedom Fuel gas stations implies bullish energy/fuel retail sector"
+  },
+  {
+   "date": "2026-07-10T01:25:43Z",
+   "platform": "News",
+   "text": "Dell\u2019s stock gets another Trump bump \u2014 but this time it\u2019s fading - MSN \u2014 Dell\u2019s stock gets another Trump bump \u2014 but this time it\u2019s fading\u00a0\u00a0MSN",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOa2pTUjVyVVczYy1PV2NXNW15Y3drM1BfRWRuMDhlejJWTThYcU4zTGtfM21NOFRtejd0T3RrQWk1RG5sNllCQmV3dFB0bVVUdkh2OEZmc1d2aXdXWGctamRjVWFlZ0NiQU1pUWRwU0NpYVg3Z05Kbk94R3Y5OXQtYlE1ajVEMkp6VnkyaEZkUXZNb1g2OTdhUnVQeTNLYjY4S0hNekp0dHU3RFBMSmY2WHdJdWY?oc=5",
+   "tickers": [
+    "DELL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "DELL",
+   "strength": 60,
+   "reason": "Trump has praised/endorsed Dell; prior explicit 'buy Dell' comments drive stock bump."
   },
   {
    "date": "2026-07-09T23:24:54Z",
@@ -371,6 +387,30 @@
    }
   },
   {
+   "date": "2026-07-08T19:26:11Z",
+   "platform": "News",
+   "text": "Trump's Dell Shout-Out Sparks Ethics Firestorm As Former White House Lawyer Calls the Stock Trading 'Egregious': 'There Should Never Be...' - Dailyhunt \u2014 Trump's Dell Shout-Out Sparks Ethics Firestorm As Former White House Lawyer Calls the Stock Trading 'Egregious': 'There Should Never Be...'\u00a0\u00a0Dailyhunt",
+   "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxObFU4WnFaNEt1bkQ4eUMwUkVETTh6TUZUTUZadkcta1lUWmZ4VFl5M2o3OTJnb0NIeE1oRHphUTRjUGZNaFpKSE52bXd6UlBBT0NnMDl6WlFqLXQtWTg1WHRxRjJCVHNINnU0NXZmWEJJaVAzUlp6VmNyX1Zsd1VWMTRocGY3V2NKZWRNeElKNXNVOVJTeks2bXA4WE9ncllDTEtPVzVISTNZYWVERkFuMUVBQld0bkFqUXRsOVZSSGhFZjUzY0U5WTJpRHNpR2dMc0V2VDlIN2c1UXltLTJGaWdYd1FXZm5qcXVaSTN6aE4taFpIYUtRanBHWDZ4MVJiTU9fanJKNVB0bmhncGR4MXlLSmszTkMxQ0dWWkFBbmZpR0Q4RE9aZThldHJfRXBvbS1meFpqWTFnZw?oc=5",
+   "tickers": [
+    "DELL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "DELL",
+   "strength": 70,
+   "reason": "Trump's explicit Dell endorsement drives stock; ethics debate confirms market attention to the call.",
+   "price_since": {
+    "ticker": "DELL",
+    "pct": 0.7,
+    "base": 431.97,
+    "last": 434.97,
+    "base_date": "2026-07-08",
+    "last_date": "2026-07-10"
+   }
+  },
+  {
    "date": "2026-07-08T17:40:17Z",
    "platform": "News",
    "text": "Trump Warns Of Tariffs Up To 200% For Companies That Don't Build In The US \u2014 'We're Doing Great On Steel Because We Charge Tariffs' - Stocktwits \u2014 Trump Warns Of Tariffs Up To 200% For Companies That Don't Build In The US \u2014 'We're Doing Great On Steel Because We Charge Tariffs'\u00a0\u00a0Stocktwits",
@@ -579,9 +619,9 @@
    "reason": "Trump family holds large Bitcoin stash, implicit bullish signal on crypto",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": 2.8,
+    "pct": 3.0,
     "base": 62257.57,
-    "last": 64011.78,
+    "last": 64150.24,
     "base_date": "2026-07-08",
     "last_date": "2026-07-10"
    }
@@ -1402,30 +1442,6 @@
    "primary_ticker": "DELL",
    "strength": 95,
    "reason": "Trump explicitly tells people to 'go and buy a Dell'; direct public endorsement of specific company.",
-   "price_since": {
-    "ticker": "DELL",
-    "pct": 1.3,
-    "base": 411.8,
-    "last": 417.28,
-    "base_date": "2026-07-06",
-    "last_date": "2026-07-07"
-   }
-  },
-  {
-   "date": "2026-07-06T21:53:58Z",
-   "platform": "News",
-   "text": "Dell\u2019s stock gets another Trump bump \u2014 but this time it\u2019s fading - MSN \u2014 Dell\u2019s stock gets another Trump bump \u2014 but this time it\u2019s fading\u00a0\u00a0MSN",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOa2pTUjVyVVczYy1PV2NXNW15Y3drM1BfRWRuMDhlejJWTThYcU4zTGtfM21NOFRtejd0T3RrQWk1RG5sNllCQmV3dFB0bVVUdkh2OEZmc1d2aXdXWGctamRjVWFlZ0NiQU1pUWRwU0NpYVg3Z05Kbk94R3Y5OXQtYlE1ajVEMkp6VnkyaEZkUXZNb1g2OTdhUnVQeTNLYjY4S0hNekp0dHU3RFBMSmY2WHdJdWY?oc=5",
-   "tickers": [
-    "DELL"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "DELL",
-   "strength": 40,
-   "reason": "Dell stock bump from Trump fading suggests momentum is reversing despite endorsement.",
    "price_since": {
     "ticker": "DELL",
     "pct": 1.3,
@@ -2520,40 +2536,6 @@
    "reason": "Trump defends his children's stock trading as legal; underscores ongoing insider trading/market-integrity concerns."
   },
   {
-   "date": "2026-07-02T13:23:28.727Z",
-   "platform": "Truth Social",
-   "text": "How about this? Micron, a GREAT American Company, announced that they are putting in 250 Million Dollars into the Trump Accounts for the future benefit of children, and their stock went up 9 points today. Thank you Micron! President DJT",
-   "tickers": [
-    "MU"
-   ],
-   "engagement": 26050,
-   "url": "https://truthsocial.com/@realDonaldTrump/116850596821921968",
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "MU",
-   "strength": 85,
-   "reason": "Trump explicitly praises Micron as 'GREAT American Company' and notes stock up 9 points after their Trump-related donation announcement; direct endorsement."
-  },
-  {
-   "date": "2026-07-01T23:53:49.941Z",
-   "platform": "Truth Social",
-   "text": "Just as I promised, Oil Prices are plummeting FAST, and Gas Prices at the pump are dropping too, but not as fast as they should be. As we approach America's 250th Birthday, I am pleased to announce that a VERY smart Retailer, located throughout the Northeast, is stepping up, and wishing the People of Philadelphia a \"Happy Birthday!\" On July 3rd, the Freedom Fuel Network will be lowering gas prices at 25 \"FREEDOM FUEL\" Stations across the Greater Philadelphia Area. This Retailer is taking the lead, and others should follow. They are doing this because they love the U.S.A. We are proud to celebrate America's 250th Birthday in the Great Commonwealth of Pennsylvania, the Birthplace of our very special, one-of-a-kind Declaration of Independence, and where I won BIG in the Presidential Election! America has never been stronger than it is now, and Gas Prices will soon be back to the Record Low Prices Americans enjoyed at the pump before our very successful \"excursion\" in Iran. Happy Birthday America! President DONALD J. TRUMP",
-   "tickers": [
-    "XLE"
-   ],
-   "engagement": 21014,
-   "url": "https://truthsocial.com/@realDonaldTrump/116847413162359390",
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "XLE",
-   "strength": 60,
-   "reason": "Trump announces oil/gas prices plummeting fast and praises gas price cuts by Northeast retailer; bullish signal for energy sector."
-  },
-  {
    "curated": true,
    "classified": true,
    "is_market": true,
@@ -2606,23 +2588,6 @@
    "reason": "Trump's majority-owned stock debuts \u2014 pure sentiment play, extremely volatile and headline-driven.",
    "market_reaction": "DJT spiked on debut then stayed volatile, moving heavily on Trump political/legal news.",
    "url": "https://www.nasdaq.com/market-activity/stocks/djt"
-  },
-  {
-   "date": "2023-05-18T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "BLUE ORIGIN MANUFACTURING, LLC was awarded a $2.0B federal contract from National Aeronautics and Space Administration.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_80MSFC23CA014_8000_-NONE-_-NONE-",
-   "tickers": [
-    "BLUA"
-   ],
-   "contract_amount": 1.99,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "BLUA",
-   "strength": 80,
-   "reason": "Blue Origin awarded $2.0B NASA federal contract; large defense/space contract is bullish for awardee."
   }
  ],
  "how_to_read": "Each card is Claude's read of a public Trump post: the affected ticker, whether it implies BUY / SELL / WATCH, a 0\u2013100 strength (how explicit/emphatic the post is \u2014 NOT a profit predictor), and why. A 2-year backtest found these don't beat buy-and-hold, so this is for awareness, not trading. Not financial advice."
