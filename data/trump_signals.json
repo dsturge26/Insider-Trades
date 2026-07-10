@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-07-10T01:08:58Z",
+ "last_updated": "2026-07-10T05:08:19Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -347,9 +347,9 @@
    "reason": "Trump family holds large Bitcoin stash, implicit bullish signal on crypto",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": 1.1,
+    "pct": 2.7,
     "base": 62257.57,
-    "last": 62954.13,
+    "last": 63933.1,
     "base_date": "2026-07-08",
     "last_date": "2026-07-10"
    }
@@ -636,9 +636,9 @@
    "reason": "Trump hints something could happen with Bitcoin; vague direction and timing make signal ambiguous.",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": -0.5,
+    "pct": 1.0,
     "base": 63297.39,
-    "last": 62954.13,
+    "last": 63933.1,
     "base_date": "2026-07-07",
     "last_date": "2026-07-10"
    }
@@ -2422,22 +2422,6 @@
    "primary_ticker": "SPY",
    "strength": 45,
    "reason": "Tariff pause and 'great time to buy' signal suggest broad market upside, though timing of stock purchases raises credibility questions"
-  },
-  {
-   "date": "2026-07-03T01:03:41Z",
-   "platform": "News",
-   "text": "Trump discloses 21,000 securities trades during first year in office - ABC News - Breaking News, Latest News and Videos \u2014 Trump discloses 21,000 securities trades during first year in office\u00a0\u00a0ABC News - Breaking News, Latest News and Videos",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRXRKN3Z0andHTXp5WjRNQ2xkUjcxS2tCeHpfdG9EeFRpaGM1Q2IxZFM4akNkQm5IZkt6NnEwRFNsNUQ2VUpYaXdaQW5LZEFsNC1OcHhKNWczS0QxSDZ6RE9qbGFieUdvaHpsNldGczhQa1hTQjF2aGZiSl9wcUhlaENId0I5VWx1cGJFZ1NCM0IyY2M2LWtKRkVDX3I4WDYz0gGmAUFVX3lxTE9Dc2ZEcnpkNmxPUVphbjRJcnBpaGNsM0EyVXlsQTFwdmg3TWZXekcxSUR0cGp3RWttdU5NMkRFVkZlV280MHV1V0RQOWtrTzlLQTlRQkE5eGpXaF9Yajh2NC1ITkdqSmhYcFY2ZFlLeE9nTjFKWUdKaG12WDlVTzl3VWIxeTdJRldpOFpsbEdXM29abG1KejFLLWdnWVBBVEtXSHdtU2c?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "SPY",
-   "strength": 35,
-   "reason": "Large volume of trades disclosed suggests market activity but no direction or specific catalyst identified"
   },
   {
    "curated": true,
