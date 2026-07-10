@@ -1,7 +1,47 @@
 {
- "last_updated": "2026-07-10T16:06:38Z",
+ "last_updated": "2026-07-10T18:01:27Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-07-10T04:29:19Z",
+   "platform": "News",
+   "text": "Residents weigh in as Trump-endorsed Freedom Fuel gas stations come to Bristol, Bensalem - MSN \u2014 Residents weigh in as Trump-endorsed Freedom Fuel gas stations come to Bristol, Bensalem\u00a0\u00a0MSN",
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQWVJqQmF0WDN5Z21aVmZTR2hsVzBoQW9ZbDZqNG5OMzBnYTVoT3JGa0tsV0c2WTBlaEZRb2xrWXUtRjVoVU9LMUd6OTNGbkZXRFRpek1oNXBnVlBrVXJHV3RiSEM3SlRWS0hwMHhZZ2RVNEpaWlhWUFlZYi14YzFSbm1oOFpaa0Q3S1RUb1hPTno1TXVjckdWX3pwZEotMUpmdVlobzBSc21NZ3FHNDZ2cVZlZFVsMkg5UjBHWkluRlJUOW5jVVE3OU9mbExYUDdWc0diUUdEcDg1dkFfTjR2cTVGT2JhczQ1Ui1XVkg1dV9hTnpPLUZZbw?oc=5",
+   "tickers": [
+    "XLE"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "XLE",
+   "strength": 35,
+   "reason": "Trump endorsement of Freedom Fuel gas stations implies bullish energy/fuel retail sector"
+  },
+  {
+   "date": "2026-07-09T18:38:53Z",
+   "platform": "News",
+   "text": "Trump praised IBM's 'legend' CEO, government floated a $1B quantum award \u2014 is the stock still a 'very nice price'? - MSN \u2014 Trump praised IBM's 'legend' CEO, government floated a $1B quantum award \u2014 is the stock still a 'very nice price'?\u00a0\u00a0MSN",
+   "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNRHZHcElMTmM5cnVObUZSekgxSU0wTnNTVVRwZXlCN3MyZ3E5R0hMNzZnMWtfeHV0enc2YjlteHJWNlZLY1F0VktZQ1hxREZxT0tuWmQ1RU1jRXNoTmhVQ3A4YnVpNDZ4ODh6NEQ4bHVXOWxQUE81TllCc0lleHBtNEVCVGNDT3ExTGFjY1VyVEs0ME5KaFlwUHZqaFV1WDh4Z1dRNHl3Q1NPZ2FCd2VXQ0xFalpDZGhQOGF5Ym1vWVFuMlhiX0w4Sm0tWUNudHMzeEYzYlgwVFdPR3ZSaUFyV0VpUGZIcEFUYl9LMXJjRW4ydjR6YzZxS0tmSU0?oc=5",
+   "tickers": [
+    "IBM"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "IBM",
+   "strength": 65,
+   "reason": "Trump praised IBM CEO as 'legend' and government considering $1B quantum award; explicit praise + contract signal",
+   "price_since": {
+    "ticker": "IBM",
+    "pct": -2.0,
+    "base": 295.3,
+    "last": 289.36,
+    "base_date": "2026-07-09",
+    "last_date": "2026-07-10"
+   }
+  },
   {
    "date": "2026-07-09T17:58:57Z",
    "platform": "News",
@@ -19,9 +59,9 @@
    "reason": "Trump explicitly tells Americans to buy Dell; direct company endorsement",
    "price_since": {
     "ticker": "DELL",
-    "pct": -1.1,
+    "pct": -1.5,
     "base": 450.22,
-    "last": 445.42,
+    "last": 443.4,
     "base_date": "2026-07-09",
     "last_date": "2026-07-10"
    }
@@ -43,9 +83,9 @@
    "reason": "Trump personal investment in defense/weapons firms implies bullish stance on war/military spending sector.",
    "price_since": {
     "ticker": "XAR",
-    "pct": -1.1,
+    "pct": -0.7,
     "base": 273.89,
-    "last": 270.75,
+    "last": 271.92,
     "base_date": "2026-07-09",
     "last_date": "2026-07-10"
    }
@@ -67,9 +107,9 @@
    "reason": "Trump explicitly tells Americans to buy Dell; direct endorsement of named public company.",
    "price_since": {
     "ticker": "DELL",
-    "pct": -1.1,
+    "pct": -1.5,
     "base": 450.22,
-    "last": 445.42,
+    "last": 443.4,
     "base_date": "2026-07-09",
     "last_date": "2026-07-10"
    }
@@ -91,9 +131,9 @@
    "reason": "Trump buying Dell and article questions if readers should follow; explicit endorsement signal.",
    "price_since": {
     "ticker": "DELL",
-    "pct": -1.1,
+    "pct": -1.5,
     "base": 450.22,
-    "last": 445.42,
+    "last": 443.4,
     "base_date": "2026-07-09",
     "last_date": "2026-07-10"
    }
@@ -115,9 +155,9 @@
    "reason": "Trump threatens Iran escalation; bullish for defense/military spending sector.",
    "price_since": {
     "ticker": "XAR",
-    "pct": -1.1,
+    "pct": -0.7,
     "base": 273.89,
-    "last": 270.75,
+    "last": 271.92,
     "base_date": "2026-07-09",
     "last_date": "2026-07-10"
    }
@@ -139,10 +179,34 @@
    "reason": "Trump explicitly urges Americans to buy Dell computers; direct endorsement of named public company.",
    "price_since": {
     "ticker": "DELL",
-    "pct": -1.1,
+    "pct": -1.5,
     "base": 450.22,
-    "last": 445.42,
+    "last": 443.5,
     "base_date": "2026-07-09",
+    "last_date": "2026-07-10"
+   }
+  },
+  {
+   "date": "2026-07-08T23:16:27Z",
+   "platform": "News",
+   "text": "Trump-endorsed 'Freedom Fuel' gas stations exist, despite AI image he shared - Snopes \u2014 Trump-endorsed 'Freedom Fuel' gas stations exist, despite AI image he shared\u00a0\u00a0Snopes",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0tRlRVNjBRRFA5TEd3cUwzbU1rTGhHM2h4elBxM3JxSGNNVGVfZnZsa3BZUDE2SWNiaWVHYmVWX1R4VWVRQk9SdzlpandXNEczaDNHbUFaaEM2cFFoOGFmRFYtY2xOTHhVTklEeGhacDNBb2Vl?oc=5",
+   "tickers": [
+    "XLE"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "XLE",
+   "strength": 30,
+   "reason": "Trump endorsement of Freedom Fuel brand; weak signal given retraction of AI image; slight energy bullish read",
+   "price_since": {
+    "ticker": "XLE",
+    "pct": -1.7,
+    "base": 55.6,
+    "last": 54.64,
+    "base_date": "2026-07-08",
     "last_date": "2026-07-10"
    }
   },
@@ -165,7 +229,7 @@
     "ticker": "C",
     "pct": 2.6,
     "base": 137.39,
-    "last": 140.94,
+    "last": 141.01,
     "base_date": "2026-07-08",
     "last_date": "2026-07-10"
    }
@@ -187,9 +251,9 @@
    "reason": "Trump explicitly urges buying Dell computers, direct stock catalyst",
    "price_since": {
     "ticker": "DELL",
-    "pct": 3.1,
+    "pct": 2.7,
     "base": 431.97,
-    "last": 445.42,
+    "last": 443.5,
     "base_date": "2026-07-08",
     "last_date": "2026-07-10"
    }
@@ -211,9 +275,9 @@
    "reason": "Tariff warning up to 200% for offshoring; broad market bearish signal on policy threat.",
    "price_since": {
     "ticker": "SPY",
-    "pct": 1.0,
+    "pct": 1.2,
     "base": 745.4,
-    "last": 753.03,
+    "last": 754.12,
     "base_date": "2026-07-08",
     "last_date": "2026-07-10"
    }
@@ -235,9 +299,9 @@
    "reason": "Trump explicitly urges Americans to buy Dell; direct stock endorsement with demonstrated market impact.",
    "price_since": {
     "ticker": "DELL",
-    "pct": 3.1,
+    "pct": 2.7,
     "base": 431.97,
-    "last": 445.42,
+    "last": 443.5,
     "base_date": "2026-07-08",
     "last_date": "2026-07-10"
    }
@@ -259,9 +323,9 @@
    "reason": "Trump's public praise for Dell sparks measurable stock move",
    "price_since": {
     "ticker": "DELL",
-    "pct": 3.1,
+    "pct": 2.7,
     "base": 431.97,
-    "last": 445.42,
+    "last": 443.5,
     "base_date": "2026-07-08",
     "last_date": "2026-07-10"
    }
@@ -283,9 +347,9 @@
    "reason": "Trump explicitly told Americans to buy Dell; stock rallied on direct endorsement.",
    "price_since": {
     "ticker": "DELL",
-    "pct": 3.1,
+    "pct": 2.7,
     "base": 431.97,
-    "last": 445.42,
+    "last": 443.5,
     "base_date": "2026-07-08",
     "last_date": "2026-07-10"
    }
@@ -309,31 +373,31 @@
     "ticker": "XLE",
     "pct": -1.7,
     "base": 55.6,
-    "last": 54.63,
+    "last": 54.65,
     "base_date": "2026-07-08",
     "last_date": "2026-07-10"
    }
   },
   {
-   "date": "2026-07-08T08:47:45Z",
+   "date": "2026-07-08T08:47:46Z",
    "platform": "News",
    "text": "\"I voted for this\": Trump shares \"Boom\" post following US strikes on Iran - lokmattimes.com \u2014 \"I voted for this\": Trump shares \"Boom\" post following US strikes on Iran\u00a0\u00a0lokmattimes.com",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOalVCMkxKUTZTcTNpWDVwNGJCdUhGalVpYnZScUFlOHdyS05SOE5UY3J0X19abmYzb2FmXzJuSEI4S1RjMWhDMmN5ak1jam50dU9wcGN5UElIbnNGQzZCbmVWcGlod19GTVMxNXloUTVnYUhBRVp5aUdRN0RZWENqMkxwUHltQnFMd3hZQTh2ZERsUjhnd3VnenNSTzVjWTBPTzVidGI2Nl9KY3ZaVU55NtIBtgFBVV95cUxQa0poczZvN0dDWjQ0ZFV1b3lnem9Ua3RoektuWDZodDF0aWxQU3RKcmJyLUhGem1uTnZfNVAwZEgyS21lN3V6VExEZjBTWjlzUWU4NmlpOWJ6RDQzc2pTcFg1Z05WVUlEdmtlUjRoV2dhaklTaTZRV2tVYTI4Y1YzeTFEbUFFa0hTaTVlS0tJTk80YnpTeWpOR2VIbGVXMV9oVXF4UnJXWVN3a1JUVVNzc2Vzc2lTQQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQa0poczZvN0dDWjQ0ZFV1b3lnem9Ua3RoektuWDZodDF0aWxQU3RKcmJyLUhGem1uTnZfNVAwZEgyS21lN3V6VExEZjBTWjlzUWU4NmlpOWJ6RDQzc2pTcFg1Z05WVUlEdmtlUjRoV2dhaklTaTZRV2tVYTI4Y1YzeTFEbUFFa0hTaTVlS0tJTk80YnpTeWpOR2VIbGVXMV9oVXF4UnJXWVN3a1JUVVNzc2Vzc2lTQdIBtgFBVV95cUxQa0poczZvN0dDWjQ0ZFV1b3lnem9Ua3RoektuWDZodDF0aWxQU3RKcmJyLUhGem1uTnZfNVAwZEgyS21lN3V6VExEZjBTWjlzUWU4NmlpOWJ6RDQzc2pTcFg1Z05WVUlEdmtlUjRoV2dhaklTaTZRV2tVYTI4Y1YzeTFEbUFFa0hTaTVlS0tJTk80YnpTeWpOR2VIbGVXMV9oVXF4UnJXWVN3a1JUVVNzc2Vzc2lTQQ?oc=5",
    "tickers": [
-    "XAR"
+    "XLE"
    ],
    "classified": true,
    "is_market": true,
    "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "XAR",
+   "direction": "SELL",
+   "primary_ticker": "XLE",
    "strength": 55,
-   "reason": "Trump endorses US military strikes on Iran; bullish for defense sector",
+   "reason": "Trump endorses US strikes on Iran; military escalation signal; bearish energy volatility and geopolitical risk",
    "price_since": {
-    "ticker": "XAR",
-    "pct": -1.1,
-    "base": 273.83,
-    "last": 270.75,
+    "ticker": "XLE",
+    "pct": -1.7,
+    "base": 55.6,
+    "last": 54.65,
     "base_date": "2026-07-08",
     "last_date": "2026-07-10"
    }
@@ -355,9 +419,9 @@
    "reason": "Trump explicitly endorses Dell, driving stock higher\u2014direct bullish catalyst",
    "price_since": {
     "ticker": "DELL",
-    "pct": 3.1,
+    "pct": 2.7,
     "base": 431.97,
-    "last": 445.42,
+    "last": 443.5,
     "base_date": "2026-07-08",
     "last_date": "2026-07-10"
    }
@@ -379,9 +443,9 @@
    "reason": "Dell stock rises following Trump comments; explicit endorsement signal",
    "price_since": {
     "ticker": "DELL",
-    "pct": 3.1,
+    "pct": 2.7,
     "base": 431.97,
-    "last": 445.42,
+    "last": 443.5,
     "base_date": "2026-07-08",
     "last_date": "2026-07-10"
    }
@@ -403,9 +467,9 @@
    "reason": "Trump family holds large Bitcoin stash, implicit bullish signal on crypto",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": 2.7,
+    "pct": 2.5,
     "base": 62257.57,
-    "last": 63956.01,
+    "last": 63823.11,
     "base_date": "2026-07-08",
     "last_date": "2026-07-10"
    }
@@ -427,9 +491,9 @@
    "reason": "Trump Media loses $3.8B defamation suit; bearish for Trump's company",
    "price_since": {
     "ticker": "DJT",
-    "pct": -0.2,
+    "pct": 0.4,
     "base": 8.49,
-    "last": 8.47,
+    "last": 8.52,
     "base_date": "2026-07-08",
     "last_date": "2026-07-10"
    }
@@ -451,9 +515,9 @@
    "reason": "Trump explicitly urges Americans to buy Dell computers\u2014direct, repeated endorsement of a named public company.",
    "price_since": {
     "ticker": "DELL",
-    "pct": 6.7,
+    "pct": 6.3,
     "base": 417.28,
-    "last": 445.42,
+    "last": 443.5,
     "base_date": "2026-07-07",
     "last_date": "2026-07-10"
    }
@@ -475,9 +539,9 @@
    "reason": "Trump explicitly and repeatedly tells Americans to buy Dell computers; direct presidential endorsement of named company.",
    "price_since": {
     "ticker": "DELL",
-    "pct": 6.7,
+    "pct": 6.3,
     "base": 417.28,
-    "last": 445.42,
+    "last": 443.5,
     "base_date": "2026-07-07",
     "last_date": "2026-07-10"
    }
@@ -499,9 +563,9 @@
    "reason": "Intel rally attributed partly to Trump pump; direction ambiguous, strength uncertain",
    "price_since": {
     "ticker": "INTC",
-    "pct": -0.9,
+    "pct": -0.3,
     "base": 110.39,
-    "last": 109.39,
+    "last": 110.05,
     "base_date": "2026-07-07",
     "last_date": "2026-07-10"
    }
@@ -523,9 +587,9 @@
    "reason": "Trump claims credit for Walmart price rollback; company action precedes claim, direction unclear.",
    "price_since": {
     "ticker": "WMT",
-    "pct": 2.0,
+    "pct": 1.9,
     "base": 111.54,
-    "last": 113.81,
+    "last": 113.71,
     "base_date": "2026-07-07",
     "last_date": "2026-07-10"
    }
@@ -547,9 +611,9 @@
    "reason": "Trump tells Americans to buy Dell; stock jumps 7% \u2014 explicit bullish call with immediate market reaction.",
    "price_since": {
     "ticker": "DELL",
-    "pct": 6.7,
+    "pct": 6.3,
     "base": 417.28,
-    "last": 445.42,
+    "last": 443.5,
     "base_date": "2026-07-07",
     "last_date": "2026-07-10"
    }
@@ -571,9 +635,9 @@
    "reason": "Trump explicitly urges consumers to buy Dell computers, direct stock catalyst.",
    "price_since": {
     "ticker": "DELL",
-    "pct": 6.7,
+    "pct": 6.3,
     "base": 417.28,
-    "last": 445.42,
+    "last": 443.5,
     "base_date": "2026-07-07",
     "last_date": "2026-07-10"
    }
@@ -595,9 +659,9 @@
    "reason": "Trump's personal ServiceNow stake fuels retail buzz and stock rise; beneficial ownership signal.",
    "price_since": {
     "ticker": "NOW",
-    "pct": -3.0,
+    "pct": -3.3,
     "base": 110.73,
-    "last": 107.43,
+    "last": 107.13,
     "base_date": "2026-07-07",
     "last_date": "2026-07-10"
    }
@@ -620,9 +684,9 @@
    "reason": "Major manufacturing shift from Mexico to US; tariffs driving onshoring, broad positive market signal.",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.7,
+    "pct": 0.9,
     "base": 747.71,
-    "last": 753.03,
+    "last": 754.1,
     "base_date": "2026-07-07",
     "last_date": "2026-07-10"
    }
@@ -2480,56 +2544,6 @@
    "reason": "Speculation about SpaceX stock donation to savings scheme; vague, no concrete action; implies Musk/Trump alignment"
   },
   {
-   "date": "2026-07-03T08:26:15Z",
-   "platform": "News",
-   "text": "Micron (MU) Stock Drops Despite Trump's Praise - GuruFocus \u2014 Micron (MU) Stock Drops Despite Trump's Praise\u00a0\u00a0GuruFocus",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYmZiNXBid0ZuOVctbC1fdXVsQ3g2NmhqaTJLbUJXYmF3RUZ1Qk9WTTNiVS1UOW9vVmVfR3k4Z3ZUSDBQZFIwaXhFYWRZYUlING9PalJCM1V2Nk5LQ1lPdVJGb2hmN01WSXh2VmlUNzVxMTdMVlNqU3JkYzZfQWx6c0N2aDZRaFJVQVhQS1VsdU5Mc0g0dklGdXRsRThhOVZGYjN0TUpVWHdidEFGbnhv?oc=5",
-   "tickers": [
-    "MU"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "MU",
-   "strength": 60,
-   "reason": "Trump explicitly praises Micron; direct positive signal despite stock underperformance."
-  },
-  {
-   "date": "2026-07-02T13:23:28.727Z",
-   "platform": "Truth Social",
-   "text": "How about this? Micron, a GREAT American Company, announced that they are putting in 250 Million Dollars into the Trump Accounts for the future benefit of children, and their stock went up 9 points today. Thank you Micron! President DJT",
-   "tickers": [
-    "MU"
-   ],
-   "engagement": 26050,
-   "url": "https://truthsocial.com/@realDonaldTrump/116850596821921968",
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "MU",
-   "strength": 75,
-   "reason": "Trump explicitly praises Micron as 'GREAT American Company' and notes stock appreciation same day"
-  },
-  {
-   "date": "2026-07-01T23:53:49.941Z",
-   "platform": "Truth Social",
-   "text": "Just as I promised, Oil Prices are plummeting FAST, and Gas Prices at the pump are dropping too, but not as fast as they should be. As we approach America's 250th Birthday, I am pleased to announce that a VERY smart Retailer, located throughout the Northeast, is stepping up, and wishing the People of Philadelphia a \"Happy Birthday!\" On July 3rd, the Freedom Fuel Network will be lowering gas prices at 25 \"FREEDOM FUEL\" Stations across the Greater Philadelphia Area. This Retailer is taking the lead, and others should follow. They are doing this because they love the U.S.A. We are proud to celebrate America's 250th Birthday in the Great Commonwealth of Pennsylvania, the Birthplace of our very special, one-of-a-kind Declaration of Independence, and where I won BIG in the Presidential Election! America has never been stronger than it is now, and Gas Prices will soon be back to the Record Low Prices Americans enjoyed at the pump before our very successful \"excursion\" in Iran. Happy Birthday America! President DONALD J. TRUMP",
-   "tickers": [
-    "XLE"
-   ],
-   "engagement": 21014,
-   "url": "https://truthsocial.com/@realDonaldTrump/116847413162359390",
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "XLE",
-   "strength": 55,
-   "reason": "Trump claims oil and gas prices falling, announces retail partnership lowering gas prices; bullish energy sector signal"
-  },
-  {
    "curated": true,
    "classified": true,
    "is_market": true,
@@ -2582,244 +2596,6 @@
    "reason": "Trump's majority-owned stock debuts \u2014 pure sentiment play, extremely volatile and headline-driven.",
    "market_reaction": "DJT spiked on debut then stayed volatile, moving heavily on Trump political/legal news.",
    "url": "https://www.nasdaq.com/market-activity/stocks/djt"
-  },
-  {
-   "date": "2023-05-18T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "BLUE ORIGIN MANUFACTURING, LLC was awarded a $2.0B federal contract from National Aeronautics and Space Administration.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_80MSFC23CA014_8000_-NONE-_-NONE-",
-   "tickers": [
-    "BLUA"
-   ],
-   "contract_amount": 1.99,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "BLUA",
-   "strength": 85,
-   "reason": "Blue Origin (Berkshire subsidiary, trades as BLUA) awarded $2.0B NASA contract"
-  },
-  {
-   "date": "2021-07-01T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "HARRIS CORPORATION was awarded a $2.1B federal contract from Department of Transportation.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_693KA821F00222_6920_DTFA0102D03006_6920",
-   "tickers": [
-    "HRS"
-   ],
-   "contract_amount": 2.1,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "HRS",
-   "strength": 80,
-   "reason": "Harris Corporation awarded $2.1B Department of Transportation federal contract"
-  },
-  {
-   "date": "2020-05-13T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "SPACE EXPLORATION TECHNOLOGIES CORP. was awarded a $3.0B federal contract from National Aeronautics and Space Administration.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_80MSFC20C0034_8000_-NONE-_-NONE-",
-   "tickers": [
-    "PLTR"
-   ],
-   "contract_amount": 3.05,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "PLTR",
-   "strength": 85,
-   "reason": "SpaceX awarded $3.0B NASA contract; Palantir is closest publicly-traded proxy for SpaceX ecosystem"
-  },
-  {
-   "date": "2019-10-16T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "THE BOEING COMPANY was awarded a $2.6B federal contract from National Aeronautics and Space Administration.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_80MSFC20C0052_8000_-NONE-_-NONE-",
-   "tickers": [
-    "BA"
-   ],
-   "contract_amount": 2.59,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "BA",
-   "strength": 85,
-   "reason": "Boeing awarded $2.6B NASA federal contract"
-  },
-  {
-   "date": "2019-06-19T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "GENERAL DYNAMICS INFORMATION TECHNOLOGY, INC. was awarded a $1.6B federal contract from Department of State.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_19AQMM18C0185_1900_-NONE-_-NONE-",
-   "tickers": [
-    "GD"
-   ],
-   "contract_amount": 1.59,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "GD",
-   "strength": 80,
-   "reason": "General Dynamics Information Technology awarded $1.6B State Department federal contract"
-  },
-  {
-   "date": "2015-11-01T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "AEROJET ROCKETDYNE OF DE, INC was awarded a $3.3B federal contract from National Aeronautics and Space Administration.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_NNM16AA02C_8000_-NONE-_-NONE-",
-   "tickers": [
-    "RTX"
-   ],
-   "contract_amount": 3.31,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "RTX",
-   "strength": 85,
-   "reason": "Aerojet Rocketdyne (Raytheon Technologies subsidiary) awarded $3.3B NASA federal contract"
-  },
-  {
-   "date": "2015-09-03T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "NORTHROP GRUMMAN SYSTEMS CORPORATION was awarded a $1.6B federal contract from National Aeronautics and Space Administration.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_NNH15CN76C_8000_-NONE-_-NONE-",
-   "tickers": [
-    "NOC"
-   ],
-   "contract_amount": 1.61,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "NOC",
-   "strength": 85,
-   "reason": "Northrop Grumman awarded $1.6B NASA federal contract"
-  },
-  {
-   "date": "2011-12-23T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "LEIDOS, INC. was awarded a $3.1B federal contract from National Science Foundation.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_NSFDACS1219442_4900_-NONE-_-NONE-",
-   "tickers": [
-    "LDOS"
-   ],
-   "contract_amount": 3.09,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "LDOS",
-   "strength": 85,
-   "reason": "Leidos awarded $3.1B National Science Foundation federal contract"
-  },
-  {
-   "date": "2007-09-01T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "THE BOEING COMPANY was awarded a $10.5B federal contract from National Aeronautics and Space Administration.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_NNM07AB03C_8000_-NONE-_-NONE-",
-   "tickers": [
-    "BA"
-   ],
-   "contract_amount": 10.51,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "BA",
-   "strength": 90,
-   "reason": "Boeing awarded $10.5B NASA federal contract; major capital injection"
-  },
-  {
-   "date": "2006-09-06T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "LOCKHEED MARTIN CORP was awarded a $15.6B federal contract from National Aeronautics and Space Administration.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_NNJ06TA25C_8000_-NONE-_-NONE-",
-   "tickers": [
-    "LMT"
-   ],
-   "contract_amount": 15.56,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "LMT",
-   "strength": 95,
-   "reason": "Lockheed Martin awarded $15.6B NASA federal contract; substantial defense spending boost"
-  },
-  {
-   "date": "2006-07-01T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "NATIONAL SECURITY TECHNOLOGIES, LLC was awarded a $5.6B federal contract from Department of Energy.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_DEAC5206NA25946_8900_-NONE-_-NONE-",
-   "tickers": [
-    "XAR"
-   ],
-   "contract_amount": 5.63,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "XAR",
-   "strength": 75,
-   "reason": "National Security Technologies awarded $5.6B Department of Energy contract; defense/energy sector boost"
-  },
-  {
-   "date": "2006-04-17T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "NORTHROP GRUMMAN SYSTEMS CORPORATION was awarded a $4.4B federal contract from National Aeronautics and Space Administration.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_NNM07AA75C_8000_-NONE-_-NONE-",
-   "tickers": [
-    "NOC"
-   ],
-   "contract_amount": 4.43,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "NOC",
-   "strength": 90,
-   "reason": "Northrop Grumman awarded $4.4B NASA federal contract; second major award"
-  },
-  {
-   "date": "1993-11-15T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "THE BOEING COMPANY was awarded a $22.4B federal contract from National Aeronautics and Space Administration.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_NAS1510000_8000_-NONE-_-NONE-",
-   "tickers": [
-    "BA"
-   ],
-   "contract_amount": 22.44,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "BA",
-   "strength": 95,
-   "reason": "Boeing awarded $22.4B NASA federal contract; largest single award in set"
-  },
-  {
-   "date": "1993-10-15T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "LOCKHEED MARTIN CORP was awarded a $48.1B federal contract from Department of Energy.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_DEAC0494AL85000_8900_-NONE-_-NONE-",
-   "tickers": [
-    "LMT"
-   ],
-   "contract_amount": 48.06,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "LMT",
-   "strength": 98,
-   "reason": "Lockheed Martin awarded $48.1B Department of Energy contract; massive defense/energy spending win"
   }
  ],
  "how_to_read": "Each card is Claude's read of a public Trump post: the affected ticker, whether it implies BUY / SELL / WATCH, a 0\u2013100 strength (how explicit/emphatic the post is \u2014 NOT a profit predictor), and why. A 2-year backtest found these don't beat buy-and-hold, so this is for awareness, not trading. Not financial advice."
