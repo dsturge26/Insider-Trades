@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-07-09T23:18:11Z",
+ "last_updated": "2026-07-10T11:34:18Z",
  "source": "Financial Modeling Prep (Form 4)",
  "is_sample": false,
  "signals": [
@@ -12,8 +12,20 @@
    "title": "director",
    "value": 110000,
    "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001208886&type=4",
-   "strength": 70,
-   "reason": "Shulman John D bought $110,000"
+   "strength": 82,
+   "reason": "2 insiders buying Shulman John D bought $110,000"
+  },
+  {
+   "date": "2026-07-08",
+   "ticker": "WRAP",
+   "direction": "BUY",
+   "source": "Insider",
+   "insider": "Cohen Scot",
+   "title": "director, 10 percent owner, officer: Executive Chairman and CEO",
+   "value": 230288,
+   "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001558913&type=4",
+   "strength": 84,
+   "reason": "2 insiders buying Cohen Scot bought $230,288"
   },
   {
    "date": "2026-07-07",

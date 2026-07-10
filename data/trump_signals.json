@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-07-10T08:40:56Z",
+ "last_updated": "2026-07-10T11:34:17Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -17,6 +17,22 @@
    "primary_ticker": "DELL",
    "strength": 85,
    "reason": "Trump explicitly tells Americans to buy Dell; direct company endorsement"
+  },
+  {
+   "date": "2026-07-09T16:53:44Z",
+   "platform": "News",
+   "text": "Trump invests millions in weapons firms profiting from war on Iran - thecradle.co \u2014 Trump invests millions in weapons firms profiting from war on Iran\u00a0\u00a0thecradle.co",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTWF4cE9NWThZR3VudUpITFMxcE9vZFZSaHVIVGpDVjhsN09yZ19YVXpmQWNRZVp6SXFWZGJzcVhiSWU5eW5MMWlqOFN0aWNLclYyVFJlWGJ3bk1aNGlZU1BjYWl3WHRkbm5YbGZWYlZjZzhRbW15X3BNSUc0eHBsNWxkV2lRN1lSaUh2WkhsM0YtYm44eHp1VGZyQXg?oc=5",
+   "tickers": [
+    "XAR"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "XAR",
+   "strength": 55,
+   "reason": "Trump personal investment in defense/weapons firms implies bullish stance on war/military spending sector."
   },
   {
    "date": "2026-07-09T10:09:55Z",
@@ -49,6 +65,22 @@
    "primary_ticker": "DELL",
    "strength": 90,
    "reason": "Trump buying Dell and article questions if readers should follow; explicit endorsement signal."
+  },
+  {
+   "date": "2026-07-09T04:01:42Z",
+   "platform": "News",
+   "text": "Donald Trump Writes 'Praise Be to Allah' in Profanity-Laced Easter Morning Message Threatening Iran - AOL.com \u2014 Donald Trump Writes 'Praise Be to Allah' in Profanity-Laced Easter Morning Message Threatening Iran\u00a0\u00a0AOL.com",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1GNHdOVmlXTjZaOXZINUlvZlpia2tHTzZjeHI4TVhpOXFmbHBWOTFOeVdVc2dlVEh6ZGRZT1hudk13a3Y0VV9yWmd1T1JvZDdZUGNhcTg2ckR5SGkySS1ma1o2d0d2ZWxGR1lXcndEX1VBTzhyaXc?oc=5",
+   "tickers": [
+    "XAR"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "XAR",
+   "strength": 60,
+   "reason": "Trump threatens Iran escalation; bullish for defense/military spending sector."
   },
   {
    "date": "2026-07-09T02:26:39Z",
@@ -182,30 +214,6 @@
     "pct": 4.2,
     "base": 431.97,
     "last": 450.22,
-    "base_date": "2026-07-08",
-    "last_date": "2026-07-09"
-   }
-  },
-  {
-   "date": "2026-07-08T13:16:09Z",
-   "platform": "News",
-   "text": "Donald Trump Writes 'Praise Be to Allah' in Profanity-Laced Easter Morning Message Threatening Iran - AOL.com \u2014 Donald Trump Writes 'Praise Be to Allah' in Profanity-Laced Easter Morning Message Threatening Iran\u00a0\u00a0AOL.com",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1GNHdOVmlXTjZaOXZINUlvZlpia2tHTzZjeHI4TVhpOXFmbHBWOTFOeVdVc2dlVEh6ZGRZT1hudk13a3Y0VV9yWmd1T1JvZDdZUGNhcTg2ckR5SGkySS1ma1o2d0d2ZWxGR1lXcndEX1VBTzhyaXc?oc=5",
-   "tickers": [
-    "XLE"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "XLE",
-   "strength": 55,
-   "reason": "Threat to Iran implies potential military action and regional instability; bearish for oil/energy sector.",
-   "price_since": {
-    "ticker": "XLE",
-    "pct": -1.4,
-    "base": 55.6,
-    "last": 54.82,
     "base_date": "2026-07-08",
     "last_date": "2026-07-09"
    }
@@ -347,9 +355,9 @@
    "reason": "Trump family holds large Bitcoin stash, implicit bullish signal on crypto",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": 3.0,
+    "pct": 3.3,
     "base": 62257.57,
-    "last": 64143.28,
+    "last": 64322.04,
     "base_date": "2026-07-08",
     "last_date": "2026-07-10"
    }
@@ -636,9 +644,9 @@
    "reason": "Trump hints something could happen with Bitcoin; vague direction and timing make signal ambiguous.",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": 1.3,
+    "pct": 1.6,
     "base": 63297.39,
-    "last": 64143.28,
+    "last": 64322.04,
     "base_date": "2026-07-07",
     "last_date": "2026-07-10"
    }
