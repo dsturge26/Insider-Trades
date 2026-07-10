@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-07-10T19:51:49Z",
+ "last_updated": "2026-07-10T21:05:58Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -51,9 +51,9 @@
    "reason": "Semiconductor strength linked to Trump administration sentiment; inference-based, not explicit",
    "price_since": {
     "ticker": "INTC",
-    "pct": -2.3,
+    "pct": -2.4,
     "base": 112.54,
-    "last": 109.95,
+    "last": 109.84,
     "base_date": "2026-07-09",
     "last_date": "2026-07-10"
    }
@@ -75,9 +75,9 @@
    "reason": "Trump praised IBM CEO as 'legend' and government considering $1B quantum award; explicit praise + contract signal",
    "price_since": {
     "ticker": "IBM",
-    "pct": -2.4,
+    "pct": -2.6,
     "base": 295.3,
-    "last": 288.36,
+    "last": 287.56,
     "base_date": "2026-07-09",
     "last_date": "2026-07-10"
    }
@@ -99,9 +99,9 @@
    "reason": "Trump personal investment in defense/weapons firms implies bullish stance on war/military spending sector.",
    "price_since": {
     "ticker": "XAR",
-    "pct": -0.7,
+    "pct": -0.9,
     "base": 273.89,
-    "last": 271.96,
+    "last": 271.45,
     "base_date": "2026-07-09",
     "last_date": "2026-07-10"
    }
@@ -125,7 +125,7 @@
     "ticker": "WMT",
     "pct": 1.5,
     "base": 112.21,
-    "last": 113.89,
+    "last": 113.9,
     "base_date": "2026-07-09",
     "last_date": "2026-07-10"
    }
@@ -149,7 +149,7 @@
     "ticker": "DELL",
     "pct": -3.4,
     "base": 450.22,
-    "last": 434.83,
+    "last": 434.97,
     "base_date": "2026-07-09",
     "last_date": "2026-07-10"
    }
@@ -173,7 +173,7 @@
     "ticker": "DELL",
     "pct": -3.4,
     "base": 450.22,
-    "last": 434.83,
+    "last": 434.97,
     "base_date": "2026-07-09",
     "last_date": "2026-07-10"
    }
@@ -195,9 +195,9 @@
    "reason": "Trump threatens Iran escalation; bullish for defense/military spending sector.",
    "price_since": {
     "ticker": "XAR",
-    "pct": -0.7,
+    "pct": -0.9,
     "base": 273.89,
-    "last": 271.96,
+    "last": 271.45,
     "base_date": "2026-07-09",
     "last_date": "2026-07-10"
    }
@@ -221,7 +221,7 @@
     "ticker": "DELL",
     "pct": -3.4,
     "base": 450.22,
-    "last": 434.83,
+    "last": 434.97,
     "base_date": "2026-07-09",
     "last_date": "2026-07-10"
    }
@@ -243,9 +243,9 @@
    "reason": "Trump endorsement of Freedom Fuel brand; weak signal given retraction of AI image; slight energy bullish read",
    "price_since": {
     "ticker": "XLE",
-    "pct": -1.1,
+    "pct": -0.9,
     "base": 55.6,
-    "last": 54.97,
+    "last": 55.08,
     "base_date": "2026-07-08",
     "last_date": "2026-07-10"
    }
@@ -267,9 +267,9 @@
    "reason": "Trump praised Citi's M&A comeback; indirect positive signal but vague and already partially priced in",
    "price_since": {
     "ticker": "C",
-    "pct": 2.7,
+    "pct": 2.5,
     "base": 137.39,
-    "last": 141.15,
+    "last": 140.79,
     "base_date": "2026-07-08",
     "last_date": "2026-07-10"
    }
@@ -293,7 +293,7 @@
     "ticker": "DELL",
     "pct": 0.7,
     "base": 431.97,
-    "last": 434.83,
+    "last": 434.97,
     "base_date": "2026-07-08",
     "last_date": "2026-07-10"
    }
@@ -317,7 +317,7 @@
     "ticker": "SPY",
     "pct": 1.3,
     "base": 745.4,
-    "last": 755.32,
+    "last": 754.95,
     "base_date": "2026-07-08",
     "last_date": "2026-07-10"
    }
@@ -341,7 +341,7 @@
     "ticker": "DELL",
     "pct": 0.7,
     "base": 431.97,
-    "last": 434.83,
+    "last": 434.97,
     "base_date": "2026-07-08",
     "last_date": "2026-07-10"
    }
@@ -365,7 +365,7 @@
     "ticker": "DELL",
     "pct": 0.7,
     "base": 431.97,
-    "last": 434.83,
+    "last": 434.97,
     "base_date": "2026-07-08",
     "last_date": "2026-07-10"
    }
@@ -389,7 +389,7 @@
     "ticker": "DELL",
     "pct": 0.7,
     "base": 431.97,
-    "last": 434.83,
+    "last": 434.97,
     "base_date": "2026-07-08",
     "last_date": "2026-07-10"
    }
@@ -411,9 +411,9 @@
    "reason": "Iran ceasefire declared over; implies geopolitical tension and potential energy market disruption.",
    "price_since": {
     "ticker": "XLE",
-    "pct": -1.1,
+    "pct": -0.9,
     "base": 55.6,
-    "last": 54.97,
+    "last": 55.08,
     "base_date": "2026-07-08",
     "last_date": "2026-07-10"
    }
@@ -435,9 +435,9 @@
    "reason": "Trump endorses US strikes on Iran; military escalation signal; bearish energy volatility and geopolitical risk",
    "price_since": {
     "ticker": "XLE",
-    "pct": -1.1,
+    "pct": -0.9,
     "base": 55.6,
-    "last": 54.98,
+    "last": 55.08,
     "base_date": "2026-07-08",
     "last_date": "2026-07-10"
    }
@@ -461,7 +461,7 @@
     "ticker": "DELL",
     "pct": 0.7,
     "base": 431.97,
-    "last": 434.83,
+    "last": 434.97,
     "base_date": "2026-07-08",
     "last_date": "2026-07-10"
    }
@@ -485,7 +485,7 @@
     "ticker": "DELL",
     "pct": 0.7,
     "base": 431.97,
-    "last": 434.83,
+    "last": 434.97,
     "base_date": "2026-07-08",
     "last_date": "2026-07-10"
    }
@@ -507,9 +507,9 @@
    "reason": "Trump family holds large Bitcoin stash, implicit bullish signal on crypto",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": 2.7,
+    "pct": 2.6,
     "base": 62257.57,
-    "last": 63962.22,
+    "last": 63856.11,
     "base_date": "2026-07-08",
     "last_date": "2026-07-10"
    }
@@ -531,9 +531,9 @@
    "reason": "Trump Media loses $3.8B defamation suit; bearish for Trump's company",
    "price_since": {
     "ticker": "DJT",
-    "pct": 0.4,
+    "pct": 0.6,
     "base": 8.49,
-    "last": 8.52,
+    "last": 8.54,
     "base_date": "2026-07-08",
     "last_date": "2026-07-10"
    }
@@ -557,7 +557,7 @@
     "ticker": "DELL",
     "pct": 4.2,
     "base": 417.28,
-    "last": 434.83,
+    "last": 434.97,
     "base_date": "2026-07-07",
     "last_date": "2026-07-10"
    }
@@ -581,7 +581,7 @@
     "ticker": "DELL",
     "pct": 4.2,
     "base": 417.28,
-    "last": 434.83,
+    "last": 434.97,
     "base_date": "2026-07-07",
     "last_date": "2026-07-10"
    }
@@ -603,9 +603,9 @@
    "reason": "SpaceX president donates stock to Trump accounts, signals strong Trump-aligned investor support and enthusiasm for Trump ecosystem.",
    "price_since": {
     "ticker": "DJT",
-    "pct": 4.8,
+    "pct": 5.0,
     "base": 8.13,
-    "last": 8.52,
+    "last": 8.54,
     "base_date": "2026-07-07",
     "last_date": "2026-07-10"
    }
@@ -653,7 +653,7 @@
     "ticker": "DELL",
     "pct": 4.2,
     "base": 417.28,
-    "last": 434.83,
+    "last": 434.97,
     "base_date": "2026-07-07",
     "last_date": "2026-07-10"
    }
@@ -677,7 +677,7 @@
     "ticker": "DELL",
     "pct": 4.2,
     "base": 417.28,
-    "last": 434.83,
+    "last": 434.97,
     "base_date": "2026-07-07",
     "last_date": "2026-07-10"
    }
@@ -699,9 +699,9 @@
    "reason": "Trump's personal ServiceNow stake fuels retail buzz and stock rise; beneficial ownership signal.",
    "price_since": {
     "ticker": "NOW",
-    "pct": -2.6,
+    "pct": -2.7,
     "base": 110.73,
-    "last": 107.82,
+    "last": 107.71,
     "base_date": "2026-07-07",
     "last_date": "2026-07-10"
    }
@@ -2446,22 +2446,6 @@
    "primary_ticker": "SPY",
    "strength": 40,
    "reason": "Trump defends his children's stock trading as legal; underscores ongoing insider trading/market-integrity concerns."
-  },
-  {
-   "date": "2026-07-03T16:53:29Z",
-   "platform": "News",
-   "text": "Trump says Elon Musk could donate SpaceX stock to Trump Accounts after record IPO - financialexpress.com \u2014 Trump says Elon Musk could donate SpaceX stock to Trump Accounts after record IPO\u00a0\u00a0financialexpress.com",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTkg3bjhDUlNlVzdmRzVpc084VTFFcjFPdFpRVkRxNFhNVnJza0JaWEZxcmhJNS1RUzlWdmZSRkU0UzZuQ2drZmozZ2JHSHppbGFpMVZHemJTaXM2VElncEVXOWs1U1gwcWFnbmtWUXFGaXgxTlBlcGxjRWxnSVJmLXFWSnRLTzlSQ1hyVHNuMy1JanlYc0ZjSjFUUFI1QW1LZ2djSjhHOEY5TDZ5M25VbFMxVVJPNU1CNjB6aWRHMEs4Q0dESkVoRDZmV2JkVDVJMDhzdEd0WmpOZ9IB4AFBVV95cUxNSFVvUk1lRkpmb2NwSkdHbjE4OENjRGluQ3dLdkE5b2ZxcnF2VHROclJhekhjMnVuZVBwdzlua0JBazdBVUxodGFTYUxoV2tIU2hVMERPbzhIUllLdmxWRW5td0NONkJVbDFVelhCb054S3I3MWZWdVppQlhDdDktaE0yYzhpSG5CX0ZyZHE5X1o5NFVMdkdiS1pRbVo2X1FyMTMzemRlREhfU3NrTDR2cmh6UXFQSzI2SjhTbUVQQ2xzbVBCVklvdVBRYUtaWi1wNWZiNTRKX0NjU3drXzNLVA?oc=5",
-   "tickers": [
-    "TSLA"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "TSLA",
-   "strength": 35,
-   "reason": "Speculation about SpaceX stock donation; SpaceX is private; implies potential Tesla/Musk sentiment but vague and not actionable"
   },
   {
    "curated": true,
