@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-07-11T18:26:23Z",
+ "last_updated": "2026-07-11T19:42:02Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-07-11T15:31:00Z",
+   "platform": "News",
+   "text": "'This is not a joke': Onlookers stunned as Trump praises Allah in threat to 'destroy' Iran - rawstory.com \u2014 'This is not a joke': Onlookers stunned as Trump praises Allah in threat to 'destroy' Iran\u00a0\u00a0rawstory.com",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE85dmFFM21kMGlfTFd3bHBNTlRXcE16WnJRQkRuM2FYLVItUk9WYjFNRXNHU3J2TEJSQk5fMVlONFpPWndfejhCODJVVV9OdXF6YzNRUNIBZ0FVX3lxTFA1Wkt5ZEhGWC0zM1JzU2hrR0ltNjh2YWlKRk14dWEtMkhlbl9XNFk1bnFnRTJrSEV6XzFoeFJtOWlhc1ZsdHhKQnBKV2ZfWXVMX0xiVUtTbTVQODNlbEp1VW14VmlOUzA?oc=5",
+   "tickers": [
+    "USO"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "USO",
+   "strength": 45,
+   "reason": "Threat to 'destroy' Iran implies elevated geopolitical risk and potential oil market volatility."
+  },
   {
    "date": "2026-07-11T11:23:46Z",
    "platform": "News",
@@ -147,6 +163,22 @@
    "primary_ticker": "SPACX",
    "strength": 70,
    "reason": "Trump praises SpaceX president's major donation; bullish sentiment"
+  },
+  {
+   "date": "2026-07-10T08:48:36Z",
+   "platform": "News",
+   "text": "Donald Trump Writes 'Praise Be to Allah' in Profanity-Laced Easter Morning Message Threatening Iran - AOL.com \u2014 Donald Trump Writes 'Praise Be to Allah' in Profanity-Laced Easter Morning Message Threatening Iran\u00a0\u00a0AOL.com",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1GNHdOVmlXTjZaOXZINUlvZlpia2tHTzZjeHI4TVhpOXFmbHBWOTFOeVdVc2dlVEh6ZGRZT1hudk13a3Y0VV9yWmd1T1JvZDdZUGNhcTg2ckR5SGkySS1ma1o2d0d2ZWxGR1lXcndEX1VBTzhyaXc?oc=5",
+   "tickers": [
+    "USO"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "USO",
+   "strength": 45,
+   "reason": "Threat to Iran in profanity-laced message; geopolitical risk and oil volatility implications."
   },
   {
    "date": "2026-07-10T07:40:36Z",
@@ -456,30 +488,6 @@
     "pct": -0.1,
     "base": 8.55,
     "last": 8.54,
-    "base_date": "2026-07-09",
-    "last_date": "2026-07-10"
-   }
-  },
-  {
-   "date": "2026-07-09T04:01:42Z",
-   "platform": "News",
-   "text": "Donald Trump Writes 'Praise Be to Allah' in Profanity-Laced Easter Morning Message Threatening Iran - AOL.com \u2014 Donald Trump Writes 'Praise Be to Allah' in Profanity-Laced Easter Morning Message Threatening Iran\u00a0\u00a0AOL.com",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1GNHdOVmlXTjZaOXZINUlvZlpia2tHTzZjeHI4TVhpOXFmbHBWOTFOeVdVc2dlVEh6ZGRZT1hudk13a3Y0VV9yWmd1T1JvZDdZUGNhcTg2ckR5SGkySS1ma1o2d0d2ZWxGR1lXcndEX1VBTzhyaXc?oc=5",
-   "tickers": [
-    "XAR"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "XAR",
-   "strength": 60,
-   "reason": "Trump threatens Iran escalation; bullish for defense/military spending sector.",
-   "price_since": {
-    "ticker": "XAR",
-    "pct": -0.9,
-    "base": 273.89,
-    "last": 271.45,
     "base_date": "2026-07-09",
     "last_date": "2026-07-10"
    }
@@ -2494,23 +2502,6 @@
    "primary_ticker": "MU",
    "strength": 60,
    "reason": "Trump calls Micron 'hottest company' but market dumps stock 10%; praise backfires as bearish signal"
-  },
-  {
-   "date": "2026-07-04T01:02:08.485Z",
-   "platform": "Truth Social",
-   "text": "THE TRUMP ECONOMY IS SOARING!\u00a0The Stock Market just completed its BEST QUARTER since the last time I was President. The S&P 500, Nasdaq, and Dow are all SURGING, sending Americans' 401(k)s higher and higher. My Working Families Tax Cuts mean MORE MONEY IN AMERICAN POCKETS. Our Trade Deficit continues to shrink as U.S. Exports hit Record Month after Month. America is building more, producing more, and selling more than ever before. Trillions of Dollars in new Investment brought in by my Administration mean more Factories, more Jobs, and more Opportunity for Americans. This is WINNING. The Golden Age of America is beginning \u2014 and we are just getting started! President DONALD J. TRUMP",
-   "tickers": [
-    "SPY"
-   ],
-   "engagement": 17370,
-   "url": "https://truthsocial.com/@realDonaldTrump/116859006382890396",
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "SPY",
-   "strength": 65,
-   "reason": "broad market bullish narrative (stock gains, strong economy, exports, investment); macro bullish but non-specific"
   },
   {
    "curated": true,
