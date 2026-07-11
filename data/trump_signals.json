@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-07-11T21:26:36Z",
+ "last_updated": "2026-07-11T22:23:53Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -360,6 +360,30 @@
     "pct": 1.5,
     "base": 112.21,
     "last": 113.9,
+    "base_date": "2026-07-09",
+    "last_date": "2026-07-10"
+   }
+  },
+  {
+   "date": "2026-07-09T13:20:14Z",
+   "platform": "News",
+   "text": "Why is IBM stock surging nearly 7% higher in overnight trading? - MSN \u2014 Why is IBM stock surging nearly 7% higher in overnight trading?\u00a0\u00a0MSN",
+   "url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxQWkhsR3I1RHdCVWhVWGNUWmlYem5oRnhUcUVOQVpodkJ1VGhLREd6Q0p4MzNGUi1LWTNqR2FtRXhXLXVWcmRTT1VmMm0yZF91XzNWZ1Z3WjE5cjdHNmN1Um54X3Q4OV9vTEFkNGZtSFZXMkhMSXBGZk5WM29IVzlRSExQMWQ4dGcwbmJnY19FYmtZV2lYRlpwalE4Zi11SmZFMTRMRGxVbFg3RmFMNjZ3bTBoYnJkUlUxZUw2bG56bUZQWV92R3ZRTkVLZW4yanZGclA4bGNCXzlVejlFeWlYWHZfU3UzNTN1TUFkXzkyVzVnWnExam1fMGtOUXpTQzUxczJucHNfbzVUTG5oMWtvRXpLa3B5dTN5cWpfNTJ6U3NPOHU1clZUVnR5N0N5a1BON0h0RTE4MGxRcUp2a3FQaG1YaUswbk94anBCaE9YdFIzLUR1UzZaalV5dUg5SC1LREtUdw?oc=5",
+   "tickers": [
+    "IBM"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "IBM",
+   "strength": 55,
+   "reason": "IBM overnight 7% surge likely tied to Trump praise and federal quantum contract float",
+   "price_since": {
+    "ticker": "IBM",
+    "pct": -2.6,
+    "base": 295.3,
+    "last": 287.56,
     "base_date": "2026-07-09",
     "last_date": "2026-07-10"
    }
