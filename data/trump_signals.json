@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-07-11T22:23:53Z",
+ "last_updated": "2026-07-11T23:27:03Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -133,6 +133,22 @@
    "reason": "Trump's explicit support boosted Dell stock; direct endorsement of named company"
   },
   {
+   "date": "2026-07-10T18:33:38Z",
+   "platform": "News",
+   "text": "Trump Just Called Micron the \u2018Hottest\u2019 Company in the World. The Market Yawned and Dumped It 10% - AOL.com \u2014 Trump Just Called Micron the \u2018Hottest\u2019 Company in the World. The Market Yawned and Dumped It 10%\u00a0\u00a0AOL.com",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNd3JCRkZSUFN5SERsUElqVzRXcWl6NDJfM1huNU0ybXVpUGE3X1Q0dXQybDFpSEtLd2dvU19feVUwWVVPV0tqTmgtbmpiSHVQbVhzSUxCY3NTS3VrNVJQckVNbWNqWk9NOGhuc2tPUnZNYkI4MXFQbUt5U3lSX2JCbzd3?oc=5",
+   "tickers": [
+    "MU"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "SELL",
+   "primary_ticker": "MU",
+   "strength": 70,
+   "reason": "Trump praised Micron as 'hottest' company but stock dumped 10%; praise did not translate to support, bearish sentiment."
+  },
+  {
    "date": "2026-07-10T16:43:41Z",
    "platform": "News",
    "text": "Dell shares jump after Trump tells Americans to 'go out and buy a Dell' - AOL.com \u2014 Dell shares jump after Trump tells Americans to 'go out and buy a Dell'\u00a0\u00a0AOL.com",
@@ -211,22 +227,6 @@
    "primary_ticker": "SPACE",
    "strength": 60,
    "reason": "SpaceX IPO success and employee wealth creation signal positive sentiment for the company."
-  },
-  {
-   "date": "2026-07-10T07:39:46Z",
-   "platform": "News",
-   "text": "Trump Just Called Micron the \u2018Hottest\u2019 Company in the World. The Market Yawned and Dumped It 10% - AOL.com \u2014 Trump Just Called Micron the \u2018Hottest\u2019 Company in the World. The Market Yawned and Dumped It 10%\u00a0\u00a0AOL.com",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdy1PRk1OXzVFTVlNTmhmYTlMN1VIZy1iWnVTV1AtN3RSeVktVU1LeUpzZkpqNmNhVGlQRzk1ejh6U0E5ZEozcV91Ri12dExBNVEzNFpCMU5ZZ2owNHBoelBnd19CUW03bTFOZk9Td0pjMjBQSXZ1VFFsRmtHRGVnQXhn?oc=5",
-   "tickers": [
-    "MU"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "MU",
-   "strength": 50,
-   "reason": "Trump explicitly calls Micron 'hottest' company; direct praise, though market sold off (suggests skepticism of durability)"
   },
   {
    "date": "2026-07-10T04:57:16Z",
@@ -2502,22 +2502,6 @@
    "primary_ticker": "CPNG",
    "strength": 25,
    "reason": "Trump's personal stock trades noted; ambiguous direction without context on positions."
-  },
-  {
-   "date": "2026-07-05T04:00:23Z",
-   "platform": "News",
-   "text": "Trump just called Micron the 'hottest' company in the world. The market yawned and dumped it 10% - MSN \u2014 Trump just called Micron the 'hottest' company in the world. The market yawned and dumped it 10%\u00a0\u00a0MSN",
-   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQWGNUeVp4cldfQURkdFZxRnlMaDg2MWZPeGRxT2pQeEJ0ODF4dkhXYW5EQXlkejFuVFZITE5fSkRMbXFpM25sQk9ULWR4VENuNUZwOVdXT0Z5NUdxeUh1RFlFZmRpSENCaVZRQ255TlV1bzRXTy1WSW5wMVNreE5GOHBqdTJfcjI5eDcxZERNRFdQN2FzUGMwODhBX0c5WFNPTWZtcUlJMl9jNmRUc05hWk9ZWUdPYW1LRkppNUN3OC00THVhUEFxamdnVDJZRDFsTEV1OHNuSjlKRmYyVEpj?oc=5",
-   "tickers": [
-    "MU"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "MU",
-   "strength": 60,
-   "reason": "Trump calls Micron 'hottest company' but market dumps stock 10%; praise backfires as bearish signal"
   },
   {
    "curated": true,
