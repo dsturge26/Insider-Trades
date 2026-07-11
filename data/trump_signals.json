@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-07-11T19:42:02Z",
+ "last_updated": "2026-07-11T20:30:26Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -821,9 +821,9 @@
    "reason": "Trump family holds large Bitcoin stash, implicit bullish signal on crypto",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": 3.1,
+    "pct": 3.3,
     "base": 62257.57,
-    "last": 64207.28,
+    "last": 64312.46,
     "base_date": "2026-07-08",
     "last_date": "2026-07-11"
    }
@@ -2504,6 +2504,23 @@
    "reason": "Trump calls Micron 'hottest company' but market dumps stock 10%; praise backfires as bearish signal"
   },
   {
+   "date": "2026-07-04T01:02:08.485Z",
+   "platform": "Truth Social",
+   "text": "THE TRUMP ECONOMY IS SOARING!\u00a0The Stock Market just completed its BEST QUARTER since the last time I was President. The S&P 500, Nasdaq, and Dow are all SURGING, sending Americans' 401(k)s higher and higher. My Working Families Tax Cuts mean MORE MONEY IN AMERICAN POCKETS. Our Trade Deficit continues to shrink as U.S. Exports hit Record Month after Month. America is building more, producing more, and selling more than ever before. Trillions of Dollars in new Investment brought in by my Administration mean more Factories, more Jobs, and more Opportunity for Americans. This is WINNING. The Golden Age of America is beginning \u2014 and we are just getting started! President DONALD J. TRUMP",
+   "tickers": [
+    "SPY"
+   ],
+   "engagement": 17370,
+   "url": "https://truthsocial.com/@realDonaldTrump/116859006382890396",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "SPY",
+   "strength": 35,
+   "reason": "Post credits Trump administration for stock market gains and economic growth; macro bullish sentiment but vague, retrospective claim without new catalyst"
+  },
+  {
    "curated": true,
    "classified": true,
    "is_market": true,
@@ -2556,6 +2573,210 @@
    "reason": "Trump's majority-owned stock debuts \u2014 pure sentiment play, extremely volatile and headline-driven.",
    "market_reaction": "DJT spiked on debut then stayed volatile, moving heavily on Trump political/legal news.",
    "url": "https://www.nasdaq.com/market-activity/stocks/djt"
+  },
+  {
+   "date": "2023-05-18T12:00:00Z",
+   "platform": "Federal contract",
+   "text": "BLUE ORIGIN MANUFACTURING, LLC was awarded a $2.0B federal contract from National Aeronautics and Space Administration.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_80MSFC23CA014_8000_-NONE-_-NONE-",
+   "tickers": [
+    "BLUA"
+   ],
+   "contract_amount": 1.99,
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "BLUA",
+   "strength": 85,
+   "reason": "Blue Origin (parent Berkshire Hathaway subsidiary, but Blue Origin is private; mapping to nearest public proxy) awarded $2.0B NASA contract \u2014 large federal contract is bullish for aerospace/defense sector"
+  },
+  {
+   "date": "2021-07-01T12:00:00Z",
+   "platform": "Federal contract",
+   "text": "HARRIS CORPORATION was awarded a $2.1B federal contract from Department of Transportation.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_693KA821F00222_6920_DTFA0102D03006_6920",
+   "tickers": [
+    "HRI"
+   ],
+   "contract_amount": 2.1,
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "HRI",
+   "strength": 85,
+   "reason": "Harris Corporation awarded $2.1B Department of Transportation federal contract \u2014 large contract bullish for defense/aerospace contractor"
+  },
+  {
+   "date": "2020-05-13T12:00:00Z",
+   "platform": "Federal contract",
+   "text": "SPACE EXPLORATION TECHNOLOGIES CORP. was awarded a $3.0B federal contract from National Aeronautics and Space Administration.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_80MSFC20C0034_8000_-NONE-_-NONE-",
+   "tickers": [
+    "SPACE"
+   ],
+   "contract_amount": 3.05,
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "SPACE",
+   "strength": 90,
+   "reason": "SpaceX (Space Exploration Technologies) awarded $3.0B NASA contract \u2014 major federal contract for leading aerospace company"
+  },
+  {
+   "date": "2019-10-16T12:00:00Z",
+   "platform": "Federal contract",
+   "text": "THE BOEING COMPANY was awarded a $2.6B federal contract from National Aeronautics and Space Administration.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_80MSFC20C0052_8000_-NONE-_-NONE-",
+   "tickers": [
+    "BA"
+   ],
+   "contract_amount": 2.59,
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "BA",
+   "strength": 90,
+   "reason": "Boeing awarded $2.6B NASA federal contract \u2014 significant contract to major aerospace/defense manufacturer"
+  },
+  {
+   "date": "2015-11-01T12:00:00Z",
+   "platform": "Federal contract",
+   "text": "AEROJET ROCKETDYNE OF DE, INC was awarded a $3.3B federal contract from National Aeronautics and Space Administration.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_NNM16AA02C_8000_-NONE-_-NONE-",
+   "tickers": [
+    "AJRD"
+   ],
+   "contract_amount": 3.31,
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "AJRD",
+   "strength": 85,
+   "reason": "Aerojet Rocketdyne awarded $3.3B NASA federal contract \u2014 large contract to defense/aerospace supplier"
+  },
+  {
+   "date": "2015-09-03T12:00:00Z",
+   "platform": "Federal contract",
+   "text": "NORTHROP GRUMMAN SYSTEMS CORPORATION was awarded a $1.6B federal contract from National Aeronautics and Space Administration.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_NNH15CN76C_8000_-NONE-_-NONE-",
+   "tickers": [
+    "NOC"
+   ],
+   "contract_amount": 1.61,
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "NOC",
+   "strength": 85,
+   "reason": "Northrop Grumman awarded $1.6B NASA federal contract \u2014 bullish for defense/aerospace contractor"
+  },
+  {
+   "date": "2011-12-23T12:00:00Z",
+   "platform": "Federal contract",
+   "text": "LEIDOS, INC. was awarded a $3.1B federal contract from National Science Foundation.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_NSFDACS1219442_4900_-NONE-_-NONE-",
+   "tickers": [
+    "LDOS"
+   ],
+   "contract_amount": 3.09,
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "LDOS",
+   "strength": 85,
+   "reason": "Leidos awarded $3.1B National Science Foundation federal contract \u2014 large contract to defense/IT contractor"
+  },
+  {
+   "date": "2007-09-01T12:00:00Z",
+   "platform": "Federal contract",
+   "text": "THE BOEING COMPANY was awarded a $10.5B federal contract from National Aeronautics and Space Administration.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_NNM07AB03C_8000_-NONE-_-NONE-",
+   "tickers": [
+    "BA"
+   ],
+   "contract_amount": 10.51,
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "BA",
+   "strength": 90,
+   "reason": "Boeing awarded $10.5B NASA federal contract \u2014 major contract to aerospace manufacturer"
+  },
+  {
+   "date": "2006-09-06T12:00:00Z",
+   "platform": "Federal contract",
+   "text": "LOCKHEED MARTIN CORP was awarded a $15.6B federal contract from National Aeronautics and Space Administration.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_NNJ06TA25C_8000_-NONE-_-NONE-",
+   "tickers": [
+    "LMT"
+   ],
+   "contract_amount": 15.56,
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "LMT",
+   "strength": 95,
+   "reason": "Lockheed Martin awarded $15.6B NASA federal contract \u2014 very large contract to major defense contractor"
+  },
+  {
+   "date": "2006-04-17T12:00:00Z",
+   "platform": "Federal contract",
+   "text": "NORTHROP GRUMMAN SYSTEMS CORPORATION was awarded a $4.4B federal contract from National Aeronautics and Space Administration.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_NNM07AA75C_8000_-NONE-_-NONE-",
+   "tickers": [
+    "NOC"
+   ],
+   "contract_amount": 4.43,
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "NOC",
+   "strength": 90,
+   "reason": "Northrop Grumman awarded $4.4B NASA federal contract \u2014 major contract to defense/aerospace contractor"
+  },
+  {
+   "date": "1993-11-15T12:00:00Z",
+   "platform": "Federal contract",
+   "text": "THE BOEING COMPANY was awarded a $22.4B federal contract from National Aeronautics and Space Administration.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_NAS1510000_8000_-NONE-_-NONE-",
+   "tickers": [
+    "BA"
+   ],
+   "contract_amount": 22.44,
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "BA",
+   "strength": 95,
+   "reason": "Boeing awarded $22.4B NASA federal contract \u2014 very large contract to major aerospace manufacturer"
+  },
+  {
+   "date": "1993-10-15T12:00:00Z",
+   "platform": "Federal contract",
+   "text": "LOCKHEED MARTIN CORP was awarded a $48.1B federal contract from Department of Energy.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_DEAC0494AL85000_8900_-NONE-_-NONE-",
+   "tickers": [
+    "LMT"
+   ],
+   "contract_amount": 48.06,
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "LMT",
+   "strength": 95,
+   "reason": "Lockheed Martin awarded $48.1B Department of Energy federal contract \u2014 massive contract to major defense contractor, largest in batch"
   }
  ],
  "how_to_read": "Each card is Claude's read of a public Trump post: the affected ticker, whether it implies BUY / SELL / WATCH, a 0\u2013100 strength (how explicit/emphatic the post is \u2014 NOT a profit predictor), and why. A 2-year backtest found these don't beat buy-and-hold, so this is for awareness, not trading. Not financial advice."
