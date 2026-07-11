@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-07-11T04:20:13Z",
+ "last_updated": "2026-07-11T06:35:34Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -669,9 +669,9 @@
    "reason": "Trump family holds large Bitcoin stash, implicit bullish signal on crypto",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": 3.0,
+    "pct": 3.1,
     "base": 62257.57,
-    "last": 64097.95,
+    "last": 64207.28,
     "base_date": "2026-07-08",
     "last_date": "2026-07-11"
    }
@@ -2518,23 +2518,6 @@
    "primary_ticker": "TSLA",
    "strength": 35,
    "reason": "Discussion of Elon Musk donating SpaceX stock to Trump accounts; speculative, unclear direction."
-  },
-  {
-   "date": "2026-07-04T01:02:08.485Z",
-   "platform": "Truth Social",
-   "text": "THE TRUMP ECONOMY IS SOARING!\u00a0The Stock Market just completed its BEST QUARTER since the last time I was President. The S&P 500, Nasdaq, and Dow are all SURGING, sending Americans' 401(k)s higher and higher. My Working Families Tax Cuts mean MORE MONEY IN AMERICAN POCKETS. Our Trade Deficit continues to shrink as U.S. Exports hit Record Month after Month. America is building more, producing more, and selling more than ever before. Trillions of Dollars in new Investment brought in by my Administration mean more Factories, more Jobs, and more Opportunity for Americans. This is WINNING. The Golden Age of America is beginning \u2014 and we are just getting started! President DONALD J. TRUMP",
-   "tickers": [
-    "SPY"
-   ],
-   "engagement": 6548,
-   "url": "https://truthsocial.com/@realDonaldTrump/116859006382890396",
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "SPY",
-   "strength": 65,
-   "reason": "Broad macro boast of strong stock market, record exports, investment inflows; bullish market sentiment but no specific named catalyst."
   },
   {
    "curated": true,
