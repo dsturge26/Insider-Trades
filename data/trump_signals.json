@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-07-11T01:00:17Z",
+ "last_updated": "2026-07-11T04:20:13Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -35,6 +35,22 @@
    "primary_ticker": "MU",
    "strength": 75,
    "reason": "$250B US memory-chip investment announcement; Trump credits his deregulation; strong supply-chain/manufacturing tailwind"
+  },
+  {
+   "date": "2026-07-10T19:06:21Z",
+   "platform": "News",
+   "text": "Trump\u2019s Support Significantly Boosted Dell Stock Price, What Information Do You Need to Know? - TradingKey \u2014 Trump\u2019s Support Significantly Boosted Dell Stock Price, What Information Do You Need to Know?\u00a0\u00a0TradingKey",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdmNSUHhPZllkcDRvcDNmR2sxdEU0X1dnNDRHZnVfdy1jbHlwWXU0cVFxSUwtNjdfaDRpQjFNVHRzUmFvSjNfcTdqZFRqeTBidm9MR1FqdXdTNmVNRUZXdjh3clJXS3cyMGlWOHQycnBNWEJSekhXRWJHTVVUanRCc1VfQmlIazZINWUzTHFhdWNDc0Y4ckk2TGVMek9QTGNwYS1FVXdoNDVqbzlhaDBsUU16OGtQcXpFRGVLMjVXdUZEaTJibW9xQm81SkVxMWtY?oc=5",
+   "tickers": [
+    "DELL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "DELL",
+   "strength": 75,
+   "reason": "Trump's explicit support boosted Dell stock; direct endorsement of named company"
   },
   {
    "date": "2026-07-10T16:43:41Z",
@@ -655,7 +671,7 @@
     "ticker": "BTC-USD",
     "pct": 3.0,
     "base": 62257.57,
-    "last": 64095.14,
+    "last": 64097.95,
     "base_date": "2026-07-08",
     "last_date": "2026-07-11"
    }
