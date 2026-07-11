@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-07-11T11:19:01Z",
+ "last_updated": "2026-07-11T12:13:29Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-07-11T11:23:46Z",
+   "platform": "News",
+   "text": "Trump praises SpaceX executive\u2019s $325 million gift - MSN \u2014 Trump praises SpaceX executive\u2019s $325 million gift\u00a0\u00a0MSN",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNc2ZmaE1PYVdWNktUNUx5UXo0S3pObkpBdnJoMG01ZHdRVWpTNHpGQXMzek1CMmNoUk11S2daLXQ0VDZQX3l1SFp0UWdpVDVFTTg1cHQ3X2JHNkl3YW9kOXEwbWVxNElId3RpV3U0ZktlaVZRTDdoZmczQmYxa28ySGJ6NUxLbVZVWG9aUW1SX253UHRvRGZzZU0tU3U4cHVMNmtTX0l4N05aUk51ZVVVb2M0aFl0ZXczQ21YUzA4ZGNsbTg?oc=5",
+   "tickers": [
+    "SPACX"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "SPACX",
+   "strength": 65,
+   "reason": "Trump praises SpaceX executive's major gift; bullish sentiment toward SpaceX"
+  },
   {
    "date": "2026-07-11T00:19:01.525Z",
    "platform": "Truth Social",
@@ -83,6 +99,22 @@
    "primary_ticker": "DELL",
    "strength": 95,
    "reason": "Trump explicitly tells Americans to 'buy a Dell'; direct company endorsement"
+  },
+  {
+   "date": "2026-07-10T15:19:51Z",
+   "platform": "News",
+   "text": "Trump Praises SpaceX President Gwynne Shotwell's 'Extreme Generosity' After Her $325 Million Trump Accounts Stock Donation - Sahm \u2014 Trump Praises SpaceX President Gwynne Shotwell's 'Extreme Generosity' After Her $325 Million Trump Accounts Stock Donation\u00a0\u00a0Sahm",
+   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOZWl0SUVlRzdCUWZ6N2IycU1KQ2RTMU1idHQtZXkzUFBoaXoyT1Q1amg5eDRFWHh2OEVLbWNRMFd5TlhqdHlBR3hnZzZETk1Dd3ZUME5HNlJVaHpTdnU3LXNad2t5ODB2NWVzTzJOdHBucE5QZHhGZVVscGdSdFQ1azZaQ05lNm94YmF4WE5MUkRRNGhQOFFFbFYtV29qNTBLZkJIQ3JoTlg2b0l6Y1JhMnh1TE8tTlNVSUl2LUV3QmRQb1NSdXlxTFN4dDhVZ3huZThuVFpjUU5hVlBMNlpibDVoQ0pEbGdPUm11dmE0TVZ3NFRmRWx5MVI0NkVha1E?oc=5",
+   "tickers": [
+    "SPACX"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "SPACX",
+   "strength": 70,
+   "reason": "Trump praises SpaceX president's major donation; bullish sentiment"
   },
   {
    "date": "2026-07-10T07:40:36Z",
@@ -2526,38 +2558,6 @@
    "primary_ticker": "MU",
    "strength": 65,
    "reason": "Trump praises Micron Technology specifically following investment announcement"
-  },
-  {
-   "date": "2026-07-04T12:40:00Z",
-   "platform": "News",
-   "text": "Trump drops love-bomb on Micron while holding the stock \u2014 up 209% this year. Experts say it \u2018undermines\u2019 the system - Yahoo Finance \u2014 Trump drops love-bomb on Micron while holding the stock \u2014 up 209% this year. Experts say it \u2018undermines\u2019 the system\u00a0\u00a0Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRXN3SG90d3VFazdrS3J0dC1QUVZfTXdqVktxM3piNUtMTE9EOTBfMno4UjZ4VVg2RXdtYXpCQXE1eXBrRlRmeFVzX21fRG11a2VaMHB1N0lJRmVkN2UxLWFySGZqY0UzcmI5aFZTU2plZUxFb2tybkhJN2N1ZVZZZFBwT3Z0OXNfZDVJSlBjVDdGQU03bVpreg?oc=5",
-   "tickers": [
-    "MU"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "MU",
-   "strength": 80,
-   "reason": "Trump praises Micron while holding stock; explicit bullish signal and major rally context"
-  },
-  {
-   "date": "2026-07-04T12:32:56Z",
-   "platform": "News",
-   "text": "Trump admits his kids have 'inside information' when they buy stock and raises concerns - UNILAD \u2014 Trump admits his kids have 'inside information' when they buy stock and raises concerns\u00a0\u00a0UNILAD",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbVRBa1B2NUt0dGdfeEFjckJsY0N5QlRTbmJLZFVFTWtjbkdJUUJ5eHF3STBJVHJJczhKZ01hNGxxUlpLUmo5TzE3QzJabVdONDhfcHM2MXkwdm1nNXFCUmw1WlYxVVotV1dZR1ljeEJVQ1V6a0NCOWZXYjhSM3FRc1I3ZUFtU3RqbFo1VUFTdFRnb0thWmFPS0FnQWRFWU53?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "SPY",
-   "strength": 35,
-   "reason": "Trump admits insider trading concerns among his children; raises systemic market integrity questions but no directional signal."
   },
   {
    "curated": true,
