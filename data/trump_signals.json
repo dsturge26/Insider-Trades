@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-07-11T17:16:02Z",
+ "last_updated": "2026-07-11T18:26:23Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -2494,6 +2494,23 @@
    "primary_ticker": "MU",
    "strength": 60,
    "reason": "Trump calls Micron 'hottest company' but market dumps stock 10%; praise backfires as bearish signal"
+  },
+  {
+   "date": "2026-07-04T01:02:08.485Z",
+   "platform": "Truth Social",
+   "text": "THE TRUMP ECONOMY IS SOARING!\u00a0The Stock Market just completed its BEST QUARTER since the last time I was President. The S&P 500, Nasdaq, and Dow are all SURGING, sending Americans' 401(k)s higher and higher. My Working Families Tax Cuts mean MORE MONEY IN AMERICAN POCKETS. Our Trade Deficit continues to shrink as U.S. Exports hit Record Month after Month. America is building more, producing more, and selling more than ever before. Trillions of Dollars in new Investment brought in by my Administration mean more Factories, more Jobs, and more Opportunity for Americans. This is WINNING. The Golden Age of America is beginning \u2014 and we are just getting started! President DONALD J. TRUMP",
+   "tickers": [
+    "SPY"
+   ],
+   "engagement": 17370,
+   "url": "https://truthsocial.com/@realDonaldTrump/116859006382890396",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "SPY",
+   "strength": 65,
+   "reason": "broad market bullish narrative (stock gains, strong economy, exports, investment); macro bullish but non-specific"
   },
   {
    "curated": true,
