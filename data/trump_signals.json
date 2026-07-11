@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-07-11T12:13:29Z",
+ "last_updated": "2026-07-11T13:57:08Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -17,6 +17,22 @@
    "primary_ticker": "SPACX",
    "strength": 65,
    "reason": "Trump praises SpaceX executive's major gift; bullish sentiment toward SpaceX"
+  },
+  {
+   "date": "2026-07-11T04:58:54Z",
+   "platform": "News",
+   "text": "INTC Stock Rockets Toward Best Month Ever: Something More Than A Trump Pump Could Be Powering The Rally - Stocktwits \u2014 INTC Stock Rockets Toward Best Month Ever: Something More Than A Trump Pump Could Be Powering The Rally\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQT29KOURKeHprQ2xZbmpLUUc3MGRlTTE5Y1JHVXJ5TGhldk10eENQcmZLSzRWNDQyTmJFclFNUThmZ0tBRlZUQTZ3MGF1dlZwR0Q4aUtXUnZVQ2o1MjM3cFNpU2RrejRkd2E0OXBhOVNpdDdBdDVSSTR1c2M5NTZfYlg4NEFxODg3QWpMTXd0VVIzM3pZRS10OG5JWG9QUW52UjZvbXVvQ29uZ1lJb1NwbFljM1lBN1dreHdJZDdYZ1hKTjVidndnRWlJRnl5cnNpT2llcjVuSVltVDNzVFdHbmZYTEpua3JJVllOcXIxVmdfaThfeHRzVm9R?oc=5",
+   "tickers": [
+    "INTC"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "INTC",
+   "strength": 45,
+   "reason": "Intel rallying; headline suggests Trump support may be driving gains"
   },
   {
    "date": "2026-07-11T00:19:01.525Z",
@@ -195,30 +211,6 @@
    "primary_ticker": "DELL",
    "strength": 60,
    "reason": "Trump has praised/endorsed Dell; prior explicit 'buy Dell' comments drive stock bump."
-  },
-  {
-   "date": "2026-07-09T23:24:54Z",
-   "platform": "News",
-   "text": "INTC Stock Rockets Toward Best Month Ever: Something More Than A Trump Pump Could Be Powering The Rally - Stocktwits \u2014 INTC Stock Rockets Toward Best Month Ever: Something More Than A Trump Pump Could Be Powering The Rally\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQT29KOURKeHprQ2xZbmpLUUc3MGRlTTE5Y1JHVXJ5TGhldk10eENQcmZLSzRWNDQyTmJFclFNUThmZ0tBRlZUQTZ3MGF1dlZwR0Q4aUtXUnZVQ2o1MjM3cFNpU2RrejRkd2E0OXBhOVNpdDdBdDVSSTR1c2M5NTZfYlg4NEFxODg3QWpMTXd0VVIzM3pZRS10OG5JWG9QUW52UjZvbXVvQ29uZ1lJb1NwbFljM1lBN1dreHdJZDdYZ1hKTjVidndnRWlJRnl5cnNpT2llcjVuSVltVDNzVFdHbmZYTEpua3JJVllOcXIxVmdfaThfeHRzVm9R?oc=5",
-   "tickers": [
-    "INTC"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "INTC",
-   "strength": 45,
-   "reason": "Semiconductor strength linked to Trump administration sentiment; inference-based, not explicit",
-   "price_since": {
-    "ticker": "INTC",
-    "pct": -2.4,
-    "base": 112.54,
-    "last": 109.84,
-    "base_date": "2026-07-09",
-    "last_date": "2026-07-10"
-   }
   },
   {
    "date": "2026-07-09T18:38:53Z",
@@ -2526,38 +2518,6 @@
    "primary_ticker": "SPY",
    "strength": 40,
    "reason": "Trump praises his admin's economic policies; broad macro-positive stance suggests bullish market sentiment."
-  },
-  {
-   "date": "2026-07-04T13:26:02Z",
-   "platform": "News",
-   "text": "Trump drops love-bomb on Micron while holding the stock \u2014 up 209% this year. Experts say it undermines the system - MSN \u2014 Trump drops love-bomb on Micron while holding the stock \u2014 up 209% this year. Experts say it undermines the system\u00a0\u00a0MSN",
-   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNa2tWYkV5UGIySWRzRDJ5V3p3UmZOYkFJdU5DWmFlUGN0QXkwTnFPM1RWV256NHF6ME52WDB2eTRsbm80Y2Rib0ZpYWNBajViTlRjOHVZVlVSdFBJRlpLVFFBVHFaYmRkTS1ZVUJGTVBDcDUxZWdNclJIUjVYZ085aTBKTnFobDVKeVFfSWhqR0dUZEVhZ3ZlYWJjNFFWT1dvbjVQSnBzakwzNEFibnhLMVNCMkVFNXJaSlhnT3B1Ui14SmlSaXQ2cUF1ZjZQRWpzMDBSbkduTFNDWUxIQXZ2SllkODhXTERSQ002c190NU4?oc=5",
-   "tickers": [
-    "MU"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "MU",
-   "strength": 75,
-   "reason": "Trump explicitly praises Micron; he holds the stock; direct endorsement of a named publicly-traded company is a strong bullish signal."
-  },
-  {
-   "date": "2026-07-04T12:56:36Z",
-   "platform": "News",
-   "text": "Donald Trump Praises Micron Technology Following Multi Million Dollar Investment - sekbernews.id \u2014 Donald Trump Praises Micron Technology Following Multi Million Dollar Investment\u00a0\u00a0sekbernews.id",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Zd2xzUlZqZmE2LUppaFh4NHZZR09LWFNyem9SNlV3NVVVSkFlc21qQnBCNXA3Q3BydHlaS1FEX2RKQlluaFJZQTBXRy10eUJReVRIS192emR2REEyOWhneXZNdjcwdEdzbWhXMw?oc=5",
-   "tickers": [
-    "MU"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "MU",
-   "strength": 65,
-   "reason": "Trump praises Micron Technology specifically following investment announcement"
   },
   {
    "curated": true,
