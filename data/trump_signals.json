@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-07-11T16:01:46Z",
+ "last_updated": "2026-07-11T17:16:02Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -17,6 +17,22 @@
    "primary_ticker": "SPACX",
    "strength": 65,
    "reason": "Trump praises SpaceX executive's major gift; bullish sentiment toward SpaceX"
+  },
+  {
+   "date": "2026-07-11T09:46:14Z",
+   "platform": "News",
+   "text": "NOW Stock Rises Overnight: Trump\u2019s ServiceNow Stake Fuels Retail Buzz Around SAAS Comeback - Stocktwits \u2014 NOW Stock Rises Overnight: Trump\u2019s ServiceNow Stake Fuels Retail Buzz Around SAAS Comeback\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQcEF0OFRRa3hIWF9rS21NMTBqNk53MDA4eWFQcDJad1Z2QkQyTTdmd3prLUVaVUUwdVRSWWpCOGs3N3JaYTZCcG1KMjg1c1Q0WWdjSnlWbHkteXVxcnFoUXFZMEg4ejh0YjA4ZG5BRnBEX1huMFNaS0dXdEx4LWNEOXBLcmNpMzlCQzc1OC0yRDFKeWFMWEZzWUpNQXBWTFFDQlJ6dmFWamU5cUpFZnVfcU1ocFdTa0tfdjByTlZZUHo4QUx1QzJOMHpzZEdaZjdqSVhoWFB0cVRKZW9BbnNLMi1XYUF2MlhaZGc?oc=5",
+   "tickers": [
+    "NOW"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "NOW",
+   "strength": 45,
+   "reason": "Trump stake in ServiceNow reported; implied endorsement/bullish signal for SaaS but not explicit buy call"
   },
   {
    "date": "2026-07-11T04:58:54Z",
@@ -968,30 +984,6 @@
     "pct": 4.2,
     "base": 417.28,
     "last": 434.97,
-    "base_date": "2026-07-07",
-    "last_date": "2026-07-10"
-   }
-  },
-  {
-   "date": "2026-07-07T13:10:47Z",
-   "platform": "News",
-   "text": "NOW Stock Rises Overnight: Trump\u2019s ServiceNow Stake Fuels Retail Buzz Around SAAS Comeback - Stocktwits \u2014 NOW Stock Rises Overnight: Trump\u2019s ServiceNow Stake Fuels Retail Buzz Around SAAS Comeback\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQcEF0OFRRa3hIWF9rS21NMTBqNk53MDA4eWFQcDJad1Z2QkQyTTdmd3prLUVaVUUwdVRSWWpCOGs3N3JaYTZCcG1KMjg1c1Q0WWdjSnlWbHkteXVxcnFoUXFZMEg4ejh0YjA4ZG5BRnBEX1huMFNaS0dXdEx4LWNEOXBLcmNpMzlCQzc1OC0yRDFKeWFMWEZzWUpNQXBWTFFDQlJ6dmFWamU5cUpFZnVfcU1ocFdTa0tfdjByTlZZUHo4QUx1QzJOMHpzZEdaZjdqSVhoWFB0cVRKZW9BbnNLMi1XYUF2MlhaZGc?oc=5",
-   "tickers": [
-    "NOW"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "NOW",
-   "strength": 70,
-   "reason": "Trump's personal ServiceNow stake fuels retail buzz and stock rise; beneficial ownership signal.",
-   "price_since": {
-    "ticker": "NOW",
-    "pct": -2.7,
-    "base": 110.73,
-    "last": 107.71,
     "base_date": "2026-07-07",
     "last_date": "2026-07-10"
    }
@@ -2502,22 +2494,6 @@
    "primary_ticker": "MU",
    "strength": 60,
    "reason": "Trump calls Micron 'hottest company' but market dumps stock 10%; praise backfires as bearish signal"
-  },
-  {
-   "date": "2026-07-05T03:52:00Z",
-   "platform": "News",
-   "text": "Trump praises his admin's economic policies - Breakingthenews.net \u2014 Trump praises his admin's economic policies\u00a0\u00a0Breakingthenews.net",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOX096N19ZTWdtZWtaU2JqUjZETmNJMy1xaFhXeDVLeFV2LW4ydzIwOE5zNmNiWjFlM1VWTVFPMDNjSGE4VGxHcXRRb0FCRmRtNURuM0NHdkt1VHNBNTg1eldvTmhjUWxkU0RCOGM3T0hWMl9xck5SeWFqMmdKVnZReHk4MVhWbkQyTTB6OHpMUlQzUQ?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "SPY",
-   "strength": 40,
-   "reason": "Trump praises his admin's economic policies; broad macro-positive stance suggests bullish market sentiment."
   },
   {
    "curated": true,
