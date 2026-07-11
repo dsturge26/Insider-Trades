@@ -1,7 +1,41 @@
 {
- "last_updated": "2026-07-10T23:28:53Z",
+ "last_updated": "2026-07-11T01:00:17Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-07-11T00:19:01.525Z",
+   "platform": "Truth Social",
+   "text": "Apple to invest $30 billion in US chip manufacturing: https://www.foxbusiness.com/media/apple-invest-30-billion-us-chip-manufacturing",
+   "tickers": [
+    "AAPL"
+   ],
+   "engagement": 933,
+   "url": "https://truthsocial.com/@realDonaldTrump/116898473019365022",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "AAPL",
+   "strength": 60,
+   "reason": "Major $30B US chip investment signals supply-chain reshoring and AI capacity, bullish for Apple capex/production"
+  },
+  {
+   "date": "2026-07-10T23:35:02.281Z",
+   "platform": "Truth Social",
+   "text": "BIGGER INVESTMENTS JUST KEEP COMING! The Trump Effect is REAL! Micron is accelerating its U.S. spending to a MASSIVE 250 BILLION DOLLARS to build Memory Chips right here in the U.S.A. For years, the Do Nothing Dumocrats bogged down American Industry with crushing Red Tape, complete Economic Mismanagement, and ridiculous Woke Mandates. They stalled everything. Not anymore! We are slashing the Radical Left's Job killing Regulations, and actually GETTING SHOVELS IN THE GROUND. We are reshooting Manufacturing to America, and securing our Supply Chains. This means THOUSANDS of GREAT JOBS for Hardworking Patriots all across our Country. True Economic Security is MADE IN AMERICA. \ud83c\uddfa\ud83c\uddf8MAGA! President DONALD J. TRUMP",
+   "tickers": [
+    "MU"
+   ],
+   "engagement": 3274,
+   "url": "https://truthsocial.com/@realDonaldTrump/116898300053530163",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "MU",
+   "strength": 75,
+   "reason": "$250B US memory-chip investment announcement; Trump credits his deregulation; strong supply-chain/manufacturing tailwind"
+  },
   {
    "date": "2026-07-10T16:43:41Z",
    "platform": "News",
@@ -621,9 +655,9 @@
     "ticker": "BTC-USD",
     "pct": 3.0,
     "base": 62257.57,
-    "last": 64150.24,
+    "last": 64095.14,
     "base_date": "2026-07-08",
-    "last_date": "2026-07-10"
+    "last_date": "2026-07-11"
    }
   },
   {
@@ -2485,55 +2519,6 @@
    "primary_ticker": "SPY",
    "strength": 65,
    "reason": "Broad macro boast of strong stock market, record exports, investment inflows; bullish market sentiment but no specific named catalyst."
-  },
-  {
-   "date": "2026-07-04T00:03:06.343Z",
-   "platform": "Truth Social",
-   "text": "BIG NEWS! My Administration is delivering another fantastic America First Victory. The Department of Treasury will now accept philanthropic contributions of readily tradable Publicly Traded Stock to help fund TRUMP ACCOUNTS for eligible American children. This opens the door for GREAT American Businesses, Philanthropists, and Job Creators to invest directly in the future of our children, and help build a Generation of Savers, Investors, and Owners. The response to TRUMP ACCOUNTS has been incredible \u2014 More than 6 MILLION TRUMP ACCOUNTS have already been requested before the Program has even launched. The American People LOVE this idea because it puts America's children FIRST, rewards Success, and helps build Wealth for the next Generation. The Golden Age of America is just getting started! President DONALD J. TRUMP",
-   "tickers": [
-    "SPY"
-   ],
-   "engagement": 5,
-   "url": "https://truthsocial.com/@realDonaldTrump/116858774244974608",
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "SPY",
-   "strength": 25,
-   "reason": "TRUMP ACCOUNTS program expansion signals positive retail investment sentiment and market participation"
-  },
-  {
-   "date": "2026-07-03T23:02:23Z",
-   "platform": "News",
-   "text": "Trump's 327 Stock Trades on April 8 Preceded Tariff Shift - Briefs Finance \u2014 Trump's 327 Stock Trades on April 8 Preceded Tariff Shift\u00a0\u00a0Briefs Finance",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWV9uUE94LXM4dEF4c0szaUZ6aXZMU2tlR1JGT3R0NlAxYWVyREVxM25ha1hrUlNPbzVHSjZxNm5idnM5SDlCeGVtOFFIdVh4bnFVTGp6czhsSjNNWjI2T1JNeFpBeHp4TjZQajRPR1FEeWM5NzAwcWRKbzlaMmZrdHEtaW9SMHlPZWJnNkxn?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "SPY",
-   "strength": 35,
-   "reason": "Large volume of stock trades before tariff shift suggests potential insider timing; unclear direction."
-  },
-  {
-   "date": "2026-07-03T20:29:56Z",
-   "platform": "News",
-   "text": "Trump says his kids handle his investments: There's 'nothing illegal' - ABC News - Breaking News, Latest News and Videos \u2014 Trump says his kids handle his investments: There's 'nothing illegal'\u00a0\u00a0ABC News - Breaking News, Latest News and Videos",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQczFFeWdCbEpVelk3T2ppa0szRFRRUEhWQ0VMVlZBdnZkaFZhUW1ZUUo3ZTZ5N29ES3llVFkzNHVacnZpRTQ0LUZ5U3huX3ZUZnc4a1ZiNnNYVUMxR2otOENBSzI3emlLc09zdVVvVnc1czJtMUhkcnFwMHNWVjRtOVFPNlQzWl9fblh4bl930gGTAUFVX3lxTE1EcjY2V3liNFJ2V19LUUFPN1pyV1FwdEZVZ3Y5QTA4WXh3MmNqN1o2c0NxNE1Kb0t5UVFhMVZQRVNlZ1gwMXhVOUVQV204TFN0OHZIZGNsZHNwZWVLUHhQNlJSYzU3UURlZjN2VWpHVzhScmJXUDU2dWRiZmpJNm01QlA2Y21zc0lZckNfeFNkRmNFcw?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "SPY",
-   "strength": 40,
-   "reason": "Trump defends his children's stock trading as legal; underscores ongoing insider trading/market-integrity concerns."
   },
   {
    "curated": true,
