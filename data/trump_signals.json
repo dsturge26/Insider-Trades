@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-07-11T06:35:34Z",
+ "last_updated": "2026-07-11T08:28:38Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -37,6 +37,22 @@
    "reason": "$250B US memory-chip investment announcement; Trump credits his deregulation; strong supply-chain/manufacturing tailwind"
   },
   {
+   "date": "2026-07-10T22:31:28Z",
+   "platform": "News",
+   "text": "Trump Praises SpaceX President Gwynne Shotwell's 'Extreme Generosity' After Her $325 Million Trump Accounts Stock Donation - Yahoo Finance \u2014 Trump Praises SpaceX President Gwynne Shotwell's 'Extreme Generosity' After Her $325 Million Trump Accounts Stock Donation\u00a0\u00a0Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbWkwTjl3MEpTcGkzTWU4T2gwaXlxLWI3eVdrSVRZcHgxM0Z3aXZFLU9TaXE2VF9yM2lPMzVHXzdQc3pKLWN1TXhCYmdUTmhuZlA4dlJ2d3hlWDBDdW10Vm5lRkhmRTZxVkVqd0dSRlJldy0za09sRXVBSlVranB0M2JUY3VNRlpKQlh6N3E4dXJJaC02ZE1RX3pSZGRCem5nTF91ZA?oc=5",
+   "tickers": [
+    "DJT"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "DJT",
+   "strength": 45,
+   "reason": "Praise for SpaceX executive's charitable donation to Trump Accounts suggests alignment; indirect bullish read for Trump's asset"
+  },
+  {
    "date": "2026-07-10T19:06:21Z",
    "platform": "News",
    "text": "Trump\u2019s Support Significantly Boosted Dell Stock Price, What Information Do You Need to Know? - TradingKey \u2014 Trump\u2019s Support Significantly Boosted Dell Stock Price, What Information Do You Need to Know?\u00a0\u00a0TradingKey",
@@ -67,6 +83,38 @@
    "primary_ticker": "DELL",
    "strength": 95,
    "reason": "Trump explicitly tells Americans to 'buy a Dell'; direct company endorsement"
+  },
+  {
+   "date": "2026-07-10T07:39:46Z",
+   "platform": "News",
+   "text": "Trump Just Called Micron the \u2018Hottest\u2019 Company in the World. The Market Yawned and Dumped It 10% - AOL.com \u2014 Trump Just Called Micron the \u2018Hottest\u2019 Company in the World. The Market Yawned and Dumped It 10%\u00a0\u00a0AOL.com",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdy1PRk1OXzVFTVlNTmhmYTlMN1VIZy1iWnVTV1AtN3RSeVktVU1LeUpzZkpqNmNhVGlQRzk1ejh6U0E5ZEozcV91Ri12dExBNVEzNFpCMU5ZZ2owNHBoelBnd19CUW03bTFOZk9Td0pjMjBQSXZ1VFFsRmtHRGVnQXhn?oc=5",
+   "tickers": [
+    "MU"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "MU",
+   "strength": 50,
+   "reason": "Trump explicitly calls Micron 'hottest' company; direct praise, though market sold off (suggests skepticism of durability)"
+  },
+  {
+   "date": "2026-07-10T04:57:16Z",
+   "platform": "News",
+   "text": "Michael Burry Says He\u2019s Still Short Palantir After Stock Sees Recovery Following Trump\u2019s Endorsement - Stocktwits \u2014 Michael Burry Says He\u2019s Still Short Palantir After Stock Sees Recovery Following Trump\u2019s Endorsement\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUmNQdmN5STJOLU11dEhkR1U0ckhuS3JMcm1NUDNMY0dNZ1pQcGhFVmd2bkZqVHV5N3N4N01tY1gzZWZnTDlvbVRzTEtkQnZyUjlibXR1ZUJ5MnVNY0ZlYlVEUWtRMkdnRzBGcmxpdEJaQm55ZWlTWmZZUDBPNnhncTFlLWg3bjllZXNpeGpTVjd3b3dCZ2lWT1dPZE5RSlNKT01IVXlTa1c5YmFodzVEWkJtbHpvUHN1Ry00NWhxcVJpdw?oc=5",
+   "tickers": [
+    "PLTR"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "PLTR",
+   "strength": 40,
+   "reason": "Trump endorsement of Palantir noted, but analyst remains short; mixed signal on direction"
   },
   {
    "date": "2026-07-10T04:29:19Z",
@@ -192,6 +240,30 @@
     "pct": 1.5,
     "base": 112.21,
     "last": 113.9,
+    "base_date": "2026-07-09",
+    "last_date": "2026-07-10"
+   }
+  },
+  {
+   "date": "2026-07-09T12:08:12Z",
+   "platform": "News",
+   "text": "Trump praises SpaceX president Gwynne Shotwell's 'extreme generosity' after her $325 million Trump accounts stock donation - MSN \u2014 Trump praises SpaceX president Gwynne Shotwell's 'extreme generosity' after her $325 million Trump accounts stock donation\u00a0\u00a0MSN",
+   "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNdWRpWDlrdXZjeGkxb2I2cERHMFlUd0N5ZE1SaWZEQkowSVp1T0Vpb240TV9TUm1ibl9ZRmdlVGJTekk0d1V2TUNtSHhwTnppMzRJVjR5dGIyX2NxRE1xM3VzU3pqaUREQTRqTXBlbTNoZUpaOEYzYVZ1cVhmZmxzeGN3X1Z0cUpmQlBVY09RTUk1QVlid1liZ2xJYUNzVURESVFJeTR5bThvVk9OR0JYQWpQMmpPSkxEVm9SSF9RVlFlY0FTaU5hRlNwWktLTEw4Z3VkNHBBM2tJRS1FdloxU2FJZGpBVV9PdHdEeUR4eF90MDRvMC1NUHM3eWlsaTZLWVFuN2RJT2pqVUFvelpmSVBlTm1OYTZWSFpHNDRfSQ?oc=5",
+   "tickers": [
+    "DJT"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "DJT",
+   "strength": 45,
+   "reason": "Trump praises SpaceX executive's donation to Trump Accounts; positive sentiment for Trump's asset",
+   "price_since": {
+    "ticker": "DJT",
+    "pct": -0.1,
+    "base": 8.55,
+    "last": 8.54,
     "base_date": "2026-07-09",
     "last_date": "2026-07-10"
    }
@@ -2342,22 +2414,6 @@
    "primary_ticker": "TAN",
    "strength": 55,
    "reason": "Trump's proposed inverter import curbs favor domestic solar; specific bullish catalyst for solar sector"
-  },
-  {
-   "date": "2026-07-05T07:31:16Z",
-   "platform": "News",
-   "text": "Michael Burry Says He\u2019s Still Short Palantir After Stock Sees Recovery Following Trump\u2019s Endorsement - Stocktwits \u2014 Michael Burry Says He\u2019s Still Short Palantir After Stock Sees Recovery Following Trump\u2019s Endorsement\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUmNQdmN5STJOLU11dEhkR1U0ckhuS3JMcm1NUDNMY0dNZ1pQcGhFVmd2bkZqVHV5N3N4N01tY1gzZWZnTDlvbVRzTEtkQnZyUjlibXR1ZUJ5MnVNY0ZlYlVEUWtRMkdnRzBGcmxpdEJaQm55ZWlTWmZZUDBPNnhncTFlLWg3bjllZXNpeGpTVjd3b3dCZ2lWT1dPZE5RSlNKT01IVXlTa1c5YmFodzVEWkJtbHpvUHN1Ry00NWhxcVJpdw?oc=5",
-   "tickers": [
-    "PLTR"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "PLTR",
-   "strength": 20,
-   "reason": "Trump endorsement of Palantir noted; mixed signal as short-seller disagrees on fundamentals."
   },
   {
    "date": "2026-07-05T05:09:55Z",
