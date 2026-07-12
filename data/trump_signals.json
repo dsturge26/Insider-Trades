@@ -1,7 +1,39 @@
 {
- "last_updated": "2026-07-12T01:06:24Z",
+ "last_updated": "2026-07-12T04:39:52Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-07-12T01:02:24Z",
+   "platform": "News",
+   "text": "Dell shares jump after Trump tells Americans to 'go out and buy a Dell' - AOL.com \u2014 Dell shares jump after Trump tells Americans to 'go out and buy a Dell'\u00a0\u00a0AOL.com",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOVk4NFMtTG01bnBNVkhIa0NtQWhIbkVORDVYUTliczdfaDBFSmMzSWlxdlkzaDhCcXRBRjJkeDB3TnYxbGx6aTl1ODBzSWIyVWFlSVN2RndGTm5JWXRoWGtkb0FKOFRIX09SMVhBTzAyMURmQjdaQUhpc1hFQmVzNjVTUQ?oc=5",
+   "tickers": [
+    "DELL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "DELL",
+   "strength": 85,
+   "reason": "Trump explicitly told Americans to buy Dell; direct market catalyst."
+  },
+  {
+   "date": "2026-07-11T16:43:47Z",
+   "platform": "News",
+   "text": "INTC Stock Rockets Toward Best Month Ever: Something More Than A Trump Pump Could Be Powering The Rally - Stocktwits \u2014 INTC Stock Rockets Toward Best Month Ever: Something More Than A Trump Pump Could Be Powering The Rally\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQT29KOURKeHprQ2xZbmpLUUc3MGRlTTE5Y1JHVXJ5TGhldk10eENQcmZLSzRWNDQyTmJFclFNUThmZ0tBRlZUQTZ3MGF1dlZwR0Q4aUtXUnZVQ2o1MjM3cFNpU2RrejRkd2E0OXBhOVNpdDdBdDVSSTR1c2M5NTZfYlg4NEFxODg3QWpMTXd0VVIzM3pZRS10OG5JWG9QUW52UjZvbXVvQ29uZ1lJb1NwbFljM1lBN1dreHdJZDdYZ1hKTjVidndnRWlJRnl5cnNpT2llcjVuSVltVDNzVFdHbmZYTEpua3JJVllOcXIxVmdfaThfeHRzVm9R?oc=5",
+   "tickers": [
+    "INTC"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "INTC",
+   "strength": 45,
+   "reason": "Trump sentiment attributed to INTC rally; inferred bullish but unclear strength."
+  },
   {
    "date": "2026-07-11T15:31:00Z",
    "platform": "News",
@@ -17,6 +49,22 @@
    "primary_ticker": "USO",
    "strength": 45,
    "reason": "Threat to 'destroy' Iran implies elevated geopolitical risk and potential oil market volatility."
+  },
+  {
+   "date": "2026-07-11T13:56:53Z",
+   "platform": "News",
+   "text": "Trump Warns Of Tariffs Up To 200% For Companies That Don't Build In The US \u2014 'We're Doing Great On Steel Because We Charge Tariffs' - Stocktwits \u2014 Trump Warns Of Tariffs Up To 200% For Companies That Don't Build In The US \u2014 'We're Doing Great On Steel Because We Charge Tariffs'\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMm40WW15RHg0T0ZIMkQzNzBxd2RZZ3ZxbDVMSi1zTE9HQkNBdHdmdFlWendxcC1acHJmX0lmY1hRREpWYTRrZ2FsOGh3TnN0N0dwTEdLbTN0QlFjdXFPQTEyUWtEV1RIc3AyZ1hMR0lQOVpDM190ZmdEVWtLeWlpakxtYkY0QzF4ZlU3enY4a2FBUUZ5Zk9VNVAtemxnWDl1S3Ywc3l3R1FlZmpLZ2RoRmY2MzZ4dw?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "SPY",
+   "strength": 70,
+   "reason": "Tariff threats up to 200% on offshore manufacturing; broad market bearish."
   },
   {
    "date": "2026-07-11T11:23:46Z",
@@ -51,22 +99,6 @@
    "reason": "Trump stake in ServiceNow reported; implied endorsement/bullish signal for SaaS but not explicit buy call"
   },
   {
-   "date": "2026-07-11T04:58:54Z",
-   "platform": "News",
-   "text": "INTC Stock Rockets Toward Best Month Ever: Something More Than A Trump Pump Could Be Powering The Rally - Stocktwits \u2014 INTC Stock Rockets Toward Best Month Ever: Something More Than A Trump Pump Could Be Powering The Rally\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQT29KOURKeHprQ2xZbmpLUUc3MGRlTTE5Y1JHVXJ5TGhldk10eENQcmZLSzRWNDQyTmJFclFNUThmZ0tBRlZUQTZ3MGF1dlZwR0Q4aUtXUnZVQ2o1MjM3cFNpU2RrejRkd2E0OXBhOVNpdDdBdDVSSTR1c2M5NTZfYlg4NEFxODg3QWpMTXd0VVIzM3pZRS10OG5JWG9QUW52UjZvbXVvQ29uZ1lJb1NwbFljM1lBN1dreHdJZDdYZ1hKTjVidndnRWlJRnl5cnNpT2llcjVuSVltVDNzVFdHbmZYTEpua3JJVllOcXIxVmdfaThfeHRzVm9R?oc=5",
-   "tickers": [
-    "INTC"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "INTC",
-   "strength": 45,
-   "reason": "Intel rallying; headline suggests Trump support may be driving gains"
-  },
-  {
    "date": "2026-07-11T00:19:01.525Z",
    "platform": "Truth Social",
    "text": "Apple to invest $30 billion in US chip manufacturing: https://www.foxbusiness.com/media/apple-invest-30-billion-us-chip-manufacturing",
@@ -99,6 +131,22 @@
    "primary_ticker": "MU",
    "strength": 75,
    "reason": "$250B US memory-chip investment announcement; Trump credits his deregulation; strong supply-chain/manufacturing tailwind"
+  },
+  {
+   "date": "2026-07-10T23:32:21Z",
+   "platform": "News",
+   "text": "Axon Soars on Trump Stock Purchase Highlighting Insider Trading Issues - AOL.com \u2014 Axon Soars on Trump Stock Purchase Highlighting Insider Trading Issues\u00a0\u00a0AOL.com",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQR0pGbzBpTVhxZ2xqQUZOdmE3TVFCNllIWGJCcTZVZXhtSmdKamdYd21NVWpIYXRJTFI0LVhLME83UVJmWFlrR0k1bFV1MTVlQ1BPNUx4eVdxNjRWMWdOOGp4RUhWcDJFZTBIQWlaLUxvM1ZqYlRoYzRPUHZNTFVnbg?oc=5",
+   "tickers": [
+    "AXON"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "AXON",
+   "strength": 55,
+   "reason": "Trump stock purchase signals bullish sentiment; insider-driven rally."
   },
   {
    "date": "2026-07-10T22:31:28Z",
@@ -149,22 +197,6 @@
    "reason": "Trump praised Micron as 'hottest' company but stock dumped 10%; praise did not translate to support, bearish sentiment."
   },
   {
-   "date": "2026-07-10T16:43:41Z",
-   "platform": "News",
-   "text": "Dell shares jump after Trump tells Americans to 'go out and buy a Dell' - AOL.com \u2014 Dell shares jump after Trump tells Americans to 'go out and buy a Dell'\u00a0\u00a0AOL.com",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPa0FQNUtaVG9ZdzFrdzlzeUlhTmpnY29tb2M1dWdydVJFbWdJbVctc2VuY0lsVVh6VG1ybU9QR0FkOWFKRGNJdndNazJ1ZVlJYmNTejREaG9PcmNYZEk0bTFtVFVuaVpOdjR3a1JBWXRHeFBwSWtWSnV0S1NQQm9Dd29YUQ?oc=5",
-   "tickers": [
-    "DELL"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "DELL",
-   "strength": 95,
-   "reason": "Trump explicitly tells Americans to 'buy a Dell'; direct company endorsement"
-  },
-  {
    "date": "2026-07-10T15:19:51Z",
    "platform": "News",
    "text": "Trump Praises SpaceX President Gwynne Shotwell's 'Extreme Generosity' After Her $325 Million Trump Accounts Stock Donation - Sahm \u2014 Trump Praises SpaceX President Gwynne Shotwell's 'Extreme Generosity' After Her $325 Million Trump Accounts Stock Donation\u00a0\u00a0Sahm",
@@ -181,20 +213,20 @@
    "reason": "Trump praises SpaceX president's major donation; bullish sentiment"
   },
   {
-   "date": "2026-07-10T11:07:57Z",
+   "date": "2026-07-10T13:01:00Z",
    "platform": "News",
-   "text": "Trump Warns Of Tariffs Up To 200% For Companies That Don't Build In The US \u2014 'We're Doing Great On Steel Because We Charge Tariffs' - Stocktwits \u2014 Trump Warns Of Tariffs Up To 200% For Companies That Don't Build In The US \u2014 'We're Doing Great On Steel Because We Charge Tariffs'\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMm40WW15RHg0T0ZIMkQzNzBxd2RZZ3ZxbDVMSi1zTE9HQkNBdHdmdFlWendxcC1acHJmX0lmY1hRREpWYTRrZ2FsOGh3TnN0N0dwTEdLbTN0QlFjdXFPQTEyUWtEV1RIc3AyZ1hMR0lQOVpDM190ZmdEVWtLeWlpakxtYkY0QzF4ZlU3enY4a2FBUUZ5Zk9VNVAtemxnWDl1S3Ywc3l3R1FlZmpLZ2RoRmY2MzZ4dw?oc=5",
+   "text": "Dell Stock Jumps 4.4% After Donald Trump Tells Americans To Buy - Yellow.com \u2014 Dell Stock Jumps 4.4% After Donald Trump Tells Americans To Buy\u00a0\u00a0Yellow.com",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE84bks4WVpUVlpSeDItT0tBR2d0QjBDV1RaOXZuZk1mUnJpS2s4ZlRSSGZHeVg2clRkWXpkX1BsNTZVa2NtRVZkeC0tX09JdHJzRXhkUEpxYw?oc=5",
    "tickers": [
-    "SPY"
+    "DELL"
    ],
    "classified": true,
    "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "SPY",
-   "strength": 70,
-   "reason": "200% tariffs warning and protectionist policy threatened\u2014broad market bearish signal on domestic spending/investment."
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "DELL",
+   "strength": 85,
+   "reason": "Trump explicitly told Americans to buy Dell; direct market catalyst."
   },
   {
    "date": "2026-07-10T08:48:36Z",
@@ -315,6 +347,30 @@
    "primary_ticker": "SPACE",
    "strength": 50,
    "reason": "SpaceX shareholder/employee expansion signal; bullish for company equity value and public market sentiment."
+  },
+  {
+   "date": "2026-07-09T17:00:06Z",
+   "platform": "News",
+   "text": "Trump keeps saying Elon Musk will donate SpaceX stock to Trump Accounts \u2014 but the world's richest man still hasn't said a word - AOL.com \u2014 Trump keeps saying Elon Musk will donate SpaceX stock to Trump Accounts \u2014 but the world's richest man still hasn't said a word\u00a0\u00a0AOL.com",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE94UjdFeWptc2hCTnNYVGxQN3lzenB4WmdVa013Y2paTkdKLXFHNnZPS3lVOHQ3UlJkeTlnSEhrNWxnenN3cWxJOC1yWUhpRXdySEwwUlNockV5bzVJU1QzX1EtMFNOTjZXS3RVZWFwSUZCZ05qNzRDQjBIRHU?oc=5",
+   "tickers": [
+    "DJT"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "DJT",
+   "strength": 40,
+   "reason": "Trump claims Musk will donate SpaceX stock to Trump Accounts; unconfirmed, ambiguous.",
+   "price_since": {
+    "ticker": "DJT",
+    "pct": -0.1,
+    "base": 8.55,
+    "last": 8.54,
+    "base_date": "2026-07-09",
+    "last_date": "2026-07-10"
+   }
   },
   {
    "date": "2026-07-09T16:53:44Z",
@@ -1316,30 +1372,6 @@
    "primary_ticker": "DELL",
    "strength": 90,
    "reason": "Trump makes another explicit 'Buy Dell' call with disclosed $5M stake; high-conviction bullish signal.",
-   "price_since": {
-    "ticker": "DELL",
-    "pct": 6.7,
-    "base": 417.28,
-    "last": 445.42,
-    "base_date": "2026-07-07",
-    "last_date": "2026-07-10"
-   }
-  },
-  {
-   "date": "2026-07-07T06:56:24Z",
-   "platform": "News",
-   "text": "Dell Stock Jumps 4.4% After Donald Trump Tells Americans To Buy - Yellow.com \u2014 Dell Stock Jumps 4.4% After Donald Trump Tells Americans To Buy\u00a0\u00a0Yellow.com",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE84bks4WVpUVlpSeDItT0tBR2d0QjBDV1RaOXZuZk1mUnJpS2s4ZlRSSGZHeVg2clRkWXpkX1BsNTZVa2NtRVZkeC0tX09JdHJzRXhkUEpxYw?oc=5",
-   "tickers": [
-    "DELL"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "DELL",
-   "strength": 77,
-   "reason": "Trump explicitly tells Americans to buy Dell; direct stock catalyst from presidential endorsement.",
    "price_since": {
     "ticker": "DELL",
     "pct": 6.7,
@@ -2504,23 +2536,6 @@
    "reason": "Trump's personal stock trades noted; ambiguous direction without context on positions."
   },
   {
-   "date": "2026-07-04T01:02:08.485Z",
-   "platform": "Truth Social",
-   "text": "THE TRUMP ECONOMY IS SOARING!\u00a0The Stock Market just completed its BEST QUARTER since the last time I was President. The S&P 500, Nasdaq, and Dow are all SURGING, sending Americans' 401(k)s higher and higher. My Working Families Tax Cuts mean MORE MONEY IN AMERICAN POCKETS. Our Trade Deficit continues to shrink as U.S. Exports hit Record Month after Month. America is building more, producing more, and selling more than ever before. Trillions of Dollars in new Investment brought in by my Administration mean more Factories, more Jobs, and more Opportunity for Americans. This is WINNING. The Golden Age of America is beginning \u2014 and we are just getting started! President DONALD J. TRUMP",
-   "tickers": [
-    "SPY"
-   ],
-   "engagement": 17370,
-   "url": "https://truthsocial.com/@realDonaldTrump/116859006382890396",
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "SPY",
-   "strength": 35,
-   "reason": "Post claims strong market performance and economic gains; macro bullish tone but no specific catalyst or near-term actionable signal, boilerplate campaign messaging."
-  },
-  {
    "curated": true,
    "classified": true,
    "is_market": true,
@@ -2573,227 +2588,6 @@
    "reason": "Trump's majority-owned stock debuts \u2014 pure sentiment play, extremely volatile and headline-driven.",
    "market_reaction": "DJT spiked on debut then stayed volatile, moving heavily on Trump political/legal news.",
    "url": "https://www.nasdaq.com/market-activity/stocks/djt"
-  },
-  {
-   "date": "2023-05-18T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "BLUE ORIGIN MANUFACTURING, LLC was awarded a $2.0B federal contract from National Aeronautics and Space Administration.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_80MSFC23CA014_8000_-NONE-_-NONE-",
-   "tickers": [
-    "BLUA"
-   ],
-   "contract_amount": 1.99,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "BLUA",
-   "strength": 70,
-   "reason": "Blue Origin awarded $2.0B NASA contract; large federal award is bullish for awardee, though BLUA is private-held by Amazon; no direct public ticker maps cleanly."
-  },
-  {
-   "date": "2021-07-01T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "HARRIS CORPORATION was awarded a $2.1B federal contract from Department of Transportation.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_693KA821F00222_6920_DTFA0102D03006_6920",
-   "tickers": [
-    "HRS"
-   ],
-   "contract_amount": 2.1,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "HRS",
-   "strength": 75,
-   "reason": "Harris Corp awarded $2.1B DOT federal contract; large infrastructure/defense contract is bullish for public company."
-  },
-  {
-   "date": "2020-05-13T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "SPACE EXPLORATION TECHNOLOGIES CORP. was awarded a $3.0B federal contract from National Aeronautics and Space Administration.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_80MSFC20C0034_8000_-NONE-_-NONE-",
-   "tickers": [
-    "SPACEX"
-   ],
-   "contract_amount": 3.05,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "SPACEX",
-   "strength": 75,
-   "reason": "SpaceX awarded $3.0B NASA contract; large space contract bullish, but SpaceX is private; no public ticker."
-  },
-  {
-   "date": "2019-10-16T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "THE BOEING COMPANY was awarded a $2.6B federal contract from National Aeronautics and Space Administration.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_80MSFC20C0052_8000_-NONE-_-NONE-",
-   "tickers": [
-    "BA"
-   ],
-   "contract_amount": 2.59,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "BA",
-   "strength": 75,
-   "reason": "Boeing awarded $2.6B NASA contract; large federal space contract bullish for public aerospace giant."
-  },
-  {
-   "date": "2019-06-19T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "GENERAL DYNAMICS INFORMATION TECHNOLOGY, INC. was awarded a $1.6B federal contract from Department of State.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_19AQMM18C0185_1900_-NONE-_-NONE-",
-   "tickers": [
-    "GD"
-   ],
-   "contract_amount": 1.59,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "GD",
-   "strength": 70,
-   "reason": "General Dynamics IT awarded $1.6B State Dept contract; large federal IT/defense contract bullish for public defense contractor."
-  },
-  {
-   "date": "2015-11-01T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "AEROJET ROCKETDYNE OF DE, INC was awarded a $3.3B federal contract from National Aeronautics and Space Administration.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_NNM16AA02C_8000_-NONE-_-NONE-",
-   "tickers": [
-    "AJRD"
-   ],
-   "contract_amount": 3.31,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "AJRD",
-   "strength": 70,
-   "reason": "Aerojet Rocketdyne awarded $3.3B NASA contract; large rocket/propulsion contract bullish for public aerospace supplier."
-  },
-  {
-   "date": "2015-09-03T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "NORTHROP GRUMMAN SYSTEMS CORPORATION was awarded a $1.6B federal contract from National Aeronautics and Space Administration.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_NNH15CN76C_8000_-NONE-_-NONE-",
-   "tickers": [
-    "NOC"
-   ],
-   "contract_amount": 1.61,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "NOC",
-   "strength": 75,
-   "reason": "Northrop Grumman awarded $1.6B NASA contract; large federal space contract bullish for public defense/aerospace contractor."
-  },
-  {
-   "date": "2011-12-23T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "LEIDOS, INC. was awarded a $3.1B federal contract from National Science Foundation.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_NSFDACS1219442_4900_-NONE-_-NONE-",
-   "tickers": [
-    "LDOS"
-   ],
-   "contract_amount": 3.09,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "LDOS",
-   "strength": 75,
-   "reason": "Leidos awarded $3.1B NSF contract; large federal IT/R&D contract bullish for public government contractor."
-  },
-  {
-   "date": "2007-09-01T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "THE BOEING COMPANY was awarded a $10.5B federal contract from National Aeronautics and Space Administration.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_NNM07AB03C_8000_-NONE-_-NONE-",
-   "tickers": [
-    "BA"
-   ],
-   "contract_amount": 10.51,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "BA",
-   "strength": 80,
-   "reason": "Boeing awarded $10.5B NASA contract; very large federal space contract strongly bullish for public aerospace giant."
-  },
-  {
-   "date": "2006-09-06T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "LOCKHEED MARTIN CORP was awarded a $15.6B federal contract from National Aeronautics and Space Administration.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_NNJ06TA25C_8000_-NONE-_-NONE-",
-   "tickers": [
-    "LMT"
-   ],
-   "contract_amount": 15.56,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "LMT",
-   "strength": 85,
-   "reason": "Lockheed Martin awarded $15.6B NASA contract; major federal space/defense contract strongly bullish for leading public aerospace contractor."
-  },
-  {
-   "date": "2006-04-17T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "NORTHROP GRUMMAN SYSTEMS CORPORATION was awarded a $4.4B federal contract from National Aeronautics and Space Administration.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_NNM07AA75C_8000_-NONE-_-NONE-",
-   "tickers": [
-    "NOC"
-   ],
-   "contract_amount": 4.43,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "NOC",
-   "strength": 80,
-   "reason": "Northrop Grumman awarded $4.4B NASA contract; large federal space contract strongly bullish for public contractor."
-  },
-  {
-   "date": "1993-11-15T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "THE BOEING COMPANY was awarded a $22.4B federal contract from National Aeronautics and Space Administration.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_NAS1510000_8000_-NONE-_-NONE-",
-   "tickers": [
-    "BA"
-   ],
-   "contract_amount": 22.44,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "BA",
-   "strength": 85,
-   "reason": "Boeing awarded $22.4B NASA contract; very large federal contract strongly bullish for public aerospace giant."
-  },
-  {
-   "date": "1993-10-15T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "LOCKHEED MARTIN CORP was awarded a $48.1B federal contract from Department of Energy.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_DEAC0494AL85000_8900_-NONE-_-NONE-",
-   "tickers": [
-    "LMT"
-   ],
-   "contract_amount": 48.06,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "LMT",
-   "strength": 90,
-   "reason": "Lockheed Martin awarded $48.1B DOE contract; massive federal defense/energy contract extremely bullish for leading public contractor."
   }
  ],
  "how_to_read": "Each card is Claude's read of a public Trump post: the affected ticker, whether it implies BUY / SELL / WATCH, a 0\u2013100 strength (how explicit/emphatic the post is \u2014 NOT a profit predictor), and why. A 2-year backtest found these don't beat buy-and-hold, so this is for awareness, not trading. Not financial advice."
