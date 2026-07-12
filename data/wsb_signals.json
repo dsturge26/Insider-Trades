@@ -1,77 +1,95 @@
 {
- "last_updated": "2026-07-12T17:17:41Z",
+ "last_updated": "2026-07-12T18:27:08Z",
  "source": "ApeWisdom / r/wallstreetbets",
  "signals": [
   {
    "ticker": "SPY",
    "name": "SPDR S&amp;P 500 ETF Trust",
-   "mentions": 44,
-   "mentions_24h_ago": 193,
-   "change_pct": -77.2,
+   "mentions": 45,
+   "mentions_24h_ago": 150,
+   "change_pct": -70.0,
    "rank": 1,
-   "upvotes": 238
+   "upvotes": 262
   },
   {
    "ticker": "SPCX",
    "name": "SpaceX",
    "mentions": 31,
-   "mentions_24h_ago": 86,
-   "change_pct": -64.0,
+   "mentions_24h_ago": 83,
+   "change_pct": -62.7,
    "rank": 2,
-   "upvotes": 612
+   "upvotes": 841
+  },
+  {
+   "ticker": "NVDA",
+   "name": "NVIDIA",
+   "mentions": 19,
+   "mentions_24h_ago": 48,
+   "change_pct": -60.4,
+   "rank": 3,
+   "upvotes": 136
   },
   {
    "ticker": "MSFT",
    "name": "Microsoft",
    "mentions": 18,
-   "mentions_24h_ago": 85,
-   "change_pct": -78.8,
-   "rank": 3,
-   "upvotes": 42
-  },
-  {
-   "ticker": "NVDA",
-   "name": "NVIDIA",
-   "mentions": 18,
-   "mentions_24h_ago": 59,
-   "change_pct": -69.5,
+   "mentions_24h_ago": 73,
+   "change_pct": -75.3,
    "rank": 4,
-   "upvotes": 134
+   "upvotes": 43
   },
   {
    "ticker": "MU",
    "name": "Micron Technology",
    "mentions": 14,
-   "mentions_24h_ago": 218,
-   "change_pct": -93.6,
+   "mentions_24h_ago": 162,
+   "change_pct": -91.4,
    "rank": 5,
-   "upvotes": 40
+   "upvotes": 50
   },
   {
    "ticker": "DTE",
    "name": "DTE Energy",
    "mentions": 11,
-   "mentions_24h_ago": 31,
-   "change_pct": -64.5,
+   "mentions_24h_ago": 26,
+   "change_pct": -57.7,
    "rank": 6,
-   "upvotes": 29
+   "upvotes": 28
   },
   {
    "ticker": "BE",
    "name": "Bloom Energy",
    "mentions": 8,
-   "mentions_24h_ago": 12,
-   "change_pct": -33.3,
+   "mentions_24h_ago": 11,
+   "change_pct": -27.3,
    "rank": 7,
-   "upvotes": 34
+   "upvotes": 37
+  },
+  {
+   "ticker": "QQQ",
+   "name": "Invesco QQQ ETF",
+   "mentions": 8,
+   "mentions_24h_ago": 35,
+   "change_pct": -77.1,
+   "rank": 8,
+   "upvotes": 74
+  },
+  {
+   "ticker": "META",
+   "name": "Meta Platforms (Facebook)",
+   "mentions": 8,
+   "mentions_24h_ago": 51,
+   "change_pct": -84.3,
+   "rank": 9,
+   "upvotes": 14
   },
   {
    "ticker": "WEN",
    "name": "Wendy\u2019s Company",
    "mentions": 7,
-   "mentions_24h_ago": 12,
-   "change_pct": -41.7,
-   "rank": 8,
+   "mentions_24h_ago": 10,
+   "change_pct": -30.0,
+   "rank": 10,
    "upvotes": 10
   },
   {
@@ -80,35 +98,26 @@
    "mentions": 7,
    "mentions_24h_ago": 0,
    "change_pct": null,
-   "rank": 9,
+   "rank": 11,
    "upvotes": 110
   },
   {
-   "ticker": "QQQ",
-   "name": "Invesco QQQ ETF",
-   "mentions": 7,
-   "mentions_24h_ago": 45,
-   "change_pct": -84.4,
-   "rank": 10,
-   "upvotes": 72
-  },
-  {
-   "ticker": "META",
-   "name": "Meta Platforms (Facebook)",
-   "mentions": 7,
-   "mentions_24h_ago": 58,
-   "change_pct": -87.9,
-   "rank": 11,
+   "ticker": "TSLA",
+   "name": "Tesla",
+   "mentions": 6,
+   "mentions_24h_ago": 18,
+   "change_pct": -66.7,
+   "rank": 12,
    "upvotes": 9
   },
   {
    "ticker": "IP",
    "name": "International Paper",
    "mentions": 6,
-   "mentions_24h_ago": 27,
-   "change_pct": -77.8,
-   "rank": 12,
-   "upvotes": 53
+   "mentions_24h_ago": 28,
+   "change_pct": -78.6,
+   "rank": 13,
+   "upvotes": 55
   },
   {
    "ticker": "BB",
@@ -116,8 +125,17 @@
    "mentions": 6,
    "mentions_24h_ago": 1,
    "change_pct": 500.0,
-   "rank": 13,
-   "upvotes": 63
+   "rank": 14,
+   "upvotes": 62
+  },
+  {
+   "ticker": "RKLB",
+   "name": "Rocket Lab USA",
+   "mentions": 6,
+   "mentions_24h_ago": 20,
+   "change_pct": -70.0,
+   "rank": 15,
+   "upvotes": 17
   },
   {
    "ticker": "DC",
@@ -125,71 +143,35 @@
    "mentions": 6,
    "mentions_24h_ago": 1,
    "change_pct": 500.0,
-   "rank": 14,
-   "upvotes": 13
+   "rank": 16,
+   "upvotes": 12
+  },
+  {
+   "ticker": "AAPL",
+   "name": "Apple",
+   "mentions": 5,
+   "mentions_24h_ago": 19,
+   "change_pct": -73.7,
+   "rank": 17,
+   "upvotes": 17
   },
   {
    "ticker": "AM",
    "name": "Antero Midstream",
    "mentions": 5,
-   "mentions_24h_ago": 5,
-   "change_pct": 0.0,
-   "rank": 15,
-   "upvotes": 1152
-  },
-  {
-   "ticker": "RKLB",
-   "name": "Rocket Lab USA",
-   "mentions": 5,
-   "mentions_24h_ago": 22,
-   "change_pct": -77.3,
-   "rank": 16,
-   "upvotes": 13
-  },
-  {
-   "ticker": "SNDK",
-   "name": "Sandisk",
-   "mentions": 5,
-   "mentions_24h_ago": 42,
-   "change_pct": -88.1,
-   "rank": 17,
-   "upvotes": 14
-  },
-  {
-   "ticker": "AAPL",
-   "name": "Apple",
-   "mentions": 4,
-   "mentions_24h_ago": 19,
-   "change_pct": -78.9,
+   "mentions_24h_ago": 4,
+   "change_pct": 25.0,
    "rank": 18,
-   "upvotes": 16
+   "upvotes": 1179
   },
   {
-   "ticker": "GOOG",
-   "name": "Alphabet (Google)",
+   "ticker": "AMD",
+   "name": "AMD",
    "mentions": 4,
-   "mentions_24h_ago": 7,
-   "change_pct": -42.9,
+   "mentions_24h_ago": 10,
+   "change_pct": -60.0,
    "rank": 19,
-   "upvotes": 19
-  },
-  {
-   "ticker": "TSLA",
-   "name": "Tesla",
-   "mentions": 4,
-   "mentions_24h_ago": 22,
-   "change_pct": -81.8,
-   "rank": 20,
-   "upvotes": 7
-  },
-  {
-   "ticker": "NFLX",
-   "name": "Netflix",
-   "mentions": 4,
-   "mentions_24h_ago": 43,
-   "change_pct": -90.7,
-   "rank": 21,
-   "upvotes": 3
+   "upvotes": 6
   },
   {
    "ticker": "IT",
@@ -197,8 +179,8 @@
    "mentions": 4,
    "mentions_24h_ago": 10,
    "change_pct": -60.0,
-   "rank": 22,
-   "upvotes": 532
+   "rank": 20,
+   "upvotes": 539
   },
   {
    "ticker": "CC",
@@ -206,26 +188,44 @@
    "mentions": 4,
    "mentions_24h_ago": 5,
    "change_pct": -20.0,
-   "rank": 23,
-   "upvotes": 9
+   "rank": 21,
+   "upvotes": 7
   },
   {
-   "ticker": "DELL",
-   "name": "Dell",
+   "ticker": "HBM",
+   "name": "Hudbay Minerals",
+   "mentions": 4,
+   "mentions_24h_ago": 2,
+   "change_pct": 100.0,
+   "rank": 22,
+   "upvotes": 6
+  },
+  {
+   "ticker": "YOU",
+   "name": "CLEAR Secure",
+   "mentions": 4,
+   "mentions_24h_ago": 1,
+   "change_pct": 300.0,
+   "rank": 23,
+   "upvotes": 16
+  },
+  {
+   "ticker": "FOR",
+   "name": "Forestar Group",
    "mentions": 4,
    "mentions_24h_ago": 1,
    "change_pct": 300.0,
    "rank": 24,
-   "upvotes": 188
+   "upvotes": 41
   },
   {
-   "ticker": "WTI",
-   "name": "W&amp;T Offshore",
+   "ticker": "LINK",
+   "name": "Interlink Electronics",
    "mentions": 4,
    "mentions_24h_ago": 4,
    "change_pct": 0.0,
    "rank": 25,
-   "upvotes": 17
+   "upvotes": 5
   }
  ]
 }
