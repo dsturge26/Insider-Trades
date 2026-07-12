@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-07-12T14:56:35Z",
+ "last_updated": "2026-07-12T16:01:48Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -17,6 +17,22 @@
    "primary_ticker": "DELL",
    "strength": 85,
    "reason": "Trump explicitly told Americans to buy Dell computers and praised Michael Dell as 'incredible'"
+  },
+  {
+   "date": "2026-07-12T06:06:23Z",
+   "platform": "News",
+   "text": "Donald Trump Praises SpaceX Executives for Massive Stock Donation - HarianBasis.co \u2014 Donald Trump Praises SpaceX Executives for Massive Stock Donation\u00a0\u00a0HarianBasis.co",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONWRCS0VCWjJNSHZSRUp0cUd0VlBCMFhYZVdhZmZjb01WM3pNM0FYbFRrTW5zX3JHT2Z4bzJNU0tENkNaQy1ya2NvVjhVVGtpdDlyQXBXQ3FKTzBaWEI2cHAwZ2t4TmQ4RGlLZlgwcEhhQzMxX2IzbmRUYWRtQUlYVE9vdTI1N0RNS0dN?oc=5",
+   "tickers": [
+    "SPCE"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "SPCE",
+   "strength": 35,
+   "reason": "Trump praises SpaceX executives for stock donation; SpaceX not publicly traded, SPCE tracks sentiment"
   },
   {
    "date": "2026-07-12T01:02:24Z",
