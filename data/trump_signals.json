@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-07-13T19:58:14Z",
+ "last_updated": "2026-07-13T21:06:04Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-07-13T18:25:53Z",
+   "platform": "News",
+   "text": "Trump heaps praise on SpaceX's Gwynne Shotwell and thanks her for $325 million Trump Accounts gift - AOL.com \u2014 Trump heaps praise on SpaceX's Gwynne Shotwell and thanks her for $325 million Trump Accounts gift\u00a0\u00a0AOL.com",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNmdjVExGVC1DSm1xeVV5cFlzWmJLdGlBYl96MWRzX0MwbmxPUzVSV2lhc0lpSi1KNFNKUVpOQ0Y3cUh3NjJEN0lfTUl0WmhhZGxzenhyZjlfUnJLbUFZak4yN0c4Nk5LQzVBRzlacGM0a1dyNHhtd1Axb3BEYVg0S0o0WQ?oc=5",
+   "tickers": [
+    "SPACEX"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "SPACEX",
+   "strength": 65,
+   "reason": "Trump heaps praise on SpaceX president Gwynne Shotwell for $325M donation; strong endorsement of company leadership and implicit bullishness on SpaceX."
+  },
   {
    "date": "2026-07-13T16:00:00Z",
    "platform": "News",
@@ -328,9 +344,9 @@
    "reason": "$250B US memory-chip investment announcement; Trump credits his deregulation; strong supply-chain/manufacturing tailwind",
    "price_since": {
     "ticker": "MU",
-    "pct": -3.9,
+    "pct": -4.3,
     "base": 979.3,
-    "last": 941.53,
+    "last": 937.0,
     "base_date": "2026-07-10",
     "last_date": "2026-07-13"
    }
@@ -352,9 +368,9 @@
    "reason": "Trump stock purchase signals bullish sentiment; insider-driven rally.",
    "price_since": {
     "ticker": "AXON",
-    "pct": -3.6,
+    "pct": -3.3,
     "base": 565.8,
-    "last": 545.61,
+    "last": 547.03,
     "base_date": "2026-07-10",
     "last_date": "2026-07-13"
    }
@@ -376,9 +392,9 @@
    "reason": "Praise for SpaceX executive's charitable donation to Trump Accounts suggests alignment; indirect bullish read for Trump's asset",
    "price_since": {
     "ticker": "DJT",
-    "pct": -0.6,
+    "pct": -0.2,
     "base": 8.54,
-    "last": 8.49,
+    "last": 8.52,
     "base_date": "2026-07-10",
     "last_date": "2026-07-13"
    }
@@ -400,9 +416,9 @@
    "reason": "Trump's explicit support boosted Dell stock; direct endorsement of named company",
    "price_since": {
     "ticker": "DELL",
-    "pct": -2.0,
+    "pct": -1.8,
     "base": 434.97,
-    "last": 426.35,
+    "last": 427.11,
     "base_date": "2026-07-10",
     "last_date": "2026-07-13"
    }
@@ -424,9 +440,9 @@
    "reason": "Trump praised Micron as 'hottest' company but stock dumped 10%; praise did not translate to support, bearish sentiment.",
    "price_since": {
     "ticker": "MU",
-    "pct": -3.8,
+    "pct": -4.3,
     "base": 979.3,
-    "last": 941.7,
+    "last": 937.0,
     "base_date": "2026-07-10",
     "last_date": "2026-07-13"
    }
@@ -464,9 +480,9 @@
    "reason": "Trump explicitly told Americans to buy Dell; direct market catalyst.",
    "price_since": {
     "ticker": "DELL",
-    "pct": -2.0,
+    "pct": -1.8,
     "base": 434.97,
-    "last": 426.3,
+    "last": 427.11,
     "base_date": "2026-07-10",
     "last_date": "2026-07-13"
    }
@@ -758,30 +774,6 @@
    "primary_ticker": "DJT",
    "strength": 45,
    "reason": "Trump praises SpaceX executive's donation to Trump Accounts; positive sentiment for Trump's asset",
-   "price_since": {
-    "ticker": "DJT",
-    "pct": -0.1,
-    "base": 8.55,
-    "last": 8.54,
-    "base_date": "2026-07-09",
-    "last_date": "2026-07-10"
-   }
-  },
-  {
-   "date": "2026-07-09T10:40:55Z",
-   "platform": "News",
-   "text": "Trump heaps praise on SpaceX's Gwynne Shotwell and thanks her for $325 million Trump Accounts gift - AOL.com \u2014 Trump heaps praise on SpaceX's Gwynne Shotwell and thanks her for $325 million Trump Accounts gift\u00a0\u00a0AOL.com",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNmdjVExGVC1DSm1xeVV5cFlzWmJLdGlBYl96MWRzX0MwbmxPUzVSV2lhc0lpSi1KNFNKUVpOQ0Y3cUh3NjJEN0lfTUl0WmhhZGxzenhyZjlfUnJLbUFZak4yN0c4Nk5LQzVBRzlacGM0a1dyNHhtd1Axb3BEYVg0S0o0WQ?oc=5",
-   "tickers": [
-    "DJT"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "DJT",
-   "strength": 75,
-   "reason": "Trump thanks SpaceX executive for $325M gift to Trump Accounts; bullish signal for Trump Media/DJT.",
    "price_since": {
     "ticker": "DJT",
     "pct": -0.1,
@@ -2513,70 +2505,6 @@
    "primary_ticker": "DELL",
    "strength": 80,
    "reason": "Dell stock rises following Trump's public endorsement; explicit buy signal."
-  },
-  {
-   "date": "2026-07-06T15:20:50Z",
-   "platform": "News",
-   "text": "Trump\u2019s \u2018Buy Dell\u2019 Remark Ignites Stock Rally - Yahoo Finance \u2014 Trump\u2019s \u2018Buy Dell\u2019 Remark Ignites Stock Rally\u00a0\u00a0Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVEt4VjYxUEpkVFZ2ZFBnNmJTdW43LUpHMUdoX3ZaMWJrRW1qWGVWcHd1WnZuRzRneWJHR2daWTExU09XdFN0d2JSWG0wZE1hdERmU3N5emgzSFNoU3VzRE91eXpMeXY3MzFOUkVweWlGZFBXd3h6eHFjT1h0bkJXZTV2NjVIaVBkZVpfcnQ0Q3lLNkhPdDU5WUlR?oc=5",
-   "tickers": [
-    "DELL"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "DELL",
-   "strength": 92,
-   "reason": "Trump's 'Buy Dell' remark ignites stock rally; explicit, direct market catalyst"
-  },
-  {
-   "date": "2026-07-06T15:20:00Z",
-   "platform": "News",
-   "text": "Trump\u2019s \u2018Buy Dell\u2019 Remark Ignites Stock Rally - BeInCrypto \u2014 Trump\u2019s \u2018Buy Dell\u2019 Remark Ignites Stock Rally\u00a0\u00a0BeInCrypto",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE43YnNXMWFSZ3U3elFKdWNxSTNZY09vQmR5cEVKTkpVelFHSVJ1WGw5RXlNQWs2eGhVWlFfOXZEMGllTUNjMmRwa21EWmh6RUMydTViVHRHQTZwSjB6RkYtbQ?oc=5",
-   "tickers": [
-    "DELL"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "DELL",
-   "strength": 85,
-   "reason": "Trump's explicit 'buy Dell' remark ignites stock rally; direct market catalyst."
-  },
-  {
-   "date": "2026-07-06T15:08:10Z",
-   "platform": "News",
-   "text": "Trump Urges Supporters To Buy Dell Computer As His Portfolio Profits From $5M Stock Bet - The Kenya Times \u2014 Trump Urges Supporters To Buy Dell Computer As His Portfolio Profits From $5M Stock Bet\u00a0\u00a0The Kenya Times",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9PYkxkUkduNUo5N2Y2eEhIY0NQcnBPZ2M5dGpDSVRfWHlYUTEySW8zTTd3anpyX1NyX3lOcmhsNXNhLTJGZE1paXpudXNNTDNFb3RYWmZPV2JYdTN3ZXlLQUNfMlR3QTlKMGlZ?oc=5",
-   "tickers": [
-    "DELL"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "DELL",
-   "strength": 85,
-   "reason": "Trump urges supporters to buy Dell while profiting from personal stake; explicit endorsement with high credibility concern."
-  },
-  {
-   "date": "2026-07-06T14:42:00Z",
-   "platform": "News",
-   "text": "Trump Wants You to \u2018Go Out and Buy a Dell\u2019 and the Endorsement Sends the Stock Soaring - Barron's \u2014 Trump Wants You to \u2018Go Out and Buy a Dell\u2019 and the Endorsement Sends the Stock Soaring\u00a0\u00a0Barron's",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5kbjBpTW9mUmkyRTd6T0lCSnk1WF9UTjY5VTM2VVppd3FBTmw5R0RxM09fN29PRGgxajVjcDJuX0JDblFZd21XUFM1aFI3ajczLU94WnBOdzhBLWxRODk1eUtLNERjaHNxLXhTeXdHbUN0dGM?oc=5",
-   "tickers": [
-    "DELL"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "DELL",
-   "strength": 90,
-   "reason": "Trump explicitly tells public to buy Dell; stock surges; clear bullish signal."
   },
   {
    "curated": true,
