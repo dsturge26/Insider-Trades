@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-07-13T11:38:38Z",
+ "last_updated": "2026-07-13T13:49:48Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-07-13T13:32:00Z",
+   "platform": "News",
+   "text": "Trump\u2019s sons invest heavily in defense tech as father\u2019s administration pours money in - The Washington Post \u2014 Trump\u2019s sons invest heavily in defense tech as father\u2019s administration pours money in\u00a0\u00a0The Washington Post",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZFBydnZHT2k1ejYxNG5ucWUwTVVXb3pEMDYtQjcwc1JMZktvMy1YbU84bE5lSjEweUV1TFNBY3VaTFZ1NGhJMDFQUnFRY1ZGb0NodTg4SW5uNy1ZZkdTQ200bVRaR1B0WVVuUnNJWlFGUnYxd3FUQmNWQVVfQ3lwc2NhMWt1Nkg0VlZRYmt5YW1laEhJX3BUQjBjYzE4X0V0WGlNVks5dGo1N2Rkei1LYTZmdk90ZnJwbzRoYmtmbkZpWjFuOUhacF9XanhwNTFG?oc=5",
+   "tickers": [
+    "XAR"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "XAR",
+   "strength": 45,
+   "reason": "Trump administration defense spending increases bullish for defense sector"
+  },
   {
    "date": "2026-07-13T01:33:00Z",
    "platform": "News",
@@ -148,6 +164,22 @@
    "reason": "Tariff threats up to 200% on offshore manufacturing; broad market bearish."
   },
   {
+   "date": "2026-07-11T12:14:50Z",
+   "platform": "News",
+   "text": "NOW Stock Rises Overnight: Trump\u2019s ServiceNow Stake Fuels Retail Buzz Around SAAS Comeback - Stocktwits \u2014 NOW Stock Rises Overnight: Trump\u2019s ServiceNow Stake Fuels Retail Buzz Around SAAS Comeback\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQcEF0OFRRa3hIWF9rS21NMTBqNk53MDA4eWFQcDJad1Z2QkQyTTdmd3prLUVaVUUwdVRSWWpCOGs3N3JaYTZCcG1KMjg1c1Q0WWdjSnlWbHkteXVxcnFoUXFZMEg4ejh0YjA4ZG5BRnBEX1huMFNaS0dXdEx4LWNEOXBLcmNpMzlCQzc1OC0yRDFKeWFMWEZzWUpNQXBWTFFDQlJ6dmFWamU5cUpFZnVfcU1ocFdTa0tfdjByTlZZUHo4QUx1QzJOMHpzZEdaZjdqSVhoWFB0cVRKZW9BbnNLMi1XYUF2MlhaZGc?oc=5",
+   "tickers": [
+    "NOW"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "NOW",
+   "strength": 60,
+   "reason": "Trump stake in ServiceNow drives retail interest and stock rise"
+  },
+  {
    "date": "2026-07-11T11:23:46Z",
    "platform": "News",
    "text": "Trump praises SpaceX executive\u2019s $325 million gift - MSN \u2014 Trump praises SpaceX executive\u2019s $325 million gift\u00a0\u00a0MSN",
@@ -162,22 +194,6 @@
    "primary_ticker": "SPACX",
    "strength": 65,
    "reason": "Trump praises SpaceX executive's major gift; bullish sentiment toward SpaceX"
-  },
-  {
-   "date": "2026-07-11T09:46:14Z",
-   "platform": "News",
-   "text": "NOW Stock Rises Overnight: Trump\u2019s ServiceNow Stake Fuels Retail Buzz Around SAAS Comeback - Stocktwits \u2014 NOW Stock Rises Overnight: Trump\u2019s ServiceNow Stake Fuels Retail Buzz Around SAAS Comeback\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQcEF0OFRRa3hIWF9rS21NMTBqNk53MDA4eWFQcDJad1Z2QkQyTTdmd3prLUVaVUUwdVRSWWpCOGs3N3JaYTZCcG1KMjg1c1Q0WWdjSnlWbHkteXVxcnFoUXFZMEg4ejh0YjA4ZG5BRnBEX1huMFNaS0dXdEx4LWNEOXBLcmNpMzlCQzc1OC0yRDFKeWFMWEZzWUpNQXBWTFFDQlJ6dmFWamU5cUpFZnVfcU1ocFdTa0tfdjByTlZZUHo4QUx1QzJOMHpzZEdaZjdqSVhoWFB0cVRKZW9BbnNLMi1XYUF2MlhaZGc?oc=5",
-   "tickers": [
-    "NOW"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "NOW",
-   "strength": 45,
-   "reason": "Trump stake in ServiceNow reported; implied endorsement/bullish signal for SaaS but not explicit buy call"
   },
   {
    "date": "2026-07-11T00:45:22Z",
@@ -227,7 +243,15 @@
    "direction": "BUY",
    "primary_ticker": "MU",
    "strength": 75,
-   "reason": "$250B US memory-chip investment announcement; Trump credits his deregulation; strong supply-chain/manufacturing tailwind"
+   "reason": "$250B US memory-chip investment announcement; Trump credits his deregulation; strong supply-chain/manufacturing tailwind",
+   "price_since": {
+    "ticker": "MU",
+    "pct": -6.6,
+    "base": 979.3,
+    "last": 914.33,
+    "base_date": "2026-07-10",
+    "last_date": "2026-07-13"
+   }
   },
   {
    "date": "2026-07-10T23:32:21Z",
@@ -243,7 +267,15 @@
    "direction": "BUY",
    "primary_ticker": "AXON",
    "strength": 55,
-   "reason": "Trump stock purchase signals bullish sentiment; insider-driven rally."
+   "reason": "Trump stock purchase signals bullish sentiment; insider-driven rally.",
+   "price_since": {
+    "ticker": "AXON",
+    "pct": -0.1,
+    "base": 565.8,
+    "last": 565.13,
+    "base_date": "2026-07-10",
+    "last_date": "2026-07-13"
+   }
   },
   {
    "date": "2026-07-10T22:31:28Z",
@@ -259,7 +291,15 @@
    "direction": "BUY",
    "primary_ticker": "DJT",
    "strength": 45,
-   "reason": "Praise for SpaceX executive's charitable donation to Trump Accounts suggests alignment; indirect bullish read for Trump's asset"
+   "reason": "Praise for SpaceX executive's charitable donation to Trump Accounts suggests alignment; indirect bullish read for Trump's asset",
+   "price_since": {
+    "ticker": "DJT",
+    "pct": -1.3,
+    "base": 8.54,
+    "last": 8.43,
+    "base_date": "2026-07-10",
+    "last_date": "2026-07-13"
+   }
   },
   {
    "date": "2026-07-10T19:06:21Z",
@@ -275,7 +315,15 @@
    "direction": "BUY",
    "primary_ticker": "DELL",
    "strength": 75,
-   "reason": "Trump's explicit support boosted Dell stock; direct endorsement of named company"
+   "reason": "Trump's explicit support boosted Dell stock; direct endorsement of named company",
+   "price_since": {
+    "ticker": "DELL",
+    "pct": -1.4,
+    "base": 434.97,
+    "last": 428.74,
+    "base_date": "2026-07-10",
+    "last_date": "2026-07-13"
+   }
   },
   {
    "date": "2026-07-10T18:33:38Z",
@@ -291,7 +339,15 @@
    "direction": "SELL",
    "primary_ticker": "MU",
    "strength": 70,
-   "reason": "Trump praised Micron as 'hottest' company but stock dumped 10%; praise did not translate to support, bearish sentiment."
+   "reason": "Trump praised Micron as 'hottest' company but stock dumped 10%; praise did not translate to support, bearish sentiment.",
+   "price_since": {
+    "ticker": "MU",
+    "pct": -6.6,
+    "base": 979.3,
+    "last": 914.33,
+    "base_date": "2026-07-10",
+    "last_date": "2026-07-13"
+   }
   },
   {
    "date": "2026-07-10T15:19:51Z",
@@ -323,7 +379,15 @@
    "direction": "BUY",
    "primary_ticker": "DELL",
    "strength": 85,
-   "reason": "Trump explicitly told Americans to buy Dell; direct market catalyst."
+   "reason": "Trump explicitly told Americans to buy Dell; direct market catalyst.",
+   "price_since": {
+    "ticker": "DELL",
+    "pct": -1.4,
+    "base": 434.97,
+    "last": 428.74,
+    "base_date": "2026-07-10",
+    "last_date": "2026-07-13"
+   }
   },
   {
    "date": "2026-07-10T08:48:36Z",
@@ -339,7 +403,15 @@
    "direction": "SELL",
    "primary_ticker": "USO",
    "strength": 45,
-   "reason": "Threat to Iran in profanity-laced message; geopolitical risk and oil volatility implications."
+   "reason": "Threat to Iran in profanity-laced message; geopolitical risk and oil volatility implications.",
+   "price_since": {
+    "ticker": "USO",
+    "pct": 3.5,
+    "base": 108.7,
+    "last": 112.52,
+    "base_date": "2026-07-10",
+    "last_date": "2026-07-13"
+   }
   },
   {
    "date": "2026-07-10T07:40:36Z",
@@ -371,7 +443,15 @@
    "direction": "WATCH",
    "primary_ticker": "PLTR",
    "strength": 40,
-   "reason": "Trump endorsement of Palantir noted, but analyst remains short; mixed signal on direction"
+   "reason": "Trump endorsement of Palantir noted, but analyst remains short; mixed signal on direction",
+   "price_since": {
+    "ticker": "PLTR",
+    "pct": 0.7,
+    "base": 126.79,
+    "last": 127.69,
+    "base_date": "2026-07-10",
+    "last_date": "2026-07-13"
+   }
   },
   {
    "date": "2026-07-10T04:29:19Z",
@@ -387,7 +467,15 @@
    "direction": "BUY",
    "primary_ticker": "XLE",
    "strength": 35,
-   "reason": "Trump endorsement of Freedom Fuel gas stations implies bullish energy/fuel retail sector"
+   "reason": "Trump endorsement of Freedom Fuel gas stations implies bullish energy/fuel retail sector",
+   "price_since": {
+    "ticker": "XLE",
+    "pct": 2.6,
+    "base": 55.08,
+    "last": 56.51,
+    "base_date": "2026-07-10",
+    "last_date": "2026-07-13"
+   }
   },
   {
    "date": "2026-07-10T01:25:43Z",
@@ -403,7 +491,15 @@
    "direction": "BUY",
    "primary_ticker": "DELL",
    "strength": 60,
-   "reason": "Trump has praised/endorsed Dell; prior explicit 'buy Dell' comments drive stock bump."
+   "reason": "Trump has praised/endorsed Dell; prior explicit 'buy Dell' comments drive stock bump.",
+   "price_since": {
+    "ticker": "DELL",
+    "pct": -1.4,
+    "base": 434.97,
+    "last": 428.74,
+    "base_date": "2026-07-10",
+    "last_date": "2026-07-13"
+   }
   },
   {
    "date": "2026-07-09T18:38:53Z",
@@ -422,11 +518,11 @@
    "reason": "Trump praised IBM CEO as 'legend' and government considering $1B quantum award; explicit praise + contract signal",
    "price_since": {
     "ticker": "IBM",
-    "pct": -2.6,
+    "pct": -1.9,
     "base": 295.3,
-    "last": 287.56,
+    "last": 289.71,
     "base_date": "2026-07-09",
-    "last_date": "2026-07-10"
+    "last_date": "2026-07-13"
    }
   },
   {
@@ -462,11 +558,11 @@
    "reason": "Trump claims Musk will donate SpaceX stock to Trump Accounts; unconfirmed, ambiguous.",
    "price_since": {
     "ticker": "DJT",
-    "pct": -0.1,
+    "pct": -1.5,
     "base": 8.55,
-    "last": 8.54,
+    "last": 8.42,
     "base_date": "2026-07-09",
-    "last_date": "2026-07-10"
+    "last_date": "2026-07-13"
    }
   },
   {
@@ -486,11 +582,35 @@
    "reason": "Trump personal investment in defense/weapons firms implies bullish stance on war/military spending sector.",
    "price_since": {
     "ticker": "XAR",
-    "pct": -0.9,
+    "pct": -2.2,
     "base": 273.89,
-    "last": 271.45,
+    "last": 267.92,
     "base_date": "2026-07-09",
-    "last_date": "2026-07-10"
+    "last_date": "2026-07-13"
+   }
+  },
+  {
+   "date": "2026-07-09T15:56:00Z",
+   "platform": "News",
+   "text": "Trump family\u2019s fortunes tumble by $600m as company faces 'deep downturn' - Alternet \u2014 Trump family\u2019s fortunes tumble by $600m as company faces 'deep downturn'\u00a0\u00a0Alternet",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5QbFJ5dEVfaFQ1R01LX2VvMjVkY1M5Zm9LcGg2aFZkQ1dad2tLOVg0Y3lvdnUxc21rLUZqTXlzbXVlUGxocWZuRVZOVThWUHFINXZuTTNDUlZ4ZmQ1R1JyU212OA?oc=5",
+   "tickers": [
+    "DJT"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "DJT",
+   "strength": 45,
+   "reason": "Trump family company facing deep downturn and $600M loss directly bearish for DJT stock",
+   "price_since": {
+    "ticker": "DJT",
+    "pct": -1.5,
+    "base": 8.55,
+    "last": 8.42,
+    "base_date": "2026-07-09",
+    "last_date": "2026-07-13"
    }
   },
   {
@@ -2495,22 +2615,6 @@
    "primary_ticker": "DJT",
    "strength": 60,
    "reason": "Trump Accounts launch tied to his brand; symbolic market event at NYSE opening bell"
-  },
-  {
-   "date": "2026-07-06T11:03:45Z",
-   "platform": "News",
-   "text": "Trump urged Americans to \u2018buy a Dell\u2019 while holding the stock \u2014 it\u2019s up 255% since. Enrich yourself now even if you don\u2019t sit in the White House - MSN \u2014 Trump urged Americans to \u2018buy a Dell\u2019 while holding the stock \u2014 it\u2019s up 255% since. Enrich yourself now even if you don\u2019t sit in the White House\u00a0\u00a0MSN",
-   "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQc3E2d0JkN2Q2N1VUcjV6YmYzOG9fLXFpWjU5WkVlUzRpNHpEcXZsN0hzNjBEb3pQTXRPYjJRSElpYm1JaGFyTV8ySm9YNnNiZ0FudjFEcS1ZblJoWHJ2ckZqcHZEaHF0M3lBNlBYOFdJV2tyUjZHLXJkdjhvUlR2TW03YWprR0RZcDJJOTBjS0wxbEs3Y25wcXJCU0VLSFdsc3ZZNkdNdkNWVHlMWGFnb2xYMDhJQmNiMTBrZ2VWTzg3MUhHTkxmOFBHOXZ1SkpnSjg0NTVyYTBfUkZFR2dLU1lkSnYzbHZpLXoxelJfdzlpLVJkbXUzcktvUFZKMWJnZXl3N3dxTXRmNUxZZmxOYlhQOEd0V0RqRmg0NFZvRndTanR4RTMzRg?oc=5",
-   "tickers": [
-    "DELL"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "DELL",
-   "strength": 80,
-   "reason": "Trump explicitly urged 'buy Dell' while holding; stock up 255%"
   },
   {
    "curated": true,
