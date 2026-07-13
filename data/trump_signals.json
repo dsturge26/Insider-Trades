@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-07-13T21:06:04Z",
+ "last_updated": "2026-07-13T22:10:08Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -526,6 +526,22 @@
    "primary_ticker": "SPACE",
    "strength": 60,
    "reason": "SpaceX IPO success and employee wealth creation signal positive sentiment for the company."
+  },
+  {
+   "date": "2026-07-10T07:00:00Z",
+   "platform": "News",
+   "text": "Cathie Wood vs Michael Burry: The $11 million Palantir bet that\u2019s splitting Wall Street - The Economic Times \u2014 Cathie Wood vs Michael Burry: The $11 million Palantir bet that\u2019s splitting Wall Street\u00a0\u00a0The Economic Times",
+   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOVzJPX3NCbTZEUjJkbkIzS3RTUkhDVUpvQUdyTWpnT1FvWkJ1T2FiS3RueThnTUJGUndBeGFZSVhXNHlnOUJvNFlIUUhDYXFsZ0VXMDhJOXAzRHJzRnJzWXZFdVg3aGVZRG5NbVVNOGRhbFZGN2psUFBobXNXVWMzeHlQTlpxcW9hNUdCaUU4OV96ZndnZ284QWFZNGE5WTJRNGNlQlh4VEFzV3h2bkc2M0MzbUJiYjJENFBYakRSb256Ymx4dXQyRmxWZDZtX0RGOUtkUXlQbktDT0oyREltc2xablFBaDdBUTVlenJLX1ZaQWvSAfgBQVVfeXFMTUJMWFpPaExIbm9YNXMtLTFGbHBfZ3o3T1JveWQ0VWlZaTJNUVI4MHZJY28ya0JYRjN5ZmpBRm9WaGdfZXVrLXJYNGtrUzZiSS1qN0swRHdWc0R1c2QtRnJuRVJoU0dHdWptZjBHYU1IUlp1RDBuSDV2dVc5NWNtVkctWkFoTGppdG82dHR1ZTB0U1d5WGhiLXVFeVl2cW4xX3NUd0ZxMnBDOGk4RGVvR1dlb2JDOGdWWDdyYVU5R0RoMjVPX2RNel9ycUtLRkkyZ01uV3NZaHB2eXNiMWJxeDU0TUlIQnNmbC1hMXl0YjVtalBSbnlGZ1Q?oc=5",
+   "tickers": [
+    "PLTR"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "PLTR",
+   "strength": 40,
+   "reason": "Wall Street debate on Palantir valuation; relevant but direction ambiguous between bullish and bearish takes"
   },
   {
    "date": "2026-07-10T04:29:19Z",
@@ -2559,6 +2575,23 @@
    "reason": "Trump's majority-owned stock debuts \u2014 pure sentiment play, extremely volatile and headline-driven.",
    "market_reaction": "DJT spiked on debut then stayed volatile, moving heavily on Trump political/legal news.",
    "url": "https://www.nasdaq.com/market-activity/stocks/djt"
+  },
+  {
+   "date": "2023-05-18T12:00:00Z",
+   "platform": "Federal contract",
+   "text": "BLUE ORIGIN MANUFACTURING, LLC was awarded a $2.0B federal contract from National Aeronautics and Space Administration.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_80MSFC23CA014_8000_-NONE-_-NONE-",
+   "tickers": [
+    "BLUA"
+   ],
+   "contract_amount": 1.99,
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "BLUA",
+   "strength": 80,
+   "reason": "Blue Origin awarded $2.0B federal NASA contract; major bullish catalyst for the defense/space contractor"
   }
  ],
  "how_to_read": "Each card is Claude's read of a public Trump post: the affected ticker, whether it implies BUY / SELL / WATCH, a 0\u2013100 strength (how explicit/emphatic the post is \u2014 NOT a profit predictor), and why. A 2-year backtest found these don't beat buy-and-hold, so this is for awareness, not trading. Not financial advice."
