@@ -1,7 +1,40 @@
 {
- "last_updated": "2026-07-13T01:05:28Z",
+ "last_updated": "2026-07-13T04:46:44Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-07-13T01:33:00Z",
+   "platform": "News",
+   "text": "Nasdaq, S&P 500, Dow Futures Fall After Trump Directs Strikes \u2018To Hold Iranian Forces Accountable\u2019: NVDA, SLS, MRK, SKHYV, QS Stocks In Focus - TradingView \u2014 Nasdaq, S&P 500, Dow Futures Fall After Trump Directs Strikes \u2018To Hold Iranian Forces Accountable\u2019: NVDA, SLS, MRK, SKHYV, QS Stocks In Focus\u00a0\u00a0TradingView",
+   "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxPVi0waGRieF9LX2Y1dVVqZGdqSVFLNnBIaG1zcllwemhqVDQ4NXVtcXN4b3lRbE92SmdiVVZ3RWtNYlZjYU9yanFiV253YXZTMHdtYTJCeFE5RVcwckNWR2l6X1hqMVgyZ0htZFJEVnBuU0VEZHg0SnMtR1JBZDBER2ZGb2pHb0h1bElSZ05FaXpnZFpzMExYMFZqLWlYMGliN29GX1Q3NFpnUndtSmVnS2hkUVdMbHg5NG1vN3JqRGVuUFlQeHVFeXRfWnFHN2VfUW1TTy1vR0wwV3puUHRXYmpIYXVHRUU4bkVVTjExUktFRUVyVEhUXzJnMzExLTV0WnpNeVNTajdTSVJKNTdMZHcxSmVhdGRDRVp0cUln?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "SPY",
+   "strength": 45,
+   "reason": "Military strikes on Iran create geopolitical risk and broad market uncertainty."
+  },
+  {
+   "date": "2026-07-13T01:03:05.451Z",
+   "platform": "Truth Social",
+   "text": "59% Approval Rating. Prices coming down along with the lowering of oil and gas. Thank you! President DJT",
+   "tickers": [
+    "XLE"
+   ],
+   "engagement": 10461,
+   "url": "https://truthsocial.com/@realDonaldTrump/116909970912164568",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "XLE",
+   "strength": 35,
+   "reason": "Lower oil and gas prices cited positively; energy sector may benefit from supply or sentiment."
+  },
   {
    "date": "2026-07-12T10:17:00Z",
    "platform": "News",
@@ -2454,38 +2487,6 @@
    "primary_ticker": "DELL",
    "strength": 80,
    "reason": "Trump explicitly urged 'buy Dell' while holding; stock up 255%"
-  },
-  {
-   "date": "2026-07-06T08:32:00Z",
-   "platform": "News",
-   "text": "President Trump Sells Palantir Stock and Buys an AI Stock Up 2,100% Since 2023 - Yahoo Finance \u2014 President Trump Sells Palantir Stock and Buys an AI Stock Up 2,100% Since 2023\u00a0\u00a0Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOME1aeS0wRFhfUlNGRGRkbjRDUUM4cTdoeTdOSXRxMXJKR18xdGZsUGZIaFQzZmhJZ2QzTUJSdlo1R1dadG1CbEhDS1ktakp6WC1vVXUwVXJLbGZxcndVZVNZQ29WUUJDUmVlVGh3RW5TTFo1ZzJ4OVhRODVxby1lbURuSjE4WjZUemU1b2lyNDFIaVAyc0tBUzJkblZBWHAySDhj?oc=5",
-   "tickers": [
-    "SMH"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "SMH",
-   "strength": 45,
-   "reason": "Trump sold Palantir and bought an AI stock; suggests shift toward AI sector but specific ticker not disclosed."
-  },
-  {
-   "date": "2026-07-06T04:32:50Z",
-   "platform": "News",
-   "text": "Micron stock extends decline despite Trump's praise and bullish analyst views - MSN \u2014 Micron stock extends decline despite Trump's praise and bullish analyst views\u00a0\u00a0MSN",
-   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQQ1FIbG85LTlFQTZEaXEtMEhXRG5GUFFVcXo2Z0o0YlNIdnJ2QWdObTBqaTFSRkcyUktma3dQN01sSmgzQ0JwQXRyMFpndUR4RHJlZkJIeHNXNTBySmdDYmQzR0IxT0NiOG9nSkJqeEhZeEUxdWNhNERZLXVNUzhYLUtGREp1cUZFZG1WeG5NMFZBamhKcGt1anVCYlJqSldQSWNBTlB4em9Zd0w0MFVEM3J0em9oWHAwUFRlNnRuRzVtU0JyeXBkMzJTZXA3cTNPS09iUnE0ODZJc0YwX3FyMk4wa2lMbUhlNmhDTEVR?oc=5",
-   "tickers": [
-    "MU"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "WATCH",
-   "primary_ticker": "MU",
-   "strength": 40,
-   "reason": "Trump praised Micron but stock declined; suggests praise alone insufficient to overcome other bearish factors."
   },
   {
    "curated": true,
