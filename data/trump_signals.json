@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-07-13T16:33:52Z",
+ "last_updated": "2026-07-13T18:21:19Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -51,6 +51,22 @@
    "primary_ticker": "XLE",
    "strength": 60,
    "reason": "Trump credits lowering oil and gas prices as positive economic signal; bullish energy sector sentiment"
+  },
+  {
+   "date": "2026-07-13T07:35:10Z",
+   "platform": "News",
+   "text": "DVLT Stock Tumbles Pre-Market On Discounted Offering \u2013 Retail Slams The Move, Calling It \u2018Self-Inflicted Pain\u2019 - Stocktwits \u2014 DVLT Stock Tumbles Pre-Market On Discounted Offering \u2013 Retail Slams The Move, Calling It \u2018Self-Inflicted Pain\u2019\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVUx3aGVQUk9NNklvanl0M0xObG44aVBxc0FCaTNESVRBUm14b05yTHExSnNIeGNrWVpXTkxhSmU2S0xZaUhTRHBvRVYtS1ZqTGNNVnpYSHVKSG85WG1jeWdmMXdZZ1pUV0h1YlNBaWlyZkFJVmRuR25PMGxJRGlKTi04U29DSHMxOEplQW9ZbmZqamluSEduUGR6cUc1WmlfbU5TbUJB?oc=5",
+   "tickers": [
+    "DVLT"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "DVLT",
+   "strength": 70,
+   "reason": "Discounted stock offering dilution causes pre-market decline"
   },
   {
    "date": "2026-07-13T01:33:00Z",
@@ -296,9 +312,9 @@
    "reason": "$250B US memory-chip investment announcement; Trump credits his deregulation; strong supply-chain/manufacturing tailwind",
    "price_since": {
     "ticker": "MU",
-    "pct": -5.4,
+    "pct": -5.5,
     "base": 979.3,
-    "last": 926.41,
+    "last": 925.79,
     "base_date": "2026-07-10",
     "last_date": "2026-07-13"
    }
@@ -320,9 +336,9 @@
    "reason": "Trump stock purchase signals bullish sentiment; insider-driven rally.",
    "price_since": {
     "ticker": "AXON",
-    "pct": -0.5,
+    "pct": -1.4,
     "base": 565.8,
-    "last": 563.19,
+    "last": 557.84,
     "base_date": "2026-07-10",
     "last_date": "2026-07-13"
    }
@@ -344,9 +360,9 @@
    "reason": "Praise for SpaceX executive's charitable donation to Trump Accounts suggests alignment; indirect bullish read for Trump's asset",
    "price_since": {
     "ticker": "DJT",
-    "pct": -0.8,
+    "pct": -1.3,
     "base": 8.54,
-    "last": 8.47,
+    "last": 8.43,
     "base_date": "2026-07-10",
     "last_date": "2026-07-13"
    }
@@ -368,9 +384,9 @@
    "reason": "Trump's explicit support boosted Dell stock; direct endorsement of named company",
    "price_since": {
     "ticker": "DELL",
-    "pct": -1.9,
+    "pct": -3.0,
     "base": 434.97,
-    "last": 426.71,
+    "last": 421.8,
     "base_date": "2026-07-10",
     "last_date": "2026-07-13"
    }
@@ -392,9 +408,9 @@
    "reason": "Trump praised Micron as 'hottest' company but stock dumped 10%; praise did not translate to support, bearish sentiment.",
    "price_since": {
     "ticker": "MU",
-    "pct": -5.4,
+    "pct": -5.5,
     "base": 979.3,
-    "last": 926.41,
+    "last": 925.79,
     "base_date": "2026-07-10",
     "last_date": "2026-07-13"
    }
@@ -432,9 +448,9 @@
    "reason": "Trump explicitly told Americans to buy Dell; direct market catalyst.",
    "price_since": {
     "ticker": "DELL",
-    "pct": -1.9,
+    "pct": -3.0,
     "base": 434.97,
-    "last": 426.71,
+    "last": 421.8,
     "base_date": "2026-07-10",
     "last_date": "2026-07-13"
    }
@@ -456,9 +472,9 @@
    "reason": "Threat to Iran in profanity-laced message; geopolitical risk and oil volatility implications.",
    "price_since": {
     "ticker": "USO",
-    "pct": 4.9,
+    "pct": 9.4,
     "base": 108.7,
-    "last": 114.01,
+    "last": 118.88,
     "base_date": "2026-07-10",
     "last_date": "2026-07-13"
    }
@@ -496,9 +512,9 @@
    "reason": "Trump endorsement of Palantir noted, but analyst remains short; mixed signal on direction",
    "price_since": {
     "ticker": "PLTR",
-    "pct": 2.2,
+    "pct": 2.1,
     "base": 126.79,
-    "last": 129.55,
+    "last": 129.39,
     "base_date": "2026-07-10",
     "last_date": "2026-07-13"
    }
@@ -520,9 +536,9 @@
    "reason": "Trump endorsement of Freedom Fuel gas stations implies bullish energy/fuel retail sector",
    "price_since": {
     "ticker": "XLE",
-    "pct": 2.5,
+    "pct": 3.2,
     "base": 55.08,
-    "last": 56.47,
+    "last": 56.87,
     "base_date": "2026-07-10",
     "last_date": "2026-07-13"
    }
@@ -544,9 +560,9 @@
    "reason": "Trump has praised/endorsed Dell; prior explicit 'buy Dell' comments drive stock bump.",
    "price_since": {
     "ticker": "DELL",
-    "pct": -1.9,
+    "pct": -3.0,
     "base": 434.97,
-    "last": 426.71,
+    "last": 421.8,
     "base_date": "2026-07-10",
     "last_date": "2026-07-13"
    }
