@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-07-13T08:17:05Z",
+ "last_updated": "2026-07-13T11:38:38Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -537,6 +537,30 @@
     "pct": -2.6,
     "base": 295.3,
     "last": 287.56,
+    "base_date": "2026-07-09",
+    "last_date": "2026-07-10"
+   }
+  },
+  {
+   "date": "2026-07-09T13:19:37Z",
+   "platform": "News",
+   "text": "\u2018Endorsed Republicans who want to keep Obamacare\u2019: Massie rips Trump as premiums set to surge 14% - The Economic Times \u2014 \u2018Endorsed Republicans who want to keep Obamacare\u2019: Massie rips Trump as premiums set to surge 14%\u00a0\u00a0The Economic Times",
+   "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNQWc2TnlfX0dja1N2S1Z2OFg1ZldXZnpHWDFJZ29TVF9sT0dLRk95Y0JOUTNkTldIczZUZHhkUDIyclFuRmFDZExKX3dPMHpsODdjNWJjS1AzSlVWQ2FCdDAxRThqbzVON2E3YnBjYWpFMzE4NTBobVAtTTBhWW5YTmZPWG1CR2V6bU1LcXhsQy1NR2lUMjhrb2JOMjJBN21iZGhQeU52N1RuNzlhWTk1OWt6TGJfbThieUoxRG1RaV9tUUV5UGEwcjVyUjdINzA4SFJVcDl6MXNKZnRlQUktbGV1ZW1oazl2eUlPZmM3WnhZZGduRnNIS3V5MERtd2JwZ1loZHZn0gGLAkFVX3lxTE15dVdFaTNvOGlJNVlkVUNENkZJQ1p5QXlhaXUwUXRWQWVLV2ptcXE2aW1ibmdWY1pfSGdyakEtTGpQbUFJM1YxSGRYRS1ycE96WS1ubHJDY0VZUU9JQXh3SVpVTnVLYllhdW83M1I4ZWFSS29Cb1NzV0lDTVlPZ3R3cHFDY3RWalpZWEhERFlra2wtdFFmM0FHakFtTXB3TVFuamtmUmpGSFI5TTRHQ3hlU1FleEpfaldieXR6dlBLQ2tST3FHZHoteTBxQWFpVW5ESDUzSnQwb0hPVnRmV1lzM19oYkpSbU5Ra3gtdWN5anpoUHBhRk9QR3lEYkE2dlVoV1dhN2xKOEMtSQ?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "SPY",
+   "strength": 35,
+   "reason": "Healthcare premium cost inflation and policy conflict; bearish macro signal for broad market and healthcare sector.",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": 0.4,
+    "base": 751.71,
+    "last": 754.95,
     "base_date": "2026-07-09",
     "last_date": "2026-07-10"
    }
