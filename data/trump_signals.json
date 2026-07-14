@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-07-14T16:39:10Z",
+ "last_updated": "2026-07-14T17:48:02Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-07-14T15:48:49Z",
+   "platform": "News",
+   "text": "Michael Dell adds over $80 billion to fortune as AI boom and Trump ties put billionaire in spotlight - financialexpress.com \u2014 Michael Dell adds over $80 billion to fortune as AI boom and Trump ties put billionaire in spotlight\u00a0\u00a0financialexpress.com",
+   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPN3psRTRtcThBWGVSQUpscFRkT0hJYzVnaWJSS1dSbUJkUXNIUXFMVUFQY1BBSldobk9mcWplZmZLQ1NtZVQ5RG9MemZ2cHpaT2lFa0ktTmp1WWZtUnVWOWZzOUdzN0JEN0ZMenVKX29YbW5yaFg5ME5uOWhjWXFkdGUxeVgyTDNxWVY3VVB0bzBPTHVmYWFWOUdfV2FJTmNKaG9wWm1DS2xKTm5CWG5jbXJlNXZvdk5RX0tUcHlGSGdfeGZGM1JMNmhsOU9oSERoXzdIXzRHUlRNNmNuZXpFZWFOSjhLOXdhejRUQ3pLQkpjZ9IB-AFBVV95cUxPekpCdEJ4MVoyMlFIY2l6Z25NV3hMRUhhMVFoNkNPWll3R3VjTnRCazNPbXUwTThCRlFJQV9Jd2JXZ3o0SkpobC1RanBETVpsUF91d0toXzhjc1lqbmZCcmg2dUItXy05VzdJUE9acjZ3SVdKUFJJX0E4d2VyNzFWbHo0YVRhLXJuOU1ybmUzMk00eTZLaHVDRDZqc2pUcVVCN0lIWE1XRTRPUmY5SHJGQ2llamgyVkREVzYzNVpqUGFNTGg4dGZYX3FPTWhVcmR6X2djaWdhR1FhM3ZNYnFLY05XV0dnZGtqcjV0cVFWckd0VkR5TWtfSw?oc=5",
+   "tickers": [
+    "DELL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "DELL",
+   "strength": 45,
+   "reason": "Dell fortune surge amid AI boom and Trump relationship proximity; positive but not direct endorsement"
+  },
   {
    "date": "2026-07-14T15:04:19.213Z",
    "platform": "Truth Social",
@@ -69,6 +85,22 @@
    "reason": "Dell's relationship with Trump suggests favorable treatment; positive but inferred rather than explicit endorsement."
   },
   {
+   "date": "2026-07-14T09:32:00Z",
+   "platform": "News",
+   "text": "Michael Dell has nailed his relationship with Donald Trump, and it's paying off - Business Insider Africa \u2014 Michael Dell has nailed his relationship with Donald Trump, and it's paying off\u00a0\u00a0Business Insider Africa",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRHNQZ2l2eXB3cGw4TkVaUVRDZW9fQ0FRQ29McmpXVk1BamxJNXp5a0dLSk9KWlZwaWpEMkwtNTFkbE1WRDNLaFJDbXdaRl9xMWNlM2UyMFMzMVhCT3pOX09qazhyc1NhSTFWdnZ4Zl9kTkNTVl9EYXRSZEw2WDBMY1ZPbkpiWk0xV3hRdldIRUlaanE5aWxUWEZRcVFZT01iQnpJZG1NeHpPZFI3Sl9IRm9tTm9aYk9aeTdhRG96ekRLbWs?oc=5",
+   "tickers": [
+    "DELL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "DELL",
+   "strength": 50,
+   "reason": "Dell-Trump relationship payoff suggests favorable business environment and potential support"
+  },
+  {
    "date": "2026-07-13T20:31:53Z",
    "platform": "News",
    "text": "Trump touted Palantir on Truth Social after buying the company's stock, records show - MSN \u2014 Trump touted Palantir on Truth Social after buying the company's stock, records show\u00a0\u00a0MSN",
@@ -85,9 +117,9 @@
    "reason": "Trump explicitly touted Palantir after buying stock; direct endorsement of named public company.",
    "price_since": {
     "ticker": "PLTR",
-    "pct": 3.0,
+    "pct": 3.6,
     "base": 130.04,
-    "last": 133.88,
+    "last": 134.69,
     "base_date": "2026-07-13",
     "last_date": "2026-07-14"
    }
@@ -125,9 +157,9 @@
    "reason": "Iranian blockade and new cargo tax disrupt oil markets and shipping costs",
    "price_since": {
     "ticker": "XLE",
-    "pct": -0.1,
+    "pct": -0.2,
     "base": 56.74,
-    "last": 56.67,
+    "last": 56.61,
     "base_date": "2026-07-13",
     "last_date": "2026-07-14"
    }
@@ -149,9 +181,9 @@
    "reason": "Trump administration defense spending pours money into sector; sons' investment signals bullish outlook on defense tech",
    "price_since": {
     "ticker": "XAR",
-    "pct": 1.5,
+    "pct": 1.2,
     "base": 264.17,
-    "last": 268.24,
+    "last": 267.23,
     "base_date": "2026-07-13",
     "last_date": "2026-07-14"
    }
@@ -174,9 +206,9 @@
    "reason": "Trump emphasizes US AI leadership vs China; bullish macro signal for US tech/AI sector to maintain dominance",
    "price_since": {
     "ticker": "QQQ",
-    "pct": 1.1,
+    "pct": 1.3,
     "base": 711.74,
-    "last": 719.76,
+    "last": 720.92,
     "base_date": "2026-07-13",
     "last_date": "2026-07-14"
    }
@@ -198,9 +230,9 @@
    "reason": "Contrarian short thesis amid Trump endorsement; mixed directional signal",
    "price_since": {
     "ticker": "PLTR",
-    "pct": 3.0,
+    "pct": 3.6,
     "base": 130.04,
-    "last": 133.91,
+    "last": 134.71,
     "base_date": "2026-07-13",
     "last_date": "2026-07-14"
    }
@@ -223,9 +255,9 @@
    "reason": "Trump credits lowering oil and gas prices as positive economic signal; bullish energy sector sentiment",
    "price_since": {
     "ticker": "XLE",
-    "pct": -0.1,
+    "pct": -0.2,
     "base": 56.74,
-    "last": 56.67,
+    "last": 56.61,
     "base_date": "2026-07-13",
     "last_date": "2026-07-14"
    }
@@ -247,9 +279,9 @@
    "reason": "Trump praised Micron but analyst shorting it; mixed signal on semiconductor.",
    "price_since": {
     "ticker": "MU",
-    "pct": 5.2,
+    "pct": 4.8,
     "base": 937.0,
-    "last": 985.69,
+    "last": 982.3,
     "base_date": "2026-07-13",
     "last_date": "2026-07-14"
    }
@@ -271,9 +303,9 @@
    "reason": "Discounted stock offering dilution causes pre-market decline",
    "price_since": {
     "ticker": "DVLT",
-    "pct": 11.4,
+    "pct": 8.6,
     "base": 0.35,
-    "last": 0.39,
+    "last": 0.38,
     "base_date": "2026-07-13",
     "last_date": "2026-07-14"
    }
@@ -295,9 +327,9 @@
    "reason": "Military strikes on Iran create geopolitical risk and broad market uncertainty.",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.3,
+    "pct": 0.4,
     "base": 749.17,
-    "last": 751.27,
+    "last": 751.93,
     "base_date": "2026-07-13",
     "last_date": "2026-07-14"
    }
@@ -320,9 +352,9 @@
    "reason": "Lower oil and gas prices cited positively; energy sector may benefit from supply or sentiment.",
    "price_since": {
     "ticker": "XLE",
-    "pct": -0.1,
+    "pct": -0.2,
     "base": 56.74,
-    "last": 56.67,
+    "last": 56.61,
     "base_date": "2026-07-13",
     "last_date": "2026-07-14"
    }
@@ -344,9 +376,9 @@
    "reason": "Trump explicit endorsement of Dell stock spiking it to record highs.",
    "price_since": {
     "ticker": "DELL",
-    "pct": 7.0,
+    "pct": 7.3,
     "base": 427.11,
-    "last": 456.96,
+    "last": 458.16,
     "base_date": "2026-07-13",
     "last_date": "2026-07-14"
    }
@@ -368,9 +400,9 @@
    "reason": "Trump explicitly told Americans to buy Dell computers and praised Michael Dell as 'incredible'",
    "price_since": {
     "ticker": "DELL",
-    "pct": 7.0,
+    "pct": 7.3,
     "base": 427.11,
-    "last": 456.96,
+    "last": 458.08,
     "base_date": "2026-07-13",
     "last_date": "2026-07-14"
    }
@@ -392,9 +424,9 @@
    "reason": "Trump praises SpaceX executives for stock donation; SpaceX not publicly traded, SPCE tracks sentiment",
    "price_since": {
     "ticker": "SPCE",
-    "pct": 8.7,
+    "pct": 7.0,
     "base": 2.42,
-    "last": 2.63,
+    "last": 2.59,
     "base_date": "2026-07-13",
     "last_date": "2026-07-14"
    }
@@ -416,9 +448,9 @@
    "reason": "Trump explicitly told Americans to buy Dell; direct market catalyst.",
    "price_since": {
     "ticker": "DELL",
-    "pct": 7.0,
+    "pct": 7.3,
     "base": 427.11,
-    "last": 456.96,
+    "last": 458.16,
     "base_date": "2026-07-13",
     "last_date": "2026-07-14"
    }
@@ -440,9 +472,9 @@
    "reason": "Trump weighs in on multiple tech figures and criticizes Fed Board; ambiguous direction and general macro commentary without specific action.",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.3,
+    "pct": 0.4,
     "base": 749.17,
-    "last": 751.27,
+    "last": 751.92,
     "base_date": "2026-07-13",
     "last_date": "2026-07-14"
    }
@@ -464,9 +496,9 @@
    "reason": "Trump sentiment attributed to INTC rally; inferred bullish but unclear strength.",
    "price_since": {
     "ticker": "INTC",
-    "pct": 3.5,
+    "pct": 4.1,
     "base": 103.12,
-    "last": 106.68,
+    "last": 107.36,
     "base_date": "2026-07-13",
     "last_date": "2026-07-14"
    }
@@ -488,9 +520,9 @@
    "reason": "Threat to 'destroy' Iran implies elevated geopolitical risk and potential oil market volatility.",
    "price_since": {
     "ticker": "USO",
-    "pct": 1.5,
+    "pct": 1.2,
     "base": 117.79,
-    "last": 119.52,
+    "last": 119.22,
     "base_date": "2026-07-13",
     "last_date": "2026-07-14"
    }
@@ -512,9 +544,9 @@
    "reason": "Trump administration awards IBM $1B federal contract for quantum foundry; explicit federal contract to named public company is bullish",
    "price_since": {
     "ticker": "IBM",
-    "pct": -25.0,
+    "pct": -24.6,
     "base": 290.23,
-    "last": 217.63,
+    "last": 218.93,
     "base_date": "2026-07-13",
     "last_date": "2026-07-14"
    }
@@ -536,9 +568,9 @@
    "reason": "Tariff threats up to 200% on offshore manufacturing; broad market bearish.",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.3,
+    "pct": 0.4,
     "base": 749.17,
-    "last": 751.27,
+    "last": 751.9,
     "base_date": "2026-07-13",
     "last_date": "2026-07-14"
    }
@@ -592,9 +624,9 @@
    "reason": "Trump explicitly lauds Citigroup's 'Big Comeback' in M&A; direct positive call on named bank.",
    "price_since": {
     "ticker": "C",
-    "pct": -4.3,
+    "pct": -5.6,
     "base": 140.71,
-    "last": 134.66,
+    "last": 132.9,
     "base_date": "2026-07-13",
     "last_date": "2026-07-14"
    }
@@ -617,9 +649,9 @@
    "reason": "Major $30B US chip investment signals supply-chain reshoring and AI capacity, bullish for Apple capex/production",
    "price_since": {
     "ticker": "AAPL",
-    "pct": -1.2,
+    "pct": -0.8,
     "base": 317.31,
-    "last": 313.55,
+    "last": 314.73,
     "base_date": "2026-07-13",
     "last_date": "2026-07-14"
    }
@@ -642,9 +674,9 @@
    "reason": "$250B US memory-chip investment announcement; Trump credits his deregulation; strong supply-chain/manufacturing tailwind",
    "price_since": {
     "ticker": "MU",
-    "pct": 0.6,
+    "pct": 0.3,
     "base": 979.3,
-    "last": 985.36,
+    "last": 982.28,
     "base_date": "2026-07-10",
     "last_date": "2026-07-14"
    }
@@ -666,9 +698,9 @@
    "reason": "Trump stock purchase signals bullish sentiment; insider-driven rally.",
    "price_since": {
     "ticker": "AXON",
-    "pct": -2.0,
+    "pct": -2.3,
     "base": 565.8,
-    "last": 554.53,
+    "last": 552.72,
     "base_date": "2026-07-10",
     "last_date": "2026-07-14"
    }
