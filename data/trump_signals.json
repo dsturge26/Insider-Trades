@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-07-14T15:11:39Z",
+ "last_updated": "2026-07-14T16:39:10Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -85,9 +85,9 @@
    "reason": "Trump explicitly touted Palantir after buying stock; direct endorsement of named public company.",
    "price_since": {
     "ticker": "PLTR",
-    "pct": 2.3,
+    "pct": 3.0,
     "base": 130.04,
-    "last": 132.97,
+    "last": 133.88,
     "base_date": "2026-07-13",
     "last_date": "2026-07-14"
    }
@@ -125,9 +125,9 @@
    "reason": "Iranian blockade and new cargo tax disrupt oil markets and shipping costs",
    "price_since": {
     "ticker": "XLE",
-    "pct": -0.6,
+    "pct": -0.1,
     "base": 56.74,
-    "last": 56.42,
+    "last": 56.67,
     "base_date": "2026-07-13",
     "last_date": "2026-07-14"
    }
@@ -149,9 +149,9 @@
    "reason": "Trump administration defense spending pours money into sector; sons' investment signals bullish outlook on defense tech",
    "price_since": {
     "ticker": "XAR",
-    "pct": 1.7,
+    "pct": 1.5,
     "base": 264.17,
-    "last": 268.63,
+    "last": 268.24,
     "base_date": "2026-07-13",
     "last_date": "2026-07-14"
    }
@@ -174,9 +174,33 @@
    "reason": "Trump emphasizes US AI leadership vs China; bullish macro signal for US tech/AI sector to maintain dominance",
    "price_since": {
     "ticker": "QQQ",
-    "pct": 1.3,
+    "pct": 1.1,
     "base": 711.74,
-    "last": 721.07,
+    "last": 719.76,
+    "base_date": "2026-07-13",
+    "last_date": "2026-07-14"
+   }
+  },
+  {
+   "date": "2026-07-13T14:23:43Z",
+   "platform": "News",
+   "text": "Michael Burry Says He\u2019s Still Short Palantir After Stock Sees Recovery Following Trump\u2019s Endorsement - Stocktwits \u2014 Michael Burry Says He\u2019s Still Short Palantir After Stock Sees Recovery Following Trump\u2019s Endorsement\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUmNQdmN5STJOLU11dEhkR1U0ckhuS3JMcm1NUDNMY0dNZ1pQcGhFVmd2bkZqVHV5N3N4N01tY1gzZWZnTDlvbVRzTEtkQnZyUjlibXR1ZUJ5MnVNY0ZlYlVEUWtRMkdnRzBGcmxpdEJaQm55ZWlTWmZZUDBPNnhncTFlLWg3bjllZXNpeGpTVjd3b3dCZ2lWT1dPZE5RSlNKT01IVXlTa1c5YmFodzVEWkJtbHpvUHN1Ry00NWhxcVJpdw?oc=5",
+   "tickers": [
+    "PLTR"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "PLTR",
+   "strength": 40,
+   "reason": "Contrarian short thesis amid Trump endorsement; mixed directional signal",
+   "price_since": {
+    "ticker": "PLTR",
+    "pct": 3.0,
+    "base": 130.04,
+    "last": 133.91,
     "base_date": "2026-07-13",
     "last_date": "2026-07-14"
    }
@@ -199,9 +223,9 @@
    "reason": "Trump credits lowering oil and gas prices as positive economic signal; bullish energy sector sentiment",
    "price_since": {
     "ticker": "XLE",
-    "pct": -0.6,
+    "pct": -0.1,
     "base": 56.74,
-    "last": 56.42,
+    "last": 56.67,
     "base_date": "2026-07-13",
     "last_date": "2026-07-14"
    }
@@ -223,33 +247,9 @@
    "reason": "Trump praised Micron but analyst shorting it; mixed signal on semiconductor.",
    "price_since": {
     "ticker": "MU",
-    "pct": 3.8,
+    "pct": 5.2,
     "base": 937.0,
-    "last": 972.53,
-    "base_date": "2026-07-13",
-    "last_date": "2026-07-14"
-   }
-  },
-  {
-   "date": "2026-07-13T10:36:49Z",
-   "platform": "News",
-   "text": "Michael Burry Says He\u2019s Still Short Palantir After Stock Sees Recovery Following Trump\u2019s Endorsement - Stocktwits \u2014 Michael Burry Says He\u2019s Still Short Palantir After Stock Sees Recovery Following Trump\u2019s Endorsement\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUmNQdmN5STJOLU11dEhkR1U0ckhuS3JMcm1NUDNMY0dNZ1pQcGhFVmd2bkZqVHV5N3N4N01tY1gzZWZnTDlvbVRzTEtkQnZyUjlibXR1ZUJ5MnVNY0ZlYlVEUWtRMkdnRzBGcmxpdEJaQm55ZWlTWmZZUDBPNnhncTFlLWg3bjllZXNpeGpTVjd3b3dCZ2lWT1dPZE5RSlNKT01IVXlTa1c5YmFodzVEWkJtbHpvUHN1Ry00NWhxcVJpdw?oc=5",
-   "tickers": [
-    "PLTR"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "PLTR",
-   "strength": 45,
-   "reason": "Trump endorsement noted but contrarian short position exists; ambiguous directional signal.",
-   "price_since": {
-    "ticker": "PLTR",
-    "pct": 2.2,
-    "base": 130.04,
-    "last": 132.95,
+    "last": 985.69,
     "base_date": "2026-07-13",
     "last_date": "2026-07-14"
    }
@@ -295,9 +295,9 @@
    "reason": "Military strikes on Iran create geopolitical risk and broad market uncertainty.",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.5,
+    "pct": 0.3,
     "base": 749.17,
-    "last": 752.61,
+    "last": 751.27,
     "base_date": "2026-07-13",
     "last_date": "2026-07-14"
    }
@@ -320,9 +320,9 @@
    "reason": "Lower oil and gas prices cited positively; energy sector may benefit from supply or sentiment.",
    "price_since": {
     "ticker": "XLE",
-    "pct": -0.6,
+    "pct": -0.1,
     "base": 56.74,
-    "last": 56.42,
+    "last": 56.67,
     "base_date": "2026-07-13",
     "last_date": "2026-07-14"
    }
@@ -344,9 +344,9 @@
    "reason": "Trump explicit endorsement of Dell stock spiking it to record highs.",
    "price_since": {
     "ticker": "DELL",
-    "pct": 7.6,
+    "pct": 7.0,
     "base": 427.11,
-    "last": 459.73,
+    "last": 456.96,
     "base_date": "2026-07-13",
     "last_date": "2026-07-14"
    }
@@ -368,9 +368,9 @@
    "reason": "Trump explicitly told Americans to buy Dell computers and praised Michael Dell as 'incredible'",
    "price_since": {
     "ticker": "DELL",
-    "pct": 7.6,
+    "pct": 7.0,
     "base": 427.11,
-    "last": 459.73,
+    "last": 456.96,
     "base_date": "2026-07-13",
     "last_date": "2026-07-14"
    }
@@ -392,9 +392,9 @@
    "reason": "Trump praises SpaceX executives for stock donation; SpaceX not publicly traded, SPCE tracks sentiment",
    "price_since": {
     "ticker": "SPCE",
-    "pct": 7.9,
+    "pct": 8.7,
     "base": 2.42,
-    "last": 2.61,
+    "last": 2.63,
     "base_date": "2026-07-13",
     "last_date": "2026-07-14"
    }
@@ -416,9 +416,9 @@
    "reason": "Trump explicitly told Americans to buy Dell; direct market catalyst.",
    "price_since": {
     "ticker": "DELL",
-    "pct": 7.6,
+    "pct": 7.0,
     "base": 427.11,
-    "last": 459.73,
+    "last": 456.96,
     "base_date": "2026-07-13",
     "last_date": "2026-07-14"
    }
@@ -440,9 +440,9 @@
    "reason": "Trump weighs in on multiple tech figures and criticizes Fed Board; ambiguous direction and general macro commentary without specific action.",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.5,
+    "pct": 0.3,
     "base": 749.17,
-    "last": 752.62,
+    "last": 751.27,
     "base_date": "2026-07-13",
     "last_date": "2026-07-14"
    }
@@ -464,9 +464,9 @@
    "reason": "Trump sentiment attributed to INTC rally; inferred bullish but unclear strength.",
    "price_since": {
     "ticker": "INTC",
-    "pct": 2.6,
+    "pct": 3.5,
     "base": 103.12,
-    "last": 105.84,
+    "last": 106.68,
     "base_date": "2026-07-13",
     "last_date": "2026-07-14"
    }
@@ -488,9 +488,9 @@
    "reason": "Threat to 'destroy' Iran implies elevated geopolitical risk and potential oil market volatility.",
    "price_since": {
     "ticker": "USO",
-    "pct": 0.6,
+    "pct": 1.5,
     "base": 117.79,
-    "last": 118.46,
+    "last": 119.52,
     "base_date": "2026-07-13",
     "last_date": "2026-07-14"
    }
@@ -512,9 +512,9 @@
    "reason": "Trump administration awards IBM $1B federal contract for quantum foundry; explicit federal contract to named public company is bullish",
    "price_since": {
     "ticker": "IBM",
-    "pct": -25.7,
+    "pct": -25.0,
     "base": 290.23,
-    "last": 215.75,
+    "last": 217.63,
     "base_date": "2026-07-13",
     "last_date": "2026-07-14"
    }
@@ -536,9 +536,9 @@
    "reason": "Tariff threats up to 200% on offshore manufacturing; broad market bearish.",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.5,
+    "pct": 0.3,
     "base": 749.17,
-    "last": 752.62,
+    "last": 751.27,
     "base_date": "2026-07-13",
     "last_date": "2026-07-14"
    }
@@ -592,9 +592,9 @@
    "reason": "Trump explicitly lauds Citigroup's 'Big Comeback' in M&A; direct positive call on named bank.",
    "price_since": {
     "ticker": "C",
-    "pct": 1.8,
+    "pct": -4.3,
     "base": 140.71,
-    "last": 143.26,
+    "last": 134.66,
     "base_date": "2026-07-13",
     "last_date": "2026-07-14"
    }
@@ -617,9 +617,9 @@
    "reason": "Major $30B US chip investment signals supply-chain reshoring and AI capacity, bullish for Apple capex/production",
    "price_since": {
     "ticker": "AAPL",
-    "pct": -0.5,
+    "pct": -1.2,
     "base": 317.31,
-    "last": 315.79,
+    "last": 313.55,
     "base_date": "2026-07-13",
     "last_date": "2026-07-14"
    }
@@ -642,9 +642,9 @@
    "reason": "$250B US memory-chip investment announcement; Trump credits his deregulation; strong supply-chain/manufacturing tailwind",
    "price_since": {
     "ticker": "MU",
-    "pct": -0.7,
+    "pct": 0.6,
     "base": 979.3,
-    "last": 972.54,
+    "last": 985.36,
     "base_date": "2026-07-10",
     "last_date": "2026-07-14"
    }
@@ -666,9 +666,9 @@
    "reason": "Trump stock purchase signals bullish sentiment; insider-driven rally.",
    "price_since": {
     "ticker": "AXON",
-    "pct": -3.8,
+    "pct": -2.0,
     "base": 565.8,
-    "last": 544.5,
+    "last": 554.53,
     "base_date": "2026-07-10",
     "last_date": "2026-07-14"
    }
@@ -690,9 +690,9 @@
    "reason": "Praise for SpaceX executive's charitable donation to Trump Accounts suggests alignment; indirect bullish read for Trump's asset",
    "price_since": {
     "ticker": "DJT",
-    "pct": 3.0,
+    "pct": 6.4,
     "base": 8.54,
-    "last": 8.8,
+    "last": 9.09,
     "base_date": "2026-07-10",
     "last_date": "2026-07-14"
    }
@@ -714,9 +714,9 @@
    "reason": "Trump's explicit support boosted Dell stock; direct endorsement of named company",
    "price_since": {
     "ticker": "DELL",
-    "pct": 2.7,
+    "pct": 5.1,
     "base": 434.97,
-    "last": 446.88,
+    "last": 456.96,
     "base_date": "2026-07-10",
     "last_date": "2026-07-14"
    }
@@ -738,9 +738,9 @@
    "reason": "Trump praised Micron as 'hottest' company but stock dumped 10%; praise did not translate to support, bearish sentiment.",
    "price_since": {
     "ticker": "MU",
-    "pct": -1.1,
+    "pct": 0.6,
     "base": 979.3,
-    "last": 968.98,
+    "last": 985.36,
     "base_date": "2026-07-10",
     "last_date": "2026-07-14"
    }
@@ -2761,6 +2761,40 @@
    "reason": "Trump's majority-owned stock debuts \u2014 pure sentiment play, extremely volatile and headline-driven.",
    "market_reaction": "DJT spiked on debut then stayed volatile, moving heavily on Trump political/legal news.",
    "url": "https://www.nasdaq.com/market-activity/stocks/djt"
+  },
+  {
+   "date": "2023-05-18T12:00:00Z",
+   "platform": "Federal contract",
+   "text": "BLUE ORIGIN MANUFACTURING, LLC was awarded a $2.0B federal contract from National Aeronautics and Space Administration.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_80MSFC23CA014_8000_-NONE-_-NONE-",
+   "tickers": [
+    "BA"
+   ],
+   "contract_amount": 1.99,
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "BA",
+   "strength": 70,
+   "reason": "Blue Origin (private, Bezos-owned) awarded $2B NASA contract; parent Amazon (AMZN) benefits, but Boeing (BA) also competes in defense/space; defense sector bullish."
+  },
+  {
+   "date": "2021-07-01T12:00:00Z",
+   "platform": "Federal contract",
+   "text": "HARRIS CORPORATION was awarded a $2.1B federal contract from Department of Transportation.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_693KA821F00222_6920_DTFA0102D03006_6920",
+   "tickers": [
+    "HRS"
+   ],
+   "contract_amount": 2.1,
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "HRS",
+   "strength": 75,
+   "reason": "Harris Corporation awarded $2.1B federal contract from DoT; bullish for defense/aerospace contractor."
   }
  ],
  "how_to_read": "Each card is Claude's read of a public Trump post: the affected ticker, whether it implies BUY / SELL / WATCH, a 0\u2013100 strength (how explicit/emphatic the post is \u2014 NOT a profit predictor), and why. A 2-year backtest found these don't beat buy-and-hold, so this is for awareness, not trading. Not financial advice."
