@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-07-14T03:34:03Z",
+ "last_updated": "2026-07-14T05:57:07Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-07-13T20:31:53Z",
+   "platform": "News",
+   "text": "Trump touted Palantir on Truth Social after buying the company's stock, records show - MSN \u2014 Trump touted Palantir on Truth Social after buying the company's stock, records show\u00a0\u00a0MSN",
+   "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOUURfNWp2OWZpMGxlMXBYSHo1Mktmc0hOTFdpM2dNVU1QTUFWdjRtaXJzMGM5RlY1SE9nRVZqMGxCNEphZENtOEFXWWdqeGp1b05PSlRFMkFabXhpeUVsd2txQU1IMlpHODFOblhZOTUtd3NQeTUwR2JlMFFqOW4zLUZodlZFM1gzZ0FSVW9vYUU2czJSMmFsRlF1VFI4cmlkbUFla2hOTlIwbVNRZlVBcHpOSEI5clVoY2NscjdfbnhxZVNfN2wwaWlLX3VqX05raXp6RlR3RFJ2dkRmQUk3MXFzdFdodEZjMVBXdHlZbTV0N2o5NTg4dG14V25YY2xLeTg5Ui1xQ3QyMlpi?oc=5",
+   "tickers": [
+    "PLTR"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "PLTR",
+   "strength": 85,
+   "reason": "Trump explicitly touted Palantir after buying stock; direct endorsement of named public company."
+  },
   {
    "date": "2026-07-13T18:25:53Z",
    "platform": "News",
@@ -67,6 +83,22 @@
    "primary_ticker": "XLE",
    "strength": 60,
    "reason": "Trump credits lowering oil and gas prices as positive economic signal; bullish energy sector sentiment"
+  },
+  {
+   "date": "2026-07-13T12:24:27Z",
+   "platform": "News",
+   "text": "Michael Burry is shorting Micron as a 'destroyer of capital' despite Trump's praises and a 241% rally\u2014here's why - MSN \u2014 Michael Burry is shorting Micron as a 'destroyer of capital' despite Trump's praises and a 241% rally\u2014here's why\u00a0\u00a0MSN",
+   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPY2czc2JrdENHZUxvWUtxRzNLZ0RuU01tQlFYQlBCa1R6YVR0VVlnZk5MVWpPbHZYWS14bTBVcXdQS0U2NERmcWd1SzJneGZfRDVNSzR5QVpyVjlhaHlMX3BSSmgzUk9SckxUMmlxVVNJbVlINDl2WExzTWhlZGJERzQwM3BLNF9ObTNobkpEWmItX0lfSFNkZ05aOTlKazdXZkdhaVR5cDF1dVBJNnF5bnhlejZJdzR4dk9ESGdNSl9jMS01Mnl6aTNDYjBYT2tJQmNFcHFxSVZOSmNqX0hvcVBiVnViam4wR1VISVJxUmpPN1JzMnpyVGRnVnRfUWc?oc=5",
+   "tickers": [
+    "MU"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "MU",
+   "strength": 50,
+   "reason": "Trump praised Micron but analyst shorting it; mixed signal on semiconductor."
   },
   {
    "date": "2026-07-13T10:36:49Z",
