@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-07-14T19:20:00Z",
+ "last_updated": "2026-07-14T20:38:21Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -117,9 +117,9 @@
    "reason": "Trump explicitly touted Palantir after buying stock; direct endorsement of named public company.",
    "price_since": {
     "ticker": "PLTR",
-    "pct": 3.3,
+    "pct": 2.8,
     "base": 130.04,
-    "last": 134.37,
+    "last": 133.72,
     "base_date": "2026-07-13",
     "last_date": "2026-07-14"
    }
@@ -141,6 +141,30 @@
    "reason": "Trump heaps praise on SpaceX president Gwynne Shotwell for $325M donation; strong endorsement of company leadership and implicit bullishness on SpaceX."
   },
   {
+   "date": "2026-07-13T18:04:48Z",
+   "platform": "News",
+   "text": "ASTS, RKLB Stocks Get The Trump Pump After Hidden Space Stock Bets Emerge - Stocktwits \u2014 ASTS, RKLB Stocks Get The Trump Pump After Hidden Space Stock Bets Emerge\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYlgtQnFIQ21RTHhqRVMtMUF4aWNUR2w3WHo5QzFfWVRyaExWYXJDUk9WaEFDaW90THVYcHVSd3J4Nk82T3lkMVBGZnhIQW43bHpGdURhaTgxYnRlR25BYmp6SWR1cjVhUHlXZXdWSFdkNlFTekNoQXZCSXNVem1Oc0NBYXBKQXhnRnNCTTVvOU5xSEZrUlNxdzZCczQyZmdVOW1jQVRBczU4cHlpU3M3dnBWZnBjdw?oc=5",
+   "tickers": [
+    "RKLB"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "RKLB",
+   "strength": 55,
+   "reason": "Trump space stock bets emerge; bullish signal for space/defense sector",
+   "price_since": {
+    "ticker": "RKLB",
+    "pct": 2.7,
+    "base": 76.73,
+    "last": 78.81,
+    "base_date": "2026-07-13",
+    "last_date": "2026-07-14"
+   }
+  },
+  {
    "date": "2026-07-13T16:08:10Z",
    "platform": "News",
    "text": "Trump Reinstates Iranian Blockade, Says US Will Be Reimbursed At A Rate Of 20% On All Cargo Shipped Through The Strait Of Hormuz - Stocktwits \u2014 Trump Reinstates Iranian Blockade, Says US Will Be Reimbursed At A Rate Of 20% On All Cargo Shipped Through The Strait Of Hormuz\u00a0\u00a0Stocktwits",
@@ -157,9 +181,9 @@
    "reason": "Iranian blockade and new cargo tax disrupt oil markets and shipping costs",
    "price_since": {
     "ticker": "XLE",
-    "pct": 0.2,
+    "pct": 0.4,
     "base": 56.74,
-    "last": 56.83,
+    "last": 56.95,
     "base_date": "2026-07-13",
     "last_date": "2026-07-14"
    }
@@ -181,9 +205,9 @@
    "reason": "Trump administration defense spending pours money into sector; sons' investment signals bullish outlook on defense tech",
    "price_since": {
     "ticker": "XAR",
-    "pct": 1.2,
+    "pct": 0.9,
     "base": 264.17,
-    "last": 267.22,
+    "last": 266.56,
     "base_date": "2026-07-13",
     "last_date": "2026-07-14"
    }
@@ -206,9 +230,9 @@
    "reason": "Trump emphasizes US AI leadership vs China; bullish macro signal for US tech/AI sector to maintain dominance",
    "price_since": {
     "ticker": "QQQ",
-    "pct": 1.2,
+    "pct": 1.1,
     "base": 711.74,
-    "last": 720.53,
+    "last": 719.69,
     "base_date": "2026-07-13",
     "last_date": "2026-07-14"
    }
@@ -230,9 +254,9 @@
    "reason": "Contrarian short thesis amid Trump endorsement; mixed directional signal",
    "price_since": {
     "ticker": "PLTR",
-    "pct": 3.3,
+    "pct": 2.8,
     "base": 130.04,
-    "last": 134.37,
+    "last": 133.72,
     "base_date": "2026-07-13",
     "last_date": "2026-07-14"
    }
@@ -255,9 +279,9 @@
    "reason": "Trump credits lowering oil and gas prices as positive economic signal; bullish energy sector sentiment",
    "price_since": {
     "ticker": "XLE",
-    "pct": 0.2,
+    "pct": 0.4,
     "base": 56.74,
-    "last": 56.83,
+    "last": 56.95,
     "base_date": "2026-07-13",
     "last_date": "2026-07-14"
    }
@@ -279,9 +303,9 @@
    "reason": "Trump praised Micron but analyst shorting it; mixed signal on semiconductor.",
    "price_since": {
     "ticker": "MU",
-    "pct": 4.5,
+    "pct": 4.9,
     "base": 937.0,
-    "last": 979.38,
+    "last": 983.12,
     "base_date": "2026-07-13",
     "last_date": "2026-07-14"
    }
@@ -303,9 +327,9 @@
    "reason": "Discounted stock offering dilution causes pre-market decline",
    "price_since": {
     "ticker": "DVLT",
-    "pct": 8.6,
+    "pct": 11.4,
     "base": 0.35,
-    "last": 0.38,
+    "last": 0.39,
     "base_date": "2026-07-13",
     "last_date": "2026-07-14"
    }
@@ -329,7 +353,7 @@
     "ticker": "SPY",
     "pct": 0.4,
     "base": 749.17,
-    "last": 752.11,
+    "last": 751.83,
     "base_date": "2026-07-13",
     "last_date": "2026-07-14"
    }
@@ -352,9 +376,9 @@
    "reason": "Lower oil and gas prices cited positively; energy sector may benefit from supply or sentiment.",
    "price_since": {
     "ticker": "XLE",
-    "pct": 0.2,
+    "pct": 0.4,
     "base": 56.74,
-    "last": 56.83,
+    "last": 56.95,
     "base_date": "2026-07-13",
     "last_date": "2026-07-14"
    }
@@ -376,9 +400,33 @@
    "reason": "Trump explicit endorsement of Dell stock spiking it to record highs.",
    "price_since": {
     "ticker": "DELL",
-    "pct": 5.6,
+    "pct": 7.1,
     "base": 427.11,
-    "last": 451.23,
+    "last": 457.54,
+    "base_date": "2026-07-13",
+    "last_date": "2026-07-14"
+   }
+  },
+  {
+   "date": "2026-07-12T18:44:59Z",
+   "platform": "News",
+   "text": "Trump Warns Of Tariffs Up To 200% For Companies That Don't Build In The US \u2014 'We're Doing Great On Steel Because We Charge Tariffs' - Stocktwits \u2014 Trump Warns Of Tariffs Up To 200% For Companies That Don't Build In The US \u2014 'We're Doing Great On Steel Because We Charge Tariffs'\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMm40WW15RHg0T0ZIMkQzNzBxd2RZZ3ZxbDVMSi1zTE9HQkNBdHdmdFlWendxcC1acHJmX0lmY1hRREpWYTRrZ2FsOGh3TnN0N0dwTEdLbTN0QlFjdXFPQTEyUWtEV1RIc3AyZ1hMR0lQOVpDM190ZmdEVWtLeWlpakxtYkY0QzF4ZlU3enY4a2FBUUZ5Zk9VNVAtemxnWDl1S3Ywc3l3R1FlZmpLZ2RoRmY2MzZ4dw?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "SPY",
+   "strength": 70,
+   "reason": "Tariffs up to 200% on non-US manufacturing is bearish for broad market",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": 0.4,
+    "base": 749.17,
+    "last": 751.83,
     "base_date": "2026-07-13",
     "last_date": "2026-07-14"
    }
@@ -400,9 +448,9 @@
    "reason": "Trump interest in Greenland and critical metals suggests rare-earth/metals demand spike, bullish for materials sector",
    "price_since": {
     "ticker": "XME",
-    "pct": 1.8,
+    "pct": 2.3,
     "base": 102.09,
-    "last": 103.94,
+    "last": 104.42,
     "base_date": "2026-07-13",
     "last_date": "2026-07-14"
    }
@@ -424,9 +472,9 @@
    "reason": "Trump explicitly told Americans to buy Dell computers and praised Michael Dell as 'incredible'",
    "price_since": {
     "ticker": "DELL",
-    "pct": 5.6,
+    "pct": 7.1,
     "base": 427.11,
-    "last": 451.23,
+    "last": 457.54,
     "base_date": "2026-07-13",
     "last_date": "2026-07-14"
    }
@@ -448,9 +496,9 @@
    "reason": "Trump praises SpaceX executives for stock donation; SpaceX not publicly traded, SPCE tracks sentiment",
    "price_since": {
     "ticker": "SPCE",
-    "pct": 7.0,
+    "pct": 7.9,
     "base": 2.42,
-    "last": 2.59,
+    "last": 2.61,
     "base_date": "2026-07-13",
     "last_date": "2026-07-14"
    }
@@ -472,9 +520,9 @@
    "reason": "Trump explicitly told Americans to buy Dell; direct market catalyst.",
    "price_since": {
     "ticker": "DELL",
-    "pct": 5.6,
+    "pct": 7.1,
     "base": 427.11,
-    "last": 451.23,
+    "last": 457.54,
     "base_date": "2026-07-13",
     "last_date": "2026-07-14"
    }
@@ -498,7 +546,7 @@
     "ticker": "SPY",
     "pct": 0.4,
     "base": 749.17,
-    "last": 752.11,
+    "last": 751.83,
     "base_date": "2026-07-13",
     "last_date": "2026-07-14"
    }
@@ -520,9 +568,9 @@
    "reason": "Trump sentiment attributed to INTC rally; inferred bullish but unclear strength.",
    "price_since": {
     "ticker": "INTC",
-    "pct": 4.8,
+    "pct": 4.5,
     "base": 103.12,
-    "last": 108.02,
+    "last": 107.76,
     "base_date": "2026-07-13",
     "last_date": "2026-07-14"
    }
@@ -568,33 +616,9 @@
    "reason": "Trump administration awards IBM $1B federal contract for quantum foundry; explicit federal contract to named public company is bullish",
    "price_since": {
     "ticker": "IBM",
-    "pct": -23.9,
+    "pct": -25.2,
     "base": 290.23,
-    "last": 221.0,
-    "base_date": "2026-07-13",
-    "last_date": "2026-07-14"
-   }
-  },
-  {
-   "date": "2026-07-11T13:56:53Z",
-   "platform": "News",
-   "text": "Trump Warns Of Tariffs Up To 200% For Companies That Don't Build In The US \u2014 'We're Doing Great On Steel Because We Charge Tariffs' - Stocktwits \u2014 Trump Warns Of Tariffs Up To 200% For Companies That Don't Build In The US \u2014 'We're Doing Great On Steel Because We Charge Tariffs'\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMm40WW15RHg0T0ZIMkQzNzBxd2RZZ3ZxbDVMSi1zTE9HQkNBdHdmdFlWendxcC1acHJmX0lmY1hRREpWYTRrZ2FsOGh3TnN0N0dwTEdLbTN0QlFjdXFPQTEyUWtEV1RIc3AyZ1hMR0lQOVpDM190ZmdEVWtLeWlpakxtYkY0QzF4ZlU3enY4a2FBUUZ5Zk9VNVAtemxnWDl1S3Ywc3l3R1FlZmpLZ2RoRmY2MzZ4dw?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "SPY",
-   "strength": 70,
-   "reason": "Tariff threats up to 200% on offshore manufacturing; broad market bearish.",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": 0.4,
-    "base": 749.17,
-    "last": 752.11,
+    "last": 217.07,
     "base_date": "2026-07-13",
     "last_date": "2026-07-14"
    }
@@ -896,6 +920,22 @@
    "primary_ticker": "PLTR",
    "strength": 40,
    "reason": "Wall Street debate on Palantir valuation; relevant but direction ambiguous between bullish and bearish takes"
+  },
+  {
+   "date": "2026-07-10T06:23:34Z",
+   "platform": "News",
+   "text": "Eric Trump American Bitcoin Shares Crash: Trump Family Loses 600 Million Dollars - zoomnews.in \u2014 Eric Trump American Bitcoin Shares Crash: Trump Family Loses 600 Million Dollars\u00a0\u00a0zoomnews.in",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSU5HYmZwU1pGZ0RlczFRQTNmMGFqZUJSRDlndjVmOS1SX2RmcUhQSjFhN0ZibjFCT2JlMGVOWXZLOElyT2pSdW9pX01OVExjejZwRHpLcDNWaWxtOTQzeG1mbENWR3BNT1NfZWE0dHE2YTBwRkRhaFFFMjBDM21vZHFwUXhwb3p2VFhLRldfYVp3cHRjT1RGempiNkJvMmh5a1YxcHVWaVQ4VUJVOWxVS1dXZk1XRDdVa1c3NTdPVljSAcYBQVVfeXFMUGg1RWpidDdHV0pSYlktVTVMU0lyOXNTM1kyYVM0OXFPNGZTSlZ5cGZPVjF0Rk1HbTRrbU9jNTBiZmkxMXhLdGtCckxkYmxpWmlNcGpFY3Z6TWxpYU9uZm50cXlWT1dyMzVrak9JcS1oU2g0ekdET0E4SDdtdXMzazQzUzFsckE1bm5KMkFLX1g5eXZWc1hJYXVKSWZZRUxUR0VnT1g2Y1pDbnBQZjFfVkphbUQyWTlYOGVTU0xMZHFhTWY1TGd3?oc=5",
+   "tickers": [
+    "TRUMP"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "TRUMP",
+   "strength": 70,
+   "reason": "Trump family crypto asset (American Bitcoin Shares) crash; bearish signal on Trump-linked holdings"
   },
   {
    "date": "2026-07-10T04:29:19Z",
@@ -2747,22 +2787,6 @@
    "primary_ticker": "DELL",
    "strength": 80,
    "reason": "News report of Trump's Dell endorsement causing stock rise; confirmed explicit recommendation."
-  },
-  {
-   "date": "2026-07-06T16:45:12Z",
-   "platform": "News",
-   "text": "'Go out and buy a Dell': President Trump's backing of the PC-maker has shares surging - AOL.com \u2014 'Go out and buy a Dell': President Trump's backing of the PC-maker has shares surging\u00a0\u00a0AOL.com",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPa0FQNUtaVG9ZdzFrdzlzeUlhTmpnY29tb2M1dWdydVJFbWdJbVctc2VuY0lsVVh6VG1ybU9QR0FkOWFKRGNJdndNazJ1ZVlJYmNTejREaG9PcmNYZEk0bTFtVFVuaVpOdjR3a1JBWXRHeFBwSWtWSnV0S1NQQm9Dd29YUQ?oc=5",
-   "tickers": [
-    "DELL"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "DELL",
-   "strength": 85,
-   "reason": "Trump's explicit backing of Dell causes shares to surge; direct public endorsement."
   },
   {
    "curated": true,
