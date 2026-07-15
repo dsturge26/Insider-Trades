@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-07-15T04:12:39Z",
+ "last_updated": "2026-07-15T06:29:19Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-07-14T16:37:39Z",
+   "platform": "News",
+   "text": "Trump regrets once selling IBM\u2019s stock. Now he\u2019s cheering its quantum future and dealing its shares. - MSN \u2014 Trump regrets once selling IBM\u2019s stock. Now he\u2019s cheering its quantum future and dealing its shares.\u00a0\u00a0MSN",
+   "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQT043MVh5ckhpY3NOTlk2U1J1QmYzQzRKdlhLQWdEWFowbV9jVHdmT2lYNDN1dF82c1E1ZTFQZjBaVUczcmYtMDJnR1VIYVJtaWFocGxWWm42SmZFcTBBZVYtRnBGSTU0RXhJQnJ6dDRBTmxRcVY2Y1ZTeXpqQWZpaGNlcW84c1BYOHlKSWMtNnhRSGZFUlJfdDRjLWx4TXdVY0hvQXFScUY1eGUxN08ybEMzZ3VTckkwUXk4VE1DUWdMdFBCU2UwcmJyTlVpOFJ6NmN4Rmh1cFBjanZudW9ubGlZVVNrZk9PNzJNM1N0MngxTkh4b3VlMEUyaHBycVVOY0F3Ng?oc=5",
+   "tickers": [
+    "IBM"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "IBM",
+   "strength": 65,
+   "reason": "Trump cheering IBM's quantum future and repurchasing shares signals bullish view on the stock"
+  },
   {
    "date": "2026-07-14T15:48:49Z",
    "platform": "News",
@@ -34,6 +50,22 @@
    "primary_ticker": "XLE",
    "strength": 65,
    "reason": "Strait of Hormuz blockade on Iran increases oil supply concerns and geopolitical premium; bullish for energy sector"
+  },
+  {
+   "date": "2026-07-14T14:51:00Z",
+   "platform": "News",
+   "text": "IBM shares plummet as preliminary second quarter results miss expectations - Yahoo Finance UK \u2014 IBM shares plummet as preliminary second quarter results miss expectations\u00a0\u00a0Yahoo Finance UK",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeV92SXFXUHZ1U0dYT3FTTEVwei00T1ZQM1lBcE9uX1M5Q3hQX3dnSWRfQ04zV2Q1dzFVSDVCOWR1bzdkWUVtd0g0OXhuUEd1YXZ6QjJUalJWN2ExZlBoZTBXSjM5bDNyLWRrUllIUGVUanN6ZFBWSWVXVXZUWXFVVXdIWHhMZFgzNThQTDJNSQ?oc=5",
+   "tickers": [
+    "IBM"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "IBM",
+   "strength": 70,
+   "reason": "IBM Q2 results miss expectations, shares plummet on earnings disappointment"
   },
   {
    "date": "2026-07-14T14:35:03.261Z",
