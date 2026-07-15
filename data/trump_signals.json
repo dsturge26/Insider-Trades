@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-07-15T01:00:31Z",
+ "last_updated": "2026-07-15T04:12:39Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -101,6 +101,22 @@
    "reason": "Dell-Trump relationship payoff suggests favorable business environment and potential support"
   },
   {
+   "date": "2026-07-14T01:03:46Z",
+   "platform": "News",
+   "text": "Trump Warns Of Tariffs Up To 200% For Companies That Don't Build In The US \u2014 'We're Doing Great On Steel Because We Charge Tariffs' - Stocktwits \u2014 Trump Warns Of Tariffs Up To 200% For Companies That Don't Build In The US \u2014 'We're Doing Great On Steel Because We Charge Tariffs'\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMm40WW15RHg0T0ZIMkQzNzBxd2RZZ3ZxbDVMSi1zTE9HQkNBdHdmdFlWendxcC1acHJmX0lmY1hRREpWYTRrZ2FsOGh3TnN0N0dwTEdLbTN0QlFjdXFPQTEyUWtEV1RIc3AyZ1hMR0lQOVpDM190ZmdEVWtLeWlpakxtYkY0QzF4ZlU3enY4a2FBUUZ5Zk9VNVAtemxnWDl1S3Ywc3l3R1FlZmpLZ2RoRmY2MzZ4dw?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "SPY",
+   "strength": 70,
+   "reason": "Trump tariff threat up to 200% on offshore manufacturers is broadly bearish"
+  },
+  {
    "date": "2026-07-13T20:31:53Z",
    "platform": "News",
    "text": "Trump touted Palantir on Truth Social after buying the company's stock, records show - MSN \u2014 Trump touted Palantir on Truth Social after buying the company's stock, records show\u00a0\u00a0MSN",
@@ -138,15 +154,7 @@
    "direction": "BUY",
    "primary_ticker": "C",
    "strength": 65,
-   "reason": "Trump explicitly lauded Citigroup's comeback and M&A performance, named company praise",
-   "price_since": {
-    "ticker": "C",
-    "pct": -5.3,
-    "base": 140.71,
-    "last": 133.27,
-    "base_date": "2026-07-13",
-    "last_date": "2026-07-14"
-   }
+   "reason": "Trump explicitly lauded Citigroup's comeback and M&A performance, named company praise"
   },
   {
    "date": "2026-07-13T18:25:53Z",
@@ -202,15 +210,7 @@
    "direction": "SELL",
    "primary_ticker": "XLE",
    "strength": 60,
-   "reason": "Iranian blockade and new cargo tax disrupt oil markets and shipping costs",
-   "price_since": {
-    "ticker": "XLE",
-    "pct": 0.4,
-    "base": 56.74,
-    "last": 56.95,
-    "base_date": "2026-07-13",
-    "last_date": "2026-07-14"
-   }
+   "reason": "Iranian blockade and new cargo tax disrupt oil markets and shipping costs"
   },
   {
    "date": "2026-07-13T16:00:00Z",
@@ -226,15 +226,7 @@
    "direction": "BUY",
    "primary_ticker": "XAR",
    "strength": 65,
-   "reason": "Trump administration defense spending pours money into sector; sons' investment signals bullish outlook on defense tech",
-   "price_since": {
-    "ticker": "XAR",
-    "pct": 0.9,
-    "base": 264.17,
-    "last": 266.56,
-    "base_date": "2026-07-13",
-    "last_date": "2026-07-14"
-   }
+   "reason": "Trump administration defense spending pours money into sector; sons' investment signals bullish outlook on defense tech"
   },
   {
    "date": "2026-07-13T15:29:12Z",
@@ -275,15 +267,7 @@
    "direction": "BUY",
    "primary_ticker": "QQQ",
    "strength": 55,
-   "reason": "Trump emphasizes US AI leadership vs China; bullish macro signal for US tech/AI sector to maintain dominance",
-   "price_since": {
-    "ticker": "QQQ",
-    "pct": 1.1,
-    "base": 711.74,
-    "last": 719.71,
-    "base_date": "2026-07-13",
-    "last_date": "2026-07-14"
-   }
+   "reason": "Trump emphasizes US AI leadership vs China; bullish macro signal for US tech/AI sector to maintain dominance"
   },
   {
    "date": "2026-07-13T14:23:43Z",
@@ -324,15 +308,7 @@
    "direction": "BUY",
    "primary_ticker": "XLE",
    "strength": 60,
-   "reason": "Trump credits lowering oil and gas prices as positive economic signal; bullish energy sector sentiment",
-   "price_since": {
-    "ticker": "XLE",
-    "pct": 0.4,
-    "base": 56.74,
-    "last": 56.95,
-    "base_date": "2026-07-13",
-    "last_date": "2026-07-14"
-   }
+   "reason": "Trump credits lowering oil and gas prices as positive economic signal; bullish energy sector sentiment"
   },
   {
    "date": "2026-07-13T12:24:27Z",
@@ -348,15 +324,7 @@
    "direction": "WATCH",
    "primary_ticker": "MU",
    "strength": 50,
-   "reason": "Trump praised Micron but analyst shorting it; mixed signal on semiconductor.",
-   "price_since": {
-    "ticker": "MU",
-    "pct": 4.9,
-    "base": 937.0,
-    "last": 983.12,
-    "base_date": "2026-07-13",
-    "last_date": "2026-07-14"
-   }
+   "reason": "Trump praised Micron but analyst shorting it; mixed signal on semiconductor."
   },
   {
    "date": "2026-07-13T01:33:00Z",
@@ -372,15 +340,7 @@
    "direction": "SELL",
    "primary_ticker": "SPY",
    "strength": 45,
-   "reason": "Military strikes on Iran create geopolitical risk and broad market uncertainty.",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": 0.4,
-    "base": 749.17,
-    "last": 751.83,
-    "base_date": "2026-07-13",
-    "last_date": "2026-07-14"
-   }
+   "reason": "Military strikes on Iran create geopolitical risk and broad market uncertainty."
   },
   {
    "date": "2026-07-13T01:03:05.451Z",
@@ -397,15 +357,7 @@
    "direction": "BUY",
    "primary_ticker": "XLE",
    "strength": 35,
-   "reason": "Lower oil and gas prices cited positively; energy sector may benefit from supply or sentiment.",
-   "price_since": {
-    "ticker": "XLE",
-    "pct": 0.4,
-    "base": 56.74,
-    "last": 56.95,
-    "base_date": "2026-07-13",
-    "last_date": "2026-07-14"
-   }
+   "reason": "Lower oil and gas prices cited positively; energy sector may benefit from supply or sentiment."
   },
   {
    "date": "2026-07-12T20:28:25Z",
@@ -432,30 +384,6 @@
    }
   },
   {
-   "date": "2026-07-12T18:44:59Z",
-   "platform": "News",
-   "text": "Trump Warns Of Tariffs Up To 200% For Companies That Don't Build In The US \u2014 'We're Doing Great On Steel Because We Charge Tariffs' - Stocktwits \u2014 Trump Warns Of Tariffs Up To 200% For Companies That Don't Build In The US \u2014 'We're Doing Great On Steel Because We Charge Tariffs'\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMm40WW15RHg0T0ZIMkQzNzBxd2RZZ3ZxbDVMSi1zTE9HQkNBdHdmdFlWendxcC1acHJmX0lmY1hRREpWYTRrZ2FsOGh3TnN0N0dwTEdLbTN0QlFjdXFPQTEyUWtEV1RIc3AyZ1hMR0lQOVpDM190ZmdEVWtLeWlpakxtYkY0QzF4ZlU3enY4a2FBUUZ5Zk9VNVAtemxnWDl1S3Ywc3l3R1FlZmpLZ2RoRmY2MzZ4dw?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "SPY",
-   "strength": 70,
-   "reason": "Tariffs up to 200% on non-US manufacturing is bearish for broad market",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": 0.4,
-    "base": 749.17,
-    "last": 751.83,
-    "base_date": "2026-07-13",
-    "last_date": "2026-07-14"
-   }
-  },
-  {
    "date": "2026-07-12T16:15:02Z",
    "platform": "News",
    "text": "Critical Metals Stock Surges As Trump Sets Sights On Greenland Yet Again: 'Big, Poorly Run, Piece Of Ice!' - Stocktwits \u2014 Critical Metals Stock Surges As Trump Sets Sights On Greenland Yet Again: 'Big, Poorly Run, Piece Of Ice!'\u00a0\u00a0Stocktwits",
@@ -469,15 +397,7 @@
    "direction": "BUY",
    "primary_ticker": "XME",
    "strength": 35,
-   "reason": "Trump interest in Greenland and critical metals suggests rare-earth/metals demand spike, bullish for materials sector",
-   "price_since": {
-    "ticker": "XME",
-    "pct": 2.3,
-    "base": 102.09,
-    "last": 104.42,
-    "base_date": "2026-07-13",
-    "last_date": "2026-07-14"
-   }
+   "reason": "Trump interest in Greenland and critical metals suggests rare-earth/metals demand spike, bullish for materials sector"
   },
   {
    "date": "2026-07-12T10:17:00Z",
@@ -565,15 +485,7 @@
    "direction": "WATCH",
    "primary_ticker": "SPY",
    "strength": 35,
-   "reason": "Trump weighs in on multiple tech figures and criticizes Fed Board; ambiguous direction and general macro commentary without specific action.",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": 0.4,
-    "base": 749.17,
-    "last": 751.83,
-    "base_date": "2026-07-13",
-    "last_date": "2026-07-14"
-   }
+   "reason": "Trump weighs in on multiple tech figures and criticizes Fed Board; ambiguous direction and general macro commentary without specific action."
   },
   {
    "date": "2026-07-11T16:43:47Z",
@@ -589,15 +501,7 @@
    "direction": "BUY",
    "primary_ticker": "INTC",
    "strength": 45,
-   "reason": "Trump sentiment attributed to INTC rally; inferred bullish but unclear strength.",
-   "price_since": {
-    "ticker": "INTC",
-    "pct": 4.5,
-    "base": 103.12,
-    "last": 107.76,
-    "base_date": "2026-07-13",
-    "last_date": "2026-07-14"
-   }
+   "reason": "Trump sentiment attributed to INTC rally; inferred bullish but unclear strength."
   },
   {
    "date": "2026-07-11T15:31:00Z",
@@ -613,15 +517,7 @@
    "direction": "SELL",
    "primary_ticker": "USO",
    "strength": 45,
-   "reason": "Threat to 'destroy' Iran implies elevated geopolitical risk and potential oil market volatility.",
-   "price_since": {
-    "ticker": "USO",
-    "pct": 2.0,
-    "base": 117.79,
-    "last": 120.17,
-    "base_date": "2026-07-13",
-    "last_date": "2026-07-14"
-   }
+   "reason": "Threat to 'destroy' Iran implies elevated geopolitical risk and potential oil market volatility."
   },
   {
    "date": "2026-07-11T15:00:33Z",
@@ -637,15 +533,7 @@
    "direction": "BUY",
    "primary_ticker": "IBM",
    "strength": 85,
-   "reason": "Trump administration awards IBM $1B federal contract for quantum foundry; explicit federal contract to named public company is bullish",
-   "price_since": {
-    "ticker": "IBM",
-    "pct": -25.2,
-    "base": 290.23,
-    "last": 217.07,
-    "base_date": "2026-07-13",
-    "last_date": "2026-07-14"
-   }
+   "reason": "Trump administration awards IBM $1B federal contract for quantum foundry; explicit federal contract to named public company is bullish"
   },
   {
    "date": "2026-07-11T11:57:07Z",
@@ -2809,227 +2697,6 @@
    "reason": "Trump's majority-owned stock debuts \u2014 pure sentiment play, extremely volatile and headline-driven.",
    "market_reaction": "DJT spiked on debut then stayed volatile, moving heavily on Trump political/legal news.",
    "url": "https://www.nasdaq.com/market-activity/stocks/djt"
-  },
-  {
-   "date": "2021-07-01T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "HARRIS CORPORATION was awarded a $2.1B federal contract from Department of Transportation.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_693KA821F00222_6920_DTFA0102D03006_6920",
-   "tickers": [
-    "HRS"
-   ],
-   "contract_amount": 2.1,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "HRS",
-   "strength": 75,
-   "reason": "Harris Corporation awarded $2.1B DoT federal contract; direct revenue boost to defense/aerospace contractor"
-  },
-  {
-   "date": "2020-05-13T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "SPACE EXPLORATION TECHNOLOGIES CORP. was awarded a $3.0B federal contract from National Aeronautics and Space Administration.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_80MSFC20C0034_8000_-NONE-_-NONE-",
-   "tickers": [
-    "TSLA"
-   ],
-   "contract_amount": 3.05,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "TSLA",
-   "strength": 70,
-   "reason": "SpaceX awarded $3.0B NASA contract; Elon Musk-led; marginal positive signal for TSLA given cross-holdings and tech synergy"
-  },
-  {
-   "date": "2019-10-16T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "THE BOEING COMPANY was awarded a $2.6B federal contract from National Aeronautics and Space Administration.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_80MSFC20C0052_8000_-NONE-_-NONE-",
-   "tickers": [
-    "BA"
-   ],
-   "contract_amount": 2.59,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "BA",
-   "strength": 80,
-   "reason": "Boeing awarded $2.6B NASA contract; direct revenue and program support for major defense/aerospace contractor"
-  },
-  {
-   "date": "2019-06-19T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "GENERAL DYNAMICS INFORMATION TECHNOLOGY, INC. was awarded a $1.6B federal contract from Department of State.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_19AQMM18C0185_1900_-NONE-_-NONE-",
-   "tickers": [
-    "GD"
-   ],
-   "contract_amount": 1.59,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "GD",
-   "strength": 75,
-   "reason": "General Dynamics subsidiary awarded $1.6B DoS federal contract; direct revenue to parent General Dynamics"
-  },
-  {
-   "date": "2015-11-01T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "AEROJET ROCKETDYNE OF DE, INC was awarded a $3.3B federal contract from National Aeronautics and Space Administration.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_NNM16AA02C_8000_-NONE-_-NONE-",
-   "tickers": [
-    "RTX"
-   ],
-   "contract_amount": 3.31,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "RTX",
-   "strength": 80,
-   "reason": "Aerojet Rocketdyne (RTX subsidiary) awarded $3.3B NASA contract; direct revenue and strategic boost to Raytheon Technologies"
-  },
-  {
-   "date": "2015-09-03T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "NORTHROP GRUMMAN SYSTEMS CORPORATION was awarded a $1.6B federal contract from National Aeronautics and Space Administration.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_NNH15CN76C_8000_-NONE-_-NONE-",
-   "tickers": [
-    "NOC"
-   ],
-   "contract_amount": 1.61,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "NOC",
-   "strength": 80,
-   "reason": "Northrop Grumman awarded $1.6B NASA contract; direct revenue boost to major defense contractor"
-  },
-  {
-   "date": "2011-12-23T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "LEIDOS, INC. was awarded a $3.1B federal contract from National Science Foundation.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_NSFDACS1219442_4900_-NONE-_-NONE-",
-   "tickers": [
-    "LDOS"
-   ],
-   "contract_amount": 3.09,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "LDOS",
-   "strength": 80,
-   "reason": "Leidos awarded $3.1B NSF federal contract; direct revenue to publicly-traded defense/IT contractor"
-  },
-  {
-   "date": "2008-07-25T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "HARRIS CORPORATION was awarded a $1.6B federal contract from Department of Transportation.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_DTFA0102D03006CALL0001_6920_DTFA0102D03006_6920",
-   "tickers": [
-    "HRS"
-   ],
-   "contract_amount": 1.57,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "HRS",
-   "strength": 75,
-   "reason": "Harris Corporation awarded second $1.6B DoT federal contract; cumulative revenue boost and program validation"
-  },
-  {
-   "date": "2007-09-01T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "THE BOEING COMPANY was awarded a $10.5B federal contract from National Aeronautics and Space Administration.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_NNM07AB03C_8000_-NONE-_-NONE-",
-   "tickers": [
-    "BA"
-   ],
-   "contract_amount": 10.51,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "BA",
-   "strength": 85,
-   "reason": "Boeing awarded large $10.5B NASA contract; major revenue and strategic program support"
-  },
-  {
-   "date": "2006-09-06T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "LOCKHEED MARTIN CORP was awarded a $15.6B federal contract from National Aeronautics and Space Administration.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_NNJ06TA25C_8000_-NONE-_-NONE-",
-   "tickers": [
-    "LMT"
-   ],
-   "contract_amount": 15.56,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "LMT",
-   "strength": 90,
-   "reason": "Lockheed Martin awarded massive $15.6B NASA contract; substantial revenue and long-term program anchor"
-  },
-  {
-   "date": "2006-04-17T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "NORTHROP GRUMMAN SYSTEMS CORPORATION was awarded a $4.4B federal contract from National Aeronautics and Space Administration.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_NNM07AA75C_8000_-NONE-_-NONE-",
-   "tickers": [
-    "NOC"
-   ],
-   "contract_amount": 4.43,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "NOC",
-   "strength": 85,
-   "reason": "Northrop Grumman awarded large $4.4B NASA contract; significant revenue and program scope"
-  },
-  {
-   "date": "1993-11-15T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "THE BOEING COMPANY was awarded a $22.4B federal contract from National Aeronautics and Space Administration.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_NAS1510000_8000_-NONE-_-NONE-",
-   "tickers": [
-    "BA"
-   ],
-   "contract_amount": 22.44,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "BA",
-   "strength": 95,
-   "reason": "Boeing awarded massive $22.4B NASA contract; transformational revenue and flagship program award"
-  },
-  {
-   "date": "1993-10-15T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "LOCKHEED MARTIN CORP was awarded a $48.1B federal contract from Department of Energy.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_DEAC0494AL85000_8900_-NONE-_-NONE-",
-   "tickers": [
-    "LMT"
-   ],
-   "contract_amount": 48.06,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "LMT",
-   "strength": 95,
-   "reason": "Lockheed Martin awarded mega $48.1B DoE federal contract; transformational revenue and long-term strategic value"
   }
  ],
  "how_to_read": "Each card is Claude's read of a public Trump post: the affected ticker, whether it implies BUY / SELL / WATCH, a 0\u2013100 strength (how explicit/emphatic the post is \u2014 NOT a profit predictor), and why. A 2-year backtest found these don't beat buy-and-hold, so this is for awareness, not trading. Not financial advice."
