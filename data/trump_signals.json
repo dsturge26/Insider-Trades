@@ -1,7 +1,24 @@
 {
- "last_updated": "2026-07-15T08:56:46Z",
+ "last_updated": "2026-07-15T10:53:44Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-07-15T10:16:36.880Z",
+   "platform": "Truth Social",
+   "text": "Great News America! The  Dumocrat caused inflation is way down from what it had been, and we will bring it down still further. MAGA!",
+   "tickers": [
+    "SPY"
+   ],
+   "engagement": 261,
+   "url": "https://truthsocial.com/@realDonaldTrump/116923472077180326",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "SPY",
+   "strength": 25,
+   "reason": "inflation down implies macro relief; broad market benefit but vague/boilerplate messaging"
+  },
   {
    "date": "2026-07-15T07:12:23Z",
    "platform": "News",
@@ -240,6 +257,30 @@
     "pct": 2.7,
     "base": 76.73,
     "last": 78.81,
+    "base_date": "2026-07-13",
+    "last_date": "2026-07-14"
+   }
+  },
+  {
+   "date": "2026-07-13T17:00:07Z",
+   "platform": "News",
+   "text": "Trump faces fresh corruption claims after telling Americans to 'go out and buy a Dell computer' - MSN \u2014 Trump faces fresh corruption claims after telling Americans to 'go out and buy a Dell computer'\u00a0\u00a0MSN",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxORlE3MGYxVzdMUVlOUXZxY3VQMTdtQjhYelFGejlETElmY2w5THd1ZU02ek1uN3lWc3VNY1pyY2JUa0NzejhWMWFlOEE5ZVR3ZEdpSldveXdYZHRud08taDNWYVduUnlYbkl4WlRkM2pSOFhFVFpZVmpSVFZSVGRSRXlnemhnMVp5Q3ZrajRVQlJ5MVJYNnJtd1I3VXEwM0xKWW85Y3hVVWx6SDF0OUZac2tDRURacU1QM1QxR2h1QnlIUjRXVFBxS0ZncG9PMjNsYWdYaE1aZ2x3V19mbFBQNFdDc0U3eWNVTmswc00xWS1GQzZU?oc=5",
+   "tickers": [
+    "DELL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "DELL",
+   "strength": 85,
+   "reason": "Trump tells Americans to buy DELL computers; explicit consumer endorsement of named company",
+   "price_since": {
+    "ticker": "DELL",
+    "pct": 7.1,
+    "base": 427.11,
+    "last": 457.54,
     "base_date": "2026-07-13",
     "last_date": "2026-07-14"
    }
@@ -2627,38 +2668,6 @@
    "primary_ticker": "SPACEX",
    "strength": 40,
    "reason": "SpaceX donates stock to Trump Accounts; unclear direct market impact since SpaceX is private; narrative-driven"
-  },
-  {
-   "date": "2026-07-06T18:02:18Z",
-   "platform": "News",
-   "text": "Trump Plugs Dell at First-Ever White House Opening Bell, Sending Shares Soaring - Medium \u2014 Trump Plugs Dell at First-Ever White House Opening Bell, Sending Shares Soaring\u00a0\u00a0Medium",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNV2JEOFh6al83eGIwdDR6UmN3QTVJb1puQ1RrQWZiaVV1ZDRYOWVDNTY1aFFKeDEyTU5BbnlDLVkwamVMbDFTOTkySGlxYjZqUFY2NkQ4Mm52TnFKZUgwMVVTOFl1d201bkhOaDBveU1Ddllhbk9WMUxLUl9EYjhGNWpfbDhtU1RuLTVoVGlZd0x3eVpReS1TVVd5RDZ6N1Z6eWNZWmNRb0xyaFNDUERYMW0tT1N4bkFIaDhUelNYM2hOekU?oc=5",
-   "tickers": [
-    "DELL"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "DELL",
-   "strength": 90,
-   "reason": "Trump plugs Dell at White House opening bell; shares soar"
-  },
-  {
-   "date": "2026-07-06T17:56:08Z",
-   "platform": "News",
-   "text": "Trump wants you to buy a Dell. The stock is getting bought, too. - MSN \u2014 Trump wants you to buy a Dell. The stock is getting bought, too.\u00a0\u00a0MSN",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQM1ZNT0tVLTRFSEtNQTJkcENHVkNkenNwMWdmdmVFQ0c2WTFCSE40bzM0bWRLaHBJc3ZBSlpKSHdBZnVSWjZmekZDdWJDT19TQUg5TC12REVDY2VEd1dWZTN5VkNCWk9UQXo2WFI2aFlqWUpGUVV1TmR0LUg2bV8za1Q3bHF0ZmltTmhkeEZodHNqUzNRWEpKUGdFUTgyY2NwcHFQa0x2YkVhYzR1dkpkYU42VQ?oc=5",
-   "tickers": [
-    "DELL"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "DELL",
-   "strength": 90,
-   "reason": "Trump explicitly tells Americans to buy Dell; stock bought up in response"
   },
   {
    "curated": true,
