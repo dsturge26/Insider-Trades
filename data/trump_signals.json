@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-07-15T22:12:30Z",
+ "last_updated": "2026-07-15T23:13:41Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -762,9 +762,9 @@
    "reason": "Trump explicitly told Americans to buy Dell; direct market catalyst.",
    "price_since": {
     "ticker": "DELL",
-    "pct": -3.2,
+    "pct": -3.4,
     "base": 427.11,
-    "last": 413.27,
+    "last": 412.68,
     "base_date": "2026-07-13",
     "last_date": "2026-07-15"
    }
@@ -786,9 +786,9 @@
    "reason": "Trump weighs in on multiple tech figures and criticizes Fed Board; ambiguous direction and general macro commentary without specific action.",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.7,
+    "pct": 0.8,
     "base": 749.17,
-    "last": 754.05,
+    "last": 754.81,
     "base_date": "2026-07-13",
     "last_date": "2026-07-15"
    }
@@ -807,7 +807,15 @@
    "direction": "BUY",
    "primary_ticker": "INTC",
    "strength": 45,
-   "reason": "Trump sentiment attributed to INTC rally; inferred bullish but unclear strength."
+   "reason": "Trump sentiment attributed to INTC rally; inferred bullish but unclear strength.",
+   "price_since": {
+    "ticker": "INTC",
+    "pct": -0.1,
+    "base": 103.12,
+    "last": 102.99,
+    "base_date": "2026-07-13",
+    "last_date": "2026-07-15"
+   }
   },
   {
    "date": "2026-07-11T15:31:00Z",
