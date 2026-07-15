@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-07-15T06:29:19Z",
+ "last_updated": "2026-07-15T08:56:46Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-07-15T07:12:23Z",
+   "platform": "News",
+   "text": "DELL Stock Spikes To Record Highs On President Trump\u2019s Endorsement - Stocktwits \u2014 DELL Stock Spikes To Record Highs On President Trump\u2019s Endorsement\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYWF1OUgweFU0d1NlNU4ya1FYQVJSVTRCX3IwM0NMd19VVmN5RzNtUmc1c2FhTU9abXdnTmVnMDE2QUxna3ZrUEF3Zkd0SFUtOWx3QkF2elBuNkNTcmZDRm1BRUkwMVRwYU0xaUVsWDZLSk0yeEtiMFFPV0t3ZXZ3OW15QUg5V0xHNnRrU1J5VXdvX09Oa0ZmRmJvV0VTVlFRRFh6c3E5RmtHckx0MXpNVVZTWmJpLTUtUXBHSG5pWEFfQll0ejRneDFB?oc=5",
+   "tickers": [
+    "DELL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "DELL",
+   "strength": 85,
+   "reason": "Trump explicitly endorses Dell and its stock; direct market signal."
+  },
   {
    "date": "2026-07-14T16:37:39Z",
    "platform": "News",
@@ -392,25 +408,25 @@
    "reason": "Lower oil and gas prices cited positively; energy sector may benefit from supply or sentiment."
   },
   {
-   "date": "2026-07-12T20:28:25Z",
+   "date": "2026-07-13T00:14:15Z",
    "platform": "News",
-   "text": "DELL Stock Spikes To Record Highs On President Trump\u2019s Endorsement - Stocktwits \u2014 DELL Stock Spikes To Record Highs On President Trump\u2019s Endorsement\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYWF1OUgweFU0d1NlNU4ya1FYQVJSVTRCX3IwM0NMd19VVmN5RzNtUmc1c2FhTU9abXdnTmVnMDE2QUxna3ZrUEF3Zkd0SFUtOWx3QkF2elBuNkNTcmZDRm1BRUkwMVRwYU0xaUVsWDZLSk0yeEtiMFFPV0t3ZXZ3OW15QUg5V0xHNnRrU1J5VXdvX09Oa0ZmRmJvV0VTVlFRRFh6c3E5RmtHckx0MXpNVVZTWmJpLTUtUXBHSG5pWEFfQll0ejRneDFB?oc=5",
+   "text": "PLTR Stock Faces Split Narrative: Retail Bulls Hold Firm As Burry Sounds Alarm, Trump Signals Support - Stocktwits \u2014 PLTR Stock Faces Split Narrative: Retail Bulls Hold Firm As Burry Sounds Alarm, Trump Signals Support\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSFRDSVNMdHk3NEtMbFEwQ1ZRT2tLY3h1cEFvOTVjb182Qm1QUnVqTlE2dWhzYXZpaXBoN3gyNlg4dWVWY0dldndhRDZoOGE2N2ZSMTgxb1Ayb0RWanA3a0hEeEhKWGtYRENBSGZ0d0wySmlrSWpzM1BmcXZpTUdDOXcwMVl0NXVKYjMyOEFvYmVpYk9uOVRSaWdleVNEQnZkZk1tUE5vRURtNjdubE0wTUhLSFFUbGc3OUs5UVpJQXhVTHdZLTdLTmZDQVkxMUVwd3c?oc=5",
    "tickers": [
-    "DELL"
+    "PLTR"
    ],
    "classified": true,
    "is_market": true,
    "explicit": true,
    "direction": "BUY",
-   "primary_ticker": "DELL",
+   "primary_ticker": "PLTR",
    "strength": 75,
-   "reason": "Trump explicit endorsement of Dell stock spiking it to record highs.",
+   "reason": "Trump signals support for Palantir amid retail bullish stance; explicit positive endorsement.",
    "price_since": {
-    "ticker": "DELL",
-    "pct": 7.1,
-    "base": 427.11,
-    "last": 457.54,
+    "ticker": "PLTR",
+    "pct": 2.8,
+    "base": 130.04,
+    "last": 133.72,
     "base_date": "2026-07-13",
     "last_date": "2026-07-14"
    }
@@ -2643,38 +2659,6 @@
    "primary_ticker": "DELL",
    "strength": 90,
    "reason": "Trump explicitly tells Americans to buy Dell; stock bought up in response"
-  },
-  {
-   "date": "2026-07-06T17:23:28Z",
-   "platform": "News",
-   "text": "'Go out and buy a Dell': President Trump's backing of the PC-maker has shares surging - LinkedIn \u2014 'Go out and buy a Dell': President Trump's backing of the PC-maker has shares surging\u00a0\u00a0LinkedIn",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTUplVjlWa3RkeEUtckR3cGFQMHZpQWJoTXJFbGo5bW8zVUdJNE1nMlExMU56T0hOemlrMm1hYlBWOHQweGEtX2Y1ak5Pdy1LVVdNa3lpNzlMak1pcWEyeEhGWjdtVmwzeGMzSVJWYlZCSUMtay1iMHJHRUpZcm5wMk1TZnFscnJZOGw3S1hlbVRaYnBleGlTX09ELUxzbnZ0OEdpQzdTaG1fZ2RobHhKSVh5dXVDay1xZ0RR?oc=5",
-   "tickers": [
-    "DELL"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "DELL",
-   "strength": 90,
-   "reason": "Trump's explicit 'Go out and buy a Dell' statement; direct presidential endorsement of specific company"
-  },
-  {
-   "date": "2026-07-06T17:10:46Z",
-   "platform": "News",
-   "text": "AI memory, chip stocks rise after last week's sell-off; Trump praises Dell - MSN \u2014 AI memory, chip stocks rise after last week's sell-off; Trump praises Dell\u00a0\u00a0MSN",
-   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOODNJLV9qSWF2SlFxTExiRlR4ZU5BM0FhenZvN3EzOTM1WWQ4RGR5YW5LRElhYlZLNl9iQkdTQzNpeVdyUDNjYlRCNmwwTENjVEREWjh3Ri1ZdElFbmVXQy0zQm9xVTBrYmNSelg5dGJ5TnZFSGNlSk9uQWh4UzB1eXNZbDFVeHloam5UTWwyWXhhQS1Cc2tLeW14Y2N1M1gxTEdqX0RrWGw5VS1SeGdXRjBwd0dXZFR0bkRFZHF4NEduYzFYMWwxdzVyVWc5TVFnZ25BSG51bWxsdWx6Q21nYkx3?oc=5",
-   "tickers": [
-    "DELL"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "DELL",
-   "strength": 75,
-   "reason": "Trump praises Dell; chip stocks rally on AI memory demand"
   },
   {
    "curated": true,
