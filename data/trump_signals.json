@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-07-16T19:46:36Z",
+ "last_updated": "2026-07-16T20:58:10Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -81,6 +81,22 @@
    "primary_ticker": "NVDA",
    "strength": 75,
    "reason": "Trump bought stocks then promoted them publicly; explicit pump-and-dump signal on unnamed companies (NVDA, TSLA, AAPL per other headlines)."
+  },
+  {
+   "date": "2026-07-16T15:49:45Z",
+   "platform": "News",
+   "text": "Trump's posts and stock trades raise fresh conflict-of-interest questions: Report - Firstpost \u2014 Trump's posts and stock trades raise fresh conflict-of-interest questions: Report\u00a0\u00a0Firstpost",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdDBKNWhIWVV0cDVuUUxaOHMyWER3Sm80cjhQWV9fTUltZXhOVlRFbTNaMFE2N0tMbVBnNzIwQXIzdzYzSXVfanF2YlU0Q3g4Rm1hQlNzREJaemJaU2NQSThrcGEzUTJLLVVhSVozNnVyTEZfZy1UdEI5cERQZlZEUnNrNDQ4Z3lCc01RNUdObEV4ZFJtUURuZnVuNExuek9oa2R1RU8zSUJzTFR5WTYxdWJ2YndQbXZ5X2U2aV9lMkgwTFk5VXlj0gHMAUFVX3lxTE1VcVpYSmVRWTNEMXlwSUx2NTJnMW0wTTFQRUtsSndTdVdzRU9JaVg3bE11T0tmN19odzFrWS1mR1Byd0lIVy1LUHBGMGpTR210YzRUOUwwTE9sMFh4ampsd0VaMWMydnhzNTJmdTR6d1Zoa1I1ZFk2a3QzVHFNd0dTV3dpN0JBN05XVExrS2diSXlBaVRiaWNTWThnWDdZSGxSZDR4ZFFpVm9HVFFaZTZQZlZQNUlvVnA2MkV6ZG40NElXRVBTbzV3dVdERw?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "SPY",
+   "strength": 30,
+   "reason": "Conflict-of-interest questions about Trump's posts and stock trades; market-relevant but direction and specificity unclear."
   },
   {
    "date": "2026-07-16T15:33:14Z",
@@ -227,9 +243,9 @@
    "reason": "Trump praises Citigroup's M&A comeback; explicit praise for named financial stock; stock rallies on comment.",
    "price_since": {
     "ticker": "C",
-    "pct": -2.5,
+    "pct": -2.4,
     "base": 134.89,
-    "last": 131.57,
+    "last": 131.71,
     "base_date": "2026-07-15",
     "last_date": "2026-07-16"
    }
@@ -299,9 +315,9 @@
    "reason": "Trump endorsement of MyPillow CEO could indirectly support MyPillow parent company, but endorsement is political not a direct business recommendation",
    "price_since": {
     "ticker": "MNKD",
-    "pct": -1.0,
+    "pct": -1.2,
     "base": 4.09,
-    "last": 4.05,
+    "last": 4.04,
     "base_date": "2026-07-15",
     "last_date": "2026-07-16"
    }
@@ -339,9 +355,9 @@
    "reason": "Trump endorsement of MyPillow CEO could indirectly support MyPillow parent, but endorsement is political not a direct business recommendation",
    "price_since": {
     "ticker": "MNKD",
-    "pct": -1.0,
+    "pct": -1.2,
     "base": 4.09,
-    "last": 4.05,
+    "last": 4.04,
     "base_date": "2026-07-15",
     "last_date": "2026-07-16"
    }
@@ -363,9 +379,9 @@
    "reason": "Trump endorsement of MyPillow CEO could indirectly support MyPillow parent, but endorsement is political not a direct business recommendation",
    "price_since": {
     "ticker": "MNKD",
-    "pct": -1.0,
+    "pct": -1.2,
     "base": 4.09,
-    "last": 4.05,
+    "last": 4.04,
     "base_date": "2026-07-15",
     "last_date": "2026-07-16"
    }
@@ -404,9 +420,9 @@
    "reason": "Trump criticizes NY data center policy; implies capital/jobs flow to red states; mild bearish macro read on growth prospects.",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.8,
+    "pct": -0.5,
     "base": 754.81,
-    "last": 748.43,
+    "last": 750.72,
     "base_date": "2026-07-15",
     "last_date": "2026-07-16"
    }
@@ -428,9 +444,9 @@
    "reason": "Trump endorsement of MyPillow CEO could indirectly support MyPillow parent, but endorsement is political not a direct business recommendation",
    "price_since": {
     "ticker": "MNKD",
-    "pct": -1.0,
+    "pct": -1.2,
     "base": 4.09,
-    "last": 4.05,
+    "last": 4.04,
     "base_date": "2026-07-15",
     "last_date": "2026-07-16"
    }
@@ -452,9 +468,9 @@
    "reason": "Trump endorsement of MyPillow CEO could indirectly support MyPillow parent, but endorsement is political not a direct business recommendation",
    "price_since": {
     "ticker": "MNKD",
-    "pct": -1.0,
+    "pct": -1.2,
     "base": 4.09,
-    "last": 4.05,
+    "last": 4.04,
     "base_date": "2026-07-15",
     "last_date": "2026-07-16"
    }
