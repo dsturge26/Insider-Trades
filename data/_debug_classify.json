@@ -1,14 +1,11 @@
 {
- "generated": "2026-07-16T06:05:01Z",
+ "generated": "2026-07-16T08:34:09Z",
  "model": "claude-haiku-4-5",
  "key_present": true,
- "pending": 25,
- "errors": [
-  "Error code: 529 - {'type': 'error', 'error': {'type': 'overloaded_error', 'message': 'Overloaded'}, 'request_id': 'req_011Cd5ESUn131hym3Mg8i75m'}",
-  "Error code: 529 - {'type': 'error', 'error': {'type': 'overloaded_error', 'message': 'Overloaded'}, 'request_id': 'req_011Cd5ETLxjK947oQZhnkUe7'}"
- ],
- "classified_market": 0,
- "dropped_nonmarket": 0,
+ "pending": 39,
+ "cache_read": 0,
+ "classified_market": 1,
+ "dropped_nonmarket": 38,
  "price_updates": 40,
- "after_dedupe": 142
+ "after_dedupe": 114
 }
