@@ -1,7 +1,39 @@
 {
- "last_updated": "2026-07-16T12:09:49Z",
+ "last_updated": "2026-07-16T14:23:02Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-07-16T10:00:25Z",
+   "platform": "News",
+   "text": "Trump promoted companies on Truth Social days after buying their stocks - CNN \u2014 Trump promoted companies on Truth Social days after buying their stocks\u00a0\u00a0CNN",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9tWFFXdnV0eVdtRnZwU3gyV1RFUktJd0dFSFRremZ5S3R3dWJtWmpENzd2QmZ0WFBlU0UtVXlUTWE0REI5R0pRd1BjenRDU28wak9YY0wyU0lPX09fUlRTV0xSRHM2b0VYZDA5bm9xQ19mSTNISUQtNUlDODRSZw?oc=5",
+   "tickers": [
+    "DELL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "DELL",
+   "strength": 75,
+   "reason": "Trump promoted companies after buying their stocks \u2014 explicit market signal of buying"
+  },
+  {
+   "date": "2026-07-16T06:07:45Z",
+   "platform": "News",
+   "text": "Donald Trump Promotes Dell Technologies Driving Seven Percent Stock Surge - sekbernews.id \u2014 Donald Trump Promotes Dell Technologies Driving Seven Percent Stock Surge\u00a0\u00a0sekbernews.id",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBDQ3I2LXFQSkItTDVfd2hORnFlRU1qUVUyQ1JxTUFvNmxtbld5dWttRnA2dFJfVG1sUUROWFhEOHRMSldOaUNLRjkycHA3Xy1aYlN5YzVReFc4WDJSVjl2TFplTjZoX0Z4ZlZ4bQ?oc=5",
+   "tickers": [
+    "DELL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "DELL",
+   "strength": 80,
+   "reason": "Trump explicitly promotes Dell Technologies, driving stock surge"
+  },
   {
    "date": "2026-07-16T03:58:16Z",
    "platform": "News",
@@ -112,7 +144,15 @@
    "direction": "WATCH",
    "primary_ticker": "MNKD",
    "strength": 15,
-   "reason": "Trump endorsement of MyPillow CEO could indirectly support MyPillow parent company, but endorsement is political not a direct business recommendation"
+   "reason": "Trump endorsement of MyPillow CEO could indirectly support MyPillow parent company, but endorsement is political not a direct business recommendation",
+   "price_since": {
+    "ticker": "MNKD",
+    "pct": 1.2,
+    "base": 4.09,
+    "last": 4.14,
+    "base_date": "2026-07-15",
+    "last_date": "2026-07-16"
+   }
   },
   {
    "date": "2026-07-15T18:11:47Z",
@@ -144,7 +184,15 @@
    "direction": "WATCH",
    "primary_ticker": "MNKD",
    "strength": 15,
-   "reason": "Trump endorsement of MyPillow CEO could indirectly support MyPillow parent, but endorsement is political not a direct business recommendation"
+   "reason": "Trump endorsement of MyPillow CEO could indirectly support MyPillow parent, but endorsement is political not a direct business recommendation",
+   "price_since": {
+    "ticker": "MNKD",
+    "pct": 1.2,
+    "base": 4.09,
+    "last": 4.14,
+    "base_date": "2026-07-15",
+    "last_date": "2026-07-16"
+   }
   },
   {
    "date": "2026-07-15T17:16:26Z",
@@ -160,7 +208,15 @@
    "direction": "WATCH",
    "primary_ticker": "MNKD",
    "strength": 15,
-   "reason": "Trump endorsement of MyPillow CEO could indirectly support MyPillow parent, but endorsement is political not a direct business recommendation"
+   "reason": "Trump endorsement of MyPillow CEO could indirectly support MyPillow parent, but endorsement is political not a direct business recommendation",
+   "price_since": {
+    "ticker": "MNKD",
+    "pct": 1.2,
+    "base": 4.09,
+    "last": 4.14,
+    "base_date": "2026-07-15",
+    "last_date": "2026-07-16"
+   }
   },
   {
    "date": "2026-07-15T16:54:54Z",
@@ -193,7 +249,15 @@
    "direction": "SELL",
    "primary_ticker": "SPY",
    "strength": 35,
-   "reason": "Trump criticizes NY data center policy; implies capital/jobs flow to red states; mild bearish macro read on growth prospects."
+   "reason": "Trump criticizes NY data center policy; implies capital/jobs flow to red states; mild bearish macro read on growth prospects.",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": -0.2,
+    "base": 754.81,
+    "last": 753.43,
+    "base_date": "2026-07-15",
+    "last_date": "2026-07-16"
+   }
   },
   {
    "date": "2026-07-15T15:34:26Z",
@@ -209,7 +273,15 @@
    "direction": "WATCH",
    "primary_ticker": "MNKD",
    "strength": 15,
-   "reason": "Trump endorsement of MyPillow CEO could indirectly support MyPillow parent, but endorsement is political not a direct business recommendation"
+   "reason": "Trump endorsement of MyPillow CEO could indirectly support MyPillow parent, but endorsement is political not a direct business recommendation",
+   "price_since": {
+    "ticker": "MNKD",
+    "pct": 1.2,
+    "base": 4.09,
+    "last": 4.14,
+    "base_date": "2026-07-15",
+    "last_date": "2026-07-16"
+   }
   },
   {
    "date": "2026-07-15T15:27:21Z",
@@ -225,7 +297,15 @@
    "direction": "WATCH",
    "primary_ticker": "MNKD",
    "strength": 15,
-   "reason": "Trump endorsement of MyPillow CEO could indirectly support MyPillow parent, but endorsement is political not a direct business recommendation"
+   "reason": "Trump endorsement of MyPillow CEO could indirectly support MyPillow parent, but endorsement is political not a direct business recommendation",
+   "price_since": {
+    "ticker": "MNKD",
+    "pct": 1.2,
+    "base": 4.09,
+    "last": 4.14,
+    "base_date": "2026-07-15",
+    "last_date": "2026-07-16"
+   }
   },
   {
    "date": "2026-07-15T14:52:00Z",
@@ -273,7 +353,15 @@
    "direction": "WATCH",
    "primary_ticker": "MNKD",
    "strength": 20,
-   "reason": "Trump endorsement with positive language ('Spectacular') could modestly support MyPillow parent, but is political rather than direct business recommendation"
+   "reason": "Trump endorsement with positive language ('Spectacular') could modestly support MyPillow parent, but is political rather than direct business recommendation",
+   "price_since": {
+    "ticker": "MNKD",
+    "pct": 1.2,
+    "base": 4.09,
+    "last": 4.14,
+    "base_date": "2026-07-15",
+    "last_date": "2026-07-16"
+   }
   },
   {
    "date": "2026-07-15T14:29:23Z",
@@ -337,7 +425,15 @@
    "direction": "WATCH",
    "primary_ticker": "MNKD",
    "strength": 15,
-   "reason": "Trump endorsement of MyPillow CEO could indirectly support MyPillow parent, but endorsement is political not a direct business recommendation"
+   "reason": "Trump endorsement of MyPillow CEO could indirectly support MyPillow parent, but endorsement is political not a direct business recommendation",
+   "price_since": {
+    "ticker": "MNKD",
+    "pct": 1.2,
+    "base": 4.09,
+    "last": 4.14,
+    "base_date": "2026-07-15",
+    "last_date": "2026-07-16"
+   }
   },
   {
    "date": "2026-07-15T12:21:34Z",
@@ -385,7 +481,15 @@
    "direction": "WATCH",
    "primary_ticker": "PLTR",
    "strength": 40,
-   "reason": "Trump endorsement recovery noted but analyst (Burry) remains short; mixed signal"
+   "reason": "Trump endorsement recovery noted but analyst (Burry) remains short; mixed signal",
+   "price_since": {
+    "ticker": "PLTR",
+    "pct": -1.7,
+    "base": 133.76,
+    "last": 131.47,
+    "base_date": "2026-07-15",
+    "last_date": "2026-07-16"
+   }
   },
   {
    "date": "2026-07-15T10:16:36.880Z",
@@ -402,7 +506,15 @@
    "direction": "BUY",
    "primary_ticker": "SPY",
    "strength": 25,
-   "reason": "inflation down implies macro relief; broad market benefit but vague/boilerplate messaging"
+   "reason": "inflation down implies macro relief; broad market benefit but vague/boilerplate messaging",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": -0.2,
+    "base": 754.81,
+    "last": 753.47,
+    "base_date": "2026-07-15",
+    "last_date": "2026-07-16"
+   }
   },
   {
    "date": "2026-07-15T07:12:23Z",
@@ -418,7 +530,15 @@
    "direction": "BUY",
    "primary_ticker": "DELL",
    "strength": 85,
-   "reason": "Trump explicitly endorses Dell and its stock; direct market signal."
+   "reason": "Trump explicitly endorses Dell and its stock; direct market signal.",
+   "price_since": {
+    "ticker": "DELL",
+    "pct": -1.5,
+    "base": 412.68,
+    "last": 406.64,
+    "base_date": "2026-07-15",
+    "last_date": "2026-07-16"
+   }
   },
   {
    "date": "2026-07-14T20:08:43Z",
@@ -437,11 +557,11 @@
    "reason": "IBM down 25% as customers shift AI spending away; sector rotation bearish",
    "price_since": {
     "ticker": "IBM",
-    "pct": -2.7,
+    "pct": -4.7,
     "base": 217.07,
-    "last": 211.2,
+    "last": 206.86,
     "base_date": "2026-07-14",
-    "last_date": "2026-07-15"
+    "last_date": "2026-07-16"
    }
   },
   {
@@ -461,11 +581,11 @@
    "reason": "Trump cheering IBM's quantum future and repurchasing shares signals bullish view on the stock",
    "price_since": {
     "ticker": "IBM",
-    "pct": -2.7,
+    "pct": -4.7,
     "base": 217.07,
-    "last": 211.2,
+    "last": 206.95,
     "base_date": "2026-07-14",
-    "last_date": "2026-07-15"
+    "last_date": "2026-07-16"
    }
   },
   {
@@ -485,11 +605,11 @@
    "reason": "Dell fortune surge amid AI boom and Trump relationship proximity; positive but not direct endorsement",
    "price_since": {
     "ticker": "DELL",
-    "pct": -9.8,
+    "pct": -11.1,
     "base": 457.54,
-    "last": 412.68,
+    "last": 406.93,
     "base_date": "2026-07-14",
-    "last_date": "2026-07-15"
+    "last_date": "2026-07-16"
    }
   },
   {
@@ -510,11 +630,11 @@
    "reason": "Strait of Hormuz blockade on Iran increases oil supply concerns and geopolitical premium; bullish for energy sector",
    "price_since": {
     "ticker": "XLE",
-    "pct": -0.8,
+    "pct": 0.5,
     "base": 56.95,
-    "last": 56.5,
+    "last": 57.22,
     "base_date": "2026-07-14",
-    "last_date": "2026-07-15"
+    "last_date": "2026-07-16"
    }
   },
   {
@@ -534,11 +654,11 @@
    "reason": "IBM Q2 results miss expectations, shares plummet on earnings disappointment",
    "price_since": {
     "ticker": "IBM",
-    "pct": -2.7,
+    "pct": -4.7,
     "base": 217.07,
-    "last": 211.2,
+    "last": 206.9,
     "base_date": "2026-07-14",
-    "last_date": "2026-07-15"
+    "last_date": "2026-07-16"
    }
   },
   {
@@ -559,11 +679,11 @@
    "reason": "Touting strong economy and low oil prices is generic macro optimism; modest bullish signal",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.4,
+    "pct": 0.2,
     "base": 751.83,
-    "last": 754.81,
+    "last": 753.5,
     "base_date": "2026-07-14",
-    "last_date": "2026-07-15"
+    "last_date": "2026-07-16"
    }
   },
   {
@@ -583,11 +703,11 @@
    "reason": "Trump stake in ServiceNow fuels retail interest and buzz around SaaS sector recovery",
    "price_since": {
     "ticker": "NOW",
-    "pct": -0.1,
+    "pct": -4.8,
     "base": 104.85,
-    "last": 104.73,
+    "last": 99.79,
     "base_date": "2026-07-14",
-    "last_date": "2026-07-15"
+    "last_date": "2026-07-16"
    }
   },
   {
@@ -607,11 +727,11 @@
    "reason": "Dell's relationship with Trump suggests favorable treatment; positive but inferred rather than explicit endorsement.",
    "price_since": {
     "ticker": "DELL",
-    "pct": -9.8,
+    "pct": -11.1,
     "base": 457.54,
-    "last": 412.68,
+    "last": 406.62,
     "base_date": "2026-07-14",
-    "last_date": "2026-07-15"
+    "last_date": "2026-07-16"
    }
   },
   {
@@ -631,11 +751,11 @@
    "reason": "Dell-Trump relationship payoff suggests favorable business environment and potential support",
    "price_since": {
     "ticker": "DELL",
-    "pct": -9.8,
+    "pct": -11.1,
     "base": 457.54,
-    "last": 412.68,
+    "last": 406.62,
     "base_date": "2026-07-14",
-    "last_date": "2026-07-15"
+    "last_date": "2026-07-16"
    }
   },
   {
@@ -655,11 +775,11 @@
    "reason": "'Trump effect' on IBM stock following president's prior comments and positions",
    "price_since": {
     "ticker": "IBM",
-    "pct": -2.7,
+    "pct": -4.7,
     "base": 217.07,
-    "last": 211.2,
+    "last": 206.93,
     "base_date": "2026-07-14",
-    "last_date": "2026-07-15"
+    "last_date": "2026-07-16"
    }
   },
   {
@@ -2749,176 +2869,6 @@
    "primary_ticker": "SPACEX",
    "strength": 85,
    "reason": "SpaceX (Space Exploration Technologies) awarded $3.1B NASA contract; large contract bullish for awardee; private company, mapping to SPACEX ticker proxy."
-  },
-  {
-   "date": "2019-10-16T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "THE BOEING COMPANY was awarded a $2.6B federal contract from National Aeronautics and Space Administration.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_80MSFC20C0052_8000_-NONE-_-NONE-",
-   "tickers": [
-    "BA"
-   ],
-   "contract_amount": 2.59,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "BA",
-   "strength": 85,
-   "reason": "Boeing awarded $2.6B NASA contract; large contract bullish for awardee."
-  },
-  {
-   "date": "2019-06-19T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "GENERAL DYNAMICS INFORMATION TECHNOLOGY, INC. was awarded a $1.6B federal contract from Department of State.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_19AQMM18C0185_1900_-NONE-_-NONE-",
-   "tickers": [
-    "GD"
-   ],
-   "contract_amount": 1.59,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "GD",
-   "strength": 85,
-   "reason": "General Dynamics awarded $1.6B federal contract; large contract bullish for awardee."
-  },
-  {
-   "date": "2015-11-01T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "AEROJET ROCKETDYNE OF DE, INC was awarded a $3.3B federal contract from National Aeronautics and Space Administration.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_NNM16AA02C_8000_-NONE-_-NONE-",
-   "tickers": [
-    "AJRD"
-   ],
-   "contract_amount": 3.31,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "AJRD",
-   "strength": 80,
-   "reason": "Aerojet Rocketdyne awarded $3.3B NASA contract; large contract bullish for awardee."
-  },
-  {
-   "date": "2015-09-03T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "NORTHROP GRUMMAN SYSTEMS CORPORATION was awarded a $1.6B federal contract from National Aeronautics and Space Administration.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_NNH15CN76C_8000_-NONE-_-NONE-",
-   "tickers": [
-    "NOC"
-   ],
-   "contract_amount": 1.61,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "NOC",
-   "strength": 85,
-   "reason": "Northrop Grumman awarded $1.6B NASA contract; large contract bullish for awardee."
-  },
-  {
-   "date": "2011-12-23T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "LEIDOS, INC. was awarded a $3.1B federal contract from National Science Foundation.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_NSFDACS1219442_4900_-NONE-_-NONE-",
-   "tickers": [
-    "LDOS"
-   ],
-   "contract_amount": 3.09,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "LDOS",
-   "strength": 85,
-   "reason": "Leidos awarded $3.1B NSF contract; large contract bullish for awardee."
-  },
-  {
-   "date": "2008-07-25T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "HARRIS CORPORATION was awarded a $1.6B federal contract from Department of Transportation.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_DTFA0102D03006CALL0001_6920_DTFA0102D03006_6920",
-   "tickers": [
-    "HRS"
-   ],
-   "contract_amount": 1.57,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "HRS",
-   "strength": 85,
-   "reason": "Harris Corporation awarded $1.6B federal contract; large contract bullish for awardee."
-  },
-  {
-   "date": "2007-09-01T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "THE BOEING COMPANY was awarded a $10.5B federal contract from National Aeronautics and Space Administration.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_NNM07AB03C_8000_-NONE-_-NONE-",
-   "tickers": [
-    "BA"
-   ],
-   "contract_amount": 10.51,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "BA",
-   "strength": 90,
-   "reason": "Boeing awarded $10.5B NASA contract; very large contract strongly bullish for awardee."
-  },
-  {
-   "date": "2006-09-06T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "LOCKHEED MARTIN CORP was awarded a $15.6B federal contract from National Aeronautics and Space Administration.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_NNJ06TA25C_8000_-NONE-_-NONE-",
-   "tickers": [
-    "LMT"
-   ],
-   "contract_amount": 15.56,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "LMT",
-   "strength": 95,
-   "reason": "Lockheed Martin awarded $15.6B NASA contract; very large contract very strongly bullish for awardee."
-  },
-  {
-   "date": "2006-04-17T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "NORTHROP GRUMMAN SYSTEMS CORPORATION was awarded a $4.4B federal contract from National Aeronautics and Space Administration.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_NNM07AA75C_8000_-NONE-_-NONE-",
-   "tickers": [
-    "NOC"
-   ],
-   "contract_amount": 4.43,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "NOC",
-   "strength": 90,
-   "reason": "Northrop Grumman awarded $4.4B NASA contract; very large contract strongly bullish for awardee."
-  },
-  {
-   "date": "1993-11-15T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "THE BOEING COMPANY was awarded a $22.4B federal contract from National Aeronautics and Space Administration.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_NAS1510000_8000_-NONE-_-NONE-",
-   "tickers": [
-    "BA"
-   ],
-   "contract_amount": 22.44,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "BA",
-   "strength": 95,
-   "reason": "Boeing awarded $22.4B NASA contract; exceptionally large contract very strongly bullish for awardee."
   }
  ],
  "how_to_read": "Each card is Claude's read of a public Trump post: the affected ticker, whether it implies BUY / SELL / WATCH, a 0\u2013100 strength (how explicit/emphatic the post is \u2014 NOT a profit predictor), and why. A 2-year backtest found these don't beat buy-and-hold, so this is for awareness, not trading. Not financial advice."
