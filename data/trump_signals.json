@@ -1,7 +1,71 @@
 {
- "last_updated": "2026-07-16T14:23:02Z",
+ "last_updated": "2026-07-16T15:56:00Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-07-16T15:52:31Z",
+   "platform": "News",
+   "text": "Trump bought the stocks. Then promoted them. \u00abThere\u2019s nothing illegal.\u00bb - MSN \u2014 Trump bought the stocks. Then promoted them. \u00abThere\u2019s nothing illegal.\u00bb\u00a0\u00a0MSN",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxONWhSd1pfUnN0X1ZoQWdlQ3NiRnBsMTg4MTd6Tzlfdk12X3RPT2lLeWNzN284d2NyOXhzMkNtMU44U18zTDJ3RmZXd2owc0ZYWjZvb0pWOFhxbm5QWjhkTnplLTJ6WENXSHV5WURuTlI3dkZqSEtWVnR1UW9rTXdkOWdRVFV2Z0NDNnBfOWRVaVNsb0RqX0dNQzlJLTZRM25BZkRFS3E0MmV2SnhKVjVVSlVCeThvanFlc1Y3VHNxSnZxY0dfYkJnRnZwZTM3T0xtTWZhT2w0ZHFMQQ?oc=5",
+   "tickers": [
+    "NVDA"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "NVDA",
+   "strength": 75,
+   "reason": "Trump bought stocks then promoted them publicly; explicit pump-and-dump signal on unnamed companies (NVDA, TSLA, AAPL per other headlines)."
+  },
+  {
+   "date": "2026-07-16T15:33:14Z",
+   "platform": "News",
+   "text": "'Go Out and Buy a Dell': Trump Touted 20+ Corporations Days After Buying Their Stock - Common Dreams \u2014 'Go Out and Buy a Dell': Trump Touted 20+ Corporations Days After Buying Their Stock\u00a0\u00a0Common Dreams",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdGFmaURuR3E2RVN2OG5fbDVmT3RvYm9aQXN1c28wTXJxc2FKWndYMWdYb2JRa0ZtSnhaejhxdVUzRGpjVjhMcEt2TG9SQnpyUFhtWDIzVlRhZVdINElydHJrNXBSN3poeUVuZlQ0NUhJYW9Od1k3czJaZ09HVUtGTWNoNjNfOXBYTGVaU0g0WFA1ZzZfT3R0T2xmb1ppZF9BakE4NTRaSzJDdkplT05yUnNwZ1o?oc=5",
+   "tickers": [
+    "DELL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "DELL",
+   "strength": 80,
+   "reason": "Trump explicitly told people 'Go Out and Buy a Dell' after buying stock; direct pump signal on DELL."
+  },
+  {
+   "date": "2026-07-16T15:16:27Z",
+   "platform": "News",
+   "text": "Donald Trump Latest News: Trump Promoted Companies on Truth Social After Buying Their Stocks \u2013 Nvidia, Tesla, Apple & More - The Sunday Guardian \u2014 Donald Trump Latest News: Trump Promoted Companies on Truth Social After Buying Their Stocks \u2013 Nvidia, Tesla, Apple & More\u00a0\u00a0The Sunday Guardian",
+   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQS0VaT2t3eXNZZW9YY1FBcEphcmhUXzJvSmZRbl94SkNOdTBraTkxWl9sZGdRR2QxWEpZNHhlWjByRUVqR2MtOU10NlhiZkxpdmZhcUt4bTd0NXhIMXU1NXhwTFVVZ0xpVHJpVUZrZkJkYmdPSXR3U1JMaWJKaG5rbk5WRUJ2Yjc1Q1JrVUJFQTh4N21EVlFGMDUyQ1dVLVdVa3RqdWFDV0hYMzJNVm9iLXhFNFFYeGFLZDBJTnFQV1YzYVdrano2U21ySmpMZ0dPbjhHQlRYdmFpc24zTlhQdXZ1T21hRU9jVm81ZWlSNmFJUdIB9wFBVV95cUxNRUdWZTk2T3pkQWV3WVJScEFLdzEzQkViMFNLSTJpSkJIYTFCaTY3cGR0b2JLN0s3YVBRRWZKWHpvYmZHY1p6V2tqTkNGT2x0cE90eWxGbWlmWHVzT3ZZaERpTUF2RVdyVDVveXR5YXhuZkJsQlAtZ3c2cERhOGNrNVZWZjRzNDFtMFhLZWc5RC1naWdHUFg2Nzg3bWp4WTlCdDcyaGJPMWdsYlM1QlpsOEg5ODhMazNNS1ZlVU5vU19KS2NCNzR4eC1zMXFOWE5qa0luSy11N1JvaWdCWnZ6V19BeHpsQmsyUkZRbDdZaUtMb3BqdGpN?oc=5",
+   "tickers": [
+    "NVDA"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "NVDA",
+   "strength": 75,
+   "reason": "Trump promoted NVDA, TSLA, AAPL on Truth Social after buying; explicit endorsement pump on multiple mega-cap tech names."
+  },
+  {
+   "date": "2026-07-16T14:36:07Z",
+   "platform": "News",
+   "text": "Nvidia, Tesla, Apple: Trump promoted companies after buying their stocks, says report - The Indian Express \u2014 Nvidia, Tesla, Apple: Trump promoted companies after buying their stocks, says report\u00a0\u00a0The Indian Express",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcjE4OWNqVmFXUF9YVE50d2Jzb25sQlRKclFkTU9ENC1QZ0prcXQtYXJ1elhtQjJiQll5TEl2SmdIZnZ6RFBFckQ0Y2YwUnVFTG90TVh2aWM5WDFXdFRGbEpwWFgwS29KSWZTdkwyTUoyd0taajdJWnN5TzFOZmd1Z3hGcS1LMnZEVDlTaTVEdXphOWhQci1uQzQyaWNsQ2JqbUhualBqZmRIckNnSVVXa2JUTUMtU2_SAb4BQVVfeXFMUE53OUZfVEtEMjdhR2JNNjFhaVh6WHZBYVNqM1VmbVhwaHlQWEl6WmtNaDBZUXdsQWZ1Um9hM1ZRcjd6NnZBXzYtb0VvSnJtanFXLXNHbTlIQmU0OVR1eFBzWVM3U3Rrc1hJamx2SG1Oc3psNkdjQTBHMXFjNjVzNXpuNF9Fazhld1pJMXZ4T2Y0NnFMR1FPM1BvVEtCdGpCUG04NlNYSERwakZGRVN1N1hodVp2WHdkUmxjc29wdw?oc=5",
+   "tickers": [
+    "NVDA"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "NVDA",
+   "strength": 75,
+   "reason": "Trump promoted NVDA, TSLA, AAPL after buying their stocks; explicit market-moving endorsement."
+  },
   {
    "date": "2026-07-16T10:00:25Z",
    "platform": "News",
@@ -147,9 +211,9 @@
    "reason": "Trump endorsement of MyPillow CEO could indirectly support MyPillow parent company, but endorsement is political not a direct business recommendation",
    "price_since": {
     "ticker": "MNKD",
-    "pct": 1.2,
+    "pct": 1.7,
     "base": 4.09,
-    "last": 4.14,
+    "last": 4.16,
     "base_date": "2026-07-15",
     "last_date": "2026-07-16"
    }
@@ -187,9 +251,9 @@
    "reason": "Trump endorsement of MyPillow CEO could indirectly support MyPillow parent, but endorsement is political not a direct business recommendation",
    "price_since": {
     "ticker": "MNKD",
-    "pct": 1.2,
+    "pct": 1.7,
     "base": 4.09,
-    "last": 4.14,
+    "last": 4.16,
     "base_date": "2026-07-15",
     "last_date": "2026-07-16"
    }
@@ -211,9 +275,9 @@
    "reason": "Trump endorsement of MyPillow CEO could indirectly support MyPillow parent, but endorsement is political not a direct business recommendation",
    "price_since": {
     "ticker": "MNKD",
-    "pct": 1.2,
+    "pct": 1.7,
     "base": 4.09,
-    "last": 4.14,
+    "last": 4.16,
     "base_date": "2026-07-15",
     "last_date": "2026-07-16"
    }
@@ -254,7 +318,7 @@
     "ticker": "SPY",
     "pct": -0.2,
     "base": 754.81,
-    "last": 753.43,
+    "last": 753.42,
     "base_date": "2026-07-15",
     "last_date": "2026-07-16"
    }
@@ -276,9 +340,9 @@
    "reason": "Trump endorsement of MyPillow CEO could indirectly support MyPillow parent, but endorsement is political not a direct business recommendation",
    "price_since": {
     "ticker": "MNKD",
-    "pct": 1.2,
+    "pct": 1.7,
     "base": 4.09,
-    "last": 4.14,
+    "last": 4.16,
     "base_date": "2026-07-15",
     "last_date": "2026-07-16"
    }
@@ -300,9 +364,9 @@
    "reason": "Trump endorsement of MyPillow CEO could indirectly support MyPillow parent, but endorsement is political not a direct business recommendation",
    "price_since": {
     "ticker": "MNKD",
-    "pct": 1.2,
+    "pct": 1.7,
     "base": 4.09,
-    "last": 4.14,
+    "last": 4.16,
     "base_date": "2026-07-15",
     "last_date": "2026-07-16"
    }
@@ -356,9 +420,9 @@
    "reason": "Trump endorsement with positive language ('Spectacular') could modestly support MyPillow parent, but is political rather than direct business recommendation",
    "price_since": {
     "ticker": "MNKD",
-    "pct": 1.2,
+    "pct": 1.7,
     "base": 4.09,
-    "last": 4.14,
+    "last": 4.16,
     "base_date": "2026-07-15",
     "last_date": "2026-07-16"
    }
@@ -428,9 +492,9 @@
    "reason": "Trump endorsement of MyPillow CEO could indirectly support MyPillow parent, but endorsement is political not a direct business recommendation",
    "price_since": {
     "ticker": "MNKD",
-    "pct": 1.2,
+    "pct": 1.7,
     "base": 4.09,
-    "last": 4.14,
+    "last": 4.16,
     "base_date": "2026-07-15",
     "last_date": "2026-07-16"
    }
@@ -484,9 +548,9 @@
    "reason": "Trump endorsement recovery noted but analyst (Burry) remains short; mixed signal",
    "price_since": {
     "ticker": "PLTR",
-    "pct": -1.7,
+    "pct": -0.5,
     "base": 133.76,
-    "last": 131.47,
+    "last": 133.13,
     "base_date": "2026-07-15",
     "last_date": "2026-07-16"
    }
@@ -511,7 +575,7 @@
     "ticker": "SPY",
     "pct": -0.2,
     "base": 754.81,
-    "last": 753.47,
+    "last": 753.46,
     "base_date": "2026-07-15",
     "last_date": "2026-07-16"
    }
@@ -533,9 +597,9 @@
    "reason": "Trump explicitly endorses Dell and its stock; direct market signal.",
    "price_since": {
     "ticker": "DELL",
-    "pct": -1.5,
+    "pct": -3.1,
     "base": 412.68,
-    "last": 406.64,
+    "last": 399.95,
     "base_date": "2026-07-15",
     "last_date": "2026-07-16"
    }
@@ -557,9 +621,9 @@
    "reason": "IBM down 25% as customers shift AI spending away; sector rotation bearish",
    "price_since": {
     "ticker": "IBM",
-    "pct": -4.7,
+    "pct": -2.2,
     "base": 217.07,
-    "last": 206.86,
+    "last": 212.23,
     "base_date": "2026-07-14",
     "last_date": "2026-07-16"
    }
@@ -581,9 +645,9 @@
    "reason": "Trump cheering IBM's quantum future and repurchasing shares signals bullish view on the stock",
    "price_since": {
     "ticker": "IBM",
-    "pct": -4.7,
+    "pct": -2.2,
     "base": 217.07,
-    "last": 206.95,
+    "last": 212.23,
     "base_date": "2026-07-14",
     "last_date": "2026-07-16"
    }
@@ -605,9 +669,9 @@
    "reason": "Dell fortune surge amid AI boom and Trump relationship proximity; positive but not direct endorsement",
    "price_since": {
     "ticker": "DELL",
-    "pct": -11.1,
+    "pct": -12.6,
     "base": 457.54,
-    "last": 406.93,
+    "last": 399.95,
     "base_date": "2026-07-14",
     "last_date": "2026-07-16"
    }
@@ -630,9 +694,9 @@
    "reason": "Strait of Hormuz blockade on Iran increases oil supply concerns and geopolitical premium; bullish for energy sector",
    "price_since": {
     "ticker": "XLE",
-    "pct": 0.5,
+    "pct": 0.2,
     "base": 56.95,
-    "last": 57.22,
+    "last": 57.06,
     "base_date": "2026-07-14",
     "last_date": "2026-07-16"
    }
@@ -2835,40 +2899,6 @@
    "reason": "Trump's majority-owned stock debuts \u2014 pure sentiment play, extremely volatile and headline-driven.",
    "market_reaction": "DJT spiked on debut then stayed volatile, moving heavily on Trump political/legal news.",
    "url": "https://www.nasdaq.com/market-activity/stocks/djt"
-  },
-  {
-   "date": "2021-07-01T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "HARRIS CORPORATION was awarded a $2.1B federal contract from Department of Transportation.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_693KA821F00222_6920_DTFA0102D03006_6920",
-   "tickers": [
-    "HRS"
-   ],
-   "contract_amount": 2.1,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "HRS",
-   "strength": 85,
-   "reason": "Harris Corporation awarded $2.1B federal contract; large contract is bullish for awardee."
-  },
-  {
-   "date": "2020-05-13T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "SPACE EXPLORATION TECHNOLOGIES CORP. was awarded a $3.1B federal contract from National Aeronautics and Space Administration.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_80MSFC20C0034_8000_-NONE-_-NONE-",
-   "tickers": [
-    "SPACEX"
-   ],
-   "contract_amount": 3.06,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "SPACEX",
-   "strength": 85,
-   "reason": "SpaceX (Space Exploration Technologies) awarded $3.1B NASA contract; large contract bullish for awardee; private company, mapping to SPACEX ticker proxy."
   }
  ],
  "how_to_read": "Each card is Claude's read of a public Trump post: the affected ticker, whether it implies BUY / SELL / WATCH, a 0\u2013100 strength (how explicit/emphatic the post is \u2014 NOT a profit predictor), and why. A 2-year backtest found these don't beat buy-and-hold, so this is for awareness, not trading. Not financial advice."
