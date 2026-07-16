@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-07-16T22:09:48Z",
+ "last_updated": "2026-07-16T23:10:59Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -556,9 +556,9 @@
    "reason": "Trump endorsement with positive language ('Spectacular') could modestly support MyPillow parent, but is political rather than direct business recommendation",
    "price_since": {
     "ticker": "MNKD",
-    "pct": 0.5,
+    "pct": -1.2,
     "base": 4.09,
-    "last": 4.11,
+    "last": 4.04,
     "base_date": "2026-07-15",
     "last_date": "2026-07-16"
    }
@@ -628,9 +628,9 @@
    "reason": "Trump endorsement of MyPillow CEO could indirectly support MyPillow parent, but endorsement is political not a direct business recommendation",
    "price_since": {
     "ticker": "MNKD",
-    "pct": -0.5,
+    "pct": -1.2,
     "base": 4.09,
-    "last": 4.07,
+    "last": 4.04,
     "base_date": "2026-07-15",
     "last_date": "2026-07-16"
    }
@@ -2707,54 +2707,6 @@
    "primary_ticker": "DELL",
    "strength": 85,
    "reason": "Trump repeats explicit 'Go out and buy a Dell Computer' endorsement; direct bullish signal.",
-   "price_since": {
-    "ticker": "DELL",
-    "pct": 6.7,
-    "base": 417.28,
-    "last": 445.42,
-    "base_date": "2026-07-07",
-    "last_date": "2026-07-10"
-   }
-  },
-  {
-   "date": "2026-07-07T11:13:30Z",
-   "platform": "News",
-   "text": "Trump again tells everyone to 'Go out and buy a Dell Computer' - Yahoo Finance \u2014 Trump again tells everyone to 'Go out and buy a Dell Computer'\u00a0\u00a0Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQjMtWnN2WmJUV2x6aG9oS21jV05GNm8ybWFnTFppUlhaT0JCVnhKV25NbmZVRF9Fb1phVWRwajNTNmFjeEVDdUVNSC0tQm42cVdVRjAxQ2Rxam1zTzBZYnZHRVVPZEsxODdINDM5Y2Q2Um4zUEpiQ3dXWFQ5QjJOV19taE5vdnNYRVZYQ3pfQ3pjX3UtWlhRbEszTQ?oc=5",
-   "tickers": [
-    "DELL"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "DELL",
-   "strength": 95,
-   "reason": "Trump again tells everyone to buy Dell computers; repeated explicit endorsement.",
-   "price_since": {
-    "ticker": "DELL",
-    "pct": 6.7,
-    "base": 417.28,
-    "last": 445.42,
-    "base_date": "2026-07-07",
-    "last_date": "2026-07-10"
-   }
-  },
-  {
-   "date": "2026-07-07T11:13:30Z",
-   "platform": "News",
-   "text": "After buying up between $1m and $5m in Dell stock this\u2026 - inkl \u2014 After buying up between $1m and $5m in Dell stock this\u2026\u00a0\u00a0inkl",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNOUh4M3Zwam9RNm05QzFtTE5vVFI0eUpTajR0dmduenE3WEI3VHUtb1hMbFp1VHFGUTdNM3FudHQyakIyWjBmOVFhTE5YU1lxZi1ZSEZZSmxNWWRmN0Q2ZFo4ZkJCb1IzRTd1WkZZMVpYdTJaU2VOb2VaSmNVbkRyUG9jSkV3RVhRRlZoeVRDaHJlLWh6ZzdTSHJEa0tMUnB4cWJ5Q25GNDJuUXVVZkxEbEpXR193Uzl3ZlNUVWM3UXl6LTVBTEZXa2hTMVMzZ1FVVXBPUlFxdnB4aVI4?oc=5",
-   "tickers": [
-    "DELL"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "DELL",
-   "strength": 78,
-   "reason": "Trump disclosed $1\u20135M personal Dell stock purchase, signaling high conviction; insider bullish signal.",
    "price_since": {
     "ticker": "DELL",
     "pct": 6.7,
