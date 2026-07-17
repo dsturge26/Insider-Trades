@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-07-17T21:55:03Z",
+ "last_updated": "2026-07-17T22:51:13Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -35,6 +35,22 @@
    "primary_ticker": "SMH",
    "strength": 60,
    "reason": "TSMC $100B additional investment in US semiconductor fabs \u2014 bullish for chip sector and US manufacturing"
+  },
+  {
+   "date": "2026-07-17T18:56:30Z",
+   "platform": "News",
+   "text": "Trump began promoting companies' stocks on his social network, Truth Social, a few days after the purchase - ForumDaily \u2014 Trump began promoting companies' stocks on his social network, Truth Social, a few days after the purchase\u00a0\u00a0ForumDaily",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYzR1d0xtV3FyLV9RSHl0bUpWUUVTY1NSa3dPRGRuUmJkMTc5RExTcWRuUVdZbXZYOVE4VkM4b045SVRDbHBYRzRIZl91MzFUaTM5Y2lRMjdYUTFnTjRZMDNEaHhiV0ktcm5kakxUWERDQ3NzZDFocG96VjlON0VCRGhfelJ3THBXU1luZHVoTVJLOGVRcXFEWXJKMmhnLUNnSms5dA?oc=5",
+   "tickers": [
+    "DJT"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "DJT",
+   "strength": 45,
+   "reason": "Truth Social used to promote stocks implies DJT platform value/credibility risk; indirect bullish signal on platform activity"
   },
   {
    "date": "2026-07-17T12:49:00Z",
@@ -384,6 +400,30 @@
     "pct": -1.0,
     "base": 750.72,
     "last": 743.29,
+    "base_date": "2026-07-16",
+    "last_date": "2026-07-17"
+   }
+  },
+  {
+   "date": "2026-07-16T20:32:21Z",
+   "platform": "News",
+   "text": "Critical Metals Stock Surges As Trump Sets Sights On Greenland Yet Again: 'Big, Poorly Run, Piece Of Ice!' - Stocktwits \u2014 Critical Metals Stock Surges As Trump Sets Sights On Greenland Yet Again: 'Big, Poorly Run, Piece Of Ice!'\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZFdENjBoV0hEenBRM0VFTG9UR1JuV200S0NBMFBVdFdSSVN6V1pNSWZGeEMwbWNMMFI4ZVQyNTZyclFQQlBXbUVUeDZSbFI4YWhvTzBRLWtwU3ZUcXBRdWRVbEM0a3dCTGFsNXhYZGpDZGJuR1k3NlhmSzJ6RV9yZE04Um84WjJuQ3B1cW9peE44UTZTWjNueEpPTHJOeUxyMGM3czlaeHVFQkJxY1FaNG54dUhKc2ZkZk9tVGk0UUlHMjlCeGptTFBDWWRoREhnTUE?oc=5",
+   "tickers": [
+    "XLE"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "XLE",
+   "strength": 35,
+   "reason": "Greenland interest suggests resource/mining strategy; critical metals sector mixed signal\u2014vague geopolitical talk without concrete policy or deal announcement",
+   "price_since": {
+    "ticker": "XLE",
+    "pct": 1.2,
+    "base": 57.02,
+    "last": 57.68,
     "base_date": "2026-07-16",
     "last_date": "2026-07-17"
    }
@@ -1791,30 +1831,6 @@
     "pct": 2.9,
     "base": 130.04,
     "last": 133.76,
-    "base_date": "2026-07-13",
-    "last_date": "2026-07-15"
-   }
-  },
-  {
-   "date": "2026-07-12T16:15:02Z",
-   "platform": "News",
-   "text": "Critical Metals Stock Surges As Trump Sets Sights On Greenland Yet Again: 'Big, Poorly Run, Piece Of Ice!' - Stocktwits \u2014 Critical Metals Stock Surges As Trump Sets Sights On Greenland Yet Again: 'Big, Poorly Run, Piece Of Ice!'\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZFdENjBoV0hEenBRM0VFTG9UR1JuV200S0NBMFBVdFdSSVN6V1pNSWZGeEMwbWNMMFI4ZVQyNTZyclFQQlBXbUVUeDZSbFI4YWhvTzBRLWtwU3ZUcXBRdWRVbEM0a3dCTGFsNXhYZGpDZGJuR1k3NlhmSzJ6RV9yZE04Um84WjJuQ3B1cW9peE44UTZTWjNueEpPTHJOeUxyMGM3czlaeHVFQkJxY1FaNG54dUhKc2ZkZk9tVGk0UUlHMjlCeGptTFBDWWRoREhnTUE?oc=5",
-   "tickers": [
-    "XME"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "XME",
-   "strength": 35,
-   "reason": "Trump interest in Greenland and critical metals suggests rare-earth/metals demand spike, bullish for materials sector",
-   "price_since": {
-    "ticker": "XME",
-    "pct": 1.1,
-    "base": 102.09,
-    "last": 103.2,
     "base_date": "2026-07-13",
     "last_date": "2026-07-15"
    }
