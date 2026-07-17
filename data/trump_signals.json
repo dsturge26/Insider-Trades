@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-07-17T19:47:50Z",
+ "last_updated": "2026-07-17T20:55:54Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -309,9 +309,9 @@
    "reason": "Report alleges Trump praised companies after buying their stock\u2014potential market manipulation and insider trading concern; creates regulatory risk and reputational uncertainty.",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.9,
+    "pct": -1.0,
     "base": 750.72,
-    "last": 743.84,
+    "last": 743.29,
     "base_date": "2026-07-16",
     "last_date": "2026-07-17"
    }
@@ -333,9 +333,9 @@
    "reason": "Trump bought stocks then praised them publicly\u2014alleged conflict of interest and potential insider trading; market-relevant for systemic trust/regulatory risk.",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.9,
+    "pct": -1.0,
     "base": 750.72,
-    "last": 743.82,
+    "last": 743.29,
     "base_date": "2026-07-16",
     "last_date": "2026-07-17"
    }
@@ -357,9 +357,9 @@
    "reason": "Truth Social monetizing fastest access to Trump posts for trading firms; regulatory/governance risk to DJT",
    "price_since": {
     "ticker": "DJT",
-    "pct": -0.8,
+    "pct": 0.3,
     "base": 9.63,
-    "last": 9.55,
+    "last": 9.66,
     "base_date": "2026-07-16",
     "last_date": "2026-07-17"
    }
@@ -381,9 +381,9 @@
    "reason": "Trump promoted 20+ companies after buying their stocks; suggests potential pump-and-dump pattern affecting multiple sectors.",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.9,
+    "pct": -1.0,
     "base": 750.72,
-    "last": 743.84,
+    "last": 743.29,
     "base_date": "2026-07-16",
     "last_date": "2026-07-17"
    }
@@ -405,9 +405,9 @@
    "reason": "Trump promoted companies on social media after stock purchases; coordinated equity promotion campaign.",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.9,
+    "pct": -1.0,
     "base": 750.72,
-    "last": 743.82,
+    "last": 743.29,
     "base_date": "2026-07-16",
     "last_date": "2026-07-17"
    }
@@ -429,9 +429,9 @@
    "reason": "Conflict of interest debate over Trump's posts and stock trades\u2014raises governance/regulatory uncertainty and potential market integrity concerns.",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.9,
+    "pct": -1.0,
     "base": 750.72,
-    "last": 743.84,
+    "last": 743.29,
     "base_date": "2026-07-16",
     "last_date": "2026-07-17"
    }
@@ -2628,6 +2628,23 @@
     "base_date": "2026-07-09",
     "last_date": "2026-07-10"
    }
+  },
+  {
+   "date": "2026-07-07T12:21:24.593Z",
+   "platform": "Truth Social",
+   "text": "Toyota is moving from Mexico to the United States (Texas!). A really big deal. Tariffs at work! President DONALD J. TRUMP",
+   "tickers": [
+    "XLY"
+   ],
+   "engagement": 30260,
+   "url": "https://truthsocial.com/@realDonaldTrump/116878664308977613",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "XLY",
+   "strength": 72,
+   "reason": "Major manufacturing relocation from Mexico to US (Texas) driven by tariff policy; bullish for domestic industrial/consumer sectors; tariffs as macro catalyst."
   },
   {
    "curated": true,
