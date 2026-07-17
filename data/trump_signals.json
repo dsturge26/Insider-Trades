@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-07-17T22:51:13Z",
+ "last_updated": "2026-07-17T23:52:57Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -51,6 +51,22 @@
    "primary_ticker": "DJT",
    "strength": 45,
    "reason": "Truth Social used to promote stocks implies DJT platform value/credibility risk; indirect bullish signal on platform activity"
+  },
+  {
+   "date": "2026-07-17T16:36:58Z",
+   "platform": "News",
+   "text": "DOCN Stock Climbs On Strong Preliminary Q2 Numbers \u2013 CEO Touts Winning \u2018World\u2019s Most Sophisticated AI Customers\u2019 - Stocktwits \u2014 DOCN Stock Climbs On Strong Preliminary Q2 Numbers \u2013 CEO Touts Winning \u2018World\u2019s Most Sophisticated AI Customers\u2019\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQSDhLZWEzOWdNblNQSk5nQUZ0MVBTczJnbmRYQlhMWElpczZCRTlqdEw3RWh6Y0czc2dVakxtc2Q0RFFpLTU0LTUwZEVoajlTZzFReHlsRl9oVFoxYnlVTTU4SXQtYmFUT1FaeDNvaFNoT0xFMGxqM05UeDRQZVJEVUJIU1hYOUtyWWZJQ1RLRDdRNlhNa01tekRPOHpBLThLMzJvSl9TMkxhd3lzM09vR3VqcTZhc09USlNSLUp2OTRNY0FXWlVodkhfRmVCWGttZW9FTEliZ0tueVdrRnB6QVBoVUlrZVY0MWt5N2d4bHhpMWlNNVN4dThUdVZDSDBrM3c?oc=5",
+   "tickers": [
+    "DOCN"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "DOCN",
+   "strength": 55,
+   "reason": "Strong Q2 preliminary numbers and CEO touting AI customer wins; fundamental positive catalyst for Docusign stock."
   },
   {
    "date": "2026-07-17T12:49:00Z",
@@ -490,7 +506,15 @@
    "direction": "SELL",
    "primary_ticker": "PLTR",
    "strength": 35,
-   "reason": "Contrarian bearish signal; prominent short seller maintains negative position despite Trump endorsement bounce"
+   "reason": "Contrarian bearish signal; prominent short seller maintains negative position despite Trump endorsement bounce",
+   "price_since": {
+    "ticker": "PLTR",
+    "pct": -1.5,
+    "base": 134.44,
+    "last": 132.38,
+    "base_date": "2026-07-16",
+    "last_date": "2026-07-17"
+   }
   },
   {
    "date": "2026-07-16T17:38:00Z",
@@ -2636,23 +2660,6 @@
     "base_date": "2026-07-09",
     "last_date": "2026-07-10"
    }
-  },
-  {
-   "date": "2026-07-07T12:21:24.593Z",
-   "platform": "Truth Social",
-   "text": "Toyota is moving from Mexico to the United States (Texas!). A really big deal. Tariffs at work! President DONALD J. TRUMP",
-   "tickers": [
-    "XLY"
-   ],
-   "engagement": 30260,
-   "url": "https://truthsocial.com/@realDonaldTrump/116878664308977613",
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "XLY",
-   "strength": 72,
-   "reason": "Major manufacturing relocation from Mexico to US (Texas) driven by tariff policy; bullish for domestic industrial/consumer sectors; tariffs as macro catalyst."
   },
   {
    "curated": true,
