@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-07-17T11:52:18Z",
+ "last_updated": "2026-07-17T13:28:46Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-07-17T11:07:41Z",
+   "platform": "News",
+   "text": "Trump touted Palantir on Truth Social after buying the company's stock, records show - MSN \u2014 Trump touted Palantir on Truth Social after buying the company's stock, records show\u00a0\u00a0MSN",
+   "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOUURfNWp2OWZpMGxlMXBYSHo1Mktmc0hOTFdpM2dNVU1QTUFWdjRtaXJzMGM5RlY1SE9nRVZqMGxCNEphZENtOEFXWWdqeGp1b05PSlRFMkFabXhpeUVsd2txQU1IMlpHODFOblhZOTUtd3NQeTUwR2JlMFFqOW4zLUZodlZFM1gzZ0FSVW9vYUU2czJSMmFsRlF1VFI4cmlkbUFla2hOTlIwbVNRZlVBcHpOSEI5clVoY2NscjdfbnhxZVNfN2wwaWlLX3VqX05raXp6RlR3RFJ2dkRmQUk3MXFzdFdodEZjMVBXdHlZbTV0N2o5NTg4dG14V25YY2xLeTg5Ui1xQ3QyMlpi?oc=5",
+   "tickers": [
+    "PLTR"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "PLTR",
+   "strength": 75,
+   "reason": "Trump explicitly touted Palantir after buying stock; direct bullish endorsement of named company"
+  },
   {
    "date": "2026-07-17T09:51:13Z",
    "platform": "News",
@@ -99,6 +115,22 @@
    "reason": "Trump endorsed companies after purchasing shares; coordinated buying and public promotion of equity positions."
   },
   {
+   "date": "2026-07-17T05:51:28Z",
+   "platform": "News",
+   "text": "Citi Stock Hits 52-Week High Before Fading As Trump Lauds Bank's 'Big Comeback' In M&A \u2014 But Full Picture Has Changed Now - Stocktwits \u2014 Citi Stock Hits 52-Week High Before Fading As Trump Lauds Bank's 'Big Comeback' In M&A \u2014 But Full Picture Has Changed Now\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWUpacUZnX014SV9nTnRZbVQ0dWhFQlZiV3ZjLV9nWExYUjVMdmlZdkdoNnFLcUhZUEhuZ1k3a2JENWJrYkhqdjJqNFlLaVlVYzBRb3dJOFA2Q1dESmhCTVJnQXJJaU15VjVFUFo2cWJDOEx3QTIzN0NSQjExRWhRZlNLaDFXeEZMQ0poajdjbGhmNlhPd1ZQSnVOSmNVa0pVTF94Z1RVdXlSU2JrR0N3X2dHSENINjZHNWdTYzB1dEZPaERK?oc=5",
+   "tickers": [
+    "C"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "C",
+   "strength": 65,
+   "reason": "Trump explicitly lauded Citi's M&A comeback; direct bullish call on named bank"
+  },
+  {
    "date": "2026-07-17T03:05:59Z",
    "platform": "News",
    "text": "Wall Street can now pay to get Trump\u2019s Truth posts about markets before everyone else - Bitget \u2014 Wall Street can now pay to get Trump\u2019s Truth posts about markets before everyone else\u00a0\u00a0Bitget",
@@ -113,6 +145,22 @@
    "primary_ticker": "DJT",
    "strength": 45,
    "reason": "Truth Social parent monetizing early-access to Trump posts for Wall Street; bullish for DJT's revenue model"
+  },
+  {
+   "date": "2026-07-17T02:15:04Z",
+   "platform": "News",
+   "text": "Trump's Posts Sold to Wall Street by the Millisecond, Detailing Truth Social Parent Company's \"Influence Business Playbook\" - techflowpost.com \u2014 Trump's Posts Sold to Wall Street by the Millisecond, Detailing Truth Social Parent Company's \"Influence Business Playbook\"\u00a0\u00a0techflowpost.com",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1rMlBZWWV5THNPZGxKMlZnOTExUndpVl9wME5kZTg2b2RTWml1U19GZkhsU19RZG5zZUtkREcwejFacnNkUndrWUZ0Q1lqYXpuYkE?oc=5",
+   "tickers": [
+    "DJT"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "DJT",
+   "strength": 60,
+   "reason": "Truth Social parent monetizing Trump posts to investors milliseconds early; market manipulation concern bearish for DJT"
   },
   {
    "date": "2026-07-17T02:04:00Z",
@@ -561,30 +609,6 @@
    "primary_ticker": "MLHR",
    "strength": 50,
    "reason": "Trump endorses MyPillow CEO Mike Lindell; endorsement could boost MyPillow brand/sentiment, though company is majority private"
-  },
-  {
-   "date": "2026-07-15T22:59:53Z",
-   "platform": "News",
-   "text": "Citi Stock Hits 52-Week High Before Fading As Trump Lauds Bank's 'Big Comeback' In M&A \u2014 But Full Picture Has Changed Now - Stocktwits \u2014 Citi Stock Hits 52-Week High Before Fading As Trump Lauds Bank's 'Big Comeback' In M&A \u2014 But Full Picture Has Changed Now\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWUpacUZnX014SV9nTnRZbVQ0dWhFQlZiV3ZjLV9nWExYUjVMdmlZdkdoNnFLcUhZUEhuZ1k3a2JENWJrYkhqdjJqNFlLaVlVYzBRb3dJOFA2Q1dESmhCTVJnQXJJaU15VjVFUFo2cWJDOEx3QTIzN0NSQjExRWhRZlNLaDFXeEZMQ0poajdjbGhmNlhPd1ZQSnVOSmNVa0pVTF94Z1RVdXlSU2JrR0N3X2dHSENINjZHNWdTYzB1dEZPaERK?oc=5",
-   "tickers": [
-    "C"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "C",
-   "strength": 70,
-   "reason": "Trump praises Citigroup's M&A comeback; explicit praise for named financial stock; stock rallies on comment.",
-   "price_since": {
-    "ticker": "C",
-    "pct": -2.4,
-    "base": 134.89,
-    "last": 131.71,
-    "base_date": "2026-07-15",
-    "last_date": "2026-07-16"
-   }
   },
   {
    "date": "2026-07-15T22:34:44Z",
@@ -1283,30 +1307,6 @@
     "base": 751.83,
     "last": 754.81,
     "base_date": "2026-07-14",
-    "last_date": "2026-07-15"
-   }
-  },
-  {
-   "date": "2026-07-13T20:31:53Z",
-   "platform": "News",
-   "text": "Trump touted Palantir on Truth Social after buying the company's stock, records show - MSN \u2014 Trump touted Palantir on Truth Social after buying the company's stock, records show\u00a0\u00a0MSN",
-   "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOUURfNWp2OWZpMGxlMXBYSHo1Mktmc0hOTFdpM2dNVU1QTUFWdjRtaXJzMGM5RlY1SE9nRVZqMGxCNEphZENtOEFXWWdqeGp1b05PSlRFMkFabXhpeUVsd2txQU1IMlpHODFOblhZOTUtd3NQeTUwR2JlMFFqOW4zLUZodlZFM1gzZ0FSVW9vYUU2czJSMmFsRlF1VFI4cmlkbUFla2hOTlIwbVNRZlVBcHpOSEI5clVoY2NscjdfbnhxZVNfN2wwaWlLX3VqX05raXp6RlR3RFJ2dkRmQUk3MXFzdFdodEZjMVBXdHlZbTV0N2o5NTg4dG14V25YY2xLeTg5Ui1xQ3QyMlpi?oc=5",
-   "tickers": [
-    "PLTR"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "PLTR",
-   "strength": 85,
-   "reason": "Trump explicitly touted Palantir after buying stock; direct endorsement of named public company.",
-   "price_since": {
-    "ticker": "PLTR",
-    "pct": 2.9,
-    "base": 130.04,
-    "last": 133.76,
-    "base_date": "2026-07-13",
     "last_date": "2026-07-15"
    }
   },
@@ -2530,102 +2530,6 @@
    "primary_ticker": "DELL",
    "strength": 85,
    "reason": "Trump explicitly told Americans to buy Dell; stock rallied on direct endorsement.",
-   "price_since": {
-    "ticker": "DELL",
-    "pct": 0.7,
-    "base": 431.97,
-    "last": 434.97,
-    "base_date": "2026-07-08",
-    "last_date": "2026-07-10"
-   }
-  },
-  {
-   "date": "2026-07-08T11:20:32Z",
-   "platform": "News",
-   "text": "Trump Declares Iran Ceasefire 'Over,' Praises Erdogan at Tense NATO Summit - streamlinefeed.co.ke \u2014 Trump Declares Iran Ceasefire 'Over,' Praises Erdogan at Tense NATO Summit\u00a0\u00a0streamlinefeed.co.ke",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUnBlbGVMQmZEbjBtVGkxNFdWZDdKV0M1THlKaHdPVmNRaDkxbW55VlNKVHh0aW9TUFVQV1dwX2xfMXFHcDd5U0VnWHJBd21Pa1JZUFlpcTJzeEYtdy1aekI5eURGV2tMTXFjeThOMGk2UVVwbDJPRWpoVko3WVI0MFVXQU8wYnZjRHRQVQ?oc=5",
-   "tickers": [
-    "XLE"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "XLE",
-   "strength": 50,
-   "reason": "Iran ceasefire declared over; implies geopolitical tension and potential energy market disruption.",
-   "price_since": {
-    "ticker": "XLE",
-    "pct": -0.9,
-    "base": 55.6,
-    "last": 55.08,
-    "base_date": "2026-07-08",
-    "last_date": "2026-07-10"
-   }
-  },
-  {
-   "date": "2026-07-08T08:47:46Z",
-   "platform": "News",
-   "text": "\"I voted for this\": Trump shares \"Boom\" post following US strikes on Iran - lokmattimes.com \u2014 \"I voted for this\": Trump shares \"Boom\" post following US strikes on Iran\u00a0\u00a0lokmattimes.com",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQa0poczZvN0dDWjQ0ZFV1b3lnem9Ua3RoektuWDZodDF0aWxQU3RKcmJyLUhGem1uTnZfNVAwZEgyS21lN3V6VExEZjBTWjlzUWU4NmlpOWJ6RDQzc2pTcFg1Z05WVUlEdmtlUjRoV2dhaklTaTZRV2tVYTI4Y1YzeTFEbUFFa0hTaTVlS0tJTk80YnpTeWpOR2VIbGVXMV9oVXF4UnJXWVN3a1JUVVNzc2Vzc2lTQdIBtgFBVV95cUxQa0poczZvN0dDWjQ0ZFV1b3lnem9Ua3RoektuWDZodDF0aWxQU3RKcmJyLUhGem1uTnZfNVAwZEgyS21lN3V6VExEZjBTWjlzUWU4NmlpOWJ6RDQzc2pTcFg1Z05WVUlEdmtlUjRoV2dhaklTaTZRV2tVYTI4Y1YzeTFEbUFFa0hTaTVlS0tJTk80YnpTeWpOR2VIbGVXMV9oVXF4UnJXWVN3a1JUVVNzc2Vzc2lTQQ?oc=5",
-   "tickers": [
-    "XLE"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "XLE",
-   "strength": 55,
-   "reason": "Trump endorses US strikes on Iran; military escalation signal; bearish energy volatility and geopolitical risk",
-   "price_since": {
-    "ticker": "XLE",
-    "pct": -0.9,
-    "base": 55.6,
-    "last": 55.08,
-    "base_date": "2026-07-08",
-    "last_date": "2026-07-10"
-   }
-  },
-  {
-   "date": "2026-07-08T07:52:15Z",
-   "platform": "News",
-   "text": "Donald Trump Endorsement Drives Dell Technologies Stock Higher - sekbernews.id \u2014 Donald Trump Endorsement Drives Dell Technologies Stock Higher\u00a0\u00a0sekbernews.id",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5lV05DMDk5SXZSX3gyYlhCbjBrb0V4VnBpSTh2NlY5OHh3YngwSXFral9iSXRGR1Q4cl93b2kzOG1LbXpxR3dmYVpaVWNpZGM4am5ja3FxcUwtclBQTzU0WmtKaFdCV1JPa0liNXVETVo1Zw?oc=5",
-   "tickers": [
-    "DELL"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "DELL",
-   "strength": 75,
-   "reason": "Trump explicitly endorses Dell, driving stock higher\u2014direct bullish catalyst",
-   "price_since": {
-    "ticker": "DELL",
-    "pct": 0.7,
-    "base": 431.97,
-    "last": 434.97,
-    "base_date": "2026-07-08",
-    "last_date": "2026-07-10"
-   }
-  },
-  {
-   "date": "2026-07-08T05:13:22Z",
-   "platform": "News",
-   "text": "Dell stock rises after Trump comments - MSN \u2014 Dell stock rises after Trump comments\u00a0\u00a0MSN",
-   "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxNNW9DbWhyUXpDeDdTckZraXNId2NrX0hKRDdMUVJpY1ZBWGluU2pIeWlLUHlfOHFWYXhfeVg2UEIwOFJ3NXlQcDRoa2FlTHdJQXJ6MDZxZG8tSHhIdkk3akJZcE96X3l4eEFPSnVkREgtdk1VSjg4RkhIZ1NNV2x0QkFzeF94cFBMcENkcXRLWVBMbTNIal9XVVN1aDFRNnJkSFcxaFNWeGpQVlBicW83eWZGZjNtN2tNUG1zQlFlSWEza3JYUVJTNTF4TWdabEhKclpNdG8xZ0xCWHhtZkZzcjBORDRHcVkzUXpvdDFRWDZtNS00N05YeGlST3BpQWdDeEJmSDA2bjZPcVJpOXo3ZGpGdm5hVjlacDVDRTRqbjRZanlTeHNxeFFEWjVLX2hwaGVTMDBzSTBCY3VFbkF1Sk41LVoxWWNxbmx3RG1rMkh5NHJ0T1FQZGJBWHpmQnR3MklqZlA2VQ?oc=5",
-   "tickers": [
-    "DELL"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "DELL",
-   "strength": 80,
-   "reason": "Dell stock rises following Trump comments; explicit endorsement signal",
    "price_since": {
     "ticker": "DELL",
     "pct": 0.7,
