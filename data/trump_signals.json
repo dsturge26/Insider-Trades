@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-07-17T03:40:33Z",
+ "last_updated": "2026-07-17T06:04:57Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -129,6 +129,22 @@
    "primary_ticker": "DJT",
    "strength": 35,
    "reason": "Truth Social usage pattern criticism affects platform perception and DJT value"
+  },
+  {
+   "date": "2026-07-16T17:15:00Z",
+   "platform": "News",
+   "text": "Trump caught promoting companies on Truth Social days after buying their stocks, investigation says - The Mirror US \u2014 Trump caught promoting companies on Truth Social days after buying their stocks, investigation says\u00a0\u00a0The Mirror US",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYlJEb3hpUEt0WWtEeHNKOFN3dWZmQ2hwWU9JTUJwdjY3MUR3Mm1QdUwxNllvbVdRVi1qTmY5OEdReV85OU10TTJhRllPeFQtVU9MUk9BMlJ2eDVST0M4eHdjcjY1d3N2RHZYMHMtS0ZtN0JvMHlOSmZFZ0ljNEhXdF9yVVBBcDVXTktheTdnVdIBlAFBVV95cUxNa3Frbmk3Ym5YNE9YYzVtZ3ZWS2dhY1NhQ1poLUtWcW9mb0pyZHhNa18zVThOS1Iwc1l6YllZb2tRRkFheXZjOEtSU2JxTC1KUHU0dDVRWDJEelk2OVplNkRhcVg0UWZXOU9sM2ZMRXJldUs4RUU2VHFabFJMd3FGeDRMUFY3LVRERmZjNkVQUlhLMzh5?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "WATCH",
+   "primary_ticker": "SPY",
+   "strength": 65,
+   "reason": "Trump promoting companies days after buying stocks; explicit pattern of potential pump-and-dump activity"
   },
   {
    "date": "2026-07-16T17:10:10Z",
@@ -2631,127 +2647,6 @@
     "pct": 2.1,
     "base": 111.54,
     "last": 113.9,
-    "base_date": "2026-07-07",
-    "last_date": "2026-07-10"
-   }
-  },
-  {
-   "date": "2026-07-07T15:18:39Z",
-   "platform": "News",
-   "text": "Trump tells Americans to buy Dell computers \u2014 and the stock jumps 7% - qz.com \u2014 Trump tells Americans to buy Dell computers \u2014 and the stock jumps 7%\u00a0\u00a0qz.com",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOX0Jjc2V5NW8wbXZmcUtYM0F3TmRIbUowdFAyLUM5V3pLUVBfZWhtdHNuTkNfb3NfbEwxZF84UWxWU012U1RYdXFOQTc3eHBjeUtOTnhYQVhabGctZWlPWEZSUlFRWmJsaXZIdlNTZXc0R2J6azNsRFhXeTZKbkNVOGpPR0M?oc=5",
-   "tickers": [
-    "DELL"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "DELL",
-   "strength": 95,
-   "reason": "Trump tells Americans to buy Dell; stock jumps 7% \u2014 explicit bullish call with immediate market reaction.",
-   "price_since": {
-    "ticker": "DELL",
-    "pct": 4.2,
-    "base": 417.28,
-    "last": 434.97,
-    "base_date": "2026-07-07",
-    "last_date": "2026-07-10"
-   }
-  },
-  {
-   "date": "2026-07-07T14:13:00Z",
-   "platform": "News",
-   "text": "Donald Trump Triggers DELL Stock Rally After Urging Consumers To Buy Dell Computers - CoinCodex \u2014 Donald Trump Triggers DELL Stock Rally After Urging Consumers To Buy Dell Computers\u00a0\u00a0CoinCodex",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZUt0Rm8zOGJqRWwzczFJMHh6Y2RCOGd2akl1QmV4MEdmT1VHODlVMno0c0cxYnY0NHFPSUZ2WklaZ1ZReW9peE5FQWlxUlNpOWZlRDRtY1FFQi1sRm05V1BCN0JROHp1b0xFbkR3QTY0ZUxiY0NfN0RDZ2JuY0dtZGRvblNyN2lvUHZHSlFVSS03OGNZRkN3YmxqX2ozWjgtM0VDQ1NCMUpDY3N0R0RSM1hvc2trUlM2dkR0cw?oc=5",
-   "tickers": [
-    "DELL"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "DELL",
-   "strength": 85,
-   "reason": "Trump explicitly urges consumers to buy Dell computers, direct stock catalyst.",
-   "price_since": {
-    "ticker": "DELL",
-    "pct": 4.2,
-    "base": 417.28,
-    "last": 434.97,
-    "base_date": "2026-07-07",
-    "last_date": "2026-07-10"
-   }
-  },
-  {
-   "date": "2026-07-07T12:21:24.593Z",
-   "platform": "Truth Social",
-   "text": "Toyota is moving from Mexico to the United States (Texas!). A really big deal. Tariffs at work! President DONALD J. TRUMP",
-   "tickers": [
-    "SPY"
-   ],
-   "engagement": 10668,
-   "url": "https://truthsocial.com/@realDonaldTrump/116878664308977613",
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "SPY",
-   "strength": 70,
-   "reason": "Major manufacturing shift from Mexico to US; tariffs driving onshoring, broad positive market signal.",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": 1.0,
-    "base": 747.71,
-    "last": 755.33,
-    "base_date": "2026-07-07",
-    "last_date": "2026-07-10"
-   }
-  },
-  {
-   "date": "2026-07-07T12:19:23Z",
-   "platform": "News",
-   "text": "Dell stock surges after Trump tells Americans to buy computers - MSN \u2014 Dell stock surges after Trump tells Americans to buy computers\u00a0\u00a0MSN",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSVRLU09fY1JlT1FTNGRaZE1lVUFxQ0NNTC1iaGVqWDE5YUJab0pzaTFNbHJLajdSalVwaENJbnJSN1dndnZrc2FoLTdiXy1ncFNMWlUwd3dtM2gyZjNlVHNtU0RfOEswLVI1a0M3d3Z1R1pZZnpRQjRmUUN4QlVhTFR6ZUtLQXMyVFJheHZ6MjM5X1VTWGQyVGE0TU1tSm9NOFZHQzF1VDFkaXpaNFgtMWstM1pqaHdwdnlSN0xGSllmVzdoMHlaaVV2Uk9mNllDMDllOVJQVQ?oc=5",
-   "tickers": [
-    "DELL"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "DELL",
-   "strength": 85,
-   "reason": "Trump explicitly tells Americans to buy Dell computers; direct endorsement of named publicly-traded company.",
-   "price_since": {
-    "ticker": "DELL",
-    "pct": 4.2,
-    "base": 417.28,
-    "last": 434.83,
-    "base_date": "2026-07-07",
-    "last_date": "2026-07-10"
-   }
-  },
-  {
-   "date": "2026-07-07T12:01:00Z",
-   "platform": "News",
-   "text": "Trump Faces Fresh Corruption Claims After Telling Americans to 'Go Out and Buy a Dell Computer' - Morning Honey \u2014 Trump Faces Fresh Corruption Claims After Telling Americans to 'Go Out and Buy a Dell Computer'\u00a0\u00a0Morning Honey",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWUV2b2hNbkd0aU53c2dfQURfQlVTVDRBd0xXbjF3aWxYZEU3R1B0dlVtTzg2SlVtVTQ1R2xMQkdiWVNrajQtcjFiZkJtRU5WLVhpcE5EOG9jYUFNV0loMGo3RWI4ZGhwNFFySHJMMVFJUnZ6cjlFQUdPb2h1NVpaNmlYOUJXXzBmNXlROTFqRVN4TlFlQm45WV80TVViTzVTdi02UmxEUkdGOEFMWVd1dVNPbmdudmotRWNIRlpzaG5Ndw?oc=5",
-   "tickers": [
-    "DELL"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "DELL",
-   "strength": 85,
-   "reason": "Trump tells Americans to 'Go Out and Buy a Dell Computer'; explicit endorsement of named stock.",
-   "price_since": {
-    "ticker": "DELL",
-    "pct": 6.7,
-    "base": 417.28,
-    "last": 445.42,
     "base_date": "2026-07-07",
     "last_date": "2026-07-10"
    }
