@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-07-17T14:59:49Z",
+ "last_updated": "2026-07-17T16:22:13Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -81,6 +81,22 @@
    "primary_ticker": "SPY",
    "strength": 30,
    "reason": "Ethical concern about Trump's stock promotion activity; generic market-integrity issue, no directional catalyst"
+  },
+  {
+   "date": "2026-07-17T07:42:53Z",
+   "platform": "News",
+   "text": "IBM Stock Rallies On Trump Administration\u2019s $1B Grant: Analysts Say \u2018Big Blue\u2019 Could Become First US Quantum Foundry - Stocktwits \u2014 IBM Stock Rallies On Trump Administration\u2019s $1B Grant: Analysts Say \u2018Big Blue\u2019 Could Become First US Quantum Foundry\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOVG52c0VBRjZ6TzVuLThuSWdTN3NxMlIzUEc0aWVkUllDZDJMSVVMRlo1Rkgxb1Rja2swU1JlcVhlbmg4ejlfeGJoRGkzVG1VSEM4ZC1McWtGQnNVYklYVjYwQVliTHRoX3NqZDJZV0dlQ2NTaC1NaHhFaVAtdmVjdzVGcFhSangwdDluaTltYXZ3TXhaWWxISmlPREpkQ0N2VHdEMENJUkpDaDBGcUhSdXFZdExXbkhPaENSWlAxbVhPS3EyTnoyc3NoX2RpOXNqeEFYaFhhaGYxQUxRaWR0QUJwQ0J5VmhBY3ZpOV9YMVNjeUZlRHRzVXBLS3BpSER4VXpVWTVsYS1aZw?oc=5",
+   "tickers": [
+    "IBM"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "IBM",
+   "strength": 75,
+   "reason": "Trump administration awarded IBM $1B federal contract for quantum foundry development"
   },
   {
    "date": "2026-07-17T07:19:00Z",
@@ -227,9 +243,9 @@
    "reason": "Report alleges Trump praised companies after buying their stock\u2014potential market manipulation and insider trading concern; creates regulatory risk and reputational uncertainty.",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.8,
+    "pct": -0.7,
     "base": 750.72,
-    "last": 744.97,
+    "last": 745.75,
     "base_date": "2026-07-16",
     "last_date": "2026-07-17"
    }
@@ -251,9 +267,9 @@
    "reason": "Trump bought stocks then praised them publicly\u2014alleged conflict of interest and potential insider trading; market-relevant for systemic trust/regulatory risk.",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.8,
+    "pct": -0.7,
     "base": 750.72,
-    "last": 744.97,
+    "last": 745.75,
     "base_date": "2026-07-16",
     "last_date": "2026-07-17"
    }
@@ -275,9 +291,9 @@
    "reason": "Truth Social monetizing fastest access to Trump posts for trading firms; regulatory/governance risk to DJT",
    "price_since": {
     "ticker": "DJT",
-    "pct": -8.3,
+    "pct": -6.7,
     "base": 9.63,
-    "last": 8.83,
+    "last": 8.98,
     "base_date": "2026-07-16",
     "last_date": "2026-07-17"
    }
@@ -299,9 +315,9 @@
    "reason": "Trump promoted 20+ companies after buying their stocks; suggests potential pump-and-dump pattern affecting multiple sectors.",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.8,
+    "pct": -0.7,
     "base": 750.72,
-    "last": 745.01,
+    "last": 745.77,
     "base_date": "2026-07-16",
     "last_date": "2026-07-17"
    }
@@ -323,9 +339,9 @@
    "reason": "Trump promoted companies on social media after stock purchases; coordinated equity promotion campaign.",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.8,
+    "pct": -0.7,
     "base": 750.72,
-    "last": 744.97,
+    "last": 745.78,
     "base_date": "2026-07-16",
     "last_date": "2026-07-17"
    }
@@ -347,9 +363,9 @@
    "reason": "Conflict of interest debate over Trump's posts and stock trades\u2014raises governance/regulatory uncertainty and potential market integrity concerns.",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.8,
+    "pct": -0.7,
     "base": 750.72,
-    "last": 744.97,
+    "last": 745.78,
     "base_date": "2026-07-16",
     "last_date": "2026-07-17"
    }
@@ -371,9 +387,9 @@
    "reason": "Truth Social usage pattern criticism affects platform perception and DJT value",
    "price_since": {
     "ticker": "DJT",
-    "pct": -8.3,
+    "pct": -6.7,
     "base": 9.63,
-    "last": 8.83,
+    "last": 8.98,
     "base_date": "2026-07-16",
     "last_date": "2026-07-17"
    }
@@ -395,9 +411,9 @@
    "reason": "Trump promoting companies days after buying stocks; explicit pattern of potential pump-and-dump activity",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.8,
+    "pct": -0.7,
     "base": 750.72,
-    "last": 744.97,
+    "last": 745.79,
     "base_date": "2026-07-16",
     "last_date": "2026-07-17"
    }
@@ -419,9 +435,9 @@
    "reason": "Trump explicitly endorses Mike Lindell (My Pillow CEO); endorsement typically bullish for associated company.",
    "price_since": {
     "ticker": "MPL",
-    "pct": -1.3,
+    "pct": 0.2,
     "base": 10.27,
-    "last": 10.14,
+    "last": 10.29,
     "base_date": "2026-07-16",
     "last_date": "2026-07-17"
    }
@@ -443,9 +459,9 @@
    "reason": "Report of Trump buying stocks then promoting them raises conflict-of-interest concerns; ambiguous market direction.",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.8,
+    "pct": -0.7,
     "base": 750.72,
-    "last": 744.97,
+    "last": 745.82,
     "base_date": "2026-07-16",
     "last_date": "2026-07-17"
    }
@@ -721,22 +737,6 @@
    "primary_ticker": "DVLT",
    "strength": 45,
    "reason": "Discounted secondary offering dilutes shares; market-negative for stock price"
-  },
-  {
-   "date": "2026-07-16T03:14:07Z",
-   "platform": "News",
-   "text": "IBM Stock Rallies On Trump Administration\u2019s $1B Grant: Analysts Say \u2018Big Blue\u2019 Could Become First US Quantum Foundry - Stocktwits \u2014 IBM Stock Rallies On Trump Administration\u2019s $1B Grant: Analysts Say \u2018Big Blue\u2019 Could Become First US Quantum Foundry\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOVG52c0VBRjZ6TzVuLThuSWdTN3NxMlIzUEc0aWVkUllDZDJMSVVMRlo1Rkgxb1Rja2swU1JlcVhlbmg4ejlfeGJoRGkzVG1VSEM4ZC1McWtGQnNVYklYVjYwQVliTHRoX3NqZDJZV0dlQ2NTaC1NaHhFaVAtdmVjdzVGcFhSangwdDluaTltYXZ3TXhaWWxISmlPREpkQ0N2VHdEMENJUkpDaDBGcUhSdXFZdExXbkhPaENSWlAxbVhPS3EyTnoyc3NoX2RpOXNqeEFYaFhhaGYxQUxRaWR0QUJwQ0J5VmhBY3ZpOV9YMVNjeUZlRHRzVXBLS3BpSER4VXpVWTVsYS1aZw?oc=5",
-   "tickers": [
-    "IBM"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "IBM",
-   "strength": 75,
-   "reason": "Trump administration awards $1B quantum computing grant to IBM"
   },
   {
    "date": "2026-07-16T00:20:00Z",
