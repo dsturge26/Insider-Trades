@@ -1,7 +1,41 @@
 {
- "last_updated": "2026-07-17T18:41:10Z",
+ "last_updated": "2026-07-17T19:47:50Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-07-17T19:35:55.921Z",
+   "platform": "Truth Social",
+   "text": "Such great news in June's Inflation Numbers! Prices FELL by the most in a single month in over six years. The June CPI was below the forecast of every single Economist (67!) that Bloomberg polled. Prices were down across the board including for Gasoline, Electricity, Auto Insurance, Hotels, and Prescription Drugs. With strong Wage Growth and a decline in Prices in June, Real Wages rose a massive 0.8%. As Investment pours into our Country, Factory Construction surges, Manufacturing Jobs rise, and Prices fall, there is so much to be proud of \u2014 The Golden Age of America is here! President DONALD J. TRUMP",
+   "tickers": [
+    "SPY"
+   ],
+   "engagement": 799,
+   "url": "https://truthsocial.com/@realDonaldTrump/116936996023550699",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "SPY",
+   "strength": 45,
+   "reason": "CPI below forecast, prices falling, real wages rising 0.8% \u2014 macro tailwind for equity markets"
+  },
+  {
+   "date": "2026-07-17T19:30:04.133Z",
+   "platform": "Truth Social",
+   "text": "For decades, horrible politicians allowed our Industrial Base to move overseas. Their Trade Policies encouraged Companies to find the cheapest Labor, and build the Products we invented across Asia. When I took Office, we didn't build Leading Edge Semiconductor Chips here in America. American Trade Policy was broken and, the results, disastrous.\u00a0\u00a0Now, TSMC, the largest Leading Edge Semiconductor Chip Manufacturer in the World, has announced an additional 100 Billion Dollar Investment in their Semiconductor Fabrication Factories in Arizona. That brings their total commitment to build Chips in America to a record 265 Billion Dollars.\u00a0My Trade Policies and Trade Deals are accomplishing exactly what I said they would. From Automobiles, Pharmaceuticals, to Semiconductors, and everything across our Economy, the Trump Administration is bringing Advanced Manufacturing home to America. This is what SUCCESS feels like! Massive Hiring, massive Construction, massive Investment \u2014 Welcome to the Golden Age of America, where we invite everybody to come and build in America \u2014 and remember, if you do so, there are NO TARIFFS! President DONALD J. TRUMP",
+   "tickers": [
+    "SMH"
+   ],
+   "engagement": 1268,
+   "url": "https://truthsocial.com/@realDonaldTrump/116936972968744613",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "SMH",
+   "strength": 60,
+   "reason": "TSMC $100B additional investment in US semiconductor fabs \u2014 bullish for chip sector and US manufacturing"
+  },
   {
    "date": "2026-07-17T12:49:00Z",
    "platform": "News",
@@ -275,9 +309,9 @@
    "reason": "Report alleges Trump praised companies after buying their stock\u2014potential market manipulation and insider trading concern; creates regulatory risk and reputational uncertainty.",
    "price_since": {
     "ticker": "SPY",
-    "pct": -1.0,
+    "pct": -0.9,
     "base": 750.72,
-    "last": 743.42,
+    "last": 743.84,
     "base_date": "2026-07-16",
     "last_date": "2026-07-17"
    }
@@ -299,9 +333,9 @@
    "reason": "Trump bought stocks then praised them publicly\u2014alleged conflict of interest and potential insider trading; market-relevant for systemic trust/regulatory risk.",
    "price_since": {
     "ticker": "SPY",
-    "pct": -1.0,
+    "pct": -0.9,
     "base": 750.72,
-    "last": 743.46,
+    "last": 743.82,
     "base_date": "2026-07-16",
     "last_date": "2026-07-17"
    }
@@ -347,9 +381,9 @@
    "reason": "Trump promoted 20+ companies after buying their stocks; suggests potential pump-and-dump pattern affecting multiple sectors.",
    "price_since": {
     "ticker": "SPY",
-    "pct": -1.0,
+    "pct": -0.9,
     "base": 750.72,
-    "last": 743.47,
+    "last": 743.84,
     "base_date": "2026-07-16",
     "last_date": "2026-07-17"
    }
@@ -371,9 +405,9 @@
    "reason": "Trump promoted companies on social media after stock purchases; coordinated equity promotion campaign.",
    "price_since": {
     "ticker": "SPY",
-    "pct": -1.0,
+    "pct": -0.9,
     "base": 750.72,
-    "last": 743.42,
+    "last": 743.82,
     "base_date": "2026-07-16",
     "last_date": "2026-07-17"
    }
@@ -395,9 +429,9 @@
    "reason": "Conflict of interest debate over Trump's posts and stock trades\u2014raises governance/regulatory uncertainty and potential market integrity concerns.",
    "price_since": {
     "ticker": "SPY",
-    "pct": -1.0,
+    "pct": -0.9,
     "base": 750.72,
-    "last": 743.47,
+    "last": 743.84,
     "base_date": "2026-07-16",
     "last_date": "2026-07-17"
    }
@@ -443,9 +477,9 @@
    "reason": "Trump promoting companies days after buying stocks; explicit pattern of potential pump-and-dump activity",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.6,
+    "pct": -0.9,
     "base": 750.72,
-    "last": 746.03,
+    "last": 743.84,
     "base_date": "2026-07-16",
     "last_date": "2026-07-17"
    }
@@ -467,9 +501,9 @@
    "reason": "Trump explicitly endorses Mike Lindell (My Pillow CEO); endorsement typically bullish for associated company.",
    "price_since": {
     "ticker": "MPL",
-    "pct": 3.7,
+    "pct": -0.6,
     "base": 10.27,
-    "last": 10.65,
+    "last": 10.21,
     "base_date": "2026-07-16",
     "last_date": "2026-07-17"
    }
@@ -491,9 +525,9 @@
    "reason": "Report of Trump buying stocks then promoting them raises conflict-of-interest concerns; ambiguous market direction.",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.7,
+    "pct": -0.9,
     "base": 750.72,
-    "last": 745.82,
+    "last": 743.84,
     "base_date": "2026-07-16",
     "last_date": "2026-07-17"
    }
@@ -515,9 +549,9 @@
    "reason": "Trump promoted 20+ companies after buying their stocks; broad multi-stock promotion pattern.",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.8,
+    "pct": -0.9,
     "base": 750.72,
-    "last": 744.97,
+    "last": 743.85,
     "base_date": "2026-07-16",
     "last_date": "2026-07-17"
    }
@@ -539,9 +573,9 @@
    "reason": "Report alleges Trump promoted companies after buying; suggests potential market manipulation but direction unclear.",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.8,
+    "pct": -0.9,
     "base": 750.72,
-    "last": 744.97,
+    "last": 743.85,
     "base_date": "2026-07-16",
     "last_date": "2026-07-17"
    }
@@ -563,9 +597,9 @@
    "reason": "Same report: Trump promoting companies after stock purchases; market-relevant but ambiguous directional signal.",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.8,
+    "pct": -0.9,
     "base": 750.72,
-    "last": 744.97,
+    "last": 743.82,
     "base_date": "2026-07-16",
     "last_date": "2026-07-17"
    }
@@ -587,9 +621,9 @@
    "reason": "Trump bought stocks then promoted them publicly; explicit pump-and-dump signal on unnamed companies (NVDA, TSLA, AAPL per other headlines).",
    "price_since": {
     "ticker": "NVDA",
-    "pct": -2.1,
+    "pct": -2.0,
     "base": 207.4,
-    "last": 203.12,
+    "last": 203.27,
     "base_date": "2026-07-16",
     "last_date": "2026-07-17"
    }
@@ -611,9 +645,9 @@
    "reason": "Trading before promotions suggests potential market manipulation; direction ambiguous",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.8,
+    "pct": -0.9,
     "base": 750.72,
-    "last": 744.97,
+    "last": 743.84,
     "base_date": "2026-07-16",
     "last_date": "2026-07-17"
    }
@@ -635,9 +669,9 @@
    "reason": "Conflict-of-interest questions about Trump's posts and stock trades; market-relevant but direction and specificity unclear.",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.8,
+    "pct": -0.9,
     "base": 750.72,
-    "last": 744.94,
+    "last": 743.85,
     "base_date": "2026-07-16",
     "last_date": "2026-07-17"
    }
@@ -656,7 +690,15 @@
    "direction": "BUY",
    "primary_ticker": "DELL",
    "strength": 80,
-   "reason": "Trump explicitly told people 'Go Out and Buy a Dell' after buying stock; direct pump signal on DELL."
+   "reason": "Trump explicitly told people 'Go Out and Buy a Dell' after buying stock; direct pump signal on DELL.",
+   "price_since": {
+    "ticker": "DELL",
+    "pct": 2.1,
+    "base": 391.38,
+    "last": 399.61,
+    "base_date": "2026-07-16",
+    "last_date": "2026-07-17"
+   }
   },
   {
    "date": "2026-07-16T15:30:45Z",
@@ -672,7 +714,15 @@
    "direction": "WATCH",
    "primary_ticker": "SPY",
    "strength": 65,
-   "reason": "Trump bought 20+ company stocks, then promoted them on Truth Social\u2014alleged coordinated scheme; regulatory and market integrity risk."
+   "reason": "Trump bought 20+ company stocks, then promoted them on Truth Social\u2014alleged coordinated scheme; regulatory and market integrity risk.",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": -0.9,
+    "base": 750.72,
+    "last": 743.84,
+    "base_date": "2026-07-16",
+    "last_date": "2026-07-17"
+   }
   },
   {
    "date": "2026-07-16T15:16:30Z",
@@ -688,7 +738,15 @@
    "direction": "BUY",
    "primary_ticker": "NVDA",
    "strength": 72,
-   "reason": "Trump promoted Nvidia, Tesla, Apple after buying stock; specific large-cap tech promotion tied to purchases."
+   "reason": "Trump promoted Nvidia, Tesla, Apple after buying stock; specific large-cap tech promotion tied to purchases.",
+   "price_since": {
+    "ticker": "NVDA",
+    "pct": -2.0,
+    "base": 207.4,
+    "last": 203.27,
+    "base_date": "2026-07-16",
+    "last_date": "2026-07-17"
+   }
   },
   {
    "date": "2026-07-16T14:36:07Z",
@@ -2568,78 +2626,6 @@
     "base": 450.22,
     "last": 434.97,
     "base_date": "2026-07-09",
-    "last_date": "2026-07-10"
-   }
-  },
-  {
-   "date": "2026-07-08T23:16:27Z",
-   "platform": "News",
-   "text": "Trump-endorsed 'Freedom Fuel' gas stations exist, despite AI image he shared - Snopes \u2014 Trump-endorsed 'Freedom Fuel' gas stations exist, despite AI image he shared\u00a0\u00a0Snopes",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0tRlRVNjBRRFA5TEd3cUwzbU1rTGhHM2h4elBxM3JxSGNNVGVfZnZsa3BZUDE2SWNiaWVHYmVWX1R4VWVRQk9SdzlpandXNEczaDNHbUFaaEM2cFFoOGFmRFYtY2xOTHhVTklEeGhacDNBb2Vl?oc=5",
-   "tickers": [
-    "XLE"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "XLE",
-   "strength": 30,
-   "reason": "Trump endorsement of Freedom Fuel brand; weak signal given retraction of AI image; slight energy bullish read",
-   "price_since": {
-    "ticker": "XLE",
-    "pct": -0.9,
-    "base": 55.6,
-    "last": 55.08,
-    "base_date": "2026-07-08",
-    "last_date": "2026-07-10"
-   }
-  },
-  {
-   "date": "2026-07-08T20:31:19Z",
-   "platform": "News",
-   "text": "Nancy Pelosi Stock Tracker Says 'Stop Overthinking What Stocks to Buy' After Trump's Dell Endorsement - Yahoo Finance \u2014 Nancy Pelosi Stock Tracker Says 'Stop Overthinking What Stocks to Buy' After Trump's Dell Endorsement\u00a0\u00a0Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQ2czVkpJNnFFN1VGa2ttNmxGMEJNVU0tT1JycDI1bVdsNXV4X3JDTXZWQXJnc3hsRWtkSF9ZSjkyRkRFb2JZQ2paMGgtZ3d5a0pEdW9ld053cDhkZ2VSZ1M3Ri1yajRFMjFfQ3F4djJua1JvNERmd0llbHZZb3JNa08yT3dKMGVJLUwtVzdid3BDWEZadE1aSnhoVkY?oc=5",
-   "tickers": [
-    "DELL"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "DELL",
-   "strength": 85,
-   "reason": "Trump explicitly urges buying Dell computers, direct stock catalyst",
-   "price_since": {
-    "ticker": "DELL",
-    "pct": 0.7,
-    "base": 431.97,
-    "last": 434.97,
-    "base_date": "2026-07-08",
-    "last_date": "2026-07-10"
-   }
-  },
-  {
-   "date": "2026-07-08T19:26:11Z",
-   "platform": "News",
-   "text": "Trump's Dell Shout-Out Sparks Ethics Firestorm As Former White House Lawyer Calls the Stock Trading 'Egregious': 'There Should Never Be...' - Dailyhunt \u2014 Trump's Dell Shout-Out Sparks Ethics Firestorm As Former White House Lawyer Calls the Stock Trading 'Egregious': 'There Should Never Be...'\u00a0\u00a0Dailyhunt",
-   "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxObFU4WnFaNEt1bkQ4eUMwUkVETTh6TUZUTUZadkcta1lUWmZ4VFl5M2o3OTJnb0NIeE1oRHphUTRjUGZNaFpKSE52bXd6UlBBT0NnMDl6WlFqLXQtWTg1WHRxRjJCVHNINnU0NXZmWEJJaVAzUlp6VmNyX1Zsd1VWMTRocGY3V2NKZWRNeElKNXNVOVJTeks2bXA4WE9ncllDTEtPVzVISTNZYWVERkFuMUVBQld0bkFqUXRsOVZSSGhFZjUzY0U5WTJpRHNpR2dMc0V2VDlIN2c1UXltLTJGaWdYd1FXZm5qcXVaSTN6aE4taFpIYUtRanBHWDZ4MVJiTU9fanJKNVB0bmhncGR4MXlLSmszTkMxQ0dWWkFBbmZpR0Q4RE9aZThldHJfRXBvbS1meFpqWTFnZw?oc=5",
-   "tickers": [
-    "DELL"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "DELL",
-   "strength": 70,
-   "reason": "Trump's explicit Dell endorsement drives stock; ethics debate confirms market attention to the call.",
-   "price_since": {
-    "ticker": "DELL",
-    "pct": 0.7,
-    "base": 431.97,
-    "last": 434.97,
-    "base_date": "2026-07-08",
     "last_date": "2026-07-10"
    }
   },
