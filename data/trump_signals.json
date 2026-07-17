@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-07-17T10:20:25Z",
+ "last_updated": "2026-07-17T11:52:18Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -35,6 +35,38 @@
    "reason": "Mixed signal: Trump says US doing great (bullish macro) but futures slump (bearish price action)"
   },
   {
+   "date": "2026-07-17T08:51:49Z",
+   "platform": "News",
+   "text": "Trump Praised Over 20 Companies on Truth Social After Buying Their Stock, CNN Finds - CryptoRank \u2014 Trump Praised Over 20 Companies on Truth Social After Buying Their Stock, CNN Finds\u00a0\u00a0CryptoRank",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOEtxaHEyRzUyUnowUno0WHNPMHNQc2l3LVVRbVQ5UGFRSW9jaVZ0ekl5VjAwTDgtajFHY1lTQU1DNkVGeVB4TW9WeVZpUG9DaFprcjFQUEJNZ2k5WVhtV0FHdFRnRm5iQzlkVHpjVmxoWnlSMXVPNWtHcHRZTktYaw?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "SPY",
+   "strength": 40,
+   "reason": "Pattern of Trump praising companies after buying stock raises systemic conflict-of-interest concern; affects market integrity perception"
+  },
+  {
+   "date": "2026-07-17T08:27:11Z",
+   "platform": "News",
+   "text": "Trump Stock Promotion Sparks Ethical Concerns in Trading Activity - The Cryptonomist \u2014 Trump Stock Promotion Sparks Ethical Concerns in Trading Activity\u00a0\u00a0The Cryptonomist",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9BV2RqTm9OZVlqZlNRa1BsZHZiQjBTaU5va1FNS2Z3VUNOY01kaGl1eG9hVlEzXzRyUGhaTnZBU2RzbEZXek5kTWxFWTdjdkFYUWhJcTl4ZVdVc0U5Y0NkbE9Ia3hUZnpEUVFjM0swaUhoRC16NTU0?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "SPY",
+   "strength": 30,
+   "reason": "Ethical concern about Trump's stock promotion activity; generic market-integrity issue, no directional catalyst"
+  },
+  {
    "date": "2026-07-17T07:19:00Z",
    "platform": "News",
    "text": "Trump Praised Over 20 Companies on Truth Social After Buying Their Stock, CNN Finds - BeInCrypto \u2014 Trump Praised Over 20 Companies on Truth Social After Buying Their Stock, CNN Finds\u00a0\u00a0BeInCrypto",
@@ -65,6 +97,22 @@
    "primary_ticker": "SPY",
    "strength": 65,
    "reason": "Trump endorsed companies after purchasing shares; coordinated buying and public promotion of equity positions."
+  },
+  {
+   "date": "2026-07-17T03:05:59Z",
+   "platform": "News",
+   "text": "Wall Street can now pay to get Trump\u2019s Truth posts about markets before everyone else - Bitget \u2014 Wall Street can now pay to get Trump\u2019s Truth posts about markets before everyone else\u00a0\u00a0Bitget",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE12ZEcyVGQ2R3FuZ0Vpdm13QlJld1g5MWlXUnIyS0JNRUdZaTBOYm96dnNUZ3duUjFxZlJtMlpUVEFrdHp1TEZka3d5amtuWnZKUUFjaU5CVTlJblNidHhESE4zMNIBY0FVX3lxTE12ZEcyVGQ2R3FuZ0Vpdm13QlJld1g5MWlXUnIyS0JNRUdZaTBOYm96dnNUZ3duUjFxZlJtMlpUVEFrdHp1TEZka3d5amtuWnZKUUFjaU5CVTlJblNidHhESE4zMA?oc=5",
+   "tickers": [
+    "DJT"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "DJT",
+   "strength": 45,
+   "reason": "Truth Social parent monetizing early-access to Trump posts for Wall Street; bullish for DJT's revenue model"
   },
   {
    "date": "2026-07-17T02:04:00Z",
@@ -2583,54 +2631,6 @@
     "pct": 0.7,
     "base": 431.97,
     "last": 434.97,
-    "base_date": "2026-07-08",
-    "last_date": "2026-07-10"
-   }
-  },
-  {
-   "date": "2026-07-08T05:06:02Z",
-   "platform": "News",
-   "text": "Eric Trump hails $504M Bitcoin stash as holdings top 8,000 BTC - MSN \u2014 Eric Trump hails $504M Bitcoin stash as holdings top 8,000 BTC\u00a0\u00a0MSN",
-   "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNOXo2ZmNuWThfRnI1dzRqVFZTUTBZVFdHZUhCRHVodTJKZDN0RXJWUHFORGlEN2N6Xy1XSWc2cDktY2hwT3ZfS2IzY191LTNXN1lZWjNDaU1PVDB4RWh2NXM4WUV0aW5xMDVNamZQV3plMC1DUFlxNVN1cDRfUy1RT2pPZ2tieU1qN1lQY2JHOWRnM2E0WU10UVNKRzZhRDctTmtadW9kVG04dU9UUmNWY2EtdUppQ2Q4bkMwd200MFBheWt1Q2ZNekVWOXVoWVhmNTlUYldUc2p1emxLbGlMaEJuOXdqNk1FNDNydFNGMFJuNHc2ZDRTNnRwUm1RTm1adndkU00wa0paelJwNC1OdzlTZEFQaWdmd0VZWnVjWC1IVUJ2YVZKaw?oc=5",
-   "tickers": [
-    "BTC-USD"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "BTC-USD",
-   "strength": 60,
-   "reason": "Trump family holds large Bitcoin stash, implicit bullish signal on crypto",
-   "price_since": {
-    "ticker": "BTC-USD",
-    "pct": 3.3,
-    "base": 62257.57,
-    "last": 64312.46,
-    "base_date": "2026-07-08",
-    "last_date": "2026-07-11"
-   }
-  },
-  {
-   "date": "2026-07-08T02:50:38Z",
-   "platform": "News",
-   "text": "Judge rules for The Washington Post in $3.8B defamation suit brought by Trump Media - The Washington Post \u2014 Judge rules for The Washington Post in $3.8B defamation suit brought by Trump Media\u00a0\u00a0The Washington Post",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUjRkM3Z4Y2FrcThIVk5TaDhka2JRVDg0dE9hN29WYTl2eVJGWTQtT3Q1LVdDS3ExUkw3MnBEMVJVaU1XWWRNNGZyaUxSclpVZUhIeDJQQXhvUThaMHVscEJFa0ZpbkVqM0lJeUpjaGtiSXR0eHJDV09Gekl4WjVCYlAyQlRKdURKY054ZWtSbWNpSnJPMTVaYjhYNVU2UzY4VTlIUWtlSGhHNjI4ZERKc0ZMNEF6d09mRmlpTWRDMA?oc=5",
-   "tickers": [
-    "DJT"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "SELL",
-   "primary_ticker": "DJT",
-   "strength": 75,
-   "reason": "Trump Media loses $3.8B defamation suit; bearish for Trump's company",
-   "price_since": {
-    "ticker": "DJT",
-    "pct": 0.6,
-    "base": 8.49,
-    "last": 8.54,
     "base_date": "2026-07-08",
     "last_date": "2026-07-10"
    }
