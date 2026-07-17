@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-07-17T16:22:13Z",
+ "last_updated": "2026-07-17T17:38:37Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-07-17T12:49:00Z",
+   "platform": "News",
+   "text": "Stock Market Today: Dow, Nasdaq, S&P 500 Futures Slump as Trump Says U.S. Is Going 'Great'\u2014 Netflix, Coca - Benzinga \u2014 Stock Market Today: Dow, Nasdaq, S&P 500 Futures Slump as Trump Says U.S. Is Going 'Great'\u2014 Netflix, Coca\u00a0\u00a0Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPMV9SNzBsMFRpWVdIQUI5MEc1Wl92Znh3eFlOWWwzeHZGdHY0Yks5dGY3ZkdFUlVoNm9uTktCZ1ZHQWdTVGphYzUxNi13OTVwYklybi1CWDhwd2Q3cUtpREs2a3dRSnc2RVVFQ0dpNFFNZ0RhV1JDb3FhblpWNkt3RURzWTczUWRVemhtb1ZJUkxJWXVrNmtWYl9BbF9SMnZwa0NZNFM5WG5uNFpFU0JoXzl5YXAzWXNLanpNQ2Y5ZUlLOWZlY2JxZ2F6Mm5CWEpQajNpaWRiNTk1WHY5R0xCb3pEeGhCaXdhOE1fWkVDaXhvekM0QWdOUGdiT1VlbWFTaTZGSkdfUmlGREE?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "SPY",
+   "strength": 25,
+   "reason": "Headline vague on causation; futures slump attributed to Trump comment but no clear bullish/bearish read on specific macro policy"
+  },
   {
    "date": "2026-07-17T11:07:41Z",
    "platform": "News",
@@ -19,20 +35,20 @@
    "reason": "Trump explicitly touted Palantir after buying stock; direct bullish endorsement of named company"
   },
   {
-   "date": "2026-07-17T09:51:13Z",
+   "date": "2026-07-17T10:34:16Z",
    "platform": "News",
    "text": "Trump \u2019 s posts sold to Wall Street in milliseconds: A deep dive into Truth Social parent company's \"influence business model\" - odaily.news \u2014 Trump \u2019 s posts sold to Wall Street in milliseconds: A deep dive into Truth Social parent company's \"influence business model\"\u00a0\u00a0odaily.news",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9WMTNZN2xtV3JDZ3hvU2VsS3k5QkZHM09NYm5vYm9kLVo4VXJ4MGFmeFg3V1dKTTFnM3ltczFfcGhCYmR6OUg5NTZsOTMtTlE?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5hR3dxRXpYR2dKd3Z2QWhsRU5HZnRTcUdmZWozSW5LQ21yNy14MXdRTzU2MF9ZZU9jeGFNbHdOSUc5OGtxRWZQRlk4d2MxWlB6?oc=5",
    "tickers": [
     "DJT"
    ],
    "classified": true,
    "is_market": true,
    "explicit": false,
-   "direction": "BUY",
+   "direction": "WATCH",
    "primary_ticker": "DJT",
-   "strength": 45,
-   "reason": "Truth Social parent company's influence business model\u2014early post access monetization implies platform growth and monetization"
+   "strength": 35,
+   "reason": "Truth Social parent monetizing Trump post access to traders; implies DJT revenue/value but ethical concerns cloud bullish case"
   },
   {
    "date": "2026-07-17T09:01:03Z",
@@ -81,6 +97,22 @@
    "primary_ticker": "SPY",
    "strength": 30,
    "reason": "Ethical concern about Trump's stock promotion activity; generic market-integrity issue, no directional catalyst"
+  },
+  {
+   "date": "2026-07-17T08:04:31Z",
+   "platform": "News",
+   "text": "IBRX Stock Rallies Into Trump\u2019s Big SOTU Night \u2014 Here\u2019s What Traders Think Could Fuel The Next Move - Stocktwits \u2014 IBRX Stock Rallies Into Trump\u2019s Big SOTU Night \u2014 Here\u2019s What Traders Think Could Fuel The Next Move\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWFdFall2YVNMN3Rialp3SE9sU0h6YUQ1MDFiX2JaeXMxNlFFZUZveFU0TkVxUFI4cTQ5bW5VdkFlTDd1dFNwSUN2YTRtRl83aVRRXzZ6d09TeEhlR1NJb1JaMHlMWDhrQXpmZW40c1B1Y21KNjhxdm90Ny1uU3p4MzJZSW9GNGduMEdyRzFIU2RGLWlYWXg4TFJUU0N6ZlhFemxtUmprVXY0YkVRZk5vZHljazQ?oc=5",
+   "tickers": [
+    "IBRX"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "IBRX",
+   "strength": 15,
+   "reason": "Stock rallies into SOTU but headline does not specify Trump policy catalyst; vague connection"
   },
   {
    "date": "2026-07-17T07:42:53Z",
@@ -243,9 +275,9 @@
    "reason": "Report alleges Trump praised companies after buying their stock\u2014potential market manipulation and insider trading concern; creates regulatory risk and reputational uncertainty.",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.7,
+    "pct": -0.6,
     "base": 750.72,
-    "last": 745.75,
+    "last": 746.01,
     "base_date": "2026-07-16",
     "last_date": "2026-07-17"
    }
@@ -267,9 +299,9 @@
    "reason": "Trump bought stocks then praised them publicly\u2014alleged conflict of interest and potential insider trading; market-relevant for systemic trust/regulatory risk.",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.7,
+    "pct": -0.6,
     "base": 750.72,
-    "last": 745.75,
+    "last": 746.02,
     "base_date": "2026-07-16",
     "last_date": "2026-07-17"
    }
@@ -291,9 +323,9 @@
    "reason": "Truth Social monetizing fastest access to Trump posts for trading firms; regulatory/governance risk to DJT",
    "price_since": {
     "ticker": "DJT",
-    "pct": -6.7,
+    "pct": -0.3,
     "base": 9.63,
-    "last": 8.98,
+    "last": 9.6,
     "base_date": "2026-07-16",
     "last_date": "2026-07-17"
    }
@@ -315,9 +347,9 @@
    "reason": "Trump promoted 20+ companies after buying their stocks; suggests potential pump-and-dump pattern affecting multiple sectors.",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.7,
+    "pct": -0.6,
     "base": 750.72,
-    "last": 745.77,
+    "last": 746.04,
     "base_date": "2026-07-16",
     "last_date": "2026-07-17"
    }
@@ -339,9 +371,9 @@
    "reason": "Trump promoted companies on social media after stock purchases; coordinated equity promotion campaign.",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.7,
+    "pct": -0.6,
     "base": 750.72,
-    "last": 745.78,
+    "last": 746.03,
     "base_date": "2026-07-16",
     "last_date": "2026-07-17"
    }
@@ -363,9 +395,9 @@
    "reason": "Conflict of interest debate over Trump's posts and stock trades\u2014raises governance/regulatory uncertainty and potential market integrity concerns.",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.7,
+    "pct": -0.6,
     "base": 750.72,
-    "last": 745.78,
+    "last": 746.03,
     "base_date": "2026-07-16",
     "last_date": "2026-07-17"
    }
@@ -387,9 +419,9 @@
    "reason": "Truth Social usage pattern criticism affects platform perception and DJT value",
    "price_since": {
     "ticker": "DJT",
-    "pct": -6.7,
+    "pct": -0.3,
     "base": 9.63,
-    "last": 8.98,
+    "last": 9.6,
     "base_date": "2026-07-16",
     "last_date": "2026-07-17"
    }
@@ -411,9 +443,9 @@
    "reason": "Trump promoting companies days after buying stocks; explicit pattern of potential pump-and-dump activity",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.7,
+    "pct": -0.6,
     "base": 750.72,
-    "last": 745.79,
+    "last": 746.03,
     "base_date": "2026-07-16",
     "last_date": "2026-07-17"
    }
@@ -435,9 +467,9 @@
    "reason": "Trump explicitly endorses Mike Lindell (My Pillow CEO); endorsement typically bullish for associated company.",
    "price_since": {
     "ticker": "MPL",
-    "pct": 0.2,
+    "pct": 3.7,
     "base": 10.27,
-    "last": 10.29,
+    "last": 10.65,
     "base_date": "2026-07-16",
     "last_date": "2026-07-17"
    }
