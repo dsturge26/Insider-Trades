@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-07-18T02:29:23Z",
+ "last_updated": "2026-07-18T05:11:51Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -277,6 +277,22 @@
    "reason": "Truth Social parent monetizing early-access to Trump posts for Wall Street; bullish for DJT's revenue model"
   },
   {
+   "date": "2026-07-17T02:33:35Z",
+   "platform": "News",
+   "text": "DELL Stock Spikes To Record Highs On President Trump\u2019s Endorsement - Stocktwits \u2014 DELL Stock Spikes To Record Highs On President Trump\u2019s Endorsement\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYWF1OUgweFU0d1NlNU4ya1FYQVJSVTRCX3IwM0NMd19VVmN5RzNtUmc1c2FhTU9abXdnTmVnMDE2QUxna3ZrUEF3Zkd0SFUtOWx3QkF2elBuNkNTcmZDRm1BRUkwMVRwYU0xaUVsWDZLSk0yeEtiMFFPV0t3ZXZ3OW15QUg5V0xHNnRrU1J5VXdvX09Oa0ZmRmJvV0VTVlFRRFh6c3E5RmtHckx0MXpNVVZTWmJpLTUtUXBHSG5pWEFfQll0ejRneDFB?oc=5",
+   "tickers": [
+    "DELL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "DELL",
+   "strength": 80,
+   "reason": "Trump explicitly endorsed Dell; stock spiked on direct presidential endorsement"
+  },
+  {
    "date": "2026-07-17T02:15:04Z",
    "platform": "News",
    "text": "Trump's Posts Sold to Wall Street by the Millisecond, Detailing Truth Social Parent Company's \"Influence Business Playbook\" - techflowpost.com \u2014 Trump's Posts Sold to Wall Street by the Millisecond, Detailing Truth Social Parent Company's \"Influence Business Playbook\"\u00a0\u00a0techflowpost.com",
@@ -432,6 +448,30 @@
     "pct": -1.0,
     "base": 750.72,
     "last": 743.29,
+    "base_date": "2026-07-16",
+    "last_date": "2026-07-17"
+   }
+  },
+  {
+   "date": "2026-07-16T21:04:55Z",
+   "platform": "News",
+   "text": "Trump bought the stocks. Then promoted them. \"There's nothing illegal.\" - MSN \u2014 Trump bought the stocks. Then promoted them. \"There's nothing illegal.\"\u00a0\u00a0MSN",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOa2ZxWGFETmxkOGJkRGk5TWRId01TWlNuU0hmTHpSN3pzM1A1VEo1VWd3T1dhOG1wVWpVdDM4Ry01U0p6NEM3V3pNQzhUVGRXUl9ZZGpCMFpDMzFVZUVETnRZRHZ5VHVoME5nU3RXblpob1g4SWxTRkNfOTV4cndTcWl1RGVkR3N0alY0ZVdlVFdpTmNaMVhwZGctYWRzNGNKSWQ2cUtyMldhcXVtYlU2UDc3ODJMTWxaYlE?oc=5",
+   "tickers": [
+    "DJT"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "DJT",
+   "strength": 68,
+   "reason": "Trump bought stocks then promoted them publicly; his endorsements following stock purchases drive price action in those securities.",
+   "price_since": {
+    "ticker": "DJT",
+    "pct": 0.3,
+    "base": 9.63,
+    "last": 9.66,
     "base_date": "2026-07-16",
     "last_date": "2026-07-17"
    }
@@ -696,30 +736,6 @@
     "pct": -0.9,
     "base": 750.72,
     "last": 743.82,
-    "base_date": "2026-07-16",
-    "last_date": "2026-07-17"
-   }
-  },
-  {
-   "date": "2026-07-16T15:52:31Z",
-   "platform": "News",
-   "text": "Trump bought the stocks. Then promoted them. \u00abThere\u2019s nothing illegal.\u00bb - MSN \u2014 Trump bought the stocks. Then promoted them. \u00abThere\u2019s nothing illegal.\u00bb\u00a0\u00a0MSN",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxONWhSd1pfUnN0X1ZoQWdlQ3NiRnBsMTg4MTd6Tzlfdk12X3RPT2lLeWNzN284d2NyOXhzMkNtMU44U18zTDJ3RmZXd2owc0ZYWjZvb0pWOFhxbm5QWjhkTnplLTJ6WENXSHV5WURuTlI3dkZqSEtWVnR1UW9rTXdkOWdRVFV2Z0NDNnBfOWRVaVNsb0RqX0dNQzlJLTZRM25BZkRFS3E0MmV2SnhKVjVVSlVCeThvanFlc1Y3VHNxSnZxY0dfYkJnRnZwZTM3T0xtTWZhT2w0ZHFMQQ?oc=5",
-   "tickers": [
-    "NVDA"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "NVDA",
-   "strength": 75,
-   "reason": "Trump bought stocks then promoted them publicly; explicit pump-and-dump signal on unnamed companies (NVDA, TSLA, AAPL per other headlines).",
-   "price_since": {
-    "ticker": "NVDA",
-    "pct": -2.0,
-    "base": 207.4,
-    "last": 203.27,
     "base_date": "2026-07-16",
     "last_date": "2026-07-17"
    }
@@ -1346,30 +1362,6 @@
     "pct": -0.3,
     "base": 754.81,
     "last": 752.17,
-    "base_date": "2026-07-15",
-    "last_date": "2026-07-16"
-   }
-  },
-  {
-   "date": "2026-07-15T07:12:23Z",
-   "platform": "News",
-   "text": "DELL Stock Spikes To Record Highs On President Trump\u2019s Endorsement - Stocktwits \u2014 DELL Stock Spikes To Record Highs On President Trump\u2019s Endorsement\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYWF1OUgweFU0d1NlNU4ya1FYQVJSVTRCX3IwM0NMd19VVmN5RzNtUmc1c2FhTU9abXdnTmVnMDE2QUxna3ZrUEF3Zkd0SFUtOWx3QkF2elBuNkNTcmZDRm1BRUkwMVRwYU0xaUVsWDZLSk0yeEtiMFFPV0t3ZXZ3OW15QUg5V0xHNnRrU1J5VXdvX09Oa0ZmRmJvV0VTVlFRRFh6c3E5RmtHckx0MXpNVVZTWmJpLTUtUXBHSG5pWEFfQll0ejRneDFB?oc=5",
-   "tickers": [
-    "DELL"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "DELL",
-   "strength": 85,
-   "reason": "Trump explicitly endorses Dell and its stock; direct market signal.",
-   "price_since": {
-    "ticker": "DELL",
-    "pct": -2.8,
-    "base": 412.68,
-    "last": 400.94,
     "base_date": "2026-07-15",
     "last_date": "2026-07-16"
    }
@@ -2577,78 +2569,6 @@
     "pct": -3.4,
     "base": 450.22,
     "last": 434.97,
-    "base_date": "2026-07-09",
-    "last_date": "2026-07-10"
-   }
-  },
-  {
-   "date": "2026-07-09T09:58:00Z",
-   "platform": "News",
-   "text": "Trump heaps praise on SpaceX's Gwynne Shotwell and thanks her for $325 million Trump Accounts gift - Business Insider \u2014 Trump heaps praise on SpaceX's Gwynne Shotwell and thanks her for $325 million Trump Accounts gift\u00a0\u00a0Business Insider",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQmU2cldfcmNwWEFldjVxN0tYZTNqTl84Y01MWnBkaEVRYmJEazgwYnlLSTJLbTdoRElhekk1cVJ5MG84RlV0VjhmMDNneU9jWVY4X3ZlWUVOUDlmVW1JeVRCZWZBdmZwRVhsMzJhNHhrRkIwX0ZLZW5SUFFFbFJ5ZWF2T0hNMlJSNHg4VGU5bXVOSndTWHJZdWJJUQ?oc=5",
-   "tickers": [
-    "DJT"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "DJT",
-   "strength": 75,
-   "reason": "Trump praises and thanks SpaceX executive for major gift to Trump Accounts; bullish for Trump Media.",
-   "price_since": {
-    "ticker": "DJT",
-    "pct": -0.1,
-    "base": 8.55,
-    "last": 8.54,
-    "base_date": "2026-07-09",
-    "last_date": "2026-07-10"
-   }
-  },
-  {
-   "date": "2026-07-09T09:20:00Z",
-   "platform": "News",
-   "text": "President Donald Trump Is Buying Dell. Should You? - Yahoo Finance \u2014 President Donald Trump Is Buying Dell. Should You?\u00a0\u00a0Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWmZWZVhCOWFmUWJJVDhaQ2VGMlp6emxpNkpTUUFsYUh5Z2JTX09uQVlTclRpc3FGb2FnM3RsaFRqSjcyeU9pR1NFUjNsdDVtQnNQeDhKV2w4ZHpDemxkR0ZaTnZucHp1dWN4ZGx6cER1X2FpWDRDNUF3LVU0RmdFSk9pZUd1d2Q5YW9xVlNadUs5R2xZZHpsb21YVWVWUjZp?oc=5",
-   "tickers": [
-    "DELL"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "DELL",
-   "strength": 90,
-   "reason": "Trump buying Dell and article questions if readers should follow; explicit endorsement signal.",
-   "price_since": {
-    "ticker": "DELL",
-    "pct": -3.4,
-    "base": 450.22,
-    "last": 434.97,
-    "base_date": "2026-07-09",
-    "last_date": "2026-07-10"
-   }
-  },
-  {
-   "date": "2026-07-09T07:48:16Z",
-   "platform": "News",
-   "text": "Trump Praises SpaceX President Gwynne Shotwell's 'Extreme Generosity' After Her $325 Million Trump Accoun - Benzinga \u2014 Trump Praises SpaceX President Gwynne Shotwell's 'Extreme Generosity' After Her $325 Million Trump Accoun\u00a0\u00a0Benzinga",
-   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOdk9FdjVMckw2TmVyd1NIamZhWFQtNTU3dzhsY1BRel9EQ29ia29oWm8xVVI3QnVLVXN0SmlVOUc1c3VKSGRwRE9EWDdQWXdkTVVQRVY4Q2ZCNzNxbFFoVVhQalBJZmxMa2tqUFJWa2tpN1pmVUNqb2NjUG9UU1p4UDFjNTlwVnpBXzMzc3otSEJnRHl5Y0x3ZzhjNEdsMEdONXI2QVUzSmdfQ3pYTmlrc1AyU1R0dVJDV0xkNXYzb2ViRVpPUGVLcERlZktOR0hpSDlscGhaQm9RdHd0aklVUEEzQ0dtR29weFZta0ptNGFKWmhFcUdheE8zSlBNMXNqM0E?oc=5",
-   "tickers": [
-    "DJT"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "DJT",
-   "strength": 75,
-   "reason": "Trump praises SpaceX executive's $325M gift to Trump Accounts; bullish for Trump Media/DJT.",
-   "price_since": {
-    "ticker": "DJT",
-    "pct": -0.1,
-    "base": 8.55,
-    "last": 8.54,
     "base_date": "2026-07-09",
     "last_date": "2026-07-10"
    }
