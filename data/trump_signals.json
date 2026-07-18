@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-07-18T15:15:00Z",
+ "last_updated": "2026-07-18T16:13:17Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-07-18T13:11:38Z",
+   "platform": "News",
+   "text": "NOW Stock Rises Overnight: Trump\u2019s ServiceNow Stake Fuels Retail Buzz Around SAAS Comeback - Stocktwits \u2014 NOW Stock Rises Overnight: Trump\u2019s ServiceNow Stake Fuels Retail Buzz Around SAAS Comeback\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQcEF0OFRRa3hIWF9rS21NMTBqNk53MDA4eWFQcDJad1Z2QkQyTTdmd3prLUVaVUUwdVRSWWpCOGs3N3JaYTZCcG1KMjg1c1Q0WWdjSnlWbHkteXVxcnFoUXFZMEg4ejh0YjA4ZG5BRnBEX1huMFNaS0dXdEx4LWNEOXBLcmNpMzlCQzc1OC0yRDFKeWFMWEZzWUpNQXBWTFFDQlJ6dmFWamU5cUpFZnVfcU1ocFdTa0tfdjByTlZZUHo4QUx1QzJOMHpzZEdaZjdqSVhoWFB0cVRKZW9BbnNLMi1XYUF2MlhaZGc?oc=5",
+   "tickers": [
+    "NOW"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "NOW",
+   "strength": 45,
+   "reason": "Trump's ServiceNow stake creates bullish sentiment; inferred but not explicit endorsement"
+  },
   {
    "date": "2026-07-18T08:50:33Z",
    "platform": "News",
@@ -405,14 +421,6 @@
    "reason": "Truth Social early-access monetization increases DJT revenue/value proposition"
   },
   {
-   "date": "2026-07-17T01:15:00Z",
-   "platform": "News",
-   "text": "Could Trump's endorsement of Mike Lindell hurt Minnesota GOP's election chances? - CBS News \u2014 Could Trump's endorsement of Mike Lindell hurt Minnesota GOP's election chances?\u00a0\u00a0CBS News",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeGp5d2pmUld3cnhqelk1cWtvTDdNUHNfc1JuSDZzTkpZYmpYUzZWUFc4THlNRTFVODJNMzVqbHVURXEzZVVJNUJvZ1dPRkRIeWR2WVBoVU1TM3NTeVpJeVZDNnRJZTdoZjRGdFdDYXlyamU5UE5QMnh6T1owYnlZRmpkYTdCYUdHN19fYnNvM1BlV2VTdEJkcmN5QWJnLXE5QVRHeFlmX1FWS25wd1V4dHZRaXFBb3Z5Zmc?oc=5",
-   "tickers": [],
-   "classified": false
-  },
-  {
    "date": "2026-07-17T01:06:17Z",
    "platform": "News",
    "text": "Wall Street can now pay to get Trump\u2019s Truth posts about markets before everyone else - Cryptopolitan \u2014 Wall Street can now pay to get Trump\u2019s Truth posts about markets before everyone else\u00a0\u00a0Cryptopolitan",
@@ -443,14 +451,6 @@
    "primary_ticker": "DJT",
    "strength": 50,
    "reason": "Trump Media's plan to sell Truth Social post access criticized; regulatory/ethical risk vs. revenue upside; unclear net effect"
-  },
-  {
-   "date": "2026-07-16T23:50:00Z",
-   "platform": "News",
-   "text": "MNGOP Chairman slams governor candidate Mike Lindell after President Trump endorsed him - WDAY Radio \u2014 MNGOP Chairman slams governor candidate Mike Lindell after President Trump endorsed him\u00a0\u00a0WDAY Radio",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTnBZTHRuaTI5RndsRmFwRlV2dnNrTXBLTVc1MWdrQk9sa29laUJkdkFkVGp5Zl8xb1BBMzZWT19IQlRkaVkydjF1aHk5UGNZbFdwUlBXQ1BlMVE0M0FXSjFxeWxJUTd6UGlDbk0tX2FaUEc3ZTJEeUZ1eEZBc0VHRU0zdlFNYS0wQzFNVTdfOFpYRXkwNF9wanVHOU0yRFhIMTdQOU5haEZwRHBGUHlZWXVYR0FKMHVpcjdGeUc3Ri12Nk5jRWJsSEdkaWxIQQ?oc=5",
-   "tickers": [],
-   "classified": false
   },
   {
    "date": "2026-07-16T23:20:00Z",
@@ -1003,22 +1003,6 @@
    "primary_ticker": "DELL",
    "strength": 80,
    "reason": "Trump explicitly promotes Dell Technologies, driving stock surge"
-  },
-  {
-   "date": "2026-07-16T05:56:13Z",
-   "platform": "News",
-   "text": "NOW Stock Rises Overnight: Trump\u2019s ServiceNow Stake Fuels Retail Buzz Around SAAS Comeback - Stocktwits \u2014 NOW Stock Rises Overnight: Trump\u2019s ServiceNow Stake Fuels Retail Buzz Around SAAS Comeback\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQcEF0OFRRa3hIWF9rS21NMTBqNk53MDA4eWFQcDJad1Z2QkQyTTdmd3prLUVaVUUwdVRSWWpCOGs3N3JaYTZCcG1KMjg1c1Q0WWdjSnlWbHkteXVxcnFoUXFZMEg4ejh0YjA4ZG5BRnBEX1huMFNaS0dXdEx4LWNEOXBLcmNpMzlCQzc1OC0yRDFKeWFMWEZzWUpNQXBWTFFDQlJ6dmFWamU5cUpFZnVfcU1ocFdTa0tfdjByTlZZUHo4QUx1QzJOMHpzZEdaZjdqSVhoWFB0cVRKZW9BbnNLMi1XYUF2MlhaZGc?oc=5",
-   "tickers": [
-    "NOW"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "NOW",
-   "strength": 65,
-   "reason": "Trump's ServiceNow stake and implied retail buzz following promotion drives NOW higher"
   },
   {
    "date": "2026-07-16T03:58:16Z",
@@ -2545,54 +2529,6 @@
     "pct": 1.5,
     "base": 112.21,
     "last": 113.9,
-    "base_date": "2026-07-09",
-    "last_date": "2026-07-10"
-   }
-  },
-  {
-   "date": "2026-07-09T13:20:14Z",
-   "platform": "News",
-   "text": "Why is IBM stock surging nearly 7% higher in overnight trading? - MSN \u2014 Why is IBM stock surging nearly 7% higher in overnight trading?\u00a0\u00a0MSN",
-   "url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxQWkhsR3I1RHdCVWhVWGNUWmlYem5oRnhUcUVOQVpodkJ1VGhLREd6Q0p4MzNGUi1LWTNqR2FtRXhXLXVWcmRTT1VmMm0yZF91XzNWZ1Z3WjE5cjdHNmN1Um54X3Q4OV9vTEFkNGZtSFZXMkhMSXBGZk5WM29IVzlRSExQMWQ4dGcwbmJnY19FYmtZV2lYRlpwalE4Zi11SmZFMTRMRGxVbFg3RmFMNjZ3bTBoYnJkUlUxZUw2bG56bUZQWV92R3ZRTkVLZW4yanZGclA4bGNCXzlVejlFeWlYWHZfU3UzNTN1TUFkXzkyVzVnWnExam1fMGtOUXpTQzUxczJucHNfbzVUTG5oMWtvRXpLa3B5dTN5cWpfNTJ6U3NPOHU1clZUVnR5N0N5a1BON0h0RTE4MGxRcUp2a3FQaG1YaUswbk94anBCaE9YdFIzLUR1UzZaalV5dUg5SC1LREtUdw?oc=5",
-   "tickers": [
-    "IBM"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "IBM",
-   "strength": 55,
-   "reason": "IBM overnight 7% surge likely tied to Trump praise and federal quantum contract float",
-   "price_since": {
-    "ticker": "IBM",
-    "pct": -2.6,
-    "base": 295.3,
-    "last": 287.56,
-    "base_date": "2026-07-09",
-    "last_date": "2026-07-10"
-   }
-  },
-  {
-   "date": "2026-07-09T13:19:37Z",
-   "platform": "News",
-   "text": "\u2018Endorsed Republicans who want to keep Obamacare\u2019: Massie rips Trump as premiums set to surge 14% - The Economic Times \u2014 \u2018Endorsed Republicans who want to keep Obamacare\u2019: Massie rips Trump as premiums set to surge 14%\u00a0\u00a0The Economic Times",
-   "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNQWc2TnlfX0dja1N2S1Z2OFg1ZldXZnpHWDFJZ29TVF9sT0dLRk95Y0JOUTNkTldIczZUZHhkUDIyclFuRmFDZExKX3dPMHpsODdjNWJjS1AzSlVWQ2FCdDAxRThqbzVON2E3YnBjYWpFMzE4NTBobVAtTTBhWW5YTmZPWG1CR2V6bU1LcXhsQy1NR2lUMjhrb2JOMjJBN21iZGhQeU52N1RuNzlhWTk1OWt6TGJfbThieUoxRG1RaV9tUUV5UGEwcjVyUjdINzA4SFJVcDl6MXNKZnRlQUktbGV1ZW1oazl2eUlPZmM3WnhZZGduRnNIS3V5MERtd2JwZ1loZHZn0gGLAkFVX3lxTE15dVdFaTNvOGlJNVlkVUNENkZJQ1p5QXlhaXUwUXRWQWVLV2ptcXE2aW1ibmdWY1pfSGdyakEtTGpQbUFJM1YxSGRYRS1ycE96WS1ubHJDY0VZUU9JQXh3SVpVTnVLYllhdW83M1I4ZWFSS29Cb1NzV0lDTVlPZ3R3cHFDY3RWalpZWEhERFlra2wtdFFmM0FHakFtTXB3TVFuamtmUmpGSFI5TTRHQ3hlU1FleEpfaldieXR6dlBLQ2tST3FHZHoteTBxQWFpVW5ESDUzSnQwb0hPVnRmV1lzM19oYkpSbU5Ra3gtdWN5anpoUHBhRk9QR3lEYkE2dlVoV1dhN2xKOEMtSQ?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "SPY",
-   "strength": 35,
-   "reason": "Healthcare premium cost inflation and policy conflict; bearish macro signal for broad market and healthcare sector.",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": 0.4,
-    "base": 751.71,
-    "last": 754.95,
     "base_date": "2026-07-09",
     "last_date": "2026-07-10"
    }
