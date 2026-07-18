@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-07-17T23:52:57Z",
+ "last_updated": "2026-07-18T02:29:23Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -67,6 +67,22 @@
    "primary_ticker": "DOCN",
    "strength": 55,
    "reason": "Strong Q2 preliminary numbers and CEO touting AI customer wins; fundamental positive catalyst for Docusign stock."
+  },
+  {
+   "date": "2026-07-17T16:22:00Z",
+   "platform": "News",
+   "text": "\u2018My Goodness, Come On!\u2019 Stephen A. Smith Challenges Anna Paulina Luna on Trump\u2019s Stock Trades - Mediaite \u2014 \u2018My Goodness, Come On!\u2019 Stephen A. Smith Challenges Anna Paulina Luna on Trump\u2019s Stock Trades\u00a0\u00a0Mediaite",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSlN4cFd0T3J5b1JzZ2UyQWJMVFVRdEd1ckF6c0JMNW5VZEZlZjNTNlY3dkVlZEFLNVg3OHBxQ1pXeGRHam05VjdyVHhPYzdxUkRldW5uRERzUWFZVFpFeTdmY0dJTUczQUJCaWZfNzVESFY2WjhoY2xEZzNrZl9tRFNaM1RaSmJRMzV1NmEwZXBQQl9HbXlRbU1rU29wRmFOUHp6RnFzTHVBMmJGT2lzY3o2bkRva2hYckNnQ0QxRlNRZGFJS1Nn?oc=5",
+   "tickers": [
+    "DJT"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "SELL",
+   "primary_ticker": "DJT",
+   "strength": 70,
+   "reason": "Public scrutiny and ethical challenge to Trump's stock trading activity; negative publicity around Truth Social's pump scheme"
   },
   {
    "date": "2026-07-17T12:49:00Z",
@@ -2633,30 +2649,6 @@
     "pct": -0.1,
     "base": 8.55,
     "last": 8.54,
-    "base_date": "2026-07-09",
-    "last_date": "2026-07-10"
-   }
-  },
-  {
-   "date": "2026-07-09T02:26:39Z",
-   "platform": "News",
-   "text": "Dell stock jumps after Trump tells Americans, 'Go out and buy a Dell computer' - MSN \u2014 Dell stock jumps after Trump tells Americans, 'Go out and buy a Dell computer'\u00a0\u00a0MSN",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZUY3RTdSUUJvR29udTU1QXFqa1BlMWh6enpYN3IwcmJycHMteDRvVVdvZzBZdTRLaFNGS0wtUkdsZ3FCcmVMdmtHMzN0RFdrZGNLNVFyR2tpaEpzS1o1QkZ4NFRYbDBtZVdjelJpX1ZwTFF3SFJaek94S01BZ3VWRWNVMDFVSEdiblhRc2ZLLUJrMEtHS0tUaHdvbjBkYjJPd3FocjNHTUlyZEVpTHNodFhzOU1zWThVaFpkZ2FIZlJndw?oc=5",
-   "tickers": [
-    "DELL"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "DELL",
-   "strength": 85,
-   "reason": "Trump explicitly urges Americans to buy Dell computers; direct endorsement of named public company.",
-   "price_since": {
-    "ticker": "DELL",
-    "pct": -3.4,
-    "base": 450.22,
-    "last": 434.97,
     "base_date": "2026-07-09",
     "last_date": "2026-07-10"
    }
