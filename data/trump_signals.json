@@ -1,7 +1,55 @@
 {
- "last_updated": "2026-07-18T08:59:03Z",
+ "last_updated": "2026-07-18T10:26:03Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-07-18T02:51:20Z",
+   "platform": "News",
+   "text": "Marco Rubio\u2019s frozen reaction as Trump praises himself and the stock market has internet in stitches - MSN \u2014 Marco Rubio\u2019s frozen reaction as Trump praises himself and the stock market has internet in stitches\u00a0\u00a0MSN",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNQVNWQl9YN3pMVHduYmF4bE1PZEREcTk5VHVreVAtbjZvVjBHVWtmZjRLcXFZZ1l2dG1xbk1hQmxnZkZsdXYwVXNQaElPRndBYVRRMXhFY2ZfN1RQM214M2dUckNmdno1VlFfNEpxYnl2UUFNMmYtd0F3Ny0yTVlJX3lfNWFRZjhZb3lwQmUwOG1QQmp4QXNFZm9rWElkUDM2bDc1Zk1Vb2FYMUVEdGl5cG93NTlDVnRSRkVRUGpsYldNQl9NUHZHOGNuY0s3MVdEcWhUWGtTUFhRRUJTX0ZIZEZhcw?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "SPY",
+   "strength": 15,
+   "reason": "Trump self-praise about stock market is macro sentiment but vague and low specificity"
+  },
+  {
+   "date": "2026-07-18T01:36:26Z",
+   "platform": "News",
+   "text": "Master of coin: Trump made a fortune on his crypto business \u2014 thousands of investors lost their shirts - AOL.com \u2014 Master of coin: Trump made a fortune on his crypto business \u2014 thousands of investors lost their shirts\u00a0\u00a0AOL.com",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0xNGxwRjNmaDhsQmstTHptcFFCc0tGejU3N1E5bldtRk9TMzJObzI3X2dWTUVVT1JvLTZEU0pZQVZPMDZGWGRyMVdFY2R5ZFFDeVAwcUhmd21PdmdEbXl1WGlfd1BvR2h1MjJ2TkhJRXJSVnJsVVhLaEQzTXR3VlU?oc=5",
+   "tickers": [
+    "TRUMP"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "TRUMP",
+   "strength": 35,
+   "reason": "Trump crypto business profiteering while investors lost; bearish for TRUMP coin trust"
+  },
+  {
+   "date": "2026-07-17T21:10:43Z",
+   "platform": "News",
+   "text": "Concerns over moral hazard (moral hazard) against the Donald Trump administration are growing. Follo.. - \ub9e4\uc77c\uacbd\uc81c \u2014 Concerns over moral hazard (moral hazard) against the Donald Trump administration are growing. Follo..\u00a0\u00a0\ub9e4\uc77c\uacbd\uc81c",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1GWEZjbUJrNkFuV2d3R05yUWEwU1owY1BTRXdCNThxeG1OdTc4QWE0OG9oSGllajNwc3RndGs1QlBNUWdaSml6NFlITGlwRjQ?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "SPY",
+   "strength": 20,
+   "reason": "Moral hazard concerns about Trump administration policy; broad market macro risk, low actionability"
+  },
   {
    "date": "2026-07-17T19:35:55.921Z",
    "platform": "Truth Social",
@@ -309,6 +357,22 @@
    "reason": "Truth Social parent monetizing Trump posts to investors milliseconds early; market manipulation concern bearish for DJT"
   },
   {
+   "date": "2026-07-17T02:15:04Z",
+   "platform": "News",
+   "text": "Trump's Posts Sold to Wall Street by the Millisecond, Detailing Truth Social Parent Company's \"Influence Business Playbook\" - \u6df1\u6f6eTechFlow \u2014 Trump's Posts Sold to Wall Street by the Millisecond, Detailing Truth Social Parent Company's \"Influence Business Playbook\"\u00a0\u00a0\u6df1\u6f6eTechFlow",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1rMlBZWWV5THNPZGxKMlZnOTExUndpVl9wME5kZTg2b2RTWml1U19GZkhsU19RZG5zZUtkREcwejFacnNkUndrWUZ0Q1lqYXpuYkE?oc=5",
+   "tickers": [
+    "DJT"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "WATCH",
+   "primary_ticker": "DJT",
+   "strength": 55,
+   "reason": "Truth Social selling Trump's posts to Wall Street for advance trading; bullish for DJT model but bearish for market integrity"
+  },
+  {
    "date": "2026-07-17T02:04:00Z",
    "platform": "News",
    "text": "Trump sells early access to Truth Social posts to investors - CHOSUNBIZ - Chosunbiz \u2014 Trump sells early access to Truth Social posts to investors - CHOSUNBIZ\u00a0\u00a0Chosunbiz",
@@ -323,22 +387,6 @@
    "primary_ticker": "DJT",
    "strength": 35,
    "reason": "Truth Social early-access monetization increases DJT revenue/value proposition"
-  },
-  {
-   "date": "2026-07-17T01:43:43Z",
-   "platform": "News",
-   "text": "Master of coin: Trump made a fortune on his crypto business \u2014 thousands of investors lost their shirts - AOL.com \u2014 Master of coin: Trump made a fortune on his crypto business \u2014 thousands of investors lost their shirts\u00a0\u00a0AOL.com",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0xNGxwRjNmaDhsQmstTHptcFFCc0tGejU3N1E5bldtRk9TMzJObzI3X2dWTUVVT1JvLTZEU0pZQVZPMDZGWGRyMVdFY2R5ZFFDeVAwcUhmd21PdmdEbXl1WGlfd1BvR2h1MjJ2TkhJRXJSVnJsVVhLaEQzTXR3VlU?oc=5",
-   "tickers": [
-    "TRUMP"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "TRUMP",
-   "strength": 45,
-   "reason": "Trump crypto business losses signal market risk and reputational damage to crypto asset"
   },
   {
    "date": "2026-07-17T01:06:17Z",
@@ -2605,23 +2653,6 @@
    "primary_ticker": "TM",
    "strength": 75,
    "reason": "Toyota announces major US (Texas) expansion from Mexico; tariff threat forces reshoring, bullish for Toyota and US manufacturing."
-  },
-  {
-   "date": "2026-07-06T20:45:33.577Z",
-   "platform": "Truth Social",
-   "text": "Great news! I have just been informed that one of the biggest, best, and smartest Retailers in America, Walmart, will be lowering prices, by a lot, at my Administration's request to celebrate our great Country's 250th birthday. Walmart will, in particular, be dropping the price for a pound of ground beef by almost 15%, among many other products. This is a huge deal for the many millions of Americans who, smartly, shop at Walmart, which is a truly patriotic Company who loves the U.S.A. My Administration is lowering prices that Joe Biden incompetently raised with the worst inflation crisis in history, a total disaster along with the Southern Border, the botched withdrawal from Afghanistan, and many other failures. Just as I promised, Oil Prices are plummeting FAST, and Gas Prices at the pump are dropping too, just like egg and Prescription Drug prices which I am bringing down by historic levels. Walmart is stepping up in a big and bold way, and other Retailers should follow the lead of these absolute Patriots. Together, we will make America stronger and greater than ever before! President DONALD J. TRUMP",
-   "tickers": [
-    "WMT"
-   ],
-   "engagement": 23201,
-   "url": "https://truthsocial.com/@realDonaldTrump/116874984393383550",
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "WMT",
-   "strength": 70,
-   "reason": "Trump explicitly praises Walmart and announces major price reductions (ground beef down ~15%) at administration request; strong validation of retail partner and deflationary narrative."
   },
   {
    "curated": true,
