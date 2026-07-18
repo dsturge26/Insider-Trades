@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-07-18T16:13:17Z",
+ "last_updated": "2026-07-18T17:16:43Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -165,6 +165,22 @@
    "reason": "Public scrutiny and ethical challenge to Trump's stock trading activity; negative publicity around Truth Social's pump scheme"
   },
   {
+   "date": "2026-07-17T15:16:01Z",
+   "platform": "News",
+   "text": "IBRX Stock Rallies Into Trump\u2019s Big SOTU Night \u2014 Here\u2019s What Traders Think Could Fuel The Next Move - Stocktwits \u2014 IBRX Stock Rallies Into Trump\u2019s Big SOTU Night \u2014 Here\u2019s What Traders Think Could Fuel The Next Move\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWFdFall2YVNMN3Rialp3SE9sU0h6YUQ1MDFiX2JaeXMxNlFFZUZveFU0TkVxUFI4cTQ5bW5VdkFlTDd1dFNwSUN2YTRtRl83aVRRXzZ6d09TeEhlR1NJb1JaMHlMWDhrQXpmZW40c1B1Y21KNjhxdm90Ny1uU3p4MzJZSW9GNGduMEdyRzFIU2RGLWlYWXg4TFJUU0N6ZlhFemxtUmprVXY0YkVRZk5vZHljazQ?oc=5",
+   "tickers": [
+    "IBRX"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "IBRX",
+   "strength": 30,
+   "reason": "Biotech stock rally around Trump SOTU speech; macro political event with unclear specific catalyst"
+  },
+  {
    "date": "2026-07-17T12:49:00Z",
    "platform": "News",
    "text": "Stock Market Today: Dow, Nasdaq, S&P 500 Futures Slump as Trump Says U.S. Is Going 'Great'\u2014 Netflix, Coca - Benzinga \u2014 Stock Market Today: Dow, Nasdaq, S&P 500 Futures Slump as Trump Says U.S. Is Going 'Great'\u2014 Netflix, Coca\u00a0\u00a0Benzinga",
@@ -259,22 +275,6 @@
    "primary_ticker": "SPY",
    "strength": 30,
    "reason": "Ethical concern about Trump's stock promotion activity; generic market-integrity issue, no directional catalyst"
-  },
-  {
-   "date": "2026-07-17T08:04:31Z",
-   "platform": "News",
-   "text": "IBRX Stock Rallies Into Trump\u2019s Big SOTU Night \u2014 Here\u2019s What Traders Think Could Fuel The Next Move - Stocktwits \u2014 IBRX Stock Rallies Into Trump\u2019s Big SOTU Night \u2014 Here\u2019s What Traders Think Could Fuel The Next Move\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWFdFall2YVNMN3Rialp3SE9sU0h6YUQ1MDFiX2JaeXMxNlFFZUZveFU0TkVxUFI4cTQ5bW5VdkFlTDd1dFNwSUN2YTRtRl83aVRRXzZ6d09TeEhlR1NJb1JaMHlMWDhrQXpmZW40c1B1Y21KNjhxdm90Ny1uU3p4MzJZSW9GNGduMEdyRzFIU2RGLWlYWXg4TFJUU0N6ZlhFemxtUmprVXY0YkVRZk5vZHljazQ?oc=5",
-   "tickers": [
-    "IBRX"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "IBRX",
-   "strength": 15,
-   "reason": "Stock rallies into SOTU but headline does not specify Trump policy catalyst; vague connection"
   },
   {
    "date": "2026-07-17T07:42:53Z",
@@ -2532,6 +2532,40 @@
     "base_date": "2026-07-09",
     "last_date": "2026-07-10"
    }
+  },
+  {
+   "date": "2026-07-07T12:21:24.593Z",
+   "platform": "Truth Social",
+   "text": "Toyota is moving from Mexico to the United States (Texas!). A really big deal. Tariffs at work! President DONALD J. TRUMP",
+   "tickers": [
+    "TM"
+   ],
+   "engagement": 30260,
+   "url": "https://truthsocial.com/@realDonaldTrump/116878664308977613",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "TM",
+   "strength": 72,
+   "reason": "Toyota moving production from Mexico to US; tariff policy working as intended, bullish for auto sector and reshoring narrative"
+  },
+  {
+   "date": "2026-07-06T20:45:33.577Z",
+   "platform": "Truth Social",
+   "text": "Great news! I have just been informed that one of the biggest, best, and smartest Retailers in America, Walmart, will be lowering prices, by a lot, at my Administration's request to celebrate our great Country's 250th birthday. Walmart will, in particular, be dropping the price for a pound of ground beef by almost 15%, among many other products. This is a huge deal for the many millions of Americans who, smartly, shop at Walmart, which is a truly patriotic Company who loves the U.S.A. My Administration is lowering prices that Joe Biden incompetently raised with the worst inflation crisis in history, a total disaster along with the Southern Border, the botched withdrawal from Afghanistan, and many other failures. Just as I promised, Oil Prices are plummeting FAST, and Gas Prices at the pump are dropping too, just like egg and Prescription Drug prices which I am bringing down by historic levels. Walmart is stepping up in a big and bold way, and other Retailers should follow the lead of these absolute Patriots. Together, we will make America stronger and greater than ever before! President DONALD J. TRUMP",
+   "tickers": [
+    "WMT"
+   ],
+   "engagement": 23201,
+   "url": "https://truthsocial.com/@realDonaldTrump/116874984393383550",
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "WMT",
+   "strength": 78,
+   "reason": "Trump explicitly praises Walmart and announces price reductions coordinated with his Administration; direct endorsement of specific company as patriotic and deflationary"
   },
   {
    "curated": true,
