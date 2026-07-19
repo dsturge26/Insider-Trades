@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-07-19T16:36:16Z",
+ "last_updated": "2026-07-19T17:42:22Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -18,6 +18,22 @@
    "primary_ticker": "XLE",
    "strength": 45,
    "reason": "North Sea oil development increases UK/global oil supply potential; bullish for energy sector"
+  },
+  {
+   "date": "2026-07-19T13:11:34Z",
+   "platform": "News",
+   "text": "Donald Trump praises Ted Sarandos, confirms meeting but says Netflix-WB would have a great big market share - MSN \u2014 Donald Trump praises Ted Sarandos, confirms meeting but says Netflix-WB would have a great big market share\u00a0\u00a0MSN",
+   "url": "https://news.google.com/rss/articles/CBMihwNBVV95cUxQWVFwcTFoZXI3d1l5US11OWV3S2pON1dudFozVlBISnVyNV84Q1NLbVpuZ0xXU3c2YXJlNG5zam40RzNOSWItT0NPLUItRG5pczdxOEUyQ2l1cDZZOFJDMVh0ZzdtV0x2aTA5cjJvUHhzcklCd0drbE43WmVTY05vXzhlZ3g4TXkzVmFLd2FmS2JkeHNWQ0FqRHpObGp1dTlMTDBCeWc2R3NFTDljNnkzd0NaYmFvOXRvM0tUTmI1WWlaWTlPM21LWDA3cktVWW04YjNLM2FaUjJWRm8wbG9jWEFJbjBreWxzanVaSnc3S00wOG5BSU1nUl91X29zd25jcXFMdEZ0SUpvWTVrajlJc0Y0TFRobnRoN3FaVG9NYkU3LWt3WHZVbUtGT3hxeHlUanByc21qVHhEa2Jjd0E3VUY0N185T0tqRGdHYlM2TlpNNF9Oa182cnJjbExFdU5ReEdDM21KRTMwMVNzQ3lhR3RpeGtsaktiN0RCaEJRN0tBdk5Denpr?oc=5",
+   "tickers": [
+    "NFLX"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "NFLX",
+   "strength": 25,
+   "reason": "Trump mentions Netflix positively but speculates on hypothetical merger; no direct buy signal or price catalyst"
   },
   {
    "date": "2026-07-19T11:54:33.979Z",
@@ -2483,30 +2499,6 @@
     "pct": 3.2,
     "base": 55.08,
     "last": 56.87,
-    "base_date": "2026-07-10",
-    "last_date": "2026-07-13"
-   }
-  },
-  {
-   "date": "2026-07-10T01:25:43Z",
-   "platform": "News",
-   "text": "Dell\u2019s stock gets another Trump bump \u2014 but this time it\u2019s fading - MSN \u2014 Dell\u2019s stock gets another Trump bump \u2014 but this time it\u2019s fading\u00a0\u00a0MSN",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOa2pTUjVyVVczYy1PV2NXNW15Y3drM1BfRWRuMDhlejJWTThYcU4zTGtfM21NOFRtejd0T3RrQWk1RG5sNllCQmV3dFB0bVVUdkh2OEZmc1d2aXdXWGctamRjVWFlZ0NiQU1pUWRwU0NpYVg3Z05Kbk94R3Y5OXQtYlE1ajVEMkp6VnkyaEZkUXZNb1g2OTdhUnVQeTNLYjY4S0hNekp0dHU3RFBMSmY2WHdJdWY?oc=5",
-   "tickers": [
-    "DELL"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "DELL",
-   "strength": 60,
-   "reason": "Trump has praised/endorsed Dell; prior explicit 'buy Dell' comments drive stock bump.",
-   "price_since": {
-    "ticker": "DELL",
-    "pct": -3.0,
-    "base": 434.97,
-    "last": 421.8,
     "base_date": "2026-07-10",
     "last_date": "2026-07-13"
    }
