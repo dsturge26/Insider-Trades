@@ -1,7 +1,24 @@
 {
- "last_updated": "2026-07-19T11:58:24Z",
+ "last_updated": "2026-07-19T13:42:35Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-07-19T11:54:33.979Z",
+   "platform": "Truth Social",
+   "text": "Republicans should add Iran to the Russian Sanctions Bill. That's what Lindsey wanted to do, and it was going to happen. IMPORTANT!!! President DJT",
+   "tickers": [
+    "SPY"
+   ],
+   "engagement": 6302,
+   "url": "https://truthsocial.com/@realDonaldTrump/116946506480346191",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "SPY",
+   "strength": 35,
+   "reason": "Iran sanctions announcement implies geopolitical risk premium; oil/defense sector tailwind."
+  },
   {
    "date": "2026-07-18T23:08:25Z",
    "platform": "News",
@@ -2484,22 +2501,6 @@
     "base_date": "2026-07-09",
     "last_date": "2026-07-13"
    }
-  },
-  {
-   "date": "2026-07-09T17:45:05Z",
-   "platform": "News",
-   "text": "Elon Musk's deputy just gave 2M kids 1 share of SpaceX each - moneywise.com \u2014 Elon Musk's deputy just gave 2M kids 1 share of SpaceX each\u00a0\u00a0moneywise.com",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUkJqUnM2TVFKNWNqNE12OHdBU0w3b3JRNnNMcmpXTzlNaWUtMVFzelQ3XzBZc2RSOEtROURQNThPNlNHLWpweHB3cHlJdjJwdFpwOWRRNmdWZVhrSDh2cWo4d0haZ01jdXp3YXJ4eVFEeDI2dWZIRURzYWRNTnVyN0xfVTRuTFlTa2puVFZEanFxcmlkdm1zZGtCQUpxdFJNQ2c?oc=5",
-   "tickers": [
-    "SPACE"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "SPACE",
-   "strength": 50,
-   "reason": "SpaceX shareholder/employee expansion signal; bullish for company equity value and public market sentiment."
   },
   {
    "curated": true,
