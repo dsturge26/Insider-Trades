@@ -1,42 +1,60 @@
 {
- "last_updated": "2026-07-19T21:53:04Z",
+ "last_updated": "2026-07-19T22:52:44Z",
  "source": "ApeWisdom / r/wallstreetbets",
  "signals": [
   {
    "ticker": "MU",
    "name": "Micron Technology",
-   "mentions": 42,
-   "mentions_24h_ago": 86,
-   "change_pct": -51.2,
+   "mentions": 46,
+   "mentions_24h_ago": 71,
+   "change_pct": -35.2,
    "rank": 1,
-   "upvotes": 214
+   "upvotes": 227
   },
   {
    "ticker": "SPY",
    "name": "SPDR S&amp;P 500 ETF Trust",
-   "mentions": 37,
-   "mentions_24h_ago": 61,
-   "change_pct": -39.3,
+   "mentions": 41,
+   "mentions_24h_ago": 49,
+   "change_pct": -16.3,
    "rank": 2,
-   "upvotes": 110
+   "upvotes": 124
   },
   {
    "ticker": "SPCX",
    "name": "SpaceX",
-   "mentions": 37,
-   "mentions_24h_ago": 49,
-   "change_pct": -24.5,
+   "mentions": 36,
+   "mentions_24h_ago": 36,
+   "change_pct": 0.0,
    "rank": 3,
-   "upvotes": 142
+   "upvotes": 141
+  },
+  {
+   "ticker": "SNDK",
+   "name": "Sandisk",
+   "mentions": 20,
+   "mentions_24h_ago": 17,
+   "change_pct": 17.6,
+   "rank": 4,
+   "upvotes": 89
   },
   {
    "ticker": "DTE",
    "name": "DTE Energy",
-   "mentions": 20,
-   "mentions_24h_ago": 37,
-   "change_pct": -45.9,
-   "rank": 4,
-   "upvotes": 2435
+   "mentions": 19,
+   "mentions_24h_ago": 35,
+   "change_pct": -45.7,
+   "rank": 5,
+   "upvotes": 2528
+  },
+  {
+   "ticker": "MSFT",
+   "name": "Microsoft",
+   "mentions": 18,
+   "mentions_24h_ago": 14,
+   "change_pct": 28.6,
+   "rank": 6,
+   "upvotes": 100
   },
   {
    "ticker": "NVDA",
@@ -44,71 +62,53 @@
    "mentions": 18,
    "mentions_24h_ago": 15,
    "change_pct": 20.0,
-   "rank": 5,
-   "upvotes": 92
-  },
-  {
-   "ticker": "MSFT",
-   "name": "Microsoft",
-   "mentions": 16,
-   "mentions_24h_ago": 14,
-   "change_pct": 14.3,
-   "rank": 6,
-   "upvotes": 90
-  },
-  {
-   "ticker": "SNDK",
-   "name": "Sandisk",
-   "mentions": 15,
-   "mentions_24h_ago": 24,
-   "change_pct": -37.5,
    "rank": 7,
-   "upvotes": 52
-  },
-  {
-   "ticker": "QQQ",
-   "name": "Invesco QQQ ETF",
-   "mentions": 14,
-   "mentions_24h_ago": 24,
-   "change_pct": -41.7,
-   "rank": 8,
-   "upvotes": 33
+   "upvotes": 103
   },
   {
    "ticker": "GOOG",
    "name": "Alphabet (Google)",
-   "mentions": 13,
-   "mentions_24h_ago": 14,
-   "change_pct": -7.1,
+   "mentions": 15,
+   "mentions_24h_ago": 12,
+   "change_pct": 25.0,
+   "rank": 8,
+   "upvotes": 56
+  },
+  {
+   "ticker": "QQQ",
+   "name": "Invesco QQQ ETF",
+   "mentions": 15,
+   "mentions_24h_ago": 21,
+   "change_pct": -28.6,
    "rank": 9,
-   "upvotes": 43
+   "upvotes": 34
   },
   {
    "ticker": "ASTS",
    "name": "AST SpaceMobile",
    "mentions": 10,
-   "mentions_24h_ago": 12,
-   "change_pct": -16.7,
+   "mentions_24h_ago": 10,
+   "change_pct": 0.0,
    "rank": 10,
-   "upvotes": 387
+   "upvotes": 385
   },
   {
    "ticker": "IREN",
    "name": "Iris Energy",
    "mentions": 9,
-   "mentions_24h_ago": 4,
-   "change_pct": 125.0,
+   "mentions_24h_ago": 3,
+   "change_pct": 200.0,
    "rank": 11,
-   "upvotes": 147
+   "upvotes": 160
   },
   {
    "ticker": "ONDS",
    "name": "Ondas Holdings",
-   "mentions": 8,
+   "mentions": 9,
    "mentions_24h_ago": 3,
-   "change_pct": 166.7,
+   "change_pct": 200.0,
    "rank": 12,
-   "upvotes": 91
+   "upvotes": 90
   },
   {
    "ticker": "AMD",
@@ -117,25 +117,34 @@
    "mentions_24h_ago": 11,
    "change_pct": -36.4,
    "rank": 13,
-   "upvotes": 84
+   "upvotes": 83
   },
   {
-   "ticker": "AVEX",
-   "name": "AEVEX Corp.",
+   "ticker": "AAPL",
+   "name": "Apple",
    "mentions": 6,
-   "mentions_24h_ago": 0,
-   "change_pct": null,
+   "mentions_24h_ago": 1,
+   "change_pct": 500.0,
    "rank": 14,
-   "upvotes": 56
+   "upvotes": 7
   },
   {
-   "ticker": "NBIS",
-   "name": "Nebius Group",
+   "ticker": "TSLA",
+   "name": "Tesla",
    "mentions": 6,
-   "mentions_24h_ago": 8,
-   "change_pct": -25.0,
+   "mentions_24h_ago": 9,
+   "change_pct": -33.3,
    "rank": 15,
-   "upvotes": 78
+   "upvotes": 26
+  },
+  {
+   "ticker": "AM",
+   "name": "Antero Midstream",
+   "mentions": 6,
+   "mentions_24h_ago": 3,
+   "change_pct": 100.0,
+   "rank": 16,
+   "upvotes": 8
   },
   {
    "ticker": "USO",
@@ -143,44 +152,35 @@
    "mentions": 6,
    "mentions_24h_ago": 7,
    "change_pct": -14.3,
-   "rank": 16,
+   "rank": 17,
    "upvotes": 3
   },
   {
-   "ticker": "IBM",
-   "name": "IBM",
+   "ticker": "AVEX",
+   "name": "AEVEX Corp.",
    "mentions": 6,
-   "mentions_24h_ago": 14,
-   "change_pct": -57.1,
-   "rank": 17,
-   "upvotes": 22
-  },
-  {
-   "ticker": "TSLA",
-   "name": "Tesla",
-   "mentions": 6,
-   "mentions_24h_ago": 8,
-   "change_pct": -25.0,
+   "mentions_24h_ago": 0,
+   "change_pct": null,
    "rank": 18,
-   "upvotes": 26
+   "upvotes": 53
   },
   {
-   "ticker": "AAPL",
-   "name": "Apple",
-   "mentions": 6,
-   "mentions_24h_ago": 2,
-   "change_pct": 200.0,
-   "rank": 19,
-   "upvotes": 7
-  },
-  {
-   "ticker": "META",
-   "name": "Meta Platforms (Facebook)",
+   "ticker": "INTC",
+   "name": "Intel",
    "mentions": 5,
-   "mentions_24h_ago": 16,
-   "change_pct": -68.8,
+   "mentions_24h_ago": 2,
+   "change_pct": 150.0,
+   "rank": 19,
+   "upvotes": 12
+  },
+  {
+   "ticker": "IQ",
+   "name": "iQIYI",
+   "mentions": 5,
+   "mentions_24h_ago": 8,
+   "change_pct": -37.5,
    "rank": 20,
-   "upvotes": 74
+   "upvotes": 18
   },
   {
    "ticker": "BYD",
@@ -192,40 +192,40 @@
    "upvotes": 42
   },
   {
-   "ticker": "IQ",
-   "name": "iQIYI",
+   "ticker": "META",
+   "name": "Meta Platforms (Facebook)",
    "mentions": 5,
-   "mentions_24h_ago": 8,
-   "change_pct": -37.5,
+   "mentions_24h_ago": 16,
+   "change_pct": -68.8,
    "rank": 22,
-   "upvotes": 18
-  },
-  {
-   "ticker": "INTC",
-   "name": "Intel",
-   "mentions": 5,
-   "mentions_24h_ago": 2,
-   "change_pct": 150.0,
-   "rank": 23,
-   "upvotes": 14
+   "upvotes": 74
   },
   {
    "ticker": "RDDT",
    "name": "Reddit",
-   "mentions": 4,
+   "mentions": 5,
    "mentions_24h_ago": 3,
-   "change_pct": 33.3,
-   "rank": 24,
-   "upvotes": 11
+   "change_pct": 66.7,
+   "rank": 23,
+   "upvotes": 15
   },
   {
-   "ticker": "AMPX",
-   "name": "Amprius Technologies",
+   "ticker": "NBIS",
+   "name": "Nebius Group",
+   "mentions": 5,
+   "mentions_24h_ago": 8,
+   "change_pct": -37.5,
+   "rank": 24,
+   "upvotes": 75
+  },
+  {
+   "ticker": "IBM",
+   "name": "IBM",
    "mentions": 4,
-   "mentions_24h_ago": 0,
-   "change_pct": null,
+   "mentions_24h_ago": 13,
+   "change_pct": -69.2,
    "rank": 25,
-   "upvotes": 13
+   "upvotes": 11
   }
  ]
 }
