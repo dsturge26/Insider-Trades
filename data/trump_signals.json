@@ -1,7 +1,55 @@
 {
- "last_updated": "2026-07-20T21:32:52Z",
+ "last_updated": "2026-07-20T22:39:40Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-07-20T22:02:48Z",
+   "platform": "News",
+   "text": "Claude AI Disagrees With President Trump on Eli Lilly (LLY) - Yahoo! Finance Canada \u2014 Claude AI Disagrees With President Trump on Eli Lilly (LLY)\u00a0\u00a0Yahoo! Finance Canada",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWVVjVjBEdGVLTWdXRkNWbkN5VjdlVTFPZjViOVZGQlVZZ09LVTdlbGlPWXoyWWhKbzhfZk9BcnhidFBpcGU0TjloT1BRT01PckE0MktweG52VThoQTZuM2JvTmlmZDhCOTlnMnNvRjZRTWlMSEcxaWZSQy1UMGlNLTM1R0gyNEdWcEFsRA?oc=5",
+   "tickers": [
+    "LLY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "LLY",
+   "strength": 25,
+   "reason": "Headline reports disagreement on Eli Lilly; ambiguous direction without details on Trump's position."
+  },
+  {
+   "date": "2026-07-20T19:35:00Z",
+   "platform": "News",
+   "text": "Trump praises Giant Eagle for cutting prices this summer - WTAE \u2014 Trump praises Giant Eagle for cutting prices this summer\u00a0\u00a0WTAE",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPS2xIME5ZMS1sOXRCajFkYmxnTHdEY0hYcFBYc1VibG05XzVZVXdPRWw3OUNreVV5dVRrZVBZM2pReVMtNV8yYnRjYkVoU1ctSTgyLXBIN216UUN4LUdxdU50aTdFalFJbTIzRlVqajMtZHVoSE44NkJ3b3p4WHB0U3NHTWEtM3c?oc=5",
+   "tickers": [
+    "KR"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "KR",
+   "strength": 60,
+   "reason": "Trump explicitly praises Giant Eagle (Kroger-owned) for price cuts; positive sentiment on grocer."
+  },
+  {
+   "date": "2026-07-20T16:00:01Z",
+   "platform": "News",
+   "text": "Trump Praises Pittsburgh Supermarket Chain - Patch \u2014 Trump Praises Pittsburgh Supermarket Chain\u00a0\u00a0Patch",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOd2k2MUFMakhlakxKY05pTVdQSHFDWDl0ZlhMSWk4MHdpUm8xMlE5eWVXNHBSRHNQRFpEQ2o1MUwtc0FMT2VrNk1wUDhybHVrYURSODl2TjhsWnQycnZJM1dZUVlpd1JfVktsRHNscUQ0dTdIYldoR0t1QnYyTGhjWl9XQUdHczhYYmlrNdIBngFBVV95cUxPeWo3dnVVaXNQdWFqMG4zQmFoZ3RfZ2JlWS1fdVNGUUpZZ21KbDBCcmpvQkZ1M3p5Z25PV0xIOVJTaFZIb2xkVUpEVnZxcGYxeFJCdFBIN1RZX1FxNjZMYUFGcXlJZ0lVT2VFSXBMQjJ6X3pJNGhVTFp3dUtvbjN6THhRekh2SW5uSkFSODlsLWtJOVhrTWtab1pON1dkZw?oc=5",
+   "tickers": [
+    "KR"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "KR",
+   "strength": 55,
+   "reason": "Trump praises Pittsburgh supermarket chain (Giant Eagle); bullish signal for grocery sector."
+  },
   {
    "date": "2026-07-20T15:45:00Z",
    "platform": "News",
@@ -591,6 +639,22 @@
     "base_date": "2026-07-17",
     "last_date": "2026-07-20"
    }
+  },
+  {
+   "date": "2026-07-17T19:14:22Z",
+   "platform": "News",
+   "text": "John James\u2019 family bought SpaceX stock as he oversees Elon Musk\u2019s company - Detroit Metro Times \u2014 John James\u2019 family bought SpaceX stock as he oversees Elon Musk\u2019s company\u00a0\u00a0Detroit Metro Times",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSVcyUGpCa2RhSV9OOTNIdEl1eVhmWHVBRDkydG5PcDVfVHd1MTl2Y284VzZaejBHX3BwRFVCR293VjVHeTdRZ3JQU21YX3JjRFQxb2Y1Vm1rblZ6OXd5WElHdnpjNVRvQnI0TEdWVnoxMjcwQ3NSeUdkVXFWSHVuWEstNnYxczh5cDBqbk40c3NqdktrSjRGUFA1akoxMld6ZUxsTThKSQ?oc=5",
+   "tickers": [
+    "SPACEX"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "SPACEX",
+   "strength": 25,
+   "reason": "Family stock purchase of SpaceX during oversight creates conflict-of-interest risk; SpaceX not publicly traded, unclear market implication."
   },
   {
    "date": "2026-07-17T18:56:30Z",
@@ -2470,22 +2534,6 @@
    "primary_ticker": "SPACE",
    "strength": 50,
    "reason": "SpaceX president pledges to Trump accounts; reflects strong alignment and support"
-  },
-  {
-   "date": "2026-07-11T11:23:46Z",
-   "platform": "News",
-   "text": "Trump praises SpaceX executive\u2019s $325 million gift - MSN \u2014 Trump praises SpaceX executive\u2019s $325 million gift\u00a0\u00a0MSN",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNc2ZmaE1PYVdWNktUNUx5UXo0S3pObkpBdnJoMG01ZHdRVWpTNHpGQXMzek1CMmNoUk11S2daLXQ0VDZQX3l1SFp0UWdpVDVFTTg1cHQ3X2JHNkl3YW9kOXEwbWVxNElId3RpV3U0ZktlaVZRTDdoZmczQmYxa28ySGJ6NUxLbVZVWG9aUW1SX253UHRvRGZzZU0tU3U4cHVMNmtTX0l4N05aUk51ZVVVb2M0aFl0ZXczQ21YUzA4ZGNsbTg?oc=5",
-   "tickers": [
-    "SPACX"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "SPACX",
-   "strength": 65,
-   "reason": "Trump praises SpaceX executive's major gift; bullish sentiment toward SpaceX"
   },
   {
    "curated": true,
