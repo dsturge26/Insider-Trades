@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-07-20T06:35:09Z",
+ "last_updated": "2026-07-20T09:45:52Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -439,6 +439,22 @@
    "primary_ticker": "DJT",
    "strength": 45,
    "reason": "Truth Social used to promote stocks implies DJT platform value/credibility risk; indirect bullish signal on platform activity"
+  },
+  {
+   "date": "2026-07-17T18:10:22Z",
+   "platform": "News",
+   "text": "Trump Mentions Palantir, but Who Is Alex Karp? - ascendants.in \u2014 Trump Mentions Palantir, but Who Is Alex Karp?\u00a0\u00a0ascendants.in",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBqS1JlZVdDY0hfSTVKWTJKRnBmX1NMSmxmNEFGZzIydHhDVXFSYWxDMWZjLWlJTVBUbXJnZVlPLVhiWVRUT09RYzZibjVFOG9vOTA0cUhFRlFsMndjLTdfWmxqQ3g0SEtRY09mME9LMnlIN28yREJz?oc=5",
+   "tickers": [
+    "PLTR"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "PLTR",
+   "strength": 65,
+   "reason": "Trump explicitly mentioned Palantir, signaling approval of the company."
   },
   {
    "date": "2026-07-17T17:58:00Z",
@@ -2480,22 +2496,6 @@
     "base_date": "2026-07-10",
     "last_date": "2026-07-14"
    }
-  },
-  {
-   "date": "2026-07-10T07:40:36Z",
-   "platform": "News",
-   "text": "Elon Musk: 'Several thousand' SpaceX staff are now millionaires after company's stock market debut - Moneycontrol.com \u2014 Elon Musk: 'Several thousand' SpaceX staff are now millionaires after company's stock market debut\u00a0\u00a0Moneycontrol.com",
-   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNX2FKTVhxNWhQV2dsRkp0V0FPa1hZdjBGNjlUVk1mQ1FrZmpReGdIVWFjbEtzYURUMjh6a29sWWhHRTNmLUZLaHBMbkhINlVfUEp1by0zMXZlYUxYbUZrdngxSlI3Q3NRUzZYcGhSQ3liazNfbzNwWWlMb2NoQ2tSYjhkSFIwNm5lai1zUlpBd25tX2QwRVdjdlQxQWo0SmhzT2hoeWNlM3BsQ3NDaW53SnZJSWNyREFNamljU2doZzdHZlRFeDdkd0x5VllYLUZPeEtIRUwwaG1GcjNlb19EdGllT1nSAeoBQVVfeXFMTlNkd2wteHNBUjZVZGZiMDU5WExXNDM4aWMwa3lLTnI5aVAxdkRhNWhTcXRmWG5TUTJXSUNRdFFwR25DN3loS0ZzNU9QUFcwSlBzZ0RsblVmU0kyeDA4YktBU2YwX25pMlIyY0lhZWh5YlRXSkc3dkpHWlc3UWZpeF9kUTd6RzFPam5DT0JOejVrN3lnSlZaNzBVVFY2ajhGTVpja3BSTlhwUmlOY2E1NTNEakJacVI3RG9lOXM0VHBYWklqNVF3QTVVR2dWLWxUR00wNjdHS0dFb1Vqd3ppNUxrRGlBc1puX2Vn?oc=5",
-   "tickers": [
-    "SPACE"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "SPACE",
-   "strength": 60,
-   "reason": "SpaceX IPO success and employee wealth creation signal positive sentiment for the company."
   },
   {
    "curated": true,
