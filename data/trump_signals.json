@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-07-20T03:39:15Z",
+ "last_updated": "2026-07-20T06:35:09Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -87,6 +87,22 @@
    "reason": "Iran sanctions announcement implies geopolitical risk premium; oil/defense sector tailwind."
   },
   {
+   "date": "2026-07-19T04:00:27Z",
+   "platform": "News",
+   "text": "DJT Stock Quote Price and Forecast - CNN \u2014 DJT Stock Quote Price and Forecast\u00a0\u00a0CNN",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBPalpkdGlzWVpPOU5CYVZoRUk2MEhOUS1ZM1VKM1VnNmotRHctbmFfUXlna3hUeHJqbWwyNVRpbW9acXIzU3hTX1Q5QWIyOEU?oc=5",
+   "tickers": [
+    "DJT"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "DJT",
+   "strength": 20,
+   "reason": "Stock quote and forecast mention; no directional signal or catalyst in headline."
+  },
+  {
    "date": "2026-07-18T23:46:48Z",
    "platform": "News",
    "text": "DELL Stock Spikes To Record Highs On President Trump\u2019s Endorsement - Stocktwits \u2014 DELL Stock Spikes To Record Highs On President Trump\u2019s Endorsement\u00a0\u00a0Stocktwits",
@@ -117,6 +133,22 @@
    "primary_ticker": "SPY",
    "strength": 45,
    "reason": "Pattern of Trump promoting stocks he bought suggests market manipulation risk; unclear if bullish or bearish for broad market"
+  },
+  {
+   "date": "2026-07-18T22:34:28Z",
+   "platform": "News",
+   "text": "IBRX Stock Rallies Into Trump\u2019s Big SOTU Night \u2014 Here\u2019s What Traders Think Could Fuel The Next Move - Stocktwits \u2014 IBRX Stock Rallies Into Trump\u2019s Big SOTU Night \u2014 Here\u2019s What Traders Think Could Fuel The Next Move\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWFdFall2YVNMN3Rialp3SE9sU0h6YUQ1MDFiX2JaeXMxNlFFZUZveFU0TkVxUFI4cTQ5bW5VdkFlTDd1dFNwSUN2YTRtRl83aVRRXzZ6d09TeEhlR1NJb1JaMHlMWDhrQXpmZW40c1B1Y21KNjhxdm90Ny1uU3p4MzJZSW9GNGduMEdyRzFIU2RGLWlYWXg4TFJUU0N6ZlhFemxtUmprVXY0YkVRZk5vZHljazQ?oc=5",
+   "tickers": [
+    "IBRX"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "IBRX",
+   "strength": 35,
+   "reason": "IBRX rallied during Trump's State of the Union; unclear what policy drove it; ambiguous direction."
   },
   {
    "date": "2026-07-18T16:36:25Z",
@@ -213,22 +245,6 @@
    "primary_ticker": "INTC",
    "strength": 45,
    "reason": "Intel rally cited as linked to Trump sentiment, but article notes other drivers; inference not explicit endorsement."
-  },
-  {
-   "date": "2026-07-18T05:07:01Z",
-   "platform": "News",
-   "text": "IBRX Stock Rallies Into Trump\u2019s Big SOTU Night \u2014 Here\u2019s What Traders Think Could Fuel The Next Move - Stocktwits \u2014 IBRX Stock Rallies Into Trump\u2019s Big SOTU Night \u2014 Here\u2019s What Traders Think Could Fuel The Next Move\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWFdFall2YVNMN3Rialp3SE9sU0h6YUQ1MDFiX2JaeXMxNlFFZUZveFU0TkVxUFI4cTQ5bW5VdkFlTDd1dFNwSUN2YTRtRl83aVRRXzZ6d09TeEhlR1NJb1JaMHlMWDhrQXpmZW40c1B1Y21KNjhxdm90Ny1uU3p4MzJZSW9GNGduMEdyRzFIU2RGLWlYWXg4TFJUU0N6ZlhFemxtUmprVXY0YkVRZk5vZHljazQ?oc=5",
-   "tickers": [
-    "IBRX"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "IBRX",
-   "strength": 40,
-   "reason": "Stock rallies into Trump SOTU event; unclear catalyst beyond event timing"
   },
   {
    "date": "2026-07-18T03:48:23Z",
