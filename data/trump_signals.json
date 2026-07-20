@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-07-20T16:15:29Z",
+ "last_updated": "2026-07-20T18:23:31Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -263,7 +263,7 @@
    "reason": "Trump holdings in space stocks reported; inferred bullish read on sector names"
   },
   {
-   "date": "2026-07-18T14:01:53Z",
+   "date": "2026-07-18T15:50:25Z",
    "platform": "News",
    "text": "Citi Stock Hits 52-Week High Before Fading As Trump Lauds Bank's 'Big Comeback' In M&A \u2014 But Full Picture Has Changed Now - Stocktwits \u2014 Citi Stock Hits 52-Week High Before Fading As Trump Lauds Bank's 'Big Comeback' In M&A \u2014 But Full Picture Has Changed Now\u00a0\u00a0Stocktwits",
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWUpacUZnX014SV9nTnRZbVQ0dWhFQlZiV3ZjLV9nWExYUjVMdmlZdkdoNnFLcUhZUEhuZ1k3a2JENWJrYkhqdjJqNFlLaVlVYzBRb3dJOFA2Q1dESmhCTVJnQXJJaU15VjVFUFo2cWJDOEx3QTIzN0NSQjExRWhRZlNLaDFXeEZMQ0poajdjbGhmNlhPd1ZQSnVOSmNVa0pVTF94Z1RVdXlSU2JrR0N3X2dHSENINjZHNWdTYzB1dEZPaERK?oc=5",
@@ -272,11 +272,11 @@
    ],
    "classified": true,
    "is_market": true,
-   "explicit": false,
+   "explicit": true,
    "direction": "BUY",
    "primary_ticker": "C",
    "strength": 50,
-   "reason": "Trump praises Citigroup's M&A comeback; direct company praise suggests bullish sentiment"
+   "reason": "Trump explicitly lauds Citi's M&A comeback; direct named-company praise"
   },
   {
    "date": "2026-07-18T13:53:38Z",
@@ -407,9 +407,9 @@
    "reason": "Trump interest in Greenland acquisition implies expansion of critical mineral/resource plays; bullish for materials sector",
    "price_since": {
     "ticker": "XLE",
-    "pct": 0.8,
+    "pct": 1.0,
     "base": 57.68,
-    "last": 58.17,
+    "last": 58.27,
     "base_date": "2026-07-17",
     "last_date": "2026-07-20"
    }
@@ -431,9 +431,9 @@
    "reason": "Trump's pattern of promoting stocks after purchase raises ethical/legal concerns; market manipulation risk",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.5,
+    "pct": 0.2,
     "base": 743.29,
-    "last": 746.71,
+    "last": 744.66,
     "base_date": "2026-07-17",
     "last_date": "2026-07-20"
    }
@@ -455,9 +455,9 @@
    "reason": "Insider trading investigation around Trump operation raises legal/regulatory risk to Trump Media and associated entities",
    "price_since": {
     "ticker": "DJT",
-    "pct": 0.5,
+    "pct": 2.3,
     "base": 9.66,
-    "last": 9.71,
+    "last": 9.88,
     "base_date": "2026-07-17",
     "last_date": "2026-07-20"
    }
@@ -479,9 +479,9 @@
    "reason": "Moral hazard concerns about Trump administration policy; broad market macro risk, low actionability",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.5,
+    "pct": 0.2,
     "base": 743.29,
-    "last": 746.75,
+    "last": 744.66,
     "base_date": "2026-07-17",
     "last_date": "2026-07-20"
    }
@@ -503,9 +503,9 @@
    "reason": "Eric Trump endorsement of bitcoin holdings noted but stock fell; mixed/weak signal",
    "price_since": {
     "ticker": "ABTC",
-    "pct": 3.7,
+    "pct": 7.2,
     "base": 5.44,
-    "last": 5.64,
+    "last": 5.83,
     "base_date": "2026-07-17",
     "last_date": "2026-07-20"
    }
@@ -2501,54 +2501,6 @@
     "pct": 0.4,
     "base": 979.3,
     "last": 983.12,
-    "base_date": "2026-07-10",
-    "last_date": "2026-07-14"
-   }
-  },
-  {
-   "date": "2026-07-10T23:32:21Z",
-   "platform": "News",
-   "text": "Axon Soars on Trump Stock Purchase Highlighting Insider Trading Issues - AOL.com \u2014 Axon Soars on Trump Stock Purchase Highlighting Insider Trading Issues\u00a0\u00a0AOL.com",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQR0pGbzBpTVhxZ2xqQUZOdmE3TVFCNllIWGJCcTZVZXhtSmdKamdYd21NVWpIYXRJTFI0LVhLME83UVJmWFlrR0k1bFV1MTVlQ1BPNUx4eVdxNjRWMWdOOGp4RUhWcDJFZTBIQWlaLUxvM1ZqYlRoYzRPUHZNTFVnbg?oc=5",
-   "tickers": [
-    "AXON"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "AXON",
-   "strength": 55,
-   "reason": "Trump stock purchase signals bullish sentiment; insider-driven rally.",
-   "price_since": {
-    "ticker": "AXON",
-    "pct": -3.3,
-    "base": 565.8,
-    "last": 547.26,
-    "base_date": "2026-07-10",
-    "last_date": "2026-07-14"
-   }
-  },
-  {
-   "date": "2026-07-10T22:31:28Z",
-   "platform": "News",
-   "text": "Trump Praises SpaceX President Gwynne Shotwell's 'Extreme Generosity' After Her $325 Million Trump Accounts Stock Donation - Yahoo Finance \u2014 Trump Praises SpaceX President Gwynne Shotwell's 'Extreme Generosity' After Her $325 Million Trump Accounts Stock Donation\u00a0\u00a0Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbWkwTjl3MEpTcGkzTWU4T2gwaXlxLWI3eVdrSVRZcHgxM0Z3aXZFLU9TaXE2VF9yM2lPMzVHXzdQc3pKLWN1TXhCYmdUTmhuZlA4dlJ2d3hlWDBDdW10Vm5lRkhmRTZxVkVqd0dSRlJldy0za09sRXVBSlVranB0M2JUY3VNRlpKQlh6N3E4dXJJaC02ZE1RX3pSZGRCem5nTF91ZA?oc=5",
-   "tickers": [
-    "DJT"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "DJT",
-   "strength": 45,
-   "reason": "Praise for SpaceX executive's charitable donation to Trump Accounts suggests alignment; indirect bullish read for Trump's asset",
-   "price_since": {
-    "ticker": "DJT",
-    "pct": 5.7,
-    "base": 8.54,
-    "last": 9.03,
     "base_date": "2026-07-10",
     "last_date": "2026-07-14"
    }
