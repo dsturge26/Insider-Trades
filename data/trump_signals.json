@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-07-20T12:16:48Z",
+ "last_updated": "2026-07-20T14:38:41Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-07-20T11:25:24Z",
+   "platform": "News",
+   "text": "Trump Praises Grocery Chain\u2019s Temporary Price Cuts and Calls on Other Retailers to Follow - Menafn \u2014 Trump Praises Grocery Chain\u2019s Temporary Price Cuts and Calls on Other Retailers to Follow\u00a0\u00a0Menafn",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZW1TX0tHWnRuUHVmcTVpNmdISXREcTVqSVVWS2FuY1d0M29qZjFqazdfcmFZblBhbU1rQ19vRkE5UnZxVGJWTmt1WmxzTUtkQ1NxcmpUeXdEcHlRQnE3WWVQalpPT2R0TXNUcDAxb0VZcmNMd05sd2prQjc2VUhyRkloUDRmNktqY1FqdUFRNHRhREZIdGVNRTcwWWFNMU9Fc2VwcXNEUHlrX3ZhR24wcU1aT0NhZWRUQnc?oc=5",
+   "tickers": [
+    "KR"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "KR",
+   "strength": 35,
+   "reason": "Trump praises grocery chain price cuts; retail sector benefited but not explicit endorsement"
+  },
   {
    "date": "2026-07-20T04:36:57Z",
    "platform": "News",
@@ -167,6 +183,22 @@
    "reason": "IBRX rallied during Trump's State of the Union; unclear what policy drove it; ambiguous direction."
   },
   {
+   "date": "2026-07-18T20:17:48Z",
+   "platform": "News",
+   "text": "IBM Stock Rallies On Trump Administration\u2019s $1B Grant: Analysts Say \u2018Big Blue\u2019 Could Become First US Quantum Foundry - Stocktwits \u2014 IBM Stock Rallies On Trump Administration\u2019s $1B Grant: Analysts Say \u2018Big Blue\u2019 Could Become First US Quantum Foundry\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOVG52c0VBRjZ6TzVuLThuSWdTN3NxMlIzUEc0aWVkUllDZDJMSVVMRlo1Rkgxb1Rja2swU1JlcVhlbmg4ejlfeGJoRGkzVG1VSEM4ZC1McWtGQnNVYklYVjYwQVliTHRoX3NqZDJZV0dlQ2NTaC1NaHhFaVAtdmVjdzVGcFhSangwdDluaTltYXZ3TXhaWWxISmlPREpkQ0N2VHdEMENJUkpDaDBGcUhSdXFZdExXbkhPaENSWlAxbVhPS3EyTnoyc3NoX2RpOXNqeEFYaFhhaGYxQUxRaWR0QUJwQ0J5VmhBY3ZpOV9YMVNjeUZlRHRzVXBLS3BpSER4VXpVWTVsYS1aZw?oc=5",
+   "tickers": [
+    "IBM"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "IBM",
+   "strength": 75,
+   "reason": "Trump administration awarded IBM $1B federal contract for quantum foundry; direct bullish catalyst"
+  },
+  {
    "date": "2026-07-18T16:36:25Z",
    "platform": "News",
    "text": "Michael Burry Says He\u2019s Still Short Palantir After Stock Sees Recovery Following Trump\u2019s Endorsement - Stocktwits \u2014 Michael Burry Says He\u2019s Still Short Palantir After Stock Sees Recovery Following Trump\u2019s Endorsement\u00a0\u00a0Stocktwits",
@@ -295,22 +327,6 @@
    "reason": "Trump Media plan to sell Truth Social post priority access raises regulatory/reputational concerns and criticism."
   },
   {
-   "date": "2026-07-18T02:56:12Z",
-   "platform": "News",
-   "text": "IBM Stock Rallies On Trump Administration\u2019s $1B Grant: Analysts Say \u2018Big Blue\u2019 Could Become First US Quantum Foundry - Stocktwits \u2014 IBM Stock Rallies On Trump Administration\u2019s $1B Grant: Analysts Say \u2018Big Blue\u2019 Could Become First US Quantum Foundry\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOVG52c0VBRjZ6TzVuLThuSWdTN3NxMlIzUEc0aWVkUllDZDJMSVVMRlo1Rkgxb1Rja2swU1JlcVhlbmg4ejlfeGJoRGkzVG1VSEM4ZC1McWtGQnNVYklYVjYwQVliTHRoX3NqZDJZV0dlQ2NTaC1NaHhFaVAtdmVjdzVGcFhSangwdDluaTltYXZ3TXhaWWxISmlPREpkQ0N2VHdEMENJUkpDaDBGcUhSdXFZdExXbkhPaENSWlAxbVhPS3EyTnoyc3NoX2RpOXNqeEFYaFhhaGYxQUxRaWR0QUJwQ0J5VmhBY3ZpOV9YMVNjeUZlRHRzVXBLS3BpSER4VXpVWTVsYS1aZw?oc=5",
-   "tickers": [
-    "IBM"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "IBM",
-   "strength": 75,
-   "reason": "Trump administration awarded IBM $1B federal quantum grant; direct federal contract to named public company is bullish"
-  },
-  {
    "date": "2026-07-18T02:51:20Z",
    "platform": "News",
    "text": "Marco Rubio\u2019s frozen reaction as Trump praises himself and the stock market has internet in stitches - MSN \u2014 Marco Rubio\u2019s frozen reaction as Trump praises himself and the stock market has internet in stitches\u00a0\u00a0MSN",
@@ -356,7 +372,15 @@
    "direction": "BUY",
    "primary_ticker": "XLE",
    "strength": 55,
-   "reason": "Trump interest in Greenland acquisition implies expansion of critical mineral/resource plays; bullish for materials sector"
+   "reason": "Trump interest in Greenland acquisition implies expansion of critical mineral/resource plays; bullish for materials sector",
+   "price_since": {
+    "ticker": "XLE",
+    "pct": 0.7,
+    "base": 57.68,
+    "last": 58.06,
+    "base_date": "2026-07-17",
+    "last_date": "2026-07-20"
+   }
   },
   {
    "date": "2026-07-17T23:15:22Z",
@@ -372,7 +396,15 @@
    "direction": "WATCH",
    "primary_ticker": "SPY",
    "strength": 40,
-   "reason": "Trump's pattern of promoting stocks after purchase raises ethical/legal concerns; market manipulation risk"
+   "reason": "Trump's pattern of promoting stocks after purchase raises ethical/legal concerns; market manipulation risk",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": 0.3,
+    "base": 743.29,
+    "last": 745.28,
+    "base_date": "2026-07-17",
+    "last_date": "2026-07-20"
+   }
   },
   {
    "date": "2026-07-17T23:08:26Z",
@@ -388,7 +420,15 @@
    "direction": "SELL",
    "primary_ticker": "DJT",
    "strength": 65,
-   "reason": "Insider trading investigation around Trump operation raises legal/regulatory risk to Trump Media and associated entities"
+   "reason": "Insider trading investigation around Trump operation raises legal/regulatory risk to Trump Media and associated entities",
+   "price_since": {
+    "ticker": "DJT",
+    "pct": -1.3,
+    "base": 9.66,
+    "last": 9.53,
+    "base_date": "2026-07-17",
+    "last_date": "2026-07-20"
+   }
   },
   {
    "date": "2026-07-17T21:10:43Z",
@@ -404,7 +444,15 @@
    "direction": "WATCH",
    "primary_ticker": "SPY",
    "strength": 20,
-   "reason": "Moral hazard concerns about Trump administration policy; broad market macro risk, low actionability"
+   "reason": "Moral hazard concerns about Trump administration policy; broad market macro risk, low actionability",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": 0.3,
+    "base": 743.29,
+    "last": 745.23,
+    "base_date": "2026-07-17",
+    "last_date": "2026-07-20"
+   }
   },
   {
    "date": "2026-07-17T20:41:20Z",
@@ -420,7 +468,15 @@
    "direction": "WATCH",
    "primary_ticker": "ABTC",
    "strength": 25,
-   "reason": "Eric Trump endorsement of bitcoin holdings noted but stock fell; mixed/weak signal"
+   "reason": "Eric Trump endorsement of bitcoin holdings noted but stock fell; mixed/weak signal",
+   "price_since": {
+    "ticker": "ABTC",
+    "pct": -2.2,
+    "base": 5.44,
+    "last": 5.32,
+    "base_date": "2026-07-17",
+    "last_date": "2026-07-20"
+   }
   },
   {
    "date": "2026-07-17T19:35:55.921Z",
@@ -437,7 +493,15 @@
    "direction": "BUY",
    "primary_ticker": "SPY",
    "strength": 45,
-   "reason": "CPI below forecast, prices falling, real wages rising 0.8% \u2014 macro tailwind for equity markets"
+   "reason": "CPI below forecast, prices falling, real wages rising 0.8% \u2014 macro tailwind for equity markets",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": 0.3,
+    "base": 743.29,
+    "last": 745.28,
+    "base_date": "2026-07-17",
+    "last_date": "2026-07-20"
+   }
   },
   {
    "date": "2026-07-17T19:30:04.133Z",
@@ -454,7 +518,15 @@
    "direction": "BUY",
    "primary_ticker": "SMH",
    "strength": 60,
-   "reason": "TSMC $100B additional investment in US semiconductor fabs \u2014 bullish for chip sector and US manufacturing"
+   "reason": "TSMC $100B additional investment in US semiconductor fabs \u2014 bullish for chip sector and US manufacturing",
+   "price_since": {
+    "ticker": "SMH",
+    "pct": 1.4,
+    "base": 556.53,
+    "last": 564.18,
+    "base_date": "2026-07-17",
+    "last_date": "2026-07-20"
+   }
   },
   {
    "date": "2026-07-17T18:56:30Z",
@@ -470,7 +542,15 @@
    "direction": "BUY",
    "primary_ticker": "DJT",
    "strength": 45,
-   "reason": "Truth Social used to promote stocks implies DJT platform value/credibility risk; indirect bullish signal on platform activity"
+   "reason": "Truth Social used to promote stocks implies DJT platform value/credibility risk; indirect bullish signal on platform activity",
+   "price_since": {
+    "ticker": "DJT",
+    "pct": -1.3,
+    "base": 9.66,
+    "last": 9.53,
+    "base_date": "2026-07-17",
+    "last_date": "2026-07-20"
+   }
   },
   {
    "date": "2026-07-17T18:10:22Z",
@@ -486,7 +566,15 @@
    "direction": "BUY",
    "primary_ticker": "PLTR",
    "strength": 65,
-   "reason": "Trump explicitly mentioned Palantir, signaling approval of the company."
+   "reason": "Trump explicitly mentioned Palantir, signaling approval of the company.",
+   "price_since": {
+    "ticker": "PLTR",
+    "pct": 0.2,
+    "base": 132.38,
+    "last": 132.7,
+    "base_date": "2026-07-17",
+    "last_date": "2026-07-20"
+   }
   },
   {
    "date": "2026-07-17T17:58:00Z",
@@ -583,6 +671,22 @@
    "primary_ticker": "DJT",
    "strength": 35,
    "reason": "Truth Social parent monetizing Trump post access to traders; implies DJT revenue/value but ethical concerns cloud bullish case"
+  },
+  {
+   "date": "2026-07-17T09:37:01Z",
+   "platform": "News",
+   "text": "Is SOFI Stock \u2018One Of The Easiest\u2019 Longs? Why The Bull Case Is Still Intact According To 3 Analysts - Stocktwits \u2014 Is SOFI Stock \u2018One Of The Easiest\u2019 Longs? Why The Bull Case Is Still Intact According To 3 Analysts\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaEViT0pDUkg2UEo2R21neHhvcnFUTFFYWXcyN0xmaTctN1MwOTRLRFNoNEN3NEpYMDNmQTNYblRaSC1Bb0RjSGItYTQ2VExfdTVScEZ2MVZGZFozUXdEWmRyUlgzeGpqOHc1aG8ySUVvTmxST3pic0VZV1ZIZTFkc0lmZWs1YVhGOWN2OUVEbmlpeFhJVDBKYUZiVnBYN2cyYzJ3VzNFeHduZ2Z3Q3VaWnl0Snl4NkFCOUE?oc=5",
+   "tickers": [
+    "SOFI"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "SOFI",
+   "strength": 35,
+   "reason": "Analyst bull case for SoFi but no Trump catalyst; analyst sentiment alone, not Trump-driven signal"
   },
   {
    "date": "2026-07-17T09:01:03Z",
@@ -2461,46 +2565,6 @@
     "pct": 0.4,
     "base": 979.3,
     "last": 983.12,
-    "base_date": "2026-07-10",
-    "last_date": "2026-07-14"
-   }
-  },
-  {
-   "date": "2026-07-10T15:19:51Z",
-   "platform": "News",
-   "text": "Trump Praises SpaceX President Gwynne Shotwell's 'Extreme Generosity' After Her $325 Million Trump Accounts Stock Donation - Sahm \u2014 Trump Praises SpaceX President Gwynne Shotwell's 'Extreme Generosity' After Her $325 Million Trump Accounts Stock Donation\u00a0\u00a0Sahm",
-   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOZWl0SUVlRzdCUWZ6N2IycU1KQ2RTMU1idHQtZXkzUFBoaXoyT1Q1amg5eDRFWHh2OEVLbWNRMFd5TlhqdHlBR3hnZzZETk1Dd3ZUME5HNlJVaHpTdnU3LXNad2t5ODB2NWVzTzJOdHBucE5QZHhGZVVscGdSdFQ1azZaQ05lNm94YmF4WE5MUkRRNGhQOFFFbFYtV29qNTBLZkJIQ3JoTlg2b0l6Y1JhMnh1TE8tTlNVSUl2LUV3QmRQb1NSdXlxTFN4dDhVZ3huZThuVFpjUU5hVlBMNlpibDVoQ0pEbGdPUm11dmE0TVZ3NFRmRWx5MVI0NkVha1E?oc=5",
-   "tickers": [
-    "SPACX"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "SPACX",
-   "strength": 70,
-   "reason": "Trump praises SpaceX president's major donation; bullish sentiment"
-  },
-  {
-   "date": "2026-07-10T13:01:00Z",
-   "platform": "News",
-   "text": "Dell Stock Jumps 4.4% After Donald Trump Tells Americans To Buy - Yellow.com \u2014 Dell Stock Jumps 4.4% After Donald Trump Tells Americans To Buy\u00a0\u00a0Yellow.com",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE84bks4WVpUVlpSeDItT0tBR2d0QjBDV1RaOXZuZk1mUnJpS2s4ZlRSSGZHeVg2clRkWXpkX1BsNTZVa2NtRVZkeC0tX09JdHJzRXhkUEpxYw?oc=5",
-   "tickers": [
-    "DELL"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "DELL",
-   "strength": 85,
-   "reason": "Trump explicitly told Americans to buy Dell; direct market catalyst.",
-   "price_since": {
-    "ticker": "DELL",
-    "pct": 5.2,
-    "base": 434.97,
-    "last": 457.54,
     "base_date": "2026-07-10",
     "last_date": "2026-07-14"
    }
