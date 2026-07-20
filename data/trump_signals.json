@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-07-20T20:06:54Z",
+ "last_updated": "2026-07-20T21:32:52Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -441,7 +441,7 @@
     "ticker": "XLE",
     "pct": 0.5,
     "base": 57.68,
-    "last": 57.96,
+    "last": 57.94,
     "base_date": "2026-07-17",
     "last_date": "2026-07-20"
    }
@@ -463,9 +463,9 @@
    "reason": "Trump's pattern of promoting stocks after purchase raises ethical/legal concerns; market manipulation risk",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.1,
+    "pct": -0.2,
     "base": 743.29,
-    "last": 742.21,
+    "last": 742.09,
     "base_date": "2026-07-17",
     "last_date": "2026-07-20"
    }
@@ -2486,56 +2486,6 @@
    "primary_ticker": "SPACX",
    "strength": 65,
    "reason": "Trump praises SpaceX executive's major gift; bullish sentiment toward SpaceX"
-  },
-  {
-   "date": "2026-07-11T00:19:01.525Z",
-   "platform": "Truth Social",
-   "text": "Apple to invest $30 billion in US chip manufacturing: https://www.foxbusiness.com/media/apple-invest-30-billion-us-chip-manufacturing",
-   "tickers": [
-    "AAPL"
-   ],
-   "engagement": 933,
-   "url": "https://truthsocial.com/@realDonaldTrump/116898473019365022",
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "AAPL",
-   "strength": 60,
-   "reason": "Major $30B US chip investment signals supply-chain reshoring and AI capacity, bullish for Apple capex/production",
-   "price_since": {
-    "ticker": "AAPL",
-    "pct": -0.8,
-    "base": 317.31,
-    "last": 314.86,
-    "base_date": "2026-07-13",
-    "last_date": "2026-07-14"
-   }
-  },
-  {
-   "date": "2026-07-10T23:35:02.281Z",
-   "platform": "Truth Social",
-   "text": "BIGGER INVESTMENTS JUST KEEP COMING! The Trump Effect is REAL! Micron is accelerating its U.S. spending to a MASSIVE 250 BILLION DOLLARS to build Memory Chips right here in the U.S.A. For years, the Do Nothing Dumocrats bogged down American Industry with crushing Red Tape, complete Economic Mismanagement, and ridiculous Woke Mandates. They stalled everything. Not anymore! We are slashing the Radical Left's Job killing Regulations, and actually GETTING SHOVELS IN THE GROUND. We are reshooting Manufacturing to America, and securing our Supply Chains. This means THOUSANDS of GREAT JOBS for Hardworking Patriots all across our Country. True Economic Security is MADE IN AMERICA. \ud83c\uddfa\ud83c\uddf8MAGA! President DONALD J. TRUMP",
-   "tickers": [
-    "MU"
-   ],
-   "engagement": 3274,
-   "url": "https://truthsocial.com/@realDonaldTrump/116898300053530163",
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "MU",
-   "strength": 75,
-   "reason": "$250B US memory-chip investment announcement; Trump credits his deregulation; strong supply-chain/manufacturing tailwind",
-   "price_since": {
-    "ticker": "MU",
-    "pct": 0.4,
-    "base": 979.3,
-    "last": 983.12,
-    "base_date": "2026-07-10",
-    "last_date": "2026-07-14"
-   }
   },
   {
    "curated": true,
