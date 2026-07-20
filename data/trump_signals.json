@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-07-20T14:38:41Z",
+ "last_updated": "2026-07-20T16:15:29Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-07-20T15:45:00Z",
+   "platform": "News",
+   "text": "Trump bought the stocks. Then told millions about them. - MSN \u2014 Trump bought the stocks. Then told millions about them.\u00a0\u00a0MSN",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVUNIT0FraFBscEVmRXNiaENFNzVtdDVMbVZuTFkzWHVHRkN6REd2OWgtME1oa1FXV21FemJXekhpeUhvYlBzUEtWX0R4dDBRLU9xVm40U3N1a1puTXczdTBCdl9pWXM4cHVaN1I0M1RjM2xiSTgxX3F5NklWOWNiTGpGU1RyUE9Jb00waE5zQzZTT3FtWlZnTHpScjB3WG5TN056bWlENUxhdVBDX29jYnBHZnJKWFVqM01KcEhFOE9NazJSNjRVZWZLTQ?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "WATCH",
+   "primary_ticker": "SPY",
+   "strength": 65,
+   "reason": "Trump buying stocks and promoting them to millions raises insider-trading concerns; ambiguous whether net-bullish or bearish for broad market"
+  },
   {
    "date": "2026-07-20T11:25:24Z",
    "platform": "News",
@@ -33,6 +49,22 @@
    "primary_ticker": "KR",
    "strength": 35,
    "reason": "Trump mentions grocer price cuts; unclear if bullish (competition/efficiency) or bearish (margin pressure) for Kroger"
+  },
+  {
+   "date": "2026-07-20T01:04:10Z",
+   "platform": "News",
+   "text": "How Trump\u2019s Price-Cut Push Could Move Walmart\u2019s Stock - TipRanks \u2014 How Trump\u2019s Price-Cut Push Could Move Walmart\u2019s Stock\u00a0\u00a0TipRanks",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNanRubmpnM09xS28xTHpUWkluZWl4YWpxZld5WDRBM1JpSHNaT1ZWb0JzWXB3ZWE1N0lrcFEyMmNiX1pidDhxeThjM3B6SV9sVFZ0N1hoVUg1Y19NcXJDOUhld3JKVXYtQVJOLTFrcUZ2SXFQZW1UVEJSZllad2VqTFF5SWM1cllxdUdvRThob05mODZT?oc=5",
+   "tickers": [
+    "WMT"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "WMT",
+   "strength": 45,
+   "reason": "Trump price-cut push on Walmart; ambiguous whether positive PR or margin-pressure bearish"
   },
   {
    "date": "2026-07-20T00:34:45.576Z",
@@ -375,9 +407,9 @@
    "reason": "Trump interest in Greenland acquisition implies expansion of critical mineral/resource plays; bullish for materials sector",
    "price_since": {
     "ticker": "XLE",
-    "pct": 0.7,
+    "pct": 0.8,
     "base": 57.68,
-    "last": 58.06,
+    "last": 58.17,
     "base_date": "2026-07-17",
     "last_date": "2026-07-20"
    }
@@ -399,9 +431,9 @@
    "reason": "Trump's pattern of promoting stocks after purchase raises ethical/legal concerns; market manipulation risk",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.3,
+    "pct": 0.5,
     "base": 743.29,
-    "last": 745.28,
+    "last": 746.71,
     "base_date": "2026-07-17",
     "last_date": "2026-07-20"
    }
@@ -423,9 +455,9 @@
    "reason": "Insider trading investigation around Trump operation raises legal/regulatory risk to Trump Media and associated entities",
    "price_since": {
     "ticker": "DJT",
-    "pct": -1.3,
+    "pct": 0.5,
     "base": 9.66,
-    "last": 9.53,
+    "last": 9.71,
     "base_date": "2026-07-17",
     "last_date": "2026-07-20"
    }
@@ -447,9 +479,9 @@
    "reason": "Moral hazard concerns about Trump administration policy; broad market macro risk, low actionability",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.3,
+    "pct": 0.5,
     "base": 743.29,
-    "last": 745.23,
+    "last": 746.75,
     "base_date": "2026-07-17",
     "last_date": "2026-07-20"
    }
@@ -471,9 +503,9 @@
    "reason": "Eric Trump endorsement of bitcoin holdings noted but stock fell; mixed/weak signal",
    "price_since": {
     "ticker": "ABTC",
-    "pct": -2.2,
+    "pct": 3.7,
     "base": 5.44,
-    "last": 5.32,
+    "last": 5.64,
     "base_date": "2026-07-17",
     "last_date": "2026-07-20"
    }
@@ -496,9 +528,9 @@
    "reason": "CPI below forecast, prices falling, real wages rising 0.8% \u2014 macro tailwind for equity markets",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.3,
+    "pct": 0.5,
     "base": 743.29,
-    "last": 745.28,
+    "last": 746.71,
     "base_date": "2026-07-17",
     "last_date": "2026-07-20"
    }
@@ -521,9 +553,9 @@
    "reason": "TSMC $100B additional investment in US semiconductor fabs \u2014 bullish for chip sector and US manufacturing",
    "price_since": {
     "ticker": "SMH",
-    "pct": 1.4,
+    "pct": 2.1,
     "base": 556.53,
-    "last": 564.18,
+    "last": 568.0,
     "base_date": "2026-07-17",
     "last_date": "2026-07-20"
    }
@@ -545,9 +577,9 @@
    "reason": "Truth Social used to promote stocks implies DJT platform value/credibility risk; indirect bullish signal on platform activity",
    "price_since": {
     "ticker": "DJT",
-    "pct": -1.3,
+    "pct": 0.5,
     "base": 9.66,
-    "last": 9.53,
+    "last": 9.71,
     "base_date": "2026-07-17",
     "last_date": "2026-07-20"
    }
@@ -2517,54 +2549,6 @@
     "pct": 5.7,
     "base": 8.54,
     "last": 9.03,
-    "base_date": "2026-07-10",
-    "last_date": "2026-07-14"
-   }
-  },
-  {
-   "date": "2026-07-10T19:06:21Z",
-   "platform": "News",
-   "text": "Trump\u2019s Support Significantly Boosted Dell Stock Price, What Information Do You Need to Know? - TradingKey \u2014 Trump\u2019s Support Significantly Boosted Dell Stock Price, What Information Do You Need to Know?\u00a0\u00a0TradingKey",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdmNSUHhPZllkcDRvcDNmR2sxdEU0X1dnNDRHZnVfdy1jbHlwWXU0cVFxSUwtNjdfaDRpQjFNVHRzUmFvSjNfcTdqZFRqeTBidm9MR1FqdXdTNmVNRUZXdjh3clJXS3cyMGlWOHQycnBNWEJSekhXRWJHTVVUanRCc1VfQmlIazZINWUzTHFhdWNDc0Y4ckk2TGVMek9QTGNwYS1FVXdoNDVqbzlhaDBsUU16OGtQcXpFRGVLMjVXdUZEaTJibW9xQm81SkVxMWtY?oc=5",
-   "tickers": [
-    "DELL"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "DELL",
-   "strength": 75,
-   "reason": "Trump's explicit support boosted Dell stock; direct endorsement of named company",
-   "price_since": {
-    "ticker": "DELL",
-    "pct": 5.2,
-    "base": 434.97,
-    "last": 457.54,
-    "base_date": "2026-07-10",
-    "last_date": "2026-07-14"
-   }
-  },
-  {
-   "date": "2026-07-10T18:33:38Z",
-   "platform": "News",
-   "text": "Trump Just Called Micron the \u2018Hottest\u2019 Company in the World. The Market Yawned and Dumped It 10% - AOL.com \u2014 Trump Just Called Micron the \u2018Hottest\u2019 Company in the World. The Market Yawned and Dumped It 10%\u00a0\u00a0AOL.com",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNd3JCRkZSUFN5SERsUElqVzRXcWl6NDJfM1huNU0ybXVpUGE3X1Q0dXQybDFpSEtLd2dvU19feVUwWVVPV0tqTmgtbmpiSHVQbVhzSUxCY3NTS3VrNVJQckVNbWNqWk9NOGhuc2tPUnZNYkI4MXFQbUt5U3lSX2JCbzd3?oc=5",
-   "tickers": [
-    "MU"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "SELL",
-   "primary_ticker": "MU",
-   "strength": 70,
-   "reason": "Trump praised Micron as 'hottest' company but stock dumped 10%; praise did not translate to support, bearish sentiment.",
-   "price_since": {
-    "ticker": "MU",
-    "pct": 0.4,
-    "base": 979.3,
-    "last": 983.12,
     "base_date": "2026-07-10",
     "last_date": "2026-07-14"
    }
