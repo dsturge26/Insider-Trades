@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-07-20T09:45:52Z",
+ "last_updated": "2026-07-20T12:16:48Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-07-20T04:36:57Z",
+   "platform": "News",
+   "text": "Trump: Grocer Giant Eagle to slash prices on over 300 products (KR:NYSE) - Seeking Alpha \u2014 Trump: Grocer Giant Eagle to slash prices on over 300 products (KR:NYSE)\u00a0\u00a0Seeking Alpha",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdUZwRUZSSU44akR2ZjNLODNhSkF2bldacHJITzBaQ2U4UmJ3QUdxa2RTNElCT2tMRmladFVGakdTS2x0dWdpY01pU1ZTek12WE5sRElRVFJ6QnNnWkZ5RmxKT3VZVkx1RURUQjlmeTljX3FzUDBmdTBBb2FNcDhseTV6c3RZRFVxa1dqdVlneVR1Zmk4SE1PcnhXUF9zUHIx?oc=5",
+   "tickers": [
+    "KR"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "KR",
+   "strength": 35,
+   "reason": "Trump mentions grocer price cuts; unclear if bullish (competition/efficiency) or bearish (margin pressure) for Kroger"
+  },
   {
    "date": "2026-07-20T00:34:45.576Z",
    "platform": "Truth Social",
@@ -245,6 +261,22 @@
    "primary_ticker": "INTC",
    "strength": 45,
    "reason": "Intel rally cited as linked to Trump sentiment, but article notes other drivers; inference not explicit endorsement."
+  },
+  {
+   "date": "2026-07-18T06:10:07Z",
+   "platform": "News",
+   "text": "TSLA Stock Eyes Weekly Loss: Retail Investors Grill Musk On Missed Robotaxi Targets Ahead Of Q2 Earnings - Stocktwits \u2014 TSLA Stock Eyes Weekly Loss: Retail Investors Grill Musk On Missed Robotaxi Targets Ahead Of Q2 Earnings\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPc2VqM1JQbmZfbWdMR2gzRDc3QUo0MUhJaUtBVFQ4TjBvR1dja1lnekNnakVnVmJmb2k5M0JJeGdSVGFPdDBodDZTa3JjOHB1TXR5Mm1PQzZLQXczdGl1TUEwV2V0dnRCaXc3Q2FGQ1BRMkd1MkFaUlM4SlcxVW9KT081TG1xTjdHa2NsN0VaOUh5QVQ2dGZ3X0cteE1YYS1OTHlsck5ldHlycl8zRVE?oc=5",
+   "tickers": [
+    "TSLA"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "TSLA",
+   "strength": 45,
+   "reason": "Tesla eyes weekly loss amid robotaxi delays; bearish momentum on execution concerns"
   },
   {
    "date": "2026-07-18T03:48:23Z",
@@ -2469,30 +2501,6 @@
     "pct": 5.2,
     "base": 434.97,
     "last": 457.54,
-    "base_date": "2026-07-10",
-    "last_date": "2026-07-14"
-   }
-  },
-  {
-   "date": "2026-07-10T08:48:36Z",
-   "platform": "News",
-   "text": "Donald Trump Writes 'Praise Be to Allah' in Profanity-Laced Easter Morning Message Threatening Iran - AOL.com \u2014 Donald Trump Writes 'Praise Be to Allah' in Profanity-Laced Easter Morning Message Threatening Iran\u00a0\u00a0AOL.com",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1GNHdOVmlXTjZaOXZINUlvZlpia2tHTzZjeHI4TVhpOXFmbHBWOTFOeVdVc2dlVEh6ZGRZT1hudk13a3Y0VV9yWmd1T1JvZDdZUGNhcTg2ckR5SGkySS1ma1o2d0d2ZWxGR1lXcndEX1VBTzhyaXc?oc=5",
-   "tickers": [
-    "USO"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "USO",
-   "strength": 45,
-   "reason": "Threat to Iran in profanity-laced message; geopolitical risk and oil volatility implications.",
-   "price_since": {
-    "ticker": "USO",
-    "pct": 10.6,
-    "base": 108.7,
-    "last": 120.17,
     "base_date": "2026-07-10",
     "last_date": "2026-07-14"
    }
