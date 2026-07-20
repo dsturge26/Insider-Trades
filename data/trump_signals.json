@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-07-20T18:23:31Z",
+ "last_updated": "2026-07-20T20:06:54Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -33,6 +33,22 @@
    "primary_ticker": "KR",
    "strength": 35,
    "reason": "Trump praises grocery chain price cuts; retail sector benefited but not explicit endorsement"
+  },
+  {
+   "date": "2026-07-20T07:49:46Z",
+   "platform": "News",
+   "text": "Trump Praises Giant Eagle's Price Cuts, Urges Other Grocery Chains to Follow: 'Stepping Up in a Big and Bold Way' - Dailyhunt \u2014 Trump Praises Giant Eagle's Price Cuts, Urges Other Grocery Chains to Follow: 'Stepping Up in a Big and Bold Way'\u00a0\u00a0Dailyhunt",
+   "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQeHZ4MkFtLVJpbTExQlFnbWZjSG5rVURvRjdJbm1ncVJTaVpjNTdvWXNvM2VVa2VvUnk5eWJwUncwV2dyeERucHVqaFpEY2Jjc3dZMGR5Z2toUGZhVDU0LXdDOWkxNmVZT29zSk15cTJZeXpLRl9RaGtpRXVTTXVqdUc0MVMtZWJ4Z0VMdC1VWjlnRUs3cVJnSllMMU41UmFsc3pYcE5MdXJ6UTkyNkRSQ2FUM1RQS0E5NW1ja2tuZ2FIMEJQcHVqMUg5YWNsTGpfQTVLTGFMUkJnWXRiSmxJODh0YWxDVC1LTTlEb3NJeHd5UXdyWXY2TncwVml6WG5PNE1KODNHZ0NBZW5NWE5ualhUaTQ5NWlFbF8taA?oc=5",
+   "tickers": [
+    "WMT"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "WMT",
+   "strength": 30,
+   "reason": "Praise for Giant Eagle price cuts; pressure on grocer margins vs. consumer tailwind; ambiguous direction."
   },
   {
    "date": "2026-07-20T04:36:57Z",
@@ -165,6 +181,22 @@
    "primary_ticker": "DJT",
    "strength": 20,
    "reason": "Stock quote and forecast mention; no directional signal or catalyst in headline."
+  },
+  {
+   "date": "2026-07-19T03:28:44Z",
+   "platform": "News",
+   "text": "Trump Endorses MyPillow CEO Mike Lindell, Who Spread Conspiracy Theoires About \u201920 Election, For Minn... - uPolitics \u2014 Trump Endorses MyPillow CEO Mike Lindell, Who Spread Conspiracy Theoires About \u201920 Election, For Minn...\u00a0\u00a0uPolitics",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNM3V0eWNEZEg5U2NMZzE0Zm5OSV9KOWNEMnp6VHo1cHhERlpoSGhzQnFEVlJJR0Ftdlgxd29uWFF3M3BCV3BIU2tTR2lWX2JhcXRQallVQm9yR0pEcEtZQ21kQUVRd1IwdzgwVDhBNTd3aVNlUGRVNDk0bWplWWhuYjI1ZVFITDExeDV5Q0Nyc0ZPWDRYbGg5SThsaGd4NXBRaHNYN2pQQ3VmWlZXZnZZRHp0WHpnSUlPaEZGa0xxdHdlLWJBU2dSRHNkZVFOWkdnRUNDZTdsVTktSW5R0gHcAUFVX3lxTE0zdXR5Y0RkSDlTY0xnMTRmbk5JX0o5Y0QyenpUejVweERGWmhIaHNCcURWUklHQW12WDF3b25YUXczcEJXcEhTa1NHaVZfYmFxdFBqWVVCb3JHSkRwS1lDbWRBRVF3UjB3ODBUOEE1N3dpU2VQZFU0OTRtamVZaG5iMjVlUUhMMTF4NXlDQ3JzRk9YNFhsaDlJOGxoZ3g1cFFoc1g3alBDdWZaVldmdllEenRYemdJSU9oRkZrTHF0d2UtYkFTZ1JEc2RlUU5aR2dFQ0NlN2xVOS1JblE?oc=5",
+   "tickers": [
+    "MYTA"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "MYTA",
+   "strength": 40,
+   "reason": "Trump endorsement of MyPillow CEO Lindell implies support for his private company; if MYTA is Trump proxy, minor bullish signal."
   },
   {
    "date": "2026-07-18T23:46:48Z",
@@ -407,9 +439,9 @@
    "reason": "Trump interest in Greenland acquisition implies expansion of critical mineral/resource plays; bullish for materials sector",
    "price_since": {
     "ticker": "XLE",
-    "pct": 1.0,
+    "pct": 0.5,
     "base": 57.68,
-    "last": 58.27,
+    "last": 57.96,
     "base_date": "2026-07-17",
     "last_date": "2026-07-20"
    }
@@ -431,9 +463,9 @@
    "reason": "Trump's pattern of promoting stocks after purchase raises ethical/legal concerns; market manipulation risk",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.2,
+    "pct": -0.1,
     "base": 743.29,
-    "last": 744.66,
+    "last": 742.21,
     "base_date": "2026-07-17",
     "last_date": "2026-07-20"
    }
@@ -455,9 +487,9 @@
    "reason": "Insider trading investigation around Trump operation raises legal/regulatory risk to Trump Media and associated entities",
    "price_since": {
     "ticker": "DJT",
-    "pct": 2.3,
+    "pct": 0.8,
     "base": 9.66,
-    "last": 9.88,
+    "last": 9.74,
     "base_date": "2026-07-17",
     "last_date": "2026-07-20"
    }
@@ -479,9 +511,9 @@
    "reason": "Moral hazard concerns about Trump administration policy; broad market macro risk, low actionability",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.2,
+    "pct": -0.1,
     "base": 743.29,
-    "last": 744.66,
+    "last": 742.21,
     "base_date": "2026-07-17",
     "last_date": "2026-07-20"
    }
