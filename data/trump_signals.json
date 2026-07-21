@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-07-21T10:01:55Z",
+ "last_updated": "2026-07-21T12:00:37Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -17,6 +17,22 @@
    "primary_ticker": "DELL",
    "strength": 95,
    "reason": "Trump explicitly urged Americans to 'buy a Dell' while holding the stock; direct market call on specific company."
+  },
+  {
+   "date": "2026-07-21T04:59:52Z",
+   "platform": "News",
+   "text": "DJI ban: how the world\u2019s biggest dronemaker is getting shoved out of the US - The Verge \u2014 DJI ban: how the world\u2019s biggest dronemaker is getting shoved out of the US\u00a0\u00a0The Verge",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeWVMbm10WFUzMU9JT1ZaOU1XLUhwYUlPOG00N3NicDdvb2N3MUJ4RzBXejA5ZVpPVERibkh4bjk1RHlVOE1KM2RvM3ZIR0JQbVluUWJ6bkZ0cUVtb0QzdWtZX3U0M1VsSFAtQWhOT1FpVGt3N3VENktYemZnSGxvalBUaw?oc=5",
+   "tickers": [
+    "XAR"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "XAR",
+   "strength": 60,
+   "reason": "DJI ban implies defense/military sector tailwinds but drone-maker restriction is mixed; defense ETF slightly bullish on geopolitical shift"
   },
   {
    "date": "2026-07-21T04:53:26Z",
@@ -49,6 +65,22 @@
    "primary_ticker": "LLY",
    "strength": 25,
    "reason": "Headline reports disagreement on Eli Lilly; ambiguous direction without details on Trump's position."
+  },
+  {
+   "date": "2026-07-20T22:02:48Z",
+   "platform": "News",
+   "text": "Claude AI Disagrees With President Trump on Eli Lilly (LLY) - Yahoo Finance \u2014 Claude AI Disagrees With President Trump on Eli Lilly (LLY)\u00a0\u00a0Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOGM3QlJMLThlWnZiamRDOVpuSGU2UG1YX09zbXVFQzFZSGc2VzhMYzZvNHN3eV9mZ0NxRko1T3JrNVkyLXh2NzlDUUo4cWdyZFFDcC03d1hqQktubzd4SlZPWG82V1V6ZVBMWE9Janc4RFZibjROZU1qV19WMnUyQU9zWFktOTFKOV9nNWJ0czJwWDZQcnAtajZ1UnYxd0VPT2c?oc=5",
+   "tickers": [
+    "LLY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "LLY",
+   "strength": 35,
+   "reason": "Trump mentioned Eli Lilly but headline says 'Claude AI disagrees' \u2014 ambiguous signal, no clear direction stated"
   },
   {
    "date": "2026-07-20T20:42:21Z",
@@ -129,6 +161,22 @@
    "primary_ticker": "KR",
    "strength": 40,
    "reason": "Trump praises Giant Eagle price cuts; modest bullish signal for grocer"
+  },
+  {
+   "date": "2026-07-20T14:14:40Z",
+   "platform": "News",
+   "text": "UNH Stock Becomes Dow\u2019s Biggest Driver Back To 50,000 \u2014 Will Trump Tailwinds Spark Another Leg Higher? - Stocktwits \u2014 UNH Stock Becomes Dow\u2019s Biggest Driver Back To 50,000 \u2014 Will Trump Tailwinds Spark Another Leg Higher?\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPc09TZEpPUXhaQndxcjc0MUd3T1RhaTNMb2FIamg3MWlfNWR0VHc5QXk0S01oQk9ucTBrcmRMRFdhOUd0MDE5NlBUWnBvOExFeVdyTHdyaDdIanE1YlRCd0VUbk5RZXNJSW9yVmRHejRVR0duRHJJS0U2dThGSmlHTzVmYzFEdzZfZER1aC1TSGx6M01BVlNPdXB5b1padWMyTEhjZlpuMWhEX1pkUnpPVVVleHdKbUZCd2c?oc=5",
+   "tickers": [
+    "UNH"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "UNH",
+   "strength": 55,
+   "reason": "UNH driven by Trump tailwinds (likely healthcare deregulation/favorable policy); healthcare upside expected"
   },
   {
    "date": "2026-07-20T13:43:35Z",
@@ -533,22 +581,6 @@
    "primary_ticker": "SPY",
    "strength": 15,
    "reason": "Trump self-praise about stock market is macro sentiment but vague and low specificity"
-  },
-  {
-   "date": "2026-07-18T02:04:48Z",
-   "platform": "News",
-   "text": "UNH Stock Becomes Dow\u2019s Biggest Driver Back To 50,000 \u2014 Will Trump Tailwinds Spark Another Leg Higher? - Stocktwits \u2014 UNH Stock Becomes Dow\u2019s Biggest Driver Back To 50,000 \u2014 Will Trump Tailwinds Spark Another Leg Higher?\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPc09TZEpPUXhaQndxcjc0MUd3T1RhaTNMb2FIamg3MWlfNWR0VHc5QXk0S01oQk9ucTBrcmRMRFdhOUd0MDE5NlBUWnBvOExFeVdyTHdyaDdIanE1YlRCd0VUbk5RZXNJSW9yVmRHejRVR0duRHJJS0U2dThGSmlHTzVmYzFEdzZfZER1aC1TSGx6M01BVlNPdXB5b1padWMyTEhjZlpuMWhEX1pkUnpPVVVleHdKbUZCd2c?oc=5",
-   "tickers": [
-    "UNH"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "UNH",
-   "strength": 50,
-   "reason": "UNH becomes Dow driver; Trump tailwinds suggest healthcare/UNH positive momentum."
   },
   {
    "date": "2026-07-18T01:36:26Z",
@@ -2426,31 +2458,6 @@
     "pct": 0.8,
     "base": 749.17,
     "last": 754.81,
-    "base_date": "2026-07-13",
-    "last_date": "2026-07-15"
-   }
-  },
-  {
-   "date": "2026-07-13T01:03:05.451Z",
-   "platform": "Truth Social",
-   "text": "59% Approval Rating. Prices coming down along with the lowering of oil and gas. Thank you! President DJT",
-   "tickers": [
-    "XLE"
-   ],
-   "engagement": 10461,
-   "url": "https://truthsocial.com/@realDonaldTrump/116909970912164568",
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "XLE",
-   "strength": 35,
-   "reason": "Lower oil and gas prices cited positively; energy sector may benefit from supply or sentiment.",
-   "price_since": {
-    "ticker": "XLE",
-    "pct": -0.4,
-    "base": 56.74,
-    "last": 56.5,
     "base_date": "2026-07-13",
     "last_date": "2026-07-15"
    }
