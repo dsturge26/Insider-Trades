@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-07-20T23:40:50Z",
+ "last_updated": "2026-07-21T01:09:57Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -19,7 +19,7 @@
    "reason": "Headline reports disagreement on Eli Lilly; ambiguous direction without details on Trump's position."
   },
   {
-   "date": "2026-07-20T19:35:00Z",
+   "date": "2026-07-20T20:07:00Z",
    "platform": "News",
    "text": "Trump praises Giant Eagle for cutting prices this summer - WTAE \u2014 Trump praises Giant Eagle for cutting prices this summer\u00a0\u00a0WTAE",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPS2xIME5ZMS1sOXRCajFkYmxnTHdEY0hYcFBYc1VibG05XzVZVXdPRWw3OUNreVV5dVRrZVBZM2pReVMtNV8yYnRjYkVoU1ctSTgyLXBIN216UUN4LUdxdU50aTdFalFJbTIzRlVqajMtZHVoSE44NkJ3b3p4WHB0U3NHTWEtM3c?oc=5",
@@ -28,11 +28,11 @@
    ],
    "classified": true,
    "is_market": true,
-   "explicit": true,
+   "explicit": false,
    "direction": "BUY",
    "primary_ticker": "KR",
-   "strength": 60,
-   "reason": "Trump explicitly praises Giant Eagle (Kroger-owned) for price cuts; positive sentiment on grocer."
+   "strength": 45,
+   "reason": "Trump praises Giant Eagle price cuts\u2014bullish for regional grocer and retail sentiment broadly."
   },
   {
    "date": "2026-07-20T16:00:01Z",
@@ -453,6 +453,22 @@
    "primary_ticker": "SPY",
    "strength": 15,
    "reason": "Trump self-praise about stock market is macro sentiment but vague and low specificity"
+  },
+  {
+   "date": "2026-07-18T02:04:48Z",
+   "platform": "News",
+   "text": "UNH Stock Becomes Dow\u2019s Biggest Driver Back To 50,000 \u2014 Will Trump Tailwinds Spark Another Leg Higher? - Stocktwits \u2014 UNH Stock Becomes Dow\u2019s Biggest Driver Back To 50,000 \u2014 Will Trump Tailwinds Spark Another Leg Higher?\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPc09TZEpPUXhaQndxcjc0MUd3T1RhaTNMb2FIamg3MWlfNWR0VHc5QXk0S01oQk9ucTBrcmRMRFdhOUd0MDE5NlBUWnBvOExFeVdyTHdyaDdIanE1YlRCd0VUbk5RZXNJSW9yVmRHejRVR0duRHJJS0U2dThGSmlHTzVmYzFEdzZfZER1aC1TSGx6M01BVlNPdXB5b1padWMyTEhjZlpuMWhEX1pkUnpPVVVleHdKbUZCd2c?oc=5",
+   "tickers": [
+    "UNH"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "UNH",
+   "strength": 50,
+   "reason": "UNH becomes Dow driver; Trump tailwinds suggest healthcare/UNH positive momentum."
   },
   {
    "date": "2026-07-18T01:36:26Z",
