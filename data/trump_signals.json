@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-07-21T01:09:57Z",
+ "last_updated": "2026-07-21T04:32:26Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -97,6 +97,22 @@
    "primary_ticker": "WMT",
    "strength": 30,
    "reason": "Praise for Giant Eagle price cuts; pressure on grocer margins vs. consumer tailwind; ambiguous direction."
+  },
+  {
+   "date": "2026-07-20T06:42:00Z",
+   "platform": "News",
+   "text": "List of Grocery Retailers Slashing Prices as Trump Praises Giant Eagle - Newsweek \u2014 List of Grocery Retailers Slashing Prices as Trump Praises Giant Eagle\u00a0\u00a0Newsweek",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaFhwUlhrOU1Mdy1LWnlkNDFFcHM4YUt4ZWRENUVNNE9NdnpOWGhCOFJXX1lyNXZJbHM1V0ZEWHJwc1NSSEZ1ek1ueVJJX3VHNC1KVVhYb1RZVzQ0NFlOY1dvcF95VmhXTUhPXzFXQ2pldHFXdnFaVnZET0x2VDZEZGxINWE1Q2JqYS1jYmdnMkRyemtnUDJ1alZ0VERzU1MyZjI2X2dMTQ?oc=5",
+   "tickers": [
+    "XRT"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "XRT",
+   "strength": 35,
+   "reason": "Multiple retailers slashing prices in response to Trump pressure signals retail margin compression"
   },
   {
    "date": "2026-07-20T04:36:57Z",
@@ -2467,30 +2483,6 @@
     "pct": 12.0,
     "base": 2.42,
     "last": 2.71,
-    "base_date": "2026-07-13",
-    "last_date": "2026-07-15"
-   }
-  },
-  {
-   "date": "2026-07-12T01:02:24Z",
-   "platform": "News",
-   "text": "Dell shares jump after Trump tells Americans to 'go out and buy a Dell' - AOL.com \u2014 Dell shares jump after Trump tells Americans to 'go out and buy a Dell'\u00a0\u00a0AOL.com",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOVk4NFMtTG01bnBNVkhIa0NtQWhIbkVORDVYUTliczdfaDBFSmMzSWlxdlkzaDhCcXRBRjJkeDB3TnYxbGx6aTl1ODBzSWIyVWFlSVN2RndGTm5JWXRoWGtkb0FKOFRIX09SMVhBTzAyMURmQjdaQUhpc1hFQmVzNjVTUQ?oc=5",
-   "tickers": [
-    "DELL"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "DELL",
-   "strength": 85,
-   "reason": "Trump explicitly told Americans to buy Dell; direct market catalyst.",
-   "price_since": {
-    "ticker": "DELL",
-    "pct": -3.4,
-    "base": 427.11,
-    "last": 412.68,
     "base_date": "2026-07-13",
     "last_date": "2026-07-15"
    }
