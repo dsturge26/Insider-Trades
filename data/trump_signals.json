@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-07-21T18:49:50Z",
+ "last_updated": "2026-07-21T20:19:09Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -17,6 +17,22 @@
    "primary_ticker": "ITA",
    "strength": 65,
    "reason": "DJI ban removes major global dronemaker from US market, bearish for aerospace/defense sector competitors"
+  },
+  {
+   "date": "2026-07-21T16:00:00Z",
+   "platform": "News",
+   "text": "Trump Cheers Giant Eagle Price Cuts, Urges Competitors to Ma - Briefs Finance \u2014 Trump Cheers Giant Eagle Price Cuts, Urges Competitors to Ma\u00a0\u00a0Briefs Finance",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMmlpbmxNTjFqSUk1aUMxcUhsMTJVNC1lT3hhRGI4SzZXcjQzLTFvQ01iZV9tUFNXUE9relFGckoteWh3amZVNWZNcXpUbXlaU0tBLXhJeUdjdXpNSmp6bHZjLWVsM3BBTEVhUHhzNWRrSWdOSjZJY3N5d0JPMWp5TFRQZzk4ZlJfOXdCMXJrRndOUQ?oc=5",
+   "tickers": [
+    "WMT"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "WMT",
+   "strength": 35,
+   "reason": "Trump praises Giant Eagle price cuts; spillover effect on broader grocery/retail sector uncertain"
   },
   {
    "date": "2026-07-21T14:16:00Z",
@@ -83,9 +99,9 @@
    "reason": "Headline reports disagreement on Eli Lilly; ambiguous direction without details on Trump's position.",
    "price_since": {
     "ticker": "LLY",
-    "pct": 1.7,
+    "pct": 2.5,
     "base": 1146.9,
-    "last": 1166.06,
+    "last": 1175.15,
     "base_date": "2026-07-20",
     "last_date": "2026-07-21"
    }
@@ -107,9 +123,9 @@
    "reason": "Trump mentioned Eli Lilly but headline says 'Claude AI disagrees' \u2014 ambiguous signal, no clear direction stated",
    "price_since": {
     "ticker": "LLY",
-    "pct": 1.7,
+    "pct": 2.5,
     "base": 1146.9,
-    "last": 1166.06,
+    "last": 1175.15,
     "base_date": "2026-07-20",
     "last_date": "2026-07-21"
    }
@@ -131,9 +147,9 @@
    "reason": "Trump mentions Palantir but lacks explicit endorsement or specific market direction; unclear catalyst",
    "price_since": {
     "ticker": "PLTR",
-    "pct": -1.3,
+    "pct": -1.6,
     "base": 134.85,
-    "last": 133.06,
+    "last": 132.66,
     "base_date": "2026-07-20",
     "last_date": "2026-07-21"
    }
@@ -155,9 +171,9 @@
    "reason": "Trump publicly lauded Citi's M&A comeback; explicit praise of named public company",
    "price_since": {
     "ticker": "C",
-    "pct": 3.3,
+    "pct": 3.2,
     "base": 128.72,
-    "last": 132.95,
+    "last": 132.81,
     "base_date": "2026-07-20",
     "last_date": "2026-07-21"
    }
@@ -181,7 +197,7 @@
     "ticker": "QQQ",
     "pct": 1.9,
     "base": 696.06,
-    "last": 709.55,
+    "last": 708.97,
     "base_date": "2026-07-20",
     "last_date": "2026-07-21"
    }
@@ -203,9 +219,9 @@
    "reason": "Trump praises Pittsburgh supermarket chain (Giant Eagle); bullish signal for grocery sector.",
    "price_since": {
     "ticker": "KR",
-    "pct": -1.8,
+    "pct": -1.0,
     "base": 58.36,
-    "last": 57.33,
+    "last": 57.78,
     "base_date": "2026-07-20",
     "last_date": "2026-07-21"
    }
@@ -227,9 +243,9 @@
    "reason": "Trump buying stocks and promoting them to millions raises insider-trading concerns; ambiguous whether net-bullish or bearish for broad market",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.9,
+    "pct": 0.8,
     "base": 742.09,
-    "last": 748.5,
+    "last": 748.32,
     "base_date": "2026-07-20",
     "last_date": "2026-07-21"
    }
@@ -251,9 +267,9 @@
    "reason": "Trump praises Giant Eagle price cuts; modest bullish signal for grocer",
    "price_since": {
     "ticker": "KR",
-    "pct": -1.8,
+    "pct": -1.0,
     "base": 58.36,
-    "last": 57.33,
+    "last": 57.78,
     "base_date": "2026-07-20",
     "last_date": "2026-07-21"
    }
@@ -275,9 +291,9 @@
    "reason": "UNH driven by Trump tailwinds (likely healthcare deregulation/favorable policy); healthcare upside expected",
    "price_since": {
     "ticker": "UNH",
-    "pct": 2.9,
+    "pct": 3.5,
     "base": 421.55,
-    "last": 433.92,
+    "last": 436.35,
     "base_date": "2026-07-20",
     "last_date": "2026-07-21"
    }
@@ -299,9 +315,9 @@
    "reason": "Stock recovered after Trump endorsement but major short-seller still bearish; conflicting signals on Palantir.",
    "price_since": {
     "ticker": "PLTR",
-    "pct": -1.3,
+    "pct": -1.6,
     "base": 134.85,
-    "last": 133.08,
+    "last": 132.66,
     "base_date": "2026-07-20",
     "last_date": "2026-07-21"
    }
@@ -323,9 +339,9 @@
    "reason": "Trump praises grocery chain price cuts; retail sector benefited but not explicit endorsement",
    "price_since": {
     "ticker": "KR",
-    "pct": -1.8,
+    "pct": -1.0,
     "base": 58.36,
-    "last": 57.33,
+    "last": 57.78,
     "base_date": "2026-07-20",
     "last_date": "2026-07-21"
    }
@@ -347,9 +363,9 @@
    "reason": "Praise for Giant Eagle price cuts; pressure on grocer margins vs. consumer tailwind; ambiguous direction.",
    "price_since": {
     "ticker": "WMT",
-    "pct": -1.7,
+    "pct": -1.6,
     "base": 112.2,
-    "last": 110.34,
+    "last": 110.39,
     "base_date": "2026-07-20",
     "last_date": "2026-07-21"
    }
@@ -371,9 +387,9 @@
    "reason": "Multiple retailers slashing prices in response to Trump pressure signals retail margin compression",
    "price_since": {
     "ticker": "XRT",
-    "pct": -0.6,
+    "pct": -0.5,
     "base": 88.94,
-    "last": 88.44,
+    "last": 88.46,
     "base_date": "2026-07-20",
     "last_date": "2026-07-21"
    }
@@ -395,9 +411,9 @@
    "reason": "Trump mentions grocer price cuts; unclear if bullish (competition/efficiency) or bearish (margin pressure) for Kroger",
    "price_since": {
     "ticker": "KR",
-    "pct": -1.8,
+    "pct": -1.0,
     "base": 58.36,
-    "last": 57.33,
+    "last": 57.78,
     "base_date": "2026-07-20",
     "last_date": "2026-07-21"
    }
@@ -419,9 +435,9 @@
    "reason": "Trump price-cut push on Walmart; ambiguous whether positive PR or margin-pressure bearish",
    "price_since": {
     "ticker": "WMT",
-    "pct": -1.7,
+    "pct": -1.6,
     "base": 112.2,
-    "last": 110.34,
+    "last": 110.39,
     "base_date": "2026-07-20",
     "last_date": "2026-07-21"
    }
@@ -444,9 +460,9 @@
    "reason": "Price-lowering by major grocers signals deflationary pressure and consumer support; macro-positive but vague",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.9,
+    "pct": 0.8,
     "base": 742.09,
-    "last": 748.5,
+    "last": 748.32,
     "base_date": "2026-07-20",
     "last_date": "2026-07-21"
    }
@@ -469,9 +485,9 @@
    "reason": "North Sea oil expansion opens production capacity; bullish for global oil/energy sector",
    "price_since": {
     "ticker": "XLE",
-    "pct": 0.7,
+    "pct": 1.0,
     "base": 57.94,
-    "last": 58.33,
+    "last": 58.51,
     "base_date": "2026-07-20",
     "last_date": "2026-07-21"
    }
@@ -494,9 +510,9 @@
    "reason": "North Sea oil development increases UK/global oil supply potential; bullish for energy sector",
    "price_since": {
     "ticker": "XLE",
-    "pct": 0.7,
+    "pct": 1.0,
     "base": 57.94,
-    "last": 58.33,
+    "last": 58.51,
     "base_date": "2026-07-20",
     "last_date": "2026-07-21"
    }
@@ -518,9 +534,9 @@
    "reason": "Trump mentions Netflix positively but speculates on hypothetical merger; no direct buy signal or price catalyst",
    "price_since": {
     "ticker": "NFLX",
-    "pct": 0.2,
+    "pct": 1.6,
     "base": 67.6,
-    "last": 67.71,
+    "last": 68.67,
     "base_date": "2026-07-20",
     "last_date": "2026-07-21"
    }
@@ -543,9 +559,9 @@
    "reason": "Iran sanctions announcement implies geopolitical risk premium; oil/defense sector tailwind.",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.9,
+    "pct": 0.8,
     "base": 742.09,
-    "last": 748.51,
+    "last": 748.32,
     "base_date": "2026-07-20",
     "last_date": "2026-07-21"
    }
@@ -2648,31 +2664,6 @@
     "pct": 0.8,
     "base": 264.17,
     "last": 266.32,
-    "base_date": "2026-07-13",
-    "last_date": "2026-07-15"
-   }
-  },
-  {
-   "date": "2026-07-13T14:26:03.883Z",
-   "platform": "Truth Social",
-   "text": "In honor of Senator Lindsey Graham, a big supporter, the U.S. Senate should pass the Clarity Act. China, and many other countries, would like to take complete and total control of this major financial \"happening,\" as well as A.I., where we are now leading, but where they are fighting hard. Don't let China win on either subject!!! President DONALD J. TRUMP",
-   "tickers": [
-    "QQQ"
-   ],
-   "engagement": 8189,
-   "url": "https://truthsocial.com/@realDonaldTrump/116913128333997026",
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "QQQ",
-   "strength": 55,
-   "reason": "Trump emphasizes US AI leadership vs China; bullish macro signal for US tech/AI sector to maintain dominance",
-   "price_since": {
-    "ticker": "QQQ",
-    "pct": 0.8,
-    "base": 711.74,
-    "last": 717.74,
     "base_date": "2026-07-13",
     "last_date": "2026-07-15"
    }
