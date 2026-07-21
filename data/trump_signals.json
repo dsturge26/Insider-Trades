@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-07-21T21:39:36Z",
+ "last_updated": "2026-07-21T22:36:42Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -695,9 +695,9 @@
    "reason": "Trump explicitly endorsed Dell by name; stock spiked on his praise",
    "price_since": {
     "ticker": "DELL",
-    "pct": 5.9,
+    "pct": 5.8,
     "base": 381.88,
-    "last": 404.52,
+    "last": 404.15,
     "base_date": "2026-07-20",
     "last_date": "2026-07-21"
    }
@@ -721,7 +721,7 @@
     "ticker": "SPY",
     "pct": 0.8,
     "base": 742.09,
-    "last": 748.32,
+    "last": 748.28,
     "base_date": "2026-07-20",
     "last_date": "2026-07-21"
    }
@@ -743,9 +743,9 @@
    "reason": "Trump administration awarded IBM $1B federal contract for quantum foundry; direct bullish catalyst",
    "price_since": {
     "ticker": "IBM",
-    "pct": -1.1,
+    "pct": -1.2,
     "base": 213.0,
-    "last": 210.65,
+    "last": 210.5,
     "base_date": "2026-07-20",
     "last_date": "2026-07-21"
    }
@@ -767,9 +767,9 @@
    "reason": "Trump holdings in space stocks reported; inferred bullish read on sector names",
    "price_since": {
     "ticker": "ASTS",
-    "pct": 11.4,
+    "pct": 10.3,
     "base": 57.42,
-    "last": 63.95,
+    "last": 63.34,
     "base_date": "2026-07-20",
     "last_date": "2026-07-21"
    }
@@ -791,9 +791,9 @@
    "reason": "Stock tumbles on discounted offering; market-relevant but not Trump-driven.",
    "price_since": {
     "ticker": "DVLT",
-    "pct": 5.1,
+    "pct": -5.1,
     "base": 0.39,
-    "last": 0.41,
+    "last": 0.37,
     "base_date": "2026-07-20",
     "last_date": "2026-07-21"
    }
@@ -815,9 +815,9 @@
    "reason": "Trump's ServiceNow stake creates bullish sentiment; inferred but not explicit endorsement",
    "price_since": {
     "ticker": "NOW",
-    "pct": -1.7,
+    "pct": -2.5,
     "base": 104.7,
-    "last": 102.95,
+    "last": 102.06,
     "base_date": "2026-07-20",
     "last_date": "2026-07-21"
    }
@@ -839,9 +839,9 @@
    "reason": "Tesla eyes weekly loss amid robotaxi delays; bearish momentum on execution concerns",
    "price_since": {
     "ticker": "TSLA",
-    "pct": 2.8,
+    "pct": 2.5,
     "base": 369.57,
-    "last": 379.85,
+    "last": 378.93,
     "base_date": "2026-07-20",
     "last_date": "2026-07-21"
    }
@@ -863,9 +863,9 @@
    "reason": "Trump Media plan to sell Truth Social post priority access raises regulatory/reputational concerns and criticism.",
    "price_since": {
     "ticker": "DJT",
-    "pct": 1.2,
+    "pct": 0.8,
     "base": 9.74,
-    "last": 9.86,
+    "last": 9.82,
     "base_date": "2026-07-20",
     "last_date": "2026-07-21"
    }
@@ -887,9 +887,9 @@
    "reason": "Trump self-praise about stock market is macro sentiment but vague and low specificity",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.5,
+    "pct": 0.8,
     "base": 742.09,
-    "last": 745.66,
+    "last": 748.28,
     "base_date": "2026-07-20",
     "last_date": "2026-07-21"
    }
@@ -2653,6 +2653,74 @@
    }
   },
   {
+   "date": "2026-07-13T13:20:10.694Z",
+   "platform": "Truth Social",
+   "text": "RT @realDonaldTrump59% Approval Rating. Prices coming down along with the lowering of oil and gas. Thank you! President DJT",
+   "tickers": [
+    "XLE"
+   ],
+   "engagement": 0,
+   "url": "https://truthsocial.com/@realDonaldTrump/116912869257680045",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "XLE",
+   "strength": 45,
+   "reason": "Credit taken for oil and gas prices falling, implying energy sector tailwind."
+  },
+  {
+   "date": "2026-07-13T01:03:05.451Z",
+   "platform": "Truth Social",
+   "text": "59% Approval Rating. Prices coming down along with the lowering of oil and gas. Thank you! President DJT",
+   "tickers": [
+    "XLE"
+   ],
+   "engagement": 18159,
+   "url": "https://truthsocial.com/@realDonaldTrump/116909970912164568",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "XLE",
+   "strength": 45,
+   "reason": "Credit taken for oil and gas prices falling, implying energy sector tailwind."
+  },
+  {
+   "date": "2026-07-11T00:19:01.525Z",
+   "platform": "Truth Social",
+   "text": "Apple to invest $30 billion in US chip manufacturing: https://www.foxbusiness.com/media/apple-invest-30-billion-us-chip-manufacturing",
+   "tickers": [
+    "SMH"
+   ],
+   "engagement": 13237,
+   "url": "https://truthsocial.com/@realDonaldTrump/116898473019365022",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "SMH",
+   "strength": 50,
+   "reason": "Major US chip manufacturing investment announced, bullish for semiconductor sector."
+  },
+  {
+   "date": "2026-07-10T23:35:02.281Z",
+   "platform": "Truth Social",
+   "text": "BIGGER INVESTMENTS JUST KEEP COMING! The Trump Effect is REAL! Micron is accelerating its U.S. spending to a MASSIVE 250 BILLION DOLLARS to build Memory Chips right here in the U.S.A. For years, the Do Nothing Dumocrats bogged down American Industry with crushing Red Tape, complete Economic Mismanagement, and ridiculous Woke Mandates. They stalled everything. Not anymore! We are slashing the Radical Left's Job killing Regulations, and actually GETTING SHOVELS IN THE GROUND. We are reshooting Manufacturing to America, and securing our Supply Chains. This means THOUSANDS of GREAT JOBS for Hardworking Patriots all across our Country. True Economic Security is MADE IN AMERICA. \ud83c\uddfa\ud83c\uddf8MAGA! President DONALD J. TRUMP",
+   "tickers": [
+    "MU"
+   ],
+   "engagement": 13533,
+   "url": "https://truthsocial.com/@realDonaldTrump/116898300053530163",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "MU",
+   "strength": 75,
+   "reason": "Micron explicitly named with massive $250B US manufacturing expansion commitment, direct company catalyst."
+  },
+  {
    "curated": true,
    "classified": true,
    "is_market": true,
@@ -2705,6 +2773,244 @@
    "reason": "Trump's majority-owned stock debuts \u2014 pure sentiment play, extremely volatile and headline-driven.",
    "market_reaction": "DJT spiked on debut then stayed volatile, moving heavily on Trump political/legal news.",
    "url": "https://www.nasdaq.com/market-activity/stocks/djt"
+  },
+  {
+   "date": "2021-07-01T12:00:00Z",
+   "platform": "Federal contract",
+   "text": "HARRIS CORPORATION was awarded a $2.1B federal contract from Department of Transportation.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_693KA821F00222_6920_DTFA0102D03006_6920",
+   "tickers": [
+    "HRS"
+   ],
+   "contract_amount": 2.1,
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "HRS",
+   "strength": 70,
+   "reason": "Federal contract award to Harris Corporation, large defense/aerospace contract bullish signal."
+  },
+  {
+   "date": "2020-05-13T12:00:00Z",
+   "platform": "Federal contract",
+   "text": "SPACE EXPLORATION TECHNOLOGIES CORP. was awarded a $3.1B federal contract from National Aeronautics and Space Administration.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_80MSFC20C0034_8000_-NONE-_-NONE-",
+   "tickers": [
+    "RKLB"
+   ],
+   "contract_amount": 3.06,
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "RKLB",
+   "strength": 70,
+   "reason": "Federal contract award to SpaceX (Space Exploration Technologies), major space contract."
+  },
+  {
+   "date": "2019-10-16T12:00:00Z",
+   "platform": "Federal contract",
+   "text": "THE BOEING COMPANY was awarded a $2.6B federal contract from National Aeronautics and Space Administration.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_80MSFC20C0052_8000_-NONE-_-NONE-",
+   "tickers": [
+    "BA"
+   ],
+   "contract_amount": 2.59,
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "BA",
+   "strength": 70,
+   "reason": "Federal contract award to Boeing, large NASA contract bullish signal."
+  },
+  {
+   "date": "2019-06-19T12:00:00Z",
+   "platform": "Federal contract",
+   "text": "GENERAL DYNAMICS INFORMATION TECHNOLOGY, INC. was awarded a $1.6B federal contract from Department of State.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_19AQMM18C0185_1900_-NONE-_-NONE-",
+   "tickers": [
+    "GD"
+   ],
+   "contract_amount": 1.59,
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "GD",
+   "strength": 70,
+   "reason": "Federal contract award to General Dynamics, large State Department contract."
+  },
+  {
+   "date": "2018-05-17T12:00:00Z",
+   "platform": "Federal contract",
+   "text": "ORACLE HEALTH GOVERNMENT SERVICES, INC. was awarded a $1.5B federal contract from Department of Veterans Affairs.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_36C10B18N0003_3600_36C10B18D5000_3600",
+   "tickers": [
+    "ORCL"
+   ],
+   "contract_amount": 1.51,
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "ORCL",
+   "strength": 70,
+   "reason": "Federal contract award to Oracle Health Government Services, VA contract bullish."
+  },
+  {
+   "date": "2015-09-03T12:00:00Z",
+   "platform": "Federal contract",
+   "text": "NORTHROP GRUMMAN SYSTEMS CORPORATION was awarded a $1.6B federal contract from National Aeronautics and Space Administration.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_NNH15CN76C_8000_-NONE-_-NONE-",
+   "tickers": [
+    "NOC"
+   ],
+   "contract_amount": 1.63,
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "NOC",
+   "strength": 70,
+   "reason": "Federal contract award to Northrop Grumman, large NASA contract bullish signal."
+  },
+  {
+   "date": "2011-12-23T12:00:00Z",
+   "platform": "Federal contract",
+   "text": "LEIDOS, INC. was awarded a $3.1B federal contract from National Science Foundation.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_NSFDACS1219442_4900_-NONE-_-NONE-",
+   "tickers": [
+    "LDOS"
+   ],
+   "contract_amount": 3.12,
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "LDOS",
+   "strength": 70,
+   "reason": "Federal contract award to Leidos, large NSF contract bullish signal."
+  },
+  {
+   "date": "2008-09-26T12:00:00Z",
+   "platform": "Federal contract",
+   "text": "LEIDOS BIOMEDICAL RESEARCH INC was awarded a $4.8B federal contract from Department of Health and Human Services.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_HHSN261200800001E_7529_-NONE-_-NONE-",
+   "tickers": [
+    "LDOS"
+   ],
+   "contract_amount": 4.81,
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "LDOS",
+   "strength": 75,
+   "reason": "Large federal contract award to Leidos from HHS, substantial HHS contract bullish."
+  },
+  {
+   "date": "2008-07-25T12:00:00Z",
+   "platform": "Federal contract",
+   "text": "HARRIS CORPORATION was awarded a $1.6B federal contract from Department of Transportation.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_DTFA0102D03006CALL0001_6920_DTFA0102D03006_6920",
+   "tickers": [
+    "HRS"
+   ],
+   "contract_amount": 1.57,
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "HRS",
+   "strength": 70,
+   "reason": "Federal contract award to Harris Corporation, additional DOT contract bullish."
+  },
+  {
+   "date": "2007-09-01T12:00:00Z",
+   "platform": "Federal contract",
+   "text": "THE BOEING COMPANY was awarded a $10.5B federal contract from National Aeronautics and Space Administration.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_NNM07AB03C_8000_-NONE-_-NONE-",
+   "tickers": [
+    "BA"
+   ],
+   "contract_amount": 10.51,
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "BA",
+   "strength": 80,
+   "reason": "Major federal contract award to Boeing, $10.5B NASA contract strong bullish signal."
+  },
+  {
+   "date": "2006-09-06T12:00:00Z",
+   "platform": "Federal contract",
+   "text": "LOCKHEED MARTIN CORP was awarded a $15.6B federal contract from National Aeronautics and Space Administration.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_NNJ06TA25C_8000_-NONE-_-NONE-",
+   "tickers": [
+    "LMT"
+   ],
+   "contract_amount": 15.56,
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "LMT",
+   "strength": 80,
+   "reason": "Large federal contract award to Lockheed Martin, $15.6B NASA contract strong bullish signal."
+  },
+  {
+   "date": "2006-04-17T12:00:00Z",
+   "platform": "Federal contract",
+   "text": "NORTHROP GRUMMAN SYSTEMS CORPORATION was awarded a $4.4B federal contract from National Aeronautics and Space Administration.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_NNM07AA75C_8000_-NONE-_-NONE-",
+   "tickers": [
+    "NOC"
+   ],
+   "contract_amount": 4.43,
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "NOC",
+   "strength": 75,
+   "reason": "Federal contract award to Northrop Grumman, substantial $4.4B NASA contract bullish."
+  },
+  {
+   "date": "1993-11-15T12:00:00Z",
+   "platform": "Federal contract",
+   "text": "THE BOEING COMPANY was awarded a $22.4B federal contract from National Aeronautics and Space Administration.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_NAS1510000_8000_-NONE-_-NONE-",
+   "tickers": [
+    "BA"
+   ],
+   "contract_amount": 22.44,
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "BA",
+   "strength": 85,
+   "reason": "Major federal contract award to Boeing, $22.4B NASA contract very strong bullish signal."
+  },
+  {
+   "date": "1993-10-15T12:00:00Z",
+   "platform": "Federal contract",
+   "text": "LOCKHEED MARTIN CORP was awarded a $48.1B federal contract from Department of Energy.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_DEAC0494AL85000_8900_-NONE-_-NONE-",
+   "tickers": [
+    "LMT"
+   ],
+   "contract_amount": 48.06,
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "LMT",
+   "strength": 85,
+   "reason": "Massive federal contract award to Lockheed Martin, $48.1B DOE contract very strong bullish signal."
   }
  ],
  "how_to_read": "Each card is Claude's read of a public Trump post: the affected ticker, whether it implies BUY / SELL / WATCH, a 0\u2013100 strength (how explicit/emphatic the post is \u2014 NOT a profit predictor), and why. A 2-year backtest found these don't beat buy-and-hold, so this is for awareness, not trading. Not financial advice."
