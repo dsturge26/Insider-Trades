@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-07-21T14:14:37Z",
+ "last_updated": "2026-07-21T15:55:19Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-07-21T14:14:58Z",
+   "platform": "News",
+   "text": "DJI ban: how the world\u2019s biggest dronemaker is getting shoved out of the US - The Verge \u2014 DJI ban: how the world\u2019s biggest dronemaker is getting shoved out of the US\u00a0\u00a0The Verge",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeWVMbm10WFUzMU9JT1ZaOU1XLUhwYUlPOG00N3NicDdvb2N3MUJ4RzBXejA5ZVpPVERibkh4bjk1RHlVOE1KM2RvM3ZIR0JQbVluUWJ6bkZ0cUVtb0QzdWtZX3U0M1VsSFAtQWhOT1FpVGt3N3VENktYemZnSGxvalBUaw?oc=5",
+   "tickers": [
+    "XAR"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "XAR",
+   "strength": 65,
+   "reason": "DJI ban removes major competitor from US market, bearish for US drone/defense alternatives or bullish for domestic competitors\u2014ambiguous; net effect is market-relevant policy action affecting defense-tech sector"
+  },
   {
    "date": "2026-07-21T09:31:55Z",
    "platform": "News",
@@ -17,22 +33,6 @@
    "primary_ticker": "DELL",
    "strength": 95,
    "reason": "Trump explicitly urged Americans to 'buy a Dell' while holding the stock; direct market call on specific company."
-  },
-  {
-   "date": "2026-07-21T04:59:52Z",
-   "platform": "News",
-   "text": "DJI ban: how the world\u2019s biggest dronemaker is getting shoved out of the US - The Verge \u2014 DJI ban: how the world\u2019s biggest dronemaker is getting shoved out of the US\u00a0\u00a0The Verge",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeWVMbm10WFUzMU9JT1ZaOU1XLUhwYUlPOG00N3NicDdvb2N3MUJ4RzBXejA5ZVpPVERibkh4bjk1RHlVOE1KM2RvM3ZIR0JQbVluUWJ6bkZ0cUVtb0QzdWtZX3U0M1VsSFAtQWhOT1FpVGt3N3VENktYemZnSGxvalBUaw?oc=5",
-   "tickers": [
-    "XAR"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "XAR",
-   "strength": 60,
-   "reason": "DJI ban implies defense/military sector tailwinds but drone-maker restriction is mixed; defense ETF slightly bullish on geopolitical shift"
   },
   {
    "date": "2026-07-21T04:53:26Z",
@@ -67,9 +67,9 @@
    "reason": "Headline reports disagreement on Eli Lilly; ambiguous direction without details on Trump's position.",
    "price_since": {
     "ticker": "LLY",
-    "pct": 1.0,
+    "pct": 1.2,
     "base": 1146.9,
-    "last": 1158.55,
+    "last": 1160.9,
     "base_date": "2026-07-20",
     "last_date": "2026-07-21"
    }
@@ -91,9 +91,9 @@
    "reason": "Trump mentioned Eli Lilly but headline says 'Claude AI disagrees' \u2014 ambiguous signal, no clear direction stated",
    "price_since": {
     "ticker": "LLY",
-    "pct": 1.0,
+    "pct": 1.2,
     "base": 1146.9,
-    "last": 1158.55,
+    "last": 1160.9,
     "base_date": "2026-07-20",
     "last_date": "2026-07-21"
    }
@@ -117,7 +117,31 @@
     "ticker": "PLTR",
     "pct": -0.6,
     "base": 134.85,
-    "last": 134.06,
+    "last": 134.02,
+    "base_date": "2026-07-20",
+    "last_date": "2026-07-21"
+   }
+  },
+  {
+   "date": "2026-07-20T20:26:40Z",
+   "platform": "News",
+   "text": "Citi Stock Hits 52-Week High Before Fading As Trump Lauds Bank's 'Big Comeback' In M&A \u2014 But Full Picture Has Changed Now - Stocktwits \u2014 Citi Stock Hits 52-Week High Before Fading As Trump Lauds Bank's 'Big Comeback' In M&A \u2014 But Full Picture Has Changed Now\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWUpacUZnX014SV9nTnRZbVQ0dWhFQlZiV3ZjLV9nWExYUjVMdmlZdkdoNnFLcUhZUEhuZ1k3a2JENWJrYkhqdjJqNFlLaVlVYzBRb3dJOFA2Q1dESmhCTVJnQXJJaU15VjVFUFo2cWJDOEx3QTIzN0NSQjExRWhRZlNLaDFXeEZMQ0poajdjbGhmNlhPd1ZQSnVOSmNVa0pVTF94Z1RVdXlSU2JrR0N3X2dHSENINjZHNWdTYzB1dEZPaERK?oc=5",
+   "tickers": [
+    "C"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "C",
+   "strength": 50,
+   "reason": "Trump publicly lauded Citi's M&A comeback; explicit praise of named public company",
+   "price_since": {
+    "ticker": "C",
+    "pct": 3.0,
+    "base": 128.72,
+    "last": 132.61,
     "base_date": "2026-07-20",
     "last_date": "2026-07-21"
    }
@@ -139,9 +163,9 @@
    "reason": "Trump praises Giant Eagle price cuts\u2014bullish for regional grocer and retail sentiment broadly.",
    "price_since": {
     "ticker": "KR",
-    "pct": -1.1,
+    "pct": -1.5,
     "base": 58.36,
-    "last": 57.69,
+    "last": 57.51,
     "base_date": "2026-07-20",
     "last_date": "2026-07-21"
    }
@@ -163,9 +187,9 @@
    "reason": "Trump praises Pittsburgh supermarket chain (Giant Eagle); bullish signal for grocery sector.",
    "price_since": {
     "ticker": "KR",
-    "pct": -1.1,
+    "pct": -1.5,
     "base": 58.36,
-    "last": 57.69,
+    "last": 57.51,
     "base_date": "2026-07-20",
     "last_date": "2026-07-21"
    }
@@ -187,9 +211,9 @@
    "reason": "Trump buying stocks and promoting them to millions raises insider-trading concerns; ambiguous whether net-bullish or bearish for broad market",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.5,
+    "pct": 0.8,
     "base": 742.09,
-    "last": 745.83,
+    "last": 747.78,
     "base_date": "2026-07-20",
     "last_date": "2026-07-21"
    }
@@ -211,9 +235,9 @@
    "reason": "Trump praises Giant Eagle price cuts; modest bullish signal for grocer",
    "price_since": {
     "ticker": "KR",
-    "pct": -1.1,
+    "pct": -1.5,
     "base": 58.36,
-    "last": 57.69,
+    "last": 57.51,
     "base_date": "2026-07-20",
     "last_date": "2026-07-21"
    }
@@ -235,9 +259,9 @@
    "reason": "UNH driven by Trump tailwinds (likely healthcare deregulation/favorable policy); healthcare upside expected",
    "price_since": {
     "ticker": "UNH",
-    "pct": 2.3,
+    "pct": 2.8,
     "base": 421.55,
-    "last": 431.3,
+    "last": 433.18,
     "base_date": "2026-07-20",
     "last_date": "2026-07-21"
    }
@@ -259,9 +283,9 @@
    "reason": "Stock recovered after Trump endorsement but major short-seller still bearish; conflicting signals on Palantir.",
    "price_since": {
     "ticker": "PLTR",
-    "pct": -0.5,
+    "pct": -0.6,
     "base": 134.85,
-    "last": 134.12,
+    "last": 134.02,
     "base_date": "2026-07-20",
     "last_date": "2026-07-21"
    }
@@ -283,9 +307,9 @@
    "reason": "Trump praises grocery chain price cuts; retail sector benefited but not explicit endorsement",
    "price_since": {
     "ticker": "KR",
-    "pct": -1.1,
+    "pct": -1.5,
     "base": 58.36,
-    "last": 57.69,
+    "last": 57.51,
     "base_date": "2026-07-20",
     "last_date": "2026-07-21"
    }
@@ -307,9 +331,9 @@
    "reason": "Praise for Giant Eagle price cuts; pressure on grocer margins vs. consumer tailwind; ambiguous direction.",
    "price_since": {
     "ticker": "WMT",
-    "pct": -0.8,
+    "pct": -1.6,
     "base": 112.2,
-    "last": 111.26,
+    "last": 110.43,
     "base_date": "2026-07-20",
     "last_date": "2026-07-21"
    }
@@ -333,7 +357,7 @@
     "ticker": "XRT",
     "pct": -0.5,
     "base": 88.94,
-    "last": 88.46,
+    "last": 88.5,
     "base_date": "2026-07-20",
     "last_date": "2026-07-21"
    }
@@ -355,9 +379,9 @@
    "reason": "Trump mentions grocer price cuts; unclear if bullish (competition/efficiency) or bearish (margin pressure) for Kroger",
    "price_since": {
     "ticker": "KR",
-    "pct": -1.1,
+    "pct": -1.5,
     "base": 58.36,
-    "last": 57.69,
+    "last": 57.51,
     "base_date": "2026-07-20",
     "last_date": "2026-07-21"
    }
@@ -379,9 +403,9 @@
    "reason": "Trump price-cut push on Walmart; ambiguous whether positive PR or margin-pressure bearish",
    "price_since": {
     "ticker": "WMT",
-    "pct": -0.8,
+    "pct": -1.6,
     "base": 112.2,
-    "last": 111.26,
+    "last": 110.43,
     "base_date": "2026-07-20",
     "last_date": "2026-07-21"
    }
@@ -404,9 +428,9 @@
    "reason": "Price-lowering by major grocers signals deflationary pressure and consumer support; macro-positive but vague",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.5,
+    "pct": 0.8,
     "base": 742.09,
-    "last": 745.7,
+    "last": 747.78,
     "base_date": "2026-07-20",
     "last_date": "2026-07-21"
    }
@@ -429,9 +453,9 @@
    "reason": "North Sea oil expansion opens production capacity; bullish for global oil/energy sector",
    "price_since": {
     "ticker": "XLE",
-    "pct": 0.0,
+    "pct": 0.6,
     "base": 57.94,
-    "last": 57.94,
+    "last": 58.29,
     "base_date": "2026-07-20",
     "last_date": "2026-07-21"
    }
@@ -454,9 +478,9 @@
    "reason": "North Sea oil development increases UK/global oil supply potential; bullish for energy sector",
    "price_since": {
     "ticker": "XLE",
-    "pct": 0.0,
+    "pct": 0.6,
     "base": 57.94,
-    "last": 57.94,
+    "last": 58.29,
     "base_date": "2026-07-20",
     "last_date": "2026-07-21"
    }
@@ -478,9 +502,9 @@
    "reason": "Trump mentions Netflix positively but speculates on hypothetical merger; no direct buy signal or price catalyst",
    "price_since": {
     "ticker": "NFLX",
-    "pct": 0.3,
+    "pct": -0.4,
     "base": 67.6,
-    "last": 67.83,
+    "last": 67.36,
     "base_date": "2026-07-20",
     "last_date": "2026-07-21"
    }
@@ -503,9 +527,9 @@
    "reason": "Iran sanctions announcement implies geopolitical risk premium; oil/defense sector tailwind.",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.5,
+    "pct": 0.8,
     "base": 742.09,
-    "last": 745.71,
+    "last": 747.78,
     "base_date": "2026-07-20",
     "last_date": "2026-07-21"
    }
@@ -527,9 +551,9 @@
    "reason": "Stock quote and forecast mention; no directional signal or catalyst in headline.",
    "price_since": {
     "ticker": "DJT",
-    "pct": 1.3,
+    "pct": -0.3,
     "base": 9.74,
-    "last": 9.87,
+    "last": 9.71,
     "base_date": "2026-07-20",
     "last_date": "2026-07-21"
    }
@@ -567,9 +591,9 @@
    "reason": "Trump explicitly endorsed Dell by name; stock spiked on his praise",
    "price_since": {
     "ticker": "DELL",
-    "pct": 5.1,
+    "pct": 5.6,
     "base": 381.88,
-    "last": 401.49,
+    "last": 403.32,
     "base_date": "2026-07-20",
     "last_date": "2026-07-21"
    }
@@ -591,9 +615,9 @@
    "reason": "Pattern of Trump promoting stocks he bought suggests market manipulation risk; unclear if bullish or bearish for broad market",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.5,
+    "pct": 0.8,
     "base": 742.09,
-    "last": 745.7,
+    "last": 747.78,
     "base_date": "2026-07-20",
     "last_date": "2026-07-21"
    }
@@ -615,9 +639,9 @@
    "reason": "IBRX rallied during Trump's State of the Union; unclear what policy drove it; ambiguous direction.",
    "price_since": {
     "ticker": "IBRX",
-    "pct": 4.7,
+    "pct": 6.7,
     "base": 7.49,
-    "last": 7.84,
+    "last": 7.99,
     "base_date": "2026-07-20",
     "last_date": "2026-07-21"
    }
@@ -639,9 +663,9 @@
    "reason": "Trump administration awarded IBM $1B federal contract for quantum foundry; direct bullish catalyst",
    "price_since": {
     "ticker": "IBM",
-    "pct": -0.9,
+    "pct": -1.2,
     "base": 213.0,
-    "last": 211.0,
+    "last": 210.45,
     "base_date": "2026-07-20",
     "last_date": "2026-07-21"
    }
@@ -663,33 +687,9 @@
    "reason": "Trump holdings in space stocks reported; inferred bullish read on sector names",
    "price_since": {
     "ticker": "ASTS",
-    "pct": 7.5,
+    "pct": 12.0,
     "base": 57.42,
-    "last": 61.73,
-    "base_date": "2026-07-20",
-    "last_date": "2026-07-21"
-   }
-  },
-  {
-   "date": "2026-07-18T15:50:25Z",
-   "platform": "News",
-   "text": "Citi Stock Hits 52-Week High Before Fading As Trump Lauds Bank's 'Big Comeback' In M&A \u2014 But Full Picture Has Changed Now - Stocktwits \u2014 Citi Stock Hits 52-Week High Before Fading As Trump Lauds Bank's 'Big Comeback' In M&A \u2014 But Full Picture Has Changed Now\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWUpacUZnX014SV9nTnRZbVQ0dWhFQlZiV3ZjLV9nWExYUjVMdmlZdkdoNnFLcUhZUEhuZ1k3a2JENWJrYkhqdjJqNFlLaVlVYzBRb3dJOFA2Q1dESmhCTVJnQXJJaU15VjVFUFo2cWJDOEx3QTIzN0NSQjExRWhRZlNLaDFXeEZMQ0poajdjbGhmNlhPd1ZQSnVOSmNVa0pVTF94Z1RVdXlSU2JrR0N3X2dHSENINjZHNWdTYzB1dEZPaERK?oc=5",
-   "tickers": [
-    "C"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "C",
-   "strength": 50,
-   "reason": "Trump explicitly lauds Citi's M&A comeback; direct named-company praise",
-   "price_since": {
-    "ticker": "C",
-    "pct": 2.7,
-    "base": 128.72,
-    "last": 132.2,
+    "last": 64.29,
     "base_date": "2026-07-20",
     "last_date": "2026-07-21"
    }
@@ -853,6 +853,22 @@
    "primary_ticker": "TRUMP",
    "strength": 35,
    "reason": "Trump crypto business profiteering while investors lost; bearish for TRUMP coin trust"
+  },
+  {
+   "date": "2026-07-18T00:00:00Z",
+   "platform": "News",
+   "text": "Trump Endorses MyPillow CEO Mike Lindell, Who Spread Conspiracy Theories About \u201920 Election, For Minn... - uPolitics \u2014 Trump Endorses MyPillow CEO Mike Lindell, Who Spread Conspiracy Theories About \u201920 Election, For Minn...\u00a0\u00a0uPolitics",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcnJyM3k2QkVJLWwzWEdGRkxLRURtSXpORXVkOHVPYlV0YmxOTzBsS3FxWmI1Z0l6dUI3WVphUkVRSUdYUTZ1cGNWOXVlcEMwTlAzWERkby02cmpyMXVMS0FSbWdOSm9mRU8tVWhZWTAzU1FCd0JYdUFMOHJZVHlSdGh5SWMyOFQ0NjhidGtzcVlrZjhvcU9BNU9IazlfbXIydUUtdlFLRHA3NkV3UnhrNlEtdjEtRE9HT05DVjI5V2V3ckQ2R250QU45UEhDTTBBZWNHU1M1b9IB3AFBVV95cUxNM3V0eWNEZEg5U2NMZzE0Zm5OSV9KOWNEMnp6VHo1cHhERlpoSGhzQnFEVlJJR0Ftdlgxd29uWFF3M3BCV3BIU2tTR2lWX2JhcXRQallVQm9yR0pEcEtZQ21kQUVRd1IwdzgwVDhBNTd3aVNlUGRVNDk0bWplWWhuYjI1ZVFITDExeDV5Q0Nyc0ZPWDRYbGg5SThsaGd4NXBRaHNYN2pQQ3VmWlZXZnZZRHp0WHpnSUlPaEZGa0xxdHdlLWJBU2dSRHNkZVFOWkdnRUNDZTdsVTktSW5R?oc=5",
+   "tickers": [
+    "SKBL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "SKBL",
+   "strength": 45,
+   "reason": "Trump explicitly endorses MyPillow CEO Mike Lindell; positive signal for MyPillow (Sealy Brands parent/ticker proxy), though endorsement context (political race) limits stock impact."
   },
   {
    "date": "2026-07-17T23:39:46Z",
@@ -2671,105 +2687,6 @@
    }
   },
   {
-   "date": "2026-07-13T12:24:27Z",
-   "platform": "News",
-   "text": "Michael Burry is shorting Micron as a 'destroyer of capital' despite Trump's praises and a 241% rally\u2014here's why - MSN \u2014 Michael Burry is shorting Micron as a 'destroyer of capital' despite Trump's praises and a 241% rally\u2014here's why\u00a0\u00a0MSN",
-   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPY2czc2JrdENHZUxvWUtxRzNLZ0RuU01tQlFYQlBCa1R6YVR0VVlnZk5MVWpPbHZYWS14bTBVcXdQS0U2NERmcWd1SzJneGZfRDVNSzR5QVpyVjlhaHlMX3BSSmgzUk9SckxUMmlxVVNJbVlINDl2WExzTWhlZGJERzQwM3BLNF9ObTNobkpEWmItX0lfSFNkZ05aOTlKazdXZkdhaVR5cDF1dVBJNnF5bnhlejZJdzR4dk9ESGdNSl9jMS01Mnl6aTNDYjBYT2tJQmNFcHFxSVZOSmNqX0hvcVBiVnViam4wR1VISVJxUmpPN1JzMnpyVGRnVnRfUWc?oc=5",
-   "tickers": [
-    "MU"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "MU",
-   "strength": 50,
-   "reason": "Trump praised Micron but analyst shorting it; mixed signal on semiconductor.",
-   "price_since": {
-    "ticker": "MU",
-    "pct": -3.5,
-    "base": 937.0,
-    "last": 904.28,
-    "base_date": "2026-07-13",
-    "last_date": "2026-07-15"
-   }
-  },
-  {
-   "date": "2026-07-13T01:33:00Z",
-   "platform": "News",
-   "text": "Nasdaq, S&P 500, Dow Futures Fall After Trump Directs Strikes \u2018To Hold Iranian Forces Accountable\u2019: NVDA, SLS, MRK, SKHYV, QS Stocks In Focus - TradingView \u2014 Nasdaq, S&P 500, Dow Futures Fall After Trump Directs Strikes \u2018To Hold Iranian Forces Accountable\u2019: NVDA, SLS, MRK, SKHYV, QS Stocks In Focus\u00a0\u00a0TradingView",
-   "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxPVi0waGRieF9LX2Y1dVVqZGdqSVFLNnBIaG1zcllwemhqVDQ4NXVtcXN4b3lRbE92SmdiVVZ3RWtNYlZjYU9yanFiV253YXZTMHdtYTJCeFE5RVcwckNWR2l6X1hqMVgyZ0htZFJEVnBuU0VEZHg0SnMtR1JBZDBER2ZGb2pHb0h1bElSZ05FaXpnZFpzMExYMFZqLWlYMGliN29GX1Q3NFpnUndtSmVnS2hkUVdMbHg5NG1vN3JqRGVuUFlQeHVFeXRfWnFHN2VfUW1TTy1vR0wwV3puUHRXYmpIYXVHRUU4bkVVTjExUktFRUVyVEhUXzJnMzExLTV0WnpNeVNTajdTSVJKNTdMZHcxSmVhdGRDRVp0cUln?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "SPY",
-   "strength": 45,
-   "reason": "Military strikes on Iran create geopolitical risk and broad market uncertainty.",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": 0.8,
-    "base": 749.17,
-    "last": 754.81,
-    "base_date": "2026-07-13",
-    "last_date": "2026-07-15"
-   }
-  },
-  {
-   "date": "2026-07-13T01:03:05.451Z",
-   "platform": "Truth Social",
-   "text": "59% Approval Rating. Prices coming down along with the lowering of oil and gas. Thank you! President DJT",
-   "tickers": [
-    "SPY"
-   ],
-   "engagement": 18159,
-   "url": "https://truthsocial.com/@realDonaldTrump/116909970912164568",
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "SPY",
-   "strength": 45,
-   "reason": "lower oil/gas prices and approval implied positive for broad market sentiment"
-  },
-  {
-   "date": "2026-07-11T00:19:01.525Z",
-   "platform": "Truth Social",
-   "text": "Apple to invest $30 billion in US chip manufacturing: https://www.foxbusiness.com/media/apple-invest-30-billion-us-chip-manufacturing",
-   "tickers": [
-    "AAPL"
-   ],
-   "engagement": 13237,
-   "url": "https://truthsocial.com/@realDonaldTrump/116898473019365022",
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "AAPL",
-   "strength": 60,
-   "reason": "Apple announces $30B US chip manufacturing investment, positive capex signal"
-  },
-  {
-   "date": "2026-07-10T23:35:02.281Z",
-   "platform": "Truth Social",
-   "text": "BIGGER INVESTMENTS JUST KEEP COMING! The Trump Effect is REAL! Micron is accelerating its U.S. spending to a MASSIVE 250 BILLION DOLLARS to build Memory Chips right here in the U.S.A. For years, the Do Nothing Dumocrats bogged down American Industry with crushing Red Tape, complete Economic Mismanagement, and ridiculous Woke Mandates. They stalled everything. Not anymore! We are slashing the Radical Left's Job killing Regulations, and actually GETTING SHOVELS IN THE GROUND. We are reshooting Manufacturing to America, and securing our Supply Chains. This means THOUSANDS of GREAT JOBS for Hardworking Patriots all across our Country. True Economic Security is MADE IN AMERICA. \ud83c\uddfa\ud83c\uddf8MAGA! President DONALD J. TRUMP",
-   "tickers": [
-    "MU"
-   ],
-   "engagement": 13533,
-   "url": "https://truthsocial.com/@realDonaldTrump/116898300053530163",
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "MU",
-   "strength": 75,
-   "reason": "Trump explicitly highlights Micron's $250B US spending acceleration as Trump Effect win"
-  },
-  {
    "curated": true,
    "classified": true,
    "is_market": true,
@@ -2822,244 +2739,6 @@
    "reason": "Trump's majority-owned stock debuts \u2014 pure sentiment play, extremely volatile and headline-driven.",
    "market_reaction": "DJT spiked on debut then stayed volatile, moving heavily on Trump political/legal news.",
    "url": "https://www.nasdaq.com/market-activity/stocks/djt"
-  },
-  {
-   "date": "2021-07-01T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "HARRIS CORPORATION was awarded a $2.1B federal contract from Department of Transportation.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_693KA821F00222_6920_DTFA0102D03006_6920",
-   "tickers": [
-    "HRS"
-   ],
-   "contract_amount": 2.1,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "HRS",
-   "strength": 70,
-   "reason": "Harris Corp awarded $2.1B federal contract from DOT"
-  },
-  {
-   "date": "2020-05-13T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "SPACE EXPLORATION TECHNOLOGIES CORP. was awarded a $3.1B federal contract from National Aeronautics and Space Administration.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_80MSFC20C0034_8000_-NONE-_-NONE-",
-   "tickers": [
-    "RKLB"
-   ],
-   "contract_amount": 3.06,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "RKLB",
-   "strength": 70,
-   "reason": "SpaceX awarded $3.1B federal contract from NASA"
-  },
-  {
-   "date": "2019-10-16T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "THE BOEING COMPANY was awarded a $2.6B federal contract from National Aeronautics and Space Administration.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_80MSFC20C0052_8000_-NONE-_-NONE-",
-   "tickers": [
-    "BA"
-   ],
-   "contract_amount": 2.59,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "BA",
-   "strength": 70,
-   "reason": "Boeing awarded $2.6B federal contract from NASA"
-  },
-  {
-   "date": "2019-06-19T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "GENERAL DYNAMICS INFORMATION TECHNOLOGY, INC. was awarded a $1.6B federal contract from Department of State.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_19AQMM18C0185_1900_-NONE-_-NONE-",
-   "tickers": [
-    "GD"
-   ],
-   "contract_amount": 1.59,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "GD",
-   "strength": 70,
-   "reason": "General Dynamics awarded $1.6B federal contract from State Department"
-  },
-  {
-   "date": "2018-05-17T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "ORACLE HEALTH GOVERNMENT SERVICES, INC. was awarded a $1.5B federal contract from Department of Veterans Affairs.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_36C10B18N0003_3600_36C10B18D5000_3600",
-   "tickers": [
-    "ORCL"
-   ],
-   "contract_amount": 1.51,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "ORCL",
-   "strength": 65,
-   "reason": "Oracle Health Government Services awarded $1.5B federal contract from VA"
-  },
-  {
-   "date": "2015-09-03T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "NORTHROP GRUMMAN SYSTEMS CORPORATION was awarded a $1.6B federal contract from National Aeronautics and Space Administration.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_NNH15CN76C_8000_-NONE-_-NONE-",
-   "tickers": [
-    "NOC"
-   ],
-   "contract_amount": 1.63,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "NOC",
-   "strength": 70,
-   "reason": "Northrop Grumman awarded $1.6B federal contract from NASA"
-  },
-  {
-   "date": "2011-12-23T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "LEIDOS, INC. was awarded a $3.1B federal contract from National Science Foundation.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_NSFDACS1219442_4900_-NONE-_-NONE-",
-   "tickers": [
-    "LDOS"
-   ],
-   "contract_amount": 3.12,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "LDOS",
-   "strength": 70,
-   "reason": "Leidos Inc awarded $3.1B federal contract from NSF"
-  },
-  {
-   "date": "2008-09-26T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "LEIDOS BIOMEDICAL RESEARCH INC was awarded a $4.8B federal contract from Department of Health and Human Services.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_HHSN261200800001E_7529_-NONE-_-NONE-",
-   "tickers": [
-    "LDOS"
-   ],
-   "contract_amount": 4.81,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "LDOS",
-   "strength": 70,
-   "reason": "Leidos Biomedical Research awarded $4.8B federal contract from HHS"
-  },
-  {
-   "date": "2008-07-25T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "HARRIS CORPORATION was awarded a $1.6B federal contract from Department of Transportation.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_DTFA0102D03006CALL0001_6920_DTFA0102D03006_6920",
-   "tickers": [
-    "HRS"
-   ],
-   "contract_amount": 1.57,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "HRS",
-   "strength": 70,
-   "reason": "Harris Corp awarded $1.6B federal contract from DOT"
-  },
-  {
-   "date": "2007-09-01T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "THE BOEING COMPANY was awarded a $10.5B federal contract from National Aeronautics and Space Administration.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_NNM07AB03C_8000_-NONE-_-NONE-",
-   "tickers": [
-    "BA"
-   ],
-   "contract_amount": 10.51,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "BA",
-   "strength": 75,
-   "reason": "Boeing awarded $10.5B federal contract from NASA, significant award"
-  },
-  {
-   "date": "2006-09-06T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "LOCKHEED MARTIN CORP was awarded a $15.6B federal contract from National Aeronautics and Space Administration.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_NNJ06TA25C_8000_-NONE-_-NONE-",
-   "tickers": [
-    "LMT"
-   ],
-   "contract_amount": 15.56,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "LMT",
-   "strength": 80,
-   "reason": "Lockheed Martin awarded $15.6B federal contract from NASA, major defense win"
-  },
-  {
-   "date": "2006-04-17T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "NORTHROP GRUMMAN SYSTEMS CORPORATION was awarded a $4.4B federal contract from National Aeronautics and Space Administration.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_NNM07AA75C_8000_-NONE-_-NONE-",
-   "tickers": [
-    "NOC"
-   ],
-   "contract_amount": 4.43,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "NOC",
-   "strength": 75,
-   "reason": "Northrop Grumman awarded $4.4B federal contract from NASA"
-  },
-  {
-   "date": "1993-11-15T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "THE BOEING COMPANY was awarded a $22.4B federal contract from National Aeronautics and Space Administration.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_NAS1510000_8000_-NONE-_-NONE-",
-   "tickers": [
-    "BA"
-   ],
-   "contract_amount": 22.44,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "BA",
-   "strength": 85,
-   "reason": "Boeing awarded $22.4B federal contract from NASA, substantial award"
-  },
-  {
-   "date": "1993-10-15T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "LOCKHEED MARTIN CORP was awarded a $48.1B federal contract from Department of Energy.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_DEAC0494AL85000_8900_-NONE-_-NONE-",
-   "tickers": [
-    "LMT"
-   ],
-   "contract_amount": 48.06,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "LMT",
-   "strength": 85,
-   "reason": "Lockheed Martin awarded $48.1B federal contract from DOE, massive energy/defense award"
   }
  ],
  "how_to_read": "Each card is Claude's read of a public Trump post: the affected ticker, whether it implies BUY / SELL / WATCH, a 0\u2013100 strength (how explicit/emphatic the post is \u2014 NOT a profit predictor), and why. A 2-year backtest found these don't beat buy-and-hold, so this is for awareness, not trading. Not financial advice."
