@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-07-21T04:32:26Z",
+ "last_updated": "2026-07-21T07:20:25Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-07-21T04:53:26Z",
+   "platform": "News",
+   "text": "DJT Stock Slips Overnight: Truth Social To Sell Wall Street 'Fastest' Access To Trump's Posts - Stocktwits \u2014 DJT Stock Slips Overnight: Truth Social To Sell Wall Street 'Fastest' Access To Trump's Posts\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPMlA4d1JobmFISDVhdUVNOG1KZ3lYTVJCYjc0U09RMGZtdEdnV19hV0tfRmpNeVpzUGNQTlpnajJkQTdPUUN6cGJmVU5rUkdUcE9uTHc1SFJTRXMwOHFodDdaZkltOWlEby1yUWFkS3VSb01rem1tQU0xY3ZBdmRGU3dZTkJ5SlZZZVJXZVkzQjV6N0JjaGIyV1dZRUVQUUFUazlFenhzTFlMT1dkakRBdXBuMVllZEIwdUszRlFkU2VVSHc3azEtcjd5NWkyQWdDMWFfTHhJeFVqMmtaeHdLeXBLeXRNZG1mTEE?oc=5",
+   "tickers": [
+    "DJT"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "DJT",
+   "strength": 25,
+   "reason": "Truth Social premium access plan is business model commentary; ambiguous market impact on DJT stock"
+  },
   {
    "date": "2026-07-20T22:02:48Z",
    "platform": "News",
@@ -17,6 +33,22 @@
    "primary_ticker": "LLY",
    "strength": 25,
    "reason": "Headline reports disagreement on Eli Lilly; ambiguous direction without details on Trump's position."
+  },
+  {
+   "date": "2026-07-20T20:42:21Z",
+   "platform": "News",
+   "text": "Trump Mentions Palantir, but Who Is Alex Karp? - ascendants.in \u2014 Trump Mentions Palantir, but Who Is Alex Karp?\u00a0\u00a0ascendants.in",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBqS1JlZVdDY0hfSTVKWTJKRnBmX1NMSmxmNEFGZzIydHhDVXFSYWxDMWZjLWlJTVBUbXJnZVlPLVhiWVRUT09RYzZibjVFOG9vOTA0cUhFRlFsMndjLTdfWmxqQ3g0SEtRY09mME9LMnlIN28yREJz?oc=5",
+   "tickers": [
+    "PLTR"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "PLTR",
+   "strength": 35,
+   "reason": "Trump mentions Palantir but lacks explicit endorsement or specific market direction; unclear catalyst"
   },
   {
    "date": "2026-07-20T20:07:00Z",
@@ -65,6 +97,22 @@
    "primary_ticker": "SPY",
    "strength": 65,
    "reason": "Trump buying stocks and promoting them to millions raises insider-trading concerns; ambiguous whether net-bullish or bearish for broad market"
+  },
+  {
+   "date": "2026-07-20T14:36:17Z",
+   "platform": "News",
+   "text": "Giant Eagle gets praise from Trump - Axios \u2014 Giant Eagle gets praise from Trump\u00a0\u00a0Axios",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObnVaQ196QnFDMHZkY3dyYlVhS3lIZnh4VGx3N1V1R2p0Rzl4dkNVWnA0UVRHVjR5S25YYnpHZWZkZ0Rsb0JnajU2TWZtRVRtWW04dUxxU29FbE1INzE0dUhoeG9pY1RfeTJLSm5mTDBwQmY4eU5qVi12MDQ5dHhGSF9zaER5VG9pTWgyVjl2QUY0ODg?oc=5",
+   "tickers": [
+    "KR"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "KR",
+   "strength": 40,
+   "reason": "Trump praises Giant Eagle price cuts; modest bullish signal for grocer"
   },
   {
    "date": "2026-07-20T11:25:24Z",
@@ -708,30 +756,6 @@
     "pct": 0.5,
     "base": 9.66,
     "last": 9.71,
-    "base_date": "2026-07-17",
-    "last_date": "2026-07-20"
-   }
-  },
-  {
-   "date": "2026-07-17T18:10:22Z",
-   "platform": "News",
-   "text": "Trump Mentions Palantir, but Who Is Alex Karp? - ascendants.in \u2014 Trump Mentions Palantir, but Who Is Alex Karp?\u00a0\u00a0ascendants.in",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBqS1JlZVdDY0hfSTVKWTJKRnBmX1NMSmxmNEFGZzIydHhDVXFSYWxDMWZjLWlJTVBUbXJnZVlPLVhiWVRUT09RYzZibjVFOG9vOTA0cUhFRlFsMndjLTdfWmxqQ3g0SEtRY09mME9LMnlIN28yREJz?oc=5",
-   "tickers": [
-    "PLTR"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "PLTR",
-   "strength": 65,
-   "reason": "Trump explicitly mentioned Palantir, signaling approval of the company.",
-   "price_since": {
-    "ticker": "PLTR",
-    "pct": 0.2,
-    "base": 132.38,
-    "last": 132.7,
     "base_date": "2026-07-17",
     "last_date": "2026-07-20"
    }
@@ -2459,30 +2483,6 @@
     "pct": -3.4,
     "base": 427.11,
     "last": 412.68,
-    "base_date": "2026-07-13",
-    "last_date": "2026-07-15"
-   }
-  },
-  {
-   "date": "2026-07-12T06:06:23Z",
-   "platform": "News",
-   "text": "Donald Trump Praises SpaceX Executives for Massive Stock Donation - HarianBasis.co \u2014 Donald Trump Praises SpaceX Executives for Massive Stock Donation\u00a0\u00a0HarianBasis.co",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONWRCS0VCWjJNSHZSRUp0cUd0VlBCMFhYZVdhZmZjb01WM3pNM0FYbFRrTW5zX3JHT2Z4bzJNU0tENkNaQy1ya2NvVjhVVGtpdDlyQXBXQ3FKTzBaWEI2cHAwZ2t4TmQ4RGlLZlgwcEhhQzMxX2IzbmRUYWRtQUlYVE9vdTI1N0RNS0dN?oc=5",
-   "tickers": [
-    "SPCE"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "SPCE",
-   "strength": 35,
-   "reason": "Trump praises SpaceX executives for stock donation; SpaceX not publicly traded, SPCE tracks sentiment",
-   "price_since": {
-    "ticker": "SPCE",
-    "pct": 12.0,
-    "base": 2.42,
-    "last": 2.71,
     "base_date": "2026-07-13",
     "last_date": "2026-07-15"
    }
