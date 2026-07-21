@@ -1,42 +1,51 @@
 {
- "last_updated": "2026-07-21T07:20:26Z",
+ "last_updated": "2026-07-21T10:01:57Z",
  "source": "ApeWisdom / r/wallstreetbets",
  "signals": [
   {
    "ticker": "SPY",
    "name": "SPDR S&amp;P 500 ETF Trust",
-   "mentions": 260,
-   "mentions_24h_ago": 58,
-   "change_pct": 348.3,
+   "mentions": 256,
+   "mentions_24h_ago": 67,
+   "change_pct": 282.1,
    "rank": 1,
-   "upvotes": 1069
+   "upvotes": 1071
   },
   {
    "ticker": "MU",
    "name": "Micron Technology",
-   "mentions": 251,
-   "mentions_24h_ago": 63,
-   "change_pct": 298.4,
+   "mentions": 252,
+   "mentions_24h_ago": 67,
+   "change_pct": 276.1,
    "rank": 2,
-   "upvotes": 921
+   "upvotes": 896
   },
   {
    "ticker": "SPCX",
    "name": "SpaceX",
-   "mentions": 199,
-   "mentions_24h_ago": 36,
-   "change_pct": 452.8,
+   "mentions": 202,
+   "mentions_24h_ago": 33,
+   "change_pct": 512.1,
    "rank": 3,
-   "upvotes": 833
+   "upvotes": 839
   },
   {
    "ticker": "MSFT",
    "name": "Microsoft",
    "mentions": 183,
-   "mentions_24h_ago": 27,
-   "change_pct": 577.8,
+   "mentions_24h_ago": 34,
+   "change_pct": 438.2,
    "rank": 4,
-   "upvotes": 703
+   "upvotes": 679
+  },
+  {
+   "ticker": "NBIS",
+   "name": "Nebius Group",
+   "mentions": 77,
+   "mentions_24h_ago": 16,
+   "change_pct": 381.2,
+   "rank": 5,
+   "upvotes": 533
   },
   {
    "ticker": "TSLA",
@@ -44,26 +53,17 @@
    "mentions": 75,
    "mentions_24h_ago": 16,
    "change_pct": 368.8,
-   "rank": 5,
-   "upvotes": 457
-  },
-  {
-   "ticker": "NBIS",
-   "name": "Nebius Group",
-   "mentions": 75,
-   "mentions_24h_ago": 16,
-   "change_pct": 368.8,
    "rank": 6,
-   "upvotes": 491
+   "upvotes": 456
   },
   {
    "ticker": "ORCL",
    "name": "Oracle",
-   "mentions": 72,
-   "mentions_24h_ago": 2,
-   "change_pct": 3500.0,
+   "mentions": 74,
+   "mentions_24h_ago": 3,
+   "change_pct": 2366.7,
    "rank": 7,
-   "upvotes": 256
+   "upvotes": 265
   },
   {
    "ticker": "QQQ",
@@ -77,20 +77,29 @@
   {
    "ticker": "SNDK",
    "name": "Sandisk",
-   "mentions": 63,
-   "mentions_24h_ago": 30,
-   "change_pct": 110.0,
+   "mentions": 71,
+   "mentions_24h_ago": 31,
+   "change_pct": 129.0,
    "rank": 9,
-   "upvotes": 194
+   "upvotes": 224
   },
   {
    "ticker": "NVDA",
    "name": "NVIDIA",
-   "mentions": 60,
-   "mentions_24h_ago": 16,
-   "change_pct": 275.0,
+   "mentions": 64,
+   "mentions_24h_ago": 17,
+   "change_pct": 276.5,
    "rank": 10,
-   "upvotes": 205
+   "upvotes": 217
+  },
+  {
+   "ticker": "AMD",
+   "name": "AMD",
+   "mentions": 48,
+   "mentions_24h_ago": 6,
+   "change_pct": 700.0,
+   "rank": 11,
+   "upvotes": 215
   },
   {
    "ticker": "DTE",
@@ -98,53 +107,44 @@
    "mentions": 46,
    "mentions_24h_ago": 29,
    "change_pct": 58.6,
-   "rank": 11,
-   "upvotes": 576
+   "rank": 12,
+   "upvotes": 628
   },
   {
    "ticker": "GOOG",
    "name": "Alphabet (Google)",
-   "mentions": 43,
-   "mentions_24h_ago": 20,
-   "change_pct": 115.0,
-   "rank": 12,
-   "upvotes": 147
-  },
-  {
-   "ticker": "AMD",
-   "name": "AMD",
-   "mentions": 41,
-   "mentions_24h_ago": 5,
-   "change_pct": 720.0,
+   "mentions": 42,
+   "mentions_24h_ago": 21,
+   "change_pct": 100.0,
    "rank": 13,
-   "upvotes": 198
-  },
-  {
-   "ticker": "RKLB",
-   "name": "Rocket Lab USA",
-   "mentions": 41,
-   "mentions_24h_ago": 9,
-   "change_pct": 355.6,
-   "rank": 14,
-   "upvotes": 118
-  },
-  {
-   "ticker": "GOOGL",
-   "name": "Alphabet (Google)",
-   "mentions": 39,
-   "mentions_24h_ago": 5,
-   "change_pct": 680.0,
-   "rank": 15,
-   "upvotes": 488
+   "upvotes": 142
   },
   {
    "ticker": "IREN",
    "name": "Iris Energy",
-   "mentions": 38,
-   "mentions_24h_ago": 11,
-   "change_pct": 245.5,
-   "rank": 16,
+   "mentions": 39,
+   "mentions_24h_ago": 13,
+   "change_pct": 200.0,
+   "rank": 14,
    "upvotes": 143
+  },
+  {
+   "ticker": "RKLB",
+   "name": "Rocket Lab USA",
+   "mentions": 38,
+   "mentions_24h_ago": 12,
+   "change_pct": 216.7,
+   "rank": 15,
+   "upvotes": 117
+  },
+  {
+   "ticker": "GOOGL",
+   "name": "Alphabet (Google)",
+   "mentions": 38,
+   "mentions_24h_ago": 7,
+   "change_pct": 442.9,
+   "rank": 16,
+   "upvotes": 495
   },
   {
    "ticker": "AMC",
@@ -153,79 +153,79 @@
    "mentions_24h_ago": 1,
    "change_pct": 3500.0,
    "rank": 17,
-   "upvotes": 87
-  },
-  {
-   "ticker": "ASTS",
-   "name": "AST SpaceMobile",
-   "mentions": 31,
-   "mentions_24h_ago": 14,
-   "change_pct": 121.4,
-   "rank": 18,
-   "upvotes": 102
+   "upvotes": 86
   },
   {
    "ticker": "IBM",
    "name": "IBM",
-   "mentions": 30,
-   "mentions_24h_ago": 10,
-   "change_pct": 200.0,
-   "rank": 19,
-   "upvotes": 79
+   "mentions": 32,
+   "mentions_24h_ago": 12,
+   "change_pct": 166.7,
+   "rank": 18,
+   "upvotes": 99
   },
   {
    "ticker": "AAPL",
    "name": "Apple",
-   "mentions": 27,
+   "mentions": 28,
    "mentions_24h_ago": 7,
-   "change_pct": 285.7,
-   "rank": 20,
-   "upvotes": 100
+   "change_pct": 300.0,
+   "rank": 19,
+   "upvotes": 105
   },
   {
-   "ticker": "META",
-   "name": "Meta Platforms (Facebook)",
-   "mentions": 23,
-   "mentions_24h_ago": 6,
-   "change_pct": 283.3,
-   "rank": 21,
-   "upvotes": 419
+   "ticker": "ASTS",
+   "name": "AST SpaceMobile",
+   "mentions": 28,
+   "mentions_24h_ago": 15,
+   "change_pct": 86.7,
+   "rank": 20,
+   "upvotes": 96
   },
   {
    "ticker": "AM",
    "name": "Antero Midstream",
-   "mentions": 20,
+   "mentions": 23,
    "mentions_24h_ago": 13,
-   "change_pct": 53.8,
+   "change_pct": 76.9,
+   "rank": 21,
+   "upvotes": 282
+  },
+  {
+   "ticker": "META",
+   "name": "Meta Platforms (Facebook)",
+   "mentions": 22,
+   "mentions_24h_ago": 6,
+   "change_pct": 266.7,
    "rank": 22,
-   "upvotes": 156
+   "upvotes": 432
+  },
+  {
+   "ticker": "USO",
+   "name": "United States Commodity Funds LLC - United States Oil Fund",
+   "mentions": 20,
+   "mentions_24h_ago": 14,
+   "change_pct": 42.9,
+   "rank": 23,
+   "upvotes": 38
   },
   {
    "ticker": "NFLX",
    "name": "Netflix",
    "mentions": 19,
-   "mentions_24h_ago": 5,
-   "change_pct": 280.0,
-   "rank": 23,
-   "upvotes": 69
-  },
-  {
-   "ticker": "USO",
-   "name": "United States Commodity Funds LLC - United States Oil Fund",
-   "mentions": 19,
-   "mentions_24h_ago": 14,
-   "change_pct": 35.7,
-   "rank": 24,
-   "upvotes": 36
-  },
-  {
-   "ticker": "IQ",
-   "name": "iQIYI",
-   "mentions": 16,
    "mentions_24h_ago": 7,
-   "change_pct": 128.6,
+   "change_pct": 171.4,
+   "rank": 24,
+   "upvotes": 72
+  },
+  {
+   "ticker": "INTC",
+   "name": "Intel",
+   "mentions": 15,
+   "mentions_24h_ago": 5,
+   "change_pct": 200.0,
    "rank": 25,
-   "upvotes": 71
+   "upvotes": 50
   }
  ]
 }

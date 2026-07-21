@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-07-21T07:20:25Z",
+ "last_updated": "2026-07-21T10:01:55Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-07-21T09:31:55Z",
+   "platform": "News",
+   "text": "Trump urged Americans to \u2018buy a Dell\u2019 while holding the stock \u2014 it\u2019s up 255% since. Enrich yourself now even if you don\u2019t sit in the White House - MSN \u2014 Trump urged Americans to \u2018buy a Dell\u2019 while holding the stock \u2014 it\u2019s up 255% since. Enrich yourself now even if you don\u2019t sit in the White House\u00a0\u00a0MSN",
+   "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxOZkxESTVQWGZNbHVVck9WMWxFOXpUQ3VZeElhQVZsTjNfU25MWl9jLXp6eDdEYTJVQ2hVSzduU19ELUpkcTBneFhzT1A3R1V4WU9ZRF9FeUtFTElCcG14SkkwVTFsM05tbVF2X1pGSWVabFB1NFZwT0NISlNZcGVkcVdCOFA1bllpeTRWNXVuTFIwLU5kSS1EZGtlZHI3ZjFXY3NEWExubDJlMU5DdDBxWXF0VUdmVW5GRzdjaWJqX0VodVRjampuWkNublVwWFUtMmxIR094WDh2RHJSSlc4YnFORG1neWFfWWdJaUxZN2JIRGJIQmNHNzVERURYRWJBN0hTaXphN0pwVm9ZS1l4Y3BXUEx1REdwUWtONWhwdGtNY1NpaHhIZ0FuNVdXRkQ1VHVEd2xOMTM?oc=5",
+   "tickers": [
+    "DELL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "DELL",
+   "strength": 95,
+   "reason": "Trump explicitly urged Americans to 'buy a Dell' while holding the stock; direct market call on specific company."
+  },
   {
    "date": "2026-07-21T04:53:26Z",
    "platform": "News",
@@ -113,6 +129,22 @@
    "primary_ticker": "KR",
    "strength": 40,
    "reason": "Trump praises Giant Eagle price cuts; modest bullish signal for grocer"
+  },
+  {
+   "date": "2026-07-20T13:43:35Z",
+   "platform": "News",
+   "text": "Michael Burry Says He\u2019s Still Short Palantir After Stock Sees Recovery Following Trump\u2019s Endorsement - Stocktwits \u2014 Michael Burry Says He\u2019s Still Short Palantir After Stock Sees Recovery Following Trump\u2019s Endorsement\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUmNQdmN5STJOLU11dEhkR1U0ckhuS3JMcm1NUDNMY0dNZ1pQcGhFVmd2bkZqVHV5N3N4N01tY1gzZWZnTDlvbVRzTEtkQnZyUjlibXR1ZUJ5MnVNY0ZlYlVEUWtRMkdnRzBGcmxpdEJaQm55ZWlTWmZZUDBPNnhncTFlLWg3bjllZXNpeGpTVjd3b3dCZ2lWT1dPZE5RSlNKT01IVXlTa1c5YmFodzVEWkJtbHpvUHN1Ry00NWhxcVJpdw?oc=5",
+   "tickers": [
+    "PLTR"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "PLTR",
+   "strength": 55,
+   "reason": "Stock recovered after Trump endorsement but major short-seller still bearish; conflicting signals on Palantir."
   },
   {
    "date": "2026-07-20T11:25:24Z",
@@ -373,22 +405,6 @@
    "primary_ticker": "IBM",
    "strength": 75,
    "reason": "Trump administration awarded IBM $1B federal contract for quantum foundry; direct bullish catalyst"
-  },
-  {
-   "date": "2026-07-18T16:36:25Z",
-   "platform": "News",
-   "text": "Michael Burry Says He\u2019s Still Short Palantir After Stock Sees Recovery Following Trump\u2019s Endorsement - Stocktwits \u2014 Michael Burry Says He\u2019s Still Short Palantir After Stock Sees Recovery Following Trump\u2019s Endorsement\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUmNQdmN5STJOLU11dEhkR1U0ckhuS3JMcm1NUDNMY0dNZ1pQcGhFVmd2bkZqVHV5N3N4N01tY1gzZWZnTDlvbVRzTEtkQnZyUjlibXR1ZUJ5MnVNY0ZlYlVEUWtRMkdnRzBGcmxpdEJaQm55ZWlTWmZZUDBPNnhncTFlLWg3bjllZXNpeGpTVjd3b3dCZ2lWT1dPZE5RSlNKT01IVXlTa1c5YmFodzVEWkJtbHpvUHN1Ry00NWhxcVJpdw?oc=5",
-   "tickers": [
-    "PLTR"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "PLTR",
-   "strength": 35,
-   "reason": "Michael Burry contrarian short against Trump-endorsed stock; signals skepticism despite recovery."
   },
   {
    "date": "2026-07-18T15:51:03Z",
@@ -2435,54 +2451,6 @@
     "pct": -0.4,
     "base": 56.74,
     "last": 56.5,
-    "base_date": "2026-07-13",
-    "last_date": "2026-07-15"
-   }
-  },
-  {
-   "date": "2026-07-13T00:14:15Z",
-   "platform": "News",
-   "text": "PLTR Stock Faces Split Narrative: Retail Bulls Hold Firm As Burry Sounds Alarm, Trump Signals Support - Stocktwits \u2014 PLTR Stock Faces Split Narrative: Retail Bulls Hold Firm As Burry Sounds Alarm, Trump Signals Support\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSFRDSVNMdHk3NEtMbFEwQ1ZRT2tLY3h1cEFvOTVjb182Qm1QUnVqTlE2dWhzYXZpaXBoN3gyNlg4dWVWY0dldndhRDZoOGE2N2ZSMTgxb1Ayb0RWanA3a0hEeEhKWGtYRENBSGZ0d0wySmlrSWpzM1BmcXZpTUdDOXcwMVl0NXVKYjMyOEFvYmVpYk9uOVRSaWdleVNEQnZkZk1tUE5vRURtNjdubE0wTUhLSFFUbGc3OUs5UVpJQXhVTHdZLTdLTmZDQVkxMUVwd3c?oc=5",
-   "tickers": [
-    "PLTR"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "PLTR",
-   "strength": 75,
-   "reason": "Trump signals support for Palantir amid retail bullish stance; explicit positive endorsement.",
-   "price_since": {
-    "ticker": "PLTR",
-    "pct": 2.9,
-    "base": 130.04,
-    "last": 133.76,
-    "base_date": "2026-07-13",
-    "last_date": "2026-07-15"
-   }
-  },
-  {
-   "date": "2026-07-12T10:17:00Z",
-   "platform": "News",
-   "text": "Michael Dell is 'incredible', go out and buy a Dell computer was Trump's message when he rang the opening - The Times of India \u2014 Michael Dell is 'incredible', go out and buy a Dell computer was Trump's message when he rang the opening\u00a0\u00a0The Times of India",
-   "url": "https://news.google.com/rss/articles/CBMikANBVV95cUxPVEFLZnNZdWlTbm0teWl6Ync4SENPVkFIc3ZXSVY1QkNtcF9Rc0JPcjlYR3JtLU03dHBfbWczMHJ4SDVSMHJvcE9yV0d6TjFrRU85Qk55My10aGpkVzktQnNTZUJWbkE4c0RKSGRxNW1iOFdHNFhNblhNSEpqMzFFRVlWSm4tRmM2SkhURE9DRUNhNFIwS0FmLXNsQ3QxQlhNX3haTnlyc2xwSEZZZk1IdjBUTDROT1R4MGFBQ2FlNW53ZHhSRG8yNkNYa19FLXdKeE5lX09lNnlISnZ3RFVuUUs3QWhRQ1BfeHhHMUtSeGNsVVNNdjFGbkEzZm1QbUpJUkRncVk3NkVHcXBaMjI5TW9veEFsazJsM2JXRlRsUEF0c3ZsUEItVVNPaWhMOVNnNkRVNGtkaEFHLWUyRnlSUDhzdHJFNUxFa3NubV9jVDg0ZGdvTmJxTHVoUHBXTUlsS1FjU2dFRERReF8xLXU2RlphRkZkZXB1b0hSam5fb1Rpelc5bWo2WGxvZEhVeDZr0gGWA0FVX3lxTE1kNTVrQjFDNzFvRklzWDQ2WVJuZ0swa19aMGFHNHNMU09DTnhOZldITGstSHRFUC1OcW92bzYzV2ZGSlJlNU9HbWFpUEpHaGZFdHIyOEZMaHM1Zy1XSjVUSlF2MTVZRVpsaGU0OWxnVnpJYzNiOVg1YUZwVkRMaFlCVkd6WlRIcHo1ODdHcVNqWTlNbk1ldkY5bDM1U3B3b19hQUVGdTJYalBZTk92UHBhV1B6UzhNNUFmV1FVZVlqdEc5b3N6TTZ3Y2I5WEhRS2l4TGJXOUx0RTB0RHg1R0UwYy1IdW1HZFN6cjJUN2J3UnJ4TjZYUzdDMEVBdVJJLUtRRkZlRGVlUU5VWTNuSjE0NVNtWEVDVUFSWC14TE9Gakh6UmdhelBkRXB5ZnB6dWdhSklxa1VubjFfRllHd3RXTzRjeElTN0kwbjdDUWVDbk5CVVc0T1k1LV9HRkV2ZzJCWUZDaHVpTkZqbGt4TXZyRHJnbUwxcnRSa283WUxTOXZmSkRlYno0MlRzNlhfVktMckRZanc?oc=5",
-   "tickers": [
-    "DELL"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "DELL",
-   "strength": 85,
-   "reason": "Trump explicitly told Americans to buy Dell computers and praised Michael Dell as 'incredible'",
-   "price_since": {
-    "ticker": "DELL",
-    "pct": -3.4,
-    "base": 427.11,
-    "last": 412.68,
     "base_date": "2026-07-13",
     "last_date": "2026-07-15"
    }
