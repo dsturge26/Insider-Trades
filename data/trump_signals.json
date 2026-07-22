@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-07-22T11:56:27Z",
+ "last_updated": "2026-07-22T14:00:52Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -83,6 +83,22 @@
    "reason": "Trump tariff plan on generic drugs impacts pharma supply chain"
   },
   {
+   "date": "2026-07-22T03:53:01Z",
+   "platform": "News",
+   "text": "Nifty Pharma crashes nearly 2%; Cipla, Dr Reddy's among top Nifty losers after Trump's tariff plan - Moneycontrol.com \u2014 Nifty Pharma crashes nearly 2%; Cipla, Dr Reddy's among top Nifty losers after Trump's tariff plan\u00a0\u00a0Moneycontrol.com",
+   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNVEQ2a0tBWHVpUWJmV1VmWHFSQmMxQ2JPWkVmZTl5V1RuTVhuMXVtZjFKa24tVi1lWjEzVzVoOEdWb0trTEY0cEpPZ3dzTVJPd0dNTU9oQkFoUmtvSGwxWFphWlVUUlhnRkZLVHZTZnBjSTEtVjVscW11RGJIZGJQYlBldVRrZlJORzR0cUxYLUExRS1hdV9KdDNZMVFRWnhOQWZkOTZldE5hcVdST2hCRGxfSzkxZ2RNTGZuTl9BbkplTEpVZk0zVmo3UmRxMnhxbHIwdU9nNjB5OFdRWm44UHFJY194bDdwUzExdG8yaHd4S3o4M0owaUJGSnRGVTDSAYQCQVVfeXFMUDdPUVNvYmxGN3FTZXJyY1lWTjNKSlViWjZtdEZMYktYTWN3QnRZdV9oWGVEdEtSR2hhSWJzWGpNa05WTG94bWR5RV9vb1I4LWJtWGI5dEEweHB6ZkpQQXVtbkRaWndublNCTGlOMURIU2N2YnF1bl94Y0hwTXVWbzBSckc4aHBDd21ubzJNWER5N1JYYkZZb3NkTUFfbFRpSFA2WllmUUVnTmZydk54NkNWcThGVFBWeDhtdlBwTHN6Z2Zwa2FTTzVoYlF5S2VETUVZSmd6SG84MjZpU2d6LXBWLTh5dlFIMFZvOHBQSVg5Y01OTVh1ZzJCTVNlSHV0LWFWV1U?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "SPY",
+   "strength": 70,
+   "reason": "Indian pharma decline signals tariff impact ripples; bearish on drug costs and sector"
+  },
+  {
    "date": "2026-07-22T02:52:35Z",
    "platform": "News",
    "text": "Sun Pharma, Cipla, other pharma stocks in focus as Trump unveils steep tariff plan on generic drugs: Key FAQs answered - Upstox \u2014 Sun Pharma, Cipla, other pharma stocks in focus as Trump unveils steep tariff plan on generic drugs: Key FAQs answered\u00a0\u00a0Upstox",
@@ -145,7 +161,15 @@
    "direction": "BUY",
    "primary_ticker": "XLV",
    "strength": 65,
-   "reason": "Generic drug tariff policy with zero rate for 2 years incentivizes domestic pharma production; bullish for US pharma sector"
+   "reason": "Generic drug tariff policy with zero rate for 2 years incentivizes domestic pharma production; bullish for US pharma sector",
+   "price_since": {
+    "ticker": "XLV",
+    "pct": -0.1,
+    "base": 160.25,
+    "last": 160.04,
+    "base_date": "2026-07-21",
+    "last_date": "2026-07-22"
+   }
   },
   {
    "date": "2026-07-21T22:31:17Z",
@@ -177,7 +201,15 @@
    "direction": "WATCH",
    "primary_ticker": "XAR",
    "strength": 45,
-   "reason": "DJI ban removes Chinese drone competitor; ambiguous whether bullish for US defense contractors or neutral policy"
+   "reason": "DJI ban removes Chinese drone competitor; ambiguous whether bullish for US defense contractors or neutral policy",
+   "price_since": {
+    "ticker": "XAR",
+    "pct": 0.7,
+    "base": 264.91,
+    "last": 266.8,
+    "base_date": "2026-07-21",
+    "last_date": "2026-07-22"
+   }
   },
   {
    "date": "2026-07-21T20:10:25Z",
@@ -193,7 +225,15 @@
    "direction": "WATCH",
    "primary_ticker": "DJT",
    "strength": 40,
-   "reason": "Truth Social business development news; impact on DJT stock direction unclear"
+   "reason": "Truth Social business development news; impact on DJT stock direction unclear",
+   "price_since": {
+    "ticker": "DJT",
+    "pct": -1.0,
+    "base": 9.82,
+    "last": 9.72,
+    "base_date": "2026-07-21",
+    "last_date": "2026-07-22"
+   }
   },
   {
    "date": "2026-07-21T19:10:17Z",
@@ -209,7 +249,15 @@
    "direction": "WATCH",
    "primary_ticker": "SPY",
    "strength": 25,
-   "reason": "Indicates potential conflicts of interest in Trump's stock promotion; raises governance risk across equities."
+   "reason": "Indicates potential conflicts of interest in Trump's stock promotion; raises governance risk across equities.",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": 0.1,
+    "base": 748.28,
+    "last": 748.83,
+    "base_date": "2026-07-21",
+    "last_date": "2026-07-22"
+   }
   },
   {
    "date": "2026-07-21T18:01:23Z",
@@ -225,7 +273,15 @@
    "direction": "BUY",
    "primary_ticker": "SPY",
    "strength": 45,
-   "reason": "Dimon praises Trump's deregulation and 'One Big Beautiful Bill'; bullish tone on pro-growth stimulus and deregulation"
+   "reason": "Dimon praises Trump's deregulation and 'One Big Beautiful Bill'; bullish tone on pro-growth stimulus and deregulation",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": 0.1,
+    "base": 748.28,
+    "last": 748.8,
+    "base_date": "2026-07-21",
+    "last_date": "2026-07-22"
+   }
   },
   {
    "date": "2026-07-21T16:00:00Z",
@@ -241,7 +297,15 @@
    "direction": "WATCH",
    "primary_ticker": "WMT",
    "strength": 35,
-   "reason": "Trump praises Giant Eagle price cuts; spillover effect on broader grocery/retail sector uncertain"
+   "reason": "Trump praises Giant Eagle price cuts; spillover effect on broader grocery/retail sector uncertain",
+   "price_since": {
+    "ticker": "WMT",
+    "pct": -0.9,
+    "base": 110.39,
+    "last": 109.39,
+    "base_date": "2026-07-21",
+    "last_date": "2026-07-22"
+   }
   },
   {
    "date": "2026-07-21T16:00:00Z",
@@ -289,7 +353,15 @@
    "direction": "BUY",
    "primary_ticker": "KR",
    "strength": 55,
-   "reason": "Trump praise for price cuts boosts sentiment toward grocer; Giant Eagle is private but Kroger (KR) similar competitor benefits"
+   "reason": "Trump praise for price cuts boosts sentiment toward grocer; Giant Eagle is private but Kroger (KR) similar competitor benefits",
+   "price_since": {
+    "ticker": "KR",
+    "pct": 0.7,
+    "base": 57.78,
+    "last": 58.18,
+    "base_date": "2026-07-21",
+    "last_date": "2026-07-22"
+   }
   },
   {
    "date": "2026-07-21T12:35:05Z",
@@ -305,7 +377,15 @@
    "direction": "WATCH",
    "primary_ticker": "DJT",
    "strength": 45,
-   "reason": "Truth API tiered access debate touches Trump Media business model, ambiguous impact"
+   "reason": "Truth API tiered access debate touches Trump Media business model, ambiguous impact",
+   "price_since": {
+    "ticker": "DJT",
+    "pct": -0.9,
+    "base": 9.82,
+    "last": 9.73,
+    "base_date": "2026-07-21",
+    "last_date": "2026-07-22"
+   }
   },
   {
    "date": "2026-07-21T09:31:55Z",
@@ -321,7 +401,15 @@
    "direction": "BUY",
    "primary_ticker": "DELL",
    "strength": 95,
-   "reason": "Trump explicitly urged Americans to 'buy a Dell' while holding the stock; direct market call on specific company."
+   "reason": "Trump explicitly urged Americans to 'buy a Dell' while holding the stock; direct market call on specific company.",
+   "price_since": {
+    "ticker": "DELL",
+    "pct": 9.2,
+    "base": 404.15,
+    "last": 441.33,
+    "base_date": "2026-07-21",
+    "last_date": "2026-07-22"
+   }
   },
   {
    "date": "2026-07-21T06:49:16Z",
@@ -337,7 +425,15 @@
    "direction": "WATCH",
    "primary_ticker": "NVDA",
    "strength": 50,
-   "reason": "Trump cites China restrictions on NVDA H200 sales, mixed signal on near-term demand outlook"
+   "reason": "Trump cites China restrictions on NVDA H200 sales, mixed signal on near-term demand outlook",
+   "price_since": {
+    "ticker": "NVDA",
+    "pct": 0.1,
+    "base": 207.29,
+    "last": 207.54,
+    "base_date": "2026-07-21",
+    "last_date": "2026-07-22"
+   }
   },
   {
    "date": "2026-07-20T22:22:04Z",
@@ -356,11 +452,11 @@
    "reason": "Stock rallies around Trump event; correlation observed but direction and catalyst ambiguous.",
    "price_since": {
     "ticker": "IBRX",
-    "pct": 7.7,
+    "pct": 4.9,
     "base": 7.49,
-    "last": 8.07,
+    "last": 7.86,
     "base_date": "2026-07-20",
-    "last_date": "2026-07-21"
+    "last_date": "2026-07-22"
    }
   },
   {
@@ -380,11 +476,11 @@
    "reason": "INTC rallies; headline suggests Trump 'pump' but also other fundamentals; direction mixed.",
    "price_since": {
     "ticker": "INTC",
-    "pct": 8.6,
+    "pct": 9.1,
     "base": 97.06,
-    "last": 105.45,
+    "last": 105.89,
     "base_date": "2026-07-20",
-    "last_date": "2026-07-21"
+    "last_date": "2026-07-22"
    }
   },
   {
@@ -404,11 +500,11 @@
    "reason": "Headline reports disagreement on Eli Lilly; ambiguous direction without details on Trump's position.",
    "price_since": {
     "ticker": "LLY",
-    "pct": 2.5,
+    "pct": 1.1,
     "base": 1146.9,
-    "last": 1175.41,
+    "last": 1159.52,
     "base_date": "2026-07-20",
-    "last_date": "2026-07-21"
+    "last_date": "2026-07-22"
    }
   },
   {
@@ -428,11 +524,11 @@
    "reason": "Trump mentioned Eli Lilly but headline says 'Claude AI disagrees' \u2014 ambiguous signal, no clear direction stated",
    "price_since": {
     "ticker": "LLY",
-    "pct": 2.5,
+    "pct": 1.1,
     "base": 1146.9,
-    "last": 1175.41,
+    "last": 1159.52,
     "base_date": "2026-07-20",
-    "last_date": "2026-07-21"
+    "last_date": "2026-07-22"
    }
   },
   {
@@ -2510,63 +2606,6 @@
     "pct": -1.2,
     "base": 4.09,
     "last": 4.04,
-    "base_date": "2026-07-15",
-    "last_date": "2026-07-16"
-   }
-  },
-  {
-   "date": "2026-07-15T12:21:34Z",
-   "platform": "News",
-   "text": "Trump endorses MyPillow's Mike Lindell in race for Minnesota governor - CBS News \u2014 Trump endorses MyPillow's Mike Lindell in race for Minnesota governor\u00a0\u00a0CBS News",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOb0p4T2k5eGxMX1hoRlhPMEUxdFBOVElKaTVodmZibE5wSG9sLTVCNG4zZTIzckZ1T0lpTTZrUHpJY29vSzlJV1BFUGIwQjh2alVnODdZcy1NdGhiaFN0c2RiVU5LVzdsTFhVeGFFOW5BeVBhd1lIaFZYcGdXTV9ncjA5Y2NaUmE3ZUt5aktTbHVQeDB6VklDYTY0Z1hIUWw2?oc=5",
-   "tickers": [
-    "MYPL"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "MYPL",
-   "strength": 35,
-   "reason": "Trump endorses MyPillow CEO; indirect positive sentiment for private company, minimal direct market impact"
-  },
-  {
-   "date": "2026-07-15T12:17:00Z",
-   "platform": "News",
-   "text": "Trump endorses MyPillow CEO Mike Lindell for Minnesota governor - CBS News \u2014 Trump endorses MyPillow CEO Mike Lindell for Minnesota governor\u00a0\u00a0CBS News",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMGI0amNRbFFwZ2xCeFpMaEgxMm1tZGRkUEM3U1ViWW5FTzdXclB3dXdhdUlTMlpxeVpDS0xUUk41OGE4SlUyYndNN1ZXeFI0RXM5YlFqYmx3WDZKNUp0WlpNaEEtNU9vNnRQZjJMd3AyTlZMbWNFZWdmQUctbGQ4dDY4RldCcXRnNjNUZ2xIUmZnZE1tY2h6S05YeTRtX0gxNXVfOXBhSQ?oc=5",
-   "tickers": [
-    "MYPL"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "MYPL",
-   "strength": 35,
-   "reason": "Trump endorses MyPillow CEO; indirect positive sentiment for private company, minimal direct market impact"
-  },
-  {
-   "date": "2026-07-15T10:16:36.880Z",
-   "platform": "Truth Social",
-   "text": "Great News America! The  Dumocrat caused inflation is way down from what it had been, and we will bring it down still further. MAGA!",
-   "tickers": [
-    "SPY"
-   ],
-   "engagement": 261,
-   "url": "https://truthsocial.com/@realDonaldTrump/116923472077180326",
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "SPY",
-   "strength": 25,
-   "reason": "inflation down implies macro relief; broad market benefit but vague/boilerplate messaging",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": -0.3,
-    "base": 754.81,
-    "last": 752.17,
     "base_date": "2026-07-15",
     "last_date": "2026-07-16"
    }
