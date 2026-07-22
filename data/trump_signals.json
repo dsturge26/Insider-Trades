@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-07-22T18:42:08Z",
+ "last_updated": "2026-07-22T19:59:20Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -196,9 +196,9 @@
    "reason": "Generic drug tariff policy with zero rate for 2 years incentivizes domestic pharma production; bullish for US pharma sector",
    "price_since": {
     "ticker": "XLV",
-    "pct": -0.2,
+    "pct": -0.5,
     "base": 160.25,
-    "last": 159.85,
+    "last": 159.5,
     "base_date": "2026-07-21",
     "last_date": "2026-07-22"
    }
@@ -217,7 +217,15 @@
    "direction": "BUY",
    "primary_ticker": "GEG",
    "strength": 60,
-   "reason": "Trump explicitly praises Giant Eagle's price cuts by name; bullish for the company"
+   "reason": "Trump explicitly praises Giant Eagle's price cuts by name; bullish for the company",
+   "price_since": {
+    "ticker": "GEG",
+    "pct": 0.0,
+    "base": 2.15,
+    "last": 2.15,
+    "base_date": "2026-07-21",
+    "last_date": "2026-07-22"
+   }
   },
   {
    "date": "2026-07-21T20:38:44Z",
@@ -236,9 +244,9 @@
    "reason": "DJI ban removes Chinese drone competitor; ambiguous whether bullish for US defense contractors or neutral policy",
    "price_since": {
     "ticker": "XAR",
-    "pct": 0.0,
+    "pct": -0.2,
     "base": 264.91,
-    "last": 264.95,
+    "last": 264.5,
     "base_date": "2026-07-21",
     "last_date": "2026-07-22"
    }
@@ -260,9 +268,9 @@
    "reason": "Truth Social business development news; impact on DJT stock direction unclear",
    "price_since": {
     "ticker": "DJT",
-    "pct": -5.7,
+    "pct": -6.1,
     "base": 9.82,
-    "last": 9.26,
+    "last": 9.22,
     "base_date": "2026-07-21",
     "last_date": "2026-07-22"
    }
@@ -284,9 +292,9 @@
    "reason": "Indicates potential conflicts of interest in Trump's stock promotion; raises governance risk across equities.",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.0,
+    "pct": -0.0,
     "base": 748.28,
-    "last": 748.38,
+    "last": 748.05,
     "base_date": "2026-07-21",
     "last_date": "2026-07-22"
    }
@@ -308,9 +316,9 @@
    "reason": "Dimon praises Trump's deregulation and 'One Big Beautiful Bill'; bullish tone on pro-growth stimulus and deregulation",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.0,
+    "pct": -0.0,
     "base": 748.28,
-    "last": 748.38,
+    "last": 748.06,
     "base_date": "2026-07-21",
     "last_date": "2026-07-22"
    }
@@ -332,9 +340,9 @@
    "reason": "Trump praises Giant Eagle price cuts; spillover effect on broader grocery/retail sector uncertain",
    "price_since": {
     "ticker": "WMT",
-    "pct": -1.0,
+    "pct": -0.9,
     "base": 110.39,
-    "last": 109.28,
+    "last": 109.35,
     "base_date": "2026-07-21",
     "last_date": "2026-07-22"
    }
@@ -353,7 +361,15 @@
    "direction": "BUY",
    "primary_ticker": "GEG",
    "strength": 60,
-   "reason": "Trump explicitly praises Giant Eagle and urges competitors to match; bullish signal"
+   "reason": "Trump explicitly praises Giant Eagle and urges competitors to match; bullish signal",
+   "price_since": {
+    "ticker": "GEG",
+    "pct": 0.0,
+    "base": 2.15,
+    "last": 2.15,
+    "base_date": "2026-07-21",
+    "last_date": "2026-07-22"
+   }
   },
   {
    "date": "2026-07-21T15:53:00Z",
@@ -369,7 +385,15 @@
    "direction": "BUY",
    "primary_ticker": "GEG",
    "strength": 60,
-   "reason": "Trump publicly praises Giant Eagle by name; direct positive endorsement"
+   "reason": "Trump publicly praises Giant Eagle by name; direct positive endorsement",
+   "price_since": {
+    "ticker": "GEG",
+    "pct": 0.0,
+    "base": 2.15,
+    "last": 2.15,
+    "base_date": "2026-07-21",
+    "last_date": "2026-07-22"
+   }
   },
   {
    "date": "2026-07-21T14:16:00Z",
@@ -388,9 +412,9 @@
    "reason": "Trump praise for price cuts boosts sentiment toward grocer; Giant Eagle is private but Kroger (KR) similar competitor benefits",
    "price_since": {
     "ticker": "KR",
-    "pct": -0.0,
+    "pct": -0.4,
     "base": 57.78,
-    "last": 57.76,
+    "last": 57.53,
     "base_date": "2026-07-21",
     "last_date": "2026-07-22"
    }
@@ -412,9 +436,9 @@
    "reason": "Truth API tiered access debate touches Trump Media business model, ambiguous impact",
    "price_since": {
     "ticker": "DJT",
-    "pct": -5.7,
+    "pct": -6.1,
     "base": 9.82,
-    "last": 9.26,
+    "last": 9.22,
     "base_date": "2026-07-21",
     "last_date": "2026-07-22"
    }
@@ -436,9 +460,9 @@
    "reason": "Trump explicitly urged Americans to 'buy a Dell' while holding the stock; direct market call on specific company.",
    "price_since": {
     "ticker": "DELL",
-    "pct": 8.9,
+    "pct": 9.7,
     "base": 404.15,
-    "last": 440.22,
+    "last": 443.36,
     "base_date": "2026-07-21",
     "last_date": "2026-07-22"
    }
@@ -460,9 +484,9 @@
    "reason": "Trump cites China restrictions on NVDA H200 sales, mixed signal on near-term demand outlook",
    "price_since": {
     "ticker": "NVDA",
-    "pct": 3.0,
+    "pct": 2.4,
     "base": 207.29,
-    "last": 213.6,
+    "last": 212.27,
     "base_date": "2026-07-21",
     "last_date": "2026-07-22"
    }
@@ -484,9 +508,9 @@
    "reason": "Stock rallies around Trump event; correlation observed but direction and catalyst ambiguous.",
    "price_since": {
     "ticker": "IBRX",
-    "pct": 1.1,
+    "pct": 0.4,
     "base": 7.49,
-    "last": 7.57,
+    "last": 7.52,
     "base_date": "2026-07-20",
     "last_date": "2026-07-22"
    }
@@ -508,9 +532,9 @@
    "reason": "INTC rallies; headline suggests Trump 'pump' but also other fundamentals; direction mixed.",
    "price_since": {
     "ticker": "INTC",
-    "pct": 6.9,
+    "pct": 5.9,
     "base": 97.06,
-    "last": 103.79,
+    "last": 102.82,
     "base_date": "2026-07-20",
     "last_date": "2026-07-22"
    }
