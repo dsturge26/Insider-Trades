@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-07-22T19:59:20Z",
+ "last_updated": "2026-07-22T21:22:41Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -198,7 +198,7 @@
     "ticker": "XLV",
     "pct": -0.5,
     "base": 160.25,
-    "last": 159.5,
+    "last": 159.43,
     "base_date": "2026-07-21",
     "last_date": "2026-07-22"
    }
@@ -220,9 +220,9 @@
    "reason": "Trump explicitly praises Giant Eagle's price cuts by name; bullish for the company",
    "price_since": {
     "ticker": "GEG",
-    "pct": 0.0,
+    "pct": 0.9,
     "base": 2.15,
-    "last": 2.15,
+    "last": 2.17,
     "base_date": "2026-07-21",
     "last_date": "2026-07-22"
    }
@@ -246,7 +246,7 @@
     "ticker": "XAR",
     "pct": -0.2,
     "base": 264.91,
-    "last": 264.5,
+    "last": 264.3,
     "base_date": "2026-07-21",
     "last_date": "2026-07-22"
    }
@@ -268,9 +268,9 @@
    "reason": "Truth Social business development news; impact on DJT stock direction unclear",
    "price_since": {
     "ticker": "DJT",
-    "pct": -6.1,
+    "pct": -6.0,
     "base": 9.82,
-    "last": 9.22,
+    "last": 9.23,
     "base_date": "2026-07-21",
     "last_date": "2026-07-22"
    }
@@ -292,9 +292,33 @@
    "reason": "Indicates potential conflicts of interest in Trump's stock promotion; raises governance risk across equities.",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.0,
+    "pct": -0.1,
     "base": 748.28,
-    "last": 748.05,
+    "last": 747.41,
+    "base_date": "2026-07-21",
+    "last_date": "2026-07-22"
+   }
+  },
+  {
+   "date": "2026-07-21T19:10:17Z",
+   "platform": "News",
+   "text": "Trump bought the stocks. Then promoted them. \u00abThere\u2019s nothing illegal.\u00bb - msn.com \u2014 Trump bought the stocks. Then promoted them. \u00abThere\u2019s nothing illegal.\u00bb\u00a0\u00a0msn.com",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxONWhSd1pfUnN0X1ZoQWdlQ3NiRnBsMTg4MTd6Tzlfdk12X3RPT2lLeWNzN284d2NyOXhzMkNtMU44U18zTDJ3RmZXd2owc0ZYWjZvb0pWOFhxbm5QWjhkTnplLTJ6WENXSHV5WURuTlI3dkZqSEtWVnR1UW9rTXdkOWdRVFV2Z0NDNnBfOWRVaVNsb0RqX0dNQzlJLTZRM25BZkRFS3E0MmV2SnhKVjVVSlVCeThvanFlc1Y3VHNxSnZxY0dfYkJnRnZwZTM3T0xtTWZhT2w0ZHFMQQ?oc=5",
+   "tickers": [
+    "DJT"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "DJT",
+   "strength": 40,
+   "reason": "Trump stock promotion while holding creates conflict; potential regulatory/reputational risk",
+   "price_since": {
+    "ticker": "DJT",
+    "pct": -6.0,
+    "base": 9.82,
+    "last": 9.23,
     "base_date": "2026-07-21",
     "last_date": "2026-07-22"
    }
@@ -316,9 +340,9 @@
    "reason": "Dimon praises Trump's deregulation and 'One Big Beautiful Bill'; bullish tone on pro-growth stimulus and deregulation",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.0,
+    "pct": -0.1,
     "base": 748.28,
-    "last": 748.06,
+    "last": 747.41,
     "base_date": "2026-07-21",
     "last_date": "2026-07-22"
    }
@@ -340,9 +364,9 @@
    "reason": "Trump praises Giant Eagle price cuts; spillover effect on broader grocery/retail sector uncertain",
    "price_since": {
     "ticker": "WMT",
-    "pct": -0.9,
+    "pct": -1.0,
     "base": 110.39,
-    "last": 109.35,
+    "last": 109.33,
     "base_date": "2026-07-21",
     "last_date": "2026-07-22"
    }
@@ -364,9 +388,9 @@
    "reason": "Trump explicitly praises Giant Eagle and urges competitors to match; bullish signal",
    "price_since": {
     "ticker": "GEG",
-    "pct": 0.0,
+    "pct": 0.9,
     "base": 2.15,
-    "last": 2.15,
+    "last": 2.17,
     "base_date": "2026-07-21",
     "last_date": "2026-07-22"
    }
@@ -388,9 +412,9 @@
    "reason": "Trump publicly praises Giant Eagle by name; direct positive endorsement",
    "price_since": {
     "ticker": "GEG",
-    "pct": 0.0,
+    "pct": 0.9,
     "base": 2.15,
-    "last": 2.15,
+    "last": 2.17,
     "base_date": "2026-07-21",
     "last_date": "2026-07-22"
    }
@@ -414,7 +438,7 @@
     "ticker": "KR",
     "pct": -0.4,
     "base": 57.78,
-    "last": 57.53,
+    "last": 57.54,
     "base_date": "2026-07-21",
     "last_date": "2026-07-22"
    }
@@ -436,9 +460,9 @@
    "reason": "Truth API tiered access debate touches Trump Media business model, ambiguous impact",
    "price_since": {
     "ticker": "DJT",
-    "pct": -6.1,
+    "pct": -6.0,
     "base": 9.82,
-    "last": 9.22,
+    "last": 9.23,
     "base_date": "2026-07-21",
     "last_date": "2026-07-22"
    }
@@ -460,9 +484,33 @@
    "reason": "Trump explicitly urged Americans to 'buy a Dell' while holding the stock; direct market call on specific company.",
    "price_since": {
     "ticker": "DELL",
-    "pct": 9.7,
+    "pct": 9.3,
     "base": 404.15,
-    "last": 443.36,
+    "last": 441.8,
+    "base_date": "2026-07-21",
+    "last_date": "2026-07-22"
+   }
+  },
+  {
+   "date": "2026-07-21T09:31:55Z",
+   "platform": "News",
+   "text": "Trump urged Americans to \u2018buy a Dell\u2019 while holding the stock \u2014 it\u2019s up 255% since. Enrich yourself now even if you don\u2019t sit in the White House - msn.com \u2014 Trump urged Americans to \u2018buy a Dell\u2019 while holding the stock \u2014 it\u2019s up 255% since. Enrich yourself now even if you don\u2019t sit in the White House\u00a0\u00a0msn.com",
+   "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxPV3VKb1VuMjdDREVhd1I1bHo5ZzA5YmoxUm1BUUZzdDBvUExYVlB4MlBaN3ZEaG9xZkQzNUtaSUVaUFdZVWRaT2pJTVpCTExiQ05BbHFmMkdXQU8wQWlibXViQVZsR2d1Mnp4UXJJbXdnd0lYSWJMOFNEWWpmWEVYdEJ6ejdYYjRqMWZ3Z0pUSS1sWEgzdnN4MDhEUVJsZHVkTDFBa0poZndFdHN1N1NjaW85OVFfLXpvR3lnYkxrdXJKaV9Md3F2RTVYSnd1TjlLTnhyWnNfUTNheUNJODRvUmVQVkpBLUlESkI2X3hjZWI3T25XdFozcF9IRVFKbndNVFBnX0gzNDFUV3UtVDMzVEE0SVlRUmRTaGlWUFk4cHIwSHhfZ0VBRnFYeGRZYm5zR09xMTdaVHpCb29zZ2RzeA?oc=5",
+   "tickers": [
+    "DELL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "DELL",
+   "strength": 95,
+   "reason": "Trump explicitly told Americans to buy Dell stock while holding it; direct market call",
+   "price_since": {
+    "ticker": "DELL",
+    "pct": 9.3,
+    "base": 404.15,
+    "last": 441.8,
     "base_date": "2026-07-21",
     "last_date": "2026-07-22"
    }
@@ -484,9 +532,9 @@
    "reason": "Trump cites China restrictions on NVDA H200 sales, mixed signal on near-term demand outlook",
    "price_since": {
     "ticker": "NVDA",
-    "pct": 2.4,
+    "pct": 2.3,
     "base": 207.29,
-    "last": 212.27,
+    "last": 212.06,
     "base_date": "2026-07-21",
     "last_date": "2026-07-22"
    }
@@ -508,9 +556,9 @@
    "reason": "Stock rallies around Trump event; correlation observed but direction and catalyst ambiguous.",
    "price_since": {
     "ticker": "IBRX",
-    "pct": 0.4,
+    "pct": 0.3,
     "base": 7.49,
-    "last": 7.52,
+    "last": 7.51,
     "base_date": "2026-07-20",
     "last_date": "2026-07-22"
    }
@@ -532,9 +580,9 @@
    "reason": "INTC rallies; headline suggests Trump 'pump' but also other fundamentals; direction mixed.",
    "price_since": {
     "ticker": "INTC",
-    "pct": 5.9,
+    "pct": 5.7,
     "base": 97.06,
-    "last": 102.82,
+    "last": 102.62,
     "base_date": "2026-07-20",
     "last_date": "2026-07-22"
    }
@@ -556,9 +604,9 @@
    "reason": "Headline reports disagreement on Eli Lilly; ambiguous direction without details on Trump's position.",
    "price_since": {
     "ticker": "LLY",
-    "pct": 1.3,
+    "pct": 1.4,
     "base": 1146.9,
-    "last": 1162.1,
+    "last": 1163.01,
     "base_date": "2026-07-20",
     "last_date": "2026-07-22"
    }
@@ -580,9 +628,9 @@
    "reason": "Trump mentioned Eli Lilly but headline says 'Claude AI disagrees' \u2014 ambiguous signal, no clear direction stated",
    "price_since": {
     "ticker": "LLY",
-    "pct": 1.3,
+    "pct": 1.4,
     "base": 1146.9,
-    "last": 1162.1,
+    "last": 1163.01,
     "base_date": "2026-07-20",
     "last_date": "2026-07-22"
    }
@@ -636,6 +684,22 @@
    }
   },
   {
+   "date": "2026-07-20T20:00:53Z",
+   "platform": "News",
+   "text": "Mark Zuckerberg Overtakes Michael Dell As 5th Richest Amid Dell Selloff - Yahoo Finance \u2014 Mark Zuckerberg Overtakes Michael Dell As 5th Richest Amid Dell Selloff\u00a0\u00a0Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZlZMa0Z2S0I3MkpIdmVNcUxSZF9TWndtR2N0OHhiOGZ0NXoydHVDa3YxM2hTNUFXUnhSaGtuMUc5amZHOU5mdllCM3BDam1Yb1J3aTV2SDlxSDR6TWJDUFdtSU1pTTlXYURVVTlzUHRsQmhBekoyWFpXUElucGpuZEFYUGFJY1JTWjMwN05rV2V5MTAzV1hVUWVFcVZyLV9BUDRoZm1n?oc=5",
+   "tickers": [
+    "DELL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "DELL",
+   "strength": 40,
+   "reason": "Dell stock selloff reported; indirect negative signal on DELL valuation"
+  },
+  {
    "date": "2026-07-20T19:57:18Z",
    "platform": "News",
    "text": "Bernie Sanders wants to send every American a $1,000 check every year \u2014 funded by a 50% tax on AI companies. Trump may be on board - MSN \u2014 Bernie Sanders wants to send every American a $1,000 check every year \u2014 funded by a 50% tax on AI companies. Trump may be on board\u00a0\u00a0MSN",
@@ -658,6 +722,22 @@
     "base_date": "2026-07-20",
     "last_date": "2026-07-21"
    }
+  },
+  {
+   "date": "2026-07-20T19:57:18Z",
+   "platform": "News",
+   "text": "Bernie Sanders wants to send every American a $1,000 check every year \u2014 funded by a 50% tax on AI companies. Trump may be on board - msn.com \u2014 Bernie Sanders wants to send every American a $1,000 check every year \u2014 funded by a 50% tax on AI companies. Trump may be on board\u00a0\u00a0msn.com",
+   "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPQ2w4VUJjUVFiQ1BmV1BSSUIyYXFtVXZXcS1qRkw2UjFNYnJWaDFoSFA4ZDI5U002dUk3T1ZJaU82RW1XOEU3TTVpcHdQZG5MQkF2RGVGSTJ6LVg1ZjJNN1J6bW85Z3NXZkhJbzN1ZXhBLThSVnBVYThXa2w4U0xXdG9vYndFb18zdk9ma0tjWDZLNHJ3bXNESTlFbG5BTEhzSnVLRTFrNWQ4S2gzbUYxdFVLR3lZUEJuVEJLZ18tdHUwclJHckJacHlxdTI3di05WXFJUjhFNV9hMGQwUFVkUmhfVjJsTXJJLWVWN2MxMkJJaFN0bk1jRENGNUxaWmpDSGRNbFE5OU0?oc=5",
+   "tickers": [
+    "QQQ"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "QQQ",
+   "strength": 45,
+   "reason": "Potential 50% tax on AI companies if Trump supports Sanders plan; bearish for tech/AI sector"
   },
   {
    "date": "2026-07-20T17:25:03Z",
