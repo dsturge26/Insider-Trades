@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-07-22T15:51:46Z",
+ "last_updated": "2026-07-22T17:19:30Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -67,6 +67,22 @@
    "reason": "200% tariff on generic drug imports directly hits pharma suppliers; announced policy catalyst"
   },
   {
+   "date": "2026-07-22T04:41:29Z",
+   "platform": "News",
+   "text": "Trump targets generic drug imports with up to 200% phased tariffs (VTRS:NASDAQ) - Seeking Alpha \u2014 Trump targets generic drug imports with up to 200% phased tariffs (VTRS:NASDAQ)\u00a0\u00a0Seeking Alpha",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNzJHZTlhUnlWMjJZRVFWQWJGTk9oQzhLR2dyeGJnZDVzQTdJX21NVnhrcEo3eVJfRG5VUkxOX2hpc0NTemFJNXcwWWRxTUZ6U2hFblA4VGFzejAtTFVKc1lEQ0xSbF8zbUtaVUhvQ0JzWmdBX0swaENMRzlwUkVNYjVmMVpJRkdXR3FyR3V4XzdTQzVoUXRxLU1sUS1abXU4dmVZWk9BdDVJVFNoUm5ySjVDYllWd1lIbHVFR0NB?oc=5",
+   "tickers": [
+    "IHG"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "IHG",
+   "strength": 65,
+   "reason": "Steep tariff plan on generic drugs pressures pharma sector and domestic drug pricing."
+  },
+  {
    "date": "2026-07-22T04:34:14Z",
    "platform": "News",
    "text": "Trump's 200% tariff plan on generic drugs: What it means for India - Business Standard \u2014 Trump's 200% tariff plan on generic drugs: What it means for India\u00a0\u00a0Business Standard",
@@ -81,6 +97,22 @@
    "primary_ticker": "IHI",
    "strength": 65,
    "reason": "Trump tariff plan on generic drugs impacts pharma supply chain"
+  },
+  {
+   "date": "2026-07-22T04:16:03Z",
+   "platform": "News",
+   "text": "Citi Stock Hits 52-Week High Before Fading As Trump Lauds Bank's 'Big Comeback' In M&A \u2014 But Full Picture Has Changed Now - Stocktwits \u2014 Citi Stock Hits 52-Week High Before Fading As Trump Lauds Bank's 'Big Comeback' In M&A \u2014 But Full Picture Has Changed Now\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWUpacUZnX014SV9nTnRZbVQ0dWhFQlZiV3ZjLV9nWExYUjVMdmlZdkdoNnFLcUhZUEhuZ1k3a2JENWJrYkhqdjJqNFlLaVlVYzBRb3dJOFA2Q1dESmhCTVJnQXJJaU15VjVFUFo2cWJDOEx3QTIzN0NSQjExRWhRZlNLaDFXeEZMQ0poajdjbGhmNlhPd1ZQSnVOSmNVa0pVTF94Z1RVdXlSU2JrR0N3X2dHSENINjZHNWdTYzB1dEZPaERK?oc=5",
+   "tickers": [
+    "C"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "C",
+   "strength": 50,
+   "reason": "Trump explicitly lauds Citi's M&A comeback; direct company praise is bullish."
   },
   {
    "date": "2026-07-22T03:53:01Z",
@@ -164,9 +196,9 @@
    "reason": "Generic drug tariff policy with zero rate for 2 years incentivizes domestic pharma production; bullish for US pharma sector",
    "price_since": {
     "ticker": "XLV",
-    "pct": 0.0,
+    "pct": -0.3,
     "base": 160.25,
-    "last": 160.29,
+    "last": 159.74,
     "base_date": "2026-07-21",
     "last_date": "2026-07-22"
    }
@@ -204,9 +236,9 @@
    "reason": "DJI ban removes Chinese drone competitor; ambiguous whether bullish for US defense contractors or neutral policy",
    "price_since": {
     "ticker": "XAR",
-    "pct": 0.5,
+    "pct": 0.4,
     "base": 264.91,
-    "last": 266.16,
+    "last": 265.9,
     "base_date": "2026-07-21",
     "last_date": "2026-07-22"
    }
@@ -228,9 +260,9 @@
    "reason": "Truth Social business development news; impact on DJT stock direction unclear",
    "price_since": {
     "ticker": "DJT",
-    "pct": -0.9,
+    "pct": -3.9,
     "base": 9.82,
-    "last": 9.73,
+    "last": 9.44,
     "base_date": "2026-07-21",
     "last_date": "2026-07-22"
    }
@@ -252,9 +284,9 @@
    "reason": "Indicates potential conflicts of interest in Trump's stock promotion; raises governance risk across equities.",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.2,
+    "pct": 0.1,
     "base": 748.28,
-    "last": 749.5,
+    "last": 749.31,
     "base_date": "2026-07-21",
     "last_date": "2026-07-22"
    }
@@ -276,9 +308,9 @@
    "reason": "Dimon praises Trump's deregulation and 'One Big Beautiful Bill'; bullish tone on pro-growth stimulus and deregulation",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.2,
+    "pct": 0.1,
     "base": 748.28,
-    "last": 749.48,
+    "last": 749.31,
     "base_date": "2026-07-21",
     "last_date": "2026-07-22"
    }
@@ -300,9 +332,9 @@
    "reason": "Trump praises Giant Eagle price cuts; spillover effect on broader grocery/retail sector uncertain",
    "price_since": {
     "ticker": "WMT",
-    "pct": -1.1,
+    "pct": -1.3,
     "base": 110.39,
-    "last": 109.14,
+    "last": 108.93,
     "base_date": "2026-07-21",
     "last_date": "2026-07-22"
    }
@@ -356,9 +388,9 @@
    "reason": "Trump praise for price cuts boosts sentiment toward grocer; Giant Eagle is private but Kroger (KR) similar competitor benefits",
    "price_since": {
     "ticker": "KR",
-    "pct": 0.9,
+    "pct": 0.4,
     "base": 57.78,
-    "last": 58.3,
+    "last": 58.04,
     "base_date": "2026-07-21",
     "last_date": "2026-07-22"
    }
@@ -380,9 +412,9 @@
    "reason": "Truth API tiered access debate touches Trump Media business model, ambiguous impact",
    "price_since": {
     "ticker": "DJT",
-    "pct": -0.9,
+    "pct": -4.0,
     "base": 9.82,
-    "last": 9.73,
+    "last": 9.43,
     "base_date": "2026-07-21",
     "last_date": "2026-07-22"
    }
@@ -404,9 +436,9 @@
    "reason": "Trump explicitly urged Americans to 'buy a Dell' while holding the stock; direct market call on specific company.",
    "price_since": {
     "ticker": "DELL",
-    "pct": 9.5,
+    "pct": 9.6,
     "base": 404.15,
-    "last": 442.63,
+    "last": 442.87,
     "base_date": "2026-07-21",
     "last_date": "2026-07-22"
    }
@@ -428,9 +460,9 @@
    "reason": "Trump cites China restrictions on NVDA H200 sales, mixed signal on near-term demand outlook",
    "price_since": {
     "ticker": "NVDA",
-    "pct": 2.5,
+    "pct": 2.9,
     "base": 207.29,
-    "last": 212.55,
+    "last": 213.34,
     "base_date": "2026-07-21",
     "last_date": "2026-07-22"
    }
@@ -452,9 +484,9 @@
    "reason": "Stock rallies around Trump event; correlation observed but direction and catalyst ambiguous.",
    "price_since": {
     "ticker": "IBRX",
-    "pct": 3.1,
+    "pct": 2.1,
     "base": 7.49,
-    "last": 7.72,
+    "last": 7.65,
     "base_date": "2026-07-20",
     "last_date": "2026-07-22"
    }
@@ -476,9 +508,9 @@
    "reason": "INTC rallies; headline suggests Trump 'pump' but also other fundamentals; direction mixed.",
    "price_since": {
     "ticker": "INTC",
-    "pct": 8.9,
+    "pct": 8.0,
     "base": 97.06,
-    "last": 105.72,
+    "last": 104.85,
     "base_date": "2026-07-20",
     "last_date": "2026-07-22"
    }
@@ -500,9 +532,9 @@
    "reason": "Headline reports disagreement on Eli Lilly; ambiguous direction without details on Trump's position.",
    "price_since": {
     "ticker": "LLY",
-    "pct": 1.8,
+    "pct": 1.5,
     "base": 1146.9,
-    "last": 1167.29,
+    "last": 1164.09,
     "base_date": "2026-07-20",
     "last_date": "2026-07-22"
    }
@@ -524,9 +556,9 @@
    "reason": "Trump mentioned Eli Lilly but headline says 'Claude AI disagrees' \u2014 ambiguous signal, no clear direction stated",
    "price_since": {
     "ticker": "LLY",
-    "pct": 1.8,
+    "pct": 1.5,
     "base": 1146.9,
-    "last": 1167.29,
+    "last": 1164.09,
     "base_date": "2026-07-20",
     "last_date": "2026-07-22"
    }
@@ -575,30 +607,6 @@
     "pct": 1.6,
     "base": 17.01,
     "last": 17.29,
-    "base_date": "2026-07-20",
-    "last_date": "2026-07-22"
-   }
-  },
-  {
-   "date": "2026-07-20T20:26:40Z",
-   "platform": "News",
-   "text": "Citi Stock Hits 52-Week High Before Fading As Trump Lauds Bank's 'Big Comeback' In M&A \u2014 But Full Picture Has Changed Now - Stocktwits \u2014 Citi Stock Hits 52-Week High Before Fading As Trump Lauds Bank's 'Big Comeback' In M&A \u2014 But Full Picture Has Changed Now\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWUpacUZnX014SV9nTnRZbVQ0dWhFQlZiV3ZjLV9nWExYUjVMdmlZdkdoNnFLcUhZUEhuZ1k3a2JENWJrYkhqdjJqNFlLaVlVYzBRb3dJOFA2Q1dESmhCTVJnQXJJaU15VjVFUFo2cWJDOEx3QTIzN0NSQjExRWhRZlNLaDFXeEZMQ0poajdjbGhmNlhPd1ZQSnVOSmNVa0pVTF94Z1RVdXlSU2JrR0N3X2dHSENINjZHNWdTYzB1dEZPaERK?oc=5",
-   "tickers": [
-    "C"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "C",
-   "strength": 50,
-   "reason": "Trump publicly lauded Citi's M&A comeback; explicit praise of named public company",
-   "price_since": {
-    "ticker": "C",
-    "pct": 3.8,
-    "base": 128.72,
-    "last": 133.62,
     "base_date": "2026-07-20",
     "last_date": "2026-07-22"
    }
