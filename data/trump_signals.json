@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-07-21T23:41:46Z",
+ "last_updated": "2026-07-22T01:08:55Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -34,6 +34,22 @@
    "primary_ticker": "XAR",
    "strength": 45,
    "reason": "DJI ban removes Chinese drone competitor; ambiguous whether bullish for US defense contractors or neutral policy"
+  },
+  {
+   "date": "2026-07-21T19:10:17Z",
+   "platform": "News",
+   "text": "Trump bought the stocks. Then promoted them. \u00abThere\u2019s nothing illegal.\u00bb - MSN \u2014 Trump bought the stocks. Then promoted them. \u00abThere\u2019s nothing illegal.\u00bb\u00a0\u00a0MSN",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxONWhSd1pfUnN0X1ZoQWdlQ3NiRnBsMTg4MTd6Tzlfdk12X3RPT2lLeWNzN284d2NyOXhzMkNtMU44U18zTDJ3RmZXd2owc0ZYWjZvb0pWOFhxbm5QWjhkTnplLTJ6WENXSHV5WURuTlI3dkZqSEtWVnR1UW9rTXdkOWdRVFV2Z0NDNnBfOWRVaVNsb0RqX0dNQzlJLTZRM25BZkRFS3E0MmV2SnhKVjVVSlVCeThvanFlc1Y3VHNxSnZxY0dfYkJnRnZwZTM3T0xtTWZhT2w0ZHFMQQ?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "SPY",
+   "strength": 25,
+   "reason": "Indicates potential conflicts of interest in Trump's stock promotion; raises governance risk across equities."
   },
   {
    "date": "2026-07-21T16:00:00Z",
@@ -1549,30 +1565,6 @@
     "pct": -1.0,
     "base": 750.72,
     "last": 743.29,
-    "base_date": "2026-07-16",
-    "last_date": "2026-07-17"
-   }
-  },
-  {
-   "date": "2026-07-16T21:04:55Z",
-   "platform": "News",
-   "text": "Trump bought the stocks. Then promoted them. \"There's nothing illegal.\" - MSN \u2014 Trump bought the stocks. Then promoted them. \"There's nothing illegal.\"\u00a0\u00a0MSN",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOa2ZxWGFETmxkOGJkRGk5TWRId01TWlNuU0hmTHpSN3pzM1A1VEo1VWd3T1dhOG1wVWpVdDM4Ry01U0p6NEM3V3pNQzhUVGRXUl9ZZGpCMFpDMzFVZUVETnRZRHZ5VHVoME5nU3RXblpob1g4SWxTRkNfOTV4cndTcWl1RGVkR3N0alY0ZVdlVFdpTmNaMVhwZGctYWRzNGNKSWQ2cUtyMldhcXVtYlU2UDc3ODJMTWxaYlE?oc=5",
-   "tickers": [
-    "DJT"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "DJT",
-   "strength": 68,
-   "reason": "Trump bought stocks then promoted them publicly; his endorsements following stock purchases drive price action in those securities.",
-   "price_since": {
-    "ticker": "DJT",
-    "pct": 0.3,
-    "base": 9.63,
-    "last": 9.66,
     "base_date": "2026-07-16",
     "last_date": "2026-07-17"
    }
