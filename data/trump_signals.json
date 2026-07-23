@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-07-23T17:40:56Z",
+ "last_updated": "2026-07-23T18:49:41Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-07-23T15:12:12Z",
+   "platform": "News",
+   "text": "Trump hyped up Michael Dell again after his mega Trump Accounts donation - Business Insider \u2014 Trump hyped up Michael Dell again after his mega Trump Accounts donation\u00a0\u00a0Business Insider",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRk9IVHdOQTEyNWR2VXlrU0lsZ1Z6cjJwQ2U2cm9XckZYT1lCWHpndzdIck1DM0YyX3hGaGFkeXF4RmpRcTl5dVRad2tQLU5QNEk2czc0LUQwUGh3QmpxSzE5MXNxSmNMVmNhN0FvYlhYb0MtcGtKVHFFT1hPSnhJZWxPb09RV2JxUUFoWktFZ095N3Mt?oc=5",
+   "tickers": [
+    "DELL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "DELL",
+   "strength": 75,
+   "reason": "Trump explicitly praised Michael Dell again; direct CEO/company endorsement is bullish for Dell stock"
+  },
   {
    "date": "2026-07-23T11:52:51.658Z",
    "platform": "Truth Social",
@@ -66,22 +82,6 @@
    "primary_ticker": "DELL",
    "strength": 70,
    "reason": "Trump hyped Michael Dell and Dell following donation; explicit positive mention of named company"
-  },
-  {
-   "date": "2026-07-23T10:26:00Z",
-   "platform": "News",
-   "text": "Trump hyped up Michael Dell again after his mega Trump Accounts donation - Business Insider \u2014 Trump hyped up Michael Dell again after his mega Trump Accounts donation\u00a0\u00a0Business Insider",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRk9IVHdOQTEyNWR2VXlrU0lsZ1Z6cjJwQ2U2cm9XckZYT1lCWHpndzdIck1DM0YyX3hGaGFkeXF4RmpRcTl5dVRad2tQLU5QNEk2czc0LUQwUGh3QmpxSzE5MXNxSmNMVmNhN0FvYlhYb0MtcGtKVHFFT1hPSnhJZWxPb09RV2JxUUFoWktFZ095N3Mt?oc=5",
-   "tickers": [
-    "DELL"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "DELL",
-   "strength": 72,
-   "reason": "Trump explicitly hyped Michael Dell / Dell after his donation; direct praise of named company"
   },
   {
    "date": "2026-07-23T07:52:40Z",
@@ -180,9 +180,9 @@
    "reason": "Reports Trump will fire FDA chief Makary; biotech/pharma stocks rally on expectation of lighter FDA regulation.",
    "price_since": {
     "ticker": "XBI",
-    "pct": 0.2,
+    "pct": 0.1,
     "base": 152.11,
-    "last": 152.45,
+    "last": 152.27,
     "base_date": "2026-07-22",
     "last_date": "2026-07-23"
    }
@@ -212,6 +212,22 @@
    }
   },
   {
+   "date": "2026-07-22T14:48:05Z",
+   "platform": "News",
+   "text": "Trump endorses MyPillow CEO Mike Lindell for Minnesota governor - AOL.com \u2014 Trump endorses MyPillow CEO Mike Lindell for Minnesota governor\u00a0\u00a0AOL.com",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNeGFISzJxSUd1MExtUUR5MEZDTHRIdDlIMzY5M0pUWDQ3ZGpFUWRUTzBQdFUwejByQ21rTTVDNDRoVkJUNTcxMDh6cVB2ZHl2aHJjRHpmZUJvVGRfVGt1VHAzMnpuMzJRNVlqdmROOWw5MlBjQUlMZkFVOEF5V296UWZ3?oc=5",
+   "tickers": [
+    "MYPL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "MYPL",
+   "strength": 50,
+   "reason": "Trump endorses MyPillow CEO Mike Lindell for office; explicit backing of CEO/company is bullish for MYPL"
+  },
+  {
    "date": "2026-07-22T10:57:56Z",
    "platform": "News",
    "text": "IBRX Stock Rallies Into Trump\u2019s Big SOTU Night \u2014 Here\u2019s What Traders Think Could Fuel The Next Move - Stocktwits \u2014 IBRX Stock Rallies Into Trump\u2019s Big SOTU Night \u2014 Here\u2019s What Traders Think Could Fuel The Next Move\u00a0\u00a0Stocktwits",
@@ -228,9 +244,9 @@
    "reason": "Stock rallying into SOTU but no specific catalyst disclosed; speculative momentum",
    "price_since": {
     "ticker": "IBRX",
-    "pct": 0.0,
+    "pct": -0.4,
     "base": 7.51,
-    "last": 7.51,
+    "last": 7.48,
     "base_date": "2026-07-22",
     "last_date": "2026-07-23"
    }
@@ -252,9 +268,9 @@
    "reason": "Social media praise can move media/comms stocks; direction ambiguous without specific content",
    "price_since": {
     "ticker": "FOX",
-    "pct": -2.3,
+    "pct": -3.3,
     "base": 50.63,
-    "last": 49.47,
+    "last": 48.96,
     "base_date": "2026-07-22",
     "last_date": "2026-07-23"
    }
@@ -276,9 +292,9 @@
    "reason": "Iranian blockade reinstatement with US toll revenue signals energy supply constraint and higher oil prices",
    "price_since": {
     "ticker": "XLE",
-    "pct": 0.8,
+    "pct": 0.9,
     "base": 59.2,
-    "last": 59.66,
+    "last": 59.71,
     "base_date": "2026-07-22",
     "last_date": "2026-07-23"
    }
@@ -302,7 +318,7 @@
     "ticker": "SPY",
     "pct": -1.4,
     "base": 747.41,
-    "last": 737.3,
+    "last": 737.28,
     "base_date": "2026-07-22",
     "last_date": "2026-07-23"
    }
@@ -324,9 +340,9 @@
    "reason": "US tariffs on imported generic drugs bearish for Indian pharma suppliers to US market",
    "price_since": {
     "ticker": "VTRS",
-    "pct": 0.4,
+    "pct": 0.7,
     "base": 17.01,
-    "last": 17.07,
+    "last": 17.13,
     "base_date": "2026-07-22",
     "last_date": "2026-07-23"
    }
@@ -348,9 +364,9 @@
    "reason": "200% tariff on generic drug imports directly hits pharma suppliers; announced policy catalyst",
    "price_since": {
     "ticker": "VTRS",
-    "pct": 0.4,
+    "pct": 0.7,
     "base": 17.01,
-    "last": 17.07,
+    "last": 17.13,
     "base_date": "2026-07-22",
     "last_date": "2026-07-23"
    }
@@ -374,7 +390,7 @@
     "ticker": "IHG",
     "pct": -1.4,
     "base": 155.54,
-    "last": 153.39,
+    "last": 153.43,
     "base_date": "2026-07-22",
     "last_date": "2026-07-23"
    }
@@ -396,9 +412,9 @@
    "reason": "Trump tariff plan on generic drugs impacts pharma supply chain",
    "price_since": {
     "ticker": "IHI",
-    "pct": -0.6,
+    "pct": -0.1,
     "base": 49.41,
-    "last": 49.13,
+    "last": 49.35,
     "base_date": "2026-07-22",
     "last_date": "2026-07-23"
    }
@@ -422,7 +438,7 @@
     "ticker": "SPY",
     "pct": -1.4,
     "base": 747.41,
-    "last": 737.29,
+    "last": 737.28,
     "base_date": "2026-07-22",
     "last_date": "2026-07-23"
    }
@@ -446,7 +462,7 @@
     "ticker": "SPY",
     "pct": -1.4,
     "base": 747.41,
-    "last": 737.3,
+    "last": 737.28,
     "base_date": "2026-07-22",
     "last_date": "2026-07-23"
    }
@@ -468,9 +484,9 @@
    "reason": "$1B federal grant awarded to IBM for quantum foundry; explicit contract with major federal investment",
    "price_since": {
     "ticker": "IBM",
-    "pct": -0.7,
+    "pct": 0.2,
     "base": 205.77,
-    "last": 204.4,
+    "last": 206.12,
     "base_date": "2026-07-22",
     "last_date": "2026-07-23"
    }
@@ -494,7 +510,7 @@
     "ticker": "SPY",
     "pct": -1.4,
     "base": 747.41,
-    "last": 737.29,
+    "last": 737.26,
     "base_date": "2026-07-22",
     "last_date": "2026-07-23"
    }
@@ -516,9 +532,9 @@
    "reason": "Steep tariff on generic drugs depresses Indian pharma stocks",
    "price_since": {
     "ticker": "VTRS",
-    "pct": 0.4,
+    "pct": 0.7,
     "base": 17.01,
-    "last": 17.07,
+    "last": 17.13,
     "base_date": "2026-07-22",
     "last_date": "2026-07-23"
    }
@@ -540,9 +556,9 @@
    "reason": "Trump tariff policy impacts Indian pharma companies' US export margins",
    "price_since": {
     "ticker": "VTRS",
-    "pct": 0.4,
+    "pct": 0.7,
     "base": 17.01,
-    "last": 17.07,
+    "last": 17.13,
     "base_date": "2026-07-22",
     "last_date": "2026-07-23"
    }
@@ -2665,22 +2681,6 @@
    "primary_ticker": "MLHR",
    "strength": 50,
    "reason": "Trump endorses MyPillow CEO Mike Lindell for Minnesota governor"
-  },
-  {
-   "date": "2026-07-15T19:49:45Z",
-   "platform": "News",
-   "text": "Minnesota GOP Slams 'My Pillow' Guy Right After Trump Endorses Him - HuffPost \u2014 Minnesota GOP Slams 'My Pillow' Guy Right After Trump Endorses Him\u00a0\u00a0HuffPost",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNjBwcHNfUDFiRXJrc0RLWmY3TFpySjJPNWQwZnBCN2ZmTm1DaFdkOWZyaFM4UGM4RXdWM0RtNlZ5dExzenB4ZC1jaUpTVUFPNkJSMXNEWlVzWFVNajMzeFZZcGtpbzJ0MGN5WFhTYktMLVVqcGZLRThfd1RMUURtdHNEY2VSYTNKbDR6N1NKSTVaaTZsNmlIXzlCREpHUdIBowFBVV95cUxPLTBsMER6SWh0Y3ZkZDBMd2ViUXZZcDZQWHRmX3VzaE5TMnFRMklUdHFCdm1JbFpycVB1c2VWdF9VeEtlaERBMXh3WEZmcG83YnhDVlI4ZW5sQnJDeHE1bl81eTZvVmZUNmk0UmQ2dnVQZWFlNGZrUDdzRkxTa0R6OXVRUUlZc2YxYzNNYUdXaE9ldGJxMFVMOUQwcDVOWEsyZDBV?oc=5",
-   "tickers": [
-    "MLHR"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "WATCH",
-   "primary_ticker": "MLHR",
-   "strength": 40,
-   "reason": "Trump endorsement of Lindell followed by GOP criticism; mixed sentiment on MyPillow brand and Lindell's political viability"
   },
   {
    "curated": true,
