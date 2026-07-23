@@ -1,7 +1,40 @@
 {
- "last_updated": "2026-07-23T11:55:28Z",
+ "last_updated": "2026-07-23T13:59:38Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-07-23T11:52:51.658Z",
+   "platform": "Truth Social",
+   "text": "The Civil Nuclear Deal (There will be no enrichment of material!) being made between the United States Department of Energy and Saudi Arabia, which pertains only to non-military use such as the ones that Iran and UAE (and others) already have, will be approved, but is totally subject to Saudi Arabia joining the very respected and successful Abraham Accords. The United States is not opposed to Civil (Non-Enriched) Nuclear Facilities. Thank you for your attention to this matter! President DONALD J. TRUMP",
+   "tickers": [
+    "XLE"
+   ],
+   "engagement": 4542,
+   "url": "https://truthsocial.com/@realDonaldTrump/116969149016233329",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "XLE",
+   "strength": 45,
+   "reason": "Civil nuclear deal with Saudi Arabia signals energy infrastructure investment and geopolitical stability, bullish for energy sector"
+  },
+  {
+   "date": "2026-07-23T10:27:35Z",
+   "platform": "News",
+   "text": "Trump hyped up Michael Dell again after his mega Trump account donation - Business Insider \u2014 Trump hyped up Michael Dell again after his mega Trump account donation\u00a0\u00a0Business Insider",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRk9IVHdOQTEyNWR2VXlrU0lsZ1Z6cjJwQ2U2cm9XckZYT1lCWHpndzdIck1DM0YyX3hGaGFkeXF4RmpRcTl5dVRad2tQLU5QNEk2czc0LUQwUGh3QmpxSzE5MXNxSmNMVmNhN0FvYlhYb0MtcGtKVHFFT1hPSnhJZWxPb09RV2JxUUFoWktFZ095N3Mt?oc=5",
+   "tickers": [
+    "DELL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "DELL",
+   "strength": 70,
+   "reason": "Trump directly hyped/praised Michael Dell and Dell following donation; explicit positive mention of named company"
+  },
   {
    "date": "2026-07-23T10:26:54Z",
    "platform": "News",
@@ -17,6 +50,22 @@
    "primary_ticker": "DELL",
    "strength": 72,
    "reason": "Trump explicitly praises Michael Dell and Dell company after major donation; direct endorsement of named public company."
+  },
+  {
+   "date": "2026-07-23T10:26:54Z",
+   "platform": "News",
+   "text": "Trump hyped up Michael Dell again after his mega Trump Accounts donation - Business Insider Africa \u2014 Trump hyped up Michael Dell again after his mega Trump Accounts donation\u00a0\u00a0Business Insider Africa",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUmpOd3pVdHplU19meVhVZ3plM1RxTnVqT3ZvRGVhYXVzaFRjbkdHVzVaY3lhbG1zc01XRG0xblF5WldjdUtUdTc5S2ZyZFlHbEZwNVFvZzBYVUFZT0pIcUpLOVFYNFFSUm0tMk5iWWZia04xTWp4cThsZDc3a1JCY0RWZWZrc1NZSUVheXlOQUVCV2hEbE9mUkFBUWNxX1RUUWxpNU4wYzRQeThJTTZ6VWppY3FvWS1jQVhFNQ?oc=5",
+   "tickers": [
+    "DELL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "DELL",
+   "strength": 70,
+   "reason": "Trump hyped Michael Dell and Dell following donation; explicit positive mention of named company"
   },
   {
    "date": "2026-07-23T02:21:32Z",
@@ -80,7 +129,15 @@
    "direction": "BUY",
    "primary_ticker": "XBI",
    "strength": 62,
-   "reason": "Reports Trump will fire FDA chief Makary; biotech/pharma stocks rally on expectation of lighter FDA regulation."
+   "reason": "Reports Trump will fire FDA chief Makary; biotech/pharma stocks rally on expectation of lighter FDA regulation.",
+   "price_since": {
+    "ticker": "XBI",
+    "pct": -1.0,
+    "base": 152.11,
+    "last": 150.52,
+    "base_date": "2026-07-22",
+    "last_date": "2026-07-23"
+   }
   },
   {
    "date": "2026-07-22T19:35:02Z",
@@ -96,7 +153,15 @@
    "direction": "WATCH",
    "primary_ticker": "DJT",
    "strength": 45,
-   "reason": "Truth Social monetization (selling fast access to posts) affects DJT revenue model; direction unclear pending user/advertiser impact."
+   "reason": "Truth Social monetization (selling fast access to posts) affects DJT revenue model; direction unclear pending user/advertiser impact.",
+   "price_since": {
+    "ticker": "DJT",
+    "pct": -2.0,
+    "base": 9.23,
+    "last": 9.05,
+    "base_date": "2026-07-22",
+    "last_date": "2026-07-23"
+   }
   },
   {
    "date": "2026-07-22T10:57:56Z",
@@ -112,7 +177,15 @@
    "direction": "WATCH",
    "primary_ticker": "IBRX",
    "strength": 25,
-   "reason": "Stock rallying into SOTU but no specific catalyst disclosed; speculative momentum"
+   "reason": "Stock rallying into SOTU but no specific catalyst disclosed; speculative momentum",
+   "price_since": {
+    "ticker": "IBRX",
+    "pct": -1.2,
+    "base": 7.51,
+    "last": 7.42,
+    "base_date": "2026-07-22",
+    "last_date": "2026-07-23"
+   }
   },
   {
    "date": "2026-07-22T09:42:49Z",
@@ -128,7 +201,15 @@
    "direction": "WATCH",
    "primary_ticker": "FOX",
    "strength": 35,
-   "reason": "Social media praise can move media/comms stocks; direction ambiguous without specific content"
+   "reason": "Social media praise can move media/comms stocks; direction ambiguous without specific content",
+   "price_since": {
+    "ticker": "FOX",
+    "pct": -1.6,
+    "base": 50.63,
+    "last": 49.81,
+    "base_date": "2026-07-22",
+    "last_date": "2026-07-23"
+   }
   },
   {
    "date": "2026-07-22T09:39:02Z",
@@ -144,7 +225,15 @@
    "direction": "BUY",
    "primary_ticker": "XLE",
    "strength": 65,
-   "reason": "Iranian blockade reinstatement with US toll revenue signals energy supply constraint and higher oil prices"
+   "reason": "Iranian blockade reinstatement with US toll revenue signals energy supply constraint and higher oil prices",
+   "price_since": {
+    "ticker": "XLE",
+    "pct": 1.4,
+    "base": 59.2,
+    "last": 60.01,
+    "base_date": "2026-07-22",
+    "last_date": "2026-07-23"
+   }
   },
   {
    "date": "2026-07-22T08:37:00Z",
@@ -160,7 +249,15 @@
    "direction": "SELL",
    "primary_ticker": "SPY",
    "strength": 45,
-   "reason": "200% tariffs on pharma announced; broad tariff policy bearish for markets and drug costs"
+   "reason": "200% tariffs on pharma announced; broad tariff policy bearish for markets and drug costs",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": -1.0,
+    "base": 747.41,
+    "last": 739.75,
+    "base_date": "2026-07-22",
+    "last_date": "2026-07-23"
+   }
   },
   {
    "date": "2026-07-22T05:19:00Z",
@@ -176,7 +273,15 @@
    "direction": "SELL",
    "primary_ticker": "VTRS",
    "strength": 65,
-   "reason": "US tariffs on imported generic drugs bearish for Indian pharma suppliers to US market"
+   "reason": "US tariffs on imported generic drugs bearish for Indian pharma suppliers to US market",
+   "price_since": {
+    "ticker": "VTRS",
+    "pct": -1.4,
+    "base": 17.01,
+    "last": 16.78,
+    "base_date": "2026-07-22",
+    "last_date": "2026-07-23"
+   }
   },
   {
    "date": "2026-07-22T04:41:29Z",
@@ -192,7 +297,15 @@
    "direction": "SELL",
    "primary_ticker": "VTRS",
    "strength": 70,
-   "reason": "200% tariff on generic drug imports directly hits pharma suppliers; announced policy catalyst"
+   "reason": "200% tariff on generic drug imports directly hits pharma suppliers; announced policy catalyst",
+   "price_since": {
+    "ticker": "VTRS",
+    "pct": -1.4,
+    "base": 17.01,
+    "last": 16.78,
+    "base_date": "2026-07-22",
+    "last_date": "2026-07-23"
+   }
   },
   {
    "date": "2026-07-22T04:41:29Z",
@@ -208,7 +321,15 @@
    "direction": "SELL",
    "primary_ticker": "IHG",
    "strength": 65,
-   "reason": "Steep tariff plan on generic drugs pressures pharma sector and domestic drug pricing."
+   "reason": "Steep tariff plan on generic drugs pressures pharma sector and domestic drug pricing.",
+   "price_since": {
+    "ticker": "IHG",
+    "pct": -1.3,
+    "base": 155.54,
+    "last": 153.46,
+    "base_date": "2026-07-22",
+    "last_date": "2026-07-23"
+   }
   },
   {
    "date": "2026-07-22T04:34:14Z",
@@ -224,7 +345,15 @@
    "direction": "SELL",
    "primary_ticker": "IHI",
    "strength": 65,
-   "reason": "Trump tariff plan on generic drugs impacts pharma supply chain"
+   "reason": "Trump tariff plan on generic drugs impacts pharma supply chain",
+   "price_since": {
+    "ticker": "IHI",
+    "pct": -0.4,
+    "base": 49.41,
+    "last": 49.2,
+    "base_date": "2026-07-22",
+    "last_date": "2026-07-23"
+   }
   },
   {
    "date": "2026-07-22T03:53:01Z",
@@ -240,7 +369,15 @@
    "direction": "SELL",
    "primary_ticker": "SPY",
    "strength": 70,
-   "reason": "Indian pharma decline signals tariff impact ripples; bearish on drug costs and sector"
+   "reason": "Indian pharma decline signals tariff impact ripples; bearish on drug costs and sector",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": -1.0,
+    "base": 747.41,
+    "last": 739.75,
+    "base_date": "2026-07-22",
+    "last_date": "2026-07-23"
+   }
   },
   {
    "date": "2026-07-22T03:00:24Z",
@@ -256,7 +393,15 @@
    "direction": "BUY",
    "primary_ticker": "IBM",
    "strength": 75,
-   "reason": "$1B federal grant awarded to IBM for quantum foundry; explicit contract with major federal investment"
+   "reason": "$1B federal grant awarded to IBM for quantum foundry; explicit contract with major federal investment",
+   "price_since": {
+    "ticker": "IBM",
+    "pct": -2.0,
+    "base": 205.77,
+    "last": 201.73,
+    "base_date": "2026-07-22",
+    "last_date": "2026-07-23"
+   }
   },
   {
    "date": "2026-07-22T02:52:35Z",
@@ -272,7 +417,15 @@
    "direction": "SELL",
    "primary_ticker": "SPY",
    "strength": 65,
-   "reason": "Trump unveils steep tariff plan on generic drugs, bearish for broad pharma sector and consumers"
+   "reason": "Trump unveils steep tariff plan on generic drugs, bearish for broad pharma sector and consumers",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": -1.0,
+    "base": 747.41,
+    "last": 739.87,
+    "base_date": "2026-07-22",
+    "last_date": "2026-07-23"
+   }
   },
   {
    "date": "2026-07-22T02:52:35Z",
@@ -288,7 +441,15 @@
    "direction": "SELL",
    "primary_ticker": "VTRS",
    "strength": 65,
-   "reason": "Steep tariff on generic drugs depresses Indian pharma stocks"
+   "reason": "Steep tariff on generic drugs depresses Indian pharma stocks",
+   "price_since": {
+    "ticker": "VTRS",
+    "pct": -1.2,
+    "base": 17.01,
+    "last": 16.8,
+    "base_date": "2026-07-22",
+    "last_date": "2026-07-23"
+   }
   },
   {
    "date": "2026-07-22T01:13:34Z",
@@ -304,7 +465,15 @@
    "direction": "SELL",
    "primary_ticker": "VTRS",
    "strength": 60,
-   "reason": "Trump tariff policy impacts Indian pharma companies' US export margins"
+   "reason": "Trump tariff policy impacts Indian pharma companies' US export margins",
+   "price_since": {
+    "ticker": "VTRS",
+    "pct": -1.2,
+    "base": 17.01,
+    "last": 16.8,
+    "base_date": "2026-07-22",
+    "last_date": "2026-07-23"
+   }
   },
   {
    "date": "2026-07-21T22:54:15.696Z",
@@ -324,11 +493,11 @@
    "reason": "Generic drug tariff policy with zero rate for 2 years incentivizes domestic pharma production; bullish for US pharma sector",
    "price_since": {
     "ticker": "XLV",
-    "pct": -0.5,
+    "pct": -0.1,
     "base": 160.25,
-    "last": 159.43,
+    "last": 160.04,
     "base_date": "2026-07-21",
-    "last_date": "2026-07-22"
+    "last_date": "2026-07-23"
    }
   },
   {
@@ -348,11 +517,11 @@
    "reason": "Trump explicitly praises Giant Eagle's price cuts by name; bullish for the company",
    "price_since": {
     "ticker": "GEG",
-    "pct": 0.9,
+    "pct": 0.0,
     "base": 2.15,
-    "last": 2.17,
+    "last": 2.15,
     "base_date": "2026-07-21",
-    "last_date": "2026-07-22"
+    "last_date": "2026-07-23"
    }
   },
   {
@@ -372,11 +541,11 @@
    "reason": "DJI ban removes Chinese drone competitor; ambiguous whether bullish for US defense contractors or neutral policy",
    "price_since": {
     "ticker": "XAR",
-    "pct": -0.2,
+    "pct": 2.7,
     "base": 264.91,
-    "last": 264.3,
+    "last": 271.98,
     "base_date": "2026-07-21",
-    "last_date": "2026-07-22"
+    "last_date": "2026-07-23"
    }
   },
   {
@@ -396,11 +565,11 @@
    "reason": "Indicates potential conflicts of interest in Trump's stock promotion; raises governance risk across equities.",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.1,
+    "pct": -1.1,
     "base": 748.28,
-    "last": 747.41,
+    "last": 739.87,
     "base_date": "2026-07-21",
-    "last_date": "2026-07-22"
+    "last_date": "2026-07-23"
    }
   },
   {
@@ -420,11 +589,11 @@
    "reason": "Trump stock promotion while holding creates conflict; potential regulatory/reputational risk",
    "price_since": {
     "ticker": "DJT",
-    "pct": -6.0,
+    "pct": -8.0,
     "base": 9.82,
-    "last": 9.23,
+    "last": 9.03,
     "base_date": "2026-07-21",
-    "last_date": "2026-07-22"
+    "last_date": "2026-07-23"
    }
   },
   {
@@ -2534,71 +2703,6 @@
    "platform": "News",
    "text": "Trump endorses MyPillow CEO Mike Lindell for Minnesota governor - AOL.com \u2014 Trump endorses MyPillow CEO Mike Lindell for Minnesota governor\u00a0\u00a0AOL.com",
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNeGFISzJxSUd1MExtUUR5MEZDTHRIdDlIMzY5M0pUWDQ3ZGpFUWRUTzBQdFUwejByQ21rTTVDNDRoVkJUNTcxMDh6cVB2ZHl2aHJjRHpmZUJvVGRfVGt1VHAzMnpuMzJRNVlqdmROOWw5MlBjQUlMZkFVOEF5V296UWZ3?oc=5",
-   "tickers": [
-    "MNKD"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "MNKD",
-   "strength": 15,
-   "reason": "Trump endorsement of MyPillow CEO could indirectly support MyPillow parent, but endorsement is political not a direct business recommendation",
-   "price_since": {
-    "ticker": "MNKD",
-    "pct": -1.2,
-    "base": 4.09,
-    "last": 4.04,
-    "base_date": "2026-07-15",
-    "last_date": "2026-07-16"
-   }
-  },
-  {
-   "date": "2026-07-15T16:54:54Z",
-   "platform": "News",
-   "text": "President Donald Trump endorses Mike Lindell for Minnesota governor - Star Tribune \u2014 President Donald Trump endorses Mike Lindell for Minnesota governor\u00a0\u00a0Star Tribune",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPczJITGo2UmlHMmp4QXpMSUEzTUdMOUlSRXZ6WC1JRms0c0pScEdER01lUkl3bnJ3SnR2dUEyd1hrMDBHWlMwUVFBd21Ua1JTeVZjRkJXSFNWdjFJcExyLVpWWFZXdGtFdFhUZXF4aUpNRk5vaVUtMGtxOVp5T1MyaGdUbUFSMHpseTRHck9HdS02QmVHTVdxaTlvQ0s5SGh2MnhJeFlBMndMelFy?oc=5",
-   "tickers": [
-    "MLHR"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "MLHR",
-   "strength": 50,
-   "reason": "Trump endorses Mike Lindell for Minnesota governor; potential brand/sentiment lift for MyPillow"
-  },
-  {
-   "date": "2026-07-15T16:39:53.766Z",
-   "platform": "Truth Social",
-   "text": "One of the biggest Driving Forces in the Future for Jobs, are Data Centers. They are big, strong, bold, and Money Machines for the State in which they are built. Governor Kathy Hochul, for political reasons, has terminated all Data Centers being built, or to be built, in New York State. These Companies are now being sought in Alabama, Florida, Texas, Arizona, and many other States. Both the Taxes and the Jobs amount to LIQUID GOLD! New York State has made a terrible decision. All of this Income, and other Benefits, will be going to Red States, and some Blue, where Data Centers are sought as Cash Cows, with Lower Taxes and Record Setting Jobs. They must pay for their own Water and Power, and any leftover goes back to the State and local Community. Data Centers are tremendous WINS for the States and Communities that are lucky enough to get them. New York should change its Policy, IMMEDIATELY. The Radical Left Dumocrats must not be allowed to cause us to lose Data Centers, AI, and all of this incredible new Technology, to China, and other countries! President DONALD J. TRUMP",
-   "tickers": [
-    "SPY"
-   ],
-   "engagement": 1092,
-   "url": "https://truthsocial.com/@realDonaldTrump/116924979201330474",
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "SPY",
-   "strength": 35,
-   "reason": "Trump criticizes NY data center policy; implies capital/jobs flow to red states; mild bearish macro read on growth prospects.",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": -0.5,
-    "base": 754.81,
-    "last": 750.72,
-    "base_date": "2026-07-15",
-    "last_date": "2026-07-16"
-   }
-  },
-  {
-   "date": "2026-07-15T15:34:26Z",
-   "platform": "News",
-   "text": "Trump endorses MyPillow CEO Mike Lindell in Minnesota governor's race - Courthouse News \u2014 Trump endorses MyPillow CEO Mike Lindell in Minnesota governor's race\u00a0\u00a0Courthouse News",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPY1JEenU2eFJCRXRrY2haZHU4ODFjd2JBYjZfNFNUT0EwZHMyRGNsZ2tmemZYdzY1ak1uX1lOMXBLT0dEZkV1Sm8xV2REZk54dW9PN1dMU1dnS3FqRHoxUjRYblpXODJVeFpNVlVJazctQWgzUGxSdWZJNU1JOXNzYUhBeW5Qc3oxMDA3Q19uckNkaTRtVFRyNUNPU0k?oc=5",
    "tickers": [
     "MNKD"
    ],
