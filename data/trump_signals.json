@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-07-23T04:37:08Z",
+ "last_updated": "2026-07-23T07:19:12Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -19,7 +19,7 @@
    "reason": "Algorithmic trading on Trump posts suggests market impact but no directional bias disclosed"
   },
   {
-   "date": "2026-07-22T18:20:15Z",
+   "date": "2026-07-22T19:35:02Z",
    "platform": "News",
    "text": "DJT Stock Slips Overnight: Truth Social To Sell Wall Street 'Fastest' Access To Trump's Posts - Stocktwits \u2014 DJT Stock Slips Overnight: Truth Social To Sell Wall Street 'Fastest' Access To Trump's Posts\u00a0\u00a0Stocktwits",
    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPMlA4d1JobmFISDVhdUVNOG1KZ3lYTVJCYjc0U09RMGZtdEdnV19hV0tfRmpNeVpzUGNQTlpnajJkQTdPUUN6cGJmVU5rUkdUcE9uTHc1SFJTRXMwOHFodDdaZkltOWlEby1yUWFkS3VSb01rem1tQU0xY3ZBdmRGU3dZTkJ5SlZZZVJXZVkzQjV6N0JjaGIyV1dZRUVQUUFUazlFenhzTFlMT1dkakRBdXBuMVllZEIwdUszRlFkU2VVSHc3azEtcjd5NWkyQWdDMWFfTHhJeFVqMmtaeHdLeXBLeXRNZG1mTEE?oc=5",
@@ -31,8 +31,8 @@
    "explicit": false,
    "direction": "WATCH",
    "primary_ticker": "DJT",
-   "strength": 40,
-   "reason": "Truth Social monetizing post access to Wall Street; potential revenue driver but stock reaction mixed"
+   "strength": 45,
+   "reason": "Truth Social monetization (selling fast access to posts) affects DJT revenue model; direction unclear pending user/advertiser impact."
   },
   {
    "date": "2026-07-22T09:42:49Z",
@@ -2593,6 +2593,23 @@
     "base_date": "2026-07-15",
     "last_date": "2026-07-16"
    }
+  },
+  {
+   "date": "2026-07-15T10:16:36.880Z",
+   "platform": "Truth Social",
+   "text": "Great News America! The  Dumocrat caused inflation is way down from what it had been, and we will bring it down still further. MAGA!",
+   "tickers": [
+    "SPY"
+   ],
+   "engagement": 16742,
+   "url": "https://truthsocial.com/@realDonaldTrump/116923472077180326",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "SPY",
+   "strength": 35,
+   "reason": "Claims inflation down and will fall further; macro-bullish sentiment on economic outlook"
   },
   {
    "curated": true,
