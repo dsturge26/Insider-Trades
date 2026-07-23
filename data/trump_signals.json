@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-07-23T01:13:53Z",
+ "last_updated": "2026-07-23T04:37:08Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -17,6 +17,22 @@
    "primary_ticker": "SPY",
    "strength": 35,
    "reason": "Algorithmic trading on Trump posts suggests market impact but no directional bias disclosed"
+  },
+  {
+   "date": "2026-07-22T18:20:15Z",
+   "platform": "News",
+   "text": "DJT Stock Slips Overnight: Truth Social To Sell Wall Street 'Fastest' Access To Trump's Posts - Stocktwits \u2014 DJT Stock Slips Overnight: Truth Social To Sell Wall Street 'Fastest' Access To Trump's Posts\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPMlA4d1JobmFISDVhdUVNOG1KZ3lYTVJCYjc0U09RMGZtdEdnV19hV0tfRmpNeVpzUGNQTlpnajJkQTdPUUN6cGJmVU5rUkdUcE9uTHc1SFJTRXMwOHFodDdaZkltOWlEby1yUWFkS3VSb01rem1tQU0xY3ZBdmRGU3dZTkJ5SlZZZVJXZVkzQjV6N0JjaGIyV1dZRUVQUUFUazlFenhzTFlMT1dkakRBdXBuMVllZEIwdUszRlFkU2VVSHc3azEtcjd5NWkyQWdDMWFfTHhJeFVqMmtaeHdLeXBLeXRNZG1mTEE?oc=5",
+   "tickers": [
+    "DJT"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "DJT",
+   "strength": 40,
+   "reason": "Truth Social monetizing post access to Wall Street; potential revenue driver but stock reaction mixed"
   },
   {
    "date": "2026-07-22T09:42:49Z",
@@ -263,30 +279,6 @@
     "pct": -0.2,
     "base": 264.91,
     "last": 264.3,
-    "base_date": "2026-07-21",
-    "last_date": "2026-07-22"
-   }
-  },
-  {
-   "date": "2026-07-21T20:10:25Z",
-   "platform": "News",
-   "text": "DJT Stock Slips Overnight: Truth Social To Sell Wall Street 'Fastest' Access To Trump's Posts - Stocktwits \u2014 DJT Stock Slips Overnight: Truth Social To Sell Wall Street 'Fastest' Access To Trump's Posts\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPMlA4d1JobmFISDVhdUVNOG1KZ3lYTVJCYjc0U09RMGZtdEdnV19hV0tfRmpNeVpzUGNQTlpnajJkQTdPUUN6cGJmVU5rUkdUcE9uTHc1SFJTRXMwOHFodDdaZkltOWlEby1yUWFkS3VSb01rem1tQU0xY3ZBdmRGU3dZTkJ5SlZZZVJXZVkzQjV6N0JjaGIyV1dZRUVQUUFUazlFenhzTFlMT1dkakRBdXBuMVllZEIwdUszRlFkU2VVSHc3azEtcjd5NWkyQWdDMWFfTHhJeFVqMmtaeHdLeXBLeXRNZG1mTEE?oc=5",
-   "tickers": [
-    "DJT"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "DJT",
-   "strength": 40,
-   "reason": "Truth Social business development news; impact on DJT stock direction unclear",
-   "price_since": {
-    "ticker": "DJT",
-    "pct": -6.0,
-    "base": 9.82,
-    "last": 9.23,
     "base_date": "2026-07-21",
     "last_date": "2026-07-22"
    }
@@ -2601,62 +2593,6 @@
     "base_date": "2026-07-15",
     "last_date": "2026-07-16"
    }
-  },
-  {
-   "date": "2026-07-15T15:27:21Z",
-   "platform": "News",
-   "text": "Trump endorses MyPillow CEO Mike Lindell for Minnesota governor - MSN \u2014 Trump endorses MyPillow CEO Mike Lindell for Minnesota governor\u00a0\u00a0MSN",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcndQVHJkZlVkQTFNcmFqQW5aVzJTaTRPcXV0VUZEeFprMnFmSzlsYjhEQjZELTR6Y0Y5SE5hZllIMUtEa2c2WGEtUU9TdnBmMzRVcEFibnpMQ05uRGd3ZTYwQTRuNGlFVjE5bE8tZ1BCRlNfMFRxd3o3d0lEWjJrZHMwcmh2SE8wUjRiZnJQT0NSekF4aVBydWtBTjNvakh1TXhqYkliSDhIZlJVTVhWTGlhelh0dw?oc=5",
-   "tickers": [
-    "MNKD"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "MNKD",
-   "strength": 15,
-   "reason": "Trump endorsement of MyPillow CEO could indirectly support MyPillow parent, but endorsement is political not a direct business recommendation",
-   "price_since": {
-    "ticker": "MNKD",
-    "pct": -1.2,
-    "base": 4.09,
-    "last": 4.04,
-    "base_date": "2026-07-15",
-    "last_date": "2026-07-16"
-   }
-  },
-  {
-   "date": "2026-07-15T14:52:00Z",
-   "platform": "News",
-   "text": "Trump endorses MyPillow founder Mike Lindell in Minnesota governor\u2019s race - The Guardian \u2014 Trump endorses MyPillow founder Mike Lindell in Minnesota governor\u2019s race\u00a0\u00a0The Guardian",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQXpxQ2RaQnJDajlQSWtjNkxkY19tQzhrR0FFa0VMcE8zN1VRQTdERXVMMjktTzF4bnp4YjNSTlpwanR5T1BOQlVHc2VwbDVESTgzZ29FcjZnZVR4OGRDQ0VDS1ZudUJZWG9ZbVZwMUxRMHpIbDFUZjhqLXB2M0VZTm52b0xOd0ptQ0NickVn?oc=5",
-   "tickers": [
-    "MYRX"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "MYRX",
-   "strength": 15,
-   "reason": "Trump endorsement of MyPillow CEO may boost brand awareness and sales sentiment, but unclear near-term valuation impact"
-  },
-  {
-   "date": "2026-07-15T14:48:15Z",
-   "platform": "News",
-   "text": "Trump Endorses Celebrity \u2018Pillow Man\u2019 Mike Lindell for Minnesota Governor - People.com \u2014 Trump Endorses Celebrity \u2018Pillow Man\u2019 Mike Lindell for Minnesota Governor\u00a0\u00a0People.com",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUzR4ZkNtU0VqYUZic1BEOU9oTUg1cUhKR0pMT1lQZ3ZqaE8yV2tGUF9kNlJRVXVxR3lWTDdYOHlyNEVRZngyRXBoTlk1MkRqdHBqSWJhRld1dDVXek81VFo1WWMtTWJueWxFanhaLUZFOXpsMUZoXzJzNXZGQVFKSlFJX0JDQUlhNWdxTHNR?oc=5",
-   "tickers": [
-    "MLHR"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "MLHR",
-   "strength": 50,
-   "reason": "Trump endorses Mike Lindell for Minnesota governor; brand boost potential for MyPillow"
   },
   {
    "curated": true,
