@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-07-23T22:32:55Z",
+ "last_updated": "2026-07-23T23:39:51Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -242,6 +242,30 @@
    "primary_ticker": "MYPL",
    "strength": 50,
    "reason": "Trump endorses MyPillow CEO Mike Lindell for office; explicit backing of CEO/company is bullish for MYPL"
+  },
+  {
+   "date": "2026-07-22T13:31:06Z",
+   "platform": "News",
+   "text": "Trump Says After Iran, US May Turn Its Attention To Cuba: Report - Stocktwits \u2014 Trump Says After Iran, US May Turn Its Attention To Cuba: Report\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQWZ4TldDMUd6TUpfRWZzZFdHSmNPQ19WdUVQaFl0UWR6dHZwZnA2cUFHUVRpU3cxenFXOVFSaEg1SVc5UWZCMlFLWWtjaEhVMVlFWXhwNjdmN1RZU0NrejZWN29oOXVIS2dzejA1WVhVUDhsOVhWVG84dk9KZ1JFdC1ZWmxmbDFFVGZYNnR5T2JwTGZBZGZFTWxCWWFTc1JUQ0F5VTNCelYwd1psZkoxOG5jNEp1OUg2bDNTbzZOTnE1OGFw?oc=5",
+   "tickers": [
+    "XLE"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "XLE",
+   "strength": 55,
+   "reason": "Potential military/geopolitical action toward Cuba may raise energy/oil volatility and geopolitical risk; bearish tone.",
+   "price_since": {
+    "ticker": "XLE",
+    "pct": 0.3,
+    "base": 59.2,
+    "last": 59.38,
+    "base_date": "2026-07-22",
+    "last_date": "2026-07-23"
+   }
   },
   {
    "date": "2026-07-22T10:57:56Z",
@@ -2665,22 +2689,6 @@
    "primary_ticker": "MLHR",
    "strength": 50,
    "reason": "Trump endorses MyPillow CEO Mike Lindell; endorsement could boost MyPillow brand/sentiment, though company is majority private"
-  },
-  {
-   "date": "2026-07-15T22:34:44Z",
-   "platform": "News",
-   "text": "Mike Lindell was elated after President Trump endorsed him for governor. Here\u2019s what he said. - Minnesota Reformer \u2014 Mike Lindell was elated after President Trump endorsed him for governor. Here\u2019s what he said.\u00a0\u00a0Minnesota Reformer",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNU1WbUR6RmtvWlhVa2Zlc1BjQm5kSUprSjJNWnR6RC1tWXQtaFpvM1hBb0ZnbHNqQlplR3lRT0xrdkVKQTA0YjdUS0FYZVZaOEJielRvektnNFhreXJNaGgyYnZQbGJPRUhXcmhaV0hrLUhDWnVwMk5zWU9CNUJ2Q3VWS2xrTDhlcjdmcUg4SmZ2TW00MktkNTRXYm05SjdTTC1GdlZ2VW92MjBGSF9CY0FNcDZ0a1JXRFNELWlrUWJVbDhxLVEyRy1mQzM?oc=5",
-   "tickers": [
-    "MLHR"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "MLHR",
-   "strength": 50,
-   "reason": "Trump endorsement of Mike Lindell for Minnesota governor; potential brand boost for MyPillow, though company is majority private"
   },
   {
    "curated": true,
