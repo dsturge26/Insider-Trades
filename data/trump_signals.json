@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-07-23T13:59:38Z",
+ "last_updated": "2026-07-23T15:59:25Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -68,6 +68,54 @@
    "reason": "Trump hyped Michael Dell and Dell following donation; explicit positive mention of named company"
   },
   {
+   "date": "2026-07-23T10:26:00Z",
+   "platform": "News",
+   "text": "Trump hyped up Michael Dell again after his mega Trump Accounts donation - Business Insider \u2014 Trump hyped up Michael Dell again after his mega Trump Accounts donation\u00a0\u00a0Business Insider",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRk9IVHdOQTEyNWR2VXlrU0lsZ1Z6cjJwQ2U2cm9XckZYT1lCWHpndzdIck1DM0YyX3hGaGFkeXF4RmpRcTl5dVRad2tQLU5QNEk2czc0LUQwUGh3QmpxSzE5MXNxSmNMVmNhN0FvYlhYb0MtcGtKVHFFT1hPSnhJZWxPb09RV2JxUUFoWktFZ095N3Mt?oc=5",
+   "tickers": [
+    "DELL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "DELL",
+   "strength": 72,
+   "reason": "Trump explicitly hyped Michael Dell / Dell after his donation; direct praise of named company"
+  },
+  {
+   "date": "2026-07-23T07:52:40Z",
+   "platform": "News",
+   "text": "\u2018NACHO\u2019 Trade Returns: Oil Prices Climb On Renewed Tensions In Hormuz Strait - Stocktwits \u2014 \u2018NACHO\u2019 Trade Returns: Oil Prices Climb On Renewed Tensions In Hormuz Strait\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSnBUODQzM1ktdHF3TDlQR3hsM3cwWUJCOFgtbVo2R0Jtd2lGM25hRFgwMHdlbzFvUHVfV29laHUtUWFqdTZaTnhQR2dKdmc3U1FoT0ttZmg0SUxlQTN3ajZfSE52V1pSUmxkQjlwN1hrOV9aX09hTDFtUkFQLWtReldzSUZ6VDE0OGZWQ2NPS3NUelV1MmcwM2ZPMTJIWkx4X2JZSG92SF9MQ21ZWmtka3pFd0owSmxqdFJReXBYbHhwZF9jQ3NvV1NYaldLNzhaZ0E4?oc=5",
+   "tickers": [
+    "XLE"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "XLE",
+   "strength": 55,
+   "reason": "Renewed geopolitical tensions in Hormuz Strait typically push oil/energy sector higher"
+  },
+  {
+   "date": "2026-07-23T04:47:16Z",
+   "platform": "News",
+   "text": "Michael Burry Says He\u2019s Still Short Palantir After Stock Sees Recovery Following Trump\u2019s Endorsement - Stocktwits \u2014 Michael Burry Says He\u2019s Still Short Palantir After Stock Sees Recovery Following Trump\u2019s Endorsement\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUmNQdmN5STJOLU11dEhkR1U0ckhuS3JMcm1NUDNMY0dNZ1pQcGhFVmd2bkZqVHV5N3N4N01tY1gzZWZnTDlvbVRzTEtkQnZyUjlibXR1ZUJ5MnVNY0ZlYlVEUWtRMkdnRzBGcmxpdEJaQm55ZWlTWmZZUDBPNnhncTFlLWg3bjllZXNpeGpTVjd3b3dCZ2lWT1dPZE5RSlNKT01IVXlTa1c5YmFodzVEWkJtbHpvUHN1Ry00NWhxcVJpdw?oc=5",
+   "tickers": [
+    "PLTR"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "PLTR",
+   "strength": 45,
+   "reason": "Trump endorsement typically bullish for PLTR, but Burry's short view suggests mixed sentiment; direction ambiguous"
+  },
+  {
    "date": "2026-07-23T02:21:32Z",
    "platform": "News",
    "text": "Citi Stock Hits 52-Week High Before Fading As Trump Lauds Bank's 'Big Comeback' In M&A \u2014 But Full Picture Has Changed Now - Stocktwits \u2014 Citi Stock Hits 52-Week High Before Fading As Trump Lauds Bank's 'Big Comeback' In M&A \u2014 But Full Picture Has Changed Now\u00a0\u00a0Stocktwits",
@@ -132,9 +180,9 @@
    "reason": "Reports Trump will fire FDA chief Makary; biotech/pharma stocks rally on expectation of lighter FDA regulation.",
    "price_since": {
     "ticker": "XBI",
-    "pct": -1.0,
+    "pct": 0.2,
     "base": 152.11,
-    "last": 150.52,
+    "last": 152.4,
     "base_date": "2026-07-22",
     "last_date": "2026-07-23"
    }
@@ -156,9 +204,9 @@
    "reason": "Truth Social monetization (selling fast access to posts) affects DJT revenue model; direction unclear pending user/advertiser impact.",
    "price_since": {
     "ticker": "DJT",
-    "pct": -2.0,
+    "pct": -4.9,
     "base": 9.23,
-    "last": 9.05,
+    "last": 8.78,
     "base_date": "2026-07-22",
     "last_date": "2026-07-23"
    }
@@ -180,9 +228,9 @@
    "reason": "Stock rallying into SOTU but no specific catalyst disclosed; speculative momentum",
    "price_since": {
     "ticker": "IBRX",
-    "pct": -1.2,
+    "pct": -0.3,
     "base": 7.51,
-    "last": 7.42,
+    "last": 7.49,
     "base_date": "2026-07-22",
     "last_date": "2026-07-23"
    }
@@ -204,9 +252,9 @@
    "reason": "Social media praise can move media/comms stocks; direction ambiguous without specific content",
    "price_since": {
     "ticker": "FOX",
-    "pct": -1.6,
+    "pct": -2.2,
     "base": 50.63,
-    "last": 49.81,
+    "last": 49.52,
     "base_date": "2026-07-22",
     "last_date": "2026-07-23"
    }
@@ -228,9 +276,9 @@
    "reason": "Iranian blockade reinstatement with US toll revenue signals energy supply constraint and higher oil prices",
    "price_since": {
     "ticker": "XLE",
-    "pct": 1.4,
+    "pct": 1.1,
     "base": 59.2,
-    "last": 60.01,
+    "last": 59.84,
     "base_date": "2026-07-22",
     "last_date": "2026-07-23"
    }
@@ -252,9 +300,9 @@
    "reason": "200% tariffs on pharma announced; broad tariff policy bearish for markets and drug costs",
    "price_since": {
     "ticker": "SPY",
-    "pct": -1.0,
+    "pct": -1.3,
     "base": 747.41,
-    "last": 739.75,
+    "last": 737.78,
     "base_date": "2026-07-22",
     "last_date": "2026-07-23"
    }
@@ -276,9 +324,9 @@
    "reason": "US tariffs on imported generic drugs bearish for Indian pharma suppliers to US market",
    "price_since": {
     "ticker": "VTRS",
-    "pct": -1.4,
+    "pct": -0.4,
     "base": 17.01,
-    "last": 16.78,
+    "last": 16.94,
     "base_date": "2026-07-22",
     "last_date": "2026-07-23"
    }
@@ -300,9 +348,9 @@
    "reason": "200% tariff on generic drug imports directly hits pharma suppliers; announced policy catalyst",
    "price_since": {
     "ticker": "VTRS",
-    "pct": -1.4,
+    "pct": -0.4,
     "base": 17.01,
-    "last": 16.78,
+    "last": 16.94,
     "base_date": "2026-07-22",
     "last_date": "2026-07-23"
    }
@@ -324,9 +372,9 @@
    "reason": "Steep tariff plan on generic drugs pressures pharma sector and domestic drug pricing.",
    "price_since": {
     "ticker": "IHG",
-    "pct": -1.3,
+    "pct": -1.2,
     "base": 155.54,
-    "last": 153.46,
+    "last": 153.66,
     "base_date": "2026-07-22",
     "last_date": "2026-07-23"
    }
@@ -348,9 +396,9 @@
    "reason": "Trump tariff plan on generic drugs impacts pharma supply chain",
    "price_since": {
     "ticker": "IHI",
-    "pct": -0.4,
+    "pct": -0.3,
     "base": 49.41,
-    "last": 49.2,
+    "last": 49.28,
     "base_date": "2026-07-22",
     "last_date": "2026-07-23"
    }
@@ -372,9 +420,9 @@
    "reason": "Indian pharma decline signals tariff impact ripples; bearish on drug costs and sector",
    "price_since": {
     "ticker": "SPY",
-    "pct": -1.0,
+    "pct": -1.3,
     "base": 747.41,
-    "last": 739.75,
+    "last": 737.84,
     "base_date": "2026-07-22",
     "last_date": "2026-07-23"
    }
@@ -396,9 +444,9 @@
    "reason": "$1B federal grant awarded to IBM for quantum foundry; explicit contract with major federal investment",
    "price_since": {
     "ticker": "IBM",
-    "pct": -2.0,
+    "pct": 0.6,
     "base": 205.77,
-    "last": 201.73,
+    "last": 206.97,
     "base_date": "2026-07-22",
     "last_date": "2026-07-23"
    }
@@ -420,9 +468,9 @@
    "reason": "Trump unveils steep tariff plan on generic drugs, bearish for broad pharma sector and consumers",
    "price_since": {
     "ticker": "SPY",
-    "pct": -1.0,
+    "pct": -1.3,
     "base": 747.41,
-    "last": 739.87,
+    "last": 737.86,
     "base_date": "2026-07-22",
     "last_date": "2026-07-23"
    }
@@ -444,9 +492,9 @@
    "reason": "Steep tariff on generic drugs depresses Indian pharma stocks",
    "price_since": {
     "ticker": "VTRS",
-    "pct": -1.2,
+    "pct": -0.4,
     "base": 17.01,
-    "last": 16.8,
+    "last": 16.94,
     "base_date": "2026-07-22",
     "last_date": "2026-07-23"
    }
@@ -468,9 +516,9 @@
    "reason": "Trump tariff policy impacts Indian pharma companies' US export margins",
    "price_since": {
     "ticker": "VTRS",
-    "pct": -1.2,
+    "pct": -0.4,
     "base": 17.01,
-    "last": 16.8,
+    "last": 16.94,
     "base_date": "2026-07-22",
     "last_date": "2026-07-23"
    }
@@ -493,9 +541,9 @@
    "reason": "Generic drug tariff policy with zero rate for 2 years incentivizes domestic pharma production; bullish for US pharma sector",
    "price_since": {
     "ticker": "XLV",
-    "pct": -0.1,
+    "pct": 0.6,
     "base": 160.25,
-    "last": 160.04,
+    "last": 161.2,
     "base_date": "2026-07-21",
     "last_date": "2026-07-23"
    }
@@ -541,9 +589,9 @@
    "reason": "DJI ban removes Chinese drone competitor; ambiguous whether bullish for US defense contractors or neutral policy",
    "price_since": {
     "ticker": "XAR",
-    "pct": 2.7,
+    "pct": 2.2,
     "base": 264.91,
-    "last": 271.98,
+    "last": 270.82,
     "base_date": "2026-07-21",
     "last_date": "2026-07-23"
    }
@@ -565,9 +613,9 @@
    "reason": "Indicates potential conflicts of interest in Trump's stock promotion; raises governance risk across equities.",
    "price_since": {
     "ticker": "SPY",
-    "pct": -1.1,
+    "pct": -1.4,
     "base": 748.28,
-    "last": 739.87,
+    "last": 737.86,
     "base_date": "2026-07-21",
     "last_date": "2026-07-23"
    }
@@ -589,9 +637,9 @@
    "reason": "Trump stock promotion while holding creates conflict; potential regulatory/reputational risk",
    "price_since": {
     "ticker": "DJT",
-    "pct": -8.0,
+    "pct": -10.6,
     "base": 9.82,
-    "last": 9.03,
+    "last": 8.78,
     "base_date": "2026-07-21",
     "last_date": "2026-07-23"
    }
@@ -613,11 +661,11 @@
    "reason": "Dimon praises Trump's deregulation and 'One Big Beautiful Bill'; bullish tone on pro-growth stimulus and deregulation",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.1,
+    "pct": -1.4,
     "base": 748.28,
-    "last": 747.41,
+    "last": 737.85,
     "base_date": "2026-07-21",
-    "last_date": "2026-07-22"
+    "last_date": "2026-07-23"
    }
   },
   {
@@ -637,11 +685,11 @@
    "reason": "Trump praises Giant Eagle price cuts; spillover effect on broader grocery/retail sector uncertain",
    "price_since": {
     "ticker": "WMT",
-    "pct": -1.0,
+    "pct": -2.1,
     "base": 110.39,
-    "last": 109.33,
+    "last": 108.07,
     "base_date": "2026-07-21",
-    "last_date": "2026-07-22"
+    "last_date": "2026-07-23"
    }
   },
   {
@@ -661,11 +709,11 @@
    "reason": "Trump explicitly praises Giant Eagle and urges competitors to match; bullish signal",
    "price_since": {
     "ticker": "GEG",
-    "pct": 0.9,
+    "pct": 0.0,
     "base": 2.15,
-    "last": 2.17,
+    "last": 2.15,
     "base_date": "2026-07-21",
-    "last_date": "2026-07-22"
+    "last_date": "2026-07-23"
    }
   },
   {
@@ -1072,30 +1120,6 @@
     "pct": 3.5,
     "base": 421.55,
     "last": 436.35,
-    "base_date": "2026-07-20",
-    "last_date": "2026-07-21"
-   }
-  },
-  {
-   "date": "2026-07-20T13:43:35Z",
-   "platform": "News",
-   "text": "Michael Burry Says He\u2019s Still Short Palantir After Stock Sees Recovery Following Trump\u2019s Endorsement - Stocktwits \u2014 Michael Burry Says He\u2019s Still Short Palantir After Stock Sees Recovery Following Trump\u2019s Endorsement\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUmNQdmN5STJOLU11dEhkR1U0ckhuS3JMcm1NUDNMY0dNZ1pQcGhFVmd2bkZqVHV5N3N4N01tY1gzZWZnTDlvbVRzTEtkQnZyUjlibXR1ZUJ5MnVNY0ZlYlVEUWtRMkdnRzBGcmxpdEJaQm55ZWlTWmZZUDBPNnhncTFlLWg3bjllZXNpeGpTVjd3b3dCZ2lWT1dPZE5RSlNKT01IVXlTa1c5YmFodzVEWkJtbHpvUHN1Ry00NWhxcVJpdw?oc=5",
-   "tickers": [
-    "PLTR"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "PLTR",
-   "strength": 55,
-   "reason": "Stock recovered after Trump endorsement but major short-seller still bearish; conflicting signals on Palantir.",
-   "price_since": {
-    "ticker": "PLTR",
-    "pct": -1.6,
-    "base": 134.85,
-    "last": 132.66,
     "base_date": "2026-07-20",
     "last_date": "2026-07-21"
    }
@@ -2673,54 +2697,6 @@
    "primary_ticker": "MLHR",
    "strength": 50,
    "reason": "Trump endorses Mike Lindell for Minnesota governor; potential brand benefit to MyPillow"
-  },
-  {
-   "date": "2026-07-15T17:33:07Z",
-   "platform": "News",
-   "text": "Trump endorses MyPillow CEO Mike Lindell in Minnesota governor race - Bring Me The News \u2014 Trump endorses MyPillow CEO Mike Lindell in Minnesota governor race\u00a0\u00a0Bring Me The News",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTkl3LTBQX21rZWRtaXN5Z185NHVRbWJuaVFaRmdBMEZCMzJKb000OE5TbFZWU0I5UllhYlJyYzFtczUtS1lrSjRoaUhOdGpKdmw4aGxad0dfTW9NQUxVajRPSEJrN3VBRnZLVDExUVdVeC1pUnJOLVo1N3YzSmEyaTRoaUlwNkNGT0RwZFI0MW9aZkRUWGllM0ExeDg2Yy10bHhGX0g4WFhuNE1vTEE?oc=5",
-   "tickers": [
-    "MNKD"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "MNKD",
-   "strength": 15,
-   "reason": "Trump endorsement of MyPillow CEO could indirectly support MyPillow parent, but endorsement is political not a direct business recommendation",
-   "price_since": {
-    "ticker": "MNKD",
-    "pct": -1.2,
-    "base": 4.09,
-    "last": 4.04,
-    "base_date": "2026-07-15",
-    "last_date": "2026-07-16"
-   }
-  },
-  {
-   "date": "2026-07-15T17:16:26Z",
-   "platform": "News",
-   "text": "Trump endorses MyPillow CEO Mike Lindell for Minnesota governor - AOL.com \u2014 Trump endorses MyPillow CEO Mike Lindell for Minnesota governor\u00a0\u00a0AOL.com",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNeGFISzJxSUd1MExtUUR5MEZDTHRIdDlIMzY5M0pUWDQ3ZGpFUWRUTzBQdFUwejByQ21rTTVDNDRoVkJUNTcxMDh6cVB2ZHl2aHJjRHpmZUJvVGRfVGt1VHAzMnpuMzJRNVlqdmROOWw5MlBjQUlMZkFVOEF5V296UWZ3?oc=5",
-   "tickers": [
-    "MNKD"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "MNKD",
-   "strength": 15,
-   "reason": "Trump endorsement of MyPillow CEO could indirectly support MyPillow parent, but endorsement is political not a direct business recommendation",
-   "price_since": {
-    "ticker": "MNKD",
-    "pct": -1.2,
-    "base": 4.09,
-    "last": 4.04,
-    "base_date": "2026-07-15",
-    "last_date": "2026-07-16"
-   }
   },
   {
    "curated": true,
