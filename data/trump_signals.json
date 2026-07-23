@@ -1,7 +1,55 @@
 {
- "last_updated": "2026-07-23T09:58:15Z",
+ "last_updated": "2026-07-23T11:55:28Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-07-23T10:26:54Z",
+   "platform": "News",
+   "text": "Trump hyped up Michael Dell again after his mega Trump account donation - Business Insider Africa \u2014 Trump hyped up Michael Dell again after his mega Trump account donation\u00a0\u00a0Business Insider Africa",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSk9QU0I1cFBQRFFMSWxHWFV2V3JkUnNXbThyUE9rdVVaSVhVSDBWR0lISEZzbmRFaFNia0lXeEFqWXNNcXhNOFNWUzA4TVUzcUh1MkZrSzctcW5Md0dXSHFVcGpGTWViTXZ4VktvZ1BjUVFZYmg4V2N6WDdQZEhYcldMRE56X3F6VGtuQ1JqcTNUMHVybHY5eHFsejh3V1doUmxzc3VXdjBtV0NZM2tTWGV6emNyNnhSVV93?oc=5",
+   "tickers": [
+    "DELL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "DELL",
+   "strength": 72,
+   "reason": "Trump explicitly praises Michael Dell and Dell company after major donation; direct endorsement of named public company."
+  },
+  {
+   "date": "2026-07-23T02:21:32Z",
+   "platform": "News",
+   "text": "Citi Stock Hits 52-Week High Before Fading As Trump Lauds Bank's 'Big Comeback' In M&A \u2014 But Full Picture Has Changed Now - Stocktwits \u2014 Citi Stock Hits 52-Week High Before Fading As Trump Lauds Bank's 'Big Comeback' In M&A \u2014 But Full Picture Has Changed Now\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWUpacUZnX014SV9nTnRZbVQ0dWhFQlZiV3ZjLV9nWExYUjVMdmlZdkdoNnFLcUhZUEhuZ1k3a2JENWJrYkhqdjJqNFlLaVlVYzBRb3dJOFA2Q1dESmhCTVJnQXJJaU15VjVFUFo2cWJDOEx3QTIzN0NSQjExRWhRZlNLaDFXeEZMQ0poajdjbGhmNlhPd1ZQSnVOSmNVa0pVTF94Z1RVdXlSU2JrR0N3X2dHSENINjZHNWdTYzB1dEZPaERK?oc=5",
+   "tickers": [
+    "C"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "C",
+   "strength": 68,
+   "reason": "Trump explicitly lauds Citi's M&A comeback; direct praise of named public company stock."
+  },
+  {
+   "date": "2026-07-23T00:28:19Z",
+   "platform": "News",
+   "text": "Trump Says China Has Not Approved NVDA H200 Chip Purchases Yet \u2014 'They Want To Develop Their Own' - Stocktwits \u2014 Trump Says China Has Not Approved NVDA H200 Chip Purchases Yet \u2014 'They Want To Develop Their Own'\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZ2oxZ3ZfNVpTWGQwLTY3T0xzazUxbWY2a3ZreDlRRGE0ZHQxbmNRR29RSm11VXBPajBkd1V1M0VhRUJvVUp0V2lfM3ladmswQ2hMWGlsUjY5RE1ERXR0LTBwN2JLYTBNUk1GRC1QbjktYTlkeTU5MlgteEpYeURwZmhaR2NjUUJMVWs5SGVnbm9uTEZ2dkdmSmVVdzctQ0I3clJZZFM1YnVqbkd1RG9kQlpXUjY?oc=5",
+   "tickers": [
+    "NVDA"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "SELL",
+   "primary_ticker": "NVDA",
+   "strength": 65,
+   "reason": "Trump states China blocking NVDA H200 chip sales; direct negative impact on Nvidia's China export revenue."
+  },
   {
    "date": "2026-07-23T00:00:00Z",
    "platform": "News",
@@ -17,6 +65,22 @@
    "primary_ticker": "SPY",
    "strength": 35,
    "reason": "Algorithmic trading on Trump posts suggests market impact but no directional bias disclosed"
+  },
+  {
+   "date": "2026-07-22T22:41:49Z",
+   "platform": "News",
+   "text": "REPL, QURE, MRNA Soar On Reports Trump Will Fire FDA\u2019s Marty Makary - Stocktwits \u2014 REPL, QURE, MRNA Soar On Reports Trump Will Fire FDA\u2019s Marty Makary\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPU3Z0Z1R6VlBrbUhjMmZMNmVXdXBXQW5TTUtIelRzbmMtS0kzSjdQTWFJRGV4TTFuVWE0QmxTTGpPc1NWdVdWQjl2bmVPTGNXY180NXltOWlqM3pPd1JDTmVORU5Kemc4Wk1IRWMtUE1UbVlQV1VndWx2cGhwSmxUWmw1Y3htZWVGQ1RxUEY3bVh4Y0lIcW1oVF9TMWgyUmNUY1JQajF4NGdCZHUzNEFDbnAtWTUzRmlpcHNYZk4tb0l6b2pDbFE?oc=5",
+   "tickers": [
+    "XBI"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "XBI",
+   "strength": 62,
+   "reason": "Reports Trump will fire FDA chief Makary; biotech/pharma stocks rally on expectation of lighter FDA regulation."
   },
   {
    "date": "2026-07-22T19:35:02Z",
@@ -161,22 +225,6 @@
    "primary_ticker": "IHI",
    "strength": 65,
    "reason": "Trump tariff plan on generic drugs impacts pharma supply chain"
-  },
-  {
-   "date": "2026-07-22T04:16:03Z",
-   "platform": "News",
-   "text": "Citi Stock Hits 52-Week High Before Fading As Trump Lauds Bank's 'Big Comeback' In M&A \u2014 But Full Picture Has Changed Now - Stocktwits \u2014 Citi Stock Hits 52-Week High Before Fading As Trump Lauds Bank's 'Big Comeback' In M&A \u2014 But Full Picture Has Changed Now\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWUpacUZnX014SV9nTnRZbVQ0dWhFQlZiV3ZjLV9nWExYUjVMdmlZdkdoNnFLcUhZUEhuZ1k3a2JENWJrYkhqdjJqNFlLaVlVYzBRb3dJOFA2Q1dESmhCTVJnQXJJaU15VjVFUFo2cWJDOEx3QTIzN0NSQjExRWhRZlNLaDFXeEZMQ0poajdjbGhmNlhPd1ZQSnVOSmNVa0pVTF94Z1RVdXlSU2JrR0N3X2dHSENINjZHNWdTYzB1dEZPaERK?oc=5",
-   "tickers": [
-    "C"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "C",
-   "strength": 50,
-   "reason": "Trump explicitly lauds Citi's M&A comeback; direct company praise is bullish."
   },
   {
    "date": "2026-07-22T03:53:01Z",
@@ -567,30 +615,6 @@
     "pct": 9.3,
     "base": 404.15,
     "last": 441.8,
-    "base_date": "2026-07-21",
-    "last_date": "2026-07-22"
-   }
-  },
-  {
-   "date": "2026-07-21T06:49:16Z",
-   "platform": "News",
-   "text": "Trump Says China Has Not Approved NVDA H200 Chip Purchases Yet \u2014 'They Want To Develop Their Own' - Stocktwits \u2014 Trump Says China Has Not Approved NVDA H200 Chip Purchases Yet \u2014 'They Want To Develop Their Own'\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZ2oxZ3ZfNVpTWGQwLTY3T0xzazUxbWY2a3ZreDlRRGE0ZHQxbmNRR29RSm11VXBPajBkd1V1M0VhRUJvVUp0V2lfM3ladmswQ2hMWGlsUjY5RE1ERXR0LTBwN2JLYTBNUk1GRC1QbjktYTlkeTU5MlgteEpYeURwZmhaR2NjUUJMVWs5SGVnbm9uTEZ2dkdmSmVVdzctQ0I3clJZZFM1YnVqbkd1RG9kQlpXUjY?oc=5",
-   "tickers": [
-    "NVDA"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "NVDA",
-   "strength": 50,
-   "reason": "Trump cites China restrictions on NVDA H200 sales, mixed signal on near-term demand outlook",
-   "price_since": {
-    "ticker": "NVDA",
-    "pct": 2.3,
-    "base": 207.29,
-    "last": 212.06,
     "base_date": "2026-07-21",
     "last_date": "2026-07-22"
    }
@@ -2593,23 +2617,6 @@
     "base_date": "2026-07-15",
     "last_date": "2026-07-16"
    }
-  },
-  {
-   "date": "2026-07-15T10:16:36.880Z",
-   "platform": "Truth Social",
-   "text": "Great News America! The  Dumocrat caused inflation is way down from what it had been, and we will bring it down still further. MAGA!",
-   "tickers": [
-    "SPY"
-   ],
-   "engagement": 16742,
-   "url": "https://truthsocial.com/@realDonaldTrump/116923472077180326",
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "SPY",
-   "strength": 35,
-   "reason": "Claims inflation down and will fall further; macro-bullish sentiment on economic outlook"
   },
   {
    "curated": true,
