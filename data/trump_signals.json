@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-07-22T23:41:52Z",
+ "last_updated": "2026-07-23T01:13:53Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-07-23T00:00:00Z",
+   "platform": "News",
+   "text": "How Wall Street\u2019s Bots Are Cashing in on Trump\u2019s Truth Social Posts - WSJ \u2014 How Wall Street\u2019s Bots Are Cashing in on Trump\u2019s Truth Social Posts\u00a0\u00a0WSJ",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPU3UxTnU2ZzVqX1BLUmQzdFd0SU5pN0VuTXVOajAyZHgxUEhaeVZoVVM2OEtNcktLLWltVENMZzZhSUEyU3RHenF6akQyTU9xelo2UnA4Njkzb0FMSm9PNURJVGZ6YWR3eXNiaWEzQzZSQWF4V203U1VTbmJna05pX3hxMlBDeGNoOTIzSVU1cWNrX2drM1JfTlkyc3hwaGdUNlVGNG9qZi1fUWFVU0E?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "SPY",
+   "strength": 35,
+   "reason": "Algorithmic trading on Trump posts suggests market impact but no directional bias disclosed"
+  },
   {
    "date": "2026-07-22T09:42:49Z",
    "platform": "News",
@@ -922,6 +938,22 @@
     "base_date": "2026-07-20",
     "last_date": "2026-07-21"
    }
+  },
+  {
+   "date": "2026-07-20T07:00:00Z",
+   "platform": "News",
+   "text": "Market Today: AMC, Tesla, Archer, Tempus AI, and More Headline N - GuruFocus \u2014 Market Today: AMC, Tesla, Archer, Tempus AI, and More Headline N\u00a0\u00a0GuruFocus",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYUNuUjdUdFNURG5iV2loNDVlRFd4bTJGM3pMLXE5Z0FteFVOSUF1TmhGUGxJODd0dVowcFpiSE5qcWlPZEhzNzNZZm9jeXpENS1LUnctRjE1TUdveFVXVGppNlNYbjJTRmJ5Nk5GcnFjRE5TWWNyWGhRR2ZkVFpFa0I1MElkdm5ySkFBUTZfYU40NWpiQkJEX2tqbzU2UGJjNlFoNUdhUkFabzBqVlpkMmpWOA?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "SPY",
+   "strength": 25,
+   "reason": "Market-headline roundup mentioning multiple stocks/sectors; no clear directional signal or Trump catalyst identified."
   },
   {
    "date": "2026-07-20T06:42:00Z",
