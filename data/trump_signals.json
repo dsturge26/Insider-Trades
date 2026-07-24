@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-07-24T22:18:11Z",
+ "last_updated": "2026-07-24T23:32:17Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-07-24T22:15:44Z",
+   "platform": "News",
+   "text": "Mixed close on Wall Street amid U.S.-Iran fighting, new Trump tariffs - Modern Ghana \u2014 Mixed close on Wall Street amid U.S.-Iran fighting, new Trump tariffs\u00a0\u00a0Modern Ghana",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1NUHo3dk10WGY0SU5BZ1JOY2k4MWNOd0FiU0JqeTBJT2g1bjQ1TENjbmFFNV9RWmMwck9jV3JqMVZjelNXZHF6M3Y1S2xlQjNRX05oMFE3d2VWNWlEZ2xj0gFcQVVfeXFMTWs2YTh4cjFWc2ZUWDU0V2FNd0NKVDVmTVRrQkhtMXRydnlUb004V3pNZFFMbXhqQWpERVI3S1UzUkxvcDlXSkJUM3ZGU1dleUt2TzNTVHdfWm85WHY?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "SPY",
+   "strength": 45,
+   "reason": "New Trump tariffs announced; mixed market close reflects tariff uncertainty and geopolitical tension."
+  },
   {
    "date": "2026-07-24T18:10:27Z",
    "platform": "News",
@@ -2707,30 +2723,6 @@
    "primary_ticker": "SPY",
    "strength": 65,
    "reason": "Trump promoted 20+ companies after buying their stocks; broad multi-stock promotion pattern.",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": -0.9,
-    "base": 750.72,
-    "last": 743.85,
-    "base_date": "2026-07-16",
-    "last_date": "2026-07-17"
-   }
-  },
-  {
-   "date": "2026-07-16T16:10:29Z",
-   "platform": "News",
-   "text": "Trump caught promoting companies on Truth Social days after buying their stocks - AOL.com \u2014 Trump caught promoting companies on Truth Social days after buying their stocks\u00a0\u00a0AOL.com",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNREh5cDFtY2RlUkpndnpZRjJGZFRJTVRTZ1h0NWdIbTBVYlNLNUY0OXh0YndYQXVvMmYwaUxJajR2Y3VxckNQQlNpYzZlNVlEb3N3Z1ZRM0JSRlNBUV9UVUVUbGhOYno1QkFQRjNmc0ZFTldJQm83ajYwR2dzV2o4V0dwT2xpa1dqMVE?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "SPY",
-   "strength": 45,
-   "reason": "Report alleges Trump promoted companies after buying; suggests potential market manipulation but direction unclear.",
    "price_since": {
     "ticker": "SPY",
     "pct": -0.9,
