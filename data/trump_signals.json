@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-07-24T09:54:52Z",
+ "last_updated": "2026-07-24T11:41:55Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -17,6 +17,38 @@
    "primary_ticker": "SPY",
    "strength": 35,
    "reason": "Tariffs and oil surge create mixed macro headwinds; multiple stocks mentioned but no clear directional call"
+  },
+  {
+   "date": "2026-07-24T07:37:35Z",
+   "platform": "News",
+   "text": "DJT Stock Slips Overnight: Truth Social To Sell Wall Street 'Fastest' Access To Trump's Posts - Stocktwits \u2014 DJT Stock Slips Overnight: Truth Social To Sell Wall Street 'Fastest' Access To Trump's Posts\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPMlA4d1JobmFISDVhdUVNOG1KZ3lYTVJCYjc0U09RMGZtdEdnV19hV0tfRmpNeVpzUGNQTlpnajJkQTdPUUN6cGJmVU5rUkdUcE9uTHc1SFJTRXMwOHFodDdaZkltOWlEby1yUWFkS3VSb01rem1tQU0xY3ZBdmRGU3dZTkJ5SlZZZVJXZVkzQjV6N0JjaGIyV1dZRUVQUUFUazlFenhzTFlMT1dkakRBdXBuMVllZEIwdUszRlFkU2VVSHc3azEtcjd5NWkyQWdDMWFfTHhJeFVqMmtaeHdLeXBLeXRNZG1mTEE?oc=5",
+   "tickers": [
+    "DJT"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "DJT",
+   "strength": 55,
+   "reason": "Truth Social premium access service to Wall Street creates new revenue stream for DJT"
+  },
+  {
+   "date": "2026-07-24T00:24:28Z",
+   "platform": "News",
+   "text": "Brent Oil's Price Briefly Tops $100 Per Barrel, As Stocks Are Set To Drop On Wall Street - HuffPost \u2014 Brent Oil's Price Briefly Tops $100 Per Barrel, As Stocks Are Set To Drop On Wall Street\u00a0\u00a0HuffPost",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONlBHeTdIckRxTFJieHg0cjcwWkR6UUZReV9JMmRkLTJFTG1JX3VaOFBoMlcwcjBPc3ZYRlRLcnBQZ2RiRHBMNC1UaEIyMDhBaDAzdThIMktpRHk0VTAtTnZHQjFCX1RpT3VjRHJWX0lwbzE3b19mUE5jOFRBNnFzbmEzalLSAYoBQVVfeXFMT3ZQWHA2NWZtWktIemJiT3hvaTc0N3N5dXdaOXJNelBucUxIam0yUXdmVlMyRlJWNEJFY1J2MjFwVzNWRlFxcjlFZ0hwdUkwTHNXZ0pLdU9kXzVYMnh0OG55TERLaHlxdlo5cGVReDVRd0VFa2lzMUxsbkJjSmt5ME1jMFlXYTBtNlBn?oc=5",
+   "tickers": [
+    "XLE"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "XLE",
+   "strength": 50,
+   "reason": "oil price surge and stock sell-off signals broad market stress"
   },
   {
    "date": "2026-07-23T21:39:59Z",
@@ -263,30 +295,6 @@
     "pct": 0.1,
     "base": 152.11,
     "last": 152.23,
-    "base_date": "2026-07-22",
-    "last_date": "2026-07-23"
-   }
-  },
-  {
-   "date": "2026-07-22T19:35:02Z",
-   "platform": "News",
-   "text": "DJT Stock Slips Overnight: Truth Social To Sell Wall Street 'Fastest' Access To Trump's Posts - Stocktwits \u2014 DJT Stock Slips Overnight: Truth Social To Sell Wall Street 'Fastest' Access To Trump's Posts\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPMlA4d1JobmFISDVhdUVNOG1KZ3lYTVJCYjc0U09RMGZtdEdnV19hV0tfRmpNeVpzUGNQTlpnajJkQTdPUUN6cGJmVU5rUkdUcE9uTHc1SFJTRXMwOHFodDdaZkltOWlEby1yUWFkS3VSb01rem1tQU0xY3ZBdmRGU3dZTkJ5SlZZZVJXZVkzQjV6N0JjaGIyV1dZRUVQUUFUazlFenhzTFlMT1dkakRBdXBuMVllZEIwdUszRlFkU2VVSHc3azEtcjd5NWkyQWdDMWFfTHhJeFVqMmtaeHdLeXBLeXRNZG1mTEE?oc=5",
-   "tickers": [
-    "DJT"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "DJT",
-   "strength": 45,
-   "reason": "Truth Social monetization (selling fast access to posts) affects DJT revenue model; direction unclear pending user/advertiser impact.",
-   "price_since": {
-    "ticker": "DJT",
-    "pct": -3.7,
-    "base": 9.23,
-    "last": 8.89,
     "base_date": "2026-07-22",
     "last_date": "2026-07-23"
    }
@@ -2658,23 +2666,6 @@
    "primary_ticker": "SPY",
    "strength": 45,
    "reason": "Trump criticizes NY's data center policy and highlights competitive advantage for red/business-friendly states; bullish for pro-business climate and data center/tech expansion."
-  },
-  {
-   "date": "2026-07-15T10:16:36.880Z",
-   "platform": "Truth Social",
-   "text": "Great News America! The  Dumocrat caused inflation is way down from what it had been, and we will bring it down still further. MAGA!",
-   "tickers": [
-    "SPY"
-   ],
-   "engagement": 16742,
-   "url": "https://truthsocial.com/@realDonaldTrump/116923472077180326",
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "SPY",
-   "strength": 35,
-   "reason": "Trump claims inflation is down and promises further cuts; macro-positive sentiment on economy and inflation control."
   },
   {
    "curated": true,
