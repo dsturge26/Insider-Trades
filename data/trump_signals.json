@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-07-24T07:18:24Z",
+ "last_updated": "2026-07-24T09:54:52Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-07-24T08:49:45Z",
+   "platform": "News",
+   "text": "Nasdaq, S&P 500 Futures Mixed As Oil Surge, Trump Tariffs Cloud Market Outlook: Why INTC, TSLA, SPCX, ORCL, SLS Are In Focus - TradingView \u2014 Nasdaq, S&P 500 Futures Mixed As Oil Surge, Trump Tariffs Cloud Market Outlook: Why INTC, TSLA, SPCX, ORCL, SLS Are In Focus\u00a0\u00a0TradingView",
+   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOazIzZEFXUGFMZVdfZHFBME1rOWc2S09xT21VOEwxbHAwY1FmSmY1NTVYVW10Vk9jLW5xS1dzaHRwT05vaU1TdkFSQU5NTlNleU83Y0lHNE5VaVR5VGxYOG5uRURRMlZodnozQmFheE9rNlh5ZHlObEtrWTVVRHRmM2RCcGFRRXlMV1dSQ1BzMUktZnBNV0d1OWQ2N2pGaHJqWmZWT3ZQdGh2SUJHR1BEOVNDNTN6U3NlN21mNHBZQzJnWGpqdk1qQ2dsMzJwTkZwWGtYZ2MzRUhRVGJaazhRSVZ3bUliMjVfQ2JHS2U4bW5FNUxNQ3VzenVYdXNod2FXMWlyUGM5YUFSQQ?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "SPY",
+   "strength": 35,
+   "reason": "Tariffs and oil surge create mixed macro headwinds; multiple stocks mentioned but no clear directional call"
+  },
   {
    "date": "2026-07-23T21:39:59Z",
    "platform": "News",
@@ -130,6 +146,22 @@
    "primary_ticker": "XLE",
    "strength": 55,
    "reason": "Renewed geopolitical tensions in Hormuz Strait typically push oil/energy sector higher"
+  },
+  {
+   "date": "2026-07-23T05:30:16Z",
+   "platform": "News",
+   "text": "INTC Stock Rockets Toward Best Month Ever: Something More Than A Trump Pump Could Be Powering The Rally - Stocktwits \u2014 INTC Stock Rockets Toward Best Month Ever: Something More Than A Trump Pump Could Be Powering The Rally\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQT29KOURKeHprQ2xZbmpLUUc3MGRlTTE5Y1JHVXJ5TGhldk10eENQcmZLSzRWNDQyTmJFclFNUThmZ0tBRlZUQTZ3MGF1dlZwR0Q4aUtXUnZVQ2o1MjM3cFNpU2RrejRkd2E0OXBhOVNpdDdBdDVSSTR1c2M5NTZfYlg4NEFxODg3QWpMTXd0VVIzM3pZRS10OG5JWG9QUW52UjZvbXVvQ29uZ1lJb1NwbFljM1lBN1dreHdJZDdYZ1hKTjVidndnRWlJRnl5cnNpT2llcjVuSVltVDNzVFdHbmZYTEpua3JJVllOcXIxVmdfaThfeHRzVm9R?oc=5",
+   "tickers": [
+    "INTC"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "INTC",
+   "strength": 40,
+   "reason": "Intel rally attributed to Trump factor plus other fundamentals; mixed signal, ambiguous direction"
   },
   {
    "date": "2026-07-23T04:47:16Z",
@@ -945,30 +977,6 @@
     "base": 404.15,
     "last": 441.8,
     "base_date": "2026-07-21",
-    "last_date": "2026-07-22"
-   }
-  },
-  {
-   "date": "2026-07-20T22:15:55Z",
-   "platform": "News",
-   "text": "INTC Stock Rockets Toward Best Month Ever: Something More Than A Trump Pump Could Be Powering The Rally - Stocktwits \u2014 INTC Stock Rockets Toward Best Month Ever: Something More Than A Trump Pump Could Be Powering The Rally\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQT29KOURKeHprQ2xZbmpLUUc3MGRlTTE5Y1JHVXJ5TGhldk10eENQcmZLSzRWNDQyTmJFclFNUThmZ0tBRlZUQTZ3MGF1dlZwR0Q4aUtXUnZVQ2o1MjM3cFNpU2RrejRkd2E0OXBhOVNpdDdBdDVSSTR1c2M5NTZfYlg4NEFxODg3QWpMTXd0VVIzM3pZRS10OG5JWG9QUW52UjZvbXVvQ29uZ1lJb1NwbFljM1lBN1dreHdJZDdYZ1hKTjVidndnRWlJRnl5cnNpT2llcjVuSVltVDNzVFdHbmZYTEpua3JJVllOcXIxVmdfaThfeHRzVm9R?oc=5",
-   "tickers": [
-    "INTC"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "INTC",
-   "strength": 40,
-   "reason": "INTC rallies; headline suggests Trump 'pump' but also other fundamentals; direction mixed.",
-   "price_since": {
-    "ticker": "INTC",
-    "pct": 5.7,
-    "base": 97.06,
-    "last": 102.62,
-    "base_date": "2026-07-20",
     "last_date": "2026-07-22"
    }
   },
@@ -2669,57 +2677,6 @@
    "reason": "Trump claims inflation is down and promises further cuts; macro-positive sentiment on economy and inflation control."
   },
   {
-   "date": "2026-07-14T15:04:19.213Z",
-   "platform": "Truth Social",
-   "text": "Oil is flowing like never before, thanks to the awesome Power of the United States Military. A special salute to Secretary of War, Pete Hegseth, Chairman of the Joint Chiefs of Staff, Dan Caine, and Commander of the United States Central Command, Admiral Brad Cooper. Because of them, and all members of the Most Powerful Military anywhere in the World, BY FAR, the Strait of Hormuz is open to ALL Ship traffic except for Iran \u2014 and that is because of their lying, violent, malicious leadership, which is taking them down the path of TOTAL DESTRUCTION. We will therefore have a FULL Blockade, but only on Ships coming to and from Iranian ports, or carrying anything have to do with Iranian cargo. Based on highly productive conversations with Middle East leadership, I have decided to replace the 20% United States Reimbursement Fee with Trade and Investment Deals that the various Gulf States will be making into the United States. Those Investments will be MASSIVE but, at the same time, extraordinarily good for them, and their future. As everyone is aware, we have the largest Dollar Investment into the United States, of any Country in History, but these new Investments will make that Number even larger, and we will see Factories, Plants, and Equipment pour into the United States at Historic levels, which will create additional millions of High Paying AMERICAN Jobs! America is WINNING again, winning like never before. The days of Iran killing hundreds of thousands of people, including 52,000 protestors, are OVER and, most importantly, IRAN WILL NEVER HAVE A NUCLEAR WEAPON! Thank you for your attention to this matter.\u00a0President DONALD J. TRUMP",
-   "tickers": [
-    "XLE"
-   ],
-   "engagement": 32541,
-   "url": "https://truthsocial.com/@realDonaldTrump/116918941071241802",
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "XLE",
-   "strength": 65,
-   "reason": "Emphasis on oil flowing and military control of shipping lanes suggests bullish oil/energy outlook."
-  },
-  {
-   "date": "2026-07-14T14:35:03.261Z",
-   "platform": "Truth Social",
-   "text": "Trump touts U.S. economy and oil prices in a midterm pitch in Pennsylvania: https://www.nbcnews.com/politics/donald-trump/trump-touts-us-economy-oil-prices-midterm-pitch-pennsylvania-rcna351414",
-   "tickers": [
-    "XLE"
-   ],
-   "engagement": 6923,
-   "url": "https://truthsocial.com/@realDonaldTrump/116918825992948563",
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "XLE",
-   "strength": 55,
-   "reason": "Touting economy and oil prices as positive midterm message implies favorable oil/energy sentiment."
-  },
-  {
-   "date": "2026-07-13T13:20:10.694Z",
-   "platform": "Truth Social",
-   "text": "RT @realDonaldTrump59% Approval Rating. Prices coming down along with the lowering of oil and gas. Thank you! President DJT",
-   "tickers": [
-    "XLE"
-   ],
-   "engagement": 0,
-   "url": "https://truthsocial.com/@realDonaldTrump/116912869257680045",
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "XLE",
-   "strength": 60,
-   "reason": "Approval and credit for lowering oil/gas prices signals bullish energy narrative."
-  },
-  {
    "curated": true,
    "classified": true,
    "is_market": true,
@@ -2772,244 +2729,6 @@
    "reason": "Trump's majority-owned stock debuts \u2014 pure sentiment play, extremely volatile and headline-driven.",
    "market_reaction": "DJT spiked on debut then stayed volatile, moving heavily on Trump political/legal news.",
    "url": "https://www.nasdaq.com/market-activity/stocks/djt"
-  },
-  {
-   "date": "2021-07-01T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "HARRIS CORPORATION was awarded a $2.1B federal contract from Department of Transportation.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_693KA821F00222_6920_DTFA0102D03006_6920",
-   "tickers": [
-    "HRS"
-   ],
-   "contract_amount": 2.12,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "HRS",
-   "strength": 75,
-   "reason": "Harris Corporation awarded $2.1B federal contract from DOT."
-  },
-  {
-   "date": "2020-05-13T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "SPACE EXPLORATION TECHNOLOGIES CORP. was awarded a $3.1B federal contract from National Aeronautics and Space Administration.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_80MSFC20C0034_8000_-NONE-_-NONE-",
-   "tickers": [
-    "SPACX"
-   ],
-   "contract_amount": 3.06,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "SPACX",
-   "strength": 75,
-   "reason": "SpaceX awarded $3.1B federal contract from NASA."
-  },
-  {
-   "date": "2019-10-16T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "THE BOEING COMPANY was awarded a $2.6B federal contract from National Aeronautics and Space Administration.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_80MSFC20C0052_8000_-NONE-_-NONE-",
-   "tickers": [
-    "BA"
-   ],
-   "contract_amount": 2.59,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "BA",
-   "strength": 75,
-   "reason": "Boeing awarded $2.6B federal contract from NASA."
-  },
-  {
-   "date": "2019-06-19T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "GENERAL DYNAMICS INFORMATION TECHNOLOGY, INC. was awarded a $1.6B federal contract from Department of State.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_19AQMM18C0185_1900_-NONE-_-NONE-",
-   "tickers": [
-    "GD"
-   ],
-   "contract_amount": 1.59,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "GD",
-   "strength": 75,
-   "reason": "General Dynamics awarded $1.6B federal contract from State Department."
-  },
-  {
-   "date": "2018-05-17T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "ORACLE HEALTH GOVERNMENT SERVICES, INC. was awarded a $1.5B federal contract from Department of Veterans Affairs.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_36C10B18N0003_3600_36C10B18D5000_3600",
-   "tickers": [
-    "ORCL"
-   ],
-   "contract_amount": 1.51,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "ORCL",
-   "strength": 75,
-   "reason": "Oracle awarded $1.5B federal contract from Veterans Affairs."
-  },
-  {
-   "date": "2015-09-03T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "NORTHROP GRUMMAN SYSTEMS CORPORATION was awarded a $1.6B federal contract from National Aeronautics and Space Administration.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_NNH15CN76C_8000_-NONE-_-NONE-",
-   "tickers": [
-    "NOC"
-   ],
-   "contract_amount": 1.63,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "NOC",
-   "strength": 75,
-   "reason": "Northrop Grumman awarded $1.6B federal contract from NASA."
-  },
-  {
-   "date": "2011-12-23T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "LEIDOS, INC. was awarded a $3.1B federal contract from National Science Foundation.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_NSFDACS1219442_4900_-NONE-_-NONE-",
-   "tickers": [
-    "LDOS"
-   ],
-   "contract_amount": 3.12,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "LDOS",
-   "strength": 75,
-   "reason": "Leidos awarded $3.1B federal contract from NSF."
-  },
-  {
-   "date": "2008-09-26T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "LEIDOS BIOMEDICAL RESEARCH INC was awarded a $4.8B federal contract from Department of Health and Human Services.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_HHSN261200800001E_7529_-NONE-_-NONE-",
-   "tickers": [
-    "LDOS"
-   ],
-   "contract_amount": 4.81,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "LDOS",
-   "strength": 75,
-   "reason": "Leidos Biomedical Research awarded $4.8B federal contract from HHS."
-  },
-  {
-   "date": "2008-07-25T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "HARRIS CORPORATION was awarded a $1.6B federal contract from Department of Transportation.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_DTFA0102D03006CALL0001_6920_DTFA0102D03006_6920",
-   "tickers": [
-    "HRS"
-   ],
-   "contract_amount": 1.57,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "HRS",
-   "strength": 75,
-   "reason": "Harris Corporation awarded $1.6B federal contract from DOT."
-  },
-  {
-   "date": "2007-09-01T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "THE BOEING COMPANY was awarded a $10.5B federal contract from National Aeronautics and Space Administration.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_NNM07AB03C_8000_-NONE-_-NONE-",
-   "tickers": [
-    "BA"
-   ],
-   "contract_amount": 10.51,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "BA",
-   "strength": 75,
-   "reason": "Boeing awarded $10.5B federal contract from NASA."
-  },
-  {
-   "date": "2006-09-06T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "LOCKHEED MARTIN CORP was awarded a $15.6B federal contract from National Aeronautics and Space Administration.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_NNJ06TA25C_8000_-NONE-_-NONE-",
-   "tickers": [
-    "LMT"
-   ],
-   "contract_amount": 15.58,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "LMT",
-   "strength": 75,
-   "reason": "Lockheed Martin awarded $15.6B federal contract from NASA."
-  },
-  {
-   "date": "2006-04-17T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "NORTHROP GRUMMAN SYSTEMS CORPORATION was awarded a $4.4B federal contract from National Aeronautics and Space Administration.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_NNM07AA75C_8000_-NONE-_-NONE-",
-   "tickers": [
-    "NOC"
-   ],
-   "contract_amount": 4.43,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "NOC",
-   "strength": 75,
-   "reason": "Northrop Grumman awarded $4.4B federal contract from NASA."
-  },
-  {
-   "date": "1993-11-15T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "THE BOEING COMPANY was awarded a $22.4B federal contract from National Aeronautics and Space Administration.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_NAS1510000_8000_-NONE-_-NONE-",
-   "tickers": [
-    "BA"
-   ],
-   "contract_amount": 22.44,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "BA",
-   "strength": 80,
-   "reason": "Boeing awarded $22.4B federal contract from NASA; large contract."
-  },
-  {
-   "date": "1993-10-15T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "LOCKHEED MARTIN CORP was awarded a $48.1B federal contract from Department of Energy.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_DEAC0494AL85000_8900_-NONE-_-NONE-",
-   "tickers": [
-    "LMT"
-   ],
-   "contract_amount": 48.06,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "LMT",
-   "strength": 80,
-   "reason": "Lockheed Martin awarded $48.1B federal contract from DOE; largest contract."
   }
  ],
  "how_to_read": "Each card is Claude's read of a public Trump post: the affected ticker, whether it implies BUY / SELL / WATCH, a 0\u2013100 strength (how explicit/emphatic the post is \u2014 NOT a profit predictor), and why. A 2-year backtest found these don't beat buy-and-hold, so this is for awareness, not trading. Not financial advice."
