@@ -1,7 +1,24 @@
 {
- "last_updated": "2026-07-24T16:57:50Z",
+ "last_updated": "2026-07-24T18:22:43Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-07-24T17:06:10.365Z",
+   "platform": "Truth Social",
+   "text": "The European Union is at it again and, as usual, taking direct aim at GREAT American Companies! After having fined Apple, for no reason at all, 15 Billion Dollars, Meta, 3 Billion Dollars, Amazon 2.5 Billion Dollars, and many others, we have just been informed that Google, a truly advanced and amazing group, has been fined yet another 1 Billion Dollars, without explanation. This brings the Google total to over 18 Billion Dollars! This illegal and highly discriminatory practice started at these high levels during the first year of the Sleepy Joe Biden Administration, but it's not going to continue during the Trump Administration. The United States of America is not a \"PIGGYBANK\" for Europe, nor will we allow it to be! Please let this TRUTH serve to represent that we will immediately initiate a 301 Investigation into the practice of \"ROBBING\" American Companies and, in turn, the American Taxpayer. The European Union will pay a very big price for this illegal and highly unethical conduct, which I have consistently warned them about. The penalties will be entirely reversed and, we anticipate, a substantial TARIFF to be placed on them at the earliest possible moment. Stay tuned! President DONALD J. TRUMP",
+   "tickers": [
+    "GOOGL"
+   ],
+   "engagement": 4414,
+   "url": "https://truthsocial.com/@realDonaldTrump/116976043318889040",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "GOOGL",
+   "strength": 35,
+   "reason": "EU fines on big tech; Trump frames as unfair, implying potential policy reversal favorable to US tech giants."
+  },
   {
    "date": "2026-07-24T16:40:13.016Z",
    "platform": "Truth Social",
@@ -100,9 +117,9 @@
    "reason": "company pledge on infrastructure/energy suggests positive business environment",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.5,
+    "pct": 0.2,
     "base": 738.18,
-    "last": 741.51,
+    "last": 739.85,
     "base_date": "2026-07-23",
     "last_date": "2026-07-24"
    }
@@ -124,9 +141,9 @@
    "reason": "Trump explicitly praised Michael Dell again; direct CEO/company endorsement is bullish for Dell stock",
    "price_since": {
     "ticker": "DELL",
-    "pct": 1.3,
+    "pct": 0.7,
     "base": 439.34,
-    "last": 445.03,
+    "last": 442.4,
     "base_date": "2026-07-23",
     "last_date": "2026-07-24"
    }
@@ -148,9 +165,9 @@
    "reason": "Trump explicitly endorsed DELL; stock spiked to record highs on direct praise",
    "price_since": {
     "ticker": "DELL",
-    "pct": 1.3,
+    "pct": 0.7,
     "base": 439.34,
-    "last": 445.03,
+    "last": 442.4,
     "base_date": "2026-07-23",
     "last_date": "2026-07-24"
    }
@@ -173,9 +190,9 @@
    "reason": "Civil nuclear deal with Saudi Arabia signals energy infrastructure investment and geopolitical stability, bullish for energy sector",
    "price_since": {
     "ticker": "XLE",
-    "pct": 0.5,
+    "pct": 0.6,
     "base": 59.38,
-    "last": 59.69,
+    "last": 59.76,
     "base_date": "2026-07-23",
     "last_date": "2026-07-24"
    }
@@ -197,9 +214,9 @@
    "reason": "Trump reports China blocking NVDA H200 chip sales; direct bearish signal for semiconductor export",
    "price_since": {
     "ticker": "NVDA",
-    "pct": 0.7,
+    "pct": -0.1,
     "base": 208.76,
-    "last": 210.21,
+    "last": 208.57,
     "base_date": "2026-07-23",
     "last_date": "2026-07-24"
    }
@@ -221,9 +238,9 @@
    "reason": "Trump directly hyped/praised Michael Dell and Dell following donation; explicit positive mention of named company",
    "price_since": {
     "ticker": "DELL",
-    "pct": 1.3,
+    "pct": 0.7,
     "base": 439.34,
-    "last": 445.03,
+    "last": 442.4,
     "base_date": "2026-07-23",
     "last_date": "2026-07-24"
    }
@@ -245,9 +262,9 @@
    "reason": "Trump explicitly praises Michael Dell and Dell company after major donation; direct endorsement of named public company.",
    "price_since": {
     "ticker": "DELL",
-    "pct": 1.3,
+    "pct": 0.7,
     "base": 439.34,
-    "last": 445.03,
+    "last": 442.4,
     "base_date": "2026-07-23",
     "last_date": "2026-07-24"
    }
@@ -269,9 +286,9 @@
    "reason": "Trump hyped Michael Dell and Dell following donation; explicit positive mention of named company",
    "price_since": {
     "ticker": "DELL",
-    "pct": 1.3,
+    "pct": 0.7,
     "base": 439.34,
-    "last": 445.03,
+    "last": 442.4,
     "base_date": "2026-07-23",
     "last_date": "2026-07-24"
    }
@@ -293,9 +310,9 @@
    "reason": "Critical metals stock surge implied by Trump's renewed Greenland interest; metals/tech exposure plays.",
    "price_since": {
     "ticker": "SMH",
-    "pct": -1.7,
+    "pct": -2.6,
     "base": 580.17,
-    "last": 570.15,
+    "last": 565.22,
     "base_date": "2026-07-23",
     "last_date": "2026-07-24"
    }
@@ -317,9 +334,9 @@
    "reason": "Greenland Energy securing Arctic rig capacity; Arctic exploration bullish for energy.",
    "price_since": {
     "ticker": "XLE",
-    "pct": 0.5,
+    "pct": 0.6,
     "base": 59.38,
-    "last": 59.69,
+    "last": 59.76,
     "base_date": "2026-07-23",
     "last_date": "2026-07-24"
    }
@@ -341,9 +358,9 @@
    "reason": "Renewed geopolitical tensions in Hormuz Strait typically push oil/energy sector higher",
    "price_since": {
     "ticker": "XLE",
-    "pct": 0.5,
+    "pct": 0.6,
     "base": 59.38,
-    "last": 59.69,
+    "last": 59.76,
     "base_date": "2026-07-23",
     "last_date": "2026-07-24"
    }
@@ -365,9 +382,9 @@
    "reason": "Intel rally attributed to Trump factor plus other fundamentals; mixed signal, ambiguous direction",
    "price_since": {
     "ticker": "INTC",
-    "pct": -4.0,
+    "pct": -5.7,
     "base": 100.23,
-    "last": 96.25,
+    "last": 94.5,
     "base_date": "2026-07-23",
     "last_date": "2026-07-24"
    }
@@ -389,9 +406,9 @@
    "reason": "Trump endorsement typically bullish for PLTR, but Burry's short view suggests mixed sentiment; direction ambiguous",
    "price_since": {
     "ticker": "PLTR",
-    "pct": -0.3,
+    "pct": 0.3,
     "base": 123.37,
-    "last": 123.04,
+    "last": 123.78,
     "base_date": "2026-07-23",
     "last_date": "2026-07-24"
    }
@@ -415,7 +432,7 @@
     "ticker": "C",
     "pct": 0.2,
     "base": 131.88,
-    "last": 132.1,
+    "last": 132.16,
     "base_date": "2026-07-23",
     "last_date": "2026-07-24"
    }
@@ -437,9 +454,9 @@
    "reason": "Algorithmic trading on Trump posts suggests market impact but no directional bias disclosed",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.4,
+    "pct": 0.2,
     "base": 738.18,
-    "last": 741.41,
+    "last": 739.84,
     "base_date": "2026-07-23",
     "last_date": "2026-07-24"
    }
@@ -461,9 +478,9 @@
    "reason": "Meta-signal: Wall Street paying for fast-track Trump posts; implies market sees his endorsements as valuable, bullish for DJT platform.",
    "price_since": {
     "ticker": "DJT",
-    "pct": 0.3,
+    "pct": -0.3,
     "base": 8.89,
-    "last": 8.92,
+    "last": 8.86,
     "base_date": "2026-07-23",
     "last_date": "2026-07-24"
    }
@@ -485,9 +502,9 @@
    "reason": "Reports Trump will fire FDA chief Makary; biotech/pharma stocks rally on expectation of lighter FDA regulation.",
    "price_since": {
     "ticker": "XBI",
-    "pct": -0.2,
+    "pct": -0.9,
     "base": 152.11,
-    "last": 151.81,
+    "last": 150.68,
     "base_date": "2026-07-22",
     "last_date": "2026-07-24"
    }
@@ -525,9 +542,9 @@
    "reason": "Potential military/geopolitical action toward Cuba may raise energy/oil volatility and geopolitical risk; bearish tone.",
    "price_since": {
     "ticker": "XLE",
-    "pct": 0.8,
+    "pct": 0.9,
     "base": 59.2,
-    "last": 59.69,
+    "last": 59.76,
     "base_date": "2026-07-22",
     "last_date": "2026-07-24"
    }
@@ -549,9 +566,9 @@
    "reason": "Stock rallying into SOTU but no specific catalyst disclosed; speculative momentum",
    "price_since": {
     "ticker": "IBRX",
-    "pct": -3.9,
+    "pct": -5.6,
     "base": 7.51,
-    "last": 7.22,
+    "last": 7.09,
     "base_date": "2026-07-22",
     "last_date": "2026-07-24"
    }
@@ -573,9 +590,9 @@
    "reason": "Social media praise can move media/comms stocks; direction ambiguous without specific content",
    "price_since": {
     "ticker": "FOX",
-    "pct": -2.3,
+    "pct": -1.6,
     "base": 50.63,
-    "last": 49.45,
+    "last": 49.81,
     "base_date": "2026-07-22",
     "last_date": "2026-07-24"
    }
@@ -2719,54 +2736,6 @@
     "pct": -0.9,
     "base": 750.72,
     "last": 743.84,
-    "base_date": "2026-07-16",
-    "last_date": "2026-07-17"
-   }
-  },
-  {
-   "date": "2026-07-16T15:49:45Z",
-   "platform": "News",
-   "text": "Trump's posts and stock trades raise fresh conflict-of-interest questions: Report - Firstpost \u2014 Trump's posts and stock trades raise fresh conflict-of-interest questions: Report\u00a0\u00a0Firstpost",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdDBKNWhIWVV0cDVuUUxaOHMyWER3Sm80cjhQWV9fTUltZXhOVlRFbTNaMFE2N0tMbVBnNzIwQXIzdzYzSXVfanF2YlU0Q3g4Rm1hQlNzREJaemJaU2NQSThrcGEzUTJLLVVhSVozNnVyTEZfZy1UdEI5cERQZlZEUnNrNDQ4Z3lCc01RNUdObEV4ZFJtUURuZnVuNExuek9oa2R1RU8zSUJzTFR5WTYxdWJ2YndQbXZ5X2U2aV9lMkgwTFk5VXlj0gHMAUFVX3lxTE1VcVpYSmVRWTNEMXlwSUx2NTJnMW0wTTFQRUtsSndTdVdzRU9JaVg3bE11T0tmN19odzFrWS1mR1Byd0lIVy1LUHBGMGpTR210YzRUOUwwTE9sMFh4ampsd0VaMWMydnhzNTJmdTR6d1Zoa1I1ZFk2a3QzVHFNd0dTV3dpN0JBN05XVExrS2diSXlBaVRiaWNTWThnWDdZSGxSZDR4ZFFpVm9HVFFaZTZQZlZQNUlvVnA2MkV6ZG40NElXRVBTbzV3dVdERw?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "SPY",
-   "strength": 30,
-   "reason": "Conflict-of-interest questions about Trump's posts and stock trades; market-relevant but direction and specificity unclear.",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": -0.9,
-    "base": 750.72,
-    "last": 743.85,
-    "base_date": "2026-07-16",
-    "last_date": "2026-07-17"
-   }
-  },
-  {
-   "date": "2026-07-16T15:33:14Z",
-   "platform": "News",
-   "text": "'Go Out and Buy a Dell': Trump Touted 20+ Corporations Days After Buying Their Stock - Common Dreams \u2014 'Go Out and Buy a Dell': Trump Touted 20+ Corporations Days After Buying Their Stock\u00a0\u00a0Common Dreams",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdGFmaURuR3E2RVN2OG5fbDVmT3RvYm9aQXN1c28wTXJxc2FKWndYMWdYb2JRa0ZtSnhaejhxdVUzRGpjVjhMcEt2TG9SQnpyUFhtWDIzVlRhZVdINElydHJrNXBSN3poeUVuZlQ0NUhJYW9Od1k3czJaZ09HVUtGTWNoNjNfOXBYTGVaU0g0WFA1ZzZfT3R0T2xmb1ppZF9BakE4NTRaSzJDdkplT05yUnNwZ1o?oc=5",
-   "tickers": [
-    "DELL"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "DELL",
-   "strength": 80,
-   "reason": "Trump explicitly told people 'Go Out and Buy a Dell' after buying stock; direct pump signal on DELL.",
-   "price_since": {
-    "ticker": "DELL",
-    "pct": 2.1,
-    "base": 391.38,
-    "last": 399.61,
     "base_date": "2026-07-16",
     "last_date": "2026-07-17"
    }
