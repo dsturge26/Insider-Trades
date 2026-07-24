@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-07-23T23:39:51Z",
+ "last_updated": "2026-07-24T01:09:37Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -100,6 +100,22 @@
    "reason": "Trump hyped Michael Dell and Dell following donation; explicit positive mention of named company"
   },
   {
+   "date": "2026-07-23T10:14:30Z",
+   "platform": "News",
+   "text": "Critical Metals Stock Surges As Trump Sets Sights On Greenland Yet Again: 'Big, Poorly Run, Piece Of Ice!' - Stocktwits \u2014 Critical Metals Stock Surges As Trump Sets Sights On Greenland Yet Again: 'Big, Poorly Run, Piece Of Ice!'\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZFdENjBoV0hEenBRM0VFTG9UR1JuV200S0NBMFBVdFdSSVN6V1pNSWZGeEMwbWNMMFI4ZVQyNTZyclFQQlBXbUVUeDZSbFI4YWhvTzBRLWtwU3ZUcXBRdWRVbEM0a3dCTGFsNXhYZGpDZGJuR1k3NlhmSzJ6RV9yZE04Um84WjJuQ3B1cW9peE44UTZTWjNueEpPTHJOeUxyMGM3czlaeHVFQkJxY1FaNG54dUhKc2ZkZk9tVGk0UUlHMjlCeGptTFBDWWRoREhnTUE?oc=5",
+   "tickers": [
+    "SMH"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "SMH",
+   "strength": 50,
+   "reason": "Critical metals stock surge implied by Trump's renewed Greenland interest; metals/tech exposure plays."
+  },
+  {
    "date": "2026-07-23T07:52:40Z",
    "platform": "News",
    "text": "\u2018NACHO\u2019 Trade Returns: Oil Prices Climb On Renewed Tensions In Hormuz Strait - Stocktwits \u2014 \u2018NACHO\u2019 Trade Returns: Oil Prices Climb On Renewed Tensions In Hormuz Strait\u00a0\u00a0Stocktwits",
@@ -178,6 +194,22 @@
    "primary_ticker": "SPY",
    "strength": 35,
    "reason": "Algorithmic trading on Trump posts suggests market impact but no directional bias disclosed"
+  },
+  {
+   "date": "2026-07-23T00:00:00Z",
+   "platform": "News",
+   "text": "Why Wall Street Firms Are Paying $100,000 a Month for a Fast Track to Trump Posts - WSJ \u2014 Why Wall Street Firms Are Paying $100,000 a Month for a Fast Track to Trump Posts\u00a0\u00a0WSJ",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPU3UxTnU2ZzVqX1BLUmQzdFd0SU5pN0VuTXVOajAyZHgxUEhaeVZoVVM2OEtNcktLLWltVENMZzZhSUEyU3RHenF6akQyTU9xelo2UnA4Njkzb0FMSm9PNURJVGZ6YWR3eXNiaWEzQzZSQWF4V203U1VTbmJna05pX3hxMlBDeGNoOTIzSVU1cWNrX2drM1JfTlkyc3hwaGdUNlVGNG9qZi1fUWFVU0E?oc=5",
+   "tickers": [
+    "DJT"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "DJT",
+   "strength": 50,
+   "reason": "Meta-signal: Wall Street paying for fast-track Trump posts; implies market sees his endorsements as valuable, bullish for DJT platform."
   },
   {
    "date": "2026-07-22T22:41:49Z",
@@ -1705,30 +1737,6 @@
    "reason": "Trump explicitly endorses MyPillow CEO Mike Lindell; positive signal for MyPillow (Sealy Brands parent/ticker proxy), though endorsement context (political race) limits stock impact."
   },
   {
-   "date": "2026-07-17T23:39:46Z",
-   "platform": "News",
-   "text": "Critical Metals Stock Surges As Trump Sets Sights On Greenland Yet Again: 'Big, Poorly Run, Piece Of Ice!' - Stocktwits \u2014 Critical Metals Stock Surges As Trump Sets Sights On Greenland Yet Again: 'Big, Poorly Run, Piece Of Ice!'\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZFdENjBoV0hEenBRM0VFTG9UR1JuV200S0NBMFBVdFdSSVN6V1pNSWZGeEMwbWNMMFI4ZVQyNTZyclFQQlBXbUVUeDZSbFI4YWhvTzBRLWtwU3ZUcXBRdWRVbEM0a3dCTGFsNXhYZGpDZGJuR1k3NlhmSzJ6RV9yZE04Um84WjJuQ3B1cW9peE44UTZTWjNueEpPTHJOeUxyMGM3czlaeHVFQkJxY1FaNG54dUhKc2ZkZk9tVGk0UUlHMjlCeGptTFBDWWRoREhnTUE?oc=5",
-   "tickers": [
-    "XLE"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "XLE",
-   "strength": 55,
-   "reason": "Trump interest in Greenland acquisition implies expansion of critical mineral/resource plays; bullish for materials sector",
-   "price_since": {
-    "ticker": "XLE",
-    "pct": 0.5,
-    "base": 57.68,
-    "last": 57.94,
-    "base_date": "2026-07-17",
-    "last_date": "2026-07-21"
-   }
-  },
-  {
    "date": "2026-07-17T23:15:22Z",
    "platform": "News",
    "text": "Trump promoted companies on Truth Social days after buying their stocks - Modern Ghana \u2014 Trump promoted companies on Truth Social days after buying their stocks\u00a0\u00a0Modern Ghana",
@@ -2625,70 +2633,6 @@
     "base_date": "2026-07-16",
     "last_date": "2026-07-17"
    }
-  },
-  {
-   "date": "2026-07-16T14:36:07Z",
-   "platform": "News",
-   "text": "Nvidia, Tesla, Apple: Trump promoted companies after buying their stocks, says report - The Indian Express \u2014 Nvidia, Tesla, Apple: Trump promoted companies after buying their stocks, says report\u00a0\u00a0The Indian Express",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcjE4OWNqVmFXUF9YVE50d2Jzb25sQlRKclFkTU9ENC1QZ0prcXQtYXJ1elhtQjJiQll5TEl2SmdIZnZ6RFBFckQ0Y2YwUnVFTG90TVh2aWM5WDFXdFRGbEpwWFgwS29KSWZTdkwyTUoyd0taajdJWnN5TzFOZmd1Z3hGcS1LMnZEVDlTaTVEdXphOWhQci1uQzQyaWNsQ2JqbUhualBqZmRIckNnSVVXa2JUTUMtU2_SAb4BQVVfeXFMUE53OUZfVEtEMjdhR2JNNjFhaVh6WHZBYVNqM1VmbVhwaHlQWEl6WmtNaDBZUXdsQWZ1Um9hM1ZRcjd6NnZBXzYtb0VvSnJtanFXLXNHbTlIQmU0OVR1eFBzWVM3U3Rrc1hJamx2SG1Oc3psNkdjQTBHMXFjNjVzNXpuNF9Fazhld1pJMXZ4T2Y0NnFMR1FPM1BvVEtCdGpCUG04NlNYSERwakZGRVN1N1hodVp2WHdkUmxjc29wdw?oc=5",
-   "tickers": [
-    "NVDA"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "NVDA",
-   "strength": 75,
-   "reason": "Trump promoted NVDA, TSLA, AAPL after buying their stocks; explicit market-moving endorsement."
-  },
-  {
-   "date": "2026-07-16T10:00:25Z",
-   "platform": "News",
-   "text": "Trump promoted companies on Truth Social days after buying their stocks - CNN \u2014 Trump promoted companies on Truth Social days after buying their stocks\u00a0\u00a0CNN",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9tWFFXdnV0eVdtRnZwU3gyV1RFUktJd0dFSFRremZ5S3R3dWJtWmpENzd2QmZ0WFBlU0UtVXlUTWE0REI5R0pRd1BjenRDU28wak9YY0wyU0lPX09fUlRTV0xSRHM2b0VYZDA5bm9xQ19mSTNISUQtNUlDODRSZw?oc=5",
-   "tickers": [
-    "DELL"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "DELL",
-   "strength": 75,
-   "reason": "Trump promoted companies after buying their stocks \u2014 explicit market signal of buying"
-  },
-  {
-   "date": "2026-07-16T06:07:45Z",
-   "platform": "News",
-   "text": "Donald Trump Promotes Dell Technologies Driving Seven Percent Stock Surge - sekbernews.id \u2014 Donald Trump Promotes Dell Technologies Driving Seven Percent Stock Surge\u00a0\u00a0sekbernews.id",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBDQ3I2LXFQSkItTDVfd2hORnFlRU1qUVUyQ1JxTUFvNmxtbld5dWttRnA2dFJfVG1sUUROWFhEOHRMSldOaUNLRjkycHA3Xy1aYlN5YzVReFc4WDJSVjl2TFplTjZoX0Z4ZlZ4bQ?oc=5",
-   "tickers": [
-    "DELL"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "DELL",
-   "strength": 80,
-   "reason": "Trump explicitly promotes Dell Technologies, driving stock surge"
-  },
-  {
-   "date": "2026-07-16T00:20:00Z",
-   "platform": "News",
-   "text": "Donald Trump endorses 'Pillow Man' Mike Lindell for Minnesota governor - Yahoo! Finance Canada \u2014 Donald Trump endorses 'Pillow Man' Mike Lindell for Minnesota governor\u00a0\u00a0Yahoo! Finance Canada",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVlRQVWxNbzl4SVpZYWRtMW1DV3pLZzVZYVQ2Ni1UcDFtRS1JSExPcENlRzAwUnFlcWxneXYwYktZb2tqVWJYSFlEakZ0LUpCcWc3OGZsQVBEVGE4VE9uM1o5SEVfVWdwNEVVT0ozZ0JUZ3Fpd0pZQ3htNlNnQ05VM2VxQXR4R191?oc=5",
-   "tickers": [
-    "MLHR"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "MLHR",
-   "strength": 50,
-   "reason": "Trump endorses MyPillow CEO Mike Lindell; endorsement could boost MyPillow brand/sentiment, though company is majority private"
   },
   {
    "curated": true,
