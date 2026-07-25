@@ -1,12 +1,12 @@
 {
- "last_updated": "2026-07-25T04:28:22Z",
+ "last_updated": "2026-07-25T06:40:24Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
-   "date": "2026-07-24T22:15:44Z",
+   "date": "2026-07-24T23:39:47Z",
    "platform": "News",
    "text": "Mixed close on Wall Street amid U.S.-Iran fighting, new Trump tariffs - Modern Ghana \u2014 Mixed close on Wall Street amid U.S.-Iran fighting, new Trump tariffs\u00a0\u00a0Modern Ghana",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1NUHo3dk10WGY0SU5BZ1JOY2k4MWNOd0FiU0JqeTBJT2g1bjQ1TENjbmFFNV9RWmMwck9jV3JqMVZjelNXZHF6M3Y1S2xlQjNRX05oMFE3d2VWNWlEZ2xj0gFcQVVfeXFMTWs2YTh4cjFWc2ZUWDU0V2FNd0NKVDVmTVRrQkhtMXRydnlUb004V3pNZFFMbXhqQWpERVI3S1UzUkxvcDlXSkJUM3ZGU1dleUt2TzNTVHdfWm85WHY?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9malp2eWx5a0RTOGJockpHaGdMNTRnWjZzdDhPSERHV2hDSmtEQlZvWDdzb2lTLWF3RXRpQzlsTG90c2NoZXlSQ0lXNnhaYnFqUEpyOFFUb3NNMzR3aUUw0gFcQVVfeXFMTWs2YTh4cjFWc2ZUWDU0V2FNd0NKVDVmTVRrQkhtMXRydnlUb004V3pNZFFMbXhqQWpERVI3S1UzUkxvcDlXSkJUM3ZGU1dleUt2TzNTVHdfWm85WHY?oc=5",
    "tickers": [
     "SPY"
    ],
@@ -16,7 +16,7 @@
    "direction": "SELL",
    "primary_ticker": "SPY",
    "strength": 45,
-   "reason": "New Trump tariffs announced; mixed market close reflects tariff uncertainty and geopolitical tension."
+   "reason": "new Trump tariffs announced, bearish for broad market"
   },
   {
    "date": "2026-07-24T18:10:27Z",
@@ -162,7 +162,15 @@
    "direction": "BUY",
    "primary_ticker": "SPY",
    "strength": 25,
-   "reason": "company pledge on infrastructure/energy suggests positive business environment"
+   "reason": "company pledge on infrastructure/energy suggests positive business environment",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": 0.1,
+    "base": 738.18,
+    "last": 738.93,
+    "base_date": "2026-07-23",
+    "last_date": "2026-07-24"
+   }
   },
   {
    "date": "2026-07-23T15:12:12Z",
@@ -178,7 +186,15 @@
    "direction": "BUY",
    "primary_ticker": "DELL",
    "strength": 75,
-   "reason": "Trump explicitly praised Michael Dell again; direct CEO/company endorsement is bullish for Dell stock"
+   "reason": "Trump explicitly praised Michael Dell again; direct CEO/company endorsement is bullish for Dell stock",
+   "price_since": {
+    "ticker": "DELL",
+    "pct": -0.4,
+    "base": 439.34,
+    "last": 437.5,
+    "base_date": "2026-07-23",
+    "last_date": "2026-07-24"
+   }
   },
   {
    "date": "2026-07-23T14:32:20Z",
@@ -194,7 +210,15 @@
    "direction": "BUY",
    "primary_ticker": "DELL",
    "strength": 85,
-   "reason": "Trump explicitly endorsed DELL; stock spiked to record highs on direct praise"
+   "reason": "Trump explicitly endorsed DELL; stock spiked to record highs on direct praise",
+   "price_since": {
+    "ticker": "DELL",
+    "pct": -0.4,
+    "base": 439.34,
+    "last": 437.5,
+    "base_date": "2026-07-23",
+    "last_date": "2026-07-24"
+   }
   },
   {
    "date": "2026-07-23T11:52:51.658Z",
@@ -211,7 +235,15 @@
    "direction": "BUY",
    "primary_ticker": "XLE",
    "strength": 45,
-   "reason": "Civil nuclear deal with Saudi Arabia signals energy infrastructure investment and geopolitical stability, bullish for energy sector"
+   "reason": "Civil nuclear deal with Saudi Arabia signals energy infrastructure investment and geopolitical stability, bullish for energy sector",
+   "price_since": {
+    "ticker": "XLE",
+    "pct": 0.4,
+    "base": 59.38,
+    "last": 59.62,
+    "base_date": "2026-07-23",
+    "last_date": "2026-07-24"
+   }
   },
   {
    "date": "2026-07-23T11:19:05Z",
@@ -227,7 +259,15 @@
    "direction": "SELL",
    "primary_ticker": "NVDA",
    "strength": 60,
-   "reason": "Trump reports China blocking NVDA H200 chip sales; direct bearish signal for semiconductor export"
+   "reason": "Trump reports China blocking NVDA H200 chip sales; direct bearish signal for semiconductor export",
+   "price_since": {
+    "ticker": "NVDA",
+    "pct": -0.9,
+    "base": 208.76,
+    "last": 206.84,
+    "base_date": "2026-07-23",
+    "last_date": "2026-07-24"
+   }
   },
   {
    "date": "2026-07-23T10:27:35Z",
@@ -243,7 +283,15 @@
    "direction": "BUY",
    "primary_ticker": "DELL",
    "strength": 70,
-   "reason": "Trump directly hyped/praised Michael Dell and Dell following donation; explicit positive mention of named company"
+   "reason": "Trump directly hyped/praised Michael Dell and Dell following donation; explicit positive mention of named company",
+   "price_since": {
+    "ticker": "DELL",
+    "pct": -0.4,
+    "base": 439.34,
+    "last": 437.5,
+    "base_date": "2026-07-23",
+    "last_date": "2026-07-24"
+   }
   },
   {
    "date": "2026-07-23T10:26:54Z",
@@ -259,7 +307,15 @@
    "direction": "BUY",
    "primary_ticker": "DELL",
    "strength": 72,
-   "reason": "Trump explicitly praises Michael Dell and Dell company after major donation; direct endorsement of named public company."
+   "reason": "Trump explicitly praises Michael Dell and Dell company after major donation; direct endorsement of named public company.",
+   "price_since": {
+    "ticker": "DELL",
+    "pct": -0.4,
+    "base": 439.34,
+    "last": 437.5,
+    "base_date": "2026-07-23",
+    "last_date": "2026-07-24"
+   }
   },
   {
    "date": "2026-07-23T10:26:54Z",
@@ -275,7 +331,15 @@
    "direction": "BUY",
    "primary_ticker": "DELL",
    "strength": 70,
-   "reason": "Trump hyped Michael Dell and Dell following donation; explicit positive mention of named company"
+   "reason": "Trump hyped Michael Dell and Dell following donation; explicit positive mention of named company",
+   "price_since": {
+    "ticker": "DELL",
+    "pct": -0.4,
+    "base": 439.34,
+    "last": 437.5,
+    "base_date": "2026-07-23",
+    "last_date": "2026-07-24"
+   }
   },
   {
    "date": "2026-07-23T10:14:30Z",
@@ -291,7 +355,15 @@
    "direction": "BUY",
    "primary_ticker": "SMH",
    "strength": 50,
-   "reason": "Critical metals stock surge implied by Trump's renewed Greenland interest; metals/tech exposure plays."
+   "reason": "Critical metals stock surge implied by Trump's renewed Greenland interest; metals/tech exposure plays.",
+   "price_since": {
+    "ticker": "SMH",
+    "pct": -3.3,
+    "base": 580.17,
+    "last": 561.19,
+    "base_date": "2026-07-23",
+    "last_date": "2026-07-24"
+   }
   },
   {
    "date": "2026-07-23T09:19:29Z",
@@ -307,7 +379,15 @@
    "direction": "BUY",
    "primary_ticker": "XLE",
    "strength": 50,
-   "reason": "Greenland Energy securing Arctic rig capacity; Arctic exploration bullish for energy."
+   "reason": "Greenland Energy securing Arctic rig capacity; Arctic exploration bullish for energy.",
+   "price_since": {
+    "ticker": "XLE",
+    "pct": 0.4,
+    "base": 59.38,
+    "last": 59.62,
+    "base_date": "2026-07-23",
+    "last_date": "2026-07-24"
+   }
   },
   {
    "date": "2026-07-23T07:52:40Z",
@@ -323,7 +403,15 @@
    "direction": "BUY",
    "primary_ticker": "XLE",
    "strength": 55,
-   "reason": "Renewed geopolitical tensions in Hormuz Strait typically push oil/energy sector higher"
+   "reason": "Renewed geopolitical tensions in Hormuz Strait typically push oil/energy sector higher",
+   "price_since": {
+    "ticker": "XLE",
+    "pct": 0.4,
+    "base": 59.38,
+    "last": 59.62,
+    "base_date": "2026-07-23",
+    "last_date": "2026-07-24"
+   }
   },
   {
    "date": "2026-07-23T05:30:16Z",
@@ -339,7 +427,15 @@
    "direction": "WATCH",
    "primary_ticker": "INTC",
    "strength": 40,
-   "reason": "Intel rally attributed to Trump factor plus other fundamentals; mixed signal, ambiguous direction"
+   "reason": "Intel rally attributed to Trump factor plus other fundamentals; mixed signal, ambiguous direction",
+   "price_since": {
+    "ticker": "INTC",
+    "pct": -7.9,
+    "base": 100.23,
+    "last": 92.32,
+    "base_date": "2026-07-23",
+    "last_date": "2026-07-24"
+   }
   },
   {
    "date": "2026-07-23T04:47:16Z",
@@ -355,7 +451,15 @@
    "direction": "WATCH",
    "primary_ticker": "PLTR",
    "strength": 45,
-   "reason": "Trump endorsement typically bullish for PLTR, but Burry's short view suggests mixed sentiment; direction ambiguous"
+   "reason": "Trump endorsement typically bullish for PLTR, but Burry's short view suggests mixed sentiment; direction ambiguous",
+   "price_since": {
+    "ticker": "PLTR",
+    "pct": -0.4,
+    "base": 123.37,
+    "last": 122.92,
+    "base_date": "2026-07-23",
+    "last_date": "2026-07-24"
+   }
   },
   {
    "date": "2026-07-23T02:21:32Z",
@@ -371,7 +475,15 @@
    "direction": "BUY",
    "primary_ticker": "C",
    "strength": 68,
-   "reason": "Trump explicitly lauds Citi's M&A comeback; direct praise of named public company stock."
+   "reason": "Trump explicitly lauds Citi's M&A comeback; direct praise of named public company stock.",
+   "price_since": {
+    "ticker": "C",
+    "pct": 0.2,
+    "base": 131.88,
+    "last": 132.19,
+    "base_date": "2026-07-23",
+    "last_date": "2026-07-24"
+   }
   },
   {
    "date": "2026-07-23T00:00:00Z",
@@ -387,7 +499,15 @@
    "direction": "WATCH",
    "primary_ticker": "SPY",
    "strength": 35,
-   "reason": "Algorithmic trading on Trump posts suggests market impact but no directional bias disclosed"
+   "reason": "Algorithmic trading on Trump posts suggests market impact but no directional bias disclosed",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": 0.1,
+    "base": 738.18,
+    "last": 738.93,
+    "base_date": "2026-07-23",
+    "last_date": "2026-07-24"
+   }
   },
   {
    "date": "2026-07-23T00:00:00Z",
@@ -403,7 +523,15 @@
    "direction": "WATCH",
    "primary_ticker": "DJT",
    "strength": 50,
-   "reason": "Meta-signal: Wall Street paying for fast-track Trump posts; implies market sees his endorsements as valuable, bullish for DJT platform."
+   "reason": "Meta-signal: Wall Street paying for fast-track Trump posts; implies market sees his endorsements as valuable, bullish for DJT platform.",
+   "price_since": {
+    "ticker": "DJT",
+    "pct": -3.7,
+    "base": 8.89,
+    "last": 8.56,
+    "base_date": "2026-07-23",
+    "last_date": "2026-07-24"
+   }
   },
   {
    "date": "2026-07-22T22:41:49Z",
@@ -422,11 +550,11 @@
    "reason": "Reports Trump will fire FDA chief Makary; biotech/pharma stocks rally on expectation of lighter FDA regulation.",
    "price_since": {
     "ticker": "XBI",
-    "pct": 0.1,
+    "pct": -1.1,
     "base": 152.11,
-    "last": 152.23,
+    "last": 150.48,
     "base_date": "2026-07-22",
-    "last_date": "2026-07-23"
+    "last_date": "2026-07-24"
    }
   },
   {
@@ -462,11 +590,11 @@
    "reason": "Potential military/geopolitical action toward Cuba may raise energy/oil volatility and geopolitical risk; bearish tone.",
    "price_since": {
     "ticker": "XLE",
-    "pct": 0.3,
+    "pct": 0.7,
     "base": 59.2,
-    "last": 59.38,
+    "last": 59.62,
     "base_date": "2026-07-22",
-    "last_date": "2026-07-23"
+    "last_date": "2026-07-24"
    }
   },
   {
