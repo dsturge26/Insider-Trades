@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-07-26T19:57:20Z",
+ "last_updated": "2026-07-26T21:03:18Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-07-26T10:28:16Z",
+   "platform": "News",
+   "text": "IBM Stock Rallies On Trump Administration\u2019s $1B Grant: Analysts Say \u2018Big Blue\u2019 Could Become First US Quantum Foundry - Stocktwits \u2014 IBM Stock Rallies On Trump Administration\u2019s $1B Grant: Analysts Say \u2018Big Blue\u2019 Could Become First US Quantum Foundry\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOVG52c0VBRjZ6TzVuLThuSWdTN3NxMlIzUEc0aWVkUllDZDJMSVVMRlo1Rkgxb1Rja2swU1JlcVhlbmg4ejlfeGJoRGkzVG1VSEM4ZC1McWtGQnNVYklYVjYwQVliTHRoX3NqZDJZV0dlQ2NTaC1NaHhFaVAtdmVjdzVGcFhSangwdDluaTltYXZ3TXhaWWxISmlPREpkQ0N2VHdEMENJUkpDaDBGcUhSdXFZdExXbkhPaENSWlAxbVhPS3EyTnoyc3NoX2RpOXNqeEFYaFhhaGYxQUxRaWR0QUJwQ0J5VmhBY3ZpOV9YMVNjeUZlRHRzVXBLS3BpSER4VXpVWTVsYS1aZw?oc=5",
+   "tickers": [
+    "IBM"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "IBM",
+   "strength": 75,
+   "reason": "Trump administration awarded IBM $1B federal grant for quantum computing"
+  },
   {
    "date": "2026-07-26T09:50:53Z",
    "platform": "News",
@@ -145,22 +161,6 @@
    "primary_ticker": "DELL",
    "strength": 60,
    "reason": "Trump reportedly purchased and promoted DELL stock; direct endorsement of a named public company."
-  },
-  {
-   "date": "2026-07-25T04:38:12Z",
-   "platform": "News",
-   "text": "IBM Stock Rallies On Trump Administration\u2019s $1B Grant: Analysts Say \u2018Big Blue\u2019 Could Become First US Quantum Foundry - Stocktwits \u2014 IBM Stock Rallies On Trump Administration\u2019s $1B Grant: Analysts Say \u2018Big Blue\u2019 Could Become First US Quantum Foundry\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOVG52c0VBRjZ6TzVuLThuSWdTN3NxMlIzUEc0aWVkUllDZDJMSVVMRlo1Rkgxb1Rja2swU1JlcVhlbmg4ejlfeGJoRGkzVG1VSEM4ZC1McWtGQnNVYklYVjYwQVliTHRoX3NqZDJZV0dlQ2NTaC1NaHhFaVAtdmVjdzVGcFhSangwdDluaTltYXZ3TXhaWWxISmlPREpkQ0N2VHdEMENJUkpDaDBGcUhSdXFZdExXbkhPaENSWlAxbVhPS3EyTnoyc3NoX2RpOXNqeEFYaFhhaGYxQUxRaWR0QUJwQ0J5VmhBY3ZpOV9YMVNjeUZlRHRzVXBLS3BpSER4VXpVWTVsYS1aZw?oc=5",
-   "tickers": [
-    "IBM"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "IBM",
-   "strength": 75,
-   "reason": "Trump administration awarded IBM a $1B federal contract for quantum foundry; direct federal award to named public company."
   },
   {
    "date": "2026-07-25T01:18:30Z",
@@ -2563,22 +2563,6 @@
    "primary_ticker": "DJT",
    "strength": 35,
    "reason": "Truth Social early-access monetization increases DJT revenue/value proposition"
-  },
-  {
-   "date": "2026-07-17T01:06:17Z",
-   "platform": "News",
-   "text": "Wall Street can now pay to get Trump\u2019s Truth posts about markets before everyone else - Cryptopolitan \u2014 Wall Street can now pay to get Trump\u2019s Truth posts about markets before everyone else\u00a0\u00a0Cryptopolitan",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9WWHpRVF9qb0h4Q3ZQbVp6bDJJb1NXejZwbDZtekEyRl9HSGQ0ZXBNTVhzZEE0dWxLQTA5dFRoQ19JcFFsek1CWHV6U1d0eVR0Q1ZDMTdBWEJWSnkxMlUxdTZPUHNoWHRFejhIbVVGVTM?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "SPY",
-   "strength": 40,
-   "reason": "Wall Street early access to Trump market posts creates information asymmetry; ambiguous long-term impact"
   },
   {
    "curated": true,
