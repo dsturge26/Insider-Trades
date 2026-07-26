@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-07-26T16:36:04Z",
+ "last_updated": "2026-07-26T17:44:21Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -17,6 +17,22 @@
    "primary_ticker": "TSLA",
    "strength": 45,
    "reason": "FSD delays and factory concerns weigh on Tesla outlook amid China trip"
+  },
+  {
+   "date": "2026-07-26T02:22:10Z",
+   "platform": "News",
+   "text": "Trump Says China Has Not Approved NVDA H200 Chip Purchases Yet \u2014 'They Want To Develop Their Own' - Stocktwits \u2014 Trump Says China Has Not Approved NVDA H200 Chip Purchases Yet \u2014 'They Want To Develop Their Own'\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZ2oxZ3ZfNVpTWGQwLTY3T0xzazUxbWY2a3ZreDlRRGE0ZHQxbmNRR29RSm11VXBPajBkd1V1M0VhRUJvVUp0V2lfM3ladmswQ2hMWGlsUjY5RE1ERXR0LTBwN2JLYTBNUk1GRC1QbjktYTlkeTU5MlgteEpYeURwZmhaR2NjUUJMVWs5SGVnbm9uTEZ2dkdmSmVVdzctQ0I3clJZZFM1YnVqbkd1RG9kQlpXUjY?oc=5",
+   "tickers": [
+    "NVDA"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "NVDA",
+   "strength": 55,
+   "reason": "China restricting H200 chip sales limits NVIDIA's high-margin data center revenue from key market."
   },
   {
    "date": "2026-07-25T23:37:27Z",
@@ -355,22 +371,6 @@
    "primary_ticker": "SPY",
    "strength": 35,
    "reason": "Tariffs and oil surge create mixed macro headwinds; multiple stocks mentioned but no clear directional call"
-  },
-  {
-   "date": "2026-07-24T07:23:03Z",
-   "platform": "News",
-   "text": "Trump Says China Has Not Approved NVDA H200 Chip Purchases Yet \u2014 'They Want To Develop Their Own' - Stocktwits \u2014 Trump Says China Has Not Approved NVDA H200 Chip Purchases Yet \u2014 'They Want To Develop Their Own'\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZ2oxZ3ZfNVpTWGQwLTY3T0xzazUxbWY2a3ZreDlRRGE0ZHQxbmNRR29RSm11VXBPajBkd1V1M0VhRUJvVUp0V2lfM3ladmswQ2hMWGlsUjY5RE1ERXR0LTBwN2JLYTBNUk1GRC1QbjktYTlkeTU5MlgteEpYeURwZmhaR2NjUUJMVWs5SGVnbm9uTEZ2dkdmSmVVdzctQ0I3clJZZFM1YnVqbkd1RG9kQlpXUjY?oc=5",
-   "tickers": [
-    "NVDA"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "NVDA",
-   "strength": 50,
-   "reason": "Trump states China has not approved NVDA H200 purchases; negative for NVDA export, but policy nuance; direction somewhat unclear."
   },
   {
    "date": "2026-07-24T04:56:38Z",
@@ -2563,22 +2563,6 @@
    "primary_ticker": "SPY",
    "strength": 40,
    "reason": "Wall Street early access to Trump market posts creates information asymmetry; ambiguous long-term impact"
-  },
-  {
-   "date": "2026-07-17T00:13:00Z",
-   "platform": "News",
-   "text": "\u2018Brazen corruption\u2019: critics denounce Trump Media plan to sell priority access to Truth Social posts - The Guardian \u2014 \u2018Brazen corruption\u2019: critics denounce Trump Media plan to sell priority access to Truth Social posts\u00a0\u00a0The Guardian",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORzItZU5TQlRFWVo3Vm9HaVQ0N2ZMR3pkV0lUSDVxN3BIa0lNcmNScDB1VThsd3BmNnRNeHNqLTV6ZU5UV2dWMEh0Z2lraEdvTGlPOTZlbFhMOXFLdndMb2JobzlIVzEyMUpaZ0VuLW14REdhNnREYTlGZjBVUTZKSUhVeEg?oc=5",
-   "tickers": [
-    "DJT"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "DJT",
-   "strength": 50,
-   "reason": "Trump Media's plan to sell Truth Social post access criticized; regulatory/ethical risk vs. revenue upside; unclear net effect"
   },
   {
    "curated": true,
