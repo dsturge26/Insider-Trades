@@ -1,7 +1,103 @@
 {
- "last_updated": "2026-07-25T06:40:24Z",
+ "last_updated": "2026-07-26T08:51:55Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-07-25T23:37:27Z",
+   "platform": "News",
+   "text": "Trump Mentions Palantir, but Who Is Alex Karp? - ascendants.in \u2014 Trump Mentions Palantir, but Who Is Alex Karp?\u00a0\u00a0ascendants.in",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBqS1JlZVdDY0hfSTVKWTJKRnBmX1NMSmxmNEFGZzIydHhDVXFSYWxDMWZjLWlJTVBUbXJnZVlPLVhiWVRUT09RYzZibjVFOG9vOTA0cUhFRlFsMndjLTdfWmxqQ3g0SEtRY09mME9LMnlIN28yREJz?oc=5",
+   "tickers": [
+    "PLTR"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "PLTR",
+   "strength": 25,
+   "reason": "Trump mentions Palantir but headline does not detail the context or endorsement level; ambiguous signal."
+  },
+  {
+   "date": "2026-07-25T14:59:16Z",
+   "platform": "News",
+   "text": "DJT Stock Slips Overnight: Truth Social To Sell Wall Street 'Fastest' Access To Trump's Posts - Stocktwits \u2014 DJT Stock Slips Overnight: Truth Social To Sell Wall Street 'Fastest' Access To Trump's Posts\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPMlA4d1JobmFISDVhdUVNOG1KZ3lYTVJCYjc0U09RMGZtdEdnV19hV0tfRmpNeVpzUGNQTlpnajJkQTdPUUN6cGJmVU5rUkdUcE9uTHc1SFJTRXMwOHFodDdaZkltOWlEby1yUWFkS3VSb01rem1tQU0xY3ZBdmRGU3dZTkJ5SlZZZVJXZVkzQjV6N0JjaGIyV1dZRUVQUUFUazlFenhzTFlMT1dkakRBdXBuMVllZEIwdUszRlFkU2VVSHc3azEtcjd5NWkyQWdDMWFfTHhJeFVqMmtaeHdLeXBLeXRNZG1mTEE?oc=5",
+   "tickers": [
+    "DJT"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "DJT",
+   "strength": 35,
+   "reason": "Truth Social product announcement (faster access for Wall Street); relates to DJT business but direction ambiguous."
+  },
+  {
+   "date": "2026-07-25T09:00:00Z",
+   "platform": "News",
+   "text": "California Senator Accuses Trump of Promoting Dell After Reported Stock Purchase: \u2018The Grift Never Stops\u2019 - The Nerd Stash \u2014 California Senator Accuses Trump of Promoting Dell After Reported Stock Purchase: \u2018The Grift Never Stops\u2019\u00a0\u00a0The Nerd Stash",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQc0hqNkYweVU0WTVUM3h1V3k1dXNRc3hiZGFqdTlnQVR1V0JKNTMzMFdXYUkwQnlZQjJ4N2dZZFFxeTNiS09ZTTd6bWU1SEZHNUJnaGhDRmlvNS1OYXVkb3N3X1FWNlVrTTBscEcxSUd5NWJya0lvdGtEb21BbjlvTnI2Y0xBOFY5bHdnNWQ4bTJ4R2ZScUZlU3lpM00tcmtGVHNKWnBtMXR0ODVmcWNia3NwLXBDVU9EMFZqUldIZmYwZHhydTdF?oc=5",
+   "tickers": [
+    "DELL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "DELL",
+   "strength": 60,
+   "reason": "Trump reportedly purchased and promoted DELL stock; direct endorsement of a named public company."
+  },
+  {
+   "date": "2026-07-25T04:38:12Z",
+   "platform": "News",
+   "text": "IBM Stock Rallies On Trump Administration\u2019s $1B Grant: Analysts Say \u2018Big Blue\u2019 Could Become First US Quantum Foundry - Stocktwits \u2014 IBM Stock Rallies On Trump Administration\u2019s $1B Grant: Analysts Say \u2018Big Blue\u2019 Could Become First US Quantum Foundry\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOVG52c0VBRjZ6TzVuLThuSWdTN3NxMlIzUEc0aWVkUllDZDJMSVVMRlo1Rkgxb1Rja2swU1JlcVhlbmg4ejlfeGJoRGkzVG1VSEM4ZC1McWtGQnNVYklYVjYwQVliTHRoX3NqZDJZV0dlQ2NTaC1NaHhFaVAtdmVjdzVGcFhSangwdDluaTltYXZ3TXhaWWxISmlPREpkQ0N2VHdEMENJUkpDaDBGcUhSdXFZdExXbkhPaENSWlAxbVhPS3EyTnoyc3NoX2RpOXNqeEFYaFhhaGYxQUxRaWR0QUJwQ0J5VmhBY3ZpOV9YMVNjeUZlRHRzVXBLS3BpSER4VXpVWTVsYS1aZw?oc=5",
+   "tickers": [
+    "IBM"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "IBM",
+   "strength": 75,
+   "reason": "Trump administration awarded IBM a $1B federal contract for quantum foundry; direct federal award to named public company."
+  },
+  {
+   "date": "2026-07-25T01:18:30Z",
+   "platform": "News",
+   "text": "Why Is WLFI Soaring Before Trump-Linked World Liberty Forum? - Stocktwits \u2014 Why Is WLFI Soaring Before Trump-Linked World Liberty Forum?\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYkc4ZHcxcGxXaHBhZnJPWWxYZzZuR05xSWF3RnBpXzRrZ2ZWR2hjZEN0aXJ5ZW9nZzBuRXFSVHVOUWJyaGpJdVVrQmo4cWhyck52bWZwM0tYejdJcTdLNjdiYURfdElJWWZmaEY0T2ZCaHNFN2tGY3gyUTVTcnJIdklZa1FyQ3VSUTQ4VHZCSVdwT0pjVE51V0RidUs0eVlHaTVmUVlISVZWbktFQmRsT180U2RnX2c?oc=5",
+   "tickers": [
+    "WLFI"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "WLFI",
+   "strength": 40,
+   "reason": "Stock tied to Trump-linked World Liberty Forum; speculative connection, direction unclear."
+  },
+  {
+   "date": "2026-07-25T00:35:38Z",
+   "platform": "News",
+   "text": "ASTS, RKLB Stocks Get The Trump Pump After Hidden Space Stock Bets Emerge - Stocktwits \u2014 ASTS, RKLB Stocks Get The Trump Pump After Hidden Space Stock Bets Emerge\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYlgtQnFIQ21RTHhqRVMtMUF4aWNUR2w3WHo5QzFfWVRyaExWYXJDUk9WaEFDaW90THVYcHVSd3J4Nk82T3lkMVBGZnhIQW43bHpGdURhaTgxYnRlR25BYmp6SWR1cjVhUHlXZXdWSFdkNlFTekNoQXZCSXNVem1Oc0NBYXBKQXhnRnNCTTVvOU5xSEZrUlNxdzZCczQyZmdVOW1jQVRBczU4cHlpU3M3dnBWZnBjdw?oc=5",
+   "tickers": [
+    "RKLB"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "RKLB",
+   "strength": 45,
+   "reason": "Space stocks benefiting from reported Trump holdings; inference-based, ambiguous strength."
+  },
   {
    "date": "2026-07-24T23:39:47Z",
    "platform": "News",
@@ -33,6 +129,22 @@
    "primary_ticker": "GOOG",
    "strength": 35,
    "reason": "Trump orders trade probe into EU fines on US tech; potential reduction in regulatory risk for GOOG, AAPL"
+  },
+  {
+   "date": "2026-07-24T17:44:52Z",
+   "platform": "News",
+   "text": "Eric Trump Says ABTC Has More Bitcoin Than GLXY \u2013 Stock Still Falls Amid Bitcoin\u2019s Decline - Stocktwits \u2014 Eric Trump Says ABTC Has More Bitcoin Than GLXY \u2013 Stock Still Falls Amid Bitcoin\u2019s Decline\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMi1CeXRoc3duaXd4NGxDU1M4aHRJR3ptWTltWjdiY1pJb2xUakZBeFpoZ0NsTm9Kd3hRQW9DOXBiTEgwUWVyaFRFOHgyaEpxOXZHNFZqWGZHOXpFbnBaaEU3TUI4U3laX1JRMjR4ejk0NG5iQTFfVnFBRlhBcnR5MGxIRF9tRUg2LWItQnRYZVF3ejVrQW1SVGNqQXdMVm1YMDlUZUJNSk50V3ZmNHZqOQ?oc=5",
+   "tickers": [
+    "ABTC"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "ABTC",
+   "strength": 30,
+   "reason": "Eric Trump comments on bitcoin holdings; Trump family statement but no explicit buy/sell, crypto correlated."
   },
   {
    "date": "2026-07-24T17:06:10.365Z",
@@ -67,6 +179,22 @@
    "primary_ticker": "SPY",
    "strength": 35,
    "reason": "Canada tariffs and bridge deal renegotiation imply trade friction; unclear net market impact."
+  },
+  {
+   "date": "2026-07-24T16:19:50Z",
+   "platform": "News",
+   "text": "DELL Stock Spikes To Record Highs On President Trump\u2019s Endorsement - Stocktwits \u2014 DELL Stock Spikes To Record Highs On President Trump\u2019s Endorsement\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYWF1OUgweFU0d1NlNU4ya1FYQVJSVTRCX3IwM0NMd19VVmN5RzNtUmc1c2FhTU9abXdnTmVnMDE2QUxna3ZrUEF3Zkd0SFUtOWx3QkF2elBuNkNTcmZDRm1BRUkwMVRwYU0xaUVsWDZLSk0yeEtiMFFPV0t3ZXZ3OW15QUg5V0xHNnRrU1J5VXdvX09Oa0ZmRmJvV0VTVlFRRFh6c3E5RmtHckx0MXpNVVZTWmJpLTUtUXBHSG5pWEFfQll0ejRneDFB?oc=5",
+   "tickers": [
+    "DELL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "DELL",
+   "strength": 80,
+   "reason": "Trump explicitly endorsed DELL; stock spiked to record highs on his endorsement."
   },
   {
    "date": "2026-07-24T11:56:23Z",
@@ -117,20 +245,68 @@
    "reason": "Tariffs and oil surge create mixed macro headwinds; multiple stocks mentioned but no clear directional call"
   },
   {
-   "date": "2026-07-24T07:37:35Z",
+   "date": "2026-07-24T07:23:03Z",
    "platform": "News",
-   "text": "DJT Stock Slips Overnight: Truth Social To Sell Wall Street 'Fastest' Access To Trump's Posts - Stocktwits \u2014 DJT Stock Slips Overnight: Truth Social To Sell Wall Street 'Fastest' Access To Trump's Posts\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPMlA4d1JobmFISDVhdUVNOG1KZ3lYTVJCYjc0U09RMGZtdEdnV19hV0tfRmpNeVpzUGNQTlpnajJkQTdPUUN6cGJmVU5rUkdUcE9uTHc1SFJTRXMwOHFodDdaZkltOWlEby1yUWFkS3VSb01rem1tQU0xY3ZBdmRGU3dZTkJ5SlZZZVJXZVkzQjV6N0JjaGIyV1dZRUVQUUFUazlFenhzTFlMT1dkakRBdXBuMVllZEIwdUszRlFkU2VVSHc3azEtcjd5NWkyQWdDMWFfTHhJeFVqMmtaeHdLeXBLeXRNZG1mTEE?oc=5",
+   "text": "Trump Says China Has Not Approved NVDA H200 Chip Purchases Yet \u2014 'They Want To Develop Their Own' - Stocktwits \u2014 Trump Says China Has Not Approved NVDA H200 Chip Purchases Yet \u2014 'They Want To Develop Their Own'\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZ2oxZ3ZfNVpTWGQwLTY3T0xzazUxbWY2a3ZreDlRRGE0ZHQxbmNRR29RSm11VXBPajBkd1V1M0VhRUJvVUp0V2lfM3ladmswQ2hMWGlsUjY5RE1ERXR0LTBwN2JLYTBNUk1GRC1QbjktYTlkeTU5MlgteEpYeURwZmhaR2NjUUJMVWs5SGVnbm9uTEZ2dkdmSmVVdzctQ0I3clJZZFM1YnVqbkd1RG9kQlpXUjY?oc=5",
    "tickers": [
-    "DJT"
+    "NVDA"
    ],
    "classified": true,
    "is_market": true,
    "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "DJT",
-   "strength": 55,
-   "reason": "Truth Social premium access service to Wall Street creates new revenue stream for DJT"
+   "direction": "WATCH",
+   "primary_ticker": "NVDA",
+   "strength": 50,
+   "reason": "Trump states China has not approved NVDA H200 purchases; negative for NVDA export, but policy nuance; direction somewhat unclear."
+  },
+  {
+   "date": "2026-07-24T04:56:38Z",
+   "platform": "News",
+   "text": "UNH Stock Becomes Dow\u2019s Biggest Driver Back To 50,000 \u2014 Will Trump Tailwinds Spark Another Leg Higher? - Stocktwits \u2014 UNH Stock Becomes Dow\u2019s Biggest Driver Back To 50,000 \u2014 Will Trump Tailwinds Spark Another Leg Higher?\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPc09TZEpPUXhaQndxcjc0MUd3T1RhaTNMb2FIamg3MWlfNWR0VHc5QXk0S01oQk9ucTBrcmRMRFdhOUd0MDE5NlBUWnBvOExFeVdyTHdyaDdIanE1YlRCd0VUbk5RZXNJSW9yVmRHejRVR0duRHJJS0U2dThGSmlHTzVmYzFEdzZfZER1aC1TSGx6M01BVlNPdXB5b1padWMyTEhjZlpuMWhEX1pkUnpPVVVleHdKbUZCd2c?oc=5",
+   "tickers": [
+    "UNH"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "UNH",
+   "strength": 35,
+   "reason": "UNH rally attributed to Trump 'tailwinds'; speculative; specific tailwind for healthcare unclear."
+  },
+  {
+   "date": "2026-07-24T04:37:36Z",
+   "platform": "News",
+   "text": "Netflix Cofounder Reed Hastings Sells Stock Worth Nearly $38M \u2013 NFLX Stock Eyes A Three-Day Red Streak - Stocktwits \u2014 Netflix Cofounder Reed Hastings Sells Stock Worth Nearly $38M \u2013 NFLX Stock Eyes A Three-Day Red Streak\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPMnU5Rzk2YTk4Q0owNEUyUFk3WlZQcTFvajRUZTJSREpPREZQSzRwVG9yLVlKTDh1OW95a0c1M3htdk81Z2JOU1JZSEl6S3ZLVGwwZS1hU2hob2RmZERiUkNzV05nRHdRS0Y3WTR5b3Z0b1puNENaY0RpN0VvbWRyWUdYeUY3VDFOZG5YdkFqRE5YR2tCbDdua1NsUDhmR3d5TWNkLXFFaEhDTzFvNXlYNjNta0RuTkpYMnNPemZfRC15anJYaXVCRkQ3V2FuMHhBd19lVlgwaEQ2RTB2aUxYRlBoaFphS3hNTEN5S2hhaDREaHJDWDlR?oc=5",
+   "tickers": [
+    "NFLX"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "NFLX",
+   "strength": 35,
+   "reason": "insider selling and negative technical momentum create bearish signal"
+  },
+  {
+   "date": "2026-07-24T02:15:20Z",
+   "platform": "News",
+   "text": "Michael Burry Says He\u2019s Still Short Palantir After Stock Sees Recovery Following Trump\u2019s Endorsement - Stocktwits \u2014 Michael Burry Says He\u2019s Still Short Palantir After Stock Sees Recovery Following Trump\u2019s Endorsement\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUmNQdmN5STJOLU11dEhkR1U0ckhuS3JMcm1NUDNMY0dNZ1pQcGhFVmd2bkZqVHV5N3N4N01tY1gzZWZnTDlvbVRzTEtkQnZyUjlibXR1ZUJ5MnVNY0ZlYlVEUWtRMkdnRzBGcmxpdEJaQm55ZWlTWmZZUDBPNnhncTFlLWg3bjllZXNpeGpTVjd3b3dCZ2lWT1dPZE5RSlNKT01IVXlTa1c5YmFodzVEWkJtbHpvUHN1Ry00NWhxcVJpdw?oc=5",
+   "tickers": [
+    "PLTR"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "PLTR",
+   "strength": 40,
+   "reason": "Trump endorsement bullish but short-seller contrarian view creates ambiguous directional read"
   },
   {
    "date": "2026-07-24T00:24:28Z",
@@ -197,28 +373,20 @@
    }
   },
   {
-   "date": "2026-07-23T14:32:20Z",
+   "date": "2026-07-23T13:34:02Z",
    "platform": "News",
-   "text": "DELL Stock Spikes To Record Highs On President Trump\u2019s Endorsement - Stocktwits \u2014 DELL Stock Spikes To Record Highs On President Trump\u2019s Endorsement\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYWF1OUgweFU0d1NlNU4ya1FYQVJSVTRCX3IwM0NMd19VVmN5RzNtUmc1c2FhTU9abXdnTmVnMDE2QUxna3ZrUEF3Zkd0SFUtOWx3QkF2elBuNkNTcmZDRm1BRUkwMVRwYU0xaUVsWDZLSk0yeEtiMFFPV0t3ZXZ3OW15QUg5V0xHNnRrU1J5VXdvX09Oa0ZmRmJvV0VTVlFRRFh6c3E5RmtHckx0MXpNVVZTWmJpLTUtUXBHSG5pWEFfQll0ejRneDFB?oc=5",
+   "text": "Trump Family\u2019s Crypto Firm Sues Justin Sun For Defamation \u2013 Tron Founder Calls It \u2018PR Stunt\u2019 - Stocktwits \u2014 Trump Family\u2019s Crypto Firm Sues Justin Sun For Defamation \u2013 Tron Founder Calls It \u2018PR Stunt\u2019\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUGt0alFONy01MWp2U0RWT2tkUnY2WFc3S2NOajA2YS01OVBqZFhfbUpUZ0N6eHVEMHFUTnBoWjFXYU9xRUF1ODczbWdMZXRmQWFwQUlBXzUxMkQyLXZNWEdWeUVnZEtTZXZjUTQtb2J4S05zTUpDMmdQSXFJRVI2NUxQZC1NeVBsOVZERlV2MlZFb1hDSVlMUkxidFE3c09GdW9WVjM5Zjh0SHczLVFHd05KWG9reW9LXzFsQXJWVXRHMW96RHc?oc=5",
    "tickers": [
-    "DELL"
+    "TRUMP"
    ],
    "classified": true,
    "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "DELL",
-   "strength": 85,
-   "reason": "Trump explicitly endorsed DELL; stock spiked to record highs on direct praise",
-   "price_since": {
-    "ticker": "DELL",
-    "pct": -0.4,
-    "base": 439.34,
-    "last": 437.5,
-    "base_date": "2026-07-23",
-    "last_date": "2026-07-24"
-   }
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "TRUMP",
+   "strength": 25,
+   "reason": "litigation around Trump-linked crypto firm creates uncertainty without clear directional implication"
   },
   {
    "date": "2026-07-23T11:52:51.658Z",
@@ -246,25 +414,25 @@
    }
   },
   {
-   "date": "2026-07-23T11:19:05Z",
+   "date": "2026-07-23T11:28:46Z",
    "platform": "News",
-   "text": "Trump Says China Has Not Approved NVDA H200 Chip Purchases Yet \u2014 'They Want To Develop Their Own' - Stocktwits \u2014 Trump Says China Has Not Approved NVDA H200 Chip Purchases Yet \u2014 'They Want To Develop Their Own'\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZ2oxZ3ZfNVpTWGQwLTY3T0xzazUxbWY2a3ZreDlRRGE0ZHQxbmNRR29RSm11VXBPajBkd1V1M0VhRUJvVUp0V2lfM3ladmswQ2hMWGlsUjY5RE1ERXR0LTBwN2JLYTBNUk1GRC1QbjktYTlkeTU5MlgteEpYeURwZmhaR2NjUUJMVWs5SGVnbm9uTEZ2dkdmSmVVdzctQ0I3clJZZFM1YnVqbkd1RG9kQlpXUjY?oc=5",
+   "text": "CAR Stock Rises Premarket: CEO Calls Shares \u2018Undervalued\u2019 And Rules Out Issuing Stock At Current Levels - Stocktwits \u2014 CAR Stock Rises Premarket: CEO Calls Shares \u2018Undervalued\u2019 And Rules Out Issuing Stock At Current Levels\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOb0ViZF9JTXBKczhJbnM3czIyQ3dxdFNNN3JWd1BWaFRfTkIzeXFFQlhYU25JXy1yRzVPSlVaSUdvZGtHT0hsdUFpUm9oSGFZU2Rma2NpS0dsQXZMUGN3eEpqUTBrX0JSb0lDb0NfaWRsX2RSWExlcjlnSUQ2a0R6TkxIYlB2M0dLMXo3UkUxYzZ1YUJMdk5VLWZwRlA0RkFUcVFRMTBneGk3ZDBMeGJsbUVReFByRG9ROFE?oc=5",
    "tickers": [
-    "NVDA"
+    "CAR"
    ],
    "classified": true,
    "is_market": true,
-   "explicit": true,
-   "direction": "SELL",
-   "primary_ticker": "NVDA",
-   "strength": 60,
-   "reason": "Trump reports China blocking NVDA H200 chip sales; direct bearish signal for semiconductor export",
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "CAR",
+   "strength": 30,
+   "reason": "CEO commentary on valuation and capital allocation is bullish but lacks external catalyst for strength",
    "price_since": {
-    "ticker": "NVDA",
-    "pct": -0.9,
-    "base": 208.76,
-    "last": 206.84,
+    "ticker": "CAR",
+    "pct": 0.3,
+    "base": 159.04,
+    "last": 159.48,
     "base_date": "2026-07-23",
     "last_date": "2026-07-24"
    }
@@ -433,30 +601,6 @@
     "pct": -7.9,
     "base": 100.23,
     "last": 92.32,
-    "base_date": "2026-07-23",
-    "last_date": "2026-07-24"
-   }
-  },
-  {
-   "date": "2026-07-23T04:47:16Z",
-   "platform": "News",
-   "text": "Michael Burry Says He\u2019s Still Short Palantir After Stock Sees Recovery Following Trump\u2019s Endorsement - Stocktwits \u2014 Michael Burry Says He\u2019s Still Short Palantir After Stock Sees Recovery Following Trump\u2019s Endorsement\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUmNQdmN5STJOLU11dEhkR1U0ckhuS3JMcm1NUDNMY0dNZ1pQcGhFVmd2bkZqVHV5N3N4N01tY1gzZWZnTDlvbVRzTEtkQnZyUjlibXR1ZUJ5MnVNY0ZlYlVEUWtRMkdnRzBGcmxpdEJaQm55ZWlTWmZZUDBPNnhncTFlLWg3bjllZXNpeGpTVjd3b3dCZ2lWT1dPZE5RSlNKT01IVXlTa1c5YmFodzVEWkJtbHpvUHN1Ry00NWhxcVJpdw?oc=5",
-   "tickers": [
-    "PLTR"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "PLTR",
-   "strength": 45,
-   "reason": "Trump endorsement typically bullish for PLTR, but Burry's short view suggests mixed sentiment; direction ambiguous",
-   "price_since": {
-    "ticker": "PLTR",
-    "pct": -0.4,
-    "base": 123.37,
-    "last": 122.92,
     "base_date": "2026-07-23",
     "last_date": "2026-07-24"
    }
@@ -849,30 +993,6 @@
     "pct": -1.2,
     "base": 747.41,
     "last": 738.18,
-    "base_date": "2026-07-22",
-    "last_date": "2026-07-23"
-   }
-  },
-  {
-   "date": "2026-07-22T03:00:24Z",
-   "platform": "News",
-   "text": "IBM Stock Rallies On Trump Administration\u2019s $1B Grant: Analysts Say \u2018Big Blue\u2019 Could Become First US Quantum Foundry - Stocktwits \u2014 IBM Stock Rallies On Trump Administration\u2019s $1B Grant: Analysts Say \u2018Big Blue\u2019 Could Become First US Quantum Foundry\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOVG52c0VBRjZ6TzVuLThuSWdTN3NxMlIzUEc0aWVkUllDZDJMSVVMRlo1Rkgxb1Rja2swU1JlcVhlbmg4ejlfeGJoRGkzVG1VSEM4ZC1McWtGQnNVYklYVjYwQVliTHRoX3NqZDJZV0dlQ2NTaC1NaHhFaVAtdmVjdzVGcFhSangwdDluaTltYXZ3TXhaWWxISmlPREpkQ0N2VHdEMENJUkpDaDBGcUhSdXFZdExXbkhPaENSWlAxbVhPS3EyTnoyc3NoX2RpOXNqeEFYaFhhaGYxQUxRaWR0QUJwQ0J5VmhBY3ZpOV9YMVNjeUZlRHRzVXBLS3BpSER4VXpVWTVsYS1aZw?oc=5",
-   "tickers": [
-    "IBM"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "IBM",
-   "strength": 75,
-   "reason": "$1B federal grant awarded to IBM for quantum foundry; explicit contract with major federal investment",
-   "price_since": {
-    "ticker": "IBM",
-    "pct": 0.4,
-    "base": 205.77,
-    "last": 206.65,
     "base_date": "2026-07-22",
     "last_date": "2026-07-23"
    }
@@ -1311,30 +1431,6 @@
    }
   },
   {
-   "date": "2026-07-20T20:42:21Z",
-   "platform": "News",
-   "text": "Trump Mentions Palantir, but Who Is Alex Karp? - ascendants.in \u2014 Trump Mentions Palantir, but Who Is Alex Karp?\u00a0\u00a0ascendants.in",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBqS1JlZVdDY0hfSTVKWTJKRnBmX1NMSmxmNEFGZzIydHhDVXFSYWxDMWZjLWlJTVBUbXJnZVlPLVhiWVRUT09RYzZibjVFOG9vOTA0cUhFRlFsMndjLTdfWmxqQ3g0SEtRY09mME9LMnlIN28yREJz?oc=5",
-   "tickers": [
-    "PLTR"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "PLTR",
-   "strength": 35,
-   "reason": "Trump mentions Palantir but lacks explicit endorsement or specific market direction; unclear catalyst",
-   "price_since": {
-    "ticker": "PLTR",
-    "pct": -7.6,
-    "base": 134.85,
-    "last": 124.57,
-    "base_date": "2026-07-20",
-    "last_date": "2026-07-22"
-   }
-  },
-  {
    "date": "2026-07-20T20:35:50Z",
    "platform": "News",
    "text": "Is SOFI Stock \u2018One Of The Easiest\u2019 Longs? Why The Bull Case Is Still Intact According To 3 Analysts - Stocktwits \u2014 Is SOFI Stock \u2018One Of The Easiest\u2019 Longs? Why The Bull Case Is Still Intact According To 3 Analysts\u00a0\u00a0Stocktwits",
@@ -1498,30 +1594,6 @@
     "pct": -1.0,
     "base": 58.36,
     "last": 57.78,
-    "base_date": "2026-07-20",
-    "last_date": "2026-07-21"
-   }
-  },
-  {
-   "date": "2026-07-20T14:14:40Z",
-   "platform": "News",
-   "text": "UNH Stock Becomes Dow\u2019s Biggest Driver Back To 50,000 \u2014 Will Trump Tailwinds Spark Another Leg Higher? - Stocktwits \u2014 UNH Stock Becomes Dow\u2019s Biggest Driver Back To 50,000 \u2014 Will Trump Tailwinds Spark Another Leg Higher?\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPc09TZEpPUXhaQndxcjc0MUd3T1RhaTNMb2FIamg3MWlfNWR0VHc5QXk0S01oQk9ucTBrcmRMRFdhOUd0MDE5NlBUWnBvOExFeVdyTHdyaDdIanE1YlRCd0VUbk5RZXNJSW9yVmRHejRVR0duRHJJS0U2dThGSmlHTzVmYzFEdzZfZER1aC1TSGx6M01BVlNPdXB5b1padWMyTEhjZlpuMWhEX1pkUnpPVVVleHdKbUZCd2c?oc=5",
-   "tickers": [
-    "UNH"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "UNH",
-   "strength": 55,
-   "reason": "UNH driven by Trump tailwinds (likely healthcare deregulation/favorable policy); healthcare upside expected",
-   "price_since": {
-    "ticker": "UNH",
-    "pct": 3.5,
-    "base": 421.55,
-    "last": 436.35,
     "base_date": "2026-07-20",
     "last_date": "2026-07-21"
    }
@@ -1827,30 +1899,6 @@
    }
   },
   {
-   "date": "2026-07-18T15:51:03Z",
-   "platform": "News",
-   "text": "ASTS, RKLB Stocks Get The Trump Pump After Hidden Space Stock Bets Emerge - Stocktwits \u2014 ASTS, RKLB Stocks Get The Trump Pump After Hidden Space Stock Bets Emerge\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYlgtQnFIQ21RTHhqRVMtMUF4aWNUR2w3WHo5QzFfWVRyaExWYXJDUk9WaEFDaW90THVYcHVSd3J4Nk82T3lkMVBGZnhIQW43bHpGdURhaTgxYnRlR25BYmp6SWR1cjVhUHlXZXdWSFdkNlFTekNoQXZCSXNVem1Oc0NBYXBKQXhnRnNCTTVvOU5xSEZrUlNxdzZCczQyZmdVOW1jQVRBczU4cHlpU3M3dnBWZnBjdw?oc=5",
-   "tickers": [
-    "ASTS"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "ASTS",
-   "strength": 55,
-   "reason": "Trump holdings in space stocks reported; inferred bullish read on sector names",
-   "price_since": {
-    "ticker": "ASTS",
-    "pct": 10.3,
-    "base": 57.42,
-    "last": 63.34,
-    "base_date": "2026-07-20",
-    "last_date": "2026-07-21"
-   }
-  },
-  {
    "date": "2026-07-18T13:53:38Z",
    "platform": "News",
    "text": "DVLT Stock Tumbles Pre-Market On Discounted Offering \u2013 Retail Slams The Move, Calling It \u2018Self-Inflicted Pain\u2019 - Stocktwits \u2014 DVLT Stock Tumbles Pre-Market On Discounted Offering \u2013 Retail Slams The Move, Calling It \u2018Self-Inflicted Pain\u2019\u00a0\u00a0Stocktwits",
@@ -2070,30 +2118,6 @@
     "pct": -0.1,
     "base": 743.29,
     "last": 742.21,
-    "base_date": "2026-07-17",
-    "last_date": "2026-07-20"
-   }
-  },
-  {
-   "date": "2026-07-17T20:41:20Z",
-   "platform": "News",
-   "text": "Eric Trump Says ABTC Has More Bitcoin Than GLXY \u2013 Stock Still Falls Amid Bitcoin\u2019s Decline - Stocktwits \u2014 Eric Trump Says ABTC Has More Bitcoin Than GLXY \u2013 Stock Still Falls Amid Bitcoin\u2019s Decline\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMi1CeXRoc3duaXd4NGxDU1M4aHRJR3ptWTltWjdiY1pJb2xUakZBeFpoZ0NsTm9Kd3hRQW9DOXBiTEgwUWVyaFRFOHgyaEpxOXZHNFZqWGZHOXpFbnBaaEU3TUI4U3laX1JRMjR4ejk0NG5iQTFfVnFBRlhBcnR5MGxIRF9tRUg2LWItQnRYZVF3ejVrQW1SVGNqQXdMVm1YMDlUZUJNSk50V3ZmNHZqOQ?oc=5",
-   "tickers": [
-    "ABTC"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "ABTC",
-   "strength": 25,
-   "reason": "Eric Trump endorsement of bitcoin holdings noted but stock fell; mixed/weak signal",
-   "price_since": {
-    "ticker": "ABTC",
-    "pct": 7.2,
-    "base": 5.44,
-    "last": 5.83,
     "base_date": "2026-07-17",
     "last_date": "2026-07-20"
    }
@@ -2680,30 +2704,6 @@
     "pct": -0.6,
     "base": 10.27,
     "last": 10.21,
-    "base_date": "2026-07-16",
-    "last_date": "2026-07-17"
-   }
-  },
-  {
-   "date": "2026-07-16T17:08:06Z",
-   "platform": "News",
-   "text": "Trump Promoted 20+ Companies on Social Media After Buying Their Stock - NewsBreak: Local News & Alerts \u2014 Trump Promoted 20+ Companies on Social Media After Buying Their Stock\u00a0\u00a0NewsBreak: Local News & Alerts",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSXdnUWw5d19VOUhYYl9vV29sN1dOa19BbVMzNmNScjAtbk5xb0otQm9MTlMzazZHTEhTdFhpUGRsakxFMkYtaktmeHFOVmFWcGdLZkVaeE1OWnJPeERVSDJnREdweHplUWUxTHBLRkZESVVjWlBTenA1a1FkZGhUaHFmWThmREZNX0xBTk82T3B3RG5FTmhuVjl0ZnNpMmRLWEQwRncyN2djZFFwR3EtM1R0a0lPOUdHSXVXTmZNN0xfT1BaRHc5Rw?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "SPY",
-   "strength": 50,
-   "reason": "Report of Trump buying stocks then promoting them raises conflict-of-interest concerns; ambiguous market direction.",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": -0.9,
-    "base": 750.72,
-    "last": 743.84,
     "base_date": "2026-07-16",
     "last_date": "2026-07-17"
    }
