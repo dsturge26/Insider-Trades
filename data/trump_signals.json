@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-07-27T21:10:19Z",
+ "last_updated": "2026-07-27T22:18:22Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-07-27T22:00:00Z",
+   "platform": "News",
+   "text": "Trump praises GM and defends tariffs during Michigan visit - Transport Topics \u2014 Trump praises GM and defends tariffs during Michigan visit\u00a0\u00a0Transport Topics",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE13MEhxcjdBeFNibmxEOWFXdmoteUlSQWpXTkI5X0s0TGw2Wm1ZX0F1QUc4M2hSckJUQzM2TmdXTUk4dklDdi1DV081Wi14T2VrbVlNelMwVXYwd0pIN3Vlb1hrVVcwT1dI?oc=5",
+   "tickers": [
+    "GM"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "GM",
+   "strength": 35,
+   "reason": "Trump praises GM during tariff defense; modest bullish signal on the stock but lacks specificity or urgency."
+  },
   {
    "date": "2026-07-27T19:08:06Z",
    "platform": "News",
@@ -2528,46 +2544,6 @@
     "pct": 2.1,
     "base": 556.53,
     "last": 568.0,
-    "base_date": "2026-07-17",
-    "last_date": "2026-07-20"
-   }
-  },
-  {
-   "date": "2026-07-17T19:14:22Z",
-   "platform": "News",
-   "text": "John James\u2019 family bought SpaceX stock as he oversees Elon Musk\u2019s company - Detroit Metro Times \u2014 John James\u2019 family bought SpaceX stock as he oversees Elon Musk\u2019s company\u00a0\u00a0Detroit Metro Times",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSVcyUGpCa2RhSV9OOTNIdEl1eVhmWHVBRDkydG5PcDVfVHd1MTl2Y284VzZaejBHX3BwRFVCR293VjVHeTdRZ3JQU21YX3JjRFQxb2Y1Vm1rblZ6OXd5WElHdnpjNVRvQnI0TEdWVnoxMjcwQ3NSeUdkVXFWSHVuWEstNnYxczh5cDBqbk40c3NqdktrSjRGUFA1akoxMld6ZUxsTThKSQ?oc=5",
-   "tickers": [
-    "SPACEX"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "SPACEX",
-   "strength": 25,
-   "reason": "Family stock purchase of SpaceX during oversight creates conflict-of-interest risk; SpaceX not publicly traded, unclear market implication."
-  },
-  {
-   "date": "2026-07-17T18:56:30Z",
-   "platform": "News",
-   "text": "Trump began promoting companies' stocks on his social network, Truth Social, a few days after the purchase - ForumDaily \u2014 Trump began promoting companies' stocks on his social network, Truth Social, a few days after the purchase\u00a0\u00a0ForumDaily",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYzR1d0xtV3FyLV9RSHl0bUpWUUVTY1NSa3dPRGRuUmJkMTc5RExTcWRuUVdZbXZYOVE4VkM4b045SVRDbHBYRzRIZl91MzFUaTM5Y2lRMjdYUTFnTjRZMDNEaHhiV0ktcm5kakxUWERDQ3NzZDFocG96VjlON0VCRGhfelJ3THBXU1luZHVoTVJLOGVRcXFEWXJKMmhnLUNnSms5dA?oc=5",
-   "tickers": [
-    "DJT"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "DJT",
-   "strength": 45,
-   "reason": "Truth Social used to promote stocks implies DJT platform value/credibility risk; indirect bullish signal on platform activity",
-   "price_since": {
-    "ticker": "DJT",
-    "pct": 0.5,
-    "base": 9.66,
-    "last": 9.71,
     "base_date": "2026-07-17",
     "last_date": "2026-07-20"
    }
