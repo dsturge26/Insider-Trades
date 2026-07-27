@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-07-27T22:18:22Z",
+ "last_updated": "2026-07-27T23:34:32Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -115,6 +115,22 @@
    "reason": "Trump mentions Palantir by name; CEO focus suggests positive but unclear if explicit endorsement or neutral mention"
   },
   {
+   "date": "2026-07-27T17:26:41Z",
+   "platform": "News",
+   "text": "CMCSA Stock Gains Over 3% \u2014 NBCUniversal Teams Up With Alphabet To Stream Peacock On YouTube Premium - Stocktwits \u2014 CMCSA Stock Gains Over 3% \u2014 NBCUniversal Teams Up With Alphabet To Stream Peacock On YouTube Premium\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNaVNsMEl6bFRsVkw0clR3QjY4VGVUZDlMWjU3ZW5MT19UZWRwNnJtR1lGVUVOemRGSzdmUGtUWnlDUXpMeGRRVFhaUnVxMFJnZ2VVNGJISl84Tlg5U0N4XzVYbkVJNk15YTZkOGpaRVZOVVZDTFFRY2dOZGpwZzlZN2lKeFFTTHplV1BoYnpMNW82M0lsM2lZMzM1TUpqQllDUF9yZEZuV3pjY2I3bzVQb2VmYXBybXU3ZWNTSmdLUHgteVVuSUZobURxMjZ5U081SkxHREtaV2QzSGc1WmVRdmxnNVd6NUR4WlV5bS10aUczN0FPMHRRQXFPeXhfS1U?oc=5",
+   "tickers": [
+    "CMCSA"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "CMCSA",
+   "strength": 55,
+   "reason": "Peacock/YouTube premium partnership expands streaming distribution and ad reach for Comcast subsidiary."
+  },
+  {
    "date": "2026-07-27T17:17:11Z",
    "platform": "News",
    "text": "Trump Warns Iran Of 'Very Strong Military Action' If Diplomatic Talks Collapse, Says Report - Stocktwits \u2014 Trump Warns Iran Of 'Very Strong Military Action' If Diplomatic Talks Collapse, Says Report\u00a0\u00a0Stocktwits",
@@ -129,6 +145,22 @@
    "primary_ticker": "XLE",
    "strength": 40,
    "reason": "Military tension with Iran raises geopolitical risk; energy sector typically benefits from conflict uncertainty"
+  },
+  {
+   "date": "2026-07-27T16:15:00Z",
+   "platform": "News",
+   "text": "Chip stocks slide as China advances domestic lithography, memory production - Yahoo! Finance Canada \u2014 Chip stocks slide as China advances domestic lithography, memory production\u00a0\u00a0Yahoo! Finance Canada",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPT1E0b3ZEbWt6XzBnZ2duRWdxUDFJcGZvemp5NjhWMU1hV1k4SnRKMXhzQW1xSkk0bC1uU3E0bXAwYUxGSjdiM2l3U2hMSXNLZDAtSVYyeVU3a1ItekhRdW1xVnRuc3VXUEtJOXpHVHhNSWRISXpDcFdvN1VNUHVzQWlocjB5NmFa?oc=5",
+   "tickers": [
+    "SMH"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "SMH",
+   "strength": 60,
+   "reason": "China advances in lithography/memory production undermines US semiconductor export dominance; bearish for US chip stocks."
   },
   {
    "date": "2026-07-27T15:22:59Z",
@@ -2519,31 +2551,6 @@
     "pct": 0.5,
     "base": 743.29,
     "last": 746.71,
-    "base_date": "2026-07-17",
-    "last_date": "2026-07-20"
-   }
-  },
-  {
-   "date": "2026-07-17T19:30:04.133Z",
-   "platform": "Truth Social",
-   "text": "For decades, horrible politicians allowed our Industrial Base to move overseas. Their Trade Policies encouraged Companies to find the cheapest Labor, and build the Products we invented across Asia. When I took Office, we didn't build Leading Edge Semiconductor Chips here in America. American Trade Policy was broken and, the results, disastrous.\u00a0\u00a0Now, TSMC, the largest Leading Edge Semiconductor Chip Manufacturer in the World, has announced an additional 100 Billion Dollar Investment in their Semiconductor Fabrication Factories in Arizona. That brings their total commitment to build Chips in America to a record 265 Billion Dollars.\u00a0My Trade Policies and Trade Deals are accomplishing exactly what I said they would. From Automobiles, Pharmaceuticals, to Semiconductors, and everything across our Economy, the Trump Administration is bringing Advanced Manufacturing home to America. This is what SUCCESS feels like! Massive Hiring, massive Construction, massive Investment \u2014 Welcome to the Golden Age of America, where we invite everybody to come and build in America \u2014 and remember, if you do so, there are NO TARIFFS! President DONALD J. TRUMP",
-   "tickers": [
-    "SMH"
-   ],
-   "engagement": 1268,
-   "url": "https://truthsocial.com/@realDonaldTrump/116936972968744613",
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "SMH",
-   "strength": 60,
-   "reason": "TSMC $100B additional investment in US semiconductor fabs \u2014 bullish for chip sector and US manufacturing",
-   "price_since": {
-    "ticker": "SMH",
-    "pct": 2.1,
-    "base": 556.53,
-    "last": 568.0,
     "base_date": "2026-07-17",
     "last_date": "2026-07-20"
    }
