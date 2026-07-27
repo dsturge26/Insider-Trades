@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-07-27T07:51:25Z",
+ "last_updated": "2026-07-27T11:21:14Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -259,6 +259,22 @@
    "reason": "Trump reportedly purchased and promoted DELL stock; direct endorsement of a named public company."
   },
   {
+   "date": "2026-07-25T06:15:49Z",
+   "platform": "News",
+   "text": "PLTR Stock Faces Split Narrative: Retail Bulls Hold Firm As Burry Sounds Alarm, Trump Signals Support - Stocktwits \u2014 PLTR Stock Faces Split Narrative: Retail Bulls Hold Firm As Burry Sounds Alarm, Trump Signals Support\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSFRDSVNMdHk3NEtMbFEwQ1ZRT2tLY3h1cEFvOTVjb182Qm1QUnVqTlE2dWhzYXZpaXBoN3gyNlg4dWVWY0dldndhRDZoOGE2N2ZSMTgxb1Ayb0RWanA3a0hEeEhKWGtYRENBSGZ0d0wySmlrSWpzM1BmcXZpTUdDOXcwMVl0NXVKYjMyOEFvYmVpYk9uOVRSaWdleVNEQnZkZk1tUE5vRURtNjdubE0wTUhLSFFUbGc3OUs5UVpJQXhVTHdZLTdLTmZDQVkxMUVwd3c?oc=5",
+   "tickers": [
+    "PLTR"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "PLTR",
+   "strength": 60,
+   "reason": "Trump signals support for Palantir; explicit endorsement reinforces bullish case vs. skeptics."
+  },
+  {
    "date": "2026-07-25T04:59:27Z",
    "platform": "News",
    "text": "CAR Stock Rises Premarket: CEO Calls Shares \u2018Undervalued\u2019 And Rules Out Issuing Stock At Current Levels - Stocktwits \u2014 CAR Stock Rises Premarket: CEO Calls Shares \u2018Undervalued\u2019 And Rules Out Issuing Stock At Current Levels\u00a0\u00a0Stocktwits",
@@ -273,6 +289,22 @@
    "primary_ticker": "CAR",
    "strength": 20,
    "reason": "CEO calls CAR undervalued; positive but no Trump catalyst, general market sentiment"
+  },
+  {
+   "date": "2026-07-25T04:30:01Z",
+   "platform": "News",
+   "text": "Trump Taps Mark Zuckerberg, Larry Ellison, Jensen Huang For AI Advisory Council: Report - Stocktwits \u2014 Trump Taps Mark Zuckerberg, Larry Ellison, Jensen Huang For AI Advisory Council: Report\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPVmhDWExKbUNJZnF2TWQ2a3NNdDRwVU5jbmVIM1NwUFVsUXFGajRnMERhcW9zUDdUU1k0bU5lazZkSjV2ZXZNOFJKOVd3S3luWnZHUTY1cVNQRUZhUjZmYm1WT0IxaF9yVjhXTGlFYWQ4ODBHNHI0cF8xRmxQV3hkbVJTaGhBZ05UVS0tQnJkSXptenZVdnNmTTBrWFA1UklGOXlERXkwS2dVVDlZZUdfR1VQZldqVDE2b1I5UUFmUU5VZ1h4Q01MdjVUOTFidXRVZUVoamVNMUhzTDd1UUE2VEpuU2JvMkk?oc=5",
+   "tickers": [
+    "QQQ"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "QQQ",
+   "strength": 65,
+   "reason": "Trump appoints Zuckerberg, Ellison, Huang to AI advisory council; signals pro-AI/tech stance and support for mega-cap AI leaders."
   },
   {
    "date": "2026-07-25T01:18:30Z",
@@ -2539,22 +2571,6 @@
    "primary_ticker": "DELL",
    "strength": 65,
    "reason": "Dell awarded $10B federal contract weeks after Trump stock purchase \u2014 direct federal contract award to named public company is bullish for the recipient."
-  },
-  {
-   "date": "2026-07-17T03:06:01Z",
-   "platform": "News",
-   "text": "Wall Street can now pay to get Trump\u2019s Truth posts about markets before everyone else - Bitget \u2014 Wall Street can now pay to get Trump\u2019s Truth posts about markets before everyone else\u00a0\u00a0Bitget",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE12ZEcyVGQ2R3FuZ0Vpdm13QlJld1g5MWlXUnIyS0JNRUdZaTBOYm96dnNUZ3duUjFxZlJtMlpUVEFrdHp1TEZka3d5amtuWnZKUUFjaU5CVTlJblNidHhESE4zMNIBY0FVX3lxTE12ZEcyVGQ2R3FuZ0Vpdm13QlJld1g5MWlXUnIyS0JNRUdZaTBOYm96dnNUZ3duUjFxZlJtMlpUVEFrdHp1TEZka3d5amtuWnZKUUFjaU5CVTlJblNidHhESE4zMA?oc=5",
-   "tickers": [
-    "DJT"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "DJT",
-   "strength": 65,
-   "reason": "Wall Street paying for early access to Trump's Truth posts; monetization of platform and influence; bullish for DJT revenue"
   },
   {
    "curated": true,
