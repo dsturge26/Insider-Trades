@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-07-28T07:17:29Z",
+ "last_updated": "2026-07-28T10:05:48Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -275,6 +275,22 @@
    "reason": "Insider stock sale; no Trump catalyst but signals potential insider caution"
   },
   {
+   "date": "2026-07-27T13:56:11Z",
+   "platform": "News",
+   "text": "ASML and U.S. chip stocks sink on report of China\u2019s DUV breakthrough - Yahoo! Finance Canada \u2014 ASML and U.S. chip stocks sink on report of China\u2019s DUV breakthrough\u00a0\u00a0Yahoo! Finance Canada",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9NZzJoZlMyak1GQllUZWZLTFlYeWd6ZzhvSTY2WVl4Y01VV1FQUVF0dkxlMkZSOGc3TFlxSUxqcUtfUEZETVVBRzhoN3dMVTV3NTNvVWJvc1dyWDNBaUk4c19IYUNzWWxfeGUxWS1DaDM5aTdRaUhYbzdGeGw?oc=5",
+   "tickers": [
+    "SMH"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "SMH",
+   "strength": 55,
+   "reason": "China DUV breakthrough threatens US chip dominance; bearish for semiconductor sector"
+  },
+  {
    "date": "2026-07-27T13:56:10Z",
    "platform": "News",
    "text": "ASML and U.S. chip stocks sink on report of China\u2019s DUV breakthrough - Yahoo Finance UK \u2014 ASML and U.S. chip stocks sink on report of China\u2019s DUV breakthrough\u00a0\u00a0Yahoo Finance UK",
@@ -369,6 +385,22 @@
    "primary_ticker": "IBM",
    "strength": 75,
    "reason": "Trump administration awards IBM $1B federal contract for quantum foundry; direct federal support"
+  },
+  {
+   "date": "2026-07-27T02:29:14Z",
+   "platform": "News",
+   "text": "QTEX Stock More Than Doubles Pre-Market: What\u2019s Driving The Rally? - Stocktwits \u2014 QTEX Stock More Than Doubles Pre-Market: What\u2019s Driving The Rally?\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaUZZZW9XYmZlWU5iUTdPcWpKMkpGZEVlaVducW9JZ3V0TG5MMTBydHNuekpxNUFFeUoxY3FtNjF5TVlyM25EN3d2a0FaTE81VUpHNnZKMGdFTFMyVHNPXzdUb0ktR2pFbHh2OXE1SVhsYWUyY3lTdWVjMXNEY2ZCUG9kUUZvQzUwRUtTQmZqbmV3QWJuclRlcmU2OA?oc=5",
+   "tickers": [
+    "QTEX"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "QTEX",
+   "strength": 45,
+   "reason": "Quantum stock surge on Trump admin tailwinds; sector momentum from government investment"
   },
   {
    "date": "2026-07-26T21:52:00Z",
@@ -497,6 +529,22 @@
    "primary_ticker": "NVDA",
    "strength": 55,
    "reason": "China restricting H200 chip sales limits NVIDIA's high-margin data center revenue from key market."
+  },
+  {
+   "date": "2026-07-26T02:09:03Z",
+   "platform": "News",
+   "text": "Trump Reinstates Iranian Blockade, Says US Will Be Reimbursed At A Rate Of 20% On All Cargo Shipped Through The Strait Of Hormuz - Stocktwits \u2014 Trump Reinstates Iranian Blockade, Says US Will Be Reimbursed At A Rate Of 20% On All Cargo Shipped Through The Strait Of Hormuz\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQbmtjamxSQk5UZDVHZ3FaSjdKTmdhYjNhclV0Tk95ZEpvM2FFRnFDclNiVzhwNjluT2d0V0xBc0N5RkZUeDdXOGVkZV90ZkVQdEkzM0lvSEdrZjdwRENPRUQwdVZTS2VjSTRkSFdEbzdxZXlqXzV6cUMyY0trTW9RQ29ld3pRU2dyMnFSYzEwUE9sSzEwakNmY20xeUpVcUhINzdwN2p3SkxHdEpaZjVSa0RWa3dHWkJQaW51SV8tbk5GQ2ZOdXNhaXBCOA?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "SPY",
+   "strength": 65,
+   "reason": "Iranian blockade and 20% cargo tax restricts global trade flow, broad market headwind"
   },
   {
    "date": "2026-07-25T16:35:21Z",
@@ -1281,30 +1329,6 @@
     "pct": -2.5,
     "base": 50.63,
     "last": 49.37,
-    "base_date": "2026-07-22",
-    "last_date": "2026-07-24"
-   }
-  },
-  {
-   "date": "2026-07-22T09:39:02Z",
-   "platform": "News",
-   "text": "Trump Reinstates Iranian Blockade, Says US Will Be Reimbursed At A Rate Of 20% On All Cargo Shipped Through The Strait Of Hormuz - Stocktwits \u2014 Trump Reinstates Iranian Blockade, Says US Will Be Reimbursed At A Rate Of 20% On All Cargo Shipped Through The Strait Of Hormuz\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQbmtjamxSQk5UZDVHZ3FaSjdKTmdhYjNhclV0Tk95ZEpvM2FFRnFDclNiVzhwNjluT2d0V0xBc0N5RkZUeDdXOGVkZV90ZkVQdEkzM0lvSEdrZjdwRENPRUQwdVZTS2VjSTRkSFdEbzdxZXlqXzV6cUMyY0trTW9RQ29ld3pRU2dyMnFSYzEwUE9sSzEwakNmY20xeUpVcUhINzdwN2p3SkxHdEpaZjVSa0RWa3dHWkJQaW51SV8tbk5GQ2ZOdXNhaXBCOA?oc=5",
-   "tickers": [
-    "XLE"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "XLE",
-   "strength": 65,
-   "reason": "Iranian blockade reinstatement with US toll revenue signals energy supply constraint and higher oil prices",
-   "price_since": {
-    "ticker": "XLE",
-    "pct": 0.8,
-    "base": 59.2,
-    "last": 59.69,
     "base_date": "2026-07-22",
     "last_date": "2026-07-24"
    }
@@ -2489,22 +2513,6 @@
     "base_date": "2026-07-20",
     "last_date": "2026-07-21"
    }
-  },
-  {
-   "date": "2026-07-18T01:36:26Z",
-   "platform": "News",
-   "text": "Master of coin: Trump made a fortune on his crypto business \u2014 thousands of investors lost their shirts - AOL.com \u2014 Master of coin: Trump made a fortune on his crypto business \u2014 thousands of investors lost their shirts\u00a0\u00a0AOL.com",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0xNGxwRjNmaDhsQmstTHptcFFCc0tGejU3N1E5bldtRk9TMzJObzI3X2dWTUVVT1JvLTZEU0pZQVZPMDZGWGRyMVdFY2R5ZFFDeVAwcUhmd21PdmdEbXl1WGlfd1BvR2h1MjJ2TkhJRXJSVnJsVVhLaEQzTXR3VlU?oc=5",
-   "tickers": [
-    "TRUMP"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "TRUMP",
-   "strength": 35,
-   "reason": "Trump crypto business profiteering while investors lost; bearish for TRUMP coin trust"
   },
   {
    "curated": true,
