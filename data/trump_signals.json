@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-07-28T14:40:54Z",
+ "last_updated": "2026-07-28T16:24:07Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -33,6 +33,22 @@
    "primary_ticker": "GM",
    "strength": 45,
    "reason": "Criticism of GM over emissions standards and gas prices; bearish indirect pressure on automaker."
+  },
+  {
+   "date": "2026-07-28T03:32:00Z",
+   "platform": "News",
+   "text": "Gold falls on firm dollar, spotlight on Fed's rate decision - CNBC \u2014 Gold falls on firm dollar, spotlight on Fed's rate decision\u00a0\u00a0CNBC",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPc25NcnZ4ZE9keHRSZ0ZITWdXUngxdmpoTlV4dWFvTVVXQ0swcE5PTjhZTU9ldE96QXcwdDZFUkQ3RUVTcndLQWt6aVVUNXM0XzY0MEdPWmlzSWQtc2YycjhET1Z0MzVYUWhxNGY0Q19XbmxkajkwbzdBSGtKa1oxbWNYVXVKRlh2ZzgtMHVuYW1laVlHS3lHVG1ibk7SAaIBQVVfeXFMTjFybG1UU3JnbllpY1d4WDJ0VGF1WEtlMXkydHVQM0paQklxMlVTOUQ3MkpNdERuNUNMa1FuWGwyRWttZjQzNW5ZclA3b1JyR2dmZFhrV0RxTmx6SFpoSzhTQk1uUkpYbG9FQkVaVV9mNDZfd09jUTcxUVYtLUZ0TDVxSXczUFVnNVNrWmE3aDFkcC0wQWdWakF4c2FmOTYyS1pR?oc=5",
+   "tickers": [
+    "GLD"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "GLD",
+   "strength": 45,
+   "reason": "Fed rate decision and firm dollar bearish for gold prices"
   },
   {
    "date": "2026-07-28T03:30:00Z",
@@ -83,9 +99,9 @@
    "reason": "Fed leadership comment suggests potential policy shift; impact on rates and broad market uncertain",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.2,
+    "pct": 0.3,
     "base": 739.09,
-    "last": 737.75,
+    "last": 741.46,
     "base_date": "2026-07-27",
     "last_date": "2026-07-28"
    }
@@ -107,9 +123,9 @@
    "reason": "Trump praises GM during tariff defense; modest bullish signal on the stock but lacks specificity or urgency.",
    "price_since": {
     "ticker": "GM",
-    "pct": 2.2,
+    "pct": 4.0,
     "base": 87.04,
-    "last": 88.94,
+    "last": 90.5,
     "base_date": "2026-07-27",
     "last_date": "2026-07-28"
    }
@@ -131,9 +147,9 @@
    "reason": "CEO praise for Trump tariffs boosting aluminum production and jobs signals positive outlook for Century Aluminum under tariff regime.",
    "price_since": {
     "ticker": "CENX",
-    "pct": -2.7,
+    "pct": -1.5,
     "base": 44.87,
-    "last": 43.66,
+    "last": 44.18,
     "base_date": "2026-07-27",
     "last_date": "2026-07-28"
    }
@@ -155,9 +171,9 @@
    "reason": "F-35 sale approval to Turkey signals defense spending/military contractor support",
    "price_since": {
     "ticker": "XAR",
-    "pct": -1.8,
+    "pct": -0.7,
     "base": 273.07,
-    "last": 268.09,
+    "last": 271.17,
     "base_date": "2026-07-27",
     "last_date": "2026-07-28"
    }
@@ -179,9 +195,9 @@
    "reason": "Iran deal possibility creates ambiguity; could reduce defense spending (bearish XAR) or spur military readiness spending (bullish XAR).",
    "price_since": {
     "ticker": "XAR",
-    "pct": -1.8,
+    "pct": -0.7,
     "base": 273.07,
-    "last": 268.09,
+    "last": 271.17,
     "base_date": "2026-07-27",
     "last_date": "2026-07-28"
    }
@@ -203,9 +219,9 @@
    "reason": "Fed Chair choice signals monetary policy direction; praise/criticism is ambiguous for near-term market move",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.2,
+    "pct": 0.3,
     "base": 739.09,
-    "last": 737.74,
+    "last": 741.46,
     "base_date": "2026-07-27",
     "last_date": "2026-07-28"
    }
@@ -227,9 +243,9 @@
    "reason": "Trump mentions Palantir by name; CEO focus suggests positive but unclear if explicit endorsement or neutral mention",
    "price_since": {
     "ticker": "PLTR",
-    "pct": -9.6,
+    "pct": -5.9,
     "base": 131.53,
-    "last": 118.94,
+    "last": 123.83,
     "base_date": "2026-07-27",
     "last_date": "2026-07-28"
    }
@@ -251,9 +267,9 @@
    "reason": "Peacock/YouTube premium partnership expands streaming distribution and ad reach for Comcast subsidiary.",
    "price_since": {
     "ticker": "CMCSA",
-    "pct": 5.1,
+    "pct": 6.0,
     "base": 22.8,
-    "last": 23.97,
+    "last": 24.16,
     "base_date": "2026-07-27",
     "last_date": "2026-07-28"
    }
@@ -275,9 +291,9 @@
    "reason": "Military tension with Iran raises geopolitical risk; energy sector typically benefits from conflict uncertainty",
    "price_since": {
     "ticker": "XLE",
-    "pct": 0.3,
+    "pct": -1.7,
     "base": 58.36,
-    "last": 58.56,
+    "last": 57.38,
     "base_date": "2026-07-27",
     "last_date": "2026-07-28"
    }
@@ -299,9 +315,9 @@
    "reason": "China advances in lithography/memory production undermines US semiconductor export dominance; bearish for US chip stocks.",
    "price_since": {
     "ticker": "SMH",
-    "pct": -4.4,
+    "pct": -3.2,
     "base": 548.55,
-    "last": 524.34,
+    "last": 530.74,
     "base_date": "2026-07-27",
     "last_date": "2026-07-28"
    }
@@ -323,9 +339,9 @@
    "reason": "CEO ouster after 'woke' backlash Trump targeted; reversal of unpopular rebrand is bullish for stock",
    "price_since": {
     "ticker": "CBRL",
-    "pct": -1.5,
+    "pct": -1.3,
     "base": 52.43,
-    "last": 51.65,
+    "last": 51.74,
     "base_date": "2026-07-27",
     "last_date": "2026-07-28"
    }
@@ -347,9 +363,9 @@
    "reason": "CEO departure + Trump opposition to 'woke' rebrand signals potential strategic shift; stock may recover",
    "price_since": {
     "ticker": "CBRL",
-    "pct": -1.5,
+    "pct": -1.3,
     "base": 52.43,
-    "last": 51.65,
+    "last": 51.74,
     "base_date": "2026-07-27",
     "last_date": "2026-07-28"
    }
@@ -371,9 +387,9 @@
    "reason": "Trump ire over 'woke' rebrand triggered CEO departure; public backlash and operational turmoil",
    "price_since": {
     "ticker": "CBRL",
-    "pct": -1.5,
+    "pct": -1.3,
     "base": 52.43,
-    "last": 51.65,
+    "last": 51.74,
     "base_date": "2026-07-27",
     "last_date": "2026-07-28"
    }
@@ -395,9 +411,9 @@
    "reason": "CEO departure + Trump opposition to 'woke' rebrand signals potential strategic shift; stock may recover",
    "price_since": {
     "ticker": "CBRL",
-    "pct": -1.5,
+    "pct": -1.3,
     "base": 52.43,
-    "last": 51.65,
+    "last": 51.74,
     "base_date": "2026-07-27",
     "last_date": "2026-07-28"
    }
@@ -419,9 +435,9 @@
    "reason": "Insider stock sale; no Trump catalyst but signals potential insider caution",
    "price_since": {
     "ticker": "NFLX",
-    "pct": 4.4,
+    "pct": 4.0,
     "base": 70.4,
-    "last": 73.47,
+    "last": 73.22,
     "base_date": "2026-07-27",
     "last_date": "2026-07-28"
    }
@@ -443,9 +459,9 @@
    "reason": "China DUV breakthrough threatens US chip dominance; bearish for semiconductor sector",
    "price_since": {
     "ticker": "SMH",
-    "pct": -4.3,
+    "pct": -3.3,
     "base": 548.55,
-    "last": 524.69,
+    "last": 530.67,
     "base_date": "2026-07-27",
     "last_date": "2026-07-28"
    }
@@ -467,9 +483,9 @@
    "reason": "China's DUV chip breakthrough threatens US semiconductor export restrictions benefit; bearish for US chip makers",
    "price_since": {
     "ticker": "SMH",
-    "pct": -4.3,
+    "pct": -3.3,
     "base": 548.55,
-    "last": 524.89,
+    "last": 530.72,
     "base_date": "2026-07-27",
     "last_date": "2026-07-28"
    }
@@ -491,9 +507,9 @@
    "reason": "Quantum computing expansion by major tech player; positive sector sentiment",
    "price_since": {
     "ticker": "QCOM",
-    "pct": -2.0,
+    "pct": -2.7,
     "base": 170.04,
-    "last": 166.63,
+    "last": 165.46,
     "base_date": "2026-07-27",
     "last_date": "2026-07-28"
    }
@@ -515,9 +531,9 @@
    "reason": "China chipmaker IPO; reflects broader China tech competition and U.S.-China trade tensions.",
    "price_since": {
     "ticker": "FXI",
-    "pct": 1.0,
+    "pct": 1.1,
     "base": 35.28,
-    "last": 35.62,
+    "last": 35.68,
     "base_date": "2026-07-27",
     "last_date": "2026-07-28"
    }
@@ -539,9 +555,9 @@
    "reason": "Burry shorts despite Trump endorsement; contrarian positioning creates directional ambiguity",
    "price_since": {
     "ticker": "PLTR",
-    "pct": -9.5,
+    "pct": -5.9,
     "base": 131.53,
-    "last": 119.06,
+    "last": 123.83,
     "base_date": "2026-07-27",
     "last_date": "2026-07-28"
    }
@@ -563,9 +579,9 @@
    "reason": "Chinese chipmaker debut raises competition concerns for US chip sector; mixed implications",
    "price_since": {
     "ticker": "SMH",
-    "pct": -4.3,
+    "pct": -3.3,
     "base": 548.55,
-    "last": 525.22,
+    "last": 530.72,
     "base_date": "2026-07-27",
     "last_date": "2026-07-28"
    }
@@ -587,9 +603,9 @@
    "reason": "War/munitions commentary suggests elevated defense spending demand.",
    "price_since": {
     "ticker": "XAR",
-    "pct": -1.8,
+    "pct": -0.7,
     "base": 273.07,
-    "last": 268.09,
+    "last": 271.17,
     "base_date": "2026-07-27",
     "last_date": "2026-07-28"
    }
@@ -611,9 +627,9 @@
    "reason": "Trump administration awards IBM $1B federal contract for quantum foundry; direct federal support",
    "price_since": {
     "ticker": "IBM",
-    "pct": 1.4,
+    "pct": 4.4,
     "base": 216.28,
-    "last": 219.2,
+    "last": 225.89,
     "base_date": "2026-07-27",
     "last_date": "2026-07-28"
    }
@@ -707,7 +723,7 @@
    "reason": "Stock rally tied to State of the Union event; direction unclear without knowing what Trump said or IBRX's market catalyst"
   },
   {
-   "date": "2026-07-26T13:18:01Z",
+   "date": "2026-07-26T13:29:54Z",
    "platform": "News",
    "text": "QCOM Stock Is 7% From Its Record High; Executives To Join Trump In China Visit - Stocktwits \u2014 QCOM Stock Is 7% From Its Record High; Executives To Join Trump In China Visit\u00a0\u00a0Stocktwits",
    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVXpadHNKQ3hrQS15eXBfZVNyZkRXR2hZZGpvbUF0OFp0VHJrWUhsck53RmFDb2l4eUdfVFQwY0QyZ0tYMERtRE1aaGRVSV9ORFVQd1I4WW9VOXNPS2o2Z3RqRnVReldvOWJneGJsbl81MDRkdTQ1TFd1RVQzWHgzcS01VU9ZY0RuVHZ4TWZOQWphQjlDZVQxMkJKb21PZkJYZXNxLVhnT0xKUDVEcHZYWWUyNncyZzJwX0V1YkJUTUluTU9rTFkxZ2RLRkx6eTk0dGRLSTg1T0Nwd0toT3c?oc=5",
@@ -717,10 +733,10 @@
    "classified": true,
    "is_market": true,
    "explicit": false,
-   "direction": "BUY",
+   "direction": "WATCH",
    "primary_ticker": "QCOM",
    "strength": 40,
-   "reason": "Trump administration engagement; Qualcomm executives participating in China visit signals policy-level attention"
+   "reason": "Qualcomm executives joining Trump China visit; trade/geopolitical upside uncertain"
   },
   {
    "date": "2026-07-26T11:19:24Z",
