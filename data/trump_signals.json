@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-07-27T23:34:32Z",
+ "last_updated": "2026-07-28T01:04:29Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-07-28T01:01:21Z",
+   "platform": "News",
+   "text": "Exclusive | Trump Caught Between Apple and Micron in Fight Over Chinese Chips - WSJ \u2014 Exclusive | Trump Caught Between Apple and Micron in Fight Over Chinese Chips\u00a0\u00a0WSJ",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBNOXpsM1BiR251eGF0YUpvODNNQ1FoTktWNUJOX3hYOWctMHNqNDZPaGlyY3NZY2lTYl9RZklMMFhRb2tYdTg1R0dCaGNYSEpWWERQa3ZIbjJEMlNuR0tJUFhZUzJ2VU5nYUxZYVpibzI5dw?oc=5",
+   "tickers": [
+    "SMH"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "SMH",
+   "strength": 45,
+   "reason": "Trump caught between Apple and Micron over Chinese chip policy\u2014creates uncertainty for both semiconductor and supply chain stocks"
+  },
   {
    "date": "2026-07-27T22:00:00Z",
    "platform": "News",
@@ -33,22 +49,6 @@
    "primary_ticker": "CENX",
    "strength": 65,
    "reason": "CEO praise for Trump tariffs boosting aluminum production and jobs signals positive outlook for Century Aluminum under tariff regime."
-  },
-  {
-   "date": "2026-07-27T19:01:18Z",
-   "platform": "News",
-   "text": "Exclusive | Trump Caught Between Apple and Micron in Fight Over Chinese Chips - WSJ \u2014 Exclusive | Trump Caught Between Apple and Micron in Fight Over Chinese Chips\u00a0\u00a0WSJ",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBNOXpsM1BiR251eGF0YUpvODNNQ1FoTktWNUJOX3hYOWctMHNqNDZPaGlyY3NZY2lTYl9RZklMMFhRb2tYdTg1R0dCaGNYSEpWWERQa3ZIbjJEMlNuR0tJUFhZUzJ2VU5nYUxZYVpibzI5dw?oc=5",
-   "tickers": [
-    "SMH"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "SMH",
-   "strength": 45,
-   "reason": "Trump policy dispute on Chinese chip access affects semiconductor sector; direction ambiguous (Apple vs Micron interests conflict)"
   },
   {
    "date": "2026-07-27T18:57:41Z",
@@ -2504,55 +2504,6 @@
     "last": 9.86,
     "base_date": "2026-07-17",
     "last_date": "2026-07-21"
-   }
-  },
-  {
-   "date": "2026-07-17T21:10:43Z",
-   "platform": "News",
-   "text": "Concerns over moral hazard (moral hazard) against the Donald Trump administration are growing. Follo.. - \ub9e4\uc77c\uacbd\uc81c \u2014 Concerns over moral hazard (moral hazard) against the Donald Trump administration are growing. Follo..\u00a0\u00a0\ub9e4\uc77c\uacbd\uc81c",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1GWEZjbUJrNkFuV2d3R05yUWEwU1owY1BTRXdCNThxeG1OdTc4QWE0OG9oSGllajNwc3RndGs1QlBNUWdaSml6NFlITGlwRjQ?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "SPY",
-   "strength": 20,
-   "reason": "Moral hazard concerns about Trump administration policy; broad market macro risk, low actionability",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": -0.1,
-    "base": 743.29,
-    "last": 742.21,
-    "base_date": "2026-07-17",
-    "last_date": "2026-07-20"
-   }
-  },
-  {
-   "date": "2026-07-17T19:35:55.921Z",
-   "platform": "Truth Social",
-   "text": "Such great news in June's Inflation Numbers! Prices FELL by the most in a single month in over six years. The June CPI was below the forecast of every single Economist (67!) that Bloomberg polled. Prices were down across the board including for Gasoline, Electricity, Auto Insurance, Hotels, and Prescription Drugs. With strong Wage Growth and a decline in Prices in June, Real Wages rose a massive 0.8%. As Investment pours into our Country, Factory Construction surges, Manufacturing Jobs rise, and Prices fall, there is so much to be proud of \u2014 The Golden Age of America is here! President DONALD J. TRUMP",
-   "tickers": [
-    "SPY"
-   ],
-   "engagement": 799,
-   "url": "https://truthsocial.com/@realDonaldTrump/116936996023550699",
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "SPY",
-   "strength": 45,
-   "reason": "CPI below forecast, prices falling, real wages rising 0.8% \u2014 macro tailwind for equity markets",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": 0.5,
-    "base": 743.29,
-    "last": 746.71,
-    "base_date": "2026-07-17",
-    "last_date": "2026-07-20"
    }
   },
   {
