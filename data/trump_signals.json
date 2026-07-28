@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-07-28T12:13:36Z",
+ "last_updated": "2026-07-28T14:40:54Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -80,7 +80,15 @@
    "direction": "WATCH",
    "primary_ticker": "SPY",
    "strength": 40,
-   "reason": "Fed leadership comment suggests potential policy shift; impact on rates and broad market uncertain"
+   "reason": "Fed leadership comment suggests potential policy shift; impact on rates and broad market uncertain",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": -0.2,
+    "base": 739.09,
+    "last": 737.75,
+    "base_date": "2026-07-27",
+    "last_date": "2026-07-28"
+   }
   },
   {
    "date": "2026-07-27T22:00:00Z",
@@ -96,7 +104,15 @@
    "direction": "BUY",
    "primary_ticker": "GM",
    "strength": 35,
-   "reason": "Trump praises GM during tariff defense; modest bullish signal on the stock but lacks specificity or urgency."
+   "reason": "Trump praises GM during tariff defense; modest bullish signal on the stock but lacks specificity or urgency.",
+   "price_since": {
+    "ticker": "GM",
+    "pct": 2.2,
+    "base": 87.04,
+    "last": 88.94,
+    "base_date": "2026-07-27",
+    "last_date": "2026-07-28"
+   }
   },
   {
    "date": "2026-07-27T19:08:06Z",
@@ -112,7 +128,15 @@
    "direction": "BUY",
    "primary_ticker": "CENX",
    "strength": 65,
-   "reason": "CEO praise for Trump tariffs boosting aluminum production and jobs signals positive outlook for Century Aluminum under tariff regime."
+   "reason": "CEO praise for Trump tariffs boosting aluminum production and jobs signals positive outlook for Century Aluminum under tariff regime.",
+   "price_since": {
+    "ticker": "CENX",
+    "pct": -2.7,
+    "base": 44.87,
+    "last": 43.66,
+    "base_date": "2026-07-27",
+    "last_date": "2026-07-28"
+   }
   },
   {
    "date": "2026-07-27T18:57:41Z",
@@ -128,7 +152,15 @@
    "direction": "BUY",
    "primary_ticker": "XAR",
    "strength": 50,
-   "reason": "F-35 sale approval to Turkey signals defense spending/military contractor support"
+   "reason": "F-35 sale approval to Turkey signals defense spending/military contractor support",
+   "price_since": {
+    "ticker": "XAR",
+    "pct": -1.8,
+    "base": 273.07,
+    "last": 268.09,
+    "base_date": "2026-07-27",
+    "last_date": "2026-07-28"
+   }
   },
   {
    "date": "2026-07-27T18:39:37Z",
@@ -144,7 +176,15 @@
    "direction": "WATCH",
    "primary_ticker": "XAR",
    "strength": 45,
-   "reason": "Iran deal possibility creates ambiguity; could reduce defense spending (bearish XAR) or spur military readiness spending (bullish XAR)."
+   "reason": "Iran deal possibility creates ambiguity; could reduce defense spending (bearish XAR) or spur military readiness spending (bullish XAR).",
+   "price_since": {
+    "ticker": "XAR",
+    "pct": -1.8,
+    "base": 273.07,
+    "last": 268.09,
+    "base_date": "2026-07-27",
+    "last_date": "2026-07-28"
+   }
   },
   {
    "date": "2026-07-27T17:45:40Z",
@@ -160,7 +200,15 @@
    "direction": "WATCH",
    "primary_ticker": "SPY",
    "strength": 35,
-   "reason": "Fed Chair choice signals monetary policy direction; praise/criticism is ambiguous for near-term market move"
+   "reason": "Fed Chair choice signals monetary policy direction; praise/criticism is ambiguous for near-term market move",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": -0.2,
+    "base": 739.09,
+    "last": 737.74,
+    "base_date": "2026-07-27",
+    "last_date": "2026-07-28"
+   }
   },
   {
    "date": "2026-07-27T17:32:22Z",
@@ -176,7 +224,15 @@
    "direction": "WATCH",
    "primary_ticker": "PLTR",
    "strength": 55,
-   "reason": "Trump mentions Palantir by name; CEO focus suggests positive but unclear if explicit endorsement or neutral mention"
+   "reason": "Trump mentions Palantir by name; CEO focus suggests positive but unclear if explicit endorsement or neutral mention",
+   "price_since": {
+    "ticker": "PLTR",
+    "pct": -9.6,
+    "base": 131.53,
+    "last": 118.94,
+    "base_date": "2026-07-27",
+    "last_date": "2026-07-28"
+   }
   },
   {
    "date": "2026-07-27T17:26:41Z",
@@ -192,7 +248,15 @@
    "direction": "BUY",
    "primary_ticker": "CMCSA",
    "strength": 55,
-   "reason": "Peacock/YouTube premium partnership expands streaming distribution and ad reach for Comcast subsidiary."
+   "reason": "Peacock/YouTube premium partnership expands streaming distribution and ad reach for Comcast subsidiary.",
+   "price_since": {
+    "ticker": "CMCSA",
+    "pct": 5.1,
+    "base": 22.8,
+    "last": 23.97,
+    "base_date": "2026-07-27",
+    "last_date": "2026-07-28"
+   }
   },
   {
    "date": "2026-07-27T17:17:11Z",
@@ -208,7 +272,15 @@
    "direction": "WATCH",
    "primary_ticker": "XLE",
    "strength": 40,
-   "reason": "Military tension with Iran raises geopolitical risk; energy sector typically benefits from conflict uncertainty"
+   "reason": "Military tension with Iran raises geopolitical risk; energy sector typically benefits from conflict uncertainty",
+   "price_since": {
+    "ticker": "XLE",
+    "pct": 0.3,
+    "base": 58.36,
+    "last": 58.56,
+    "base_date": "2026-07-27",
+    "last_date": "2026-07-28"
+   }
   },
   {
    "date": "2026-07-27T16:15:00Z",
@@ -224,7 +296,15 @@
    "direction": "SELL",
    "primary_ticker": "SMH",
    "strength": 60,
-   "reason": "China advances in lithography/memory production undermines US semiconductor export dominance; bearish for US chip stocks."
+   "reason": "China advances in lithography/memory production undermines US semiconductor export dominance; bearish for US chip stocks.",
+   "price_since": {
+    "ticker": "SMH",
+    "pct": -4.4,
+    "base": 548.55,
+    "last": 524.34,
+    "base_date": "2026-07-27",
+    "last_date": "2026-07-28"
+   }
   },
   {
    "date": "2026-07-27T15:22:59Z",
@@ -240,7 +320,15 @@
    "direction": "BUY",
    "primary_ticker": "CBRL",
    "strength": 65,
-   "reason": "CEO ouster after 'woke' backlash Trump targeted; reversal of unpopular rebrand is bullish for stock"
+   "reason": "CEO ouster after 'woke' backlash Trump targeted; reversal of unpopular rebrand is bullish for stock",
+   "price_since": {
+    "ticker": "CBRL",
+    "pct": -1.5,
+    "base": 52.43,
+    "last": 51.65,
+    "base_date": "2026-07-27",
+    "last_date": "2026-07-28"
+   }
   },
   {
    "date": "2026-07-27T15:01:33Z",
@@ -256,7 +344,15 @@
    "direction": "BUY",
    "primary_ticker": "CBRL",
    "strength": 45,
-   "reason": "CEO departure + Trump opposition to 'woke' rebrand signals potential strategic shift; stock may recover"
+   "reason": "CEO departure + Trump opposition to 'woke' rebrand signals potential strategic shift; stock may recover",
+   "price_since": {
+    "ticker": "CBRL",
+    "pct": -1.5,
+    "base": 52.43,
+    "last": 51.65,
+    "base_date": "2026-07-27",
+    "last_date": "2026-07-28"
+   }
   },
   {
    "date": "2026-07-27T15:01:33Z",
@@ -272,7 +368,15 @@
    "direction": "SELL",
    "primary_ticker": "CBRL",
    "strength": 60,
-   "reason": "Trump ire over 'woke' rebrand triggered CEO departure; public backlash and operational turmoil"
+   "reason": "Trump ire over 'woke' rebrand triggered CEO departure; public backlash and operational turmoil",
+   "price_since": {
+    "ticker": "CBRL",
+    "pct": -1.5,
+    "base": 52.43,
+    "last": 51.65,
+    "base_date": "2026-07-27",
+    "last_date": "2026-07-28"
+   }
   },
   {
    "date": "2026-07-27T15:01:00Z",
@@ -288,7 +392,15 @@
    "direction": "BUY",
    "primary_ticker": "CBRL",
    "strength": 45,
-   "reason": "CEO departure + Trump opposition to 'woke' rebrand signals potential strategic shift; stock may recover"
+   "reason": "CEO departure + Trump opposition to 'woke' rebrand signals potential strategic shift; stock may recover",
+   "price_since": {
+    "ticker": "CBRL",
+    "pct": -1.5,
+    "base": 52.43,
+    "last": 51.65,
+    "base_date": "2026-07-27",
+    "last_date": "2026-07-28"
+   }
   },
   {
    "date": "2026-07-27T14:45:51Z",
@@ -304,7 +416,15 @@
    "direction": "WATCH",
    "primary_ticker": "NFLX",
    "strength": 30,
-   "reason": "Insider stock sale; no Trump catalyst but signals potential insider caution"
+   "reason": "Insider stock sale; no Trump catalyst but signals potential insider caution",
+   "price_since": {
+    "ticker": "NFLX",
+    "pct": 4.4,
+    "base": 70.4,
+    "last": 73.47,
+    "base_date": "2026-07-27",
+    "last_date": "2026-07-28"
+   }
   },
   {
    "date": "2026-07-27T13:56:11Z",
@@ -320,7 +440,15 @@
    "direction": "SELL",
    "primary_ticker": "SMH",
    "strength": 55,
-   "reason": "China DUV breakthrough threatens US chip dominance; bearish for semiconductor sector"
+   "reason": "China DUV breakthrough threatens US chip dominance; bearish for semiconductor sector",
+   "price_since": {
+    "ticker": "SMH",
+    "pct": -4.3,
+    "base": 548.55,
+    "last": 524.69,
+    "base_date": "2026-07-27",
+    "last_date": "2026-07-28"
+   }
   },
   {
    "date": "2026-07-27T13:56:10Z",
@@ -336,7 +464,15 @@
    "direction": "SELL",
    "primary_ticker": "SMH",
    "strength": 60,
-   "reason": "China's DUV chip breakthrough threatens US semiconductor export restrictions benefit; bearish for US chip makers"
+   "reason": "China's DUV chip breakthrough threatens US semiconductor export restrictions benefit; bearish for US chip makers",
+   "price_since": {
+    "ticker": "SMH",
+    "pct": -4.3,
+    "base": 548.55,
+    "last": 524.89,
+    "base_date": "2026-07-27",
+    "last_date": "2026-07-28"
+   }
   },
   {
    "date": "2026-07-27T13:13:36Z",
@@ -352,7 +488,15 @@
    "direction": "BUY",
    "primary_ticker": "QCOM",
    "strength": 35,
-   "reason": "Quantum computing expansion by major tech player; positive sector sentiment"
+   "reason": "Quantum computing expansion by major tech player; positive sector sentiment",
+   "price_since": {
+    "ticker": "QCOM",
+    "pct": -2.0,
+    "base": 170.04,
+    "last": 166.63,
+    "base_date": "2026-07-27",
+    "last_date": "2026-07-28"
+   }
   },
   {
    "date": "2026-07-27T10:38:54Z",
@@ -368,7 +512,15 @@
    "direction": "SELL",
    "primary_ticker": "FXI",
    "strength": 40,
-   "reason": "China chipmaker IPO; reflects broader China tech competition and U.S.-China trade tensions."
+   "reason": "China chipmaker IPO; reflects broader China tech competition and U.S.-China trade tensions.",
+   "price_since": {
+    "ticker": "FXI",
+    "pct": 1.0,
+    "base": 35.28,
+    "last": 35.62,
+    "base_date": "2026-07-27",
+    "last_date": "2026-07-28"
+   }
   },
   {
    "date": "2026-07-27T07:49:59Z",
@@ -384,7 +536,15 @@
    "direction": "WATCH",
    "primary_ticker": "PLTR",
    "strength": 35,
-   "reason": "Burry shorts despite Trump endorsement; contrarian positioning creates directional ambiguity"
+   "reason": "Burry shorts despite Trump endorsement; contrarian positioning creates directional ambiguity",
+   "price_since": {
+    "ticker": "PLTR",
+    "pct": -9.5,
+    "base": 131.53,
+    "last": 119.06,
+    "base_date": "2026-07-27",
+    "last_date": "2026-07-28"
+   }
   },
   {
    "date": "2026-07-27T05:37:00Z",
@@ -400,7 +560,15 @@
    "direction": "WATCH",
    "primary_ticker": "SMH",
    "strength": 35,
-   "reason": "Chinese chipmaker debut raises competition concerns for US chip sector; mixed implications"
+   "reason": "Chinese chipmaker debut raises competition concerns for US chip sector; mixed implications",
+   "price_since": {
+    "ticker": "SMH",
+    "pct": -4.3,
+    "base": 548.55,
+    "last": 525.22,
+    "base_date": "2026-07-27",
+    "last_date": "2026-07-28"
+   }
   },
   {
    "date": "2026-07-27T04:01:13Z",
@@ -416,7 +584,15 @@
    "direction": "BUY",
    "primary_ticker": "XAR",
    "strength": 45,
-   "reason": "War/munitions commentary suggests elevated defense spending demand."
+   "reason": "War/munitions commentary suggests elevated defense spending demand.",
+   "price_since": {
+    "ticker": "XAR",
+    "pct": -1.8,
+    "base": 273.07,
+    "last": 268.09,
+    "base_date": "2026-07-27",
+    "last_date": "2026-07-28"
+   }
   },
   {
    "date": "2026-07-27T02:59:31Z",
@@ -432,7 +608,15 @@
    "direction": "BUY",
    "primary_ticker": "IBM",
    "strength": 75,
-   "reason": "Trump administration awards IBM $1B federal contract for quantum foundry; direct federal support"
+   "reason": "Trump administration awards IBM $1B federal contract for quantum foundry; direct federal support",
+   "price_since": {
+    "ticker": "IBM",
+    "pct": 1.4,
+    "base": 216.28,
+    "last": 219.2,
+    "base_date": "2026-07-27",
+    "last_date": "2026-07-28"
+   }
   },
   {
    "date": "2026-07-27T02:29:14Z",
@@ -448,7 +632,15 @@
    "direction": "BUY",
    "primary_ticker": "QTEX",
    "strength": 45,
-   "reason": "Quantum stock surge on Trump admin tailwinds; sector momentum from government investment"
+   "reason": "Quantum stock surge on Trump admin tailwinds; sector momentum from government investment",
+   "price_since": {
+    "ticker": "QTEX",
+    "pct": -9.5,
+    "base": 0.95,
+    "last": 0.86,
+    "base_date": "2026-07-27",
+    "last_date": "2026-07-28"
+   }
   },
   {
    "date": "2026-07-27T02:08:36Z",
@@ -497,6 +689,22 @@
    "primary_ticker": "C",
    "strength": 55,
    "reason": "Trump explicitly lauds Citigroup's M&A comeback; direct positive commentary on named bank"
+  },
+  {
+   "date": "2026-07-26T13:31:31Z",
+   "platform": "News",
+   "text": "IBRX Stock Rallies Into Trump\u2019s Big SOTU Night \u2014 Here\u2019s What Traders Think Could Fuel The Next Move - Stocktwits \u2014 IBRX Stock Rallies Into Trump\u2019s Big SOTU Night \u2014 Here\u2019s What Traders Think Could Fuel The Next Move\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWFdFall2YVNMN3Rialp3SE9sU0h6YUQ1MDFiX2JaeXMxNlFFZUZveFU0TkVxUFI4cTQ5bW5VdkFlTDd1dFNwSUN2YTRtRl83aVRRXzZ6d09TeEhlR1NJb1JaMHlMWDhrQXpmZW40c1B1Y21KNjhxdm90Ny1uU3p4MzJZSW9GNGduMEdyRzFIU2RGLWlYWXg4TFJUU0N6ZlhFemxtUmprVXY0YkVRZk5vZHljazQ?oc=5",
+   "tickers": [
+    "IBRX"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "IBRX",
+   "strength": 40,
+   "reason": "Stock rally tied to State of the Union event; direction unclear without knowing what Trump said or IBRX's market catalyst"
   },
   {
    "date": "2026-07-26T13:18:01Z",
@@ -561,22 +769,6 @@
    "primary_ticker": "QQQ",
    "strength": 25,
    "reason": "Chip rally mentioned (QCOM, TSM, MICRON) but headline is broad market rebound, not Trump-specific catalyst"
-  },
-  {
-   "date": "2026-07-26T02:24:35Z",
-   "platform": "News",
-   "text": "IBRX Stock Rallies Into Trump\u2019s Big SOTU Night \u2014 Here\u2019s What Traders Think Could Fuel The Next Move - Stocktwits \u2014 IBRX Stock Rallies Into Trump\u2019s Big SOTU Night \u2014 Here\u2019s What Traders Think Could Fuel The Next Move\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWFdFall2YVNMN3Rialp3SE9sU0h6YUQ1MDFiX2JaeXMxNlFFZUZveFU0TkVxUFI4cTQ5bW5VdkFlTDd1dFNwSUN2YTRtRl83aVRRXzZ6d09TeEhlR1NJb1JaMHlMWDhrQXpmZW40c1B1Y21KNjhxdm90Ny1uU3p4MzJZSW9GNGduMEdyRzFIU2RGLWlYWXg4TFJUU0N6ZlhFemxtUmprVXY0YkVRZk5vZHljazQ?oc=5",
-   "tickers": [
-    "IBRX"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "IBRX",
-   "strength": 25,
-   "reason": "IBRX rallying into State of the Union; no specific Trump catalyst mentioned; generic event"
   },
   {
    "date": "2026-07-26T02:22:10Z",
@@ -2433,102 +2625,6 @@
    "primary_ticker": "MYTA",
    "strength": 40,
    "reason": "Trump endorsement of MyPillow CEO Lindell implies support for his private company; if MYTA is Trump proxy, minor bullish signal."
-  },
-  {
-   "date": "2026-07-18T23:08:25Z",
-   "platform": "News",
-   "text": "Trump promoted 20+ companies on social media after buying their stock - MSN \u2014 Trump promoted 20+ companies on social media after buying their stock\u00a0\u00a0MSN",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOOWNMV2JHcTZWMS1ySUo1WXR6Sk5NRmg5UEoyYV95YndZRDBHcFBnWGxCLVJiU2lsODc1ZHBHOWpuVXBZT2JuN09VOUp1TERGdlB4RWlqcUxLSnpsYUZaakRWY1ZCZUx4TjJmc0xlQXpqSTl5NUZRNkhYaWp0OTVJbWNsT3p1UzloVzg0NXJMSEhpbTRJaGZsNFRtX0lfRG9mWl9TVWRGdWNEVEZ3X2E0UGRZbDJILVdQaTViSQ?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "SPY",
-   "strength": 45,
-   "reason": "Pattern of Trump promoting stocks he bought suggests market manipulation risk; unclear if bullish or bearish for broad market",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": 0.8,
-    "base": 742.09,
-    "last": 748.28,
-    "base_date": "2026-07-20",
-    "last_date": "2026-07-21"
-   }
-  },
-  {
-   "date": "2026-07-18T13:53:38Z",
-   "platform": "News",
-   "text": "DVLT Stock Tumbles Pre-Market On Discounted Offering \u2013 Retail Slams The Move, Calling It \u2018Self-Inflicted Pain\u2019 - Stocktwits \u2014 DVLT Stock Tumbles Pre-Market On Discounted Offering \u2013 Retail Slams The Move, Calling It \u2018Self-Inflicted Pain\u2019\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVUx3aGVQUk9NNklvanl0M0xObG44aVBxc0FCaTNESVRBUm14b05yTHExSnNIeGNrWVpXTkxhSmU2S0xZaUhTRHBvRVYtS1ZqTGNNVnpYSHVKSG85WG1jeWdmMXdZZ1pUV0h1YlNBaWlyZkFJVmRuR25PMGxJRGlKTi04U29DSHMxOEplQW9ZbmZqamluSEduUGR6cUc1WmlfbU5TbUJB?oc=5",
-   "tickers": [
-    "DVLT"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "DVLT",
-   "strength": 45,
-   "reason": "Stock tumbles on discounted offering; market-relevant but not Trump-driven.",
-   "price_since": {
-    "ticker": "DVLT",
-    "pct": -5.1,
-    "base": 0.39,
-    "last": 0.37,
-    "base_date": "2026-07-20",
-    "last_date": "2026-07-21"
-   }
-  },
-  {
-   "date": "2026-07-18T13:11:38Z",
-   "platform": "News",
-   "text": "NOW Stock Rises Overnight: Trump\u2019s ServiceNow Stake Fuels Retail Buzz Around SAAS Comeback - Stocktwits \u2014 NOW Stock Rises Overnight: Trump\u2019s ServiceNow Stake Fuels Retail Buzz Around SAAS Comeback\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQcEF0OFRRa3hIWF9rS21NMTBqNk53MDA4eWFQcDJad1Z2QkQyTTdmd3prLUVaVUUwdVRSWWpCOGs3N3JaYTZCcG1KMjg1c1Q0WWdjSnlWbHkteXVxcnFoUXFZMEg4ejh0YjA4ZG5BRnBEX1huMFNaS0dXdEx4LWNEOXBLcmNpMzlCQzc1OC0yRDFKeWFMWEZzWUpNQXBWTFFDQlJ6dmFWamU5cUpFZnVfcU1ocFdTa0tfdjByTlZZUHo4QUx1QzJOMHpzZEdaZjdqSVhoWFB0cVRKZW9BbnNLMi1XYUF2MlhaZGc?oc=5",
-   "tickers": [
-    "NOW"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "NOW",
-   "strength": 45,
-   "reason": "Trump's ServiceNow stake creates bullish sentiment; inferred but not explicit endorsement",
-   "price_since": {
-    "ticker": "NOW",
-    "pct": -2.5,
-    "base": 104.7,
-    "last": 102.06,
-    "base_date": "2026-07-20",
-    "last_date": "2026-07-21"
-   }
-  },
-  {
-   "date": "2026-07-18T06:10:07Z",
-   "platform": "News",
-   "text": "TSLA Stock Eyes Weekly Loss: Retail Investors Grill Musk On Missed Robotaxi Targets Ahead Of Q2 Earnings - Stocktwits \u2014 TSLA Stock Eyes Weekly Loss: Retail Investors Grill Musk On Missed Robotaxi Targets Ahead Of Q2 Earnings\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPc2VqM1JQbmZfbWdMR2gzRDc3QUo0MUhJaUtBVFQ4TjBvR1dja1lnekNnakVnVmJmb2k5M0JJeGdSVGFPdDBodDZTa3JjOHB1TXR5Mm1PQzZLQXczdGl1TUEwV2V0dnRCaXc3Q2FGQ1BRMkd1MkFaUlM4SlcxVW9KT081TG1xTjdHa2NsN0VaOUh5QVQ2dGZ3X0cteE1YYS1OTHlsck5ldHlycl8zRVE?oc=5",
-   "tickers": [
-    "TSLA"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "TSLA",
-   "strength": 45,
-   "reason": "Tesla eyes weekly loss amid robotaxi delays; bearish momentum on execution concerns",
-   "price_since": {
-    "ticker": "TSLA",
-    "pct": 2.5,
-    "base": 369.57,
-    "last": 378.93,
-    "base_date": "2026-07-20",
-    "last_date": "2026-07-21"
-   }
   },
   {
    "curated": true,
