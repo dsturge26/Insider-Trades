@@ -1,7 +1,39 @@
 {
- "last_updated": "2026-07-29T18:07:20Z",
+ "last_updated": "2026-07-29T19:43:23Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-07-29T19:33:40Z",
+   "platform": "News",
+   "text": "Trump praises Nvidia CEO Jensen Huang and company\u2019s chips during Oval Office visit - Crypto Briefing \u2014 Trump praises Nvidia CEO Jensen Huang and company\u2019s chips during Oval Office visit\u00a0\u00a0Crypto Briefing",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1waGxmd3NHVFBlYjNYWFkxamd0QXUtMDZaN3Znamt2ZEVibjZMSURIQnc2XzJrMTl0aUtGbGVJVDFYTlhuRmc2ZlRsRzFKYzVaSUhoODRkLVRfOFhfVkxQcDlsUERyOUJfMUhIcF9XYkE5MUh3am9Hb2ZB?oc=5",
+   "tickers": [
+    "NVDA"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "NVDA",
+   "strength": 72,
+   "reason": "Trump praises Nvidia CEO and chips during Oval Office visit, direct endorsement of specific company."
+  },
+  {
+   "date": "2026-07-29T18:13:00Z",
+   "platform": "News",
+   "text": "BREAKING: Fed Keeps Rates Steady For The Fifth Straight Meeting - Stocktwits \u2014 BREAKING: Fed Keeps Rates Steady For The Fifth Straight Meeting\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOalVTS3JFRjBfZ0JGNGpWOGJOcUt5bEhZNEVfZmNNZElPYTZNRlk4OTI1SUE4NlBkSmtmZHhaQ3UwZmt5dWJDWlpuUHBLbmxrNjN5TUdYLUJ1WUFSb29KREpONHRnU0FvUlZVZUhXSm9pM0tQNTNEemU3bXFCOHlzaGs5SExFSkpoUThrdjExWmVTYmZIT2QwckQ2elp5V2lqZnF3eVZEZVUtenBqNTlKV1FfcVpYOGZD?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "SPY",
+   "strength": 45,
+   "reason": "Fed holds rates steady; market-relevant macro signal but direction depends on prior expectations and forward guidance."
+  },
   {
    "date": "2026-07-29T17:05:39Z",
    "platform": "News",
@@ -17,6 +49,22 @@
    "primary_ticker": "DJT",
    "strength": 35,
    "reason": "SEC probe demand into Truth Social API threatens Trump Media valuation"
+  },
+  {
+   "date": "2026-07-29T17:05:39Z",
+   "platform": "News",
+   "text": "Senators Warren and Schiff are urging the SEC to investigate Trump Media's paid post feed - qz.com \u2014 Senators Warren and Schiff are urging the SEC to investigate Trump Media's paid post feed\u00a0\u00a0qz.com",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE43Wk9xcEpHR3BsdkFaczI5MUNWRWhfZ096WlpfTFBDQkxCMThUMlZud215VWNTd0JMNnNzcnFHSmxhc0RoRnJRNnljRWVUcG9KZVdwQ0MzRlNKekZIMW93S0ZxTXNnVy1CZDR4RXU3aF85eEl0LWt3?oc=5",
+   "tickers": [
+    "DJT"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "DJT",
+   "strength": 55,
+   "reason": "SEC investigation demand into Trump Media's paid post feed creates regulatory risk for DJT."
   },
   {
    "date": "2026-07-29T16:55:00Z",
@@ -67,6 +115,22 @@
    "reason": "Senators urge SEC probe into Truth Social preferential access scheme threatens DJT reputation and operations"
   },
   {
+   "date": "2026-07-29T00:27:36Z",
+   "platform": "News",
+   "text": "Michael Burry Says He\u2019s Still Short Palantir After Stock Sees Recovery Following Trump\u2019s Endorsement - Stocktwits \u2014 Michael Burry Says He\u2019s Still Short Palantir After Stock Sees Recovery Following Trump\u2019s Endorsement\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUmNQdmN5STJOLU11dEhkR1U0ckhuS3JMcm1NUDNMY0dNZ1pQcGhFVmd2bkZqVHV5N3N4N01tY1gzZWZnTDlvbVRzTEtkQnZyUjlibXR1ZUJ5MnVNY0ZlYlVEUWtRMkdnRzBGcmxpdEJaQm55ZWlTWmZZUDBPNnhncTFlLWg3bjllZXNpeGpTVjd3b3dCZ2lWT1dPZE5RSlNKT01IVXlTa1c5YmFodzVEWkJtbHpvUHN1Ry00NWhxcVJpdw?oc=5",
+   "tickers": [
+    "PLTR"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "PLTR",
+   "strength": 50,
+   "reason": "Conflicting signals: Trump endorsement bullish, but Burry's short thesis remains; ambiguous net direction."
+  },
+  {
    "date": "2026-07-28T20:15:00Z",
    "platform": "News",
    "text": "Trump Could Levy 500% Duties on Russian Imports Under Bipartisan Senate Proposal Targeting Energy Buyers - Briefs Finance \u2014 Trump Could Levy 500% Duties on Russian Imports Under Bipartisan Senate Proposal Targeting Energy Buyers\u00a0\u00a0Briefs Finance",
@@ -83,9 +147,9 @@
    "reason": "Proposed 500% tariffs on Russian energy imports bearish for US energy sector",
    "price_since": {
     "ticker": "XLE",
-    "pct": 1.6,
+    "pct": 1.7,
     "base": 57.57,
-    "last": 58.49,
+    "last": 58.52,
     "base_date": "2026-07-28",
     "last_date": "2026-07-29"
    }
@@ -107,9 +171,9 @@
    "reason": "Trump signals support for Palantir; vague praise but sector-relevant signal",
    "price_since": {
     "ticker": "PLTR",
-    "pct": 2.3,
+    "pct": -0.3,
     "base": 123.53,
-    "last": 126.34,
+    "last": 123.12,
     "base_date": "2026-07-28",
     "last_date": "2026-07-29"
    }
@@ -132,9 +196,9 @@
    "reason": "Toyota investment in Texas driven by tariff environment signals bullish auto sector sentiment",
    "price_since": {
     "ticker": "TM",
-    "pct": 4.7,
+    "pct": 3.8,
     "base": 186.3,
-    "last": 195.09,
+    "last": 193.37,
     "base_date": "2026-07-28",
     "last_date": "2026-07-29"
    }
@@ -156,9 +220,9 @@
    "reason": "Diversity crackdown policy may shift corporate governance and hiring; market impact ambiguous short-term",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.3,
+    "pct": -1.3,
     "base": 740.86,
-    "last": 738.65,
+    "last": 731.09,
     "base_date": "2026-07-28",
     "last_date": "2026-07-29"
    }
@@ -180,9 +244,9 @@
    "reason": "Trump orders 250 Cadillac Escalades\u2014direct company purchase signal for GM.",
    "price_since": {
     "ticker": "GM",
-    "pct": 0.7,
+    "pct": -0.8,
     "base": 90.3,
-    "last": 90.92,
+    "last": 89.6,
     "base_date": "2026-07-28",
     "last_date": "2026-07-29"
    }
@@ -204,9 +268,9 @@
    "reason": "Trump praises low-rate Fed policy; bullish for equities on lower interest rate expectations",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.3,
+    "pct": -1.3,
     "base": 740.86,
-    "last": 738.71,
+    "last": 731.09,
     "base_date": "2026-07-28",
     "last_date": "2026-07-29"
    }
@@ -228,9 +292,9 @@
    "reason": "Trump push for lowest interest rates with Warsh backing suggests potential dovish Fed tilt, market mixed",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.3,
+    "pct": -1.3,
     "base": 740.86,
-    "last": 738.71,
+    "last": 731.09,
     "base_date": "2026-07-28",
     "last_date": "2026-07-29"
    }
@@ -252,9 +316,9 @@
    "reason": "Stock-specific news on data center lease; no Trump direct involvement, retail momentum signal only",
    "price_since": {
     "ticker": "KEEL",
-    "pct": -8.6,
+    "pct": -13.1,
     "base": 3.73,
-    "last": 3.41,
+    "last": 3.24,
     "base_date": "2026-07-28",
     "last_date": "2026-07-29"
    }
@@ -276,9 +340,9 @@
    "reason": "Criticism of GM over emissions standards and gas prices; bearish indirect pressure on automaker.",
    "price_since": {
     "ticker": "GM",
-    "pct": 0.7,
+    "pct": -0.8,
     "base": 90.3,
-    "last": 90.92,
+    "last": 89.6,
     "base_date": "2026-07-28",
     "last_date": "2026-07-29"
    }
@@ -300,9 +364,9 @@
    "reason": "Fed rate decision and firm dollar bearish for gold prices",
    "price_since": {
     "ticker": "GLD",
-    "pct": 1.4,
+    "pct": 1.1,
     "base": 369.37,
-    "last": 374.44,
+    "last": 373.33,
     "base_date": "2026-07-28",
     "last_date": "2026-07-29"
    }
@@ -324,9 +388,9 @@
    "reason": "China IP theft escalation signals potential trade tensions and tariff risk; direction ambiguous without policy clarity",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.3,
+    "pct": -1.3,
     "base": 740.86,
-    "last": 738.71,
+    "last": 731.09,
     "base_date": "2026-07-28",
     "last_date": "2026-07-29"
    }
@@ -348,9 +412,9 @@
    "reason": "Insider move on McCormick stock; insufficient context on Trump link or direction",
    "price_since": {
     "ticker": "MKC",
-    "pct": 1.5,
+    "pct": 0.6,
     "base": 51.53,
-    "last": 52.3,
+    "last": 51.83,
     "base_date": "2026-07-28",
     "last_date": "2026-07-29"
    }
@@ -372,9 +436,9 @@
    "reason": "Trump caught between Apple and Micron over Chinese chip policy\u2014creates uncertainty for both semiconductor and supply chain stocks",
    "price_since": {
     "ticker": "SMH",
-    "pct": -1.7,
+    "pct": -3.6,
     "base": 529.6,
-    "last": 520.36,
+    "last": 510.44,
     "base_date": "2026-07-28",
     "last_date": "2026-07-29"
    }
@@ -396,9 +460,9 @@
    "reason": "Fed leadership comment suggests potential policy shift; impact on rates and broad market uncertain",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.1,
+    "pct": -1.1,
     "base": 739.09,
-    "last": 738.71,
+    "last": 731.14,
     "base_date": "2026-07-27",
     "last_date": "2026-07-29"
    }
@@ -420,9 +484,9 @@
    "reason": "Trump backs rate-dove Fed chair Warsh and criticizes Fed board; signals dovish policy tilt, bullish for equities and lower rates.",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.1,
+    "pct": -1.1,
     "base": 739.09,
-    "last": 738.71,
+    "last": 731.14,
     "base_date": "2026-07-27",
     "last_date": "2026-07-29"
    }
@@ -444,9 +508,9 @@
    "reason": "Trump praises GM during tariff defense; modest bullish signal on the stock but lacks specificity or urgency.",
    "price_since": {
     "ticker": "GM",
-    "pct": 4.5,
+    "pct": 2.9,
     "base": 87.04,
-    "last": 90.92,
+    "last": 89.6,
     "base_date": "2026-07-27",
     "last_date": "2026-07-29"
    }
@@ -468,9 +532,9 @@
    "reason": "CEO praise for Trump tariffs boosting aluminum production and jobs signals positive outlook for Century Aluminum under tariff regime.",
    "price_since": {
     "ticker": "CENX",
-    "pct": -4.1,
+    "pct": -5.7,
     "base": 44.87,
-    "last": 43.04,
+    "last": 42.31,
     "base_date": "2026-07-27",
     "last_date": "2026-07-29"
    }
@@ -492,9 +556,9 @@
    "reason": "CEO cites Trump tariffs boosting domestic aluminum production and jobs; tariff policy supporting domestic materials/energy sector.",
    "price_since": {
     "ticker": "XLE",
-    "pct": 0.2,
+    "pct": 0.3,
     "base": 58.36,
-    "last": 58.5,
+    "last": 58.52,
     "base_date": "2026-07-27",
     "last_date": "2026-07-29"
    }
@@ -516,9 +580,9 @@
    "reason": "F-35 sale approval to Turkey signals defense spending/military contractor support",
    "price_since": {
     "ticker": "XAR",
-    "pct": -3.5,
+    "pct": -5.5,
     "base": 273.07,
-    "last": 263.64,
+    "last": 258.17,
     "base_date": "2026-07-27",
     "last_date": "2026-07-29"
    }
@@ -540,9 +604,9 @@
    "reason": "Iran deal possibility creates ambiguity; could reduce defense spending (bearish XAR) or spur military readiness spending (bullish XAR).",
    "price_since": {
     "ticker": "XAR",
-    "pct": -3.5,
+    "pct": -5.5,
     "base": 273.07,
-    "last": 263.64,
+    "last": 258.17,
     "base_date": "2026-07-27",
     "last_date": "2026-07-29"
    }
@@ -564,9 +628,9 @@
    "reason": "Fed Chair choice signals monetary policy direction; praise/criticism is ambiguous for near-term market move",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.1,
+    "pct": -1.1,
     "base": 739.09,
-    "last": 738.68,
+    "last": 731.14,
     "base_date": "2026-07-27",
     "last_date": "2026-07-29"
    }
@@ -588,9 +652,9 @@
    "reason": "Trump mentions Palantir by name; CEO focus suggests positive but unclear if explicit endorsement or neutral mention",
    "price_since": {
     "ticker": "PLTR",
-    "pct": -3.9,
+    "pct": -6.4,
     "base": 131.53,
-    "last": 126.34,
+    "last": 123.07,
     "base_date": "2026-07-27",
     "last_date": "2026-07-29"
    }
@@ -612,9 +676,9 @@
    "reason": "Peacock/YouTube premium partnership expands streaming distribution and ad reach for Comcast subsidiary.",
    "price_since": {
     "ticker": "CMCSA",
-    "pct": 8.6,
+    "pct": 7.9,
     "base": 22.8,
-    "last": 24.75,
+    "last": 24.61,
     "base_date": "2026-07-27",
     "last_date": "2026-07-29"
    }
@@ -636,9 +700,9 @@
    "reason": "Military tension with Iran raises geopolitical risk; energy sector typically benefits from conflict uncertainty",
    "price_since": {
     "ticker": "XLE",
-    "pct": 0.2,
+    "pct": 0.3,
     "base": 58.36,
-    "last": 58.5,
+    "last": 58.52,
     "base_date": "2026-07-27",
     "last_date": "2026-07-29"
    }
@@ -906,22 +970,6 @@
     "base_date": "2026-07-27",
     "last_date": "2026-07-28"
    }
-  },
-  {
-   "date": "2026-07-27T07:49:59Z",
-   "platform": "News",
-   "text": "Michael Burry Says He\u2019s Still Short Palantir After Stock Sees Recovery Following Trump\u2019s Endorsement - Stocktwits \u2014 Michael Burry Says He\u2019s Still Short Palantir After Stock Sees Recovery Following Trump\u2019s Endorsement\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUmNQdmN5STJOLU11dEhkR1U0ckhuS3JMcm1NUDNMY0dNZ1pQcGhFVmd2bkZqVHV5N3N4N01tY1gzZWZnTDlvbVRzTEtkQnZyUjlibXR1ZUJ5MnVNY0ZlYlVEUWtRMkdnRzBGcmxpdEJaQm55ZWlTWmZZUDBPNnhncTFlLWg3bjllZXNpeGpTVjd3b3dCZ2lWT1dPZE5RSlNKT01IVXlTa1c5YmFodzVEWkJtbHpvUHN1Ry00NWhxcVJpdw?oc=5",
-   "tickers": [
-    "PLTR"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "PLTR",
-   "strength": 35,
-   "reason": "Burry shorts despite Trump endorsement; contrarian positioning creates directional ambiguity"
   },
   {
    "date": "2026-07-27T05:37:00Z",
@@ -2678,102 +2726,6 @@
    "primary_ticker": "DJT",
    "strength": 20,
    "reason": "Generic stock quote/forecast; no new information or catalyst; neutral placeholder"
-  },
-  {
-   "date": "2026-07-20T16:00:01Z",
-   "platform": "News",
-   "text": "Trump Praises Pittsburgh Supermarket Chain - Patch \u2014 Trump Praises Pittsburgh Supermarket Chain\u00a0\u00a0Patch",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOd2k2MUFMakhlakxKY05pTVdQSHFDWDl0ZlhMSWk4MHdpUm8xMlE5eWVXNHBSRHNQRFpEQ2o1MUwtc0FMT2VrNk1wUDhybHVrYURSODl2TjhsWnQycnZJM1dZUVlpd1JfVktsRHNscUQ0dTdIYldoR0t1QnYyTGhjWl9XQUdHczhYYmlrNdIBngFBVV95cUxPeWo3dnVVaXNQdWFqMG4zQmFoZ3RfZ2JlWS1fdVNGUUpZZ21KbDBCcmpvQkZ1M3p5Z25PV0xIOVJTaFZIb2xkVUpEVnZxcGYxeFJCdFBIN1RZX1FxNjZMYUFGcXlJZ0lVT2VFSXBMQjJ6X3pJNGhVTFp3dUtvbjN6THhRekh2SW5uSkFSODlsLWtJOVhrTWtab1pON1dkZw?oc=5",
-   "tickers": [
-    "KR"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "KR",
-   "strength": 55,
-   "reason": "Trump praises Pittsburgh supermarket chain (Giant Eagle); bullish signal for grocery sector.",
-   "price_since": {
-    "ticker": "KR",
-    "pct": -1.0,
-    "base": 58.36,
-    "last": 57.78,
-    "base_date": "2026-07-20",
-    "last_date": "2026-07-21"
-   }
-  },
-  {
-   "date": "2026-07-20T15:45:00Z",
-   "platform": "News",
-   "text": "Trump bought the stocks. Then told millions about them. - MSN \u2014 Trump bought the stocks. Then told millions about them.\u00a0\u00a0MSN",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVUNIT0FraFBscEVmRXNiaENFNzVtdDVMbVZuTFkzWHVHRkN6REd2OWgtME1oa1FXV21FemJXekhpeUhvYlBzUEtWX0R4dDBRLU9xVm40U3N1a1puTXczdTBCdl9pWXM4cHVaN1I0M1RjM2xiSTgxX3F5NklWOWNiTGpGU1RyUE9Jb00waE5zQzZTT3FtWlZnTHpScjB3WG5TN056bWlENUxhdVBDX29jYnBHZnJKWFVqM01KcEhFOE9NazJSNjRVZWZLTQ?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "WATCH",
-   "primary_ticker": "SPY",
-   "strength": 65,
-   "reason": "Trump buying stocks and promoting them to millions raises insider-trading concerns; ambiguous whether net-bullish or bearish for broad market",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": 0.8,
-    "base": 742.09,
-    "last": 748.28,
-    "base_date": "2026-07-20",
-    "last_date": "2026-07-21"
-   }
-  },
-  {
-   "date": "2026-07-20T14:36:17Z",
-   "platform": "News",
-   "text": "Giant Eagle gets praise from Trump - Axios \u2014 Giant Eagle gets praise from Trump\u00a0\u00a0Axios",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObnVaQ196QnFDMHZkY3dyYlVhS3lIZnh4VGx3N1V1R2p0Rzl4dkNVWnA0UVRHVjR5S25YYnpHZWZkZ0Rsb0JnajU2TWZtRVRtWW04dUxxU29FbE1INzE0dUhoeG9pY1RfeTJLSm5mTDBwQmY4eU5qVi12MDQ5dHhGSF9zaER5VG9pTWgyVjl2QUY0ODg?oc=5",
-   "tickers": [
-    "KR"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "KR",
-   "strength": 40,
-   "reason": "Trump praises Giant Eagle price cuts; modest bullish signal for grocer",
-   "price_since": {
-    "ticker": "KR",
-    "pct": -1.0,
-    "base": 58.36,
-    "last": 57.78,
-    "base_date": "2026-07-20",
-    "last_date": "2026-07-21"
-   }
-  },
-  {
-   "date": "2026-07-20T11:25:24Z",
-   "platform": "News",
-   "text": "Trump Praises Grocery Chain\u2019s Temporary Price Cuts and Calls on Other Retailers to Follow - Menafn \u2014 Trump Praises Grocery Chain\u2019s Temporary Price Cuts and Calls on Other Retailers to Follow\u00a0\u00a0Menafn",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZW1TX0tHWnRuUHVmcTVpNmdISXREcTVqSVVWS2FuY1d0M29qZjFqazdfcmFZblBhbU1rQ19vRkE5UnZxVGJWTmt1WmxzTUtkQ1NxcmpUeXdEcHlRQnE3WWVQalpPT2R0TXNUcDAxb0VZcmNMd05sd2prQjc2VUhyRkloUDRmNktqY1FqdUFRNHRhREZIdGVNRTcwWWFNMU9Fc2VwcXNEUHlrX3ZhR24wcU1aT0NhZWRUQnc?oc=5",
-   "tickers": [
-    "KR"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "KR",
-   "strength": 35,
-   "reason": "Trump praises grocery chain price cuts; retail sector benefited but not explicit endorsement",
-   "price_since": {
-    "ticker": "KR",
-    "pct": -1.0,
-    "base": 58.36,
-    "last": 57.78,
-    "base_date": "2026-07-20",
-    "last_date": "2026-07-21"
-   }
   },
   {
    "curated": true,
