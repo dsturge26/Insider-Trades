@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-07-29T13:24:21Z",
+ "last_updated": "2026-07-29T15:29:25Z",
  "note": "Trump-linked / 'Trump trade' tickers to watch. Prices are refreshed by the GitHub Action from Yahoo Finance (intraday quote + trend, no key; Stooq is a fallback). Stocks are ~15-min delayed, crypto is real-time.",
  "tickers": [
   {
@@ -245,14 +245,14 @@
      "close": 9.56
     },
     {
-     "date": "2026-07-28",
-     "close": 9.88
+     "date": "2026-07-29",
+     "close": 9.79
     }
    ],
-   "last": 9.88,
-   "prev_close": 9.16,
-   "day_pct": 7.86,
-   "as_of": "2026-07-28T20:00:01Z"
+   "last": 9.79,
+   "prev_close": 9.17,
+   "day_pct": 6.76,
+   "as_of": "2026-07-29T15:29:07Z"
   },
   {
    "ticker": "SPY",
@@ -497,14 +497,14 @@
      "close": 739.09
     },
     {
-     "date": "2026-07-28",
-     "close": 740.86
+     "date": "2026-07-29",
+     "close": 734.46
     }
    ],
-   "last": 740.86,
-   "prev_close": 711.69,
-   "day_pct": 4.1,
-   "as_of": "2026-07-28T20:00:00Z"
+   "last": 734.46,
+   "prev_close": 711.58,
+   "day_pct": 3.22,
+   "as_of": "2026-07-29T15:29:23Z"
   },
   {
    "ticker": "QQQ",
@@ -749,14 +749,14 @@
      "close": 682.12
     },
     {
-     "date": "2026-07-28",
-     "close": 675.49
+     "date": "2026-07-29",
+     "close": 666.98
     }
    ],
-   "last": 675.49,
-   "prev_close": 657.55,
-   "day_pct": 2.73,
-   "as_of": "2026-07-28T20:00:00Z"
+   "last": 666.98,
+   "prev_close": 661.57,
+   "day_pct": 0.82,
+   "as_of": "2026-07-29T15:29:23Z"
   },
   {
    "ticker": "PLTR",
@@ -1001,14 +1001,14 @@
      "close": 131.53
     },
     {
-     "date": "2026-07-28",
-     "close": 123.53
+     "date": "2026-07-29",
+     "close": 124.53
     }
    ],
-   "last": 123.53,
-   "prev_close": 141.18,
-   "day_pct": -12.5,
-   "as_of": "2026-07-28T20:00:00Z"
+   "last": 124.53,
+   "prev_close": 137.97,
+   "day_pct": -9.74,
+   "as_of": "2026-07-29T15:29:23Z"
   },
   {
    "ticker": "XAR",
@@ -1016,6 +1016,10 @@
    "why": "Defense names rally on conflict/spending headlines tied to administration policy.",
    "stooq": "xar.us",
    "prices": [
+    {
+     "date": "2026-04-30",
+     "close": 259.14
+    },
     {
      "date": "2026-05-01",
      "close": 256.44
@@ -1245,22 +1249,18 @@
      "close": 270.54
     },
     {
-     "date": "2026-07-24",
-     "close": 269.01
-    },
-    {
      "date": "2026-07-27",
      "close": 273.07
     },
     {
-     "date": "2026-07-28",
-     "close": 271.92
+     "date": "2026-07-29",
+     "close": 260.83
     }
    ],
-   "last": 271.92,
-   "prev_close": 254.91,
-   "day_pct": 6.67,
-   "as_of": "2026-07-28T20:00:00Z"
+   "last": 260.82,
+   "prev_close": 249.75,
+   "day_pct": 4.43,
+   "as_of": "2026-07-29T15:28:33Z"
   }
  ]
 }
