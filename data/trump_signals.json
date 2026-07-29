@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-07-29T15:29:24Z",
+ "last_updated": "2026-07-29T16:52:21Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -33,6 +33,22 @@
    "primary_ticker": "XLE",
    "strength": 65,
    "reason": "Proposed 500% tariffs on Russian energy imports bearish for US energy sector"
+  },
+  {
+   "date": "2026-07-28T18:18:51Z",
+   "platform": "News",
+   "text": "PLTR Stock Faces Split Narrative: Retail Bulls Hold Firm As Burry Sounds Alarm, Trump Signals Support - Stocktwits \u2014 PLTR Stock Faces Split Narrative: Retail Bulls Hold Firm As Burry Sounds Alarm, Trump Signals Support\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSFRDSVNMdHk3NEtMbFEwQ1ZRT2tLY3h1cEFvOTVjb182Qm1QUnVqTlE2dWhzYXZpaXBoN3gyNlg4dWVWY0dldndhRDZoOGE2N2ZSMTgxb1Ayb0RWanA3a0hEeEhKWGtYRENBSGZ0d0wySmlrSWpzM1BmcXZpTUdDOXcwMVl0NXVKYjMyOEFvYmVpYk9uOVRSaWdleVNEQnZkZk1tUE5vRURtNjdubE0wTUhLSFFUbGc3OUs5UVpJQXhVTHdZLTdLTmZDQVkxMUVwd3c?oc=5",
+   "tickers": [
+    "PLTR"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "PLTR",
+   "strength": 35,
+   "reason": "Trump signals support for Palantir; vague praise but sector-relevant signal"
   },
   {
    "date": "2026-07-28T17:24:57.958Z",
@@ -212,9 +228,9 @@
    "reason": "Fed leadership comment suggests potential policy shift; impact on rates and broad market uncertain",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.6,
+    "pct": -0.7,
     "base": 739.09,
-    "last": 734.5,
+    "last": 734.01,
     "base_date": "2026-07-27",
     "last_date": "2026-07-29"
    }
@@ -236,9 +252,9 @@
    "reason": "Trump backs rate-dove Fed chair Warsh and criticizes Fed board; signals dovish policy tilt, bullish for equities and lower rates.",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.6,
+    "pct": -0.7,
     "base": 739.09,
-    "last": 734.5,
+    "last": 733.97,
     "base_date": "2026-07-27",
     "last_date": "2026-07-29"
    }
@@ -260,9 +276,9 @@
    "reason": "Trump praises GM during tariff defense; modest bullish signal on the stock but lacks specificity or urgency.",
    "price_since": {
     "ticker": "GM",
-    "pct": 4.0,
+    "pct": 3.2,
     "base": 87.04,
-    "last": 90.56,
+    "last": 89.8,
     "base_date": "2026-07-27",
     "last_date": "2026-07-29"
    }
@@ -284,9 +300,9 @@
    "reason": "CEO praise for Trump tariffs boosting aluminum production and jobs signals positive outlook for Century Aluminum under tariff regime.",
    "price_since": {
     "ticker": "CENX",
-    "pct": -5.6,
+    "pct": -5.7,
     "base": 44.87,
-    "last": 42.36,
+    "last": 42.3,
     "base_date": "2026-07-27",
     "last_date": "2026-07-29"
    }
@@ -308,9 +324,9 @@
    "reason": "CEO cites Trump tariffs boosting domestic aluminum production and jobs; tariff policy supporting domestic materials/energy sector.",
    "price_since": {
     "ticker": "XLE",
-    "pct": 0.9,
+    "pct": 0.7,
     "base": 58.36,
-    "last": 58.9,
+    "last": 58.78,
     "base_date": "2026-07-27",
     "last_date": "2026-07-29"
    }
@@ -332,9 +348,9 @@
    "reason": "F-35 sale approval to Turkey signals defense spending/military contractor support",
    "price_since": {
     "ticker": "XAR",
-    "pct": -4.5,
+    "pct": -4.7,
     "base": 273.07,
-    "last": 260.83,
+    "last": 260.18,
     "base_date": "2026-07-27",
     "last_date": "2026-07-29"
    }
@@ -356,9 +372,9 @@
    "reason": "Iran deal possibility creates ambiguity; could reduce defense spending (bearish XAR) or spur military readiness spending (bullish XAR).",
    "price_since": {
     "ticker": "XAR",
-    "pct": -4.5,
+    "pct": -4.7,
     "base": 273.07,
-    "last": 260.83,
+    "last": 260.18,
     "base_date": "2026-07-27",
     "last_date": "2026-07-29"
    }
@@ -380,9 +396,9 @@
    "reason": "Fed Chair choice signals monetary policy direction; praise/criticism is ambiguous for near-term market move",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.6,
+    "pct": -0.7,
     "base": 739.09,
-    "last": 734.53,
+    "last": 733.9,
     "base_date": "2026-07-27",
     "last_date": "2026-07-29"
    }
@@ -404,9 +420,9 @@
    "reason": "Trump mentions Palantir by name; CEO focus suggests positive but unclear if explicit endorsement or neutral mention",
    "price_since": {
     "ticker": "PLTR",
-    "pct": -5.3,
+    "pct": -5.2,
     "base": 131.53,
-    "last": 124.54,
+    "last": 124.75,
     "base_date": "2026-07-27",
     "last_date": "2026-07-29"
    }
@@ -430,7 +446,7 @@
     "ticker": "CMCSA",
     "pct": 7.9,
     "base": 22.8,
-    "last": 24.6,
+    "last": 24.59,
     "base_date": "2026-07-27",
     "last_date": "2026-07-29"
    }
@@ -452,9 +468,9 @@
    "reason": "Military tension with Iran raises geopolitical risk; energy sector typically benefits from conflict uncertainty",
    "price_since": {
     "ticker": "XLE",
-    "pct": 0.9,
+    "pct": 0.7,
     "base": 58.36,
-    "last": 58.9,
+    "last": 58.78,
     "base_date": "2026-07-27",
     "last_date": "2026-07-29"
    }
@@ -476,9 +492,9 @@
    "reason": "China advances in lithography/memory production undermines US semiconductor export dominance; bearish for US chip stocks.",
    "price_since": {
     "ticker": "SMH",
-    "pct": -6.7,
+    "pct": -7.2,
     "base": 548.55,
-    "last": 511.82,
+    "last": 508.83,
     "base_date": "2026-07-27",
     "last_date": "2026-07-29"
    }
@@ -500,9 +516,9 @@
    "reason": "CEO ouster after 'woke' backlash Trump targeted; reversal of unpopular rebrand is bullish for stock",
    "price_since": {
     "ticker": "CBRL",
-    "pct": 5.6,
+    "pct": 6.3,
     "base": 52.43,
-    "last": 55.38,
+    "last": 55.73,
     "base_date": "2026-07-27",
     "last_date": "2026-07-29"
    }
@@ -524,9 +540,9 @@
    "reason": "CEO departure + Trump opposition to 'woke' rebrand signals potential strategic shift; stock may recover",
    "price_since": {
     "ticker": "CBRL",
-    "pct": 5.6,
+    "pct": 6.3,
     "base": 52.43,
-    "last": 55.38,
+    "last": 55.73,
     "base_date": "2026-07-27",
     "last_date": "2026-07-29"
    }
@@ -548,9 +564,9 @@
    "reason": "Trump ire over 'woke' rebrand triggered CEO departure; public backlash and operational turmoil",
    "price_since": {
     "ticker": "CBRL",
-    "pct": 5.6,
+    "pct": 6.3,
     "base": 52.43,
-    "last": 55.38,
+    "last": 55.73,
     "base_date": "2026-07-27",
     "last_date": "2026-07-29"
    }
@@ -572,9 +588,9 @@
    "reason": "CEO departure + Trump opposition to 'woke' rebrand signals potential strategic shift; stock may recover",
    "price_since": {
     "ticker": "CBRL",
-    "pct": 5.6,
+    "pct": 6.3,
     "base": 52.43,
-    "last": 55.38,
+    "last": 55.73,
     "base_date": "2026-07-27",
     "last_date": "2026-07-29"
    }
@@ -596,9 +612,9 @@
    "reason": "Insider stock sale; no Trump catalyst but signals potential insider caution",
    "price_since": {
     "ticker": "NFLX",
-    "pct": 2.7,
+    "pct": 3.4,
     "base": 70.4,
-    "last": 72.27,
+    "last": 72.76,
     "base_date": "2026-07-27",
     "last_date": "2026-07-29"
    }
@@ -620,9 +636,9 @@
    "reason": "China DUV breakthrough threatens US chip dominance; bearish for semiconductor sector",
    "price_since": {
     "ticker": "SMH",
-    "pct": -6.7,
+    "pct": -7.2,
     "base": 548.55,
-    "last": 511.82,
+    "last": 508.83,
     "base_date": "2026-07-27",
     "last_date": "2026-07-29"
    }
@@ -644,9 +660,9 @@
    "reason": "China's DUV chip breakthrough threatens US semiconductor export restrictions benefit; bearish for US chip makers",
    "price_since": {
     "ticker": "SMH",
-    "pct": -6.7,
+    "pct": -7.2,
     "base": 548.55,
-    "last": 511.82,
+    "last": 508.8,
     "base_date": "2026-07-27",
     "last_date": "2026-07-29"
    }
@@ -1162,22 +1178,6 @@
    "primary_ticker": "DELL",
    "strength": 60,
    "reason": "Trump reportedly purchased and promoted DELL stock; direct endorsement of a named public company."
-  },
-  {
-   "date": "2026-07-25T06:15:49Z",
-   "platform": "News",
-   "text": "PLTR Stock Faces Split Narrative: Retail Bulls Hold Firm As Burry Sounds Alarm, Trump Signals Support - Stocktwits \u2014 PLTR Stock Faces Split Narrative: Retail Bulls Hold Firm As Burry Sounds Alarm, Trump Signals Support\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSFRDSVNMdHk3NEtMbFEwQ1ZRT2tLY3h1cEFvOTVjb182Qm1QUnVqTlE2dWhzYXZpaXBoN3gyNlg4dWVWY0dldndhRDZoOGE2N2ZSMTgxb1Ayb0RWanA3a0hEeEhKWGtYRENBSGZ0d0wySmlrSWpzM1BmcXZpTUdDOXcwMVl0NXVKYjMyOEFvYmVpYk9uOVRSaWdleVNEQnZkZk1tUE5vRURtNjdubE0wTUhLSFFUbGc3OUs5UVpJQXhVTHdZLTdLTmZDQVkxMUVwd3c?oc=5",
-   "tickers": [
-    "PLTR"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "PLTR",
-   "strength": 60,
-   "reason": "Trump signals support for Palantir; explicit endorsement reinforces bullish case vs. skeptics."
   },
   {
    "date": "2026-07-25T04:59:27Z",
@@ -2606,63 +2606,6 @@
     "base_date": "2026-07-20",
     "last_date": "2026-07-21"
    }
-  },
-  {
-   "date": "2026-07-20T07:49:46Z",
-   "platform": "News",
-   "text": "Trump Praises Giant Eagle's Price Cuts, Urges Other Grocery Chains to Follow: 'Stepping Up in a Big and Bold Way' - Dailyhunt \u2014 Trump Praises Giant Eagle's Price Cuts, Urges Other Grocery Chains to Follow: 'Stepping Up in a Big and Bold Way'\u00a0\u00a0Dailyhunt",
-   "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQeHZ4MkFtLVJpbTExQlFnbWZjSG5rVURvRjdJbm1ncVJTaVpjNTdvWXNvM2VVa2VvUnk5eWJwUncwV2dyeERucHVqaFpEY2Jjc3dZMGR5Z2toUGZhVDU0LXdDOWkxNmVZT29zSk15cTJZeXpLRl9RaGtpRXVTTXVqdUc0MVMtZWJ4Z0VMdC1VWjlnRUs3cVJnSllMMU41UmFsc3pYcE5MdXJ6UTkyNkRSQ2FUM1RQS0E5NW1ja2tuZ2FIMEJQcHVqMUg5YWNsTGpfQTVLTGFMUkJnWXRiSmxJODh0YWxDVC1LTTlEb3NJeHd5UXdyWXY2TncwVml6WG5PNE1KODNHZ0NBZW5NWE5ualhUaTQ5NWlFbF8taA?oc=5",
-   "tickers": [
-    "WMT"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "WMT",
-   "strength": 30,
-   "reason": "Praise for Giant Eagle price cuts; pressure on grocer margins vs. consumer tailwind; ambiguous direction.",
-   "price_since": {
-    "ticker": "WMT",
-    "pct": -1.6,
-    "base": 112.2,
-    "last": 110.39,
-    "base_date": "2026-07-20",
-    "last_date": "2026-07-21"
-   }
-  },
-  {
-   "date": "2026-07-20T07:00:00Z",
-   "platform": "News",
-   "text": "Market Today: AMC, Tesla, Archer, Tempus AI, and More Headline N - GuruFocus \u2014 Market Today: AMC, Tesla, Archer, Tempus AI, and More Headline N\u00a0\u00a0GuruFocus",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYUNuUjdUdFNURG5iV2loNDVlRFd4bTJGM3pMLXE5Z0FteFVOSUF1TmhGUGxJODd0dVowcFpiSE5qcWlPZEhzNzNZZm9jeXpENS1LUnctRjE1TUdveFVXVGppNlNYbjJTRmJ5Nk5GcnFjRE5TWWNyWGhRR2ZkVFpFa0I1MElkdm5ySkFBUTZfYU40NWpiQkJEX2tqbzU2UGJjNlFoNUdhUkFabzBqVlpkMmpWOA?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "SPY",
-   "strength": 25,
-   "reason": "Market-headline roundup mentioning multiple stocks/sectors; no clear directional signal or Trump catalyst identified."
-  },
-  {
-   "date": "2026-07-20T00:34:45.576Z",
-   "platform": "Truth Social",
-   "text": "Wonderful news! I have just been informed that Giant Eagle, a GREAT American Grocery Company, will be lowering Prices, by a lot, across more than 300 products this Summer, through Labor Day, to help hardworking American families.Giant Eagle, like Walmart, is stepping up in a big and bold way to answer my call to lower costs for working families. We will continue to bring Prices DOWN, just like Oil, Gas, Eggs, and Prescription Drugs, all of which are dropping FAST after the disaster we inherited from Sleepy Joe Biden. Other Grocery Chains must immediately follow the lead of these absolute Patriots at Giant Eagle and Walmart. Together, we will make America stronger and more affordable than ever before, and get rid of the stench and Inflation perpetrated on us by the Dumocrats and the Sleepy Joe Biden Administration! President DONALD J. TRUMP",
-   "tickers": [
-    "GEO"
-   ],
-   "engagement": 22088,
-   "url": "https://truthsocial.com/@realDonaldTrump/116949495681903940",
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "GEO",
-   "strength": 75,
-   "reason": "Trump explicitly praises Giant Eagle and Walmart for price cuts; direct, emphatic endorsement of company action"
   },
   {
    "curated": true,
