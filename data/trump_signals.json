@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-07-29T22:39:48Z",
+ "last_updated": "2026-07-29T23:42:27Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -280,6 +280,30 @@
     "pct": 3.5,
     "base": 186.3,
     "last": 192.84,
+    "base_date": "2026-07-28",
+    "last_date": "2026-07-29"
+   }
+  },
+  {
+   "date": "2026-07-28T14:58:00Z",
+   "platform": "News",
+   "text": "Dell drops 14% on AI demand concerns - Breakingthenews.net \u2014 Dell drops 14% on AI demand concerns\u00a0\u00a0Breakingthenews.net",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYU1sQnlaRzhGZEhvNkdjaVNGN0hrMXZRVk1kQ1pmc0pCdnUtTU1aV0EzdzRsNHQ3cXkyYTVqVFNVckJPUGczX05FZkhwZU9SZk9OODN1RkpsQ3FRZUtteUotNmRncFRFTHJwSXFHZUF0a3RsRlRybUxvdWp1VUhSMFZGZGJBeGFtMWppYkNkUDNqM3pFcHFqX3hhVQ?oc=5",
+   "tickers": [
+    "DELL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "DELL",
+   "strength": 70,
+   "reason": "Dell stock drops sharply on AI demand concerns, a concrete near-term market catalyst affecting the named company.",
+   "price_since": {
+    "ticker": "DELL",
+    "pct": -5.7,
+    "base": 392.1,
+    "last": 369.64,
     "base_date": "2026-07-28",
     "last_date": "2026-07-29"
    }
@@ -2636,54 +2660,6 @@
     "pct": -0.4,
     "base": 57.78,
     "last": 57.54,
-    "base_date": "2026-07-21",
-    "last_date": "2026-07-22"
-   }
-  },
-  {
-   "date": "2026-07-21T12:35:05Z",
-   "platform": "News",
-   "text": "Two-tiered markets? Trump Media\u2019s Truth API sparks fairness debate - The American Bazaar \u2014 Two-tiered markets? Trump Media\u2019s Truth API sparks fairness debate\u00a0\u00a0The American Bazaar",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOckRyRzBhWmV3Nk9oRmZsM0k1eFNTRmY5LS0xdVJBRTlkbFZaWmRkc1NNQmoxa2E5aEVqZnNmSkJ5ZUpKYjFONkdRQzh0Y1hkN3BYV0Y1dGVoMHhBQmZDR24yYlo3XzFEV1NEc0RCR0pTVm5Kc1RxWTltd2hxRnhTM3pHcm5FOW1kY09WQkJrd2Y1UktUWF9wSzZqSzhCUl9ESkRjTFV1cFpoc3c?oc=5",
-   "tickers": [
-    "DJT"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "DJT",
-   "strength": 45,
-   "reason": "Truth API tiered access debate touches Trump Media business model, ambiguous impact",
-   "price_since": {
-    "ticker": "DJT",
-    "pct": -6.0,
-    "base": 9.82,
-    "last": 9.23,
-    "base_date": "2026-07-21",
-    "last_date": "2026-07-22"
-   }
-  },
-  {
-   "date": "2026-07-21T09:31:55Z",
-   "platform": "News",
-   "text": "Trump urged Americans to \u2018buy a Dell\u2019 while holding the stock \u2014 it\u2019s up 255% since. Enrich yourself now even if you don\u2019t sit in the White House - MSN \u2014 Trump urged Americans to \u2018buy a Dell\u2019 while holding the stock \u2014 it\u2019s up 255% since. Enrich yourself now even if you don\u2019t sit in the White House\u00a0\u00a0MSN",
-   "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxOZkxESTVQWGZNbHVVck9WMWxFOXpUQ3VZeElhQVZsTjNfU25MWl9jLXp6eDdEYTJVQ2hVSzduU19ELUpkcTBneFhzT1A3R1V4WU9ZRF9FeUtFTElCcG14SkkwVTFsM05tbVF2X1pGSWVabFB1NFZwT0NISlNZcGVkcVdCOFA1bllpeTRWNXVuTFIwLU5kSS1EZGtlZHI3ZjFXY3NEWExubDJlMU5DdDBxWXF0VUdmVW5GRzdjaWJqX0VodVRjampuWkNublVwWFUtMmxIR094WDh2RHJSSlc4YnFORG1neWFfWWdJaUxZN2JIRGJIQmNHNzVERURYRWJBN0hTaXphN0pwVm9ZS1l4Y3BXUEx1REdwUWtONWhwdGtNY1NpaHhIZ0FuNVdXRkQ1VHVEd2xOMTM?oc=5",
-   "tickers": [
-    "DELL"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "DELL",
-   "strength": 95,
-   "reason": "Trump explicitly urged Americans to 'buy a Dell' while holding the stock; direct market call on specific company.",
-   "price_since": {
-    "ticker": "DELL",
-    "pct": 9.3,
-    "base": 404.15,
-    "last": 441.8,
     "base_date": "2026-07-21",
     "last_date": "2026-07-22"
    }
