@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-07-29T20:38:22Z",
+ "last_updated": "2026-07-29T21:37:35Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-07-29T20:34:00Z",
+   "platform": "News",
+   "text": "Senators Urge SEC to Investigate Truth Social Plan to Sell Access to Wall Street - Talking Points Memo \u2014 Senators Urge SEC to Investigate Truth Social Plan to Sell Access to Wall Street\u00a0\u00a0Talking Points Memo",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRzZFMFZzWW1mUmIySlZzUmQwRUp2cFZINXVWa3p5MlFGbm45a0JKajRDSmRWM1RIMTh2TkMxVkU3c0pCVE1sel9hd1BkNXVwZWdIaVQyd3l5Sy1FSnloYTdCd1JJMzhQdzdXVVhEbmN3WVlCVFYxQm92bWJZMTJLVHJqMDJLWDhpaEcycjFZanZsdjVzYW9WQTczZXB6WTR5T0FCRjV2WmNUVUhfM1NFQld1VEpjZw?oc=5",
+   "tickers": [
+    "DJT"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "DJT",
+   "strength": 45,
+   "reason": "SEC investigation into Truth Social's Wall Street access plan creates regulatory risk for Trump Media"
+  },
   {
    "date": "2026-07-29T19:33:40Z",
    "platform": "News",
@@ -258,6 +274,30 @@
    "primary_ticker": "GM",
    "strength": 65,
    "reason": "Trump orders 250 Cadillac Escalades\u2014direct company purchase signal for GM.",
+   "price_since": {
+    "ticker": "GM",
+    "pct": -1.0,
+    "base": 90.3,
+    "last": 89.4,
+    "base_date": "2026-07-28",
+    "last_date": "2026-07-29"
+   }
+  },
+  {
+   "date": "2026-07-28T10:08:00Z",
+   "platform": "News",
+   "text": "Trump orders 250 Cadillac Escalades: Features of the luxury SUV with 55-inch display, V8 engine and Rs 1 c - economictimes.com \u2014 Trump orders 250 Cadillac Escalades: Features of the luxury SUV with 55-inch display, V8 engine and Rs 1 c\u00a0\u00a0economictimes.com",
+   "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxOeWM2N0kzMVhtMnNuUC12SDRqamd0V0M4OThiaEFXaDJmaXZZMVdCeFpjcVo0OEcyYS1yNXJhWnJWYVhlTFA4QTNQOEhfb0tIQmZCSWNaVTRKcmxtQ1AwSVhDQzdrcDlmTmlCYUhsTHU0RS1yeVBCYkg2TEFndlRfN1JXQmZtYWlBRTY2Z3hpTVpYOU9rNEpuZEJWRW8tUnhERDN6Y0F3M1FxNF9NY2wxbk43ZG5XNWt6Y3E1Q3ZmcElkZ3JRS1pSc0I3blZZZ3ZGdEQ1TGhVMkVZVDlxaWNhdWNLdjhpVzM0eU1OWlZ3aVpJNFVnaEZHUXBEVU9OLWVfa09GTl8wa3Mta2JHX1pleHB2TExLZ3RZaG1IbHRn0gGeAkFVX3lxTE55YzY3STMxWG0yc25QLXZINGpqZ3RXQzg5OGJoQVdoMmZpdlkxV0J4WmNxWjQ4RzJhLXI1cmFaclZhWGVMUDhBM1A4SF9vS0hCZkJJY1pVNEpybG1DUDBJWENDN2twOWZOaUJhSGxMdTRFLXJ5UEJiSDZMQWd2VF83UldCZm1haUFFNjZneGlNWlg5T2s0Sm5kQlZFby1SeEREM3pjQXczUXE0X01jbDFuTjdkblc1a3pjcTVDdmZwSWRnclFLWlJzQjduVllndkZ0RDVMaFUyRVlUOXFpY2F1Y0t2OGlXMzR5TU5aVndpWkk0VWdoRkdRcERVT04tZV9rT0ZOXzBrcy1rYkdfWmV4cHZMTEtndFlobUhsdGc?oc=5",
+   "tickers": [
+    "GM"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "GM",
+   "strength": 60,
+   "reason": "Trump orders 250 Cadillac Escalades (GM luxury SUV); direct corporate order from Trump bullish for GM revenue.",
    "price_since": {
     "ticker": "GM",
     "pct": -1.0,
@@ -2670,22 +2710,6 @@
     "base_date": "2026-07-20",
     "last_date": "2026-07-22"
    }
-  },
-  {
-   "date": "2026-07-20T20:00:53Z",
-   "platform": "News",
-   "text": "Mark Zuckerberg Overtakes Michael Dell As 5th Richest Amid Dell Selloff - Yahoo Finance \u2014 Mark Zuckerberg Overtakes Michael Dell As 5th Richest Amid Dell Selloff\u00a0\u00a0Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZlZMa0Z2S0I3MkpIdmVNcUxSZF9TWndtR2N0OHhiOGZ0NXoydHVDa3YxM2hTNUFXUnhSaGtuMUc5amZHOU5mdllCM3BDam1Yb1J3aTV2SDlxSDR6TWJDUFdtSU1pTTlXYURVVTlzUHRsQmhBekoyWFpXUElucGpuZEFYUGFJY1JTWjMwN05rV2V5MTAzV1hVUWVFcVZyLV9BUDRoZm1n?oc=5",
-   "tickers": [
-    "DELL"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "DELL",
-   "strength": 40,
-   "reason": "Dell stock selloff reported; indirect negative signal on DELL valuation"
   },
   {
    "curated": true,
