@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-07-29T09:21:53Z",
+ "last_updated": "2026-07-29T11:39:53Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -82,6 +82,22 @@
    "primary_ticker": "SPY",
    "strength": 60,
    "reason": "Trump praises low-rate Fed policy; bullish for equities on lower interest rate expectations"
+  },
+  {
+   "date": "2026-07-28T05:43:16Z",
+   "platform": "News",
+   "text": "KEEL Stock Jumps Onto Retail Radar As Investors Eye First Data Center Lease Announcement - Stocktwits \u2014 KEEL Stock Jumps Onto Retail Radar As Investors Eye First Data Center Lease Announcement\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVHpiUDN5T2I5aVFzNkpxZGZjdUJEVG0xLXN0c3pVRWo2REVuRGNZTFpvLXJTT2luZVhnTC1iVmFtcFYxbkpnanphZ3E0N0ExWmx5UGh4cGw2QmRiQXl3RG81OWlKRnEwOHVHT0FWdXlGd2VIZVhjM1k2TTU0THctQ3cyUVhNNG9JcGJQMlhPVHdWbkFVSVpfR25lNzVCMTJ4cGZRR05JcnR2SWFvSGc1VnYyMzFMMnFDLURZLW5pMGk3UUwyWktaVVNmZUdDZ21QZGQ0bEZfU0o1LXRvREhFd3h2NXBTMjQ?oc=5",
+   "tickers": [
+    "KEEL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "KEEL",
+   "strength": 25,
+   "reason": "Stock-specific news on data center lease; no Trump direct involvement, retail momentum signal only"
   },
   {
    "date": "2026-07-28T05:36:33Z",
@@ -2611,30 +2627,6 @@
     "pct": -1.0,
     "base": 58.36,
     "last": 57.78,
-    "base_date": "2026-07-20",
-    "last_date": "2026-07-21"
-   }
-  },
-  {
-   "date": "2026-07-20T01:04:10Z",
-   "platform": "News",
-   "text": "How Trump\u2019s Price-Cut Push Could Move Walmart\u2019s Stock - TipRanks \u2014 How Trump\u2019s Price-Cut Push Could Move Walmart\u2019s Stock\u00a0\u00a0TipRanks",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNanRubmpnM09xS28xTHpUWkluZWl4YWpxZld5WDRBM1JpSHNaT1ZWb0JzWXB3ZWE1N0lrcFEyMmNiX1pidDhxeThjM3B6SV9sVFZ0N1hoVUg1Y19NcXJDOUhld3JKVXYtQVJOLTFrcUZ2SXFQZW1UVEJSZllad2VqTFF5SWM1cllxdUdvRThob05mODZT?oc=5",
-   "tickers": [
-    "WMT"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "WMT",
-   "strength": 45,
-   "reason": "Trump price-cut push on Walmart; ambiguous whether positive PR or margin-pressure bearish",
-   "price_since": {
-    "ticker": "WMT",
-    "pct": -1.6,
-    "base": 112.2,
-    "last": 110.39,
     "base_date": "2026-07-20",
     "last_date": "2026-07-21"
    }
