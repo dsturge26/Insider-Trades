@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-07-29T06:18:43Z",
+ "last_updated": "2026-07-29T09:21:53Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -177,7 +177,15 @@
    "direction": "WATCH",
    "primary_ticker": "SPY",
    "strength": 40,
-   "reason": "Fed leadership comment suggests potential policy shift; impact on rates and broad market uncertain"
+   "reason": "Fed leadership comment suggests potential policy shift; impact on rates and broad market uncertain",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": 0.2,
+    "base": 739.09,
+    "last": 740.86,
+    "base_date": "2026-07-27",
+    "last_date": "2026-07-28"
+   }
   },
   {
    "date": "2026-07-27T22:00:00Z",
@@ -193,7 +201,15 @@
    "direction": "BUY",
    "primary_ticker": "GM",
    "strength": 35,
-   "reason": "Trump praises GM during tariff defense; modest bullish signal on the stock but lacks specificity or urgency."
+   "reason": "Trump praises GM during tariff defense; modest bullish signal on the stock but lacks specificity or urgency.",
+   "price_since": {
+    "ticker": "GM",
+    "pct": 3.7,
+    "base": 87.04,
+    "last": 90.3,
+    "base_date": "2026-07-27",
+    "last_date": "2026-07-28"
+   }
   },
   {
    "date": "2026-07-27T19:08:06Z",
@@ -209,7 +225,15 @@
    "direction": "BUY",
    "primary_ticker": "CENX",
    "strength": 65,
-   "reason": "CEO praise for Trump tariffs boosting aluminum production and jobs signals positive outlook for Century Aluminum under tariff regime."
+   "reason": "CEO praise for Trump tariffs boosting aluminum production and jobs signals positive outlook for Century Aluminum under tariff regime.",
+   "price_since": {
+    "ticker": "CENX",
+    "pct": -2.0,
+    "base": 44.87,
+    "last": 43.96,
+    "base_date": "2026-07-27",
+    "last_date": "2026-07-28"
+   }
   },
   {
    "date": "2026-07-27T18:57:41Z",
@@ -225,7 +249,15 @@
    "direction": "BUY",
    "primary_ticker": "XAR",
    "strength": 50,
-   "reason": "F-35 sale approval to Turkey signals defense spending/military contractor support"
+   "reason": "F-35 sale approval to Turkey signals defense spending/military contractor support",
+   "price_since": {
+    "ticker": "XAR",
+    "pct": -0.4,
+    "base": 273.07,
+    "last": 271.92,
+    "base_date": "2026-07-27",
+    "last_date": "2026-07-28"
+   }
   },
   {
    "date": "2026-07-27T18:39:37Z",
@@ -241,7 +273,15 @@
    "direction": "WATCH",
    "primary_ticker": "XAR",
    "strength": 45,
-   "reason": "Iran deal possibility creates ambiguity; could reduce defense spending (bearish XAR) or spur military readiness spending (bullish XAR)."
+   "reason": "Iran deal possibility creates ambiguity; could reduce defense spending (bearish XAR) or spur military readiness spending (bullish XAR).",
+   "price_since": {
+    "ticker": "XAR",
+    "pct": -0.4,
+    "base": 273.07,
+    "last": 271.92,
+    "base_date": "2026-07-27",
+    "last_date": "2026-07-28"
+   }
   },
   {
    "date": "2026-07-27T17:45:40Z",
@@ -257,7 +297,15 @@
    "direction": "WATCH",
    "primary_ticker": "SPY",
    "strength": 35,
-   "reason": "Fed Chair choice signals monetary policy direction; praise/criticism is ambiguous for near-term market move"
+   "reason": "Fed Chair choice signals monetary policy direction; praise/criticism is ambiguous for near-term market move",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": 0.2,
+    "base": 739.09,
+    "last": 740.86,
+    "base_date": "2026-07-27",
+    "last_date": "2026-07-28"
+   }
   },
   {
    "date": "2026-07-27T17:32:22Z",
@@ -273,7 +321,15 @@
    "direction": "WATCH",
    "primary_ticker": "PLTR",
    "strength": 55,
-   "reason": "Trump mentions Palantir by name; CEO focus suggests positive but unclear if explicit endorsement or neutral mention"
+   "reason": "Trump mentions Palantir by name; CEO focus suggests positive but unclear if explicit endorsement or neutral mention",
+   "price_since": {
+    "ticker": "PLTR",
+    "pct": -6.1,
+    "base": 131.53,
+    "last": 123.53,
+    "base_date": "2026-07-27",
+    "last_date": "2026-07-28"
+   }
   },
   {
    "date": "2026-07-27T17:26:41Z",
@@ -289,7 +345,15 @@
    "direction": "BUY",
    "primary_ticker": "CMCSA",
    "strength": 55,
-   "reason": "Peacock/YouTube premium partnership expands streaming distribution and ad reach for Comcast subsidiary."
+   "reason": "Peacock/YouTube premium partnership expands streaming distribution and ad reach for Comcast subsidiary.",
+   "price_since": {
+    "ticker": "CMCSA",
+    "pct": 6.1,
+    "base": 22.8,
+    "last": 24.19,
+    "base_date": "2026-07-27",
+    "last_date": "2026-07-28"
+   }
   },
   {
    "date": "2026-07-27T17:17:11Z",
@@ -305,7 +369,15 @@
    "direction": "WATCH",
    "primary_ticker": "XLE",
    "strength": 40,
-   "reason": "Military tension with Iran raises geopolitical risk; energy sector typically benefits from conflict uncertainty"
+   "reason": "Military tension with Iran raises geopolitical risk; energy sector typically benefits from conflict uncertainty",
+   "price_since": {
+    "ticker": "XLE",
+    "pct": -1.4,
+    "base": 58.36,
+    "last": 57.57,
+    "base_date": "2026-07-27",
+    "last_date": "2026-07-28"
+   }
   },
   {
    "date": "2026-07-27T16:15:00Z",
@@ -321,7 +393,15 @@
    "direction": "SELL",
    "primary_ticker": "SMH",
    "strength": 60,
-   "reason": "China advances in lithography/memory production undermines US semiconductor export dominance; bearish for US chip stocks."
+   "reason": "China advances in lithography/memory production undermines US semiconductor export dominance; bearish for US chip stocks.",
+   "price_since": {
+    "ticker": "SMH",
+    "pct": -3.5,
+    "base": 548.55,
+    "last": 529.6,
+    "base_date": "2026-07-27",
+    "last_date": "2026-07-28"
+   }
   },
   {
    "date": "2026-07-27T15:22:59Z",
@@ -337,7 +417,15 @@
    "direction": "BUY",
    "primary_ticker": "CBRL",
    "strength": 65,
-   "reason": "CEO ouster after 'woke' backlash Trump targeted; reversal of unpopular rebrand is bullish for stock"
+   "reason": "CEO ouster after 'woke' backlash Trump targeted; reversal of unpopular rebrand is bullish for stock",
+   "price_since": {
+    "ticker": "CBRL",
+    "pct": 2.6,
+    "base": 52.43,
+    "last": 53.81,
+    "base_date": "2026-07-27",
+    "last_date": "2026-07-28"
+   }
   },
   {
    "date": "2026-07-27T15:01:33Z",
@@ -353,7 +441,15 @@
    "direction": "BUY",
    "primary_ticker": "CBRL",
    "strength": 45,
-   "reason": "CEO departure + Trump opposition to 'woke' rebrand signals potential strategic shift; stock may recover"
+   "reason": "CEO departure + Trump opposition to 'woke' rebrand signals potential strategic shift; stock may recover",
+   "price_since": {
+    "ticker": "CBRL",
+    "pct": 2.6,
+    "base": 52.43,
+    "last": 53.81,
+    "base_date": "2026-07-27",
+    "last_date": "2026-07-28"
+   }
   },
   {
    "date": "2026-07-27T15:01:33Z",
@@ -369,7 +465,15 @@
    "direction": "SELL",
    "primary_ticker": "CBRL",
    "strength": 60,
-   "reason": "Trump ire over 'woke' rebrand triggered CEO departure; public backlash and operational turmoil"
+   "reason": "Trump ire over 'woke' rebrand triggered CEO departure; public backlash and operational turmoil",
+   "price_since": {
+    "ticker": "CBRL",
+    "pct": 2.6,
+    "base": 52.43,
+    "last": 53.81,
+    "base_date": "2026-07-27",
+    "last_date": "2026-07-28"
+   }
   },
   {
    "date": "2026-07-27T15:01:00Z",
@@ -385,7 +489,15 @@
    "direction": "BUY",
    "primary_ticker": "CBRL",
    "strength": 45,
-   "reason": "CEO departure + Trump opposition to 'woke' rebrand signals potential strategic shift; stock may recover"
+   "reason": "CEO departure + Trump opposition to 'woke' rebrand signals potential strategic shift; stock may recover",
+   "price_since": {
+    "ticker": "CBRL",
+    "pct": 2.6,
+    "base": 52.43,
+    "last": 53.81,
+    "base_date": "2026-07-27",
+    "last_date": "2026-07-28"
+   }
   },
   {
    "date": "2026-07-27T14:45:51Z",
@@ -401,7 +513,15 @@
    "direction": "WATCH",
    "primary_ticker": "NFLX",
    "strength": 30,
-   "reason": "Insider stock sale; no Trump catalyst but signals potential insider caution"
+   "reason": "Insider stock sale; no Trump catalyst but signals potential insider caution",
+   "price_since": {
+    "ticker": "NFLX",
+    "pct": 2.8,
+    "base": 70.4,
+    "last": 72.39,
+    "base_date": "2026-07-27",
+    "last_date": "2026-07-28"
+   }
   },
   {
    "date": "2026-07-27T13:56:11Z",
@@ -417,7 +537,15 @@
    "direction": "SELL",
    "primary_ticker": "SMH",
    "strength": 55,
-   "reason": "China DUV breakthrough threatens US chip dominance; bearish for semiconductor sector"
+   "reason": "China DUV breakthrough threatens US chip dominance; bearish for semiconductor sector",
+   "price_since": {
+    "ticker": "SMH",
+    "pct": -3.5,
+    "base": 548.55,
+    "last": 529.6,
+    "base_date": "2026-07-27",
+    "last_date": "2026-07-28"
+   }
   },
   {
    "date": "2026-07-27T13:56:10Z",
@@ -433,7 +561,15 @@
    "direction": "SELL",
    "primary_ticker": "SMH",
    "strength": 60,
-   "reason": "China's DUV chip breakthrough threatens US semiconductor export restrictions benefit; bearish for US chip makers"
+   "reason": "China's DUV chip breakthrough threatens US semiconductor export restrictions benefit; bearish for US chip makers",
+   "price_since": {
+    "ticker": "SMH",
+    "pct": -3.5,
+    "base": 548.55,
+    "last": 529.6,
+    "base_date": "2026-07-27",
+    "last_date": "2026-07-28"
+   }
   },
   {
    "date": "2026-07-27T13:13:36Z",
@@ -449,7 +585,39 @@
    "direction": "BUY",
    "primary_ticker": "QCOM",
    "strength": 35,
-   "reason": "Quantum computing expansion by major tech player; positive sector sentiment"
+   "reason": "Quantum computing expansion by major tech player; positive sector sentiment",
+   "price_since": {
+    "ticker": "QCOM",
+    "pct": -4.2,
+    "base": 170.04,
+    "last": 162.88,
+    "base_date": "2026-07-27",
+    "last_date": "2026-07-28"
+   }
+  },
+  {
+   "date": "2026-07-27T12:58:06Z",
+   "platform": "News",
+   "text": "The Latest: Trump praises his sweeping tariffs while in Michigan for a speech on the economy - Yahoo \u2014 The Latest: Trump praises his sweeping tariffs while in Michigan for a speech on the economy\u00a0\u00a0Yahoo",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZG1RQ0VaaV9fUFFjMzdJRW9CSms2XzFlVmZYVE9JWnRGblhNVWo1Z2g4MDdseUdjcm50LUh0UEh6dS1QNXhoYkM3a3kxdGpNM0d0VW5uOGNHWVRKa0ppRGt0WHpnN19vQmhoRmloOUlBY3ctN1RqaS1zaE9jT05nUnFrV2FuN2RJRno3bmxQRVVzTnJMcm5ZNEdwOTNCSVRy?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "SPY",
+   "strength": 65,
+   "reason": "Sweeping tariffs announced/praised; broad tariffs are bearish for equities and consumer spending",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": 0.2,
+    "base": 739.09,
+    "last": 740.86,
+    "base_date": "2026-07-27",
+    "last_date": "2026-07-28"
+   }
   },
   {
    "date": "2026-07-27T10:38:54Z",
@@ -465,7 +633,15 @@
    "direction": "SELL",
    "primary_ticker": "FXI",
    "strength": 40,
-   "reason": "China chipmaker IPO; reflects broader China tech competition and U.S.-China trade tensions."
+   "reason": "China chipmaker IPO; reflects broader China tech competition and U.S.-China trade tensions.",
+   "price_since": {
+    "ticker": "FXI",
+    "pct": 1.0,
+    "base": 35.28,
+    "last": 35.65,
+    "base_date": "2026-07-27",
+    "last_date": "2026-07-28"
+   }
   },
   {
    "date": "2026-07-27T07:49:59Z",
@@ -2459,56 +2635,6 @@
     "pct": -1.6,
     "base": 112.2,
     "last": 110.39,
-    "base_date": "2026-07-20",
-    "last_date": "2026-07-21"
-   }
-  },
-  {
-   "date": "2026-07-20T00:34:45.576Z",
-   "platform": "Truth Social",
-   "text": "Wonderful news! I have just been informed that Giant Eagle, a GREAT American Grocery Company, will be lowering Prices, by a lot, across more than 300 products this Summer, through Labor Day, to help hardworking American families.Giant Eagle, like Walmart, is stepping up in a big and bold way to answer my call to lower costs for working families. We will continue to bring Prices DOWN, just like Oil, Gas, Eggs, and Prescription Drugs, all of which are dropping FAST after the disaster we inherited from Sleepy Joe Biden. Other Grocery Chains must immediately follow the lead of these absolute Patriots at Giant Eagle and Walmart. Together, we will make America stronger and more affordable than ever before, and get rid of the stench and Inflation perpetrated on us by the Dumocrats and the Sleepy Joe Biden Administration! President DONALD J. TRUMP",
-   "tickers": [
-    "SPY"
-   ],
-   "engagement": 9096,
-   "url": "https://truthsocial.com/@realDonaldTrump/116949495681903940",
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "SPY",
-   "strength": 25,
-   "reason": "Price-lowering by major grocers signals deflationary pressure and consumer support; macro-positive but vague",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": 0.8,
-    "base": 742.09,
-    "last": 748.28,
-    "base_date": "2026-07-20",
-    "last_date": "2026-07-21"
-   }
-  },
-  {
-   "date": "2026-07-19T18:27:51.353Z",
-   "platform": "Truth Social",
-   "text": "RT @realDonaldTrumpThe People of Aberdeen, in Scotland, are dancing in the streets because the new Prime Minister, Andy Burnham, has stated that he will be opening up, all the way, the invaluable North Sea Oil! It is one of the Greatest Sources of quality Oil on Earth, has hundreds of years of Capacity left, with much not even found yet, and will make the United Kingdom, from a Poverty Stricken Disaster, to one of the Richest Countries anywhere in the World! Britain pays Norway Billions of Dollars a year to buy its Oil, which they get from a less valuable part of the North Sea \u2014 How ridiculous is that! Also, word is that the UK is going to move the old and horrible looking windmills, which loom over and destroy the City of Aberdeen. That will be a big day for the Country, and will be very much appreciated by everybody. Such great potential in the UK, but it all starts with OPENING NORTH SEA OIL. WE LOVE YOU SCOTLAND! President DONALD J. TRUMP",
-   "tickers": [
-    "XLE"
-   ],
-   "engagement": 0,
-   "url": "https://truthsocial.com/@realDonaldTrump/116948052957822885",
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "XLE",
-   "strength": 35,
-   "reason": "North Sea oil expansion opens production capacity; bullish for global oil/energy sector",
-   "price_since": {
-    "ticker": "XLE",
-    "pct": 1.0,
-    "base": 57.94,
-    "last": 58.5,
     "base_date": "2026-07-20",
     "last_date": "2026-07-21"
    }
