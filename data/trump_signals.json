@@ -1,7 +1,39 @@
 {
- "last_updated": "2026-07-29T16:52:21Z",
+ "last_updated": "2026-07-29T18:07:20Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-07-29T17:05:39Z",
+   "platform": "News",
+   "text": "Warren and Schiff urge SEC to probe Trump Media Truth Social API - qz.com \u2014 Warren and Schiff urge SEC to probe Trump Media Truth Social API\u00a0\u00a0qz.com",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE43Wk9xcEpHR3BsdkFaczI5MUNWRWhfZ096WlpfTFBDQkxCMThUMlZud215VWNTd0JMNnNzcnFHSmxhc0RoRnJRNnljRWVUcG9KZVdwQ0MzRlNKekZIMW93S0ZxTXNnVy1CZDR4RXU3aF85eEl0LWt3?oc=5",
+   "tickers": [
+    "DJT"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "DJT",
+   "strength": 35,
+   "reason": "SEC probe demand into Truth Social API threatens Trump Media valuation"
+  },
+  {
+   "date": "2026-07-29T16:55:00Z",
+   "platform": "News",
+   "text": "Trump\u2019s $100,000 Truth API Faces SEC Investigation Demand: Two Precedents Show How it Ends - BeInCrypto \u2014 Trump\u2019s $100,000 Truth API Faces SEC Investigation Demand: Two Precedents Show How it Ends\u00a0\u00a0BeInCrypto",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB6NjgwTWJjM1JqSFV1TDNiS0lGYm5jaDNoZGFnVFN3eURZVnNPdFVDdDFuTWZibUZ6NVVHa3czYTRDWGxJNlNsWWhFOEQzWFF4WDUxbmR2cm1CVi1oNkppRllDUmxWSTMyUFY2Vmg1LUI4UQ?oc=5",
+   "tickers": [
+    "DJT"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "DJT",
+   "strength": 40,
+   "reason": "SEC investigation demand into Truth API pricing model adds regulatory risk to Trump Media"
+  },
   {
    "date": "2026-07-29T14:12:00Z",
    "platform": "News",
@@ -19,6 +51,22 @@
    "reason": "Military escalation with Iran typically bullish for defense and energy sectors; geopolitical risk premium may elevate oil prices."
   },
   {
+   "date": "2026-07-29T11:49:27Z",
+   "platform": "News",
+   "text": "US Senators Urge SEC Probe Into Trump Media\u2019s Preferential Truth Social Access Plan For Wall Street Firms - Stocktwits \u2014 US Senators Urge SEC Probe Into Trump Media\u2019s Preferential Truth Social Access Plan For Wall Street Firms\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQbDJIQ2JpRV9FT1VPd21TYnBYYzJWNDJaczJJTWxPM3o2b1FIT1hBTzEtUWdMX1VVSFItamhSdjRVOGo0TXpMMlNrYmZwVGtTeUM1TTJ3RmlPTEQzRGJmYmRHcldXMW0yVGdzQWF5NVlRWWxiMExMb3VxRElqSXlnX1hqc0dYNjhPbEEyN09WZkhBMk1Tbmk2SHdsVFhudHk3bWdwSE9UcGx5Mm41MzlIbFBYSjdrWDZPTGUxOU5CV3o5YnVrZkVaYl9LcWtmemU1MUNpV19ic1EyUEg0YVRxa21rbjdKVWpOREdwWndCUHJMMC10Z3ZOMnozWnRSdw?oc=5",
+   "tickers": [
+    "DJT"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "DJT",
+   "strength": 38,
+   "reason": "Senators urge SEC probe into Truth Social preferential access scheme threatens DJT reputation and operations"
+  },
+  {
    "date": "2026-07-28T20:15:00Z",
    "platform": "News",
    "text": "Trump Could Levy 500% Duties on Russian Imports Under Bipartisan Senate Proposal Targeting Energy Buyers - Briefs Finance \u2014 Trump Could Levy 500% Duties on Russian Imports Under Bipartisan Senate Proposal Targeting Energy Buyers\u00a0\u00a0Briefs Finance",
@@ -32,7 +80,15 @@
    "direction": "SELL",
    "primary_ticker": "XLE",
    "strength": 65,
-   "reason": "Proposed 500% tariffs on Russian energy imports bearish for US energy sector"
+   "reason": "Proposed 500% tariffs on Russian energy imports bearish for US energy sector",
+   "price_since": {
+    "ticker": "XLE",
+    "pct": 1.6,
+    "base": 57.57,
+    "last": 58.49,
+    "base_date": "2026-07-28",
+    "last_date": "2026-07-29"
+   }
   },
   {
    "date": "2026-07-28T18:18:51Z",
@@ -48,7 +104,15 @@
    "direction": "BUY",
    "primary_ticker": "PLTR",
    "strength": 35,
-   "reason": "Trump signals support for Palantir; vague praise but sector-relevant signal"
+   "reason": "Trump signals support for Palantir; vague praise but sector-relevant signal",
+   "price_since": {
+    "ticker": "PLTR",
+    "pct": 2.3,
+    "base": 123.53,
+    "last": 126.34,
+    "base_date": "2026-07-28",
+    "last_date": "2026-07-29"
+   }
   },
   {
    "date": "2026-07-28T17:24:57.958Z",
@@ -65,7 +129,15 @@
    "direction": "BUY",
    "primary_ticker": "TM",
    "strength": 45,
-   "reason": "Toyota investment in Texas driven by tariff environment signals bullish auto sector sentiment"
+   "reason": "Toyota investment in Texas driven by tariff environment signals bullish auto sector sentiment",
+   "price_since": {
+    "ticker": "TM",
+    "pct": 4.7,
+    "base": 186.3,
+    "last": 195.09,
+    "base_date": "2026-07-28",
+    "last_date": "2026-07-29"
+   }
   },
   {
    "date": "2026-07-28T14:12:07Z",
@@ -81,7 +153,15 @@
    "direction": "WATCH",
    "primary_ticker": "SPY",
    "strength": 35,
-   "reason": "Diversity crackdown policy may shift corporate governance and hiring; market impact ambiguous short-term"
+   "reason": "Diversity crackdown policy may shift corporate governance and hiring; market impact ambiguous short-term",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": -0.3,
+    "base": 740.86,
+    "last": 738.65,
+    "base_date": "2026-07-28",
+    "last_date": "2026-07-29"
+   }
   },
   {
    "date": "2026-07-28T10:08:00Z",
@@ -97,7 +177,15 @@
    "direction": "BUY",
    "primary_ticker": "GM",
    "strength": 65,
-   "reason": "Trump orders 250 Cadillac Escalades\u2014direct company purchase signal for GM."
+   "reason": "Trump orders 250 Cadillac Escalades\u2014direct company purchase signal for GM.",
+   "price_since": {
+    "ticker": "GM",
+    "pct": 0.7,
+    "base": 90.3,
+    "last": 90.92,
+    "base_date": "2026-07-28",
+    "last_date": "2026-07-29"
+   }
   },
   {
    "date": "2026-07-28T09:17:16Z",
@@ -113,7 +201,39 @@
    "direction": "BUY",
    "primary_ticker": "SPY",
    "strength": 60,
-   "reason": "Trump praises low-rate Fed policy; bullish for equities on lower interest rate expectations"
+   "reason": "Trump praises low-rate Fed policy; bullish for equities on lower interest rate expectations",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": -0.3,
+    "base": 740.86,
+    "last": 738.71,
+    "base_date": "2026-07-28",
+    "last_date": "2026-07-29"
+   }
+  },
+  {
+   "date": "2026-07-28T09:17:16Z",
+   "platform": "News",
+   "text": "Trump Praises Fed Chair Warsh While Pressing for World\u2019s Lowest Interest Rates - beijingtimes.com \u2014 Trump Praises Fed Chair Warsh While Pressing for World\u2019s Lowest Interest Rates\u00a0\u00a0beijingtimes.com",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUlYzeVpVSGQxWHRud1VaWXZQM1BVQUF2TXVMeUZ0S19XYWp2MDQybjFlSmU5OHQzVEd3clhvRmVIVUIydkduLTBoLWM1WWJ3TjVhejM0N21vZUJSMmdCZGM3ZDgwN3hOcnYwRjBZRVJ6YnlKOWlaSXZNa21qallIcmR6TVdlSkZTYWZGd09aVXZmRzdyWkNhVlRST21ORXFOMzNBdw?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "SPY",
+   "strength": 45,
+   "reason": "Trump push for lowest interest rates with Warsh backing suggests potential dovish Fed tilt, market mixed",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": -0.3,
+    "base": 740.86,
+    "last": 738.71,
+    "base_date": "2026-07-28",
+    "last_date": "2026-07-29"
+   }
   },
   {
    "date": "2026-07-28T05:43:16Z",
@@ -129,7 +249,15 @@
    "direction": "WATCH",
    "primary_ticker": "KEEL",
    "strength": 25,
-   "reason": "Stock-specific news on data center lease; no Trump direct involvement, retail momentum signal only"
+   "reason": "Stock-specific news on data center lease; no Trump direct involvement, retail momentum signal only",
+   "price_since": {
+    "ticker": "KEEL",
+    "pct": -8.6,
+    "base": 3.73,
+    "last": 3.41,
+    "base_date": "2026-07-28",
+    "last_date": "2026-07-29"
+   }
   },
   {
    "date": "2026-07-28T05:36:33Z",
@@ -145,7 +273,15 @@
    "direction": "SELL",
    "primary_ticker": "GM",
    "strength": 45,
-   "reason": "Criticism of GM over emissions standards and gas prices; bearish indirect pressure on automaker."
+   "reason": "Criticism of GM over emissions standards and gas prices; bearish indirect pressure on automaker.",
+   "price_since": {
+    "ticker": "GM",
+    "pct": 0.7,
+    "base": 90.3,
+    "last": 90.92,
+    "base_date": "2026-07-28",
+    "last_date": "2026-07-29"
+   }
   },
   {
    "date": "2026-07-28T03:32:00Z",
@@ -161,7 +297,15 @@
    "direction": "SELL",
    "primary_ticker": "GLD",
    "strength": 45,
-   "reason": "Fed rate decision and firm dollar bearish for gold prices"
+   "reason": "Fed rate decision and firm dollar bearish for gold prices",
+   "price_since": {
+    "ticker": "GLD",
+    "pct": 1.4,
+    "base": 369.37,
+    "last": 374.44,
+    "base_date": "2026-07-28",
+    "last_date": "2026-07-29"
+   }
   },
   {
    "date": "2026-07-28T03:30:00Z",
@@ -177,7 +321,15 @@
    "direction": "WATCH",
    "primary_ticker": "SPY",
    "strength": 35,
-   "reason": "China IP theft escalation signals potential trade tensions and tariff risk; direction ambiguous without policy clarity"
+   "reason": "China IP theft escalation signals potential trade tensions and tariff risk; direction ambiguous without policy clarity",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": -0.3,
+    "base": 740.86,
+    "last": 738.71,
+    "base_date": "2026-07-28",
+    "last_date": "2026-07-29"
+   }
   },
   {
    "date": "2026-07-28T02:16:58Z",
@@ -193,7 +345,15 @@
    "direction": "WATCH",
    "primary_ticker": "MKC",
    "strength": 30,
-   "reason": "Insider move on McCormick stock; insufficient context on Trump link or direction"
+   "reason": "Insider move on McCormick stock; insufficient context on Trump link or direction",
+   "price_since": {
+    "ticker": "MKC",
+    "pct": 1.5,
+    "base": 51.53,
+    "last": 52.3,
+    "base_date": "2026-07-28",
+    "last_date": "2026-07-29"
+   }
   },
   {
    "date": "2026-07-28T01:01:21Z",
@@ -209,7 +369,15 @@
    "direction": "WATCH",
    "primary_ticker": "SMH",
    "strength": 45,
-   "reason": "Trump caught between Apple and Micron over Chinese chip policy\u2014creates uncertainty for both semiconductor and supply chain stocks"
+   "reason": "Trump caught between Apple and Micron over Chinese chip policy\u2014creates uncertainty for both semiconductor and supply chain stocks",
+   "price_since": {
+    "ticker": "SMH",
+    "pct": -1.7,
+    "base": 529.6,
+    "last": 520.36,
+    "base_date": "2026-07-28",
+    "last_date": "2026-07-29"
+   }
   },
   {
    "date": "2026-07-27T22:39:59Z",
@@ -228,9 +396,9 @@
    "reason": "Fed leadership comment suggests potential policy shift; impact on rates and broad market uncertain",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.7,
+    "pct": -0.1,
     "base": 739.09,
-    "last": 734.01,
+    "last": 738.71,
     "base_date": "2026-07-27",
     "last_date": "2026-07-29"
    }
@@ -252,9 +420,9 @@
    "reason": "Trump backs rate-dove Fed chair Warsh and criticizes Fed board; signals dovish policy tilt, bullish for equities and lower rates.",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.7,
+    "pct": -0.1,
     "base": 739.09,
-    "last": 733.97,
+    "last": 738.71,
     "base_date": "2026-07-27",
     "last_date": "2026-07-29"
    }
@@ -276,9 +444,9 @@
    "reason": "Trump praises GM during tariff defense; modest bullish signal on the stock but lacks specificity or urgency.",
    "price_since": {
     "ticker": "GM",
-    "pct": 3.2,
+    "pct": 4.5,
     "base": 87.04,
-    "last": 89.8,
+    "last": 90.92,
     "base_date": "2026-07-27",
     "last_date": "2026-07-29"
    }
@@ -300,9 +468,9 @@
    "reason": "CEO praise for Trump tariffs boosting aluminum production and jobs signals positive outlook for Century Aluminum under tariff regime.",
    "price_since": {
     "ticker": "CENX",
-    "pct": -5.7,
+    "pct": -4.1,
     "base": 44.87,
-    "last": 42.3,
+    "last": 43.04,
     "base_date": "2026-07-27",
     "last_date": "2026-07-29"
    }
@@ -324,9 +492,9 @@
    "reason": "CEO cites Trump tariffs boosting domestic aluminum production and jobs; tariff policy supporting domestic materials/energy sector.",
    "price_since": {
     "ticker": "XLE",
-    "pct": 0.7,
+    "pct": 0.2,
     "base": 58.36,
-    "last": 58.78,
+    "last": 58.5,
     "base_date": "2026-07-27",
     "last_date": "2026-07-29"
    }
@@ -348,9 +516,9 @@
    "reason": "F-35 sale approval to Turkey signals defense spending/military contractor support",
    "price_since": {
     "ticker": "XAR",
-    "pct": -4.7,
+    "pct": -3.5,
     "base": 273.07,
-    "last": 260.18,
+    "last": 263.64,
     "base_date": "2026-07-27",
     "last_date": "2026-07-29"
    }
@@ -372,9 +540,9 @@
    "reason": "Iran deal possibility creates ambiguity; could reduce defense spending (bearish XAR) or spur military readiness spending (bullish XAR).",
    "price_since": {
     "ticker": "XAR",
-    "pct": -4.7,
+    "pct": -3.5,
     "base": 273.07,
-    "last": 260.18,
+    "last": 263.64,
     "base_date": "2026-07-27",
     "last_date": "2026-07-29"
    }
@@ -396,9 +564,9 @@
    "reason": "Fed Chair choice signals monetary policy direction; praise/criticism is ambiguous for near-term market move",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.7,
+    "pct": -0.1,
     "base": 739.09,
-    "last": 733.9,
+    "last": 738.68,
     "base_date": "2026-07-27",
     "last_date": "2026-07-29"
    }
@@ -420,9 +588,9 @@
    "reason": "Trump mentions Palantir by name; CEO focus suggests positive but unclear if explicit endorsement or neutral mention",
    "price_since": {
     "ticker": "PLTR",
-    "pct": -5.2,
+    "pct": -3.9,
     "base": 131.53,
-    "last": 124.75,
+    "last": 126.34,
     "base_date": "2026-07-27",
     "last_date": "2026-07-29"
    }
@@ -444,9 +612,9 @@
    "reason": "Peacock/YouTube premium partnership expands streaming distribution and ad reach for Comcast subsidiary.",
    "price_since": {
     "ticker": "CMCSA",
-    "pct": 7.9,
+    "pct": 8.6,
     "base": 22.8,
-    "last": 24.59,
+    "last": 24.75,
     "base_date": "2026-07-27",
     "last_date": "2026-07-29"
    }
@@ -468,9 +636,9 @@
    "reason": "Military tension with Iran raises geopolitical risk; energy sector typically benefits from conflict uncertainty",
    "price_since": {
     "ticker": "XLE",
-    "pct": 0.7,
+    "pct": 0.2,
     "base": 58.36,
-    "last": 58.78,
+    "last": 58.5,
     "base_date": "2026-07-27",
     "last_date": "2026-07-29"
    }
@@ -492,9 +660,9 @@
    "reason": "China advances in lithography/memory production undermines US semiconductor export dominance; bearish for US chip stocks.",
    "price_since": {
     "ticker": "SMH",
-    "pct": -7.2,
+    "pct": -5.1,
     "base": 548.55,
-    "last": 508.83,
+    "last": 520.51,
     "base_date": "2026-07-27",
     "last_date": "2026-07-29"
    }
@@ -516,9 +684,9 @@
    "reason": "CEO ouster after 'woke' backlash Trump targeted; reversal of unpopular rebrand is bullish for stock",
    "price_since": {
     "ticker": "CBRL",
-    "pct": 6.3,
+    "pct": 6.9,
     "base": 52.43,
-    "last": 55.73,
+    "last": 56.07,
     "base_date": "2026-07-27",
     "last_date": "2026-07-29"
    }
@@ -540,9 +708,9 @@
    "reason": "CEO departure + Trump opposition to 'woke' rebrand signals potential strategic shift; stock may recover",
    "price_since": {
     "ticker": "CBRL",
-    "pct": 6.3,
+    "pct": 6.9,
     "base": 52.43,
-    "last": 55.73,
+    "last": 56.07,
     "base_date": "2026-07-27",
     "last_date": "2026-07-29"
    }
@@ -564,9 +732,9 @@
    "reason": "Trump ire over 'woke' rebrand triggered CEO departure; public backlash and operational turmoil",
    "price_since": {
     "ticker": "CBRL",
-    "pct": 6.3,
+    "pct": 6.9,
     "base": 52.43,
-    "last": 55.73,
+    "last": 56.07,
     "base_date": "2026-07-27",
     "last_date": "2026-07-29"
    }
