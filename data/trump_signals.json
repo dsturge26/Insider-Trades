@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-07-29T11:39:53Z",
+ "last_updated": "2026-07-29T13:24:19Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -2582,54 +2582,6 @@
    "primary_ticker": "SPY",
    "strength": 25,
    "reason": "Market-headline roundup mentioning multiple stocks/sectors; no clear directional signal or Trump catalyst identified."
-  },
-  {
-   "date": "2026-07-20T06:42:00Z",
-   "platform": "News",
-   "text": "List of Grocery Retailers Slashing Prices as Trump Praises Giant Eagle - Newsweek \u2014 List of Grocery Retailers Slashing Prices as Trump Praises Giant Eagle\u00a0\u00a0Newsweek",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaFhwUlhrOU1Mdy1LWnlkNDFFcHM4YUt4ZWRENUVNNE9NdnpOWGhCOFJXX1lyNXZJbHM1V0ZEWHJwc1NSSEZ1ek1ueVJJX3VHNC1KVVhYb1RZVzQ0NFlOY1dvcF95VmhXTUhPXzFXQ2pldHFXdnFaVnZET0x2VDZEZGxINWE1Q2JqYS1jYmdnMkRyemtnUDJ1alZ0VERzU1MyZjI2X2dMTQ?oc=5",
-   "tickers": [
-    "XRT"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "XRT",
-   "strength": 35,
-   "reason": "Multiple retailers slashing prices in response to Trump pressure signals retail margin compression",
-   "price_since": {
-    "ticker": "XRT",
-    "pct": -0.5,
-    "base": 88.94,
-    "last": 88.46,
-    "base_date": "2026-07-20",
-    "last_date": "2026-07-21"
-   }
-  },
-  {
-   "date": "2026-07-20T04:36:57Z",
-   "platform": "News",
-   "text": "Trump: Grocer Giant Eagle to slash prices on over 300 products (KR:NYSE) - Seeking Alpha \u2014 Trump: Grocer Giant Eagle to slash prices on over 300 products (KR:NYSE)\u00a0\u00a0Seeking Alpha",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdUZwRUZSSU44akR2ZjNLODNhSkF2bldacHJITzBaQ2U4UmJ3QUdxa2RTNElCT2tMRmladFVGakdTS2x0dWdpY01pU1ZTek12WE5sRElRVFJ6QnNnWkZ5RmxKT3VZVkx1RURUQjlmeTljX3FzUDBmdTBBb2FNcDhseTV6c3RZRFVxa1dqdVlneVR1Zmk4SE1PcnhXUF9zUHIx?oc=5",
-   "tickers": [
-    "KR"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "KR",
-   "strength": 35,
-   "reason": "Trump mentions grocer price cuts; unclear if bullish (competition/efficiency) or bearish (margin pressure) for Kroger",
-   "price_since": {
-    "ticker": "KR",
-    "pct": -1.0,
-    "base": 58.36,
-    "last": 57.78,
-    "base_date": "2026-07-20",
-    "last_date": "2026-07-21"
-   }
   },
   {
    "curated": true,
