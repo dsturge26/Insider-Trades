@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-07-29T23:42:27Z",
+ "last_updated": "2026-07-30T01:02:55Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -34,6 +34,22 @@
    "primary_ticker": "DJT",
    "strength": 45,
    "reason": "SEC investigation into Truth Social's Wall Street access plan creates regulatory risk for Trump Media"
+  },
+  {
+   "date": "2026-07-29T20:34:00Z",
+   "platform": "News",
+   "text": "Senators Urge SEC to Investigate Truth Social Plan to Sell Access to Wall Street - talkingpointsmemo.com \u2014 Senators Urge SEC to Investigate Truth Social Plan to Sell Access to Wall Street\u00a0\u00a0talkingpointsmemo.com",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRzZFMFZzWW1mUmIySlZzUmQwRUp2cFZINXVWa3p5MlFGbm45a0JKajRDSmRWM1RIMTh2TkMxVkU3c0pCVE1sel9hd1BkNXVwZWdIaVQyd3l5Sy1FSnloYTdCd1JJMzhQdzdXVVhEbmN3WVlCVFYxQm92bWJZMTJLVHJqMDJLWDhpaEcycjFZanZsdjVzYW9WQTczZXB6WTR5T0FCRjV2WmNUVUhfM1NFQld1VEpjZw?oc=5",
+   "tickers": [
+    "DJT"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "DJT",
+   "strength": 45,
+   "reason": "SEC investigation into Truth Social paid access plan creates regulatory risk for Trump Media"
   },
   {
    "date": "2026-07-29T19:33:40Z",
@@ -323,6 +339,30 @@
    "primary_ticker": "SPY",
    "strength": 35,
    "reason": "Diversity crackdown policy may shift corporate governance and hiring; market impact ambiguous short-term",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": -1.5,
+    "base": 740.86,
+    "last": 729.46,
+    "base_date": "2026-07-28",
+    "last_date": "2026-07-29"
+   }
+  },
+  {
+   "date": "2026-07-28T14:12:07Z",
+   "platform": "News",
+   "text": "Analysis-Trump's diversity crackdown reverberates through US boardrooms - uk.finance.yahoo.com \u2014 Analysis-Trump's diversity crackdown reverberates through US boardrooms\u00a0\u00a0uk.finance.yahoo.com",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOREJ0azdaTWV6T1ZyVEZjS2tpWTFocV93cm5wbW9JS3gyeTNjSnYtR3E2N0JUSFhsWjAzYVMyVzNSSzk0NUJyZWhfNHZLWXpqa3pFVXRONWk3azYtcEpoMkxsTlV1ZTNPQUs5d3ZuYlVHRE9BRUowOWh1Wm0zbV9MZndyQ0dxdV81SzYwU0FPR2J5bWRUWW5tTmQtX2R6dw?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "SPY",
+   "strength": 35,
+   "reason": "Diversity crackdown policy may create boardroom friction and regulatory uncertainty; macro headwind.",
    "price_since": {
     "ticker": "SPY",
     "pct": -1.5,
@@ -2638,30 +2678,6 @@
     "last": 2.15,
     "base_date": "2026-07-21",
     "last_date": "2026-07-23"
-   }
-  },
-  {
-   "date": "2026-07-21T14:16:00Z",
-   "platform": "News",
-   "text": "Trump praises Giant Eagle for cutting prices this summer - WTAE \u2014 Trump praises Giant Eagle for cutting prices this summer\u00a0\u00a0WTAE",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPS2xIME5ZMS1sOXRCajFkYmxnTHdEY0hYcFBYc1VibG05XzVZVXdPRWw3OUNreVV5dVRrZVBZM2pReVMtNV8yYnRjYkVoU1ctSTgyLXBIN216UUN4LUdxdU50aTdFalFJbTIzRlVqajMtZHVoSE44NkJ3b3p4WHB0U3NHTWEtM3c?oc=5",
-   "tickers": [
-    "KR"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "KR",
-   "strength": 55,
-   "reason": "Trump praise for price cuts boosts sentiment toward grocer; Giant Eagle is private but Kroger (KR) similar competitor benefits",
-   "price_since": {
-    "ticker": "KR",
-    "pct": -0.4,
-    "base": 57.78,
-    "last": 57.54,
-    "base_date": "2026-07-21",
-    "last_date": "2026-07-22"
    }
   },
   {
