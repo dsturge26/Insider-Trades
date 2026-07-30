@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-07-30T18:25:19Z",
+ "last_updated": "2026-07-30T20:02:20Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -147,9 +147,9 @@
    "reason": "Trump praises Patriot Missile System, implies defense spending boost.",
    "price_since": {
     "ticker": "XAR",
-    "pct": 0.6,
+    "pct": 1.8,
     "base": 258.11,
-    "last": 259.7,
+    "last": 262.71,
     "base_date": "2026-07-29",
     "last_date": "2026-07-30"
    }
@@ -172,9 +172,9 @@
    "reason": "Trump criticizes Supreme Court tariff rulings as costly; implies trade policy disappointment affecting broad market sentiment",
    "price_since": {
     "ticker": "SPY",
-    "pct": 1.5,
+    "pct": 1.7,
     "base": 729.46,
-    "last": 740.38,
+    "last": 741.74,
     "base_date": "2026-07-29",
     "last_date": "2026-07-30"
    }
@@ -196,9 +196,9 @@
    "reason": "Broad market sell-off with AI weakness; macro sentiment negative but no Trump-specific driver stated",
    "price_since": {
     "ticker": "SPY",
-    "pct": 1.5,
+    "pct": 1.7,
     "base": 729.46,
-    "last": 740.38,
+    "last": 741.74,
     "base_date": "2026-07-29",
     "last_date": "2026-07-30"
    }
@@ -268,9 +268,9 @@
    "reason": "Trump praises Nvidia CEO and chips during Oval Office visit, direct endorsement of specific company.",
    "price_since": {
     "ticker": "NVDA",
-    "pct": 1.8,
+    "pct": 2.6,
     "base": 190.01,
-    "last": 193.52,
+    "last": 195.04,
     "base_date": "2026-07-29",
     "last_date": "2026-07-30"
    }
@@ -292,9 +292,9 @@
    "reason": "Trump hosting tech and industrial CEOs signals strategic focus on these sectors; mild positive macro read.",
    "price_since": {
     "ticker": "SPY",
-    "pct": 1.5,
+    "pct": 1.7,
     "base": 729.46,
-    "last": 740.37,
+    "last": 741.74,
     "base_date": "2026-07-29",
     "last_date": "2026-07-30"
    }
@@ -316,9 +316,9 @@
    "reason": "Trump explicitly praises Nvidia CEO and chips during Oval Office visit; direct positive endorsement",
    "price_since": {
     "ticker": "NVDA",
-    "pct": 1.8,
+    "pct": 2.6,
     "base": 190.01,
-    "last": 193.52,
+    "last": 195.04,
     "base_date": "2026-07-29",
     "last_date": "2026-07-30"
    }
@@ -340,9 +340,9 @@
    "reason": "Trump hosts Nvidia and United CEOs; signals tech and industrial priorities favor these sectors",
    "price_since": {
     "ticker": "NVDA",
-    "pct": 1.8,
+    "pct": 2.6,
     "base": 190.01,
-    "last": 193.52,
+    "last": 195.04,
     "base_date": "2026-07-29",
     "last_date": "2026-07-30"
    }
@@ -364,9 +364,9 @@
    "reason": "Stock down 13% suggests earnings miss or negative catalyst",
    "price_since": {
     "ticker": "HIMS",
-    "pct": 7.7,
+    "pct": 8.2,
     "base": 25.0,
-    "last": 26.92,
+    "last": 27.04,
     "base_date": "2026-07-29",
     "last_date": "2026-07-30"
    }
@@ -391,6 +391,30 @@
     "pct": 5.4,
     "base": 9.85,
     "last": 10.38,
+    "base_date": "2026-07-29",
+    "last_date": "2026-07-30"
+   }
+  },
+  {
+   "date": "2026-07-29T17:29:11Z",
+   "platform": "News",
+   "text": "Michael Burry Says He\u2019s Still Short Palantir After Stock Sees Recovery Following Trump\u2019s Endorsement - Stocktwits \u2014 Michael Burry Says He\u2019s Still Short Palantir After Stock Sees Recovery Following Trump\u2019s Endorsement\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUmNQdmN5STJOLU11dEhkR1U0ckhuS3JMcm1NUDNMY0dNZ1pQcGhFVmd2bkZqVHV5N3N4N01tY1gzZWZnTDlvbVRzTEtkQnZyUjlibXR1ZUJ5MnVNY0ZlYlVEUWtRMkdnRzBGcmxpdEJaQm55ZWlTWmZZUDBPNnhncTFlLWg3bjllZXNpeGpTVjd3b3dCZ2lWT1dPZE5RSlNKT01IVXlTa1c5YmFodzVEWkJtbHpvUHN1Ry00NWhxcVJpdw?oc=5",
+   "tickers": [
+    "PLTR"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "PLTR",
+   "strength": 40,
+   "reason": "Trump endorsement bullish but analyst short conviction shows mixed sentiment",
+   "price_since": {
+    "ticker": "PLTR",
+    "pct": -0.6,
+    "base": 123.0,
+    "last": 122.26,
     "base_date": "2026-07-29",
     "last_date": "2026-07-30"
    }
@@ -484,9 +508,9 @@
    "reason": "Trump reports China has not approved Nvidia chip purchases; bearish for Nvidia China revenue but macro trade-war signal, direction ambiguous",
    "price_since": {
     "ticker": "NVDA",
-    "pct": 1.8,
+    "pct": 2.6,
     "base": 190.01,
-    "last": 193.51,
+    "last": 195.04,
     "base_date": "2026-07-29",
     "last_date": "2026-07-30"
    }
@@ -508,9 +532,9 @@
    "reason": "Military escalation with Iran typically bullish for defense and energy sectors; geopolitical risk premium may elevate oil prices.",
    "price_since": {
     "ticker": "XLE",
-    "pct": 0.1,
+    "pct": 0.5,
     "base": 58.65,
-    "last": 58.69,
+    "last": 58.95,
     "base_date": "2026-07-29",
     "last_date": "2026-07-30"
    }
@@ -532,9 +556,9 @@
    "reason": "US-Iran tensions spike oil prices; energy sector rally",
    "price_since": {
     "ticker": "XLE",
-    "pct": 0.1,
+    "pct": 0.5,
     "base": 58.65,
-    "last": 58.69,
+    "last": 58.95,
     "base_date": "2026-07-29",
     "last_date": "2026-07-30"
    }
@@ -580,9 +604,9 @@
    "reason": "Generic market direction question; no Trump-specific catalyst",
    "price_since": {
     "ticker": "SPY",
-    "pct": 1.5,
+    "pct": 1.7,
     "base": 729.46,
-    "last": 740.35,
+    "last": 741.74,
     "base_date": "2026-07-29",
     "last_date": "2026-07-30"
    }
@@ -604,9 +628,9 @@
    "reason": "Netanyahu-Trump meeting praising Iran war escalation signals defense spending priority and military action",
    "price_since": {
     "ticker": "XAR",
-    "pct": 0.6,
+    "pct": 1.8,
     "base": 258.11,
-    "last": 259.7,
+    "last": 262.71,
     "base_date": "2026-07-29",
     "last_date": "2026-07-30"
    }
@@ -628,9 +652,9 @@
    "reason": "Trump administration awards IBM $1B grant for quantum foundry; explicit federal contract bullish catalyst",
    "price_since": {
     "ticker": "IBM",
-    "pct": -2.0,
+    "pct": -2.1,
     "base": 226.44,
-    "last": 221.82,
+    "last": 221.6,
     "base_date": "2026-07-29",
     "last_date": "2026-07-30"
    }
@@ -652,9 +676,9 @@
    "reason": "Trump administration awards $1B quantum grant to IBM; direct federal contract bullish signal",
    "price_since": {
     "ticker": "IBM",
-    "pct": -2.0,
+    "pct": -2.1,
     "base": 226.44,
-    "last": 221.82,
+    "last": 221.6,
     "base_date": "2026-07-29",
     "last_date": "2026-07-30"
    }
@@ -751,30 +775,6 @@
     "pct": -1.9,
     "base": 128.68,
     "last": 126.26,
-    "base_date": "2026-07-29",
-    "last_date": "2026-07-30"
-   }
-  },
-  {
-   "date": "2026-07-29T00:27:36Z",
-   "platform": "News",
-   "text": "Michael Burry Says He\u2019s Still Short Palantir After Stock Sees Recovery Following Trump\u2019s Endorsement - Stocktwits \u2014 Michael Burry Says He\u2019s Still Short Palantir After Stock Sees Recovery Following Trump\u2019s Endorsement\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUmNQdmN5STJOLU11dEhkR1U0ckhuS3JMcm1NUDNMY0dNZ1pQcGhFVmd2bkZqVHV5N3N4N01tY1gzZWZnTDlvbVRzTEtkQnZyUjlibXR1ZUJ5MnVNY0ZlYlVEUWtRMkdnRzBGcmxpdEJaQm55ZWlTWmZZUDBPNnhncTFlLWg3bjllZXNpeGpTVjd3b3dCZ2lWT1dPZE5RSlNKT01IVXlTa1c5YmFodzVEWkJtbHpvUHN1Ry00NWhxcVJpdw?oc=5",
-   "tickers": [
-    "PLTR"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "PLTR",
-   "strength": 50,
-   "reason": "Conflicting signals: Trump endorsement bullish, but Burry's short thesis remains; ambiguous net direction.",
-   "price_since": {
-    "ticker": "PLTR",
-    "pct": -1.8,
-    "base": 123.0,
-    "last": 120.84,
     "base_date": "2026-07-29",
     "last_date": "2026-07-30"
    }
@@ -2694,30 +2694,6 @@
    "primary_ticker": "MYPL",
    "strength": 50,
    "reason": "Trump endorses MyPillow CEO Mike Lindell for office; explicit backing of CEO/company is bullish for MYPL"
-  },
-  {
-   "date": "2026-07-22T13:31:06Z",
-   "platform": "News",
-   "text": "Trump Says After Iran, US May Turn Its Attention To Cuba: Report - Stocktwits \u2014 Trump Says After Iran, US May Turn Its Attention To Cuba: Report\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQWZ4TldDMUd6TUpfRWZzZFdHSmNPQ19WdUVQaFl0UWR6dHZwZnA2cUFHUVRpU3cxenFXOVFSaEg1SVc5UWZCMlFLWWtjaEhVMVlFWXhwNjdmN1RZU0NrejZWN29oOXVIS2dzejA1WVhVUDhsOVhWVG84dk9KZ1JFdC1ZWmxmbDFFVGZYNnR5T2JwTGZBZGZFTWxCWWFTc1JUQ0F5VTNCelYwd1psZkoxOG5jNEp1OUg2bDNTbzZOTnE1OGFw?oc=5",
-   "tickers": [
-    "XLE"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "XLE",
-   "strength": 55,
-   "reason": "Potential military/geopolitical action toward Cuba may raise energy/oil volatility and geopolitical risk; bearish tone.",
-   "price_since": {
-    "ticker": "XLE",
-    "pct": 0.7,
-    "base": 59.2,
-    "last": 59.62,
-    "base_date": "2026-07-22",
-    "last_date": "2026-07-24"
-   }
   },
   {
    "curated": true,
