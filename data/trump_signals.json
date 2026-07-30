@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-07-30T04:20:34Z",
+ "last_updated": "2026-07-30T07:12:46Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -34,6 +34,22 @@
    "primary_ticker": "SPY",
    "strength": 45,
    "reason": "Trump criticizes Supreme Court tariff rulings as costly; implies trade policy disappointment affecting broad market sentiment"
+  },
+  {
+   "date": "2026-07-29T20:47:00Z",
+   "platform": "News",
+   "text": "Oil prices jump, while the Dow drops more than 1,100 as sinking AI stocks drag Wall Street lower - apnews.com \u2014 Oil prices jump, while the Dow drops more than 1,100 as sinking AI stocks drag Wall Street lower\u00a0\u00a0apnews.com",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVVhqMlRBNU0taHdVcUdHUUE3eDFsZEFQbTZ6dElnTEtMOGVSb1ktYlhpbmJHMm9NY2xRc1lQRWRXcGZ2N0NUNm9FSWV1ZkQ2MjAtaE5WWkwxeHFDMmxxX3I4MHNDNmduRnZ4ODNzNUtSZ2hyZEh3NVBtMmthTHA5UDRzcTBXOWJYNS0yVHlUM0loVXE5VThkeg?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "SPY",
+   "strength": 40,
+   "reason": "Broad market sell-off with AI weakness; macro sentiment negative but no Trump-specific driver stated"
   },
   {
    "date": "2026-07-29T20:34:00Z",
@@ -98,6 +114,38 @@
    "primary_ticker": "SPY",
    "strength": 35,
    "reason": "Trump hosting tech and industrial CEOs signals strategic focus on these sectors; mild positive macro read."
+  },
+  {
+   "date": "2026-07-29T19:33:40Z",
+   "platform": "News",
+   "text": "Trump praises Nvidia CEO Jensen Huang and company\u2019s chips during Oval Office visit - cryptobriefing.com \u2014 Trump praises Nvidia CEO Jensen Huang and company\u2019s chips during Oval Office visit\u00a0\u00a0cryptobriefing.com",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1waGxmd3NHVFBlYjNYWFkxamd0QXUtMDZaN3Znamt2ZEVibjZMSURIQnc2XzJrMTl0aUtGbGVJVDFYTlhuRmc2ZlRsRzFKYzVaSUhoODRkLVRfOFhfVkxQcDlsUERyOUJfMUhIcF9XYkE5MUh3am9Hb2ZB?oc=5",
+   "tickers": [
+    "NVDA"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "NVDA",
+   "strength": 65,
+   "reason": "Trump explicitly praises Nvidia CEO and chips during Oval Office visit; direct positive endorsement"
+  },
+  {
+   "date": "2026-07-29T19:33:40Z",
+   "platform": "News",
+   "text": "Trump hosts Nvidia and United Airlines CEOs in Oval Office as tech and industrial priorities take center stage - cryptobriefing.com \u2014 Trump hosts Nvidia and United Airlines CEOs in Oval Office as tech and industrial priorities take center stage\u00a0\u00a0cryptobriefing.com",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5pTTBUVUQyYlFRWF8weVB4bk5FOXM5dlJyMWlYTTVPTGJZUWxBZGYtQ0xOcGFVcGdmbjJyUmlsUHVNanl6N1JpMmpQZENZQWUtdll4X0dvWEJvX2V0R21La3hBZVBpeThOWDA4T25HeHYtYjh3U2VR?oc=5",
+   "tickers": [
+    "NVDA"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "NVDA",
+   "strength": 45,
+   "reason": "Trump hosts Nvidia and United CEOs; signals tech and industrial priorities favor these sectors"
   },
   {
    "date": "2026-07-29T18:13:00Z",
