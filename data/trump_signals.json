@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-07-30T17:00:10Z",
+ "last_updated": "2026-07-30T18:25:19Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -147,9 +147,9 @@
    "reason": "Trump praises Patriot Missile System, implies defense spending boost.",
    "price_since": {
     "ticker": "XAR",
-    "pct": 0.5,
+    "pct": 0.6,
     "base": 258.11,
-    "last": 259.35,
+    "last": 259.7,
     "base_date": "2026-07-29",
     "last_date": "2026-07-30"
    }
@@ -172,9 +172,9 @@
    "reason": "Trump criticizes Supreme Court tariff rulings as costly; implies trade policy disappointment affecting broad market sentiment",
    "price_since": {
     "ticker": "SPY",
-    "pct": 1.4,
+    "pct": 1.5,
     "base": 729.46,
-    "last": 739.43,
+    "last": 740.38,
     "base_date": "2026-07-29",
     "last_date": "2026-07-30"
    }
@@ -196,9 +196,9 @@
    "reason": "Broad market sell-off with AI weakness; macro sentiment negative but no Trump-specific driver stated",
    "price_since": {
     "ticker": "SPY",
-    "pct": 1.4,
+    "pct": 1.5,
     "base": 729.46,
-    "last": 739.43,
+    "last": 740.38,
     "base_date": "2026-07-29",
     "last_date": "2026-07-30"
    }
@@ -220,9 +220,9 @@
    "reason": "SEC investigation into Truth Social's Wall Street access plan creates regulatory risk for Trump Media",
    "price_since": {
     "ticker": "DJT",
-    "pct": 4.2,
+    "pct": 5.4,
     "base": 9.85,
-    "last": 10.26,
+    "last": 10.38,
     "base_date": "2026-07-29",
     "last_date": "2026-07-30"
    }
@@ -244,9 +244,9 @@
    "reason": "SEC investigation into Truth Social paid access plan creates regulatory risk for Trump Media",
    "price_since": {
     "ticker": "DJT",
-    "pct": 4.2,
+    "pct": 5.4,
     "base": 9.85,
-    "last": 10.26,
+    "last": 10.38,
     "base_date": "2026-07-29",
     "last_date": "2026-07-30"
    }
@@ -268,9 +268,9 @@
    "reason": "Trump praises Nvidia CEO and chips during Oval Office visit, direct endorsement of specific company.",
    "price_since": {
     "ticker": "NVDA",
-    "pct": 1.9,
+    "pct": 1.8,
     "base": 190.01,
-    "last": 193.61,
+    "last": 193.52,
     "base_date": "2026-07-29",
     "last_date": "2026-07-30"
    }
@@ -292,9 +292,9 @@
    "reason": "Trump hosting tech and industrial CEOs signals strategic focus on these sectors; mild positive macro read.",
    "price_since": {
     "ticker": "SPY",
-    "pct": 1.4,
+    "pct": 1.5,
     "base": 729.46,
-    "last": 739.43,
+    "last": 740.37,
     "base_date": "2026-07-29",
     "last_date": "2026-07-30"
    }
@@ -316,9 +316,9 @@
    "reason": "Trump explicitly praises Nvidia CEO and chips during Oval Office visit; direct positive endorsement",
    "price_since": {
     "ticker": "NVDA",
-    "pct": 1.9,
+    "pct": 1.8,
     "base": 190.01,
-    "last": 193.61,
+    "last": 193.52,
     "base_date": "2026-07-29",
     "last_date": "2026-07-30"
    }
@@ -340,9 +340,9 @@
    "reason": "Trump hosts Nvidia and United CEOs; signals tech and industrial priorities favor these sectors",
    "price_since": {
     "ticker": "NVDA",
-    "pct": 1.9,
+    "pct": 1.8,
     "base": 190.01,
-    "last": 193.61,
+    "last": 193.52,
     "base_date": "2026-07-29",
     "last_date": "2026-07-30"
    }
@@ -364,9 +364,9 @@
    "reason": "Stock down 13% suggests earnings miss or negative catalyst",
    "price_since": {
     "ticker": "HIMS",
-    "pct": 6.2,
+    "pct": 7.7,
     "base": 25.0,
-    "last": 26.55,
+    "last": 26.92,
     "base_date": "2026-07-29",
     "last_date": "2026-07-30"
    }
@@ -388,9 +388,9 @@
    "reason": "SEC investigation threat into Trump Media's paid access plan creates regulatory headwind for DJT",
    "price_since": {
     "ticker": "DJT",
-    "pct": 4.2,
+    "pct": 5.4,
     "base": 9.85,
-    "last": 10.26,
+    "last": 10.38,
     "base_date": "2026-07-29",
     "last_date": "2026-07-30"
    }
@@ -412,9 +412,9 @@
    "reason": "SEC probe demand into Truth Social API threatens Trump Media valuation",
    "price_since": {
     "ticker": "DJT",
-    "pct": 4.2,
+    "pct": 5.4,
     "base": 9.85,
-    "last": 10.26,
+    "last": 10.38,
     "base_date": "2026-07-29",
     "last_date": "2026-07-30"
    }
@@ -436,9 +436,9 @@
    "reason": "SEC investigation demand into Trump Media's paid post feed creates regulatory risk for DJT.",
    "price_since": {
     "ticker": "DJT",
-    "pct": 4.2,
+    "pct": 5.4,
     "base": 9.85,
-    "last": 10.26,
+    "last": 10.38,
     "base_date": "2026-07-29",
     "last_date": "2026-07-30"
    }
@@ -460,9 +460,33 @@
    "reason": "SEC investigation demand into Truth API pricing model adds regulatory risk to Trump Media",
    "price_since": {
     "ticker": "DJT",
-    "pct": 4.2,
+    "pct": 5.4,
     "base": 9.85,
-    "last": 10.26,
+    "last": 10.38,
+    "base_date": "2026-07-29",
+    "last_date": "2026-07-30"
+   }
+  },
+  {
+   "date": "2026-07-29T16:06:40Z",
+   "platform": "News",
+   "text": "Trump Says China Has Not Approved NVDA H200 Chip Purchases Yet \u2014 'They Want To Develop Their Own' - Stocktwits \u2014 Trump Says China Has Not Approved NVDA H200 Chip Purchases Yet \u2014 'They Want To Develop Their Own'\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZ2oxZ3ZfNVpTWGQwLTY3T0xzazUxbWY2a3ZreDlRRGE0ZHQxbmNRR29RSm11VXBPajBkd1V1M0VhRUJvVUp0V2lfM3ladmswQ2hMWGlsUjY5RE1ERXR0LTBwN2JLYTBNUk1GRC1QbjktYTlkeTU5MlgteEpYeURwZmhaR2NjUUJMVWs5SGVnbm9uTEZ2dkdmSmVVdzctQ0I3clJZZFM1YnVqbkd1RG9kQlpXUjY?oc=5",
+   "tickers": [
+    "NVDA"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "NVDA",
+   "strength": 40,
+   "reason": "Trump reports China has not approved Nvidia chip purchases; bearish for Nvidia China revenue but macro trade-war signal, direction ambiguous",
+   "price_since": {
+    "ticker": "NVDA",
+    "pct": 1.8,
+    "base": 190.01,
+    "last": 193.51,
     "base_date": "2026-07-29",
     "last_date": "2026-07-30"
    }
@@ -484,9 +508,9 @@
    "reason": "Military escalation with Iran typically bullish for defense and energy sectors; geopolitical risk premium may elevate oil prices.",
    "price_since": {
     "ticker": "XLE",
-    "pct": -0.1,
+    "pct": 0.1,
     "base": 58.65,
-    "last": 58.57,
+    "last": 58.69,
     "base_date": "2026-07-29",
     "last_date": "2026-07-30"
    }
@@ -508,9 +532,9 @@
    "reason": "US-Iran tensions spike oil prices; energy sector rally",
    "price_since": {
     "ticker": "XLE",
-    "pct": -0.1,
+    "pct": 0.1,
     "base": 58.65,
-    "last": 58.57,
+    "last": 58.69,
     "base_date": "2026-07-29",
     "last_date": "2026-07-30"
    }
@@ -532,9 +556,9 @@
    "reason": "Senators urge SEC probe into Truth Social preferential access scheme threatens DJT reputation and operations",
    "price_since": {
     "ticker": "DJT",
-    "pct": 4.2,
+    "pct": 5.4,
     "base": 9.85,
-    "last": 10.26,
+    "last": 10.38,
     "base_date": "2026-07-29",
     "last_date": "2026-07-30"
    }
@@ -556,9 +580,9 @@
    "reason": "Generic market direction question; no Trump-specific catalyst",
    "price_since": {
     "ticker": "SPY",
-    "pct": 1.4,
+    "pct": 1.5,
     "base": 729.46,
-    "last": 739.41,
+    "last": 740.35,
     "base_date": "2026-07-29",
     "last_date": "2026-07-30"
    }
@@ -580,9 +604,9 @@
    "reason": "Netanyahu-Trump meeting praising Iran war escalation signals defense spending priority and military action",
    "price_since": {
     "ticker": "XAR",
-    "pct": 0.5,
+    "pct": 0.6,
     "base": 258.11,
-    "last": 259.35,
+    "last": 259.7,
     "base_date": "2026-07-29",
     "last_date": "2026-07-30"
    }
@@ -604,9 +628,9 @@
    "reason": "Trump administration awards IBM $1B grant for quantum foundry; explicit federal contract bullish catalyst",
    "price_since": {
     "ticker": "IBM",
-    "pct": -1.9,
+    "pct": -2.0,
     "base": 226.44,
-    "last": 222.03,
+    "last": 221.82,
     "base_date": "2026-07-29",
     "last_date": "2026-07-30"
    }
@@ -628,9 +652,9 @@
    "reason": "Trump administration awards $1B quantum grant to IBM; direct federal contract bullish signal",
    "price_since": {
     "ticker": "IBM",
-    "pct": -1.9,
+    "pct": -2.0,
     "base": 226.44,
-    "last": 222.03,
+    "last": 221.82,
     "base_date": "2026-07-29",
     "last_date": "2026-07-30"
    }
@@ -652,9 +676,9 @@
    "reason": "IBM stock surge tied to Trump's $1B quantum grant; continuation of bullish federal contract signal",
    "price_since": {
     "ticker": "IBM",
-    "pct": -1.9,
+    "pct": -2.0,
     "base": 226.44,
-    "last": 222.03,
+    "last": 221.82,
     "base_date": "2026-07-29",
     "last_date": "2026-07-30"
    }
@@ -826,6 +850,22 @@
     "base_date": "2026-07-28",
     "last_date": "2026-07-30"
    }
+  },
+  {
+   "date": "2026-07-28T23:37:11Z",
+   "platform": "News",
+   "text": "DJI ban: how the world\u2019s biggest dronemaker is getting shoved out of the US - The Verge \u2014 DJI ban: how the world\u2019s biggest dronemaker is getting shoved out of the US\u00a0\u00a0The Verge",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeWVMbm10WFUzMU9JT1ZaOU1XLUhwYUlPOG00N3NicDdvb2N3MUJ4RzBXejA5ZVpPVERibkh4bjk1RHlVOE1KM2RvM3ZIR0JQbVluUWJ6bkZ0cUVtb0QzdWtZX3U0M1VsSFAtQWhOT1FpVGt3N3VENktYemZnSGxvalBUaw?oc=5",
+   "tickers": [
+    "SMH"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "SMH",
+   "strength": 60,
+   "reason": "DJI ban removes foreign competition; bullish for US drone and semiconductor makers"
   },
   {
    "date": "2026-07-28T20:15:00Z",
@@ -1957,22 +1997,6 @@
    }
   },
   {
-   "date": "2026-07-26T02:22:10Z",
-   "platform": "News",
-   "text": "Trump Says China Has Not Approved NVDA H200 Chip Purchases Yet \u2014 'They Want To Develop Their Own' - Stocktwits \u2014 Trump Says China Has Not Approved NVDA H200 Chip Purchases Yet \u2014 'They Want To Develop Their Own'\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZ2oxZ3ZfNVpTWGQwLTY3T0xzazUxbWY2a3ZreDlRRGE0ZHQxbmNRR29RSm11VXBPajBkd1V1M0VhRUJvVUp0V2lfM3ladmswQ2hMWGlsUjY5RE1ERXR0LTBwN2JLYTBNUk1GRC1QbjktYTlkeTU5MlgteEpYeURwZmhaR2NjUUJMVWs5SGVnbm9uTEZ2dkdmSmVVdzctQ0I3clJZZFM1YnVqbkd1RG9kQlpXUjY?oc=5",
-   "tickers": [
-    "NVDA"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "NVDA",
-   "strength": 55,
-   "reason": "China restricting H200 chip sales limits NVIDIA's high-margin data center revenue from key market."
-  },
-  {
    "date": "2026-07-26T02:09:03Z",
    "platform": "News",
    "text": "Trump Reinstates Iranian Blockade, Says US Will Be Reimbursed At A Rate Of 20% On All Cargo Shipped Through The Strait Of Hormuz - Stocktwits \u2014 Trump Reinstates Iranian Blockade, Says US Will Be Reimbursed At A Rate Of 20% On All Cargo Shipped Through The Strait Of Hormuz\u00a0\u00a0Stocktwits",
@@ -2693,166 +2717,6 @@
     "last": 59.62,
     "base_date": "2026-07-22",
     "last_date": "2026-07-24"
-   }
-  },
-  {
-   "date": "2026-07-22T09:42:49Z",
-   "platform": "News",
-   "text": "How Trump\u2019s Social Media Praise Could Nudge Fox Stock and Communication Services ETFs - TipRanks \u2014 How Trump\u2019s Social Media Praise Could Nudge Fox Stock and Communication Services ETFs\u00a0\u00a0TipRanks",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPc3hWVUtLajROUFZRTGh2MGhiRFdJZ3BCNjJTXzBNc1VNVkFoY01mdGlTekNzRG5ZNWhLOVhpMXd2X3pMTWtLM3JhR3lqSGRQR3Z2TkFaVDdkODJ3Nm9vbGZha1BvQkpWa3FOODhfSGppT0dhNGJiT1hKM2tTZC1MNHE2MW5vaGlvSjNmbVFRekpfNUdZSDFycXFBZVNYSnVWYjgwaTAwUGRwa1J1UDEzeG5yQWU4cEFsQ1pvT3VSUm0?oc=5",
-   "tickers": [
-    "FOX"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "FOX",
-   "strength": 35,
-   "reason": "Social media praise can move media/comms stocks; direction ambiguous without specific content",
-   "price_since": {
-    "ticker": "FOX",
-    "pct": -2.5,
-    "base": 50.63,
-    "last": 49.37,
-    "base_date": "2026-07-22",
-    "last_date": "2026-07-24"
-   }
-  },
-  {
-   "date": "2026-07-22T08:37:00Z",
-   "platform": "News",
-   "text": "Donald Trump\u2019s 200% tariffs on pharma: Why India\u2019s generic medicines could still remain competitive - The Times of India \u2014 Donald Trump\u2019s 200% tariffs on pharma: Why India\u2019s generic medicines could still remain competitive\u00a0\u00a0The Times of India",
-   "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPdFd6czhBQjNyX3d0VENKU3BGR3dqanp3M0hSTnAxNzZFZ3RZMEI4MlRpOGJqQjMzNGVZZ2Q1Vm9wNFJhVHBEQVJZT1B5eEkybWVCMUxoX2tteS14WWlGdHFNQWFqdlFqN3p0aFN6V19jbUxabWZidFdqdEVvMTlmTXpSMEZqYjQzNVo5bzJDVElTOEtsQ1J1dmNuSHpxa0VGUXhNb3N3VVZLWlFuc21zNjFVeGdCV05zVXByWlVFN3hEQTBrQVNlLXhVbUw0aTlpdE5hcnpUTkdNNi05SzhTWDNiV0U1OWVFMVBtWGxSbWRrb3FMaEZuZ0pnbmhzMi1Pd0RNQWt4OWduZnpyVmfSAZMCQVVfeXFMTmpiSTk1bDFYUk9FTDJEcFotQWo1SVhUVU9XSVFaU3hHVGlOY3pvX3g0cnVZZVM3dUQ5R1Q2Mm9IdVp0UG5HSjBwMVVxSDA5TVh3cGJDUEZfRDEwWG40dzBSOXpDN09DWjlIcFFxS3M5VDUtM1I3ZVdwUHl3cm5iQnE1dU9OYjVjcEtyVzVWUi14MWxLUXlGeDdyQWZ4RzNNcmFJbjVhLWwxbHoxVmRWNTRndzdhalZKaHJacUtVZ21DeHkzX09kRlJMLW5EZkJKSVAybFhLaGppTkdlM21JeG5lc1M0LVRCWmVIQjM1MUozRF9HRDlrVmFfQWQ0aUJtem9mZktMN3V2N2tUdEo3WDR1OFk?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "SPY",
-   "strength": 45,
-   "reason": "200% tariffs on pharma announced; broad tariff policy bearish for markets and drug costs",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": -1.2,
-    "base": 747.41,
-    "last": 738.25,
-    "base_date": "2026-07-22",
-    "last_date": "2026-07-24"
-   }
-  },
-  {
-   "date": "2026-07-22T07:55:34Z",
-   "platform": "News",
-   "text": "Trump's Tariffs Will Start In 2028; So Why Are Pharma Stocks Falling Today? - outlookbusiness.com \u2014 Trump's Tariffs Will Start In 2028; So Why Are Pharma Stocks Falling Today?\u00a0\u00a0outlookbusiness.com",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORDh4NXJFOW1iSEtKZDE2RVZLX0pqdkFZY3JQRXFWNGx5RFZIV0dQZEZDYTY0OElDZ2hOajVRRmRCWDY1Y3AwUkFOa0g4YXIzRzlEVW9uOU9BQmZ4NFRGRkhrcEN6NHZHNlY5X0tWNG5odkZlUVFjZVB2VWpnbk9qVERhd2hNYU9qZHJWeTJmZ2c0QmhlS250NUdKeXoycHZmemlwNFV3VFJFazVWYTUxbER4bTFIUXNtNUpuOVBEY9IBvwFBVV95cUxORDh4NXJFOW1iSEtKZDE2RVZLX0pqdkFZY3JQRXFWNGx5RFZIV0dQZEZDYTY0OElDZ2hOajVRRmRCWDY1Y3AwUkFOa0g4YXIzRzlEVW9uOU9BQmZ4NFRGRkhrcEN6NHZHNlY5X0tWNG5odkZlUVFjZVB2VWpnbk9qVERhd2hNYU9qZHJWeTJmZ2c0QmhlS250NUdKeXoycHZmemlwNFV3VFJFazVWYTUxbER4bTFIUXNtNUpuOVBEYw?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "SPY",
-   "strength": 50,
-   "reason": "Tariff threat on pharma starting 2028 causing immediate pharma stock selloff; forward-looking bearish signal."
-  },
-  {
-   "date": "2026-07-22T05:19:00Z",
-   "platform": "News",
-   "text": "Trump announces phased US tariffs on imported generic drugs; Indian pharma stocks fall despite limited impact outlook - The Statesman \u2014 Trump announces phased US tariffs on imported generic drugs; Indian pharma stocks fall despite limited impact outlook\u00a0\u00a0The Statesman",
-   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQVFBCYWVTNEE4QnpDSXlrc1F4WEo3RVFkSjFnZUZWOWZIaG9Ub2tDQzF3a2lsX1dIREo5eU1uc3pHZUY0U2dtdnBzYUlwNDBSQzU2dGNKSEZHUEkwSTgwQmFKNlFQXzY4XzcxV3VJWEgzVU9PRnJNSHhvTHBMdTFGNld1MFVWMmdGbGJ2NkFqMGtSZk1ZSjZZOEVYVmZjY19kNzh2S0o2cThFRzVvclBlaV9QdlJTbDRtZTZSdGpyR25TOFhHNEU4M3VsYkcwWFFWREpNQW5PSk5HR1N0Y1ZiWHZDWTc3NDhfSy1TUVZYSkg4OHM3WFFPX21JQUNRcnfSAYQCQVVfeXFMTWFaaEVKeml5MjFLWEtDV3FrV2EteDJoU3dqYTNUZ3oyblJUR0tuVHYxaU9ncmhWbkRZVnNmai1wZzZxWkgtcl9Za3lyNGQ0TGxZeEdoUU8zVzFvRFZtRktXU2dJb3ZBdEs3MVJhdjhNemRBSkJHTVBudHAtTGlqajc5UGZmNkJNXzJqU1FSTEEtYTd2S3lBLXJfbmpvUjVNZWhoN01yTmR1T1VVTWYyUjJ1OTVNTWd5MGdNZTduclVnaWd0YjZRdF9VUUdfZ1FjdXRGRVoxdjBnaWtaVWNjb2lGSFhRTkVkVDZ0b1VvdlZUSUozX2h3SlhiNHZFV0hwa19aRkw?oc=5",
-   "tickers": [
-    "VTRS"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "VTRS",
-   "strength": 65,
-   "reason": "US tariffs on imported generic drugs bearish for Indian pharma suppliers to US market",
-   "price_since": {
-    "ticker": "VTRS",
-    "pct": 1.5,
-    "base": 17.01,
-    "last": 17.27,
-    "base_date": "2026-07-22",
-    "last_date": "2026-07-24"
-   }
-  },
-  {
-   "date": "2026-07-22T04:41:29Z",
-   "platform": "News",
-   "text": "Trump outlines plans for up to 200% tariffs on generic drug imports starting in 2028 (VTRS:NASDAQ) - Seeking Alpha \u2014 Trump outlines plans for up to 200% tariffs on generic drug imports starting in 2028 (VTRS:NASDAQ)\u00a0\u00a0Seeking Alpha",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNzJHZTlhUnlWMjJZRVFWQWJGTk9oQzhLR2dyeGJnZDVzQTdJX21NVnhrcEo3eVJfRG5VUkxOX2hpc0NTemFJNXcwWWRxTUZ6U2hFblA4VGFzejAtTFVKc1lEQ0xSbF8zbUtaVUhvQ0JzWmdBX0swaENMRzlwUkVNYjVmMVpJRkdXR3FyR3V4XzdTQzVoUXRxLU1sUS1abXU4dmVZWk9BdDVJVFNoUm5ySjVDYllWd1lIbHVFR0NB?oc=5",
-   "tickers": [
-    "VTRS"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "VTRS",
-   "strength": 70,
-   "reason": "200% tariff on generic drug imports directly hits pharma suppliers; announced policy catalyst",
-   "price_since": {
-    "ticker": "VTRS",
-    "pct": 1.6,
-    "base": 17.01,
-    "last": 17.28,
-    "base_date": "2026-07-22",
-    "last_date": "2026-07-23"
-   }
-  },
-  {
-   "date": "2026-07-22T04:41:29Z",
-   "platform": "News",
-   "text": "Trump targets generic drug imports with up to 200% phased tariffs (VTRS:NASDAQ) - Seeking Alpha \u2014 Trump targets generic drug imports with up to 200% phased tariffs (VTRS:NASDAQ)\u00a0\u00a0Seeking Alpha",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNzJHZTlhUnlWMjJZRVFWQWJGTk9oQzhLR2dyeGJnZDVzQTdJX21NVnhrcEo3eVJfRG5VUkxOX2hpc0NTemFJNXcwWWRxTUZ6U2hFblA4VGFzejAtTFVKc1lEQ0xSbF8zbUtaVUhvQ0JzWmdBX0swaENMRzlwUkVNYjVmMVpJRkdXR3FyR3V4XzdTQzVoUXRxLU1sUS1abXU4dmVZWk9BdDVJVFNoUm5ySjVDYllWd1lIbHVFR0NB?oc=5",
-   "tickers": [
-    "IHG"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "IHG",
-   "strength": 65,
-   "reason": "Steep tariff plan on generic drugs pressures pharma sector and domestic drug pricing.",
-   "price_since": {
-    "ticker": "IHG",
-    "pct": -0.9,
-    "base": 155.54,
-    "last": 154.12,
-    "base_date": "2026-07-22",
-    "last_date": "2026-07-23"
-   }
-  },
-  {
-   "date": "2026-07-22T04:34:14Z",
-   "platform": "News",
-   "text": "Trump's 200% tariff plan on generic drugs: What it means for India - Business Standard \u2014 Trump's 200% tariff plan on generic drugs: What it means for India\u00a0\u00a0Business Standard",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdnRoaWVSSnJUcktvZE5aaTd0X1FnODZUcEV6VktTd1JpNHBvbEo0QTF5QXgwOWNNTks0SDllanpDaUxIZlNqYURHSTlOVzE5WVg0X2JKOTFlZXNjR25LbWVCbUlVTnM4QlZCaDhMMi1veW5PeU5CRFdPcTFXU1M3eVBFV092Y3dvSWpBME9SOE1zOElmdWZWWXU4dGJNR2VoNlZGd3JDcXZrV0draHJzb0ZLbXZRbnVRUWVpRGJvSEUwU2dvY3F5c2lFSdIB0AFBVV95cUxPWVNkTHcycVhnRklTMG9KeC1TdTFCXzFGR0hHS0RHOG5OQkgzaWFITWhSUEtEa1psRnpENmhIQmJHT1JreWtaRE8zcGUtc1htNTl3SU1MTVB4YnZOOFF0aGhEMlVpMTdlalppQ3dCQlJEYlJLVkJIRHlDQVV1TlM4TmJ5VW5mQ3ZVT0NQT3BLZmpXY0hTZ1hXVnpTbVdiaVZmYzJGb21pTURvMzZyaHdLTUs3TTEzZmJWZFhwb2t1R0xEbmY4Y2VBd0tkSnp0UlV4?oc=5",
-   "tickers": [
-    "IHI"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "IHI",
-   "strength": 65,
-   "reason": "Trump tariff plan on generic drugs impacts pharma supply chain",
-   "price_since": {
-    "ticker": "IHI",
-    "pct": 0.1,
-    "base": 49.41,
-    "last": 49.44,
-    "base_date": "2026-07-22",
-    "last_date": "2026-07-23"
    }
   },
   {
