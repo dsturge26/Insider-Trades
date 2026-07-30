@@ -1,7 +1,55 @@
 {
- "last_updated": "2026-07-30T15:26:01Z",
+ "last_updated": "2026-07-30T17:00:10Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-07-30T11:49:00Z",
+   "platform": "News",
+   "text": "AMC Global Media Stock Drops On Q2 Earnings Miss - Deadline \u2014 AMC Global Media Stock Drops On Q2 Earnings Miss\u00a0\u00a0Deadline",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPN2hOQjJOWS1scm1pTzhNWG1pU0RzYWJjMTJUbkJTWGpFc3FrclNXNjZBa0NZWEN1UXVudURTLWJ1bGYtY1RnWU4xTXM0b3RORjRSdUk5TE5VcW5NcG51X3Qxa1dMLWVvWTJuWkdiSzdBQy02VEt3QVRiMDVLUHo4Wi1LY01kZw?oc=5",
+   "tickers": [
+    "AMC"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "AMC",
+   "strength": 45,
+   "reason": "Q2 earnings miss typically pressures stock price"
+  },
+  {
+   "date": "2026-07-30T11:45:00Z",
+   "platform": "News",
+   "text": "ICE: Q2 Earnings Snapshot - kare11.com \u2014 ICE: Q2 Earnings Snapshot\u00a0\u00a0kare11.com",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQnpNbHN3OVhCekFOUTQ4WDVXQVBiMFFDaWhOeHdkT0o0V1kzVmlQZ3N0UG5sR0hKbFZTV2J6c1hYWS1LQU5kTGQ4VTh0TjJWMzhmN3ZTMzQ3YnNaUUhVbFo0ZExBeEdaWnNJSjFhbDhQQUkwS01nck9VSGEwVEJ4cWQ3NWJwZE84eDh1YlR2Q2dxa0tTYURyaFlaN1h1NnZGMXJLWGQ4WDFNUUJ5YnFMc3kxWHFtOVVEUVBWZnV5SV9TQQ?oc=5",
+   "tickers": [
+    "ICE"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "ICE",
+   "strength": 30,
+   "reason": "Q2 earnings snapshot\u2014direction depends on beat/miss details"
+  },
+  {
+   "date": "2026-07-30T10:11:00Z",
+   "platform": "News",
+   "text": "Amneal: Q2 Earnings Snapshot - kare11.com \u2014 Amneal: Q2 Earnings Snapshot\u00a0\u00a0kare11.com",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPa2loS1NTUmdpXzRzQXRYNDA5WUtjenRveVRZOFNJLTZ0STR1MFB2cVdOOVhzbDVxTnlxV2RjQWtpZWxaeV9xUFpSTE5CSmR2ZHRyZ3hMRDJfZkFXclVoTnNBdW9wcnUyam5TUzBPZ2dMZWpPZUVZS2ZJSlRadDUyZFltNmZyYnB6MzBCVGVJYjVuTGZHeHNmcHc3Ry12Um5JaHNCU1J2Y2xFcEpnNlNhRXBPeXRZbEJzbG5JYkpYMldkZlp6WEE?oc=5",
+   "tickers": [
+    "AMPH"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "AMPH",
+   "strength": 30,
+   "reason": "Q2 earnings snapshot\u2014direction depends on beat/miss details"
+  },
   {
    "date": "2026-07-30T07:51:00Z",
    "platform": "News",
@@ -33,6 +81,38 @@
    "primary_ticker": "BTC-USD",
    "strength": 45,
    "reason": "Eric Trump bullish crypto call; signals Trump-family backing for bitcoin upside"
+  },
+  {
+   "date": "2026-07-30T07:17:19Z",
+   "platform": "News",
+   "text": "AMD Stock Is Having Its Best Year In A Decade \u2014 And CEO Lisa Su Gets $36M Equity Reward To Match - Stocktwits \u2014 AMD Stock Is Having Its Best Year In A Decade \u2014 And CEO Lisa Su Gets $36M Equity Reward To Match\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNTGc3ZlZNOENNNjhrSjQyUjJ5SVdfVDRyUE9wUW5VRHFpb01UVktVSnAxZEdRbE5STjRPQV9rQTQ1aU1Ca2d4YUZOX0RCb2trWGY3dERJVXdfMm9DcVVmSkJGRVAxUmxpN0o1d3RkSDhSdFJFVTV1TjFhbkh5ZlNPWFk1OHlCUHlYazBHUnk4SWlYQ3JhWDgtTURERlA4N2V4cklpcEFkcHJCX0c1RXh4SE5pa3VxdzZCWG1HQmRBYUdocVRZV3ZyOFJHQWp5eWh2M3ZELTBQR0RWcmZjM0JHT3NMRk1NZ2NQWXF0SElabw?oc=5",
+   "tickers": [
+    "AMD"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "AMD",
+   "strength": 50,
+   "reason": "AMD strong year performance and CEO equity reward signal confidence"
+  },
+  {
+   "date": "2026-07-30T05:48:45Z",
+   "platform": "News",
+   "text": "V, SNOW Stocks Hit Fresh 52-Week Highs Today \u2013 What\u2019s Got Investors Buzzing? - Stocktwits \u2014 V, SNOW Stocks Hit Fresh 52-Week Highs Today \u2013 What\u2019s Got Investors Buzzing?\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWVlyUDZEWk1OZ28tcEpMNXNqSVRQcDBkMmZZRzI2T0pSUEZ2MnlfRDNfdE84VGF6MmxOS1NFUTZmWjBrellDQ1pCekdHVGxQbHlvZkpVSVVtcTZCelBLakp5Q3BsR1EtdnE2TUdBS1V2cXZRVDJ5QVVPVWhYN0lmeWNqVnlxaUs0Wm1MRzRjUUtXVWVUTFhMbUNoblVlRDE2a2x3dWxVem1vWDFZYmtTU2FoYlMwU2dKNEdJOEZOMzVwV05QLXVTaGFTb2gyZlBBLUE?oc=5",
+   "tickers": [
+    "V"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "V",
+   "strength": 35,
+   "reason": "52-week highs suggest momentum but no Trump-specific catalyst stated"
   },
   {
    "date": "2026-07-30T01:04:10Z",
@@ -67,9 +147,9 @@
    "reason": "Trump praises Patriot Missile System, implies defense spending boost.",
    "price_since": {
     "ticker": "XAR",
-    "pct": -0.2,
+    "pct": 0.5,
     "base": 258.11,
-    "last": 257.49,
+    "last": 259.35,
     "base_date": "2026-07-29",
     "last_date": "2026-07-30"
    }
@@ -92,9 +172,9 @@
    "reason": "Trump criticizes Supreme Court tariff rulings as costly; implies trade policy disappointment affecting broad market sentiment",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.8,
+    "pct": 1.4,
     "base": 729.46,
-    "last": 735.07,
+    "last": 739.43,
     "base_date": "2026-07-29",
     "last_date": "2026-07-30"
    }
@@ -116,9 +196,9 @@
    "reason": "Broad market sell-off with AI weakness; macro sentiment negative but no Trump-specific driver stated",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.8,
+    "pct": 1.4,
     "base": 729.46,
-    "last": 735.11,
+    "last": 739.43,
     "base_date": "2026-07-29",
     "last_date": "2026-07-30"
    }
@@ -140,9 +220,9 @@
    "reason": "SEC investigation into Truth Social's Wall Street access plan creates regulatory risk for Trump Media",
    "price_since": {
     "ticker": "DJT",
-    "pct": 0.5,
+    "pct": 4.2,
     "base": 9.85,
-    "last": 9.9,
+    "last": 10.26,
     "base_date": "2026-07-29",
     "last_date": "2026-07-30"
    }
@@ -164,9 +244,9 @@
    "reason": "SEC investigation into Truth Social paid access plan creates regulatory risk for Trump Media",
    "price_since": {
     "ticker": "DJT",
-    "pct": 0.5,
+    "pct": 4.2,
     "base": 9.85,
-    "last": 9.9,
+    "last": 10.26,
     "base_date": "2026-07-29",
     "last_date": "2026-07-30"
    }
@@ -188,9 +268,9 @@
    "reason": "Trump praises Nvidia CEO and chips during Oval Office visit, direct endorsement of specific company.",
    "price_since": {
     "ticker": "NVDA",
-    "pct": 2.0,
+    "pct": 1.9,
     "base": 190.01,
-    "last": 193.76,
+    "last": 193.61,
     "base_date": "2026-07-29",
     "last_date": "2026-07-30"
    }
@@ -212,9 +292,9 @@
    "reason": "Trump hosting tech and industrial CEOs signals strategic focus on these sectors; mild positive macro read.",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.8,
+    "pct": 1.4,
     "base": 729.46,
-    "last": 735.11,
+    "last": 739.43,
     "base_date": "2026-07-29",
     "last_date": "2026-07-30"
    }
@@ -236,9 +316,9 @@
    "reason": "Trump explicitly praises Nvidia CEO and chips during Oval Office visit; direct positive endorsement",
    "price_since": {
     "ticker": "NVDA",
-    "pct": 2.0,
+    "pct": 1.9,
     "base": 190.01,
-    "last": 193.79,
+    "last": 193.61,
     "base_date": "2026-07-29",
     "last_date": "2026-07-30"
    }
@@ -260,9 +340,33 @@
    "reason": "Trump hosts Nvidia and United CEOs; signals tech and industrial priorities favor these sectors",
    "price_since": {
     "ticker": "NVDA",
-    "pct": 2.0,
+    "pct": 1.9,
     "base": 190.01,
-    "last": 193.79,
+    "last": 193.61,
+    "base_date": "2026-07-29",
+    "last_date": "2026-07-30"
+   }
+  },
+  {
+   "date": "2026-07-29T18:29:01Z",
+   "platform": "News",
+   "text": "Why Is HIMS Stock Down 13% Today? - Stocktwits \u2014 Why Is HIMS Stock Down 13% Today?\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMGpYSURvYkZ1X1VEUEc4TkZ6bWxkNURsSGh2TjNMdGgxN1ZLaU1iRUhmX1VLbFRFUnFUd2JMOW9ZUlg2NmhwU3dtaGQ2WTh1S21MMUk0TnlIVExwQmhmV0dLNVh5RkpiTGF5bHExSktLMGJqQ1I0UzcxNTV1T3I1NmhWNWxzaUg2SzlubW5CNDVsanlQYzlwT2NCQQ?oc=5",
+   "tickers": [
+    "HIMS"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "HIMS",
+   "strength": 55,
+   "reason": "Stock down 13% suggests earnings miss or negative catalyst",
+   "price_since": {
+    "ticker": "HIMS",
+    "pct": 6.2,
+    "base": 25.0,
+    "last": 26.55,
     "base_date": "2026-07-29",
     "last_date": "2026-07-30"
    }
@@ -284,9 +388,9 @@
    "reason": "SEC investigation threat into Trump Media's paid access plan creates regulatory headwind for DJT",
    "price_since": {
     "ticker": "DJT",
-    "pct": 0.5,
+    "pct": 4.2,
     "base": 9.85,
-    "last": 9.9,
+    "last": 10.26,
     "base_date": "2026-07-29",
     "last_date": "2026-07-30"
    }
@@ -308,9 +412,9 @@
    "reason": "SEC probe demand into Truth Social API threatens Trump Media valuation",
    "price_since": {
     "ticker": "DJT",
-    "pct": 0.5,
+    "pct": 4.2,
     "base": 9.85,
-    "last": 9.9,
+    "last": 10.26,
     "base_date": "2026-07-29",
     "last_date": "2026-07-30"
    }
@@ -332,9 +436,9 @@
    "reason": "SEC investigation demand into Trump Media's paid post feed creates regulatory risk for DJT.",
    "price_since": {
     "ticker": "DJT",
-    "pct": 0.5,
+    "pct": 4.2,
     "base": 9.85,
-    "last": 9.9,
+    "last": 10.26,
     "base_date": "2026-07-29",
     "last_date": "2026-07-30"
    }
@@ -356,9 +460,9 @@
    "reason": "SEC investigation demand into Truth API pricing model adds regulatory risk to Trump Media",
    "price_since": {
     "ticker": "DJT",
-    "pct": 0.5,
+    "pct": 4.2,
     "base": 9.85,
-    "last": 9.9,
+    "last": 10.26,
     "base_date": "2026-07-29",
     "last_date": "2026-07-30"
    }
@@ -380,9 +484,33 @@
    "reason": "Military escalation with Iran typically bullish for defense and energy sectors; geopolitical risk premium may elevate oil prices.",
    "price_since": {
     "ticker": "XLE",
-    "pct": -0.8,
+    "pct": -0.1,
     "base": 58.65,
-    "last": 58.19,
+    "last": 58.57,
+    "base_date": "2026-07-29",
+    "last_date": "2026-07-30"
+   }
+  },
+  {
+   "date": "2026-07-29T14:11:47Z",
+   "platform": "News",
+   "text": "BATL, TPET, SKYQ, INDO Stocks Surge Premarket: Oil Prices Spike On Renewed US-Iran Hostilities - Stocktwits \u2014 BATL, TPET, SKYQ, INDO Stocks Surge Premarket: Oil Prices Spike On Renewed US-Iran Hostilities\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZ01jSjMzSkhFbXh0eUwxVmxRc1I2VHJzWTFVc3dBRXN4ejZXMTB4aVRNeF9nQmNpLVBfMVgwTlpXQWlvWTk2LUFfU2RETTZZbzlHRkc3cHAwZkZ4V1hwR2VNcl9IR3FGUnIzVy1tNjVIMUk5NEFoQUlkcTlaSW5fQlN3RUtFek1WNlk4bllVY0VIVG9zN1N2WkxvZHhfLXpXSzRZUS1oQ0lJZXNNQ01rZFNHWm5jeDgwdlNzaUFVTEtWbjAz?oc=5",
+   "tickers": [
+    "XLE"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "XLE",
+   "strength": 65,
+   "reason": "US-Iran tensions spike oil prices; energy sector rally",
+   "price_since": {
+    "ticker": "XLE",
+    "pct": -0.1,
+    "base": 58.65,
+    "last": 58.57,
     "base_date": "2026-07-29",
     "last_date": "2026-07-30"
    }
@@ -404,9 +532,33 @@
    "reason": "Senators urge SEC probe into Truth Social preferential access scheme threatens DJT reputation and operations",
    "price_since": {
     "ticker": "DJT",
-    "pct": 0.5,
+    "pct": 4.2,
     "base": 9.85,
-    "last": 9.9,
+    "last": 10.26,
+    "base_date": "2026-07-29",
+    "last_date": "2026-07-30"
+   }
+  },
+  {
+   "date": "2026-07-29T08:30:22Z",
+   "platform": "News",
+   "text": "Stock Market: Will S&P 500 Open Up or Down Today? - TradingView \u2014 Stock Market: Will S&P 500 Open Up or Down Today?\u00a0\u00a0TradingView",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbm9BSk1qSVpQemlDS0J0RjNTdTQ3ZWtmTk5ZWVV6R24xcmVwRzNnT25xb0ZMQUtSYWdsbC1WeDdyc2ZYTnRmcVc0OG5KTVE2UGdUVDRRS1RqVU5UWGtFR0lPUDdzc3dyN29HVzdZeVJDUzBBWXZkNWk5RWVWa0tteVhUc3FnSWROcTVzVjBBclRaVnJaQ1U4MWFNQ1BmSFN6R1l1OTlaYnRYUQ?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "SPY",
+   "strength": 20,
+   "reason": "Generic market direction question; no Trump-specific catalyst",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": 1.4,
+    "base": 729.46,
+    "last": 739.41,
     "base_date": "2026-07-29",
     "last_date": "2026-07-30"
    }
@@ -428,9 +580,9 @@
    "reason": "Netanyahu-Trump meeting praising Iran war escalation signals defense spending priority and military action",
    "price_since": {
     "ticker": "XAR",
-    "pct": -0.2,
+    "pct": 0.5,
     "base": 258.11,
-    "last": 257.49,
+    "last": 259.35,
     "base_date": "2026-07-29",
     "last_date": "2026-07-30"
    }
@@ -452,9 +604,9 @@
    "reason": "Trump administration awards IBM $1B grant for quantum foundry; explicit federal contract bullish catalyst",
    "price_since": {
     "ticker": "IBM",
-    "pct": -2.3,
+    "pct": -1.9,
     "base": 226.44,
-    "last": 221.12,
+    "last": 222.03,
     "base_date": "2026-07-29",
     "last_date": "2026-07-30"
    }
@@ -476,9 +628,9 @@
    "reason": "Trump administration awards $1B quantum grant to IBM; direct federal contract bullish signal",
    "price_since": {
     "ticker": "IBM",
-    "pct": -2.3,
+    "pct": -1.9,
     "base": 226.44,
-    "last": 221.12,
+    "last": 222.03,
     "base_date": "2026-07-29",
     "last_date": "2026-07-30"
    }
@@ -500,9 +652,9 @@
    "reason": "IBM stock surge tied to Trump's $1B quantum grant; continuation of bullish federal contract signal",
    "price_since": {
     "ticker": "IBM",
-    "pct": -2.3,
+    "pct": -1.9,
     "base": 226.44,
-    "last": 221.12,
+    "last": 222.03,
     "base_date": "2026-07-29",
     "last_date": "2026-07-30"
    }
@@ -524,9 +676,9 @@
    "reason": "IBM stock surge on Trump admin grant; confirms positive momentum from federal award",
    "price_since": {
     "ticker": "IBM",
-    "pct": -2.3,
+    "pct": -1.9,
     "base": 226.44,
-    "last": 221.12,
+    "last": 222.03,
     "base_date": "2026-07-29",
     "last_date": "2026-07-30"
    }
@@ -1661,30 +1813,6 @@
    "reason": "Trump tariffs directly caused Shein's $99m loss; tariff impact bearish for retail/apparel imports"
   },
   {
-   "date": "2026-07-26T21:52:00Z",
-   "platform": "News",
-   "text": "AMD Stock Is Having Its Best Year In A Decade \u2014 And CEO Lisa Su Gets $36M Equity Reward To Match - Stocktwits \u2014 AMD Stock Is Having Its Best Year In A Decade \u2014 And CEO Lisa Su Gets $36M Equity Reward To Match\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNTGc3ZlZNOENNNjhrSjQyUjJ5SVdfVDRyUE9wUW5VRHFpb01UVktVSnAxZEdRbE5STjRPQV9rQTQ1aU1Ca2d4YUZOX0RCb2trWGY3dERJVXdfMm9DcVVmSkJGRVAxUmxpN0o1d3RkSDhSdFJFVTV1TjFhbkh5ZlNPWFk1OHlCUHlYazBHUnk4SWlYQ3JhWDgtTURERlA4N2V4cklpcEFkcHJCX0c1RXh4SE5pa3VxdzZCWG1HQmRBYUdocVRZV3ZyOFJHQWp5eWh2M3ZELTBQR0RWcmZjM0JHT3NMRk1NZ2NQWXF0SElabw?oc=5",
-   "tickers": [
-    "AMD"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "AMD",
-   "strength": 50,
-   "reason": "AMD strong year aligns with semiconductor demand; potential Trump tech policy tailwinds",
-   "price_since": {
-    "ticker": "AMD",
-    "pct": -8.1,
-    "base": 494.95,
-    "last": 454.62,
-    "base_date": "2026-07-27",
-    "last_date": "2026-07-28"
-   }
-  },
-  {
    "date": "2026-07-26T14:36:26Z",
    "platform": "News",
    "text": "Citi Stock Hits 52-Week High Before Fading As Trump Lauds Bank's 'Big Comeback' In M&A \u2014 But Full Picture Has Changed Now - Stocktwits \u2014 Citi Stock Hits 52-Week High Before Fading As Trump Lauds Bank's 'Big Comeback' In M&A \u2014 But Full Picture Has Changed Now\u00a0\u00a0Stocktwits",
@@ -2723,54 +2851,6 @@
     "pct": 0.1,
     "base": 49.41,
     "last": 49.44,
-    "base_date": "2026-07-22",
-    "last_date": "2026-07-23"
-   }
-  },
-  {
-   "date": "2026-07-22T04:09:28Z",
-   "platform": "News",
-   "text": "SENSEX drops over 550 points, NIFTY50 below 24,050; pharma stocks fall on threat of tariffs on generic drugs - Upstox \u2014 SENSEX drops over 550 points, NIFTY50 below 24,050; pharma stocks fall on threat of tariffs on generic drugs\u00a0\u00a0Upstox",
-   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQR3B3MmJKTTY5cGxSM2xGZlhvYnpybGVZOXFNOXF0MFRNcFBUX0ZLdGg4T3Rrb0dyX1I5ZFF2YjRmRlYxcXhOZUxtc3Y2TFAzQTRDWFktWWpSSlVQbl9DRHRuVmJpblJWWWpMYjVmVDlWXzZubjNlVS1HTDAySVlyZzhZcUV4Vjl3d3ZmNF92Y1dIR3hOemVrTEQwejBvc296V25PdG9OMExrZTRyeTBXSFhFeWJRX2FuYTRFVWNHOUhjeS10LS1TazQtRDFOT1JzTy1KVlhmemxONmVrVnJnRzFqTVduVC1JRXpSSUcxZ3N2clZ5aGxCdXFB?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "SPY",
-   "strength": 55,
-   "reason": "Indian/global pharma stocks fall on Trump tariff threat; bearish for pharmaceutical sector and EM markets.",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": -1.2,
-    "base": 747.41,
-    "last": 738.18,
-    "base_date": "2026-07-22",
-    "last_date": "2026-07-23"
-   }
-  },
-  {
-   "date": "2026-07-22T03:53:01Z",
-   "platform": "News",
-   "text": "Nifty Pharma crashes nearly 2%; Cipla, Dr Reddy's among top Nifty losers after Trump's tariff plan - Moneycontrol.com \u2014 Nifty Pharma crashes nearly 2%; Cipla, Dr Reddy's among top Nifty losers after Trump's tariff plan\u00a0\u00a0Moneycontrol.com",
-   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNVEQ2a0tBWHVpUWJmV1VmWHFSQmMxQ2JPWkVmZTl5V1RuTVhuMXVtZjFKa24tVi1lWjEzVzVoOEdWb0trTEY0cEpPZ3dzTVJPd0dNTU9oQkFoUmtvSGwxWFphWlVUUlhnRkZLVHZTZnBjSTEtVjVscW11RGJIZGJQYlBldVRrZlJORzR0cUxYLUExRS1hdV9KdDNZMVFRWnhOQWZkOTZldE5hcVdST2hCRGxfSzkxZ2RNTGZuTl9BbkplTEpVZk0zVmo3UmRxMnhxbHIwdU9nNjB5OFdRWm44UHFJY194bDdwUzExdG8yaHd4S3o4M0owaUJGSnRGVTDSAYQCQVVfeXFMUDdPUVNvYmxGN3FTZXJyY1lWTjNKSlViWjZtdEZMYktYTWN3QnRZdV9oWGVEdEtSR2hhSWJzWGpNa05WTG94bWR5RV9vb1I4LWJtWGI5dEEweHB6ZkpQQXVtbkRaWndublNCTGlOMURIU2N2YnF1bl94Y0hwTXVWbzBSckc4aHBDd21ubzJNWER5N1JYYkZZb3NkTUFfbFRpSFA2WllmUUVnTmZydk54NkNWcThGVFBWeDhtdlBwTHN6Z2Zwa2FTTzVoYlF5S2VETUVZSmd6SG84MjZpU2d6LXBWLTh5dlFIMFZvOHBQSVg5Y01OTVh1ZzJCTVNlSHV0LWFWV1U?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "SPY",
-   "strength": 70,
-   "reason": "Indian pharma decline signals tariff impact ripples; bearish on drug costs and sector",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": -1.2,
-    "base": 747.41,
-    "last": 738.18,
     "base_date": "2026-07-22",
     "last_date": "2026-07-23"
    }
