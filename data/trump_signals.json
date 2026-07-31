@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-07-31T09:34:07Z",
+ "last_updated": "2026-07-31T11:48:41Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -34,6 +34,30 @@
    "primary_ticker": "SPY",
    "strength": 25,
    "reason": "EXIM profitability and supply chain/reindustrialization focus suggests pro-business policy, but lacks specificity or near-term catalyst."
+  },
+  {
+   "date": "2026-07-30T12:39:58Z",
+   "platform": "News",
+   "text": "Donald Trump\u2019s Truth Social Warning on Iran War Updates Sparks Bitcoin Crash Fears - CryptoRank \u2014 Donald Trump\u2019s Truth Social Warning on Iran War Updates Sparks Bitcoin Crash Fears\u00a0\u00a0CryptoRank",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQld2c1pVWlB2dFpYUmVkVVZqd3ZSWUN0ZXdlVE8wdFlhellwbjVFVkxUbW9zbjE0VUd3ZURncXEtTmxNTGNjekFPWlJXelJTRUFaa3RDMVVySGc4S0ViWHJLSldSNXg4QXdjb0JrckQ5cnVTYjFoZHNfTFVIS0lGQWRrRGdIdE9sa1NvTEd3c2VnbThGaWVIOFlfdmNWdw?oc=5",
+   "tickers": [
+    "BTC-USD"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "BTC-USD",
+   "strength": 60,
+   "reason": "Trump Truth Social warning on Iran war sparks crypto selloff fears",
+   "price_since": {
+    "ticker": "BTC-USD",
+    "pct": -1.5,
+    "base": 64725.31,
+    "last": 63755.65,
+    "base_date": "2026-07-30",
+    "last_date": "2026-07-31"
+   }
   },
   {
    "date": "2026-07-30T11:49:00Z",
@@ -100,9 +124,9 @@
    "reason": "Eric Trump bullish call on Bitcoin to $1M; crypto-friendly signal from Trump inner circle",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": -1.7,
+    "pct": -1.5,
     "base": 64725.31,
-    "last": 63607.43,
+    "last": 63755.65,
     "base_date": "2026-07-30",
     "last_date": "2026-07-31"
    }
@@ -124,9 +148,9 @@
    "reason": "Eric Trump bullish crypto call; signals Trump-family backing for bitcoin upside",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": -1.7,
+    "pct": -1.5,
     "base": 64725.31,
-    "last": 63607.43,
+    "last": 63755.65,
     "base_date": "2026-07-30",
     "last_date": "2026-07-31"
    }
@@ -162,6 +186,22 @@
    "primary_ticker": "V",
    "strength": 35,
    "reason": "52-week highs suggest momentum but no Trump-specific catalyst stated"
+  },
+  {
+   "date": "2026-07-30T04:19:21Z",
+   "platform": "News",
+   "text": "US Stock Market: Trump backs Warsh as Fed\u2019s hawkish tilt raises rate hike odds - The Economic Times \u2014 US Stock Market: Trump backs Warsh as Fed\u2019s hawkish tilt raises rate hike odds\u00a0\u00a0The Economic Times",
+   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOT3BVbUt0WGxnelFsVVBRU1lPNFkyYnhmbDhJUVV0MTU1OHVkdUxoRTFJWUVNRmMyQ0N0T1VsR2duOWZxN0dXLTFpN3FYQXdsZG5lR1lLbWkwNHFfWmMwdUZMMUk1dVpyT0NTb0ljcDdYOE1fU1ltX2pHYk5WeUZ1eDFINXB1aEhCUlhaQjNfcTZseFpLTVVoWThNczJfYzV5eEpRanc0aEZSdUJyaW5kaEV4amJIMk1wOHFwY3NobDYwbkE1VjY1YUpDZTREVmhyVG5PWXZNaVZyYWszTmNzWF9fcmZLRWt4Q0JHYUlpU2ZwNERYcFFiOEtR0gH_AUFVX3lxTE1qYW5nb0xqbTlWRTQyNS03eGpsaUtyMi1WODVGLXhmOTJlRjdhb0NldDZiZExReEJFNjlCZWxMN2NLMFo2U3lMSkljZ2U3VElwbVRJaC1iOXJ1OWlQZ040WmlnYlFZbzZvUHdrSXIwaG50QUxVQ0JQT0hXem4wenByd3ZOZUoyLVpvUHozcU45SXIyUjlmWjFEMXdrZE5oSGVrWXAzRWdYclg0c25oZmFLRktIZGJJVjc1V3Q0MF9FR0NVcXljMUZjb0NKVm5WeFJYbC1Bbm1KQmRJZ3Z0Vml5Ti12dmRUczc4SktLZlRjT0lSQUZHaVNBbldJY2Z6RQ?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "SPY",
+   "strength": 50,
+   "reason": "Trump backs Warsh as Fed chair; hawkish tilt raises rate-hike expectations with mixed market impact"
   },
   {
    "date": "2026-07-30T01:04:10Z",
@@ -2700,30 +2740,6 @@
     "pct": 0.1,
     "base": 738.18,
     "last": 738.93,
-    "base_date": "2026-07-23",
-    "last_date": "2026-07-24"
-   }
-  },
-  {
-   "date": "2026-07-23T00:00:00Z",
-   "platform": "News",
-   "text": "Why Wall Street Firms Are Paying $100,000 a Month for a Fast Track to Trump Posts - WSJ \u2014 Why Wall Street Firms Are Paying $100,000 a Month for a Fast Track to Trump Posts\u00a0\u00a0WSJ",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPU3UxTnU2ZzVqX1BLUmQzdFd0SU5pN0VuTXVOajAyZHgxUEhaeVZoVVM2OEtNcktLLWltVENMZzZhSUEyU3RHenF6akQyTU9xelo2UnA4Njkzb0FMSm9PNURJVGZ6YWR3eXNiaWEzQzZSQWF4V203U1VTbmJna05pX3hxMlBDeGNoOTIzSVU1cWNrX2drM1JfTlkyc3hwaGdUNlVGNG9qZi1fUWFVU0E?oc=5",
-   "tickers": [
-    "DJT"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "DJT",
-   "strength": 50,
-   "reason": "Meta-signal: Wall Street paying for fast-track Trump posts; implies market sees his endorsements as valuable, bullish for DJT platform.",
-   "price_since": {
-    "ticker": "DJT",
-    "pct": -3.7,
-    "base": 8.89,
-    "last": 8.56,
     "base_date": "2026-07-23",
     "last_date": "2026-07-24"
    }
