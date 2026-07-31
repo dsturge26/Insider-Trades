@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-07-31T00:01:38Z",
+ "last_updated": "2026-07-31T03:49:56Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -146,6 +146,30 @@
    "primary_ticker": "SPY",
    "strength": 45,
    "reason": "Fed rate hold is macro-relevant to broad market; direction depends on forward guidance"
+  },
+  {
+   "date": "2026-07-29T22:35:56Z",
+   "platform": "News",
+   "text": "Citi Stock Hits 52-Week High Before Fading As Trump Lauds Bank's 'Big Comeback' In M&A \u2014 But Full Picture Has Changed Now - Stocktwits \u2014 Citi Stock Hits 52-Week High Before Fading As Trump Lauds Bank's 'Big Comeback' In M&A \u2014 But Full Picture Has Changed Now\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWUpacUZnX014SV9nTnRZbVQ0dWhFQlZiV3ZjLV9nWExYUjVMdmlZdkdoNnFLcUhZUEhuZ1k3a2JENWJrYkhqdjJqNFlLaVlVYzBRb3dJOFA2Q1dESmhCTVJnQXJJaU15VjVFUFo2cWJDOEx3QTIzN0NSQjExRWhRZlNLaDFXeEZMQ0poajdjbGhmNlhPd1ZQSnVOSmNVa0pVTF94Z1RVdXlSU2JrR0N3X2dHSENINjZHNWdTYzB1dEZPaERK?oc=5",
+   "tickers": [
+    "C"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "C",
+   "strength": 75,
+   "reason": "Trump lauds Citi's 'big comeback' in M&A; direct praise of named bank.",
+   "price_since": {
+    "ticker": "C",
+    "pct": 4.1,
+    "base": 127.13,
+    "last": 132.32,
+    "base_date": "2026-07-29",
+    "last_date": "2026-07-30"
+   }
   },
   {
    "date": "2026-07-29T22:23:22Z",
@@ -1894,30 +1918,6 @@
    "reason": "Trump tariffs directly caused Shein's $99m loss; tariff impact bearish for retail/apparel imports"
   },
   {
-   "date": "2026-07-26T14:36:26Z",
-   "platform": "News",
-   "text": "Citi Stock Hits 52-Week High Before Fading As Trump Lauds Bank's 'Big Comeback' In M&A \u2014 But Full Picture Has Changed Now - Stocktwits \u2014 Citi Stock Hits 52-Week High Before Fading As Trump Lauds Bank's 'Big Comeback' In M&A \u2014 But Full Picture Has Changed Now\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWUpacUZnX014SV9nTnRZbVQ0dWhFQlZiV3ZjLV9nWExYUjVMdmlZdkdoNnFLcUhZUEhuZ1k3a2JENWJrYkhqdjJqNFlLaVlVYzBRb3dJOFA2Q1dESmhCTVJnQXJJaU15VjVFUFo2cWJDOEx3QTIzN0NSQjExRWhRZlNLaDFXeEZMQ0poajdjbGhmNlhPd1ZQSnVOSmNVa0pVTF94Z1RVdXlSU2JrR0N3X2dHSENINjZHNWdTYzB1dEZPaERK?oc=5",
-   "tickers": [
-    "C"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "C",
-   "strength": 55,
-   "reason": "Trump explicitly lauds Citigroup's M&A comeback; direct positive commentary on named bank",
-   "price_since": {
-    "ticker": "C",
-    "pct": -0.5,
-    "base": 133.1,
-    "last": 132.47,
-    "base_date": "2026-07-27",
-    "last_date": "2026-07-28"
-   }
-  },
-  {
    "date": "2026-07-26T13:31:31Z",
    "platform": "News",
    "text": "IBRX Stock Rallies Into Trump\u2019s Big SOTU Night \u2014 Here\u2019s What Traders Think Could Fuel The Next Move - Stocktwits \u2014 IBRX Stock Rallies Into Trump\u2019s Big SOTU Night \u2014 Here\u2019s What Traders Think Could Fuel The Next Move\u00a0\u00a0Stocktwits",
@@ -2693,30 +2693,6 @@
     "base": 8.89,
     "last": 8.56,
     "base_date": "2026-07-23",
-    "last_date": "2026-07-24"
-   }
-  },
-  {
-   "date": "2026-07-22T22:41:49Z",
-   "platform": "News",
-   "text": "REPL, QURE, MRNA Soar On Reports Trump Will Fire FDA\u2019s Marty Makary - Stocktwits \u2014 REPL, QURE, MRNA Soar On Reports Trump Will Fire FDA\u2019s Marty Makary\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPU3Z0Z1R6VlBrbUhjMmZMNmVXdXBXQW5TTUtIelRzbmMtS0kzSjdQTWFJRGV4TTFuVWE0QmxTTGpPc1NWdVdWQjl2bmVPTGNXY180NXltOWlqM3pPd1JDTmVORU5Kemc4Wk1IRWMtUE1UbVlQV1VndWx2cGhwSmxUWmw1Y3htZWVGQ1RxUEY3bVh4Y0lIcW1oVF9TMWgyUmNUY1JQajF4NGdCZHUzNEFDbnAtWTUzRmlpcHNYZk4tb0l6b2pDbFE?oc=5",
-   "tickers": [
-    "XBI"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "XBI",
-   "strength": 62,
-   "reason": "Reports Trump will fire FDA chief Makary; biotech/pharma stocks rally on expectation of lighter FDA regulation.",
-   "price_since": {
-    "ticker": "XBI",
-    "pct": -1.1,
-    "base": 152.11,
-    "last": 150.48,
-    "base_date": "2026-07-22",
     "last_date": "2026-07-24"
    }
   },
