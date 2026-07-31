@@ -1,7 +1,24 @@
 {
- "last_updated": "2026-07-30T22:46:40Z",
+ "last_updated": "2026-07-31T00:01:38Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-07-30T23:12:52.036Z",
+   "platform": "Truth Social",
+   "text": "RT @EximBankUSThanks\u00a0to @realDonaldTrump, the Export-Import Bank is profitable for the first time in\u00a0nearly a\u00a0DECADE.\u00a0Here's\u00a0why that matters to every American:\u00a0\u2705\u00a0Supply\u00a0Chain\u00a0Security:\u00a0EXIM is answering\u00a0@realDonaldTrump's call to action - delivering Project Vault and\u00a0$28 billion\u00a0in deals to ensure companies large and small have access to critical raw materials.\u00a0\u00a0\u00a0\u2705\u00a0Reindustrializing America: EXIM\u00a0is a\u00a0frontline economic tool\u00a0again, and small businesses are at the heart of our mission, supporting over 45,000 American jobs.\u00a0\u00a0\u2705\u00a0Energy DOMINANCE: After 4 years of Biden\u00a0inaction, President Trump is unleashing American\u00a0Energy\u00a0Dominance & EXIM is sending American molecules\u00a0and technologies\u00a0to every corner of the globe.\u00a0\u00a0\u2705\u00a0American Innovation: EXIM is investing in America's future by making sure\u00a0we can\u00a0innovate AND build in\u00a0America\u00a0again, backing\u00a0cutting-edge\u00a0companies like\u00a0JetZero,\u00a0Beta Technologies\u00a0and K2\u00a0Space as they transform their industries.\u00a0\u00a0EXIM is doing all of this while returning a profit to the taxpayer. When\u00a0EXIM does its job, hardworking\u00a0Americans\u00a0across the country have more high-paying jobs and more money in their pockets.",
+   "tickers": [
+    "SPY"
+   ],
+   "engagement": 0,
+   "url": "https://truthsocial.com/@realDonaldTrump/117011459082239407",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "SPY",
+   "strength": 25,
+   "reason": "EXIM profitability and supply chain/reindustrialization focus suggests pro-business policy, but lacks specificity or near-term catalyst."
+  },
   {
    "date": "2026-07-30T11:49:00Z",
    "platform": "News",
@@ -367,6 +384,30 @@
     "pct": 8.2,
     "base": 25.0,
     "last": 27.04,
+    "base_date": "2026-07-29",
+    "last_date": "2026-07-30"
+   }
+  },
+  {
+   "date": "2026-07-29T18:29:01Z",
+   "platform": "News",
+   "text": "DCG Says US Faces 'Alarming' Offshore Flight Without CLARITY Act, Demands Vote Before August Recess - Stocktwits \u2014 DCG Says US Faces 'Alarming' Offshore Flight Without CLARITY Act, Demands Vote Before August Recess\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbk8yYmV3d3dyb0YwN050Qmdjelk2VmJEc1E2ZjdiTkxka1NqWmxpamcxSDVDUEJkZVlFSExLWmN1eFpUVlN6bVExVEZtcXVhclY2dWN1WF9GNU9hcWlWYlJwWmlUdUpXbkYwdFNzdXdkNGhXcjA2MUplQ0pURUt3dFZaaDlHVXM5dG53eG5scmJKSnR2NmdMa2YtYUl3RnJJcFNPRzVKSi1sTFBSck1JVlZIOA?oc=5",
+   "tickers": [
+    "COIN"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "COIN",
+   "strength": 40,
+   "reason": "DCG crypto advocacy for CLARITY Act suggests pro-crypto regulation; indirect bullish signal for digital assets.",
+   "price_since": {
+    "ticker": "COIN",
+    "pct": 2.2,
+    "base": 160.09,
+    "last": 163.58,
     "base_date": "2026-07-29",
     "last_date": "2026-07-30"
    }
@@ -2678,22 +2719,6 @@
     "base_date": "2026-07-22",
     "last_date": "2026-07-24"
    }
-  },
-  {
-   "date": "2026-07-22T14:48:05Z",
-   "platform": "News",
-   "text": "Trump endorses MyPillow CEO Mike Lindell for Minnesota governor - AOL.com \u2014 Trump endorses MyPillow CEO Mike Lindell for Minnesota governor\u00a0\u00a0AOL.com",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNeGFISzJxSUd1MExtUUR5MEZDTHRIdDlIMzY5M0pUWDQ3ZGpFUWRUTzBQdFUwejByQ21rTTVDNDRoVkJUNTcxMDh6cVB2ZHl2aHJjRHpmZUJvVGRfVGt1VHAzMnpuMzJRNVlqdmROOWw5MlBjQUlMZkFVOEF5V296UWZ3?oc=5",
-   "tickers": [
-    "MYPL"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "MYPL",
-   "strength": 50,
-   "reason": "Trump endorses MyPillow CEO Mike Lindell for office; explicit backing of CEO/company is bullish for MYPL"
   },
   {
    "curated": true,
