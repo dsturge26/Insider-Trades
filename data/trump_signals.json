@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-07-31T06:43:55Z",
+ "last_updated": "2026-07-31T09:34:07Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -97,7 +97,15 @@
    "direction": "BUY",
    "primary_ticker": "BTC-USD",
    "strength": 65,
-   "reason": "Eric Trump bullish call on Bitcoin to $1M; crypto-friendly signal from Trump inner circle"
+   "reason": "Eric Trump bullish call on Bitcoin to $1M; crypto-friendly signal from Trump inner circle",
+   "price_since": {
+    "ticker": "BTC-USD",
+    "pct": -1.7,
+    "base": 64725.31,
+    "last": 63607.43,
+    "base_date": "2026-07-30",
+    "last_date": "2026-07-31"
+   }
   },
   {
    "date": "2026-07-30T07:51:00Z",
@@ -113,7 +121,15 @@
    "direction": "BUY",
    "primary_ticker": "BTC-USD",
    "strength": 45,
-   "reason": "Eric Trump bullish crypto call; signals Trump-family backing for bitcoin upside"
+   "reason": "Eric Trump bullish crypto call; signals Trump-family backing for bitcoin upside",
+   "price_since": {
+    "ticker": "BTC-USD",
+    "pct": -1.7,
+    "base": 64725.31,
+    "last": 63607.43,
+    "base_date": "2026-07-30",
+    "last_date": "2026-07-31"
+   }
   },
   {
    "date": "2026-07-30T07:17:19Z",
@@ -467,6 +483,30 @@
    "primary_ticker": "DJT",
    "strength": 35,
    "reason": "SEC investigation threat into Trump Media's paid access plan creates regulatory headwind for DJT",
+   "price_since": {
+    "ticker": "DJT",
+    "pct": 5.4,
+    "base": 9.85,
+    "last": 10.38,
+    "base_date": "2026-07-29",
+    "last_date": "2026-07-30"
+   }
+  },
+  {
+   "date": "2026-07-29T17:48:30Z",
+   "platform": "News",
+   "text": "US Senators Urge SEC Probe Into Trump Media\u2019s Preferential Truth Social Access Plan For Wall Street Firms - es.tradingview.com \u2014 US Senators Urge SEC Probe Into Trump Media\u2019s Preferential Truth Social Access Plan For Wall Street Firms\u00a0\u00a0es.tradingview.com",
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNNEpWRmYtRVVTa0dpTVAzT2JQNFdrZDk2NTU4dW41eGhKSTRwR3J6TENrYVprelJTZGNSRGNmM3BqOFQ1TXZZRm9IdGowWFJKWE1WekdqS3BPbG5WWDV5S0J6bEVNR3VLQmRDOGNGNUNBMmlRd0l2NENLQk9QcnJuZzJzRjVnbTVGVVRyYjVuR3NQS2Y1QTdJWUIwbFRhTmR5X0VHc0tIcEh2MlJWQUdRd2JGeG1BRUpZZk5PME1RaHhCT0RMVXNwX0ZjUXYwQS0xeHdMTm5wMUxqendNX3BDeExWMWxGUWpxY3J5anRUd1duaW82WUZpQg?oc=5",
+   "tickers": [
+    "DJT"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "SELL",
+   "primary_ticker": "DJT",
+   "strength": 65,
+   "reason": "SEC probe into Trump Media's business practices creates regulatory risk and reputational pressure on DJT stock",
    "price_since": {
     "ticker": "DJT",
     "pct": 5.4,
