@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-07-31T21:47:32Z",
+ "last_updated": "2026-07-31T22:59:56Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -196,6 +196,30 @@
    }
   },
   {
+   "date": "2026-07-30T14:32:41Z",
+   "platform": "News",
+   "text": "Microsoft Stock Soars on Solid Q4 Results - Investopedia \u2014 Microsoft Stock Soars on Solid Q4 Results\u00a0\u00a0Investopedia",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObTJHXzRfbXRrLTVkNHN6X2tRNUJhSEpYTjBkZk41UXlpOHVyLTdZYzdDSXFRM28zVGdrOGdHZkppdXBZNmRBUWlSLXJhVkFVd0xDTGFnZ0xhT0d6LVFCUEZKcHplSGp3a3hYXzVSeUgtczZvMUtYZUxZTnI4ZHBZV25VTWdWQ2RPU2NJT19QMDcyQW1WaGY4bW9VT2VXYk0?oc=5",
+   "tickers": [
+    "MSFT"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "MSFT",
+   "strength": 50,
+   "reason": "Solid Q4 results drive stock gains; positive earnings catalyst",
+   "price_since": {
+    "ticker": "MSFT",
+    "pct": 3.0,
+    "base": 451.1,
+    "last": 464.72,
+    "base_date": "2026-07-30",
+    "last_date": "2026-07-31"
+   }
+  },
+  {
    "date": "2026-07-30T12:39:58Z",
    "platform": "News",
    "text": "Donald Trump\u2019s Truth Social Warning on Iran War Updates Sparks Bitcoin Crash Fears - CryptoRank \u2014 Donald Trump\u2019s Truth Social Warning on Iran War Updates Sparks Bitcoin Crash Fears\u00a0\u00a0CryptoRank",
@@ -212,9 +236,9 @@
    "reason": "Trump Truth Social warning on Iran war sparks crypto selloff fears",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": -2.7,
+    "pct": -2.8,
     "base": 64725.31,
-    "last": 62985.31,
+    "last": 62887.68,
     "base_date": "2026-07-30",
     "last_date": "2026-07-31"
    }
@@ -332,9 +356,9 @@
    "reason": "Eric Trump bullish call on Bitcoin to $1M; crypto-friendly signal from Trump inner circle",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": -2.7,
+    "pct": -2.8,
     "base": 64725.31,
-    "last": 62985.31,
+    "last": 62887.68,
     "base_date": "2026-07-30",
     "last_date": "2026-07-31"
    }
@@ -356,9 +380,9 @@
    "reason": "Eric Trump bullish crypto call; signals Trump-family backing for bitcoin upside",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": -2.7,
+    "pct": -2.8,
     "base": 64725.31,
-    "last": 62985.31,
+    "last": 62887.68,
     "base_date": "2026-07-30",
     "last_date": "2026-07-31"
    }
@@ -378,6 +402,30 @@
    "primary_ticker": "SPY",
    "strength": 35,
    "reason": "Fed's hawkish hold creates investor uncertainty on market direction",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": 0.7,
+    "base": 741.69,
+    "last": 747.03,
+    "base_date": "2026-07-30",
+    "last_date": "2026-07-31"
+   }
+  },
+  {
+   "date": "2026-07-30T07:23:00Z",
+   "platform": "News",
+   "text": "U.S. Federal Reserve\u2019s \u2018hawkish hold\u2019 leaves investors lacking clarity - japantimes.co.jp \u2014 U.S. Federal Reserve\u2019s \u2018hawkish hold\u2019 leaves investors lacking clarity\u00a0\u00a0japantimes.co.jp",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdHlpdFZKV3FtRXZkSk11Yi1UamhOMWp0TGVvaVBuTkw0d2F4dVVRSkVWb1hhSE5GV0M2eHdoV1k1TmcxdlFmbXFQT2U4VUJZSTZSVG16RXdLTHhxdGtPQWtaSWxNaU4yMmgxMnBKWXpod2h6Z0tyMGtMZTZFREFMdzVxRzNOb2tNbDJLSnNoUjQ?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "SPY",
+   "strength": 25,
+   "reason": "Fed hawkish hold creates rate uncertainty; broad market ambiguity",
    "price_since": {
     "ticker": "SPY",
     "pct": 0.7,
