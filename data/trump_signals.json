@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-01T03:50:03Z",
+ "last_updated": "2026-08-01T06:29:14Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -17,6 +17,22 @@
    "primary_ticker": "DJT",
    "strength": 45,
    "reason": "Legal trouble for Trump company creates bearish sentiment around Trump-affiliated assets"
+  },
+  {
+   "date": "2026-07-31T20:09:04Z",
+   "platform": "News",
+   "text": "Trump company imperiled as investigators zero in on 'depraved' scheme - NewsBreak: Local News & Alerts \u2014 Trump company imperiled as investigators zero in on 'depraved' scheme\u00a0\u00a0NewsBreak: Local News & Alerts",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQ2dRSFM1cFZVSDJ3NDVvN2c1dDZqcV9MZFZYazVNbEFUNXc4RElpXzl1andtRzc2RVVIX3FMODlWZE5idFlDVzJ0VjRpWmotZENvMTVweWl3bzhmS1lHckVuUlZTel9SZHlpaVdtamFLUl8yVnlUUmt2dUxxU191WnJVeXd4UzVGdEhuMmJQd0l4QUJiS1NqM0U3TWpHM2J3X3Nkd216UGV1WFFVZVNmYzNwZV9sUld1VXdFQUd2dTdCQlk?oc=5",
+   "tickers": [
+    "DJT"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "SELL",
+   "primary_ticker": "DJT",
+   "strength": 65,
+   "reason": "Trump company facing legal jeopardy implies reputational and financial risk to DJT stock."
   },
   {
    "date": "2026-07-31T14:59:58Z",
@@ -268,9 +284,9 @@
    "reason": "Trump Truth Social warning on Iran war sparks crypto selloff fears",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": -2.8,
+    "pct": -2.6,
     "base": 64725.31,
-    "last": 62944.11,
+    "last": 63014.0,
     "base_date": "2026-07-30",
     "last_date": "2026-08-01"
    }
@@ -388,9 +404,9 @@
    "reason": "Eric Trump bullish call on Bitcoin to $1M; crypto-friendly signal from Trump inner circle",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": -2.8,
+    "pct": -2.6,
     "base": 64725.31,
-    "last": 62944.11,
+    "last": 63014.0,
     "base_date": "2026-07-30",
     "last_date": "2026-08-01"
    }
@@ -412,9 +428,9 @@
    "reason": "Eric Trump bullish crypto call; signals Trump-family backing for bitcoin upside",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": -2.8,
+    "pct": -2.6,
     "base": 64725.31,
-    "last": 62944.11,
+    "last": 63014.0,
     "base_date": "2026-07-30",
     "last_date": "2026-08-01"
    }
@@ -535,6 +551,30 @@
     "pct": -0.0,
     "base": 366.27,
     "last": 366.13,
+    "base_date": "2026-07-30",
+    "last_date": "2026-07-31"
+   }
+  },
+  {
+   "date": "2026-07-30T05:09:50Z",
+   "platform": "News",
+   "text": "Microsoft's best day since 2008 leads US stocks, while inflation worries remain in the bond market - WKMG \u2014 Microsoft's best day since 2008 leads US stocks, while inflation worries remain in the bond market\u00a0\u00a0WKMG",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPeV9YOVh4TjZrZUVBOHNuckI5eDBJdEZTS1l2bGx4Zmx0cDhBTDZUdTZGWGh0WGE2Q1plcWZ4Xy1qUEF0c1NYSjJhazdUZzlwREtFWjZnLTg3YVRoQ29fS0d4RlVjaHE0Q3BtUW1ib0kxZkQ4S2h5a2RkMlpTWFg3YWJmaEQ5WlJSNmhSdnU2ZHJaVFBvemRmaDJCcXN0QUx1bURObFR4REk2dUhwR1Y5aWZNTXhxbzFPdmRFbE1VXy1GUGxWNWRxbVVzUXJKV0E?oc=5",
+   "tickers": [
+    "MSFT"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "MSFT",
+   "strength": 75,
+   "reason": "Microsoft best day since 2008 on strong results; leads broad market rally.",
+   "price_since": {
+    "ticker": "MSFT",
+    "pct": 3.0,
+    "base": 451.1,
+    "last": 464.72,
     "base_date": "2026-07-30",
     "last_date": "2026-07-31"
    }
@@ -2750,22 +2790,6 @@
    "primary_ticker": "SPY",
    "strength": 35,
    "reason": "Canada tariffs and bridge deal renegotiation imply trade friction; unclear net market impact."
-  },
-  {
-   "date": "2026-07-24T16:19:50Z",
-   "platform": "News",
-   "text": "DELL Stock Spikes To Record Highs On President Trump\u2019s Endorsement - Stocktwits \u2014 DELL Stock Spikes To Record Highs On President Trump\u2019s Endorsement\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYWF1OUgweFU0d1NlNU4ya1FYQVJSVTRCX3IwM0NMd19VVmN5RzNtUmc1c2FhTU9abXdnTmVnMDE2QUxna3ZrUEF3Zkd0SFUtOWx3QkF2elBuNkNTcmZDRm1BRUkwMVRwYU0xaUVsWDZLSk0yeEtiMFFPV0t3ZXZ3OW15QUg5V0xHNnRrU1J5VXdvX09Oa0ZmRmJvV0VTVlFRRFh6c3E5RmtHckx0MXpNVVZTWmJpLTUtUXBHSG5pWEFfQll0ejRneDFB?oc=5",
-   "tickers": [
-    "DELL"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "DELL",
-   "strength": 80,
-   "reason": "Trump explicitly endorsed DELL; stock spiked to record highs on his endorsement."
   },
   {
    "curated": true,
