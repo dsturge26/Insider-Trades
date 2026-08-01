@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-01T22:03:43Z",
+ "last_updated": "2026-08-01T23:13:40Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -35,6 +35,22 @@
    "primary_ticker": "XLE",
    "strength": 65,
    "reason": "Oil exports surging under Trump policy is bullish for energy sector"
+  },
+  {
+   "date": "2026-08-01T16:23:54Z",
+   "platform": "News",
+   "text": "Trump\u2019s paid early access to Truth Social posts launches. Here\u2019s why officials are worried - Newswav \u2014 Trump\u2019s paid early access to Truth Social posts launches. Here\u2019s why officials are worried\u00a0\u00a0Newswav",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQnpweldZZ2ItSzVwTHFQalY5S2w3b3VwM0szZlh5OUZmQ09oNjgtUVQyQk9JMFJvWnhWeVBNMTJ4Vl9WYTE0X3FabkdtajNyZ3BwSUNyU2JlSXlnR1dNLTZFRWNOemcwa0RRWm1hZmRsWHhOVjdDRDY2dmpfVkc3alQ0LWRxSV9JQnlFYi1mcXBsOWFrVG1JRXd3Si1yM2V4ZV91clJXdHhScmR2eEZwWXdfVEptcXM?oc=5",
+   "tickers": [
+    "DJT"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "DJT",
+   "strength": 45,
+   "reason": "Truth Social paid early access feature is a monetization driver for Trump Media; concerns noted but feature launch is bullish for DJT revenue"
   },
   {
    "date": "2026-08-01T11:39:05Z",
@@ -384,7 +400,7 @@
     "ticker": "BTC-USD",
     "pct": -3.1,
     "base": 64725.31,
-    "last": 62743.04,
+    "last": 62750.0,
     "base_date": "2026-07-30",
     "last_date": "2026-08-01"
    }
@@ -504,7 +520,7 @@
     "ticker": "BTC-USD",
     "pct": -3.1,
     "base": 64725.31,
-    "last": 62743.04,
+    "last": 62750.0,
     "base_date": "2026-07-30",
     "last_date": "2026-08-01"
    }
@@ -528,7 +544,7 @@
     "ticker": "BTC-USD",
     "pct": -3.1,
     "base": 64725.31,
-    "last": 62743.04,
+    "last": 62750.0,
     "base_date": "2026-07-30",
     "last_date": "2026-08-01"
    }
@@ -620,6 +636,30 @@
    "primary_ticker": "DELL",
    "strength": 55,
    "reason": "Dell Technologies down 22.45% suggests negative market reaction",
+   "price_since": {
+    "ticker": "DELL",
+    "pct": 0.1,
+    "base": 404.81,
+    "last": 405.37,
+    "base_date": "2026-07-30",
+    "last_date": "2026-07-31"
+   }
+  },
+  {
+   "date": "2026-07-30T05:52:22Z",
+   "platform": "News",
+   "text": "DELL|Dell Technologies Inc|Price:369.650|Chg%:-22.450 - tradingkey.com \u2014 DELL|Dell Technologies Inc|Price:369.650|Chg%:-22.450\u00a0\u00a0tradingkey.com",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxTEh6d1JJRnJFTFJ6X0lwS0F1aW5uNXE5MHQ4QTdSZnVzblNVVGhRQlBudlRGRnNHdldZdlBnb3M2ekhjdWR4SVVNcnU4T1loSXhrcmtVQUlUdw?oc=5",
+   "tickers": [
+    "DELL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "DELL",
+   "strength": 20,
+   "reason": "Dell stock down 22.45%; likely unrelated to Trump signal but noted as data point",
    "price_since": {
     "ticker": "DELL",
     "pct": 0.1,
