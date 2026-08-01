@@ -1,7 +1,41 @@
 {
- "last_updated": "2026-08-01T17:43:14Z",
+ "last_updated": "2026-08-01T18:42:35Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-08-01T18:32:14.264Z",
+   "platform": "Truth Social",
+   "text": "RT @realDonaldTrumpBecause of President Donald J. Trump, Oil Exports are SURGING!",
+   "tickers": [
+    "XLE"
+   ],
+   "engagement": 0,
+   "url": "https://truthsocial.com/@realDonaldTrump/117021680223306706",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "XLE",
+   "strength": 65,
+   "reason": "Oil exports surging under Trump policy is bullish for energy sector"
+  },
+  {
+   "date": "2026-08-01T18:12:32.482Z",
+   "platform": "Truth Social",
+   "text": "Because of President Donald J. Trump, Oil Exports are SURGING!",
+   "tickers": [
+    "XLE"
+   ],
+   "engagement": 1511,
+   "url": "https://truthsocial.com/@realDonaldTrump/117021602773641695",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "XLE",
+   "strength": 65,
+   "reason": "Oil exports surging under Trump policy is bullish for energy sector"
+  },
   {
    "date": "2026-08-01T11:39:05Z",
    "platform": "News",
@@ -332,9 +366,9 @@
    "reason": "Trump Truth Social warning on Iran war sparks crypto selloff fears",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": -3.0,
+    "pct": -3.6,
     "base": 64725.31,
-    "last": 62770.74,
+    "last": 62405.04,
     "base_date": "2026-07-30",
     "last_date": "2026-08-01"
    }
@@ -452,9 +486,9 @@
    "reason": "Eric Trump bullish call on Bitcoin to $1M; crypto-friendly signal from Trump inner circle",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": -3.0,
+    "pct": -3.6,
     "base": 64725.31,
-    "last": 62770.74,
+    "last": 62405.04,
     "base_date": "2026-07-30",
     "last_date": "2026-08-01"
    }
@@ -476,9 +510,9 @@
    "reason": "Eric Trump bullish crypto call; signals Trump-family backing for bitcoin upside",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": -3.0,
+    "pct": -3.6,
     "base": 64725.31,
-    "last": 62762.8,
+    "last": 62405.04,
     "base_date": "2026-07-30",
     "last_date": "2026-08-01"
    }
@@ -2660,70 +2694,6 @@
    "primary_ticker": "INTC",
    "strength": 55,
    "reason": "Intel rally linked to Trump administration support; policy tailwinds for semiconductors"
-  },
-  {
-   "date": "2026-07-25T09:00:00Z",
-   "platform": "News",
-   "text": "California Senator Accuses Trump of Promoting Dell After Reported Stock Purchase: \u2018The Grift Never Stops\u2019 - The Nerd Stash \u2014 California Senator Accuses Trump of Promoting Dell After Reported Stock Purchase: \u2018The Grift Never Stops\u2019\u00a0\u00a0The Nerd Stash",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQc0hqNkYweVU0WTVUM3h1V3k1dXNRc3hiZGFqdTlnQVR1V0JKNTMzMFdXYUkwQnlZQjJ4N2dZZFFxeTNiS09ZTTd6bWU1SEZHNUJnaGhDRmlvNS1OYXVkb3N3X1FWNlVrTTBscEcxSUd5NWJya0lvdGtEb21BbjlvTnI2Y0xBOFY5bHdnNWQ4bTJ4R2ZScUZlU3lpM00tcmtGVHNKWnBtMXR0ODVmcWNia3NwLXBDVU9EMFZqUldIZmYwZHhydTdF?oc=5",
-   "tickers": [
-    "DELL"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "DELL",
-   "strength": 60,
-   "reason": "Trump reportedly purchased and promoted DELL stock; direct endorsement of a named public company."
-  },
-  {
-   "date": "2026-07-25T04:59:27Z",
-   "platform": "News",
-   "text": "CAR Stock Rises Premarket: CEO Calls Shares \u2018Undervalued\u2019 And Rules Out Issuing Stock At Current Levels - Stocktwits \u2014 CAR Stock Rises Premarket: CEO Calls Shares \u2018Undervalued\u2019 And Rules Out Issuing Stock At Current Levels\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOb0ViZF9JTXBKczhJbnM3czIyQ3dxdFNNN3JWd1BWaFRfTkIzeXFFQlhYU25JXy1yRzVPSlVaSUdvZGtHT0hsdUFpUm9oSGFZU2Rma2NpS0dsQXZMUGN3eEpqUTBrX0JSb0lDb0NfaWRsX2RSWExlcjlnSUQ2a0R6TkxIYlB2M0dLMXo3UkUxYzZ1YUJMdk5VLWZwRlA0RkFUcVFRMTBneGk3ZDBMeGJsbUVReFByRG9ROFE?oc=5",
-   "tickers": [
-    "CAR"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "CAR",
-   "strength": 20,
-   "reason": "CEO calls CAR undervalued; positive but no Trump catalyst, general market sentiment"
-  },
-  {
-   "date": "2026-07-25T04:30:01Z",
-   "platform": "News",
-   "text": "Trump Taps Mark Zuckerberg, Larry Ellison, Jensen Huang For AI Advisory Council: Report - Stocktwits \u2014 Trump Taps Mark Zuckerberg, Larry Ellison, Jensen Huang For AI Advisory Council: Report\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPVmhDWExKbUNJZnF2TWQ2a3NNdDRwVU5jbmVIM1NwUFVsUXFGajRnMERhcW9zUDdUU1k0bU5lazZkSjV2ZXZNOFJKOVd3S3luWnZHUTY1cVNQRUZhUjZmYm1WT0IxaF9yVjhXTGlFYWQ4ODBHNHI0cF8xRmxQV3hkbVJTaGhBZ05UVS0tQnJkSXptenZVdnNmTTBrWFA1UklGOXlERXkwS2dVVDlZZUdfR1VQZldqVDE2b1I5UUFmUU5VZ1h4Q01MdjVUOTFidXRVZUVoamVNMUhzTDd1UUE2VEpuU2JvMkk?oc=5",
-   "tickers": [
-    "QQQ"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "QQQ",
-   "strength": 65,
-   "reason": "Trump appoints Zuckerberg, Ellison, Huang to AI advisory council; signals pro-AI/tech stance and support for mega-cap AI leaders."
-  },
-  {
-   "date": "2026-07-25T01:18:30Z",
-   "platform": "News",
-   "text": "Why Is WLFI Soaring Before Trump-Linked World Liberty Forum? - Stocktwits \u2014 Why Is WLFI Soaring Before Trump-Linked World Liberty Forum?\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYkc4ZHcxcGxXaHBhZnJPWWxYZzZuR05xSWF3RnBpXzRrZ2ZWR2hjZEN0aXJ5ZW9nZzBuRXFSVHVOUWJyaGpJdVVrQmo4cWhyck52bWZwM0tYejdJcTdLNjdiYURfdElJWWZmaEY0T2ZCaHNFN2tGY3gyUTVTcnJIdklZa1FyQ3VSUTQ4VHZCSVdwT0pjVE51V0RidUs0eVlHaTVmUVlISVZWbktFQmRsT180U2RnX2c?oc=5",
-   "tickers": [
-    "WLFI"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "WLFI",
-   "strength": 40,
-   "reason": "Stock tied to Trump-linked World Liberty Forum; speculative connection, direction unclear."
   },
   {
    "curated": true,
