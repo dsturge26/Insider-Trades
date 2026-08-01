@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-01T13:20:14Z",
+ "last_updated": "2026-08-01T14:44:54Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -318,7 +318,7 @@
     "ticker": "BTC-USD",
     "pct": -2.6,
     "base": 64725.31,
-    "last": 63027.22,
+    "last": 63027.48,
     "base_date": "2026-07-30",
     "last_date": "2026-08-01"
    }
@@ -438,7 +438,7 @@
     "ticker": "BTC-USD",
     "pct": -2.6,
     "base": 64725.31,
-    "last": 63027.22,
+    "last": 63027.48,
     "base_date": "2026-07-30",
     "last_date": "2026-08-01"
    }
@@ -462,7 +462,7 @@
     "ticker": "BTC-USD",
     "pct": -2.6,
     "base": 64725.31,
-    "last": 63027.22,
+    "last": 63027.48,
     "base_date": "2026-07-30",
     "last_date": "2026-08-01"
    }
@@ -1854,6 +1854,22 @@
    }
   },
   {
+   "date": "2026-07-27T22:20:31Z",
+   "platform": "News",
+   "text": "Fact check: President Trump says Michigan \u2018thriving,\u2019 auto industry \u2018back\u2019 - Bridge Michigan \u2014 Fact check: President Trump says Michigan \u2018thriving,\u2019 auto industry \u2018back\u2019\u00a0\u00a0Bridge Michigan",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNczZzWDdoVDRYSVUzUmhWZnlVbzJrRzl5NTJhU3ZmR2FKQjNieGdQYWZBQ0R0ZU92Mkl5TEhTc2s5VEdUVllIN3JrQVNDTk0xSTJVYlRHaGdPcjJxa3ZjRW5tUzVpX2tTRmNhSWpWNUtNUDd4V1ZMTXF6ZjdkSmk3YnZjNHFPbzc5Z2xzYXQtb1gwaUpxdEh2bGlyWXliZlhQVEpzMWlCWGJuQUlYX3dZ?oc=5",
+   "tickers": [
+    "GM"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "GM",
+   "strength": 25,
+   "reason": "Trump claims auto industry recovery; vague, no clear bullish/bearish action."
+  },
+  {
    "date": "2026-07-27T22:00:00Z",
    "platform": "News",
    "text": "Trump praises GM and defends tariffs during Michigan visit - Transport Topics \u2014 Trump praises GM and defends tariffs during Michigan visit\u00a0\u00a0Transport Topics",
@@ -2740,22 +2756,6 @@
    "primary_ticker": "GOOG",
    "strength": 35,
    "reason": "Trump orders trade probe into EU fines on US tech; potential reduction in regulatory risk for GOOG, AAPL"
-  },
-  {
-   "date": "2026-07-24T17:44:52Z",
-   "platform": "News",
-   "text": "Eric Trump Says ABTC Has More Bitcoin Than GLXY \u2013 Stock Still Falls Amid Bitcoin\u2019s Decline - Stocktwits \u2014 Eric Trump Says ABTC Has More Bitcoin Than GLXY \u2013 Stock Still Falls Amid Bitcoin\u2019s Decline\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMi1CeXRoc3duaXd4NGxDU1M4aHRJR3ptWTltWjdiY1pJb2xUakZBeFpoZ0NsTm9Kd3hRQW9DOXBiTEgwUWVyaFRFOHgyaEpxOXZHNFZqWGZHOXpFbnBaaEU3TUI4U3laX1JRMjR4ejk0NG5iQTFfVnFBRlhBcnR5MGxIRF9tRUg2LWItQnRYZVF3ejVrQW1SVGNqQXdMVm1YMDlUZUJNSk50V3ZmNHZqOQ?oc=5",
-   "tickers": [
-    "ABTC"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "ABTC",
-   "strength": 30,
-   "reason": "Eric Trump comments on bitcoin holdings; Trump family statement but no explicit buy/sell, crypto correlated."
   },
   {
    "curated": true,
