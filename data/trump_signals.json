@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-08-01T14:44:54Z",
+ "last_updated": "2026-08-01T15:44:54Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-08-01T11:39:05Z",
+   "platform": "News",
+   "text": "Trump stands to profit off US policy announcements by selling fast access to his social media posts - ABC News - Breaking News, Latest News and Videos \u2014 Trump stands to profit off US policy announcements by selling fast access to his social media posts\u00a0\u00a0ABC News - Breaking News, Latest News and Videos",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQY3JHZTltR2R5OFNuRzE5bGFRem1jU2VLN0JqOVJMcXJUU05qZWJaemNQb2VVTjA0ZkUyclZvVkptSWwtaE5hSXZlVHlGZzdCUlZmYkZRSTVsaFhWdFBaZmMteHh6YnR2WFhsVlA1VTdxazdXclJtR1lhREtwUzV0QlNxZzBMdUROeW1JM1NkY1JaVWstS3I4S0NqWWhFcGfSAaQBQVVfeXFMTTdOS0s5X3pnUVAtUUN3OHlKRVczTU9XR0dQZmVfQjRXUWJReDYzZTdhcnVwUGZGVThkTHNQY3RtQ3dCWXhMd2hCdzR3RVBqX2NBTmQ4UnJxZmgySVdsZkRieG1zbDY4YzZ4VElPa1I5S1dHa0pBTnBSUUdFMWVXV3RqcmxhZG1EYVZsR3liZmotTDRXU2xoUklfSkZpa3E1VUJscWU?oc=5",
+   "tickers": [
+    "DJT"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "DJT",
+   "strength": 35,
+   "reason": "Trump Media profit scheme from policy-timed access could affect DJT valuation; regulatory risk unclear."
+  },
   {
    "date": "2026-08-01T09:39:11Z",
    "platform": "News",
@@ -316,9 +332,9 @@
    "reason": "Trump Truth Social warning on Iran war sparks crypto selloff fears",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": -2.6,
+    "pct": -2.7,
     "base": 64725.31,
-    "last": 63027.48,
+    "last": 62985.61,
     "base_date": "2026-07-30",
     "last_date": "2026-08-01"
    }
@@ -436,9 +452,9 @@
    "reason": "Eric Trump bullish call on Bitcoin to $1M; crypto-friendly signal from Trump inner circle",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": -2.6,
+    "pct": -2.7,
     "base": 64725.31,
-    "last": 63027.48,
+    "last": 62985.61,
     "base_date": "2026-07-30",
     "last_date": "2026-08-01"
    }
@@ -460,9 +476,9 @@
    "reason": "Eric Trump bullish crypto call; signals Trump-family backing for bitcoin upside",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": -2.6,
+    "pct": -2.7,
     "base": 64725.31,
-    "last": 63027.48,
+    "last": 62985.61,
     "base_date": "2026-07-30",
     "last_date": "2026-08-01"
    }
@@ -1403,6 +1419,22 @@
    "primary_ticker": "SMH",
    "strength": 60,
    "reason": "DJI ban removes foreign competition; bullish for US drone and semiconductor makers"
+  },
+  {
+   "date": "2026-07-28T21:20:36Z",
+   "platform": "News",
+   "text": "Nasdaq, S&P 500 Futures Dip On Trump\u2019s Prolonged Iran Conflict Signals: Why TSLA, NVDA, XOM, GSAT, LUNR Are Trending Premarket - Stocktwits \u2014 Nasdaq, S&P 500 Futures Dip On Trump\u2019s Prolonged Iran Conflict Signals: Why TSLA, NVDA, XOM, GSAT, LUNR Are Trending Premarket\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbkhiWG4xSDB2dWxVdjRrdExoQ056cGY2TUpER0k3YnM1blF4ZW9ud3g0UHl6UGZjSU1nMHU1a0VYV1dXUVFrOGRWc3MtUlEycHJKbmc2cVVIWnpaNWxDNUotYnpUNEZ5dXUzTEZ1cHZTU201Tk1kQ1R0TmZvbkotQThDLXdDYUZCMXRlMUVKN1pyZGE5M0tfYmhkUGZFN052MUFpR2x1Z29ERTdTUVZMRFUzTG8xWnpuN3lVQWU1a3I5UmpITlhBZ1M1LThHakYyZUp2MEFn?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "SPY",
+   "strength": 60,
+   "reason": "Trump prolonged Iran conflict signals bearish for broad market; futures dip premarket."
   },
   {
    "date": "2026-07-28T20:15:00Z",
@@ -2740,22 +2772,6 @@
    "primary_ticker": "SPY",
    "strength": 55,
    "reason": "Trump commentary on Musk, OpenAI, Intel, and Fed is multi-sided; macro implications mixed"
-  },
-  {
-   "date": "2026-07-24T18:10:27Z",
-   "platform": "News",
-   "text": "Trump orders EU trade probe over fines on Google, Apple and US tech - India Today \u2014 Trump orders EU trade probe over fines on Google, Apple and US tech\u00a0\u00a0India Today",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZzZVaTlwbXpmUVVNUDIweUhNNTNKV2dyQjFtMWNybklOOVdIUmo1V3k0NUctTHgyTGlVajdabjlhS1lRNlBBZWtvWnc5NjJoRy1MZ21SS1IwNEVWN1BQbG1teFlZSzNfZEdJeTFqTG13dVQ4X2pWbHdDQXREcGgxSlRZQmxZYjF1djYySlUyYWQ5LVo4aUlEaHdkdmlVaTA4eFg3UDJRRFlRb19sN0RxWkFLMnktZ9IBuwFBVV95cUxPNTA1REUxWk1tOHBOQ3NiRWFZMWZtZklWZjcxeWJaZlN5bjBPUzJPR25YdGxhSlRzTlFudHVkQXVqMERPaU8tbTR5b01lSkcwLUpiY3VZdHJXa042bWFVeTI1dk9EbDlWNGpRN2VoYVFwLVdEemxKb0VIdmVHQnlIeVlacDBxWHVhRk40ZTRyMTk1T1pHTTFQTTR1WHpvbVhpa1V5S1RGNlhmYTlHM2NSTFhBSGZwVTB3eFRF?oc=5",
-   "tickers": [
-    "GOOG"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "GOOG",
-   "strength": 35,
-   "reason": "Trump orders trade probe into EU fines on US tech; potential reduction in regulatory risk for GOOG, AAPL"
   },
   {
    "curated": true,
