@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-01T08:54:25Z",
+ "last_updated": "2026-08-01T10:39:58Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -97,6 +97,22 @@
    "primary_ticker": "MSFT",
    "strength": 65,
    "reason": "MSFT cloud strength and strong quarterly performance drive bullish sentiment"
+  },
+  {
+   "date": "2026-07-31T07:31:48Z",
+   "platform": "News",
+   "text": "Trump Says China Has Not Approved NVDA H200 Chip Purchases Yet \u2014 'They Want To Develop Their Own' - Stocktwits \u2014 Trump Says China Has Not Approved NVDA H200 Chip Purchases Yet \u2014 'They Want To Develop Their Own'\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZ2oxZ3ZfNVpTWGQwLTY3T0xzazUxbWY2a3ZreDlRRGE0ZHQxbmNRR29RSm11VXBPajBkd1V1M0VhRUJvVUp0V2lfM3ladmswQ2hMWGlsUjY5RE1ERXR0LTBwN2JLYTBNUk1GRC1QbjktYTlkeTU5MlgteEpYeURwZmhaR2NjUUJMVWs5SGVnbm9uTEZ2dkdmSmVVdzctQ0I3clJZZFM1YnVqbkd1RG9kQlpXUjY?oc=5",
+   "tickers": [
+    "NVDA"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "NVDA",
+   "strength": 40,
+   "reason": "Trump statement that China has not approved NVDA H200 purchases signals export headwind for Nvidia."
   },
   {
    "date": "2026-07-31T04:14:12Z",
@@ -284,9 +300,9 @@
    "reason": "Trump Truth Social warning on Iran war sparks crypto selloff fears",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": -2.5,
+    "pct": -2.7,
     "base": 64725.31,
-    "last": 63074.99,
+    "last": 62975.99,
     "base_date": "2026-07-30",
     "last_date": "2026-08-01"
    }
@@ -404,9 +420,9 @@
    "reason": "Eric Trump bullish call on Bitcoin to $1M; crypto-friendly signal from Trump inner circle",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": -2.5,
+    "pct": -2.7,
     "base": 64725.31,
-    "last": 63074.99,
+    "last": 62975.99,
     "base_date": "2026-07-30",
     "last_date": "2026-08-01"
    }
@@ -428,9 +444,9 @@
    "reason": "Eric Trump bullish crypto call; signals Trump-family backing for bitcoin upside",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": -2.5,
+    "pct": -2.7,
     "base": 64725.31,
-    "last": 63074.99,
+    "last": 62975.99,
     "base_date": "2026-07-30",
     "last_date": "2026-08-01"
    }
@@ -1048,30 +1064,6 @@
     "pct": 5.4,
     "base": 9.85,
     "last": 10.38,
-    "base_date": "2026-07-29",
-    "last_date": "2026-07-30"
-   }
-  },
-  {
-   "date": "2026-07-29T16:06:40Z",
-   "platform": "News",
-   "text": "Trump Says China Has Not Approved NVDA H200 Chip Purchases Yet \u2014 'They Want To Develop Their Own' - Stocktwits \u2014 Trump Says China Has Not Approved NVDA H200 Chip Purchases Yet \u2014 'They Want To Develop Their Own'\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZ2oxZ3ZfNVpTWGQwLTY3T0xzazUxbWY2a3ZreDlRRGE0ZHQxbmNRR29RSm11VXBPajBkd1V1M0VhRUJvVUp0V2lfM3ladmswQ2hMWGlsUjY5RE1ERXR0LTBwN2JLYTBNUk1GRC1QbjktYTlkeTU5MlgteEpYeURwZmhaR2NjUUJMVWs5SGVnbm9uTEZ2dkdmSmVVdzctQ0I3clJZZFM1YnVqbkd1RG9kQlpXUjY?oc=5",
-   "tickers": [
-    "NVDA"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "NVDA",
-   "strength": 40,
-   "reason": "Trump reports China has not approved Nvidia chip purchases; bearish for Nvidia China revenue but macro trade-war signal, direction ambiguous",
-   "price_since": {
-    "ticker": "NVDA",
-    "pct": 2.6,
-    "base": 190.01,
-    "last": 195.04,
     "base_date": "2026-07-29",
     "last_date": "2026-07-30"
    }
