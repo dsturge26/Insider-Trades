@@ -1,7 +1,39 @@
 {
- "last_updated": "2026-08-01T00:08:11Z",
+ "last_updated": "2026-08-01T03:50:03Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-07-31T20:09:04Z",
+   "platform": "News",
+   "text": "Trump company imperiled as investigators zero in on 'depraved' scheme - newsbreak.com \u2014 Trump company imperiled as investigators zero in on 'depraved' scheme\u00a0\u00a0newsbreak.com",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQ2dRSFM1cFZVSDJ3NDVvN2c1dDZqcV9MZFZYazVNbEFUNXc4RElpXzl1andtRzc2RVVIX3FMODlWZE5idFlDVzJ0VjRpWmotZENvMTVweWl3bzhmS1lHckVuUlZTel9SZHlpaVdtamFLUl8yVnlUUmt2dUxxU191WnJVeXd4UzVGdEhuMmJQd0l4QUJiS1NqM0U3TWpHM2J3X3Nkd216UGV1WFFVZVNmYzNwZV9sUld1VXdFQUd2dTdCQlk?oc=5",
+   "tickers": [
+    "DJT"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "DJT",
+   "strength": 45,
+   "reason": "Legal trouble for Trump company creates bearish sentiment around Trump-affiliated assets"
+  },
+  {
+   "date": "2026-07-31T14:59:58Z",
+   "platform": "News",
+   "text": "Michael Burry Says He\u2019s Still Short Palantir After Stock Sees Recovery Following Trump\u2019s Endorsement - Stocktwits \u2014 Michael Burry Says He\u2019s Still Short Palantir After Stock Sees Recovery Following Trump\u2019s Endorsement\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUmNQdmN5STJOLU11dEhkR1U0ckhuS3JMcm1NUDNMY0dNZ1pQcGhFVmd2bkZqVHV5N3N4N01tY1gzZWZnTDlvbVRzTEtkQnZyUjlibXR1ZUJ5MnVNY0ZlYlVEUWtRMkdnRzBGcmxpdEJaQm55ZWlTWmZZUDBPNnhncTFlLWg3bjllZXNpeGpTVjd3b3dCZ2lWT1dPZE5RSlNKT01IVXlTa1c5YmFodzVEWkJtbHpvUHN1Ry00NWhxcVJpdw?oc=5",
+   "tickers": [
+    "PLTR"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "PLTR",
+   "strength": 35,
+   "reason": "Trump endorsement drove recovery but prominent short still disagrees; sentiment divided"
+  },
   {
    "date": "2026-07-31T13:14:58Z",
    "platform": "News",
@@ -238,7 +270,7 @@
     "ticker": "BTC-USD",
     "pct": -2.8,
     "base": 64725.31,
-    "last": 62880.66,
+    "last": 62944.11,
     "base_date": "2026-07-30",
     "last_date": "2026-08-01"
    }
@@ -358,7 +390,7 @@
     "ticker": "BTC-USD",
     "pct": -2.8,
     "base": 64725.31,
-    "last": 62880.66,
+    "last": 62944.11,
     "base_date": "2026-07-30",
     "last_date": "2026-08-01"
    }
@@ -382,7 +414,7 @@
     "ticker": "BTC-USD",
     "pct": -2.8,
     "base": 64725.31,
-    "last": 62892.28,
+    "last": 62944.11,
     "base_date": "2026-07-30",
     "last_date": "2026-08-01"
    }
@@ -904,30 +936,6 @@
     "pct": 5.4,
     "base": 9.85,
     "last": 10.38,
-    "base_date": "2026-07-29",
-    "last_date": "2026-07-30"
-   }
-  },
-  {
-   "date": "2026-07-29T17:29:11Z",
-   "platform": "News",
-   "text": "Michael Burry Says He\u2019s Still Short Palantir After Stock Sees Recovery Following Trump\u2019s Endorsement - Stocktwits \u2014 Michael Burry Says He\u2019s Still Short Palantir After Stock Sees Recovery Following Trump\u2019s Endorsement\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUmNQdmN5STJOLU11dEhkR1U0ckhuS3JMcm1NUDNMY0dNZ1pQcGhFVmd2bkZqVHV5N3N4N01tY1gzZWZnTDlvbVRzTEtkQnZyUjlibXR1ZUJ5MnVNY0ZlYlVEUWtRMkdnRzBGcmxpdEJaQm55ZWlTWmZZUDBPNnhncTFlLWg3bjllZXNpeGpTVjd3b3dCZ2lWT1dPZE5RSlNKT01IVXlTa1c5YmFodzVEWkJtbHpvUHN1Ry00NWhxcVJpdw?oc=5",
-   "tickers": [
-    "PLTR"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "PLTR",
-   "strength": 40,
-   "reason": "Trump endorsement bullish but analyst short conviction shows mixed sentiment",
-   "price_since": {
-    "ticker": "PLTR",
-    "pct": -0.6,
-    "base": 123.0,
-    "last": 122.26,
     "base_date": "2026-07-29",
     "last_date": "2026-07-30"
    }
