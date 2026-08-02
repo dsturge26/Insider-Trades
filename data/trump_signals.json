@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-01T23:13:40Z",
+ "last_updated": "2026-08-02T00:12:45Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -69,7 +69,7 @@
    "reason": "Trump Media profit scheme from policy-timed access could affect DJT valuation; regulatory risk unclear."
   },
   {
-   "date": "2026-08-01T09:39:11Z",
+   "date": "2026-08-01T11:39:05Z",
    "platform": "News",
    "text": "Trump stands to profit off US policy announcements by selling fast access to his social media posts - abcnews.com \u2014 Trump stands to profit off US policy announcements by selling fast access to his social media posts\u00a0\u00a0abcnews.com",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQY3JHZTltR2R5OFNuRzE5bGFRem1jU2VLN0JqOVJMcXJUU05qZWJaemNQb2VVTjA0ZkUyclZvVkptSWwtaE5hSXZlVHlGZzdCUlZmYkZRSTVsaFhWdFBaZmMteHh6YnR2WFhsVlA1VTdxazdXclJtR1lhREtwUzV0QlNxZzBMdUROeW1JM1NkY1JaVWstS3I4S0NqWWhFcGfSAaQBQVVfeXFMTTdOS0s5X3pnUVAtUUN3OHlKRVczTU9XR0dQZmVfQjRXUWJReDYzZTdhcnVwUGZGVThkTHNQY3RtQ3dCWXhMd2hCdzR3RVBqX2NBTmQ4UnJxZmgySVdsZkRieG1zbDY4YzZ4VElPa1I5S1dHa0pBTnBSUUdFMWVXV3RqcmxhZG1EYVZsR3liZmotTDRXU2xoUklfSkZpa3E1VUJscWU?oc=5",
@@ -79,10 +79,10 @@
    "classified": true,
    "is_market": true,
    "explicit": false,
-   "direction": "SELL",
+   "direction": "BUY",
    "primary_ticker": "DJT",
    "strength": 45,
-   "reason": "Truth Social pay-for-access scheme raises regulatory/reputational risk to Trump Media."
+   "reason": "Trump Media stands to profit from preferential Truth Social access sales; bullish for DJT but indirect and regulatory-risk laden"
   },
   {
    "date": "2026-07-31T20:09:04Z",
@@ -115,6 +115,22 @@
    "primary_ticker": "DJT",
    "strength": 65,
    "reason": "Trump company facing legal jeopardy implies reputational and financial risk to DJT stock."
+  },
+  {
+   "date": "2026-07-31T18:15:33Z",
+   "platform": "News",
+   "text": "Jamie Dimon Warns Inflation Ticking Up Is 'Not Good' \u2014 Praises Trump's 'One Big Beautiful Bill,' Deregulation Push To Stimulate Economic Growth - Stocktwits \u2014 Jamie Dimon Warns Inflation Ticking Up Is 'Not Good' \u2014 Praises Trump's 'One Big Beautiful Bill,' Deregulation Push To Stimulate Economic Growth\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNT0doNFRsMDktVlctR3pFZkNTc2g5WUNfanZvQktOVkdOTkRsQmZPdGZpSmVCQ3dlY1l1VXdQekRaNmg5VFhCQjAtLUd0czB5X0RGdTVPNEs5VUxOQ2Y0Vk9LU00wdDlKQ3hYekEySzRXVWlsajl3RHpESVV3SUdObTVlNlZ1UnJJSHVXb2thclRfaGlPLWNHY2JzczlfTWhKeUlBS3EyTlg3SXRpQ19mSWhGNnZkWjI0eWYydmNUNl9aTDB1Y2hzWFdMT05CanFLVkVZa2Zsc05MUQ?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "SPY",
+   "strength": 55,
+   "reason": "Dimon praises Trump deregulation and stimulus plans; broadly bullish for equities and bank stocks"
   },
   {
    "date": "2026-07-31T14:59:58Z",
@@ -398,11 +414,11 @@
    "reason": "Trump Truth Social warning on Iran war sparks crypto selloff fears",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": -3.1,
+    "pct": -2.8,
     "base": 64725.31,
-    "last": 62750.0,
+    "last": 62905.87,
     "base_date": "2026-07-30",
-    "last_date": "2026-08-01"
+    "last_date": "2026-08-02"
    }
   },
   {
@@ -518,11 +534,11 @@
    "reason": "Eric Trump bullish call on Bitcoin to $1M; crypto-friendly signal from Trump inner circle",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": -3.1,
+    "pct": -2.8,
     "base": 64725.31,
-    "last": 62750.0,
+    "last": 62905.87,
     "base_date": "2026-07-30",
-    "last_date": "2026-08-01"
+    "last_date": "2026-08-02"
    }
   },
   {
@@ -542,11 +558,11 @@
    "reason": "Eric Trump bullish crypto call; signals Trump-family backing for bitcoin upside",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": -3.1,
+    "pct": -2.8,
     "base": 64725.31,
-    "last": 62750.0,
+    "last": 62905.87,
     "base_date": "2026-07-30",
-    "last_date": "2026-08-01"
+    "last_date": "2026-08-02"
    }
   },
   {
@@ -1319,6 +1335,22 @@
    }
   },
   {
+   "date": "2026-07-29T07:00:00Z",
+   "platform": "News",
+   "text": "Cathie Wood vs Michael Burry: The $11 million Palantir bet that\u2019s splitting Wall Street - The Economic Times \u2014 Cathie Wood vs Michael Burry: The $11 million Palantir bet that\u2019s splitting Wall Street\u00a0\u00a0The Economic Times",
+   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOVzJPX3NCbTZEUjJkbkIzS3RTUkhDVUpvQUdyTWpnT1FvWkJ1T2FiS3RueThnTUJGUndBeGFZSVhXNHlnOUJvNFlIUUhDYXFsZ0VXMDhJOXAzRHJzRnJzWXZFdVg3aGVZRG5NbVVNOGRhbFZGN2psUFBobXNXVWMzeHlQTlpxcW9hNUdCaUU4OV96ZndnZ284QWFZNGE5WTJRNGNlQlh4VEFzV3h2bkc2M0MzbUJiYjJENFBYakRSb256Ymx4dXQyRmxWZDZtX0RGOUtkUXlQbktDT0oyREltc2xablFBaDdBUTVlenJLX1ZaQWvSAfgBQVVfeXFMTUJMWFpPaExIbm9YNXMtLTFGbHBfZ3o3T1JveWQ0VWlZaTJNUVI4MHZJY28ya0JYRjN5ZmpBRm9WaGdfZXVrLXJYNGtrUzZiSS1qN0swRHdWc0R1c2QtRnJuRVJoU0dHdWptZjBHYU1IUlp1RDBuSDV2dVc5NWNtVkctWkFoTGppdG82dHR1ZTB0U1d5WGhiLXVFeVl2cW4xX3NUd0ZxMnBDOGk4RGVvR1dlb2JDOGdWWDdyYVU5R0RoMjVPX2RNel9ycUtLRkkyZ01uV3NZaHB2eXNiMWJxeDU0TUlIQnNmbC1hMXl0YjVtalBSbnlGZ1Q?oc=5",
+   "tickers": [
+    "PLTR"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "PLTR",
+   "strength": 40,
+   "reason": "Wall Street divided on Palantir valuation; Cathie Wood bullish vs Burry short; no clear Trump-driven direction"
+  },
+  {
    "date": "2026-07-29T05:54:58Z",
    "platform": "News",
    "text": "IBM Stock Rallies On Trump Administration\u2019s $1B Grant: Analysts Say \u2018Big Blue\u2019 Could Become First US Quantum Foundry - stocktwits.com \u2014 IBM Stock Rallies On Trump Administration\u2019s $1B Grant: Analysts Say \u2018Big Blue\u2019 Could Become First US Quantum Foundry\u00a0\u00a0stocktwits.com",
@@ -1838,6 +1870,22 @@
    "primary_ticker": "BB",
    "strength": 35,
    "reason": "Retail speculation on BB stock price target; no Trump catalyst or explicit endorsement present"
+  },
+  {
+   "date": "2026-07-28T05:08:00Z",
+   "platform": "News",
+   "text": "Netanyahu praises first meeting with Trump since launching the Iran war - audacy.com \u2014 Netanyahu praises first meeting with Trump since launching the Iran war\u00a0\u00a0audacy.com",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZmg1eWVaR1NuVU9peVlIa3d1LXA0YVB0TW1iV05vZHUyZFhuNzJ5MEZmZTFFYnpxZmUzOVRwVlNlek5sQnhaNHRvSXlpVllpMkpEeGg5ZC1RV2syNGFINEpZVjZ6clpiZTBjX0F5c1g4LVhzNk9oZV9DbUNhN3dxVjFBenhIN3VHX1BfX2VwZUxUVWhRaTI3VE5ZYkhuaTNCdVJ3WWJ3?oc=5",
+   "tickers": [
+    "XLE"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "XLE",
+   "strength": 45,
+   "reason": "Trump meeting Netanyahu and Iran war escalation imply potential oil/energy geopolitical risk and military spending; energy and defense likely higher"
   },
   {
    "date": "2026-07-28T03:32:00Z",
@@ -2742,39 +2790,6 @@
    "primary_ticker": "QQQ",
    "strength": 35,
    "reason": "AI skeptic coalition forming; potential headwind for AI stocks but direction/impact unclear"
-  },
-  {
-   "date": "2026-07-25T09:23:39Z",
-   "platform": "News",
-   "text": "INTC Stock Rockets Toward Best Month Ever: Something More Than A Trump Pump Could Be Powering The Rally - Stocktwits \u2014 INTC Stock Rockets Toward Best Month Ever: Something More Than A Trump Pump Could Be Powering The Rally\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQT29KOURKeHprQ2xZbmpLUUc3MGRlTTE5Y1JHVXJ5TGhldk10eENQcmZLSzRWNDQyTmJFclFNUThmZ0tBRlZUQTZ3MGF1dlZwR0Q4aUtXUnZVQ2o1MjM3cFNpU2RrejRkd2E0OXBhOVNpdDdBdDVSSTR1c2M5NTZfYlg4NEFxODg3QWpMTXd0VVIzM3pZRS10OG5JWG9QUW52UjZvbXVvQ29uZ1lJb1NwbFljM1lBN1dreHdJZDdYZ1hKTjVidndnRWlJRnl5cnNpT2llcjVuSVltVDNzVFdHbmZYTEpua3JJVllOcXIxVmdfaThfeHRzVm9R?oc=5",
-   "tickers": [
-    "INTC"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "INTC",
-   "strength": 55,
-   "reason": "Intel rally linked to Trump administration support; policy tailwinds for semiconductors"
-  },
-  {
-   "date": "2026-07-24T17:06:10.365Z",
-   "platform": "Truth Social",
-   "text": "The European Union is at it again and, as usual, taking direct aim at GREAT American Companies! After having fined Apple, for no reason at all, 15 Billion Dollars, Meta, 3 Billion Dollars, Amazon 2.5 Billion Dollars, and many others, we have just been informed that Google, a truly advanced and amazing group, has been fined yet another 1 Billion Dollars, without explanation. This brings the Google total to over 18 Billion Dollars! This illegal and highly discriminatory practice started at these high levels during the first year of the Sleepy Joe Biden Administration, but it's not going to continue during the Trump Administration. The United States of America is not a \"PIGGYBANK\" for Europe, nor will we allow it to be! Please let this TRUTH serve to represent that we will immediately initiate a 301 Investigation into the practice of \"ROBBING\" American Companies and, in turn, the American Taxpayer. The European Union will pay a very big price for this illegal and highly unethical conduct, which I have consistently warned them about. The penalties will be entirely reversed and, we anticipate, a substantial TARIFF to be placed on them at the earliest possible moment. Stay tuned! President DONALD J. TRUMP",
-   "tickers": [
-    "SPY"
-   ],
-   "engagement": 22646,
-   "url": "https://truthsocial.com/@realDonaldTrump/116976043318889040",
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "SPY",
-   "strength": 35,
-   "reason": "Trump criticizes EU fines on US tech giants (Apple, Google, Meta, Amazon); rhetorical support but no concrete policy action implied"
   },
   {
    "curated": true,
