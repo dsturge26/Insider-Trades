@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-02T03:55:11Z",
+ "last_updated": "2026-08-02T06:32:52Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -83,6 +83,38 @@
    "primary_ticker": "DJT",
    "strength": 45,
    "reason": "Trump Media stands to profit from preferential Truth Social access sales; bullish for DJT but indirect and regulatory-risk laden"
+  },
+  {
+   "date": "2026-08-01T03:17:48Z",
+   "platform": "News",
+   "text": "Trump Weighs In On Elon Musk, OpenAI, Intel \u2014 And Takes Aim At The 'Hostile' Fed Board - Stocktwits \u2014 Trump Weighs In On Elon Musk, OpenAI, Intel \u2014 And Takes Aim At The 'Hostile' Fed Board\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSGdkS2RRUEt3TWdWdW8yWkZrN0NfU1lZak10VExCWGktUlg3enppTzF4UnpEVjg3YVZRR2JqRmFYdTVBQTdIcmJHYVFkX2ZtcHFiREF5UWZ3NExDNTJhTnd2VE5HM1A1WFZnVEpoY0Rfa1BYMVJrZ0lKNlhDdDBKVW41S0dCOTdncW5jWEhHRkZMU0lERlF4MlFyU0xxTXFNS25wMWVoa1c3SkliajdkUDUtTDdUWnZmUnI5aUhNeHJreTBacEE0Zk1WZVMzMXpfUDFIeU9GSEN2N2liM2c?oc=5",
+   "tickers": [
+    "SMH"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "SMH",
+   "strength": 35,
+   "reason": "Trump comments on Elon/OpenAI/Intel but no clear buy/sell signal; Fed criticism is macro-relevant but vague."
+  },
+  {
+   "date": "2026-07-31T23:13:21Z",
+   "platform": "News",
+   "text": "Why Is IBM Stock Surging Nearly 7% Higher In Overnight Trading? - Stocktwits \u2014 Why Is IBM Stock Surging Nearly 7% Higher In Overnight Trading?\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQk9pekpVQ1Q1NnRyVEdqWjdJN29OTFpDY3Rkc08wdG96eTdtMHRzVVRmUFItUlRQQS11WXBWZFpHWU50d3hoRHBENXM2eGhKMF9QZF9qb3ZQT2pXREgyU1pTMzBFU0JGZ0lOTk90VlU4YURiV3I1LWtPdTVzZDZRbUZGWEUySWxkZXg1a2dzYVVTVUpsOU1Yc25qQ2U4OE9tX1MtbEZFNDZDalpaS2JlbndvcnYyUU1Ca0E2cGxqMi02S2s?oc=5",
+   "tickers": [
+    "IBM"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "IBM",
+   "strength": 25,
+   "reason": "IBM surge noted but headline does not state Trump catalyst or reason; requires context."
   },
   {
    "date": "2026-07-31T20:09:04Z",
@@ -414,9 +446,9 @@
    "reason": "Trump Truth Social warning on Iran war sparks crypto selloff fears",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": -2.1,
+    "pct": -2.0,
     "base": 64725.31,
-    "last": 63373.87,
+    "last": 63404.51,
     "base_date": "2026-07-30",
     "last_date": "2026-08-02"
    }
@@ -534,9 +566,9 @@
    "reason": "Eric Trump bullish call on Bitcoin to $1M; crypto-friendly signal from Trump inner circle",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": -2.1,
+    "pct": -2.0,
     "base": 64725.31,
-    "last": 63373.87,
+    "last": 63404.51,
     "base_date": "2026-07-30",
     "last_date": "2026-08-02"
    }
@@ -558,9 +590,9 @@
    "reason": "Eric Trump bullish crypto call; signals Trump-family backing for bitcoin upside",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": -2.1,
+    "pct": -2.0,
     "base": 64725.31,
-    "last": 63373.87,
+    "last": 63404.51,
     "base_date": "2026-07-30",
     "last_date": "2026-08-02"
    }
@@ -1370,30 +1402,6 @@
     "pct": -2.1,
     "base": 226.44,
     "last": 221.6,
-    "base_date": "2026-07-29",
-    "last_date": "2026-07-30"
-   }
-  },
-  {
-   "date": "2026-07-29T05:47:02Z",
-   "platform": "News",
-   "text": "Why Is IBM Stock Surging Nearly 7% Higher In Overnight Trading? - Stocktwits \u2014 Why Is IBM Stock Surging Nearly 7% Higher In Overnight Trading?\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQk9pekpVQ1Q1NnRyVEdqWjdJN29OTFpDY3Rkc08wdG96eTdtMHRzVVRmUFItUlRQQS11WXBWZFpHWU50d3hoRHBENXM2eGhKMF9QZF9qb3ZQT2pXREgyU1pTMzBFU0JGZ0lOTk90VlU4YURiV3I1LWtPdTVzZDZRbUZGWEUySWxkZXg1a2dzYVVTVUpsOU1Yc25qQ2U4OE9tX1MtbEZFNDZDalpaS2JlbndvcnYyUU1Ca0E2cGxqMi02S2s?oc=5",
-   "tickers": [
-    "IBM"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "IBM",
-   "strength": 75,
-   "reason": "IBM stock surge tied to Trump's $1B quantum grant; continuation of bullish federal contract signal",
-   "price_since": {
-    "ticker": "IBM",
-    "pct": -2.0,
-    "base": 226.44,
-    "last": 221.82,
     "base_date": "2026-07-29",
     "last_date": "2026-07-30"
    }
@@ -2742,38 +2750,6 @@
    "primary_ticker": "SPY",
    "strength": 65,
    "reason": "Iranian blockade and 20% cargo tax restricts global trade flow, broad market headwind"
-  },
-  {
-   "date": "2026-07-25T16:35:21Z",
-   "platform": "News",
-   "text": "Is SOFI Stock \u2018One Of The Easiest\u2019 Longs? Why The Bull Case Is Still Intact According To 3 Analysts - Stocktwits \u2014 Is SOFI Stock \u2018One Of The Easiest\u2019 Longs? Why The Bull Case Is Still Intact According To 3 Analysts\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaEViT0pDUkg2UEo2R21neHhvcnFUTFFYWXcyN0xmaTctN1MwOTRLRFNoNEN3NEpYMDNmQTNYblRaSC1Bb0RjSGItYTQ2VExfdTVScEZ2MVZGZFozUXdEWmRyUlgzeGpqOHc1aG8ySUVvTmxST3pic0VZV1ZIZTFkc0lmZWs1YVhGOWN2OUVEbmlpeFhJVDBKYUZiVnBYN2cyYzJ3VzNFeHduZ2Z3Q3VaWnl0Snl4NkFCOUE?oc=5",
-   "tickers": [
-    "SOFI"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "SOFI",
-   "strength": 25,
-   "reason": "Analyst bull case for SOFI but no Trump-specific catalyst; market-relevant but directionally unclear"
-  },
-  {
-   "date": "2026-07-25T14:59:16Z",
-   "platform": "News",
-   "text": "DJT Stock Slips Overnight: Truth Social To Sell Wall Street 'Fastest' Access To Trump's Posts - Stocktwits \u2014 DJT Stock Slips Overnight: Truth Social To Sell Wall Street 'Fastest' Access To Trump's Posts\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPMlA4d1JobmFISDVhdUVNOG1KZ3lYTVJCYjc0U09RMGZtdEdnV19hV0tfRmpNeVpzUGNQTlpnajJkQTdPUUN6cGJmVU5rUkdUcE9uTHc1SFJTRXMwOHFodDdaZkltOWlEby1yUWFkS3VSb01rem1tQU0xY3ZBdmRGU3dZTkJ5SlZZZVJXZVkzQjV6N0JjaGIyV1dZRUVQUUFUazlFenhzTFlMT1dkakRBdXBuMVllZEIwdUszRlFkU2VVSHc3azEtcjd5NWkyQWdDMWFfTHhJeFVqMmtaeHdLeXBLeXRNZG1mTEE?oc=5",
-   "tickers": [
-    "DJT"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "DJT",
-   "strength": 35,
-   "reason": "Truth Social product announcement (faster access for Wall Street); relates to DJT business but direction ambiguous."
   },
   {
    "curated": true,
