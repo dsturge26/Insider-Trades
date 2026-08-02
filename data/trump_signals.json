@@ -1,7 +1,24 @@
 {
- "last_updated": "2026-08-02T16:12:52Z",
+ "last_updated": "2026-08-02T17:17:21Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-08-02T16:22:34.523Z",
+   "platform": "Truth Social",
+   "text": "https://www.energy.gov/articles/secretary-wright-directs-sable-offshore-restore-santa-ynez-unit-and-pipeline",
+   "tickers": [
+    "XLE"
+   ],
+   "engagement": 2084,
+   "url": "https://truthsocial.com/@realDonaldTrump/117026832680116899",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "XLE",
+   "strength": 65,
+   "reason": "federal directive to restore offshore oil unit and pipeline -> energy sector bullish"
+  },
   {
    "date": "2026-08-02T12:58:05.342Z",
    "platform": "Truth Social",
@@ -479,9 +496,9 @@
    "reason": "Trump Truth Social warning on Iran war sparks crypto selloff fears",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": -2.6,
+    "pct": -2.5,
     "base": 64725.31,
-    "last": 63042.0,
+    "last": 63123.46,
     "base_date": "2026-07-30",
     "last_date": "2026-08-02"
    }
@@ -599,9 +616,9 @@
    "reason": "Eric Trump bullish call on Bitcoin to $1M; crypto-friendly signal from Trump inner circle",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": -2.6,
+    "pct": -2.5,
     "base": 64725.31,
-    "last": 63042.0,
+    "last": 63123.46,
     "base_date": "2026-07-30",
     "last_date": "2026-08-02"
    }
@@ -623,9 +640,9 @@
    "reason": "Eric Trump bullish crypto call; signals Trump-family backing for bitcoin upside",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": -2.6,
+    "pct": -2.5,
     "base": 64725.31,
-    "last": 63042.0,
+    "last": 63123.46,
     "base_date": "2026-07-30",
     "last_date": "2026-08-02"
    }
@@ -2679,47 +2696,6 @@
    "primary_ticker": "XAR",
    "strength": 45,
    "reason": "War/munitions commentary suggests elevated defense spending demand."
-  },
-  {
-   "date": "2026-07-27T02:29:14Z",
-   "platform": "News",
-   "text": "QTEX Stock More Than Doubles Pre-Market: What\u2019s Driving The Rally? - Stocktwits \u2014 QTEX Stock More Than Doubles Pre-Market: What\u2019s Driving The Rally?\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaUZZZW9XYmZlWU5iUTdPcWpKMkpGZEVlaVducW9JZ3V0TG5MMTBydHNuekpxNUFFeUoxY3FtNjF5TVlyM25EN3d2a0FaTE81VUpHNnZKMGdFTFMyVHNPXzdUb0ktR2pFbHh2OXE1SVhsYWUyY3lTdWVjMXNEY2ZCUG9kUUZvQzUwRUtTQmZqbmV3QWJuclRlcmU2OA?oc=5",
-   "tickers": [
-    "QTEX"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "QTEX",
-   "strength": 45,
-   "reason": "Quantum stock surge on Trump admin tailwinds; sector momentum from government investment",
-   "price_since": {
-    "ticker": "QTEX",
-    "pct": -8.4,
-    "base": 0.95,
-    "last": 0.87,
-    "base_date": "2026-07-27",
-    "last_date": "2026-07-28"
-   }
-  },
-  {
-   "date": "2026-07-24T17:06:10.365Z",
-   "platform": "Truth Social",
-   "text": "The European Union is at it again and, as usual, taking direct aim at GREAT American Companies! After having fined Apple, for no reason at all, 15 Billion Dollars, Meta, 3 Billion Dollars, Amazon 2.5 Billion Dollars, and many others, we have just been informed that Google, a truly advanced and amazing group, has been fined yet another 1 Billion Dollars, without explanation. This brings the Google total to over 18 Billion Dollars! This illegal and highly discriminatory practice started at these high levels during the first year of the Sleepy Joe Biden Administration, but it's not going to continue during the Trump Administration. The United States of America is not a \"PIGGYBANK\" for Europe, nor will we allow it to be! Please let this TRUTH serve to represent that we will immediately initiate a 301 Investigation into the practice of \"ROBBING\" American Companies and, in turn, the American Taxpayer. The European Union will pay a very big price for this illegal and highly unethical conduct, which I have consistently warned them about. The penalties will be entirely reversed and, we anticipate, a substantial TARIFF to be placed on them at the earliest possible moment. Stay tuned! President DONALD J. TRUMP",
-   "tickers": [
-    "SPY"
-   ],
-   "engagement": 22646,
-   "url": "https://truthsocial.com/@realDonaldTrump/116976043318889040",
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "SPY",
-   "strength": 45,
-   "reason": "Trump signals opposition to EU fines on US tech giants (Apple, Meta, Amazon, Google); anti-regulatory stance supports US big tech and broad market."
   },
   {
    "curated": true,
