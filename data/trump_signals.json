@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-02T15:01:56Z",
+ "last_updated": "2026-08-02T16:12:52Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -481,7 +481,7 @@
     "ticker": "BTC-USD",
     "pct": -2.6,
     "base": 64725.31,
-    "last": 63022.47,
+    "last": 63042.0,
     "base_date": "2026-07-30",
     "last_date": "2026-08-02"
    }
@@ -601,7 +601,7 @@
     "ticker": "BTC-USD",
     "pct": -2.6,
     "base": 64725.31,
-    "last": 63022.47,
+    "last": 63042.0,
     "base_date": "2026-07-30",
     "last_date": "2026-08-02"
    }
@@ -625,7 +625,7 @@
     "ticker": "BTC-USD",
     "pct": -2.6,
     "base": 64725.31,
-    "last": 63022.47,
+    "last": 63042.0,
     "base_date": "2026-07-30",
     "last_date": "2026-08-02"
    }
@@ -2145,6 +2145,22 @@
    }
   },
   {
+   "date": "2026-07-27T22:00:00Z",
+   "platform": "News",
+   "text": "Trump praises GM and defends tariffs during Michigan visit - ttnews.com \u2014 Trump praises GM and defends tariffs during Michigan visit\u00a0\u00a0ttnews.com",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE13MEhxcjdBeFNibmxEOWFXdmoteUlSQWpXTkI5X0s0TGw2Wm1ZX0F1QUc4M2hSckJUQzM2TmdXTUk4dklDdi1DV081Wi14T2VrbVlNelMwVXYwd0pIN3Vlb1hrVVcwT1dI?oc=5",
+   "tickers": [
+    "GM"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "GM",
+   "strength": 65,
+   "reason": "Trump explicitly praises GM by name during Michigan visit; direct positive company endorsement."
+  },
+  {
    "date": "2026-07-27T19:08:06Z",
    "platform": "News",
    "text": "Century Aluminum CEO praises Trump tariffs for boosting US production, creating jobs - Fox Business \u2014 Century Aluminum CEO praises Trump tariffs for boosting US production, creating jobs\u00a0\u00a0Fox Business",
@@ -2687,6 +2703,23 @@
     "base_date": "2026-07-27",
     "last_date": "2026-07-28"
    }
+  },
+  {
+   "date": "2026-07-24T17:06:10.365Z",
+   "platform": "Truth Social",
+   "text": "The European Union is at it again and, as usual, taking direct aim at GREAT American Companies! After having fined Apple, for no reason at all, 15 Billion Dollars, Meta, 3 Billion Dollars, Amazon 2.5 Billion Dollars, and many others, we have just been informed that Google, a truly advanced and amazing group, has been fined yet another 1 Billion Dollars, without explanation. This brings the Google total to over 18 Billion Dollars! This illegal and highly discriminatory practice started at these high levels during the first year of the Sleepy Joe Biden Administration, but it's not going to continue during the Trump Administration. The United States of America is not a \"PIGGYBANK\" for Europe, nor will we allow it to be! Please let this TRUTH serve to represent that we will immediately initiate a 301 Investigation into the practice of \"ROBBING\" American Companies and, in turn, the American Taxpayer. The European Union will pay a very big price for this illegal and highly unethical conduct, which I have consistently warned them about. The penalties will be entirely reversed and, we anticipate, a substantial TARIFF to be placed on them at the earliest possible moment. Stay tuned! President DONALD J. TRUMP",
+   "tickers": [
+    "SPY"
+   ],
+   "engagement": 22646,
+   "url": "https://truthsocial.com/@realDonaldTrump/116976043318889040",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "SPY",
+   "strength": 45,
+   "reason": "Trump signals opposition to EU fines on US tech giants (Apple, Meta, Amazon, Google); anti-regulatory stance supports US big tech and broad market."
   },
   {
    "curated": true,
