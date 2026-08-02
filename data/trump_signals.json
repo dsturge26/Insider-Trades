@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-02T00:12:45Z",
+ "last_updated": "2026-08-02T03:55:11Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -414,9 +414,9 @@
    "reason": "Trump Truth Social warning on Iran war sparks crypto selloff fears",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": -2.8,
+    "pct": -2.1,
     "base": 64725.31,
-    "last": 62905.87,
+    "last": 63373.87,
     "base_date": "2026-07-30",
     "last_date": "2026-08-02"
    }
@@ -534,9 +534,9 @@
    "reason": "Eric Trump bullish call on Bitcoin to $1M; crypto-friendly signal from Trump inner circle",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": -2.8,
+    "pct": -2.1,
     "base": 64725.31,
-    "last": 62905.87,
+    "last": 63373.87,
     "base_date": "2026-07-30",
     "last_date": "2026-08-02"
    }
@@ -558,9 +558,9 @@
    "reason": "Eric Trump bullish crypto call; signals Trump-family backing for bitcoin upside",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": -2.8,
+    "pct": -2.1,
     "base": 64725.31,
-    "last": 62905.87,
+    "last": 63373.87,
     "base_date": "2026-07-30",
     "last_date": "2026-08-02"
    }
@@ -1808,6 +1808,22 @@
    }
   },
   {
+   "date": "2026-07-28T07:00:00Z",
+   "platform": "News",
+   "text": "Trump highlights economic record at Mack Trucks visit, endorses Pa. Republicans before midterms - WFMZ.com \u2014 Trump highlights economic record at Mack Trucks visit, endorses Pa. Republicans before midterms\u00a0\u00a0WFMZ.com",
+   "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxObmJSUFozeHZaMURlYjhqLXc3eGg3WFdkcVBIMHdrQkVQenhaMzIwclp1eElQWXhJakx1bGtMaFM3Ykt6c3BEMFlORmVNRW1uUHNuOWZELTFOTHdJN0FMbFhVRllpN1gzcWlHVmtHQjhMSGhmWnBzcWVPRTdLa1BNQzFLVmpRZElrNE1DOGp0MjYyUnZOdFNnQ0VpeGtsdjk1QlNWZ014OHpkTXU2QnEtOEdVdUxoTVBmTl9pa0ZVcE9nclA0T3FvYUYtd2VydmUtNjYtRjdSaDZ2MVQyc0R4MGFuY3p6a09USVZVM0EzR2tJMEdpWFdURWVhNlZTYlNrazZDNF9mNTg3X2NYMHpuWVRxRE9RSDBRVUhGMURUWUF6ejJWLThWV21jWGlCNDNKaXMwU2xNeDFPaURRcnUwUWJPdUV5R3Y0Mnc?oc=5",
+   "tickers": [
+    "PACCAR"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "PACCAR",
+   "strength": 40,
+   "reason": "Trump highlights economic record at Mack Trucks visit; modest bullish signal for truck/industrial sector"
+  },
+  {
    "date": "2026-07-28T05:43:16Z",
    "platform": "News",
    "text": "KEEL Stock Jumps Onto Retail Radar As Investors Eye First Data Center Lease Announcement - Stocktwits \u2014 KEEL Stock Jumps Onto Retail Radar As Investors Eye First Data Center Lease Announcement\u00a0\u00a0Stocktwits",
@@ -2504,6 +2520,22 @@
    }
   },
   {
+   "date": "2026-07-27T12:58:06Z",
+   "platform": "News",
+   "text": "The Latest: Trump praises his sweeping tariffs while in Michigan for a speech on the economy - WPLG Local 10 \u2014 The Latest: Trump praises his sweeping tariffs while in Michigan for a speech on the economy\u00a0\u00a0WPLG Local 10",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZ3ctcjlXWGQtOUlSUDMxeDE4OTJFNnlRTFZlcHFpTlVCX0paN0t3RE1LUndILVprRjBIXzB0UnpLOWJORF94S21iTEVVdmVlaXZSMk41MmFXa0E2Vm9ZMkE5d0lRRW0tamlJNVpKYkxzbllpNk1PVGQ3cWxDeHlwMmlzYnpHRGVzUE95TkU5X0phbHI2aXZ6TjBrbGF1TmNjWTZkRGw0ZG5mR3doR3c5SUVKVWROay1tOEFPU1hJMmg3SThtOU1jdV9BWFpqT0NUbXJFUG4ycUs?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "SPY",
+   "strength": 60,
+   "reason": "Trump praises sweeping tariffs; new tariff implementation typically bearish for broad market"
+  },
+  {
    "date": "2026-07-27T10:38:54Z",
    "platform": "News",
    "text": "China memory chipmaker CXMT's shares soar in a blockbuster share listing in Shanghai - Yahoo! Finance Canada \u2014 China memory chipmaker CXMT's shares soar in a blockbuster share listing in Shanghai\u00a0\u00a0Yahoo! Finance Canada",
@@ -2742,54 +2774,6 @@
    "primary_ticker": "DJT",
    "strength": 35,
    "reason": "Truth Social product announcement (faster access for Wall Street); relates to DJT business but direction ambiguous."
-  },
-  {
-   "date": "2026-07-25T14:21:13Z",
-   "platform": "News",
-   "text": "Trump Claims Iran Has Committed To No Nuclear Weapons \u2013 Says He\u2019s 'Getting Along Quite Well\u2019 With Supreme Leader Khamenei - Stocktwits \u2014 Trump Claims Iran Has Committed To No Nuclear Weapons \u2013 Says He\u2019s 'Getting Along Quite Well\u2019 With Supreme Leader Khamenei\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPb3pjU3JoNFBGcElfcTYxR2QzazdrcjRuUElqd1hIY0ZTVE1zY2RYNEFBcks5WUZrSk1MekI4TkkxUVhBZ0hVcHhWNnBzcVNZTHlxQzFTaUROaVdBclRUWEdtWnZhNkhUeDZMN3RNTmdLR18wQkZ6WmM1TGJRRkQ3Yk10SkU2d3NEcUIzVEIwNnAxM3ozcFJ6NklteTU0RzMxLVlpTVIyNGNMWDVNYlR5YzB0X3dSLUMydG5qZmVLUVVLQlJyV2ZhQkVmeWVTcXNT?oc=5",
-   "tickers": [
-    "XLE"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "XLE",
-   "strength": 40,
-   "reason": "Trump claims Iran de-escalation; reduces geopolitical premium on oil and energy; modest bullish for XLE"
-  },
-  {
-   "date": "2026-07-25T13:20:28Z",
-   "platform": "News",
-   "text": "Why Is DJT Stock Up Premarket Today? - Stocktwits \u2014 Why Is DJT Stock Up Premarket Today?\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSk1xMmNPNUVJMDcxTEpIMzdrR05NSTUyc3dqa3o4OTRQUHh0M09ZVjFJZ01GRlltSGtQTlBhWWVJaGVKSVh0UTROTVdIREhzbm85OHJHaGMxaTQyVDFuSlNTbWtPbEZSTXduY1pmTWRwR296cE5UcURMT09RekhNV1RiWkYxOVB3cHlUN1BETi0wdnhTQTlSUXBkRldfQ0tM?oc=5",
-   "tickers": [
-    "DJT"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "DJT",
-   "strength": 25,
-   "reason": "DJT stock premarket move but no specific Trump action or statement cited as catalyst"
-  },
-  {
-   "date": "2026-07-25T12:00:02Z",
-   "platform": "News",
-   "text": "Analysis: A powerful new coalition of AI skeptics is coalescing right in Trump's blind spot - CNBC \u2014 Analysis: A powerful new coalition of AI skeptics is coalescing right in Trump's blind spot\u00a0\u00a0CNBC",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE13ZHNTM1NUV0Jyd1ZlTmJpYWNFQmZ6dUd6N3JlVC1scVpSNUN2N0xRWUd0ZmVWSlFCZGd1MHZIYzBzeXQ2MjVGNzhtZ2RVVEVsUDBSV0Jwa0JieUY3SjJXcmp6S0R1WnZNLWNoZVRHYk5zdWZF0gF6QVVfeXFMUFY0a1BQZVRCWTMxWl9sNVg2U0JHaUlNTGNVb3g4VnJueXFMV195VWo0bWkxOFF6Z19ZanBFS3haTTM0ajJEYTZSMDN1Qno5ZUVXU2NyaVQ4Tm9pV1BIcDh6RHE0b3NQYUdHT2lmVldPRnlaU2IyelNNX0E?oc=5",
-   "tickers": [
-    "QQQ"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "QQQ",
-   "strength": 35,
-   "reason": "AI skeptic coalition forming; potential headwind for AI stocks but direction/impact unclear"
   },
   {
    "curated": true,
