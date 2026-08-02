@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-02T10:46:02Z",
+ "last_updated": "2026-08-02T12:02:47Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -446,9 +446,9 @@
    "reason": "Trump Truth Social warning on Iran war sparks crypto selloff fears",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": -2.4,
+    "pct": -2.6,
     "base": 64725.31,
-    "last": 63140.54,
+    "last": 63026.29,
     "base_date": "2026-07-30",
     "last_date": "2026-08-02"
    }
@@ -566,9 +566,9 @@
    "reason": "Eric Trump bullish call on Bitcoin to $1M; crypto-friendly signal from Trump inner circle",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": -2.4,
+    "pct": -2.6,
     "base": 64725.31,
-    "last": 63140.54,
+    "last": 63026.29,
     "base_date": "2026-07-30",
     "last_date": "2026-08-02"
    }
@@ -590,9 +590,9 @@
    "reason": "Eric Trump bullish crypto call; signals Trump-family backing for bitcoin upside",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": -2.4,
+    "pct": -2.6,
     "base": 64725.31,
-    "last": 63140.54,
+    "last": 63026.29,
     "base_date": "2026-07-30",
     "last_date": "2026-08-02"
    }
@@ -1912,6 +1912,22 @@
    "reason": "Trump meeting Netanyahu and Iran war escalation imply potential oil/energy geopolitical risk and military spending; energy and defense likely higher"
   },
   {
+   "date": "2026-07-28T05:08:00Z",
+   "platform": "News",
+   "text": "Netanyahu praises first meeting with Trump since launching the Iran war - Audacy \u2014 Netanyahu praises first meeting with Trump since launching the Iran war\u00a0\u00a0Audacy",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZmg1eWVaR1NuVU9peVlIa3d1LXA0YVB0TW1iV05vZHUyZFhuNzJ5MEZmZTFFYnpxZmUzOVRwVlNlek5sQnhaNHRvSXlpVllpMkpEeGg5ZC1RV2syNGFINEpZVjZ6clpiZTBjX0F5c1g4LVhzNk9oZV9DbUNhN3dxVjFBenhIN3VHX1BfX2VwZUxUVWhRaTI3VE5ZYkhuaTNCdVJ3WWJ3?oc=5",
+   "tickers": [
+    "XLE"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "XLE",
+   "strength": 35,
+   "reason": "Netanyahu Iran war mention amid Trump meeting; geopolitical risk to energy and defense"
+  },
+  {
    "date": "2026-07-28T03:32:00Z",
    "platform": "News",
    "text": "Gold falls on firm dollar, spotlight on Fed's rate decision - CNBC \u2014 Gold falls on firm dollar, spotlight on Fed's rate decision\u00a0\u00a0CNBC",
@@ -2214,6 +2230,22 @@
     "base_date": "2026-07-27",
     "last_date": "2026-07-29"
    }
+  },
+  {
+   "date": "2026-07-27T17:45:40Z",
+   "platform": "News",
+   "text": "Trump praises Fed Chair Warsh but criticizes ot... - pluang.com \u2014 Trump praises Fed Chair Warsh but criticizes ot...\u00a0\u00a0pluang.com",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdmM4aDViNFo3Y2hYak1FS3ZlblA3MkxhRE1VNkpHYlhuS0dEOGFabFdSVGxSR1FKdWdtTzVHczdid3h2ZmFZOVl1TUo4UzlsRHl6X3pnWmxDVDc1TjVxb3l1Z1Z3QldsTUVHNTdfMDNNMzFFWDJYU0RGRl9mNndRSjV5Q05MUFZzT0VmT0ozRE1UYXljdVR2cVZNeHlndWRSNkpMdQ?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "SPY",
+   "strength": 45,
+   "reason": "Fed Chair commentary is market-relevant but mixed praise/criticism; direction unclear"
   },
   {
    "date": "2026-07-27T17:32:22Z",
