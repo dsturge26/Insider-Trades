@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-03T21:10:39Z",
+ "last_updated": "2026-08-03T22:17:56Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -68,6 +68,22 @@
    "reason": "Trump praise of yen/currency intervention policy; macro uncertainty, two-sided"
   },
   {
+   "date": "2026-08-02T23:10:52Z",
+   "platform": "News",
+   "text": "Bessent Says More Steps Possible on Yen as Trump Praises Japan - Bloomberg.com \u2014 Bessent Says More Steps Possible on Yen as Trump Praises Japan\u00a0\u00a0Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQS1hGR29FT0FHVVk2ZlAyTU9kblZSNkZBOTg4TFcteGRzcFlKOEU4dUM3QXB3bklDajN6U2JlTWJkVFZkNmVuektoOUZCWEpIYXFYOUdQSUExZlR4Vk9mZWxFMnlSdExNaF9CRFJSLTBGU3VfVjBrUzhfS1l3NkZMYjJKdEVZZGxmUkVTY2F0X0tkZHRGd2RseG9BNElXajVEUlc4d3BWNkVLSnItLTJBTHpLMA?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "SPY",
+   "strength": 30,
+   "reason": "Currency intervention and Japan praise suggest forex/trade policy action; ambiguous equity impact"
+  },
+  {
    "date": "2026-08-02T22:43:15Z",
    "platform": "News",
    "text": "INTC Stock Rockets Toward Best Month Ever: Something More Than A Trump Pump Could Be Powering The Rally - Stocktwits \u2014 INTC Stock Rockets Toward Best Month Ever: Something More Than A Trump Pump Could Be Powering The Rally\u00a0\u00a0Stocktwits",
@@ -130,6 +146,22 @@
    "primary_ticker": "C",
    "strength": 55,
    "reason": "Trump explicitly praised Citi's M&A comeback, stock hit 52-week high; direct company endorsement"
+  },
+  {
+   "date": "2026-08-02T18:21:13Z",
+   "platform": "News",
+   "text": "Citi Stock Hits 52-Week High Before Fading As Trump Lauds Bank's 'Big Comeback' In M&A \u2014 But Full Picture Has Changed Now - Stocktwits \u2014 Citi Stock Hits 52-Week High Before Fading As Trump Lauds Bank's 'Big Comeback' In M&A \u2014 But Full Picture Has Changed Now\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWUpacUZnX014SV9nTnRZbVQ0dWhFQlZiV3ZjLV9nWExYUjVMdmlZdkdoNnFLcUhZUEhuZ1k3a2JENWJrYkhqdjJqNFlLaVlVYzBRb3dJOFA2Q1dESmhCTVJnQXJJaU15VjVFUFo2cWJDOEx3QTIzN0NSQjExRWhRZlNLaDFXeEZMQ0poajdjbGhmNlhPd1ZQSnVOSmNVa0pVTF94Z1RVdXlSU2JrR0N3X2dHSENINjZHNWdTYzB1dEZPaERK?oc=5",
+   "tickers": [
+    "C"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "C",
+   "strength": 50,
+   "reason": "Trump explicitly praises Citi's M&A comeback; direct positive call on bank stock"
   },
   {
    "date": "2026-08-02T16:22:34.523Z",
@@ -1277,30 +1309,6 @@
     "base": 741.69,
     "last": 747.03,
     "base_date": "2026-07-30",
-    "last_date": "2026-07-31"
-   }
-  },
-  {
-   "date": "2026-07-29T22:35:56Z",
-   "platform": "News",
-   "text": "Citi Stock Hits 52-Week High Before Fading As Trump Lauds Bank's 'Big Comeback' In M&A \u2014 But Full Picture Has Changed Now - Stocktwits \u2014 Citi Stock Hits 52-Week High Before Fading As Trump Lauds Bank's 'Big Comeback' In M&A \u2014 But Full Picture Has Changed Now\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWUpacUZnX014SV9nTnRZbVQ0dWhFQlZiV3ZjLV9nWExYUjVMdmlZdkdoNnFLcUhZUEhuZ1k3a2JENWJrYkhqdjJqNFlLaVlVYzBRb3dJOFA2Q1dESmhCTVJnQXJJaU15VjVFUFo2cWJDOEx3QTIzN0NSQjExRWhRZlNLaDFXeEZMQ0poajdjbGhmNlhPd1ZQSnVOSmNVa0pVTF94Z1RVdXlSU2JrR0N3X2dHSENINjZHNWdTYzB1dEZPaERK?oc=5",
-   "tickers": [
-    "C"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "C",
-   "strength": 75,
-   "reason": "Trump lauds Citi's 'big comeback' in M&A; direct praise of named bank.",
-   "price_since": {
-    "ticker": "C",
-    "pct": 4.2,
-    "base": 127.13,
-    "last": 132.45,
-    "base_date": "2026-07-29",
     "last_date": "2026-07-31"
    }
   },
