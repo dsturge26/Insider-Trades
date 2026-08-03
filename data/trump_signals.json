@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-08-03T07:26:20Z",
+ "last_updated": "2026-08-03T10:54:58Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-08-02T22:43:15Z",
+   "platform": "News",
+   "text": "INTC Stock Rockets Toward Best Month Ever: Something More Than A Trump Pump Could Be Powering The Rally - Stocktwits \u2014 INTC Stock Rockets Toward Best Month Ever: Something More Than A Trump Pump Could Be Powering The Rally\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQT29KOURKeHprQ2xZbmpLUUc3MGRlTTE5Y1JHVXJ5TGhldk10eENQcmZLSzRWNDQyTmJFclFNUThmZ0tBRlZUQTZ3MGF1dlZwR0Q4aUtXUnZVQ2o1MjM3cFNpU2RrejRkd2E0OXBhOVNpdDdBdDVSSTR1c2M5NTZfYlg4NEFxODg3QWpMTXd0VVIzM3pZRS10OG5JWG9QUW52UjZvbXVvQ29uZ1lJb1NwbFljM1lBN1dreHdJZDdYZ1hKTjVidndnRWlJRnl5cnNpT2llcjVuSVltVDNzVFdHbmZYTEpua3JJVllOcXIxVmdfaThfeHRzVm9R?oc=5",
+   "tickers": [
+    "INTC"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "INTC",
+   "strength": 45,
+   "reason": "Trump sentiment/pump toward Intel; headline notes rally may have deeper fundamentals"
+  },
   {
    "date": "2026-08-02T16:22:34.523Z",
    "platform": "Truth Social",
@@ -546,7 +562,7 @@
     "ticker": "BTC-USD",
     "pct": -3.3,
     "base": 64725.31,
-    "last": 62559.63,
+    "last": 62603.84,
     "base_date": "2026-07-30",
     "last_date": "2026-08-03"
    }
@@ -2688,22 +2704,6 @@
     "base_date": "2026-07-27",
     "last_date": "2026-07-29"
    }
-  },
-  {
-   "date": "2026-07-27T12:58:06Z",
-   "platform": "News",
-   "text": "The Latest: Trump praises his sweeping tariffs while in Michigan for a speech on the economy - WPLG Local 10 \u2014 The Latest: Trump praises his sweeping tariffs while in Michigan for a speech on the economy\u00a0\u00a0WPLG Local 10",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZ3ctcjlXWGQtOUlSUDMxeDE4OTJFNnlRTFZlcHFpTlVCX0paN0t3RE1LUndILVprRjBIXzB0UnpLOWJORF94S21iTEVVdmVlaXZSMk41MmFXa0E2Vm9ZMkE5d0lRRW0tamlJNVpKYkxzbllpNk1PVGQ3cWxDeHlwMmlzYnpHRGVzUE95TkU5X0phbHI2aXZ6TjBrbGF1TmNjWTZkRGw0ZG5mR3doR3c5SUVKVWROay1tOEFPU1hJMmg3SThtOU1jdV9BWFpqT0NUbXJFUG4ycUs?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "SPY",
-   "strength": 60,
-   "reason": "Trump praises sweeping tariffs; new tariff implementation typically bearish for broad market"
   },
   {
    "curated": true,
