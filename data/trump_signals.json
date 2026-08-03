@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-08-03T16:08:24Z",
+ "last_updated": "2026-08-03T18:05:02Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-08-03T16:50:00Z",
+   "platform": "News",
+   "text": "Trump Media (NASDAQ: DJT) Sells High-Speed Truth Social Feed To Trading Firms, Sparking Abuse Of Power Claims - foreignpolicyjournal.com \u2014 Trump Media (NASDAQ: DJT) Sells High-Speed Truth Social Feed To Trading Firms, Sparking Abuse Of Power Claims\u00a0\u00a0foreignpolicyjournal.com",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOclhHSnlyT2U2LWpyY0pXdzAybXRQRGtsbUtqZkJ3TmJUaHdUclhHRGh0TVN6X09feloyU2ppU19Kc1I4RlJxZ2sxWTl0MnlMV1B5enFEMUktUGZIUzM1SDN4RENVc3YwRWY2ay03OVZEeERpSUJhODJWNUJQTERDdU1Dc3VycHZoajdla3ZlZ0lSTGgyb1hoMFRpamF4MTBVTzRRZ2gzY2FXUEZITDAtMUVSVDE2UUxwR01xY3h2UzBuTm5XSEpMVGF3dVpRWEJsRVJUck5IbkQ3clh3Wk9sQTR0QXRQWFR6N1E?oc=5",
+   "tickers": [
+    "DJT"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "WATCH",
+   "primary_ticker": "DJT",
+   "strength": 45,
+   "reason": "Trump Media selling preferential feed access raises insider-trading concerns; bullish for DJT revenue but bearish for governance/regulation risk."
+  },
   {
    "date": "2026-08-03T13:50:42.242Z",
    "platform": "Truth Social",
@@ -18,6 +34,22 @@
    "primary_ticker": "XLE",
    "strength": 65,
    "reason": "Trump credits his administration for oil industry success; Venezuela re-entry bullish for oil majors; implies energy sector strength"
+  },
+  {
+   "date": "2026-08-03T12:29:35Z",
+   "platform": "News",
+   "text": "Falling oil prices help calm worries about inflation, and Wall Street rallies - New York Daily News \u2014 Falling oil prices help calm worries about inflation, and Wall Street rallies\u00a0\u00a0New York Daily News",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5STHBjZlhSUElkYWdnNDYyRFgzd2dHR2tYMWw3OXl2VXFEUmZqTVNtazg1Qm52TVZCd3RrV3FuSWI3ZlExUEhFakJTdDQ1RlVRQkRBbWZQRHkwTlJXaDlDLWsxYTdZQWkzd2dZMk55WFE0dHVodXZz?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "SPY",
+   "strength": 35,
+   "reason": "Falling oil prices reduce inflation fears; broad market positive signal."
   },
   {
    "date": "2026-08-02T22:43:15Z",
@@ -296,9 +328,9 @@
    "reason": "IBM surge noted but headline does not state Trump catalyst or reason; requires context.",
    "price_since": {
     "ticker": "IBM",
-    "pct": 1.6,
+    "pct": 1.8,
     "base": 223.65,
-    "last": 227.25,
+    "last": 227.7,
     "base_date": "2026-07-31",
     "last_date": "2026-08-03"
    }
@@ -320,9 +352,9 @@
    "reason": "Legal trouble for Trump company creates bearish sentiment around Trump-affiliated assets",
    "price_since": {
     "ticker": "DJT",
-    "pct": 1.6,
+    "pct": 4.1,
     "base": 9.86,
-    "last": 10.02,
+    "last": 10.26,
     "base_date": "2026-07-31",
     "last_date": "2026-08-03"
    }
@@ -344,9 +376,9 @@
    "reason": "Trump company facing legal jeopardy implies reputational and financial risk to DJT stock.",
    "price_since": {
     "ticker": "DJT",
-    "pct": 1.6,
+    "pct": 4.1,
     "base": 9.86,
-    "last": 10.02,
+    "last": 10.26,
     "base_date": "2026-07-31",
     "last_date": "2026-08-03"
    }
@@ -368,9 +400,9 @@
    "reason": "Dimon praises Trump deregulation and stimulus plans; broadly bullish for equities and bank stocks",
    "price_since": {
     "ticker": "SPY",
-    "pct": 1.2,
+    "pct": 1.5,
     "base": 747.03,
-    "last": 755.98,
+    "last": 758.15,
     "base_date": "2026-07-31",
     "last_date": "2026-08-03"
    }
@@ -392,9 +424,9 @@
    "reason": "Trump endorsement drove recovery but prominent short still disagrees; sentiment divided",
    "price_since": {
     "ticker": "PLTR",
-    "pct": 2.0,
+    "pct": 2.1,
     "base": 123.06,
-    "last": 125.49,
+    "last": 125.62,
     "base_date": "2026-07-31",
     "last_date": "2026-08-03"
    }
@@ -416,9 +448,9 @@
    "reason": "Trump endorsement boosted Palantir, but noted short-seller Burry maintains bearish view; mixed signal.",
    "price_since": {
     "ticker": "PLTR",
-    "pct": 2.0,
+    "pct": 2.1,
     "base": 123.06,
-    "last": 125.49,
+    "last": 125.62,
     "base_date": "2026-07-31",
     "last_date": "2026-08-03"
    }
@@ -440,9 +472,9 @@
    "reason": "General earnings season analysis with no Trump-specific catalyst",
    "price_since": {
     "ticker": "SPY",
-    "pct": 1.2,
+    "pct": 1.5,
     "base": 747.03,
-    "last": 755.98,
+    "last": 758.15,
     "base_date": "2026-07-31",
     "last_date": "2026-08-03"
    }
@@ -464,9 +496,9 @@
    "reason": "Commerce Dept equity demands on tech companies reduce valuations and impose regulatory burden on semiconductor/tech sector.",
    "price_since": {
     "ticker": "SMH",
-    "pct": 0.4,
+    "pct": 1.3,
     "base": 540.53,
-    "last": 542.61,
+    "last": 547.5,
     "base_date": "2026-07-31",
     "last_date": "2026-08-03"
    }
@@ -488,9 +520,9 @@
    "reason": "Trump hidden space stock bets imply defense/space sector bullish outlook",
    "price_since": {
     "ticker": "XAR",
-    "pct": 2.4,
+    "pct": 2.6,
     "base": 264.86,
-    "last": 271.2,
+    "last": 271.76,
     "base_date": "2026-07-31",
     "last_date": "2026-08-03"
    }
@@ -512,9 +544,9 @@
    "reason": "MSFT cloud strength and strong quarterly performance drive bullish sentiment",
    "price_since": {
     "ticker": "MSFT",
-    "pct": 4.8,
+    "pct": 5.3,
     "base": 464.72,
-    "last": 487.17,
+    "last": 489.21,
     "base_date": "2026-07-31",
     "last_date": "2026-08-03"
    }
@@ -536,9 +568,9 @@
    "reason": "Trump statement that China has not approved NVDA H200 purchases signals export headwind for Nvidia.",
    "price_since": {
     "ticker": "NVDA",
-    "pct": 3.1,
+    "pct": 3.8,
     "base": 200.75,
-    "last": 206.92,
+    "last": 208.37,
     "base_date": "2026-07-31",
     "last_date": "2026-08-03"
    }
@@ -560,9 +592,9 @@
    "reason": "Amazon earnings beat and AWS strength drive stock surge",
    "price_since": {
     "ticker": "AMZN",
-    "pct": 4.8,
+    "pct": 4.5,
     "base": 271.58,
-    "last": 284.73,
+    "last": 283.71,
     "base_date": "2026-07-31",
     "last_date": "2026-08-03"
    }
@@ -609,9 +641,9 @@
    "reason": "EXIM profitability and supply chain/reindustrialization focus suggests pro-business policy, but lacks specificity or near-term catalyst.",
    "price_since": {
     "ticker": "SPY",
-    "pct": 1.9,
+    "pct": 2.2,
     "base": 741.69,
-    "last": 756.01,
+    "last": 758.15,
     "base_date": "2026-07-30",
     "last_date": "2026-08-03"
    }
@@ -2742,30 +2774,6 @@
     "pct": 6.9,
     "base": 52.43,
     "last": 56.07,
-    "base_date": "2026-07-27",
-    "last_date": "2026-07-29"
-   }
-  },
-  {
-   "date": "2026-07-27T15:01:00Z",
-   "platform": "News",
-   "text": "Cracker Barrel CEO steps down after company turmoil over \u2018woke\u2019 rebrand that provoked Trump\u2019s ire - The Independent \u2014 Cracker Barrel CEO steps down after company turmoil over \u2018woke\u2019 rebrand that provoked Trump\u2019s ire\u00a0\u00a0The Independent",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUVpNY2NXOGVEeTBXQkJwLURIbnh4OFJURHRXcDZGaGRSMnNBaHA1VnpkR2pSM3VkUkw2MEVrYTdyeVRfSHFocmtfc2hCbTl1NWZrZ0Uxa3QzYjN0MlJqREpMcGQ2OUo0eDNJR2xQVlhqemlUNVVaQ2V5S3o0Z1RwLWh6TlZoUUlMVnpsVjFNbko2bTg?oc=5",
-   "tickers": [
-    "CBRL"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "CBRL",
-   "strength": 45,
-   "reason": "CEO departure + Trump opposition to 'woke' rebrand signals potential strategic shift; stock may recover",
-   "price_since": {
-    "ticker": "CBRL",
-    "pct": 6.3,
-    "base": 52.43,
-    "last": 55.73,
     "base_date": "2026-07-27",
     "last_date": "2026-07-29"
    }
