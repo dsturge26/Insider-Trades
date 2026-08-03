@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-03T03:54:25Z",
+ "last_updated": "2026-08-03T07:26:20Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -67,6 +67,22 @@
    "primary_ticker": "IBM",
    "strength": 75,
    "reason": "$1B federal grant to IBM for quantum foundry; direct federal contract to named public company"
+  },
+  {
+   "date": "2026-08-02T01:07:10Z",
+   "platform": "News",
+   "text": "Meta's AI Workforce Academy Wins Praise From Former Trump Adviser, Ex-Facebook Exec: 'Hope More Companies Follow Suit' - Stocktwits \u2014 Meta's AI Workforce Academy Wins Praise From Former Trump Adviser, Ex-Facebook Exec: 'Hope More Companies Follow Suit'\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQU0E4QWNsTjlROXIwRTIyVHZyMTlHNHhxUndrNjlLbUxOajU2MEZIRFhHeE9xd2ZRdm9IQVMzdHlEMmU4NVBwckpvbEkyWURKRXFHMlR4Z0VWVk5qMGstTFNtVTZSNWpqVS0wWkZ3WTdEaktTd3FMUHlTRjc2M3UwZlpDY1NjeG5FZ2s2bDJVeGJiVjgwWXIzdVVOS0FhQ2E0WjNUMDIzY1ppOTdJNTJkanBEMjFzRUVzb2RBS1czdXZXVWoyb0xLcl9ycl81NG1zd0lNT0NRUmVMZVgyblRkTVlXU1ZUTENRdkJBQzdhU0VuSG9HN19jeFNna0NRVlVUN2E1blhrY0U5Zw?oc=5",
+   "tickers": [
+    "META"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "META",
+   "strength": 35,
+   "reason": "Praise for Meta's AI academy from former Trump adviser; positive sentiment but indirect and non-explicit"
   },
   {
    "date": "2026-08-01T18:32:14.264Z",
@@ -528,9 +544,9 @@
    "reason": "Trump Truth Social warning on Iran war sparks crypto selloff fears",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": -2.9,
+    "pct": -3.3,
     "base": 64725.31,
-    "last": 62848.86,
+    "last": 62559.63,
     "base_date": "2026-07-30",
     "last_date": "2026-08-03"
    }
@@ -2688,62 +2704,6 @@
    "primary_ticker": "SPY",
    "strength": 60,
    "reason": "Trump praises sweeping tariffs; new tariff implementation typically bearish for broad market"
-  },
-  {
-   "date": "2026-07-27T10:38:54Z",
-   "platform": "News",
-   "text": "China memory chipmaker CXMT's shares soar in a blockbuster share listing in Shanghai - Yahoo! Finance Canada \u2014 China memory chipmaker CXMT's shares soar in a blockbuster share listing in Shanghai\u00a0\u00a0Yahoo! Finance Canada",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRXB0dVVNOXAxZmZsME9pSklxSHl3V0hsdE1yMXk3STVyNzhXbXBLMFlWWVhfS2xseVNuVGlOZ0s1bGtZSDF5TTU4NkdZMTI1a29haFpVODFVbWJZVl9XUVA2QXVJejFZT3ZkVjg3RnhkQjl2TEtPcm8wVmpSczdKcDhzUVJudlFadjlF?oc=5",
-   "tickers": [
-    "FXI"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "FXI",
-   "strength": 40,
-   "reason": "China chipmaker IPO; reflects broader China tech competition and U.S.-China trade tensions.",
-   "price_since": {
-    "ticker": "FXI",
-    "pct": 1.0,
-    "base": 35.28,
-    "last": 35.65,
-    "base_date": "2026-07-27",
-    "last_date": "2026-07-28"
-   }
-  },
-  {
-   "date": "2026-07-27T05:37:00Z",
-   "platform": "News",
-   "text": "Chinese chipmaker CXMT soars 500% on debut as AI fuels shortages - Yahoo Finance UK \u2014 Chinese chipmaker CXMT soars 500% on debut as AI fuels shortages\u00a0\u00a0Yahoo Finance UK",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNN1lra2MybkF1enIxS2w2akFjYmtZQTQtWTJudVJKOTc3VzFhWXBUczlldl8wUnRjNHB1S3Nfdi1ET1FJVTVtM1dkU2hqRWlIdy1haTVBU2tjRnV2eFpwT0FoZ182MFZJUlVPZlI3X0E5cHc0R096ODE3QW1weFpVRWh5VVFENXlhQ0E?oc=5",
-   "tickers": [
-    "SMH"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "SMH",
-   "strength": 35,
-   "reason": "Chinese chipmaker debut raises competition concerns for US chip sector; mixed implications"
-  },
-  {
-   "date": "2026-07-27T04:01:13Z",
-   "platform": "News",
-   "text": "\u2018Far more than we need\u2019: Trump on concerns over US's shrinking munition stock amid war with Iran | World News - Hindustan Times \u2014 \u2018Far more than we need\u2019: Trump on concerns over US's shrinking munition stock amid war with Iran | World News\u00a0\u00a0Hindustan Times",
-   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPSlhCczUyTnJ3ejhwaXVfcmRINXVJckgyYm5wWGdxbTZFU3Y2WjZJakpfQWZSZmpwdWZpTjNDckhPQnJaa2x1MDU1ODF1UnhKTVJuR283Wnp4VkxEOFUzdl9ENG93ZnR0N011LUhNTWpVOTItdnlIcW41emRnekd0SVRiMlBmWVEwWFpNdVhJb2FmcUFtNmlYamx2dG91QU1GY1lPSjFnNlFoTHQwUmVhNVdENVVkOExZMGFXRy10WDhuTkdzSUJyOUVyNWVJWlZNVWlJeTE1QjNlZy1IdWRndGtCejhkU0tTbzQycU96WdIB9AFBVV95cUxQYWFQR2ZDZG02SHZmZlVMbTdmUkYzZFNFRG1QMUJZQ0MzRHlVS2tGamJRbnZYYUVMSlI2VUw4bU9uSEsyVTl1S0p3VEQ5LWJTanNkU1RSU3R0Q2Y2X0tYMm1ldnd2S0dSXzVJY1ZnTGNEWUI5Yk8yZVVjcXV5VGhXa2NmVmhqZGF1dy0tN21zZUhjeWJXdDN5U0gwTDNHNDNiSFNaOEFzVG5ENXUxVzY3bEFhTG50S0U2T1p4OE01dDVlQ08tZW14RHdpUVFKUU1HLUJEVzhkZzV6Q3I0b1RxRkxiLVdHOFF0bzlvRUF5SDg1cnFa?oc=5",
-   "tickers": [
-    "XAR"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "XAR",
-   "strength": 45,
-   "reason": "War/munitions commentary suggests elevated defense spending demand."
   },
   {
    "curated": true,
