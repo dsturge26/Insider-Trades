@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-03T19:57:47Z",
+ "last_updated": "2026-08-03T21:10:39Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -98,6 +98,38 @@
    "primary_ticker": "INTC",
    "strength": 50,
    "reason": "Intel rally attributed partly to Trump support; chip sector tailwind"
+  },
+  {
+   "date": "2026-08-02T20:13:41Z",
+   "platform": "News",
+   "text": "Michael Burry Says He\u2019s Still Short Palantir After Stock Sees Recovery Following Trump\u2019s Endorsement - stocktwits.com \u2014 Michael Burry Says He\u2019s Still Short Palantir After Stock Sees Recovery Following Trump\u2019s Endorsement\u00a0\u00a0stocktwits.com",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUmNQdmN5STJOLU11dEhkR1U0ckhuS3JMcm1NUDNMY0dNZ1pQcGhFVmd2bkZqVHV5N3N4N01tY1gzZWZnTDlvbVRzTEtkQnZyUjlibXR1ZUJ5MnVNY0ZlYlVEUWtRMkdnRzBGcmxpdEJaQm55ZWlTWmZZUDBPNnhncTFlLWg3bjllZXNpeGpTVjd3b3dCZ2lWT1dPZE5RSlNKT01IVXlTa1c5YmFodzVEWkJtbHpvUHN1Ry00NWhxcVJpdw?oc=5",
+   "tickers": [
+    "PLTR"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "PLTR",
+   "strength": 40,
+   "reason": "Trump endorsed Palantir, stock recovered; but prominent short suggests contrarian view and uncertain sustainability"
+  },
+  {
+   "date": "2026-08-02T18:21:13Z",
+   "platform": "News",
+   "text": "Citi Stock Hits 52-Week High Before Fading As Trump Lauds Bank's 'Big Comeback' In M&A \u2014 But Full Picture Has Changed Now - stocktwits.com \u2014 Citi Stock Hits 52-Week High Before Fading As Trump Lauds Bank's 'Big Comeback' In M&A \u2014 But Full Picture Has Changed Now\u00a0\u00a0stocktwits.com",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWUpacUZnX014SV9nTnRZbVQ0dWhFQlZiV3ZjLV9nWExYUjVMdmlZdkdoNnFLcUhZUEhuZ1k3a2JENWJrYkhqdjJqNFlLaVlVYzBRb3dJOFA2Q1dESmhCTVJnQXJJaU15VjVFUFo2cWJDOEx3QTIzN0NSQjExRWhRZlNLaDFXeEZMQ0poajdjbGhmNlhPd1ZQSnVOSmNVa0pVTF94Z1RVdXlSU2JrR0N3X2dHSENINjZHNWdTYzB1dEZPaERK?oc=5",
+   "tickers": [
+    "C"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "C",
+   "strength": 55,
+   "reason": "Trump explicitly praised Citi's M&A comeback, stock hit 52-week high; direct company endorsement"
   },
   {
    "date": "2026-08-02T16:22:34.523Z",
@@ -212,6 +244,22 @@
    "primary_ticker": "META",
    "strength": 30,
    "reason": "Meta AI Workforce Academy praised by Trump ally; positive sentiment, but vague endorsement"
+  },
+  {
+   "date": "2026-08-01T23:06:05Z",
+   "platform": "News",
+   "text": "Trump stands to profit off US policy announcements by selling fast access to his social media posts - KTVQ \u2014 Trump stands to profit off US policy announcements by selling fast access to his social media posts\u00a0\u00a0KTVQ",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxObUZlRkhNdEV2bWNoVFcwaTFNa0YzNml0ZEZBWHNQZ1QzaW9ETmFyQ3JYVnF6ZkMzMTNjQWhUQ25DQUFYS3VFT1pDWG5LUEp6Q2EzaEtlMHU3aU9PUWlJTUx2Zk90XzVidjJUamlSMjFpc0VNaFZuU3NwQ3FJdVlyM0ZJV3g4dTVHQjdGVGpMRGpZdjZSc1cyQ3g1TEhPYWQydlF0R3RsSE5pYXpubUNXTkNnd0Jyb2JTd3hHU1k5NTBUYWZBRFJobkNKbDhQSnRBVEhUNEhOb1ZHbUU?oc=5",
+   "tickers": [
+    "DJT"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "SELL",
+   "primary_ticker": "DJT",
+   "strength": 65,
+   "reason": "Trump profiting off early policy access to Truth Social raises serious conflict-of-interest and regulatory risk to the platform"
   },
   {
    "date": "2026-08-01T18:32:14.264Z",
@@ -408,9 +456,9 @@
    "reason": "IBM surge noted but headline does not state Trump catalyst or reason; requires context.",
    "price_since": {
     "ticker": "IBM",
-    "pct": 1.3,
+    "pct": 1.2,
     "base": 223.65,
-    "last": 226.52,
+    "last": 226.31,
     "base_date": "2026-07-31",
     "last_date": "2026-08-03"
    }
@@ -432,9 +480,9 @@
    "reason": "IBM overnight surge attributed to Trump-linked catalyst; uncertain driver but market-reactive",
    "price_since": {
     "ticker": "IBM",
-    "pct": 1.3,
+    "pct": 1.2,
     "base": 223.65,
-    "last": 226.52,
+    "last": 226.31,
     "base_date": "2026-07-31",
     "last_date": "2026-08-03"
    }
@@ -456,9 +504,9 @@
    "reason": "Legal trouble for Trump company creates bearish sentiment around Trump-affiliated assets",
    "price_since": {
     "ticker": "DJT",
-    "pct": 1.6,
+    "pct": 1.5,
     "base": 9.86,
-    "last": 10.02,
+    "last": 10.01,
     "base_date": "2026-07-31",
     "last_date": "2026-08-03"
    }
@@ -480,9 +528,9 @@
    "reason": "Trump company facing legal jeopardy implies reputational and financial risk to DJT stock.",
    "price_since": {
     "ticker": "DJT",
-    "pct": 1.6,
+    "pct": 1.5,
     "base": 9.86,
-    "last": 10.02,
+    "last": 10.01,
     "base_date": "2026-07-31",
     "last_date": "2026-08-03"
    }
@@ -526,30 +574,6 @@
    "primary_ticker": "PLTR",
    "strength": 35,
    "reason": "Trump endorsement drove recovery but prominent short still disagrees; sentiment divided",
-   "price_since": {
-    "ticker": "PLTR",
-    "pct": 2.2,
-    "base": 123.06,
-    "last": 125.71,
-    "base_date": "2026-07-31",
-    "last_date": "2026-08-03"
-   }
-  },
-  {
-   "date": "2026-07-31T14:59:58Z",
-   "platform": "News",
-   "text": "Michael Burry Says He\u2019s Still Short Palantir After Stock Sees Recovery Following Trump\u2019s Endorsement - stocktwits.com \u2014 Michael Burry Says He\u2019s Still Short Palantir After Stock Sees Recovery Following Trump\u2019s Endorsement\u00a0\u00a0stocktwits.com",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUmNQdmN5STJOLU11dEhkR1U0ckhuS3JMcm1NUDNMY0dNZ1pQcGhFVmd2bkZqVHV5N3N4N01tY1gzZWZnTDlvbVRzTEtkQnZyUjlibXR1ZUJ5MnVNY0ZlYlVEUWtRMkdnRzBGcmxpdEJaQm55ZWlTWmZZUDBPNnhncTFlLWg3bjllZXNpeGpTVjd3b3dCZ2lWT1dPZE5RSlNKT01IVXlTa1c5YmFodzVEWkJtbHpvUHN1Ry00NWhxcVJpdw?oc=5",
-   "tickers": [
-    "PLTR"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "PLTR",
-   "strength": 35,
-   "reason": "Trump endorsement boosted Palantir, but noted short-seller Burry maintains bearish view; mixed signal.",
    "price_since": {
     "ticker": "PLTR",
     "pct": 2.2,
@@ -2638,214 +2662,6 @@
     "pct": 0.5,
     "base": 58.36,
     "last": 58.65,
-    "base_date": "2026-07-27",
-    "last_date": "2026-07-29"
-   }
-  },
-  {
-   "date": "2026-07-27T18:57:41Z",
-   "platform": "News",
-   "text": "Trump on F-35 Sale to Turkey: 'Nobody Tells Me What We Should Be Selling,' Calls Turkey 'A Great Ally' - scanx.trade \u2014 Trump on F-35 Sale to Turkey: 'Nobody Tells Me What We Should Be Selling,' Calls Turkey 'A Great Ally'\u00a0\u00a0scanx.trade",
-   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQ2VqeEgxay1WdXhia0NwUlNieFo4OEZsbXdQaXlpYUxoWFdPYi1JXzlRMXQwSnhsNTFna29wNHpydVBPbG9IVVZ0VGNEeDh2X0E5Y25jVnBvbTlSZFdQRVFnMnNfcVVURVVJaVlaZlNWUkpHRFQ4cXVtQnhHMERMT3VsSHZHblhRZXpEbEkzLXg4SF9TTkhyNEtuSDA4ZDBESnEtb1pQNXNmdF9oMGlVNTBCVWZUN2pldFdpbzAzLWk4VFk5YkQ0WU9NbmE5NENqdnVWUUJtc2laeUpFd2ZtUTFjNTM?oc=5",
-   "tickers": [
-    "XAR"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "XAR",
-   "strength": 50,
-   "reason": "F-35 sale approval to Turkey signals defense spending/military contractor support",
-   "price_since": {
-    "ticker": "XAR",
-    "pct": -5.5,
-    "base": 273.07,
-    "last": 258.11,
-    "base_date": "2026-07-27",
-    "last_date": "2026-07-29"
-   }
-  },
-  {
-   "date": "2026-07-27T18:39:37Z",
-   "platform": "News",
-   "text": "Trump Confirms Meetings With Iran, Says Chance of Deal Exists; Praises Hegseth - scanx.trade \u2014 Trump Confirms Meetings With Iran, Says Chance of Deal Exists; Praises Hegseth\u00a0\u00a0scanx.trade",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTzRRaEtGQXBNa2ZSdm5sTmZLWGpCVUg4ZERLM1MxVE5JWTBtZnNXaGpUWXJRaHVqZ0F2aWEwOWk3anRQc09fUHROR004cjhRb1BQOW0zVjlYVDJqaWRYaVhmX0Q2UjZwRjU5WThLbGhJa0p3enRJS21zUHZYVGE3ampvbUlaYXlTRnc2SDZ1XzVmNGV6Wi1qNzlkaDlnUFBxTEd0U1FocWJ4N25jeXV4QmRjdnZlMHoxZjlOakpZa19VZHo4dVpXUEFn?oc=5",
-   "tickers": [
-    "XAR"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "XAR",
-   "strength": 45,
-   "reason": "Iran deal possibility creates ambiguity; could reduce defense spending (bearish XAR) or spur military readiness spending (bullish XAR).",
-   "price_since": {
-    "ticker": "XAR",
-    "pct": -5.5,
-    "base": 273.07,
-    "last": 258.11,
-    "base_date": "2026-07-27",
-    "last_date": "2026-07-29"
-   }
-  },
-  {
-   "date": "2026-07-27T17:45:40Z",
-   "platform": "News",
-   "text": "Trump praises Fed Chair Warsh but criticizes ot... - Pluang \u2014 Trump praises Fed Chair Warsh but criticizes ot...\u00a0\u00a0Pluang",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdmM4aDViNFo3Y2hYak1FS3ZlblA3MkxhRE1VNkpHYlhuS0dEOGFabFdSVGxSR1FKdWdtTzVHczdid3h2ZmFZOVl1TUo4UzlsRHl6X3pnWmxDVDc1TjVxb3l1Z1Z3QldsTUVHNTdfMDNNMzFFWDJYU0RGRl9mNndRSjV5Q05MUFZzT0VmT0ozRE1UYXljdVR2cVZNeHlndWRSNkpMdQ?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "SPY",
-   "strength": 35,
-   "reason": "Fed Chair choice signals monetary policy direction; praise/criticism is ambiguous for near-term market move",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": -1.3,
-    "base": 739.09,
-    "last": 729.46,
-    "base_date": "2026-07-27",
-    "last_date": "2026-07-29"
-   }
-  },
-  {
-   "date": "2026-07-27T17:45:40Z",
-   "platform": "News",
-   "text": "Trump praises Fed Chair Warsh but criticizes ot... - pluang.com \u2014 Trump praises Fed Chair Warsh but criticizes ot...\u00a0\u00a0pluang.com",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdmM4aDViNFo3Y2hYak1FS3ZlblA3MkxhRE1VNkpHYlhuS0dEOGFabFdSVGxSR1FKdWdtTzVHczdid3h2ZmFZOVl1TUo4UzlsRHl6X3pnWmxDVDc1TjVxb3l1Z1Z3QldsTUVHNTdfMDNNMzFFWDJYU0RGRl9mNndRSjV5Q05MUFZzT0VmT0ozRE1UYXljdVR2cVZNeHlndWRSNkpMdQ?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "SPY",
-   "strength": 45,
-   "reason": "Fed Chair commentary is market-relevant but mixed praise/criticism; direction unclear"
-  },
-  {
-   "date": "2026-07-27T17:32:22Z",
-   "platform": "News",
-   "text": "Trump Mentions Palantir, but Who Is Alex Karp? - ascendants.in \u2014 Trump Mentions Palantir, but Who Is Alex Karp?\u00a0\u00a0ascendants.in",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBqS1JlZVdDY0hfSTVKWTJKRnBmX1NMSmxmNEFGZzIydHhDVXFSYWxDMWZjLWlJTVBUbXJnZVlPLVhiWVRUT09RYzZibjVFOG9vOTA0cUhFRlFsMndjLTdfWmxqQ3g0SEtRY09mME9LMnlIN28yREJz?oc=5",
-   "tickers": [
-    "PLTR"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "PLTR",
-   "strength": 55,
-   "reason": "Trump mentions Palantir by name; CEO focus suggests positive but unclear if explicit endorsement or neutral mention",
-   "price_since": {
-    "ticker": "PLTR",
-    "pct": -6.5,
-    "base": 131.53,
-    "last": 123.0,
-    "base_date": "2026-07-27",
-    "last_date": "2026-07-29"
-   }
-  },
-  {
-   "date": "2026-07-27T17:26:41Z",
-   "platform": "News",
-   "text": "CMCSA Stock Gains Over 3% \u2014 NBCUniversal Teams Up With Alphabet To Stream Peacock On YouTube Premium - Stocktwits \u2014 CMCSA Stock Gains Over 3% \u2014 NBCUniversal Teams Up With Alphabet To Stream Peacock On YouTube Premium\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNaVNsMEl6bFRsVkw0clR3QjY4VGVUZDlMWjU3ZW5MT19UZWRwNnJtR1lGVUVOemRGSzdmUGtUWnlDUXpMeGRRVFhaUnVxMFJnZ2VVNGJISl84Tlg5U0N4XzVYbkVJNk15YTZkOGpaRVZOVVZDTFFRY2dOZGpwZzlZN2lKeFFTTHplV1BoYnpMNW82M0lsM2lZMzM1TUpqQllDUF9yZEZuV3pjY2I3bzVQb2VmYXBybXU3ZWNTSmdLUHgteVVuSUZobURxMjZ5U081SkxHREtaV2QzSGc1WmVRdmxnNVd6NUR4WlV5bS10aUczN0FPMHRRQXFPeXhfS1U?oc=5",
-   "tickers": [
-    "CMCSA"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "CMCSA",
-   "strength": 55,
-   "reason": "Peacock/YouTube premium partnership expands streaming distribution and ad reach for Comcast subsidiary.",
-   "price_since": {
-    "ticker": "CMCSA",
-    "pct": 7.9,
-    "base": 22.8,
-    "last": 24.61,
-    "base_date": "2026-07-27",
-    "last_date": "2026-07-29"
-   }
-  },
-  {
-   "date": "2026-07-27T17:17:11Z",
-   "platform": "News",
-   "text": "Trump Warns Iran Of 'Very Strong Military Action' If Diplomatic Talks Collapse, Says Report - Stocktwits \u2014 Trump Warns Iran Of 'Very Strong Military Action' If Diplomatic Talks Collapse, Says Report\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeWNKZzNwMU05NmQzMFM4Q3FKX0kxUld4TjEzdkxYaXNScnFTSHB2TEVicXdXMmhvWWlLR3N0RDFKSzAwaXFYVU4xOG1YUXZUUE5UcnB2bnNHbkJ0SUVkUEdvRGRjaUZoVWJxUk1UMUp4YzJVYnI2aGxvNDU1MWNObUhOV1JZMGJoeUI1UjM1YUk0UXNOTDhoM014ZXdVQmtmeW5uN19mVjZTd2tmbFJKTg?oc=5",
-   "tickers": [
-    "XLE"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "XLE",
-   "strength": 40,
-   "reason": "Military tension with Iran raises geopolitical risk; energy sector typically benefits from conflict uncertainty",
-   "price_since": {
-    "ticker": "XLE",
-    "pct": 0.3,
-    "base": 58.36,
-    "last": 58.52,
-    "base_date": "2026-07-27",
-    "last_date": "2026-07-29"
-   }
-  },
-  {
-   "date": "2026-07-27T16:15:00Z",
-   "platform": "News",
-   "text": "Chip stocks slide as China advances domestic lithography, memory production - Yahoo! Finance Canada \u2014 Chip stocks slide as China advances domestic lithography, memory production\u00a0\u00a0Yahoo! Finance Canada",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPT1E0b3ZEbWt6XzBnZ2duRWdxUDFJcGZvemp5NjhWMU1hV1k4SnRKMXhzQW1xSkk0bC1uU3E0bXAwYUxGSjdiM2l3U2hMSXNLZDAtSVYyeVU3a1ItekhRdW1xVnRuc3VXUEtJOXpHVHhNSWRISXpDcFdvN1VNUHVzQWlocjB5NmFa?oc=5",
-   "tickers": [
-    "SMH"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "SMH",
-   "strength": 60,
-   "reason": "China advances in lithography/memory production undermines US semiconductor export dominance; bearish for US chip stocks.",
-   "price_since": {
-    "ticker": "SMH",
-    "pct": -5.1,
-    "base": 548.55,
-    "last": 520.51,
-    "base_date": "2026-07-27",
-    "last_date": "2026-07-29"
-   }
-  },
-  {
-   "date": "2026-07-27T15:22:59Z",
-   "platform": "News",
-   "text": "Cracker Barrel CEO Out After \u2018Woke\u2019 Rebrand Backlash - The Daily Wire \u2014 Cracker Barrel CEO Out After \u2018Woke\u2019 Rebrand Backlash\u00a0\u00a0The Daily Wire",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLXJDdUY3d0ptcEdJQ2JxcUtCbmxjTEJwQ0pTR1ZPUDhTNnVKOVdMMEl5UklFVC1WWEJ2WFQxZlpwMDRJVWxTRHJ1cnFBRkVKSTE5Um9femFWZDlHTlpheXBhVnFJbXE0RjdVa2lVclRTMW5sdmNXQ2hoWGlOakNkQmQyTDJuOHo4?oc=5",
-   "tickers": [
-    "CBRL"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "CBRL",
-   "strength": 65,
-   "reason": "CEO ouster after 'woke' backlash Trump targeted; reversal of unpopular rebrand is bullish for stock",
-   "price_since": {
-    "ticker": "CBRL",
-    "pct": 6.9,
-    "base": 52.43,
-    "last": 56.07,
     "base_date": "2026-07-27",
     "last_date": "2026-07-29"
    }
