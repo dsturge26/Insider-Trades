@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-03T00:05:07Z",
+ "last_updated": "2026-08-03T03:54:25Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -18,6 +18,22 @@
    "primary_ticker": "XLE",
    "strength": 65,
    "reason": "federal directive to restore offshore oil unit and pipeline -> energy sector bullish"
+  },
+  {
+   "date": "2026-08-02T14:46:30Z",
+   "platform": "News",
+   "text": "DELL Stock Spikes To Record Highs On President Trump\u2019s Endorsement - Stocktwits \u2014 DELL Stock Spikes To Record Highs On President Trump\u2019s Endorsement\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYWF1OUgweFU0d1NlNU4ya1FYQVJSVTRCX3IwM0NMd19VVmN5RzNtUmc1c2FhTU9abXdnTmVnMDE2QUxna3ZrUEF3Zkd0SFUtOWx3QkF2elBuNkNTcmZDRm1BRUkwMVRwYU0xaUVsWDZLSk0yeEtiMFFPV0t3ZXZ3OW15QUg5V0xHNnRrU1J5VXdvX09Oa0ZmRmJvV0VTVlFRRFh6c3E5RmtHckx0MXpNVVZTWmJpLTUtUXBHSG5pWEFfQll0ejRneDFB?oc=5",
+   "tickers": [
+    "DELL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "DELL",
+   "strength": 85,
+   "reason": "Trump explicitly endorsed DELL; stock spiked on endorsement."
   },
   {
    "date": "2026-08-02T12:58:05.342Z",
@@ -101,6 +117,22 @@
    "primary_ticker": "DJT",
    "strength": 45,
    "reason": "Truth Social paid early access feature is a monetization driver for Trump Media; concerns noted but feature launch is bullish for DJT revenue"
+  },
+  {
+   "date": "2026-08-01T13:41:27Z",
+   "platform": "News",
+   "text": "Critical Metals Stock Surges As Trump Sets Sights On Greenland Yet Again: 'Big, Poorly Run, Piece Of Ice!' - Stocktwits \u2014 Critical Metals Stock Surges As Trump Sets Sights On Greenland Yet Again: 'Big, Poorly Run, Piece Of Ice!'\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZFdENjBoV0hEenBRM0VFTG9UR1JuV200S0NBMFBVdFdSSVN6V1pNSWZGeEMwbWNMMFI4ZVQyNTZyclFQQlBXbUVUeDZSbFI4YWhvTzBRLWtwU3ZUcXBRdWRVbEM0a3dCTGFsNXhYZGpDZGJuR1k3NlhmSzJ6RV9yZE04Um84WjJuQ3B1cW9peE44UTZTWjNueEpPTHJOeUxyMGM3czlaeHVFQkJxY1FaNG54dUhKc2ZkZk9tVGk0UUlHMjlCeGptTFBDWWRoREhnTUE?oc=5",
+   "tickers": [
+    "REMX"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "REMX",
+   "strength": 60,
+   "reason": "Trump interest in Greenland acquisition implies critical metals demand surge."
   },
   {
    "date": "2026-08-01T11:39:05Z",
@@ -496,9 +528,9 @@
    "reason": "Trump Truth Social warning on Iran war sparks crypto selloff fears",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": -2.0,
+    "pct": -2.9,
     "base": 64725.31,
-    "last": 63429.05,
+    "last": 62848.86,
     "base_date": "2026-07-30",
     "last_date": "2026-08-03"
    }
@@ -616,9 +648,9 @@
    "reason": "Eric Trump bullish call on Bitcoin to $1M; crypto-friendly signal from Trump inner circle",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": -2.0,
+    "pct": -2.9,
     "base": 64725.31,
-    "last": 63429.05,
+    "last": 62848.86,
     "base_date": "2026-07-30",
     "last_date": "2026-08-03"
    }
@@ -640,9 +672,9 @@
    "reason": "Eric Trump bullish crypto call; signals Trump-family backing for bitcoin upside",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": -2.0,
+    "pct": -2.9,
     "base": 64725.31,
-    "last": 63429.05,
+    "last": 62848.86,
     "base_date": "2026-07-30",
     "last_date": "2026-08-03"
    }
@@ -1103,6 +1135,22 @@
     "base_date": "2026-07-29",
     "last_date": "2026-07-31"
    }
+  },
+  {
+   "date": "2026-07-29T19:30:40Z",
+   "platform": "News",
+   "text": "State Inspecting Trump Endorsed Freedom Fuel Gas Stations In New Jersey - newjersey.news12.com \u2014 State Inspecting Trump Endorsed Freedom Fuel Gas Stations In New Jersey\u00a0\u00a0newjersey.news12.com",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSzc0NHdiOXV5WDNMMjRxTURHeWoxVmJnWldfUERjRmI3cVVmVkxXRTl3aDZKM3FuZ3ItdnZ3Q09TZVdNTEROdnJ2WWVReWhrd3J2S3R1SVBtTHROX3ZLYnczSXREejM1Qml5ZTgyYVBmQWpwd1VVSmw2Sl9vWk8xSnNCSkdXVF9WcEpiSnIySlV0MWN3dmdqM29uOHFvOGNyLXYtSVZHdXZKLW9RSnV2M3ZJZ2FJMUpGTGdmSk95NWJwZFpZNEVUTnRNX05wVEU?oc=5",
+   "tickers": [
+    "XLE"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "XLE",
+   "strength": 55,
+   "reason": "Trump endorsed Freedom Fuel gas stations; energy/fuel sector receives backing."
   },
   {
    "date": "2026-07-29T18:29:01Z",
