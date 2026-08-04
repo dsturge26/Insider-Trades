@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-04T07:24:18Z",
+ "last_updated": "2026-08-04T10:09:44Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -17,6 +17,22 @@
    "primary_ticker": "XLE",
    "strength": 35,
    "reason": "Trump praises UK oil expansion; bullish for energy sector broadly"
+  },
+  {
+   "date": "2026-08-04T02:34:00Z",
+   "platform": "News",
+   "text": "'Great grass': Trump plugs Scotts Miracle-Gro, a company that he says did the White House a favor - Yahoo \u2014 'Great grass': Trump plugs Scotts Miracle-Gro, a company that he says did the White House a favor\u00a0\u00a0Yahoo",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVFlnVS1WdTlUM1Jvc2w2dVh1Ql9VdERMXzAyTVkxQ2pZNkVuMk4tUmp5aUNuMVNleGJUaU95dUVEWHE4aUplaWMzZXljWE9TZVBqTlFKdTVUMEVraEVJV3pOTEFqaUt1bFltS2c0b2VOb2NoZ21qOFAzS0lHbU9JZTBZM1BUX2oxNmJOdWVmMDAyckUz?oc=5",
+   "tickers": [
+    "SMG"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "SMG",
+   "strength": 75,
+   "reason": "Trump explicitly praises Scotts Miracle-Gro by name, calls grass 'great'"
   },
   {
    "date": "2026-08-03T22:16:28Z",
@@ -65,6 +81,22 @@
    "primary_ticker": "TSLA",
    "strength": 25,
    "reason": "Battery storage/energy sector news; indirectly related to Trump's energy focus but no direct Trump market call"
+  },
+  {
+   "date": "2026-08-03T20:09:23Z",
+   "platform": "News",
+   "text": "Dow Jumps 693 Points to Hit a New High on Trump's Latest Turnaround: Stock Market Today - Kiplinger \u2014 Dow Jumps 693 Points to Hit a New High on Trump's Latest Turnaround: Stock Market Today\u00a0\u00a0Kiplinger",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOW5QNm9SWjFYSE1WSGZuQ1hDbHAxZmJobEduR01saWMtNHJGeHc4eGRYNFJJQkVmcnZPQkdOSG1BLTViV3VIMzFFdHhndElCQ1BHRF8zUjFFb2tyQ1gzMEx3Tl9fQ0p1Q3BUVVc2b3hBWE56OUl3UEpDZE93Yy04SzRWSV91TU1tZnU2SnNQdmM2RFNMSVdlS21xUEMtWTdVbmdr?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "SPY",
+   "strength": 35,
+   "reason": "Broad market rally attributed to Trump turnaround, macro bullish signal"
   },
   {
    "date": "2026-08-03T20:00:50Z",
@@ -258,6 +290,22 @@
    "primary_ticker": "PLTR",
    "strength": 40,
    "reason": "Trump endorsed Palantir, stock recovered; but prominent short suggests contrarian view and uncertain sustainability"
+  },
+  {
+   "date": "2026-08-02T20:13:41Z",
+   "platform": "News",
+   "text": "Michael Burry Says He\u2019s Still Short Palantir After Stock Sees Recovery Following Trump\u2019s Endorsement - Stocktwits \u2014 Michael Burry Says He\u2019s Still Short Palantir After Stock Sees Recovery Following Trump\u2019s Endorsement\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUmNQdmN5STJOLU11dEhkR1U0ckhuS3JMcm1NUDNMY0dNZ1pQcGhFVmd2bkZqVHV5N3N4N01tY1gzZWZnTDlvbVRzTEtkQnZyUjlibXR1ZUJ5MnVNY0ZlYlVEUWtRMkdnRzBGcmxpdEJaQm55ZWlTWmZZUDBPNnhncTFlLWg3bjllZXNpeGpTVjd3b3dCZ2lWT1dPZE5RSlNKT01IVXlTa1c5YmFodzVEWkJtbHpvUHN1Ry00NWhxcVJpdw?oc=5",
+   "tickers": [
+    "PLTR"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "PLTR",
+   "strength": 55,
+   "reason": "Trump endorsement buoyed Palantir but contrarian short thesis still active"
   },
   {
    "date": "2026-08-02T18:21:13Z",
@@ -643,30 +691,6 @@
     "pct": 1.4,
     "base": 747.03,
     "last": 757.84,
-    "base_date": "2026-07-31",
-    "last_date": "2026-08-03"
-   }
-  },
-  {
-   "date": "2026-07-31T14:59:58Z",
-   "platform": "News",
-   "text": "Michael Burry Says He\u2019s Still Short Palantir After Stock Sees Recovery Following Trump\u2019s Endorsement - Stocktwits \u2014 Michael Burry Says He\u2019s Still Short Palantir After Stock Sees Recovery Following Trump\u2019s Endorsement\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUmNQdmN5STJOLU11dEhkR1U0ckhuS3JMcm1NUDNMY0dNZ1pQcGhFVmd2bkZqVHV5N3N4N01tY1gzZWZnTDlvbVRzTEtkQnZyUjlibXR1ZUJ5MnVNY0ZlYlVEUWtRMkdnRzBGcmxpdEJaQm55ZWlTWmZZUDBPNnhncTFlLWg3bjllZXNpeGpTVjd3b3dCZ2lWT1dPZE5RSlNKT01IVXlTa1c5YmFodzVEWkJtbHpvUHN1Ry00NWhxcVJpdw?oc=5",
-   "tickers": [
-    "PLTR"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "PLTR",
-   "strength": 35,
-   "reason": "Trump endorsement drove recovery but prominent short still disagrees; sentiment divided",
-   "price_since": {
-    "ticker": "PLTR",
-    "pct": 2.2,
-    "base": 123.06,
-    "last": 125.71,
     "base_date": "2026-07-31",
     "last_date": "2026-08-03"
    }
