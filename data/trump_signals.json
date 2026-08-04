@@ -1,7 +1,24 @@
 {
- "last_updated": "2026-08-04T12:18:42Z",
+ "last_updated": "2026-08-04T15:00:57Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-08-04T14:36:16.632Z",
+   "platform": "Truth Social",
+   "text": "UAW: 'Strategic' Tariffs Prompt Industry Hiring Surge: https://www.newsmax.com/newsfront/united-auto-workers-tariffs-hiring-surge/2026/03/11/id/1249195/",
+   "tickers": [
+    "SPY"
+   ],
+   "engagement": 433,
+   "url": "https://truthsocial.com/@realDonaldTrump/117037739319710599",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "SPY",
+   "strength": 35,
+   "reason": "Tariffs driving auto-industry hiring suggests near-term economic stimulus for sector"
+  },
   {
    "date": "2026-08-04T05:39:38Z",
    "platform": "News",
@@ -48,7 +65,15 @@
    "direction": "WATCH",
    "primary_ticker": "DJT",
    "strength": 25,
-   "reason": "News of Trump monetizing access; potential governance concern for Trump Media shareholder value"
+   "reason": "News of Trump monetizing access; potential governance concern for Trump Media shareholder value",
+   "price_since": {
+    "ticker": "DJT",
+    "pct": -0.1,
+    "base": 10.01,
+    "last": 10.0,
+    "base_date": "2026-08-03",
+    "last_date": "2026-08-04"
+   }
   },
   {
    "date": "2026-08-03T22:16:28Z",
@@ -64,7 +89,15 @@
    "direction": "WATCH",
    "primary_ticker": "DJT",
    "strength": 35,
-   "reason": "Truth Social monetization scheme; uncertain market impact on DJT stock valuations and regulatory/reputational risk."
+   "reason": "Truth Social monetization scheme; uncertain market impact on DJT stock valuations and regulatory/reputational risk.",
+   "price_since": {
+    "ticker": "DJT",
+    "pct": -0.1,
+    "base": 10.01,
+    "last": 10.0,
+    "base_date": "2026-08-03",
+    "last_date": "2026-08-04"
+   }
   },
   {
    "date": "2026-08-03T21:01:00Z",
@@ -80,7 +113,15 @@
    "direction": "WATCH",
    "primary_ticker": "TSLA",
    "strength": 25,
-   "reason": "Battery storage/energy sector news; indirectly related to Trump's energy focus but no direct Trump market call"
+   "reason": "Battery storage/energy sector news; indirectly related to Trump's energy focus but no direct Trump market call",
+   "price_since": {
+    "ticker": "TSLA",
+    "pct": 0.7,
+    "base": 322.08,
+    "last": 324.33,
+    "base_date": "2026-08-03",
+    "last_date": "2026-08-04"
+   }
   },
   {
    "date": "2026-08-03T20:09:23Z",
@@ -96,7 +137,39 @@
    "direction": "BUY",
    "primary_ticker": "SPY",
    "strength": 35,
-   "reason": "Broad market rally attributed to Trump turnaround, macro bullish signal"
+   "reason": "Broad market rally attributed to Trump turnaround, macro bullish signal",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": 1.1,
+    "base": 757.67,
+    "last": 766.27,
+    "base_date": "2026-08-03",
+    "last_date": "2026-08-04"
+   }
+  },
+  {
+   "date": "2026-08-03T20:09:23Z",
+   "platform": "News",
+   "text": "Dow Jumps 693 Points to Hit a New High on Trump's Latest Turnaround: Stock Market Today - Yahoo Finance \u2014 Dow Jumps 693 Points to Hit a New High on Trump's Latest Turnaround: Stock Market Today\u00a0\u00a0Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZ3o5ZW5Sa00xMXRTbDBrbDlFQVljVjVlRW9aOWtzQnhmZGZEV1hVa25hWHEwUkNTNmF3eHdTaTlpcktJLXJhMXN2T1JTWnpFWUlvai1KOEtVQi1ROEdBd1V0Wng1ZEdTSE01djZSejctZXJlckFqTVNDNUVweUNDNDc1RmVXWVpDTy1MOVNyZjl3eU0?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "SPY",
+   "strength": 25,
+   "reason": "Market rally attributed to Trump policy; broad market bullish sentiment",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": 1.1,
+    "base": 757.67,
+    "last": 766.27,
+    "base_date": "2026-08-03",
+    "last_date": "2026-08-04"
+   }
   },
   {
    "date": "2026-08-03T20:00:50Z",
@@ -112,7 +185,15 @@
    "direction": "BUY",
    "primary_ticker": "NOW",
    "strength": 75,
-   "reason": "Trump disclosed stake in ServiceNow; explicit holdings signal bullish view."
+   "reason": "Trump disclosed stake in ServiceNow; explicit holdings signal bullish view.",
+   "price_since": {
+    "ticker": "NOW",
+    "pct": 0.9,
+    "base": 114.19,
+    "last": 115.19,
+    "base_date": "2026-08-03",
+    "last_date": "2026-08-04"
+   }
   },
   {
    "date": "2026-08-03T17:59:28Z",
@@ -128,7 +209,15 @@
    "direction": "BUY",
    "primary_ticker": "XLI",
    "strength": 50,
-   "reason": "Greenland interest implies rare-earth/critical metals demand; broad industrial/resources play."
+   "reason": "Greenland interest implies rare-earth/critical metals demand; broad industrial/resources play.",
+   "price_since": {
+    "ticker": "XLI",
+    "pct": 0.8,
+    "base": 183.16,
+    "last": 184.7,
+    "base_date": "2026-08-03",
+    "last_date": "2026-08-04"
+   }
   },
   {
    "date": "2026-08-03T16:50:00Z",
@@ -144,7 +233,15 @@
    "direction": "WATCH",
    "primary_ticker": "DJT",
    "strength": 45,
-   "reason": "Trump Media selling preferential feed access raises insider-trading concerns; bullish for DJT revenue but bearish for governance/regulation risk."
+   "reason": "Trump Media selling preferential feed access raises insider-trading concerns; bullish for DJT revenue but bearish for governance/regulation risk.",
+   "price_since": {
+    "ticker": "DJT",
+    "pct": -0.1,
+    "base": 10.01,
+    "last": 10.0,
+    "base_date": "2026-08-03",
+    "last_date": "2026-08-04"
+   }
   },
   {
    "date": "2026-08-03T15:20:13Z",
@@ -160,7 +257,15 @@
    "direction": "BUY",
    "primary_ticker": "DELL",
    "strength": 85,
-   "reason": "Trump explicitly endorses Dell; direct praise of named public company."
+   "reason": "Trump explicitly endorses Dell; direct praise of named public company.",
+   "price_since": {
+    "ticker": "DELL",
+    "pct": 6.4,
+    "base": 429.02,
+    "last": 456.59,
+    "base_date": "2026-08-03",
+    "last_date": "2026-08-04"
+   }
   },
   {
    "date": "2026-08-03T13:50:42.242Z",
@@ -177,7 +282,15 @@
    "direction": "BUY",
    "primary_ticker": "XLE",
    "strength": 65,
-   "reason": "Trump credits his administration for oil industry success; Venezuela re-entry bullish for oil majors; implies energy sector strength"
+   "reason": "Trump credits his administration for oil industry success; Venezuela re-entry bullish for oil majors; implies energy sector strength",
+   "price_since": {
+    "ticker": "XLE",
+    "pct": -0.4,
+    "base": 58.79,
+    "last": 58.54,
+    "base_date": "2026-08-03",
+    "last_date": "2026-08-04"
+   }
   },
   {
    "date": "2026-08-03T13:18:35Z",
@@ -193,7 +306,15 @@
    "direction": "WATCH",
    "primary_ticker": "IBM",
    "strength": 45,
-   "reason": "Stock surge attributed to Trump but headline lacks explicit endorsement; direction unclear."
+   "reason": "Stock surge attributed to Trump but headline lacks explicit endorsement; direction unclear.",
+   "price_since": {
+    "ticker": "IBM",
+    "pct": 1.1,
+    "base": 226.31,
+    "last": 228.77,
+    "base_date": "2026-08-03",
+    "last_date": "2026-08-04"
+   }
   },
   {
    "date": "2026-08-03T12:29:35Z",
@@ -209,7 +330,15 @@
    "direction": "BUY",
    "primary_ticker": "SPY",
    "strength": 35,
-   "reason": "Falling oil prices reduce inflation fears; broad market positive signal."
+   "reason": "Falling oil prices reduce inflation fears; broad market positive signal.",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": 1.1,
+    "base": 757.67,
+    "last": 766.28,
+    "base_date": "2026-08-03",
+    "last_date": "2026-08-04"
+   }
   },
   {
    "date": "2026-08-03T07:59:22Z",
@@ -225,7 +354,39 @@
    "direction": "BUY",
    "primary_ticker": "META",
    "strength": 42,
-   "reason": "Trump adviser praises Meta's AI academy; soft bullish signal for Meta"
+   "reason": "Trump adviser praises Meta's AI academy; soft bullish signal for Meta",
+   "price_since": {
+    "ticker": "META",
+    "pct": -1.5,
+    "base": 590.24,
+    "last": 581.53,
+    "base_date": "2026-08-03",
+    "last_date": "2026-08-04"
+   }
+  },
+  {
+   "date": "2026-08-03T04:57:31Z",
+   "platform": "News",
+   "text": "Citi Stock Hits 52-Week High Before Fading As Trump Lauds Bank's 'Big Comeback' In M&A \u2014 But Full Picture Has Changed Now - Stocktwits \u2014 Citi Stock Hits 52-Week High Before Fading As Trump Lauds Bank's 'Big Comeback' In M&A \u2014 But Full Picture Has Changed Now\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWUpacUZnX014SV9nTnRZbVQ0dWhFQlZiV3ZjLV9nWExYUjVMdmlZdkdoNnFLcUhZUEhuZ1k3a2JENWJrYkhqdjJqNFlLaVlVYzBRb3dJOFA2Q1dESmhCTVJnQXJJaU15VjVFUFo2cWJDOEx3QTIzN0NSQjExRWhRZlNLaDFXeEZMQ0poajdjbGhmNlhPd1ZQSnVOSmNVa0pVTF94Z1RVdXlSU2JrR0N3X2dHSENINjZHNWdTYzB1dEZPaERK?oc=5",
+   "tickers": [
+    "C"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "C",
+   "strength": 55,
+   "reason": "Trump lauds Citi's M&A comeback; stock hitting 52-week high on his praise",
+   "price_since": {
+    "ticker": "C",
+    "pct": 3.3,
+    "base": 133.57,
+    "last": 137.96,
+    "base_date": "2026-08-03",
+    "last_date": "2026-08-04"
+   }
   },
   {
    "date": "2026-08-03T01:36:56Z",
@@ -241,7 +402,15 @@
    "direction": "WATCH",
    "primary_ticker": "INTC",
    "strength": 50,
-   "reason": "Intel rally mentioned alongside Trump but driven by broader factors; unclear signal strength."
+   "reason": "Intel rally mentioned alongside Trump but driven by broader factors; unclear signal strength.",
+   "price_since": {
+    "ticker": "INTC",
+    "pct": 8.4,
+    "base": 91.0,
+    "last": 98.64,
+    "base_date": "2026-08-03",
+    "last_date": "2026-08-04"
+   }
   },
   {
    "date": "2026-08-02T23:10:52Z",
@@ -257,7 +426,15 @@
    "direction": "WATCH",
    "primary_ticker": "SPY",
    "strength": 40,
-   "reason": "Trump praise of yen/currency intervention policy; macro uncertainty, two-sided"
+   "reason": "Trump praise of yen/currency intervention policy; macro uncertainty, two-sided",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": 1.1,
+    "base": 757.67,
+    "last": 766.28,
+    "base_date": "2026-08-03",
+    "last_date": "2026-08-04"
+   }
   },
   {
    "date": "2026-08-02T23:10:52Z",
@@ -273,7 +450,15 @@
    "direction": "WATCH",
    "primary_ticker": "SPY",
    "strength": 30,
-   "reason": "Currency intervention and Japan praise suggest forex/trade policy action; ambiguous equity impact"
+   "reason": "Currency intervention and Japan praise suggest forex/trade policy action; ambiguous equity impact",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": 1.1,
+    "base": 757.67,
+    "last": 766.28,
+    "base_date": "2026-08-03",
+    "last_date": "2026-08-04"
+   }
   },
   {
    "date": "2026-08-02T22:43:15Z",
@@ -289,7 +474,15 @@
    "direction": "BUY",
    "primary_ticker": "INTC",
    "strength": 50,
-   "reason": "Intel rally attributed partly to Trump support; chip sector tailwind"
+   "reason": "Intel rally attributed partly to Trump support; chip sector tailwind",
+   "price_since": {
+    "ticker": "INTC",
+    "pct": 8.4,
+    "base": 91.0,
+    "last": 98.64,
+    "base_date": "2026-08-03",
+    "last_date": "2026-08-04"
+   }
   },
   {
    "date": "2026-08-02T20:13:41Z",
@@ -305,7 +498,15 @@
    "direction": "WATCH",
    "primary_ticker": "PLTR",
    "strength": 40,
-   "reason": "Trump endorsed Palantir, stock recovered; but prominent short suggests contrarian view and uncertain sustainability"
+   "reason": "Trump endorsed Palantir, stock recovered; but prominent short suggests contrarian view and uncertain sustainability",
+   "price_since": {
+    "ticker": "PLTR",
+    "pct": 25.3,
+    "base": 125.65,
+    "last": 157.43,
+    "base_date": "2026-08-03",
+    "last_date": "2026-08-04"
+   }
   },
   {
    "date": "2026-08-02T20:13:41Z",
@@ -321,7 +522,15 @@
    "direction": "WATCH",
    "primary_ticker": "PLTR",
    "strength": 55,
-   "reason": "Trump endorsement buoyed Palantir but contrarian short thesis still active"
+   "reason": "Trump endorsement buoyed Palantir but contrarian short thesis still active",
+   "price_since": {
+    "ticker": "PLTR",
+    "pct": 25.3,
+    "base": 125.65,
+    "last": 157.43,
+    "base_date": "2026-08-03",
+    "last_date": "2026-08-04"
+   }
   },
   {
    "date": "2026-08-02T18:21:13Z",
@@ -337,23 +546,15 @@
    "direction": "BUY",
    "primary_ticker": "C",
    "strength": 55,
-   "reason": "Trump explicitly praised Citi's M&A comeback, stock hit 52-week high; direct company endorsement"
-  },
-  {
-   "date": "2026-08-02T18:21:13Z",
-   "platform": "News",
-   "text": "Citi Stock Hits 52-Week High Before Fading As Trump Lauds Bank's 'Big Comeback' In M&A \u2014 But Full Picture Has Changed Now - Stocktwits \u2014 Citi Stock Hits 52-Week High Before Fading As Trump Lauds Bank's 'Big Comeback' In M&A \u2014 But Full Picture Has Changed Now\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWUpacUZnX014SV9nTnRZbVQ0dWhFQlZiV3ZjLV9nWExYUjVMdmlZdkdoNnFLcUhZUEhuZ1k3a2JENWJrYkhqdjJqNFlLaVlVYzBRb3dJOFA2Q1dESmhCTVJnQXJJaU15VjVFUFo2cWJDOEx3QTIzN0NSQjExRWhRZlNLaDFXeEZMQ0poajdjbGhmNlhPd1ZQSnVOSmNVa0pVTF94Z1RVdXlSU2JrR0N3X2dHSENINjZHNWdTYzB1dEZPaERK?oc=5",
-   "tickers": [
-    "C"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "C",
-   "strength": 50,
-   "reason": "Trump explicitly praises Citi's M&A comeback; direct positive call on bank stock"
+   "reason": "Trump explicitly praised Citi's M&A comeback, stock hit 52-week high; direct company endorsement",
+   "price_since": {
+    "ticker": "C",
+    "pct": 3.3,
+    "base": 133.57,
+    "last": 137.94,
+    "base_date": "2026-08-03",
+    "last_date": "2026-08-04"
+   }
   },
   {
    "date": "2026-08-02T16:22:34.523Z",
@@ -370,7 +571,15 @@
    "direction": "BUY",
    "primary_ticker": "XLE",
    "strength": 65,
-   "reason": "federal directive to restore offshore oil unit and pipeline -> energy sector bullish"
+   "reason": "federal directive to restore offshore oil unit and pipeline -> energy sector bullish",
+   "price_since": {
+    "ticker": "XLE",
+    "pct": -0.5,
+    "base": 58.79,
+    "last": 58.5,
+    "base_date": "2026-08-03",
+    "last_date": "2026-08-04"
+   }
   },
   {
    "date": "2026-08-02T12:58:05.342Z",
@@ -387,7 +596,15 @@
    "direction": "BUY",
    "primary_ticker": "XLE",
    "strength": 45,
-   "reason": "Energy policy triumph implies bullish outlook for energy sector"
+   "reason": "Energy policy triumph implies bullish outlook for energy sector",
+   "price_since": {
+    "ticker": "XLE",
+    "pct": -0.4,
+    "base": 58.79,
+    "last": 58.54,
+    "base_date": "2026-08-03",
+    "last_date": "2026-08-04"
+   }
   },
   {
    "date": "2026-08-02T12:13:30Z",
@@ -403,7 +620,15 @@
    "direction": "WATCH",
    "primary_ticker": "DJT",
    "strength": 50,
-   "reason": "Truth Social paid-access feature raises governance/reputational concerns; mixed signal on DJT stock"
+   "reason": "Truth Social paid-access feature raises governance/reputational concerns; mixed signal on DJT stock",
+   "price_since": {
+    "ticker": "DJT",
+    "pct": -0.1,
+    "base": 10.01,
+    "last": 10.0,
+    "base_date": "2026-08-03",
+    "last_date": "2026-08-04"
+   }
   },
   {
    "date": "2026-08-02T10:09:07Z",
@@ -419,7 +644,15 @@
    "direction": "BUY",
    "primary_ticker": "IBM",
    "strength": 75,
-   "reason": "$1B federal grant to IBM for quantum foundry; direct federal contract to named public company"
+   "reason": "$1B federal grant to IBM for quantum foundry; direct federal contract to named public company",
+   "price_since": {
+    "ticker": "IBM",
+    "pct": 1.1,
+    "base": 226.31,
+    "last": 228.77,
+    "base_date": "2026-08-03",
+    "last_date": "2026-08-04"
+   }
   },
   {
    "date": "2026-08-02T01:42:56Z",
@@ -435,7 +668,39 @@
    "direction": "WATCH",
    "primary_ticker": "DJT",
    "strength": 45,
-   "reason": "$100k/month early-access feed to market-moving posts raises insider-access and manipulation concerns."
+   "reason": "$100k/month early-access feed to market-moving posts raises insider-access and manipulation concerns.",
+   "price_since": {
+    "ticker": "DJT",
+    "pct": -0.1,
+    "base": 10.01,
+    "last": 10.0,
+    "base_date": "2026-08-03",
+    "last_date": "2026-08-04"
+   }
+  },
+  {
+   "date": "2026-08-02T01:42:56Z",
+   "platform": "News",
+   "text": "Trump launches $100,000-a-month feed offering early access to market-moving Truth Social posts - economictimes.com \u2014 Trump launches $100,000-a-month feed offering early access to market-moving Truth Social posts\u00a0\u00a0economictimes.com",
+   "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxOSExtN0lWb2t4bml4RXlaMWc5OGtRUl9UZl9BN2E2d05zdkhiY1Z0Y0pmUnVMRjlmRWJIa0hETGhmY2ItbUU5cmlpRlZ5MVFETi1WY1BSazdOM3RQdS02ZDJ2UDJOcGRQb2tya3BQNER1Rlc4Zm4yYVpBRFBzUnFBVmtzeUszZ0RYb0h1QzBMMTk2RENDTEpBbC16aXJucWVPNXA1SXV0Q05MZDk0NXBXUk1WX25nR1pITkVXYkpSLUswZ19pempfNjNwSmpMT21ueTBUQWJLc2FJNVRWaTNkalNobkJvSG5MeGs5NXRtSUR6NEZJcXY3WW5jQ0R3NHBBWktmZnZhMmh5UmN5dXNQcUloVFNURTg3R1RCdWdyQXc2QndqYVdORmJoc3hGODDSAbQCQVVfeXFMTmFSb2syM1JZVU5IRDlLWm9nVDRwcHl4YXJsekNLNFF1UVZzN0o0dWw2ZmpXUm81MmJ4Q294cU1FSE9BT2VQZUZrRC1uN1lMMl9RNnh1R3k1NHVNRGdMblNvMFcxYlhWQnA1Rmo0d19iQjNETVA5cXM4RjVocHdyZnVnU2MyVEgzSHhmUy1EcWxnQldDZ1oxM3JuVFJabkd3eXctTGlqZTlCUTl3ZExwZFhvdkVZM3FEWWdoOHUwVGxWRXdPbGZ6TVZIVERRLW5MbDJsS01QQS16dEtCOVlXMlFNWnpXNUlOZ3JKcE52ZkxGLTAwZWoxSDRGZTBRQWdTNmpHV19qUkJZU0gzdGJOWkkwekxCTzQ0eC1mZzRJcGp0Z25COEZUVVZwUURfMzVsTjRkcnk?oc=5",
+   "tickers": [
+    "DJT"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "DJT",
+   "strength": 45,
+   "reason": "Trump monetizes Truth Social early access; signals platform value and engagement, bullish for DJT stock",
+   "price_since": {
+    "ticker": "DJT",
+    "pct": -0.1,
+    "base": 10.01,
+    "last": 10.0,
+    "base_date": "2026-08-03",
+    "last_date": "2026-08-04"
+   }
   },
   {
    "date": "2026-08-02T01:07:10Z",
