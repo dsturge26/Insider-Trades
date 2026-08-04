@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-04T01:06:50Z",
+ "last_updated": "2026-08-04T04:30:57Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -51,6 +51,22 @@
    "reason": "Battery storage/energy sector news; indirectly related to Trump's energy focus but no direct Trump market call"
   },
   {
+   "date": "2026-08-03T20:00:50Z",
+   "platform": "News",
+   "text": "NOW Stock Rises Overnight: Trump\u2019s ServiceNow Stake Fuels Retail Buzz Around SAAS Comeback - Stocktwits \u2014 NOW Stock Rises Overnight: Trump\u2019s ServiceNow Stake Fuels Retail Buzz Around SAAS Comeback\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQcEF0OFRRa3hIWF9rS21NMTBqNk53MDA4eWFQcDJad1Z2QkQyTTdmd3prLUVaVUUwdVRSWWpCOGs3N3JaYTZCcG1KMjg1c1Q0WWdjSnlWbHkteXVxcnFoUXFZMEg4ejh0YjA4ZG5BRnBEX1huMFNaS0dXdEx4LWNEOXBLcmNpMzlCQzc1OC0yRDFKeWFMWEZzWUpNQXBWTFFDQlJ6dmFWamU5cUpFZnVfcU1ocFdTa0tfdjByTlZZUHo4QUx1QzJOMHpzZEdaZjdqSVhoWFB0cVRKZW9BbnNLMi1XYUF2MlhaZGc?oc=5",
+   "tickers": [
+    "NOW"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "NOW",
+   "strength": 75,
+   "reason": "Trump disclosed stake in ServiceNow; explicit holdings signal bullish view."
+  },
+  {
    "date": "2026-08-03T16:50:00Z",
    "platform": "News",
    "text": "Trump Media (NASDAQ: DJT) Sells High-Speed Truth Social Feed To Trading Firms, Sparking Abuse Of Power Claims - foreignpolicyjournal.com \u2014 Trump Media (NASDAQ: DJT) Sells High-Speed Truth Social Feed To Trading Firms, Sparking Abuse Of Power Claims\u00a0\u00a0foreignpolicyjournal.com",
@@ -65,6 +81,22 @@
    "primary_ticker": "DJT",
    "strength": 45,
    "reason": "Trump Media selling preferential feed access raises insider-trading concerns; bullish for DJT revenue but bearish for governance/regulation risk."
+  },
+  {
+   "date": "2026-08-03T15:20:13Z",
+   "platform": "News",
+   "text": "DELL Stock Spikes To Record Highs On President Trump\u2019s Endorsement - Stocktwits \u2014 DELL Stock Spikes To Record Highs On President Trump\u2019s Endorsement\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYWF1OUgweFU0d1NlNU4ya1FYQVJSVTRCX3IwM0NMd19VVmN5RzNtUmc1c2FhTU9abXdnTmVnMDE2QUxna3ZrUEF3Zkd0SFUtOWx3QkF2elBuNkNTcmZDRm1BRUkwMVRwYU0xaUVsWDZLSk0yeEtiMFFPV0t3ZXZ3OW15QUg5V0xHNnRrU1J5VXdvX09Oa0ZmRmJvV0VTVlFRRFh6c3E5RmtHckx0MXpNVVZTWmJpLTUtUXBHSG5pWEFfQll0ejRneDFB?oc=5",
+   "tickers": [
+    "DELL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "DELL",
+   "strength": 85,
+   "reason": "Trump explicitly endorses Dell; direct praise of named public company."
   },
   {
    "date": "2026-08-03T13:50:42.242Z",
@@ -84,6 +116,22 @@
    "reason": "Trump credits his administration for oil industry success; Venezuela re-entry bullish for oil majors; implies energy sector strength"
   },
   {
+   "date": "2026-08-03T13:18:35Z",
+   "platform": "News",
+   "text": "Why Is IBM Stock Surging Nearly 7% Higher In Overnight Trading? - Stocktwits \u2014 Why Is IBM Stock Surging Nearly 7% Higher In Overnight Trading?\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQk9pekpVQ1Q1NnRyVEdqWjdJN29OTFpDY3Rkc08wdG96eTdtMHRzVVRmUFItUlRQQS11WXBWZFpHWU50d3hoRHBENXM2eGhKMF9QZF9qb3ZQT2pXREgyU1pTMzBFU0JGZ0lOTk90VlU4YURiV3I1LWtPdTVzZDZRbUZGWEUySWxkZXg1a2dzYVVTVUpsOU1Yc25qQ2U4OE9tX1MtbEZFNDZDalpaS2JlbndvcnYyUU1Ca0E2cGxqMi02S2s?oc=5",
+   "tickers": [
+    "IBM"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "IBM",
+   "strength": 45,
+   "reason": "Stock surge attributed to Trump but headline lacks explicit endorsement; direction unclear."
+  },
+  {
    "date": "2026-08-03T12:29:35Z",
    "platform": "News",
    "text": "Falling oil prices help calm worries about inflation, and Wall Street rallies - New York Daily News \u2014 Falling oil prices help calm worries about inflation, and Wall Street rallies\u00a0\u00a0New York Daily News",
@@ -98,6 +146,22 @@
    "primary_ticker": "SPY",
    "strength": 35,
    "reason": "Falling oil prices reduce inflation fears; broad market positive signal."
+  },
+  {
+   "date": "2026-08-03T01:36:56Z",
+   "platform": "News",
+   "text": "INTC Stock Rockets Toward Best Month Ever: Something More Than A Trump Pump Could Be Powering The Rally - Stocktwits \u2014 INTC Stock Rockets Toward Best Month Ever: Something More Than A Trump Pump Could Be Powering The Rally\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQT29KOURKeHprQ2xZbmpLUUc3MGRlTTE5Y1JHVXJ5TGhldk10eENQcmZLSzRWNDQyTmJFclFNUThmZ0tBRlZUQTZ3MGF1dlZwR0Q4aUtXUnZVQ2o1MjM3cFNpU2RrejRkd2E0OXBhOVNpdDdBdDVSSTR1c2M5NTZfYlg4NEFxODg3QWpMTXd0VVIzM3pZRS10OG5JWG9QUW52UjZvbXVvQ29uZ1lJb1NwbFljM1lBN1dreHdJZDdYZ1hKTjVidndnRWlJRnl5cnNpT2llcjVuSVltVDNzVFdHbmZYTEpua3JJVllOcXIxVmdfaThfeHRzVm9R?oc=5",
+   "tickers": [
+    "INTC"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "INTC",
+   "strength": 50,
+   "reason": "Intel rally mentioned alongside Trump but driven by broader factors; unclear signal strength."
   },
   {
    "date": "2026-08-02T23:10:52Z",
@@ -130,22 +194,6 @@
    "primary_ticker": "SPY",
    "strength": 30,
    "reason": "Currency intervention and Japan praise suggest forex/trade policy action; ambiguous equity impact"
-  },
-  {
-   "date": "2026-08-02T22:43:15Z",
-   "platform": "News",
-   "text": "INTC Stock Rockets Toward Best Month Ever: Something More Than A Trump Pump Could Be Powering The Rally - Stocktwits \u2014 INTC Stock Rockets Toward Best Month Ever: Something More Than A Trump Pump Could Be Powering The Rally\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQT29KOURKeHprQ2xZbmpLUUc3MGRlTTE5Y1JHVXJ5TGhldk10eENQcmZLSzRWNDQyTmJFclFNUThmZ0tBRlZUQTZ3MGF1dlZwR0Q4aUtXUnZVQ2o1MjM3cFNpU2RrejRkd2E0OXBhOVNpdDdBdDVSSTR1c2M5NTZfYlg4NEFxODg3QWpMTXd0VVIzM3pZRS10OG5JWG9QUW52UjZvbXVvQ29uZ1lJb1NwbFljM1lBN1dreHdJZDdYZ1hKTjVidndnRWlJRnl5cnNpT2llcjVuSVltVDNzVFdHbmZYTEpua3JJVllOcXIxVmdfaThfeHRzVm9R?oc=5",
-   "tickers": [
-    "INTC"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "INTC",
-   "strength": 45,
-   "reason": "Trump sentiment/pump toward Intel; headline notes rally may have deeper fundamentals"
   },
   {
    "date": "2026-08-02T22:43:15Z",
@@ -227,22 +275,6 @@
    "primary_ticker": "XLE",
    "strength": 65,
    "reason": "federal directive to restore offshore oil unit and pipeline -> energy sector bullish"
-  },
-  {
-   "date": "2026-08-02T14:46:30Z",
-   "platform": "News",
-   "text": "DELL Stock Spikes To Record Highs On President Trump\u2019s Endorsement - Stocktwits \u2014 DELL Stock Spikes To Record Highs On President Trump\u2019s Endorsement\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYWF1OUgweFU0d1NlNU4ya1FYQVJSVTRCX3IwM0NMd19VVmN5RzNtUmc1c2FhTU9abXdnTmVnMDE2QUxna3ZrUEF3Zkd0SFUtOWx3QkF2elBuNkNTcmZDRm1BRUkwMVRwYU0xaUVsWDZLSk0yeEtiMFFPV0t3ZXZ3OW15QUg5V0xHNnRrU1J5VXdvX09Oa0ZmRmJvV0VTVlFRRFh6c3E5RmtHckx0MXpNVVZTWmJpLTUtUXBHSG5pWEFfQll0ejRneDFB?oc=5",
-   "tickers": [
-    "DELL"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "DELL",
-   "strength": 85,
-   "reason": "Trump explicitly endorsed DELL; stock spiked on endorsement."
   },
   {
    "date": "2026-08-02T12:58:05.342Z",
@@ -502,46 +534,6 @@
    "primary_ticker": "SMH",
    "strength": 35,
    "reason": "Trump comments on Elon/OpenAI/Intel but no clear buy/sell signal; Fed criticism is macro-relevant but vague."
-  },
-  {
-   "date": "2026-08-01T02:09:56Z",
-   "platform": "News",
-   "text": "NOW Stock Rises Overnight: Trump\u2019s ServiceNow Stake Fuels Retail Buzz Around SAAS Comeback - Stocktwits \u2014 NOW Stock Rises Overnight: Trump\u2019s ServiceNow Stake Fuels Retail Buzz Around SAAS Comeback\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQcEF0OFRRa3hIWF9rS21NMTBqNk53MDA4eWFQcDJad1Z2QkQyTTdmd3prLUVaVUUwdVRSWWpCOGs3N3JaYTZCcG1KMjg1c1Q0WWdjSnlWbHkteXVxcnFoUXFZMEg4ejh0YjA4ZG5BRnBEX1huMFNaS0dXdEx4LWNEOXBLcmNpMzlCQzc1OC0yRDFKeWFMWEZzWUpNQXBWTFFDQlJ6dmFWamU5cUpFZnVfcU1ocFdTa0tfdjByTlZZUHo4QUx1QzJOMHpzZEdaZjdqSVhoWFB0cVRKZW9BbnNLMi1XYUF2MlhaZGc?oc=5",
-   "tickers": [
-    "NOW"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "NOW",
-   "strength": 70,
-   "reason": "Trump disclosed stake in ServiceNow; insider ownership by sitting president is strong bullish signal for NOW"
-  },
-  {
-   "date": "2026-07-31T23:13:21Z",
-   "platform": "News",
-   "text": "Why Is IBM Stock Surging Nearly 7% Higher In Overnight Trading? - Stocktwits \u2014 Why Is IBM Stock Surging Nearly 7% Higher In Overnight Trading?\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQk9pekpVQ1Q1NnRyVEdqWjdJN29OTFpDY3Rkc08wdG96eTdtMHRzVVRmUFItUlRQQS11WXBWZFpHWU50d3hoRHBENXM2eGhKMF9QZF9qb3ZQT2pXREgyU1pTMzBFU0JGZ0lOTk90VlU4YURiV3I1LWtPdTVzZDZRbUZGWEUySWxkZXg1a2dzYVVTVUpsOU1Yc25qQ2U4OE9tX1MtbEZFNDZDalpaS2JlbndvcnYyUU1Ca0E2cGxqMi02S2s?oc=5",
-   "tickers": [
-    "IBM"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "IBM",
-   "strength": 25,
-   "reason": "IBM surge noted but headline does not state Trump catalyst or reason; requires context.",
-   "price_since": {
-    "ticker": "IBM",
-    "pct": 1.2,
-    "base": 223.65,
-    "last": 226.31,
-    "base_date": "2026-07-31",
-    "last_date": "2026-08-03"
-   }
   },
   {
    "date": "2026-07-31T23:13:21Z",
@@ -2260,6 +2252,23 @@
    "primary_ticker": "GD",
    "strength": 85,
    "reason": "General Dynamics awarded $1.6B federal contract; large contract is bullish for the awardee."
+  },
+  {
+   "date": "2018-05-17T12:00:00Z",
+   "platform": "Federal contract",
+   "text": "ORACLE HEALTH GOVERNMENT SERVICES, INC. was awarded a $1.5B federal contract from Department of Veterans Affairs.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_36C10B18N0003_3600_36C10B18D5000_3600",
+   "tickers": [
+    "ORCL"
+   ],
+   "contract_amount": 1.51,
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "ORCL",
+   "strength": 80,
+   "reason": "Oracle subsidiary awarded $1.5B VA contract; bullish for parent company"
   },
   {
    "date": "2015-11-01T12:00:00Z",
