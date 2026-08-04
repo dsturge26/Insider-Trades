@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-04T21:49:14Z",
+ "last_updated": "2026-08-04T23:03:22Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -50,6 +50,22 @@
    "primary_ticker": "SMH",
    "strength": 65,
    "reason": "Trump administration curbs on Chinese optical transceivers; headwind for semiconductor/AI chip supply"
+  },
+  {
+   "date": "2026-08-04T17:23:51Z",
+   "platform": "News",
+   "text": "Anthropic names global affairs chief to tackle AI policy as Trump tensions persist - WTVB \u2014 Anthropic names global affairs chief to tackle AI policy as Trump tensions persist\u00a0\u00a0WTVB",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaGdSLWkzMlE4cUVrMUFGT1FmVGdaT2RDOGQxR3YtWHJoU2ZKYlU5Z2wzWlpNMHMzNlY0TG1oWDU3ck1MRDFqRzJ5Tm9uT3VlbGxPdGpGZS1TVUFBSmJ6WU82RnNhVENNMVI0d3lMazF2bEtqRktfSjJZM243VTJ2emdRQlNQR0pOUUNvUno5eGVseXpMTzhfSnI4bG9vZVdMdDdnRjEwSXBlT25wdC1HXzBlOA?oc=5",
+   "tickers": [
+    "ANTH"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "ANTH",
+   "strength": 35,
+   "reason": "Anthropic hires for AI policy amid Trump tensions; direction unclear, defensive move"
   },
   {
    "date": "2026-08-04T14:36:16.632Z",
@@ -2750,91 +2766,6 @@
    "primary_ticker": "GD",
    "strength": 85,
    "reason": "General Dynamics awarded $1.6B federal contract; large contract is bullish for the awardee."
-  },
-  {
-   "date": "2018-05-17T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "ORACLE HEALTH GOVERNMENT SERVICES, INC. was awarded a $1.5B federal contract from Department of Veterans Affairs.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_36C10B18N0003_3600_36C10B18D5000_3600",
-   "tickers": [
-    "ORCL"
-   ],
-   "contract_amount": 1.51,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "ORCL",
-   "strength": 80,
-   "reason": "Oracle subsidiary awarded $1.5B VA contract; bullish for parent company"
-  },
-  {
-   "date": "2015-11-01T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "AEROJET ROCKETDYNE OF DE, INC was awarded a $3.4B federal contract from National Aeronautics and Space Administration.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_NNM16AA02C_8000_-NONE-_-NONE-",
-   "tickers": [
-    "AJRD"
-   ],
-   "contract_amount": 3.37,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "AJRD",
-   "strength": 85,
-   "reason": "Aerojet Rocketdyne awarded $3.4B NASA contract; large aerospace/defense contract is bullish."
-  },
-  {
-   "date": "2015-09-03T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "NORTHROP GRUMMAN SYSTEMS CORPORATION was awarded a $1.6B federal contract from National Aeronautics and Space Administration.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_NNH15CN76C_8000_-NONE-_-NONE-",
-   "tickers": [
-    "NOC"
-   ],
-   "contract_amount": 1.63,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "NOC",
-   "strength": 85,
-   "reason": "Northrop Grumman awarded $1.6B NASA contract; large defense contract is bullish."
-  },
-  {
-   "date": "2011-12-23T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "LEIDOS, INC. was awarded a $3.1B federal contract from National Science Foundation.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_NSFDACS1219442_4900_-NONE-_-NONE-",
-   "tickers": [
-    "LDOS"
-   ],
-   "contract_amount": 3.12,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "LDOS",
-   "strength": 85,
-   "reason": "Leidos awarded $3.1B NSF contract; large federal contract is bullish."
-  },
-  {
-   "date": "2008-12-04T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "LOCKHEED MARTIN CORP was awarded a $2.0B federal contract from National Aeronautics and Space Administration.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_NNG09HR00C_8000_-NONE-_-NONE-",
-   "tickers": [
-    "LMT"
-   ],
-   "contract_amount": 2.03,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "LMT",
-   "strength": 85,
-   "reason": "Lockheed Martin awarded $2.0B NASA contract; large defense/aerospace contract is bullish."
   }
  ],
  "how_to_read": "Each card is Claude's read of a public Trump post: the affected ticker, whether it implies BUY / SELL / WATCH, a 0\u2013100 strength (how explicit/emphatic the post is \u2014 NOT a profit predictor), and why. A 2-year backtest found these don't beat buy-and-hold, so this is for awareness, not trading. Not financial advice."
