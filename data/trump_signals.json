@@ -1,7 +1,39 @@
 {
- "last_updated": "2026-08-04T17:03:16Z",
+ "last_updated": "2026-08-04T18:52:12Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-08-04T18:15:00Z",
+   "platform": "News",
+   "text": "Trump endorses lawn and garden company while talking to reporters at Oval Office: 'They do great grass' - Attack of the Fanboy \u2014 Trump endorses lawn and garden company while talking to reporters at Oval Office: 'They do great grass'\u00a0\u00a0Attack of the Fanboy",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdkRlS1EzM2huWkNiemhRVnNrMXJIaXhyUHZpTlc5S3pUVU8yWXF6UVo2UXl3RXdCdXFGY29RUVpRYUR6OEl1THA5ZC1ybkREOXdTU3dUWU1xUWVyVldYRWNtZjBKR21sckpFckhoVk1OejFCSUd4SXFwSk5Fa3JadS1LcWNNV1FSMDVzQlJWU0xxbDEtdTFpR2NjdFg2ZUdzNnFvdXhHa19wS2czdGlheTZ0SUd2dHd1YUNoOFF2T0ZBQUE2SEI3U0h4UUdCeDRMeDNKWTB2MA?oc=5",
+   "tickers": [
+    "SMG"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "SMG",
+   "strength": 75,
+   "reason": "Trump explicitly endorses Scotts Miracle-Gro ('great grass') at Oval Office"
+  },
+  {
+   "date": "2026-08-04T17:57:19Z",
+   "platform": "News",
+   "text": "Trump Administration Eyes Curbs on Chinese Optical Transceivers, Expanding AI Technology Fight With Beijing - btimesonline.com \u2014 Trump Administration Eyes Curbs on Chinese Optical Transceivers, Expanding AI Technology Fight With Beijing\u00a0\u00a0btimesonline.com",
+   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNem5DZG9TdVNxclJPN2RKRmJUZzRRTUZXa2NKRFY5SXQtNDhGb3c0c2tDc3ZDRUlVYmJJS0hvejFjRnU0aTBWYnkwQzRvTHJIc19nZlB1U25odTNLWHI4ekh3LU9NMmI1SU1hVzJiR0ZSdGRocHJMV2FRWm9sVkhUeFZrVG9TSXVvbElSWXM4aFAyZFFCcHVYdDhpdHhWcG1hbmhuN1NDdzQ1d09PWktLQk5IZGVKV25kMXBfYlB3QjFvU2c5eFNsQ1RkalhBOGpkemJ4X0RTVXFJUGc0N3Z6NjU4R0N0Skw4RWlOVk1OY2xMTGVoR2RZ?oc=5",
+   "tickers": [
+    "SMH"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "SMH",
+   "strength": 65,
+   "reason": "Trump administration curbs on Chinese optical transceivers; headwind for semiconductor/AI chip supply"
+  },
   {
    "date": "2026-08-04T14:36:16.632Z",
    "platform": "Truth Social",
@@ -52,6 +84,22 @@
    "reason": "Trump explicitly praises Scotts Miracle-Gro by name, calls grass 'great'"
   },
   {
+   "date": "2026-08-04T02:34:00Z",
+   "platform": "News",
+   "text": "'Great grass': Trump plugs Scotts Miracle-Gro, a company that he says did the White House a favor - yahoo.com \u2014 'Great grass': Trump plugs Scotts Miracle-Gro, a company that he says did the White House a favor\u00a0\u00a0yahoo.com",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVFlnVS1WdTlUM1Jvc2w2dVh1Ql9VdERMXzAyTVkxQ2pZNkVuMk4tUmp5aUNuMVNleGJUaU95dUVEWHE4aUplaWMzZXljWE9TZVBqTlFKdTVUMEVraEVJV3pOTEFqaUt1bFltS2c0b2VOb2NoZ21qOFAzS0lHbU9JZTBZM1BUX2oxNmJOdWVmMDAyckUz?oc=5",
+   "tickers": [
+    "SMG"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "SMG",
+   "strength": 78,
+   "reason": "Trump praises and plugs Scotts Miracle-Gro by name; explicit endorsement at White House"
+  },
+  {
    "date": "2026-08-03T22:16:28Z",
    "platform": "News",
    "text": "Trump sells high-dollar investors faster access for $100,000 a month - dailykos.com \u2014 Trump sells high-dollar investors faster access for $100,000 a month\u00a0\u00a0dailykos.com",
@@ -68,9 +116,9 @@
    "reason": "News of Trump monetizing access; potential governance concern for Trump Media shareholder value",
    "price_since": {
     "ticker": "DJT",
-    "pct": 0.0,
+    "pct": 0.2,
     "base": 10.01,
-    "last": 10.01,
+    "last": 10.03,
     "base_date": "2026-08-03",
     "last_date": "2026-08-04"
    }
@@ -92,9 +140,9 @@
    "reason": "Truth Social monetization scheme; uncertain market impact on DJT stock valuations and regulatory/reputational risk.",
    "price_since": {
     "ticker": "DJT",
-    "pct": 0.0,
+    "pct": 0.2,
     "base": 10.01,
-    "last": 10.01,
+    "last": 10.03,
     "base_date": "2026-08-03",
     "last_date": "2026-08-04"
    }
@@ -116,9 +164,9 @@
    "reason": "Battery storage/energy sector news; indirectly related to Trump's energy focus but no direct Trump market call",
    "price_since": {
     "ticker": "TSLA",
-    "pct": 1.0,
+    "pct": 1.9,
     "base": 322.08,
-    "last": 325.46,
+    "last": 328.2,
     "base_date": "2026-08-03",
     "last_date": "2026-08-04"
    }
@@ -140,9 +188,9 @@
    "reason": "Broad market rally attributed to Trump turnaround, macro bullish signal",
    "price_since": {
     "ticker": "SPY",
-    "pct": 1.7,
+    "pct": 1.9,
     "base": 757.67,
-    "last": 770.74,
+    "last": 772.11,
     "base_date": "2026-08-03",
     "last_date": "2026-08-04"
    }
@@ -164,9 +212,9 @@
    "reason": "Market rally attributed to Trump policy; broad market bullish sentiment",
    "price_since": {
     "ticker": "SPY",
-    "pct": 1.7,
+    "pct": 1.9,
     "base": 757.67,
-    "last": 770.74,
+    "last": 772.11,
     "base_date": "2026-08-03",
     "last_date": "2026-08-04"
    }
@@ -188,9 +236,9 @@
    "reason": "Trump disclosed stake in ServiceNow; explicit holdings signal bullish view.",
    "price_since": {
     "ticker": "NOW",
-    "pct": 1.6,
+    "pct": 2.5,
     "base": 114.19,
-    "last": 115.96,
+    "last": 117.01,
     "base_date": "2026-08-03",
     "last_date": "2026-08-04"
    }
@@ -212,9 +260,9 @@
    "reason": "Greenland interest implies rare-earth/critical metals demand; broad industrial/resources play.",
    "price_since": {
     "ticker": "XLI",
-    "pct": 1.6,
+    "pct": 1.8,
     "base": 183.16,
-    "last": 186.09,
+    "last": 186.44,
     "base_date": "2026-08-03",
     "last_date": "2026-08-04"
    }
@@ -236,9 +284,9 @@
    "reason": "Trump Media selling preferential feed access raises insider-trading concerns; bullish for DJT revenue but bearish for governance/regulation risk.",
    "price_since": {
     "ticker": "DJT",
-    "pct": 0.0,
+    "pct": 0.2,
     "base": 10.01,
-    "last": 10.01,
+    "last": 10.03,
     "base_date": "2026-08-03",
     "last_date": "2026-08-04"
    }
@@ -260,9 +308,9 @@
    "reason": "Trump explicitly endorses Dell; direct praise of named public company.",
    "price_since": {
     "ticker": "DELL",
-    "pct": 10.5,
+    "pct": 9.8,
     "base": 429.02,
-    "last": 474.21,
+    "last": 471.25,
     "base_date": "2026-08-03",
     "last_date": "2026-08-04"
    }
@@ -285,9 +333,9 @@
    "reason": "Trump credits his administration for oil industry success; Venezuela re-entry bullish for oil majors; implies energy sector strength",
    "price_since": {
     "ticker": "XLE",
-    "pct": -0.2,
+    "pct": -0.3,
     "base": 58.79,
-    "last": 58.69,
+    "last": 58.62,
     "base_date": "2026-08-03",
     "last_date": "2026-08-04"
    }
@@ -309,9 +357,9 @@
    "reason": "Stock surge attributed to Trump but headline lacks explicit endorsement; direction unclear.",
    "price_since": {
     "ticker": "IBM",
-    "pct": 2.4,
+    "pct": 2.8,
     "base": 226.31,
-    "last": 231.65,
+    "last": 232.61,
     "base_date": "2026-08-03",
     "last_date": "2026-08-04"
    }
@@ -333,9 +381,9 @@
    "reason": "Falling oil prices reduce inflation fears; broad market positive signal.",
    "price_since": {
     "ticker": "SPY",
-    "pct": 1.7,
+    "pct": 1.9,
     "base": 757.67,
-    "last": 770.74,
+    "last": 772.11,
     "base_date": "2026-08-03",
     "last_date": "2026-08-04"
    }
@@ -357,9 +405,9 @@
    "reason": "Trump adviser praises Meta's AI academy; soft bullish signal for Meta",
    "price_since": {
     "ticker": "META",
-    "pct": -1.1,
+    "pct": -0.3,
     "base": 590.24,
-    "last": 583.52,
+    "last": 588.39,
     "base_date": "2026-08-03",
     "last_date": "2026-08-04"
    }
@@ -381,9 +429,9 @@
    "reason": "Trump administration awards IBM $1B federal grant for quantum foundry; explicit federal contract bullish.",
    "price_since": {
     "ticker": "IBM",
-    "pct": 2.4,
+    "pct": 2.8,
     "base": 226.31,
-    "last": 231.65,
+    "last": 232.61,
     "base_date": "2026-08-03",
     "last_date": "2026-08-04"
    }
@@ -405,9 +453,9 @@
    "reason": "Trump lauds Citi's M&A comeback; stock hitting 52-week high on his praise",
    "price_since": {
     "ticker": "C",
-    "pct": 2.9,
+    "pct": 2.6,
     "base": 133.57,
-    "last": 137.41,
+    "last": 137.04,
     "base_date": "2026-08-03",
     "last_date": "2026-08-04"
    }
@@ -429,9 +477,9 @@
    "reason": "Intel rally mentioned alongside Trump but driven by broader factors; unclear signal strength.",
    "price_since": {
     "ticker": "INTC",
-    "pct": 10.2,
+    "pct": 10.8,
     "base": 91.0,
-    "last": 100.32,
+    "last": 100.8,
     "base_date": "2026-08-03",
     "last_date": "2026-08-04"
    }
@@ -453,9 +501,9 @@
    "reason": "Trump praise of yen/currency intervention policy; macro uncertainty, two-sided",
    "price_since": {
     "ticker": "SPY",
-    "pct": 1.7,
+    "pct": 1.9,
     "base": 757.67,
-    "last": 770.74,
+    "last": 772.14,
     "base_date": "2026-08-03",
     "last_date": "2026-08-04"
    }
@@ -477,9 +525,9 @@
    "reason": "Currency intervention and Japan praise suggest forex/trade policy action; ambiguous equity impact",
    "price_since": {
     "ticker": "SPY",
-    "pct": 1.7,
+    "pct": 1.9,
     "base": 757.67,
-    "last": 770.74,
+    "last": 772.14,
     "base_date": "2026-08-03",
     "last_date": "2026-08-04"
    }
@@ -501,9 +549,9 @@
    "reason": "Intel rally attributed partly to Trump support; chip sector tailwind",
    "price_since": {
     "ticker": "INTC",
-    "pct": 10.2,
+    "pct": 10.8,
     "base": 91.0,
-    "last": 100.32,
+    "last": 100.8,
     "base_date": "2026-08-03",
     "last_date": "2026-08-04"
    }
@@ -525,9 +573,9 @@
    "reason": "Trump endorsed Palantir, stock recovered; but prominent short suggests contrarian view and uncertain sustainability",
    "price_since": {
     "ticker": "PLTR",
-    "pct": 29.4,
+    "pct": 29.8,
     "base": 125.65,
-    "last": 162.57,
+    "last": 163.05,
     "base_date": "2026-08-03",
     "last_date": "2026-08-04"
    }
@@ -549,9 +597,9 @@
    "reason": "Trump endorsement buoyed Palantir but contrarian short thesis still active",
    "price_since": {
     "ticker": "PLTR",
-    "pct": 29.4,
+    "pct": 29.8,
     "base": 125.65,
-    "last": 162.56,
+    "last": 163.05,
     "base_date": "2026-08-03",
     "last_date": "2026-08-04"
    }
@@ -573,9 +621,9 @@
    "reason": "Trump explicitly praised Citi's M&A comeback, stock hit 52-week high; direct company endorsement",
    "price_since": {
     "ticker": "C",
-    "pct": 2.9,
+    "pct": 2.6,
     "base": 133.57,
-    "last": 137.41,
+    "last": 137.04,
     "base_date": "2026-08-03",
     "last_date": "2026-08-04"
    }
@@ -598,9 +646,9 @@
    "reason": "federal directive to restore offshore oil unit and pipeline -> energy sector bullish",
    "price_since": {
     "ticker": "XLE",
-    "pct": -0.2,
+    "pct": -0.3,
     "base": 58.79,
-    "last": 58.69,
+    "last": 58.62,
     "base_date": "2026-08-03",
     "last_date": "2026-08-04"
    }
@@ -623,9 +671,9 @@
    "reason": "Energy policy triumph implies bullish outlook for energy sector",
    "price_since": {
     "ticker": "XLE",
-    "pct": -0.2,
+    "pct": -0.3,
     "base": 58.79,
-    "last": 58.69,
+    "last": 58.62,
     "base_date": "2026-08-03",
     "last_date": "2026-08-04"
    }
@@ -647,9 +695,9 @@
    "reason": "Truth Social paid-access feature raises governance/reputational concerns; mixed signal on DJT stock",
    "price_since": {
     "ticker": "DJT",
-    "pct": 0.0,
+    "pct": 0.2,
     "base": 10.01,
-    "last": 10.01,
+    "last": 10.03,
     "base_date": "2026-08-03",
     "last_date": "2026-08-04"
    }
