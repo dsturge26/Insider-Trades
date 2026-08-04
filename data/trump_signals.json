@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-04T18:52:12Z",
+ "last_updated": "2026-08-04T20:24:19Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -50,6 +50,22 @@
    "primary_ticker": "SPY",
    "strength": 35,
    "reason": "Tariffs driving auto-industry hiring suggests near-term economic stimulus for sector"
+  },
+  {
+   "date": "2026-08-04T12:20:06Z",
+   "platform": "News",
+   "text": "'Press conference is sponsored by\u2026': Trump endorses company that's donated thousands to his campaigns - Indy100 \u2014 'Press conference is sponsored by\u2026': Trump endorses company that's donated thousands to his campaigns\u00a0\u00a0Indy100",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE81bl8wNVluWTRLcmJlU0U2cURaMk1XMVZfczBHb0Z4TlF6S1RBNjRleVJObEpPTDd1TEFjWHp5QVdMNmhYMjBTQ3pjeTk0Z0E0VFpVRG1qaXF4R19JNEV1SVpra2lEZWlNZVFOdk1Iel9KSXRFY2pBZGJ0NUQ?oc=5",
+   "tickers": [
+    "SMG"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "SMG",
+   "strength": 70,
+   "reason": "Trump explicitly endorses named company that has donated to his campaigns"
   },
   {
    "date": "2026-08-04T05:39:38Z",
@@ -116,9 +132,9 @@
    "reason": "News of Trump monetizing access; potential governance concern for Trump Media shareholder value",
    "price_since": {
     "ticker": "DJT",
-    "pct": 0.2,
+    "pct": 3.3,
     "base": 10.01,
-    "last": 10.03,
+    "last": 10.34,
     "base_date": "2026-08-03",
     "last_date": "2026-08-04"
    }
@@ -140,9 +156,9 @@
    "reason": "Truth Social monetization scheme; uncertain market impact on DJT stock valuations and regulatory/reputational risk.",
    "price_since": {
     "ticker": "DJT",
-    "pct": 0.2,
+    "pct": 3.3,
     "base": 10.01,
-    "last": 10.03,
+    "last": 10.34,
     "base_date": "2026-08-03",
     "last_date": "2026-08-04"
    }
@@ -164,9 +180,9 @@
    "reason": "Battery storage/energy sector news; indirectly related to Trump's energy focus but no direct Trump market call",
    "price_since": {
     "ticker": "TSLA",
-    "pct": 1.9,
+    "pct": 1.6,
     "base": 322.08,
-    "last": 328.2,
+    "last": 327.35,
     "base_date": "2026-08-03",
     "last_date": "2026-08-04"
    }
@@ -188,9 +204,9 @@
    "reason": "Broad market rally attributed to Trump turnaround, macro bullish signal",
    "price_since": {
     "ticker": "SPY",
-    "pct": 1.9,
+    "pct": 1.8,
     "base": 757.67,
-    "last": 772.11,
+    "last": 771.33,
     "base_date": "2026-08-03",
     "last_date": "2026-08-04"
    }
@@ -212,9 +228,9 @@
    "reason": "Market rally attributed to Trump policy; broad market bullish sentiment",
    "price_since": {
     "ticker": "SPY",
-    "pct": 1.9,
+    "pct": 1.8,
     "base": 757.67,
-    "last": 772.11,
+    "last": 771.33,
     "base_date": "2026-08-03",
     "last_date": "2026-08-04"
    }
@@ -236,9 +252,9 @@
    "reason": "Trump disclosed stake in ServiceNow; explicit holdings signal bullish view.",
    "price_since": {
     "ticker": "NOW",
-    "pct": 2.5,
+    "pct": 3.5,
     "base": 114.19,
-    "last": 117.01,
+    "last": 118.14,
     "base_date": "2026-08-03",
     "last_date": "2026-08-04"
    }
@@ -262,7 +278,7 @@
     "ticker": "XLI",
     "pct": 1.8,
     "base": 183.16,
-    "last": 186.44,
+    "last": 186.38,
     "base_date": "2026-08-03",
     "last_date": "2026-08-04"
    }
@@ -284,9 +300,9 @@
    "reason": "Trump Media selling preferential feed access raises insider-trading concerns; bullish for DJT revenue but bearish for governance/regulation risk.",
    "price_since": {
     "ticker": "DJT",
-    "pct": 0.2,
+    "pct": 3.3,
     "base": 10.01,
-    "last": 10.03,
+    "last": 10.34,
     "base_date": "2026-08-03",
     "last_date": "2026-08-04"
    }
@@ -308,9 +324,33 @@
    "reason": "Trump explicitly endorses Dell; direct praise of named public company.",
    "price_since": {
     "ticker": "DELL",
-    "pct": 9.8,
+    "pct": 8.9,
     "base": 429.02,
-    "last": 471.25,
+    "last": 467.27,
+    "base_date": "2026-08-03",
+    "last_date": "2026-08-04"
+   }
+  },
+  {
+   "date": "2026-08-03T14:15:09Z",
+   "platform": "News",
+   "text": "Falling oil prices help calm worries about inflation, and Wall Street rallies - orlandosentinel.com \u2014 Falling oil prices help calm worries about inflation, and Wall Street rallies\u00a0\u00a0orlandosentinel.com",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAyWG50UndxQkljYkxtZERnNVl5R2lyQmpWSnFNNldyY2NpdzlzQkJJcjZpVW5tMTJtNVZ5NnFlR0JUd0pTOG9qdEFuVFlVOWxVME9mSXdkUkhEWURWWlNfZlBmQldRYnBCMVJqNFVpaVJ2Ni11UGFyY29BQWo?oc=5",
+   "tickers": [
+    "USO"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "USO",
+   "strength": 50,
+   "reason": "Falling oil prices reduce inflation concerns, supporting broad market and oil sector",
+   "price_since": {
+    "ticker": "USO",
+    "pct": -5.2,
+    "base": 122.12,
+    "last": 115.78,
     "base_date": "2026-08-03",
     "last_date": "2026-08-04"
    }
@@ -333,9 +373,9 @@
    "reason": "Trump credits his administration for oil industry success; Venezuela re-entry bullish for oil majors; implies energy sector strength",
    "price_since": {
     "ticker": "XLE",
-    "pct": -0.3,
+    "pct": -0.5,
     "base": 58.79,
-    "last": 58.62,
+    "last": 58.52,
     "base_date": "2026-08-03",
     "last_date": "2026-08-04"
    }
@@ -357,9 +397,9 @@
    "reason": "Stock surge attributed to Trump but headline lacks explicit endorsement; direction unclear.",
    "price_since": {
     "ticker": "IBM",
-    "pct": 2.8,
+    "pct": 3.9,
     "base": 226.31,
-    "last": 232.61,
+    "last": 235.15,
     "base_date": "2026-08-03",
     "last_date": "2026-08-04"
    }
@@ -381,9 +421,9 @@
    "reason": "Falling oil prices reduce inflation fears; broad market positive signal.",
    "price_since": {
     "ticker": "SPY",
-    "pct": 1.9,
+    "pct": 1.8,
     "base": 757.67,
-    "last": 772.11,
+    "last": 771.33,
     "base_date": "2026-08-03",
     "last_date": "2026-08-04"
    }
@@ -405,9 +445,9 @@
    "reason": "Trump adviser praises Meta's AI academy; soft bullish signal for Meta",
    "price_since": {
     "ticker": "META",
-    "pct": -0.3,
+    "pct": -0.4,
     "base": 590.24,
-    "last": 588.39,
+    "last": 587.94,
     "base_date": "2026-08-03",
     "last_date": "2026-08-04"
    }
@@ -429,9 +469,9 @@
    "reason": "Trump administration awards IBM $1B federal grant for quantum foundry; explicit federal contract bullish.",
    "price_since": {
     "ticker": "IBM",
-    "pct": 2.8,
+    "pct": 3.9,
     "base": 226.31,
-    "last": 232.61,
+    "last": 235.15,
     "base_date": "2026-08-03",
     "last_date": "2026-08-04"
    }
@@ -453,9 +493,9 @@
    "reason": "Trump lauds Citi's M&A comeback; stock hitting 52-week high on his praise",
    "price_since": {
     "ticker": "C",
-    "pct": 2.6,
+    "pct": 2.5,
     "base": 133.57,
-    "last": 137.04,
+    "last": 136.87,
     "base_date": "2026-08-03",
     "last_date": "2026-08-04"
    }
@@ -479,7 +519,7 @@
     "ticker": "INTC",
     "pct": 10.8,
     "base": 91.0,
-    "last": 100.8,
+    "last": 100.86,
     "base_date": "2026-08-03",
     "last_date": "2026-08-04"
    }
@@ -501,9 +541,9 @@
    "reason": "Trump praise of yen/currency intervention policy; macro uncertainty, two-sided",
    "price_since": {
     "ticker": "SPY",
-    "pct": 1.9,
+    "pct": 1.8,
     "base": 757.67,
-    "last": 772.14,
+    "last": 771.33,
     "base_date": "2026-08-03",
     "last_date": "2026-08-04"
    }
@@ -525,9 +565,9 @@
    "reason": "Currency intervention and Japan praise suggest forex/trade policy action; ambiguous equity impact",
    "price_since": {
     "ticker": "SPY",
-    "pct": 1.9,
+    "pct": 1.8,
     "base": 757.67,
-    "last": 772.14,
+    "last": 771.33,
     "base_date": "2026-08-03",
     "last_date": "2026-08-04"
    }
@@ -551,7 +591,7 @@
     "ticker": "INTC",
     "pct": 10.8,
     "base": 91.0,
-    "last": 100.8,
+    "last": 100.86,
     "base_date": "2026-08-03",
     "last_date": "2026-08-04"
    }
@@ -573,9 +613,9 @@
    "reason": "Trump endorsed Palantir, stock recovered; but prominent short suggests contrarian view and uncertain sustainability",
    "price_since": {
     "ticker": "PLTR",
-    "pct": 29.8,
+    "pct": 29.5,
     "base": 125.65,
-    "last": 163.05,
+    "last": 162.66,
     "base_date": "2026-08-03",
     "last_date": "2026-08-04"
    }
@@ -597,9 +637,9 @@
    "reason": "Trump endorsement buoyed Palantir but contrarian short thesis still active",
    "price_since": {
     "ticker": "PLTR",
-    "pct": 29.8,
+    "pct": 29.5,
     "base": 125.65,
-    "last": 163.05,
+    "last": 162.66,
     "base_date": "2026-08-03",
     "last_date": "2026-08-04"
    }
@@ -621,9 +661,9 @@
    "reason": "Trump explicitly praised Citi's M&A comeback, stock hit 52-week high; direct company endorsement",
    "price_since": {
     "ticker": "C",
-    "pct": 2.6,
+    "pct": 2.5,
     "base": 133.57,
-    "last": 137.04,
+    "last": 136.87,
     "base_date": "2026-08-03",
     "last_date": "2026-08-04"
    }
@@ -2757,23 +2797,6 @@
    "primary_ticker": "BA",
    "strength": 90,
    "reason": "Large $22.4B federal contract award to publicly traded aerospace/defense contractor is bullish"
-  },
-  {
-   "date": "1993-10-15T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "LOCKHEED MARTIN CORP was awarded a $48.1B federal contract from Department of Energy.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_DEAC0494AL85000_8900_-NONE-_-NONE-",
-   "tickers": [
-    "LMT"
-   ],
-   "contract_amount": 48.06,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "LMT",
-   "strength": 90,
-   "reason": "Large $48.1B federal contract award to publicly traded defense contractor is highly bullish"
   }
  ],
  "how_to_read": "Each card is Claude's read of a public Trump post: the affected ticker, whether it implies BUY / SELL / WATCH, a 0\u2013100 strength (how explicit/emphatic the post is \u2014 NOT a profit predictor), and why. A 2-year backtest found these don't beat buy-and-hold, so this is for awareness, not trading. Not financial advice."
