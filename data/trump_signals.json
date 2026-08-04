@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-04T15:00:57Z",
+ "last_updated": "2026-08-04T17:03:16Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -68,9 +68,9 @@
    "reason": "News of Trump monetizing access; potential governance concern for Trump Media shareholder value",
    "price_since": {
     "ticker": "DJT",
-    "pct": -0.1,
+    "pct": 0.0,
     "base": 10.01,
-    "last": 10.0,
+    "last": 10.01,
     "base_date": "2026-08-03",
     "last_date": "2026-08-04"
    }
@@ -92,9 +92,9 @@
    "reason": "Truth Social monetization scheme; uncertain market impact on DJT stock valuations and regulatory/reputational risk.",
    "price_since": {
     "ticker": "DJT",
-    "pct": -0.1,
+    "pct": 0.0,
     "base": 10.01,
-    "last": 10.0,
+    "last": 10.01,
     "base_date": "2026-08-03",
     "last_date": "2026-08-04"
    }
@@ -116,9 +116,9 @@
    "reason": "Battery storage/energy sector news; indirectly related to Trump's energy focus but no direct Trump market call",
    "price_since": {
     "ticker": "TSLA",
-    "pct": 0.7,
+    "pct": 1.0,
     "base": 322.08,
-    "last": 324.33,
+    "last": 325.46,
     "base_date": "2026-08-03",
     "last_date": "2026-08-04"
    }
@@ -140,9 +140,9 @@
    "reason": "Broad market rally attributed to Trump turnaround, macro bullish signal",
    "price_since": {
     "ticker": "SPY",
-    "pct": 1.1,
+    "pct": 1.7,
     "base": 757.67,
-    "last": 766.27,
+    "last": 770.74,
     "base_date": "2026-08-03",
     "last_date": "2026-08-04"
    }
@@ -164,9 +164,9 @@
    "reason": "Market rally attributed to Trump policy; broad market bullish sentiment",
    "price_since": {
     "ticker": "SPY",
-    "pct": 1.1,
+    "pct": 1.7,
     "base": 757.67,
-    "last": 766.27,
+    "last": 770.74,
     "base_date": "2026-08-03",
     "last_date": "2026-08-04"
    }
@@ -188,9 +188,9 @@
    "reason": "Trump disclosed stake in ServiceNow; explicit holdings signal bullish view.",
    "price_since": {
     "ticker": "NOW",
-    "pct": 0.9,
+    "pct": 1.6,
     "base": 114.19,
-    "last": 115.19,
+    "last": 115.96,
     "base_date": "2026-08-03",
     "last_date": "2026-08-04"
    }
@@ -212,9 +212,9 @@
    "reason": "Greenland interest implies rare-earth/critical metals demand; broad industrial/resources play.",
    "price_since": {
     "ticker": "XLI",
-    "pct": 0.8,
+    "pct": 1.6,
     "base": 183.16,
-    "last": 184.7,
+    "last": 186.09,
     "base_date": "2026-08-03",
     "last_date": "2026-08-04"
    }
@@ -236,9 +236,9 @@
    "reason": "Trump Media selling preferential feed access raises insider-trading concerns; bullish for DJT revenue but bearish for governance/regulation risk.",
    "price_since": {
     "ticker": "DJT",
-    "pct": -0.1,
+    "pct": 0.0,
     "base": 10.01,
-    "last": 10.0,
+    "last": 10.01,
     "base_date": "2026-08-03",
     "last_date": "2026-08-04"
    }
@@ -260,9 +260,9 @@
    "reason": "Trump explicitly endorses Dell; direct praise of named public company.",
    "price_since": {
     "ticker": "DELL",
-    "pct": 6.4,
+    "pct": 10.5,
     "base": 429.02,
-    "last": 456.59,
+    "last": 474.21,
     "base_date": "2026-08-03",
     "last_date": "2026-08-04"
    }
@@ -285,9 +285,9 @@
    "reason": "Trump credits his administration for oil industry success; Venezuela re-entry bullish for oil majors; implies energy sector strength",
    "price_since": {
     "ticker": "XLE",
-    "pct": -0.4,
+    "pct": -0.2,
     "base": 58.79,
-    "last": 58.54,
+    "last": 58.69,
     "base_date": "2026-08-03",
     "last_date": "2026-08-04"
    }
@@ -309,9 +309,9 @@
    "reason": "Stock surge attributed to Trump but headline lacks explicit endorsement; direction unclear.",
    "price_since": {
     "ticker": "IBM",
-    "pct": 1.1,
+    "pct": 2.4,
     "base": 226.31,
-    "last": 228.77,
+    "last": 231.65,
     "base_date": "2026-08-03",
     "last_date": "2026-08-04"
    }
@@ -333,9 +333,9 @@
    "reason": "Falling oil prices reduce inflation fears; broad market positive signal.",
    "price_since": {
     "ticker": "SPY",
-    "pct": 1.1,
+    "pct": 1.7,
     "base": 757.67,
-    "last": 766.28,
+    "last": 770.74,
     "base_date": "2026-08-03",
     "last_date": "2026-08-04"
    }
@@ -357,9 +357,33 @@
    "reason": "Trump adviser praises Meta's AI academy; soft bullish signal for Meta",
    "price_since": {
     "ticker": "META",
-    "pct": -1.5,
+    "pct": -1.1,
     "base": 590.24,
-    "last": 581.53,
+    "last": 583.52,
+    "base_date": "2026-08-03",
+    "last_date": "2026-08-04"
+   }
+  },
+  {
+   "date": "2026-08-03T06:08:30Z",
+   "platform": "News",
+   "text": "IBM Stock Rallies On Trump Administration\u2019s $1B Grant: Analysts Say \u2018Big Blue\u2019 Could Become First US Quantum Foundry - Stocktwits \u2014 IBM Stock Rallies On Trump Administration\u2019s $1B Grant: Analysts Say \u2018Big Blue\u2019 Could Become First US Quantum Foundry\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOVG52c0VBRjZ6TzVuLThuSWdTN3NxMlIzUEc0aWVkUllDZDJMSVVMRlo1Rkgxb1Rja2swU1JlcVhlbmg4ejlfeGJoRGkzVG1VSEM4ZC1McWtGQnNVYklYVjYwQVliTHRoX3NqZDJZV0dlQ2NTaC1NaHhFaVAtdmVjdzVGcFhSangwdDluaTltYXZ3TXhaWWxISmlPREpkQ0N2VHdEMENJUkpDaDBGcUhSdXFZdExXbkhPaENSWlAxbVhPS3EyTnoyc3NoX2RpOXNqeEFYaFhhaGYxQUxRaWR0QUJwQ0J5VmhBY3ZpOV9YMVNjeUZlRHRzVXBLS3BpSER4VXpVWTVsYS1aZw?oc=5",
+   "tickers": [
+    "IBM"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "IBM",
+   "strength": 80,
+   "reason": "Trump administration awards IBM $1B federal grant for quantum foundry; explicit federal contract bullish.",
+   "price_since": {
+    "ticker": "IBM",
+    "pct": 2.4,
+    "base": 226.31,
+    "last": 231.65,
     "base_date": "2026-08-03",
     "last_date": "2026-08-04"
    }
@@ -381,9 +405,9 @@
    "reason": "Trump lauds Citi's M&A comeback; stock hitting 52-week high on his praise",
    "price_since": {
     "ticker": "C",
-    "pct": 3.3,
+    "pct": 2.9,
     "base": 133.57,
-    "last": 137.96,
+    "last": 137.41,
     "base_date": "2026-08-03",
     "last_date": "2026-08-04"
    }
@@ -405,9 +429,9 @@
    "reason": "Intel rally mentioned alongside Trump but driven by broader factors; unclear signal strength.",
    "price_since": {
     "ticker": "INTC",
-    "pct": 8.4,
+    "pct": 10.2,
     "base": 91.0,
-    "last": 98.64,
+    "last": 100.32,
     "base_date": "2026-08-03",
     "last_date": "2026-08-04"
    }
@@ -429,9 +453,9 @@
    "reason": "Trump praise of yen/currency intervention policy; macro uncertainty, two-sided",
    "price_since": {
     "ticker": "SPY",
-    "pct": 1.1,
+    "pct": 1.7,
     "base": 757.67,
-    "last": 766.28,
+    "last": 770.74,
     "base_date": "2026-08-03",
     "last_date": "2026-08-04"
    }
@@ -453,9 +477,9 @@
    "reason": "Currency intervention and Japan praise suggest forex/trade policy action; ambiguous equity impact",
    "price_since": {
     "ticker": "SPY",
-    "pct": 1.1,
+    "pct": 1.7,
     "base": 757.67,
-    "last": 766.28,
+    "last": 770.74,
     "base_date": "2026-08-03",
     "last_date": "2026-08-04"
    }
@@ -477,9 +501,9 @@
    "reason": "Intel rally attributed partly to Trump support; chip sector tailwind",
    "price_since": {
     "ticker": "INTC",
-    "pct": 8.4,
+    "pct": 10.2,
     "base": 91.0,
-    "last": 98.64,
+    "last": 100.32,
     "base_date": "2026-08-03",
     "last_date": "2026-08-04"
    }
@@ -501,9 +525,9 @@
    "reason": "Trump endorsed Palantir, stock recovered; but prominent short suggests contrarian view and uncertain sustainability",
    "price_since": {
     "ticker": "PLTR",
-    "pct": 25.3,
+    "pct": 29.4,
     "base": 125.65,
-    "last": 157.43,
+    "last": 162.57,
     "base_date": "2026-08-03",
     "last_date": "2026-08-04"
    }
@@ -525,9 +549,9 @@
    "reason": "Trump endorsement buoyed Palantir but contrarian short thesis still active",
    "price_since": {
     "ticker": "PLTR",
-    "pct": 25.3,
+    "pct": 29.4,
     "base": 125.65,
-    "last": 157.43,
+    "last": 162.56,
     "base_date": "2026-08-03",
     "last_date": "2026-08-04"
    }
@@ -549,9 +573,9 @@
    "reason": "Trump explicitly praised Citi's M&A comeback, stock hit 52-week high; direct company endorsement",
    "price_since": {
     "ticker": "C",
-    "pct": 3.3,
+    "pct": 2.9,
     "base": 133.57,
-    "last": 137.94,
+    "last": 137.41,
     "base_date": "2026-08-03",
     "last_date": "2026-08-04"
    }
@@ -574,9 +598,9 @@
    "reason": "federal directive to restore offshore oil unit and pipeline -> energy sector bullish",
    "price_since": {
     "ticker": "XLE",
-    "pct": -0.5,
+    "pct": -0.2,
     "base": 58.79,
-    "last": 58.5,
+    "last": 58.69,
     "base_date": "2026-08-03",
     "last_date": "2026-08-04"
    }
@@ -599,9 +623,9 @@
    "reason": "Energy policy triumph implies bullish outlook for energy sector",
    "price_since": {
     "ticker": "XLE",
-    "pct": -0.4,
+    "pct": -0.2,
     "base": 58.79,
-    "last": 58.54,
+    "last": 58.69,
     "base_date": "2026-08-03",
     "last_date": "2026-08-04"
    }
@@ -623,33 +647,9 @@
    "reason": "Truth Social paid-access feature raises governance/reputational concerns; mixed signal on DJT stock",
    "price_since": {
     "ticker": "DJT",
-    "pct": -0.1,
+    "pct": 0.0,
     "base": 10.01,
-    "last": 10.0,
-    "base_date": "2026-08-03",
-    "last_date": "2026-08-04"
-   }
-  },
-  {
-   "date": "2026-08-02T10:09:07Z",
-   "platform": "News",
-   "text": "IBM Stock Rallies On Trump Administration\u2019s $1B Grant: Analysts Say \u2018Big Blue\u2019 Could Become First US Quantum Foundry - Stocktwits \u2014 IBM Stock Rallies On Trump Administration\u2019s $1B Grant: Analysts Say \u2018Big Blue\u2019 Could Become First US Quantum Foundry\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOVG52c0VBRjZ6TzVuLThuSWdTN3NxMlIzUEc0aWVkUllDZDJMSVVMRlo1Rkgxb1Rja2swU1JlcVhlbmg4ejlfeGJoRGkzVG1VSEM4ZC1McWtGQnNVYklYVjYwQVliTHRoX3NqZDJZV0dlQ2NTaC1NaHhFaVAtdmVjdzVGcFhSangwdDluaTltYXZ3TXhaWWxISmlPREpkQ0N2VHdEMENJUkpDaDBGcUhSdXFZdExXbkhPaENSWlAxbVhPS3EyTnoyc3NoX2RpOXNqeEFYaFhhaGYxQUxRaWR0QUJwQ0J5VmhBY3ZpOV9YMVNjeUZlRHRzVXBLS3BpSER4VXpVWTVsYS1aZw?oc=5",
-   "tickers": [
-    "IBM"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "IBM",
-   "strength": 75,
-   "reason": "$1B federal grant to IBM for quantum foundry; direct federal contract to named public company",
-   "price_since": {
-    "ticker": "IBM",
-    "pct": 1.1,
-    "base": 226.31,
-    "last": 228.77,
+    "last": 10.01,
     "base_date": "2026-08-03",
     "last_date": "2026-08-04"
    }
