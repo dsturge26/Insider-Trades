@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-05T20:26:39Z",
+ "last_updated": "2026-08-05T21:47:40Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -49,6 +49,22 @@
    "primary_ticker": "IBM",
    "strength": 40,
    "reason": "Stock surge overnight; no Trump-specific catalyst stated."
+  },
+  {
+   "date": "2026-08-05T12:47:28Z",
+   "platform": "News",
+   "text": "Mike Lindell resigns as MyPillow CEO to focus on campaign - NewsNation \u2014 Mike Lindell resigns as MyPillow CEO to focus on campaign\u00a0\u00a0NewsNation",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRkdtLTVybDB3N2k1Z2pQZTlrcGJRU0JJTTItOG90QThEekRESnVKRDRJWV9jMGVaWmpPTzd1OG4yeEdDUlRIX01XWEJJSnhySHBmU1JybkN0RDFqSVJUVXExcG04TU1ILVp5WGRvaTZMbWN0Wjl0MnRpMExIUUloV3hSRdIBgwFBVV95cUxQRkdtLTVybDB3N2k1Z2pQZTlrcGJRU0JJTTItOG90QThEekRESnVKRDRJWV9jMGVaWmpPTzd1OG4yeEdDUlRIX01XWEJJSnhySHBmU1JybkN0RDFqSVJUVXExcG04TU1ILVp5WGRvaTZMbWN0Wjl0MnRpMExIUUloV3hSRQ?oc=5",
+   "tickers": [
+    "MYPL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "MYPL",
+   "strength": 45,
+   "reason": "MyPillow CEO resigns; leadership departure and focus shift away from core business is bearish"
   },
   {
    "date": "2026-08-05T12:07:00Z",
@@ -150,7 +166,7 @@
     "ticker": "SPY",
     "pct": -0.2,
     "base": 771.33,
-    "last": 769.77,
+    "last": 769.79,
     "base_date": "2026-08-04",
     "last_date": "2026-08-05"
    }
@@ -239,7 +255,7 @@
     "ticker": "SPY",
     "pct": -0.2,
     "base": 771.33,
-    "last": 769.77,
+    "last": 769.79,
     "base_date": "2026-08-04",
     "last_date": "2026-08-05"
    }
@@ -352,7 +368,7 @@
     "ticker": "SPY",
     "pct": -0.2,
     "base": 771.33,
-    "last": 769.77,
+    "last": 769.79,
     "base_date": "2026-08-04",
     "last_date": "2026-08-05"
    }
@@ -544,7 +560,7 @@
     "ticker": "SPY",
     "pct": 1.6,
     "base": 757.67,
-    "last": 769.77,
+    "last": 769.79,
     "base_date": "2026-08-03",
     "last_date": "2026-08-05"
    }
@@ -568,7 +584,7 @@
     "ticker": "SPY",
     "pct": 1.6,
     "base": 757.67,
-    "last": 769.77,
+    "last": 769.79,
     "base_date": "2026-08-03",
     "last_date": "2026-08-05"
    }
@@ -592,7 +608,7 @@
     "ticker": "SPY",
     "pct": 1.6,
     "base": 757.67,
-    "last": 769.77,
+    "last": 769.79,
     "base_date": "2026-08-03",
     "last_date": "2026-08-05"
    }
@@ -2803,6 +2819,23 @@
     "base_date": "2026-07-28",
     "last_date": "2026-07-30"
    }
+  },
+  {
+   "date": "2026-07-28T17:24:57.958Z",
+   "platform": "Truth Social",
+   "text": "Tariffs pull, USMCA pushes: Toyota to Texas: https://thehill.com/opinion/white-house/5965989-toyota-texas-tacoma-tariffs-impact/",
+   "tickers": [
+    "TM"
+   ],
+   "engagement": 10882,
+   "url": "https://truthsocial.com/@realDonaldTrump/116998766458372558",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "TM",
+   "strength": 50,
+   "reason": "Toyota expands US manufacturing (Texas) driven by tariff environment shift and USMCA; bullish for automaker and US operations."
   },
   {
    "curated": true,
