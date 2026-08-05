@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-05T09:06:35Z",
+ "last_updated": "2026-08-05T11:29:25Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -82,6 +82,22 @@
    "primary_ticker": "MYPW",
    "strength": 20,
    "reason": "Trump endorsement of MyPillow CEO for political race; unclear market impact"
+  },
+  {
+   "date": "2026-08-04T21:53:57Z",
+   "platform": "News",
+   "text": "DELL Stock Spikes To Record Highs On President Trump\u2019s Endorsement - Stocktwits \u2014 DELL Stock Spikes To Record Highs On President Trump\u2019s Endorsement\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYWF1OUgweFU0d1NlNU4ya1FYQVJSVTRCX3IwM0NMd19VVmN5RzNtUmc1c2FhTU9abXdnTmVnMDE2QUxna3ZrUEF3Zkd0SFUtOWx3QkF2elBuNkNTcmZDRm1BRUkwMVRwYU0xaUVsWDZLSk0yeEtiMFFPV0t3ZXZ3OW15QUg5V0xHNnRrU1J5VXdvX09Oa0ZmRmJvV0VTVlFRRFh6c3E5RmtHckx0MXpNVVZTWmJpLTUtUXBHSG5pWEFfQll0ejRneDFB?oc=5",
+   "tickers": [
+    "DELL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "DELL",
+   "strength": 85,
+   "reason": "Trump explicitly endorses Dell; stock spikes on direct Trump praise"
   },
   {
    "date": "2026-08-04T20:38:42.973Z",
@@ -382,6 +398,30 @@
    }
   },
   {
+   "date": "2026-08-03T18:04:20Z",
+   "platform": "News",
+   "text": "Pence: It\u2019s Time for Trump \u2018to Unleash the Armed Forces\u2019 on Iran - breitbart.com \u2014 Pence: It\u2019s Time for Trump \u2018to Unleash the Armed Forces\u2019 on Iran\u00a0\u00a0breitbart.com",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMnZVX3VRTGxlNDByMDFBRXN4LTk2d3E5emNsWE5FeTNleVp1cHl0VFo0ZkN4dnVaMl9QdlIzakpCQm4xSDBUNmE0UE1KYzRBM1JSSVlQUDZUQ3l3N05pYjdiZDltZ1ZTckRQUnk1SUxyd2ZkUjlibVF4VVdQNGJocmZqdk5ILVdOaFVDZ0xPc0NXcWtDbXluN2lHYXRKdzVaeUtweGFHRdIBrAFBVV95cUxPOEdBdXZVZ2pLUVBhOHZNV0hUcjJNU1ZycWNYUk5vU2stMWNhRlhGbWpxX2ZEVlplX2FUeXc4dVpxN2Y2aWJFU3g0TGMxUlFLSkFycS11QzJpM2pHalphamI0VmRpZFg2XzMwLUZaSEVGaUxVVXU4ekdqbHUwTF9Lcm45MkFWeURhc1dMNnZsdnNQWjhfbWMxbF9makg1Ym5wOXAzZTFlVXV4N1Fx?oc=5",
+   "tickers": [
+    "XAR"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "XAR",
+   "strength": 55,
+   "reason": "potential military escalation with Iran bullish for defense sector",
+   "price_since": {
+    "ticker": "XAR",
+    "pct": 3.1,
+    "base": 273.63,
+    "last": 282.09,
+    "base_date": "2026-08-03",
+    "last_date": "2026-08-04"
+   }
+  },
+  {
    "date": "2026-08-03T17:59:28Z",
    "platform": "News",
    "text": "Critical Metals Stock Surges As Trump Sets Sights On Greenland Yet Again: 'Big, Poorly Run, Piece Of Ice!' - Stocktwits \u2014 Critical Metals Stock Surges As Trump Sets Sights On Greenland Yet Again: 'Big, Poorly Run, Piece Of Ice!'\u00a0\u00a0Stocktwits",
@@ -425,30 +465,6 @@
     "pct": 3.3,
     "base": 10.01,
     "last": 10.34,
-    "base_date": "2026-08-03",
-    "last_date": "2026-08-04"
-   }
-  },
-  {
-   "date": "2026-08-03T15:20:13Z",
-   "platform": "News",
-   "text": "DELL Stock Spikes To Record Highs On President Trump\u2019s Endorsement - Stocktwits \u2014 DELL Stock Spikes To Record Highs On President Trump\u2019s Endorsement\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYWF1OUgweFU0d1NlNU4ya1FYQVJSVTRCX3IwM0NMd19VVmN5RzNtUmc1c2FhTU9abXdnTmVnMDE2QUxna3ZrUEF3Zkd0SFUtOWx3QkF2elBuNkNTcmZDRm1BRUkwMVRwYU0xaUVsWDZLSk0yeEtiMFFPV0t3ZXZ3OW15QUg5V0xHNnRrU1J5VXdvX09Oa0ZmRmJvV0VTVlFRRFh6c3E5RmtHckx0MXpNVVZTWmJpLTUtUXBHSG5pWEFfQll0ejRneDFB?oc=5",
-   "tickers": [
-    "DELL"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "DELL",
-   "strength": 85,
-   "reason": "Trump explicitly endorses Dell; direct praise of named public company.",
-   "price_since": {
-    "ticker": "DELL",
-    "pct": 8.9,
-    "base": 429.02,
-    "last": 467.27,
     "base_date": "2026-08-03",
     "last_date": "2026-08-04"
    }
