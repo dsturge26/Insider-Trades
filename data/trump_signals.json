@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-08-05T18:52:25Z",
+ "last_updated": "2026-08-05T20:26:39Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-08-05T17:24:54Z",
+   "platform": "News",
+   "text": "Trump Weighs In On Elon Musk, OpenAI, Intel \u2014 And Takes Aim At The 'Hostile' Fed Board - Stocktwits \u2014 Trump Weighs In On Elon Musk, OpenAI, Intel \u2014 And Takes Aim At The 'Hostile' Fed Board\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSGdkS2RRUEt3TWdWdW8yWkZrN0NfU1lZak10VExCWGktUlg3enppTzF4UnpEVjg3YVZRR2JqRmFYdTVBQTdIcmJHYVFkX2ZtcHFiREF5UWZ3NExDNTJhTnd2VE5HM1A1WFZnVEpoY0Rfa1BYMVJrZ0lKNlhDdDBKVW41S0dCOTdncW5jWEhHRkZMU0lERlF4MlFyU0xxTXFNS25wMWVoa1c3SkliajdkUDUtTDdUWnZmUnI5aUhNeHJreTBacEE0Zk1WZVMzMXpfUDFIeU9GSEN2N2liM2c?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "SPY",
+   "strength": 35,
+   "reason": "Trump comments on Musk, OpenAI, Intel, and Fed; macro-relevant but direction unclear without specifics."
+  },
   {
    "date": "2026-08-05T15:37:11Z",
    "platform": "News",
@@ -83,9 +99,9 @@
    "reason": "Proposed curbs on Chinese optical transceivers widens AI/semiconductor trade restrictions, bearish for chip supply chains and semiconductor sector.",
    "price_since": {
     "ticker": "SMH",
-    "pct": -0.0,
+    "pct": -1.0,
     "base": 575.71,
-    "last": 575.63,
+    "last": 569.7,
     "base_date": "2026-08-04",
     "last_date": "2026-08-05"
    }
@@ -108,9 +124,9 @@
    "reason": "Regulatory rollback of Endangered Species Act restrictions on oil, gas, and timber production; explicitly bullish for energy and natural resources.",
    "price_since": {
     "ticker": "XLE",
-    "pct": -1.7,
+    "pct": -2.1,
     "base": 58.52,
-    "last": 57.53,
+    "last": 57.31,
     "base_date": "2026-08-04",
     "last_date": "2026-08-05"
    }
@@ -132,9 +148,9 @@
    "reason": "Potential trade deal (Hormuz talks accelerating) typically bullish for broad market",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.0,
+    "pct": -0.2,
     "base": 771.33,
-    "last": 771.68,
+    "last": 769.77,
     "base_date": "2026-08-04",
     "last_date": "2026-08-05"
    }
@@ -172,9 +188,9 @@
    "reason": "Trump explicitly endorses Mike Lindell; bullish for MyPillow",
    "price_since": {
     "ticker": "MYRG",
-    "pct": 0.1,
+    "pct": -1.9,
     "base": 340.33,
-    "last": 340.57,
+    "last": 333.77,
     "base_date": "2026-08-04",
     "last_date": "2026-08-05"
    }
@@ -196,9 +212,9 @@
    "reason": "Trump explicitly endorses Dell; stock spikes on direct Trump praise",
    "price_since": {
     "ticker": "DELL",
-    "pct": 2.0,
+    "pct": -1.0,
     "base": 467.27,
-    "last": 476.57,
+    "last": 462.7,
     "base_date": "2026-08-04",
     "last_date": "2026-08-05"
    }
@@ -221,9 +237,9 @@
    "reason": "Strong manufacturing data and record stock market; broad macro bullish signal but no specific catalyst or company named",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.0,
+    "pct": -0.2,
     "base": 771.33,
-    "last": 771.68,
+    "last": 769.77,
     "base_date": "2026-08-04",
     "last_date": "2026-08-05"
    }
@@ -245,9 +261,9 @@
    "reason": "Political opposition to Lindell weakens his profile; bearish for MyPillow",
    "price_since": {
     "ticker": "MYRG",
-    "pct": 0.1,
+    "pct": -1.9,
     "base": 340.33,
-    "last": 340.57,
+    "last": 333.77,
     "base_date": "2026-08-04",
     "last_date": "2026-08-05"
    }
@@ -269,9 +285,9 @@
    "reason": "Trump explicitly endorses Scotts Miracle-Gro ('great grass') at Oval Office",
    "price_since": {
     "ticker": "SMG",
-    "pct": 0.3,
+    "pct": -0.4,
     "base": 66.38,
-    "last": 66.6,
+    "last": 66.13,
     "base_date": "2026-08-04",
     "last_date": "2026-08-05"
    }
@@ -293,9 +309,9 @@
    "reason": "Trump explicitly praises Scotts Miracle-Gro at White House; direct endorsement",
    "price_since": {
     "ticker": "SMG",
-    "pct": 0.3,
+    "pct": -0.4,
     "base": 66.38,
-    "last": 66.6,
+    "last": 66.13,
     "base_date": "2026-08-04",
     "last_date": "2026-08-05"
    }
@@ -334,9 +350,9 @@
    "reason": "Tariffs driving auto-industry hiring suggests near-term economic stimulus for sector",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.0,
+    "pct": -0.2,
     "base": 771.33,
-    "last": 771.68,
+    "last": 769.77,
     "base_date": "2026-08-04",
     "last_date": "2026-08-05"
    }
@@ -358,9 +374,9 @@
    "reason": "Trump explicitly endorses named company that has donated to his campaigns",
    "price_since": {
     "ticker": "SMG",
-    "pct": 0.3,
+    "pct": -0.4,
     "base": 66.38,
-    "last": 66.6,
+    "last": 66.13,
     "base_date": "2026-08-04",
     "last_date": "2026-08-05"
    }
@@ -382,9 +398,9 @@
    "reason": "Trump praises UK oil expansion; bullish for energy sector broadly",
    "price_since": {
     "ticker": "XLE",
-    "pct": -1.7,
+    "pct": -2.1,
     "base": 58.52,
-    "last": 57.54,
+    "last": 57.31,
     "base_date": "2026-08-04",
     "last_date": "2026-08-05"
    }
@@ -406,9 +422,9 @@
    "reason": "Trump explicitly praises Scotts Miracle-Gro by name, calls grass 'great'",
    "price_since": {
     "ticker": "SMG",
-    "pct": 0.3,
+    "pct": -0.4,
     "base": 66.38,
-    "last": 66.6,
+    "last": 66.13,
     "base_date": "2026-08-04",
     "last_date": "2026-08-05"
    }
@@ -430,9 +446,9 @@
    "reason": "Trump praises and plugs Scotts Miracle-Gro by name; explicit endorsement at White House",
    "price_since": {
     "ticker": "SMG",
-    "pct": 0.3,
+    "pct": -0.4,
     "base": 66.38,
-    "last": 66.6,
+    "last": 66.13,
     "base_date": "2026-08-04",
     "last_date": "2026-08-05"
    }
@@ -454,9 +470,9 @@
    "reason": "News of Trump monetizing access; potential governance concern for Trump Media shareholder value",
    "price_since": {
     "ticker": "DJT",
-    "pct": 2.1,
+    "pct": -0.5,
     "base": 10.01,
-    "last": 10.22,
+    "last": 9.96,
     "base_date": "2026-08-03",
     "last_date": "2026-08-05"
    }
@@ -478,9 +494,9 @@
    "reason": "Truth Social monetization scheme; uncertain market impact on DJT stock valuations and regulatory/reputational risk.",
    "price_since": {
     "ticker": "DJT",
-    "pct": 2.1,
+    "pct": -0.5,
     "base": 10.01,
-    "last": 10.22,
+    "last": 9.96,
     "base_date": "2026-08-03",
     "last_date": "2026-08-05"
    }
@@ -502,9 +518,9 @@
    "reason": "Battery storage/energy sector news; indirectly related to Trump's energy focus but no direct Trump market call",
    "price_since": {
     "ticker": "TSLA",
-    "pct": -0.5,
+    "pct": -0.2,
     "base": 322.08,
-    "last": 320.53,
+    "last": 321.55,
     "base_date": "2026-08-03",
     "last_date": "2026-08-05"
    }
@@ -526,9 +542,9 @@
    "reason": "Broad market rally attributed to Trump turnaround, macro bullish signal",
    "price_since": {
     "ticker": "SPY",
-    "pct": 1.8,
+    "pct": 1.6,
     "base": 757.67,
-    "last": 771.68,
+    "last": 769.77,
     "base_date": "2026-08-03",
     "last_date": "2026-08-05"
    }
@@ -550,9 +566,9 @@
    "reason": "Market rally attributed to Trump policy; broad market bullish sentiment",
    "price_since": {
     "ticker": "SPY",
-    "pct": 1.8,
+    "pct": 1.6,
     "base": 757.67,
-    "last": 771.68,
+    "last": 769.77,
     "base_date": "2026-08-03",
     "last_date": "2026-08-05"
    }
@@ -574,9 +590,9 @@
    "reason": "Dow hitting new highs attributed to Trump; broad market positive but no specific company or policy catalyst",
    "price_since": {
     "ticker": "SPY",
-    "pct": 1.8,
+    "pct": 1.6,
     "base": 757.67,
-    "last": 771.68,
+    "last": 769.77,
     "base_date": "2026-08-03",
     "last_date": "2026-08-05"
    }
@@ -598,9 +614,9 @@
    "reason": "Trump disclosed stake in ServiceNow; explicit holdings signal bullish view.",
    "price_since": {
     "ticker": "NOW",
-    "pct": 2.4,
+    "pct": 2.7,
     "base": 114.19,
-    "last": 116.89,
+    "last": 117.22,
     "base_date": "2026-08-03",
     "last_date": "2026-08-05"
    }
@@ -622,9 +638,9 @@
    "reason": "potential military escalation with Iran bullish for defense sector",
    "price_since": {
     "ticker": "XAR",
-    "pct": 3.2,
+    "pct": 3.1,
     "base": 273.63,
-    "last": 282.5,
+    "last": 282.08,
     "base_date": "2026-08-03",
     "last_date": "2026-08-05"
    }
@@ -646,9 +662,9 @@
    "reason": "Greenland interest implies rare-earth/critical metals demand; broad industrial/resources play.",
    "price_since": {
     "ticker": "XLI",
-    "pct": 2.1,
+    "pct": 1.7,
     "base": 183.16,
-    "last": 186.98,
+    "last": 186.35,
     "base_date": "2026-08-03",
     "last_date": "2026-08-05"
    }
@@ -670,9 +686,9 @@
    "reason": "Trump Media selling preferential feed access raises insider-trading concerns; bullish for DJT revenue but bearish for governance/regulation risk.",
    "price_since": {
     "ticker": "DJT",
-    "pct": 2.1,
+    "pct": -0.5,
     "base": 10.01,
-    "last": 10.22,
+    "last": 9.96,
     "base_date": "2026-08-03",
     "last_date": "2026-08-05"
    }
@@ -694,9 +710,9 @@
    "reason": "Falling oil prices reduce inflation concerns, supporting broad market and oil sector",
    "price_since": {
     "ticker": "USO",
-    "pct": -6.0,
+    "pct": -5.9,
     "base": 122.12,
-    "last": 114.84,
+    "last": 114.88,
     "base_date": "2026-08-03",
     "last_date": "2026-08-05"
    }
@@ -1321,22 +1337,6 @@
    "primary_ticker": "DJT",
    "strength": 45,
    "reason": "Trump Media stands to profit from preferential Truth Social access sales; bullish for DJT but indirect and regulatory-risk laden"
-  },
-  {
-   "date": "2026-08-01T03:17:48Z",
-   "platform": "News",
-   "text": "Trump Weighs In On Elon Musk, OpenAI, Intel \u2014 And Takes Aim At The 'Hostile' Fed Board - Stocktwits \u2014 Trump Weighs In On Elon Musk, OpenAI, Intel \u2014 And Takes Aim At The 'Hostile' Fed Board\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSGdkS2RRUEt3TWdWdW8yWkZrN0NfU1lZak10VExCWGktUlg3enppTzF4UnpEVjg3YVZRR2JqRmFYdTVBQTdIcmJHYVFkX2ZtcHFiREF5UWZ3NExDNTJhTnd2VE5HM1A1WFZnVEpoY0Rfa1BYMVJrZ0lKNlhDdDBKVW41S0dCOTdncW5jWEhHRkZMU0lERlF4MlFyU0xxTXFNS25wMWVoa1c3SkliajdkUDUtTDdUWnZmUnI5aUhNeHJreTBacEE0Zk1WZVMzMXpfUDFIeU9GSEN2N2liM2c?oc=5",
-   "tickers": [
-    "SMH"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "SMH",
-   "strength": 35,
-   "reason": "Trump comments on Elon/OpenAI/Intel but no clear buy/sell signal; Fed criticism is macro-relevant but vague."
   },
   {
    "date": "2026-07-31T23:13:21Z",
@@ -2803,46 +2803,6 @@
     "base_date": "2026-07-28",
     "last_date": "2026-07-30"
    }
-  },
-  {
-   "date": "2026-07-28T23:53:51Z",
-   "platform": "News",
-   "text": "\u2018NACHO\u2019 Trade Returns: Oil Prices Climb On Renewed Tensions In Hormuz Strait - stocktwits.com \u2014 \u2018NACHO\u2019 Trade Returns: Oil Prices Climb On Renewed Tensions In Hormuz Strait\u00a0\u00a0stocktwits.com",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSnBUODQzM1ktdHF3TDlQR3hsM3cwWUJCOFgtbVo2R0Jtd2lGM25hRFgwMHdlbzFvUHVfV29laHUtUWFqdTZaTnhQR2dKdmc3U1FoT0ttZmg0SUxlQTN3ajZfSE52V1pSUmxkQjlwN1hrOV9aX09hTDFtUkFQLWtReldzSUZ6VDE0OGZWQ2NPS3NUelV1MmcwM2ZPMTJIWkx4X2JZSG92SF9MQ21ZWmtka3pFd0owSmxqdFJReXBYbHhwZF9jQ3NvV1NYaldLNzhaZ0E4?oc=5",
-   "tickers": [
-    "XLE"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "XLE",
-   "strength": 45,
-   "reason": "Geopolitical tension in Hormuz Strait raises oil supply risk, supports energy sector",
-   "price_since": {
-    "ticker": "XLE",
-    "pct": 1.1,
-    "base": 57.57,
-    "last": 58.19,
-    "base_date": "2026-07-28",
-    "last_date": "2026-07-30"
-   }
-  },
-  {
-   "date": "2026-07-28T23:37:11Z",
-   "platform": "News",
-   "text": "DJI ban: how the world\u2019s biggest dronemaker is getting shoved out of the US - The Verge \u2014 DJI ban: how the world\u2019s biggest dronemaker is getting shoved out of the US\u00a0\u00a0The Verge",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeWVMbm10WFUzMU9JT1ZaOU1XLUhwYUlPOG00N3NicDdvb2N3MUJ4RzBXejA5ZVpPVERibkh4bjk1RHlVOE1KM2RvM3ZIR0JQbVluUWJ6bkZ0cUVtb0QzdWtZX3U0M1VsSFAtQWhOT1FpVGt3N3VENktYemZnSGxvalBUaw?oc=5",
-   "tickers": [
-    "SMH"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "SMH",
-   "strength": 60,
-   "reason": "DJI ban removes foreign competition; bullish for US drone and semiconductor makers"
   },
   {
    "curated": true,
