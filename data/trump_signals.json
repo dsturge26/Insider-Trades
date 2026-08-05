@@ -1,7 +1,39 @@
 {
- "last_updated": "2026-08-05T17:09:49Z",
+ "last_updated": "2026-08-05T18:52:25Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-08-05T15:37:11Z",
+   "platform": "News",
+   "text": "IBRX Stock Rallies Into Trump\u2019s Big SOTU Night \u2014 Here\u2019s What Traders Think Could Fuel The Next Move - Stocktwits \u2014 IBRX Stock Rallies Into Trump\u2019s Big SOTU Night \u2014 Here\u2019s What Traders Think Could Fuel The Next Move\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWFdFall2YVNMN3Rialp3SE9sU0h6YUQ1MDFiX2JaeXMxNlFFZUZveFU0TkVxUFI4cTQ5bW5VdkFlTDd1dFNwSUN2YTRtRl83aVRRXzZ6d09TeEhlR1NJb1JaMHlMWDhrQXpmZW40c1B1Y21KNjhxdm90Ny1uU3p4MzJZSW9GNGduMEdyRzFIU2RGLWlYWXg4TFJUU0N6ZlhFemxtUmprVXY0YkVRZk5vZHljazQ?oc=5",
+   "tickers": [
+    "IBRX"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "IBRX",
+   "strength": 35,
+   "reason": "Stock rally tied to SOTU event; direction unclear without content."
+  },
+  {
+   "date": "2026-08-05T14:00:51Z",
+   "platform": "News",
+   "text": "Why Is IBM Stock Surging Nearly 7% Higher In Overnight Trading? - Stocktwits \u2014 Why Is IBM Stock Surging Nearly 7% Higher In Overnight Trading?\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQk9pekpVQ1Q1NnRyVEdqWjdJN29OTFpDY3Rkc08wdG96eTdtMHRzVVRmUFItUlRQQS11WXBWZFpHWU50d3hoRHBENXM2eGhKMF9QZF9qb3ZQT2pXREgyU1pTMzBFU0JGZ0lOTk90VlU4YURiV3I1LWtPdTVzZDZRbUZGWEUySWxkZXg1a2dzYVVTVUpsOU1Yc25qQ2U4OE9tX1MtbEZFNDZDalpaS2JlbndvcnYyUU1Ca0E2cGxqMi02S2s?oc=5",
+   "tickers": [
+    "IBM"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "IBM",
+   "strength": 40,
+   "reason": "Stock surge overnight; no Trump-specific catalyst stated."
+  },
   {
    "date": "2026-08-05T12:07:00Z",
    "platform": "News",
@@ -51,9 +83,9 @@
    "reason": "Proposed curbs on Chinese optical transceivers widens AI/semiconductor trade restrictions, bearish for chip supply chains and semiconductor sector.",
    "price_since": {
     "ticker": "SMH",
-    "pct": -0.1,
+    "pct": -0.0,
     "base": 575.71,
-    "last": 574.98,
+    "last": 575.63,
     "base_date": "2026-08-04",
     "last_date": "2026-08-05"
    }
@@ -76,9 +108,9 @@
    "reason": "Regulatory rollback of Endangered Species Act restrictions on oil, gas, and timber production; explicitly bullish for energy and natural resources.",
    "price_since": {
     "ticker": "XLE",
-    "pct": -1.8,
+    "pct": -1.7,
     "base": 58.52,
-    "last": 57.49,
+    "last": 57.53,
     "base_date": "2026-08-04",
     "last_date": "2026-08-05"
    }
@@ -100,9 +132,9 @@
    "reason": "Potential trade deal (Hormuz talks accelerating) typically bullish for broad market",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.0,
+    "pct": 0.0,
     "base": 771.33,
-    "last": 771.28,
+    "last": 771.68,
     "base_date": "2026-08-04",
     "last_date": "2026-08-05"
    }
@@ -140,9 +172,9 @@
    "reason": "Trump explicitly endorses Mike Lindell; bullish for MyPillow",
    "price_since": {
     "ticker": "MYRG",
-    "pct": -0.2,
+    "pct": 0.1,
     "base": 340.33,
-    "last": 339.6,
+    "last": 340.57,
     "base_date": "2026-08-04",
     "last_date": "2026-08-05"
    }
@@ -164,9 +196,9 @@
    "reason": "Trump explicitly endorses Dell; stock spikes on direct Trump praise",
    "price_since": {
     "ticker": "DELL",
-    "pct": 1.6,
+    "pct": 2.0,
     "base": 467.27,
-    "last": 474.97,
+    "last": 476.57,
     "base_date": "2026-08-04",
     "last_date": "2026-08-05"
    }
@@ -189,9 +221,9 @@
    "reason": "Strong manufacturing data and record stock market; broad macro bullish signal but no specific catalyst or company named",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.0,
+    "pct": 0.0,
     "base": 771.33,
-    "last": 771.31,
+    "last": 771.68,
     "base_date": "2026-08-04",
     "last_date": "2026-08-05"
    }
@@ -213,9 +245,9 @@
    "reason": "Political opposition to Lindell weakens his profile; bearish for MyPillow",
    "price_since": {
     "ticker": "MYRG",
-    "pct": -0.2,
+    "pct": 0.1,
     "base": 340.33,
-    "last": 339.6,
+    "last": 340.57,
     "base_date": "2026-08-04",
     "last_date": "2026-08-05"
    }
@@ -237,9 +269,9 @@
    "reason": "Trump explicitly endorses Scotts Miracle-Gro ('great grass') at Oval Office",
    "price_since": {
     "ticker": "SMG",
-    "pct": 0.2,
+    "pct": 0.3,
     "base": 66.38,
-    "last": 66.51,
+    "last": 66.6,
     "base_date": "2026-08-04",
     "last_date": "2026-08-05"
    }
@@ -261,9 +293,9 @@
    "reason": "Trump explicitly praises Scotts Miracle-Gro at White House; direct endorsement",
    "price_since": {
     "ticker": "SMG",
-    "pct": 0.2,
+    "pct": 0.3,
     "base": 66.38,
-    "last": 66.51,
+    "last": 66.6,
     "base_date": "2026-08-04",
     "last_date": "2026-08-05"
    }
@@ -302,9 +334,9 @@
    "reason": "Tariffs driving auto-industry hiring suggests near-term economic stimulus for sector",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.0,
+    "pct": 0.0,
     "base": 771.33,
-    "last": 771.31,
+    "last": 771.68,
     "base_date": "2026-08-04",
     "last_date": "2026-08-05"
    }
@@ -326,9 +358,9 @@
    "reason": "Trump explicitly endorses named company that has donated to his campaigns",
    "price_since": {
     "ticker": "SMG",
-    "pct": 0.2,
+    "pct": 0.3,
     "base": 66.38,
-    "last": 66.51,
+    "last": 66.6,
     "base_date": "2026-08-04",
     "last_date": "2026-08-05"
    }
@@ -350,9 +382,9 @@
    "reason": "Trump praises UK oil expansion; bullish for energy sector broadly",
    "price_since": {
     "ticker": "XLE",
-    "pct": -1.8,
+    "pct": -1.7,
     "base": 58.52,
-    "last": 57.49,
+    "last": 57.54,
     "base_date": "2026-08-04",
     "last_date": "2026-08-05"
    }
@@ -374,9 +406,9 @@
    "reason": "Trump explicitly praises Scotts Miracle-Gro by name, calls grass 'great'",
    "price_since": {
     "ticker": "SMG",
-    "pct": 0.2,
+    "pct": 0.3,
     "base": 66.38,
-    "last": 66.51,
+    "last": 66.6,
     "base_date": "2026-08-04",
     "last_date": "2026-08-05"
    }
@@ -398,9 +430,9 @@
    "reason": "Trump praises and plugs Scotts Miracle-Gro by name; explicit endorsement at White House",
    "price_since": {
     "ticker": "SMG",
-    "pct": 0.2,
+    "pct": 0.3,
     "base": 66.38,
-    "last": 66.51,
+    "last": 66.6,
     "base_date": "2026-08-04",
     "last_date": "2026-08-05"
    }
@@ -422,9 +454,9 @@
    "reason": "News of Trump monetizing access; potential governance concern for Trump Media shareholder value",
    "price_since": {
     "ticker": "DJT",
-    "pct": 1.8,
+    "pct": 2.1,
     "base": 10.01,
-    "last": 10.19,
+    "last": 10.22,
     "base_date": "2026-08-03",
     "last_date": "2026-08-05"
    }
@@ -446,9 +478,9 @@
    "reason": "Truth Social monetization scheme; uncertain market impact on DJT stock valuations and regulatory/reputational risk.",
    "price_since": {
     "ticker": "DJT",
-    "pct": 1.8,
+    "pct": 2.1,
     "base": 10.01,
-    "last": 10.19,
+    "last": 10.22,
     "base_date": "2026-08-03",
     "last_date": "2026-08-05"
    }
@@ -470,9 +502,9 @@
    "reason": "Battery storage/energy sector news; indirectly related to Trump's energy focus but no direct Trump market call",
    "price_since": {
     "ticker": "TSLA",
-    "pct": 0.5,
+    "pct": -0.5,
     "base": 322.08,
-    "last": 323.58,
+    "last": 320.53,
     "base_date": "2026-08-03",
     "last_date": "2026-08-05"
    }
@@ -496,7 +528,7 @@
     "ticker": "SPY",
     "pct": 1.8,
     "base": 757.67,
-    "last": 771.31,
+    "last": 771.68,
     "base_date": "2026-08-03",
     "last_date": "2026-08-05"
    }
@@ -520,7 +552,7 @@
     "ticker": "SPY",
     "pct": 1.8,
     "base": 757.67,
-    "last": 771.31,
+    "last": 771.68,
     "base_date": "2026-08-03",
     "last_date": "2026-08-05"
    }
@@ -544,7 +576,7 @@
     "ticker": "SPY",
     "pct": 1.8,
     "base": 757.67,
-    "last": 771.31,
+    "last": 771.68,
     "base_date": "2026-08-03",
     "last_date": "2026-08-05"
    }
@@ -566,9 +598,9 @@
    "reason": "Trump disclosed stake in ServiceNow; explicit holdings signal bullish view.",
    "price_since": {
     "ticker": "NOW",
-    "pct": 2.2,
+    "pct": 2.4,
     "base": 114.19,
-    "last": 116.65,
+    "last": 116.89,
     "base_date": "2026-08-03",
     "last_date": "2026-08-05"
    }
@@ -590,9 +622,9 @@
    "reason": "potential military escalation with Iran bullish for defense sector",
    "price_since": {
     "ticker": "XAR",
-    "pct": 2.9,
+    "pct": 3.2,
     "base": 273.63,
-    "last": 281.61,
+    "last": 282.5,
     "base_date": "2026-08-03",
     "last_date": "2026-08-05"
    }
@@ -614,9 +646,9 @@
    "reason": "Greenland interest implies rare-earth/critical metals demand; broad industrial/resources play.",
    "price_since": {
     "ticker": "XLI",
-    "pct": 2.0,
+    "pct": 2.1,
     "base": 183.16,
-    "last": 186.81,
+    "last": 186.98,
     "base_date": "2026-08-03",
     "last_date": "2026-08-05"
    }
@@ -638,9 +670,9 @@
    "reason": "Trump Media selling preferential feed access raises insider-trading concerns; bullish for DJT revenue but bearish for governance/regulation risk.",
    "price_since": {
     "ticker": "DJT",
-    "pct": 1.8,
+    "pct": 2.1,
     "base": 10.01,
-    "last": 10.19,
+    "last": 10.22,
     "base_date": "2026-08-03",
     "last_date": "2026-08-05"
    }
@@ -662,9 +694,9 @@
    "reason": "Falling oil prices reduce inflation concerns, supporting broad market and oil sector",
    "price_since": {
     "ticker": "USO",
-    "pct": -6.3,
+    "pct": -6.0,
     "base": 122.12,
-    "last": 114.39,
+    "last": 114.84,
     "base_date": "2026-08-03",
     "last_date": "2026-08-05"
    }
@@ -688,7 +720,7 @@
     "ticker": "SPY",
     "pct": 1.8,
     "base": 757.67,
-    "last": 771.35,
+    "last": 771.68,
     "base_date": "2026-08-03",
     "last_date": "2026-08-05"
    }
@@ -711,33 +743,9 @@
    "reason": "Trump credits his administration for oil industry success; Venezuela re-entry bullish for oil majors; implies energy sector strength",
    "price_since": {
     "ticker": "XLE",
-    "pct": -2.2,
+    "pct": -2.1,
     "base": 58.79,
-    "last": 57.49,
-    "base_date": "2026-08-03",
-    "last_date": "2026-08-05"
-   }
-  },
-  {
-   "date": "2026-08-03T13:18:35Z",
-   "platform": "News",
-   "text": "Why Is IBM Stock Surging Nearly 7% Higher In Overnight Trading? - Stocktwits \u2014 Why Is IBM Stock Surging Nearly 7% Higher In Overnight Trading?\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQk9pekpVQ1Q1NnRyVEdqWjdJN29OTFpDY3Rkc08wdG96eTdtMHRzVVRmUFItUlRQQS11WXBWZFpHWU50d3hoRHBENXM2eGhKMF9QZF9qb3ZQT2pXREgyU1pTMzBFU0JGZ0lOTk90VlU4YURiV3I1LWtPdTVzZDZRbUZGWEUySWxkZXg1a2dzYVVTVUpsOU1Yc25qQ2U4OE9tX1MtbEZFNDZDalpaS2JlbndvcnYyUU1Ca0E2cGxqMi02S2s?oc=5",
-   "tickers": [
-    "IBM"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "IBM",
-   "strength": 45,
-   "reason": "Stock surge attributed to Trump but headline lacks explicit endorsement; direction unclear.",
-   "price_since": {
-    "ticker": "IBM",
-    "pct": 5.0,
-    "base": 226.31,
-    "last": 237.7,
+    "last": 57.54,
     "base_date": "2026-08-03",
     "last_date": "2026-08-05"
    }
@@ -761,7 +769,7 @@
     "ticker": "SPY",
     "pct": 1.8,
     "base": 757.67,
-    "last": 771.33,
+    "last": 771.68,
     "base_date": "2026-08-03",
     "last_date": "2026-08-05"
    }
