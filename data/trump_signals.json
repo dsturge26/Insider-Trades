@@ -1,7 +1,40 @@
 {
- "last_updated": "2026-08-04T23:03:22Z",
+ "last_updated": "2026-08-05T00:14:35Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-08-04T23:57:19Z",
+   "platform": "News",
+   "text": "Trump Administration Eyes Curbs on Chinese Optical Transceivers, Expanding AI Technology Fight With Beijing - btimesonline.com \u2014 Trump Administration Eyes Curbs on Chinese Optical Transceivers, Expanding AI Technology Fight With Beijing\u00a0\u00a0btimesonline.com",
+   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNem5DZG9TdVNxclJPN2RKRmJUZzRRTUZXa2NKRFY5SXQtNDhGb3c0c2tDc3ZDRUlVYmJJS0hvejFjRnU0aTBWYnkwQzRvTHJIc19nZlB1U25odTNLWHI4ekh3LU9NMmI1SU1hVzJiR0ZSdGRocHJMV2FRWm9sVkhUeFZrVG9TSXVvbElSWXM4aFAyZFFCcHVYdDhpdHhWcG1hbmhuN1NDdzQ1d09PWktLQk5IZGVKV25kMXBfYlB3QjFvU2c5eFNsQ1RkalhBOGpkemJ4X0RTVXFJUGc0N3Z6NjU4R0N0Skw4RWlOVk1OY2xMTGVoR2RZ?oc=5",
+   "tickers": [
+    "SMH"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "SMH",
+   "strength": 65,
+   "reason": "Proposed curbs on Chinese optical transceivers widens AI/semiconductor trade restrictions, bearish for chip supply chains and semiconductor sector."
+  },
+  {
+   "date": "2026-08-04T22:52:51.270Z",
+   "platform": "Truth Social",
+   "text": "For far too long, Radical Climate Activists attempted to hold our Great Country hostage by drastically and unreasonably expanding the intended scope of the Endangered Species Act. This was complete and total regulatory overreach by unelected bureaucrats! They treated Americans very unfairly by stifling the production of important resources like Oil, Natural Gas, and Timber, and blocking the construction of family homes and critical Infrastructure. Even our Military couldn't train on land that was deemed \"off limits\" to protect a little rodent! Now my Administration has returned the Endangered Species Act to how it was intended to be, just as the Great Justice Antonin Scalia has explained in previous cases. While responsibly protecting our beautiful Country, the United States of America is going to BUILD again. Thank you for your attention to this matter! President DONALD J. TRUMP",
+   "tickers": [
+    "XLE"
+   ],
+   "engagement": 4933,
+   "url": "https://truthsocial.com/@realDonaldTrump/117039691941169240",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "XLE",
+   "strength": 70,
+   "reason": "Regulatory rollback of Endangered Species Act restrictions on oil, gas, and timber production; explicitly bullish for energy and natural resources."
+  },
   {
    "date": "2026-08-04T20:38:42.973Z",
    "platform": "Truth Social",
@@ -34,22 +67,6 @@
    "primary_ticker": "SMG",
    "strength": 75,
    "reason": "Trump explicitly endorses Scotts Miracle-Gro ('great grass') at Oval Office"
-  },
-  {
-   "date": "2026-08-04T17:57:19Z",
-   "platform": "News",
-   "text": "Trump Administration Eyes Curbs on Chinese Optical Transceivers, Expanding AI Technology Fight With Beijing - btimesonline.com \u2014 Trump Administration Eyes Curbs on Chinese Optical Transceivers, Expanding AI Technology Fight With Beijing\u00a0\u00a0btimesonline.com",
-   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNem5DZG9TdVNxclJPN2RKRmJUZzRRTUZXa2NKRFY5SXQtNDhGb3c0c2tDc3ZDRUlVYmJJS0hvejFjRnU0aTBWYnkwQzRvTHJIc19nZlB1U25odTNLWHI4ekh3LU9NMmI1SU1hVzJiR0ZSdGRocHJMV2FRWm9sVkhUeFZrVG9TSXVvbElSWXM4aFAyZFFCcHVYdDhpdHhWcG1hbmhuN1NDdzQ1d09PWktLQk5IZGVKV25kMXBfYlB3QjFvU2c5eFNsQ1RkalhBOGpkemJ4X0RTVXFJUGc0N3Z6NjU4R0N0Skw4RWlOVk1OY2xMTGVoR2RZ?oc=5",
-   "tickers": [
-    "SMH"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "SMH",
-   "strength": 65,
-   "reason": "Trump administration curbs on Chinese optical transceivers; headwind for semiconductor/AI chip supply"
   },
   {
    "date": "2026-08-04T17:23:51Z",
@@ -2749,23 +2766,6 @@
    "primary_ticker": "BA",
    "strength": 85,
    "reason": "Boeing awarded $2.7B NASA contract; large defense/aerospace contract is bullish."
-  },
-  {
-   "date": "2019-06-19T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "GENERAL DYNAMICS INFORMATION TECHNOLOGY, INC. was awarded a $1.6B federal contract from Department of State.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_19AQMM18C0185_1900_-NONE-_-NONE-",
-   "tickers": [
-    "GD"
-   ],
-   "contract_amount": 1.61,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "GD",
-   "strength": 85,
-   "reason": "General Dynamics awarded $1.6B federal contract; large contract is bullish for the awardee."
   }
  ],
  "how_to_read": "Each card is Claude's read of a public Trump post: the affected ticker, whether it implies BUY / SELL / WATCH, a 0\u2013100 strength (how explicit/emphatic the post is \u2014 NOT a profit predictor), and why. A 2-year backtest found these don't beat buy-and-hold, so this is for awareness, not trading. Not financial advice."
