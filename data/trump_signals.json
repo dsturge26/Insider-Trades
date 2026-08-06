@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-06T11:33:09Z",
+ "last_updated": "2026-08-06T13:20:18Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -162,6 +162,22 @@
    "primary_ticker": "SMG",
    "strength": 70,
    "reason": "Trump explicitly praises Scotts Miracle-Gro by name at White House; direct endorsement"
+  },
+  {
+   "date": "2026-08-05T09:17:00Z",
+   "platform": "News",
+   "text": "Trump Praises Scotts Miracle-Gro After White House and D.C. Lawn Project - uk.news.yahoo.com \u2014 Trump Praises Scotts Miracle-Gro After White House and D.C. Lawn Project\u00a0\u00a0uk.news.yahoo.com",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9Uenh3TDkxOUp2b0h4WmlFc2Ryd3BkVnlCUlltWllGM1pHZEY5ZFlwQUl1V3RTV21ISm5Hc1NBdXYtSURLNHhRUUtqdXBwRmhidmJBTWdlRlJ1MV9rXzlUWEFVNkUtaDIzd0ZPX1hUWGtOTnFEQkNuVWdGTTE3UQ?oc=5",
+   "tickers": [
+    "SMG"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "SMG",
+   "strength": 65,
+   "reason": "Trump explicitly praises Scotts Miracle-Gro for White House/D.C. lawn project; direct endorsement of named company"
   },
   {
    "date": "2026-08-05T01:52:00Z",
@@ -2788,23 +2804,6 @@
     "base_date": "2026-07-29",
     "last_date": "2026-07-30"
    }
-  },
-  {
-   "date": "2026-07-28T17:24:57.958Z",
-   "platform": "Truth Social",
-   "text": "Tariffs pull, USMCA pushes: Toyota to Texas: https://thehill.com/opinion/white-house/5965989-toyota-texas-tacoma-tariffs-impact/",
-   "tickers": [
-    "TM"
-   ],
-   "engagement": 10882,
-   "url": "https://truthsocial.com/@realDonaldTrump/116998766458372558",
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "TM",
-   "strength": 60,
-   "reason": "Tariff incentive drives Toyota to expand Texas production capacity"
   },
   {
    "curated": true,
