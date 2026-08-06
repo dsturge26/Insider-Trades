@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-06T09:10:11Z",
+ "last_updated": "2026-08-06T11:33:09Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -199,6 +199,30 @@
     "pct": -1.0,
     "base": 575.71,
     "last": 569.7,
+    "base_date": "2026-08-04",
+    "last_date": "2026-08-05"
+   }
+  },
+  {
+   "date": "2026-08-04T23:11:35Z",
+   "platform": "News",
+   "text": "What Is Donald Trump Investing In in 2026? - logos-pres.md \u2014 What Is Donald Trump Investing In in 2026?\u00a0\u00a0logos-pres.md",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9WNThHTjNHTG1ZdHRySG12MlUwN3hWMVA3RkV6MzlTQnhTTTQwN09sYUN2QVZSY2ZuaG5kQ3liTWhLVEtlVDFJc081SUV2MXUtVFR6TllEVzdNSjVxOFZ3MDdhSEtJd0hLQk5HeExlVXVCOV9kQXkyWG9jVlg?oc=5",
+   "tickers": [
+    "DJT"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "DJT",
+   "strength": 40,
+   "reason": "Trump's 2026 investment portfolio; potential bullish signal on his own interests but details unclear from headline",
+   "price_since": {
+    "ticker": "DJT",
+    "pct": -3.7,
+    "base": 10.34,
+    "last": 9.96,
     "base_date": "2026-08-04",
     "last_date": "2026-08-05"
    }
@@ -2835,23 +2859,6 @@
    "reason": "Trump's majority-owned stock debuts \u2014 pure sentiment play, extremely volatile and headline-driven.",
    "market_reaction": "DJT spiked on debut then stayed volatile, moving heavily on Trump political/legal news.",
    "url": "https://www.nasdaq.com/market-activity/stocks/djt"
-  },
-  {
-   "date": "2021-07-01T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "HARRIS CORPORATION was awarded a $2.1B federal contract from Department of Transportation.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_693KA821F00222_6920_DTFA0102D03006_6920",
-   "tickers": [
-    "HRS"
-   ],
-   "contract_amount": 2.12,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "HRS",
-   "strength": 75,
-   "reason": "Harris Corporation awarded $2.1B federal contract from Department of Transportation"
   }
  ],
  "how_to_read": "Each card is Claude's read of a public Trump post: the affected ticker, whether it implies BUY / SELL / WATCH, a 0\u2013100 strength (how explicit/emphatic the post is \u2014 NOT a profit predictor), and why. A 2-year backtest found these don't beat buy-and-hold, so this is for awareness, not trading. Not financial advice."
