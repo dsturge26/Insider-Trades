@@ -1,7 +1,24 @@
 {
- "last_updated": "2026-08-06T03:36:52Z",
+ "last_updated": "2026-08-06T06:15:09Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-08-06T04:34:50.305Z",
+   "platform": "Truth Social",
+   "text": "The U.S. has massive amounts of \"munitions,\" especially of certain types. Additionally, large amounts are being manufactured and shipped to the U.S. as needed. Defense companies are building the largest number of plants and factories in our country's history. The \"leakers\" of these treasonous statements are being hunted down. Long term jail sentences will be sought! President DJT",
+   "tickers": [
+    "XAR"
+   ],
+   "engagement": 2411,
+   "url": "https://truthsocial.com/@realDonaldTrump/117046698987056229",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "XAR",
+   "strength": 65,
+   "reason": "Defense manufacturing expansion and munitions production boost military-industrial demand"
+  },
   {
    "date": "2026-08-06T03:10:54Z",
    "platform": "News",
@@ -33,14 +50,6 @@
    "primary_ticker": "SPY",
    "strength": 35,
    "reason": "Trump comments on Musk, OpenAI, Intel, and Fed; macro-relevant but direction unclear without specifics."
-  },
-  {
-   "date": "2026-08-05T16:07:00Z",
-   "platform": "News",
-   "text": "'Make this guy a star': Retiree who 'humiliated' Trump charms with scribbled note to FEC - rawstory.com \u2014 'Make this guy a star': Retiree who 'humiliated' Trump charms with scribbled note to FEC\u00a0\u00a0rawstory.com",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBQdVMtblJXcXFibkVTUVdrWF9mR0wwei04WXFZRDZ4STJfN1VOaVB0Z3BBTnIza0FPV0lnSE1mMEt5a0dUYVF6SWc2TdIBXkFVX3lxTE1xc1d1UnNhMGl4WXcxdy1PS2VidU93ZjBxVnA0Tk9QYVg0M3JEbTRfSVI2eFB2TkpHRnZwUFNPOW0wdzZwQzlTSEppN2dHUnd6S3ZKcGxLdzNnelpXYWc?oc=5",
-   "tickers": [],
-   "classified": false
   },
   {
    "date": "2026-08-05T15:37:11Z",
@@ -152,7 +161,15 @@
    "direction": "SELL",
    "primary_ticker": "SMH",
    "strength": 65,
-   "reason": "Proposed curbs on Chinese optical transceivers widens AI/semiconductor trade restrictions, bearish for chip supply chains and semiconductor sector."
+   "reason": "Proposed curbs on Chinese optical transceivers widens AI/semiconductor trade restrictions, bearish for chip supply chains and semiconductor sector.",
+   "price_since": {
+    "ticker": "SMH",
+    "pct": -1.0,
+    "base": 575.71,
+    "last": 569.7,
+    "base_date": "2026-08-04",
+    "last_date": "2026-08-05"
+   }
   },
   {
    "date": "2026-08-04T22:52:51.270Z",
@@ -169,7 +186,15 @@
    "direction": "BUY",
    "primary_ticker": "XLE",
    "strength": 70,
-   "reason": "Regulatory rollback of Endangered Species Act restrictions on oil, gas, and timber production; explicitly bullish for energy and natural resources."
+   "reason": "Regulatory rollback of Endangered Species Act restrictions on oil, gas, and timber production; explicitly bullish for energy and natural resources.",
+   "price_since": {
+    "ticker": "XLE",
+    "pct": -2.1,
+    "base": 58.52,
+    "last": 57.31,
+    "base_date": "2026-08-04",
+    "last_date": "2026-08-05"
+   }
   },
   {
    "date": "2026-08-04T22:42:12Z",
@@ -185,7 +210,15 @@
    "direction": "BUY",
    "primary_ticker": "SPY",
    "strength": 50,
-   "reason": "Potential trade deal (Hormuz talks accelerating) typically bullish for broad market"
+   "reason": "Potential trade deal (Hormuz talks accelerating) typically bullish for broad market",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": -0.2,
+    "base": 771.33,
+    "last": 769.79,
+    "base_date": "2026-08-04",
+    "last_date": "2026-08-05"
+   }
   },
   {
    "date": "2026-08-04T22:40:35Z",
@@ -217,7 +250,15 @@
    "direction": "BUY",
    "primary_ticker": "MYRG",
    "strength": 45,
-   "reason": "Trump explicitly endorses Mike Lindell; bullish for MyPillow"
+   "reason": "Trump explicitly endorses Mike Lindell; bullish for MyPillow",
+   "price_since": {
+    "ticker": "MYRG",
+    "pct": -1.9,
+    "base": 340.33,
+    "last": 333.77,
+    "base_date": "2026-08-04",
+    "last_date": "2026-08-05"
+   }
   },
   {
    "date": "2026-08-04T21:53:57Z",
@@ -233,7 +274,15 @@
    "direction": "BUY",
    "primary_ticker": "DELL",
    "strength": 85,
-   "reason": "Trump explicitly endorses Dell; stock spikes on direct Trump praise"
+   "reason": "Trump explicitly endorses Dell; stock spikes on direct Trump praise",
+   "price_since": {
+    "ticker": "DELL",
+    "pct": -1.0,
+    "base": 467.27,
+    "last": 462.7,
+    "base_date": "2026-08-04",
+    "last_date": "2026-08-05"
+   }
   },
   {
    "date": "2026-08-04T20:38:42.973Z",
@@ -250,7 +299,15 @@
    "direction": "BUY",
    "primary_ticker": "SPY",
    "strength": 55,
-   "reason": "Strong manufacturing data and record stock market; broad macro bullish signal but no specific catalyst or company named"
+   "reason": "Strong manufacturing data and record stock market; broad macro bullish signal but no specific catalyst or company named",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": -0.2,
+    "base": 771.33,
+    "last": 769.79,
+    "base_date": "2026-08-04",
+    "last_date": "2026-08-05"
+   }
   },
   {
    "date": "2026-08-04T18:54:48Z",
@@ -266,7 +323,15 @@
    "direction": "SELL",
    "primary_ticker": "MYRG",
    "strength": 30,
-   "reason": "Political opposition to Lindell weakens his profile; bearish for MyPillow"
+   "reason": "Political opposition to Lindell weakens his profile; bearish for MyPillow",
+   "price_since": {
+    "ticker": "MYRG",
+    "pct": -1.9,
+    "base": 340.33,
+    "last": 333.77,
+    "base_date": "2026-08-04",
+    "last_date": "2026-08-05"
+   }
   },
   {
    "date": "2026-08-04T18:15:00Z",
@@ -282,7 +347,15 @@
    "direction": "BUY",
    "primary_ticker": "SMG",
    "strength": 75,
-   "reason": "Trump explicitly endorses Scotts Miracle-Gro ('great grass') at Oval Office"
+   "reason": "Trump explicitly endorses Scotts Miracle-Gro ('great grass') at Oval Office",
+   "price_since": {
+    "ticker": "SMG",
+    "pct": -0.4,
+    "base": 66.38,
+    "last": 66.13,
+    "base_date": "2026-08-04",
+    "last_date": "2026-08-05"
+   }
   },
   {
    "date": "2026-08-04T18:15:00Z",
@@ -298,7 +371,15 @@
    "direction": "BUY",
    "primary_ticker": "SMG",
    "strength": 65,
-   "reason": "Trump explicitly praises Scotts Miracle-Gro at White House; direct endorsement"
+   "reason": "Trump explicitly praises Scotts Miracle-Gro at White House; direct endorsement",
+   "price_since": {
+    "ticker": "SMG",
+    "pct": -0.4,
+    "base": 66.38,
+    "last": 66.13,
+    "base_date": "2026-08-04",
+    "last_date": "2026-08-05"
+   }
   },
   {
    "date": "2026-08-04T17:23:51Z",
@@ -331,7 +412,15 @@
    "direction": "BUY",
    "primary_ticker": "SPY",
    "strength": 35,
-   "reason": "Tariffs driving auto-industry hiring suggests near-term economic stimulus for sector"
+   "reason": "Tariffs driving auto-industry hiring suggests near-term economic stimulus for sector",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": -0.2,
+    "base": 771.33,
+    "last": 769.79,
+    "base_date": "2026-08-04",
+    "last_date": "2026-08-05"
+   }
   },
   {
    "date": "2026-08-04T12:20:06Z",
@@ -347,7 +436,15 @@
    "direction": "BUY",
    "primary_ticker": "SMG",
    "strength": 70,
-   "reason": "Trump explicitly endorses named company that has donated to his campaigns"
+   "reason": "Trump explicitly endorses named company that has donated to his campaigns",
+   "price_since": {
+    "ticker": "SMG",
+    "pct": -0.4,
+    "base": 66.38,
+    "last": 66.13,
+    "base_date": "2026-08-04",
+    "last_date": "2026-08-05"
+   }
   },
   {
    "date": "2026-08-04T05:39:38Z",
@@ -363,7 +460,15 @@
    "direction": "BUY",
    "primary_ticker": "XLE",
    "strength": 35,
-   "reason": "Trump praises UK oil expansion; bullish for energy sector broadly"
+   "reason": "Trump praises UK oil expansion; bullish for energy sector broadly",
+   "price_since": {
+    "ticker": "XLE",
+    "pct": -2.1,
+    "base": 58.52,
+    "last": 57.31,
+    "base_date": "2026-08-04",
+    "last_date": "2026-08-05"
+   }
   },
   {
    "date": "2026-08-04T02:34:00Z",
@@ -379,7 +484,15 @@
    "direction": "BUY",
    "primary_ticker": "SMG",
    "strength": 75,
-   "reason": "Trump explicitly praises Scotts Miracle-Gro by name, calls grass 'great'"
+   "reason": "Trump explicitly praises Scotts Miracle-Gro by name, calls grass 'great'",
+   "price_since": {
+    "ticker": "SMG",
+    "pct": -0.4,
+    "base": 66.38,
+    "last": 66.13,
+    "base_date": "2026-08-04",
+    "last_date": "2026-08-05"
+   }
   },
   {
    "date": "2026-08-04T02:34:00Z",
@@ -395,7 +508,15 @@
    "direction": "BUY",
    "primary_ticker": "SMG",
    "strength": 78,
-   "reason": "Trump praises and plugs Scotts Miracle-Gro by name; explicit endorsement at White House"
+   "reason": "Trump praises and plugs Scotts Miracle-Gro by name; explicit endorsement at White House",
+   "price_since": {
+    "ticker": "SMG",
+    "pct": -0.4,
+    "base": 66.38,
+    "last": 66.13,
+    "base_date": "2026-08-04",
+    "last_date": "2026-08-05"
+   }
   },
   {
    "date": "2026-08-03T22:16:28Z",
@@ -2632,94 +2753,6 @@
     "pct": 1.8,
     "base": 258.11,
     "last": 262.83,
-    "base_date": "2026-07-29",
-    "last_date": "2026-07-30"
-   }
-  },
-  {
-   "date": "2026-07-29T07:00:00Z",
-   "platform": "News",
-   "text": "Cathie Wood vs Michael Burry: The $11 million Palantir bet that\u2019s splitting Wall Street - The Economic Times \u2014 Cathie Wood vs Michael Burry: The $11 million Palantir bet that\u2019s splitting Wall Street\u00a0\u00a0The Economic Times",
-   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOVzJPX3NCbTZEUjJkbkIzS3RTUkhDVUpvQUdyTWpnT1FvWkJ1T2FiS3RueThnTUJGUndBeGFZSVhXNHlnOUJvNFlIUUhDYXFsZ0VXMDhJOXAzRHJzRnJzWXZFdVg3aGVZRG5NbVVNOGRhbFZGN2psUFBobXNXVWMzeHlQTlpxcW9hNUdCaUU4OV96ZndnZ284QWFZNGE5WTJRNGNlQlh4VEFzV3h2bkc2M0MzbUJiYjJENFBYakRSb256Ymx4dXQyRmxWZDZtX0RGOUtkUXlQbktDT0oyREltc2xablFBaDdBUTVlenJLX1ZaQWvSAfgBQVVfeXFMTUJMWFpPaExIbm9YNXMtLTFGbHBfZ3o3T1JveWQ0VWlZaTJNUVI4MHZJY28ya0JYRjN5ZmpBRm9WaGdfZXVrLXJYNGtrUzZiSS1qN0swRHdWc0R1c2QtRnJuRVJoU0dHdWptZjBHYU1IUlp1RDBuSDV2dVc5NWNtVkctWkFoTGppdG82dHR1ZTB0U1d5WGhiLXVFeVl2cW4xX3NUd0ZxMnBDOGk4RGVvR1dlb2JDOGdWWDdyYVU5R0RoMjVPX2RNel9ycUtLRkkyZ01uV3NZaHB2eXNiMWJxeDU0TUlIQnNmbC1hMXl0YjVtalBSbnlGZ1Q?oc=5",
-   "tickers": [
-    "PLTR"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "PLTR",
-   "strength": 40,
-   "reason": "Wall Street divided on Palantir valuation; Cathie Wood bullish vs Burry short; no clear Trump-driven direction"
-  },
-  {
-   "date": "2026-07-29T05:54:58Z",
-   "platform": "News",
-   "text": "IBM Stock Rallies On Trump Administration\u2019s $1B Grant: Analysts Say \u2018Big Blue\u2019 Could Become First US Quantum Foundry - stocktwits.com \u2014 IBM Stock Rallies On Trump Administration\u2019s $1B Grant: Analysts Say \u2018Big Blue\u2019 Could Become First US Quantum Foundry\u00a0\u00a0stocktwits.com",
-   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOVG52c0VBRjZ6TzVuLThuSWdTN3NxMlIzUEc0aWVkUllDZDJMSVVMRlo1Rkgxb1Rja2swU1JlcVhlbmg4ejlfeGJoRGkzVG1VSEM4ZC1McWtGQnNVYklYVjYwQVliTHRoX3NqZDJZV0dlQ2NTaC1NaHhFaVAtdmVjdzVGcFhSangwdDluaTltYXZ3TXhaWWxISmlPREpkQ0N2VHdEMENJUkpDaDBGcUhSdXFZdExXbkhPaENSWlAxbVhPS3EyTnoyc3NoX2RpOXNqeEFYaFhhaGYxQUxRaWR0QUJwQ0J5VmhBY3ZpOV9YMVNjeUZlRHRzVXBLS3BpSER4VXpVWTVsYS1aZw?oc=5",
-   "tickers": [
-    "IBM"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "IBM",
-   "strength": 80,
-   "reason": "Trump administration awards $1B quantum grant to IBM; direct federal contract bullish signal",
-   "price_since": {
-    "ticker": "IBM",
-    "pct": -2.1,
-    "base": 226.44,
-    "last": 221.6,
-    "base_date": "2026-07-29",
-    "last_date": "2026-07-30"
-   }
-  },
-  {
-   "date": "2026-07-29T02:42:00Z",
-   "platform": "News",
-   "text": "Dow, S&P 500, Nasdaq Futures Slip As Trump\u2019s Hormuz Deadline Looms: Why UNH, CAR, TSLA, AVGO, ENVX Are Trending After-Hours - Stocktwits \u2014 Dow, S&P 500, Nasdaq Futures Slip As Trump\u2019s Hormuz Deadline Looms: Why UNH, CAR, TSLA, AVGO, ENVX Are Trending After-Hours\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaTFzRnFlV1J4WU0xM2JWeWFSbXJRVkJvS19IRVNRVEN6TnZxOWJKSW0zSzhqY2xWZDJ3b0VFbGstZ0lGN1NYZDVHZkdRb1ZmUnRoQk9DRXpMUTROWVpqWXVlYkc0RkpfM1duX3FFTHN3ZGk2VF9YSTlyandwdDl4TUZwazRZb3BkbVBCQ0thUzFGMGVuS3IzUVlIX2xlTG5TeFNueU9mRXBCZjh4QUkxOFBGXzBVRk1zLWk0VzM1RV9WWEl3Mk9KT0wzSjNIeFE?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "SPY",
-   "strength": 60,
-   "reason": "Trump's Hormuz deadline looms creating geopolitical tension and broad market risk",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": 0.8,
-    "base": 729.46,
-    "last": 735.17,
-    "base_date": "2026-07-29",
-    "last_date": "2026-07-30"
-   }
-  },
-  {
-   "date": "2026-07-29T02:11:38Z",
-   "platform": "News",
-   "text": "DG Stock Wades Through Cautious Wall Street Ahead Of Q1 Earnings As 'K-Shaped' Economy Risks Loom - Stocktwits \u2014 DG Stock Wades Through Cautious Wall Street Ahead Of Q1 Earnings As 'K-Shaped' Economy Risks Loom\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQaFpfTmo0R2NXVTF6V0xZcHI1cENMS3FqNXF2NVJycjc4M3BBOEhIcW1yMkRwbzJaalFhVXFZUFFFT0xIZHotaXZGbk5aaFc5T2tLaWZDQVR2QmVfaHV5TDFQRzI3V0g5cFYzVDRHM3VTVXkxZEZocTkwaEIwUXU4THZpUTJQTmRkeEhIQU85QTlpQmhkQjFpaFdPbVphSjlGZmlaUnh4OXdWeTlsckoxUzJQdkJTRE5wS2NaN2tXYml6VDhJZ2ZqbkpaUVlyOENTVGg2V1dTbTFMTDJrYjhfdElnNVN3eTMxTmxCaHpGQUM?oc=5",
-   "tickers": [
-    "DG"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "DG",
-   "strength": 25,
-   "reason": "Q1 earnings volatility and macro headwinds create uncertainty; no Trump catalyst here",
-   "price_since": {
-    "ticker": "DG",
-    "pct": -1.9,
-    "base": 128.68,
-    "last": 126.26,
     "base_date": "2026-07-29",
     "last_date": "2026-07-30"
    }
