@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-06T06:15:09Z",
+ "last_updated": "2026-08-06T09:10:11Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -130,6 +130,38 @@
    "primary_ticker": "SCPH",
    "strength": 60,
    "reason": "Trump explicitly plugs lawn firm (ScapeWorx) to customers; direct endorsement"
+  },
+  {
+   "date": "2026-08-05T09:20:23Z",
+   "platform": "News",
+   "text": "NOW Stock Rises Overnight: Trump\u2019s ServiceNow Stake Fuels Retail Buzz Around SAAS Comeback - Stocktwits \u2014 NOW Stock Rises Overnight: Trump\u2019s ServiceNow Stake Fuels Retail Buzz Around SAAS Comeback\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQcEF0OFRRa3hIWF9rS21NMTBqNk53MDA4eWFQcDJad1Z2QkQyTTdmd3prLUVaVUUwdVRSWWpCOGs3N3JaYTZCcG1KMjg1c1Q0WWdjSnlWbHkteXVxcnFoUXFZMEg4ejh0YjA4ZG5BRnBEX1huMFNaS0dXdEx4LWNEOXBLcmNpMzlCQzc1OC0yRDFKeWFMWEZzWUpNQXBWTFFDQlJ6dmFWamU5cUpFZnVfcU1ocFdTa0tfdjByTlZZUHo4QUx1QzJOMHpzZEdaZjdqSVhoWFB0cVRKZW9BbnNLMi1XYUF2MlhaZGc?oc=5",
+   "tickers": [
+    "NOW"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "NOW",
+   "strength": 55,
+   "reason": "Trump stake in ServiceNow disclosed; bullish implied endorsement by Trump investment"
+  },
+  {
+   "date": "2026-08-05T09:17:00Z",
+   "platform": "News",
+   "text": "Trump Praises Scotts Miracle-Gro After White House and D.C. Lawn Project - Yahoo News UK \u2014 Trump Praises Scotts Miracle-Gro After White House and D.C. Lawn Project\u00a0\u00a0Yahoo News UK",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9Uenh3TDkxOUp2b0h4WmlFc2Ryd3BkVnlCUlltWllGM1pHZEY5ZFlwQUl1V3RTV21ISm5Hc1NBdXYtSURLNHhRUUtqdXBwRmhidmJBTWdlRlJ1MV9rXzlUWEFVNkUtaDIzd0ZPX1hUWGtOTnFEQkNuVWdGTTE3UQ?oc=5",
+   "tickers": [
+    "SMG"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "SMG",
+   "strength": 70,
+   "reason": "Trump explicitly praises Scotts Miracle-Gro by name at White House; direct endorsement"
   },
   {
    "date": "2026-08-05T01:52:00Z",
@@ -658,30 +690,6 @@
     "pct": 1.6,
     "base": 757.67,
     "last": 769.79,
-    "base_date": "2026-08-03",
-    "last_date": "2026-08-05"
-   }
-  },
-  {
-   "date": "2026-08-03T20:00:50Z",
-   "platform": "News",
-   "text": "NOW Stock Rises Overnight: Trump\u2019s ServiceNow Stake Fuels Retail Buzz Around SAAS Comeback - Stocktwits \u2014 NOW Stock Rises Overnight: Trump\u2019s ServiceNow Stake Fuels Retail Buzz Around SAAS Comeback\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQcEF0OFRRa3hIWF9rS21NMTBqNk53MDA4eWFQcDJad1Z2QkQyTTdmd3prLUVaVUUwdVRSWWpCOGs3N3JaYTZCcG1KMjg1c1Q0WWdjSnlWbHkteXVxcnFoUXFZMEg4ejh0YjA4ZG5BRnBEX1huMFNaS0dXdEx4LWNEOXBLcmNpMzlCQzc1OC0yRDFKeWFMWEZzWUpNQXBWTFFDQlJ6dmFWamU5cUpFZnVfcU1ocFdTa0tfdjByTlZZUHo4QUx1QzJOMHpzZEdaZjdqSVhoWFB0cVRKZW9BbnNLMi1XYUF2MlhaZGc?oc=5",
-   "tickers": [
-    "NOW"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "NOW",
-   "strength": 75,
-   "reason": "Trump disclosed stake in ServiceNow; explicit holdings signal bullish view.",
-   "price_since": {
-    "ticker": "NOW",
-    "pct": 2.7,
-    "base": 114.19,
-    "last": 117.22,
     "base_date": "2026-08-03",
     "last_date": "2026-08-05"
    }
@@ -2758,6 +2766,23 @@
    }
   },
   {
+   "date": "2026-07-28T17:24:57.958Z",
+   "platform": "Truth Social",
+   "text": "Tariffs pull, USMCA pushes: Toyota to Texas: https://thehill.com/opinion/white-house/5965989-toyota-texas-tacoma-tariffs-impact/",
+   "tickers": [
+    "TM"
+   ],
+   "engagement": 10882,
+   "url": "https://truthsocial.com/@realDonaldTrump/116998766458372558",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "TM",
+   "strength": 60,
+   "reason": "Tariff incentive drives Toyota to expand Texas production capacity"
+  },
+  {
    "curated": true,
    "classified": true,
    "is_market": true,
@@ -2810,6 +2835,23 @@
    "reason": "Trump's majority-owned stock debuts \u2014 pure sentiment play, extremely volatile and headline-driven.",
    "market_reaction": "DJT spiked on debut then stayed volatile, moving heavily on Trump political/legal news.",
    "url": "https://www.nasdaq.com/market-activity/stocks/djt"
+  },
+  {
+   "date": "2021-07-01T12:00:00Z",
+   "platform": "Federal contract",
+   "text": "HARRIS CORPORATION was awarded a $2.1B federal contract from Department of Transportation.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_693KA821F00222_6920_DTFA0102D03006_6920",
+   "tickers": [
+    "HRS"
+   ],
+   "contract_amount": 2.12,
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "HRS",
+   "strength": 75,
+   "reason": "Harris Corporation awarded $2.1B federal contract from Department of Transportation"
   }
  ],
  "how_to_read": "Each card is Claude's read of a public Trump post: the affected ticker, whether it implies BUY / SELL / WATCH, a 0\u2013100 strength (how explicit/emphatic the post is \u2014 NOT a profit predictor), and why. A 2-year backtest found these don't beat buy-and-hold, so this is for awareness, not trading. Not financial advice."
