@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-07T08:14:05Z",
+ "last_updated": "2026-08-07T09:17:23Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -301,9 +301,9 @@
    "reason": "Eric Trump bullish call on Bitcoin to $1M; family member crypto advocacy but indirect signal",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": -0.4,
+    "pct": 0.2,
     "base": 64597.5,
-    "last": 64325.45,
+    "last": 64702.05,
     "base_date": "2026-08-05",
     "last_date": "2026-08-07"
    }
@@ -2862,23 +2862,6 @@
    "primary_ticker": "BA",
    "strength": 70,
    "reason": "Boeing awarded $2.7B federal contract from NASA; large defense/space contract is bullish."
-  },
-  {
-   "date": "2019-06-19T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "GENERAL DYNAMICS INFORMATION TECHNOLOGY, INC. was awarded a $1.6B federal contract from Department of State.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_19AQMM18C0185_1900_-NONE-_-NONE-",
-   "tickers": [
-    "GD"
-   ],
-   "contract_amount": 1.61,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "GD",
-   "strength": 70,
-   "reason": "General Dynamics awarded $1.6B federal contract; large defense contract is bullish."
   }
  ],
  "how_to_read": "Each card is Claude's read of a public Trump post: the affected ticker, whether it implies BUY / SELL / WATCH, a 0\u2013100 strength (how explicit/emphatic the post is \u2014 NOT a profit predictor), and why. A 2-year backtest found these don't beat buy-and-hold, so this is for awareness, not trading. Not financial advice."
