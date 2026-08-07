@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-07T06:46:06Z",
+ "last_updated": "2026-08-07T08:14:05Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -18,6 +18,22 @@
    "primary_ticker": "SPY",
    "strength": 45,
    "reason": "New tariff weapon announcement suggests potential trade restrictions ahead, which typically bearish for broad equities."
+  },
+  {
+   "date": "2026-08-06T12:31:46Z",
+   "platform": "News",
+   "text": "Trump Media & Technology Group Corp. (DJT) Stock Price, News, Quote & History - ca.finance.yahoo.com \u2014 Trump Media & Technology Group Corp. (DJT) Stock Price, News, Quote & History\u00a0\u00a0ca.finance.yahoo.com",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1QelBrZFExLUtrMFhUa3ZRTUNHeGdISDc4bmNicFZXUVJtMlJucDI1T3VveFJpelYzTlpMVV9XbDFfdFQ2Mkc4QTJxZS1VdHZi?oc=5",
+   "tickers": [
+    "DJT"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "DJT",
+   "strength": 10,
+   "reason": "Financial information page for Trump's company; neutral reference only"
   },
   {
    "date": "2026-08-06T04:34:50.305Z",
@@ -285,9 +301,9 @@
    "reason": "Eric Trump bullish call on Bitcoin to $1M; family member crypto advocacy but indirect signal",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": -0.5,
+    "pct": -0.4,
     "base": 64597.5,
-    "last": 64302.89,
+    "last": 64325.45,
     "base_date": "2026-08-05",
     "last_date": "2026-08-07"
    }
