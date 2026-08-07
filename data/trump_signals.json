@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-07T17:33:54Z",
+ "last_updated": "2026-08-07T18:30:04Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -118,7 +118,7 @@
     "ticker": "SPY",
     "pct": 0.4,
     "base": 768.56,
-    "last": 771.96,
+    "last": 771.48,
     "base_date": "2026-08-06",
     "last_date": "2026-08-07"
    }
@@ -140,9 +140,9 @@
    "reason": "Financial information page for Trump's company; neutral reference only",
    "price_since": {
     "ticker": "DJT",
-    "pct": 1.7,
+    "pct": 1.6,
     "base": 9.89,
-    "last": 10.06,
+    "last": 10.05,
     "base_date": "2026-08-06",
     "last_date": "2026-08-07"
    }
@@ -165,9 +165,9 @@
    "reason": "Defense manufacturing expansion and munitions production boost military-industrial demand",
    "price_since": {
     "ticker": "XAR",
-    "pct": 0.9,
+    "pct": 1.0,
     "base": 282.91,
-    "last": 285.46,
+    "last": 285.85,
     "base_date": "2026-08-06",
     "last_date": "2026-08-07"
    }
@@ -189,9 +189,9 @@
    "reason": "Trump praises Elon Musk; bullish signal on Tesla, though not an explicit stock call",
    "price_since": {
     "ticker": "TSLA",
-    "pct": 2.4,
+    "pct": 2.3,
     "base": 319.53,
-    "last": 327.09,
+    "last": 327.0,
     "base_date": "2026-08-06",
     "last_date": "2026-08-07"
    }
@@ -213,9 +213,9 @@
    "reason": "KEEL data center announcement attracting retail interest; speculative signal without Trump catalyst detail.",
    "price_since": {
     "ticker": "KEEL",
-    "pct": -3.3,
+    "pct": -3.1,
     "base": 3.93,
-    "last": 3.8,
+    "last": 3.81,
     "base_date": "2026-08-05",
     "last_date": "2026-08-07"
    }
@@ -237,9 +237,9 @@
    "reason": "Space stocks (ASTS, RKLB) rallying on emerging Trump portfolio connection; ambiguous direction pending clarity.",
    "price_since": {
     "ticker": "RKLB",
-    "pct": 9.6,
+    "pct": 8.6,
     "base": 74.82,
-    "last": 82.03,
+    "last": 81.26,
     "base_date": "2026-08-05",
     "last_date": "2026-08-07"
    }
@@ -261,9 +261,9 @@
    "reason": "Intel rally attributed partly to Trump sentiment; ambiguous whether policy or portfolio-driven.",
    "price_since": {
     "ticker": "INTC",
-    "pct": 0.0,
+    "pct": -0.2,
     "base": 101.06,
-    "last": 101.11,
+    "last": 100.87,
     "base_date": "2026-08-05",
     "last_date": "2026-08-07"
    }
@@ -285,9 +285,9 @@
    "reason": "Headline references Trump pump on Intel; likely federal contract/support but signal is secondary to other factors",
    "price_since": {
     "ticker": "INTC",
-    "pct": 0.0,
+    "pct": -0.2,
     "base": 101.06,
-    "last": 101.11,
+    "last": 100.87,
     "base_date": "2026-08-05",
     "last_date": "2026-08-07"
    }
@@ -309,9 +309,9 @@
    "reason": "Trump explicitly endorses Dell; direct bullish signal drives stock to record highs.",
    "price_since": {
     "ticker": "DELL",
-    "pct": -3.2,
+    "pct": -3.0,
     "base": 462.7,
-    "last": 448.05,
+    "last": 448.64,
     "base_date": "2026-08-05",
     "last_date": "2026-08-07"
    }
@@ -333,9 +333,9 @@
    "reason": "Trump explicitly endorses Dell; direct named company praise drives stock up",
    "price_since": {
     "ticker": "DELL",
-    "pct": -3.2,
+    "pct": -3.0,
     "base": 462.7,
-    "last": 448.05,
+    "last": 448.64,
     "base_date": "2026-08-05",
     "last_date": "2026-08-07"
    }
@@ -373,9 +373,9 @@
    "reason": "Trump lauds Citigroup's M&A comeback; direct company praise but soft/praise-based signal",
    "price_since": {
     "ticker": "C",
-    "pct": -2.2,
+    "pct": -2.1,
     "base": 137.64,
-    "last": 134.55,
+    "last": 134.72,
     "base_date": "2026-08-05",
     "last_date": "2026-08-07"
    }
@@ -397,9 +397,9 @@
    "reason": "Trump lauds Citi's M&A comeback \u2014 direct praise of bank, suggests bullish outlook on Citi",
    "price_since": {
     "ticker": "C",
-    "pct": -2.2,
+    "pct": -2.1,
     "base": 137.64,
-    "last": 134.55,
+    "last": 134.72,
     "base_date": "2026-08-05",
     "last_date": "2026-08-07"
    }
@@ -421,9 +421,9 @@
    "reason": "Eric Trump bullish call on Bitcoin to $1M; family member crypto advocacy but indirect signal",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": -0.1,
+    "pct": 0.3,
     "base": 64597.5,
-    "last": 64528.81,
+    "last": 64763.24,
     "base_date": "2026-08-05",
     "last_date": "2026-08-07"
    }
@@ -445,9 +445,9 @@
    "reason": "Eric Trump (family proxy) doubles down on $1M Bitcoin call \u2014 strong family bullish signal on crypto",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": -0.1,
+    "pct": 0.3,
     "base": 64597.5,
-    "last": 64525.88,
+    "last": 64763.24,
     "base_date": "2026-08-05",
     "last_date": "2026-08-07"
    }
@@ -493,9 +493,9 @@
    "reason": "Probe of insider-access scheme tied to Truth Social posts \u2014 regulatory/legal risk to Trump Media",
    "price_since": {
     "ticker": "DJT",
-    "pct": 1.0,
+    "pct": 0.9,
     "base": 9.96,
-    "last": 10.06,
+    "last": 10.05,
     "base_date": "2026-08-05",
     "last_date": "2026-08-07"
    }
@@ -517,9 +517,9 @@
    "reason": "Stock surge overnight; no Trump-specific catalyst stated.",
    "price_since": {
     "ticker": "IBM",
-    "pct": 0.2,
+    "pct": -0.2,
     "base": 235.92,
-    "last": 236.44,
+    "last": 235.49,
     "base_date": "2026-08-05",
     "last_date": "2026-08-07"
    }
@@ -557,9 +557,9 @@
    "reason": "Dell stock surge attributed to Trump endorsement; retrospective article on positive momentum.",
    "price_since": {
     "ticker": "DELL",
-    "pct": -3.2,
+    "pct": -3.0,
     "base": 462.7,
-    "last": 448.05,
+    "last": 448.64,
     "base_date": "2026-08-05",
     "last_date": "2026-08-07"
    }
@@ -597,9 +597,9 @@
    "reason": "Trump stake in ServiceNow disclosed; bullish implied endorsement by Trump investment",
    "price_since": {
     "ticker": "NOW",
-    "pct": 6.4,
+    "pct": 6.3,
     "base": 117.22,
-    "last": 124.78,
+    "last": 124.59,
     "base_date": "2026-08-05",
     "last_date": "2026-08-07"
    }
@@ -621,9 +621,9 @@
    "reason": "Trump's reported ServiceNow stake and explicit praise creates bullish sentiment for NOW",
    "price_since": {
     "ticker": "NOW",
-    "pct": 6.5,
+    "pct": 6.3,
     "base": 117.22,
-    "last": 124.84,
+    "last": 124.59,
     "base_date": "2026-08-05",
     "last_date": "2026-08-07"
    }
@@ -645,9 +645,9 @@
    "reason": "Trump explicitly praises Scotts Miracle-Gro by name at White House; direct endorsement",
    "price_since": {
     "ticker": "SMG",
-    "pct": -3.5,
+    "pct": -3.3,
     "base": 66.13,
-    "last": 63.8,
+    "last": 63.97,
     "base_date": "2026-08-05",
     "last_date": "2026-08-07"
    }
@@ -669,9 +669,9 @@
    "reason": "Trump explicitly praises Scotts Miracle-Gro for White House/D.C. lawn project; direct endorsement of named company",
    "price_since": {
     "ticker": "SMG",
-    "pct": -3.5,
+    "pct": -3.3,
     "base": 66.13,
-    "last": 63.8,
+    "last": 63.97,
     "base_date": "2026-08-05",
     "last_date": "2026-08-07"
    }
