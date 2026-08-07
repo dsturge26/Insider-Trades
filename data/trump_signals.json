@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-07T00:40:23Z",
+ "last_updated": "2026-08-07T03:39:05Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -237,6 +237,22 @@
    "reason": "MyPillow CEO resigns; leadership departure and focus shift away from core business is bearish"
   },
   {
+   "date": "2026-08-05T12:47:28Z",
+   "platform": "News",
+   "text": "Mike Lindell resigns as MyPillow CEO to focus on campaign - newsnationnow.com \u2014 Mike Lindell resigns as MyPillow CEO to focus on campaign\u00a0\u00a0newsnationnow.com",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRkdtLTVybDB3N2k1Z2pQZTlrcGJRU0JJTTItOG90QThEekRESnVKRDRJWV9jMGVaWmpPTzd1OG4yeEdDUlRIX01XWEJJSnhySHBmU1JybkN0RDFqSVJUVXExcG04TU1ILVp5WGRvaTZMbWN0Wjl0MnRpMExIUUloV3hSRdIBgwFBVV95cUxQRkdtLTVybDB3N2k1Z2pQZTlrcGJRU0JJTTItOG90QThEekRESnVKRDRJWV9jMGVaWmpPTzd1OG4yeEdDUlRIX01XWEJJSnhySHBmU1JybkN0RDFqSVJUVXExcG04TU1ILVp5WGRvaTZMbWN0Wjl0MnRpMExIUUloV3hSRQ?oc=5",
+   "tickers": [
+    "MYPI"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "MYPI",
+   "strength": 50,
+   "reason": "CEO resignation from MyPillow to campaign; operational disruption bearish"
+  },
+  {
    "date": "2026-08-05T12:07:00Z",
    "platform": "News",
    "text": "Dell Stock Surged 260% This Year, and Here\u2019s All the Reasons Why - BeInCrypto \u2014 Dell Stock Surged 260% This Year, and Here\u2019s All the Reasons Why\u00a0\u00a0BeInCrypto",
@@ -387,6 +403,22 @@
    "primary_ticker": "MYPW",
    "strength": 25,
    "reason": "CEO departure from MyPillow may affect company operations and stock"
+  },
+  {
+   "date": "2026-08-05T01:52:00Z",
+   "platform": "News",
+   "text": "Mike Lindell, MyPillow CEO, steps down from post to run for Minnesota governor - theguardian.com \u2014 Mike Lindell, MyPillow CEO, steps down from post to run for Minnesota governor\u00a0\u00a0theguardian.com",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNGMwRGppRmxkUzYta19kS1cyQkh0R2l4UnQ0V0t4dGt1NVV1cmVfcVRaMVphcU5KOHByNTRRbXpxSEtpTk0xRTBkSGNSclQ5VjhzMUlfYzBnNEk4QXVlTGF1Q0F1NzFwTFJRTDY5V0xTVk0tT0RaY1h1ajYxWjh1MmU2SnRwa1N1QmwwODJNa1hJXy1jYUNN?oc=5",
+   "tickers": [
+    "MYPI"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "MYPI",
+   "strength": 50,
+   "reason": "MyPillow CEO departure to run for office; operational and leadership risk bearish"
   },
   {
    "date": "2026-08-04T23:57:19Z",
@@ -2711,6 +2743,23 @@
    }
   },
   {
+   "date": "2026-07-28T17:24:57.958Z",
+   "platform": "Truth Social",
+   "text": "Tariffs pull, USMCA pushes: Toyota to Texas: https://thehill.com/opinion/white-house/5965989-toyota-texas-tacoma-tariffs-impact/",
+   "tickers": [
+    "TM"
+   ],
+   "engagement": 10882,
+   "url": "https://truthsocial.com/@realDonaldTrump/116998766458372558",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "TM",
+   "strength": 55,
+   "reason": "Toyota announced Texas expansion tied to tariff environment and USMCA trade deal; bullish for Toyota."
+  },
+  {
    "curated": true,
    "classified": true,
    "is_market": true,
@@ -2763,6 +2812,91 @@
    "reason": "Trump's majority-owned stock debuts \u2014 pure sentiment play, extremely volatile and headline-driven.",
    "market_reaction": "DJT spiked on debut then stayed volatile, moving heavily on Trump political/legal news.",
    "url": "https://www.nasdaq.com/market-activity/stocks/djt"
+  },
+  {
+   "date": "2021-07-01T12:00:00Z",
+   "platform": "Federal contract",
+   "text": "HARRIS CORPORATION was awarded a $2.1B federal contract from Department of Transportation.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_693KA821F00222_6920_DTFA0102D03006_6920",
+   "tickers": [
+    "HRS"
+   ],
+   "contract_amount": 2.12,
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "HRS",
+   "strength": 70,
+   "reason": "Harris Corporation awarded $2.1B federal contract; large defense/government contract is bullish."
+  },
+  {
+   "date": "2019-10-16T12:00:00Z",
+   "platform": "Federal contract",
+   "text": "THE BOEING COMPANY was awarded a $2.7B federal contract from National Aeronautics and Space Administration.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_80MSFC20C0052_8000_-NONE-_-NONE-",
+   "tickers": [
+    "BA"
+   ],
+   "contract_amount": 2.74,
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "BA",
+   "strength": 70,
+   "reason": "Boeing awarded $2.7B federal contract from NASA; large defense/space contract is bullish."
+  },
+  {
+   "date": "2019-06-19T12:00:00Z",
+   "platform": "Federal contract",
+   "text": "GENERAL DYNAMICS INFORMATION TECHNOLOGY, INC. was awarded a $1.6B federal contract from Department of State.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_19AQMM18C0185_1900_-NONE-_-NONE-",
+   "tickers": [
+    "GD"
+   ],
+   "contract_amount": 1.61,
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "GD",
+   "strength": 70,
+   "reason": "General Dynamics awarded $1.6B federal contract; large defense contract is bullish."
+  },
+  {
+   "date": "2018-05-17T12:00:00Z",
+   "platform": "Federal contract",
+   "text": "ORACLE HEALTH GOVERNMENT SERVICES, INC. was awarded a $1.5B federal contract from Department of Veterans Affairs.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_36C10B18N0003_3600_36C10B18D5000_3600",
+   "tickers": [
+    "ORCL"
+   ],
+   "contract_amount": 1.51,
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "ORCL",
+   "strength": 65,
+   "reason": "Oracle Health awarded $1.5B federal contract; large government IT contract is bullish for Oracle."
+  },
+  {
+   "date": "2015-09-03T12:00:00Z",
+   "platform": "Federal contract",
+   "text": "NORTHROP GRUMMAN SYSTEMS CORPORATION was awarded a $1.6B federal contract from National Aeronautics and Space Administration.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_NNH15CN76C_8000_-NONE-_-NONE-",
+   "tickers": [
+    "NOC"
+   ],
+   "contract_amount": 1.63,
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "NOC",
+   "strength": 70,
+   "reason": "Northrop Grumman awarded $1.6B federal contract from NASA; large defense/space contract is bullish."
   }
  ],
  "how_to_read": "Each card is Claude's read of a public Trump post: the affected ticker, whether it implies BUY / SELL / WATCH, a 0\u2013100 strength (how explicit/emphatic the post is \u2014 NOT a profit predictor), and why. A 2-year backtest found these don't beat buy-and-hold, so this is for awareness, not trading. Not financial advice."
