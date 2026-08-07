@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-08-07T14:40:03Z",
+ "last_updated": "2026-08-07T15:36:09Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-08-07T15:01:20Z",
+   "platform": "News",
+   "text": "Crucial Vote On Crypto Clarity Act Delayed Until September, Trump Says More People Are Paying in Bitcoin: Reports - Bitcoin Magazine \u2014 Crucial Vote On Crypto Clarity Act Delayed Until September, Trump Says More People Are Paying in Bitcoin: Reports\u00a0\u00a0Bitcoin Magazine",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ycW92NmJBaWhpSzFaN3ZrVjZGbXdtNjFyZ01ybHhhcDFzY3pqREhfVmQ1Z2FqQ2UzY1hxZW82WDQzcGd4cTlicjQ1dkJSRzY2dHV4UkMwTlNub3AwZEpkUGtqTVZURFBuYzlSQ3dEcmVDWXRmaGp3bG9EYw?oc=5",
+   "tickers": [
+    "BTC-USD"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "BTC-USD",
+   "strength": 45,
+   "reason": "Trump signals growing bitcoin adoption and crypto clarity legislative progress; bullish sentiment for crypto"
+  },
   {
    "date": "2026-08-07T12:06:35Z",
    "platform": "News",
@@ -17,6 +33,22 @@
    "primary_ticker": "SPY",
    "strength": 35,
    "reason": "Trump comments on Fed policy (bearish) but praises Musk/tech (bullish) \u2014 mixed signals, no clear direction"
+  },
+  {
+   "date": "2026-08-07T12:06:35Z",
+   "platform": "News",
+   "text": "Trump Weighs In On Elon Musk, OpenAI, Intel \u2014 And Takes Aim At The 'Hostile' Fed Board - Stocktwits \u2014 Trump Weighs In On Elon Musk, OpenAI, Intel \u2014 And Takes Aim At The 'Hostile' Fed Board\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSGdkS2RRUEt3TWdWdW8yWkZrN0NfU1lZak10VExCWGktUlg3enppTzF4UnpEVjg3YVZRR2JqRmFYdTVBQTdIcmJHYVFkX2ZtcHFiREF5UWZ3NExDNTJhTnd2VE5HM1A1WFZnVEpoY0Rfa1BYMVJrZ0lKNlhDdDBKVW41S0dCOTdncW5jWEhHRkZMU0lERlF4MlFyU0xxTXFNS25wMWVoa1c3SkliajdkUDUtTDdUWnZmUnI5aUhNeHJreTBacEE0Zk1WZVMzMXpfUDFIeU9GSEN2N2liM2c?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "SPY",
+   "strength": 50,
+   "reason": "Trump comments on multiple tech/market players (Musk, OpenAI, Intel, Fed); mixed/ambiguous directional signal requires detail"
   },
   {
    "date": "2026-08-07T07:11:20Z",
@@ -52,9 +84,9 @@
    "reason": "New tariff weapon announcement suggests potential trade restrictions ahead, which typically bearish for broad equities.",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.4,
+    "pct": 0.6,
     "base": 768.56,
-    "last": 771.91,
+    "last": 773.33,
     "base_date": "2026-08-06",
     "last_date": "2026-08-07"
    }
@@ -76,9 +108,9 @@
    "reason": "Financial information page for Trump's company; neutral reference only",
    "price_since": {
     "ticker": "DJT",
-    "pct": 4.2,
+    "pct": 2.3,
     "base": 9.89,
-    "last": 10.31,
+    "last": 10.12,
     "base_date": "2026-08-06",
     "last_date": "2026-08-07"
    }
@@ -101,9 +133,9 @@
    "reason": "Defense manufacturing expansion and munitions production boost military-industrial demand",
    "price_since": {
     "ticker": "XAR",
-    "pct": -0.5,
+    "pct": 0.6,
     "base": 282.91,
-    "last": 281.63,
+    "last": 284.68,
     "base_date": "2026-08-06",
     "last_date": "2026-08-07"
    }
@@ -125,9 +157,9 @@
    "reason": "Trump praises Elon Musk; bullish signal on Tesla, though not an explicit stock call",
    "price_since": {
     "ticker": "TSLA",
-    "pct": 2.6,
+    "pct": 3.9,
     "base": 319.53,
-    "last": 327.93,
+    "last": 332.05,
     "base_date": "2026-08-06",
     "last_date": "2026-08-07"
    }
@@ -149,9 +181,9 @@
    "reason": "KEEL data center announcement attracting retail interest; speculative signal without Trump catalyst detail.",
    "price_since": {
     "ticker": "KEEL",
-    "pct": -3.6,
+    "pct": -1.3,
     "base": 3.93,
-    "last": 3.79,
+    "last": 3.88,
     "base_date": "2026-08-05",
     "last_date": "2026-08-07"
    }
@@ -173,9 +205,9 @@
    "reason": "Space stocks (ASTS, RKLB) rallying on emerging Trump portfolio connection; ambiguous direction pending clarity.",
    "price_since": {
     "ticker": "RKLB",
-    "pct": 6.7,
+    "pct": 9.2,
     "base": 74.82,
-    "last": 79.83,
+    "last": 81.72,
     "base_date": "2026-08-05",
     "last_date": "2026-08-07"
    }
@@ -197,9 +229,9 @@
    "reason": "Trump hidden space stock stakes emerge; RKLB mentioned as beneficiary of Trump portfolio interest",
    "price_since": {
     "ticker": "RKLB",
-    "pct": 6.7,
+    "pct": 9.2,
     "base": 74.82,
-    "last": 79.83,
+    "last": 81.72,
     "base_date": "2026-08-05",
     "last_date": "2026-08-07"
    }
@@ -221,9 +253,9 @@
    "reason": "Intel rally attributed partly to Trump sentiment; ambiguous whether policy or portfolio-driven.",
    "price_since": {
     "ticker": "INTC",
-    "pct": -2.0,
+    "pct": 0.1,
     "base": 101.06,
-    "last": 99.03,
+    "last": 101.17,
     "base_date": "2026-08-05",
     "last_date": "2026-08-07"
    }
@@ -245,9 +277,9 @@
    "reason": "Headline references Trump pump on Intel; likely federal contract/support but signal is secondary to other factors",
    "price_since": {
     "ticker": "INTC",
-    "pct": -2.0,
+    "pct": 0.1,
     "base": 101.06,
-    "last": 98.99,
+    "last": 101.17,
     "base_date": "2026-08-05",
     "last_date": "2026-08-07"
    }
@@ -269,9 +301,9 @@
    "reason": "Trump explicitly endorses Dell; direct bullish signal drives stock to record highs.",
    "price_since": {
     "ticker": "DELL",
-    "pct": -8.4,
+    "pct": -5.4,
     "base": 462.7,
-    "last": 424.02,
+    "last": 437.86,
     "base_date": "2026-08-05",
     "last_date": "2026-08-07"
    }
@@ -293,36 +325,28 @@
    "reason": "Trump explicitly endorses Dell; direct named company praise drives stock up",
    "price_since": {
     "ticker": "DELL",
-    "pct": -8.4,
+    "pct": -5.4,
     "base": 462.7,
-    "last": 424.02,
+    "last": 437.86,
     "base_date": "2026-08-05",
     "last_date": "2026-08-07"
    }
   },
   {
-   "date": "2026-08-05T17:24:54Z",
+   "date": "2026-08-05T17:48:32Z",
    "platform": "News",
-   "text": "Trump Weighs In On Elon Musk, OpenAI, Intel \u2014 And Takes Aim At The 'Hostile' Fed Board - Stocktwits \u2014 Trump Weighs In On Elon Musk, OpenAI, Intel \u2014 And Takes Aim At The 'Hostile' Fed Board\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSGdkS2RRUEt3TWdWdW8yWkZrN0NfU1lZak10VExCWGktUlg3enppTzF4UnpEVjg3YVZRR2JqRmFYdTVBQTdIcmJHYVFkX2ZtcHFiREF5UWZ3NExDNTJhTnd2VE5HM1A1WFZnVEpoY0Rfa1BYMVJrZ0lKNlhDdDBKVW41S0dCOTdncW5jWEhHRkZMU0lERlF4MlFyU0xxTXFNS25wMWVoa1c3SkliajdkUDUtTDdUWnZmUnI5aUhNeHJreTBacEE0Zk1WZVMzMXpfUDFIeU9GSEN2N2liM2c?oc=5",
+   "text": "Mike Lindell resigns as MyPillow CEO to focus on campaign - newsnationnow.com \u2014 Mike Lindell resigns as MyPillow CEO to focus on campaign\u00a0\u00a0newsnationnow.com",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5fVkhWOHQ2ajV2UUcwaEYyRFlDdER6bGxyTlBVNUhfRU5RbTM2MmE4U2FJQ041dlVGU2VheGlCOUpFQVRWV3lyX0tFNHFVYnVfMThZLVdIXzdsVHg0YV83QVA5VjZhMmo1TUJMQXFSQTJmLTgwbEI4Qk9zR2JOQdIBgwFBVV95cUxQRkdtLTVybDB3N2k1Z2pQZTlrcGJRU0JJTTItOG90QThEekRESnVKRDRJWV9jMGVaWmpPTzd1OG4yeEdDUlRIX01XWEJJSnhySHBmU1JybkN0RDFqSVJUVXExcG04TU1ILVp5WGRvaTZMbWN0Wjl0MnRpMExIUUloV3hSRQ?oc=5",
    "tickers": [
-    "SPY"
+    "MYPL"
    ],
    "classified": true,
    "is_market": true,
    "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "SPY",
-   "strength": 35,
-   "reason": "Trump comments on Musk, OpenAI, Intel, and Fed; macro-relevant but direction unclear without specifics.",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": 0.3,
-    "base": 769.79,
-    "last": 771.86,
-    "base_date": "2026-08-05",
-    "last_date": "2026-08-07"
-   }
+   "direction": "SELL",
+   "primary_ticker": "MYPL",
+   "strength": 45,
+   "reason": "Mike Lindell resigns as CEO to focus on campaign; leadership departure negative for MyPillow operations"
   },
   {
    "date": "2026-08-05T16:31:15Z",
@@ -341,9 +365,9 @@
    "reason": "Trump lauds Citigroup's M&A comeback; direct company praise but soft/praise-based signal",
    "price_since": {
     "ticker": "C",
-    "pct": -2.4,
+    "pct": -2.3,
     "base": 137.64,
-    "last": 134.38,
+    "last": 134.48,
     "base_date": "2026-08-05",
     "last_date": "2026-08-07"
    }
@@ -365,9 +389,9 @@
    "reason": "Trump lauds Citi's M&A comeback \u2014 direct praise of bank, suggests bullish outlook on Citi",
    "price_since": {
     "ticker": "C",
-    "pct": -2.4,
+    "pct": -2.3,
     "base": 137.64,
-    "last": 134.38,
+    "last": 134.48,
     "base_date": "2026-08-05",
     "last_date": "2026-08-07"
    }
@@ -389,9 +413,9 @@
    "reason": "Eric Trump bullish call on Bitcoin to $1M; family member crypto advocacy but indirect signal",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": 0.8,
+    "pct": 0.7,
     "base": 64597.5,
-    "last": 65115.13,
+    "last": 65026.49,
     "base_date": "2026-08-05",
     "last_date": "2026-08-07"
    }
@@ -413,9 +437,9 @@
    "reason": "Eric Trump (family proxy) doubles down on $1M Bitcoin call \u2014 strong family bullish signal on crypto",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": 0.8,
+    "pct": 0.7,
     "base": 64597.5,
-    "last": 65115.13,
+    "last": 65026.49,
     "base_date": "2026-08-05",
     "last_date": "2026-08-07"
    }
@@ -437,9 +461,9 @@
    "reason": "Stock rally tied to SOTU event; direction unclear without content.",
    "price_since": {
     "ticker": "IBRX",
-    "pct": 2.9,
+    "pct": 3.6,
     "base": 7.25,
-    "last": 7.46,
+    "last": 7.51,
     "base_date": "2026-08-05",
     "last_date": "2026-08-07"
    }
@@ -461,9 +485,9 @@
    "reason": "Probe of insider-access scheme tied to Truth Social posts \u2014 regulatory/legal risk to Trump Media",
    "price_since": {
     "ticker": "DJT",
-    "pct": 3.5,
+    "pct": 1.6,
     "base": 9.96,
-    "last": 10.31,
+    "last": 10.12,
     "base_date": "2026-08-05",
     "last_date": "2026-08-07"
    }
@@ -485,9 +509,9 @@
    "reason": "Stock surge overnight; no Trump-specific catalyst stated.",
    "price_since": {
     "ticker": "IBM",
-    "pct": -0.1,
+    "pct": -0.6,
     "base": 235.92,
-    "last": 235.79,
+    "last": 234.59,
     "base_date": "2026-08-05",
     "last_date": "2026-08-07"
    }
@@ -509,22 +533,6 @@
    "reason": "MyPillow CEO resigns; leadership departure and focus shift away from core business is bearish"
   },
   {
-   "date": "2026-08-05T12:47:28Z",
-   "platform": "News",
-   "text": "Mike Lindell resigns as MyPillow CEO to focus on campaign - newsnationnow.com \u2014 Mike Lindell resigns as MyPillow CEO to focus on campaign\u00a0\u00a0newsnationnow.com",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRkdtLTVybDB3N2k1Z2pQZTlrcGJRU0JJTTItOG90QThEekRESnVKRDRJWV9jMGVaWmpPTzd1OG4yeEdDUlRIX01XWEJJSnhySHBmU1JybkN0RDFqSVJUVXExcG04TU1ILVp5WGRvaTZMbWN0Wjl0MnRpMExIUUloV3hSRdIBgwFBVV95cUxQRkdtLTVybDB3N2k1Z2pQZTlrcGJRU0JJTTItOG90QThEekRESnVKRDRJWV9jMGVaWmpPTzd1OG4yeEdDUlRIX01XWEJJSnhySHBmU1JybkN0RDFqSVJUVXExcG04TU1ILVp5WGRvaTZMbWN0Wjl0MnRpMExIUUloV3hSRQ?oc=5",
-   "tickers": [
-    "MYPI"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "MYPI",
-   "strength": 50,
-   "reason": "CEO resignation from MyPillow to campaign; operational disruption bearish"
-  },
-  {
    "date": "2026-08-05T12:07:00Z",
    "platform": "News",
    "text": "Dell Stock Surged 260% This Year, and Here\u2019s All the Reasons Why - BeInCrypto \u2014 Dell Stock Surged 260% This Year, and Here\u2019s All the Reasons Why\u00a0\u00a0BeInCrypto",
@@ -541,9 +549,9 @@
    "reason": "Dell stock surge attributed to Trump endorsement; retrospective article on positive momentum.",
    "price_since": {
     "ticker": "DELL",
-    "pct": -8.4,
+    "pct": -5.4,
     "base": 462.7,
-    "last": 424.02,
+    "last": 437.86,
     "base_date": "2026-08-05",
     "last_date": "2026-08-07"
    }
@@ -581,9 +589,9 @@
    "reason": "Trump stake in ServiceNow disclosed; bullish implied endorsement by Trump investment",
    "price_since": {
     "ticker": "NOW",
-    "pct": 6.6,
+    "pct": 6.1,
     "base": 117.22,
-    "last": 124.96,
+    "last": 124.39,
     "base_date": "2026-08-05",
     "last_date": "2026-08-07"
    }
@@ -605,9 +613,9 @@
    "reason": "Trump's reported ServiceNow stake and explicit praise creates bullish sentiment for NOW",
    "price_since": {
     "ticker": "NOW",
-    "pct": 6.6,
+    "pct": 6.1,
     "base": 117.22,
-    "last": 124.96,
+    "last": 124.39,
     "base_date": "2026-08-05",
     "last_date": "2026-08-07"
    }
@@ -629,9 +637,9 @@
    "reason": "Trump explicitly praises Scotts Miracle-Gro by name at White House; direct endorsement",
    "price_since": {
     "ticker": "SMG",
-    "pct": -2.1,
+    "pct": -3.1,
     "base": 66.13,
-    "last": 64.75,
+    "last": 64.07,
     "base_date": "2026-08-05",
     "last_date": "2026-08-07"
    }
@@ -653,9 +661,9 @@
    "reason": "Trump explicitly praises Scotts Miracle-Gro for White House/D.C. lawn project; direct endorsement of named company",
    "price_since": {
     "ticker": "SMG",
-    "pct": -2.1,
+    "pct": -3.1,
     "base": 66.13,
-    "last": 64.75,
+    "last": 64.07,
     "base_date": "2026-08-05",
     "last_date": "2026-08-07"
    }
@@ -677,9 +685,9 @@
    "reason": "Trump Administration awards IBM $1B federal grant for quantum foundry; direct large federal contract to named public company",
    "price_since": {
     "ticker": "IBM",
-    "pct": -0.1,
+    "pct": -0.6,
     "base": 235.92,
-    "last": 235.79,
+    "last": 234.59,
     "base_date": "2026-08-05",
     "last_date": "2026-08-07"
    }
@@ -2847,47 +2855,6 @@
    "reason": "SEC probe into Trump Media's preferential access plan creates regulatory and compliance risk for company."
   },
   {
-   "date": "2026-07-29T17:48:30Z",
-   "platform": "News",
-   "text": "US Senators Urge SEC Probe Into Trump Media\u2019s Preferential Truth Social Access Plan For Wall Street Firms - TradingView \u2014 US Senators Urge SEC Probe Into Trump Media\u2019s Preferential Truth Social Access Plan For Wall Street Firms\u00a0\u00a0TradingView",
-   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPVEYxT2hkWUpJUjFKT3dSWVdNaUhtZjRDMURldWRUUWdWOUpIc0FaQTUyVDdCeC1BRFZfWXEtRkkxU1RNUW5sSmhrYmt2dmlqLTVmcEtpNXE5UUdjNUtMZWt5STB1TUVNYTh0OHVKdVV6dndWdUFyUTE1NWE4QURXWG01eVc1c2s4OEhwZ251Wng4OFhBWVNfM2RaTThFTmcxV2l5WHJHM2Q5N1h5Vl9BQ1kyNUNDckxlNi1kWGFOOFZOS0otZ1pOY2k5dnlpMFU4LWgtUGN6WGotZ1dMM19OM2E3UVQzZHNRS1N4Q0c5UkJMeURLTUhUdkV3?oc=5",
-   "tickers": [
-    "DJT"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "DJT",
-   "strength": 35,
-   "reason": "SEC investigation threat into Trump Media's paid access plan creates regulatory headwind for DJT",
-   "price_since": {
-    "ticker": "DJT",
-    "pct": 5.4,
-    "base": 9.85,
-    "last": 10.38,
-    "base_date": "2026-07-29",
-    "last_date": "2026-07-30"
-   }
-  },
-  {
-   "date": "2026-07-28T17:24:57.958Z",
-   "platform": "Truth Social",
-   "text": "Tariffs pull, USMCA pushes: Toyota to Texas: https://thehill.com/opinion/white-house/5965989-toyota-texas-tacoma-tariffs-impact/",
-   "tickers": [
-    "TM"
-   ],
-   "engagement": 10882,
-   "url": "https://truthsocial.com/@realDonaldTrump/116998766458372558",
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "TM",
-   "strength": 55,
-   "reason": "Toyota announced Texas expansion tied to tariff environment and USMCA trade deal; bullish for Toyota."
-  },
-  {
    "curated": true,
    "classified": true,
    "is_market": true,
@@ -2940,23 +2907,6 @@
    "reason": "Trump's majority-owned stock debuts \u2014 pure sentiment play, extremely volatile and headline-driven.",
    "market_reaction": "DJT spiked on debut then stayed volatile, moving heavily on Trump political/legal news.",
    "url": "https://www.nasdaq.com/market-activity/stocks/djt"
-  },
-  {
-   "date": "2021-07-01T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "HARRIS CORPORATION was awarded a $2.1B federal contract from Department of Transportation.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_693KA821F00222_6920_DTFA0102D03006_6920",
-   "tickers": [
-    "HRS"
-   ],
-   "contract_amount": 2.12,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "HRS",
-   "strength": 70,
-   "reason": "Harris Corporation awarded $2.1B federal contract; large defense/government contract is bullish."
   }
  ],
  "how_to_read": "Each card is Claude's read of a public Trump post: the affected ticker, whether it implies BUY / SELL / WATCH, a 0\u2013100 strength (how explicit/emphatic the post is \u2014 NOT a profit predictor), and why. A 2-year backtest found these don't beat buy-and-hold, so this is for awareness, not trading. Not financial advice."
