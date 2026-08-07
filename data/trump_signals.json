@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-07T12:08:50Z",
+ "last_updated": "2026-08-07T13:39:08Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -33,7 +33,15 @@
    "direction": "SELL",
    "primary_ticker": "SPY",
    "strength": 45,
-   "reason": "New tariff weapon announcement suggests potential trade restrictions ahead, which typically bearish for broad equities."
+   "reason": "New tariff weapon announcement suggests potential trade restrictions ahead, which typically bearish for broad equities.",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": 0.4,
+    "base": 768.56,
+    "last": 771.4,
+    "base_date": "2026-08-06",
+    "last_date": "2026-08-07"
+   }
   },
   {
    "date": "2026-08-06T12:31:46Z",
@@ -49,7 +57,15 @@
    "direction": "WATCH",
    "primary_ticker": "DJT",
    "strength": 10,
-   "reason": "Financial information page for Trump's company; neutral reference only"
+   "reason": "Financial information page for Trump's company; neutral reference only",
+   "price_since": {
+    "ticker": "DJT",
+    "pct": 1.7,
+    "base": 9.89,
+    "last": 10.06,
+    "base_date": "2026-08-06",
+    "last_date": "2026-08-07"
+   }
   },
   {
    "date": "2026-08-06T04:34:50.305Z",
@@ -66,7 +82,15 @@
    "direction": "BUY",
    "primary_ticker": "XAR",
    "strength": 65,
-   "reason": "Defense manufacturing expansion and munitions production boost military-industrial demand"
+   "reason": "Defense manufacturing expansion and munitions production boost military-industrial demand",
+   "price_since": {
+    "ticker": "XAR",
+    "pct": 0.5,
+    "base": 282.91,
+    "last": 284.39,
+    "base_date": "2026-08-06",
+    "last_date": "2026-08-07"
+   }
   },
   {
    "date": "2026-08-06T03:10:54Z",
@@ -82,7 +106,15 @@
    "direction": "BUY",
    "primary_ticker": "TSLA",
    "strength": 45,
-   "reason": "Trump praises Elon Musk; bullish signal on Tesla, though not an explicit stock call"
+   "reason": "Trump praises Elon Musk; bullish signal on Tesla, though not an explicit stock call",
+   "price_since": {
+    "ticker": "TSLA",
+    "pct": 1.3,
+    "base": 319.53,
+    "last": 323.77,
+    "base_date": "2026-08-06",
+    "last_date": "2026-08-07"
+   }
   },
   {
    "date": "2026-08-05T23:23:36Z",
@@ -101,11 +133,11 @@
    "reason": "KEEL data center announcement attracting retail interest; speculative signal without Trump catalyst detail.",
    "price_since": {
     "ticker": "KEEL",
-    "pct": -2.8,
+    "pct": -1.0,
     "base": 3.93,
-    "last": 3.82,
+    "last": 3.89,
     "base_date": "2026-08-05",
-    "last_date": "2026-08-06"
+    "last_date": "2026-08-07"
    }
   },
   {
@@ -125,11 +157,11 @@
    "reason": "Space stocks (ASTS, RKLB) rallying on emerging Trump portfolio connection; ambiguous direction pending clarity.",
    "price_since": {
     "ticker": "RKLB",
-    "pct": 1.1,
+    "pct": 7.2,
     "base": 74.82,
-    "last": 75.67,
+    "last": 80.2,
     "base_date": "2026-08-05",
-    "last_date": "2026-08-06"
+    "last_date": "2026-08-07"
    }
   },
   {
@@ -149,11 +181,11 @@
    "reason": "Trump hidden space stock stakes emerge; RKLB mentioned as beneficiary of Trump portfolio interest",
    "price_since": {
     "ticker": "RKLB",
-    "pct": 1.1,
+    "pct": 7.2,
     "base": 74.82,
-    "last": 75.67,
+    "last": 80.2,
     "base_date": "2026-08-05",
-    "last_date": "2026-08-06"
+    "last_date": "2026-08-07"
    }
   },
   {
@@ -173,11 +205,11 @@
    "reason": "Intel rally attributed partly to Trump sentiment; ambiguous whether policy or portfolio-driven.",
    "price_since": {
     "ticker": "INTC",
-    "pct": -1.2,
+    "pct": 0.9,
     "base": 101.06,
-    "last": 99.81,
+    "last": 101.96,
     "base_date": "2026-08-05",
-    "last_date": "2026-08-06"
+    "last_date": "2026-08-07"
    }
   },
   {
@@ -197,11 +229,11 @@
    "reason": "Headline references Trump pump on Intel; likely federal contract/support but signal is secondary to other factors",
    "price_since": {
     "ticker": "INTC",
-    "pct": -1.2,
+    "pct": 0.9,
     "base": 101.06,
-    "last": 99.81,
+    "last": 101.94,
     "base_date": "2026-08-05",
-    "last_date": "2026-08-06"
+    "last_date": "2026-08-07"
    }
   },
   {
@@ -221,11 +253,11 @@
    "reason": "Trump explicitly endorses Dell; direct bullish signal drives stock to record highs.",
    "price_since": {
     "ticker": "DELL",
-    "pct": -5.4,
+    "pct": -6.5,
     "base": 462.7,
-    "last": 437.65,
+    "last": 432.85,
     "base_date": "2026-08-05",
-    "last_date": "2026-08-06"
+    "last_date": "2026-08-07"
    }
   },
   {
@@ -245,11 +277,11 @@
    "reason": "Trump explicitly endorses Dell; direct named company praise drives stock up",
    "price_since": {
     "ticker": "DELL",
-    "pct": -5.4,
+    "pct": -6.5,
     "base": 462.7,
-    "last": 437.65,
+    "last": 432.67,
     "base_date": "2026-08-05",
-    "last_date": "2026-08-06"
+    "last_date": "2026-08-07"
    }
   },
   {
@@ -269,11 +301,11 @@
    "reason": "Trump comments on Musk, OpenAI, Intel, and Fed; macro-relevant but direction unclear without specifics.",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.2,
+    "pct": 0.2,
     "base": 769.79,
-    "last": 768.56,
+    "last": 771.36,
     "base_date": "2026-08-05",
-    "last_date": "2026-08-06"
+    "last_date": "2026-08-07"
    }
   },
   {
@@ -293,11 +325,11 @@
    "reason": "Trump lauds Citigroup's M&A comeback; direct company praise but soft/praise-based signal",
    "price_since": {
     "ticker": "C",
-    "pct": -2.8,
+    "pct": -2.6,
     "base": 137.64,
-    "last": 133.82,
+    "last": 134.09,
     "base_date": "2026-08-05",
-    "last_date": "2026-08-06"
+    "last_date": "2026-08-07"
    }
   },
   {
@@ -317,9 +349,9 @@
    "reason": "Eric Trump bullish call on Bitcoin to $1M; family member crypto advocacy but indirect signal",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": 0.7,
+    "pct": 0.9,
     "base": 64597.5,
-    "last": 65031.55,
+    "last": 65172.69,
     "base_date": "2026-08-05",
     "last_date": "2026-08-07"
    }
@@ -341,11 +373,11 @@
    "reason": "Stock rally tied to SOTU event; direction unclear without content.",
    "price_since": {
     "ticker": "IBRX",
-    "pct": 1.0,
+    "pct": 1.5,
     "base": 7.25,
-    "last": 7.32,
+    "last": 7.36,
     "base_date": "2026-08-05",
-    "last_date": "2026-08-06"
+    "last_date": "2026-08-07"
    }
   },
   {
@@ -367,9 +399,9 @@
     "ticker": "IBM",
     "pct": -1.1,
     "base": 235.92,
-    "last": 233.43,
+    "last": 233.35,
     "base_date": "2026-08-05",
-    "last_date": "2026-08-06"
+    "last_date": "2026-08-07"
    }
   },
   {
@@ -421,11 +453,11 @@
    "reason": "Dell stock surge attributed to Trump endorsement; retrospective article on positive momentum.",
    "price_since": {
     "ticker": "DELL",
-    "pct": -5.4,
+    "pct": -6.5,
     "base": 462.7,
-    "last": 437.65,
+    "last": 432.67,
     "base_date": "2026-08-05",
-    "last_date": "2026-08-06"
+    "last_date": "2026-08-07"
    }
   },
   {
@@ -461,11 +493,11 @@
    "reason": "Trump stake in ServiceNow disclosed; bullish implied endorsement by Trump investment",
    "price_since": {
     "ticker": "NOW",
-    "pct": 0.1,
+    "pct": 6.7,
     "base": 117.22,
-    "last": 117.35,
+    "last": 125.03,
     "base_date": "2026-08-05",
-    "last_date": "2026-08-06"
+    "last_date": "2026-08-07"
    }
   },
   {
@@ -485,11 +517,11 @@
    "reason": "Trump's reported ServiceNow stake and explicit praise creates bullish sentiment for NOW",
    "price_since": {
     "ticker": "NOW",
-    "pct": 0.1,
+    "pct": 6.7,
     "base": 117.22,
-    "last": 117.35,
+    "last": 125.03,
     "base_date": "2026-08-05",
-    "last_date": "2026-08-06"
+    "last_date": "2026-08-07"
    }
   },
   {
@@ -509,11 +541,11 @@
    "reason": "Trump explicitly praises Scotts Miracle-Gro by name at White House; direct endorsement",
    "price_since": {
     "ticker": "SMG",
-    "pct": -6.2,
+    "pct": -4.1,
     "base": 66.13,
-    "last": 62.06,
+    "last": 63.41,
     "base_date": "2026-08-05",
-    "last_date": "2026-08-06"
+    "last_date": "2026-08-07"
    }
   },
   {
@@ -533,11 +565,11 @@
    "reason": "Trump explicitly praises Scotts Miracle-Gro for White House/D.C. lawn project; direct endorsement of named company",
    "price_since": {
     "ticker": "SMG",
-    "pct": -6.2,
+    "pct": -4.1,
     "base": 66.13,
-    "last": 62.06,
+    "last": 63.41,
     "base_date": "2026-08-05",
-    "last_date": "2026-08-06"
+    "last_date": "2026-08-07"
    }
   },
   {
@@ -559,9 +591,9 @@
     "ticker": "IBM",
     "pct": -1.1,
     "base": 235.92,
-    "last": 233.43,
+    "last": 233.32,
     "base_date": "2026-08-05",
-    "last_date": "2026-08-06"
+    "last_date": "2026-08-07"
    }
   },
   {
@@ -613,11 +645,11 @@
    "reason": "Proposed curbs on Chinese optical transceivers widens AI/semiconductor trade restrictions, bearish for chip supply chains and semiconductor sector.",
    "price_since": {
     "ticker": "SMH",
-    "pct": -0.7,
+    "pct": 1.3,
     "base": 575.71,
-    "last": 571.48,
+    "last": 583.09,
     "base_date": "2026-08-04",
-    "last_date": "2026-08-06"
+    "last_date": "2026-08-07"
    }
   },
   {
@@ -637,11 +669,11 @@
    "reason": "Trump's 2026 investment portfolio; potential bullish signal on his own interests but details unclear from headline",
    "price_since": {
     "ticker": "DJT",
-    "pct": -4.4,
+    "pct": -2.7,
     "base": 10.34,
-    "last": 9.89,
+    "last": 10.06,
     "base_date": "2026-08-04",
-    "last_date": "2026-08-06"
+    "last_date": "2026-08-07"
    }
   },
   {
@@ -662,11 +694,11 @@
    "reason": "Regulatory rollback of Endangered Species Act restrictions on oil, gas, and timber production; explicitly bullish for energy and natural resources.",
    "price_since": {
     "ticker": "XLE",
-    "pct": -0.6,
+    "pct": -2.0,
     "base": 58.52,
-    "last": 58.16,
+    "last": 57.34,
     "base_date": "2026-08-04",
-    "last_date": "2026-08-06"
+    "last_date": "2026-08-07"
    }
   },
   {
