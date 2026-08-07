@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-07T19:34:35Z",
+ "last_updated": "2026-08-07T20:22:18Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -118,7 +118,7 @@
     "ticker": "SPY",
     "pct": 0.6,
     "base": 768.56,
-    "last": 772.85,
+    "last": 773.22,
     "base_date": "2026-08-06",
     "last_date": "2026-08-07"
    }
@@ -140,9 +140,9 @@
    "reason": "Financial information page for Trump's company; neutral reference only",
    "price_since": {
     "ticker": "DJT",
-    "pct": 2.0,
+    "pct": 3.2,
     "base": 9.89,
-    "last": 10.09,
+    "last": 10.21,
     "base_date": "2026-08-06",
     "last_date": "2026-08-07"
    }
@@ -165,9 +165,9 @@
    "reason": "Defense manufacturing expansion and munitions production boost military-industrial demand",
    "price_since": {
     "ticker": "XAR",
-    "pct": 1.2,
+    "pct": 1.4,
     "base": 282.91,
-    "last": 286.23,
+    "last": 286.83,
     "base_date": "2026-08-06",
     "last_date": "2026-08-07"
    }
@@ -189,9 +189,9 @@
    "reason": "Trump praises Elon Musk; bullish signal on Tesla, though not an explicit stock call",
    "price_since": {
     "ticker": "TSLA",
-    "pct": 2.5,
+    "pct": 2.8,
     "base": 319.53,
-    "last": 327.64,
+    "last": 328.58,
     "base_date": "2026-08-06",
     "last_date": "2026-08-07"
    }
@@ -213,9 +213,9 @@
    "reason": "Trump praises Elon Musk explicitly; bullish for Tesla",
    "price_since": {
     "ticker": "TSLA",
-    "pct": 2.5,
+    "pct": 2.8,
     "base": 319.53,
-    "last": 327.64,
+    "last": 328.58,
     "base_date": "2026-08-06",
     "last_date": "2026-08-07"
    }
@@ -237,9 +237,9 @@
    "reason": "KEEL data center announcement attracting retail interest; speculative signal without Trump catalyst detail.",
    "price_since": {
     "ticker": "KEEL",
-    "pct": -2.3,
+    "pct": -1.3,
     "base": 3.93,
-    "last": 3.84,
+    "last": 3.88,
     "base_date": "2026-08-05",
     "last_date": "2026-08-07"
    }
@@ -261,9 +261,9 @@
    "reason": "Space stocks (ASTS, RKLB) rallying on emerging Trump portfolio connection; ambiguous direction pending clarity.",
    "price_since": {
     "ticker": "RKLB",
-    "pct": 9.2,
+    "pct": 10.7,
     "base": 74.82,
-    "last": 81.68,
+    "last": 82.83,
     "base_date": "2026-08-05",
     "last_date": "2026-08-07"
    }
@@ -285,9 +285,9 @@
    "reason": "Intel rally attributed partly to Trump sentiment; ambiguous whether policy or portfolio-driven.",
    "price_since": {
     "ticker": "INTC",
-    "pct": 0.0,
+    "pct": 0.6,
     "base": 101.06,
-    "last": 101.1,
+    "last": 101.65,
     "base_date": "2026-08-05",
     "last_date": "2026-08-07"
    }
@@ -309,9 +309,9 @@
    "reason": "Headline references Trump pump on Intel; likely federal contract/support but signal is secondary to other factors",
    "price_since": {
     "ticker": "INTC",
-    "pct": 0.0,
+    "pct": 0.6,
     "base": 101.06,
-    "last": 101.1,
+    "last": 101.65,
     "base_date": "2026-08-05",
     "last_date": "2026-08-07"
    }
@@ -333,9 +333,9 @@
    "reason": "Trump explicitly endorses Dell; direct bullish signal drives stock to record highs.",
    "price_since": {
     "ticker": "DELL",
-    "pct": -2.1,
+    "pct": -1.9,
     "base": 462.7,
-    "last": 453.06,
+    "last": 453.77,
     "base_date": "2026-08-05",
     "last_date": "2026-08-07"
    }
@@ -357,9 +357,9 @@
    "reason": "Trump explicitly endorses Dell; direct named company praise drives stock up",
    "price_since": {
     "ticker": "DELL",
-    "pct": -2.1,
+    "pct": -1.9,
     "base": 462.7,
-    "last": 453.06,
+    "last": 453.77,
     "base_date": "2026-08-05",
     "last_date": "2026-08-07"
    }
@@ -397,9 +397,9 @@
    "reason": "Trump lauds Citigroup's M&A comeback; direct company praise but soft/praise-based signal",
    "price_since": {
     "ticker": "C",
-    "pct": -2.0,
+    "pct": -1.9,
     "base": 137.64,
-    "last": 134.95,
+    "last": 135.0,
     "base_date": "2026-08-05",
     "last_date": "2026-08-07"
    }
@@ -421,9 +421,9 @@
    "reason": "Trump lauds Citi's M&A comeback \u2014 direct praise of bank, suggests bullish outlook on Citi",
    "price_since": {
     "ticker": "C",
-    "pct": -2.0,
+    "pct": -1.9,
     "base": 137.64,
-    "last": 134.95,
+    "last": 135.0,
     "base_date": "2026-08-05",
     "last_date": "2026-08-07"
    }
@@ -447,7 +447,7 @@
     "ticker": "BTC-USD",
     "pct": 0.5,
     "base": 64597.5,
-    "last": 64919.76,
+    "last": 64921.08,
     "base_date": "2026-08-05",
     "last_date": "2026-08-07"
    }
@@ -471,7 +471,7 @@
     "ticker": "BTC-USD",
     "pct": 0.5,
     "base": 64597.5,
-    "last": 64919.76,
+    "last": 64921.08,
     "base_date": "2026-08-05",
     "last_date": "2026-08-07"
    }
@@ -493,9 +493,9 @@
    "reason": "Stock rally tied to SOTU event; direction unclear without content.",
    "price_since": {
     "ticker": "IBRX",
-    "pct": 4.1,
+    "pct": 5.4,
     "base": 7.25,
-    "last": 7.55,
+    "last": 7.64,
     "base_date": "2026-08-05",
     "last_date": "2026-08-07"
    }
@@ -517,9 +517,9 @@
    "reason": "Probe of insider-access scheme tied to Truth Social posts \u2014 regulatory/legal risk to Trump Media",
    "price_since": {
     "ticker": "DJT",
-    "pct": 1.3,
+    "pct": 2.5,
     "base": 9.96,
-    "last": 10.09,
+    "last": 10.21,
     "base_date": "2026-08-05",
     "last_date": "2026-08-07"
    }
@@ -541,9 +541,9 @@
    "reason": "Stock surge overnight; no Trump-specific catalyst stated.",
    "price_since": {
     "ticker": "IBM",
-    "pct": 0.3,
+    "pct": 0.6,
     "base": 235.92,
-    "last": 236.63,
+    "last": 237.28,
     "base_date": "2026-08-05",
     "last_date": "2026-08-07"
    }
@@ -581,9 +581,9 @@
    "reason": "Dell stock surge attributed to Trump endorsement; retrospective article on positive momentum.",
    "price_since": {
     "ticker": "DELL",
-    "pct": -2.1,
+    "pct": -1.9,
     "base": 462.7,
-    "last": 453.06,
+    "last": 453.77,
     "base_date": "2026-08-05",
     "last_date": "2026-08-07"
    }
@@ -621,9 +621,9 @@
    "reason": "Trump stake in ServiceNow disclosed; bullish implied endorsement by Trump investment",
    "price_since": {
     "ticker": "NOW",
-    "pct": 6.0,
+    "pct": 6.5,
     "base": 117.22,
-    "last": 124.31,
+    "last": 124.88,
     "base_date": "2026-08-05",
     "last_date": "2026-08-07"
    }
@@ -645,9 +645,9 @@
    "reason": "Trump's reported ServiceNow stake and explicit praise creates bullish sentiment for NOW",
    "price_since": {
     "ticker": "NOW",
-    "pct": 6.0,
+    "pct": 6.5,
     "base": 117.22,
-    "last": 124.31,
+    "last": 124.88,
     "base_date": "2026-08-05",
     "last_date": "2026-08-07"
    }
@@ -669,9 +669,9 @@
    "reason": "Trump explicitly praises Scotts Miracle-Gro by name at White House; direct endorsement",
    "price_since": {
     "ticker": "SMG",
-    "pct": -4.1,
+    "pct": -4.9,
     "base": 66.13,
-    "last": 63.44,
+    "last": 62.91,
     "base_date": "2026-08-05",
     "last_date": "2026-08-07"
    }
@@ -2818,30 +2818,6 @@
     "pct": 8.2,
     "base": 25.0,
     "last": 27.04,
-    "base_date": "2026-07-29",
-    "last_date": "2026-07-30"
-   }
-  },
-  {
-   "date": "2026-07-29T18:29:01Z",
-   "platform": "News",
-   "text": "DCG Says US Faces 'Alarming' Offshore Flight Without CLARITY Act, Demands Vote Before August Recess - Stocktwits \u2014 DCG Says US Faces 'Alarming' Offshore Flight Without CLARITY Act, Demands Vote Before August Recess\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbk8yYmV3d3dyb0YwN050Qmdjelk2VmJEc1E2ZjdiTkxka1NqWmxpamcxSDVDUEJkZVlFSExLWmN1eFpUVlN6bVExVEZtcXVhclY2dWN1WF9GNU9hcWlWYlJwWmlUdUpXbkYwdFNzdXdkNGhXcjA2MUplQ0pURUt3dFZaaDlHVXM5dG53eG5scmJKSnR2NmdMa2YtYUl3RnJJcFNPRzVKSi1sTFBSck1JVlZIOA?oc=5",
-   "tickers": [
-    "COIN"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "COIN",
-   "strength": 40,
-   "reason": "DCG crypto advocacy for CLARITY Act suggests pro-crypto regulation; indirect bullish signal for digital assets.",
-   "price_since": {
-    "ticker": "COIN",
-    "pct": 2.2,
-    "base": 160.09,
-    "last": 163.58,
     "base_date": "2026-07-29",
     "last_date": "2026-07-30"
    }
