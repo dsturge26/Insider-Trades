@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-08-07T13:39:08Z",
+ "last_updated": "2026-08-07T14:40:03Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-08-07T12:06:35Z",
+   "platform": "News",
+   "text": "Trump Weighs In On Elon Musk, OpenAI, Intel \u2014 And Takes Aim At The 'Hostile' Fed Board - stocktwits.com \u2014 Trump Weighs In On Elon Musk, OpenAI, Intel \u2014 And Takes Aim At The 'Hostile' Fed Board\u00a0\u00a0stocktwits.com",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSGdkS2RRUEt3TWdWdW8yWkZrN0NfU1lZak10VExCWGktUlg3enppTzF4UnpEVjg3YVZRR2JqRmFYdTVBQTdIcmJHYVFkX2ZtcHFiREF5UWZ3NExDNTJhTnd2VE5HM1A1WFZnVEpoY0Rfa1BYMVJrZ0lKNlhDdDBKVW41S0dCOTdncW5jWEhHRkZMU0lERlF4MlFyU0xxTXFNS25wMWVoa1c3SkliajdkUDUtTDdUWnZmUnI5aUhNeHJreTBacEE0Zk1WZVMzMXpfUDFIeU9GSEN2N2liM2c?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "SPY",
+   "strength": 35,
+   "reason": "Trump comments on Fed policy (bearish) but praises Musk/tech (bullish) \u2014 mixed signals, no clear direction"
+  },
   {
    "date": "2026-08-07T07:11:20Z",
    "platform": "News",
@@ -38,7 +54,7 @@
     "ticker": "SPY",
     "pct": 0.4,
     "base": 768.56,
-    "last": 771.4,
+    "last": 771.91,
     "base_date": "2026-08-06",
     "last_date": "2026-08-07"
    }
@@ -60,9 +76,9 @@
    "reason": "Financial information page for Trump's company; neutral reference only",
    "price_since": {
     "ticker": "DJT",
-    "pct": 1.7,
+    "pct": 4.2,
     "base": 9.89,
-    "last": 10.06,
+    "last": 10.31,
     "base_date": "2026-08-06",
     "last_date": "2026-08-07"
    }
@@ -85,9 +101,9 @@
    "reason": "Defense manufacturing expansion and munitions production boost military-industrial demand",
    "price_since": {
     "ticker": "XAR",
-    "pct": 0.5,
+    "pct": -0.5,
     "base": 282.91,
-    "last": 284.39,
+    "last": 281.63,
     "base_date": "2026-08-06",
     "last_date": "2026-08-07"
    }
@@ -109,9 +125,9 @@
    "reason": "Trump praises Elon Musk; bullish signal on Tesla, though not an explicit stock call",
    "price_since": {
     "ticker": "TSLA",
-    "pct": 1.3,
+    "pct": 2.6,
     "base": 319.53,
-    "last": 323.77,
+    "last": 327.93,
     "base_date": "2026-08-06",
     "last_date": "2026-08-07"
    }
@@ -133,9 +149,9 @@
    "reason": "KEEL data center announcement attracting retail interest; speculative signal without Trump catalyst detail.",
    "price_since": {
     "ticker": "KEEL",
-    "pct": -1.0,
+    "pct": -3.6,
     "base": 3.93,
-    "last": 3.89,
+    "last": 3.79,
     "base_date": "2026-08-05",
     "last_date": "2026-08-07"
    }
@@ -157,9 +173,9 @@
    "reason": "Space stocks (ASTS, RKLB) rallying on emerging Trump portfolio connection; ambiguous direction pending clarity.",
    "price_since": {
     "ticker": "RKLB",
-    "pct": 7.2,
+    "pct": 6.7,
     "base": 74.82,
-    "last": 80.2,
+    "last": 79.83,
     "base_date": "2026-08-05",
     "last_date": "2026-08-07"
    }
@@ -181,9 +197,9 @@
    "reason": "Trump hidden space stock stakes emerge; RKLB mentioned as beneficiary of Trump portfolio interest",
    "price_since": {
     "ticker": "RKLB",
-    "pct": 7.2,
+    "pct": 6.7,
     "base": 74.82,
-    "last": 80.2,
+    "last": 79.83,
     "base_date": "2026-08-05",
     "last_date": "2026-08-07"
    }
@@ -205,9 +221,9 @@
    "reason": "Intel rally attributed partly to Trump sentiment; ambiguous whether policy or portfolio-driven.",
    "price_since": {
     "ticker": "INTC",
-    "pct": 0.9,
+    "pct": -2.0,
     "base": 101.06,
-    "last": 101.96,
+    "last": 99.03,
     "base_date": "2026-08-05",
     "last_date": "2026-08-07"
    }
@@ -229,9 +245,9 @@
    "reason": "Headline references Trump pump on Intel; likely federal contract/support but signal is secondary to other factors",
    "price_since": {
     "ticker": "INTC",
-    "pct": 0.9,
+    "pct": -2.0,
     "base": 101.06,
-    "last": 101.94,
+    "last": 98.99,
     "base_date": "2026-08-05",
     "last_date": "2026-08-07"
    }
@@ -253,9 +269,9 @@
    "reason": "Trump explicitly endorses Dell; direct bullish signal drives stock to record highs.",
    "price_since": {
     "ticker": "DELL",
-    "pct": -6.5,
+    "pct": -8.4,
     "base": 462.7,
-    "last": 432.85,
+    "last": 424.02,
     "base_date": "2026-08-05",
     "last_date": "2026-08-07"
    }
@@ -277,9 +293,9 @@
    "reason": "Trump explicitly endorses Dell; direct named company praise drives stock up",
    "price_since": {
     "ticker": "DELL",
-    "pct": -6.5,
+    "pct": -8.4,
     "base": 462.7,
-    "last": 432.67,
+    "last": 424.02,
     "base_date": "2026-08-05",
     "last_date": "2026-08-07"
    }
@@ -301,9 +317,9 @@
    "reason": "Trump comments on Musk, OpenAI, Intel, and Fed; macro-relevant but direction unclear without specifics.",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.2,
+    "pct": 0.3,
     "base": 769.79,
-    "last": 771.36,
+    "last": 771.86,
     "base_date": "2026-08-05",
     "last_date": "2026-08-07"
    }
@@ -325,9 +341,33 @@
    "reason": "Trump lauds Citigroup's M&A comeback; direct company praise but soft/praise-based signal",
    "price_since": {
     "ticker": "C",
-    "pct": -2.6,
+    "pct": -2.4,
     "base": 137.64,
-    "last": 134.09,
+    "last": 134.38,
+    "base_date": "2026-08-05",
+    "last_date": "2026-08-07"
+   }
+  },
+  {
+   "date": "2026-08-05T16:31:15Z",
+   "platform": "News",
+   "text": "Citi Stock Hits 52-Week High Before Fading As Trump Lauds Bank's 'Big Comeback' In M&A \u2014 But Full Picture Has Changed Now - stocktwits.com \u2014 Citi Stock Hits 52-Week High Before Fading As Trump Lauds Bank's 'Big Comeback' In M&A \u2014 But Full Picture Has Changed Now\u00a0\u00a0stocktwits.com",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWUpacUZnX014SV9nTnRZbVQ0dWhFQlZiV3ZjLV9nWExYUjVMdmlZdkdoNnFLcUhZUEhuZ1k3a2JENWJrYkhqdjJqNFlLaVlVYzBRb3dJOFA2Q1dESmhCTVJnQXJJaU15VjVFUFo2cWJDOEx3QTIzN0NSQjExRWhRZlNLaDFXeEZMQ0poajdjbGhmNlhPd1ZQSnVOSmNVa0pVTF94Z1RVdXlSU2JrR0N3X2dHSENINjZHNWdTYzB1dEZPaERK?oc=5",
+   "tickers": [
+    "C"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "C",
+   "strength": 55,
+   "reason": "Trump lauds Citi's M&A comeback \u2014 direct praise of bank, suggests bullish outlook on Citi",
+   "price_since": {
+    "ticker": "C",
+    "pct": -2.4,
+    "base": 137.64,
+    "last": 134.38,
     "base_date": "2026-08-05",
     "last_date": "2026-08-07"
    }
@@ -349,9 +389,33 @@
    "reason": "Eric Trump bullish call on Bitcoin to $1M; family member crypto advocacy but indirect signal",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": 0.9,
+    "pct": 0.8,
     "base": 64597.5,
-    "last": 65172.69,
+    "last": 65115.13,
+    "base_date": "2026-08-05",
+    "last_date": "2026-08-07"
+   }
+  },
+  {
+   "date": "2026-08-05T15:37:49Z",
+   "platform": "News",
+   "text": "Eric Trump Doubles Down On $1 Million Bitcoin Call \u2013 Says Crypto Is \u2018On The One-Yard Line\u2019 - stocktwits.com \u2014 Eric Trump Doubles Down On $1 Million Bitcoin Call \u2013 Says Crypto Is \u2018On The One-Yard Line\u2019\u00a0\u00a0stocktwits.com",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNX1pmRkZXRjdiRW5hMjBIczJUNUJIdGF6aldVWUh5a3NyTXlfM2RqczdicF96cDk3T1hqNmpNLWp5QXBJT0JkcWpJU0VzWXpUVWFFRkVEWlN6LTBCLUFkSGswd3BkRGZNWDZBa1pwdUtwTWpwUVlONEF6Ny1pMHpReUtsa2VNenVURDltcjRQcmFNWU1xT1RWOWMtdGdGenJ6Q0R6UnVSTS1qZlhkb1NsUHFxYTV2OW5wWjJVdmpLWkxFa3BaN1JSenpEX2o5VUFCSnFXT0FfM1B5alJNQ3c?oc=5",
+   "tickers": [
+    "BTC-USD"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "BTC-USD",
+   "strength": 60,
+   "reason": "Eric Trump (family proxy) doubles down on $1M Bitcoin call \u2014 strong family bullish signal on crypto",
+   "price_since": {
+    "ticker": "BTC-USD",
+    "pct": 0.8,
+    "base": 64597.5,
+    "last": 65115.13,
     "base_date": "2026-08-05",
     "last_date": "2026-08-07"
    }
@@ -373,9 +437,33 @@
    "reason": "Stock rally tied to SOTU event; direction unclear without content.",
    "price_since": {
     "ticker": "IBRX",
-    "pct": 1.5,
+    "pct": 2.9,
     "base": 7.25,
-    "last": 7.36,
+    "last": 7.46,
+    "base_date": "2026-08-05",
+    "last_date": "2026-08-07"
+   }
+  },
+  {
+   "date": "2026-08-05T14:02:12Z",
+   "platform": "News",
+   "text": "Raskin Launches Probe of Scheme to Sell Insider Access to Trump Truth Social Posts - Alaska Native News \u2014 Raskin Launches Probe of Scheme to Sell Insider Access to Trump Truth Social Posts\u00a0\u00a0Alaska Native News",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNnhTcmtJaVBhUUx4YW5iTEpOZF9pcjJzYi16bnFPZ1d0YjBhbmZiVElEODhNcUFJT2wyQjFkWFJDMHhhMk85MnhubjdjdTZ5cVAzczROUno3YXJzcTVfbDljNXY0VlhGdDg1a2VwNThtMW43MmtVdDRQZV9MNkdweGRENmp2UzExaTZQcUJrMnozMWlWZGp3QWlXcklRTS1fOTg5LWdCZmVCLUdpSVdnS0lWbndOZlc5YUl6cQ?oc=5",
+   "tickers": [
+    "DJT"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "DJT",
+   "strength": 50,
+   "reason": "Probe of insider-access scheme tied to Truth Social posts \u2014 regulatory/legal risk to Trump Media",
+   "price_since": {
+    "ticker": "DJT",
+    "pct": 3.5,
+    "base": 9.96,
+    "last": 10.31,
     "base_date": "2026-08-05",
     "last_date": "2026-08-07"
    }
@@ -397,9 +485,9 @@
    "reason": "Stock surge overnight; no Trump-specific catalyst stated.",
    "price_since": {
     "ticker": "IBM",
-    "pct": -1.1,
+    "pct": -0.1,
     "base": 235.92,
-    "last": 233.35,
+    "last": 235.79,
     "base_date": "2026-08-05",
     "last_date": "2026-08-07"
    }
@@ -453,9 +541,9 @@
    "reason": "Dell stock surge attributed to Trump endorsement; retrospective article on positive momentum.",
    "price_since": {
     "ticker": "DELL",
-    "pct": -6.5,
+    "pct": -8.4,
     "base": 462.7,
-    "last": 432.67,
+    "last": 424.02,
     "base_date": "2026-08-05",
     "last_date": "2026-08-07"
    }
@@ -493,9 +581,9 @@
    "reason": "Trump stake in ServiceNow disclosed; bullish implied endorsement by Trump investment",
    "price_since": {
     "ticker": "NOW",
-    "pct": 6.7,
+    "pct": 6.6,
     "base": 117.22,
-    "last": 125.03,
+    "last": 124.96,
     "base_date": "2026-08-05",
     "last_date": "2026-08-07"
    }
@@ -517,9 +605,9 @@
    "reason": "Trump's reported ServiceNow stake and explicit praise creates bullish sentiment for NOW",
    "price_since": {
     "ticker": "NOW",
-    "pct": 6.7,
+    "pct": 6.6,
     "base": 117.22,
-    "last": 125.03,
+    "last": 124.96,
     "base_date": "2026-08-05",
     "last_date": "2026-08-07"
    }
@@ -541,9 +629,9 @@
    "reason": "Trump explicitly praises Scotts Miracle-Gro by name at White House; direct endorsement",
    "price_since": {
     "ticker": "SMG",
-    "pct": -4.1,
+    "pct": -2.1,
     "base": 66.13,
-    "last": 63.41,
+    "last": 64.75,
     "base_date": "2026-08-05",
     "last_date": "2026-08-07"
    }
@@ -565,9 +653,9 @@
    "reason": "Trump explicitly praises Scotts Miracle-Gro for White House/D.C. lawn project; direct endorsement of named company",
    "price_since": {
     "ticker": "SMG",
-    "pct": -4.1,
+    "pct": -2.1,
     "base": 66.13,
-    "last": 63.41,
+    "last": 64.75,
     "base_date": "2026-08-05",
     "last_date": "2026-08-07"
    }
@@ -589,9 +677,33 @@
    "reason": "Trump Administration awards IBM $1B federal grant for quantum foundry; direct large federal contract to named public company",
    "price_since": {
     "ticker": "IBM",
-    "pct": -1.1,
+    "pct": -0.1,
     "base": 235.92,
-    "last": 233.32,
+    "last": 235.79,
+    "base_date": "2026-08-05",
+    "last_date": "2026-08-07"
+   }
+  },
+  {
+   "date": "2026-08-05T03:51:12Z",
+   "platform": "News",
+   "text": "IBM Stock Rallies On Trump Administration\u2019s $1B Grant: Analysts Say \u2018Big Blue\u2019 Could Become First US Quantum Foundry - stocktwits.com \u2014 IBM Stock Rallies On Trump Administration\u2019s $1B Grant: Analysts Say \u2018Big Blue\u2019 Could Become First US Quantum Foundry\u00a0\u00a0stocktwits.com",
+   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOVG52c0VBRjZ6TzVuLThuSWdTN3NxMlIzUEc0aWVkUllDZDJMSVVMRlo1Rkgxb1Rja2swU1JlcVhlbmg4ejlfeGJoRGkzVG1VSEM4ZC1McWtGQnNVYklYVjYwQVliTHRoX3NqZDJZV0dlQ2NTaC1NaHhFaVAtdmVjdzVGcFhSangwdDluaTltYXZ3TXhaWWxISmlPREpkQ0N2VHdEMENJUkpDaDBGcUhSdXFZdExXbkhPaENSWlAxbVhPS3EyTnoyc3NoX2RpOXNqeEFYaFhhaGYxQUxRaWR0QUJwQ0J5VmhBY3ZpOV9YMVNjeUZlRHRzVXBLS3BpSER4VXpVWTVsYS1aZw?oc=5",
+   "tickers": [
+    "IBM"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "IBM",
+   "strength": 78,
+   "reason": "Federal contract award of $1B grant to IBM for quantum computing, direct bullish catalyst for named public company",
+   "price_since": {
+    "ticker": "IBM",
+    "pct": -0.1,
+    "base": 235.92,
+    "last": 235.76,
     "base_date": "2026-08-05",
     "last_date": "2026-08-07"
    }
@@ -645,9 +757,9 @@
    "reason": "Proposed curbs on Chinese optical transceivers widens AI/semiconductor trade restrictions, bearish for chip supply chains and semiconductor sector.",
    "price_since": {
     "ticker": "SMH",
-    "pct": 1.3,
+    "pct": 0.1,
     "base": 575.71,
-    "last": 583.09,
+    "last": 576.07,
     "base_date": "2026-08-04",
     "last_date": "2026-08-07"
    }
@@ -669,9 +781,9 @@
    "reason": "Trump's 2026 investment portfolio; potential bullish signal on his own interests but details unclear from headline",
    "price_since": {
     "ticker": "DJT",
-    "pct": -2.7,
+    "pct": -0.3,
     "base": 10.34,
-    "last": 10.06,
+    "last": 10.31,
     "base_date": "2026-08-04",
     "last_date": "2026-08-07"
    }
@@ -1457,30 +1569,6 @@
    }
   },
   {
-   "date": "2026-08-02T18:21:13Z",
-   "platform": "News",
-   "text": "Citi Stock Hits 52-Week High Before Fading As Trump Lauds Bank's 'Big Comeback' In M&A \u2014 But Full Picture Has Changed Now - stocktwits.com \u2014 Citi Stock Hits 52-Week High Before Fading As Trump Lauds Bank's 'Big Comeback' In M&A \u2014 But Full Picture Has Changed Now\u00a0\u00a0stocktwits.com",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWUpacUZnX014SV9nTnRZbVQ0dWhFQlZiV3ZjLV9nWExYUjVMdmlZdkdoNnFLcUhZUEhuZ1k3a2JENWJrYkhqdjJqNFlLaVlVYzBRb3dJOFA2Q1dESmhCTVJnQXJJaU15VjVFUFo2cWJDOEx3QTIzN0NSQjExRWhRZlNLaDFXeEZMQ0poajdjbGhmNlhPd1ZQSnVOSmNVa0pVTF94Z1RVdXlSU2JrR0N3X2dHSENINjZHNWdTYzB1dEZPaERK?oc=5",
-   "tickers": [
-    "C"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "C",
-   "strength": 55,
-   "reason": "Trump explicitly praised Citi's M&A comeback, stock hit 52-week high; direct company endorsement",
-   "price_since": {
-    "ticker": "C",
-    "pct": 2.5,
-    "base": 133.57,
-    "last": 136.87,
-    "base_date": "2026-08-03",
-    "last_date": "2026-08-04"
-   }
-  },
-  {
    "date": "2026-08-02T16:22:34.523Z",
    "platform": "Truth Social",
    "text": "https://www.energy.gov/articles/secretary-wright-directs-sable-offshore-restore-santa-ynez-unit-and-pipeline",
@@ -2227,30 +2315,6 @@
     "last": 540.53,
     "base_date": "2026-07-30",
     "last_date": "2026-07-31"
-   }
-  },
-  {
-   "date": "2026-07-30T07:51:00Z",
-   "platform": "News",
-   "text": "Eric Trump Doubles Down On $1 Million Bitcoin Call \u2013 Says Crypto Is \u2018On The One-Yard Line\u2019 - stocktwits.com \u2014 Eric Trump Doubles Down On $1 Million Bitcoin Call \u2013 Says Crypto Is \u2018On The One-Yard Line\u2019\u00a0\u00a0stocktwits.com",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNX1pmRkZXRjdiRW5hMjBIczJUNUJIdGF6aldVWUh5a3NyTXlfM2RqczdicF96cDk3T1hqNmpNLWp5QXBJT0JkcWpJU0VzWXpUVWFFRkVEWlN6LTBCLUFkSGswd3BkRGZNWDZBa1pwdUtwTWpwUVlONEF6Ny1pMHpReUtsa2VNenVURDltcjRQcmFNWU1xT1RWOWMtdGdGenJ6Q0R6UnVSTS1qZlhkb1NsUHFxYTV2OW5wWjJVdmpLWkxFa3BaN1JSenpEX2o5VUFCSnFXT0FfM1B5alJNQ3c?oc=5",
-   "tickers": [
-    "BTC-USD"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "BTC-USD",
-   "strength": 45,
-   "reason": "Eric Trump bullish crypto call; signals Trump-family backing for bitcoin upside",
-   "price_since": {
-    "ticker": "BTC-USD",
-    "pct": -2.9,
-    "base": 64725.31,
-    "last": 62848.86,
-    "base_date": "2026-07-30",
-    "last_date": "2026-08-03"
    }
   },
   {
