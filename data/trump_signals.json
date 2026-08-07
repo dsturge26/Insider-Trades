@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-07T23:17:43Z",
+ "last_updated": "2026-08-07T23:58:53Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -17,6 +17,22 @@
    "primary_ticker": "ASTS",
    "strength": 45,
    "reason": "Space stocks rally on disclosed Trump holdings; speculative but sector-bullish signal"
+  },
+  {
+   "date": "2026-08-07T15:12:25Z",
+   "platform": "News",
+   "text": "ASTS, RKLB Stocks Get The Trump Pump After Hidden Space Stock Bets Emerge - stocktwits.com \u2014 ASTS, RKLB Stocks Get The Trump Pump After Hidden Space Stock Bets Emerge\u00a0\u00a0stocktwits.com",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYlgtQnFIQ21RTHhqRVMtMUF4aWNUR2w3WHo5QzFfWVRyaExWYXJDUk9WaEFDaW90THVYcHVSd3J4Nk82T3lkMVBGZnhIQW43bHpGdURhaTgxYnRlR25BYmp6SWR1cjVhUHlXZXdWSFdkNlFTekNoQXZCSXNVem1Oc0NBYXBKQXhnRnNCTTVvOU5xSEZrUlNxdzZCczQyZmdVOW1jQVRBczU4cHlpU3M3dnBWZnBjdw?oc=5",
+   "tickers": [
+    "ASTS"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "ASTS",
+   "strength": 45,
+   "reason": "Trump reportedly holds space stock positions; bullish sentiment inferred but not explicit"
   },
   {
    "date": "2026-08-07T15:01:20Z",
@@ -49,6 +65,22 @@
    "primary_ticker": "PLTR",
    "strength": 40,
    "reason": "Trump endorsement bullish but contrarian short bet by Burry creates ambiguous directional signal"
+  },
+  {
+   "date": "2026-08-07T14:04:47Z",
+   "platform": "News",
+   "text": "Michael Burry Says He\u2019s Still Short Palantir After Stock Sees Recovery Following Trump\u2019s Endorsement - stocktwits.com \u2014 Michael Burry Says He\u2019s Still Short Palantir After Stock Sees Recovery Following Trump\u2019s Endorsement\u00a0\u00a0stocktwits.com",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUmNQdmN5STJOLU11dEhkR1U0ckhuS3JMcm1NUDNMY0dNZ1pQcGhFVmd2bkZqVHV5N3N4N01tY1gzZWZnTDlvbVRzTEtkQnZyUjlibXR1ZUJ5MnVNY0ZlYlVEUWtRMkdnRzBGcmxpdEJaQm55ZWlTWmZZUDBPNnhncTFlLWg3bjllZXNpeGpTVjd3b3dCZ2lWT1dPZE5RSlNKT01IVXlTa1c5YmFodzVEWkJtbHpvUHN1Ry00NWhxcVJpdw?oc=5",
+   "tickers": [
+    "PLTR"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "PLTR",
+   "strength": 55,
+   "reason": "Trump explicitly endorsed Palantir; stock recovered on endorsement"
   },
   {
    "date": "2026-08-07T12:06:35Z",
@@ -240,30 +272,6 @@
     "pct": -1.3,
     "base": 3.93,
     "last": 3.88,
-    "base_date": "2026-08-05",
-    "last_date": "2026-08-07"
-   }
-  },
-  {
-   "date": "2026-08-05T22:56:57Z",
-   "platform": "News",
-   "text": "ASTS, RKLB Stocks Get The Trump Pump After Hidden Space Stock Bets Emerge - stocktwits.com \u2014 ASTS, RKLB Stocks Get The Trump Pump After Hidden Space Stock Bets Emerge\u00a0\u00a0stocktwits.com",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYlgtQnFIQ21RTHhqRVMtMUF4aWNUR2w3WHo5QzFfWVRyaExWYXJDUk9WaEFDaW90THVYcHVSd3J4Nk82T3lkMVBGZnhIQW43bHpGdURhaTgxYnRlR25BYmp6SWR1cjVhUHlXZXdWSFdkNlFTekNoQXZCSXNVem1Oc0NBYXBKQXhnRnNCTTVvOU5xSEZrUlNxdzZCczQyZmdVOW1jQVRBczU4cHlpU3M3dnBWZnBjdw?oc=5",
-   "tickers": [
-    "RKLB"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "RKLB",
-   "strength": 40,
-   "reason": "Space stocks (ASTS, RKLB) rallying on emerging Trump portfolio connection; ambiguous direction pending clarity.",
-   "price_since": {
-    "ticker": "RKLB",
-    "pct": 10.7,
-    "base": 74.82,
-    "last": 82.83,
     "base_date": "2026-08-05",
     "last_date": "2026-08-07"
    }
@@ -463,7 +471,7 @@
     "ticker": "BTC-USD",
     "pct": 0.4,
     "base": 64597.5,
-    "last": 64848.43,
+    "last": 64886.82,
     "base_date": "2026-08-05",
     "last_date": "2026-08-07"
    }
@@ -487,7 +495,7 @@
     "ticker": "BTC-USD",
     "pct": 0.4,
     "base": 64597.5,
-    "last": 64848.43,
+    "last": 64886.82,
     "base_date": "2026-08-05",
     "last_date": "2026-08-07"
    }
@@ -1556,30 +1564,6 @@
     "pct": 1.8,
     "base": 757.67,
     "last": 771.33,
-    "base_date": "2026-08-03",
-    "last_date": "2026-08-04"
-   }
-  },
-  {
-   "date": "2026-08-02T20:13:41Z",
-   "platform": "News",
-   "text": "Michael Burry Says He\u2019s Still Short Palantir After Stock Sees Recovery Following Trump\u2019s Endorsement - stocktwits.com \u2014 Michael Burry Says He\u2019s Still Short Palantir After Stock Sees Recovery Following Trump\u2019s Endorsement\u00a0\u00a0stocktwits.com",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUmNQdmN5STJOLU11dEhkR1U0ckhuS3JMcm1NUDNMY0dNZ1pQcGhFVmd2bkZqVHV5N3N4N01tY1gzZWZnTDlvbVRzTEtkQnZyUjlibXR1ZUJ5MnVNY0ZlYlVEUWtRMkdnRzBGcmxpdEJaQm55ZWlTWmZZUDBPNnhncTFlLWg3bjllZXNpeGpTVjd3b3dCZ2lWT1dPZE5RSlNKT01IVXlTa1c5YmFodzVEWkJtbHpvUHN1Ry00NWhxcVJpdw?oc=5",
-   "tickers": [
-    "PLTR"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "PLTR",
-   "strength": 40,
-   "reason": "Trump endorsed Palantir, stock recovered; but prominent short suggests contrarian view and uncertain sustainability",
-   "price_since": {
-    "ticker": "PLTR",
-    "pct": 29.5,
-    "base": 125.65,
-    "last": 162.66,
     "base_date": "2026-08-03",
     "last_date": "2026-08-04"
    }
