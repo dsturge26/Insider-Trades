@@ -1,7 +1,24 @@
 {
- "last_updated": "2026-08-06T13:20:18Z",
+ "last_updated": "2026-08-07T00:40:23Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-08-06T20:38:27.627Z",
+   "platform": "Truth Social",
+   "text": "Trump allies push to arm president with new tariff weapon to punish countries 'ripping off' America: https://www.foxnews.com/politics/trump-allies-push-arm-president-new-tariff-weapon-punish-countries-ripping-off-america",
+   "tickers": [
+    "SPY"
+   ],
+   "engagement": 5687,
+   "url": "https://truthsocial.com/@realDonaldTrump/117050488103108270",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "SPY",
+   "strength": 45,
+   "reason": "New tariff weapon announcement suggests potential trade restrictions ahead, which typically bearish for broad equities."
+  },
   {
    "date": "2026-08-06T04:34:50.305Z",
    "platform": "Truth Social",
@@ -36,6 +53,102 @@
    "reason": "Trump praises Elon Musk; bullish signal on Tesla, though not an explicit stock call"
   },
   {
+   "date": "2026-08-05T23:23:36Z",
+   "platform": "News",
+   "text": "KEEL Stock Jumps Onto Retail Radar As Investors Eye First Data Center Lease Announcement - stocktwits.com \u2014 KEEL Stock Jumps Onto Retail Radar As Investors Eye First Data Center Lease Announcement\u00a0\u00a0stocktwits.com",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVHpiUDN5T2I5aVFzNkpxZGZjdUJEVG0xLXN0c3pVRWo2REVuRGNZTFpvLXJTT2luZVhnTC1iVmFtcFYxbkpnanphZ3E0N0ExWmx5UGh4cGw2QmRiQXl3RG81OWlKRnEwOHVHT0FWdXlGd2VIZVhjM1k2TTU0THctQ3cyUVhNNG9JcGJQMlhPVHdWbkFVSVpfR25lNzVCMTJ4cGZRR05JcnR2SWFvSGc1VnYyMzFMMnFDLURZLW5pMGk3UUwyWktaVVNmZUdDZ21QZGQ0bEZfU0o1LXRvREhFd3h2NXBTMjQ?oc=5",
+   "tickers": [
+    "KEEL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "KEEL",
+   "strength": 35,
+   "reason": "KEEL data center announcement attracting retail interest; speculative signal without Trump catalyst detail.",
+   "price_since": {
+    "ticker": "KEEL",
+    "pct": -2.8,
+    "base": 3.93,
+    "last": 3.82,
+    "base_date": "2026-08-05",
+    "last_date": "2026-08-06"
+   }
+  },
+  {
+   "date": "2026-08-05T22:56:57Z",
+   "platform": "News",
+   "text": "ASTS, RKLB Stocks Get The Trump Pump After Hidden Space Stock Bets Emerge - stocktwits.com \u2014 ASTS, RKLB Stocks Get The Trump Pump After Hidden Space Stock Bets Emerge\u00a0\u00a0stocktwits.com",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYlgtQnFIQ21RTHhqRVMtMUF4aWNUR2w3WHo5QzFfWVRyaExWYXJDUk9WaEFDaW90THVYcHVSd3J4Nk82T3lkMVBGZnhIQW43bHpGdURhaTgxYnRlR25BYmp6SWR1cjVhUHlXZXdWSFdkNlFTekNoQXZCSXNVem1Oc0NBYXBKQXhnRnNCTTVvOU5xSEZrUlNxdzZCczQyZmdVOW1jQVRBczU4cHlpU3M3dnBWZnBjdw?oc=5",
+   "tickers": [
+    "RKLB"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "RKLB",
+   "strength": 40,
+   "reason": "Space stocks (ASTS, RKLB) rallying on emerging Trump portfolio connection; ambiguous direction pending clarity.",
+   "price_since": {
+    "ticker": "RKLB",
+    "pct": 1.1,
+    "base": 74.82,
+    "last": 75.67,
+    "base_date": "2026-08-05",
+    "last_date": "2026-08-06"
+   }
+  },
+  {
+   "date": "2026-08-05T20:50:15Z",
+   "platform": "News",
+   "text": "INTC Stock Rockets Toward Best Month Ever: Something More Than A Trump Pump Could Be Powering The Rally - stocktwits.com \u2014 INTC Stock Rockets Toward Best Month Ever: Something More Than A Trump Pump Could Be Powering The Rally\u00a0\u00a0stocktwits.com",
+   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQT29KOURKeHprQ2xZbmpLUUc3MGRlTTE5Y1JHVXJ5TGhldk10eENQcmZLSzRWNDQyTmJFclFNUThmZ0tBRlZUQTZ3MGF1dlZwR0Q4aUtXUnZVQ2o1MjM3cFNpU2RrejRkd2E0OXBhOVNpdDdBdDVSSTR1c2M5NTZfYlg4NEFxODg3QWpMTXd0VVIzM3pZRS10OG5JWG9QUW52UjZvbXVvQ29uZ1lJb1NwbFljM1lBN1dreHdJZDdYZ1hKTjVidndnRWlJRnl5cnNpT2llcjVuSVltVDNzVFdHbmZYTEpua3JJVllOcXIxVmdfaThfeHRzVm9R?oc=5",
+   "tickers": [
+    "INTC"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "INTC",
+   "strength": 50,
+   "reason": "Intel rally attributed partly to Trump sentiment; ambiguous whether policy or portfolio-driven.",
+   "price_since": {
+    "ticker": "INTC",
+    "pct": -1.2,
+    "base": 101.06,
+    "last": 99.81,
+    "base_date": "2026-08-05",
+    "last_date": "2026-08-06"
+   }
+  },
+  {
+   "date": "2026-08-05T20:27:16Z",
+   "platform": "News",
+   "text": "DELL Stock Spikes To Record Highs On President Trump\u2019s Endorsement - stocktwits.com \u2014 DELL Stock Spikes To Record Highs On President Trump\u2019s Endorsement\u00a0\u00a0stocktwits.com",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYWF1OUgweFU0d1NlNU4ya1FYQVJSVTRCX3IwM0NMd19VVmN5RzNtUmc1c2FhTU9abXdnTmVnMDE2QUxna3ZrUEF3Zkd0SFUtOWx3QkF2elBuNkNTcmZDRm1BRUkwMVRwYU0xaUVsWDZLSk0yeEtiMFFPV0t3ZXZ3OW15QUg5V0xHNnRrU1J5VXdvX09Oa0ZmRmJvV0VTVlFRRFh6c3E5RmtHckx0MXpNVVZTWmJpLTUtUXBHSG5pWEFfQll0ejRneDFB?oc=5",
+   "tickers": [
+    "DELL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "DELL",
+   "strength": 75,
+   "reason": "Trump explicitly endorses Dell; direct bullish signal drives stock to record highs.",
+   "price_since": {
+    "ticker": "DELL",
+    "pct": -5.4,
+    "base": 462.7,
+    "last": 437.65,
+    "base_date": "2026-08-05",
+    "last_date": "2026-08-06"
+   }
+  },
+  {
    "date": "2026-08-05T17:24:54Z",
    "platform": "News",
    "text": "Trump Weighs In On Elon Musk, OpenAI, Intel \u2014 And Takes Aim At The 'Hostile' Fed Board - Stocktwits \u2014 Trump Weighs In On Elon Musk, OpenAI, Intel \u2014 And Takes Aim At The 'Hostile' Fed Board\u00a0\u00a0Stocktwits",
@@ -49,7 +162,15 @@
    "direction": "WATCH",
    "primary_ticker": "SPY",
    "strength": 35,
-   "reason": "Trump comments on Musk, OpenAI, Intel, and Fed; macro-relevant but direction unclear without specifics."
+   "reason": "Trump comments on Musk, OpenAI, Intel, and Fed; macro-relevant but direction unclear without specifics.",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": -0.2,
+    "base": 769.79,
+    "last": 768.56,
+    "base_date": "2026-08-05",
+    "last_date": "2026-08-06"
+   }
   },
   {
    "date": "2026-08-05T15:37:11Z",
@@ -65,7 +186,15 @@
    "direction": "WATCH",
    "primary_ticker": "IBRX",
    "strength": 35,
-   "reason": "Stock rally tied to SOTU event; direction unclear without content."
+   "reason": "Stock rally tied to SOTU event; direction unclear without content.",
+   "price_since": {
+    "ticker": "IBRX",
+    "pct": 1.0,
+    "base": 7.25,
+    "last": 7.32,
+    "base_date": "2026-08-05",
+    "last_date": "2026-08-06"
+   }
   },
   {
    "date": "2026-08-05T14:00:51Z",
@@ -81,7 +210,15 @@
    "direction": "WATCH",
    "primary_ticker": "IBM",
    "strength": 40,
-   "reason": "Stock surge overnight; no Trump-specific catalyst stated."
+   "reason": "Stock surge overnight; no Trump-specific catalyst stated.",
+   "price_since": {
+    "ticker": "IBM",
+    "pct": -1.1,
+    "base": 235.92,
+    "last": 233.43,
+    "base_date": "2026-08-05",
+    "last_date": "2026-08-06"
+   }
   },
   {
    "date": "2026-08-05T12:47:28Z",
@@ -113,7 +250,15 @@
    "direction": "BUY",
    "primary_ticker": "DELL",
    "strength": 45,
-   "reason": "Dell stock surge attributed to Trump endorsement; retrospective article on positive momentum."
+   "reason": "Dell stock surge attributed to Trump endorsement; retrospective article on positive momentum.",
+   "price_since": {
+    "ticker": "DELL",
+    "pct": -5.4,
+    "base": 462.7,
+    "last": 437.65,
+    "base_date": "2026-08-05",
+    "last_date": "2026-08-06"
+   }
   },
   {
    "date": "2026-08-05T11:03:00Z",
@@ -145,7 +290,39 @@
    "direction": "BUY",
    "primary_ticker": "NOW",
    "strength": 55,
-   "reason": "Trump stake in ServiceNow disclosed; bullish implied endorsement by Trump investment"
+   "reason": "Trump stake in ServiceNow disclosed; bullish implied endorsement by Trump investment",
+   "price_since": {
+    "ticker": "NOW",
+    "pct": 0.1,
+    "base": 117.22,
+    "last": 117.35,
+    "base_date": "2026-08-05",
+    "last_date": "2026-08-06"
+   }
+  },
+  {
+   "date": "2026-08-05T09:20:23Z",
+   "platform": "News",
+   "text": "NOW Stock Rises Overnight: Trump\u2019s ServiceNow Stake Fuels Retail Buzz Around SAAS Comeback - stocktwits.com \u2014 NOW Stock Rises Overnight: Trump\u2019s ServiceNow Stake Fuels Retail Buzz Around SAAS Comeback\u00a0\u00a0stocktwits.com",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQcEF0OFRRa3hIWF9rS21NMTBqNk53MDA4eWFQcDJad1Z2QkQyTTdmd3prLUVaVUUwdVRSWWpCOGs3N3JaYTZCcG1KMjg1c1Q0WWdjSnlWbHkteXVxcnFoUXFZMEg4ejh0YjA4ZG5BRnBEX1huMFNaS0dXdEx4LWNEOXBLcmNpMzlCQzc1OC0yRDFKeWFMWEZzWUpNQXBWTFFDQlJ6dmFWamU5cUpFZnVfcU1ocFdTa0tfdjByTlZZUHo4QUx1QzJOMHpzZEdaZjdqSVhoWFB0cVRKZW9BbnNLMi1XYUF2MlhaZGc?oc=5",
+   "tickers": [
+    "NOW"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "NOW",
+   "strength": 75,
+   "reason": "Trump's reported ServiceNow stake and explicit praise creates bullish sentiment for NOW",
+   "price_since": {
+    "ticker": "NOW",
+    "pct": 0.1,
+    "base": 117.22,
+    "last": 117.35,
+    "base_date": "2026-08-05",
+    "last_date": "2026-08-06"
+   }
   },
   {
    "date": "2026-08-05T09:17:00Z",
@@ -161,7 +338,15 @@
    "direction": "BUY",
    "primary_ticker": "SMG",
    "strength": 70,
-   "reason": "Trump explicitly praises Scotts Miracle-Gro by name at White House; direct endorsement"
+   "reason": "Trump explicitly praises Scotts Miracle-Gro by name at White House; direct endorsement",
+   "price_since": {
+    "ticker": "SMG",
+    "pct": -6.2,
+    "base": 66.13,
+    "last": 62.06,
+    "base_date": "2026-08-05",
+    "last_date": "2026-08-06"
+   }
   },
   {
    "date": "2026-08-05T09:17:00Z",
@@ -177,7 +362,15 @@
    "direction": "BUY",
    "primary_ticker": "SMG",
    "strength": 65,
-   "reason": "Trump explicitly praises Scotts Miracle-Gro for White House/D.C. lawn project; direct endorsement of named company"
+   "reason": "Trump explicitly praises Scotts Miracle-Gro for White House/D.C. lawn project; direct endorsement of named company",
+   "price_since": {
+    "ticker": "SMG",
+    "pct": -6.2,
+    "base": 66.13,
+    "last": 62.06,
+    "base_date": "2026-08-05",
+    "last_date": "2026-08-06"
+   }
   },
   {
    "date": "2026-08-05T01:52:00Z",
@@ -212,11 +405,11 @@
    "reason": "Proposed curbs on Chinese optical transceivers widens AI/semiconductor trade restrictions, bearish for chip supply chains and semiconductor sector.",
    "price_since": {
     "ticker": "SMH",
-    "pct": -1.0,
+    "pct": -0.7,
     "base": 575.71,
-    "last": 569.7,
+    "last": 571.48,
     "base_date": "2026-08-04",
-    "last_date": "2026-08-05"
+    "last_date": "2026-08-06"
    }
   },
   {
@@ -236,11 +429,11 @@
    "reason": "Trump's 2026 investment portfolio; potential bullish signal on his own interests but details unclear from headline",
    "price_since": {
     "ticker": "DJT",
-    "pct": -3.7,
+    "pct": -4.4,
     "base": 10.34,
-    "last": 9.96,
+    "last": 9.89,
     "base_date": "2026-08-04",
-    "last_date": "2026-08-05"
+    "last_date": "2026-08-06"
    }
   },
   {
@@ -261,11 +454,11 @@
    "reason": "Regulatory rollback of Endangered Species Act restrictions on oil, gas, and timber production; explicitly bullish for energy and natural resources.",
    "price_since": {
     "ticker": "XLE",
-    "pct": -2.1,
+    "pct": -0.6,
     "base": 58.52,
-    "last": 57.31,
+    "last": 58.16,
     "base_date": "2026-08-04",
-    "last_date": "2026-08-05"
+    "last_date": "2026-08-06"
    }
   },
   {
@@ -285,11 +478,11 @@
    "reason": "Potential trade deal (Hormuz talks accelerating) typically bullish for broad market",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.2,
+    "pct": -0.4,
     "base": 771.33,
-    "last": 769.79,
+    "last": 768.56,
     "base_date": "2026-08-04",
-    "last_date": "2026-08-05"
+    "last_date": "2026-08-06"
    }
   },
   {
@@ -325,11 +518,11 @@
    "reason": "Trump explicitly endorses Mike Lindell; bullish for MyPillow",
    "price_since": {
     "ticker": "MYRG",
-    "pct": -1.9,
+    "pct": -2.7,
     "base": 340.33,
-    "last": 333.77,
+    "last": 331.12,
     "base_date": "2026-08-04",
-    "last_date": "2026-08-05"
+    "last_date": "2026-08-06"
    }
   },
   {
@@ -349,11 +542,11 @@
    "reason": "Trump explicitly endorses Dell; stock spikes on direct Trump praise",
    "price_since": {
     "ticker": "DELL",
-    "pct": -1.0,
+    "pct": -6.3,
     "base": 467.27,
-    "last": 462.7,
+    "last": 437.65,
     "base_date": "2026-08-04",
-    "last_date": "2026-08-05"
+    "last_date": "2026-08-06"
    }
   },
   {
@@ -374,11 +567,11 @@
    "reason": "Strong manufacturing data and record stock market; broad macro bullish signal but no specific catalyst or company named",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.2,
+    "pct": -0.4,
     "base": 771.33,
-    "last": 769.79,
+    "last": 768.56,
     "base_date": "2026-08-04",
-    "last_date": "2026-08-05"
+    "last_date": "2026-08-06"
    }
   },
   {
@@ -398,11 +591,11 @@
    "reason": "Political opposition to Lindell weakens his profile; bearish for MyPillow",
    "price_since": {
     "ticker": "MYRG",
-    "pct": -1.9,
+    "pct": -2.7,
     "base": 340.33,
-    "last": 333.77,
+    "last": 331.12,
     "base_date": "2026-08-04",
-    "last_date": "2026-08-05"
+    "last_date": "2026-08-06"
    }
   },
   {
@@ -422,11 +615,11 @@
    "reason": "Trump explicitly endorses Scotts Miracle-Gro ('great grass') at Oval Office",
    "price_since": {
     "ticker": "SMG",
-    "pct": -0.4,
+    "pct": -6.5,
     "base": 66.38,
-    "last": 66.13,
+    "last": 62.06,
     "base_date": "2026-08-04",
-    "last_date": "2026-08-05"
+    "last_date": "2026-08-06"
    }
   },
   {
@@ -446,11 +639,11 @@
    "reason": "Trump explicitly praises Scotts Miracle-Gro at White House; direct endorsement",
    "price_since": {
     "ticker": "SMG",
-    "pct": -0.4,
+    "pct": -6.5,
     "base": 66.38,
-    "last": 66.13,
+    "last": 62.06,
     "base_date": "2026-08-04",
-    "last_date": "2026-08-05"
+    "last_date": "2026-08-06"
    }
   },
   {
@@ -487,11 +680,11 @@
    "reason": "Tariffs driving auto-industry hiring suggests near-term economic stimulus for sector",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.2,
+    "pct": -0.4,
     "base": 771.33,
-    "last": 769.79,
+    "last": 768.56,
     "base_date": "2026-08-04",
-    "last_date": "2026-08-05"
+    "last_date": "2026-08-06"
    }
   },
   {
@@ -511,11 +704,11 @@
    "reason": "Trump explicitly endorses named company that has donated to his campaigns",
    "price_since": {
     "ticker": "SMG",
-    "pct": -0.4,
+    "pct": -6.5,
     "base": 66.38,
-    "last": 66.13,
+    "last": 62.06,
     "base_date": "2026-08-04",
-    "last_date": "2026-08-05"
+    "last_date": "2026-08-06"
    }
   },
   {
@@ -535,11 +728,11 @@
    "reason": "Trump praises UK oil expansion; bullish for energy sector broadly",
    "price_since": {
     "ticker": "XLE",
-    "pct": -2.1,
+    "pct": -0.6,
     "base": 58.52,
-    "last": 57.31,
+    "last": 58.16,
     "base_date": "2026-08-04",
-    "last_date": "2026-08-05"
+    "last_date": "2026-08-06"
    }
   },
   {
@@ -559,11 +752,11 @@
    "reason": "Trump explicitly praises Scotts Miracle-Gro by name, calls grass 'great'",
    "price_since": {
     "ticker": "SMG",
-    "pct": -0.4,
+    "pct": -6.5,
     "base": 66.38,
-    "last": 66.13,
+    "last": 62.06,
     "base_date": "2026-08-04",
-    "last_date": "2026-08-05"
+    "last_date": "2026-08-06"
    }
   },
   {
@@ -583,11 +776,11 @@
    "reason": "Trump praises and plugs Scotts Miracle-Gro by name; explicit endorsement at White House",
    "price_since": {
     "ticker": "SMG",
-    "pct": -0.4,
+    "pct": -6.5,
     "base": 66.38,
-    "last": 66.13,
+    "last": 62.06,
     "base_date": "2026-08-04",
-    "last_date": "2026-08-05"
+    "last_date": "2026-08-06"
    }
   },
   {
@@ -607,11 +800,11 @@
    "reason": "News of Trump monetizing access; potential governance concern for Trump Media shareholder value",
    "price_since": {
     "ticker": "DJT",
-    "pct": -0.5,
+    "pct": -1.2,
     "base": 10.01,
-    "last": 9.96,
+    "last": 9.89,
     "base_date": "2026-08-03",
-    "last_date": "2026-08-05"
+    "last_date": "2026-08-06"
    }
   },
   {
@@ -631,11 +824,11 @@
    "reason": "Truth Social monetization scheme; uncertain market impact on DJT stock valuations and regulatory/reputational risk.",
    "price_since": {
     "ticker": "DJT",
-    "pct": -0.5,
+    "pct": -1.2,
     "base": 10.01,
-    "last": 9.96,
+    "last": 9.89,
     "base_date": "2026-08-03",
-    "last_date": "2026-08-05"
+    "last_date": "2026-08-06"
    }
   },
   {
@@ -1072,30 +1265,6 @@
    }
   },
   {
-   "date": "2026-08-02T22:43:15Z",
-   "platform": "News",
-   "text": "INTC Stock Rockets Toward Best Month Ever: Something More Than A Trump Pump Could Be Powering The Rally - stocktwits.com \u2014 INTC Stock Rockets Toward Best Month Ever: Something More Than A Trump Pump Could Be Powering The Rally\u00a0\u00a0stocktwits.com",
-   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQT29KOURKeHprQ2xZbmpLUUc3MGRlTTE5Y1JHVXJ5TGhldk10eENQcmZLSzRWNDQyTmJFclFNUThmZ0tBRlZUQTZ3MGF1dlZwR0Q4aUtXUnZVQ2o1MjM3cFNpU2RrejRkd2E0OXBhOVNpdDdBdDVSSTR1c2M5NTZfYlg4NEFxODg3QWpMTXd0VVIzM3pZRS10OG5JWG9QUW52UjZvbXVvQ29uZ1lJb1NwbFljM1lBN1dreHdJZDdYZ1hKTjVidndnRWlJRnl5cnNpT2llcjVuSVltVDNzVFdHbmZYTEpua3JJVllOcXIxVmdfaThfeHRzVm9R?oc=5",
-   "tickers": [
-    "INTC"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "INTC",
-   "strength": 50,
-   "reason": "Intel rally attributed partly to Trump support; chip sector tailwind",
-   "price_since": {
-    "ticker": "INTC",
-    "pct": 10.8,
-    "base": 91.0,
-    "last": 100.86,
-    "base_date": "2026-08-03",
-    "last_date": "2026-08-04"
-   }
-  },
-  {
    "date": "2026-08-02T20:13:41Z",
    "platform": "News",
    "text": "Michael Burry Says He\u2019s Still Short Palantir After Stock Sees Recovery Following Trump\u2019s Endorsement - stocktwits.com \u2014 Michael Burry Says He\u2019s Still Short Palantir After Stock Sees Recovery Following Trump\u2019s Endorsement\u00a0\u00a0stocktwits.com",
@@ -1404,22 +1573,6 @@
    "reason": "Trump interest in Greenland/critical metals implies policy push for domestic mining/critical metals sector"
   },
   {
-   "date": "2026-08-01T13:24:39Z",
-   "platform": "News",
-   "text": "DELL Stock Spikes To Record Highs On President Trump\u2019s Endorsement - stocktwits.com \u2014 DELL Stock Spikes To Record Highs On President Trump\u2019s Endorsement\u00a0\u00a0stocktwits.com",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYWF1OUgweFU0d1NlNU4ya1FYQVJSVTRCX3IwM0NMd19VVmN5RzNtUmc1c2FhTU9abXdnTmVnMDE2QUxna3ZrUEF3Zkd0SFUtOWx3QkF2elBuNkNTcmZDRm1BRUkwMVRwYU0xaUVsWDZLSk0yeEtiMFFPV0t3ZXZ3OW15QUg5V0xHNnRrU1J5VXdvX09Oa0ZmRmJvV0VTVlFRRFh6c3E5RmtHckx0MXpNVVZTWmJpLTUtUXBHSG5pWEFfQll0ejRneDFB?oc=5",
-   "tickers": [
-    "DELL"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "DELL",
-   "strength": 70,
-   "reason": "Trump explicitly endorses Dell; direct named-company praise is strongest explicit signal"
-  },
-  {
    "date": "2026-08-01T11:39:05Z",
    "platform": "News",
    "text": "Trump stands to profit off US policy announcements by selling fast access to his social media posts - ABC News - Breaking News, Latest News and Videos \u2014 Trump stands to profit off US policy announcements by selling fast access to his social media posts\u00a0\u00a0ABC News - Breaking News, Latest News and Videos",
@@ -1615,30 +1768,6 @@
     "pct": 3.4,
     "base": 264.86,
     "last": 273.84,
-    "base_date": "2026-07-31",
-    "last_date": "2026-08-03"
-   }
-  },
-  {
-   "date": "2026-07-31T11:26:29Z",
-   "platform": "News",
-   "text": "ASTS, RKLB Stocks Get The Trump Pump After Hidden Space Stock Bets Emerge - stocktwits.com \u2014 ASTS, RKLB Stocks Get The Trump Pump After Hidden Space Stock Bets Emerge\u00a0\u00a0stocktwits.com",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYlgtQnFIQ21RTHhqRVMtMUF4aWNUR2w3WHo5QzFfWVRyaExWYXJDUk9WaEFDaW90THVYcHVSd3J4Nk82T3lkMVBGZnhIQW43bHpGdURhaTgxYnRlR25BYmp6SWR1cjVhUHlXZXdWSFdkNlFTekNoQXZCSXNVem1Oc0NBYXBKQXhnRnNCTTVvOU5xSEZrUlNxdzZCczQyZmdVOW1jQVRBczU4cHlpU3M3dnBWZnBjdw?oc=5",
-   "tickers": [
-    "RKLB"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "RKLB",
-   "strength": 45,
-   "reason": "Trump hidden space stock bets emerge; bullish for space/satellite plays like Rocket Lab and AST SpaceMobile",
-   "price_since": {
-    "ticker": "RKLB",
-    "pct": 8.5,
-    "base": 64.95,
-    "last": 70.49,
     "base_date": "2026-07-31",
     "last_date": "2026-08-03"
    }
@@ -2577,230 +2706,6 @@
     "pct": 5.4,
     "base": 9.85,
     "last": 10.38,
-    "base_date": "2026-07-29",
-    "last_date": "2026-07-30"
-   }
-  },
-  {
-   "date": "2026-07-29T17:48:30Z",
-   "platform": "News",
-   "text": "US Senators Urge SEC Probe Into Trump Media\u2019s Preferential Truth Social Access Plan For Wall Street Firms - es.tradingview.com \u2014 US Senators Urge SEC Probe Into Trump Media\u2019s Preferential Truth Social Access Plan For Wall Street Firms\u00a0\u00a0es.tradingview.com",
-   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNNEpWRmYtRVVTa0dpTVAzT2JQNFdrZDk2NTU4dW41eGhKSTRwR3J6TENrYVprelJTZGNSRGNmM3BqOFQ1TXZZRm9IdGowWFJKWE1WekdqS3BPbG5WWDV5S0J6bEVNR3VLQmRDOGNGNUNBMmlRd0l2NENLQk9QcnJuZzJzRjVnbTVGVVRyYjVuR3NQS2Y1QTdJWUIwbFRhTmR5X0VHc0tIcEh2MlJWQUdRd2JGeG1BRUpZZk5PME1RaHhCT0RMVXNwX0ZjUXYwQS0xeHdMTm5wMUxqendNX3BDeExWMWxGUWpxY3J5anRUd1duaW82WUZpQg?oc=5",
-   "tickers": [
-    "DJT"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "SELL",
-   "primary_ticker": "DJT",
-   "strength": 65,
-   "reason": "SEC probe into Trump Media's business practices creates regulatory risk and reputational pressure on DJT stock",
-   "price_since": {
-    "ticker": "DJT",
-    "pct": 5.4,
-    "base": 9.85,
-    "last": 10.38,
-    "base_date": "2026-07-29",
-    "last_date": "2026-07-30"
-   }
-  },
-  {
-   "date": "2026-07-29T17:05:39Z",
-   "platform": "News",
-   "text": "Warren and Schiff urge SEC to probe Trump Media Truth Social API - qz.com \u2014 Warren and Schiff urge SEC to probe Trump Media Truth Social API\u00a0\u00a0qz.com",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE43Wk9xcEpHR3BsdkFaczI5MUNWRWhfZ096WlpfTFBDQkxCMThUMlZud215VWNTd0JMNnNzcnFHSmxhc0RoRnJRNnljRWVUcG9KZVdwQ0MzRlNKekZIMW93S0ZxTXNnVy1CZDR4RXU3aF85eEl0LWt3?oc=5",
-   "tickers": [
-    "DJT"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "DJT",
-   "strength": 35,
-   "reason": "SEC probe demand into Truth Social API threatens Trump Media valuation",
-   "price_since": {
-    "ticker": "DJT",
-    "pct": 5.4,
-    "base": 9.85,
-    "last": 10.38,
-    "base_date": "2026-07-29",
-    "last_date": "2026-07-30"
-   }
-  },
-  {
-   "date": "2026-07-29T17:05:39Z",
-   "platform": "News",
-   "text": "Senators Warren and Schiff are urging the SEC to investigate Trump Media's paid post feed - qz.com \u2014 Senators Warren and Schiff are urging the SEC to investigate Trump Media's paid post feed\u00a0\u00a0qz.com",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE43Wk9xcEpHR3BsdkFaczI5MUNWRWhfZ096WlpfTFBDQkxCMThUMlZud215VWNTd0JMNnNzcnFHSmxhc0RoRnJRNnljRWVUcG9KZVdwQ0MzRlNKekZIMW93S0ZxTXNnVy1CZDR4RXU3aF85eEl0LWt3?oc=5",
-   "tickers": [
-    "DJT"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "DJT",
-   "strength": 55,
-   "reason": "SEC investigation demand into Trump Media's paid post feed creates regulatory risk for DJT.",
-   "price_since": {
-    "ticker": "DJT",
-    "pct": 5.4,
-    "base": 9.85,
-    "last": 10.38,
-    "base_date": "2026-07-29",
-    "last_date": "2026-07-30"
-   }
-  },
-  {
-   "date": "2026-07-29T16:55:00Z",
-   "platform": "News",
-   "text": "Trump\u2019s $100,000 Truth API Faces SEC Investigation Demand: Two Precedents Show How it Ends - BeInCrypto \u2014 Trump\u2019s $100,000 Truth API Faces SEC Investigation Demand: Two Precedents Show How it Ends\u00a0\u00a0BeInCrypto",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB6NjgwTWJjM1JqSFV1TDNiS0lGYm5jaDNoZGFnVFN3eURZVnNPdFVDdDFuTWZibUZ6NVVHa3czYTRDWGxJNlNsWWhFOEQzWFF4WDUxbmR2cm1CVi1oNkppRllDUmxWSTMyUFY2Vmg1LUI4UQ?oc=5",
-   "tickers": [
-    "DJT"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "DJT",
-   "strength": 40,
-   "reason": "SEC investigation demand into Truth API pricing model adds regulatory risk to Trump Media",
-   "price_since": {
-    "ticker": "DJT",
-    "pct": 5.4,
-    "base": 9.85,
-    "last": 10.38,
-    "base_date": "2026-07-29",
-    "last_date": "2026-07-30"
-   }
-  },
-  {
-   "date": "2026-07-29T14:12:00Z",
-   "platform": "News",
-   "text": "Trump says US to hit Iran 'hard' after attack on bases in Jordan: Fox News - The Economic Times \u2014 Trump says US to hit Iran 'hard' after attack on bases in Jordan: Fox News\u00a0\u00a0The Economic Times",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSDNaUXJ2YkxRQ0RYZXAwaDAzRFlTNFdvMFk3S3FXekxmR2Nja0o3WlAtWk1HQ056MkVHbzNweFptWlRnbUVwMTk4ZDFON2F6QjlBVXN1WklSSEVwM1pKZnF6NjhMSHVYN3hjUk1aYklWdS02T0x4UzNMRmcwU3I5dVAxT3lBRE4tWlY3WVBqejZOejY0Y1R3NjRfWmJBRG1TMWF0S01ORkxPV256XzlRcGJWdmplYU5ad25pWC1ZU0ZHMk1iaHIzOVM2Rnl3UGlMbmpPMGJ6R3R6QdIB2gFBVV95cUxOSDNaUXJ2YkxRQ0RYZXAwaDAzRFlTNFdvMFk3S3FXekxmR2Nja0o3WlAtWk1HQ056MkVHbzNweFptWlRnbUVwMTk4ZDFON2F6QjlBVXN1WklSSEVwM1pKZnF6NjhMSHVYN3hjUk1aYklWdS02T0x4UzNMRmcwU3I5dVAxT3lBRE4tWlY3WVBqejZOejY0Y1R3NjRfWmJBRG1TMWF0S01ORkxPV256XzlRcGJWdmplYU5ad25pWC1ZU0ZHMk1iaHIzOVM2Rnl3UGlMbmpPMGJ6R3R6QQ?oc=5",
-   "tickers": [
-    "XLE"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "XLE",
-   "strength": 35,
-   "reason": "Military escalation with Iran typically bullish for defense and energy sectors; geopolitical risk premium may elevate oil prices.",
-   "price_since": {
-    "ticker": "XLE",
-    "pct": 0.5,
-    "base": 58.65,
-    "last": 58.96,
-    "base_date": "2026-07-29",
-    "last_date": "2026-07-30"
-   }
-  },
-  {
-   "date": "2026-07-29T14:11:47Z",
-   "platform": "News",
-   "text": "BATL, TPET, SKYQ, INDO Stocks Surge Premarket: Oil Prices Spike On Renewed US-Iran Hostilities - Stocktwits \u2014 BATL, TPET, SKYQ, INDO Stocks Surge Premarket: Oil Prices Spike On Renewed US-Iran Hostilities\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZ01jSjMzSkhFbXh0eUwxVmxRc1I2VHJzWTFVc3dBRXN4ejZXMTB4aVRNeF9nQmNpLVBfMVgwTlpXQWlvWTk2LUFfU2RETTZZbzlHRkc3cHAwZkZ4V1hwR2VNcl9IR3FGUnIzVy1tNjVIMUk5NEFoQUlkcTlaSW5fQlN3RUtFek1WNlk4bllVY0VIVG9zN1N2WkxvZHhfLXpXSzRZUS1oQ0lJZXNNQ01rZFNHWm5jeDgwdlNzaUFVTEtWbjAz?oc=5",
-   "tickers": [
-    "XLE"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "XLE",
-   "strength": 65,
-   "reason": "US-Iran tensions spike oil prices; energy sector rally",
-   "price_since": {
-    "ticker": "XLE",
-    "pct": 0.5,
-    "base": 58.65,
-    "last": 58.96,
-    "base_date": "2026-07-29",
-    "last_date": "2026-07-30"
-   }
-  },
-  {
-   "date": "2026-07-29T13:01:11Z",
-   "platform": "News",
-   "text": "REPL, QURE, MRNA Soar On Reports Trump Will Fire FDA\u2019s Marty Makary - Stocktwits \u2014 REPL, QURE, MRNA Soar On Reports Trump Will Fire FDA\u2019s Marty Makary\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPU3Z0Z1R6VlBrbUhjMmZMNmVXdXBXQW5TTUtIelRzbmMtS0kzSjdQTWFJRGV4TTFuVWE0QmxTTGpPc1NWdVdWQjl2bmVPTGNXY180NXltOWlqM3pPd1JDTmVORU5Kemc4Wk1IRWMtUE1UbVlQV1VndWx2cGhwSmxUWmw1Y3htZWVGQ1RxUEY3bVh4Y0lIcW1oVF9TMWgyUmNUY1JQajF4NGdCZHUzNEFDbnAtWTUzRmlpcHNYZk4tb0l6b2pDbFE?oc=5",
-   "tickers": [
-    "MRNA"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "MRNA",
-   "strength": 55,
-   "reason": "Reports Trump will fire FDA's Marty Makary; biotech stocks soar on expectation of less regulation."
-  },
-  {
-   "date": "2026-07-29T13:01:11Z",
-   "platform": "News",
-   "text": "REPL, QURE, MRNA Soar On Reports Trump Will Fire FDA\u2019s Marty Makary - stocktwits.com \u2014 REPL, QURE, MRNA Soar On Reports Trump Will Fire FDA\u2019s Marty Makary\u00a0\u00a0stocktwits.com",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPU3Z0Z1R6VlBrbUhjMmZMNmVXdXBXQW5TTUtIelRzbmMtS0kzSjdQTWFJRGV4TTFuVWE0QmxTTGpPc1NWdVdWQjl2bmVPTGNXY180NXltOWlqM3pPd1JDTmVORU5Kemc4Wk1IRWMtUE1UbVlQV1VndWx2cGhwSmxUWmw1Y3htZWVGQ1RxUEY3bVh4Y0lIcW1oVF9TMWgyUmNUY1JQajF4NGdCZHUzNEFDbnAtWTUzRmlpcHNYZk4tb0l6b2pDbFE?oc=5",
-   "tickers": [
-    "MRNA"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "MRNA",
-   "strength": 55,
-   "reason": "Report Trump will fire FDA's Makary; biotech/pharma stocks (MRNA, QURE, REPL) rally on deregulation expectation."
-  },
-  {
-   "date": "2026-07-29T08:30:22Z",
-   "platform": "News",
-   "text": "Stock Market: Will S&P 500 Open Up or Down Today? - TradingView \u2014 Stock Market: Will S&P 500 Open Up or Down Today?\u00a0\u00a0TradingView",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbm9BSk1qSVpQemlDS0J0RjNTdTQ3ZWtmTk5ZWVV6R24xcmVwRzNnT25xb0ZMQUtSYWdsbC1WeDdyc2ZYTnRmcVc0OG5KTVE2UGdUVDRRS1RqVU5UWGtFR0lPUDdzc3dyN29HVzdZeVJDUzBBWXZkNWk5RWVWa0tteVhUc3FnSWROcTVzVjBBclRaVnJaQ1U4MWFNQ1BmSFN6R1l1OTlaYnRYUQ?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "SPY",
-   "strength": 20,
-   "reason": "Generic market direction question; no Trump-specific catalyst",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": 1.7,
-    "base": 729.46,
-    "last": 741.69,
-    "base_date": "2026-07-29",
-    "last_date": "2026-07-30"
-   }
-  },
-  {
-   "date": "2026-07-29T07:24:06Z",
-   "platform": "News",
-   "text": "Netanyahu praises first meeting with Trump since launching Iran war - The Korea Times \u2014 Netanyahu praises first meeting with Trump since launching Iran war\u00a0\u00a0The Korea Times",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTG5NRk1Ga2hjajBZME1yUzhuMGhBNGJ3V2s5bUZ0ZENZcGl5NDdiUmhEcUFudlFRSUwyR3pCTzNIa0pBWXhWNlF5WUt1UGNaMDBWSGVwWjYyVXlFbjhUMmtpNXBFSnJaOFF4LWkydTFxQktha1ZNNHFNbWRnT2xmRFZwSWJLR1ZPNnFnS3cyR0cwUnhzVkstemlwRHMxWTV6NjhFRkVJM1NhYkVzWkE0N9IBtgFBVV95cUxPak82S1RzMXRjNjBIcGRKdEtJSENXZ2dHdHpORkg0dzNUUkFrSjUwdG03TW9fRDMxb3lTVVZFVWxpUk5Hc2lWak9jRFBKQXZSdzdjb2hMUkpLQjRGRUVEdGZZT3Bxa0Y1elN4bk1sWWlabENCSy1yZWRJejh5c21CbEtZa0trWHFxM09BVm5wQnU5OWUzaU5ZeThOYmVNQ0hWUVRRWEpnY1NDMzYxa0NOekFjcTBIQQ?oc=5",
-   "tickers": [
-    "XAR"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "XAR",
-   "strength": 50,
-   "reason": "Netanyahu-Trump meeting praising Iran war escalation signals defense spending priority and military action",
-   "price_since": {
-    "ticker": "XAR",
-    "pct": 1.8,
-    "base": 258.11,
-    "last": 262.83,
     "base_date": "2026-07-29",
     "last_date": "2026-07-30"
    }
