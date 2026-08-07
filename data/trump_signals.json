@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-08-07T16:34:29Z",
+ "last_updated": "2026-08-07T17:33:54Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-08-07T15:12:25Z",
+   "platform": "News",
+   "text": "ASTS, RKLB Stocks Get The Trump Pump After Hidden Space Stock Bets Emerge - Stocktwits \u2014 ASTS, RKLB Stocks Get The Trump Pump After Hidden Space Stock Bets Emerge\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYlgtQnFIQ21RTHhqRVMtMUF4aWNUR2w3WHo5QzFfWVRyaExWYXJDUk9WaEFDaW90THVYcHVSd3J4Nk82T3lkMVBGZnhIQW43bHpGdURhaTgxYnRlR25BYmp6SWR1cjVhUHlXZXdWSFdkNlFTekNoQXZCSXNVem1Oc0NBYXBKQXhnRnNCTTVvOU5xSEZrUlNxdzZCczQyZmdVOW1jQVRBczU4cHlpU3M3dnBWZnBjdw?oc=5",
+   "tickers": [
+    "ASTS"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "ASTS",
+   "strength": 45,
+   "reason": "Space stocks rally on disclosed Trump holdings; speculative but sector-bullish signal"
+  },
   {
    "date": "2026-08-07T15:01:20Z",
    "platform": "News",
@@ -17,6 +33,22 @@
    "primary_ticker": "BTC-USD",
    "strength": 45,
    "reason": "Trump signals growing bitcoin adoption and crypto clarity legislative progress; bullish sentiment for crypto"
+  },
+  {
+   "date": "2026-08-07T14:04:47Z",
+   "platform": "News",
+   "text": "Michael Burry Says He\u2019s Still Short Palantir After Stock Sees Recovery Following Trump\u2019s Endorsement - Stocktwits \u2014 Michael Burry Says He\u2019s Still Short Palantir After Stock Sees Recovery Following Trump\u2019s Endorsement\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUmNQdmN5STJOLU11dEhkR1U0ckhuS3JMcm1NUDNMY0dNZ1pQcGhFVmd2bkZqVHV5N3N4N01tY1gzZWZnTDlvbVRzTEtkQnZyUjlibXR1ZUJ5MnVNY0ZlYlVEUWtRMkdnRzBGcmxpdEJaQm55ZWlTWmZZUDBPNnhncTFlLWg3bjllZXNpeGpTVjd3b3dCZ2lWT1dPZE5RSlNKT01IVXlTa1c5YmFodzVEWkJtbHpvUHN1Ry00NWhxcVJpdw?oc=5",
+   "tickers": [
+    "PLTR"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "PLTR",
+   "strength": 40,
+   "reason": "Trump endorsement bullish but contrarian short bet by Burry creates ambiguous directional signal"
   },
   {
    "date": "2026-08-07T12:06:35Z",
@@ -86,7 +118,7 @@
     "ticker": "SPY",
     "pct": 0.4,
     "base": 768.56,
-    "last": 771.72,
+    "last": 771.96,
     "base_date": "2026-08-06",
     "last_date": "2026-08-07"
    }
@@ -108,9 +140,9 @@
    "reason": "Financial information page for Trump's company; neutral reference only",
    "price_since": {
     "ticker": "DJT",
-    "pct": 1.6,
+    "pct": 1.7,
     "base": 9.89,
-    "last": 10.05,
+    "last": 10.06,
     "base_date": "2026-08-06",
     "last_date": "2026-08-07"
    }
@@ -133,9 +165,9 @@
    "reason": "Defense manufacturing expansion and munitions production boost military-industrial demand",
    "price_since": {
     "ticker": "XAR",
-    "pct": 0.5,
+    "pct": 0.9,
     "base": 282.91,
-    "last": 284.32,
+    "last": 285.46,
     "base_date": "2026-08-06",
     "last_date": "2026-08-07"
    }
@@ -157,9 +189,9 @@
    "reason": "Trump praises Elon Musk; bullish signal on Tesla, though not an explicit stock call",
    "price_since": {
     "ticker": "TSLA",
-    "pct": 3.0,
+    "pct": 2.4,
     "base": 319.53,
-    "last": 329.2,
+    "last": 327.09,
     "base_date": "2026-08-06",
     "last_date": "2026-08-07"
    }
@@ -181,9 +213,9 @@
    "reason": "KEEL data center announcement attracting retail interest; speculative signal without Trump catalyst detail.",
    "price_since": {
     "ticker": "KEEL",
-    "pct": -2.5,
+    "pct": -3.3,
     "base": 3.93,
-    "last": 3.83,
+    "last": 3.8,
     "base_date": "2026-08-05",
     "last_date": "2026-08-07"
    }
@@ -205,33 +237,9 @@
    "reason": "Space stocks (ASTS, RKLB) rallying on emerging Trump portfolio connection; ambiguous direction pending clarity.",
    "price_since": {
     "ticker": "RKLB",
-    "pct": 9.3,
+    "pct": 9.6,
     "base": 74.82,
-    "last": 81.79,
-    "base_date": "2026-08-05",
-    "last_date": "2026-08-07"
-   }
-  },
-  {
-   "date": "2026-08-05T22:56:57Z",
-   "platform": "News",
-   "text": "ASTS, RKLB Stocks Get The Trump Pump After Hidden Space Stock Bets Emerge - Stocktwits \u2014 ASTS, RKLB Stocks Get The Trump Pump After Hidden Space Stock Bets Emerge\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYlgtQnFIQ21RTHhqRVMtMUF4aWNUR2w3WHo5QzFfWVRyaExWYXJDUk9WaEFDaW90THVYcHVSd3J4Nk82T3lkMVBGZnhIQW43bHpGdURhaTgxYnRlR25BYmp6SWR1cjVhUHlXZXdWSFdkNlFTekNoQXZCSXNVem1Oc0NBYXBKQXhnRnNCTTVvOU5xSEZrUlNxdzZCczQyZmdVOW1jQVRBczU4cHlpU3M3dnBWZnBjdw?oc=5",
-   "tickers": [
-    "RKLB"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "RKLB",
-   "strength": 40,
-   "reason": "Trump hidden space stock stakes emerge; RKLB mentioned as beneficiary of Trump portfolio interest",
-   "price_since": {
-    "ticker": "RKLB",
-    "pct": 9.3,
-    "base": 74.82,
-    "last": 81.79,
+    "last": 82.03,
     "base_date": "2026-08-05",
     "last_date": "2026-08-07"
    }
@@ -253,9 +261,9 @@
    "reason": "Intel rally attributed partly to Trump sentiment; ambiguous whether policy or portfolio-driven.",
    "price_since": {
     "ticker": "INTC",
-    "pct": -0.2,
+    "pct": 0.0,
     "base": 101.06,
-    "last": 100.85,
+    "last": 101.11,
     "base_date": "2026-08-05",
     "last_date": "2026-08-07"
    }
@@ -277,9 +285,9 @@
    "reason": "Headline references Trump pump on Intel; likely federal contract/support but signal is secondary to other factors",
    "price_since": {
     "ticker": "INTC",
-    "pct": -0.2,
+    "pct": 0.0,
     "base": 101.06,
-    "last": 100.82,
+    "last": 101.11,
     "base_date": "2026-08-05",
     "last_date": "2026-08-07"
    }
@@ -301,9 +309,9 @@
    "reason": "Trump explicitly endorses Dell; direct bullish signal drives stock to record highs.",
    "price_since": {
     "ticker": "DELL",
-    "pct": -4.0,
+    "pct": -3.2,
     "base": 462.7,
-    "last": 444.27,
+    "last": 448.05,
     "base_date": "2026-08-05",
     "last_date": "2026-08-07"
    }
@@ -325,9 +333,9 @@
    "reason": "Trump explicitly endorses Dell; direct named company praise drives stock up",
    "price_since": {
     "ticker": "DELL",
-    "pct": -4.0,
+    "pct": -3.2,
     "base": 462.7,
-    "last": 444.27,
+    "last": 448.05,
     "base_date": "2026-08-05",
     "last_date": "2026-08-07"
    }
@@ -365,9 +373,9 @@
    "reason": "Trump lauds Citigroup's M&A comeback; direct company praise but soft/praise-based signal",
    "price_since": {
     "ticker": "C",
-    "pct": -2.6,
+    "pct": -2.2,
     "base": 137.64,
-    "last": 134.12,
+    "last": 134.55,
     "base_date": "2026-08-05",
     "last_date": "2026-08-07"
    }
@@ -389,9 +397,9 @@
    "reason": "Trump lauds Citi's M&A comeback \u2014 direct praise of bank, suggests bullish outlook on Citi",
    "price_since": {
     "ticker": "C",
-    "pct": -2.6,
+    "pct": -2.2,
     "base": 137.64,
-    "last": 134.12,
+    "last": 134.55,
     "base_date": "2026-08-05",
     "last_date": "2026-08-07"
    }
@@ -413,9 +421,9 @@
    "reason": "Eric Trump bullish call on Bitcoin to $1M; family member crypto advocacy but indirect signal",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": 0.5,
+    "pct": -0.1,
     "base": 64597.5,
-    "last": 64913.03,
+    "last": 64528.81,
     "base_date": "2026-08-05",
     "last_date": "2026-08-07"
    }
@@ -437,9 +445,9 @@
    "reason": "Eric Trump (family proxy) doubles down on $1M Bitcoin call \u2014 strong family bullish signal on crypto",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": 0.5,
+    "pct": -0.1,
     "base": 64597.5,
-    "last": 64913.03,
+    "last": 64525.88,
     "base_date": "2026-08-05",
     "last_date": "2026-08-07"
    }
@@ -485,9 +493,9 @@
    "reason": "Probe of insider-access scheme tied to Truth Social posts \u2014 regulatory/legal risk to Trump Media",
    "price_since": {
     "ticker": "DJT",
-    "pct": 0.9,
+    "pct": 1.0,
     "base": 9.96,
-    "last": 10.05,
+    "last": 10.06,
     "base_date": "2026-08-05",
     "last_date": "2026-08-07"
    }
@@ -509,9 +517,9 @@
    "reason": "Stock surge overnight; no Trump-specific catalyst stated.",
    "price_since": {
     "ticker": "IBM",
-    "pct": -0.3,
+    "pct": 0.2,
     "base": 235.92,
-    "last": 235.2,
+    "last": 236.44,
     "base_date": "2026-08-05",
     "last_date": "2026-08-07"
    }
@@ -549,9 +557,9 @@
    "reason": "Dell stock surge attributed to Trump endorsement; retrospective article on positive momentum.",
    "price_since": {
     "ticker": "DELL",
-    "pct": -4.0,
+    "pct": -3.2,
     "base": 462.7,
-    "last": 444.27,
+    "last": 448.05,
     "base_date": "2026-08-05",
     "last_date": "2026-08-07"
    }
@@ -591,7 +599,7 @@
     "ticker": "NOW",
     "pct": 6.4,
     "base": 117.22,
-    "last": 124.76,
+    "last": 124.78,
     "base_date": "2026-08-05",
     "last_date": "2026-08-07"
    }
@@ -613,9 +621,9 @@
    "reason": "Trump's reported ServiceNow stake and explicit praise creates bullish sentiment for NOW",
    "price_since": {
     "ticker": "NOW",
-    "pct": 6.4,
+    "pct": 6.5,
     "base": 117.22,
-    "last": 124.76,
+    "last": 124.84,
     "base_date": "2026-08-05",
     "last_date": "2026-08-07"
    }
@@ -637,9 +645,9 @@
    "reason": "Trump explicitly praises Scotts Miracle-Gro by name at White House; direct endorsement",
    "price_since": {
     "ticker": "SMG",
-    "pct": -3.4,
+    "pct": -3.5,
     "base": 66.13,
-    "last": 63.89,
+    "last": 63.8,
     "base_date": "2026-08-05",
     "last_date": "2026-08-07"
    }
@@ -661,9 +669,9 @@
    "reason": "Trump explicitly praises Scotts Miracle-Gro for White House/D.C. lawn project; direct endorsement of named company",
    "price_since": {
     "ticker": "SMG",
-    "pct": -3.4,
+    "pct": -3.5,
     "base": 66.13,
-    "last": 63.89,
+    "last": 63.8,
     "base_date": "2026-08-05",
     "last_date": "2026-08-07"
    }
@@ -1543,30 +1551,6 @@
    "primary_ticker": "PLTR",
    "strength": 40,
    "reason": "Trump endorsed Palantir, stock recovered; but prominent short suggests contrarian view and uncertain sustainability",
-   "price_since": {
-    "ticker": "PLTR",
-    "pct": 29.5,
-    "base": 125.65,
-    "last": 162.66,
-    "base_date": "2026-08-03",
-    "last_date": "2026-08-04"
-   }
-  },
-  {
-   "date": "2026-08-02T20:13:41Z",
-   "platform": "News",
-   "text": "Michael Burry Says He\u2019s Still Short Palantir After Stock Sees Recovery Following Trump\u2019s Endorsement - Stocktwits \u2014 Michael Burry Says He\u2019s Still Short Palantir After Stock Sees Recovery Following Trump\u2019s Endorsement\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUmNQdmN5STJOLU11dEhkR1U0ckhuS3JMcm1NUDNMY0dNZ1pQcGhFVmd2bkZqVHV5N3N4N01tY1gzZWZnTDlvbVRzTEtkQnZyUjlibXR1ZUJ5MnVNY0ZlYlVEUWtRMkdnRzBGcmxpdEJaQm55ZWlTWmZZUDBPNnhncTFlLWg3bjllZXNpeGpTVjd3b3dCZ2lWT1dPZE5RSlNKT01IVXlTa1c5YmFodzVEWkJtbHpvUHN1Ry00NWhxcVJpdw?oc=5",
-   "tickers": [
-    "PLTR"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "PLTR",
-   "strength": 55,
-   "reason": "Trump endorsement buoyed Palantir but contrarian short thesis still active",
    "price_since": {
     "ticker": "PLTR",
     "pct": 29.5,
