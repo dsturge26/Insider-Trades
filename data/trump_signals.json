@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-07T10:25:50Z",
+ "last_updated": "2026-08-07T11:22:01Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -317,9 +317,9 @@
    "reason": "Eric Trump bullish call on Bitcoin to $1M; family member crypto advocacy but indirect signal",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": 0.3,
+    "pct": 0.6,
     "base": 64597.5,
-    "last": 64770.82,
+    "last": 64993.47,
     "base_date": "2026-08-05",
     "last_date": "2026-08-07"
    }
@@ -2861,23 +2861,6 @@
    "primary_ticker": "HRS",
    "strength": 70,
    "reason": "Harris Corporation awarded $2.1B federal contract; large defense/government contract is bullish."
-  },
-  {
-   "date": "2019-10-16T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "THE BOEING COMPANY was awarded a $2.7B federal contract from National Aeronautics and Space Administration.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_80MSFC20C0052_8000_-NONE-_-NONE-",
-   "tickers": [
-    "BA"
-   ],
-   "contract_amount": 2.74,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "BA",
-   "strength": 70,
-   "reason": "Boeing awarded $2.7B federal contract from NASA; large defense/space contract is bullish."
   }
  ],
  "how_to_read": "Each card is Claude's read of a public Trump post: the affected ticker, whether it implies BUY / SELL / WATCH, a 0\u2013100 strength (how explicit/emphatic the post is \u2014 NOT a profit predictor), and why. A 2-year backtest found these don't beat buy-and-hold, so this is for awareness, not trading. Not financial advice."
