@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-08T07:15:23Z",
+ "last_updated": "2026-08-08T08:03:03Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -53,7 +53,7 @@
     "ticker": "BTC-USD",
     "pct": 0.1,
     "base": 64880.19,
-    "last": 64955.16,
+    "last": 64922.93,
     "base_date": "2026-08-07",
     "last_date": "2026-08-08"
    }
@@ -137,6 +137,22 @@
    "primary_ticker": "DJT",
    "strength": 15,
    "reason": "Generic financial news headline about Trump Media stock; no new directional signal."
+  },
+  {
+   "date": "2026-08-07T03:51:33Z",
+   "platform": "News",
+   "text": "KEEL Stock Jumps Onto Retail Radar As Investors Eye First Data Center Lease Announcement - Stocktwits \u2014 KEEL Stock Jumps Onto Retail Radar As Investors Eye First Data Center Lease Announcement\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVHpiUDN5T2I5aVFzNkpxZGZjdUJEVG0xLXN0c3pVRWo2REVuRGNZTFpvLXJTT2luZVhnTC1iVmFtcFYxbkpnanphZ3E0N0ExWmx5UGh4cGw2QmRiQXl3RG81OWlKRnEwOHVHT0FWdXlGd2VIZVhjM1k2TTU0THctQ3cyUVhNNG9JcGJQMlhPVHdWbkFVSVpfR25lNzVCMTJ4cGZRR05JcnR2SWFvSGc1VnYyMzFMMnFDLURZLW5pMGk3UUwyWktaVVNmZUdDZ21QZGQ0bEZfU0o1LXRvREhFd3h2NXBTMjQ?oc=5",
+   "tickers": [
+    "KEEL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "KEEL",
+   "strength": 35,
+   "reason": "KEEL data center lease announcement sparks retail interest"
   },
   {
    "date": "2026-08-06T20:38:27.627Z",
@@ -477,9 +493,9 @@
    "reason": "Eric Trump bullish call on Bitcoin to $1M; family member crypto advocacy but indirect signal",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": 0.6,
+    "pct": 0.5,
     "base": 64597.5,
-    "last": 64955.16,
+    "last": 64922.93,
     "base_date": "2026-08-05",
     "last_date": "2026-08-08"
    }
@@ -501,9 +517,9 @@
    "reason": "Eric Trump (family proxy) doubles down on $1M Bitcoin call \u2014 strong family bullish signal on crypto",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": 0.6,
+    "pct": 0.5,
     "base": 64597.5,
-    "last": 64955.16,
+    "last": 64922.93,
     "base_date": "2026-08-05",
     "last_date": "2026-08-08"
    }
