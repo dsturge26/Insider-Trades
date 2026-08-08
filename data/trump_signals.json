@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-08T16:33:04Z",
+ "last_updated": "2026-08-08T17:11:38Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -115,9 +115,9 @@
    "reason": "Trump signals growing bitcoin adoption and crypto clarity legislative progress; bullish sentiment for crypto",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": 0.2,
+    "pct": 0.3,
     "base": 64880.19,
-    "last": 65012.18,
+    "last": 65069.49,
     "base_date": "2026-08-07",
     "last_date": "2026-08-08"
    }
@@ -139,9 +139,9 @@
    "reason": "Trump signals growing bitcoin adoption and crypto clarity; supportive macro environment.",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": 0.2,
+    "pct": 0.3,
     "base": 64880.19,
-    "last": 65012.18,
+    "last": 65069.49,
     "base_date": "2026-08-07",
     "last_date": "2026-08-08"
    }
@@ -573,9 +573,9 @@
    "reason": "Eric Trump bullish call on Bitcoin to $1M; family member crypto advocacy but indirect signal",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": 0.6,
+    "pct": 0.7,
     "base": 64597.5,
-    "last": 65012.18,
+    "last": 65069.49,
     "base_date": "2026-08-05",
     "last_date": "2026-08-08"
    }
@@ -597,9 +597,9 @@
    "reason": "Eric Trump (family proxy) doubles down on $1M Bitcoin call \u2014 strong family bullish signal on crypto",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": 0.6,
+    "pct": 0.7,
     "base": 64597.5,
-    "last": 65012.18,
+    "last": 65069.49,
     "base_date": "2026-08-05",
     "last_date": "2026-08-08"
    }
@@ -2773,30 +2773,6 @@
    "primary_ticker": "NVDA",
    "strength": 65,
    "reason": "Trump explicitly praises Nvidia CEO and chips during Oval Office visit; direct positive endorsement",
-   "price_since": {
-    "ticker": "NVDA",
-    "pct": 5.7,
-    "base": 190.01,
-    "last": 200.75,
-    "base_date": "2026-07-29",
-    "last_date": "2026-07-31"
-   }
-  },
-  {
-   "date": "2026-07-29T19:33:40Z",
-   "platform": "News",
-   "text": "Trump hosts Nvidia and United Airlines CEOs in Oval Office as tech and industrial priorities take center stage - cryptobriefing.com \u2014 Trump hosts Nvidia and United Airlines CEOs in Oval Office as tech and industrial priorities take center stage\u00a0\u00a0cryptobriefing.com",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5pTTBUVUQyYlFRWF8weVB4bk5FOXM5dlJyMWlYTTVPTGJZUWxBZGYtQ0xOcGFVcGdmbjJyUmlsUHVNanl6N1JpMmpQZENZQWUtdll4X0dvWEJvX2V0R21La3hBZVBpeThOWDA4T25HeHYtYjh3U2VR?oc=5",
-   "tickers": [
-    "NVDA"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "NVDA",
-   "strength": 45,
-   "reason": "Trump hosts Nvidia and United CEOs; signals tech and industrial priorities favor these sectors",
    "price_since": {
     "ticker": "NVDA",
     "pct": 5.7,
