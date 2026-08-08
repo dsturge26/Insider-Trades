@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-08T19:54:12Z",
+ "last_updated": "2026-08-08T20:29:28Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -149,7 +149,7 @@
     "ticker": "BTC-USD",
     "pct": 0.2,
     "base": 64880.19,
-    "last": 65019.24,
+    "last": 65015.35,
     "base_date": "2026-08-07",
     "last_date": "2026-08-08"
    }
@@ -173,7 +173,7 @@
     "ticker": "BTC-USD",
     "pct": 0.2,
     "base": 64880.19,
-    "last": 65019.24,
+    "last": 65015.35,
     "base_date": "2026-08-07",
     "last_date": "2026-08-08"
    }
@@ -2714,78 +2714,6 @@
     "pct": 0.1,
     "base": 9.85,
     "last": 9.86,
-    "base_date": "2026-07-29",
-    "last_date": "2026-07-31"
-   }
-  },
-  {
-   "date": "2026-07-29T20:34:00Z",
-   "platform": "News",
-   "text": "Senators Urge SEC to Investigate Truth Social Plan to Sell Access to Wall Street - talkingpointsmemo.com \u2014 Senators Urge SEC to Investigate Truth Social Plan to Sell Access to Wall Street\u00a0\u00a0talkingpointsmemo.com",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRzZFMFZzWW1mUmIySlZzUmQwRUp2cFZINXVWa3p5MlFGbm45a0JKajRDSmRWM1RIMTh2TkMxVkU3c0pCVE1sel9hd1BkNXVwZWdIaVQyd3l5Sy1FSnloYTdCd1JJMzhQdzdXVVhEbmN3WVlCVFYxQm92bWJZMTJLVHJqMDJLWDhpaEcycjFZanZsdjVzYW9WQTczZXB6WTR5T0FCRjV2WmNUVUhfM1NFQld1VEpjZw?oc=5",
-   "tickers": [
-    "DJT"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "DJT",
-   "strength": 45,
-   "reason": "SEC investigation into Truth Social paid access plan creates regulatory risk for Trump Media",
-   "price_since": {
-    "ticker": "DJT",
-    "pct": 0.1,
-    "base": 9.85,
-    "last": 9.86,
-    "base_date": "2026-07-29",
-    "last_date": "2026-07-31"
-   }
-  },
-  {
-   "date": "2026-07-29T19:33:40Z",
-   "platform": "News",
-   "text": "Trump praises Nvidia CEO Jensen Huang and company\u2019s chips during Oval Office visit - Crypto Briefing \u2014 Trump praises Nvidia CEO Jensen Huang and company\u2019s chips during Oval Office visit\u00a0\u00a0Crypto Briefing",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1waGxmd3NHVFBlYjNYWFkxamd0QXUtMDZaN3Znamt2ZEVibjZMSURIQnc2XzJrMTl0aUtGbGVJVDFYTlhuRmc2ZlRsRzFKYzVaSUhoODRkLVRfOFhfVkxQcDlsUERyOUJfMUhIcF9XYkE5MUh3am9Hb2ZB?oc=5",
-   "tickers": [
-    "NVDA"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "NVDA",
-   "strength": 72,
-   "reason": "Trump praises Nvidia CEO and chips during Oval Office visit, direct endorsement of specific company.",
-   "price_since": {
-    "ticker": "NVDA",
-    "pct": 5.7,
-    "base": 190.01,
-    "last": 200.75,
-    "base_date": "2026-07-29",
-    "last_date": "2026-07-31"
-   }
-  },
-  {
-   "date": "2026-07-29T19:33:40Z",
-   "platform": "News",
-   "text": "Trump hosts Nvidia and United Airlines CEOs in Oval Office as tech and industrial priorities take center stage - Crypto Briefing \u2014 Trump hosts Nvidia and United Airlines CEOs in Oval Office as tech and industrial priorities take center stage\u00a0\u00a0Crypto Briefing",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5pTTBUVUQyYlFRWF8weVB4bk5FOXM5dlJyMWlYTTVPTGJZUWxBZGYtQ0xOcGFVcGdmbjJyUmlsUHVNanl6N1JpMmpQZENZQWUtdll4X0dvWEJvX2V0R21La3hBZVBpeThOWDA4T25HeHYtYjh3U2VR?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "SPY",
-   "strength": 35,
-   "reason": "Trump hosting tech and industrial CEOs signals strategic focus on these sectors; mild positive macro read.",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": 2.4,
-    "base": 729.46,
-    "last": 747.03,
     "base_date": "2026-07-29",
     "last_date": "2026-07-31"
    }
