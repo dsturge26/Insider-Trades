@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-08T14:38:14Z",
+ "last_updated": "2026-08-08T15:04:29Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -17,6 +17,22 @@
    "primary_ticker": "PLTR",
    "strength": 45,
    "reason": "Burry short call on Palantir despite Trump endorsement; bearish signal from prominent investor"
+  },
+  {
+   "date": "2026-08-08T09:10:17Z",
+   "platform": "News",
+   "text": "Trump praises $3 billion US investment in mineral project to counter China - ThePrint \u2014 Trump praises $3 billion US investment in mineral project to counter China\u00a0\u00a0ThePrint",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOd2xjSEJBVEpieEpUNmdvQnNqWDRQVFdOc1VaWjlKVlcxTHBEVmRhS21wM0M1VE5rOHZMdWFUYTFFaWhRZlhCZnRwQWZIWmM3Qm9OQXZhLVR3N2FBVE9YRF8tR180Wk5PWTY0OWFTS3Vpd3hER3ZOdHRpaHNNeVN5QmMtdmtyX3ljNDRjV0JzeFMyckNxcmpSNmFpQ3EwanZSS3MyNEtFTnA1RFc40gGyAUFVX3lxTE52M0hSa3dubEhmTk1WRGRMYjRtb3cyTFVMeDNFblN0QzZLX3N4by1qRGhRb2FhYllMMUxGUGUwMGU5aG56ZG9CS2tSSG84SWpTa01RVDRBdGFzdGxlenFsblVFS3pMck12NWlqV0VMVFZRSm9zYnJmZUo0MjQzNV9uZ1FRdUdHSTBnTUltWVJDUG5jcklFc3hSQTB6VWFvSWJmU1pmTDNDN2JsSkl6TDA4OEE?oc=5",
+   "tickers": [
+    "XLE"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "XLE",
+   "strength": 40,
+   "reason": "Trump praises $3B mineral investment to counter China; bullish on domestic mining/energy sector capacity"
   },
   {
    "date": "2026-08-08T07:14:40Z",
@@ -83,9 +99,9 @@
    "reason": "Trump signals growing bitcoin adoption and crypto clarity legislative progress; bullish sentiment for crypto",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": 0.4,
+    "pct": 0.3,
     "base": 64880.19,
-    "last": 65135.01,
+    "last": 65074.03,
     "base_date": "2026-08-07",
     "last_date": "2026-08-08"
    }
@@ -107,9 +123,9 @@
    "reason": "Trump signals growing bitcoin adoption and crypto clarity; supportive macro environment.",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": 0.4,
+    "pct": 0.3,
     "base": 64880.19,
-    "last": 65135.01,
+    "last": 65074.03,
     "base_date": "2026-08-07",
     "last_date": "2026-08-08"
    }
@@ -541,9 +557,9 @@
    "reason": "Eric Trump bullish call on Bitcoin to $1M; family member crypto advocacy but indirect signal",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": 0.8,
+    "pct": 0.7,
     "base": 64597.5,
-    "last": 65135.0,
+    "last": 65074.03,
     "base_date": "2026-08-05",
     "last_date": "2026-08-08"
    }
@@ -565,9 +581,9 @@
    "reason": "Eric Trump (family proxy) doubles down on $1M Bitcoin call \u2014 strong family bullish signal on crypto",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": 0.8,
+    "pct": 0.7,
     "base": 64597.5,
-    "last": 65135.0,
+    "last": 65074.03,
     "base_date": "2026-08-05",
     "last_date": "2026-08-08"
    }
