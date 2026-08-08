@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-08T08:03:03Z",
+ "last_updated": "2026-08-08T09:00:08Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -53,7 +53,31 @@
     "ticker": "BTC-USD",
     "pct": 0.1,
     "base": 64880.19,
-    "last": 64922.93,
+    "last": 64957.72,
+    "base_date": "2026-08-07",
+    "last_date": "2026-08-08"
+   }
+  },
+  {
+   "date": "2026-08-07T15:01:20Z",
+   "platform": "News",
+   "text": "Crucial Vote On Crypto Clarity Act Delayed Until September, Trump Says More People Are Paying in Bitcoin: Reports - bitcoinmagazine.com \u2014 Crucial Vote On Crypto Clarity Act Delayed Until September, Trump Says More People Are Paying in Bitcoin: Reports\u00a0\u00a0bitcoinmagazine.com",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ycW92NmJBaWhpSzFaN3ZrVjZGbXdtNjFyZ01ybHhhcDFzY3pqREhfVmQ1Z2FqQ2UzY1hxZW82WDQzcGd4cTlicjQ1dkJSRzY2dHV4UkMwTlNub3AwZEpkUGtqTVZURFBuYzlSQ3dEcmVDWXRmaGp3bG9EYw?oc=5",
+   "tickers": [
+    "BTC-USD"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "BTC-USD",
+   "strength": 50,
+   "reason": "Trump signals growing bitcoin adoption and crypto clarity; supportive macro environment.",
+   "price_since": {
+    "ticker": "BTC-USD",
+    "pct": 0.1,
+    "base": 64880.19,
+    "last": 64957.72,
     "base_date": "2026-08-07",
     "last_date": "2026-08-08"
    }
@@ -137,6 +161,22 @@
    "primary_ticker": "DJT",
    "strength": 15,
    "reason": "Generic financial news headline about Trump Media stock; no new directional signal."
+  },
+  {
+   "date": "2026-08-07T06:02:51Z",
+   "platform": "News",
+   "text": "INTC Stock Rockets Toward Best Month Ever: Something More Than A Trump Pump Could Be Powering The Rally - Stocktwits \u2014 INTC Stock Rockets Toward Best Month Ever: Something More Than A Trump Pump Could Be Powering The Rally\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQT29KOURKeHprQ2xZbmpLUUc3MGRlTTE5Y1JHVXJ5TGhldk10eENQcmZLSzRWNDQyTmJFclFNUThmZ0tBRlZUQTZ3MGF1dlZwR0Q4aUtXUnZVQ2o1MjM3cFNpU2RrejRkd2E0OXBhOVNpdDdBdDVSSTR1c2M5NTZfYlg4NEFxODg3QWpMTXd0VVIzM3pZRS10OG5JWG9QUW52UjZvbXVvQ29uZ1lJb1NwbFljM1lBN1dreHdJZDdYZ1hKTjVidndnRWlJRnl5cnNpT2llcjVuSVltVDNzVFdHbmZYTEpua3JJVllOcXIxVmdfaThfeHRzVm9R?oc=5",
+   "tickers": [
+    "INTC"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "INTC",
+   "strength": 50,
+   "reason": "Intel rally attributed partly to Trump pump; strength suggests broader catalyst beyond endorsement."
   },
   {
    "date": "2026-08-07T03:51:33Z",
@@ -325,30 +365,6 @@
    }
   },
   {
-   "date": "2026-08-05T20:50:15Z",
-   "platform": "News",
-   "text": "INTC Stock Rockets Toward Best Month Ever: Something More Than A Trump Pump Could Be Powering The Rally - Stocktwits \u2014 INTC Stock Rockets Toward Best Month Ever: Something More Than A Trump Pump Could Be Powering The Rally\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQT29KOURKeHprQ2xZbmpLUUc3MGRlTTE5Y1JHVXJ5TGhldk10eENQcmZLSzRWNDQyTmJFclFNUThmZ0tBRlZUQTZ3MGF1dlZwR0Q4aUtXUnZVQ2o1MjM3cFNpU2RrejRkd2E0OXBhOVNpdDdBdDVSSTR1c2M5NTZfYlg4NEFxODg3QWpMTXd0VVIzM3pZRS10OG5JWG9QUW52UjZvbXVvQ29uZ1lJb1NwbFljM1lBN1dreHdJZDdYZ1hKTjVidndnRWlJRnl5cnNpT2llcjVuSVltVDNzVFdHbmZYTEpua3JJVllOcXIxVmdfaThfeHRzVm9R?oc=5",
-   "tickers": [
-    "INTC"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "INTC",
-   "strength": 25,
-   "reason": "Headline references Trump pump on Intel; likely federal contract/support but signal is secondary to other factors",
-   "price_since": {
-    "ticker": "INTC",
-    "pct": 0.6,
-    "base": 101.06,
-    "last": 101.65,
-    "base_date": "2026-08-05",
-    "last_date": "2026-08-07"
-   }
-  },
-  {
    "date": "2026-08-05T20:27:16Z",
    "platform": "News",
    "text": "DELL Stock Spikes To Record Highs On President Trump\u2019s Endorsement - stocktwits.com \u2014 DELL Stock Spikes To Record Highs On President Trump\u2019s Endorsement\u00a0\u00a0stocktwits.com",
@@ -493,9 +509,9 @@
    "reason": "Eric Trump bullish call on Bitcoin to $1M; family member crypto advocacy but indirect signal",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": 0.5,
+    "pct": 0.6,
     "base": 64597.5,
-    "last": 64922.93,
+    "last": 64957.72,
     "base_date": "2026-08-05",
     "last_date": "2026-08-08"
    }
@@ -517,9 +533,9 @@
    "reason": "Eric Trump (family proxy) doubles down on $1M Bitcoin call \u2014 strong family bullish signal on crypto",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": 0.5,
+    "pct": 0.6,
     "base": 64597.5,
-    "last": 64922.93,
+    "last": 64957.72,
     "base_date": "2026-08-05",
     "last_date": "2026-08-08"
    }
@@ -2859,23 +2875,6 @@
    "reason": "Trump's majority-owned stock debuts \u2014 pure sentiment play, extremely volatile and headline-driven.",
    "market_reaction": "DJT spiked on debut then stayed volatile, moving heavily on Trump political/legal news.",
    "url": "https://www.nasdaq.com/market-activity/stocks/djt"
-  },
-  {
-   "date": "2021-07-01T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "HARRIS CORPORATION was awarded a $2.1B federal contract from Department of Transportation.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_693KA821F00222_6920_DTFA0102D03006_6920",
-   "tickers": [
-    "HRS"
-   ],
-   "contract_amount": 2.12,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "HRS",
-   "strength": 75,
-   "reason": "Harris Corporation awarded $2.1B federal contract"
   }
  ],
  "how_to_read": "Each card is Claude's read of a public Trump post: the affected ticker, whether it implies BUY / SELL / WATCH, a 0\u2013100 strength (how explicit/emphatic the post is \u2014 NOT a profit predictor), and why. A 2-year backtest found these don't beat buy-and-hold, so this is for awareness, not trading. Not financial advice."
