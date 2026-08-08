@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-08T22:59:42Z",
+ "last_updated": "2026-08-08T23:37:34Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -211,9 +211,9 @@
    "reason": "Trump signals growing bitcoin adoption and crypto clarity legislative progress; bullish sentiment for crypto",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": 0.0,
+    "pct": 0.1,
     "base": 64880.19,
-    "last": 64896.7,
+    "last": 64920.87,
     "base_date": "2026-08-07",
     "last_date": "2026-08-08"
    }
@@ -235,9 +235,9 @@
    "reason": "Trump signals growing bitcoin adoption and crypto clarity; supportive macro environment.",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": 0.0,
+    "pct": 0.1,
     "base": 64880.19,
-    "last": 64896.7,
+    "last": 64920.87,
     "base_date": "2026-08-07",
     "last_date": "2026-08-08"
    }
@@ -2722,30 +2722,6 @@
     "pct": 2.4,
     "base": 729.46,
     "last": 747.03,
-    "base_date": "2026-07-29",
-    "last_date": "2026-07-31"
-   }
-  },
-  {
-   "date": "2026-07-29T20:34:00Z",
-   "platform": "News",
-   "text": "Senators Urge SEC to Investigate Truth Social Plan to Sell Access to Wall Street - Talking Points Memo \u2014 Senators Urge SEC to Investigate Truth Social Plan to Sell Access to Wall Street\u00a0\u00a0Talking Points Memo",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRzZFMFZzWW1mUmIySlZzUmQwRUp2cFZINXVWa3p5MlFGbm45a0JKajRDSmRWM1RIMTh2TkMxVkU3c0pCVE1sel9hd1BkNXVwZWdIaVQyd3l5Sy1FSnloYTdCd1JJMzhQdzdXVVhEbmN3WVlCVFYxQm92bWJZMTJLVHJqMDJLWDhpaEcycjFZanZsdjVzYW9WQTczZXB6WTR5T0FCRjV2WmNUVUhfM1NFQld1VEpjZw?oc=5",
-   "tickers": [
-    "DJT"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "DJT",
-   "strength": 45,
-   "reason": "SEC investigation into Truth Social's Wall Street access plan creates regulatory risk for Trump Media",
-   "price_since": {
-    "ticker": "DJT",
-    "pct": 0.1,
-    "base": 9.85,
-    "last": 9.86,
     "base_date": "2026-07-29",
     "last_date": "2026-07-31"
    }
