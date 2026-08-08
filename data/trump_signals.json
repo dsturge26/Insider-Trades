@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-08T22:28:31Z",
+ "last_updated": "2026-08-08T22:59:42Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -131,6 +131,22 @@
    "reason": "Trump signals support for Palantir but Burry short; conflicting forces, market-relevant but direction ambiguous"
   },
   {
+   "date": "2026-08-07T16:09:36Z",
+   "platform": "News",
+   "text": "BB Stock To $10? Retail Traders Eye New Highs On QNX, Physical AI Boost - Stocktwits \u2014 BB Stock To $10? Retail Traders Eye New Highs On QNX, Physical AI Boost\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQlo3d1dSS0NHNUhSeER4LWR5di1DRFJLU2lsRWcyNlBUR2Q0TUh2MHdRcU1wZllORzVRZTkzZ0FJajRwVlEyVXBBZUZrMi1aR1hpS2dXamlRNkVSUDJXekNFRmF3TUVvVUVweFVmOEVZMUpNb1A3a2ptOHFVYkNnU3VXcWZoR0N1SnloRVpMTXMzSXRWak1rTkhoWFRwUk9iYkJ1NkJEbEstb1Z1S0dJMm5ESVRzbWZqd0FGd2xtNjRrSnRU?oc=5",
+   "tickers": [
+    "BB"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "BB",
+   "strength": 20,
+   "reason": "Retail speculation on BB with QNX/AI angle; no Trump catalyst, speculative momentum only"
+  },
+  {
    "date": "2026-08-07T16:04:59Z",
    "platform": "News",
    "text": "MyPillow CEO Mike Lindell steps down to focus on Minnesota governor's race - Scripps News \u2014 MyPillow CEO Mike Lindell steps down to focus on Minnesota governor's race\u00a0\u00a0Scripps News",
@@ -195,9 +211,9 @@
    "reason": "Trump signals growing bitcoin adoption and crypto clarity legislative progress; bullish sentiment for crypto",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": 0.1,
+    "pct": 0.0,
     "base": 64880.19,
-    "last": 64950.86,
+    "last": 64896.7,
     "base_date": "2026-08-07",
     "last_date": "2026-08-08"
    }
@@ -219,9 +235,9 @@
    "reason": "Trump signals growing bitcoin adoption and crypto clarity; supportive macro environment.",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": 0.1,
+    "pct": 0.0,
     "base": 64880.19,
-    "last": 64950.86,
+    "last": 64896.7,
     "base_date": "2026-08-07",
     "last_date": "2026-08-08"
    }
@@ -2787,23 +2803,6 @@
    "reason": "Trump's majority-owned stock debuts \u2014 pure sentiment play, extremely volatile and headline-driven.",
    "market_reaction": "DJT spiked on debut then stayed volatile, moving heavily on Trump political/legal news.",
    "url": "https://www.nasdaq.com/market-activity/stocks/djt"
-  },
-  {
-   "date": "2021-07-01T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "HARRIS CORPORATION was awarded a $2.1B federal contract from Department of Transportation.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_693KA821F00222_6920_DTFA0102D03006_6920",
-   "tickers": [
-    "HRS"
-   ],
-   "contract_amount": 2.12,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "HRS",
-   "strength": 75,
-   "reason": "Harris Corporation awarded $2.1B federal contract; bullish for defense/aerotech."
   }
  ],
  "how_to_read": "Each card is Claude's read of a public Trump post: the affected ticker, whether it implies BUY / SELL / WATCH, a 0\u2013100 strength (how explicit/emphatic the post is \u2014 NOT a profit predictor), and why. A 2-year backtest found these don't beat buy-and-hold, so this is for awareness, not trading. Not financial advice."
