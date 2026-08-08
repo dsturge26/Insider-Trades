@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-08T17:46:33Z",
+ "last_updated": "2026-08-08T18:36:39Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -49,6 +49,22 @@
    "primary_ticker": "META",
    "strength": 35,
    "reason": "Praise for Meta's AI initiative from Trump adviser suggests positive Trump administration sentiment toward Meta's AI efforts"
+  },
+  {
+   "date": "2026-08-07T16:33:09Z",
+   "platform": "News",
+   "text": "PLTR Stock Faces Split Narrative: Retail Bulls Hold Firm As Burry Sounds Alarm, Trump Signals Support - Stocktwits \u2014 PLTR Stock Faces Split Narrative: Retail Bulls Hold Firm As Burry Sounds Alarm, Trump Signals Support\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSFRDSVNMdHk3NEtMbFEwQ1ZRT2tLY3h1cEFvOTVjb182Qm1QUnVqTlE2dWhzYXZpaXBoN3gyNlg4dWVWY0dldndhRDZoOGE2N2ZSMTgxb1Ayb0RWanA3a0hEeEhKWGtYRENBSGZ0d0wySmlrSWpzM1BmcXZpTUdDOXcwMVl0NXVKYjMyOEFvYmVpYk9uOVRSaWdleVNEQnZkZk1tUE5vRURtNjdubE0wTUhLSFFUbGc3OUs5UVpJQXhVTHdZLTdLTmZDQVkxMUVwd3c?oc=5",
+   "tickers": [
+    "PLTR"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "PLTR",
+   "strength": 35,
+   "reason": "Trump signals support for Palantir but Burry's short creates conflicting narrative; ambiguous direction"
   },
   {
    "date": "2026-08-07T16:04:59Z",
@@ -115,9 +131,9 @@
    "reason": "Trump signals growing bitcoin adoption and crypto clarity legislative progress; bullish sentiment for crypto",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": 0.3,
+    "pct": 0.2,
     "base": 64880.19,
-    "last": 65084.72,
+    "last": 65008.82,
     "base_date": "2026-08-07",
     "last_date": "2026-08-08"
    }
@@ -139,9 +155,9 @@
    "reason": "Trump signals growing bitcoin adoption and crypto clarity; supportive macro environment.",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": 0.3,
+    "pct": 0.2,
     "base": 64880.19,
-    "last": 65084.72,
+    "last": 65008.82,
     "base_date": "2026-08-07",
     "last_date": "2026-08-08"
    }
@@ -573,9 +589,9 @@
    "reason": "Eric Trump bullish call on Bitcoin to $1M; family member crypto advocacy but indirect signal",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": 0.8,
+    "pct": 0.6,
     "base": 64597.5,
-    "last": 65084.72,
+    "last": 65010.16,
     "base_date": "2026-08-05",
     "last_date": "2026-08-08"
    }
@@ -597,9 +613,9 @@
    "reason": "Eric Trump (family proxy) doubles down on $1M Bitcoin call \u2014 strong family bullish signal on crypto",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": 0.8,
+    "pct": 0.6,
     "base": 64597.5,
-    "last": 65084.72,
+    "last": 65010.16,
     "base_date": "2026-08-05",
     "last_date": "2026-08-08"
    }
