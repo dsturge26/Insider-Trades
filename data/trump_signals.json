@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-08T18:36:39Z",
+ "last_updated": "2026-08-08T19:16:24Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -131,9 +131,9 @@
    "reason": "Trump signals growing bitcoin adoption and crypto clarity legislative progress; bullish sentiment for crypto",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": 0.2,
+    "pct": 0.1,
     "base": 64880.19,
-    "last": 65008.82,
+    "last": 64976.46,
     "base_date": "2026-08-07",
     "last_date": "2026-08-08"
    }
@@ -155,9 +155,9 @@
    "reason": "Trump signals growing bitcoin adoption and crypto clarity; supportive macro environment.",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": 0.2,
+    "pct": 0.1,
     "base": 64880.19,
-    "last": 65008.82,
+    "last": 64976.46,
     "base_date": "2026-08-07",
     "last_date": "2026-08-08"
    }
@@ -591,7 +591,7 @@
     "ticker": "BTC-USD",
     "pct": 0.6,
     "base": 64597.5,
-    "last": 65010.16,
+    "last": 64976.46,
     "base_date": "2026-08-05",
     "last_date": "2026-08-08"
    }
@@ -2770,30 +2770,6 @@
     "pct": 2.4,
     "base": 729.46,
     "last": 747.03,
-    "base_date": "2026-07-29",
-    "last_date": "2026-07-31"
-   }
-  },
-  {
-   "date": "2026-07-29T19:33:40Z",
-   "platform": "News",
-   "text": "Trump praises Nvidia CEO Jensen Huang and company\u2019s chips during Oval Office visit - cryptobriefing.com \u2014 Trump praises Nvidia CEO Jensen Huang and company\u2019s chips during Oval Office visit\u00a0\u00a0cryptobriefing.com",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1waGxmd3NHVFBlYjNYWFkxamd0QXUtMDZaN3Znamt2ZEVibjZMSURIQnc2XzJrMTl0aUtGbGVJVDFYTlhuRmc2ZlRsRzFKYzVaSUhoODRkLVRfOFhfVkxQcDlsUERyOUJfMUhIcF9XYkE5MUh3am9Hb2ZB?oc=5",
-   "tickers": [
-    "NVDA"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "NVDA",
-   "strength": 65,
-   "reason": "Trump explicitly praises Nvidia CEO and chips during Oval Office visit; direct positive endorsement",
-   "price_since": {
-    "ticker": "NVDA",
-    "pct": 5.7,
-    "base": 190.01,
-    "last": 200.75,
     "base_date": "2026-07-29",
     "last_date": "2026-07-31"
    }
