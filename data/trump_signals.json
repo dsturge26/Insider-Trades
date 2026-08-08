@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-08T21:45:47Z",
+ "last_updated": "2026-08-08T22:28:31Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -65,6 +65,22 @@
    "primary_ticker": "GBTC",
    "strength": 25,
    "reason": "Eric Trump's Bitcoin holdings commentary is indirect; stock decline driven by BTC price, not Trump signal"
+  },
+  {
+   "date": "2026-08-08T09:01:21Z",
+   "platform": "News",
+   "text": "Eric Trump Says ABTC Has More Bitcoin Than GLXY \u2013 Stock Still Falls Amid Bitcoin\u2019s Decline - stocktwits.com \u2014 Eric Trump Says ABTC Has More Bitcoin Than GLXY \u2013 Stock Still Falls Amid Bitcoin\u2019s Decline\u00a0\u00a0stocktwits.com",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMi1CeXRoc3duaXd4NGxDU1M4aHRJR3ptWTltWjdiY1pJb2xUakZBeFpoZ0NsTm9Kd3hRQW9DOXBiTEgwUWVyaFRFOHgyaEpxOXZHNFZqWGZHOXpFbnBaaEU3TUI4U3laX1JRMjR4ejk0NG5iQTFfVnFBRlhBcnR5MGxIRF9tRUg2LWItQnRYZVF3ejVrQW1SVGNqQXdMVm1YMDlUZUJNSk50V3ZmNHZqOQ?oc=5",
+   "tickers": [
+    "BTC-USD"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "BTC-USD",
+   "strength": 30,
+   "reason": "Eric Trump's Bitcoin holdings commentary; stock falling despite claim shows mixed signal"
   },
   {
    "date": "2026-08-08T07:14:40Z",
@@ -179,9 +195,9 @@
    "reason": "Trump signals growing bitcoin adoption and crypto clarity legislative progress; bullish sentiment for crypto",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": 0.2,
+    "pct": 0.1,
     "base": 64880.19,
-    "last": 64989.88,
+    "last": 64950.86,
     "base_date": "2026-08-07",
     "last_date": "2026-08-08"
    }
@@ -203,9 +219,9 @@
    "reason": "Trump signals growing bitcoin adoption and crypto clarity; supportive macro environment.",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": 0.2,
+    "pct": 0.1,
     "base": 64880.19,
-    "last": 64989.88,
+    "last": 64950.86,
     "base_date": "2026-08-07",
     "last_date": "2026-08-08"
    }
