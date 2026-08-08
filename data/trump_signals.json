@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-08T19:16:24Z",
+ "last_updated": "2026-08-08T19:54:12Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -33,6 +33,22 @@
    "primary_ticker": "XLE",
    "strength": 40,
    "reason": "Trump praises $3B mineral investment to counter China; bullish on domestic mining/energy sector capacity"
+  },
+  {
+   "date": "2026-08-08T09:01:21Z",
+   "platform": "News",
+   "text": "Eric Trump Says ABTC Has More Bitcoin Than GLXY \u2013 Stock Still Falls Amid Bitcoin\u2019s Decline - Stocktwits \u2014 Eric Trump Says ABTC Has More Bitcoin Than GLXY \u2013 Stock Still Falls Amid Bitcoin\u2019s Decline\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMi1CeXRoc3duaXd4NGxDU1M4aHRJR3ptWTltWjdiY1pJb2xUakZBeFpoZ0NsTm9Kd3hRQW9DOXBiTEgwUWVyaFRFOHgyaEpxOXZHNFZqWGZHOXpFbnBaaEU3TUI4U3laX1JRMjR4ejk0NG5iQTFfVnFBRlhBcnR5MGxIRF9tRUg2LWItQnRYZVF3ejVrQW1SVGNqQXdMVm1YMDlUZUJNSk50V3ZmNHZqOQ?oc=5",
+   "tickers": [
+    "GBTC"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "GBTC",
+   "strength": 25,
+   "reason": "Eric Trump's Bitcoin holdings commentary is indirect; stock decline driven by BTC price, not Trump signal"
   },
   {
    "date": "2026-08-08T07:14:40Z",
@@ -131,9 +147,9 @@
    "reason": "Trump signals growing bitcoin adoption and crypto clarity legislative progress; bullish sentiment for crypto",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": 0.1,
+    "pct": 0.2,
     "base": 64880.19,
-    "last": 64976.46,
+    "last": 65019.24,
     "base_date": "2026-08-07",
     "last_date": "2026-08-08"
    }
@@ -155,9 +171,9 @@
    "reason": "Trump signals growing bitcoin adoption and crypto clarity; supportive macro environment.",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": 0.1,
+    "pct": 0.2,
     "base": 64880.19,
-    "last": 64976.46,
+    "last": 65019.24,
     "base_date": "2026-08-07",
     "last_date": "2026-08-08"
    }
@@ -589,9 +605,9 @@
    "reason": "Eric Trump bullish call on Bitcoin to $1M; family member crypto advocacy but indirect signal",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": 0.6,
+    "pct": 0.7,
     "base": 64597.5,
-    "last": 64976.46,
+    "last": 65018.84,
     "base_date": "2026-08-05",
     "last_date": "2026-08-08"
    }
