@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-08-09T12:50:06Z",
+ "last_updated": "2026-08-09T13:49:37Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-08-08T12:09:26Z",
+   "platform": "News",
+   "text": "DELL Stock Spikes To Record Highs On President Trump\u2019s Endorsement - Stocktwits \u2014 DELL Stock Spikes To Record Highs On President Trump\u2019s Endorsement\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYWF1OUgweFU0d1NlNU4ya1FYQVJSVTRCX3IwM0NMd19VVmN5RzNtUmc1c2FhTU9abXdnTmVnMDE2QUxna3ZrUEF3Zkd0SFUtOWx3QkF2elBuNkNTcmZDRm1BRUkwMVRwYU0xaUVsWDZLSk0yeEtiMFFPV0t3ZXZ3OW15QUg5V0xHNnRrU1J5VXdvX09Oa0ZmRmJvV0VTVlFRRFh6c3E5RmtHckx0MXpNVVZTWmJpLTUtUXBHSG5pWEFfQll0ejRneDFB?oc=5",
+   "tickers": [
+    "DELL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "DELL",
+   "strength": 85,
+   "reason": "Trump explicitly endorses Dell, stock spikes on direct praise"
+  },
   {
    "date": "2026-08-08T10:35:33Z",
    "platform": "News",
@@ -99,9 +115,9 @@
    "reason": "Eric Trump's Bitcoin holdings commentary; stock falling despite claim shows mixed signal",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": -0.0,
+    "pct": 0.4,
     "base": 64904.69,
-    "last": 64893.96,
+    "last": 65171.54,
     "base_date": "2026-08-08",
     "last_date": "2026-08-09"
    }
@@ -187,9 +203,9 @@
    "reason": "Eric Trump explicitly bullish on Bitcoin at $1M target; strong crypto endorsement signal.",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": 0.0,
+    "pct": 0.4,
     "base": 64880.19,
-    "last": 64893.96,
+    "last": 65171.54,
     "base_date": "2026-08-07",
     "last_date": "2026-08-09"
    }
@@ -211,9 +227,9 @@
    "reason": "Eric Trump bullish Bitcoin call ($1M target); family crypto advocacy signals support",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": 0.0,
+    "pct": 0.4,
     "base": 64880.19,
-    "last": 64893.96,
+    "last": 65171.54,
     "base_date": "2026-08-07",
     "last_date": "2026-08-09"
    }
@@ -315,9 +331,9 @@
    "reason": "Trump signals growing bitcoin adoption and crypto clarity legislative progress; bullish sentiment for crypto",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": 0.0,
+    "pct": 0.4,
     "base": 64880.19,
-    "last": 64893.96,
+    "last": 65171.54,
     "base_date": "2026-08-07",
     "last_date": "2026-08-09"
    }
@@ -339,9 +355,9 @@
    "reason": "Trump signals growing bitcoin adoption and crypto clarity; supportive macro environment.",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": 0.0,
+    "pct": 0.4,
     "base": 64880.19,
-    "last": 64893.96,
+    "last": 65171.54,
     "base_date": "2026-08-07",
     "last_date": "2026-08-09"
    }
@@ -667,30 +683,6 @@
    "primary_ticker": "DELL",
    "strength": 75,
    "reason": "Trump explicitly endorses Dell; direct bullish signal drives stock to record highs.",
-   "price_since": {
-    "ticker": "DELL",
-    "pct": -1.9,
-    "base": 462.7,
-    "last": 453.77,
-    "base_date": "2026-08-05",
-    "last_date": "2026-08-07"
-   }
-  },
-  {
-   "date": "2026-08-05T20:27:16Z",
-   "platform": "News",
-   "text": "DELL Stock Spikes To Record Highs On President Trump\u2019s Endorsement - Stocktwits \u2014 DELL Stock Spikes To Record Highs On President Trump\u2019s Endorsement\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYWF1OUgweFU0d1NlNU4ya1FYQVJSVTRCX3IwM0NMd19VVmN5RzNtUmc1c2FhTU9abXdnTmVnMDE2QUxna3ZrUEF3Zkd0SFUtOWx3QkF2elBuNkNTcmZDRm1BRUkwMVRwYU0xaUVsWDZLSk0yeEtiMFFPV0t3ZXZ3OW15QUg5V0xHNnRrU1J5VXdvX09Oa0ZmRmJvV0VTVlFRRFh6c3E5RmtHckx0MXpNVVZTWmJpLTUtUXBHSG5pWEFfQll0ejRneDFB?oc=5",
-   "tickers": [
-    "DELL"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "DELL",
-   "strength": 75,
-   "reason": "Trump explicitly endorses Dell; direct named company praise drives stock up",
    "price_since": {
     "ticker": "DELL",
     "pct": -1.9,
