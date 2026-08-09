@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-09T06:08:06Z",
+ "last_updated": "2026-08-09T07:16:08Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -96,7 +96,15 @@
    "direction": "WATCH",
    "primary_ticker": "BTC-USD",
    "strength": 30,
-   "reason": "Eric Trump's Bitcoin holdings commentary; stock falling despite claim shows mixed signal"
+   "reason": "Eric Trump's Bitcoin holdings commentary; stock falling despite claim shows mixed signal",
+   "price_since": {
+    "ticker": "BTC-USD",
+    "pct": -0.2,
+    "base": 64904.69,
+    "last": 64797.05,
+    "base_date": "2026-08-08",
+    "last_date": "2026-08-09"
+   }
   },
   {
    "date": "2026-08-08T07:14:40Z",
@@ -115,6 +123,38 @@
    "reason": "Praise for Meta's AI initiative from Trump adviser suggests positive Trump administration sentiment toward Meta's AI efforts"
   },
   {
+   "date": "2026-08-08T06:07:01Z",
+   "platform": "News",
+   "text": "PLTR Stock Faces Split Narrative: Retail Bulls Hold Firm As Burry Sounds Alarm, Trump Signals Support - Stocktwits \u2014 PLTR Stock Faces Split Narrative: Retail Bulls Hold Firm As Burry Sounds Alarm, Trump Signals Support\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSFRDSVNMdHk3NEtMbFEwQ1ZRT2tLY3h1cEFvOTVjb182Qm1QUnVqTlE2dWhzYXZpaXBoN3gyNlg4dWVWY0dldndhRDZoOGE2N2ZSMTgxb1Ayb0RWanA3a0hEeEhKWGtYRENBSGZ0d0wySmlrSWpzM1BmcXZpTUdDOXcwMVl0NXVKYjMyOEFvYmVpYk9uOVRSaWdleVNEQnZkZk1tUE5vRURtNjdubE0wTUhLSFFUbGc3OUs5UVpJQXhVTHdZLTdLTmZDQVkxMUVwd3c?oc=5",
+   "tickers": [
+    "PLTR"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "PLTR",
+   "strength": 40,
+   "reason": "Trump signals support for Palantir; bullish signal but not explicit direct call"
+  },
+  {
+   "date": "2026-08-08T06:05:43Z",
+   "platform": "News",
+   "text": "IBRX Stock Rallies Into Trump\u2019s Big SOTU Night \u2014 Here\u2019s What Traders Think Could Fuel The Next Move - Stocktwits \u2014 IBRX Stock Rallies Into Trump\u2019s Big SOTU Night \u2014 Here\u2019s What Traders Think Could Fuel The Next Move\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWFdFall2YVNMN3Rialp3SE9sU0h6YUQ1MDFiX2JaeXMxNlFFZUZveFU0TkVxUFI4cTQ5bW5VdkFlTDd1dFNwSUN2YTRtRl83aVRRXzZ6d09TeEhlR1NJb1JaMHlMWDhrQXpmZW40c1B1Y21KNjhxdm90Ny1uU3p4MzJZSW9GNGduMEdyRzFIU2RGLWlYWXg4TFJUU0N6ZlhFemxtUmprVXY0YkVRZk5vZHljazQ?oc=5",
+   "tickers": [
+    "IBRX"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "IBRX",
+   "strength": 20,
+   "reason": "Stock rally tied to State of Union event; unclear if Trump mentioned IBRX specifically"
+  },
+  {
    "date": "2026-08-07T19:50:05Z",
    "platform": "News",
    "text": "Eric Trump Doubles Down On $1 Million Bitcoin Call \u2013 Says Crypto Is \u2018On The One-Yard Line\u2019 - Stocktwits \u2014 Eric Trump Doubles Down On $1 Million Bitcoin Call \u2013 Says Crypto Is \u2018On The One-Yard Line\u2019\u00a0\u00a0Stocktwits",
@@ -131,28 +171,12 @@
    "reason": "Eric Trump explicitly bullish on Bitcoin at $1M target; strong crypto endorsement signal.",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": -0.2,
+    "pct": -0.1,
     "base": 64880.19,
-    "last": 64752.01,
+    "last": 64797.05,
     "base_date": "2026-08-07",
     "last_date": "2026-08-09"
    }
-  },
-  {
-   "date": "2026-08-07T16:33:09Z",
-   "platform": "News",
-   "text": "PLTR Stock Faces Split Narrative: Retail Bulls Hold Firm As Burry Sounds Alarm, Trump Signals Support - Stocktwits \u2014 PLTR Stock Faces Split Narrative: Retail Bulls Hold Firm As Burry Sounds Alarm, Trump Signals Support\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSFRDSVNMdHk3NEtMbFEwQ1ZRT2tLY3h1cEFvOTVjb182Qm1QUnVqTlE2dWhzYXZpaXBoN3gyNlg4dWVWY0dldndhRDZoOGE2N2ZSMTgxb1Ayb0RWanA3a0hEeEhKWGtYRENBSGZ0d0wySmlrSWpzM1BmcXZpTUdDOXcwMVl0NXVKYjMyOEFvYmVpYk9uOVRSaWdleVNEQnZkZk1tUE5vRURtNjdubE0wTUhLSFFUbGc3OUs5UVpJQXhVTHdZLTdLTmZDQVkxMUVwd3c?oc=5",
-   "tickers": [
-    "PLTR"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "PLTR",
-   "strength": 35,
-   "reason": "Trump signals support for Palantir but Burry's short creates conflicting narrative; ambiguous direction"
   },
   {
    "date": "2026-08-07T16:33:09Z",
@@ -235,6 +259,22 @@
    "reason": "Trump reportedly holds space stock positions; bullish sentiment inferred but not explicit"
   },
   {
+   "date": "2026-08-07T15:02:00Z",
+   "platform": "News",
+   "text": "Freedom Fuel, praised by Trump, sells cheap gasoline. But how? - The Detroit News \u2014 Freedom Fuel, praised by Trump, sells cheap gasoline. But how?\u00a0\u00a0The Detroit News",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQU3h5WktoWEI5RENMSTMzQnoxNDBLTm9yNzgzczVxMWd6UjA0blRaU1BiTDRWeTN0TnNQUVNDYi1SNFF1cGhJWTN0U21wOENWamhpSnFyOG9aellodHp3ZUEta0Jma0pYSUR0MV9fZlFOLTlDQVJRakltTUs0NC1jVmhnN3lXUncyX3duSVBid2lCeTEycTNTSVpLaWx3NWlfOXZfNEFnOUpod25MdkFvT01lLTJMUzg0a2ozWUJTd0xTRGc?oc=5",
+   "tickers": [
+    "XLE"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "XLE",
+   "strength": 30,
+   "reason": "Trump praise for fuel company; energy/drilling bullish, but private company unclear"
+  },
+  {
    "date": "2026-08-07T15:01:20Z",
    "platform": "News",
    "text": "Crucial Vote On Crypto Clarity Act Delayed Until September, Trump Says More People Are Paying in Bitcoin: Reports - Bitcoin Magazine \u2014 Crucial Vote On Crypto Clarity Act Delayed Until September, Trump Says More People Are Paying in Bitcoin: Reports\u00a0\u00a0Bitcoin Magazine",
@@ -251,9 +291,9 @@
    "reason": "Trump signals growing bitcoin adoption and crypto clarity legislative progress; bullish sentiment for crypto",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": -0.2,
+    "pct": -0.1,
     "base": 64880.19,
-    "last": 64752.01,
+    "last": 64797.05,
     "base_date": "2026-08-07",
     "last_date": "2026-08-09"
    }
@@ -275,9 +315,9 @@
    "reason": "Trump signals growing bitcoin adoption and crypto clarity; supportive macro environment.",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": -0.2,
+    "pct": -0.1,
     "base": 64880.19,
-    "last": 64752.01,
+    "last": 64797.05,
     "base_date": "2026-08-07",
     "last_date": "2026-08-09"
    }
@@ -393,6 +433,22 @@
    "primary_ticker": "INTC",
    "strength": 60,
    "reason": "Trump administration support for Intel semiconductor foundry/subsidies; tailwind for chip sector leadership"
+  },
+  {
+   "date": "2026-08-07T04:24:19Z",
+   "platform": "News",
+   "text": "NOW Stock Rises Overnight: Trump\u2019s ServiceNow Stake Fuels Retail Buzz Around SAAS Comeback - Stocktwits \u2014 NOW Stock Rises Overnight: Trump\u2019s ServiceNow Stake Fuels Retail Buzz Around SAAS Comeback\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQcEF0OFRRa3hIWF9rS21NMTBqNk53MDA4eWFQcDJad1Z2QkQyTTdmd3prLUVaVUUwdVRSWWpCOGs3N3JaYTZCcG1KMjg1c1Q0WWdjSnlWbHkteXVxcnFoUXFZMEg4ejh0YjA4ZG5BRnBEX1huMFNaS0dXdEx4LWNEOXBLcmNpMzlCQzc1OC0yRDFKeWFMWEZzWUpNQXBWTFFDQlJ6dmFWamU5cUpFZnVfcU1ocFdTa0tfdjByTlZZUHo4QUx1QzJOMHpzZEdaZjdqSVhoWFB0cVRKZW9BbnNLMi1XYUF2MlhaZGc?oc=5",
+   "tickers": [
+    "NOW"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "NOW",
+   "strength": 45,
+   "reason": "Trump stake in ServiceNow reported; ownership signal bullish for NOW stock"
   },
   {
    "date": "2026-08-07T03:51:33Z",
@@ -709,30 +765,6 @@
    }
   },
   {
-   "date": "2026-08-05T15:37:11Z",
-   "platform": "News",
-   "text": "IBRX Stock Rallies Into Trump\u2019s Big SOTU Night \u2014 Here\u2019s What Traders Think Could Fuel The Next Move - Stocktwits \u2014 IBRX Stock Rallies Into Trump\u2019s Big SOTU Night \u2014 Here\u2019s What Traders Think Could Fuel The Next Move\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWFdFall2YVNMN3Rialp3SE9sU0h6YUQ1MDFiX2JaeXMxNlFFZUZveFU0TkVxUFI4cTQ5bW5VdkFlTDd1dFNwSUN2YTRtRl83aVRRXzZ6d09TeEhlR1NJb1JaMHlMWDhrQXpmZW40c1B1Y21KNjhxdm90Ny1uU3p4MzJZSW9GNGduMEdyRzFIU2RGLWlYWXg4TFJUU0N6ZlhFemxtUmprVXY0YkVRZk5vZHljazQ?oc=5",
-   "tickers": [
-    "IBRX"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "IBRX",
-   "strength": 35,
-   "reason": "Stock rally tied to SOTU event; direction unclear without content.",
-   "price_since": {
-    "ticker": "IBRX",
-    "pct": 5.4,
-    "base": 7.25,
-    "last": 7.64,
-    "base_date": "2026-08-05",
-    "last_date": "2026-08-07"
-   }
-  },
-  {
    "date": "2026-08-05T14:02:12Z",
    "platform": "News",
    "text": "Raskin Launches Probe of Scheme to Sell Insider Access to Trump Truth Social Posts - Alaska Native News \u2014 Raskin Launches Probe of Scheme to Sell Insider Access to Trump Truth Social Posts\u00a0\u00a0Alaska Native News",
@@ -835,30 +867,6 @@
    "primary_ticker": "SCPH",
    "strength": 60,
    "reason": "Trump explicitly plugs lawn firm (ScapeWorx) to customers; direct endorsement"
-  },
-  {
-   "date": "2026-08-05T09:20:23Z",
-   "platform": "News",
-   "text": "NOW Stock Rises Overnight: Trump\u2019s ServiceNow Stake Fuels Retail Buzz Around SAAS Comeback - Stocktwits \u2014 NOW Stock Rises Overnight: Trump\u2019s ServiceNow Stake Fuels Retail Buzz Around SAAS Comeback\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQcEF0OFRRa3hIWF9rS21NMTBqNk53MDA4eWFQcDJad1Z2QkQyTTdmd3prLUVaVUUwdVRSWWpCOGs3N3JaYTZCcG1KMjg1c1Q0WWdjSnlWbHkteXVxcnFoUXFZMEg4ejh0YjA4ZG5BRnBEX1huMFNaS0dXdEx4LWNEOXBLcmNpMzlCQzc1OC0yRDFKeWFMWEZzWUpNQXBWTFFDQlJ6dmFWamU5cUpFZnVfcU1ocFdTa0tfdjByTlZZUHo4QUx1QzJOMHpzZEdaZjdqSVhoWFB0cVRKZW9BbnNLMi1XYUF2MlhaZGc?oc=5",
-   "tickers": [
-    "NOW"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "NOW",
-   "strength": 55,
-   "reason": "Trump stake in ServiceNow disclosed; bullish implied endorsement by Trump investment",
-   "price_since": {
-    "ticker": "NOW",
-    "pct": 6.5,
-    "base": 117.22,
-    "last": 124.88,
-    "base_date": "2026-08-05",
-    "last_date": "2026-08-07"
-   }
   },
   {
    "date": "2026-08-05T09:20:23Z",
