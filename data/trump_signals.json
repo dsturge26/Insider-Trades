@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-09T00:03:06Z",
+ "last_updated": "2026-08-09T02:28:36Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -227,9 +227,9 @@
    "reason": "Trump signals growing bitcoin adoption and crypto clarity legislative progress; bullish sentiment for crypto",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": 0.0,
+    "pct": -0.1,
     "base": 64880.19,
-    "last": 64907.1,
+    "last": 64793.45,
     "base_date": "2026-08-07",
     "last_date": "2026-08-09"
    }
@@ -251,9 +251,9 @@
    "reason": "Trump signals growing bitcoin adoption and crypto clarity; supportive macro environment.",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": 0.0,
+    "pct": -0.1,
     "base": 64880.19,
-    "last": 64907.1,
+    "last": 64793.45,
     "base_date": "2026-08-07",
     "last_date": "2026-08-09"
    }
@@ -2709,30 +2709,6 @@
    "primary_ticker": "SPY",
    "strength": 45,
    "reason": "Trump criticizes Supreme Court tariff rulings as costly; implies trade policy disappointment affecting broad market sentiment",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": 2.4,
-    "base": 729.46,
-    "last": 747.03,
-    "base_date": "2026-07-29",
-    "last_date": "2026-07-31"
-   }
-  },
-  {
-   "date": "2026-07-29T20:47:00Z",
-   "platform": "News",
-   "text": "Oil prices jump, while the Dow drops more than 1,100 as sinking AI stocks drag Wall Street lower - apnews.com \u2014 Oil prices jump, while the Dow drops more than 1,100 as sinking AI stocks drag Wall Street lower\u00a0\u00a0apnews.com",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVVhqMlRBNU0taHdVcUdHUUE3eDFsZEFQbTZ6dElnTEtMOGVSb1ktYlhpbmJHMm9NY2xRc1lQRWRXcGZ2N0NUNm9FSWV1ZkQ2MjAtaE5WWkwxeHFDMmxxX3I4MHNDNmduRnZ4ODNzNUtSZ2hyZEh3NVBtMmthTHA5UDRzcTBXOWJYNS0yVHlUM0loVXE5VThkeg?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "SPY",
-   "strength": 40,
-   "reason": "Broad market sell-off with AI weakness; macro sentiment negative but no Trump-specific driver stated",
    "price_since": {
     "ticker": "SPY",
     "pct": 2.4,
