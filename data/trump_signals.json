@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-09T04:01:26Z",
+ "last_updated": "2026-08-09T05:18:16Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -113,6 +113,30 @@
    "primary_ticker": "META",
    "strength": 35,
    "reason": "Praise for Meta's AI initiative from Trump adviser suggests positive Trump administration sentiment toward Meta's AI efforts"
+  },
+  {
+   "date": "2026-08-07T19:50:05Z",
+   "platform": "News",
+   "text": "Eric Trump Doubles Down On $1 Million Bitcoin Call \u2013 Says Crypto Is \u2018On The One-Yard Line\u2019 - Stocktwits \u2014 Eric Trump Doubles Down On $1 Million Bitcoin Call \u2013 Says Crypto Is \u2018On The One-Yard Line\u2019\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNX1pmRkZXRjdiRW5hMjBIczJUNUJIdGF6aldVWUh5a3NyTXlfM2RqczdicF96cDk3T1hqNmpNLWp5QXBJT0JkcWpJU0VzWXpUVWFFRkVEWlN6LTBCLUFkSGswd3BkRGZNWDZBa1pwdUtwTWpwUVlONEF6Ny1pMHpReUtsa2VNenVURDltcjRQcmFNWU1xT1RWOWMtdGdGenJ6Q0R6UnVSTS1qZlhkb1NsUHFxYTV2OW5wWjJVdmpLWkxFa3BaN1JSenpEX2o5VUFCSnFXT0FfM1B5alJNQ3c?oc=5",
+   "tickers": [
+    "BTC-USD"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "BTC-USD",
+   "strength": 70,
+   "reason": "Eric Trump explicitly bullish on Bitcoin at $1M target; strong crypto endorsement signal.",
+   "price_since": {
+    "ticker": "BTC-USD",
+    "pct": -0.2,
+    "base": 64880.19,
+    "last": 64733.98,
+    "base_date": "2026-08-07",
+    "last_date": "2026-08-09"
+   }
   },
   {
    "date": "2026-08-07T16:33:09Z",
@@ -229,7 +253,7 @@
     "ticker": "BTC-USD",
     "pct": -0.2,
     "base": 64880.19,
-    "last": 64734.96,
+    "last": 64733.98,
     "base_date": "2026-08-07",
     "last_date": "2026-08-09"
    }
@@ -253,7 +277,7 @@
     "ticker": "BTC-USD",
     "pct": -0.2,
     "base": 64880.19,
-    "last": 64734.96,
+    "last": 64733.98,
     "base_date": "2026-08-07",
     "last_date": "2026-08-09"
    }
@@ -663,30 +687,6 @@
   {
    "date": "2026-08-05T15:37:49Z",
    "platform": "News",
-   "text": "Eric Trump Doubles Down On $1 Million Bitcoin Call \u2013 Says Crypto Is \u2018On The One-Yard Line\u2019 - Stocktwits \u2014 Eric Trump Doubles Down On $1 Million Bitcoin Call \u2013 Says Crypto Is \u2018On The One-Yard Line\u2019\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNX1pmRkZXRjdiRW5hMjBIczJUNUJIdGF6aldVWUh5a3NyTXlfM2RqczdicF96cDk3T1hqNmpNLWp5QXBJT0JkcWpJU0VzWXpUVWFFRkVEWlN6LTBCLUFkSGswd3BkRGZNWDZBa1pwdUtwTWpwUVlONEF6Ny1pMHpReUtsa2VNenVURDltcjRQcmFNWU1xT1RWOWMtdGdGenJ6Q0R6UnVSTS1qZlhkb1NsUHFxYTV2OW5wWjJVdmpLWkxFa3BaN1JSenpEX2o5VUFCSnFXT0FfM1B5alJNQ3c?oc=5",
-   "tickers": [
-    "BTC-USD"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "BTC-USD",
-   "strength": 40,
-   "reason": "Eric Trump bullish call on Bitcoin to $1M; family member crypto advocacy but indirect signal",
-   "price_since": {
-    "ticker": "BTC-USD",
-    "pct": 0.7,
-    "base": 64597.5,
-    "last": 65018.84,
-    "base_date": "2026-08-05",
-    "last_date": "2026-08-08"
-   }
-  },
-  {
-   "date": "2026-08-05T15:37:49Z",
-   "platform": "News",
    "text": "Eric Trump Doubles Down On $1 Million Bitcoin Call \u2013 Says Crypto Is \u2018On The One-Yard Line\u2019 - stocktwits.com \u2014 Eric Trump Doubles Down On $1 Million Bitcoin Call \u2013 Says Crypto Is \u2018On The One-Yard Line\u2019\u00a0\u00a0stocktwits.com",
    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNX1pmRkZXRjdiRW5hMjBIczJUNUJIdGF6aldVWUh5a3NyTXlfM2RqczdicF96cDk3T1hqNmpNLWp5QXBJT0JkcWpJU0VzWXpUVWFFRkVEWlN6LTBCLUFkSGswd3BkRGZNWDZBa1pwdUtwTWpwUVlONEF6Ny1pMHpReUtsa2VNenVURDltcjRQcmFNWU1xT1RWOWMtdGdGenJ6Q0R6UnVSTS1qZlhkb1NsUHFxYTV2OW5wWjJVdmpLWkxFa3BaN1JSenpEX2o5VUFCSnFXT0FfM1B5alJNQ3c?oc=5",
    "tickers": [
@@ -779,6 +779,22 @@
     "base_date": "2026-08-05",
     "last_date": "2026-08-07"
    }
+  },
+  {
+   "date": "2026-08-05T12:08:56Z",
+   "platform": "News",
+   "text": "REPL, QURE, MRNA Soar On Reports Trump Will Fire FDA\u2019s Marty Makary - Stocktwits \u2014 REPL, QURE, MRNA Soar On Reports Trump Will Fire FDA\u2019s Marty Makary\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPU3Z0Z1R6VlBrbUhjMmZMNmVXdXBXQW5TTUtIelRzbmMtS0kzSjdQTWFJRGV4TTFuVWE0QmxTTGpPc1NWdVdWQjl2bmVPTGNXY180NXltOWlqM3pPd1JDTmVORU5Kemc4Wk1IRWMtUE1UbVlQV1VndWx2cGhwSmxUWmw1Y3htZWVGQ1RxUEY3bVh4Y0lIcW1oVF9TMWgyUmNUY1JQajF4NGdCZHUzNEFDbnAtWTUzRmlpcHNYZk4tb0l6b2pDbFE?oc=5",
+   "tickers": [
+    "SMH"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "SMH",
+   "strength": 65,
+   "reason": "Reports of FDA leadership change suggests deregulation of medical/biotech; bullish for biopharma and medical device sectors."
   },
   {
    "date": "2026-08-05T12:07:00Z",
