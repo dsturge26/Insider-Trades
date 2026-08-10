@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-10T19:42:26Z",
+ "last_updated": "2026-08-10T20:24:47Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -147,6 +147,22 @@
    "reason": "Trump administration awards $1B quantum grant to IBM; direct federal contract to named public company"
   },
   {
+   "date": "2026-08-08T18:01:16Z",
+   "platform": "News",
+   "text": "BB Stock To $10? Retail Traders Eye New Highs On QNX, Physical AI Boost - Stocktwits \u2014 BB Stock To $10? Retail Traders Eye New Highs On QNX, Physical AI Boost\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQlo3d1dSS0NHNUhSeER4LWR5di1DRFJLU2lsRWcyNlBUR2Q0TUh2MHdRcU1wZllORzVRZTkzZ0FJajRwVlEyVXBBZUZrMi1aR1hpS2dXamlRNkVSUDJXekNFRmF3TUVvVUVweFVmOEVZMUpNb1A3a2ptOHFVYkNnU3VXcWZoR0N1SnloRVpMTXMzSXRWak1rTkhoWFRwUk9iYkJ1NkJEbEstb1Z1S0dJMm5ESVRzbWZqd0FGd2xtNjRrSnRU?oc=5",
+   "tickers": [
+    "BB"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "BB",
+   "strength": 35,
+   "reason": "Retail speculation on QNX/AI uplift loosely linked to Trump narrative; ambiguous direction"
+  },
+  {
    "date": "2026-08-08T13:29:30Z",
    "platform": "News",
    "text": "Michael Burry says it\u2019s 'Trump's market' where price doesn't matter - Seeking Alpha \u2014 Michael Burry says it\u2019s 'Trump's market' where price doesn't matter\u00a0\u00a0Seeking Alpha",
@@ -291,9 +307,9 @@
    "reason": "Eric Trump's Bitcoin holdings commentary; stock falling despite claim shows mixed signal",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": -1.6,
+    "pct": -1.4,
     "base": 64904.69,
-    "last": 63866.41,
+    "last": 64026.93,
     "base_date": "2026-08-08",
     "last_date": "2026-08-10"
    }
@@ -427,9 +443,9 @@
    "reason": "Trump holds stake in ServiceNow, direct ownership creates bullish signal for named company",
    "price_since": {
     "ticker": "NOW",
-    "pct": 1.8,
+    "pct": 2.0,
     "base": 124.88,
-    "last": 127.17,
+    "last": 127.44,
     "base_date": "2026-08-07",
     "last_date": "2026-08-10"
    }
@@ -451,9 +467,9 @@
    "reason": "Trump holds stake in ServiceNow; disclosure of Trump ownership fuels bullish retail interest.",
    "price_since": {
     "ticker": "NOW",
-    "pct": 1.8,
+    "pct": 2.0,
     "base": 124.88,
-    "last": 127.17,
+    "last": 127.44,
     "base_date": "2026-08-07",
     "last_date": "2026-08-10"
    }
@@ -477,7 +493,7 @@
     "ticker": "IBM",
     "pct": -0.4,
     "base": 237.28,
-    "last": 236.27,
+    "last": 236.31,
     "base_date": "2026-08-07",
     "last_date": "2026-08-10"
    }
@@ -501,7 +517,7 @@
     "ticker": "IBM",
     "pct": -0.4,
     "base": 237.28,
-    "last": 236.27,
+    "last": 236.31,
     "base_date": "2026-08-07",
     "last_date": "2026-08-10"
    }
@@ -523,9 +539,9 @@
    "reason": "Eric Trump explicitly bullish on Bitcoin at $1M target; strong crypto endorsement signal.",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": -1.6,
+    "pct": -1.3,
     "base": 64880.19,
-    "last": 63866.41,
+    "last": 64028.5,
     "base_date": "2026-08-07",
     "last_date": "2026-08-10"
    }
@@ -547,33 +563,9 @@
    "reason": "Eric Trump bullish Bitcoin call ($1M target); family crypto advocacy signals support",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": -1.6,
+    "pct": -1.3,
     "base": 64880.19,
-    "last": 63866.41,
-    "base_date": "2026-08-07",
-    "last_date": "2026-08-10"
-   }
-  },
-  {
-   "date": "2026-08-07T19:30:42Z",
-   "platform": "News",
-   "text": "BB Stock To $10? Retail Traders Eye New Highs On QNX, Physical AI Boost - Stocktwits \u2014 BB Stock To $10? Retail Traders Eye New Highs On QNX, Physical AI Boost\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQlo3d1dSS0NHNUhSeER4LWR5di1DRFJLU2lsRWcyNlBUR2Q0TUh2MHdRcU1wZllORzVRZTkzZ0FJajRwVlEyVXBBZUZrMi1aR1hpS2dXamlRNkVSUDJXekNFRmF3TUVvVUVweFVmOEVZMUpNb1A3a2ptOHFVYkNnU3VXcWZoR0N1SnloRVpMTXMzSXRWak1rTkhoWFRwUk9iYkJ1NkJEbEstb1Z1S0dJMm5ESVRzbWZqd0FGd2xtNjRrSnRU?oc=5",
-   "tickers": [
-    "BB"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "BB",
-   "strength": 45,
-   "reason": "Retail speculation on BlackBerry QNX and AI; no Trump signal, speculative momentum only",
-   "price_since": {
-    "ticker": "BB",
-    "pct": 0.1,
-    "base": 8.98,
-    "last": 8.99,
+    "last": 64028.5,
     "base_date": "2026-08-07",
     "last_date": "2026-08-10"
    }
