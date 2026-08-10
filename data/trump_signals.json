@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-10T14:44:42Z",
+ "last_updated": "2026-08-10T15:43:08Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -275,9 +275,9 @@
    "reason": "Eric Trump's Bitcoin holdings commentary; stock falling despite claim shows mixed signal",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": -0.2,
+    "pct": -1.0,
     "base": 64904.69,
-    "last": 64773.24,
+    "last": 64267.3,
     "base_date": "2026-08-08",
     "last_date": "2026-08-10"
    }
@@ -411,9 +411,9 @@
    "reason": "Trump holds stake in ServiceNow, direct ownership creates bullish signal for named company",
    "price_since": {
     "ticker": "NOW",
-    "pct": 0.7,
+    "pct": 1.6,
     "base": 124.88,
-    "last": 125.79,
+    "last": 126.82,
     "base_date": "2026-08-07",
     "last_date": "2026-08-10"
    }
@@ -435,9 +435,9 @@
    "reason": "Trump holds stake in ServiceNow; disclosure of Trump ownership fuels bullish retail interest.",
    "price_since": {
     "ticker": "NOW",
-    "pct": 0.7,
+    "pct": 1.6,
     "base": 124.88,
-    "last": 125.79,
+    "last": 126.82,
     "base_date": "2026-08-07",
     "last_date": "2026-08-10"
    }
@@ -459,9 +459,9 @@
    "reason": "IBM stock surging on Trump administration quantum grant; continuation of federal contract bullish signal.",
    "price_since": {
     "ticker": "IBM",
-    "pct": 0.7,
+    "pct": 0.2,
     "base": 237.28,
-    "last": 238.86,
+    "last": 237.68,
     "base_date": "2026-08-07",
     "last_date": "2026-08-10"
    }
@@ -483,9 +483,9 @@
    "reason": "IBM overnight surge likely tied to Trump administration quantum grant; institutional bullish move",
    "price_since": {
     "ticker": "IBM",
-    "pct": 0.7,
+    "pct": 0.2,
     "base": 237.28,
-    "last": 238.86,
+    "last": 237.68,
     "base_date": "2026-08-07",
     "last_date": "2026-08-10"
    }
@@ -507,9 +507,9 @@
    "reason": "Eric Trump explicitly bullish on Bitcoin at $1M target; strong crypto endorsement signal.",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": -0.2,
+    "pct": -0.9,
     "base": 64880.19,
-    "last": 64773.24,
+    "last": 64267.3,
     "base_date": "2026-08-07",
     "last_date": "2026-08-10"
    }
@@ -531,9 +531,9 @@
    "reason": "Eric Trump bullish Bitcoin call ($1M target); family crypto advocacy signals support",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": -0.2,
+    "pct": -0.9,
     "base": 64880.19,
-    "last": 64773.24,
+    "last": 64267.3,
     "base_date": "2026-08-07",
     "last_date": "2026-08-10"
    }
@@ -2625,102 +2625,6 @@
     "pct": -2.4,
     "base": 156.27,
     "last": 152.48,
-    "base_date": "2026-07-30",
-    "last_date": "2026-07-31"
-   }
-  },
-  {
-   "date": "2026-07-30T10:11:00Z",
-   "platform": "News",
-   "text": "Amneal: Q2 Earnings Snapshot - kare11.com \u2014 Amneal: Q2 Earnings Snapshot\u00a0\u00a0kare11.com",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPa2loS1NTUmdpXzRzQXRYNDA5WUtjenRveVRZOFNJLTZ0STR1MFB2cVdOOVhzbDVxTnlxV2RjQWtpZWxaeV9xUFpSTE5CSmR2ZHRyZ3hMRDJfZkFXclVoTnNBdW9wcnUyam5TUzBPZ2dMZWpPZUVZS2ZJSlRadDUyZFltNmZyYnB6MzBCVGVJYjVuTGZHeHNmcHc3Ry12Um5JaHNCU1J2Y2xFcEpnNlNhRXBPeXRZbEJzbG5JYkpYMldkZlp6WEE?oc=5",
-   "tickers": [
-    "AMPH"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "AMPH",
-   "strength": 30,
-   "reason": "Q2 earnings snapshot\u2014direction depends on beat/miss details",
-   "price_since": {
-    "ticker": "AMPH",
-    "pct": -2.2,
-    "base": 20.38,
-    "last": 19.94,
-    "base_date": "2026-07-30",
-    "last_date": "2026-07-31"
-   }
-  },
-  {
-   "date": "2026-07-30T08:26:00Z",
-   "platform": "News",
-   "text": "What smart people are saying about Trump's ban on new Chinese humanoid robots - Business Insider \u2014 What smart people are saying about Trump's ban on new Chinese humanoid robots\u00a0\u00a0Business Insider",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNc3FXNmFvbDFkbkx2QnRxakp5cjJOaERwakhvaTdZT3NqQnp1YndUam5QMjdfdm5hODFnQ2JfMG9kUHJadmhrZk93cVhPMzNnVmtYcFpEOWNWcFA1QzZ6dzE1c3hWZFNOQ1J2V1VfYmIzNnoxVHU0bXd1QzV5VEZleFdkelZnWm9zRWJsbDloSjJxMTREVU9Vc19zaw?oc=5",
-   "tickers": [
-    "SMH"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "SMH",
-   "strength": 55,
-   "reason": "Trump ban on new Chinese humanoid robots pressures semiconductor/robotics sector",
-   "price_since": {
-    "ticker": "SMH",
-    "pct": 0.3,
-    "base": 538.9,
-    "last": 540.53,
-    "base_date": "2026-07-30",
-    "last_date": "2026-07-31"
-   }
-  },
-  {
-   "date": "2026-07-30T07:23:00Z",
-   "platform": "News",
-   "text": "U.S. Federal Reserve\u2019s \u2018hawkish hold\u2019 leaves investors lacking clarity - The Japan Times \u2014 U.S. Federal Reserve\u2019s \u2018hawkish hold\u2019 leaves investors lacking clarity\u00a0\u00a0The Japan Times",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdHlpdFZKV3FtRXZkSk11Yi1UamhOMWp0TGVvaVBuTkw0d2F4dVVRSkVWb1hhSE5GV0M2eHdoV1k1TmcxdlFmbXFQT2U4VUJZSTZSVG16RXdLTHhxdGtPQWtaSWxNaU4yMmgxMnBKWXpod2h6Z0tyMGtMZTZFREFMdzVxRzNOb2tNbDJLSnNoUjQ?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "SPY",
-   "strength": 35,
-   "reason": "Fed's hawkish hold creates investor uncertainty on market direction",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": 0.7,
-    "base": 741.69,
-    "last": 747.03,
-    "base_date": "2026-07-30",
-    "last_date": "2026-07-31"
-   }
-  },
-  {
-   "date": "2026-07-30T07:23:00Z",
-   "platform": "News",
-   "text": "U.S. Federal Reserve\u2019s \u2018hawkish hold\u2019 leaves investors lacking clarity - japantimes.co.jp \u2014 U.S. Federal Reserve\u2019s \u2018hawkish hold\u2019 leaves investors lacking clarity\u00a0\u00a0japantimes.co.jp",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdHlpdFZKV3FtRXZkSk11Yi1UamhOMWp0TGVvaVBuTkw0d2F4dVVRSkVWb1hhSE5GV0M2eHdoV1k1TmcxdlFmbXFQT2U4VUJZSTZSVG16RXdLTHhxdGtPQWtaSWxNaU4yMmgxMnBKWXpod2h6Z0tyMGtMZTZFREFMdzVxRzNOb2tNbDJLSnNoUjQ?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "SPY",
-   "strength": 25,
-   "reason": "Fed hawkish hold creates rate uncertainty; broad market ambiguity",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": 0.7,
-    "base": 741.69,
-    "last": 747.03,
     "base_date": "2026-07-30",
     "last_date": "2026-07-31"
    }
