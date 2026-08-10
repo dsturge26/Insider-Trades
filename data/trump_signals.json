@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-08-10T09:58:18Z",
+ "last_updated": "2026-08-10T11:14:20Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-08-09T18:49:21Z",
+   "platform": "News",
+   "text": "Trump Media & Technology Group Corp. (DJT) Stock Price, News, Quote & History - Yahoo! Finance Canada \u2014 Trump Media & Technology Group Corp. (DJT) Stock Price, News, Quote & History\u00a0\u00a0Yahoo! Finance Canada",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1QelBrZFExLUtrMFhUa3ZRTUNHeGdISDc4bmNicFZXUVJtMlJucDI1T3VveFJpelYzTlpMVV9XbDFfdFQ2Mkc4QTJxZS1VdHZi?oc=5",
+   "tickers": [
+    "DJT"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "DJT",
+   "strength": 15,
+   "reason": "News headline about Trump Media stock; no directional signal implied by title alone."
+  },
   {
    "date": "2026-08-08T23:52:58Z",
    "platform": "News",
@@ -17,6 +33,22 @@
    "primary_ticker": "DVLT",
    "strength": 35,
    "reason": "Stock tumbles on discounted offering; market-relevant but Trump connection absent or tangential."
+  },
+  {
+   "date": "2026-08-08T23:23:00Z",
+   "platform": "News",
+   "text": "Finley: Trump has until Labor Day to bring down gasoline prices - detroitnews.com \u2014 Finley: Trump has until Labor Day to bring down gasoline prices\u00a0\u00a0detroitnews.com",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQaGNqakM0X2gyRUNQaVdDMFBkRGhEeXBDWFRKMkFyYzRoMUpFcGx4QjJKeWpmWUN0U3lud2pyQ1BxaElUR2hROEx1MFpwTGxXWTV1TzJyOW51MEl5UTZuLUI0ZW5MbDJsUFU0cHRzU1VUbnh0b21hUGNPOWRGYUxCejlKZjA5LWhyMmY2Z0U3R3NMb3NuZGpxUjFzMURtMEwxaDBreF84angtQW1WQmhtYmVmWnQ1M2ZiVkxDOTVRYVAzRVhSRXZhUDQya2FxaWRBc3ZCZHluTWRyakJ2WlpjZTNHZ1d4bU5tNWc?oc=5",
+   "tickers": [
+    "XLE"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "XLE",
+   "strength": 25,
+   "reason": "Expectation Trump will lower gas prices; bearish for oil/energy sector if prices fall, but direction depends on policy execution."
   },
   {
    "date": "2026-08-08T21:46:17Z",
@@ -179,9 +211,9 @@
    "reason": "Eric Trump's Bitcoin holdings commentary; stock falling despite claim shows mixed signal",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": 0.0,
+    "pct": 0.1,
     "base": 64904.69,
-    "last": 64912.24,
+    "last": 64941.38,
     "base_date": "2026-08-08",
     "last_date": "2026-08-10"
    }
@@ -347,9 +379,9 @@
    "reason": "Eric Trump explicitly bullish on Bitcoin at $1M target; strong crypto endorsement signal.",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": 0.0,
+    "pct": 0.1,
     "base": 64880.19,
-    "last": 64912.25,
+    "last": 64943.24,
     "base_date": "2026-08-07",
     "last_date": "2026-08-10"
    }
@@ -371,9 +403,9 @@
    "reason": "Eric Trump bullish Bitcoin call ($1M target); family crypto advocacy signals support",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": 0.0,
+    "pct": 0.1,
     "base": 64880.19,
-    "last": 64912.25,
+    "last": 64943.24,
     "base_date": "2026-08-07",
     "last_date": "2026-08-10"
    }
@@ -475,9 +507,9 @@
    "reason": "Trump signals growing bitcoin adoption and crypto clarity legislative progress; bullish sentiment for crypto",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": 0.0,
+    "pct": 0.1,
     "base": 64880.19,
-    "last": 64912.25,
+    "last": 64943.24,
     "base_date": "2026-08-07",
     "last_date": "2026-08-10"
    }
@@ -561,22 +593,6 @@
    "primary_ticker": "SPY",
    "strength": 50,
    "reason": "Trump comments on multiple tech/market players (Musk, OpenAI, Intel, Fed); mixed/ambiguous directional signal requires detail"
-  },
-  {
-   "date": "2026-08-07T07:11:20Z",
-   "platform": "News",
-   "text": "Trump Media & Technology Group Corp. (DJT) Stock Price, News, Quote & History - Yahoo! Finance Canada \u2014 Trump Media & Technology Group Corp. (DJT) Stock Price, News, Quote & History\u00a0\u00a0Yahoo! Finance Canada",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1QelBrZFExLUtrMFhUa3ZRTUNHeGdISDc4bmNicFZXUVJtMlJucDI1T3VveFJpelYzTlpMVV9XbDFfdFQ2Mkc4QTJxZS1VdHZi?oc=5",
-   "tickers": [
-    "DJT"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "DJT",
-   "strength": 15,
-   "reason": "Generic financial news headline about Trump Media stock; no new directional signal."
   },
   {
    "date": "2026-08-07T06:02:51Z",
