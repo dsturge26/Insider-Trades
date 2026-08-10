@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-10T22:49:18Z",
+ "last_updated": "2026-08-10T23:34:40Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -307,9 +307,9 @@
    "reason": "Eric Trump's Bitcoin holdings commentary; stock falling despite claim shows mixed signal",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": -1.5,
+    "pct": -1.6,
     "base": 64904.69,
-    "last": 63942.97,
+    "last": 63892.75,
     "base_date": "2026-08-08",
     "last_date": "2026-08-10"
    }
@@ -539,9 +539,9 @@
    "reason": "Eric Trump explicitly bullish on Bitcoin at $1M target; strong crypto endorsement signal.",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": -1.4,
+    "pct": -1.5,
     "base": 64880.19,
-    "last": 63942.97,
+    "last": 63892.75,
     "base_date": "2026-08-07",
     "last_date": "2026-08-10"
    }
@@ -563,9 +563,9 @@
    "reason": "Eric Trump bullish Bitcoin call ($1M target); family crypto advocacy signals support",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": -1.4,
+    "pct": -1.5,
     "base": 64880.19,
-    "last": 63942.97,
+    "last": 63892.75,
     "base_date": "2026-08-07",
     "last_date": "2026-08-10"
    }
@@ -2369,247 +2369,6 @@
     "base": 464.72,
     "last": 487.5,
     "base_date": "2026-07-31",
-    "last_date": "2026-08-03"
-   }
-  },
-  {
-   "date": "2026-07-31T07:31:48Z",
-   "platform": "News",
-   "text": "Trump Says China Has Not Approved NVDA H200 Chip Purchases Yet \u2014 'They Want To Develop Their Own' - Stocktwits \u2014 Trump Says China Has Not Approved NVDA H200 Chip Purchases Yet \u2014 'They Want To Develop Their Own'\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZ2oxZ3ZfNVpTWGQwLTY3T0xzazUxbWY2a3ZreDlRRGE0ZHQxbmNRR29RSm11VXBPajBkd1V1M0VhRUJvVUp0V2lfM3ladmswQ2hMWGlsUjY5RE1ERXR0LTBwN2JLYTBNUk1GRC1QbjktYTlkeTU5MlgteEpYeURwZmhaR2NjUUJMVWs5SGVnbm9uTEZ2dkdmSmVVdzctQ0I3clJZZFM1YnVqbkd1RG9kQlpXUjY?oc=5",
-   "tickers": [
-    "NVDA"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "NVDA",
-   "strength": 40,
-   "reason": "Trump statement that China has not approved NVDA H200 purchases signals export headwind for Nvidia.",
-   "price_since": {
-    "ticker": "NVDA",
-    "pct": 3.8,
-    "base": 200.75,
-    "last": 208.37,
-    "base_date": "2026-07-31",
-    "last_date": "2026-08-03"
-   }
-  },
-  {
-   "date": "2026-07-31T03:32:50Z",
-   "platform": "News",
-   "text": "Amazon Stock Pops 9.5% After-Hours as AWS Fuels Earnings Beat: Jim Cramer Calls it 'Astonishing' - inkl \u2014 Amazon Stock Pops 9.5% After-Hours as AWS Fuels Earnings Beat: Jim Cramer Calls it 'Astonishing'\u00a0\u00a0inkl",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOckljMHlxc1hrZ1dEZ3Q0WndOUWJWYUFuNnFuSFpNdW5aR01HVVY3YVZDbU5kM1JZcGE1bmZjZFlNeE9MNWhuakZYVm9NNnN1SEVsYXpBRnlOR2I5QWE5aW5nZzZ5OFNSWHkzQ0RCa09OYVFsTWptNkN6VVVZWmJzdHpKblpFdWlTUkNodWNJcmNfYmF3YWZ6eTc5TFZKbnNCeWNxRXlDOHJKU1dFQ3FDcUJQcV9LbTBLZ1dNOE02eGhoRFU?oc=5",
-   "tickers": [
-    "AMZN"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "AMZN",
-   "strength": 70,
-   "reason": "Amazon earnings beat and AWS strength drive stock surge",
-   "price_since": {
-    "ticker": "AMZN",
-    "pct": 4.5,
-    "base": 271.58,
-    "last": 283.71,
-    "base_date": "2026-07-31",
-    "last_date": "2026-08-03"
-   }
-  },
-  {
-   "date": "2026-07-31T01:11:46Z",
-   "platform": "News",
-   "text": "Why LASE Stock Has Surged Over 150% Today - Stocktwits \u2014 Why LASE Stock Has Surged Over 150% Today\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTEpDZFdYM3NTemdDLTlXdzBVa2dnLXZxdlZWbGVfeTR4MkJETjh3RUlpMVN1aGZHMDN0dlI0YXQ5bkJRcFhHTlYyaURJR0tnWHFtMFM1dEdxZlphb3NGVnp6cjJBU25rc1FJMGJaUGdpRXZSX3o2VVB2Ukt2OWtjMkpMX0gyWmRBdnU3Zk1XNDFUZnVlRHlfNEVaTlRlODBUSUxyZlZwS3JjTmVm?oc=5",
-   "tickers": [
-    "LASE"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "LASE",
-   "strength": 50,
-   "reason": "Lase stock surges 150% but reason not specified in headline",
-   "price_since": {
-    "ticker": "LASE",
-    "pct": 0.0,
-    "base": 0.98,
-    "last": 0.98,
-    "base_date": "2026-07-31",
-    "last_date": "2026-08-03"
-   }
-  },
-  {
-   "date": "2026-07-30T23:12:52.036Z",
-   "platform": "Truth Social",
-   "text": "RT @EximBankUSThanks\u00a0to @realDonaldTrump, the Export-Import Bank is profitable for the first time in\u00a0nearly a\u00a0DECADE.\u00a0Here's\u00a0why that matters to every American:\u00a0\u2705\u00a0Supply\u00a0Chain\u00a0Security:\u00a0EXIM is answering\u00a0@realDonaldTrump's call to action - delivering Project Vault and\u00a0$28 billion\u00a0in deals to ensure companies large and small have access to critical raw materials.\u00a0\u00a0\u00a0\u2705\u00a0Reindustrializing America: EXIM\u00a0is a\u00a0frontline economic tool\u00a0again, and small businesses are at the heart of our mission, supporting over 45,000 American jobs.\u00a0\u00a0\u2705\u00a0Energy DOMINANCE: After 4 years of Biden\u00a0inaction, President Trump is unleashing American\u00a0Energy\u00a0Dominance & EXIM is sending American molecules\u00a0and technologies\u00a0to every corner of the globe.\u00a0\u00a0\u2705\u00a0American Innovation: EXIM is investing in America's future by making sure\u00a0we can\u00a0innovate AND build in\u00a0America\u00a0again, backing\u00a0cutting-edge\u00a0companies like\u00a0JetZero,\u00a0Beta Technologies\u00a0and K2\u00a0Space as they transform their industries.\u00a0\u00a0EXIM is doing all of this while returning a profit to the taxpayer. When\u00a0EXIM does its job, hardworking\u00a0Americans\u00a0across the country have more high-paying jobs and more money in their pockets.",
-   "tickers": [
-    "SPY"
-   ],
-   "engagement": 0,
-   "url": "https://truthsocial.com/@realDonaldTrump/117011459082239407",
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "SPY",
-   "strength": 25,
-   "reason": "EXIM profitability and supply chain/reindustrialization focus suggests pro-business policy, but lacks specificity or near-term catalyst.",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": 2.2,
-    "base": 741.69,
-    "last": 758.15,
-    "base_date": "2026-07-30",
-    "last_date": "2026-08-03"
-   }
-  },
-  {
-   "date": "2026-07-30T22:19:00Z",
-   "platform": "News",
-   "text": "Apple and Amazon report rising revenues as investors turn on some tech stocks - The Guardian \u2014 Apple and Amazon report rising revenues as investors turn on some tech stocks\u00a0\u00a0The Guardian",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaFZHR2RMeDVCeEU3N3BMb0pTaXRFRkFlb2xRYW9fWjEyNnhPV3ZQWkZXVlN5LVpPUms2LVhLd2FfbkhBbDEzM1RuanJoNTlGSk9aajJoX3hlNlg5UExodWJPWHZYRnF6aXplX0Z4SjlLdGxQbWJsa0w5bXNYT0JmYUpGLUpoR1NKRHViX1NhUjc?oc=5",
-   "tickers": [
-    "AAPL"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "AAPL",
-   "strength": 40,
-   "reason": "Apple/Amazon revenue growth supports tech sector; earnings-driven bullish signal.",
-   "price_since": {
-    "ticker": "AAPL",
-    "pct": -8.6,
-    "base": 333.43,
-    "last": 304.92,
-    "base_date": "2026-07-30",
-    "last_date": "2026-08-03"
-   }
-  },
-  {
-   "date": "2026-07-30T21:09:00Z",
-   "platform": "News",
-   "text": "Minerals Technologies: Q2 Earnings Snapshot - kare11.com \u2014 Minerals Technologies: Q2 Earnings Snapshot\u00a0\u00a0kare11.com",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQUmk3YUpXaHYzX3NXT0g0b0M1NVNZYVBmR3BPd09ObWw5SG1WOWhuR2EzVmNjbHZRX0Nma1c2b1hFS3RZcE9XeUZmNzQ1c1ZhRFpnTUxqTTlGWEFSOW9vS2xZcVRxd1J5VzBhZWJ1TXlISW9Bb3RlUUYtZEtwMUh0R1hxVW90Tk50NmtveXJsOUgyRnh2YkpUdnAzTndtSFo3bGlCS0k4UGhZMjdtbTd6ckpMdk1Zb0JGcDl4MFg0d0FKMmYtVV91ODBFTUJ0MWNqOHFtRjVUUENfQQ?oc=5",
-   "tickers": [
-    "MTX"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "MTX",
-   "strength": 25,
-   "reason": "Minerals Technologies Q2 earnings snapshot without directional context",
-   "price_since": {
-    "ticker": "MTX",
-    "pct": 1.8,
-    "base": 72.51,
-    "last": 73.81,
-    "base_date": "2026-07-30",
-    "last_date": "2026-08-03"
-   }
-  },
-  {
-   "date": "2026-07-30T20:59:00Z",
-   "platform": "News",
-   "text": "Acco: Q2 Earnings Snapshot - kare11.com \u2014 Acco: Q2 Earnings Snapshot\u00a0\u00a0kare11.com",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNm05ZFhvNUNKMXE3U2lZTUJ4dTdUTXIzT2poQV9xU2tqM0J5bHcwT1N0YWFZa1E3cjlzbXByUC10YkJhcUoxNWl4V0NlRUc4RVdua3lzSEMzRUhHX0tPUGdrZWN1Y0w4WlJOUlJtOUhmUFZYX1hLZU5QcWlzVVdpaFFFNDZRWjgxV3JFWUU0ZVlMVFgtb1laWmVGdzN5UlFaank3eF95RG5SSmdOV3g4b2I4SnplenVpS2dhTE5jMnNaUDg?oc=5",
-   "tickers": [
-    "ACCO"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "ACCO",
-   "strength": 25,
-   "reason": "Acco Q2 earnings snapshot without directional context",
-   "price_since": {
-    "ticker": "ACCO",
-    "pct": 5.2,
-    "base": 4.23,
-    "last": 4.45,
-    "base_date": "2026-07-30",
-    "last_date": "2026-08-03"
-   }
-  },
-  {
-   "date": "2026-07-30T14:32:41Z",
-   "platform": "News",
-   "text": "Microsoft Stock Soars on Solid Q4 Results - Investopedia \u2014 Microsoft Stock Soars on Solid Q4 Results\u00a0\u00a0Investopedia",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObTJHXzRfbXRrLTVkNHN6X2tRNUJhSEpYTjBkZk41UXlpOHVyLTdZYzdDSXFRM28zVGdrOGdHZkppdXBZNmRBUWlSLXJhVkFVd0xDTGFnZ0xhT0d6LVFCUEZKcHplSGp3a3hYXzVSeUgtczZvMUtYZUxZTnI4ZHBZV25VTWdWQ2RPU2NJT19QMDcyQW1WaGY4bW9VT2VXYk0?oc=5",
-   "tickers": [
-    "MSFT"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "MSFT",
-   "strength": 50,
-   "reason": "Solid Q4 results drive stock gains; positive earnings catalyst",
-   "price_since": {
-    "ticker": "MSFT",
-    "pct": 8.0,
-    "base": 451.1,
-    "last": 487.16,
-    "base_date": "2026-07-30",
-    "last_date": "2026-08-03"
-   }
-  },
-  {
-   "date": "2026-07-30T12:39:58Z",
-   "platform": "News",
-   "text": "Donald Trump\u2019s Truth Social Warning on Iran War Updates Sparks Bitcoin Crash Fears - CryptoRank \u2014 Donald Trump\u2019s Truth Social Warning on Iran War Updates Sparks Bitcoin Crash Fears\u00a0\u00a0CryptoRank",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQld2c1pVWlB2dFpYUmVkVVZqd3ZSWUN0ZXdlVE8wdFlhellwbjVFVkxUbW9zbjE0VUd3ZURncXEtTmxNTGNjekFPWlJXelJTRUFaa3RDMVVySGc4S0ViWHJLSldSNXg4QXdjb0JrckQ5cnVTYjFoZHNfTFVIS0lGQWRrRGdIdE9sa1NvTEd3c2VnbThGaWVIOFlfdmNWdw?oc=5",
-   "tickers": [
-    "BTC-USD"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "BTC-USD",
-   "strength": 60,
-   "reason": "Trump Truth Social warning on Iran war sparks crypto selloff fears",
-   "price_since": {
-    "ticker": "BTC-USD",
-    "pct": -2.9,
-    "base": 64725.31,
-    "last": 62816.0,
-    "base_date": "2026-07-30",
-    "last_date": "2026-08-03"
-   }
-  },
-  {
-   "date": "2026-07-30T11:49:00Z",
-   "platform": "News",
-   "text": "AMC Global Media Stock Drops On Q2 Earnings Miss - Deadline \u2014 AMC Global Media Stock Drops On Q2 Earnings Miss\u00a0\u00a0Deadline",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPN2hOQjJOWS1scm1pTzhNWG1pU0RzYWJjMTJUbkJTWGpFc3FrclNXNjZBa0NZWEN1UXVudURTLWJ1bGYtY1RnWU4xTXM0b3RORjRSdUk5TE5VcW5NcG51X3Qxa1dMLWVvWTJuWkdiSzdBQy02VEt3QVRiMDVLUHo4Wi1LY01kZw?oc=5",
-   "tickers": [
-    "AMC"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "AMC",
-   "strength": 45,
-   "reason": "Q2 earnings miss typically pressures stock price",
-   "price_since": {
-    "ticker": "AMC",
-    "pct": 7.6,
-    "base": 2.77,
-    "last": 2.98,
-    "base_date": "2026-07-30",
     "last_date": "2026-08-03"
    }
   },
