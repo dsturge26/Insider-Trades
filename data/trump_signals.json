@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-10T11:14:20Z",
+ "last_updated": "2026-08-10T12:01:59Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -33,6 +33,22 @@
    "primary_ticker": "DVLT",
    "strength": 35,
    "reason": "Stock tumbles on discounted offering; market-relevant but Trump connection absent or tangential."
+  },
+  {
+   "date": "2026-08-08T23:52:58Z",
+   "platform": "News",
+   "text": "DVLT Stock Tumbles Pre-Market On Discounted Offering \u2013 Retail Slams The Move, Calling It \u2018Self-Inflicted Pain\u2019 - stocktwits.com \u2014 DVLT Stock Tumbles Pre-Market On Discounted Offering \u2013 Retail Slams The Move, Calling It \u2018Self-Inflicted Pain\u2019\u00a0\u00a0stocktwits.com",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVUx3aGVQUk9NNklvanl0M0xObG44aVBxc0FCaTNESVRBUm14b05yTHExSnNIeGNrWVpXTkxhSmU2S0xZaUhTRHBvRVYtS1ZqTGNNVnpYSHVKSG85WG1jeWdmMXdZZ1pUV0h1YlNBaWlyZkFJVmRuR25PMGxJRGlKTi04U29DSHMxOEplQW9ZbmZqamluSEduUGR6cUc1WmlfbU5TbUJB?oc=5",
+   "tickers": [
+    "DVLT"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "DVLT",
+   "strength": 40,
+   "reason": "Stock decline due to discounted offering dilution, unrelated to Trump but is_market=true for stock-specific move"
   },
   {
    "date": "2026-08-08T23:23:00Z",
@@ -211,9 +227,9 @@
    "reason": "Eric Trump's Bitcoin holdings commentary; stock falling despite claim shows mixed signal",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": 0.1,
+    "pct": 0.2,
     "base": 64904.69,
-    "last": 64941.38,
+    "last": 65059.51,
     "base_date": "2026-08-08",
     "last_date": "2026-08-10"
    }
@@ -299,6 +315,22 @@
    "reason": "Stock rally tied to State of Union event; unclear if Trump mentioned IBRX specifically"
   },
   {
+   "date": "2026-08-08T04:35:53Z",
+   "platform": "News",
+   "text": "IBRX Stock Rallies Into Trump\u2019s Big SOTU Night \u2014 Here\u2019s What Traders Think Could Fuel The Next Move - stocktwits.com \u2014 IBRX Stock Rallies Into Trump\u2019s Big SOTU Night \u2014 Here\u2019s What Traders Think Could Fuel The Next Move\u00a0\u00a0stocktwits.com",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWFdFall2YVNMN3Rialp3SE9sU0h6YUQ1MDFiX2JaeXMxNlFFZUZveFU0TkVxUFI4cTQ5bW5VdkFlTDd1dFNwSUN2YTRtRl83aVRRXzZ6d09TeEhlR1NJb1JaMHlMWDhrQXpmZW40c1B1Y21KNjhxdm90Ny1uU3p4MzJZSW9GNGduMEdyRzFIU2RGLWlYWXg4TFJUU0N6ZlhFemxtUmprVXY0YkVRZk5vZHljazQ?oc=5",
+   "tickers": [
+    "IBRX"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "IBRX",
+   "strength": 30,
+   "reason": "IBRX stock rally tied to Trump SOTU event; direction and catalyst unclear"
+  },
+  {
    "date": "2026-08-07T20:15:24Z",
    "platform": "News",
    "text": "NOW Stock Rises Overnight: Trump\u2019s ServiceNow Stake Fuels Retail Buzz Around SAAS Comeback - Stocktwits \u2014 NOW Stock Rises Overnight: Trump\u2019s ServiceNow Stake Fuels Retail Buzz Around SAAS Comeback\u00a0\u00a0Stocktwits",
@@ -379,9 +411,9 @@
    "reason": "Eric Trump explicitly bullish on Bitcoin at $1M target; strong crypto endorsement signal.",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": 0.1,
+    "pct": 0.3,
     "base": 64880.19,
-    "last": 64943.24,
+    "last": 65059.51,
     "base_date": "2026-08-07",
     "last_date": "2026-08-10"
    }
@@ -403,9 +435,9 @@
    "reason": "Eric Trump bullish Bitcoin call ($1M target); family crypto advocacy signals support",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": 0.1,
+    "pct": 0.3,
     "base": 64880.19,
-    "last": 64943.24,
+    "last": 65053.25,
     "base_date": "2026-08-07",
     "last_date": "2026-08-10"
    }
@@ -425,6 +457,22 @@
    "primary_ticker": "BB",
    "strength": 45,
    "reason": "Retail speculation on BlackBerry QNX and AI; no Trump signal, speculative momentum only"
+  },
+  {
+   "date": "2026-08-07T19:30:42Z",
+   "platform": "News",
+   "text": "BB Stock To $10? Retail Traders Eye New Highs On QNX, Physical AI Boost - stocktwits.com \u2014 BB Stock To $10? Retail Traders Eye New Highs On QNX, Physical AI Boost\u00a0\u00a0stocktwits.com",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQlo3d1dSS0NHNUhSeER4LWR5di1DRFJLU2lsRWcyNlBUR2Q0TUh2MHdRcU1wZllORzVRZTkzZ0FJajRwVlEyVXBBZUZrMi1aR1hpS2dXamlRNkVSUDJXekNFRmF3TUVvVUVweFVmOEVZMUpNb1A3a2ptOHFVYkNnU3VXcWZoR0N1SnloRVpMTXMzSXRWak1rTkhoWFRwUk9iYkJ1NkJEbEstb1Z1S0dJMm5ESVRzbWZqd0FGd2xtNjRrSnRU?oc=5",
+   "tickers": [
+    "BB"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "BB",
+   "strength": 35,
+   "reason": "Blackberry retail trader speculation on QNX and physical AI; no Trump catalyst but market-relevant stock move"
   },
   {
    "date": "2026-08-07T16:04:59Z",
@@ -2625,30 +2673,6 @@
     "pct": 0.1,
     "base": 404.81,
     "last": 405.37,
-    "base_date": "2026-07-30",
-    "last_date": "2026-07-31"
-   }
-  },
-  {
-   "date": "2026-07-30T05:48:45Z",
-   "platform": "News",
-   "text": "V, SNOW Stocks Hit Fresh 52-Week Highs Today \u2013 What\u2019s Got Investors Buzzing? - Stocktwits \u2014 V, SNOW Stocks Hit Fresh 52-Week Highs Today \u2013 What\u2019s Got Investors Buzzing?\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWVlyUDZEWk1OZ28tcEpMNXNqSVRQcDBkMmZZRzI2T0pSUEZ2MnlfRDNfdE84VGF6MmxOS1NFUTZmWjBrellDQ1pCekdHVGxQbHlvZkpVSVVtcTZCelBLakp5Q3BsR1EtdnE2TUdBS1V2cXZRVDJ5QVVPVWhYN0lmeWNqVnlxaUs0Wm1MRzRjUUtXVWVUTFhMbUNoblVlRDE2a2x3dWxVem1vWDFZYmtTU2FoYlMwU2dKNEdJOEZOMzVwV05QLXVTaGFTb2gyZlBBLUE?oc=5",
-   "tickers": [
-    "V"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "V",
-   "strength": 35,
-   "reason": "52-week highs suggest momentum but no Trump-specific catalyst stated",
-   "price_since": {
-    "ticker": "V",
-    "pct": -0.0,
-    "base": 366.27,
-    "last": 366.13,
     "base_date": "2026-07-30",
     "last_date": "2026-07-31"
    }
