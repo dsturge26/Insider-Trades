@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-11T19:46:26Z",
+ "last_updated": "2026-08-11T20:42:39Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -67,6 +67,22 @@
    "reason": "Nvidia mentioned as 'investible asset' but no explicit buy/sell signal; direction ambiguous."
   },
   {
+   "date": "2026-08-11T12:14:15Z",
+   "platform": "News",
+   "text": "The Latest: Trump pivots back to sanctions for Iran as other strategies to end his war fizzle - The Edwardsville Intelligencer \u2014 The Latest: Trump pivots back to sanctions for Iran as other strategies to end his war fizzle\u00a0\u00a0The Edwardsville Intelligencer",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRlQyUUl6NUswVEVxR0VOMlJsX0NxbC1OOVUySkI1ajdseklZeERKT2QtTXY2bHBtQ0ZFczl6eGVIVWdLaXpqb0RseGZ3NG1ZYUl2QUYtdUt0eUUzZ04xUGxVWnJlOW1BYm1DTlBKNGhsSEVicW0xbE5rRlVwa0k5NTFSaVNQbkVQcVlmS3FQMDFwdVNnSWZ1V2FSZENhelNnd05MQVR4c3J1Z3V2N3dXVWlkTQ?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "SPY",
+   "strength": 35,
+   "reason": "Iran sanctions policy; geopolitical uncertainty affects broad market"
+  },
+  {
    "date": "2026-08-11T10:18:14Z",
    "platform": "News",
    "text": "As Trump Media Scraps Some Businesses, It's Doubling Down on Truth Social and the President - U.S. News & World Report \u2014 As Trump Media Scraps Some Businesses, It's Doubling Down on Truth Social and the President\u00a0\u00a0U.S. News & World Report",
@@ -97,6 +113,22 @@
    "primary_ticker": "SPY",
    "strength": 30,
    "reason": "Commentary on admin stock investments raises crony capitalism concerns but direction ambiguous pending which stocks are involved"
+  },
+  {
+   "date": "2026-08-11T10:00:00Z",
+   "platform": "News",
+   "text": "Commentary: The Trump administration's investments in corporate stocks raise fears of 'crony capitalism' - latimes.com \u2014 Commentary: The Trump administration's investments in corporate stocks raise fears of 'crony capitalism'\u00a0\u00a0latimes.com",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZ2RPN3lGZlNrM3R6c0F6UGVOYUNHSlZJVnBFMFVPTm03LVJHYmRZUzdiM1NZRHNQSHVNNVVOWS1LLVRSQXlBQzFhRVg3WWNqLU1LVmNhUmw4bGw5b3kyN0dlVzZyM0xuTEpLNlZZdlJqaHNvYzYyS2JOd1lJam9TTnVKRGUwNEFVbm9UZVZweU51YVRSTXBoVUNGcGp3XzV6STh0S3phOFl6bDRTMHd1ZzZMSUtYczlvd05VaW5MRWlfNHV5eVc1blMxZWFXNC0tUUthOGVB?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "SPY",
+   "strength": 25,
+   "reason": "Commentary on administration stock investments raises crony capitalism concerns; vague policy risk"
   },
   {
    "date": "2026-08-11T08:06:15Z",
@@ -195,9 +227,9 @@
    "reason": "Trump media company financial loss signals weakness in DJT underlying business",
    "price_since": {
     "ticker": "DJT",
-    "pct": -4.8,
+    "pct": -5.1,
     "base": 9.39,
-    "last": 8.94,
+    "last": 8.91,
     "base_date": "2026-08-10",
     "last_date": "2026-08-11"
    }
@@ -219,9 +251,9 @@
    "reason": "News headline about Trump Media stock; no directional signal implied by title alone.",
    "price_since": {
     "ticker": "DJT",
-    "pct": -4.8,
+    "pct": -5.1,
     "base": 9.39,
-    "last": 8.94,
+    "last": 8.91,
     "base_date": "2026-08-10",
     "last_date": "2026-08-11"
    }
@@ -243,9 +275,9 @@
    "reason": "Trump-endorsed gas station network regulatory inspection; ambiguous direction for energy sector",
    "price_since": {
     "ticker": "XLE",
-    "pct": 1.1,
+    "pct": 1.2,
     "base": 60.18,
-    "last": 60.83,
+    "last": 60.93,
     "base_date": "2026-08-10",
     "last_date": "2026-08-11"
    }
@@ -267,9 +299,9 @@
    "reason": "Trump-endorsed fuel gas stations under regulatory inspection; unclear net impact on energy sector",
    "price_since": {
     "ticker": "XLE",
-    "pct": 1.1,
+    "pct": 1.2,
     "base": 60.18,
-    "last": 60.84,
+    "last": 60.93,
     "base_date": "2026-08-10",
     "last_date": "2026-08-11"
    }
@@ -291,9 +323,9 @@
    "reason": "Pentagon accelerating defense weapons production due to Iran conflict; bullish for defense contractors.",
    "price_since": {
     "ticker": "XAR",
-    "pct": 1.3,
+    "pct": 1.4,
     "base": 288.29,
-    "last": 292.05,
+    "last": 292.33,
     "base_date": "2026-08-10",
     "last_date": "2026-08-11"
    }
@@ -315,9 +347,9 @@
    "reason": "Stock tumbles on discounted offering; market-relevant but Trump connection absent or tangential.",
    "price_since": {
     "ticker": "DVLT",
-    "pct": 0.0,
+    "pct": 3.3,
     "base": 0.3,
-    "last": 0.3,
+    "last": 0.31,
     "base_date": "2026-08-10",
     "last_date": "2026-08-11"
    }
@@ -339,9 +371,9 @@
    "reason": "Stock decline due to discounted offering dilution, unrelated to Trump but is_market=true for stock-specific move",
    "price_since": {
     "ticker": "DVLT",
-    "pct": 0.0,
+    "pct": 3.3,
     "base": 0.3,
-    "last": 0.3,
+    "last": 0.31,
     "base_date": "2026-08-10",
     "last_date": "2026-08-11"
    }
@@ -363,9 +395,9 @@
    "reason": "Expectation Trump will lower gas prices; bearish for oil/energy sector if prices fall, but direction depends on policy execution.",
    "price_since": {
     "ticker": "XLE",
-    "pct": 1.1,
+    "pct": 1.2,
     "base": 60.18,
-    "last": 60.83,
+    "last": 60.93,
     "base_date": "2026-08-10",
     "last_date": "2026-08-11"
    }
@@ -387,9 +419,9 @@
    "reason": "Trump pressure on gasoline prices; vague macro call, direction depends on policy outcome",
    "price_since": {
     "ticker": "XLE",
-    "pct": 1.1,
+    "pct": 1.2,
     "base": 60.18,
-    "last": 60.83,
+    "last": 60.93,
     "base_date": "2026-08-10",
     "last_date": "2026-08-11"
    }
@@ -411,9 +443,9 @@
    "reason": "Semiconductor market move unrelated to Trump; news noise",
    "price_since": {
     "ticker": "SMH",
-    "pct": 0.5,
+    "pct": 0.6,
     "base": 569.41,
-    "last": 572.04,
+    "last": 572.93,
     "base_date": "2026-08-10",
     "last_date": "2026-08-11"
    }
@@ -435,9 +467,9 @@
    "reason": "SK Hynix major DRAM offering and strength signals semiconductor sector momentum",
    "price_since": {
     "ticker": "SMH",
-    "pct": 0.5,
+    "pct": 0.6,
     "base": 569.41,
-    "last": 572.04,
+    "last": 572.93,
     "base_date": "2026-08-10",
     "last_date": "2026-08-11"
    }
@@ -459,9 +491,9 @@
    "reason": "Trump administration awarded IBM $1B federal grant for quantum foundry; direct federal contract to named public company.",
    "price_since": {
     "ticker": "IBM",
-    "pct": 1.0,
+    "pct": 0.9,
     "base": 236.31,
-    "last": 238.69,
+    "last": 238.42,
     "base_date": "2026-08-10",
     "last_date": "2026-08-11"
    }
@@ -483,9 +515,9 @@
    "reason": "Trump administration awards $1B quantum grant to IBM; direct federal contract to named public company",
    "price_since": {
     "ticker": "IBM",
-    "pct": 1.0,
+    "pct": 0.9,
     "base": 236.31,
-    "last": 238.69,
+    "last": 238.42,
     "base_date": "2026-08-10",
     "last_date": "2026-08-11"
    }
@@ -507,9 +539,9 @@
    "reason": "Data center lease announcement driving retail interest and stock rally",
    "price_since": {
     "ticker": "KEEL",
-    "pct": -2.4,
+    "pct": -3.2,
     "base": 3.4,
-    "last": 3.32,
+    "last": 3.29,
     "base_date": "2026-08-10",
     "last_date": "2026-08-11"
    }
@@ -531,9 +563,9 @@
    "reason": "Retail speculation on QNX/AI uplift loosely linked to Trump narrative; ambiguous direction",
    "price_since": {
     "ticker": "BB",
-    "pct": 2.0,
+    "pct": 1.7,
     "base": 8.83,
-    "last": 9.01,
+    "last": 8.98,
     "base_date": "2026-08-10",
     "last_date": "2026-08-11"
    }
@@ -555,9 +587,9 @@
    "reason": "Retail speculation on BB/QNX; uncertain technicals, not Trump-driven.",
    "price_since": {
     "ticker": "BB",
-    "pct": 2.0,
+    "pct": 1.7,
     "base": 8.83,
-    "last": 9.01,
+    "last": 8.98,
     "base_date": "2026-08-10",
     "last_date": "2026-08-11"
    }
@@ -581,7 +613,7 @@
     "ticker": "SPY",
     "pct": -0.3,
     "base": 773.03,
-    "last": 770.52,
+    "last": 770.56,
     "base_date": "2026-08-10",
     "last_date": "2026-08-11"
    }
@@ -603,9 +635,9 @@
    "reason": "Trump explicitly endorses Dell, stock spikes on direct praise",
    "price_since": {
     "ticker": "DELL",
-    "pct": -3.9,
+    "pct": -3.7,
     "base": 457.88,
-    "last": 439.87,
+    "last": 440.97,
     "base_date": "2026-08-10",
     "last_date": "2026-08-11"
    }
@@ -627,9 +659,9 @@
    "reason": "Trump explicitly endorses Dell; direct stock spike cited.",
    "price_since": {
     "ticker": "DELL",
-    "pct": -3.9,
+    "pct": -3.7,
     "base": 457.88,
-    "last": 439.87,
+    "last": 440.97,
     "base_date": "2026-08-10",
     "last_date": "2026-08-11"
    }
@@ -2669,54 +2701,6 @@
    "reason": "Trump Media stands to profit from preferential Truth Social access sales; bullish for DJT but indirect and regulatory-risk laden"
   },
   {
-   "date": "2026-07-31T20:09:04Z",
-   "platform": "News",
-   "text": "Trump company imperiled as investigators zero in on 'depraved' scheme - newsbreak.com \u2014 Trump company imperiled as investigators zero in on 'depraved' scheme\u00a0\u00a0newsbreak.com",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQ2dRSFM1cFZVSDJ3NDVvN2c1dDZqcV9MZFZYazVNbEFUNXc4RElpXzl1andtRzc2RVVIX3FMODlWZE5idFlDVzJ0VjRpWmotZENvMTVweWl3bzhmS1lHckVuUlZTel9SZHlpaVdtamFLUl8yVnlUUmt2dUxxU191WnJVeXd4UzVGdEhuMmJQd0l4QUJiS1NqM0U3TWpHM2J3X3Nkd216UGV1WFFVZVNmYzNwZV9sUld1VXdFQUd2dTdCQlk?oc=5",
-   "tickers": [
-    "DJT"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "DJT",
-   "strength": 45,
-   "reason": "Legal trouble for Trump company creates bearish sentiment around Trump-affiliated assets",
-   "price_since": {
-    "ticker": "DJT",
-    "pct": 1.5,
-    "base": 9.86,
-    "last": 10.01,
-    "base_date": "2026-07-31",
-    "last_date": "2026-08-03"
-   }
-  },
-  {
-   "date": "2026-07-31T20:09:04Z",
-   "platform": "News",
-   "text": "Trump company imperiled as investigators zero in on 'depraved' scheme - NewsBreak: Local News & Alerts \u2014 Trump company imperiled as investigators zero in on 'depraved' scheme\u00a0\u00a0NewsBreak: Local News & Alerts",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQ2dRSFM1cFZVSDJ3NDVvN2c1dDZqcV9MZFZYazVNbEFUNXc4RElpXzl1andtRzc2RVVIX3FMODlWZE5idFlDVzJ0VjRpWmotZENvMTVweWl3bzhmS1lHckVuUlZTel9SZHlpaVdtamFLUl8yVnlUUmt2dUxxU191WnJVeXd4UzVGdEhuMmJQd0l4QUJiS1NqM0U3TWpHM2J3X3Nkd216UGV1WFFVZVNmYzNwZV9sUld1VXdFQUd2dTdCQlk?oc=5",
-   "tickers": [
-    "DJT"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "SELL",
-   "primary_ticker": "DJT",
-   "strength": 65,
-   "reason": "Trump company facing legal jeopardy implies reputational and financial risk to DJT stock.",
-   "price_since": {
-    "ticker": "DJT",
-    "pct": 1.5,
-    "base": 9.86,
-    "last": 10.01,
-    "base_date": "2026-07-31",
-    "last_date": "2026-08-03"
-   }
-  },
-  {
    "curated": true,
    "classified": true,
    "is_market": true,
@@ -2769,23 +2753,6 @@
    "reason": "Trump's majority-owned stock debuts \u2014 pure sentiment play, extremely volatile and headline-driven.",
    "market_reaction": "DJT spiked on debut then stayed volatile, moving heavily on Trump political/legal news.",
    "url": "https://www.nasdaq.com/market-activity/stocks/djt"
-  },
-  {
-   "date": "2021-07-01T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "HARRIS CORPORATION was awarded a $2.1B federal contract from Department of Transportation.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_693KA821F00222_6920_DTFA0102D03006_6920",
-   "tickers": [
-    "HRS"
-   ],
-   "contract_amount": 2.12,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "HRS",
-   "strength": 75,
-   "reason": "Harris Corporation awarded $2.1B federal contract; direct bullish catalyst for publicly-traded awardee."
   }
  ],
  "how_to_read": "Each card is Claude's read of a public Trump post: the affected ticker, whether it implies BUY / SELL / WATCH, a 0\u2013100 strength (how explicit/emphatic the post is \u2014 NOT a profit predictor), and why. A 2-year backtest found these don't beat buy-and-hold, so this is for awareness, not trading. Not financial advice."
