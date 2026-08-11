@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-11T15:38:48Z",
+ "last_updated": "2026-08-11T16:36:11Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -147,9 +147,9 @@
    "reason": "Trump media company financial loss signals weakness in DJT underlying business",
    "price_since": {
     "ticker": "DJT",
-    "pct": -2.2,
+    "pct": -2.7,
     "base": 9.39,
-    "last": 9.18,
+    "last": 9.14,
     "base_date": "2026-08-10",
     "last_date": "2026-08-11"
    }
@@ -171,9 +171,9 @@
    "reason": "News headline about Trump Media stock; no directional signal implied by title alone.",
    "price_since": {
     "ticker": "DJT",
-    "pct": -2.2,
+    "pct": -2.7,
     "base": 9.39,
-    "last": 9.18,
+    "last": 9.14,
     "base_date": "2026-08-10",
     "last_date": "2026-08-11"
    }
@@ -195,9 +195,9 @@
    "reason": "Trump-endorsed gas station network regulatory inspection; ambiguous direction for energy sector",
    "price_since": {
     "ticker": "XLE",
-    "pct": 1.3,
+    "pct": 1.0,
     "base": 60.18,
-    "last": 60.98,
+    "last": 60.8,
     "base_date": "2026-08-10",
     "last_date": "2026-08-11"
    }
@@ -219,9 +219,9 @@
    "reason": "Trump-endorsed fuel gas stations under regulatory inspection; unclear net impact on energy sector",
    "price_since": {
     "ticker": "XLE",
-    "pct": 1.3,
+    "pct": 1.0,
     "base": 60.18,
-    "last": 60.98,
+    "last": 60.8,
     "base_date": "2026-08-10",
     "last_date": "2026-08-11"
    }
@@ -243,9 +243,9 @@
    "reason": "Pentagon accelerating defense weapons production due to Iran conflict; bullish for defense contractors.",
    "price_since": {
     "ticker": "XAR",
-    "pct": 0.8,
+    "pct": 0.9,
     "base": 288.29,
-    "last": 290.48,
+    "last": 290.89,
     "base_date": "2026-08-10",
     "last_date": "2026-08-11"
    }
@@ -267,9 +267,9 @@
    "reason": "Stock tumbles on discounted offering; market-relevant but Trump connection absent or tangential.",
    "price_since": {
     "ticker": "DVLT",
-    "pct": 0.0,
+    "pct": 3.3,
     "base": 0.3,
-    "last": 0.3,
+    "last": 0.31,
     "base_date": "2026-08-10",
     "last_date": "2026-08-11"
    }
@@ -291,9 +291,9 @@
    "reason": "Stock decline due to discounted offering dilution, unrelated to Trump but is_market=true for stock-specific move",
    "price_since": {
     "ticker": "DVLT",
-    "pct": 0.0,
+    "pct": 3.3,
     "base": 0.3,
-    "last": 0.3,
+    "last": 0.31,
     "base_date": "2026-08-10",
     "last_date": "2026-08-11"
    }
@@ -315,9 +315,9 @@
    "reason": "Expectation Trump will lower gas prices; bearish for oil/energy sector if prices fall, but direction depends on policy execution.",
    "price_since": {
     "ticker": "XLE",
-    "pct": 1.3,
+    "pct": 1.0,
     "base": 60.18,
-    "last": 60.98,
+    "last": 60.8,
     "base_date": "2026-08-10",
     "last_date": "2026-08-11"
    }
@@ -339,9 +339,9 @@
    "reason": "Trump pressure on gasoline prices; vague macro call, direction depends on policy outcome",
    "price_since": {
     "ticker": "XLE",
-    "pct": 1.3,
+    "pct": 1.0,
     "base": 60.18,
-    "last": 60.98,
+    "last": 60.8,
     "base_date": "2026-08-10",
     "last_date": "2026-08-11"
    }
@@ -363,9 +363,9 @@
    "reason": "Semiconductor market move unrelated to Trump; news noise",
    "price_since": {
     "ticker": "SMH",
-    "pct": 0.8,
+    "pct": 0.6,
     "base": 569.41,
-    "last": 573.82,
+    "last": 572.85,
     "base_date": "2026-08-10",
     "last_date": "2026-08-11"
    }
@@ -387,9 +387,9 @@
    "reason": "SK Hynix major DRAM offering and strength signals semiconductor sector momentum",
    "price_since": {
     "ticker": "SMH",
-    "pct": 0.8,
+    "pct": 0.6,
     "base": 569.41,
-    "last": 573.82,
+    "last": 572.85,
     "base_date": "2026-08-10",
     "last_date": "2026-08-11"
    }
@@ -411,9 +411,9 @@
    "reason": "Trump administration awarded IBM $1B federal grant for quantum foundry; direct federal contract to named public company.",
    "price_since": {
     "ticker": "IBM",
-    "pct": 1.5,
+    "pct": 1.1,
     "base": 236.31,
-    "last": 239.88,
+    "last": 238.81,
     "base_date": "2026-08-10",
     "last_date": "2026-08-11"
    }
@@ -435,9 +435,9 @@
    "reason": "Trump administration awards $1B quantum grant to IBM; direct federal contract to named public company",
    "price_since": {
     "ticker": "IBM",
-    "pct": 1.5,
+    "pct": 1.1,
     "base": 236.31,
-    "last": 239.88,
+    "last": 238.81,
     "base_date": "2026-08-10",
     "last_date": "2026-08-11"
    }
@@ -459,9 +459,9 @@
    "reason": "Data center lease announcement driving retail interest and stock rally",
    "price_since": {
     "ticker": "KEEL",
-    "pct": 0.0,
+    "pct": -1.2,
     "base": 3.4,
-    "last": 3.4,
+    "last": 3.36,
     "base_date": "2026-08-10",
     "last_date": "2026-08-11"
    }
@@ -483,9 +483,9 @@
    "reason": "Retail speculation on QNX/AI uplift loosely linked to Trump narrative; ambiguous direction",
    "price_since": {
     "ticker": "BB",
-    "pct": 4.1,
+    "pct": 2.8,
     "base": 8.83,
-    "last": 9.19,
+    "last": 9.08,
     "base_date": "2026-08-10",
     "last_date": "2026-08-11"
    }
@@ -507,9 +507,9 @@
    "reason": "Retail speculation on BB/QNX; uncertain technicals, not Trump-driven.",
    "price_since": {
     "ticker": "BB",
-    "pct": 4.1,
+    "pct": 2.8,
     "base": 8.83,
-    "last": 9.19,
+    "last": 9.08,
     "base_date": "2026-08-10",
     "last_date": "2026-08-11"
    }
@@ -531,9 +531,9 @@
    "reason": "Analyst commentary that Trump drives market valuations; indirect bullish macro read",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.1,
+    "pct": -0.2,
     "base": 773.03,
-    "last": 771.93,
+    "last": 771.78,
     "base_date": "2026-08-10",
     "last_date": "2026-08-11"
    }
@@ -555,9 +555,9 @@
    "reason": "Trump explicitly endorses Dell, stock spikes on direct praise",
    "price_since": {
     "ticker": "DELL",
-    "pct": -3.5,
+    "pct": -3.6,
     "base": 457.88,
-    "last": 441.82,
+    "last": 441.4,
     "base_date": "2026-08-10",
     "last_date": "2026-08-11"
    }
@@ -579,9 +579,9 @@
    "reason": "Trump explicitly endorses Dell; direct stock spike cited.",
    "price_since": {
     "ticker": "DELL",
-    "pct": -3.5,
+    "pct": -3.6,
     "base": 457.88,
-    "last": 441.82,
+    "last": 441.4,
     "base_date": "2026-08-10",
     "last_date": "2026-08-11"
    }
@@ -605,7 +605,7 @@
     "ticker": "BTC-USD",
     "pct": -2.2,
     "base": 64904.69,
-    "last": 63490.54,
+    "last": 63451.93,
     "base_date": "2026-08-08",
     "last_date": "2026-08-11"
    }
@@ -629,7 +629,7 @@
     "ticker": "BTC-USD",
     "pct": -2.2,
     "base": 64904.69,
-    "last": 63468.84,
+    "last": 63451.93,
     "base_date": "2026-08-08",
     "last_date": "2026-08-11"
    }
@@ -651,9 +651,9 @@
    "reason": "Burry short call on Palantir despite Trump endorsement; bearish signal from prominent investor",
    "price_since": {
     "ticker": "PLTR",
-    "pct": -0.5,
+    "pct": -1.0,
     "base": 175.23,
-    "last": 174.33,
+    "last": 173.55,
     "base_date": "2026-08-10",
     "last_date": "2026-08-11"
    }
@@ -675,9 +675,9 @@
    "reason": "Conflicting signals: Trump endorsement bullish vs. Burry short positioning; net market-relevant but direction unclear",
    "price_since": {
     "ticker": "PLTR",
-    "pct": -0.5,
+    "pct": -1.0,
     "base": 175.23,
-    "last": 174.33,
+    "last": 173.55,
     "base_date": "2026-08-10",
     "last_date": "2026-08-11"
    }
@@ -699,9 +699,9 @@
    "reason": "Trump praises $3B mineral investment to counter China; bullish on domestic mining/energy sector capacity",
    "price_since": {
     "ticker": "XLE",
-    "pct": 1.3,
+    "pct": 1.0,
     "base": 60.18,
-    "last": 60.97,
+    "last": 60.8,
     "base_date": "2026-08-10",
     "last_date": "2026-08-11"
    }
@@ -723,9 +723,9 @@
    "reason": "US mineral investment counter to China supports domestic supply chain; macro bullish",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.1,
+    "pct": -0.2,
     "base": 773.03,
-    "last": 771.93,
+    "last": 771.79,
     "base_date": "2026-08-10",
     "last_date": "2026-08-11"
    }
@@ -2664,78 +2664,6 @@
     "pct": 1.5,
     "base": 9.86,
     "last": 10.01,
-    "base_date": "2026-07-31",
-    "last_date": "2026-08-03"
-   }
-  },
-  {
-   "date": "2026-07-31T18:15:33Z",
-   "platform": "News",
-   "text": "Jamie Dimon Warns Inflation Ticking Up Is 'Not Good' \u2014 Praises Trump's 'One Big Beautiful Bill,' Deregulation Push To Stimulate Economic Growth - Stocktwits \u2014 Jamie Dimon Warns Inflation Ticking Up Is 'Not Good' \u2014 Praises Trump's 'One Big Beautiful Bill,' Deregulation Push To Stimulate Economic Growth\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNT0doNFRsMDktVlctR3pFZkNTc2g5WUNfanZvQktOVkdOTkRsQmZPdGZpSmVCQ3dlY1l1VXdQekRaNmg5VFhCQjAtLUd0czB5X0RGdTVPNEs5VUxOQ2Y0Vk9LU00wdDlKQ3hYekEySzRXVWlsajl3RHpESVV3SUdObTVlNlZ1UnJJSHVXb2thclRfaGlPLWNHY2JzczlfTWhKeUlBS3EyTlg3SXRpQ19mSWhGNnZkWjI0eWYydmNUNl9aTDB1Y2hzWFdMT05CanFLVkVZa2Zsc05MUQ?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "SPY",
-   "strength": 55,
-   "reason": "Dimon praises Trump deregulation and stimulus plans; broadly bullish for equities and bank stocks",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": 1.4,
-    "base": 747.03,
-    "last": 757.84,
-    "base_date": "2026-07-31",
-    "last_date": "2026-08-03"
-   }
-  },
-  {
-   "date": "2026-07-31T13:14:58Z",
-   "platform": "News",
-   "text": "The Earnings Season Has Become a Make Or Break Moment\u2026 - inkl \u2014 The Earnings Season Has Become a Make Or Break Moment\u2026\u00a0\u00a0inkl",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOMlpLVmdza0VZNFlBWDRCcWJUSS1GQ2NNa3VJZUN1NHZJR3JUamFubDM1aTI3LWJ4TkhpSGhaLXdrd3ZBcVRzNTY1MG5YTkgtVm1BSHR0LTN2a0EwOTZzTFZUZlVVWFlpdDZVZDd0NExPYkN6cVZ2TmNXakJxcENMYjRJeGdPTVFXeUpfdVc5RXBrb25OUGlDU0ZxUUtYQnhqZ3JMa2YtQkRURFU0VTdDMnpQNGpQcFRpa1FzenYwQjBHRHc4Y29RN1pDeGE5R3daLVRzYUoxWkE0ZXVo?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "SPY",
-   "strength": 25,
-   "reason": "General earnings season analysis with no Trump-specific catalyst",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": 1.4,
-    "base": 747.03,
-    "last": 757.83,
-    "base_date": "2026-07-31",
-    "last_date": "2026-08-03"
-   }
-  },
-  {
-   "date": "2026-07-31T12:00:00Z",
-   "platform": "News",
-   "text": "Commerce Dept to demand equity from 7 tech companies as a condition to tap into millions in federal funding - Fox Business \u2014 Commerce Dept to demand equity from 7 tech companies as a condition to tap into millions in federal funding\u00a0\u00a0Fox Business",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPa2J3SVFNdlY3emJ5dzFQcHowMzNUQWVNdTU0SmJhY3d1NXh1WWNzU3RiT1A2SVZDanh6bVhBUFZPMEk2Ri0yTmFza2FXWjhZV3lPaGE3c3o4aXZ2enI3TVlFQXVfZzQ2bHFFMS1MTXJfbDk4QWtJRG9iWkhDZ29MRDVxSV9wQXJKb2pQZ3dnYkh2TXlfUGlXNGx5TGpkWkVqeXZVSXVDdlljRVduZm11NGg2ZVZudG11a2YxV05EOFbSAcYBQVVfeXFMTkVkbWF3Y2E1QUtyb1hUcUctM0ltRTBYRUxQak9iZkYtdV9XWGFEY2czeFZENHpvM0N0SjVJZFJCS1Azb1ZKLUt0dmo1Sl9LNllWNi1BT1VaZ2p4dVQxMWdIX1lqalBmbkpQQ1NSM2xEOWlWRFgxYWNJSW4tTGljeV9obUtlRW54RTNHTF9UdTNkT2JSclBjdF85SDV4cmZMSGlFdGJ6WkRCM2JvXzNCR2h2U1QtbVBCMzdva1lTcU5JTWp5SlJ3?oc=5",
-   "tickers": [
-    "SMH"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "SMH",
-   "strength": 45,
-   "reason": "Commerce Dept equity demands on tech companies reduce valuations and impose regulatory burden on semiconductor/tech sector.",
-   "price_since": {
-    "ticker": "SMH",
-    "pct": 1.0,
-    "base": 540.53,
-    "last": 545.78,
     "base_date": "2026-07-31",
     "last_date": "2026-08-03"
    }
