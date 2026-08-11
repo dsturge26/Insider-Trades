@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-08-11T11:05:12Z",
+ "last_updated": "2026-08-11T11:56:36Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-08-11T04:40:40Z",
+   "platform": "News",
+   "text": "Trump says US has '100%' control of Hormuz as Iran demands war reparations - Business Standard \u2014 Trump says US has '100%' control of Hormuz as Iran demands war reparations\u00a0\u00a0Business Standard",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWWl3WW1pb2c2bEEzeUgtZm5uUjl6Qk8tT0x6YmVVUHMzQkJydW45d25NTkRvUFpzNW9melpDTllURUY4ekZtcU1SZU5Xak5DRjR4YUpCeUd3bEk4SlNIYUJiXzlkUnF2RlZ6SUlrQ0ktZG0yOTEwczdlY0tHVUlRUC1uYTRGajB1MVZIZlBYQjdEa3hwalMxcW1IX0d1QTZpbzcyUUx4VDZ6akFKQ25wOWJ3S1RYTGtEelF6OXJCUWtrWEVWVVVfSFRrdVNQQ0xvUnlj0gHYAUFVX3lxTE02UWJXWGlRVm85UkJXZ3NQbHU0YldQVkwwbVBWN01fc2R3VGZ6UFRKbUdFU1MyMjBReEtpdmZnbUpnMzlibnh2enJybmpMNGx5SU5HLUN5TGpjdnpJY2M2ZjZwR2N2WEh3dlVpQm4wVTVRNUU3TWRfTjBzRWZJUDlNUjdPV1VoNVdwdEVlWXZfelVobVFsOUMzYWphWG1aRHdmTVE5WVg1VmhLNEVpajhqQUt1ZllEc2xlVVVSSzg2aHNaVlMxQVVZUWR6Q1Fpblk2aWhxQlFhMg?oc=5",
+   "tickers": [
+    "XLE"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "XLE",
+   "strength": 35,
+   "reason": "Trump's Hormuz control statement implies stability in oil shipping lanes; mildly bullish for energy."
+  },
   {
    "date": "2026-08-11T00:03:00Z",
    "platform": "News",
@@ -81,6 +97,22 @@
    "primary_ticker": "XLE",
    "strength": 25,
    "reason": "Trump-endorsed fuel gas stations under regulatory inspection; unclear net impact on energy sector"
+  },
+  {
+   "date": "2026-08-09T04:02:28Z",
+   "platform": "News",
+   "text": "Pentagon presses defense firms to build weapons as Iran war depletes stocks - The Washington Post \u2014 Pentagon presses defense firms to build weapons as Iran war depletes stocks\u00a0\u00a0The Washington Post",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMEVSY1poSEdoWXlVam44MEZhT2RqY3lRYWE1M001R2tlb2E3aUlWdEJHeWFvem5wY0ZXRzdKMzNTMTBCdUdHTWtxV2hucWRnVmk3SExENGk5M1lUeTN2RzA1V1F1RU54S041Q2U5WG5iZVdTUkhSUG5jQ3hna0tEeDNDNWVJN2E3ZzRRNl9lSmlrOXFtWFFKU3E0MmtrVkFQSmVqcmoyNDh5U29ZS1hRQ00wY3hKd1RNdklWWkZUaGo?oc=5",
+   "tickers": [
+    "XAR"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "XAR",
+   "strength": 50,
+   "reason": "Pentagon accelerating defense weapons production due to Iran conflict; bullish for defense contractors."
   },
   {
    "date": "2026-08-08T23:52:58Z",
@@ -325,7 +357,7 @@
     "ticker": "BTC-USD",
     "pct": -0.9,
     "base": 64904.69,
-    "last": 64314.44,
+    "last": 64336.78,
     "base_date": "2026-08-08",
     "last_date": "2026-08-11"
    }
@@ -349,7 +381,7 @@
     "ticker": "BTC-USD",
     "pct": -0.9,
     "base": 64904.69,
-    "last": 64314.44,
+    "last": 64340.99,
     "base_date": "2026-08-08",
     "last_date": "2026-08-11"
    }
@@ -453,7 +485,7 @@
     "ticker": "BTC-USD",
     "pct": -0.9,
     "base": 64904.69,
-    "last": 64309.71,
+    "last": 64340.99,
     "base_date": "2026-08-08",
     "last_date": "2026-08-11"
    }
@@ -2582,40 +2614,6 @@
    "primary_ticker": "NOC",
    "strength": 75,
    "reason": "Northrop Grumman awarded $1.6B NASA federal contract; large space/defense contract is bullish for awardee."
-  },
-  {
-   "date": "2011-12-23T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "LEIDOS, INC. was awarded a $3.1B federal contract from National Science Foundation.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_NSFDACS1219442_4900_-NONE-_-NONE-",
-   "tickers": [
-    "LDOS"
-   ],
-   "contract_amount": 3.12,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "LDOS",
-   "strength": 75,
-   "reason": "Leidos awarded $3.1B NSF federal contract; large IT/science contract is bullish for awardee."
-  },
-  {
-   "date": "2008-12-04T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "LOCKHEED MARTIN CORP was awarded a $2.0B federal contract from National Aeronautics and Space Administration.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_NNG09HR00C_8000_-NONE-_-NONE-",
-   "tickers": [
-    "LMT"
-   ],
-   "contract_amount": 2.03,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "LMT",
-   "strength": 75,
-   "reason": "Lockheed Martin awarded $2.0B NASA federal contract; large space/defense contract is bullish for awardee."
   }
  ],
  "how_to_read": "Each card is Claude's read of a public Trump post: the affected ticker, whether it implies BUY / SELL / WATCH, a 0\u2013100 strength (how explicit/emphatic the post is \u2014 NOT a profit predictor), and why. A 2-year backtest found these don't beat buy-and-hold, so this is for awareness, not trading. Not financial advice."
