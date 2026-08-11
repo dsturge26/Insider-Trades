@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-11T13:10:51Z",
+ "last_updated": "2026-08-11T14:31:55Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -17,6 +17,38 @@
    "primary_ticker": "SPY",
    "strength": 35,
    "reason": "Iran sanctions pivot suggests escalating geopolitical risk, bearish for broad market"
+  },
+  {
+   "date": "2026-08-11T10:18:14Z",
+   "platform": "News",
+   "text": "As Trump Media Scraps Some Businesses, It's Doubling Down on Truth Social and the President - U.S. News & World Report \u2014 As Trump Media Scraps Some Businesses, It's Doubling Down on Truth Social and the President\u00a0\u00a0U.S. News & World Report",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQjRtbUE3bU1LWmFTMHFjQmJHd2JlRWpkSnRhWThmNlJRVTltMVVQTllKWmM0V29tb3p3Wk5jTXpDRmpBV2ZuQzJjQWpfelJTUVg5ZE82MTJ1ZGR5b0FzWkZaOFhGbWNOOWsyZm8tYmtJamNlVkZVcW1ILTJsalEtTGdqVThqSzdaam52d0lYRzN2bldUTEoxX1NXMHd6X0Z1d2dsVzhOOXhNLUZOMWlDRkFMZXVCczViUG53RDVsQldueHZjQ3k3d3AxbHZhZ0ZaZ2ktNXNLNkN4RkFCR1lj?oc=5",
+   "tickers": [
+    "DJT"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "DJT",
+   "strength": 40,
+   "reason": "Trump Media restructuring and Truth Social focus; unclear whether strategic pivot is bullish or bearish."
+  },
+  {
+   "date": "2026-08-11T08:06:15Z",
+   "platform": "News",
+   "text": "The Latest: Trump pivots back to sanctions for Iran as other strategies to end his war fizzle - CBS 17 \u2014 The Latest: Trump pivots back to sanctions for Iran as other strategies to end his war fizzle\u00a0\u00a0CBS 17",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVkt5UzhheGhfSVpHanp6MmZYU1RoSlhnamFzREdWbkhCd1RJU0hZekNjdWpYVXJPWk1XTGU5RTJYU3ZVdkczZHVWT0o5ck93dC12RnZnb1k3WVpyZU5LMFVZSENmeEVMeUFKTmQwM0h6SUtTTDVxaERnXzVQR2tISjVHRHMzRGEzLWV4bHJ5MzgySl84SFJWYlZibHB4WS1vNXNhdThtUWtyMVZvLWR4RVRKWi1hb0ljRUcyZzNtMWRONTJxSWfSAcYBQVVfeXFMT1ZLeVM4YXhoX0laR2p6ejJmWFNUaEpYZ2phc0RHVm5IQndUSVNIWXpDY3VqWFVyT1pNV0xlOUUyWFN2VXZHM2R1Vk9KOXJPd3QtdkZ2Z29ZN1lacmVOSzBVWUhDZnhFTHlBSk5kMDNIeklLU0w1cWhEZ181UEdrSEo1R0RzM0RhMy1leGxyeTM4MkpfOEhSVmJWYmxweFktbzVzYXU4bVFrcjFWby1keEVUSlotYW9JY0VHMmczbTFkTjUycUln?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "SPY",
+   "strength": 35,
+   "reason": "Iran sanctions escalation typically bearish for broad market via geopolitical risk."
   },
   {
    "date": "2026-08-11T04:40:40Z",
@@ -53,22 +85,6 @@
   {
    "date": "2026-08-11T00:03:00Z",
    "platform": "News",
-   "text": "As Trump Media Scraps Some Businesses, It's Doubling Down on Truth Social and the President - U.S. News & World Report \u2014 As Trump Media Scraps Some Businesses, It's Doubling Down on Truth Social and the President\u00a0\u00a0U.S. News & World Report",
-   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQjRtbUE3bU1LWmFTMHFjQmJHd2JlRWpkSnRhWThmNlJRVTltMVVQTllKWmM0V29tb3p3Wk5jTXpDRmpBV2ZuQzJjQWpfelJTUVg5ZE82MTJ1ZGR5b0FzWkZaOFhGbWNOOWsyZm8tYmtJamNlVkZVcW1ILTJsalEtTGdqVThqSzdaam52d0lYRzN2bldUTEoxX1NXMHd6X0Z1d2dsVzhOOXhNLUZOMWlDRkFMZXVCczViUG53RDVsQldueHZjQ3k3d3AxbHZhZ0ZaZ2ktNXNLNkN4RkFCR1lj?oc=5",
-   "tickers": [
-    "DJT"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "DJT",
-   "strength": 75,
-   "reason": "Trump Media doubling down on Truth Social and Trump brand; bullish for DJT stock."
-  },
-  {
-   "date": "2026-08-11T00:03:00Z",
-   "platform": "News",
    "text": "As Trump Media Scraps Some Businesses, It's Doubling Down on Truth Social and the President - usnews.com \u2014 As Trump Media Scraps Some Businesses, It's Doubling Down on Truth Social and the President\u00a0\u00a0usnews.com",
    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQjRtbUE3bU1LWmFTMHFjQmJHd2JlRWpkSnRhWThmNlJRVTltMVVQTllKWmM0V29tb3p3Wk5jTXpDRmpBV2ZuQzJjQWpfelJTUVg5ZE82MTJ1ZGR5b0FzWkZaOFhGbWNOOWsyZm8tYmtJamNlVkZVcW1ILTJsalEtTGdqVThqSzdaam52d0lYRzN2bldUTEoxX1NXMHd6X0Z1d2dsVzhOOXhNLUZOMWlDRkFMZXVCczViUG53RDVsQldueHZjQ3k3d3AxbHZhZ0ZaZ2ktNXNLNkN4RkFCR1lj?oc=5",
    "tickers": [
@@ -96,7 +112,15 @@
    "direction": "SELL",
    "primary_ticker": "DJT",
    "strength": 45,
-   "reason": "Trump media company financial loss signals weakness in DJT underlying business"
+   "reason": "Trump media company financial loss signals weakness in DJT underlying business",
+   "price_since": {
+    "ticker": "DJT",
+    "pct": 0.1,
+    "base": 9.39,
+    "last": 9.4,
+    "base_date": "2026-08-10",
+    "last_date": "2026-08-11"
+   }
   },
   {
    "date": "2026-08-09T18:49:21Z",
@@ -112,7 +136,15 @@
    "direction": "WATCH",
    "primary_ticker": "DJT",
    "strength": 15,
-   "reason": "News headline about Trump Media stock; no directional signal implied by title alone."
+   "reason": "News headline about Trump Media stock; no directional signal implied by title alone.",
+   "price_since": {
+    "ticker": "DJT",
+    "pct": 0.1,
+    "base": 9.39,
+    "last": 9.4,
+    "base_date": "2026-08-10",
+    "last_date": "2026-08-11"
+   }
   },
   {
    "date": "2026-08-09T18:18:07Z",
@@ -128,7 +160,15 @@
    "direction": "WATCH",
    "primary_ticker": "XLE",
    "strength": 25,
-   "reason": "Trump-endorsed gas station network regulatory inspection; ambiguous direction for energy sector"
+   "reason": "Trump-endorsed gas station network regulatory inspection; ambiguous direction for energy sector",
+   "price_since": {
+    "ticker": "XLE",
+    "pct": 0.8,
+    "base": 60.18,
+    "last": 60.67,
+    "base_date": "2026-08-10",
+    "last_date": "2026-08-11"
+   }
   },
   {
    "date": "2026-08-09T18:18:07Z",
@@ -144,7 +184,15 @@
    "direction": "WATCH",
    "primary_ticker": "XLE",
    "strength": 25,
-   "reason": "Trump-endorsed fuel gas stations under regulatory inspection; unclear net impact on energy sector"
+   "reason": "Trump-endorsed fuel gas stations under regulatory inspection; unclear net impact on energy sector",
+   "price_since": {
+    "ticker": "XLE",
+    "pct": 0.8,
+    "base": 60.18,
+    "last": 60.67,
+    "base_date": "2026-08-10",
+    "last_date": "2026-08-11"
+   }
   },
   {
    "date": "2026-08-09T04:02:28Z",
@@ -160,7 +208,15 @@
    "direction": "BUY",
    "primary_ticker": "XAR",
    "strength": 50,
-   "reason": "Pentagon accelerating defense weapons production due to Iran conflict; bullish for defense contractors."
+   "reason": "Pentagon accelerating defense weapons production due to Iran conflict; bullish for defense contractors.",
+   "price_since": {
+    "ticker": "XAR",
+    "pct": 1.2,
+    "base": 288.29,
+    "last": 291.67,
+    "base_date": "2026-08-10",
+    "last_date": "2026-08-11"
+   }
   },
   {
    "date": "2026-08-08T23:52:58Z",
@@ -176,7 +232,15 @@
    "direction": "SELL",
    "primary_ticker": "DVLT",
    "strength": 35,
-   "reason": "Stock tumbles on discounted offering; market-relevant but Trump connection absent or tangential."
+   "reason": "Stock tumbles on discounted offering; market-relevant but Trump connection absent or tangential.",
+   "price_since": {
+    "ticker": "DVLT",
+    "pct": 0.0,
+    "base": 0.3,
+    "last": 0.3,
+    "base_date": "2026-08-10",
+    "last_date": "2026-08-11"
+   }
   },
   {
    "date": "2026-08-08T23:52:58Z",
@@ -192,7 +256,15 @@
    "direction": "SELL",
    "primary_ticker": "DVLT",
    "strength": 40,
-   "reason": "Stock decline due to discounted offering dilution, unrelated to Trump but is_market=true for stock-specific move"
+   "reason": "Stock decline due to discounted offering dilution, unrelated to Trump but is_market=true for stock-specific move",
+   "price_since": {
+    "ticker": "DVLT",
+    "pct": 0.0,
+    "base": 0.3,
+    "last": 0.3,
+    "base_date": "2026-08-10",
+    "last_date": "2026-08-11"
+   }
   },
   {
    "date": "2026-08-08T23:23:00Z",
@@ -208,7 +280,15 @@
    "direction": "WATCH",
    "primary_ticker": "XLE",
    "strength": 25,
-   "reason": "Expectation Trump will lower gas prices; bearish for oil/energy sector if prices fall, but direction depends on policy execution."
+   "reason": "Expectation Trump will lower gas prices; bearish for oil/energy sector if prices fall, but direction depends on policy execution.",
+   "price_since": {
+    "ticker": "XLE",
+    "pct": 0.8,
+    "base": 60.18,
+    "last": 60.67,
+    "base_date": "2026-08-10",
+    "last_date": "2026-08-11"
+   }
   },
   {
    "date": "2026-08-08T23:23:00Z",
@@ -224,7 +304,15 @@
    "direction": "WATCH",
    "primary_ticker": "XLE",
    "strength": 20,
-   "reason": "Trump pressure on gasoline prices; vague macro call, direction depends on policy outcome"
+   "reason": "Trump pressure on gasoline prices; vague macro call, direction depends on policy outcome",
+   "price_since": {
+    "ticker": "XLE",
+    "pct": 0.8,
+    "base": 60.18,
+    "last": 60.67,
+    "base_date": "2026-08-10",
+    "last_date": "2026-08-11"
+   }
   },
   {
    "date": "2026-08-08T22:27:30Z",
@@ -240,7 +328,15 @@
    "direction": "WATCH",
    "primary_ticker": "SMH",
    "strength": 15,
-   "reason": "Semiconductor market move unrelated to Trump; news noise"
+   "reason": "Semiconductor market move unrelated to Trump; news noise",
+   "price_since": {
+    "ticker": "SMH",
+    "pct": 1.2,
+    "base": 569.41,
+    "last": 576.11,
+    "base_date": "2026-08-10",
+    "last_date": "2026-08-11"
+   }
   },
   {
    "date": "2026-08-08T22:27:30Z",
@@ -256,7 +352,15 @@
    "direction": "BUY",
    "primary_ticker": "SMH",
    "strength": 30,
-   "reason": "SK Hynix major DRAM offering and strength signals semiconductor sector momentum"
+   "reason": "SK Hynix major DRAM offering and strength signals semiconductor sector momentum",
+   "price_since": {
+    "ticker": "SMH",
+    "pct": 1.2,
+    "base": 569.41,
+    "last": 576.11,
+    "base_date": "2026-08-10",
+    "last_date": "2026-08-11"
+   }
   },
   {
    "date": "2026-08-08T21:46:17Z",
@@ -272,7 +376,15 @@
    "direction": "BUY",
    "primary_ticker": "IBM",
    "strength": 85,
-   "reason": "Trump administration awarded IBM $1B federal grant for quantum foundry; direct federal contract to named public company."
+   "reason": "Trump administration awarded IBM $1B federal grant for quantum foundry; direct federal contract to named public company.",
+   "price_since": {
+    "ticker": "IBM",
+    "pct": 1.2,
+    "base": 236.31,
+    "last": 239.04,
+    "base_date": "2026-08-10",
+    "last_date": "2026-08-11"
+   }
   },
   {
    "date": "2026-08-08T21:46:17Z",
@@ -288,7 +400,15 @@
    "direction": "BUY",
    "primary_ticker": "IBM",
    "strength": 85,
-   "reason": "Trump administration awards $1B quantum grant to IBM; direct federal contract to named public company"
+   "reason": "Trump administration awards $1B quantum grant to IBM; direct federal contract to named public company",
+   "price_since": {
+    "ticker": "IBM",
+    "pct": 1.1,
+    "base": 236.31,
+    "last": 238.97,
+    "base_date": "2026-08-10",
+    "last_date": "2026-08-11"
+   }
   },
   {
    "date": "2026-08-08T18:47:18Z",
@@ -304,7 +424,15 @@
    "direction": "BUY",
    "primary_ticker": "KEEL",
    "strength": 45,
-   "reason": "Data center lease announcement driving retail interest and stock rally"
+   "reason": "Data center lease announcement driving retail interest and stock rally",
+   "price_since": {
+    "ticker": "KEEL",
+    "pct": -0.3,
+    "base": 3.4,
+    "last": 3.39,
+    "base_date": "2026-08-10",
+    "last_date": "2026-08-11"
+   }
   },
   {
    "date": "2026-08-08T18:01:16Z",
@@ -320,7 +448,15 @@
    "direction": "WATCH",
    "primary_ticker": "BB",
    "strength": 35,
-   "reason": "Retail speculation on QNX/AI uplift loosely linked to Trump narrative; ambiguous direction"
+   "reason": "Retail speculation on QNX/AI uplift loosely linked to Trump narrative; ambiguous direction",
+   "price_since": {
+    "ticker": "BB",
+    "pct": 3.7,
+    "base": 8.83,
+    "last": 9.16,
+    "base_date": "2026-08-10",
+    "last_date": "2026-08-11"
+   }
   },
   {
    "date": "2026-08-08T18:01:16Z",
@@ -336,7 +472,15 @@
    "direction": "WATCH",
    "primary_ticker": "BB",
    "strength": 20,
-   "reason": "Retail speculation on BB/QNX; uncertain technicals, not Trump-driven."
+   "reason": "Retail speculation on BB/QNX; uncertain technicals, not Trump-driven.",
+   "price_since": {
+    "ticker": "BB",
+    "pct": 3.7,
+    "base": 8.83,
+    "last": 9.16,
+    "base_date": "2026-08-10",
+    "last_date": "2026-08-11"
+   }
   },
   {
    "date": "2026-08-08T13:29:30Z",
@@ -352,7 +496,15 @@
    "direction": "BUY",
    "primary_ticker": "SPY",
    "strength": 35,
-   "reason": "Analyst commentary that Trump drives market valuations; indirect bullish macro read"
+   "reason": "Analyst commentary that Trump drives market valuations; indirect bullish macro read",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": 0.1,
+    "base": 773.03,
+    "last": 773.47,
+    "base_date": "2026-08-10",
+    "last_date": "2026-08-11"
+   }
   },
   {
    "date": "2026-08-08T12:09:26Z",
@@ -368,7 +520,15 @@
    "direction": "BUY",
    "primary_ticker": "DELL",
    "strength": 85,
-   "reason": "Trump explicitly endorses Dell, stock spikes on direct praise"
+   "reason": "Trump explicitly endorses Dell, stock spikes on direct praise",
+   "price_since": {
+    "ticker": "DELL",
+    "pct": -2.9,
+    "base": 457.88,
+    "last": 444.55,
+    "base_date": "2026-08-10",
+    "last_date": "2026-08-11"
+   }
   },
   {
    "date": "2026-08-08T12:09:26Z",
@@ -384,7 +544,15 @@
    "direction": "BUY",
    "primary_ticker": "DELL",
    "strength": 85,
-   "reason": "Trump explicitly endorses Dell; direct stock spike cited."
+   "reason": "Trump explicitly endorses Dell; direct stock spike cited.",
+   "price_since": {
+    "ticker": "DELL",
+    "pct": -2.8,
+    "base": 457.88,
+    "last": 444.95,
+    "base_date": "2026-08-10",
+    "last_date": "2026-08-11"
+   }
   },
   {
    "date": "2026-08-08T12:07:04Z",
@@ -403,9 +571,9 @@
    "reason": "Eric Trump bullish call on Bitcoin reaching $1M; crypto upside signal",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": -0.9,
+    "pct": -1.5,
     "base": 64904.69,
-    "last": 64312.0,
+    "last": 63898.78,
     "base_date": "2026-08-08",
     "last_date": "2026-08-11"
    }
@@ -427,9 +595,9 @@
    "reason": "Eric Trump bullish Bitcoin call targets $1M, signals Trump family crypto endorsement",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": -0.9,
+    "pct": -1.5,
     "base": 64904.69,
-    "last": 64312.0,
+    "last": 63898.78,
     "base_date": "2026-08-08",
     "last_date": "2026-08-11"
    }
@@ -448,7 +616,15 @@
    "direction": "SELL",
    "primary_ticker": "PLTR",
    "strength": 45,
-   "reason": "Burry short call on Palantir despite Trump endorsement; bearish signal from prominent investor"
+   "reason": "Burry short call on Palantir despite Trump endorsement; bearish signal from prominent investor",
+   "price_since": {
+    "ticker": "PLTR",
+    "pct": 0.8,
+    "base": 175.23,
+    "last": 176.68,
+    "base_date": "2026-08-10",
+    "last_date": "2026-08-11"
+   }
   },
   {
    "date": "2026-08-08T10:35:33Z",
@@ -464,7 +640,15 @@
    "direction": "WATCH",
    "primary_ticker": "PLTR",
    "strength": 45,
-   "reason": "Conflicting signals: Trump endorsement bullish vs. Burry short positioning; net market-relevant but direction unclear"
+   "reason": "Conflicting signals: Trump endorsement bullish vs. Burry short positioning; net market-relevant but direction unclear",
+   "price_since": {
+    "ticker": "PLTR",
+    "pct": 0.8,
+    "base": 175.23,
+    "last": 176.68,
+    "base_date": "2026-08-10",
+    "last_date": "2026-08-11"
+   }
   },
   {
    "date": "2026-08-08T09:10:17Z",
@@ -480,7 +664,15 @@
    "direction": "BUY",
    "primary_ticker": "XLE",
    "strength": 40,
-   "reason": "Trump praises $3B mineral investment to counter China; bullish on domestic mining/energy sector capacity"
+   "reason": "Trump praises $3B mineral investment to counter China; bullish on domestic mining/energy sector capacity",
+   "price_since": {
+    "ticker": "XLE",
+    "pct": 0.8,
+    "base": 60.18,
+    "last": 60.67,
+    "base_date": "2026-08-10",
+    "last_date": "2026-08-11"
+   }
   },
   {
    "date": "2026-08-08T09:10:17Z",
@@ -496,7 +688,15 @@
    "direction": "BUY",
    "primary_ticker": "SPY",
    "strength": 45,
-   "reason": "US mineral investment counter to China supports domestic supply chain; macro bullish"
+   "reason": "US mineral investment counter to China supports domestic supply chain; macro bullish",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": 0.1,
+    "base": 773.03,
+    "last": 773.48,
+    "base_date": "2026-08-10",
+    "last_date": "2026-08-11"
+   }
   },
   {
    "date": "2026-08-08T09:01:21Z",
@@ -512,7 +712,15 @@
    "direction": "WATCH",
    "primary_ticker": "GBTC",
    "strength": 25,
-   "reason": "Eric Trump's Bitcoin holdings commentary is indirect; stock decline driven by BTC price, not Trump signal"
+   "reason": "Eric Trump's Bitcoin holdings commentary is indirect; stock decline driven by BTC price, not Trump signal",
+   "price_since": {
+    "ticker": "GBTC",
+    "pct": -0.1,
+    "base": 49.53,
+    "last": 49.47,
+    "base_date": "2026-08-10",
+    "last_date": "2026-08-11"
+   }
   },
   {
    "date": "2026-08-08T09:01:21Z",
@@ -531,9 +739,9 @@
    "reason": "Eric Trump's Bitcoin holdings commentary; stock falling despite claim shows mixed signal",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": -0.9,
+    "pct": -1.5,
     "base": 64904.69,
-    "last": 64312.0,
+    "last": 63898.78,
     "base_date": "2026-08-08",
     "last_date": "2026-08-11"
    }
@@ -2501,30 +2709,6 @@
    }
   },
   {
-   "date": "2026-07-31T09:28:09Z",
-   "platform": "News",
-   "text": "MSFT Stock Heads For Best Month Since 2007 As Q4 Cloud Strength Revives Microsoft Bull Case - TradingView \u2014 MSFT Stock Heads For Best Month Since 2007 As Q4 Cloud Strength Revives Microsoft Bull Case\u00a0\u00a0TradingView",
-   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQcVZIUy1uV0hkRTFHYmtINnpVMlZhWjFVRXljY1ktYjRHdEZNY0JuOEQ3TUhoSFdzT2h6eFRLWjFuN1p1bEJJSmw5andkTkMwSTV1b2JhdVZJTUlZZGJMY0dQWXA5eXJQdmpnNjhHZXVSbHFaRWtXNUZUY1A1SklKZHJvWm9jYmNYcU9aTUJvTzdDZzZhQktoV090dVpJdTdzSHB4dnoxZk1aRzhPS2pBcUU1S21jemcxVkRTdHZiVTVWVU5Gd2tqVVNLOGVYcThBZmQ4VENPRnFIbFhqQTNOS0ZaeUtyUlE?oc=5",
-   "tickers": [
-    "MSFT"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "MSFT",
-   "strength": 65,
-   "reason": "MSFT cloud strength and strong quarterly performance drive bullish sentiment",
-   "price_since": {
-    "ticker": "MSFT",
-    "pct": 4.9,
-    "base": 464.72,
-    "last": 487.5,
-    "base_date": "2026-07-31",
-    "last_date": "2026-08-03"
-   }
-  },
-  {
    "curated": true,
    "classified": true,
    "is_market": true,
@@ -2577,57 +2761,6 @@
    "reason": "Trump's majority-owned stock debuts \u2014 pure sentiment play, extremely volatile and headline-driven.",
    "market_reaction": "DJT spiked on debut then stayed volatile, moving heavily on Trump political/legal news.",
    "url": "https://www.nasdaq.com/market-activity/stocks/djt"
-  },
-  {
-   "date": "2021-07-01T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "HARRIS CORPORATION was awarded a $2.1B federal contract from Department of Transportation.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_693KA821F00222_6920_DTFA0102D03006_6920",
-   "tickers": [
-    "HRS"
-   ],
-   "contract_amount": 2.12,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "HRS",
-   "strength": 75,
-   "reason": "Harris Corp awarded $2.1B federal contract; large defense/aerospace contract is bullish for awardee."
-  },
-  {
-   "date": "2019-10-16T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "THE BOEING COMPANY was awarded a $2.7B federal contract from National Aeronautics and Space Administration.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_80MSFC20C0052_8000_-NONE-_-NONE-",
-   "tickers": [
-    "BA"
-   ],
-   "contract_amount": 2.74,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "BA",
-   "strength": 75,
-   "reason": "Boeing awarded $2.7B NASA federal contract; large space/defense contract is bullish for awardee."
-  },
-  {
-   "date": "2019-06-19T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "GENERAL DYNAMICS INFORMATION TECHNOLOGY, INC. was awarded a $1.6B federal contract from Department of State.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_19AQMM18C0185_1900_-NONE-_-NONE-",
-   "tickers": [
-    "GD"
-   ],
-   "contract_amount": 1.61,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "GD",
-   "strength": 75,
-   "reason": "General Dynamics IT awarded $1.6B federal contract; large defense/state contract is bullish for awardee."
   }
  ],
  "how_to_read": "Each card is Claude's read of a public Trump post: the affected ticker, whether it implies BUY / SELL / WATCH, a 0\u2013100 strength (how explicit/emphatic the post is \u2014 NOT a profit predictor), and why. A 2-year backtest found these don't beat buy-and-hold, so this is for awareness, not trading. Not financial advice."
