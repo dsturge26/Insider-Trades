@@ -1,12 +1,12 @@
 {
- "last_updated": "2026-08-11T21:29:32Z",
+ "last_updated": "2026-08-11T22:21:09Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
-   "date": "2026-08-11T19:23:56Z",
+   "date": "2026-08-11T21:15:21Z",
    "platform": "News",
    "text": "Elizabeth Warren Praises Trump\u2019s Latest Move With Defense Contractors - The Daily Wire \u2014 Elizabeth Warren Praises Trump\u2019s Latest Move With Defense Contractors\u00a0\u00a0The Daily Wire",
-   "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxNMldtUXQ2LUJTejlkOUdkV05VSUFQYmY3dFZIRjY3cmRvSVdsNDNublJROEpUb2VSYnB0WW9sRDhhRWxVUU5pZE8yZ05pSjgyV2M3b3BwNkdkSVNtNFFZdmpjSmk4SFJmX05tMjRtVGR1d3dDOEJObGp1Ui1meG9OWTZSWVU4ZWFXLXNxM0VvRnRERER0S2RCQmt4T2NRSmtIeE9ONms4S1lySExQYkd4QTBlWGhlLWVzZ1dRc18zbERxZWIzcXVBcXM2WVJ0R2xEYmIxSERFOVFPTmFfQ3k2RFRXRDJPaWZlaVJkbG95aTh4VW5pUDdZS0FlX2g4X1pMQVJHUzd5SGJwdVBHbkZLbVJhZGE0a1RjU3dSN3ZlZTdVOTA2WHdaOVI5YkRpVTFhZlE3ZkVqUHNLMExLbV9wT1FFcFRiLTVuTWRyY1VvQ3RSWU92VGRiMXUwejFJdDN4N0FyMzcyWnZDZm8xbVM1aUpXOW9WQXNhR1pOVjZNVzlqUUxKa2Q1ZUZvVnFYT1NjMkh6VWN0UkNQUWdPa0Q0NHZ6bnN1TlByS0tJMHBlajlYZWItTnJVdHB3WWU?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNam4yYXA4dTQ4eWpYMjlCNGd0bWpuT09IVWJsanlLMzdxblkwRjQ2MnpPckFvYVdyQW9zMnpVUEFPSUZLaG02QmEtTklPa1RMbjlCdlZIQ0lJY0xnM0Q3eXAxY2pUZ2p5dTZETUhaRU5iR2lFajJzYzd2cEJTT19acHRtQ2JabWNDVlNaWGhrV3hiQmJQRC16Mlh4UW1nb0xt?oc=5",
    "tickers": [
     "XAR"
    ],
@@ -16,7 +16,23 @@
    "direction": "BUY",
    "primary_ticker": "XAR",
    "strength": 35,
-   "reason": "Warren praise for Trump defense contractor move signals potential regulatory relief or increased spending in defense sector"
+   "reason": "Defense contractor sector support implies bullish sector sentiment"
+  },
+  {
+   "date": "2026-08-11T17:30:54Z",
+   "platform": "News",
+   "text": "Trump stands to profit off US policy announcements by selling fast access to his social media posts - Scripps News \u2014 Trump stands to profit off US policy announcements by selling fast access to his social media posts\u00a0\u00a0Scripps News",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVDNqYmRTZlluLUoxTkJDckN4XzFSaXJLSDJLTnJNb1k2V2dfM1F5LW9jQ1RzdUp1dEk0WDgtVTR4bWpKRFBLVjFBWkViTkZ2QThMR05fMDZKWEJ1dG9HdkRyei1DX182TlhHdU9fRzMwMFVveWRjNlpSSTg0YzV6V25kX1ZZMFVDNzBMS2duc0d5Zy1zcF90a2xGU29CV1UwalZucjQzU2hkajlVY09ndV94SjJzOFJjdWtiM2tRdkZZT1FfVXBNLVRscUppWGJoVGxaWTlHdVRHYTJ5anNYc3BmMy0?oc=5",
+   "tickers": [
+    "DJT"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "DJT",
+   "strength": 40,
+   "reason": "Trump Media profiting from policy announcements; mixed signal on valuation and legality"
   },
   {
    "date": "2026-08-11T14:52:47Z",
@@ -65,6 +81,22 @@
    "primary_ticker": "NVDA",
    "strength": 25,
    "reason": "Nvidia mentioned as 'investible asset' but no explicit buy/sell signal; direction ambiguous."
+  },
+  {
+   "date": "2026-08-11T12:36:10Z",
+   "platform": "News",
+   "text": "Nvidia's 'investible asset,' U.S. oil reserve shrinks, Trump's vaccine order and more in Morning Squawk - cnbc.com \u2014 Nvidia's 'investible asset,' U.S. oil reserve shrinks, Trump's vaccine order and more in Morning Squawk\u00a0\u00a0cnbc.com",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSUZqclJKR1paT3k3V0FGY2IydU5MdUYtRm1ieWxpSmswaUFUdVpUdjNrSGRJS2tpYm1HVnRwNDFWaHR5ajgwbkZIckdHYjVaUnVhSW5XSEJyZlhkNmsxV2txc1V6c1J2NE1TLS0xbC1abVJaMVNxejJDampnY29jOHpTZ08wVWsyLUlz0gGQAUFVX3lxTE02eFB5OThJd2oxdnI5aEhtUFR4dld6RDNMWVlpMW1RMXNoWU1nel9WTjhvbkZmblJVTGdjc3BKLWRlLXZzYV9jLVRIanZXcXR5QXJoeEl3RFJIRlE4ZHFGWWJWV3NXME11emt2LU1sNE9JSFY5aDF0VDZ6Zjd6TmJJX21NMFM2NE1GbWc5S1RkRw?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "SPY",
+   "strength": 25,
+   "reason": "Mixed signals: Nvidia bullish, oil reserve decline and vaccine order bearish; net ambiguous"
   },
   {
    "date": "2026-08-11T12:14:15Z",
@@ -2675,22 +2707,6 @@
    "primary_ticker": "DJT",
    "strength": 45,
    "reason": "Truth Social paid early access feature is a monetization driver for Trump Media; concerns noted but feature launch is bullish for DJT revenue"
-  },
-  {
-   "date": "2026-08-01T16:23:54Z",
-   "platform": "News",
-   "text": "Trump\u2019s paid early access to Truth Social posts launches. Here\u2019s why officials are worried - newswav.com \u2014 Trump\u2019s paid early access to Truth Social posts launches. Here\u2019s why officials are worried\u00a0\u00a0newswav.com",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQnpweldZZ2ItSzVwTHFQalY5S2w3b3VwM0szZlh5OUZmQ09oNjgtUVQyQk9JMFJvWnhWeVBNMTJ4Vl9WYTE0X3FabkdtajNyZ3BwSUNyU2JlSXlnR1dNLTZFRWNOemcwa0RRWm1hZmRsWHhOVjdDRDY2dmpfVkc3alQ0LWRxSV9JQnlFYi1mcXBsOWFrVG1JRXd3Si1yM2V4ZV91clJXdHhScmR2eEZwWXdfVEptcXM?oc=5",
-   "tickers": [
-    "DJT"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "DJT",
-   "strength": 45,
-   "reason": "Truth Social paid early access scheme launches; potential regulatory/legal risk and reputational concern for DJT stock"
   },
   {
    "curated": true,
