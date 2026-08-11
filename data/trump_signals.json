@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-08-11T04:19:30Z",
+ "last_updated": "2026-08-11T05:35:25Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-08-10T22:43:12Z",
+   "platform": "News",
+   "text": "Trump media company announces a massive loss and new turnaround effort - MyNorthwest.com \u2014 Trump media company announces a massive loss and new turnaround effort\u00a0\u00a0MyNorthwest.com",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMU40WlZJdUJPc0ExY3FaSkpXRFlfTC1YRS0zdjNBSm9Nb1RRbEV2aTl1ZU1KRVRXanYxamhiMXJldnhVRzkxeFlJdFpSa1VVZVVTaXNvcGZwOGUyWkNnWXdoTENXTnJrY3Y2UHRJRzBPa3l5NmtVRVp5M0NGQjMwWHZyeEVTNU51a2xzaWlLMi1wbkt4VDlmUnB2eDNDN1Yzczh3Q1BGNllRQVR5ZVR2ag?oc=5",
+   "tickers": [
+    "DJT"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "DJT",
+   "strength": 45,
+   "reason": "Trump media company financial loss signals weakness in DJT underlying business"
+  },
   {
    "date": "2026-08-09T18:49:21Z",
    "platform": "News",
@@ -129,6 +145,22 @@
    "primary_ticker": "SMH",
    "strength": 15,
    "reason": "Semiconductor market move unrelated to Trump; news noise"
+  },
+  {
+   "date": "2026-08-08T22:27:30Z",
+   "platform": "News",
+   "text": "SK Hynix Targets $29B Nasdaq Offering \u2013 DRAM Jumps Over 4% Ahead Of Micron's Report - stocktwits.com \u2014 SK Hynix Targets $29B Nasdaq Offering \u2013 DRAM Jumps Over 4% Ahead Of Micron's Report\u00a0\u00a0stocktwits.com",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQVWh6bUc2UTNReFhfeldjczVpMzFLU2p6VXZEalVfSUd2MnFTbURJamJSWjdYdWNSaElTY3R2aG9YR1U2bDM1U3ljSXYxeTFJVUQxdVlrdlRLeEk2ZzlJNS10bEkyOTVKdWxVcEdfemFzdUFTMkNnUnhEYWdfTWJhOW9FX2dYcnVaYjJsQ1hDVVBTUXJwTTFlcjRUVWROYUFwcnJOZ0oteUJsWEFuUGdpaGJJejVhczZFZjZaa3F4Rk1scW9jalotbjh6S19rWkZTTXNjckVDaEtfOFZE?oc=5",
+   "tickers": [
+    "SMH"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "SMH",
+   "strength": 30,
+   "reason": "SK Hynix major DRAM offering and strength signals semiconductor sector momentum"
   },
   {
    "date": "2026-08-08T21:46:17Z",
@@ -259,9 +291,33 @@
    "reason": "Eric Trump bullish call on Bitcoin reaching $1M; crypto upside signal",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": -1.3,
+    "pct": -1.5,
     "base": 64904.69,
-    "last": 64050.18,
+    "last": 63952.89,
+    "base_date": "2026-08-08",
+    "last_date": "2026-08-11"
+   }
+  },
+  {
+   "date": "2026-08-08T12:07:04Z",
+   "platform": "News",
+   "text": "Eric Trump Doubles Down On $1 Million Bitcoin Call \u2013 Says Crypto Is \u2018On The One-Yard Line\u2019 - stocktwits.com \u2014 Eric Trump Doubles Down On $1 Million Bitcoin Call \u2013 Says Crypto Is \u2018On The One-Yard Line\u2019\u00a0\u00a0stocktwits.com",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNX1pmRkZXRjdiRW5hMjBIczJUNUJIdGF6aldVWUh5a3NyTXlfM2RqczdicF96cDk3T1hqNmpNLWp5QXBJT0JkcWpJU0VzWXpUVWFFRkVEWlN6LTBCLUFkSGswd3BkRGZNWDZBa1pwdUtwTWpwUVlONEF6Ny1pMHpReUtsa2VNenVURDltcjRQcmFNWU1xT1RWOWMtdGdGenJ6Q0R6UnVSTS1qZlhkb1NsUHFxYTV2OW5wWjJVdmpLWkxFa3BaN1JSenpEX2o5VUFCSnFXT0FfM1B5alJNQ3c?oc=5",
+   "tickers": [
+    "BTC-USD"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "BTC-USD",
+   "strength": 50,
+   "reason": "Eric Trump bullish Bitcoin call targets $1M, signals Trump family crypto endorsement",
+   "price_since": {
+    "ticker": "BTC-USD",
+    "pct": -1.5,
+    "base": 64904.69,
+    "last": 63952.89,
     "base_date": "2026-08-08",
     "last_date": "2026-08-11"
    }
@@ -363,9 +419,9 @@
    "reason": "Eric Trump's Bitcoin holdings commentary; stock falling despite claim shows mixed signal",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": -1.3,
+    "pct": -1.5,
     "base": 64904.69,
-    "last": 64050.18,
+    "last": 63956.73,
     "base_date": "2026-08-08",
     "last_date": "2026-08-11"
    }
@@ -574,30 +630,6 @@
     "pct": -0.4,
     "base": 237.28,
     "last": 236.31,
-    "base_date": "2026-08-07",
-    "last_date": "2026-08-10"
-   }
-  },
-  {
-   "date": "2026-08-07T19:50:05Z",
-   "platform": "News",
-   "text": "Eric Trump Doubles Down On $1 Million Bitcoin Call \u2013 Says Crypto Is \u2018On The One-Yard Line\u2019 - stocktwits.com \u2014 Eric Trump Doubles Down On $1 Million Bitcoin Call \u2013 Says Crypto Is \u2018On The One-Yard Line\u2019\u00a0\u00a0stocktwits.com",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNX1pmRkZXRjdiRW5hMjBIczJUNUJIdGF6aldVWUh5a3NyTXlfM2RqczdicF96cDk3T1hqNmpNLWp5QXBJT0JkcWpJU0VzWXpUVWFFRkVEWlN6LTBCLUFkSGswd3BkRGZNWDZBa1pwdUtwTWpwUVlONEF6Ny1pMHpReUtsa2VNenVURDltcjRQcmFNWU1xT1RWOWMtdGdGenJ6Q0R6UnVSTS1qZlhkb1NsUHFxYTV2OW5wWjJVdmpLWkxFa3BaN1JSenpEX2o5VUFCSnFXT0FfM1B5alJNQ3c?oc=5",
-   "tickers": [
-    "BTC-USD"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "BTC-USD",
-   "strength": 65,
-   "reason": "Eric Trump bullish Bitcoin call ($1M target); family crypto advocacy signals support",
-   "price_since": {
-    "ticker": "BTC-USD",
-    "pct": -1.5,
-    "base": 64880.19,
-    "last": 63892.75,
     "base_date": "2026-08-07",
     "last_date": "2026-08-10"
    }
