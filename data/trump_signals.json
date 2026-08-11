@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-11T20:42:39Z",
+ "last_updated": "2026-08-11T21:29:32Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -321,6 +321,30 @@
    "primary_ticker": "XAR",
    "strength": 50,
    "reason": "Pentagon accelerating defense weapons production due to Iran conflict; bullish for defense contractors.",
+   "price_since": {
+    "ticker": "XAR",
+    "pct": 1.4,
+    "base": 288.29,
+    "last": 292.33,
+    "base_date": "2026-08-10",
+    "last_date": "2026-08-11"
+   }
+  },
+  {
+   "date": "2026-08-09T04:02:28Z",
+   "platform": "News",
+   "text": "Pentagon presses defense firms to build weapons as Iran war depletes stocks - washingtonpost.com \u2014 Pentagon presses defense firms to build weapons as Iran war depletes stocks\u00a0\u00a0washingtonpost.com",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMEVSY1poSEdoWXlVam44MEZhT2RqY3lRYWE1M001R2tlb2E3aUlWdEJHeWFvem5wY0ZXRzdKMzNTMTBCdUdHTWtxV2hucWRnVmk3SExENGk5M1lUeTN2RzA1V1F1RU54S041Q2U5WG5iZVdTUkhSUG5jQ3hna0tEeDNDNWVJN2E3ZzRRNl9lSmlrOXFtWFFKU3E0MmtrVkFQSmVqcmoyNDh5U29ZS1hRQ00wY3hKd1RNdklWWkZUaGo?oc=5",
+   "tickers": [
+    "XAR"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "XAR",
+   "strength": 55,
+   "reason": "Pentagon pressing defense firms to build weapons amid Iran conflict; bullish for defense sector",
    "price_since": {
     "ticker": "XAR",
     "pct": 1.4,
@@ -2667,38 +2691,6 @@
    "primary_ticker": "DJT",
    "strength": 45,
    "reason": "Truth Social paid early access scheme launches; potential regulatory/legal risk and reputational concern for DJT stock"
-  },
-  {
-   "date": "2026-08-01T11:39:05Z",
-   "platform": "News",
-   "text": "Trump stands to profit off US policy announcements by selling fast access to his social media posts - ABC News - Breaking News, Latest News and Videos \u2014 Trump stands to profit off US policy announcements by selling fast access to his social media posts\u00a0\u00a0ABC News - Breaking News, Latest News and Videos",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQY3JHZTltR2R5OFNuRzE5bGFRem1jU2VLN0JqOVJMcXJUU05qZWJaemNQb2VVTjA0ZkUyclZvVkptSWwtaE5hSXZlVHlGZzdCUlZmYkZRSTVsaFhWdFBaZmMteHh6YnR2WFhsVlA1VTdxazdXclJtR1lhREtwUzV0QlNxZzBMdUROeW1JM1NkY1JaVWstS3I4S0NqWWhFcGfSAaQBQVVfeXFMTTdOS0s5X3pnUVAtUUN3OHlKRVczTU9XR0dQZmVfQjRXUWJReDYzZTdhcnVwUGZGVThkTHNQY3RtQ3dCWXhMd2hCdzR3RVBqX2NBTmQ4UnJxZmgySVdsZkRieG1zbDY4YzZ4VElPa1I5S1dHa0pBTnBSUUdFMWVXV3RqcmxhZG1EYVZsR3liZmotTDRXU2xoUklfSkZpa3E1VUJscWU?oc=5",
-   "tickers": [
-    "DJT"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "DJT",
-   "strength": 35,
-   "reason": "Trump Media profit scheme from policy-timed access could affect DJT valuation; regulatory risk unclear."
-  },
-  {
-   "date": "2026-08-01T11:39:05Z",
-   "platform": "News",
-   "text": "Trump stands to profit off US policy announcements by selling fast access to his social media posts - abcnews.com \u2014 Trump stands to profit off US policy announcements by selling fast access to his social media posts\u00a0\u00a0abcnews.com",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQY3JHZTltR2R5OFNuRzE5bGFRem1jU2VLN0JqOVJMcXJUU05qZWJaemNQb2VVTjA0ZkUyclZvVkptSWwtaE5hSXZlVHlGZzdCUlZmYkZRSTVsaFhWdFBaZmMteHh6YnR2WFhsVlA1VTdxazdXclJtR1lhREtwUzV0QlNxZzBMdUROeW1JM1NkY1JaVWstS3I4S0NqWWhFcGfSAaQBQVVfeXFMTTdOS0s5X3pnUVAtUUN3OHlKRVczTU9XR0dQZmVfQjRXUWJReDYzZTdhcnVwUGZGVThkTHNQY3RtQ3dCWXhMd2hCdzR3RVBqX2NBTmQ4UnJxZmgySVdsZkRieG1zbDY4YzZ4VElPa1I5S1dHa0pBTnBSUUdFMWVXV3RqcmxhZG1EYVZsR3liZmotTDRXU2xoUklfSkZpa3E1VUJscWU?oc=5",
-   "tickers": [
-    "DJT"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "DJT",
-   "strength": 45,
-   "reason": "Trump Media stands to profit from preferential Truth Social access sales; bullish for DJT but indirect and regulatory-risk laden"
   },
   {
    "curated": true,
