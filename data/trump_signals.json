@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-11T00:33:13Z",
+ "last_updated": "2026-08-11T02:52:37Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -163,6 +163,22 @@
    "reason": "Trump administration awards $1B quantum grant to IBM; direct federal contract to named public company"
   },
   {
+   "date": "2026-08-08T18:47:18Z",
+   "platform": "News",
+   "text": "KEEL Stock Jumps Onto Retail Radar As Investors Eye First Data Center Lease Announcement - Stocktwits \u2014 KEEL Stock Jumps Onto Retail Radar As Investors Eye First Data Center Lease Announcement\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVHpiUDN5T2I5aVFzNkpxZGZjdUJEVG0xLXN0c3pVRWo2REVuRGNZTFpvLXJTT2luZVhnTC1iVmFtcFYxbkpnanphZ3E0N0ExWmx5UGh4cGw2QmRiQXl3RG81OWlKRnEwOHVHT0FWdXlGd2VIZVhjM1k2TTU0THctQ3cyUVhNNG9JcGJQMlhPVHdWbkFVSVpfR25lNzVCMTJ4cGZRR05JcnR2SWFvSGc1VnYyMzFMMnFDLURZLW5pMGk3UUwyWktaVVNmZUdDZ21QZGQ0bEZfU0o1LXRvREhFd3h2NXBTMjQ?oc=5",
+   "tickers": [
+    "KEEL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "KEEL",
+   "strength": 45,
+   "reason": "Data center lease announcement driving retail interest and stock rally"
+  },
+  {
    "date": "2026-08-08T18:01:16Z",
    "platform": "News",
    "text": "BB Stock To $10? Retail Traders Eye New Highs On QNX, Physical AI Boost - Stocktwits \u2014 BB Stock To $10? Retail Traders Eye New Highs On QNX, Physical AI Boost\u00a0\u00a0Stocktwits",
@@ -225,6 +241,30 @@
    "primary_ticker": "DELL",
    "strength": 85,
    "reason": "Trump explicitly endorses Dell; direct stock spike cited."
+  },
+  {
+   "date": "2026-08-08T12:07:04Z",
+   "platform": "News",
+   "text": "Eric Trump Doubles Down On $1 Million Bitcoin Call \u2013 Says Crypto Is \u2018On The One-Yard Line\u2019 - Stocktwits \u2014 Eric Trump Doubles Down On $1 Million Bitcoin Call \u2013 Says Crypto Is \u2018On The One-Yard Line\u2019\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNX1pmRkZXRjdiRW5hMjBIczJUNUJIdGF6aldVWUh5a3NyTXlfM2RqczdicF96cDk3T1hqNmpNLWp5QXBJT0JkcWpJU0VzWXpUVWFFRkVEWlN6LTBCLUFkSGswd3BkRGZNWDZBa1pwdUtwTWpwUVlONEF6Ny1pMHpReUtsa2VNenVURDltcjRQcmFNWU1xT1RWOWMtdGdGenJ6Q0R6UnVSTS1qZlhkb1NsUHFxYTV2OW5wWjJVdmpLWkxFa3BaN1JSenpEX2o5VUFCSnFXT0FfM1B5alJNQ3c?oc=5",
+   "tickers": [
+    "BTC-USD"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "BTC-USD",
+   "strength": 55,
+   "reason": "Eric Trump bullish call on Bitcoin reaching $1M; crypto upside signal",
+   "price_since": {
+    "ticker": "BTC-USD",
+    "pct": -1.4,
+    "base": 64904.69,
+    "last": 63964.62,
+    "base_date": "2026-08-08",
+    "last_date": "2026-08-11"
+   }
   },
   {
    "date": "2026-08-08T10:35:33Z",
@@ -323,9 +363,9 @@
    "reason": "Eric Trump's Bitcoin holdings commentary; stock falling despite claim shows mixed signal",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": -1.5,
+    "pct": -1.4,
     "base": 64904.69,
-    "last": 63930.44,
+    "last": 63964.62,
     "base_date": "2026-08-08",
     "last_date": "2026-08-11"
    }
@@ -534,30 +574,6 @@
     "pct": -0.4,
     "base": 237.28,
     "last": 236.31,
-    "base_date": "2026-08-07",
-    "last_date": "2026-08-10"
-   }
-  },
-  {
-   "date": "2026-08-07T19:50:05Z",
-   "platform": "News",
-   "text": "Eric Trump Doubles Down On $1 Million Bitcoin Call \u2013 Says Crypto Is \u2018On The One-Yard Line\u2019 - Stocktwits \u2014 Eric Trump Doubles Down On $1 Million Bitcoin Call \u2013 Says Crypto Is \u2018On The One-Yard Line\u2019\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNX1pmRkZXRjdiRW5hMjBIczJUNUJIdGF6aldVWUh5a3NyTXlfM2RqczdicF96cDk3T1hqNmpNLWp5QXBJT0JkcWpJU0VzWXpUVWFFRkVEWlN6LTBCLUFkSGswd3BkRGZNWDZBa1pwdUtwTWpwUVlONEF6Ny1pMHpReUtsa2VNenVURDltcjRQcmFNWU1xT1RWOWMtdGdGenJ6Q0R6UnVSTS1qZlhkb1NsUHFxYTV2OW5wWjJVdmpLWkxFa3BaN1JSenpEX2o5VUFCSnFXT0FfM1B5alJNQ3c?oc=5",
-   "tickers": [
-    "BTC-USD"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "BTC-USD",
-   "strength": 70,
-   "reason": "Eric Trump explicitly bullish on Bitcoin at $1M target; strong crypto endorsement signal.",
-   "price_since": {
-    "ticker": "BTC-USD",
-    "pct": -1.5,
-    "base": 64880.19,
-    "last": 63892.75,
     "base_date": "2026-08-07",
     "last_date": "2026-08-10"
    }
@@ -841,22 +857,6 @@
    "primary_ticker": "INTC",
    "strength": 60,
    "reason": "Trump administration support for Intel semiconductor foundry/subsidies; tailwind for chip sector leadership"
-  },
-  {
-   "date": "2026-08-07T03:51:33Z",
-   "platform": "News",
-   "text": "KEEL Stock Jumps Onto Retail Radar As Investors Eye First Data Center Lease Announcement - Stocktwits \u2014 KEEL Stock Jumps Onto Retail Radar As Investors Eye First Data Center Lease Announcement\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVHpiUDN5T2I5aVFzNkpxZGZjdUJEVG0xLXN0c3pVRWo2REVuRGNZTFpvLXJTT2luZVhnTC1iVmFtcFYxbkpnanphZ3E0N0ExWmx5UGh4cGw2QmRiQXl3RG81OWlKRnEwOHVHT0FWdXlGd2VIZVhjM1k2TTU0THctQ3cyUVhNNG9JcGJQMlhPVHdWbkFVSVpfR25lNzVCMTJ4cGZRR05JcnR2SWFvSGc1VnYyMzFMMnFDLURZLW5pMGk3UUwyWktaVVNmZUdDZ21QZGQ0bEZfU0o1LXRvREhFd3h2NXBTMjQ?oc=5",
-   "tickers": [
-    "KEEL"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "KEEL",
-   "strength": 35,
-   "reason": "KEEL data center lease announcement sparks retail interest"
   },
   {
    "date": "2026-08-06T20:38:27.627Z",
@@ -2560,40 +2560,6 @@
    "primary_ticker": "LMT",
    "strength": 75,
    "reason": "Lockheed Martin awarded $2.0B NASA federal contract; large space/defense contract is bullish for awardee."
-  },
-  {
-   "date": "2007-09-01T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "THE BOEING COMPANY was awarded a $10.5B federal contract from National Aeronautics and Space Administration.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_NNM07AB03C_8000_-NONE-_-NONE-",
-   "tickers": [
-    "BA"
-   ],
-   "contract_amount": 10.52,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "BA",
-   "strength": 80,
-   "reason": "Boeing awarded $10.5B NASA federal contract; very large space/defense contract is strongly bullish for awardee."
-  },
-  {
-   "date": "2006-09-06T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "LOCKHEED MARTIN CORP was awarded a $15.6B federal contract from National Aeronautics and Space Administration.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_NNJ06TA25C_8000_-NONE-_-NONE-",
-   "tickers": [
-    "LMT"
-   ],
-   "contract_amount": 15.58,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "LMT",
-   "strength": 85,
-   "reason": "Lockheed Martin awarded $15.6B NASA federal contract; largest contract here, highly bullish for awardee."
   }
  ],
  "how_to_read": "Each card is Claude's read of a public Trump post: the affected ticker, whether it implies BUY / SELL / WATCH, a 0\u2013100 strength (how explicit/emphatic the post is \u2014 NOT a profit predictor), and why. A 2-year backtest found these don't beat buy-and-hold, so this is for awareness, not trading. Not financial advice."
