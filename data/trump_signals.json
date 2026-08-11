@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-11T14:31:55Z",
+ "last_updated": "2026-08-11T15:38:48Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -17,6 +17,22 @@
    "primary_ticker": "SPY",
    "strength": 35,
    "reason": "Iran sanctions pivot suggests escalating geopolitical risk, bearish for broad market"
+  },
+  {
+   "date": "2026-08-11T12:36:10Z",
+   "platform": "News",
+   "text": "Nvidia's 'investible asset,' U.S. oil reserve shrinks, Trump's vaccine order and more in Morning Squawk - CNBC \u2014 Nvidia's 'investible asset,' U.S. oil reserve shrinks, Trump's vaccine order and more in Morning Squawk\u00a0\u00a0CNBC",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSUZqclJKR1paT3k3V0FGY2IydU5MdUYtRm1ieWxpSmswaUFUdVpUdjNrSGRJS2tpYm1HVnRwNDFWaHR5ajgwbkZIckdHYjVaUnVhSW5XSEJyZlhkNmsxV2txc1V6c1J2NE1TLS0xbC1abVJaMVNxejJDampnY29jOHpTZ08wVWsyLUlz0gGQAUFVX3lxTE02eFB5OThJd2oxdnI5aEhtUFR4dld6RDNMWVlpMW1RMXNoWU1nel9WTjhvbkZmblJVTGdjc3BKLWRlLXZzYV9jLVRIanZXcXR5QXJoeEl3RFJIRlE4ZHFGWWJWV3NXME11emt2LU1sNE9JSFY5aDF0VDZ6Zjd6TmJJX21NMFM2NE1GbWc5S1RkRw?oc=5",
+   "tickers": [
+    "NVDA"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "NVDA",
+   "strength": 25,
+   "reason": "Nvidia mentioned as 'investible asset' but no explicit buy/sell signal; direction ambiguous."
   },
   {
    "date": "2026-08-11T10:18:14Z",
@@ -49,6 +65,22 @@
    "primary_ticker": "SPY",
    "strength": 35,
    "reason": "Iran sanctions escalation typically bearish for broad market via geopolitical risk."
+  },
+  {
+   "date": "2026-08-11T08:06:15Z",
+   "platform": "News",
+   "text": "The Latest: Trump pivots back to sanctions for Iran as other strategies to end his war fizzle - ABC27 \u2014 The Latest: Trump pivots back to sanctions for Iran as other strategies to end his war fizzle\u00a0\u00a0ABC27",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSjBHdjVqR1MwX2V6d1pKUVdMd3ZKallLbVpUMmN3Sm9wSlc2OE55eGZzbUdtQ0RYa1dfZVlYdDVXcVVSNDRFQkxidnNiYkRyeFpsTDkzcTRyV2RrQk5zZGRYZ0dNankwajdfV3RBQlNIa3V1cHBEOXF1ZWZ6N2w1OFpETFNSUXJjSUpzQkhsYTl6Mm10cDhqSUhtbFRtbHpHRnBhVmE2VGktYlBFRE90ZlptRWMyVUtBcXVoYjl4ZFZlT3dpOEtIS0xlZE9pR0x2MVHSAdIBQVVfeXFMTkowR3Y1akdTMF9lendaSlFXTHd2SmpZS21aVDJjd0pvcEpXNjhOeXhmc21HbUNEWGtXX2VZWHQ1V3FVUjQ0RUJMYnZzYmJEcnhabEw5M3E0cldka0JOc2RkWGdHTWp5MGo3X1d0QUJTSGt1dXBwRDlxdWVmejdsNThaRExTUlFyY0lKc0JIbGE5ejJtdHA4aklIbWxUbWx6R0ZwYVZhNlRpLWJQRURPdGZabUVjMlVLQXF1aGI5eGRWZU93aThLSEtMZWRPaUdMdjFR?oc=5",
+   "tickers": [
+    "USO"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "USO",
+   "strength": 40,
+   "reason": "Iran sanctions strategy implies potential energy market volatility; geopolitical risk on oil."
   },
   {
    "date": "2026-08-11T04:40:40Z",
@@ -115,9 +147,9 @@
    "reason": "Trump media company financial loss signals weakness in DJT underlying business",
    "price_since": {
     "ticker": "DJT",
-    "pct": 0.1,
+    "pct": -2.2,
     "base": 9.39,
-    "last": 9.4,
+    "last": 9.18,
     "base_date": "2026-08-10",
     "last_date": "2026-08-11"
    }
@@ -139,9 +171,9 @@
    "reason": "News headline about Trump Media stock; no directional signal implied by title alone.",
    "price_since": {
     "ticker": "DJT",
-    "pct": 0.1,
+    "pct": -2.2,
     "base": 9.39,
-    "last": 9.4,
+    "last": 9.18,
     "base_date": "2026-08-10",
     "last_date": "2026-08-11"
    }
@@ -163,9 +195,9 @@
    "reason": "Trump-endorsed gas station network regulatory inspection; ambiguous direction for energy sector",
    "price_since": {
     "ticker": "XLE",
-    "pct": 0.8,
+    "pct": 1.3,
     "base": 60.18,
-    "last": 60.67,
+    "last": 60.98,
     "base_date": "2026-08-10",
     "last_date": "2026-08-11"
    }
@@ -187,9 +219,9 @@
    "reason": "Trump-endorsed fuel gas stations under regulatory inspection; unclear net impact on energy sector",
    "price_since": {
     "ticker": "XLE",
-    "pct": 0.8,
+    "pct": 1.3,
     "base": 60.18,
-    "last": 60.67,
+    "last": 60.98,
     "base_date": "2026-08-10",
     "last_date": "2026-08-11"
    }
@@ -211,9 +243,9 @@
    "reason": "Pentagon accelerating defense weapons production due to Iran conflict; bullish for defense contractors.",
    "price_since": {
     "ticker": "XAR",
-    "pct": 1.2,
+    "pct": 0.8,
     "base": 288.29,
-    "last": 291.67,
+    "last": 290.48,
     "base_date": "2026-08-10",
     "last_date": "2026-08-11"
    }
@@ -283,9 +315,9 @@
    "reason": "Expectation Trump will lower gas prices; bearish for oil/energy sector if prices fall, but direction depends on policy execution.",
    "price_since": {
     "ticker": "XLE",
-    "pct": 0.8,
+    "pct": 1.3,
     "base": 60.18,
-    "last": 60.67,
+    "last": 60.98,
     "base_date": "2026-08-10",
     "last_date": "2026-08-11"
    }
@@ -307,9 +339,9 @@
    "reason": "Trump pressure on gasoline prices; vague macro call, direction depends on policy outcome",
    "price_since": {
     "ticker": "XLE",
-    "pct": 0.8,
+    "pct": 1.3,
     "base": 60.18,
-    "last": 60.67,
+    "last": 60.98,
     "base_date": "2026-08-10",
     "last_date": "2026-08-11"
    }
@@ -331,9 +363,9 @@
    "reason": "Semiconductor market move unrelated to Trump; news noise",
    "price_since": {
     "ticker": "SMH",
-    "pct": 1.2,
+    "pct": 0.8,
     "base": 569.41,
-    "last": 576.11,
+    "last": 573.82,
     "base_date": "2026-08-10",
     "last_date": "2026-08-11"
    }
@@ -355,9 +387,9 @@
    "reason": "SK Hynix major DRAM offering and strength signals semiconductor sector momentum",
    "price_since": {
     "ticker": "SMH",
-    "pct": 1.2,
+    "pct": 0.8,
     "base": 569.41,
-    "last": 576.11,
+    "last": 573.82,
     "base_date": "2026-08-10",
     "last_date": "2026-08-11"
    }
@@ -379,9 +411,9 @@
    "reason": "Trump administration awarded IBM $1B federal grant for quantum foundry; direct federal contract to named public company.",
    "price_since": {
     "ticker": "IBM",
-    "pct": 1.2,
+    "pct": 1.5,
     "base": 236.31,
-    "last": 239.04,
+    "last": 239.88,
     "base_date": "2026-08-10",
     "last_date": "2026-08-11"
    }
@@ -403,9 +435,9 @@
    "reason": "Trump administration awards $1B quantum grant to IBM; direct federal contract to named public company",
    "price_since": {
     "ticker": "IBM",
-    "pct": 1.1,
+    "pct": 1.5,
     "base": 236.31,
-    "last": 238.97,
+    "last": 239.88,
     "base_date": "2026-08-10",
     "last_date": "2026-08-11"
    }
@@ -427,9 +459,9 @@
    "reason": "Data center lease announcement driving retail interest and stock rally",
    "price_since": {
     "ticker": "KEEL",
-    "pct": -0.3,
+    "pct": 0.0,
     "base": 3.4,
-    "last": 3.39,
+    "last": 3.4,
     "base_date": "2026-08-10",
     "last_date": "2026-08-11"
    }
@@ -451,9 +483,9 @@
    "reason": "Retail speculation on QNX/AI uplift loosely linked to Trump narrative; ambiguous direction",
    "price_since": {
     "ticker": "BB",
-    "pct": 3.7,
+    "pct": 4.1,
     "base": 8.83,
-    "last": 9.16,
+    "last": 9.19,
     "base_date": "2026-08-10",
     "last_date": "2026-08-11"
    }
@@ -475,9 +507,9 @@
    "reason": "Retail speculation on BB/QNX; uncertain technicals, not Trump-driven.",
    "price_since": {
     "ticker": "BB",
-    "pct": 3.7,
+    "pct": 4.1,
     "base": 8.83,
-    "last": 9.16,
+    "last": 9.19,
     "base_date": "2026-08-10",
     "last_date": "2026-08-11"
    }
@@ -499,9 +531,9 @@
    "reason": "Analyst commentary that Trump drives market valuations; indirect bullish macro read",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.1,
+    "pct": -0.1,
     "base": 773.03,
-    "last": 773.47,
+    "last": 771.93,
     "base_date": "2026-08-10",
     "last_date": "2026-08-11"
    }
@@ -523,9 +555,9 @@
    "reason": "Trump explicitly endorses Dell, stock spikes on direct praise",
    "price_since": {
     "ticker": "DELL",
-    "pct": -2.9,
+    "pct": -3.5,
     "base": 457.88,
-    "last": 444.55,
+    "last": 441.82,
     "base_date": "2026-08-10",
     "last_date": "2026-08-11"
    }
@@ -547,9 +579,9 @@
    "reason": "Trump explicitly endorses Dell; direct stock spike cited.",
    "price_since": {
     "ticker": "DELL",
-    "pct": -2.8,
+    "pct": -3.5,
     "base": 457.88,
-    "last": 444.95,
+    "last": 441.82,
     "base_date": "2026-08-10",
     "last_date": "2026-08-11"
    }
@@ -571,9 +603,9 @@
    "reason": "Eric Trump bullish call on Bitcoin reaching $1M; crypto upside signal",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": -1.5,
+    "pct": -2.2,
     "base": 64904.69,
-    "last": 63898.78,
+    "last": 63490.54,
     "base_date": "2026-08-08",
     "last_date": "2026-08-11"
    }
@@ -595,9 +627,9 @@
    "reason": "Eric Trump bullish Bitcoin call targets $1M, signals Trump family crypto endorsement",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": -1.5,
+    "pct": -2.2,
     "base": 64904.69,
-    "last": 63898.78,
+    "last": 63468.84,
     "base_date": "2026-08-08",
     "last_date": "2026-08-11"
    }
@@ -619,9 +651,9 @@
    "reason": "Burry short call on Palantir despite Trump endorsement; bearish signal from prominent investor",
    "price_since": {
     "ticker": "PLTR",
-    "pct": 0.8,
+    "pct": -0.5,
     "base": 175.23,
-    "last": 176.68,
+    "last": 174.33,
     "base_date": "2026-08-10",
     "last_date": "2026-08-11"
    }
@@ -643,9 +675,9 @@
    "reason": "Conflicting signals: Trump endorsement bullish vs. Burry short positioning; net market-relevant but direction unclear",
    "price_since": {
     "ticker": "PLTR",
-    "pct": 0.8,
+    "pct": -0.5,
     "base": 175.23,
-    "last": 176.68,
+    "last": 174.33,
     "base_date": "2026-08-10",
     "last_date": "2026-08-11"
    }
@@ -667,9 +699,9 @@
    "reason": "Trump praises $3B mineral investment to counter China; bullish on domestic mining/energy sector capacity",
    "price_since": {
     "ticker": "XLE",
-    "pct": 0.8,
+    "pct": 1.3,
     "base": 60.18,
-    "last": 60.67,
+    "last": 60.97,
     "base_date": "2026-08-10",
     "last_date": "2026-08-11"
    }
@@ -691,9 +723,9 @@
    "reason": "US mineral investment counter to China supports domestic supply chain; macro bullish",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.1,
+    "pct": -0.1,
     "base": 773.03,
-    "last": 773.48,
+    "last": 771.93,
     "base_date": "2026-08-10",
     "last_date": "2026-08-11"
    }
@@ -715,9 +747,9 @@
    "reason": "Eric Trump's Bitcoin holdings commentary is indirect; stock decline driven by BTC price, not Trump signal",
    "price_since": {
     "ticker": "GBTC",
-    "pct": -0.1,
+    "pct": -0.8,
     "base": 49.53,
-    "last": 49.47,
+    "last": 49.15,
     "base_date": "2026-08-10",
     "last_date": "2026-08-11"
    }
