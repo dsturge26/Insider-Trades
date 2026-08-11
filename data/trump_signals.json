@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-08-11T11:56:36Z",
+ "last_updated": "2026-08-11T13:10:51Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-08-11T12:36:12Z",
+   "platform": "News",
+   "text": "The Latest: Trump pivots back to sanctions for Iran as other strategies to end his war fizzle - SRN News \u2014 The Latest: Trump pivots back to sanctions for Iran as other strategies to end his war fizzle\u00a0\u00a0SRN News",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRkdFZVhrMHBrcXAyRUJPU0xjM3ZkZThSVzdpdWt2djhqZXBTbGoxYUZCcXJhYU1mRmhLU0k4MTZOYmhDMm5sRjdOeF9lZVd6WWdmdWk0LWF2SXp5dzRRcEFsMDdQMEhTaWdxS0wzeW5jU2hEN21uZlZ3bktLZDVzenRNWFlKODJXREE2cE1rTG1faHhTZ3UzSHZJeDRZamExcDloUnVUaFVibHowN0JHMFBHRQ?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "SPY",
+   "strength": 35,
+   "reason": "Iran sanctions pivot suggests escalating geopolitical risk, bearish for broad market"
+  },
   {
    "date": "2026-08-11T04:40:40Z",
    "platform": "News",
@@ -19,6 +35,22 @@
    "reason": "Trump's Hormuz control statement implies stability in oil shipping lanes; mildly bullish for energy."
   },
   {
+   "date": "2026-08-11T00:54:00Z",
+   "platform": "News",
+   "text": "Trump\u2019s media company, which also owns Truth Social, reports $238m loss - The Guardian \u2014 Trump\u2019s media company, which also owns Truth Social, reports $238m loss\u00a0\u00a0The Guardian",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9ORGdEc2NNSGdrMWtsQ2R3VS1MRDAxd0RFVF9jOUxuWkUxaU9YSXptNzZ2ZU8waEpoVlZJNm5jdEdpV3lqQ1prRzRIRVFJbngzQWE3STFMRUxjdmtqMEk0dUFCRVdTUmJpU2dHMTBTbk9adWQ5NmQyaTBob1o?oc=5",
+   "tickers": [
+    "DJT"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "DJT",
+   "strength": 65,
+   "reason": "Trump Media reports $238M loss; negative earnings for DJT stock"
+  },
+  {
    "date": "2026-08-11T00:03:00Z",
    "platform": "News",
    "text": "As Trump Media Scraps Some Businesses, It's Doubling Down on Truth Social and the President - U.S. News & World Report \u2014 As Trump Media Scraps Some Businesses, It's Doubling Down on Truth Social and the President\u00a0\u00a0U.S. News & World Report",
@@ -33,6 +65,22 @@
    "primary_ticker": "DJT",
    "strength": 75,
    "reason": "Trump Media doubling down on Truth Social and Trump brand; bullish for DJT stock."
+  },
+  {
+   "date": "2026-08-11T00:03:00Z",
+   "platform": "News",
+   "text": "As Trump Media Scraps Some Businesses, It's Doubling Down on Truth Social and the President - usnews.com \u2014 As Trump Media Scraps Some Businesses, It's Doubling Down on Truth Social and the President\u00a0\u00a0usnews.com",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQjRtbUE3bU1LWmFTMHFjQmJHd2JlRWpkSnRhWThmNlJRVTltMVVQTllKWmM0V29tb3p3Wk5jTXpDRmpBV2ZuQzJjQWpfelJTUVg5ZE82MTJ1ZGR5b0FzWkZaOFhGbWNOOWsyZm8tYmtJamNlVkZVcW1ILTJsalEtTGdqVThqSzdaam52d0lYRzN2bldUTEoxX1NXMHd6X0Z1d2dsVzhOOXhNLUZOMWlDRkFMZXVCczViUG53RDVsQldueHZjQ3k3d3AxbHZhZ0ZaZ2ktNXNLNkN4RkFCR1lj?oc=5",
+   "tickers": [
+    "DJT"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "DJT",
+   "strength": 45,
+   "reason": "Trump Media restructuring toward Truth Social; strategy shift for DJT stock outlook unclear"
   },
   {
    "date": "2026-08-10T22:43:12Z",
@@ -357,7 +405,7 @@
     "ticker": "BTC-USD",
     "pct": -0.9,
     "base": 64904.69,
-    "last": 64336.78,
+    "last": 64312.0,
     "base_date": "2026-08-08",
     "last_date": "2026-08-11"
    }
@@ -381,7 +429,7 @@
     "ticker": "BTC-USD",
     "pct": -0.9,
     "base": 64904.69,
-    "last": 64340.99,
+    "last": 64312.0,
     "base_date": "2026-08-08",
     "last_date": "2026-08-11"
    }
@@ -485,7 +533,7 @@
     "ticker": "BTC-USD",
     "pct": -0.9,
     "base": 64904.69,
-    "last": 64340.99,
+    "last": 64312.0,
     "base_date": "2026-08-08",
     "last_date": "2026-08-11"
    }
@@ -2580,40 +2628,6 @@
    "primary_ticker": "GD",
    "strength": 75,
    "reason": "General Dynamics IT awarded $1.6B federal contract; large defense/state contract is bullish for awardee."
-  },
-  {
-   "date": "2018-05-17T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "ORACLE HEALTH GOVERNMENT SERVICES, INC. was awarded a $1.5B federal contract from Department of Veterans Affairs.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_36C10B18N0003_3600_36C10B18D5000_3600",
-   "tickers": [
-    "ORCL"
-   ],
-   "contract_amount": 1.51,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "ORCL",
-   "strength": 70,
-   "reason": "Oracle Health awarded $1.5B VA federal contract; major government services contract is bullish for Oracle."
-  },
-  {
-   "date": "2015-09-03T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "NORTHROP GRUMMAN SYSTEMS CORPORATION was awarded a $1.6B federal contract from National Aeronautics and Space Administration.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_NNH15CN76C_8000_-NONE-_-NONE-",
-   "tickers": [
-    "NOC"
-   ],
-   "contract_amount": 1.63,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "NOC",
-   "strength": 75,
-   "reason": "Northrop Grumman awarded $1.6B NASA federal contract; large space/defense contract is bullish for awardee."
   }
  ],
  "how_to_read": "Each card is Claude's read of a public Trump post: the affected ticker, whether it implies BUY / SELL / WATCH, a 0\u2013100 strength (how explicit/emphatic the post is \u2014 NOT a profit predictor), and why. A 2-year backtest found these don't beat buy-and-hold, so this is for awareness, not trading. Not financial advice."
