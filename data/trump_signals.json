@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-12T18:38:20Z",
+ "last_updated": "2026-08-12T19:48:33Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -34,6 +34,22 @@
    "primary_ticker": "XLE",
    "strength": 45,
    "reason": "US control of Strait of Hormuz strengthens oil supply security, bullish for energy sector"
+  },
+  {
+   "date": "2026-08-12T10:36:13Z",
+   "platform": "News",
+   "text": "What Is Donald Trump Investing In in 2026? - logos-pres.md \u2014 What Is Donald Trump Investing In in 2026?\u00a0\u00a0logos-pres.md",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9WNThHTjNHTG1ZdHRySG12MlUwN3hWMVA3RkV6MzlTQnhTTTQwN09sYUN2QVZSY2ZuaG5kQ3liTWhLVEtlVDFJc081SUV2MXUtVFR6TllEVzdNSjVxOFZ3MDdhSEtJd0hLQk5HeExlVXVCOV9kQXkyWG9jVlg?oc=5",
+   "tickers": [
+    "DJT"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "DJT",
+   "strength": 35,
+   "reason": "Inquiry into Trump's personal investments, speculative interest in his portfolio"
   },
   {
    "date": "2026-08-12T01:23:34Z",
@@ -100,9 +116,33 @@
    "reason": "Trump crackdown on defense contractor spending implies reduced defense budgets and lower margins",
    "price_since": {
     "ticker": "XAR",
-    "pct": 0.6,
+    "pct": 0.4,
     "base": 292.33,
-    "last": 294.23,
+    "last": 293.57,
+    "base_date": "2026-08-11",
+    "last_date": "2026-08-12"
+   }
+  },
+  {
+   "date": "2026-08-11T22:20:00Z",
+   "platform": "News",
+   "text": "Trump Media has struggled to grow. Now it's selling $100,000 contracts for access to Truth Social. - CBS News \u2014 Trump Media has struggled to grow. Now it's selling $100,000 contracts for access to Truth Social.\u00a0\u00a0CBS News",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBiX2x4eWp5bjRCeHBVV1VHN1kzTFlWQ1VyWmplUVhUNmw0dXltVmxIY2Fya01PRXc4SlN3M3dDTEQ0UHJDcmdHY0gyR0xpN0VJXzNsZlJNTHk2ZllweWlBUk4weXlKWDZkSGJhMmVsRGt6Z3RzN3E0?oc=5",
+   "tickers": [
+    "DJT"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "DJT",
+   "strength": 50,
+   "reason": "Truth Social monetization attempt suggests revenue pressure but also commercial effort; mixed signal for DJT",
+   "price_since": {
+    "ticker": "DJT",
+    "pct": -6.8,
+    "base": 8.91,
+    "last": 8.3,
     "base_date": "2026-08-11",
     "last_date": "2026-08-12"
    }
@@ -124,9 +164,9 @@
    "reason": "Defense contractor sector support implies bullish sector sentiment",
    "price_since": {
     "ticker": "XAR",
-    "pct": 0.6,
+    "pct": 0.4,
     "base": 292.33,
-    "last": 294.23,
+    "last": 293.57,
     "base_date": "2026-08-11",
     "last_date": "2026-08-12"
    }
@@ -148,9 +188,9 @@
    "reason": "Trump defense contractor policy praised by Warren, suggests favorable regulatory stance",
    "price_since": {
     "ticker": "XAR",
-    "pct": 0.6,
+    "pct": 0.4,
     "base": 292.33,
-    "last": 294.23,
+    "last": 293.57,
     "base_date": "2026-08-11",
     "last_date": "2026-08-12"
    }
@@ -169,7 +209,63 @@
    "direction": "SELL",
    "primary_ticker": "DJT",
    "strength": 50,
-   "reason": "Trump Media reports $238M loss; bearish for DJT stock valuation"
+   "reason": "Trump Media reports $238M loss; bearish for DJT stock valuation",
+   "price_since": {
+    "ticker": "DJT",
+    "pct": -6.8,
+    "base": 8.91,
+    "last": 8.3,
+    "base_date": "2026-08-11",
+    "last_date": "2026-08-12"
+   }
+  },
+  {
+   "date": "2026-08-11T21:09:00Z",
+   "platform": "News",
+   "text": "Trump\u2019s media company, which also owns Truth Social, reports $238m loss - theguardian.com \u2014 Trump\u2019s media company, which also owns Truth Social, reports $238m loss\u00a0\u00a0theguardian.com",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9ORGdEc2NNSGdrMWtsQ2R3VS1MRDAxd0RFVF9jOUxuWkUxaU9YSXptNzZ2ZU8waEpoVlZJNm5jdEdpV3lqQ1prRzRIRVFJbngzQWE3STFMRUxjdmtqMEk0dUFCRVdTUmJpU2dHMTBTbk9adWQ5NmQyaTBob1o?oc=5",
+   "tickers": [
+    "DJT"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "DJT",
+   "strength": 65,
+   "reason": "Trump Media $238M loss signals poor financial performance of Trump's media company",
+   "price_since": {
+    "ticker": "DJT",
+    "pct": -6.8,
+    "base": 8.91,
+    "last": 8.3,
+    "base_date": "2026-08-11",
+    "last_date": "2026-08-12"
+   }
+  },
+  {
+   "date": "2026-08-11T19:54:27Z",
+   "platform": "News",
+   "text": "IBRX Stock Rallies Into Trump\u2019s Big SOTU Night \u2014 Here\u2019s What Traders Think Could Fuel The Next Move - Stocktwits \u2014 IBRX Stock Rallies Into Trump\u2019s Big SOTU Night \u2014 Here\u2019s What Traders Think Could Fuel The Next Move\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWFdFall2YVNMN3Rialp3SE9sU0h6YUQ1MDFiX2JaeXMxNlFFZUZveFU0TkVxUFI4cTQ5bW5VdkFlTDd1dFNwSUN2YTRtRl83aVRRXzZ6d09TeEhlR1NJb1JaMHlMWDhrQXpmZW40c1B1Y21KNjhxdm90Ny1uU3p4MzJZSW9GNGduMEdyRzFIU2RGLWlYWXg4TFJUU0N6ZlhFemxtUmprVXY0YkVRZk5vZHljazQ?oc=5",
+   "tickers": [
+    "IBRX"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "IBRX",
+   "strength": 45,
+   "reason": "Stock rally attributed to SOTU mention but direction of driver unclear, speculative",
+   "price_since": {
+    "ticker": "IBRX",
+    "pct": 2.0,
+    "base": 7.6,
+    "last": 7.75,
+    "base_date": "2026-08-11",
+    "last_date": "2026-08-12"
+   }
   },
   {
    "date": "2026-08-11T19:46:15Z",
@@ -188,9 +284,33 @@
    "reason": "Trump repeals EV transition science; bearish for electric vehicle makers",
    "price_since": {
     "ticker": "TSLA",
-    "pct": -1.8,
+    "pct": -1.6,
     "base": 332.81,
-    "last": 326.75,
+    "last": 327.52,
+    "base_date": "2026-08-11",
+    "last_date": "2026-08-12"
+   }
+  },
+  {
+   "date": "2026-08-11T19:22:25Z",
+   "platform": "News",
+   "text": "IBM Stock Rallies On Trump Administration\u2019s $1B Grant: Analysts Say \u2018Big Blue\u2019 Could Become First US Quantum Foundry - Stocktwits \u2014 IBM Stock Rallies On Trump Administration\u2019s $1B Grant: Analysts Say \u2018Big Blue\u2019 Could Become First US Quantum Foundry\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOVG52c0VBRjZ6TzVuLThuSWdTN3NxMlIzUEc0aWVkUllDZDJMSVVMRlo1Rkgxb1Rja2swU1JlcVhlbmg4ejlfeGJoRGkzVG1VSEM4ZC1McWtGQnNVYklYVjYwQVliTHRoX3NqZDJZV0dlQ2NTaC1NaHhFaVAtdmVjdzVGcFhSangwdDluaTltYXZ3TXhaWWxISmlPREpkQ0N2VHdEMENJUkpDaDBGcUhSdXFZdExXbkhPaENSWlAxbVhPS3EyTnoyc3NoX2RpOXNqeEFYaFhhaGYxQUxRaWR0QUJwQ0J5VmhBY3ZpOV9YMVNjeUZlRHRzVXBLS3BpSER4VXpVWTVsYS1aZw?oc=5",
+   "tickers": [
+    "IBM"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "IBM",
+   "strength": 80,
+   "reason": "Trump administration awards $1B quantum grant to IBM, direct federal contract support",
+   "price_since": {
+    "ticker": "IBM",
+    "pct": -1.3,
+    "base": 238.42,
+    "last": 235.34,
     "base_date": "2026-08-11",
     "last_date": "2026-08-12"
    }
@@ -209,7 +329,15 @@
    "direction": "BUY",
    "primary_ticker": "KEEL",
    "strength": 40,
-   "reason": "First data center lease announcement drives stock move; no Trump signal but market-relevant."
+   "reason": "First data center lease announcement drives stock move; no Trump signal but market-relevant.",
+   "price_since": {
+    "ticker": "KEEL",
+    "pct": 9.4,
+    "base": 3.29,
+    "last": 3.6,
+    "base_date": "2026-08-11",
+    "last_date": "2026-08-12"
+   }
   },
   {
    "date": "2026-08-11T18:20:19Z",
@@ -228,9 +356,9 @@
    "reason": "Tesla premarket slip linked to FSD delays and China trip uncertainty; bearish near-term signal",
    "price_since": {
     "ticker": "TSLA",
-    "pct": -1.8,
+    "pct": -1.6,
     "base": 332.81,
-    "last": 326.75,
+    "last": 327.52,
     "base_date": "2026-08-11",
     "last_date": "2026-08-12"
    }
@@ -252,9 +380,9 @@
    "reason": "UNH rallying with Trump 'tailwinds'; vague positive sentiment on healthcare/Trump policies.",
    "price_since": {
     "ticker": "UNH",
-    "pct": 0.7,
+    "pct": 1.1,
     "base": 402.19,
-    "last": 405.14,
+    "last": 406.62,
     "base_date": "2026-08-11",
     "last_date": "2026-08-12"
    }
@@ -276,9 +404,9 @@
    "reason": "Intel rally attributed partly to Trump policies; chipmaker tailwind from admin support.",
    "price_since": {
     "ticker": "INTC",
-    "pct": 4.5,
+    "pct": 3.1,
     "base": 97.71,
-    "last": 102.12,
+    "last": 100.76,
     "base_date": "2026-08-11",
     "last_date": "2026-08-12"
    }
@@ -300,9 +428,9 @@
    "reason": "Defense contractor CEO pay curbs could pressure margins but regulatory intent is ambiguous",
    "price_since": {
     "ticker": "XAR",
-    "pct": 0.6,
+    "pct": 0.4,
     "base": 292.33,
-    "last": 294.23,
+    "last": 293.57,
     "base_date": "2026-08-11",
     "last_date": "2026-08-12"
    }
@@ -324,9 +452,9 @@
    "reason": "Defense contractor CEO pay curbs supported; mixed signal\u2014reform bearish for contractor margins, progressive support unclear on net",
    "price_since": {
     "ticker": "XAR",
-    "pct": 0.6,
+    "pct": 0.4,
     "base": 292.33,
-    "last": 294.23,
+    "last": 293.57,
     "base_date": "2026-08-11",
     "last_date": "2026-08-12"
    }
@@ -348,9 +476,9 @@
    "reason": "Iran sanctions pivot could affect oil/energy but direction ambiguous pending details",
    "price_since": {
     "ticker": "XLE",
-    "pct": 0.3,
+    "pct": 0.0,
     "base": 60.93,
-    "last": 61.1,
+    "last": 60.94,
     "base_date": "2026-08-11",
     "last_date": "2026-08-12"
    }
@@ -372,9 +500,9 @@
    "reason": "Iran sanctions pivot suggests escalating geopolitical risk, bearish for broad market",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.4,
+    "pct": 0.3,
     "base": 770.56,
-    "last": 773.41,
+    "last": 772.91,
     "base_date": "2026-08-11",
     "last_date": "2026-08-12"
    }
@@ -396,9 +524,9 @@
    "reason": "Nvidia mentioned as 'investible asset' but no explicit buy/sell signal; direction ambiguous.",
    "price_since": {
     "ticker": "NVDA",
-    "pct": 3.0,
+    "pct": 2.4,
     "base": 217.5,
-    "last": 223.99,
+    "last": 222.71,
     "base_date": "2026-08-11",
     "last_date": "2026-08-12"
    }
@@ -420,9 +548,9 @@
    "reason": "Mixed signals: Nvidia bullish, oil reserve decline and vaccine order bearish; net ambiguous",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.4,
+    "pct": 0.3,
     "base": 770.56,
-    "last": 773.41,
+    "last": 772.91,
     "base_date": "2026-08-11",
     "last_date": "2026-08-12"
    }
@@ -444,9 +572,9 @@
    "reason": "Iran sanctions policy; geopolitical uncertainty affects broad market",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.4,
+    "pct": 0.3,
     "base": 770.56,
-    "last": 773.41,
+    "last": 772.9,
     "base_date": "2026-08-11",
     "last_date": "2026-08-12"
    }
@@ -468,9 +596,9 @@
    "reason": "Iran sanctions policy shift; unclear geopolitical/market direction",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.4,
+    "pct": 0.3,
     "base": 770.56,
-    "last": 773.41,
+    "last": 772.91,
     "base_date": "2026-08-11",
     "last_date": "2026-08-12"
    }
@@ -489,7 +617,15 @@
    "direction": "BUY",
    "primary_ticker": "RKLB",
    "strength": 50,
-   "reason": "Rocket Lab Nasdaq-100 entry; technical momentum and aerospace/defense growth"
+   "reason": "Rocket Lab Nasdaq-100 entry; technical momentum and aerospace/defense growth",
+   "price_since": {
+    "ticker": "RKLB",
+    "pct": 1.3,
+    "base": 80.01,
+    "last": 81.07,
+    "base_date": "2026-08-11",
+    "last_date": "2026-08-12"
+   }
   },
   {
    "date": "2026-08-11T11:00:43Z",
@@ -505,7 +641,15 @@
    "direction": "BUY",
    "primary_ticker": "MRNA",
    "strength": 55,
-   "reason": "Reports of FDA leadership change favoring biotech; bullish for MRNA and biotech sector"
+   "reason": "Reports of FDA leadership change favoring biotech; bullish for MRNA and biotech sector",
+   "price_since": {
+    "ticker": "MRNA",
+    "pct": 4.9,
+    "base": 60.57,
+    "last": 63.52,
+    "base_date": "2026-08-11",
+    "last_date": "2026-08-12"
+   }
   },
   {
    "date": "2026-08-11T10:18:14Z",
@@ -521,7 +665,15 @@
    "direction": "WATCH",
    "primary_ticker": "DJT",
    "strength": 40,
-   "reason": "Trump Media restructuring and Truth Social focus; unclear whether strategic pivot is bullish or bearish."
+   "reason": "Trump Media restructuring and Truth Social focus; unclear whether strategic pivot is bullish or bearish.",
+   "price_since": {
+    "ticker": "DJT",
+    "pct": -6.8,
+    "base": 8.91,
+    "last": 8.3,
+    "base_date": "2026-08-11",
+    "last_date": "2026-08-12"
+   }
   },
   {
    "date": "2026-08-11T10:00:00Z",
@@ -540,9 +692,9 @@
    "reason": "Commentary on admin stock investments raises crony capitalism concerns but direction ambiguous pending which stocks are involved",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.4,
+    "pct": 0.3,
     "base": 770.56,
-    "last": 773.42,
+    "last": 772.91,
     "base_date": "2026-08-11",
     "last_date": "2026-08-12"
    }
@@ -564,9 +716,9 @@
    "reason": "Commentary on administration stock investments raises crony capitalism concerns; vague policy risk",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.4,
+    "pct": 0.3,
     "base": 770.56,
-    "last": 773.42,
+    "last": 772.91,
     "base_date": "2026-08-11",
     "last_date": "2026-08-12"
    }
@@ -588,9 +740,9 @@
    "reason": "Iran sanctions escalation typically bearish for broad market via geopolitical risk.",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.4,
+    "pct": 0.3,
     "base": 770.56,
-    "last": 773.41,
+    "last": 772.91,
     "base_date": "2026-08-11",
     "last_date": "2026-08-12"
    }
@@ -612,9 +764,9 @@
    "reason": "Iran sanctions strategy implies potential energy market volatility; geopolitical risk on oil.",
    "price_since": {
     "ticker": "USO",
-    "pct": 0.1,
+    "pct": -0.3,
     "base": 127.61,
-    "last": 127.76,
+    "last": 127.26,
     "base_date": "2026-08-11",
     "last_date": "2026-08-12"
    }
@@ -1092,30 +1244,6 @@
    }
   },
   {
-   "date": "2026-08-08T21:46:17Z",
-   "platform": "News",
-   "text": "IBM Stock Rallies On Trump Administration\u2019s $1B Grant: Analysts Say \u2018Big Blue\u2019 Could Become First US Quantum Foundry - Stocktwits \u2014 IBM Stock Rallies On Trump Administration\u2019s $1B Grant: Analysts Say \u2018Big Blue\u2019 Could Become First US Quantum Foundry\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOVG52c0VBRjZ6TzVuLThuSWdTN3NxMlIzUEc0aWVkUllDZDJMSVVMRlo1Rkgxb1Rja2swU1JlcVhlbmg4ejlfeGJoRGkzVG1VSEM4ZC1McWtGQnNVYklYVjYwQVliTHRoX3NqZDJZV0dlQ2NTaC1NaHhFaVAtdmVjdzVGcFhSangwdDluaTltYXZ3TXhaWWxISmlPREpkQ0N2VHdEMENJUkpDaDBGcUhSdXFZdExXbkhPaENSWlAxbVhPS3EyTnoyc3NoX2RpOXNqeEFYaFhhaGYxQUxRaWR0QUJwQ0J5VmhBY3ZpOV9YMVNjeUZlRHRzVXBLS3BpSER4VXpVWTVsYS1aZw?oc=5",
-   "tickers": [
-    "IBM"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "IBM",
-   "strength": 85,
-   "reason": "Trump administration awards $1B quantum grant to IBM; direct federal contract to named public company",
-   "price_since": {
-    "ticker": "IBM",
-    "pct": 0.9,
-    "base": 236.31,
-    "last": 238.42,
-    "base_date": "2026-08-10",
-    "last_date": "2026-08-11"
-   }
-  },
-  {
    "date": "2026-08-08T18:01:16Z",
    "platform": "News",
    "text": "BB Stock To $10? Retail Traders Eye New Highs On QNX, Physical AI Boost - Stocktwits \u2014 BB Stock To $10? Retail Traders Eye New Highs On QNX, Physical AI Boost\u00a0\u00a0Stocktwits",
@@ -1522,22 +1650,6 @@
    "primary_ticker": "PLTR",
    "strength": 70,
    "reason": "Trump signals support for Palantir; explicit endorsement of named company"
-  },
-  {
-   "date": "2026-08-08T06:05:43Z",
-   "platform": "News",
-   "text": "IBRX Stock Rallies Into Trump\u2019s Big SOTU Night \u2014 Here\u2019s What Traders Think Could Fuel The Next Move - Stocktwits \u2014 IBRX Stock Rallies Into Trump\u2019s Big SOTU Night \u2014 Here\u2019s What Traders Think Could Fuel The Next Move\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWFdFall2YVNMN3Rialp3SE9sU0h6YUQ1MDFiX2JaeXMxNlFFZUZveFU0TkVxUFI4cTQ5bW5VdkFlTDd1dFNwSUN2YTRtRl83aVRRXzZ6d09TeEhlR1NJb1JaMHlMWDhrQXpmZW40c1B1Y21KNjhxdm90Ny1uU3p4MzJZSW9GNGduMEdyRzFIU2RGLWlYWXg4TFJUU0N6ZlhFemxtUmprVXY0YkVRZk5vZHljazQ?oc=5",
-   "tickers": [
-    "IBRX"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "IBRX",
-   "strength": 20,
-   "reason": "Stock rally tied to State of Union event; unclear if Trump mentioned IBRX specifically"
   },
   {
    "date": "2026-08-08T04:35:53Z",
@@ -2270,30 +2382,6 @@
    }
   },
   {
-   "date": "2026-08-04T23:11:35Z",
-   "platform": "News",
-   "text": "What Is Donald Trump Investing In in 2026? - logos-pres.md \u2014 What Is Donald Trump Investing In in 2026?\u00a0\u00a0logos-pres.md",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9WNThHTjNHTG1ZdHRySG12MlUwN3hWMVA3RkV6MzlTQnhTTTQwN09sYUN2QVZSY2ZuaG5kQ3liTWhLVEtlVDFJc081SUV2MXUtVFR6TllEVzdNSjVxOFZ3MDdhSEtJd0hLQk5HeExlVXVCOV9kQXkyWG9jVlg?oc=5",
-   "tickers": [
-    "DJT"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "DJT",
-   "strength": 40,
-   "reason": "Trump's 2026 investment portfolio; potential bullish signal on his own interests but details unclear from headline",
-   "price_since": {
-    "ticker": "DJT",
-    "pct": -0.3,
-    "base": 10.34,
-    "last": 10.31,
-    "base_date": "2026-08-04",
-    "last_date": "2026-08-07"
-   }
-  },
-  {
    "date": "2026-08-04T22:52:51.270Z",
    "platform": "Truth Social",
    "text": "For far too long, Radical Climate Activists attempted to hold our Great Country hostage by drastically and unreasonably expanding the intended scope of the Endangered Species Act. This was complete and total regulatory overreach by unelected bureaucrats! They treated Americans very unfairly by stifling the production of important resources like Oil, Natural Gas, and Timber, and blocking the construction of family homes and critical Infrastructure. Even our Military couldn't train on land that was deemed \"off limits\" to protect a little rodent! Now my Administration has returned the Endangered Species Act to how it was intended to be, just as the Great Justice Antonin Scalia has explained in previous cases. While responsibly protecting our beautiful Country, the United States of America is going to BUILD again. Thank you for your attention to this matter! President DONALD J. TRUMP",
@@ -2732,54 +2820,6 @@
     "pct": 1.6,
     "base": 757.67,
     "last": 769.79,
-    "base_date": "2026-08-03",
-    "last_date": "2026-08-05"
-   }
-  },
-  {
-   "date": "2026-08-03T20:09:23Z",
-   "platform": "News",
-   "text": "Dow Jumps 693 Points to Hit a New High on Trump's Latest Turnaround: Stock Market Today - kiplinger.com \u2014 Dow Jumps 693 Points to Hit a New High on Trump's Latest Turnaround: Stock Market Today\u00a0\u00a0kiplinger.com",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOW5QNm9SWjFYSE1WSGZuQ1hDbHAxZmJobEduR01saWMtNHJGeHc4eGRYNFJJQkVmcnZPQkdOSG1BLTViV3VIMzFFdHhndElCQ1BHRF8zUjFFb2tyQ1gzMEx3Tl9fQ0p1Q3BUVVc2b3hBWE56OUl3UEpDZE93Yy04SzRWSV91TU1tZnU2SnNQdmM2RFNMSVdlS21xUEMtWTdVbmdr?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "SPY",
-   "strength": 45,
-   "reason": "Dow hitting new highs attributed to Trump; broad market positive but no specific company or policy catalyst",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": 1.6,
-    "base": 757.67,
-    "last": 769.79,
-    "base_date": "2026-08-03",
-    "last_date": "2026-08-05"
-   }
-  },
-  {
-   "date": "2026-08-03T18:04:20Z",
-   "platform": "News",
-   "text": "Pence: It\u2019s Time for Trump \u2018to Unleash the Armed Forces\u2019 on Iran - breitbart.com \u2014 Pence: It\u2019s Time for Trump \u2018to Unleash the Armed Forces\u2019 on Iran\u00a0\u00a0breitbart.com",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMnZVX3VRTGxlNDByMDFBRXN4LTk2d3E5emNsWE5FeTNleVp1cHl0VFo0ZkN4dnVaMl9QdlIzakpCQm4xSDBUNmE0UE1KYzRBM1JSSVlQUDZUQ3l3N05pYjdiZDltZ1ZTckRQUnk1SUxyd2ZkUjlibVF4VVdQNGJocmZqdk5ILVdOaFVDZ0xPc0NXcWtDbXluN2lHYXRKdzVaeUtweGFHRdIBrAFBVV95cUxPOEdBdXZVZ2pLUVBhOHZNV0hUcjJNU1ZycWNYUk5vU2stMWNhRlhGbWpxX2ZEVlplX2FUeXc4dVpxN2Y2aWJFU3g0TGMxUlFLSkFycS11QzJpM2pHalphamI0VmRpZFg2XzMwLUZaSEVGaUxVVXU4ekdqbHUwTF9Lcm45MkFWeURhc1dMNnZsdnNQWjhfbWMxbF9makg1Ym5wOXAzZTFlVXV4N1Fx?oc=5",
-   "tickers": [
-    "XAR"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "XAR",
-   "strength": 55,
-   "reason": "potential military escalation with Iran bullish for defense sector",
-   "price_since": {
-    "ticker": "XAR",
-    "pct": 3.1,
-    "base": 273.63,
-    "last": 282.08,
     "base_date": "2026-08-03",
     "last_date": "2026-08-05"
    }
