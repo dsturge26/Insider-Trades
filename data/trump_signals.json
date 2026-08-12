@@ -1,7 +1,24 @@
 {
- "last_updated": "2026-08-12T22:20:45Z",
+ "last_updated": "2026-08-12T23:10:19Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-08-12T22:45:40.784Z",
+   "platform": "Truth Social",
+   "text": "For many years, the vast Majority of Americans have asked to make Daylight Saving Time permanent, but no Administration has been able to get it properly done, until now. I am proud to announce that the House of Representatives has passed the Bill, and it has now gone to the Senate for final approval. People are sick and tired of having to change their clocks twice a year. It is foolish, inconvenient and, in some cases, very costly. For Cities and States with Watchtowers, and hard to reach places, it costs Millions of Dollars. A recent case was made that it is also bad for your health in the anxiety it creates. Leading Medical, Crime, and Economic Studies have shown that ceasing the biannual time change, giving us one extra hour of natural sunlight in the evenings, will help Decrease Robbery and Murder Rates, Reduce Car Accidents (especially those involving Pedestrians!), Lower Risk for Cardiac Issues, Stroke, and Seasonal Depression, Make It Safer for Children to Walk Home from School, Increase Time with your Family, Strongly Support Extracurricular Activities, Be a Big Boost to Sports, Fitness, Tourism, Retail, and the Restaurant Industries (and more!), and Save Money on Energy Bills, because everyone will be enjoying an EXTRA HOUR OF DAYLIGHT. In other words, leave it as it is now, and never change again. This is an issue that Republicans, Dumocrats, and Independents can unite behind. I am asking Republican Senators to PASS THE SUNSHINE PROTECTION ACT, ASAP. Thank you for your attention to this matter! President DONALD J. TRUMP",
+   "tickers": [
+    "SPY"
+   ],
+   "engagement": 1828,
+   "url": "https://truthsocial.com/@realDonaldTrump/117084962212047241",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "SPY",
+   "strength": 15,
+   "reason": "Daylight Saving Time permanence reduces business friction and health costs; modest pro-growth sentiment."
+  },
   {
    "date": "2026-08-12T16:11:25Z",
    "platform": "News",
@@ -210,6 +227,30 @@
    "primary_ticker": "DJT",
    "strength": 35,
    "reason": "Trump Truth Social monetization via policy announcements; potential regulatory/legal risk to DJT platform"
+  },
+  {
+   "date": "2026-08-11T22:59:08Z",
+   "platform": "News",
+   "text": "DVLT Stock Tumbles Pre-Market On Discounted Offering \u2013 Retail Slams The Move, Calling It \u2018Self-Inflicted Pain\u2019 - Stocktwits \u2014 DVLT Stock Tumbles Pre-Market On Discounted Offering \u2013 Retail Slams The Move, Calling It \u2018Self-Inflicted Pain\u2019\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVUx3aGVQUk9NNklvanl0M0xObG44aVBxc0FCaTNESVRBUm14b05yTHExSnNIeGNrWVpXTkxhSmU2S0xZaUhTRHBvRVYtS1ZqTGNNVnpYSHVKSG85WG1jeWdmMXdZZ1pUV0h1YlNBaWlyZkFJVmRuR25PMGxJRGlKTi04U29DSHMxOEplQW9ZbmZqamluSEduUGR6cUc1WmlfbU5TbUJB?oc=5",
+   "tickers": [
+    "DVLT"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "DVLT",
+   "strength": 55,
+   "reason": "Discounted stock offering dilutes shareholders; self-inflicted capital raise pressure",
+   "price_since": {
+    "ticker": "DVLT",
+    "pct": 0.0,
+    "base": 0.31,
+    "last": 0.31,
+    "base_date": "2026-08-11",
+    "last_date": "2026-08-12"
+   }
   },
   {
    "date": "2026-08-11T22:38:14Z",
@@ -1207,30 +1248,6 @@
     "pct": 1.4,
     "base": 288.29,
     "last": 292.33,
-    "base_date": "2026-08-10",
-    "last_date": "2026-08-11"
-   }
-  },
-  {
-   "date": "2026-08-08T23:52:58Z",
-   "platform": "News",
-   "text": "DVLT Stock Tumbles Pre-Market On Discounted Offering \u2013 Retail Slams The Move, Calling It \u2018Self-Inflicted Pain\u2019 - Stocktwits \u2014 DVLT Stock Tumbles Pre-Market On Discounted Offering \u2013 Retail Slams The Move, Calling It \u2018Self-Inflicted Pain\u2019\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVUx3aGVQUk9NNklvanl0M0xObG44aVBxc0FCaTNESVRBUm14b05yTHExSnNIeGNrWVpXTkxhSmU2S0xZaUhTRHBvRVYtS1ZqTGNNVnpYSHVKSG85WG1jeWdmMXdZZ1pUV0h1YlNBaWlyZkFJVmRuR25PMGxJRGlKTi04U29DSHMxOEplQW9ZbmZqamluSEduUGR6cUc1WmlfbU5TbUJB?oc=5",
-   "tickers": [
-    "DVLT"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "DVLT",
-   "strength": 35,
-   "reason": "Stock tumbles on discounted offering; market-relevant but Trump connection absent or tangential.",
-   "price_since": {
-    "ticker": "DVLT",
-    "pct": 3.3,
-    "base": 0.3,
-    "last": 0.31,
     "base_date": "2026-08-10",
     "last_date": "2026-08-11"
    }
@@ -2541,6 +2558,23 @@
     "base_date": "2026-08-04",
     "last_date": "2026-08-07"
    }
+  },
+  {
+   "date": "2026-08-04T20:38:42.973Z",
+   "platform": "Truth Social",
+   "text": "Manufacturing is BOOMING!\u00a0Factory activity just hit its\u00a0fastest pace in more than FOUR YEARS, far exceeding expectations. New orders have expanded for\u00a0SEVEN straight months. American Manufacturing is BACK!\u00a0The\u00a0Stock Market is at an ALL TIME HIGH, and setting Record after Record because Investors know America is WINNING!\u00a0American Exports are on FIRE. U.S. Goods Exports have now topped\u00a0200 BILLION DOLLARS for the fifth consecutive month, and we are on pace for\u00a0nearly 2.5 TRILLION DOLLARS\u00a0in Goods Exports this year \u2014 Numbers nobody thought possible just two years ago.\u00a0The\u00a0Fake News\u00a0and the Dumocrats\u00a0are doing everything they can to distract people's thoughts from these MASSIVE Successes, but it's getting harder and harder for them to do. With\u00a0TRILLIONS OF DOLLARS\u00a0of new Investment pouring into the United States, and more Factories, more Construction, and more High Paying Jobs on the way, the results are impossible to hide.\u00a0This is the\u00a0GOLDEN AGE OF AMERICA, and we're just getting started. We're already achieving heights that nobody thought possible \u2014 and the biggest Victories are still ahead!President DONALD J. TRUMP",
+   "tickers": [
+    "SPY"
+   ],
+   "engagement": 8729,
+   "url": "https://truthsocial.com/@realDonaldTrump/117039164487763760",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "SPY",
+   "strength": 75,
+   "reason": "Broad macro boast: manufacturing boom, export record, stock market at all-time high; bullish for overall market"
   },
   {
    "curated": true,
