@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-12T21:29:45Z",
+ "last_updated": "2026-08-12T22:20:45Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -250,6 +250,30 @@
    "primary_ticker": "DJT",
    "strength": 50,
    "reason": "Truth Social monetization attempt suggests revenue pressure but also commercial effort; mixed signal for DJT",
+   "price_since": {
+    "ticker": "DJT",
+    "pct": -7.2,
+    "base": 8.91,
+    "last": 8.27,
+    "base_date": "2026-08-11",
+    "last_date": "2026-08-12"
+   }
+  },
+  {
+   "date": "2026-08-11T22:20:00Z",
+   "platform": "News",
+   "text": "Trump Media has struggled to grow. Now it's selling $100,000 contracts for access to Truth Social. - cbsnews.com \u2014 Trump Media has struggled to grow. Now it's selling $100,000 contracts for access to Truth Social.\u00a0\u00a0cbsnews.com",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBiX2x4eWp5bjRCeHBVV1VHN1kzTFlWQ1VyWmplUVhUNmw0dXltVmxIY2Fya01PRXc4SlN3M3dDTEQ0UHJDcmdHY0gyR0xpN0VJXzNsZlJNTHk2ZllweWlBUk4weXlKWDZkSGJhMmVsRGt6Z3RzN3E0?oc=5",
+   "tickers": [
+    "DJT"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "DJT",
+   "strength": 45,
+   "reason": "Trump Media revenue move via paid access contracts; business model shift but financials weak.",
    "price_since": {
     "ticker": "DJT",
     "pct": -7.2,
@@ -2516,208 +2540,6 @@
     "last": 57.34,
     "base_date": "2026-08-04",
     "last_date": "2026-08-07"
-   }
-  },
-  {
-   "date": "2026-08-04T22:42:12Z",
-   "platform": "News",
-   "text": "Rubio: Hormuz Talks Accelerate After Trump Warning \u2014 Treasury Secretary Bessent Says Deal Possible by \u2018Tomorrow\u2019 - breitbart.com \u2014 Rubio: Hormuz Talks Accelerate After Trump Warning \u2014 Treasury Secretary Bessent Says Deal Possible by \u2018Tomorrow\u2019\u00a0\u00a0breitbart.com",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPZnRyWGM2bnpSZzZzS09zaU5iWkRlOWY2WTNRSExLaHVuUzQ2MURVTmkySzJVdmw0bG9MSWpMSDBTbjNVSnUwcnp3RTNzTFpLWHRwTzUyZXM2NmdmaXVlVDIxLUlKWjFFRDhyMW50LXNSMm9oU0J5U2t4RTBqRERrZTB2T1I2RWlQUG5hSU12b19SYlFrUFNtc1Nxa0RON0ZSRWVDWjNDVUlwVmVzcnVlNFA3bGpaWFFzMXNoclpqYnZXUjV0Y2ZyNDMtcEdUVTFwdmFvQnBGcHFRU1F1aWJXNE8tOC05aHJPS1HSAe8BQVVfeXFMT3dHUE9BcnhhSGo4d3h6SXF0M29qeWRVdTVPOFBSenVUS3FVSjhTR0liT3JZaGRVcHB3TTZ2dlFsdWlPLXYtM1ZRM3hUNHNwNzI1MnlTdlNnTlRDbHdnNmxZZGdWV1hxYjVrbjdyN3NpdTRNVHRvbG42anZGeHJBbEoydDFkV29aUTlsQjRCTm56T21TQ25GaDhUbmVrUXJVT3ZpZGtZS255aENfYUNCQjlXUUlNQk9wa1RrQk9BLVZvUzVTbkpTZFRBSFdtMTF3YWNyY2xQX0x4dXV2cmhWOVlNZEFZTmstTm9QeFRtZzA?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "SPY",
-   "strength": 50,
-   "reason": "Potential trade deal (Hormuz talks accelerating) typically bullish for broad market",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": -0.4,
-    "base": 771.33,
-    "last": 768.56,
-    "base_date": "2026-08-04",
-    "last_date": "2026-08-06"
-   }
-  },
-  {
-   "date": "2026-08-04T22:40:35Z",
-   "platform": "News",
-   "text": "Mike Lindell reacts to earning Trump endorsement - FOX 9 Minneapolis-St. Paul \u2014 Mike Lindell reacts to earning Trump endorsement\u00a0\u00a0FOX 9 Minneapolis-St. Paul",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbHNFYzFKMEhMNi1QQ0FMQXFvR1puWGN6QVg5RWJSNG56M0RfeTJBejhBR3U3VE1oaEhxSmhGakFkUzVWMV9sMWRqUEFkcVFOZmRLYVhyTnpQRmVreGdKWS0yWUNPUVE1bGNlTHZXZVUxc0R3U05USmh0aVdQdmdZNHZwSmpqZVg4N2ZlbjNJYkVSOUVRQTdEZU5KT0Zid9IBowFBVV95cUxOUUpLam1CVkgydXlaV0JHTFVKc2sxaTMzUVRuN2lsTndrLXU1ZTNFeWMxNm9zQWpuQkpCOHJfMlphWmFrVWtGTk54QmxOeG9mb3UzOTJ3aVJRNjdiSjF0djZUakdleEhCb01NLVlWQmNKRmFnS3FXNjY4aTFoOE56V1FCcE0tYlNjSnhzWGwtc0VELTU3ZTVlMl9lMjdoRmloSTBr?oc=5",
-   "tickers": [
-    "MYPW"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "MYPW",
-   "strength": 20,
-   "reason": "Trump endorsement of MyPillow CEO for political race; unclear market impact"
-  },
-  {
-   "date": "2026-08-04T22:40:35Z",
-   "platform": "News",
-   "text": "Mike Lindell reacts to earning Trump endorsement - fox9.com \u2014 Mike Lindell reacts to earning Trump endorsement\u00a0\u00a0fox9.com",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbHNFYzFKMEhMNi1QQ0FMQXFvR1puWGN6QVg5RWJSNG56M0RfeTJBejhBR3U3VE1oaEhxSmhGakFkUzVWMV9sMWRqUEFkcVFOZmRLYVhyTnpQRmVreGdKWS0yWUNPUVE1bGNlTHZXZVUxc0R3U05USmh0aVdQdmdZNHZwSmpqZVg4N2ZlbjNJYkVSOUVRQTdEZU5KT0Zid9IBowFBVV95cUxOUUpLam1CVkgydXlaV0JHTFVKc2sxaTMzUVRuN2lsTndrLXU1ZTNFeWMxNm9zQWpuQkpCOHJfMlphWmFrVWtGTk54QmxOeG9mb3UzOTJ3aVJRNjdiSjF0djZUakdleEhCb01NLVlWQmNKRmFnS3FXNjY4aTFoOE56V1FCcE0tYlNjSnhzWGwtc0VELTU3ZTVlMl9lMjdoRmloSTBr?oc=5",
-   "tickers": [
-    "MYRG"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "MYRG",
-   "strength": 45,
-   "reason": "Trump explicitly endorses Mike Lindell; bullish for MyPillow",
-   "price_since": {
-    "ticker": "MYRG",
-    "pct": -2.7,
-    "base": 340.33,
-    "last": 331.13,
-    "base_date": "2026-08-04",
-    "last_date": "2026-08-06"
-   }
-  },
-  {
-   "date": "2026-08-04T20:38:42.973Z",
-   "platform": "Truth Social",
-   "text": "Manufacturing is BOOMING!\u00a0Factory activity just hit its\u00a0fastest pace in more than FOUR YEARS, far exceeding expectations. New orders have expanded for\u00a0SEVEN straight months. American Manufacturing is BACK!\u00a0The\u00a0Stock Market is at an ALL TIME HIGH, and setting Record after Record because Investors know America is WINNING!\u00a0American Exports are on FIRE. U.S. Goods Exports have now topped\u00a0200 BILLION DOLLARS for the fifth consecutive month, and we are on pace for\u00a0nearly 2.5 TRILLION DOLLARS\u00a0in Goods Exports this year \u2014 Numbers nobody thought possible just two years ago.\u00a0The\u00a0Fake News\u00a0and the Dumocrats\u00a0are doing everything they can to distract people's thoughts from these MASSIVE Successes, but it's getting harder and harder for them to do. With\u00a0TRILLIONS OF DOLLARS\u00a0of new Investment pouring into the United States, and more Factories, more Construction, and more High Paying Jobs on the way, the results are impossible to hide.\u00a0This is the\u00a0GOLDEN AGE OF AMERICA, and we're just getting started. We're already achieving heights that nobody thought possible \u2014 and the biggest Victories are still ahead!President DONALD J. TRUMP",
-   "tickers": [
-    "SPY"
-   ],
-   "engagement": 4485,
-   "url": "https://truthsocial.com/@realDonaldTrump/117039164487763760",
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "SPY",
-   "strength": 55,
-   "reason": "Strong manufacturing data and record stock market; broad macro bullish signal but no specific catalyst or company named",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": -0.4,
-    "base": 771.33,
-    "last": 768.56,
-    "base_date": "2026-08-04",
-    "last_date": "2026-08-06"
-   }
-  },
-  {
-   "date": "2026-08-04T18:54:48Z",
-   "platform": "News",
-   "text": "Minnesota GOP intensifies campaign against Mike Lindell\u2019s run for governor - Star Tribune \u2014 Minnesota GOP intensifies campaign against Mike Lindell\u2019s run for governor\u00a0\u00a0Star Tribune",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMWhSVWgwQnBEOEd0WTVXNHBaY0p3NllPNUVRS1M1OHE4MDlsb3NXdHhucG5YcF9RVkJ0RkRMX21YeEZQVC1rLVlPQ1B4S2VYVWVkbFdKUDNYcjNYS3N1NmlkVmRSczI3dEZPS29qUzZqSjdjbUtWMnY3NDRtT3Q4M1JVT3ktNWF6THdyNHNqU1pXb1VqTUE1azZYZ2ljc1ZvWmtkcHhrc2Z5YVRvb19DdnUzM0treUt0RkNUb2FOX3U?oc=5",
-   "tickers": [
-    "MYRG"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "MYRG",
-   "strength": 30,
-   "reason": "Political opposition to Lindell weakens his profile; bearish for MyPillow",
-   "price_since": {
-    "ticker": "MYRG",
-    "pct": -2.7,
-    "base": 340.33,
-    "last": 331.13,
-    "base_date": "2026-08-04",
-    "last_date": "2026-08-06"
-   }
-  },
-  {
-   "date": "2026-08-04T18:15:00Z",
-   "platform": "News",
-   "text": "Trump endorses lawn and garden company while talking to reporters at Oval Office: 'They do great grass' - Attack of the Fanboy \u2014 Trump endorses lawn and garden company while talking to reporters at Oval Office: 'They do great grass'\u00a0\u00a0Attack of the Fanboy",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdkRlS1EzM2huWkNiemhRVnNrMXJIaXhyUHZpTlc5S3pUVU8yWXF6UVo2UXl3RXdCdXFGY29RUVpRYUR6OEl1THA5ZC1ybkREOXdTU3dUWU1xUWVyVldYRWNtZjBKR21sckpFckhoVk1OejFCSUd4SXFwSk5Fa3JadS1LcWNNV1FSMDVzQlJWU0xxbDEtdTFpR2NjdFg2ZUdzNnFvdXhHa19wS2czdGlheTZ0SUd2dHd1YUNoOFF2T0ZBQUE2SEI3U0h4UUdCeDRMeDNKWTB2MA?oc=5",
-   "tickers": [
-    "SMG"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "SMG",
-   "strength": 75,
-   "reason": "Trump explicitly endorses Scotts Miracle-Gro ('great grass') at Oval Office",
-   "price_since": {
-    "ticker": "SMG",
-    "pct": -6.5,
-    "base": 66.38,
-    "last": 62.06,
-    "base_date": "2026-08-04",
-    "last_date": "2026-08-06"
-   }
-  },
-  {
-   "date": "2026-08-04T18:15:00Z",
-   "platform": "News",
-   "text": "Trump endorses lawn and garden company while talking to reporters at Oval Office: 'They do great grass' - attackofthefanboy.com \u2014 Trump endorses lawn and garden company while talking to reporters at Oval Office: 'They do great grass'\u00a0\u00a0attackofthefanboy.com",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdkRlS1EzM2huWkNiemhRVnNrMXJIaXhyUHZpTlc5S3pUVU8yWXF6UVo2UXl3RXdCdXFGY29RUVpRYUR6OEl1THA5ZC1ybkREOXdTU3dUWU1xUWVyVldYRWNtZjBKR21sckpFckhoVk1OejFCSUd4SXFwSk5Fa3JadS1LcWNNV1FSMDVzQlJWU0xxbDEtdTFpR2NjdFg2ZUdzNnFvdXhHa19wS2czdGlheTZ0SUd2dHd1YUNoOFF2T0ZBQUE2SEI3U0h4UUdCeDRMeDNKWTB2MA?oc=5",
-   "tickers": [
-    "SMG"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "SMG",
-   "strength": 65,
-   "reason": "Trump explicitly praises Scotts Miracle-Gro at White House; direct endorsement",
-   "price_since": {
-    "ticker": "SMG",
-    "pct": -6.5,
-    "base": 66.38,
-    "last": 62.06,
-    "base_date": "2026-08-04",
-    "last_date": "2026-08-06"
-   }
-  },
-  {
-   "date": "2026-08-04T17:23:51Z",
-   "platform": "News",
-   "text": "Anthropic names global affairs chief to tackle AI policy as Trump tensions persist - WTVB \u2014 Anthropic names global affairs chief to tackle AI policy as Trump tensions persist\u00a0\u00a0WTVB",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaGdSLWkzMlE4cUVrMUFGT1FmVGdaT2RDOGQxR3YtWHJoU2ZKYlU5Z2wzWlpNMHMzNlY0TG1oWDU3ck1MRDFqRzJ5Tm9uT3VlbGxPdGpGZS1TVUFBSmJ6WU82RnNhVENNMVI0d3lMazF2bEtqRktfSjJZM243VTJ2emdRQlNQR0pOUUNvUno5eGVseXpMTzhfSnI4bG9vZVdMdDdnRjEwSXBlT25wdC1HXzBlOA?oc=5",
-   "tickers": [
-    "ANTH"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "ANTH",
-   "strength": 35,
-   "reason": "Anthropic hires for AI policy amid Trump tensions; direction unclear, defensive move"
-  },
-  {
-   "date": "2026-08-04T14:36:16.632Z",
-   "platform": "Truth Social",
-   "text": "UAW: 'Strategic' Tariffs Prompt Industry Hiring Surge: https://www.newsmax.com/newsfront/united-auto-workers-tariffs-hiring-surge/2026/03/11/id/1249195/",
-   "tickers": [
-    "SPY"
-   ],
-   "engagement": 433,
-   "url": "https://truthsocial.com/@realDonaldTrump/117037739319710599",
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "SPY",
-   "strength": 35,
-   "reason": "Tariffs driving auto-industry hiring suggests near-term economic stimulus for sector",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": -0.4,
-    "base": 771.33,
-    "last": 768.56,
-    "base_date": "2026-08-04",
-    "last_date": "2026-08-06"
    }
   },
   {
