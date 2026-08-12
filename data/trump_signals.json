@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-08-12T17:42:48Z",
+ "last_updated": "2026-08-12T18:38:20Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-08-12T15:48:51Z",
+   "platform": "News",
+   "text": "Investor Finn: If I listened to Trump\u2019s stock picks I\u2019d be rich - Business Post \u2014 Investor Finn: If I listened to Trump\u2019s stock picks I\u2019d be rich\u00a0\u00a0Business Post",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbC03elczTXYzcGZKSFA0dGxNSnQ0LWRndDdwSEdlcXQ4UWxjeFctNnl1aXJZVHBmWTVmaVFiYWdTQWNLTTFtVzdxQmhldEJRX2dJOXBTRFlPZE1uMWdDY3NDZlBwbXVYVUtGWmlvd0hRclhOeEVjemJUYmN4QUVYWVRZcXVGTE1pWm5kMnRId29kSGlURlBoZDkzUGVOQQ?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "SPY",
+   "strength": 25,
+   "reason": "Retrospective commentary on Trump's stock picks; ambiguous direction, no actionable signal"
+  },
   {
    "date": "2026-08-12T14:31:09.583Z",
    "platform": "Truth Social",
@@ -84,9 +100,9 @@
    "reason": "Trump crackdown on defense contractor spending implies reduced defense budgets and lower margins",
    "price_since": {
     "ticker": "XAR",
-    "pct": 0.5,
+    "pct": 0.6,
     "base": 292.33,
-    "last": 293.79,
+    "last": 294.23,
     "base_date": "2026-08-11",
     "last_date": "2026-08-12"
    }
@@ -108,9 +124,9 @@
    "reason": "Defense contractor sector support implies bullish sector sentiment",
    "price_since": {
     "ticker": "XAR",
-    "pct": 0.5,
+    "pct": 0.6,
     "base": 292.33,
-    "last": 293.79,
+    "last": 294.23,
     "base_date": "2026-08-11",
     "last_date": "2026-08-12"
    }
@@ -132,9 +148,9 @@
    "reason": "Trump defense contractor policy praised by Warren, suggests favorable regulatory stance",
    "price_since": {
     "ticker": "XAR",
-    "pct": 0.5,
+    "pct": 0.6,
     "base": 292.33,
-    "last": 293.79,
+    "last": 294.23,
     "base_date": "2026-08-11",
     "last_date": "2026-08-12"
    }
@@ -153,15 +169,7 @@
    "direction": "SELL",
    "primary_ticker": "DJT",
    "strength": 50,
-   "reason": "Trump Media reports $238M loss; bearish for DJT stock valuation",
-   "price_since": {
-    "ticker": "DJT",
-    "pct": -6.3,
-    "base": 8.91,
-    "last": 8.35,
-    "base_date": "2026-08-11",
-    "last_date": "2026-08-12"
-   }
+   "reason": "Trump Media reports $238M loss; bearish for DJT stock valuation"
   },
   {
    "date": "2026-08-11T19:46:15Z",
@@ -180,9 +188,9 @@
    "reason": "Trump repeals EV transition science; bearish for electric vehicle makers",
    "price_since": {
     "ticker": "TSLA",
-    "pct": -2.1,
+    "pct": -1.8,
     "base": 332.81,
-    "last": 325.86,
+    "last": 326.75,
     "base_date": "2026-08-11",
     "last_date": "2026-08-12"
    }
@@ -201,12 +209,28 @@
    "direction": "BUY",
    "primary_ticker": "KEEL",
    "strength": 40,
-   "reason": "First data center lease announcement drives stock move; no Trump signal but market-relevant.",
+   "reason": "First data center lease announcement drives stock move; no Trump signal but market-relevant."
+  },
+  {
+   "date": "2026-08-11T18:20:19Z",
+   "platform": "News",
+   "text": "TSLA Stock Slips Premarket: Musk Joins Trump\u2019s China Trip As FSD Delays Threaten Tesla\u2019s Biggest Factory - Stocktwits \u2014 TSLA Stock Slips Premarket: Musk Joins Trump\u2019s China Trip As FSD Delays Threaten Tesla\u2019s Biggest Factory\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVHl5OGJHalFWTEM0d0l2LXRjLVJ6QTVjV0t3a3J6YkxkMF9fT2ZGU2VkNGl2NGpEc0NxMjV0SkRHMDhQUWJVTXZUOTVFeVdfb1I4dDBzV25yNWc2UlRsaGpIb1h0dXZIcVMyUXNQZ0FUd01vMmVPQmd2NDBkMy0tV2E1TGs2emp0Xy1iMHA0Z21ISDNpSTFOQzRKRjZGSGhZQ21vY2R0dzZfbEVnOWh4VzhtRnVoWnRJRXMwblQ0VFdJRzVKWnAyOExR?oc=5",
+   "tickers": [
+    "TSLA"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "TSLA",
+   "strength": 55,
+   "reason": "Tesla premarket slip linked to FSD delays and China trip uncertainty; bearish near-term signal",
    "price_since": {
-    "ticker": "KEEL",
-    "pct": 8.5,
-    "base": 3.29,
-    "last": 3.57,
+    "ticker": "TSLA",
+    "pct": -1.8,
+    "base": 332.81,
+    "last": 326.75,
     "base_date": "2026-08-11",
     "last_date": "2026-08-12"
    }
@@ -228,9 +252,9 @@
    "reason": "UNH rallying with Trump 'tailwinds'; vague positive sentiment on healthcare/Trump policies.",
    "price_since": {
     "ticker": "UNH",
-    "pct": 0.6,
+    "pct": 0.7,
     "base": 402.19,
-    "last": 404.5,
+    "last": 405.14,
     "base_date": "2026-08-11",
     "last_date": "2026-08-12"
    }
@@ -254,7 +278,7 @@
     "ticker": "INTC",
     "pct": 4.5,
     "base": 97.71,
-    "last": 102.1,
+    "last": 102.12,
     "base_date": "2026-08-11",
     "last_date": "2026-08-12"
    }
@@ -276,9 +300,9 @@
    "reason": "Defense contractor CEO pay curbs could pressure margins but regulatory intent is ambiguous",
    "price_since": {
     "ticker": "XAR",
-    "pct": 0.5,
+    "pct": 0.6,
     "base": 292.33,
-    "last": 293.79,
+    "last": 294.23,
     "base_date": "2026-08-11",
     "last_date": "2026-08-12"
    }
@@ -300,9 +324,9 @@
    "reason": "Defense contractor CEO pay curbs supported; mixed signal\u2014reform bearish for contractor margins, progressive support unclear on net",
    "price_since": {
     "ticker": "XAR",
-    "pct": 0.5,
+    "pct": 0.6,
     "base": 292.33,
-    "last": 293.79,
+    "last": 294.23,
     "base_date": "2026-08-11",
     "last_date": "2026-08-12"
    }
@@ -324,9 +348,9 @@
    "reason": "Iran sanctions pivot could affect oil/energy but direction ambiguous pending details",
    "price_since": {
     "ticker": "XLE",
-    "pct": -0.1,
+    "pct": 0.3,
     "base": 60.93,
-    "last": 60.88,
+    "last": 61.1,
     "base_date": "2026-08-11",
     "last_date": "2026-08-12"
    }
@@ -348,9 +372,9 @@
    "reason": "Iran sanctions pivot suggests escalating geopolitical risk, bearish for broad market",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.3,
+    "pct": 0.4,
     "base": 770.56,
-    "last": 772.95,
+    "last": 773.41,
     "base_date": "2026-08-11",
     "last_date": "2026-08-12"
    }
@@ -374,7 +398,7 @@
     "ticker": "NVDA",
     "pct": 3.0,
     "base": 217.5,
-    "last": 223.98,
+    "last": 223.99,
     "base_date": "2026-08-11",
     "last_date": "2026-08-12"
    }
@@ -396,9 +420,9 @@
    "reason": "Mixed signals: Nvidia bullish, oil reserve decline and vaccine order bearish; net ambiguous",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.3,
+    "pct": 0.4,
     "base": 770.56,
-    "last": 772.95,
+    "last": 773.41,
     "base_date": "2026-08-11",
     "last_date": "2026-08-12"
    }
@@ -420,9 +444,9 @@
    "reason": "Iran sanctions policy; geopolitical uncertainty affects broad market",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.3,
+    "pct": 0.4,
     "base": 770.56,
-    "last": 772.95,
+    "last": 773.41,
     "base_date": "2026-08-11",
     "last_date": "2026-08-12"
    }
@@ -444,9 +468,9 @@
    "reason": "Iran sanctions policy shift; unclear geopolitical/market direction",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.3,
+    "pct": 0.4,
     "base": 770.56,
-    "last": 772.95,
+    "last": 773.41,
     "base_date": "2026-08-11",
     "last_date": "2026-08-12"
    }
@@ -465,15 +489,7 @@
    "direction": "BUY",
    "primary_ticker": "RKLB",
    "strength": 50,
-   "reason": "Rocket Lab Nasdaq-100 entry; technical momentum and aerospace/defense growth",
-   "price_since": {
-    "ticker": "RKLB",
-    "pct": 1.3,
-    "base": 80.01,
-    "last": 81.09,
-    "base_date": "2026-08-11",
-    "last_date": "2026-08-12"
-   }
+   "reason": "Rocket Lab Nasdaq-100 entry; technical momentum and aerospace/defense growth"
   },
   {
    "date": "2026-08-11T11:00:43Z",
@@ -489,15 +505,7 @@
    "direction": "BUY",
    "primary_ticker": "MRNA",
    "strength": 55,
-   "reason": "Reports of FDA leadership change favoring biotech; bullish for MRNA and biotech sector",
-   "price_since": {
-    "ticker": "MRNA",
-    "pct": 5.2,
-    "base": 60.57,
-    "last": 63.73,
-    "base_date": "2026-08-11",
-    "last_date": "2026-08-12"
-   }
+   "reason": "Reports of FDA leadership change favoring biotech; bullish for MRNA and biotech sector"
   },
   {
    "date": "2026-08-11T10:18:14Z",
@@ -513,15 +521,7 @@
    "direction": "WATCH",
    "primary_ticker": "DJT",
    "strength": 40,
-   "reason": "Trump Media restructuring and Truth Social focus; unclear whether strategic pivot is bullish or bearish.",
-   "price_since": {
-    "ticker": "DJT",
-    "pct": -6.3,
-    "base": 8.91,
-    "last": 8.35,
-    "base_date": "2026-08-11",
-    "last_date": "2026-08-12"
-   }
+   "reason": "Trump Media restructuring and Truth Social focus; unclear whether strategic pivot is bullish or bearish."
   },
   {
    "date": "2026-08-11T10:00:00Z",
@@ -540,9 +540,9 @@
    "reason": "Commentary on admin stock investments raises crony capitalism concerns but direction ambiguous pending which stocks are involved",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.3,
+    "pct": 0.4,
     "base": 770.56,
-    "last": 772.95,
+    "last": 773.42,
     "base_date": "2026-08-11",
     "last_date": "2026-08-12"
    }
@@ -564,9 +564,9 @@
    "reason": "Commentary on administration stock investments raises crony capitalism concerns; vague policy risk",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.3,
+    "pct": 0.4,
     "base": 770.56,
-    "last": 772.95,
+    "last": 773.42,
     "base_date": "2026-08-11",
     "last_date": "2026-08-12"
    }
@@ -588,9 +588,9 @@
    "reason": "Iran sanctions escalation typically bearish for broad market via geopolitical risk.",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.3,
+    "pct": 0.4,
     "base": 770.56,
-    "last": 772.95,
+    "last": 773.41,
     "base_date": "2026-08-11",
     "last_date": "2026-08-12"
    }
@@ -612,9 +612,9 @@
    "reason": "Iran sanctions strategy implies potential energy market volatility; geopolitical risk on oil.",
    "price_since": {
     "ticker": "USO",
-    "pct": -0.3,
+    "pct": 0.1,
     "base": 127.61,
-    "last": 127.22,
+    "last": 127.76,
     "base_date": "2026-08-11",
     "last_date": "2026-08-12"
    }
@@ -636,9 +636,9 @@
    "reason": "Iran sanctions policy pivot; typically bearish for broad market (geopolitical risk, oil volatility).",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.3,
+    "pct": 0.4,
     "base": 770.56,
-    "last": 772.95,
+    "last": 773.42,
     "base_date": "2026-08-11",
     "last_date": "2026-08-12"
    }
@@ -657,15 +657,7 @@
    "direction": "BUY",
    "primary_ticker": "DJT",
    "strength": 35,
-   "reason": "Prominent investor endorsement of Trump accounts signals market confidence in Trump-linked assets",
-   "price_since": {
-    "ticker": "DJT",
-    "pct": -6.2,
-    "base": 8.91,
-    "last": 8.36,
-    "base_date": "2026-08-11",
-    "last_date": "2026-08-12"
-   }
+   "reason": "Prominent investor endorsement of Trump accounts signals market confidence in Trump-linked assets"
   },
   {
    "date": "2026-08-11T04:40:40Z",
@@ -684,9 +676,9 @@
    "reason": "Trump's Hormuz control statement implies stability in oil shipping lanes; mildly bullish for energy.",
    "price_since": {
     "ticker": "XLE",
-    "pct": -0.1,
+    "pct": 0.3,
     "base": 60.93,
-    "last": 60.88,
+    "last": 61.1,
     "base_date": "2026-08-11",
     "last_date": "2026-08-12"
    }
@@ -710,7 +702,7 @@
     "ticker": "NVDA",
     "pct": 3.0,
     "base": 217.5,
-    "last": 223.98,
+    "last": 223.96,
     "base_date": "2026-08-11",
     "last_date": "2026-08-12"
    }
@@ -732,9 +724,9 @@
    "reason": "IBM overnight surge attributed to unnamed catalyst; likely Trump-related but reason unclear.",
    "price_since": {
     "ticker": "IBM",
-    "pct": -1.7,
+    "pct": -1.5,
     "base": 238.42,
-    "last": 234.45,
+    "last": 234.93,
     "base_date": "2026-08-11",
     "last_date": "2026-08-12"
    }
@@ -2788,54 +2780,6 @@
     "pct": 3.1,
     "base": 273.63,
     "last": 282.08,
-    "base_date": "2026-08-03",
-    "last_date": "2026-08-05"
-   }
-  },
-  {
-   "date": "2026-08-03T16:50:00Z",
-   "platform": "News",
-   "text": "Trump Media (NASDAQ: DJT) Sells High-Speed Truth Social Feed To Trading Firms, Sparking Abuse Of Power Claims - foreignpolicyjournal.com \u2014 Trump Media (NASDAQ: DJT) Sells High-Speed Truth Social Feed To Trading Firms, Sparking Abuse Of Power Claims\u00a0\u00a0foreignpolicyjournal.com",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOclhHSnlyT2U2LWpyY0pXdzAybXRQRGtsbUtqZkJ3TmJUaHdUclhHRGh0TVN6X09feloyU2ppU19Kc1I4RlJxZ2sxWTl0MnlMV1B5enFEMUktUGZIUzM1SDN4RENVc3YwRWY2ay03OVZEeERpSUJhODJWNUJQTERDdU1Dc3VycHZoajdla3ZlZ0lSTGgyb1hoMFRpamF4MTBVTzRRZ2gzY2FXUEZITDAtMUVSVDE2UUxwR01xY3h2UzBuTm5XSEpMVGF3dVpRWEJsRVJUck5IbkQ3clh3Wk9sQTR0QXRQWFR6N1E?oc=5",
-   "tickers": [
-    "DJT"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "WATCH",
-   "primary_ticker": "DJT",
-   "strength": 45,
-   "reason": "Trump Media selling preferential feed access raises insider-trading concerns; bullish for DJT revenue but bearish for governance/regulation risk.",
-   "price_since": {
-    "ticker": "DJT",
-    "pct": -0.5,
-    "base": 10.01,
-    "last": 9.96,
-    "base_date": "2026-08-03",
-    "last_date": "2026-08-05"
-   }
-  },
-  {
-   "date": "2026-08-03T14:15:09Z",
-   "platform": "News",
-   "text": "Falling oil prices help calm worries about inflation, and Wall Street rallies - orlandosentinel.com \u2014 Falling oil prices help calm worries about inflation, and Wall Street rallies\u00a0\u00a0orlandosentinel.com",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAyWG50UndxQkljYkxtZERnNVl5R2lyQmpWSnFNNldyY2NpdzlzQkJJcjZpVW5tMTJtNVZ5NnFlR0JUd0pTOG9qdEFuVFlVOWxVME9mSXdkUkhEWURWWlNfZlBmQldRYnBCMVJqNFVpaVJ2Ni11UGFyY29BQWo?oc=5",
-   "tickers": [
-    "USO"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "USO",
-   "strength": 50,
-   "reason": "Falling oil prices reduce inflation concerns, supporting broad market and oil sector",
-   "price_since": {
-    "ticker": "USO",
-    "pct": -5.9,
-    "base": 122.12,
-    "last": 114.88,
     "base_date": "2026-08-03",
     "last_date": "2026-08-05"
    }
