@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-12T05:59:32Z",
+ "last_updated": "2026-08-12T07:44:28Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -35,6 +35,22 @@
    "reason": "Defense contractor sector support implies bullish sector sentiment"
   },
   {
+   "date": "2026-08-11T21:09:00Z",
+   "platform": "News",
+   "text": "Trump\u2019s media company, which also owns Truth Social, reports $238m loss - The Guardian \u2014 Trump\u2019s media company, which also owns Truth Social, reports $238m loss\u00a0\u00a0The Guardian",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9ORGdEc2NNSGdrMWtsQ2R3VS1MRDAxd0RFVF9jOUxuWkUxaU9YSXptNzZ2ZU8waEpoVlZJNm5jdEdpV3lqQ1prRzRIRVFJbngzQWE3STFMRUxjdmtqMEk0dUFCRVdTUmJpU2dHMTBTbk9adWQ5NmQyaTBob1o?oc=5",
+   "tickers": [
+    "DJT"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "DJT",
+   "strength": 50,
+   "reason": "Trump Media reports $238M loss; bearish for DJT stock valuation"
+  },
+  {
    "date": "2026-08-11T14:52:47Z",
    "platform": "News",
    "text": "Progressive praise for Trump as Warren backs push to curb defense contractor CEO payouts - WFIN \u2014 Progressive praise for Trump as Warren backs push to curb defense contractor CEO payouts\u00a0\u00a0WFIN",
@@ -65,6 +81,22 @@
    "primary_ticker": "XAR",
    "strength": 40,
    "reason": "Defense contractor CEO pay curbs supported; mixed signal\u2014reform bearish for contractor margins, progressive support unclear on net"
+  },
+  {
+   "date": "2026-08-11T13:54:45Z",
+   "platform": "News",
+   "text": "Trump pivots back to sanctions for Iran as other strategies to end his war fizzle - Oregon Public Broadcasting - OPB \u2014 Trump pivots back to sanctions for Iran as other strategies to end his war fizzle\u00a0\u00a0Oregon Public Broadcasting - OPB",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYXJYQXl0anZoZW5yUDFHd3dHZlFEQ1ZybTRCeWF1bXNDbGZjNEVzUWhPbjBqMFpRTEVzcDljUmRVcWoyT2RDeklCQ1RaenJNYU1iYlZta2swZFNER1laQXZrR3pUdHpJUC1IUDNZaHlsMW5sNzdJTVAwakozWWJVckRMZHpPX3ViTmd3WHcxbWliYnpWbDYzb0VYbw?oc=5",
+   "tickers": [
+    "XLE"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "XLE",
+   "strength": 30,
+   "reason": "Iran sanctions pivot could affect oil/energy but direction ambiguous pending details"
   },
   {
    "date": "2026-08-11T12:36:12Z",
@@ -289,22 +321,6 @@
    "primary_ticker": "IBM",
    "strength": 50,
    "reason": "IBM overnight surge attributed to unnamed catalyst; likely Trump-related but reason unclear."
-  },
-  {
-   "date": "2026-08-11T00:54:00Z",
-   "platform": "News",
-   "text": "Trump\u2019s media company, which also owns Truth Social, reports $238m loss - The Guardian \u2014 Trump\u2019s media company, which also owns Truth Social, reports $238m loss\u00a0\u00a0The Guardian",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9ORGdEc2NNSGdrMWtsQ2R3VS1MRDAxd0RFVF9jOUxuWkUxaU9YSXptNzZ2ZU8waEpoVlZJNm5jdEdpV3lqQ1prRzRIRVFJbngzQWE3STFMRUxjdmtqMEk0dUFCRVdTUmJpU2dHMTBTbk9adWQ5NmQyaTBob1o?oc=5",
-   "tickers": [
-    "DJT"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "DJT",
-   "strength": 65,
-   "reason": "Trump Media reports $238M loss; negative earnings for DJT stock"
   },
   {
    "date": "2026-08-11T00:03:00Z",
@@ -2646,30 +2662,6 @@
     "pct": 0.2,
     "base": 10.01,
     "last": 10.03,
-    "base_date": "2026-08-03",
-    "last_date": "2026-08-04"
-   }
-  },
-  {
-   "date": "2026-08-02T01:42:56Z",
-   "platform": "News",
-   "text": "Trump launches $100,000-a-month feed offering early access to market-moving Truth Social posts - The Economic Times \u2014 Trump launches $100,000-a-month feed offering early access to market-moving Truth Social posts\u00a0\u00a0The Economic Times",
-   "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxOSExtN0lWb2t4bml4RXlaMWc5OGtRUl9UZl9BN2E2d05zdkhiY1Z0Y0pmUnVMRjlmRWJIa0hETGhmY2ItbUU5cmlpRlZ5MVFETi1WY1BSazdOM3RQdS02ZDJ2UDJOcGRQb2tya3BQNER1Rlc4Zm4yYVpBRFBzUnFBVmtzeUszZ0RYb0h1QzBMMTk2RENDTEpBbC16aXJucWVPNXA1SXV0Q05MZDk0NXBXUk1WX25nR1pITkVXYkpSLUswZ19pempfNjNwSmpMT21ueTBUQWJLc2FJNVRWaTNkalNobkJvSG5MeGs5NXRtSUR6NEZJcXY3WW5jQ0R3NHBBWktmZnZhMmh5UmN5dXNQcUloVFNURTg3R1RCdWdyQXc2QndqYVdORmJoc3hGODDSAbQCQVVfeXFMTmFSb2syM1JZVU5IRDlLWm9nVDRwcHl4YXJsekNLNFF1UVZzN0o0dWw2ZmpXUm81MmJ4Q294cU1FSE9BT2VQZUZrRC1uN1lMMl9RNnh1R3k1NHVNRGdMblNvMFcxYlhWQnA1Rmo0d19iQjNETVA5cXM4RjVocHdyZnVnU2MyVEgzSHhmUy1EcWxnQldDZ1oxM3JuVFJabkd3eXctTGlqZTlCUTl3ZExwZFhvdkVZM3FEWWdoOHUwVGxWRXdPbGZ6TVZIVERRLW5MbDJsS01QQS16dEtCOVlXMlFNWnpXNUlOZ3JKcE52ZkxGLTAwZWoxSDRGZTBRQWdTNmpHV19qUkJZU0gzdGJOWkkwekxCTzQ0eC1mZzRJcGp0Z25COEZUVVZwUURfMzVsTjRkcnk?oc=5",
-   "tickers": [
-    "DJT"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "DJT",
-   "strength": 45,
-   "reason": "$100k/month early-access feed to market-moving posts raises insider-access and manipulation concerns.",
-   "price_since": {
-    "ticker": "DJT",
-    "pct": -0.1,
-    "base": 10.01,
-    "last": 10.0,
     "base_date": "2026-08-03",
     "last_date": "2026-08-04"
    }
