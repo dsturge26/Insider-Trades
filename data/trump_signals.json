@@ -1,7 +1,24 @@
 {
- "last_updated": "2026-08-12T13:35:17Z",
+ "last_updated": "2026-08-12T14:43:53Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-08-12T14:31:09.583Z",
+   "platform": "Truth Social",
+   "text": "The U.S.A. has total control over over the Strait of Hormuz. I THINK WE WILL KEEP IT! Our Naval Blockade is being called, by everyone, \"A WALL OF STEEL,\" and there is nothing Iran can do about it. They have no Navy, they have no Air Force, their remaining soldiers are unpaid, the IRGC is decimated and fleeing, and their \"Leadership\" is uncertain, at best! They have No Money - Their country is \"shot.\" All they have is FAKE NEWS and 300% INFLATION, and getting worse! Iran is all talk and no action, the Bully of the Middle East No Longer. Praise be to Allah! President DONALD J. TRUMP",
+   "tickers": [
+    "XLE"
+   ],
+   "engagement": 154,
+   "url": "https://truthsocial.com/@realDonaldTrump/117083017680231697",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "XLE",
+   "strength": 45,
+   "reason": "US control of Strait of Hormuz strengthens oil supply security, bullish for energy sector"
+  },
   {
    "date": "2026-08-12T00:59:30Z",
    "platform": "News",
@@ -51,9 +68,9 @@
    "reason": "Trump crackdown on defense contractor spending implies reduced defense budgets and lower margins",
    "price_since": {
     "ticker": "XAR",
-    "pct": 0.1,
+    "pct": -0.3,
     "base": 292.33,
-    "last": 292.6,
+    "last": 291.57,
     "base_date": "2026-08-11",
     "last_date": "2026-08-12"
    }
@@ -75,9 +92,33 @@
    "reason": "Defense contractor sector support implies bullish sector sentiment",
    "price_since": {
     "ticker": "XAR",
-    "pct": 0.1,
+    "pct": -0.3,
     "base": 292.33,
-    "last": 292.6,
+    "last": 291.57,
+    "base_date": "2026-08-11",
+    "last_date": "2026-08-12"
+   }
+  },
+  {
+   "date": "2026-08-11T21:15:21Z",
+   "platform": "News",
+   "text": "Elizabeth Warren Praises Trump\u2019s Latest Move With Defense Contractors - dailywire.com \u2014 Elizabeth Warren Praises Trump\u2019s Latest Move With Defense Contractors\u00a0\u00a0dailywire.com",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNam4yYXA4dTQ4eWpYMjlCNGd0bWpuT09IVWJsanlLMzdxblkwRjQ2MnpPckFvYVdyQW9zMnpVUEFPSUZLaG02QmEtTklPa1RMbjlCdlZIQ0lJY0xnM0Q3eXAxY2pUZ2p5dTZETUhaRU5iR2lFajJzYzd2cEJTT19acHRtQ2JabWNDVlNaWGhrV3hiQmJQRC16Mlh4UW1nb0xt?oc=5",
+   "tickers": [
+    "XAR"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "XAR",
+   "strength": 40,
+   "reason": "Trump defense contractor policy praised by Warren, suggests favorable regulatory stance",
+   "price_since": {
+    "ticker": "XAR",
+    "pct": -0.3,
+    "base": 292.33,
+    "last": 291.57,
     "base_date": "2026-08-11",
     "last_date": "2026-08-12"
    }
@@ -96,15 +137,7 @@
    "direction": "SELL",
    "primary_ticker": "DJT",
    "strength": 50,
-   "reason": "Trump Media reports $238M loss; bearish for DJT stock valuation",
-   "price_since": {
-    "ticker": "DJT",
-    "pct": -0.7,
-    "base": 8.91,
-    "last": 8.85,
-    "base_date": "2026-08-11",
-    "last_date": "2026-08-12"
-   }
+   "reason": "Trump Media reports $238M loss; bearish for DJT stock valuation"
   },
   {
    "date": "2026-08-11T14:52:47Z",
@@ -123,9 +156,9 @@
    "reason": "Defense contractor CEO pay curbs could pressure margins but regulatory intent is ambiguous",
    "price_since": {
     "ticker": "XAR",
-    "pct": 0.1,
+    "pct": -0.3,
     "base": 292.33,
-    "last": 292.6,
+    "last": 291.57,
     "base_date": "2026-08-11",
     "last_date": "2026-08-12"
    }
@@ -147,9 +180,9 @@
    "reason": "Defense contractor CEO pay curbs supported; mixed signal\u2014reform bearish for contractor margins, progressive support unclear on net",
    "price_since": {
     "ticker": "XAR",
-    "pct": 0.1,
+    "pct": -0.3,
     "base": 292.33,
-    "last": 292.6,
+    "last": 291.57,
     "base_date": "2026-08-11",
     "last_date": "2026-08-12"
    }
@@ -171,9 +204,9 @@
    "reason": "Iran sanctions pivot could affect oil/energy but direction ambiguous pending details",
    "price_since": {
     "ticker": "XLE",
-    "pct": -0.9,
+    "pct": -0.2,
     "base": 60.93,
-    "last": 60.36,
+    "last": 60.78,
     "base_date": "2026-08-11",
     "last_date": "2026-08-12"
    }
@@ -197,7 +230,7 @@
     "ticker": "SPY",
     "pct": 0.3,
     "base": 770.56,
-    "last": 773.21,
+    "last": 772.98,
     "base_date": "2026-08-11",
     "last_date": "2026-08-12"
    }
@@ -219,9 +252,9 @@
    "reason": "Nvidia mentioned as 'investible asset' but no explicit buy/sell signal; direction ambiguous.",
    "price_since": {
     "ticker": "NVDA",
-    "pct": 2.1,
+    "pct": 3.3,
     "base": 217.5,
-    "last": 221.97,
+    "last": 224.66,
     "base_date": "2026-08-11",
     "last_date": "2026-08-12"
    }
@@ -245,7 +278,7 @@
     "ticker": "SPY",
     "pct": 0.3,
     "base": 770.56,
-    "last": 773.21,
+    "last": 772.98,
     "base_date": "2026-08-11",
     "last_date": "2026-08-12"
    }
@@ -269,7 +302,7 @@
     "ticker": "SPY",
     "pct": 0.3,
     "base": 770.56,
-    "last": 773.21,
+    "last": 772.98,
     "base_date": "2026-08-11",
     "last_date": "2026-08-12"
    }
@@ -293,7 +326,7 @@
     "ticker": "SPY",
     "pct": 0.3,
     "base": 770.56,
-    "last": 773.2,
+    "last": 772.98,
     "base_date": "2026-08-11",
     "last_date": "2026-08-12"
    }
@@ -312,15 +345,7 @@
    "direction": "BUY",
    "primary_ticker": "RKLB",
    "strength": 50,
-   "reason": "Rocket Lab Nasdaq-100 entry; technical momentum and aerospace/defense growth",
-   "price_since": {
-    "ticker": "RKLB",
-    "pct": -1.7,
-    "base": 80.01,
-    "last": 78.61,
-    "base_date": "2026-08-11",
-    "last_date": "2026-08-12"
-   }
+   "reason": "Rocket Lab Nasdaq-100 entry; technical momentum and aerospace/defense growth"
   },
   {
    "date": "2026-08-11T11:00:43Z",
@@ -336,15 +361,7 @@
    "direction": "BUY",
    "primary_ticker": "MRNA",
    "strength": 55,
-   "reason": "Reports of FDA leadership change favoring biotech; bullish for MRNA and biotech sector",
-   "price_since": {
-    "ticker": "MRNA",
-    "pct": 0.5,
-    "base": 60.57,
-    "last": 60.85,
-    "base_date": "2026-08-11",
-    "last_date": "2026-08-12"
-   }
+   "reason": "Reports of FDA leadership change favoring biotech; bullish for MRNA and biotech sector"
   },
   {
    "date": "2026-08-11T10:55:44Z",
@@ -360,15 +377,7 @@
    "direction": "WATCH",
    "primary_ticker": "KEEL",
    "strength": 40,
-   "reason": "Data center lease announcement may support stock; modest positive catalyst but unconfirmed impact.",
-   "price_since": {
-    "ticker": "KEEL",
-    "pct": 4.3,
-    "base": 3.29,
-    "last": 3.43,
-    "base_date": "2026-08-11",
-    "last_date": "2026-08-12"
-   }
+   "reason": "Data center lease announcement may support stock; modest positive catalyst but unconfirmed impact."
   },
   {
    "date": "2026-08-11T10:18:14Z",
@@ -384,15 +393,7 @@
    "direction": "WATCH",
    "primary_ticker": "DJT",
    "strength": 40,
-   "reason": "Trump Media restructuring and Truth Social focus; unclear whether strategic pivot is bullish or bearish.",
-   "price_since": {
-    "ticker": "DJT",
-    "pct": -0.7,
-    "base": 8.91,
-    "last": 8.85,
-    "base_date": "2026-08-11",
-    "last_date": "2026-08-12"
-   }
+   "reason": "Trump Media restructuring and Truth Social focus; unclear whether strategic pivot is bullish or bearish."
   },
   {
    "date": "2026-08-11T10:00:00Z",
@@ -413,7 +414,7 @@
     "ticker": "SPY",
     "pct": 0.3,
     "base": 770.56,
-    "last": 773.22,
+    "last": 773.03,
     "base_date": "2026-08-11",
     "last_date": "2026-08-12"
    }
@@ -437,7 +438,7 @@
     "ticker": "SPY",
     "pct": 0.3,
     "base": 770.56,
-    "last": 773.22,
+    "last": 773.03,
     "base_date": "2026-08-11",
     "last_date": "2026-08-12"
    }
@@ -461,7 +462,7 @@
     "ticker": "SPY",
     "pct": 0.3,
     "base": 770.56,
-    "last": 773.2,
+    "last": 772.98,
     "base_date": "2026-08-11",
     "last_date": "2026-08-12"
    }
@@ -485,7 +486,7 @@
     "ticker": "USO",
     "pct": -0.8,
     "base": 127.61,
-    "last": 126.61,
+    "last": 126.64,
     "base_date": "2026-08-11",
     "last_date": "2026-08-12"
    }
@@ -509,7 +510,7 @@
     "ticker": "SPY",
     "pct": 0.3,
     "base": 770.56,
-    "last": 773.25,
+    "last": 773.0,
     "base_date": "2026-08-11",
     "last_date": "2026-08-12"
    }
@@ -531,9 +532,9 @@
    "reason": "Trump's Hormuz control statement implies stability in oil shipping lanes; mildly bullish for energy.",
    "price_since": {
     "ticker": "XLE",
-    "pct": -1.0,
+    "pct": -0.2,
     "base": 60.93,
-    "last": 60.35,
+    "last": 60.78,
     "base_date": "2026-08-11",
     "last_date": "2026-08-12"
    }
@@ -555,9 +556,9 @@
    "reason": "Trump states China has not approved NVDA chip sales; bearish signal for semiconductor export revenue.",
    "price_since": {
     "ticker": "NVDA",
-    "pct": 2.0,
+    "pct": 3.3,
     "base": 217.5,
-    "last": 221.93,
+    "last": 224.7,
     "base_date": "2026-08-11",
     "last_date": "2026-08-12"
    }
@@ -579,9 +580,9 @@
    "reason": "IBM overnight surge attributed to unnamed catalyst; likely Trump-related but reason unclear.",
    "price_since": {
     "ticker": "IBM",
-    "pct": -0.5,
+    "pct": -2.2,
     "base": 238.42,
-    "last": 237.3,
+    "last": 233.24,
     "base_date": "2026-08-11",
     "last_date": "2026-08-12"
    }
@@ -600,15 +601,7 @@
    "direction": "WATCH",
    "primary_ticker": "DJT",
    "strength": 45,
-   "reason": "Trump Media restructuring toward Truth Social; strategy shift for DJT stock outlook unclear",
-   "price_since": {
-    "ticker": "DJT",
-    "pct": -0.8,
-    "base": 8.91,
-    "last": 8.84,
-    "base_date": "2026-08-11",
-    "last_date": "2026-08-12"
-   }
+   "reason": "Trump Media restructuring toward Truth Social; strategy shift for DJT stock outlook unclear"
   },
   {
    "date": "2026-08-10T22:43:12Z",
@@ -627,9 +620,9 @@
    "reason": "Trump media company financial loss signals weakness in DJT underlying business",
    "price_since": {
     "ticker": "DJT",
-    "pct": -5.8,
+    "pct": -8.0,
     "base": 9.39,
-    "last": 8.85,
+    "last": 8.64,
     "base_date": "2026-08-10",
     "last_date": "2026-08-12"
    }
@@ -651,9 +644,9 @@
    "reason": "Global pharma investment in US boosts biotech sector outlook",
    "price_since": {
     "ticker": "XBI",
-    "pct": 0.3,
+    "pct": 0.8,
     "base": 158.03,
-    "last": 158.51,
+    "last": 159.24,
     "base_date": "2026-08-10",
     "last_date": "2026-08-12"
    }
@@ -2750,78 +2743,6 @@
     "last": 57.31,
     "base_date": "2026-08-03",
     "last_date": "2026-08-05"
-   }
-  },
-  {
-   "date": "2026-08-03T12:29:35Z",
-   "platform": "News",
-   "text": "Falling oil prices help calm worries about inflation, and Wall Street rallies - New York Daily News \u2014 Falling oil prices help calm worries about inflation, and Wall Street rallies\u00a0\u00a0New York Daily News",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5STHBjZlhSUElkYWdnNDYyRFgzd2dHR2tYMWw3OXl2VXFEUmZqTVNtazg1Qm52TVZCd3RrV3FuSWI3ZlExUEhFakJTdDQ1RlVRQkRBbWZQRHkwTlJXaDlDLWsxYTdZQWkzd2dZMk55WFE0dHVodXZz?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "SPY",
-   "strength": 35,
-   "reason": "Falling oil prices reduce inflation fears; broad market positive signal.",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": 1.6,
-    "base": 757.67,
-    "last": 769.79,
-    "base_date": "2026-08-03",
-    "last_date": "2026-08-05"
-   }
-  },
-  {
-   "date": "2026-08-03T07:00:00Z",
-   "platform": "News",
-   "text": "DELL|Dell Technologies Inc|Price:444.691|Chg%:+15.671 - TradingKey \u2014 DELL|Dell Technologies Inc|Price:444.691|Chg%:+15.671\u00a0\u00a0TradingKey",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxTEh6d1JJRnJFTFJ6X0lwS0F1aW5uNXE5MHQ4QTdSZnVzblNVVGhRQlBudlRGRnNHdldZdlBnb3M2ekhjdWR4SVVNcnU4T1loSXhrcmtVQUlUdw?oc=5",
-   "tickers": [
-    "DELL"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "DELL",
-   "strength": 70,
-   "reason": "Dell stock rallies 15.7% following Trump endorsement; confirms positive momentum from direct Trump praise",
-   "price_since": {
-    "ticker": "DELL",
-    "pct": 7.9,
-    "base": 429.02,
-    "last": 462.7,
-    "base_date": "2026-08-03",
-    "last_date": "2026-08-05"
-   }
-  },
-  {
-   "date": "2026-08-02T23:10:52Z",
-   "platform": "News",
-   "text": "Bessent Says More Steps Possible on Yen as Trump Praises Japan - Bloomberg \u2014 Bessent Says More Steps Possible on Yen as Trump Praises Japan\u00a0\u00a0Bloomberg",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQS1hGR29FT0FHVVk2ZlAyTU9kblZSNkZBOTg4TFcteGRzcFlKOEU4dUM3QXB3bklDajN6U2JlTWJkVFZkNmVuektoOUZCWEpIYXFYOUdQSUExZlR4Vk9mZWxFMnlSdExNaF9CRFJSLTBGU3VfVjBrUzhfS1l3NkZMYjJKdEVZZGxmUkVTY2F0X0tkZHRGd2RseG9BNElXajVEUlc4d3BWNkVLSnItLTJBTHpLMA?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "SPY",
-   "strength": 40,
-   "reason": "Trump praise of yen/currency intervention policy; macro uncertainty, two-sided",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": 1.8,
-    "base": 757.67,
-    "last": 771.33,
-    "base_date": "2026-08-03",
-    "last_date": "2026-08-04"
    }
   },
   {
