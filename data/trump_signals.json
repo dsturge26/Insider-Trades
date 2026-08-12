@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-12T14:43:53Z",
+ "last_updated": "2026-08-12T15:41:21Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -70,7 +70,7 @@
     "ticker": "XAR",
     "pct": -0.3,
     "base": 292.33,
-    "last": 291.57,
+    "last": 291.49,
     "base_date": "2026-08-11",
     "last_date": "2026-08-12"
    }
@@ -94,7 +94,7 @@
     "ticker": "XAR",
     "pct": -0.3,
     "base": 292.33,
-    "last": 291.57,
+    "last": 291.49,
     "base_date": "2026-08-11",
     "last_date": "2026-08-12"
    }
@@ -118,7 +118,7 @@
     "ticker": "XAR",
     "pct": -0.3,
     "base": 292.33,
-    "last": 291.57,
+    "last": 291.49,
     "base_date": "2026-08-11",
     "last_date": "2026-08-12"
    }
@@ -137,7 +137,39 @@
    "direction": "SELL",
    "primary_ticker": "DJT",
    "strength": 50,
-   "reason": "Trump Media reports $238M loss; bearish for DJT stock valuation"
+   "reason": "Trump Media reports $238M loss; bearish for DJT stock valuation",
+   "price_since": {
+    "ticker": "DJT",
+    "pct": -5.8,
+    "base": 8.91,
+    "last": 8.39,
+    "base_date": "2026-08-11",
+    "last_date": "2026-08-12"
+   }
+  },
+  {
+   "date": "2026-08-11T19:46:15Z",
+   "platform": "News",
+   "text": "TSLA, RIVN, LCID Fall After Trump Repeals Foundational Scientific Finding Supporting EV Transition - Stocktwits \u2014 TSLA, RIVN, LCID Fall After Trump Repeals Foundational Scientific Finding Supporting EV Transition\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOYTh1SUJ5ZVpud2xJaVJONFY5elh0TmNTVjA1dWw2MEQwNWpKemNTTWJTbnRDUlJjQkRCX0gzS3FVaXdXREtpN2tMZHNRX28xV2VDSXFIQ3RfVjJNc1VfNU1lWnIyLXFkcWJqOHRNd1lYNXRPMk13SDF1Y25BUmJSbHdkMnRuQlg1aVU3ZHlNT2J4RTBBb0hQUmJnV2o3YUk4NjhWSjJvdWNONGNsRjYwaHNYSFEtU3NwMmR4d2pkWExyc2w3MkpkQXo3OGg4aUdTbDJud2UzMHdkNE1MamxKMGN5SHlER3QxRVZ6SVMyQ3A3QQ?oc=5",
+   "tickers": [
+    "TSLA"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "TSLA",
+   "strength": 75,
+   "reason": "Trump repeals EV transition science; bearish for electric vehicle makers",
+   "price_since": {
+    "ticker": "TSLA",
+    "pct": -2.6,
+    "base": 332.81,
+    "last": 324.17,
+    "base_date": "2026-08-11",
+    "last_date": "2026-08-12"
+   }
   },
   {
    "date": "2026-08-11T14:52:47Z",
@@ -158,7 +190,7 @@
     "ticker": "XAR",
     "pct": -0.3,
     "base": 292.33,
-    "last": 291.57,
+    "last": 291.49,
     "base_date": "2026-08-11",
     "last_date": "2026-08-12"
    }
@@ -182,7 +214,7 @@
     "ticker": "XAR",
     "pct": -0.3,
     "base": 292.33,
-    "last": 291.57,
+    "last": 291.49,
     "base_date": "2026-08-11",
     "last_date": "2026-08-12"
    }
@@ -204,9 +236,9 @@
    "reason": "Iran sanctions pivot could affect oil/energy but direction ambiguous pending details",
    "price_since": {
     "ticker": "XLE",
-    "pct": -0.2,
+    "pct": -0.3,
     "base": 60.93,
-    "last": 60.78,
+    "last": 60.74,
     "base_date": "2026-08-11",
     "last_date": "2026-08-12"
    }
@@ -228,9 +260,9 @@
    "reason": "Iran sanctions pivot suggests escalating geopolitical risk, bearish for broad market",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.3,
+    "pct": 0.1,
     "base": 770.56,
-    "last": 772.98,
+    "last": 771.59,
     "base_date": "2026-08-11",
     "last_date": "2026-08-12"
    }
@@ -252,9 +284,9 @@
    "reason": "Nvidia mentioned as 'investible asset' but no explicit buy/sell signal; direction ambiguous.",
    "price_since": {
     "ticker": "NVDA",
-    "pct": 3.3,
+    "pct": 2.6,
     "base": 217.5,
-    "last": 224.66,
+    "last": 223.25,
     "base_date": "2026-08-11",
     "last_date": "2026-08-12"
    }
@@ -276,9 +308,9 @@
    "reason": "Mixed signals: Nvidia bullish, oil reserve decline and vaccine order bearish; net ambiguous",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.3,
+    "pct": 0.1,
     "base": 770.56,
-    "last": 772.98,
+    "last": 771.59,
     "base_date": "2026-08-11",
     "last_date": "2026-08-12"
    }
@@ -300,9 +332,9 @@
    "reason": "Iran sanctions policy; geopolitical uncertainty affects broad market",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.3,
+    "pct": 0.1,
     "base": 770.56,
-    "last": 772.98,
+    "last": 771.59,
     "base_date": "2026-08-11",
     "last_date": "2026-08-12"
    }
@@ -324,9 +356,9 @@
    "reason": "Iran sanctions policy shift; unclear geopolitical/market direction",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.3,
+    "pct": 0.1,
     "base": 770.56,
-    "last": 772.98,
+    "last": 771.59,
     "base_date": "2026-08-11",
     "last_date": "2026-08-12"
    }
@@ -345,7 +377,15 @@
    "direction": "BUY",
    "primary_ticker": "RKLB",
    "strength": 50,
-   "reason": "Rocket Lab Nasdaq-100 entry; technical momentum and aerospace/defense growth"
+   "reason": "Rocket Lab Nasdaq-100 entry; technical momentum and aerospace/defense growth",
+   "price_since": {
+    "ticker": "RKLB",
+    "pct": 0.2,
+    "base": 80.01,
+    "last": 80.2,
+    "base_date": "2026-08-11",
+    "last_date": "2026-08-12"
+   }
   },
   {
    "date": "2026-08-11T11:00:43Z",
@@ -361,7 +401,15 @@
    "direction": "BUY",
    "primary_ticker": "MRNA",
    "strength": 55,
-   "reason": "Reports of FDA leadership change favoring biotech; bullish for MRNA and biotech sector"
+   "reason": "Reports of FDA leadership change favoring biotech; bullish for MRNA and biotech sector",
+   "price_since": {
+    "ticker": "MRNA",
+    "pct": 4.3,
+    "base": 60.57,
+    "last": 63.18,
+    "base_date": "2026-08-11",
+    "last_date": "2026-08-12"
+   }
   },
   {
    "date": "2026-08-11T10:55:44Z",
@@ -377,7 +425,15 @@
    "direction": "WATCH",
    "primary_ticker": "KEEL",
    "strength": 40,
-   "reason": "Data center lease announcement may support stock; modest positive catalyst but unconfirmed impact."
+   "reason": "Data center lease announcement may support stock; modest positive catalyst but unconfirmed impact.",
+   "price_since": {
+    "ticker": "KEEL",
+    "pct": 9.1,
+    "base": 3.29,
+    "last": 3.59,
+    "base_date": "2026-08-11",
+    "last_date": "2026-08-12"
+   }
   },
   {
    "date": "2026-08-11T10:18:14Z",
@@ -393,7 +449,15 @@
    "direction": "WATCH",
    "primary_ticker": "DJT",
    "strength": 40,
-   "reason": "Trump Media restructuring and Truth Social focus; unclear whether strategic pivot is bullish or bearish."
+   "reason": "Trump Media restructuring and Truth Social focus; unclear whether strategic pivot is bullish or bearish.",
+   "price_since": {
+    "ticker": "DJT",
+    "pct": -5.8,
+    "base": 8.91,
+    "last": 8.39,
+    "base_date": "2026-08-11",
+    "last_date": "2026-08-12"
+   }
   },
   {
    "date": "2026-08-11T10:00:00Z",
@@ -412,9 +476,9 @@
    "reason": "Commentary on admin stock investments raises crony capitalism concerns but direction ambiguous pending which stocks are involved",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.3,
+    "pct": 0.1,
     "base": 770.56,
-    "last": 773.03,
+    "last": 771.59,
     "base_date": "2026-08-11",
     "last_date": "2026-08-12"
    }
@@ -436,9 +500,9 @@
    "reason": "Commentary on administration stock investments raises crony capitalism concerns; vague policy risk",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.3,
+    "pct": 0.1,
     "base": 770.56,
-    "last": 773.03,
+    "last": 771.59,
     "base_date": "2026-08-11",
     "last_date": "2026-08-12"
    }
@@ -460,9 +524,9 @@
    "reason": "Iran sanctions escalation typically bearish for broad market via geopolitical risk.",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.3,
+    "pct": 0.1,
     "base": 770.56,
-    "last": 772.98,
+    "last": 771.59,
     "base_date": "2026-08-11",
     "last_date": "2026-08-12"
    }
@@ -484,9 +548,9 @@
    "reason": "Iran sanctions strategy implies potential energy market volatility; geopolitical risk on oil.",
    "price_since": {
     "ticker": "USO",
-    "pct": -0.8,
+    "pct": -0.4,
     "base": 127.61,
-    "last": 126.64,
+    "last": 127.04,
     "base_date": "2026-08-11",
     "last_date": "2026-08-12"
    }
@@ -508,9 +572,9 @@
    "reason": "Iran sanctions policy pivot; typically bearish for broad market (geopolitical risk, oil volatility).",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.3,
+    "pct": 0.1,
     "base": 770.56,
-    "last": 773.0,
+    "last": 771.59,
     "base_date": "2026-08-11",
     "last_date": "2026-08-12"
    }
@@ -532,9 +596,9 @@
    "reason": "Trump's Hormuz control statement implies stability in oil shipping lanes; mildly bullish for energy.",
    "price_since": {
     "ticker": "XLE",
-    "pct": -0.2,
+    "pct": -0.3,
     "base": 60.93,
-    "last": 60.78,
+    "last": 60.74,
     "base_date": "2026-08-11",
     "last_date": "2026-08-12"
    }
@@ -556,9 +620,9 @@
    "reason": "Trump states China has not approved NVDA chip sales; bearish signal for semiconductor export revenue.",
    "price_since": {
     "ticker": "NVDA",
-    "pct": 3.3,
+    "pct": 2.6,
     "base": 217.5,
-    "last": 224.7,
+    "last": 223.26,
     "base_date": "2026-08-11",
     "last_date": "2026-08-12"
    }
@@ -580,9 +644,9 @@
    "reason": "IBM overnight surge attributed to unnamed catalyst; likely Trump-related but reason unclear.",
    "price_since": {
     "ticker": "IBM",
-    "pct": -2.2,
+    "pct": -1.8,
     "base": 238.42,
-    "last": 233.24,
+    "last": 234.03,
     "base_date": "2026-08-11",
     "last_date": "2026-08-12"
    }
@@ -601,7 +665,15 @@
    "direction": "WATCH",
    "primary_ticker": "DJT",
    "strength": 45,
-   "reason": "Trump Media restructuring toward Truth Social; strategy shift for DJT stock outlook unclear"
+   "reason": "Trump Media restructuring toward Truth Social; strategy shift for DJT stock outlook unclear",
+   "price_since": {
+    "ticker": "DJT",
+    "pct": -5.8,
+    "base": 8.91,
+    "last": 8.39,
+    "base_date": "2026-08-11",
+    "last_date": "2026-08-12"
+   }
   },
   {
    "date": "2026-08-10T22:43:12Z",
@@ -620,9 +692,9 @@
    "reason": "Trump media company financial loss signals weakness in DJT underlying business",
    "price_since": {
     "ticker": "DJT",
-    "pct": -8.0,
+    "pct": -10.6,
     "base": 9.39,
-    "last": 8.64,
+    "last": 8.39,
     "base_date": "2026-08-10",
     "last_date": "2026-08-12"
    }
@@ -644,9 +716,9 @@
    "reason": "Global pharma investment in US boosts biotech sector outlook",
    "price_since": {
     "ticker": "XBI",
-    "pct": 0.8,
+    "pct": 1.1,
     "base": 158.03,
-    "last": 159.24,
+    "last": 159.8,
     "base_date": "2026-08-10",
     "last_date": "2026-08-12"
    }
@@ -668,9 +740,9 @@
    "reason": "News headline about Trump Media stock; no directional signal implied by title alone.",
    "price_since": {
     "ticker": "DJT",
-    "pct": -5.8,
+    "pct": -10.6,
     "base": 9.39,
-    "last": 8.85,
+    "last": 8.39,
     "base_date": "2026-08-10",
     "last_date": "2026-08-12"
    }
@@ -692,11 +764,11 @@
    "reason": "Trump-endorsed gas station network regulatory inspection; ambiguous direction for energy sector",
    "price_since": {
     "ticker": "XLE",
-    "pct": 1.2,
+    "pct": 1.0,
     "base": 60.18,
-    "last": 60.93,
+    "last": 60.76,
     "base_date": "2026-08-10",
-    "last_date": "2026-08-11"
+    "last_date": "2026-08-12"
    }
   },
   {
@@ -716,11 +788,11 @@
    "reason": "Trump-endorsed fuel gas stations under regulatory inspection; unclear net impact on energy sector",
    "price_since": {
     "ticker": "XLE",
-    "pct": 1.2,
+    "pct": 1.0,
     "base": 60.18,
-    "last": 60.93,
+    "last": 60.76,
     "base_date": "2026-08-10",
-    "last_date": "2026-08-11"
+    "last_date": "2026-08-12"
    }
   },
   {
@@ -740,11 +812,11 @@
    "reason": "Pentagon accelerating defense weapons production due to Iran conflict; bullish for defense contractors.",
    "price_since": {
     "ticker": "XAR",
-    "pct": 1.4,
+    "pct": 1.1,
     "base": 288.29,
-    "last": 292.33,
+    "last": 291.49,
     "base_date": "2026-08-10",
-    "last_date": "2026-08-11"
+    "last_date": "2026-08-12"
    }
   },
   {
