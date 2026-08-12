@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-12T00:01:06Z",
+ "last_updated": "2026-08-12T02:44:10Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -49,6 +49,22 @@
    "primary_ticker": "XAR",
    "strength": 25,
    "reason": "Defense contractor CEO pay curbs could pressure margins but regulatory intent is ambiguous"
+  },
+  {
+   "date": "2026-08-11T14:52:47Z",
+   "platform": "News",
+   "text": "Progressive praise for Trump as Warren backs push to curb defense contractor CEO payouts - wfin.com \u2014 Progressive praise for Trump as Warren backs push to curb defense contractor CEO payouts\u00a0\u00a0wfin.com",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUEFzMGdPWFFpNFplVFl3LXpYa1Y5UkU1Szh3ZlBhNGYwWUdTWlVnOWo3dVhNWU9oN2ZEcE1Nc09Za2lvR1FvLVVheFQzd2FDeWtvY2Z3NE9oaE1SalFDd0F3dGg5bGhuRHNUa2pYMlNJNzgwNm9DTmo0aV8wR1ZXVTh2SVlLb2NDWU5PUmtVdWpZLUNWRllRNnB2OHZIVExLaGM1b1VQRzRjNXg2NVA0ZzVwVTJURzAzYkhjNkRBQnVjYWM?oc=5",
+   "tickers": [
+    "XAR"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "XAR",
+   "strength": 40,
+   "reason": "Defense contractor CEO pay curbs supported; mixed signal\u2014reform bearish for contractor margins, progressive support unclear on net"
   },
   {
    "date": "2026-08-11T12:36:12Z",
@@ -262,6 +278,30 @@
     "pct": -5.1,
     "base": 9.39,
     "last": 8.91,
+    "base_date": "2026-08-10",
+    "last_date": "2026-08-11"
+   }
+  },
+  {
+   "date": "2026-08-10T07:00:00Z",
+   "platform": "News",
+   "text": "Global drugmakers invest billions to boost US presence - Reuters \u2014 Global drugmakers invest billions to boost US presence\u00a0\u00a0Reuters",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNOXpTeHpFWXhrT3JvTDhZVUFoMkFkbWZUZ1BGRUhldl9aZzdjRGh2T1dzb2lrcnNkMkJzNjFVSmE0aDh1dEJwc3J6MHdReFBRbXk4UU5ZSGRFSWxrWHJnVEdQaXpHYVJjQ3ZNdk1tS21VQ0tCSnhoVEF5Q1VlaHdBYTFTQnNGZy15aXhobEIwdXB6bEE2Nkc1WVBoblRleE1ZY3lLRER2c3d1RHlBUGQ0ZkluTV9ZVmxDSmpObDZaYlpERjRueWVSbFBsU0o?oc=5",
+   "tickers": [
+    "XBI"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "XBI",
+   "strength": 45,
+   "reason": "Global pharma investment in US boosts biotech sector outlook",
+   "price_since": {
+    "ticker": "XBI",
+    "pct": 0.0,
+    "base": 158.03,
+    "last": 158.07,
     "base_date": "2026-08-10",
     "last_date": "2026-08-11"
    }
