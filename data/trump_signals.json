@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-12T15:41:21Z",
+ "last_updated": "2026-08-12T16:37:01Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -68,9 +68,9 @@
    "reason": "Trump crackdown on defense contractor spending implies reduced defense budgets and lower margins",
    "price_since": {
     "ticker": "XAR",
-    "pct": -0.3,
+    "pct": 0.0,
     "base": 292.33,
-    "last": 291.49,
+    "last": 292.42,
     "base_date": "2026-08-11",
     "last_date": "2026-08-12"
    }
@@ -92,9 +92,9 @@
    "reason": "Defense contractor sector support implies bullish sector sentiment",
    "price_since": {
     "ticker": "XAR",
-    "pct": -0.3,
+    "pct": 0.0,
     "base": 292.33,
-    "last": 291.49,
+    "last": 292.42,
     "base_date": "2026-08-11",
     "last_date": "2026-08-12"
    }
@@ -116,9 +116,9 @@
    "reason": "Trump defense contractor policy praised by Warren, suggests favorable regulatory stance",
    "price_since": {
     "ticker": "XAR",
-    "pct": -0.3,
+    "pct": 0.0,
     "base": 292.33,
-    "last": 291.49,
+    "last": 292.42,
     "base_date": "2026-08-11",
     "last_date": "2026-08-12"
    }
@@ -140,9 +140,9 @@
    "reason": "Trump Media reports $238M loss; bearish for DJT stock valuation",
    "price_since": {
     "ticker": "DJT",
-    "pct": -5.8,
+    "pct": -5.6,
     "base": 8.91,
-    "last": 8.39,
+    "last": 8.41,
     "base_date": "2026-08-11",
     "last_date": "2026-08-12"
    }
@@ -164,9 +164,33 @@
    "reason": "Trump repeals EV transition science; bearish for electric vehicle makers",
    "price_since": {
     "ticker": "TSLA",
-    "pct": -2.6,
+    "pct": -1.8,
     "base": 332.81,
-    "last": 324.17,
+    "last": 326.86,
+    "base_date": "2026-08-11",
+    "last_date": "2026-08-12"
+   }
+  },
+  {
+   "date": "2026-08-11T16:00:31Z",
+   "platform": "News",
+   "text": "INTC Stock Rockets Toward Best Month Ever: Something More Than A Trump Pump Could Be Powering The Rally - Stocktwits \u2014 INTC Stock Rockets Toward Best Month Ever: Something More Than A Trump Pump Could Be Powering The Rally\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQT29KOURKeHprQ2xZbmpLUUc3MGRlTTE5Y1JHVXJ5TGhldk10eENQcmZLSzRWNDQyTmJFclFNUThmZ0tBRlZUQTZ3MGF1dlZwR0Q4aUtXUnZVQ2o1MjM3cFNpU2RrejRkd2E0OXBhOVNpdDdBdDVSSTR1c2M5NTZfYlg4NEFxODg3QWpMTXd0VVIzM3pZRS10OG5JWG9QUW52UjZvbXVvQ29uZ1lJb1NwbFljM1lBN1dreHdJZDdYZ1hKTjVidndnRWlJRnl5cnNpT2llcjVuSVltVDNzVFdHbmZYTEpua3JJVllOcXIxVmdfaThfeHRzVm9R?oc=5",
+   "tickers": [
+    "INTC"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "INTC",
+   "strength": 45,
+   "reason": "Intel rally attributed partly to Trump policies; chipmaker tailwind from admin support.",
+   "price_since": {
+    "ticker": "INTC",
+    "pct": 3.3,
+    "base": 97.71,
+    "last": 100.97,
     "base_date": "2026-08-11",
     "last_date": "2026-08-12"
    }
@@ -188,9 +212,9 @@
    "reason": "Defense contractor CEO pay curbs could pressure margins but regulatory intent is ambiguous",
    "price_since": {
     "ticker": "XAR",
-    "pct": -0.3,
+    "pct": 0.0,
     "base": 292.33,
-    "last": 291.49,
+    "last": 292.42,
     "base_date": "2026-08-11",
     "last_date": "2026-08-12"
    }
@@ -212,9 +236,9 @@
    "reason": "Defense contractor CEO pay curbs supported; mixed signal\u2014reform bearish for contractor margins, progressive support unclear on net",
    "price_since": {
     "ticker": "XAR",
-    "pct": -0.3,
+    "pct": 0.0,
     "base": 292.33,
-    "last": 291.49,
+    "last": 292.42,
     "base_date": "2026-08-11",
     "last_date": "2026-08-12"
    }
@@ -236,9 +260,9 @@
    "reason": "Iran sanctions pivot could affect oil/energy but direction ambiguous pending details",
    "price_since": {
     "ticker": "XLE",
-    "pct": -0.3,
+    "pct": -0.0,
     "base": 60.93,
-    "last": 60.74,
+    "last": 60.91,
     "base_date": "2026-08-11",
     "last_date": "2026-08-12"
    }
@@ -260,9 +284,9 @@
    "reason": "Iran sanctions pivot suggests escalating geopolitical risk, bearish for broad market",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.1,
+    "pct": 0.2,
     "base": 770.56,
-    "last": 771.59,
+    "last": 772.33,
     "base_date": "2026-08-11",
     "last_date": "2026-08-12"
    }
@@ -284,9 +308,9 @@
    "reason": "Nvidia mentioned as 'investible asset' but no explicit buy/sell signal; direction ambiguous.",
    "price_since": {
     "ticker": "NVDA",
-    "pct": 2.6,
+    "pct": 2.4,
     "base": 217.5,
-    "last": 223.25,
+    "last": 222.73,
     "base_date": "2026-08-11",
     "last_date": "2026-08-12"
    }
@@ -308,9 +332,9 @@
    "reason": "Mixed signals: Nvidia bullish, oil reserve decline and vaccine order bearish; net ambiguous",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.1,
+    "pct": 0.2,
     "base": 770.56,
-    "last": 771.59,
+    "last": 772.33,
     "base_date": "2026-08-11",
     "last_date": "2026-08-12"
    }
@@ -332,9 +356,9 @@
    "reason": "Iran sanctions policy; geopolitical uncertainty affects broad market",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.1,
+    "pct": 0.2,
     "base": 770.56,
-    "last": 771.59,
+    "last": 772.32,
     "base_date": "2026-08-11",
     "last_date": "2026-08-12"
    }
@@ -356,9 +380,9 @@
    "reason": "Iran sanctions policy shift; unclear geopolitical/market direction",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.1,
+    "pct": 0.2,
     "base": 770.56,
-    "last": 771.59,
+    "last": 772.32,
     "base_date": "2026-08-11",
     "last_date": "2026-08-12"
    }
@@ -380,9 +404,9 @@
    "reason": "Rocket Lab Nasdaq-100 entry; technical momentum and aerospace/defense growth",
    "price_since": {
     "ticker": "RKLB",
-    "pct": 0.2,
+    "pct": 0.5,
     "base": 80.01,
-    "last": 80.2,
+    "last": 80.41,
     "base_date": "2026-08-11",
     "last_date": "2026-08-12"
    }
@@ -404,9 +428,9 @@
    "reason": "Reports of FDA leadership change favoring biotech; bullish for MRNA and biotech sector",
    "price_since": {
     "ticker": "MRNA",
-    "pct": 4.3,
+    "pct": 5.1,
     "base": 60.57,
-    "last": 63.18,
+    "last": 63.63,
     "base_date": "2026-08-11",
     "last_date": "2026-08-12"
    }
@@ -428,9 +452,9 @@
    "reason": "Data center lease announcement may support stock; modest positive catalyst but unconfirmed impact.",
    "price_since": {
     "ticker": "KEEL",
-    "pct": 9.1,
+    "pct": 9.4,
     "base": 3.29,
-    "last": 3.59,
+    "last": 3.6,
     "base_date": "2026-08-11",
     "last_date": "2026-08-12"
    }
@@ -452,9 +476,9 @@
    "reason": "Trump Media restructuring and Truth Social focus; unclear whether strategic pivot is bullish or bearish.",
    "price_since": {
     "ticker": "DJT",
-    "pct": -5.8,
+    "pct": -5.7,
     "base": 8.91,
-    "last": 8.39,
+    "last": 8.4,
     "base_date": "2026-08-11",
     "last_date": "2026-08-12"
    }
@@ -476,9 +500,9 @@
    "reason": "Commentary on admin stock investments raises crony capitalism concerns but direction ambiguous pending which stocks are involved",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.1,
+    "pct": 0.2,
     "base": 770.56,
-    "last": 771.59,
+    "last": 772.32,
     "base_date": "2026-08-11",
     "last_date": "2026-08-12"
    }
@@ -500,9 +524,9 @@
    "reason": "Commentary on administration stock investments raises crony capitalism concerns; vague policy risk",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.1,
+    "pct": 0.2,
     "base": 770.56,
-    "last": 771.59,
+    "last": 772.31,
     "base_date": "2026-08-11",
     "last_date": "2026-08-12"
    }
@@ -524,9 +548,9 @@
    "reason": "Iran sanctions escalation typically bearish for broad market via geopolitical risk.",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.1,
+    "pct": 0.2,
     "base": 770.56,
-    "last": 771.59,
+    "last": 772.31,
     "base_date": "2026-08-11",
     "last_date": "2026-08-12"
    }
@@ -550,7 +574,7 @@
     "ticker": "USO",
     "pct": -0.4,
     "base": 127.61,
-    "last": 127.04,
+    "last": 127.15,
     "base_date": "2026-08-11",
     "last_date": "2026-08-12"
    }
@@ -572,9 +596,33 @@
    "reason": "Iran sanctions policy pivot; typically bearish for broad market (geopolitical risk, oil volatility).",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.1,
+    "pct": 0.2,
     "base": 770.56,
-    "last": 771.59,
+    "last": 772.31,
+    "base_date": "2026-08-11",
+    "last_date": "2026-08-12"
+   }
+  },
+  {
+   "date": "2026-08-11T07:00:00Z",
+   "platform": "News",
+   "text": "Bill Ackman Endorses Trump Accounts As Key Win For Market Participation - scanx.trade \u2014 Bill Ackman Endorses Trump Accounts As Key Win For Market Participation\u00a0\u00a0scanx.trade",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRENIWjk0ZWdtMXBnSjNvMzBWQTY2M0FSTHNBMzFwbERxbWVfR3pMU1FobVJQeEpadzN5c1pZM2JRbXRVVmd3M254LWx3djNZQV80Z1ozUGpRNjZFZ1JpTF83RVVrQTJYSlpQVk9tTzctMC1xQVp2LXpwSlMzSVFidnpYS1pwUEZoc09PdzNteHBkUldLQzdQTzUzNGJ1eFk3cGNPUUU1d0hxZy1SYWtBX0Q5TWtoOG1nbXN5WmYyanZsSXc?oc=5",
+   "tickers": [
+    "DJT"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "DJT",
+   "strength": 35,
+   "reason": "Prominent investor endorsement of Trump accounts signals market confidence in Trump-linked assets",
+   "price_since": {
+    "ticker": "DJT",
+    "pct": -5.7,
+    "base": 8.91,
+    "last": 8.4,
     "base_date": "2026-08-11",
     "last_date": "2026-08-12"
    }
@@ -596,9 +644,9 @@
    "reason": "Trump's Hormuz control statement implies stability in oil shipping lanes; mildly bullish for energy.",
    "price_since": {
     "ticker": "XLE",
-    "pct": -0.3,
+    "pct": -0.0,
     "base": 60.93,
-    "last": 60.74,
+    "last": 60.9,
     "base_date": "2026-08-11",
     "last_date": "2026-08-12"
    }
@@ -620,9 +668,9 @@
    "reason": "Trump states China has not approved NVDA chip sales; bearish signal for semiconductor export revenue.",
    "price_since": {
     "ticker": "NVDA",
-    "pct": 2.6,
+    "pct": 2.4,
     "base": 217.5,
-    "last": 223.26,
+    "last": 222.74,
     "base_date": "2026-08-11",
     "last_date": "2026-08-12"
    }
@@ -644,9 +692,9 @@
    "reason": "IBM overnight surge attributed to unnamed catalyst; likely Trump-related but reason unclear.",
    "price_since": {
     "ticker": "IBM",
-    "pct": -1.8,
+    "pct": -1.7,
     "base": 238.42,
-    "last": 234.03,
+    "last": 234.45,
     "base_date": "2026-08-11",
     "last_date": "2026-08-12"
    }
@@ -668,9 +716,9 @@
    "reason": "Trump Media restructuring toward Truth Social; strategy shift for DJT stock outlook unclear",
    "price_since": {
     "ticker": "DJT",
-    "pct": -5.8,
+    "pct": -5.6,
     "base": 8.91,
-    "last": 8.39,
+    "last": 8.41,
     "base_date": "2026-08-11",
     "last_date": "2026-08-12"
    }
@@ -1766,22 +1814,6 @@
   {
    "date": "2026-08-07T06:02:51Z",
    "platform": "News",
-   "text": "INTC Stock Rockets Toward Best Month Ever: Something More Than A Trump Pump Could Be Powering The Rally - Stocktwits \u2014 INTC Stock Rockets Toward Best Month Ever: Something More Than A Trump Pump Could Be Powering The Rally\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQT29KOURKeHprQ2xZbmpLUUc3MGRlTTE5Y1JHVXJ5TGhldk10eENQcmZLSzRWNDQyTmJFclFNUThmZ0tBRlZUQTZ3MGF1dlZwR0Q4aUtXUnZVQ2o1MjM3cFNpU2RrejRkd2E0OXBhOVNpdDdBdDVSSTR1c2M5NTZfYlg4NEFxODg3QWpMTXd0VVIzM3pZRS10OG5JWG9QUW52UjZvbXVvQ29uZ1lJb1NwbFljM1lBN1dreHdJZDdYZ1hKTjVidndnRWlJRnl5cnNpT2llcjVuSVltVDNzVFdHbmZYTEpua3JJVllOcXIxVmdfaThfeHRzVm9R?oc=5",
-   "tickers": [
-    "INTC"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "INTC",
-   "strength": 50,
-   "reason": "Intel rally attributed partly to Trump pump; strength suggests broader catalyst beyond endorsement."
-  },
-  {
-   "date": "2026-08-07T06:02:51Z",
-   "platform": "News",
    "text": "INTC Stock Rockets Toward Best Month Ever: Something More Than A Trump Pump Could Be Powering The Rally - stocktwits.com \u2014 INTC Stock Rockets Toward Best Month Ever: Something More Than A Trump Pump Could Be Powering The Rally\u00a0\u00a0stocktwits.com",
    "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQT29KOURKeHprQ2xZbmpLUUc3MGRlTTE5Y1JHVXJ5TGhldk10eENQcmZLSzRWNDQyTmJFclFNUThmZ0tBRlZUQTZ3MGF1dlZwR0Q4aUtXUnZVQ2o1MjM3cFNpU2RrejRkd2E0OXBhOVNpdDdBdDVSSTR1c2M5NTZfYlg4NEFxODg3QWpMTXd0VVIzM3pZRS10OG5JWG9QUW52UjZvbXVvQ29uZ1lJb1NwbFljM1lBN1dreHdJZDdYZ1hKTjVidndnRWlJRnl5cnNpT2llcjVuSVltVDNzVFdHbmZYTEpua3JJVllOcXIxVmdfaThfeHRzVm9R?oc=5",
    "tickers": [
@@ -2788,31 +2820,6 @@
     "pct": 1.6,
     "base": 757.67,
     "last": 769.79,
-    "base_date": "2026-08-03",
-    "last_date": "2026-08-05"
-   }
-  },
-  {
-   "date": "2026-08-03T13:50:42.242Z",
-   "platform": "Truth Social",
-   "text": "Mike Wirth, Chairman and CEO of Chevron, just gave, in an interview with the fabulous Maria Bartiromo, all of the reasons that his company is doing so well. The only thing he conveniently forgot to mention is that, without the genius, foresight, strength, and stability, of the TRUMP Administration, the Oil Industry, and our Country itself, would be DEAD! As an example, they threw Mike and Chevron out of Venezuela, but now they're back, far bigger and stronger than ever before, expecting to make a fortune! That goes for other Oil Companies as well\u2026and get your consumer (retail!) Oil Prices DOWN, NOW! Thank you for your attention to this matter. President DJT",
-   "tickers": [
-    "XLE"
-   ],
-   "engagement": 7454,
-   "url": "https://truthsocial.com/@realDonaldTrump/117031897808226413",
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "XLE",
-   "strength": 65,
-   "reason": "Trump credits his administration for oil industry success; Venezuela re-entry bullish for oil majors; implies energy sector strength",
-   "price_since": {
-    "ticker": "XLE",
-    "pct": -2.5,
-    "base": 58.79,
-    "last": 57.31,
     "base_date": "2026-08-03",
     "last_date": "2026-08-05"
    }
