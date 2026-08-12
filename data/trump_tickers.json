@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-12T10:04:33Z",
+ "last_updated": "2026-08-12T11:10:40Z",
  "note": "Trump-linked / 'Trump trade' tickers to watch. Prices are refreshed by the GitHub Action from Yahoo Finance (intraday quote + trend, no key; Stooq is a fallback). Stocks are ~15-min delayed, crypto is real-time.",
  "tickers": [
   {
@@ -8,6 +8,10 @@
    "why": "Trump is majority owner. The purest 'Trump sentiment' stock \u2014 moves on his political/legal/business news.",
    "stooq": "djt.us",
    "prices": [
+    {
+     "date": "2026-05-14",
+     "close": 8.95
+    },
     {
      "date": "2026-05-15",
      "close": 8.67
@@ -243,10 +247,6 @@
     {
      "date": "2026-08-10",
      "close": 9.39
-    },
-    {
-     "date": "2026-08-11",
-     "close": 8.91
     }
    ],
    "last": 8.91,
@@ -765,6 +765,10 @@
    "stooq": "pltr.us",
    "prices": [
     {
+     "date": "2026-05-14",
+     "close": 133.73
+    },
+    {
      "date": "2026-05-15",
      "close": 133.99
     },
@@ -999,10 +1003,6 @@
     {
      "date": "2026-08-10",
      "close": 175.23
-    },
-    {
-     "date": "2026-08-11",
-     "close": 174.94
     }
    ],
    "last": 174.94,

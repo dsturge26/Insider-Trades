@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-12T10:04:32Z",
+ "last_updated": "2026-08-12T11:10:39Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -17,6 +17,22 @@
    "primary_ticker": "DJT",
    "strength": 45,
    "reason": "Truth Social monetization scheme raises governance/valuation questions for Trump Media."
+  },
+  {
+   "date": "2026-08-12T00:59:30Z",
+   "platform": "News",
+   "text": "Trump stands to profit off US policy announcements by selling fast access to his social media posts - scrippsnews.com \u2014 Trump stands to profit off US policy announcements by selling fast access to his social media posts\u00a0\u00a0scrippsnews.com",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVDNqYmRTZlluLUoxTkJDckN4XzFSaXJLSDJLTnJNb1k2V2dfM1F5LW9jQ1RzdUp1dEk0WDgtVTR4bWpKRFBLVjFBWkViTkZ2QThMR05fMDZKWEJ1dG9HdkRyei1DX182TlhHdU9fRzMwMFVveWRjNlpSSTg0YzV6V25kX1ZZMFVDNzBMS2duc0d5Zy1zcF90a2xGU29CV1UwalZucjQzU2hkajlVY09ndV94SjJzOFJjdWtiM2tRdkZZT1FfVXBNLVRscUppWGJoVGxaWTlHdVRHYTJ5anNYc3BmMy0?oc=5",
+   "tickers": [
+    "DJT"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "DJT",
+   "strength": 35,
+   "reason": "Trump Truth Social monetization via policy announcements; potential regulatory/legal risk to DJT platform"
   },
   {
    "date": "2026-08-11T22:38:14Z",
@@ -177,6 +193,38 @@
    "primary_ticker": "SPY",
    "strength": 35,
    "reason": "Iran sanctions policy; geopolitical uncertainty affects broad market"
+  },
+  {
+   "date": "2026-08-11T11:29:08Z",
+   "platform": "News",
+   "text": "RKLB Stock Jumps Overnight: Rocket Lab Lines Up Record Launch Blitz After Nasdaq-100 Entry - Stocktwits \u2014 RKLB Stock Jumps Overnight: Rocket Lab Lines Up Record Launch Blitz After Nasdaq-100 Entry\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcmNfZ0ZLLUkwNmE3aUw4WGlIbUFMNjJzVF90Z3ItWWxTb0NOVDY3Z1NsZTBQRlktUjJWY2t6dWI3LUE5MDZDdjdyb0doOTZvRVFleVFXYmN6eWYyeEowUnNGdEExSWthS1ZHRng2SWROYV9wZlN5djU4UWtucEJpNzJYNlFrN0pNVm5VaFhCblNiblIyaUtrYzlRQmwxb29wMmFrT2dQVUpLeFluMU10cldZMjR1TWZt?oc=5",
+   "tickers": [
+    "RKLB"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "RKLB",
+   "strength": 50,
+   "reason": "Rocket Lab Nasdaq-100 entry; technical momentum and aerospace/defense growth"
+  },
+  {
+   "date": "2026-08-11T11:00:43Z",
+   "platform": "News",
+   "text": "REPL, QURE, MRNA Soar On Reports Trump Will Fire FDA\u2019s Marty Makary - Stocktwits \u2014 REPL, QURE, MRNA Soar On Reports Trump Will Fire FDA\u2019s Marty Makary\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPU3Z0Z1R6VlBrbUhjMmZMNmVXdXBXQW5TTUtIelRzbmMtS0kzSjdQTWFJRGV4TTFuVWE0QmxTTGpPc1NWdVdWQjl2bmVPTGNXY180NXltOWlqM3pPd1JDTmVORU5Kemc4Wk1IRWMtUE1UbVlQV1VndWx2cGhwSmxUWmw1Y3htZWVGQ1RxUEY3bVh4Y0lIcW1oVF9TMWgyUmNUY1JQajF4NGdCZHUzNEFDbnAtWTUzRmlpcHNYZk4tb0l6b2pDbFE?oc=5",
+   "tickers": [
+    "MRNA"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "MRNA",
+   "strength": 55,
+   "reason": "Reports of FDA leadership change favoring biotech; bullish for MRNA and biotech sector"
   },
   {
    "date": "2026-08-11T10:55:44Z",
@@ -368,15 +416,7 @@
    "direction": "SELL",
    "primary_ticker": "DJT",
    "strength": 45,
-   "reason": "Trump media company financial loss signals weakness in DJT underlying business",
-   "price_since": {
-    "ticker": "DJT",
-    "pct": -5.1,
-    "base": 9.39,
-    "last": 8.91,
-    "base_date": "2026-08-10",
-    "last_date": "2026-08-11"
-   }
+   "reason": "Trump media company financial loss signals weakness in DJT underlying business"
   },
   {
    "date": "2026-08-10T07:00:00Z",
@@ -416,15 +456,7 @@
    "direction": "WATCH",
    "primary_ticker": "DJT",
    "strength": 15,
-   "reason": "News headline about Trump Media stock; no directional signal implied by title alone.",
-   "price_since": {
-    "ticker": "DJT",
-    "pct": -5.1,
-    "base": 9.39,
-    "last": 8.91,
-    "base_date": "2026-08-10",
-    "last_date": "2026-08-11"
-   }
+   "reason": "News headline about Trump Media stock; no directional signal implied by title alone."
   },
   {
    "date": "2026-08-09T18:18:07Z",
@@ -1727,22 +1759,6 @@
   {
    "date": "2026-08-05T12:08:56Z",
    "platform": "News",
-   "text": "REPL, QURE, MRNA Soar On Reports Trump Will Fire FDA\u2019s Marty Makary - Stocktwits \u2014 REPL, QURE, MRNA Soar On Reports Trump Will Fire FDA\u2019s Marty Makary\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPU3Z0Z1R6VlBrbUhjMmZMNmVXdXBXQW5TTUtIelRzbmMtS0kzSjdQTWFJRGV4TTFuVWE0QmxTTGpPc1NWdVdWQjl2bmVPTGNXY180NXltOWlqM3pPd1JDTmVORU5Kemc4Wk1IRWMtUE1UbVlQV1VndWx2cGhwSmxUWmw1Y3htZWVGQ1RxUEY3bVh4Y0lIcW1oVF9TMWgyUmNUY1JQajF4NGdCZHUzNEFDbnAtWTUzRmlpcHNYZk4tb0l6b2pDbFE?oc=5",
-   "tickers": [
-    "SMH"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "SMH",
-   "strength": 65,
-   "reason": "Reports of FDA leadership change suggests deregulation of medical/biotech; bullish for biopharma and medical device sectors."
-  },
-  {
-   "date": "2026-08-05T12:08:56Z",
-   "platform": "News",
    "text": "REPL, QURE, MRNA Soar On Reports Trump Will Fire FDA\u2019s Marty Makary - stocktwits.com \u2014 REPL, QURE, MRNA Soar On Reports Trump Will Fire FDA\u2019s Marty Makary\u00a0\u00a0stocktwits.com",
    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPU3Z0Z1R6VlBrbUhjMmZMNmVXdXBXQW5TTUtIelRzbmMtS0kzSjdQTWFJRGV4TTFuVWE0QmxTTGpPc1NWdVdWQjl2bmVPTGNXY180NXltOWlqM3pPd1JDTmVORU5Kemc4Wk1IRWMtUE1UbVlQV1VndWx2cGhwSmxUWmw1Y3htZWVGQ1RxUEY3bVh4Y0lIcW1oVF9TMWgyUmNUY1JQajF4NGdCZHUzNEFDbnAtWTUzRmlpcHNYZk4tb0l6b2pDbFE?oc=5",
    "tickers": [
@@ -2624,31 +2640,6 @@
    "primary_ticker": "XLE",
    "strength": 65,
    "reason": "federal directive to restore offshore oil unit and pipeline -> energy sector bullish",
-   "price_since": {
-    "ticker": "XLE",
-    "pct": -0.3,
-    "base": 58.79,
-    "last": 58.62,
-    "base_date": "2026-08-03",
-    "last_date": "2026-08-04"
-   }
-  },
-  {
-   "date": "2026-08-02T12:58:05.342Z",
-   "platform": "Truth Social",
-   "text": "Trump's Energy Triumph: https://www.wsj.com/opinion/trumps-energy-triumph-82e4b953",
-   "tickers": [
-    "XLE"
-   ],
-   "engagement": 2071,
-   "url": "https://truthsocial.com/@realDonaldTrump/117026028607181563",
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "XLE",
-   "strength": 45,
-   "reason": "Energy policy triumph implies bullish outlook for energy sector",
    "price_since": {
     "ticker": "XLE",
     "pct": -0.3,
