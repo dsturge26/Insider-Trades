@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-13T05:59:06Z",
+ "last_updated": "2026-08-13T07:45:59Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -2735,40 +2735,6 @@
    "primary_ticker": "BA",
    "strength": 78,
    "reason": "$2.7B NASA federal contract to Boeing; major defense/space award."
-  },
-  {
-   "date": "2019-06-19T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "GENERAL DYNAMICS INFORMATION TECHNOLOGY, INC. was awarded a $1.6B federal contract from Department of State.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_19AQMM18C0185_1900_-NONE-_-NONE-",
-   "tickers": [
-    "GD"
-   ],
-   "contract_amount": 1.61,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "GD",
-   "strength": 76,
-   "reason": "$1.6B State Department federal contract to General Dynamics Information Technology."
-  },
-  {
-   "date": "2015-09-03T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "NORTHROP GRUMMAN SYSTEMS CORPORATION was awarded a $1.6B federal contract from National Aeronautics and Space Administration.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_NNH15CN76C_8000_-NONE-_-NONE-",
-   "tickers": [
-    "NOC"
-   ],
-   "contract_amount": 1.63,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "NOC",
-   "strength": 77,
-   "reason": "$1.6B NASA federal contract to Northrop Grumman Systems."
   }
  ],
  "how_to_read": "Each card is Claude's read of a public Trump post: the affected ticker, whether it implies BUY / SELL / WATCH, a 0\u2013100 strength (how explicit/emphatic the post is \u2014 NOT a profit predictor), and why. A 2-year backtest found these don't beat buy-and-hold, so this is for awareness, not trading. Not financial advice."
