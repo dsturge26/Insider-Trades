@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-13T21:03:23Z",
+ "last_updated": "2026-08-13T22:02:49Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -774,11 +774,11 @@
    "reason": "Defense contractor CEO pay curbs supported; mixed signal\u2014reform bearish for contractor margins, progressive support unclear on net",
    "price_since": {
     "ticker": "XAR",
-    "pct": 0.3,
+    "pct": -0.1,
     "base": 292.33,
-    "last": 293.34,
+    "last": 292.1,
     "base_date": "2026-08-11",
-    "last_date": "2026-08-12"
+    "last_date": "2026-08-13"
    }
   },
   {
@@ -2600,128 +2600,6 @@
    }
   },
   {
-   "date": "2026-08-05T09:17:00Z",
-   "platform": "News",
-   "text": "Trump Praises Scotts Miracle-Gro After White House and D.C. Lawn Project - uk.news.yahoo.com \u2014 Trump Praises Scotts Miracle-Gro After White House and D.C. Lawn Project\u00a0\u00a0uk.news.yahoo.com",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9Uenh3TDkxOUp2b0h4WmlFc2Ryd3BkVnlCUlltWllGM1pHZEY5ZFlwQUl1V3RTV21ISm5Hc1NBdXYtSURLNHhRUUtqdXBwRmhidmJBTWdlRlJ1MV9rXzlUWEFVNkUtaDIzd0ZPX1hUWGtOTnFEQkNuVWdGTTE3UQ?oc=5",
-   "tickers": [
-    "SMG"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "SMG",
-   "strength": 65,
-   "reason": "Trump explicitly praises Scotts Miracle-Gro for White House/D.C. lawn project; direct endorsement of named company",
-   "price_since": {
-    "ticker": "SMG",
-    "pct": -4.9,
-    "base": 66.13,
-    "last": 62.91,
-    "base_date": "2026-08-05",
-    "last_date": "2026-08-07"
-   }
-  },
-  {
-   "date": "2026-08-05T01:52:00Z",
-   "platform": "News",
-   "text": "Mike Lindell, MyPillow CEO, steps down from post to run for Minnesota governor - The Guardian \u2014 Mike Lindell, MyPillow CEO, steps down from post to run for Minnesota governor\u00a0\u00a0The Guardian",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNGMwRGppRmxkUzYta19kS1cyQkh0R2l4UnQ0V0t4dGt1NVV1cmVfcVRaMVphcU5KOHByNTRRbXpxSEtpTk0xRTBkSGNSclQ5VjhzMUlfYzBnNEk4QXVlTGF1Q0F1NzFwTFJRTDY5V0xTVk0tT0RaY1h1ajYxWjh1MmU2SnRwa1N1QmwwODJNa1hJXy1jYUNN?oc=5",
-   "tickers": [
-    "MYPW"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "MYPW",
-   "strength": 25,
-   "reason": "CEO departure from MyPillow may affect company operations and stock"
-  },
-  {
-   "date": "2026-08-05T01:52:00Z",
-   "platform": "News",
-   "text": "Mike Lindell, MyPillow CEO, steps down from post to run for Minnesota governor - theguardian.com \u2014 Mike Lindell, MyPillow CEO, steps down from post to run for Minnesota governor\u00a0\u00a0theguardian.com",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNGMwRGppRmxkUzYta19kS1cyQkh0R2l4UnQ0V0t4dGt1NVV1cmVfcVRaMVphcU5KOHByNTRRbXpxSEtpTk0xRTBkSGNSclQ5VjhzMUlfYzBnNEk4QXVlTGF1Q0F1NzFwTFJRTDY5V0xTVk0tT0RaY1h1ajYxWjh1MmU2SnRwa1N1QmwwODJNa1hJXy1jYUNN?oc=5",
-   "tickers": [
-    "MYPI"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "MYPI",
-   "strength": 50,
-   "reason": "MyPillow CEO departure to run for office; operational and leadership risk bearish"
-  },
-  {
-   "date": "2026-08-04T23:57:19Z",
-   "platform": "News",
-   "text": "Trump Administration Eyes Curbs on Chinese Optical Transceivers, Expanding AI Technology Fight With Beijing - btimesonline.com \u2014 Trump Administration Eyes Curbs on Chinese Optical Transceivers, Expanding AI Technology Fight With Beijing\u00a0\u00a0btimesonline.com",
-   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNem5DZG9TdVNxclJPN2RKRmJUZzRRTUZXa2NKRFY5SXQtNDhGb3c0c2tDc3ZDRUlVYmJJS0hvejFjRnU0aTBWYnkwQzRvTHJIc19nZlB1U25odTNLWHI4ekh3LU9NMmI1SU1hVzJiR0ZSdGRocHJMV2FRWm9sVkhUeFZrVG9TSXVvbElSWXM4aFAyZFFCcHVYdDhpdHhWcG1hbmhuN1NDdzQ1d09PWktLQk5IZGVKV25kMXBfYlB3QjFvU2c5eFNsQ1RkalhBOGpkemJ4X0RTVXFJUGc0N3Z6NjU4R0N0Skw4RWlOVk1OY2xMTGVoR2RZ?oc=5",
-   "tickers": [
-    "SMH"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "SMH",
-   "strength": 65,
-   "reason": "Proposed curbs on Chinese optical transceivers widens AI/semiconductor trade restrictions, bearish for chip supply chains and semiconductor sector.",
-   "price_since": {
-    "ticker": "SMH",
-    "pct": 0.1,
-    "base": 575.71,
-    "last": 576.07,
-    "base_date": "2026-08-04",
-    "last_date": "2026-08-07"
-   }
-  },
-  {
-   "date": "2026-08-04T22:52:51.270Z",
-   "platform": "Truth Social",
-   "text": "For far too long, Radical Climate Activists attempted to hold our Great Country hostage by drastically and unreasonably expanding the intended scope of the Endangered Species Act. This was complete and total regulatory overreach by unelected bureaucrats! They treated Americans very unfairly by stifling the production of important resources like Oil, Natural Gas, and Timber, and blocking the construction of family homes and critical Infrastructure. Even our Military couldn't train on land that was deemed \"off limits\" to protect a little rodent! Now my Administration has returned the Endangered Species Act to how it was intended to be, just as the Great Justice Antonin Scalia has explained in previous cases. While responsibly protecting our beautiful Country, the United States of America is going to BUILD again. Thank you for your attention to this matter! President DONALD J. TRUMP",
-   "tickers": [
-    "XLE"
-   ],
-   "engagement": 4933,
-   "url": "https://truthsocial.com/@realDonaldTrump/117039691941169240",
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "XLE",
-   "strength": 70,
-   "reason": "Regulatory rollback of Endangered Species Act restrictions on oil, gas, and timber production; explicitly bullish for energy and natural resources.",
-   "price_since": {
-    "ticker": "XLE",
-    "pct": -2.0,
-    "base": 58.52,
-    "last": 57.34,
-    "base_date": "2026-08-04",
-    "last_date": "2026-08-07"
-   }
-  },
-  {
-   "date": "2026-08-04T20:38:42.973Z",
-   "platform": "Truth Social",
-   "text": "Manufacturing is BOOMING!\u00a0Factory activity just hit its\u00a0fastest pace in more than FOUR YEARS, far exceeding expectations. New orders have expanded for\u00a0SEVEN straight months. American Manufacturing is BACK!\u00a0The\u00a0Stock Market is at an ALL TIME HIGH, and setting Record after Record because Investors know America is WINNING!\u00a0American Exports are on FIRE. U.S. Goods Exports have now topped\u00a0200 BILLION DOLLARS for the fifth consecutive month, and we are on pace for\u00a0nearly 2.5 TRILLION DOLLARS\u00a0in Goods Exports this year \u2014 Numbers nobody thought possible just two years ago.\u00a0The\u00a0Fake News\u00a0and the Dumocrats\u00a0are doing everything they can to distract people's thoughts from these MASSIVE Successes, but it's getting harder and harder for them to do. With\u00a0TRILLIONS OF DOLLARS\u00a0of new Investment pouring into the United States, and more Factories, more Construction, and more High Paying Jobs on the way, the results are impossible to hide.\u00a0This is the\u00a0GOLDEN AGE OF AMERICA, and we're just getting started. We're already achieving heights that nobody thought possible \u2014 and the biggest Victories are still ahead!President DONALD J. TRUMP",
-   "tickers": [
-    "SPY"
-   ],
-   "engagement": 8729,
-   "url": "https://truthsocial.com/@realDonaldTrump/117039164487763760",
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "SPY",
-   "strength": 75,
-   "reason": "Broad macro boast: manufacturing boom, export record, stock market at all-time high; bullish for overall market"
-  },
-  {
    "curated": true,
    "classified": true,
    "is_market": true,
@@ -2774,23 +2652,6 @@
    "reason": "Trump's majority-owned stock debuts \u2014 pure sentiment play, extremely volatile and headline-driven.",
    "market_reaction": "DJT spiked on debut then stayed volatile, moving heavily on Trump political/legal news.",
    "url": "https://www.nasdaq.com/market-activity/stocks/djt"
-  },
-  {
-   "date": "2021-07-01T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "HARRIS CORPORATION was awarded a $2.1B federal contract from Department of Transportation.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_693KA821F00222_6920_DTFA0102D03006_6920",
-   "tickers": [
-    "HRS"
-   ],
-   "contract_amount": 2.12,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "HRS",
-   "strength": 75,
-   "reason": "$2.1B DOT federal contract to Harris Corporation."
   }
  ],
  "how_to_read": "Each card is Claude's read of a public Trump post: the affected ticker, whether it implies BUY / SELL / WATCH, a 0\u2013100 strength (how explicit/emphatic the post is \u2014 NOT a profit predictor), and why. A 2-year backtest found these don't beat buy-and-hold, so this is for awareness, not trading. Not financial advice."
