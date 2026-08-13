@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-12T23:57:51Z",
+ "last_updated": "2026-08-13T02:29:49Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -2714,6 +2714,23 @@
    "primary_ticker": "LDOS",
    "strength": 79,
    "reason": "$3.1B NSF federal contract to Leidos; largest contract award in batch."
+  },
+  {
+   "date": "2008-12-04T12:00:00Z",
+   "platform": "Federal contract",
+   "text": "LOCKHEED MARTIN CORP was awarded a $2.0B federal contract from National Aeronautics and Space Administration.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_NNG09HR00C_8000_-NONE-_-NONE-",
+   "tickers": [
+    "LMT"
+   ],
+   "contract_amount": 2.03,
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "LMT",
+   "strength": 80,
+   "reason": "Lockheed Martin awarded $2B NASA federal contract; direct bullish catalyst for defense contractor."
   }
  ],
  "how_to_read": "Each card is Claude's read of a public Trump post: the affected ticker, whether it implies BUY / SELL / WATCH, a 0\u2013100 strength (how explicit/emphatic the post is \u2014 NOT a profit predictor), and why. A 2-year backtest found these don't beat buy-and-hold, so this is for awareness, not trading. Not financial advice."
