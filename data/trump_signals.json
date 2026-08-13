@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-08-13T23:02:50Z",
+ "last_updated": "2026-08-13T23:58:51Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-08-13T18:44:47Z",
+   "platform": "News",
+   "text": "Warren Leads Demand for Answers on Trump's 'Unprecedented' Volume of Stock Trades - Common Dreams \u2014 Warren Leads Demand for Answers on Trump's 'Unprecedented' Volume of Stock Trades\u00a0\u00a0Common Dreams",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Gemx6ZWZLa3B6UC1rZnJBeXV3dlBueDFDM1I0YlBRc1Z6Q3c4a0hqSzY0UzFDb2ZfYklmd3VydHJNWTVZOURBb3BIQ0x1UnIzR1hTMk9xZENYYmJVV3BpZVZR?oc=5",
+   "tickers": [
+    "DJT"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "DJT",
+   "strength": 35,
+   "reason": "Report of high stock trading volume linked to Trump; potential insider trading concern or market speculation about his positions."
+  },
   {
    "date": "2026-08-13T18:38:49.507Z",
    "platform": "Truth Social",
@@ -18,6 +34,38 @@
    "primary_ticker": "SPY",
    "strength": 45,
    "reason": "Closing de minimis loophole increases tariff revenue collection, modest tailwind for broad market and importers"
+  },
+  {
+   "date": "2026-08-13T17:25:21Z",
+   "platform": "News",
+   "text": "Democrats Demand Answers On Trump\u2019s \u2018Unprecedented\u2019 Stock Trading Volume - forbes.com \u2014 Democrats Demand Answers On Trump\u2019s \u2018Unprecedented\u2019 Stock Trading Volume\u00a0\u00a0forbes.com",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbGxqSDB1T0xnSTJBNWZTRlVPcklwcmp5YUxyTDNrSm1IZlhRNk9JaDkweDEzZFhneVJ0Zk44RFRha3dfSlJNejFZVm1HMTNpRGtZS3o4TjEwREk5WkRPcVVnRTYxQWJaX04zM1FiSDByeUhhTlNjcjRMelpaV25GZVVVSDJKZmVOdy1BUW9ZVWdQTk5kZXdxdWI5MzFjdG9FNGdWNkxIeTNvNHM4UGhya21NSzBpaFl0ZzlN?oc=5",
+   "tickers": [
+    "DJT"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "DJT",
+   "strength": 35,
+   "reason": "Demand for transparency on Trump's stock trading; suggests market concern about his trading patterns and potential conflicts."
+  },
+  {
+   "date": "2026-08-13T12:00:01Z",
+   "platform": "News",
+   "text": "Democrats demand Trump reveal stock managers, explain suspicious trades - CNBC \u2014 Democrats demand Trump reveal stock managers, explain suspicious trades\u00a0\u00a0CNBC",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBFcFlHRUZXQUNOc3k4M2dzdkRvVi04MGZZcVlkdmhnN3NHZ0NJdjFOc1AxeWRkN0hGa292Vm45T3dIUDVORTBTUVd3QmFPX1hyN01UQ19lZ2VJbkl2TkhFTlpOQjdlanZaeFg1WHFHNklSVWFxeU9TSNIBfkFVX3lxTE1uZWs5ckRmWFJVcGpabXRCc01TclNfeWZaU1pLbFNaS3pmMjlmMjJvRlpVYm1JLXRXNTNmSjJPNnh4TW42VEFYNlBfWjhqZGdSVHVzUmxZbjN5SlNDb0tjNm4xR2UwVVptZndwRm1rZkVja3BQckpER2xPc1dmdw?oc=5",
+   "tickers": [
+    "DJT"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "DJT",
+   "strength": 35,
+   "reason": "Report of demand to disclose stock managers and trading practices; raises governance/transparency concerns affecting his company."
   },
   {
    "date": "2026-08-13T04:29:06Z",
@@ -2744,23 +2792,6 @@
    "primary_ticker": "NOC",
    "strength": 70,
    "reason": "Northrop Grumman awarded $1.6B NASA federal contract."
-  },
-  {
-   "date": "2011-12-23T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "LEIDOS, INC. was awarded a $3.1B federal contract from National Science Foundation.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_NSFDACS1219442_4900_-NONE-_-NONE-",
-   "tickers": [
-    "LDOS"
-   ],
-   "contract_amount": 3.12,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "LDOS",
-   "strength": 70,
-   "reason": "Leidos awarded $3.1B NSF federal contract."
   }
  ],
  "how_to_read": "Each card is Claude's read of a public Trump post: the affected ticker, whether it implies BUY / SELL / WATCH, a 0\u2013100 strength (how explicit/emphatic the post is \u2014 NOT a profit predictor), and why. A 2-year backtest found these don't beat buy-and-hold, so this is for awareness, not trading. Not financial advice."
