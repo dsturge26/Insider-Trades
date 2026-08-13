@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-13T22:02:49Z",
+ "last_updated": "2026-08-13T23:02:50Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -112,6 +112,30 @@
     "pct": 0.4,
     "base": 8.27,
     "last": 8.3,
+    "base_date": "2026-08-12",
+    "last_date": "2026-08-13"
+   }
+  },
+  {
+   "date": "2026-08-12T16:59:16Z",
+   "platform": "News",
+   "text": "Federer-backed On\u2019s shares plunge as Americas sportswear growth slows - CTV News \u2014 Federer-backed On\u2019s shares plunge as Americas sportswear growth slows\u00a0\u00a0CTV News",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdVJTb2hoQU9xbjh6aF9fU3BidTBrSThzVjJIeUE0WFB1ZURIdFdPaENiVVVGWUppSmNyczdmZVlOeEltZ19ROG5rSGstUkxIblpHbC00bWQ4ZWJHYVpBalRaeHdGSzJTZlBPM215VHE1RXBjVjhvX2w5eWJ1TkdzVHdEdDJMMmVDTlVHaVRyR0ljQUJlWjAtcWZmWWI0dHJUenN0cWFBVGlQdHBpTXc?oc=5",
+   "tickers": [
+    "ONON"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "ONON",
+   "strength": 35,
+   "reason": "On Holdings share decline tied to Americas sportswear slowdown; bearish for the company but fundamentals-driven, not Trump-linked.",
+   "price_since": {
+    "ticker": "ONON",
+    "pct": 1.9,
+    "base": 31.01,
+    "last": 31.59,
     "base_date": "2026-08-12",
     "last_date": "2026-08-13"
    }
@@ -2652,6 +2676,91 @@
    "reason": "Trump's majority-owned stock debuts \u2014 pure sentiment play, extremely volatile and headline-driven.",
    "market_reaction": "DJT spiked on debut then stayed volatile, moving heavily on Trump political/legal news.",
    "url": "https://www.nasdaq.com/market-activity/stocks/djt"
+  },
+  {
+   "date": "2021-07-01T12:00:00Z",
+   "platform": "Federal contract",
+   "text": "HARRIS CORPORATION was awarded a $2.1B federal contract from Department of Transportation.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_693KA821F00222_6920_DTFA0102D03006_6920",
+   "tickers": [
+    "HRI"
+   ],
+   "contract_amount": 2.12,
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "HRI",
+   "strength": 70,
+   "reason": "Harris Corporation awarded $2.1B federal contract."
+  },
+  {
+   "date": "2019-10-16T12:00:00Z",
+   "platform": "Federal contract",
+   "text": "THE BOEING COMPANY was awarded a $2.7B federal contract from National Aeronautics and Space Administration.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_80MSFC20C0052_8000_-NONE-_-NONE-",
+   "tickers": [
+    "BA"
+   ],
+   "contract_amount": 2.74,
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "BA",
+   "strength": 70,
+   "reason": "Boeing awarded $2.7B NASA federal contract."
+  },
+  {
+   "date": "2019-06-19T12:00:00Z",
+   "platform": "Federal contract",
+   "text": "GENERAL DYNAMICS INFORMATION TECHNOLOGY, INC. was awarded a $1.6B federal contract from Department of State.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_19AQMM18C0185_1900_-NONE-_-NONE-",
+   "tickers": [
+    "GD"
+   ],
+   "contract_amount": 1.61,
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "GD",
+   "strength": 70,
+   "reason": "General Dynamics awarded $1.6B federal contract from State Department."
+  },
+  {
+   "date": "2015-09-03T12:00:00Z",
+   "platform": "Federal contract",
+   "text": "NORTHROP GRUMMAN SYSTEMS CORPORATION was awarded a $1.6B federal contract from National Aeronautics and Space Administration.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_NNH15CN76C_8000_-NONE-_-NONE-",
+   "tickers": [
+    "NOC"
+   ],
+   "contract_amount": 1.63,
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "NOC",
+   "strength": 70,
+   "reason": "Northrop Grumman awarded $1.6B NASA federal contract."
+  },
+  {
+   "date": "2011-12-23T12:00:00Z",
+   "platform": "Federal contract",
+   "text": "LEIDOS, INC. was awarded a $3.1B federal contract from National Science Foundation.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_NSFDACS1219442_4900_-NONE-_-NONE-",
+   "tickers": [
+    "LDOS"
+   ],
+   "contract_amount": 3.12,
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "LDOS",
+   "strength": 70,
+   "reason": "Leidos awarded $3.1B NSF federal contract."
   }
  ],
  "how_to_read": "Each card is Claude's read of a public Trump post: the affected ticker, whether it implies BUY / SELL / WATCH, a 0\u2013100 strength (how explicit/emphatic the post is \u2014 NOT a profit predictor), and why. A 2-year backtest found these don't beat buy-and-hold, so this is for awareness, not trading. Not financial advice."
