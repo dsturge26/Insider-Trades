@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-13T23:58:51Z",
+ "last_updated": "2026-08-14T02:34:26Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -633,6 +633,30 @@
     "pct": -6.8,
     "base": 8.91,
     "last": 8.3,
+    "base_date": "2026-08-11",
+    "last_date": "2026-08-13"
+   }
+  },
+  {
+   "date": "2026-08-11T19:55:00Z",
+   "platform": "News",
+   "text": "7 Companies Being Boycotted Over Trump Policies - U.S. News - Money \u2014 7 Companies Being Boycotted Over Trump Policies\u00a0\u00a0U.S. News - Money",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSTNHYk5NelJYekx2MlBPZUpZXzNzZmYxUkFpVzRPdlNuNDVMZUk3b1FJSXRHbTZaSHJfSTJlcGI3TThISVlpX2tZYWw2clB5bnVDMVdqanZoMXR3enJYRHZUM3ZLYU8xbUZxX3M1WnhjbFJSSW5xVmZ0RHNKQmN3dGxJWFFMbXZ2QUhwUl9xRnBuTVB6TGgxVzZVNE1qOWg1?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "SPY",
+   "strength": 30,
+   "reason": "Boycott activity creates uncertainty for affected companies but direction and magnitude of impact unclear without named list",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": 0.9,
+    "base": 770.56,
+    "last": 777.88,
     "base_date": "2026-08-11",
     "last_date": "2026-08-13"
    }
@@ -2775,23 +2799,6 @@
    "primary_ticker": "GD",
    "strength": 70,
    "reason": "General Dynamics awarded $1.6B federal contract from State Department."
-  },
-  {
-   "date": "2015-09-03T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "NORTHROP GRUMMAN SYSTEMS CORPORATION was awarded a $1.6B federal contract from National Aeronautics and Space Administration.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_NNH15CN76C_8000_-NONE-_-NONE-",
-   "tickers": [
-    "NOC"
-   ],
-   "contract_amount": 1.63,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "NOC",
-   "strength": 70,
-   "reason": "Northrop Grumman awarded $1.6B NASA federal contract."
   }
  ],
  "how_to_read": "Each card is Claude's read of a public Trump post: the affected ticker, whether it implies BUY / SELL / WATCH, a 0\u2013100 strength (how explicit/emphatic the post is \u2014 NOT a profit predictor), and why. A 2-year backtest found these don't beat buy-and-hold, so this is for awareness, not trading. Not financial advice."
