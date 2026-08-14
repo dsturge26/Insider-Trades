@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-14T20:14:46Z",
+ "last_updated": "2026-08-14T20:48:35Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -196,6 +196,30 @@
    "reason": "Tariff evasion scam report suggests tighter enforcement; potential drag on import-dependent sectors"
   },
   {
+   "date": "2026-08-13T23:09:37Z",
+   "platform": "News",
+   "text": "ASTS, RKLB Stocks Get The Trump Pump After Hidden Space Stock Bets Emerge - Stocktwits \u2014 ASTS, RKLB Stocks Get The Trump Pump After Hidden Space Stock Bets Emerge\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYlgtQnFIQ21RTHhqRVMtMUF4aWNUR2w3WHo5QzFfWVRyaExWYXJDUk9WaEFDaW90THVYcHVSd3J4Nk82T3lkMVBGZnhIQW43bHpGdURhaTgxYnRlR25BYmp6SWR1cjVhUHlXZXdWSFdkNlFTekNoQXZCSXNVem1Oc0NBYXBKQXhnRnNCTTVvOU5xSEZrUlNxdzZCczQyZmdVOW1jQVRBczU4cHlpU3M3dnBWZnBjdw?oc=5",
+   "tickers": [
+    "RKLB"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "RKLB",
+   "strength": 55,
+   "reason": "Trump space stock holdings revealed; bullish signal on aerospace/defense holdings.",
+   "price_since": {
+    "ticker": "RKLB",
+    "pct": 0.2,
+    "base": 80.1,
+    "last": 80.25,
+    "base_date": "2026-08-13",
+    "last_date": "2026-08-14"
+   }
+  },
+  {
    "date": "2026-08-13T22:38:59Z",
    "platform": "News",
    "text": "SK Hynix Targets $29B Nasdaq Offering \u2013 DRAM Jumps Over 4% Ahead Of Micron's Report - Stocktwits \u2014 SK Hynix Targets $29B Nasdaq Offering \u2013 DRAM Jumps Over 4% Ahead Of Micron's Report\u00a0\u00a0Stocktwits",
@@ -334,7 +358,7 @@
     "ticker": "DELL",
     "pct": -0.7,
     "base": 494.51,
-    "last": 490.97,
+    "last": 490.81,
     "base_date": "2026-08-13",
     "last_date": "2026-08-14"
    }
@@ -358,7 +382,7 @@
     "ticker": "DELL",
     "pct": -0.7,
     "base": 494.51,
-    "last": 490.97,
+    "last": 490.81,
     "base_date": "2026-08-13",
     "last_date": "2026-08-14"
    }
@@ -431,7 +455,7 @@
     "ticker": "SPY",
     "pct": -0.2,
     "base": 777.88,
-    "last": 776.32,
+    "last": 776.34,
     "base_date": "2026-08-13",
     "last_date": "2026-08-14"
    }
@@ -453,9 +477,9 @@
    "reason": "Retail traders eye higher targets on QNX and Physical AI momentum.",
    "price_since": {
     "ticker": "BB",
-    "pct": -1.1,
+    "pct": -1.0,
     "base": 8.99,
-    "last": 8.89,
+    "last": 8.9,
     "base_date": "2026-08-13",
     "last_date": "2026-08-14"
    }
@@ -651,6 +675,22 @@
     "base_date": "2026-08-13",
     "last_date": "2026-08-14"
    }
+  },
+  {
+   "date": "2026-08-13T09:52:27Z",
+   "platform": "News",
+   "text": "Trump Weighs In On Elon Musk, OpenAI, Intel \u2014 And Takes Aim At The 'Hostile' Fed Board - Stocktwits \u2014 Trump Weighs In On Elon Musk, OpenAI, Intel \u2014 And Takes Aim At The 'Hostile' Fed Board\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSGdkS2RRUEt3TWdWdW8yWkZrN0NfU1lZak10VExCWGktUlg3enppTzF4UnpEVjg3YVZRR2JqRmFYdTVBQTdIcmJHYVFkX2ZtcHFiREF5UWZ3NExDNTJhTnd2VE5HM1A1WFZnVEpoY0Rfa1BYMVJrZ0lKNlhDdDBKVW41S0dCOTdncW5jWEhHRkZMU0lERlF4MlFyU0xxTXFNS25wMWVoa1c3SkliajdkUDUtTDdUWnZmUnI5aUhNeHJreTBacEE0Zk1WZVMzMXpfUDFIeU9GSEN2N2liM2c?oc=5",
+   "tickers": [
+    "SMH"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "SMH",
+   "strength": 35,
+   "reason": "Trump weighs in on Elon/OpenAI/Intel; unclear direction (could be praise or critique); Fed criticism is macro-bearish but vague"
   },
   {
    "date": "2026-08-13T09:20:56Z",
