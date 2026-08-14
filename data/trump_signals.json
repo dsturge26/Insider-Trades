@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-14T14:30:31Z",
+ "last_updated": "2026-08-14T15:32:46Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -116,9 +116,9 @@
    "reason": "SK Hynix and Micron DRAM news; semiconductor sector strength ahead of earnings.",
    "price_since": {
     "ticker": "SMH",
-    "pct": -0.6,
+    "pct": -0.9,
     "base": 589.12,
-    "last": 585.57,
+    "last": 583.74,
     "base_date": "2026-08-13",
     "last_date": "2026-08-14"
    }
@@ -140,9 +140,9 @@
    "reason": "SK Hynix and Micron semiconductor strength signals positive momentum in DRAM/chip sector.",
    "price_since": {
     "ticker": "SMH",
-    "pct": -0.6,
+    "pct": -0.9,
     "base": 589.12,
-    "last": 585.57,
+    "last": 583.74,
     "base_date": "2026-08-13",
     "last_date": "2026-08-14"
    }
@@ -164,9 +164,9 @@
    "reason": "Trump China visit with QCOM executives suggests potential trade/policy development; direction ambiguous",
    "price_since": {
     "ticker": "QCOM",
-    "pct": 0.5,
+    "pct": -0.6,
     "base": 164.79,
-    "last": 165.54,
+    "last": 163.79,
     "base_date": "2026-08-13",
     "last_date": "2026-08-14"
    }
@@ -212,9 +212,9 @@
    "reason": "Dell stock at new highs; wealth gain report confirms momentum",
    "price_since": {
     "ticker": "DELL",
-    "pct": -0.6,
+    "pct": -0.5,
     "base": 494.51,
-    "last": 491.74,
+    "last": 491.95,
     "base_date": "2026-08-13",
     "last_date": "2026-08-14"
    }
@@ -236,9 +236,9 @@
    "reason": "Report of high stock trading volume linked to Trump; potential insider trading concern or market speculation about his positions.",
    "price_since": {
     "ticker": "DJT",
-    "pct": 0.6,
+    "pct": 0.7,
     "base": 8.3,
-    "last": 8.35,
+    "last": 8.36,
     "base_date": "2026-08-13",
     "last_date": "2026-08-14"
    }
@@ -261,9 +261,33 @@
    "reason": "Closing de minimis loophole increases tariff revenue collection, modest tailwind for broad market and importers",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.1,
+    "pct": -0.2,
     "base": 777.88,
-    "last": 777.08,
+    "last": 776.17,
+    "base_date": "2026-08-13",
+    "last_date": "2026-08-14"
+   }
+  },
+  {
+   "date": "2026-08-13T17:38:01Z",
+   "platform": "News",
+   "text": "Netflix Cofounder Reed Hastings Sells Stock Worth Nearly $38M \u2013 NFLX Stock Eyes A Three-Day Red Streak - Stocktwits \u2014 Netflix Cofounder Reed Hastings Sells Stock Worth Nearly $38M \u2013 NFLX Stock Eyes A Three-Day Red Streak\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPMnU5Rzk2YTk4Q0owNEUyUFk3WlZQcTFvajRUZTJSREpPREZQSzRwVG9yLVlKTDh1OW95a0c1M3htdk81Z2JOU1JZSEl6S3ZLVGwwZS1hU2hob2RmZERiUkNzV05nRHdRS0Y3WTR5b3Z0b1puNENaY0RpN0VvbWRyWUdYeUY3VDFOZG5YdkFqRE5YR2tCbDdua1NsUDhmR3d5TWNkLXFFaEhDTzFvNXlYNjNta0RuTkpYMnNPemZfRC15anJYaXVCRkQ3V2FuMHhBd19lVlgwaEQ2RTB2aUxYRlBoaFphS3hNTEN5S2hhaDREaHJDWDlR?oc=5",
+   "tickers": [
+    "NFLX"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "NFLX",
+   "strength": 35,
+   "reason": "Insider selling by cofounder; potential bearish sentiment signal",
+   "price_since": {
+    "ticker": "NFLX",
+    "pct": -0.2,
+    "base": 78.24,
+    "last": 78.09,
     "base_date": "2026-08-13",
     "last_date": "2026-08-14"
    }
@@ -285,9 +309,9 @@
    "reason": "Demand for transparency on Trump's stock trading; suggests market concern about his trading patterns and potential conflicts.",
    "price_since": {
     "ticker": "DJT",
-    "pct": 0.6,
+    "pct": 0.7,
     "base": 8.3,
-    "last": 8.35,
+    "last": 8.36,
     "base_date": "2026-08-13",
     "last_date": "2026-08-14"
    }
@@ -309,9 +333,9 @@
    "reason": "Dimon praises deregulation & pro-growth policy; broad market bullish signal",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.1,
+    "pct": -0.2,
     "base": 777.88,
-    "last": 777.09,
+    "last": 776.17,
     "base_date": "2026-08-13",
     "last_date": "2026-08-14"
    }
@@ -333,9 +357,9 @@
    "reason": "Retailer earnings risk in cautious economic environment; direction ambiguous.",
    "price_since": {
     "ticker": "DG",
-    "pct": 1.5,
+    "pct": 1.1,
     "base": 122.08,
-    "last": 123.88,
+    "last": 123.48,
     "base_date": "2026-08-13",
     "last_date": "2026-08-14"
    }
@@ -357,9 +381,9 @@
    "reason": "Report of demand to disclose stock managers and trading practices; raises governance/transparency concerns affecting his company.",
    "price_since": {
     "ticker": "DJT",
-    "pct": 0.6,
+    "pct": 0.7,
     "base": 8.3,
-    "last": 8.35,
+    "last": 8.36,
     "base_date": "2026-08-13",
     "last_date": "2026-08-14"
    }
@@ -381,9 +405,9 @@
    "reason": "Stock more than doubles pre-market; positive momentum but reason for rally unclear.",
    "price_since": {
     "ticker": "QTEX",
-    "pct": -4.0,
+    "pct": -5.0,
     "base": 1.0,
-    "last": 0.96,
+    "last": 0.95,
     "base_date": "2026-08-13",
     "last_date": "2026-08-14"
    }
@@ -405,9 +429,9 @@
    "reason": "Stock doubles pre-market but reason unspecified; ambiguous if Trump-related or fundamentals-driven.",
    "price_since": {
     "ticker": "QTEX",
-    "pct": -4.0,
+    "pct": -5.0,
     "base": 1.0,
-    "last": 0.96,
+    "last": 0.95,
     "base_date": "2026-08-13",
     "last_date": "2026-08-14"
    }
@@ -429,9 +453,9 @@
    "reason": "Trump signals exit from Iran war; defense/conflict de-escalation bullish for defense stocks and broad market",
    "price_since": {
     "ticker": "XAR",
-    "pct": 1.2,
+    "pct": 0.9,
     "base": 292.1,
-    "last": 295.57,
+    "last": 294.65,
     "base_date": "2026-08-13",
     "last_date": "2026-08-14"
    }
@@ -453,9 +477,9 @@
    "reason": "Lawsuit over Truth Social access monetization threatens DJT revenue model and reputation",
    "price_since": {
     "ticker": "DJT",
-    "pct": 0.6,
+    "pct": 0.7,
     "base": 8.3,
-    "last": 8.35,
+    "last": 8.36,
     "base_date": "2026-08-13",
     "last_date": "2026-08-14"
    }
@@ -477,9 +501,9 @@
    "reason": "Truth Social sued over paid access; unclear near-term profit/loss impact on Trump Media",
    "price_since": {
     "ticker": "DJT",
-    "pct": 0.6,
+    "pct": 0.7,
     "base": 8.3,
-    "last": 8.35,
+    "last": 8.36,
     "base_date": "2026-08-13",
     "last_date": "2026-08-14"
    }
@@ -501,9 +525,9 @@
    "reason": "Trump explicitly lauds Citi's M&A comeback; direct praise of named company bullish.",
    "price_since": {
     "ticker": "C",
-    "pct": 0.5,
+    "pct": 0.3,
     "base": 138.73,
-    "last": 139.4,
+    "last": 139.14,
     "base_date": "2026-08-13",
     "last_date": "2026-08-14"
    }
@@ -525,9 +549,9 @@
    "reason": "Trump explicitly lauds Citigroup's comeback and M&A activity, directly praising a named public company.",
    "price_since": {
     "ticker": "C",
-    "pct": 0.5,
+    "pct": 0.3,
     "base": 138.73,
-    "last": 139.4,
+    "last": 139.14,
     "base_date": "2026-08-13",
     "last_date": "2026-08-14"
    }
@@ -549,9 +573,9 @@
    "reason": "Profit-from-policy-access controversy creates regulatory/reputational risk for DJT; unclear if bullish or bearish",
    "price_since": {
     "ticker": "DJT",
-    "pct": 0.6,
+    "pct": 0.7,
     "base": 8.3,
-    "last": 8.35,
+    "last": 8.36,
     "base_date": "2026-08-13",
     "last_date": "2026-08-14"
    }
@@ -573,9 +597,9 @@
    "reason": "Oil & gas lease activity shows sector interest; modest bullish for energy but not a Trump action.",
    "price_since": {
     "ticker": "XLE",
-    "pct": 1.6,
+    "pct": 1.4,
     "base": 61.03,
-    "last": 62.01,
+    "last": 61.91,
     "base_date": "2026-08-12",
     "last_date": "2026-08-14"
    }
@@ -598,9 +622,9 @@
    "reason": "Daylight Saving Time permanence reduces business friction and health costs; modest pro-growth sentiment.",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.6,
+    "pct": 0.5,
     "base": 772.49,
-    "last": 777.07,
+    "last": 776.16,
     "base_date": "2026-08-12",
     "last_date": "2026-08-14"
    }
@@ -622,9 +646,9 @@
    "reason": "Legal challenge to Truth Social API; regulatory risk for Trump Media",
    "price_since": {
     "ticker": "DJT",
-    "pct": 1.0,
+    "pct": 1.1,
     "base": 8.27,
-    "last": 8.35,
+    "last": 8.36,
     "base_date": "2026-08-12",
     "last_date": "2026-08-14"
    }
@@ -646,9 +670,9 @@
    "reason": "On Holdings share decline tied to Americas sportswear slowdown; bearish for the company but fundamentals-driven, not Trump-linked.",
    "price_since": {
     "ticker": "ONON",
-    "pct": 4.9,
+    "pct": 5.1,
     "base": 31.01,
-    "last": 32.53,
+    "last": 32.6,
     "base_date": "2026-08-12",
     "last_date": "2026-08-14"
    }
