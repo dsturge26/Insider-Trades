@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-14T16:32:50Z",
+ "last_updated": "2026-08-14T17:38:15Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -132,9 +132,9 @@
    "reason": "SK Hynix and Micron DRAM news; semiconductor sector strength ahead of earnings.",
    "price_since": {
     "ticker": "SMH",
-    "pct": -0.8,
+    "pct": -1.0,
     "base": 589.12,
-    "last": 584.22,
+    "last": 583.48,
     "base_date": "2026-08-13",
     "last_date": "2026-08-14"
    }
@@ -156,9 +156,9 @@
    "reason": "SK Hynix and Micron semiconductor strength signals positive momentum in DRAM/chip sector.",
    "price_since": {
     "ticker": "SMH",
-    "pct": -0.8,
+    "pct": -1.0,
     "base": 589.12,
-    "last": 584.22,
+    "last": 583.48,
     "base_date": "2026-08-13",
     "last_date": "2026-08-14"
    }
@@ -180,9 +180,9 @@
    "reason": "Trump China visit with QCOM executives suggests potential trade/policy development; direction ambiguous",
    "price_since": {
     "ticker": "QCOM",
-    "pct": -0.3,
+    "pct": -0.4,
     "base": 164.79,
-    "last": 164.23,
+    "last": 164.08,
     "base_date": "2026-08-13",
     "last_date": "2026-08-14"
    }
@@ -204,9 +204,9 @@
    "reason": "Discounted stock offering typically bearish for existing shareholders.",
    "price_since": {
     "ticker": "DVLT",
-    "pct": 3.1,
+    "pct": 0.0,
     "base": 0.32,
-    "last": 0.33,
+    "last": 0.32,
     "base_date": "2026-08-13",
     "last_date": "2026-08-14"
    }
@@ -228,9 +228,33 @@
    "reason": "Dell stock at new highs; wealth gain report confirms momentum",
    "price_since": {
     "ticker": "DELL",
-    "pct": -0.7,
+    "pct": -0.6,
     "base": 494.51,
-    "last": 491.02,
+    "last": 491.73,
+    "base_date": "2026-08-13",
+    "last_date": "2026-08-14"
+   }
+  },
+  {
+   "date": "2026-08-13T20:23:35Z",
+   "platform": "News",
+   "text": "Michael Dell Fifth Richest in World as Dell Stock Climbs to New Highs: Gain of $106 Billion in 2026 Trails Only Musk - benzinga.com \u2014 Michael Dell Fifth Richest in World as Dell Stock Climbs to New Highs: Gain of $106 Billion in 2026 Trails Only Musk\u00a0\u00a0benzinga.com",
+   "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPSjhUNXkyWlFUYlUwdWZfUlp2MFZqM2hwcl9obWx6LU14bVZlWm11TVZub3NiSVpJREF0b0ZNZW9XOGhkVmFCUjZVSE9xNXpvTzdXMVc0MVgtRXJwU3Z3bXptTHRvOUJoSnVydzZlMDEyUFlDOVY1YnZfZDhuOVFCTVdFZFoySWpueEcyclZUSHlxOGZieFJ4cXA1VEJkQjgyR3lTc1Bhem5RcHFNcmwzXzMtRmRDc0RVbk00bWFnVkVaeC10aWV2SXFZQTBMVHhRdHdmblU2UXJaMVZmc091VnVwdHA0VjNkUFhReU81aTJCTmozWUlQTXZPbENXN3RjQzh0MUdn?oc=5",
+   "tickers": [
+    "DELL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "DELL",
+   "strength": 55,
+   "reason": "Dell stock at new highs; broad market confidence, no Trump-specific action",
+   "price_since": {
+    "ticker": "DELL",
+    "pct": -0.6,
+    "base": 494.51,
+    "last": 491.73,
     "base_date": "2026-08-13",
     "last_date": "2026-08-14"
    }
@@ -252,9 +276,9 @@
    "reason": "Report of high stock trading volume linked to Trump; potential insider trading concern or market speculation about his positions.",
    "price_since": {
     "ticker": "DJT",
-    "pct": 1.1,
+    "pct": -0.1,
     "base": 8.3,
-    "last": 8.39,
+    "last": 8.29,
     "base_date": "2026-08-13",
     "last_date": "2026-08-14"
    }
@@ -277,9 +301,9 @@
    "reason": "Closing de minimis loophole increases tariff revenue collection, modest tailwind for broad market and importers",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.2,
+    "pct": -0.3,
     "base": 777.88,
-    "last": 776.35,
+    "last": 775.5,
     "base_date": "2026-08-13",
     "last_date": "2026-08-14"
    }
@@ -301,9 +325,9 @@
    "reason": "Insider selling by cofounder; potential bearish sentiment signal",
    "price_since": {
     "ticker": "NFLX",
-    "pct": 0.0,
+    "pct": -0.5,
     "base": 78.24,
-    "last": 78.26,
+    "last": 77.85,
     "base_date": "2026-08-13",
     "last_date": "2026-08-14"
    }
@@ -325,9 +349,33 @@
    "reason": "Demand for transparency on Trump's stock trading; suggests market concern about his trading patterns and potential conflicts.",
    "price_since": {
     "ticker": "DJT",
-    "pct": 1.1,
+    "pct": -0.1,
     "base": 8.3,
-    "last": 8.39,
+    "last": 8.29,
+    "base_date": "2026-08-13",
+    "last_date": "2026-08-14"
+   }
+  },
+  {
+   "date": "2026-08-13T15:10:06Z",
+   "platform": "News",
+   "text": "KEEL Stock Jumps Onto Retail Radar As Investors Eye First Data Center Lease Announcement - Stocktwits \u2014 KEEL Stock Jumps Onto Retail Radar As Investors Eye First Data Center Lease Announcement\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVHpiUDN5T2I5aVFzNkpxZGZjdUJEVG0xLXN0c3pVRWo2REVuRGNZTFpvLXJTT2luZVhnTC1iVmFtcFYxbkpnanphZ3E0N0ExWmx5UGh4cGw2QmRiQXl3RG81OWlKRnEwOHVHT0FWdXlGd2VIZVhjM1k2TTU0THctQ3cyUVhNNG9JcGJQMlhPVHdWbkFVSVpfR25lNzVCMTJ4cGZRR05JcnR2SWFvSGc1VnYyMzFMMnFDLURZLW5pMGk3UUwyWktaVVNmZUdDZ21QZGQ0bEZfU0o1LXRvREhFd3h2NXBTMjQ?oc=5",
+   "tickers": [
+    "KEEL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "KEEL",
+   "strength": 50,
+   "reason": "Data center lease announcement catalyst; AI/infrastructure play",
+   "price_since": {
+    "ticker": "KEEL",
+    "pct": 4.2,
+    "base": 3.31,
+    "last": 3.45,
     "base_date": "2026-08-13",
     "last_date": "2026-08-14"
    }
@@ -349,9 +397,9 @@
    "reason": "Dimon praises deregulation & pro-growth policy; broad market bullish signal",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.2,
+    "pct": -0.3,
     "base": 777.88,
-    "last": 776.33,
+    "last": 775.49,
     "base_date": "2026-08-13",
     "last_date": "2026-08-14"
    }
@@ -373,9 +421,9 @@
    "reason": "Retailer earnings risk in cautious economic environment; direction ambiguous.",
    "price_since": {
     "ticker": "DG",
-    "pct": 1.3,
+    "pct": 1.1,
     "base": 122.08,
-    "last": 123.61,
+    "last": 123.46,
     "base_date": "2026-08-13",
     "last_date": "2026-08-14"
    }
@@ -397,9 +445,9 @@
    "reason": "Report of demand to disclose stock managers and trading practices; raises governance/transparency concerns affecting his company.",
    "price_since": {
     "ticker": "DJT",
-    "pct": 1.1,
+    "pct": -0.1,
     "base": 8.3,
-    "last": 8.39,
+    "last": 8.29,
     "base_date": "2026-08-13",
     "last_date": "2026-08-14"
    }
@@ -421,9 +469,9 @@
    "reason": "Stock more than doubles pre-market; positive momentum but reason for rally unclear.",
    "price_since": {
     "ticker": "QTEX",
-    "pct": -6.0,
+    "pct": -4.0,
     "base": 1.0,
-    "last": 0.94,
+    "last": 0.96,
     "base_date": "2026-08-13",
     "last_date": "2026-08-14"
    }
@@ -445,9 +493,9 @@
    "reason": "Stock doubles pre-market but reason unspecified; ambiguous if Trump-related or fundamentals-driven.",
    "price_since": {
     "ticker": "QTEX",
-    "pct": -6.0,
+    "pct": -4.0,
     "base": 1.0,
-    "last": 0.94,
+    "last": 0.96,
     "base_date": "2026-08-13",
     "last_date": "2026-08-14"
    }
@@ -471,7 +519,7 @@
     "ticker": "XAR",
     "pct": 1.2,
     "base": 292.1,
-    "last": 295.47,
+    "last": 295.64,
     "base_date": "2026-08-13",
     "last_date": "2026-08-14"
    }
@@ -493,9 +541,9 @@
    "reason": "Lawsuit over Truth Social access monetization threatens DJT revenue model and reputation",
    "price_since": {
     "ticker": "DJT",
-    "pct": 1.1,
+    "pct": -0.1,
     "base": 8.3,
-    "last": 8.39,
+    "last": 8.29,
     "base_date": "2026-08-13",
     "last_date": "2026-08-14"
    }
@@ -517,9 +565,9 @@
    "reason": "Truth Social sued over paid access; unclear near-term profit/loss impact on Trump Media",
    "price_since": {
     "ticker": "DJT",
-    "pct": 1.1,
+    "pct": -0.1,
     "base": 8.3,
-    "last": 8.39,
+    "last": 8.29,
     "base_date": "2026-08-13",
     "last_date": "2026-08-14"
    }
@@ -543,7 +591,7 @@
     "ticker": "C",
     "pct": -0.0,
     "base": 138.73,
-    "last": 138.67,
+    "last": 138.71,
     "base_date": "2026-08-13",
     "last_date": "2026-08-14"
    }
@@ -567,7 +615,7 @@
     "ticker": "C",
     "pct": -0.0,
     "base": 138.73,
-    "last": 138.67,
+    "last": 138.71,
     "base_date": "2026-08-13",
     "last_date": "2026-08-14"
    }
@@ -589,9 +637,9 @@
    "reason": "Profit-from-policy-access controversy creates regulatory/reputational risk for DJT; unclear if bullish or bearish",
    "price_since": {
     "ticker": "DJT",
-    "pct": 1.1,
+    "pct": -0.1,
     "base": 8.3,
-    "last": 8.39,
+    "last": 8.29,
     "base_date": "2026-08-13",
     "last_date": "2026-08-14"
    }
@@ -619,6 +667,22 @@
     "base_date": "2026-08-12",
     "last_date": "2026-08-14"
    }
+  },
+  {
+   "date": "2026-08-12T23:47:17Z",
+   "platform": "News",
+   "text": "Gulf of Mexico Lease Sale Attracts $82.7 Million in High Bids - oedigital.com \u2014 Gulf of Mexico Lease Sale Attracts $82.7 Million in High Bids\u00a0\u00a0oedigital.com",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUURCN0NmWnl4Q3pEX1JpdE9LSXVMakZLRjN6RVduVEtpeS1YaWhMVHVEbE1pVlNqVEdHSkJmYjdrMWVZLW1BWXkyUXloRzItSElkdGVkc0hXallTMEQ1WDhfQXhqaXlaUFkzTzVXTGFZaDVxUTdWWXh6cHJGbk5QV0s2aksyVmhIbEF5M09DRUJ1djc5QUowVWl1MFNMM00?oc=5",
+   "tickers": [
+    "XLE"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "XLE",
+   "strength": 35,
+   "reason": "Gulf of Mexico lease sale signals continued oil/gas development; bullish for energy sector under Trump drilling policy."
   },
   {
    "date": "2026-08-12T22:45:40.784Z",
@@ -1234,30 +1298,6 @@
     "pct": -0.5,
     "base": 238.42,
     "last": 237.14,
-    "base_date": "2026-08-11",
-    "last_date": "2026-08-13"
-   }
-  },
-  {
-   "date": "2026-08-11T18:35:41Z",
-   "platform": "News",
-   "text": "KEEL Stock Jumps Onto Retail Radar As Investors Eye First Data Center Lease Announcement - Stocktwits \u2014 KEEL Stock Jumps Onto Retail Radar As Investors Eye First Data Center Lease Announcement\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVHpiUDN5T2I5aVFzNkpxZGZjdUJEVG0xLXN0c3pVRWo2REVuRGNZTFpvLXJTT2luZVhnTC1iVmFtcFYxbkpnanphZ3E0N0ExWmx5UGh4cGw2QmRiQXl3RG81OWlKRnEwOHVHT0FWdXlGd2VIZVhjM1k2TTU0THctQ3cyUVhNNG9JcGJQMlhPVHdWbkFVSVpfR25lNzVCMTJ4cGZRR05JcnR2SWFvSGc1VnYyMzFMMnFDLURZLW5pMGk3UUwyWktaVVNmZUdDZ21QZGQ0bEZfU0o1LXRvREhFd3h2NXBTMjQ?oc=5",
-   "tickers": [
-    "KEEL"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "KEEL",
-   "strength": 40,
-   "reason": "First data center lease announcement drives stock move; no Trump signal but market-relevant.",
-   "price_since": {
-    "ticker": "KEEL",
-    "pct": 0.6,
-    "base": 3.29,
-    "last": 3.31,
     "base_date": "2026-08-11",
     "last_date": "2026-08-13"
    }
@@ -2781,22 +2821,6 @@
    "primary_ticker": "SPY",
    "strength": 50,
    "reason": "Trump comments on multiple tech/market players (Musk, OpenAI, Intel, Fed); mixed/ambiguous directional signal requires detail"
-  },
-  {
-   "date": "2026-08-07T06:02:51Z",
-   "platform": "News",
-   "text": "INTC Stock Rockets Toward Best Month Ever: Something More Than A Trump Pump Could Be Powering The Rally - stocktwits.com \u2014 INTC Stock Rockets Toward Best Month Ever: Something More Than A Trump Pump Could Be Powering The Rally\u00a0\u00a0stocktwits.com",
-   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQT29KOURKeHprQ2xZbmpLUUc3MGRlTTE5Y1JHVXJ5TGhldk10eENQcmZLSzRWNDQyTmJFclFNUThmZ0tBRlZUQTZ3MGF1dlZwR0Q4aUtXUnZVQ2o1MjM3cFNpU2RrejRkd2E0OXBhOVNpdDdBdDVSSTR1c2M5NTZfYlg4NEFxODg3QWpMTXd0VVIzM3pZRS10OG5JWG9QUW52UjZvbXVvQ29uZ1lJb1NwbFljM1lBN1dreHdJZDdYZ1hKTjVidndnRWlJRnl5cnNpT2llcjVuSVltVDNzVFdHbmZYTEpua3JJVllOcXIxVmdfaThfeHRzVm9R?oc=5",
-   "tickers": [
-    "INTC"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "INTC",
-   "strength": 60,
-   "reason": "Trump administration support for Intel semiconductor foundry/subsidies; tailwind for chip sector leadership"
   },
   {
    "curated": true,
