@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-14T20:48:35Z",
+ "last_updated": "2026-08-14T21:24:16Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -145,6 +145,22 @@
    "primary_ticker": "QQQ",
    "strength": 45,
    "reason": "Micron rally lifts chip stocks broadly; semiconductor sector strength implies tech upside"
+  },
+  {
+   "date": "2026-08-14T09:11:29Z",
+   "platform": "News",
+   "text": "Peter Thiel-Backed Bullish Sees Tokenized Stocks as a 'Giant Growth Opportunity' No One Saw Coming - Benzinga \u2014 Peter Thiel-Backed Bullish Sees Tokenized Stocks as a 'Giant Growth Opportunity' No One Saw Coming\u00a0\u00a0Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNc2xCaUlDTFFoWVY0aWctNjI3ZXlQVGVJWnlFa25sZnM4cF8yQXc2eGhCd0FYM3VveXFSbU5EZjJLNVIxWjVnNTRra2lwdnZRUld1VENUVENIUnFpUk1nSUlVaHJ3b3pxNk1fM1lqYnBsR2JDSkU3VmJ3VXZZU08tNWFrRDMyWXRIdWN6V3NoMGFVWTI2Q0licV9QVk9BSzFXUEVpX3hiMW5SS3ptSEVnVzdwZWpLS1AxMkRNOURpWGdmX05FVmdGSk9nMHMySjVUZno4eWF3ZnZyT0F0MmwzMTJuTEdiZw?oc=5",
+   "tickers": [
+    "BTC-USD"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "BTC-USD",
+   "strength": 35,
+   "reason": "Crypto/tokenized assets emerging; Thiel involvement suggests crypto-adjacent opportunity but direction unclear."
   },
   {
    "date": "2026-08-14T08:35:53Z",
@@ -340,6 +356,30 @@
    }
   },
   {
+   "date": "2026-08-13T21:54:19Z",
+   "platform": "News",
+   "text": "Meta's AI Workforce Academy Wins Praise From Former Trump Adviser, Ex-Facebook Exec: 'Hope More Companies Follow Suit' - stocktwits.com \u2014 Meta's AI Workforce Academy Wins Praise From Former Trump Adviser, Ex-Facebook Exec: 'Hope More Companies Follow Suit'\u00a0\u00a0stocktwits.com",
+   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQU0E4QWNsTjlROXIwRTIyVHZyMTlHNHhxUndrNjlLbUxOajU2MEZIRFhHeE9xd2ZRdm9IQVMzdHlEMmU4NVBwckpvbEkyWURKRXFHMlR4Z0VWVk5qMGstTFNtVTZSNWpqVS0wWkZ3WTdEaktTd3FMUHlTRjc2M3UwZlpDY1NjeG5FZ2s2bDJVeGJiVjgwWXIzdVVOS0FhQ2E0WjNUMDIzY1ppOTdJNTJkanBEMjFzRUVzb2RBS1czdXZXVWoyb0xLcl9ycl81NG1zd0lNT0NRUmVMZVgyblRkTVlXU1ZUTENRdkJBQzdhU0VuSG9HN19jeFNna0NRVlVUN2E1blhrY0U5Zw?oc=5",
+   "tickers": [
+    "META"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "META",
+   "strength": 45,
+   "reason": "Meta AI Workforce Academy praised by Trump adviser; positive optics on Meta's AI strategy.",
+   "price_since": {
+    "ticker": "META",
+    "pct": -0.9,
+    "base": 594.97,
+    "last": 589.85,
+    "base_date": "2026-08-13",
+    "last_date": "2026-08-14"
+   }
+  },
+  {
    "date": "2026-08-13T20:23:35Z",
    "platform": "News",
    "text": "Michael Dell Fifth Richest in World as Dell Stock Climbs to New Highs: Gain of $106 Billion in 2026 Trails Only Musk - Benzinga \u2014 Michael Dell Fifth Richest in World as Dell Stock Climbs to New Highs: Gain of $106 Billion in 2026 Trails Only Musk\u00a0\u00a0Benzinga",
@@ -383,30 +423,6 @@
     "pct": -0.7,
     "base": 494.51,
     "last": 490.81,
-    "base_date": "2026-08-13",
-    "last_date": "2026-08-14"
-   }
-  },
-  {
-   "date": "2026-08-13T19:33:49Z",
-   "platform": "News",
-   "text": "Meta's AI Workforce Academy Wins Praise From Former Trump Adviser, Ex-Facebook Exec: 'Hope More Companies Follow Suit' - stocktwits.com \u2014 Meta's AI Workforce Academy Wins Praise From Former Trump Adviser, Ex-Facebook Exec: 'Hope More Companies Follow Suit'\u00a0\u00a0stocktwits.com",
-   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQU0E4QWNsTjlROXIwRTIyVHZyMTlHNHhxUndrNjlLbUxOajU2MEZIRFhHeE9xd2ZRdm9IQVMzdHlEMmU4NVBwckpvbEkyWURKRXFHMlR4Z0VWVk5qMGstTFNtVTZSNWpqVS0wWkZ3WTdEaktTd3FMUHlTRjc2M3UwZlpDY1NjeG5FZ2s2bDJVeGJiVjgwWXIzdVVOS0FhQ2E0WjNUMDIzY1ppOTdJNTJkanBEMjFzRUVzb2RBS1czdXZXVWoyb0xLcl9ycl81NG1zd0lNT0NRUmVMZVgyblRkTVlXU1ZUTENRdkJBQzdhU0VuSG9HN19jeFNna0NRVlVUN2E1blhrY0U5Zw?oc=5",
-   "tickers": [
-    "META"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "META",
-   "strength": 50,
-   "reason": "Meta AI Workforce Academy praised by Trump adviser; slight positive sentiment for META but soft signal",
-   "price_since": {
-    "ticker": "META",
-    "pct": -0.9,
-    "base": 594.97,
-    "last": 589.85,
     "base_date": "2026-08-13",
     "last_date": "2026-08-14"
    }
@@ -475,6 +491,30 @@
    "primary_ticker": "BB",
    "strength": 35,
    "reason": "Retail traders eye higher targets on QNX and Physical AI momentum.",
+   "price_since": {
+    "ticker": "BB",
+    "pct": -1.0,
+    "base": 8.99,
+    "last": 8.9,
+    "base_date": "2026-08-13",
+    "last_date": "2026-08-14"
+   }
+  },
+  {
+   "date": "2026-08-13T17:57:10Z",
+   "platform": "News",
+   "text": "BB Stock To $10? Retail Traders Eye New Highs On QNX, Physical AI Boost - stocktwits.com \u2014 BB Stock To $10? Retail Traders Eye New Highs On QNX, Physical AI Boost\u00a0\u00a0stocktwits.com",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQlo3d1dSS0NHNUhSeER4LWR5di1DRFJLU2lsRWcyNlBUR2Q0TUh2MHdRcU1wZllORzVRZTkzZ0FJajRwVlEyVXBBZUZrMi1aR1hpS2dXamlRNkVSUDJXekNFRmF3TUVvVUVweFVmOEVZMUpNb1A3a2ptOHFVYkNnU3VXcWZoR0N1SnloRVpMTXMzSXRWak1rTkhoWFRwUk9iYkJ1NkJEbEstb1Z1S0dJMm5ESVRzbWZqd0FGd2xtNjRrSnRU?oc=5",
+   "tickers": [
+    "BB"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "BB",
+   "strength": 50,
+   "reason": "BB stock retail bullish on QNX and AI; upside target $10 but market sentiment mixed.",
    "price_since": {
     "ticker": "BB",
     "pct": -1.0,
@@ -677,6 +717,22 @@
    }
   },
   {
+   "date": "2026-08-13T11:33:46Z",
+   "platform": "News",
+   "text": "Eric Trump Doubles Down On $1 Million Bitcoin Call \u2013 Says Crypto Is \u2018On The One-Yard Line\u2019 - stocktwits.com \u2014 Eric Trump Doubles Down On $1 Million Bitcoin Call \u2013 Says Crypto Is \u2018On The One-Yard Line\u2019\u00a0\u00a0stocktwits.com",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNX1pmRkZXRjdiRW5hMjBIczJUNUJIdGF6aldVWUh5a3NyTXlfM2RqczdicF96cDk3T1hqNmpNLWp5QXBJT0JkcWpJU0VzWXpUVWFFRkVEWlN6LTBCLUFkSGswd3BkRGZNWDZBa1pwdUtwTWpwUVlONEF6Ny1pMHpReUtsa2VNenVURDltcjRQcmFNWU1xT1RWOWMtdGdGenJ6Q0R6UnVSTS1qZlhkb1NsUHFxYTV2OW5wWjJVdmpLWkxFa3BaN1JSenpEX2o5VUFCSnFXT0FfM1B5alJNQ3c?oc=5",
+   "tickers": [
+    "BTC-USD"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "BTC-USD",
+   "strength": 35,
+   "reason": "Eric Trump bullish on Bitcoin at $1M target; family signal but not from Trump himself, vague timeframe."
+  },
+  {
    "date": "2026-08-13T09:52:27Z",
    "platform": "News",
    "text": "Trump Weighs In On Elon Musk, OpenAI, Intel \u2014 And Takes Aim At The 'Hostile' Fed Board - Stocktwits \u2014 Trump Weighs In On Elon Musk, OpenAI, Intel \u2014 And Takes Aim At The 'Hostile' Fed Board\u00a0\u00a0Stocktwits",
@@ -691,6 +747,22 @@
    "primary_ticker": "SMH",
    "strength": 35,
    "reason": "Trump weighs in on Elon/OpenAI/Intel; unclear direction (could be praise or critique); Fed criticism is macro-bearish but vague"
+  },
+  {
+   "date": "2026-08-13T09:52:27Z",
+   "platform": "News",
+   "text": "Trump Weighs In On Elon Musk, OpenAI, Intel \u2014 And Takes Aim At The 'Hostile' Fed Board - stocktwits.com \u2014 Trump Weighs In On Elon Musk, OpenAI, Intel \u2014 And Takes Aim At The 'Hostile' Fed Board\u00a0\u00a0stocktwits.com",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSGdkS2RRUEt3TWdWdW8yWkZrN0NfU1lZak10VExCWGktUlg3enppTzF4UnpEVjg3YVZRR2JqRmFYdTVBQTdIcmJHYVFkX2ZtcHFiREF5UWZ3NExDNTJhTnd2VE5HM1A1WFZnVEpoY0Rfa1BYMVJrZ0lKNlhDdDBKVW41S0dCOTdncW5jWEhHRkZMU0lERlF4MlFyU0xxTXFNS25wMWVoa1c3SkliajdkUDUtTDdUWnZmUnI5aUhNeHJreTBacEE0Zk1WZVMzMXpfUDFIeU9GSEN2N2liM2c?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "SPY",
+   "strength": 45,
+   "reason": "Trump weighs in on Elon/OpenAI/Intel and Fed policy; mixed signals across tech and macro, direction ambiguous."
   },
   {
    "date": "2026-08-13T09:20:56Z",
@@ -861,7 +933,7 @@
    }
   },
   {
-   "date": "2026-08-13T00:58:05Z",
+   "date": "2026-08-13T02:14:41Z",
    "platform": "News",
    "text": "Citi Stock Hits 52-Week High Before Fading As Trump Lauds Bank's 'Big Comeback' In M&A \u2014 But Full Picture Has Changed Now - stocktwits.com \u2014 Citi Stock Hits 52-Week High Before Fading As Trump Lauds Bank's 'Big Comeback' In M&A \u2014 But Full Picture Has Changed Now\u00a0\u00a0stocktwits.com",
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWUpacUZnX014SV9nTnRZbVQ0dWhFQlZiV3ZjLV9nWExYUjVMdmlZdkdoNnFLcUhZUEhuZ1k3a2JENWJrYkhqdjJqNFlLaVlVYzBRb3dJOFA2Q1dESmhCTVJnQXJJaU15VjVFUFo2cWJDOEx3QTIzN0NSQjExRWhRZlNLaDFXeEZMQ0poajdjbGhmNlhPd1ZQSnVOSmNVa0pVTF94Z1RVdXlSU2JrR0N3X2dHSENINjZHNWdTYzB1dEZPaERK?oc=5",
@@ -873,16 +945,8 @@
    "explicit": true,
    "direction": "BUY",
    "primary_ticker": "C",
-   "strength": 70,
-   "reason": "Trump explicitly lauds Citigroup's comeback and M&A activity, directly praising a named public company.",
-   "price_since": {
-    "ticker": "C",
-    "pct": 0.4,
-    "base": 138.73,
-    "last": 139.24,
-    "base_date": "2026-08-13",
-    "last_date": "2026-08-14"
-   }
+   "strength": 60,
+   "reason": "Trump explicitly lauds Citigroup's 'big comeback' in M&A; direct praise of named company drives stock higher."
   },
   {
    "date": "2026-08-13T00:49:15Z",
@@ -2375,30 +2439,6 @@
    }
   },
   {
-   "date": "2026-08-08T18:01:16Z",
-   "platform": "News",
-   "text": "BB Stock To $10? Retail Traders Eye New Highs On QNX, Physical AI Boost - stocktwits.com \u2014 BB Stock To $10? Retail Traders Eye New Highs On QNX, Physical AI Boost\u00a0\u00a0stocktwits.com",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQlo3d1dSS0NHNUhSeER4LWR5di1DRFJLU2lsRWcyNlBUR2Q0TUh2MHdRcU1wZllORzVRZTkzZ0FJajRwVlEyVXBBZUZrMi1aR1hpS2dXamlRNkVSUDJXekNFRmF3TUVvVUVweFVmOEVZMUpNb1A3a2ptOHFVYkNnU3VXcWZoR0N1SnloRVpMTXMzSXRWak1rTkhoWFRwUk9iYkJ1NkJEbEstb1Z1S0dJMm5ESVRzbWZqd0FGd2xtNjRrSnRU?oc=5",
-   "tickers": [
-    "BB"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "BB",
-   "strength": 20,
-   "reason": "Retail speculation on BB/QNX; uncertain technicals, not Trump-driven.",
-   "price_since": {
-    "ticker": "BB",
-    "pct": 1.7,
-    "base": 8.83,
-    "last": 8.98,
-    "base_date": "2026-08-10",
-    "last_date": "2026-08-11"
-   }
-  },
-  {
    "date": "2026-08-08T13:29:30Z",
    "platform": "News",
    "text": "Michael Burry says it\u2019s 'Trump's market' where price doesn't matter - Seeking Alpha \u2014 Michael Burry says it\u2019s 'Trump's market' where price doesn't matter\u00a0\u00a0Seeking Alpha",
@@ -2490,30 +2530,6 @@
     "pct": -2.3,
     "base": 64904.69,
     "last": 63391.62,
-    "base_date": "2026-08-08",
-    "last_date": "2026-08-11"
-   }
-  },
-  {
-   "date": "2026-08-08T12:07:04Z",
-   "platform": "News",
-   "text": "Eric Trump Doubles Down On $1 Million Bitcoin Call \u2013 Says Crypto Is \u2018On The One-Yard Line\u2019 - stocktwits.com \u2014 Eric Trump Doubles Down On $1 Million Bitcoin Call \u2013 Says Crypto Is \u2018On The One-Yard Line\u2019\u00a0\u00a0stocktwits.com",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNX1pmRkZXRjdiRW5hMjBIczJUNUJIdGF6aldVWUh5a3NyTXlfM2RqczdicF96cDk3T1hqNmpNLWp5QXBJT0JkcWpJU0VzWXpUVWFFRkVEWlN6LTBCLUFkSGswd3BkRGZNWDZBa1pwdUtwTWpwUVlONEF6Ny1pMHpReUtsa2VNenVURDltcjRQcmFNWU1xT1RWOWMtdGdGenJ6Q0R6UnVSTS1qZlhkb1NsUHFxYTV2OW5wWjJVdmpLWkxFa3BaN1JSenpEX2o5VUFCSnFXT0FfM1B5alJNQ3c?oc=5",
-   "tickers": [
-    "BTC-USD"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "BTC-USD",
-   "strength": 50,
-   "reason": "Eric Trump bullish Bitcoin call targets $1M, signals Trump family crypto endorsement",
-   "price_since": {
-    "ticker": "BTC-USD",
-    "pct": -2.3,
-    "base": 64904.69,
-    "last": 63393.04,
     "base_date": "2026-08-08",
     "last_date": "2026-08-11"
    }
@@ -2778,54 +2794,6 @@
     "pct": 2.0,
     "base": 124.88,
     "last": 127.44,
-    "base_date": "2026-08-07",
-    "last_date": "2026-08-10"
-   }
-  },
-  {
-   "date": "2026-08-07T20:15:24Z",
-   "platform": "News",
-   "text": "NOW Stock Rises Overnight: Trump\u2019s ServiceNow Stake Fuels Retail Buzz Around SAAS Comeback - stocktwits.com \u2014 NOW Stock Rises Overnight: Trump\u2019s ServiceNow Stake Fuels Retail Buzz Around SAAS Comeback\u00a0\u00a0stocktwits.com",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQcEF0OFRRa3hIWF9rS21NMTBqNk53MDA4eWFQcDJad1Z2QkQyTTdmd3prLUVaVUUwdVRSWWpCOGs3N3JaYTZCcG1KMjg1c1Q0WWdjSnlWbHkteXVxcnFoUXFZMEg4ejh0YjA4ZG5BRnBEX1huMFNaS0dXdEx4LWNEOXBLcmNpMzlCQzc1OC0yRDFKeWFMWEZzWUpNQXBWTFFDQlJ6dmFWamU5cUpFZnVfcU1ocFdTa0tfdjByTlZZUHo4QUx1QzJOMHpzZEdaZjdqSVhoWFB0cVRKZW9BbnNLMi1XYUF2MlhaZGc?oc=5",
-   "tickers": [
-    "NOW"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "NOW",
-   "strength": 70,
-   "reason": "Trump holds stake in ServiceNow; disclosure of Trump ownership fuels bullish retail interest.",
-   "price_since": {
-    "ticker": "NOW",
-    "pct": 2.0,
-    "base": 124.88,
-    "last": 127.44,
-    "base_date": "2026-08-07",
-    "last_date": "2026-08-10"
-   }
-  },
-  {
-   "date": "2026-08-07T20:08:28Z",
-   "platform": "News",
-   "text": "Why Is IBM Stock Surging Nearly 7% Higher In Overnight Trading? - stocktwits.com \u2014 Why Is IBM Stock Surging Nearly 7% Higher In Overnight Trading?\u00a0\u00a0stocktwits.com",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQk9pekpVQ1Q1NnRyVEdqWjdJN29OTFpDY3Rkc08wdG96eTdtMHRzVVRmUFItUlRQQS11WXBWZFpHWU50d3hoRHBENXM2eGhKMF9QZF9qb3ZQT2pXREgyU1pTMzBFU0JGZ0lOTk90VlU4YURiV3I1LWtPdTVzZDZRbUZGWEUySWxkZXg1a2dzYVVTVUpsOU1Yc25qQ2U4OE9tX1MtbEZFNDZDalpaS2JlbndvcnYyUU1Ca0E2cGxqMi02S2s?oc=5",
-   "tickers": [
-    "IBM"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "IBM",
-   "strength": 80,
-   "reason": "IBM stock surging on Trump administration quantum grant; continuation of federal contract bullish signal.",
-   "price_since": {
-    "ticker": "IBM",
-    "pct": -0.4,
-    "base": 237.28,
-    "last": 236.31,
     "base_date": "2026-08-07",
     "last_date": "2026-08-10"
    }
