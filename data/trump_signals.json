@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-08-14T15:32:46Z",
+ "last_updated": "2026-08-14T16:32:50Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-08-14T14:58:00Z",
+   "platform": "News",
+   "text": "Drone Stocks Rally After Trump Announces New Tariffs On Drones, Parts - Investor's Business Daily \u2014 Drone Stocks Rally After Trump Announces New Tariffs On Drones, Parts\u00a0\u00a0Investor's Business Daily",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQWh5Qm9kTjJuYUY5UF9HcDlCdXFXYXhpSGVCVHNjUWtseVc4WHRfaDlNVDE3UVBsRThCS1FaWWh5ZGF2UHVZMFhrSmhOTVlsTmR2NVA0cjAxYUdBVFRhcnpnNkdYOU5aRC1PeGlVdHFNX29jSzQ3SWdKMnFvWWxVVElBWlc3X3dNQjlCVTVJS0ZVN2wtNzFwUXprc1V1UzVmUVhJUlN3T2k3UTRuVTBJSjR1SQ?oc=5",
+   "tickers": [
+    "XLE"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "XLE",
+   "strength": 45,
+   "reason": "Tariffs on drones/parts announced; domestic drone makers benefit but sector unclear\u2014need to identify specific winners"
+  },
   {
    "date": "2026-08-14T11:44:57Z",
    "platform": "News",
@@ -116,9 +132,9 @@
    "reason": "SK Hynix and Micron DRAM news; semiconductor sector strength ahead of earnings.",
    "price_since": {
     "ticker": "SMH",
-    "pct": -0.9,
+    "pct": -0.8,
     "base": 589.12,
-    "last": 583.74,
+    "last": 584.22,
     "base_date": "2026-08-13",
     "last_date": "2026-08-14"
    }
@@ -140,9 +156,9 @@
    "reason": "SK Hynix and Micron semiconductor strength signals positive momentum in DRAM/chip sector.",
    "price_since": {
     "ticker": "SMH",
-    "pct": -0.9,
+    "pct": -0.8,
     "base": 589.12,
-    "last": 583.74,
+    "last": 584.22,
     "base_date": "2026-08-13",
     "last_date": "2026-08-14"
    }
@@ -164,9 +180,9 @@
    "reason": "Trump China visit with QCOM executives suggests potential trade/policy development; direction ambiguous",
    "price_since": {
     "ticker": "QCOM",
-    "pct": -0.6,
+    "pct": -0.3,
     "base": 164.79,
-    "last": 163.79,
+    "last": 164.23,
     "base_date": "2026-08-13",
     "last_date": "2026-08-14"
    }
@@ -212,9 +228,9 @@
    "reason": "Dell stock at new highs; wealth gain report confirms momentum",
    "price_since": {
     "ticker": "DELL",
-    "pct": -0.5,
+    "pct": -0.7,
     "base": 494.51,
-    "last": 491.95,
+    "last": 491.02,
     "base_date": "2026-08-13",
     "last_date": "2026-08-14"
    }
@@ -236,9 +252,9 @@
    "reason": "Report of high stock trading volume linked to Trump; potential insider trading concern or market speculation about his positions.",
    "price_since": {
     "ticker": "DJT",
-    "pct": 0.7,
+    "pct": 1.1,
     "base": 8.3,
-    "last": 8.36,
+    "last": 8.39,
     "base_date": "2026-08-13",
     "last_date": "2026-08-14"
    }
@@ -263,7 +279,7 @@
     "ticker": "SPY",
     "pct": -0.2,
     "base": 777.88,
-    "last": 776.17,
+    "last": 776.35,
     "base_date": "2026-08-13",
     "last_date": "2026-08-14"
    }
@@ -285,9 +301,9 @@
    "reason": "Insider selling by cofounder; potential bearish sentiment signal",
    "price_since": {
     "ticker": "NFLX",
-    "pct": -0.2,
+    "pct": 0.0,
     "base": 78.24,
-    "last": 78.09,
+    "last": 78.26,
     "base_date": "2026-08-13",
     "last_date": "2026-08-14"
    }
@@ -309,9 +325,9 @@
    "reason": "Demand for transparency on Trump's stock trading; suggests market concern about his trading patterns and potential conflicts.",
    "price_since": {
     "ticker": "DJT",
-    "pct": 0.7,
+    "pct": 1.1,
     "base": 8.3,
-    "last": 8.36,
+    "last": 8.39,
     "base_date": "2026-08-13",
     "last_date": "2026-08-14"
    }
@@ -335,7 +351,7 @@
     "ticker": "SPY",
     "pct": -0.2,
     "base": 777.88,
-    "last": 776.17,
+    "last": 776.33,
     "base_date": "2026-08-13",
     "last_date": "2026-08-14"
    }
@@ -357,9 +373,9 @@
    "reason": "Retailer earnings risk in cautious economic environment; direction ambiguous.",
    "price_since": {
     "ticker": "DG",
-    "pct": 1.1,
+    "pct": 1.3,
     "base": 122.08,
-    "last": 123.48,
+    "last": 123.61,
     "base_date": "2026-08-13",
     "last_date": "2026-08-14"
    }
@@ -381,9 +397,9 @@
    "reason": "Report of demand to disclose stock managers and trading practices; raises governance/transparency concerns affecting his company.",
    "price_since": {
     "ticker": "DJT",
-    "pct": 0.7,
+    "pct": 1.1,
     "base": 8.3,
-    "last": 8.36,
+    "last": 8.39,
     "base_date": "2026-08-13",
     "last_date": "2026-08-14"
    }
@@ -405,9 +421,9 @@
    "reason": "Stock more than doubles pre-market; positive momentum but reason for rally unclear.",
    "price_since": {
     "ticker": "QTEX",
-    "pct": -5.0,
+    "pct": -6.0,
     "base": 1.0,
-    "last": 0.95,
+    "last": 0.94,
     "base_date": "2026-08-13",
     "last_date": "2026-08-14"
    }
@@ -429,9 +445,9 @@
    "reason": "Stock doubles pre-market but reason unspecified; ambiguous if Trump-related or fundamentals-driven.",
    "price_since": {
     "ticker": "QTEX",
-    "pct": -5.0,
+    "pct": -6.0,
     "base": 1.0,
-    "last": 0.95,
+    "last": 0.94,
     "base_date": "2026-08-13",
     "last_date": "2026-08-14"
    }
@@ -453,9 +469,9 @@
    "reason": "Trump signals exit from Iran war; defense/conflict de-escalation bullish for defense stocks and broad market",
    "price_since": {
     "ticker": "XAR",
-    "pct": 0.9,
+    "pct": 1.2,
     "base": 292.1,
-    "last": 294.65,
+    "last": 295.47,
     "base_date": "2026-08-13",
     "last_date": "2026-08-14"
    }
@@ -477,9 +493,9 @@
    "reason": "Lawsuit over Truth Social access monetization threatens DJT revenue model and reputation",
    "price_since": {
     "ticker": "DJT",
-    "pct": 0.7,
+    "pct": 1.1,
     "base": 8.3,
-    "last": 8.36,
+    "last": 8.39,
     "base_date": "2026-08-13",
     "last_date": "2026-08-14"
    }
@@ -501,9 +517,9 @@
    "reason": "Truth Social sued over paid access; unclear near-term profit/loss impact on Trump Media",
    "price_since": {
     "ticker": "DJT",
-    "pct": 0.7,
+    "pct": 1.1,
     "base": 8.3,
-    "last": 8.36,
+    "last": 8.39,
     "base_date": "2026-08-13",
     "last_date": "2026-08-14"
    }
@@ -525,9 +541,9 @@
    "reason": "Trump explicitly lauds Citi's M&A comeback; direct praise of named company bullish.",
    "price_since": {
     "ticker": "C",
-    "pct": 0.3,
+    "pct": -0.0,
     "base": 138.73,
-    "last": 139.14,
+    "last": 138.67,
     "base_date": "2026-08-13",
     "last_date": "2026-08-14"
    }
@@ -549,9 +565,9 @@
    "reason": "Trump explicitly lauds Citigroup's comeback and M&A activity, directly praising a named public company.",
    "price_since": {
     "ticker": "C",
-    "pct": 0.3,
+    "pct": -0.0,
     "base": 138.73,
-    "last": 139.14,
+    "last": 138.67,
     "base_date": "2026-08-13",
     "last_date": "2026-08-14"
    }
@@ -573,9 +589,9 @@
    "reason": "Profit-from-policy-access controversy creates regulatory/reputational risk for DJT; unclear if bullish or bearish",
    "price_since": {
     "ticker": "DJT",
-    "pct": 0.7,
+    "pct": 1.1,
     "base": 8.3,
-    "last": 8.36,
+    "last": 8.39,
     "base_date": "2026-08-13",
     "last_date": "2026-08-14"
    }
@@ -597,9 +613,9 @@
    "reason": "Oil & gas lease activity shows sector interest; modest bullish for energy but not a Trump action.",
    "price_since": {
     "ticker": "XLE",
-    "pct": 1.4,
+    "pct": 1.5,
     "base": 61.03,
-    "last": 61.91,
+    "last": 61.94,
     "base_date": "2026-08-12",
     "last_date": "2026-08-14"
    }
@@ -2781,31 +2797,6 @@
    "primary_ticker": "INTC",
    "strength": 60,
    "reason": "Trump administration support for Intel semiconductor foundry/subsidies; tailwind for chip sector leadership"
-  },
-  {
-   "date": "2026-08-06T20:38:27.627Z",
-   "platform": "Truth Social",
-   "text": "Trump allies push to arm president with new tariff weapon to punish countries 'ripping off' America: https://www.foxnews.com/politics/trump-allies-push-arm-president-new-tariff-weapon-punish-countries-ripping-off-america",
-   "tickers": [
-    "SPY"
-   ],
-   "engagement": 5687,
-   "url": "https://truthsocial.com/@realDonaldTrump/117050488103108270",
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "SPY",
-   "strength": 45,
-   "reason": "New tariff weapon announcement suggests potential trade restrictions ahead, which typically bearish for broad equities.",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": 0.6,
-    "base": 768.56,
-    "last": 773.26,
-    "base_date": "2026-08-06",
-    "last_date": "2026-08-07"
-   }
   },
   {
    "curated": true,
