@@ -1,7 +1,55 @@
 {
- "last_updated": "2026-08-14T11:57:30Z",
+ "last_updated": "2026-08-14T13:17:44Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-08-14T11:44:57Z",
+   "platform": "News",
+   "text": "Reddit surges on S&P 500 inclusion, set to replace AvalonBay - CTV News \u2014 Reddit surges on S&P 500 inclusion, set to replace AvalonBay\u00a0\u00a0CTV News",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYVY0YTJDNk5TUlZ3bTYwYzRfVHBObDJKSkVkVGRiNUNZZVY1bTBYVmp1Z283UV9zVDhzR2N3RUFHd2Y0VmJDcGszdU9uQUV2ajhvX3J4TVhGeDR2VE1nbF9mMGt6cGxNX28zNkEzV3Fad3QxWTFOaTc4THZsUTNXb3JKekpVY25wdGJzNFFXNHl5YzZOemljVlJzcDF6ZEtZ?oc=5",
+   "tickers": [
+    "RDDT"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "RDDT",
+   "strength": 65,
+   "reason": "S&P 500 inclusion typically bullish for the stock; index inclusion drives inflows"
+  },
+  {
+   "date": "2026-08-14T11:33:50Z",
+   "platform": "News",
+   "text": "White House Slaps Tariffs On Imported Drones\u2014Shares Of Trump Jr.-Linked Drone Maker Soar - Forbes \u2014 White House Slaps Tariffs On Imported Drones\u2014Shares Of Trump Jr.-Linked Drone Maker Soar\u00a0\u00a0Forbes",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOS2VfTlBxMkdseHlsZ0lOdElVbGRoNVpCYUltMmNpUDd2Mkl6akFDdHowSTJpdzBpcVRPcnBqQUxfWG1zRmxiRGx4MkxZVGZrX09YaWtNUy13VHd3V202dDVUcnFmcFJraUdLeUc4ZzhFcWpVbElDeHhJU24xdGI5X3ZmQkJ3MEdaaUtYLXFMM0I5RktfUmlqTlFJX0xMcURnSmhOWWduRnRFVXNYdTF0am9BZWtnNTUtS0I2TnFFRTA2RGxrX3RqeDdNSE1xNHhTY2c0VmVRclM?oc=5",
+   "tickers": [
+    "XLE"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "XLE",
+   "strength": 72,
+   "reason": "Drone tariffs protect domestic maker; energy/defense beneficiary, bullish for sector"
+  },
+  {
+   "date": "2026-08-14T10:38:53Z",
+   "platform": "News",
+   "text": "DVLT Stock Tumbles Pre-Market On Discounted Offering \u2013 Retail Slams The Move, Calling It \u2018Self-Inflicted Pain\u2019 - Stocktwits \u2014 DVLT Stock Tumbles Pre-Market On Discounted Offering \u2013 Retail Slams The Move, Calling It \u2018Self-Inflicted Pain\u2019\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVUx3aGVQUk9NNklvanl0M0xObG44aVBxc0FCaTNESVRBUm14b05yTHExSnNIeGNrWVpXTkxhSmU2S0xZaUhTRHBvRVYtS1ZqTGNNVnpYSHVKSG85WG1jeWdmMXdZZ1pUV0h1YlNBaWlyZkFJVmRuR25PMGxJRGlKTi04U29DSHMxOEplQW9ZbmZqamluSEduUGR6cUc1WmlfbU5TbUJB?oc=5",
+   "tickers": [
+    "DVLT"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "DVLT",
+   "strength": 55,
+   "reason": "Discounted stock offering dilutes existing shareholders; bearish signal"
+  },
   {
    "date": "2026-08-14T09:38:05Z",
    "platform": "News",
@@ -102,22 +150,6 @@
   {
    "date": "2026-08-13T21:20:10Z",
    "platform": "News",
-   "text": "DVLT Stock Tumbles Pre-Market On Discounted Offering \u2013 Retail Slams The Move, Calling It \u2018Self-Inflicted Pain\u2019 - Stocktwits \u2014 DVLT Stock Tumbles Pre-Market On Discounted Offering \u2013 Retail Slams The Move, Calling It \u2018Self-Inflicted Pain\u2019\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVUx3aGVQUk9NNklvanl0M0xObG44aVBxc0FCaTNESVRBUm14b05yTHExSnNIeGNrWVpXTkxhSmU2S0xZaUhTRHBvRVYtS1ZqTGNNVnpYSHVKSG85WG1jeWdmMXdZZ1pUV0h1YlNBaWlyZkFJVmRuR25PMGxJRGlKTi04U29DSHMxOEplQW9ZbmZqamluSEduUGR6cUc1WmlfbU5TbUJB?oc=5",
-   "tickers": [
-    "DVLT"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "DVLT",
-   "strength": 45,
-   "reason": "Discounted equity offering causes stock tumble; dilution is bearish."
-  },
-  {
-   "date": "2026-08-13T21:20:10Z",
-   "platform": "News",
    "text": "DVLT Stock Tumbles Pre-Market On Discounted Offering \u2013 Retail Slams The Move, Calling It \u2018Self-Inflicted Pain\u2019 - stocktwits.com \u2014 DVLT Stock Tumbles Pre-Market On Discounted Offering \u2013 Retail Slams The Move, Calling It \u2018Self-Inflicted Pain\u2019\u00a0\u00a0stocktwits.com",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVUx3aGVQUk9NNklvanl0M0xObG44aVBxc0FCaTNESVRBUm14b05yTHExSnNIeGNrWVpXTkxhSmU2S0xZaUhTRHBvRVYtS1ZqTGNNVnpYSHVKSG85WG1jeWdmMXdZZ1pUV0h1YlNBaWlyZkFJVmRuR25PMGxJRGlKTi04U29DSHMxOEplQW9ZbmZqamluSEduUGR6cUc1WmlfbU5TbUJB?oc=5",
    "tickers": [
@@ -130,6 +162,22 @@
    "primary_ticker": "DVLT",
    "strength": 55,
    "reason": "Discounted stock offering typically bearish for existing shareholders."
+  },
+  {
+   "date": "2026-08-13T20:23:35Z",
+   "platform": "News",
+   "text": "Michael Dell Fifth Richest in World as Dell Stock Climbs to New Highs: Gain of $106 Billion in 2026 Trails Only Musk - Benzinga \u2014 Michael Dell Fifth Richest in World as Dell Stock Climbs to New Highs: Gain of $106 Billion in 2026 Trails Only Musk\u00a0\u00a0Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPSjhUNXkyWlFUYlUwdWZfUlp2MFZqM2hwcl9obWx6LU14bVZlWm11TVZub3NiSVpJREF0b0ZNZW9XOGhkVmFCUjZVSE9xNXpvTzdXMVc0MVgtRXJwU3Z3bXptTHRvOUJoSnVydzZlMDEyUFlDOVY1YnZfZDhuOVFCTVdFZFoySWpueEcyclZUSHlxOGZieFJ4cXA1VEJkQjgyR3lTc1Bhem5RcHFNcmwzXzMtRmRDc0RVbk00bWFnVkVaeC10aWV2SXFZQTBMVHhRdHdmblU2UXJaMVZmc091VnVwdHA0VjNkUFhReU81aTJCTmozWUlQTXZPbENXN3RjQzh0MUdn?oc=5",
+   "tickers": [
+    "DELL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "DELL",
+   "strength": 45,
+   "reason": "Dell stock at new highs; wealth gain report confirms momentum"
   },
   {
    "date": "2026-08-13T18:44:47Z",
@@ -179,6 +227,22 @@
    "primary_ticker": "DJT",
    "strength": 35,
    "reason": "Demand for transparency on Trump's stock trading; suggests market concern about his trading patterns and potential conflicts."
+  },
+  {
+   "date": "2026-08-13T15:04:08Z",
+   "platform": "News",
+   "text": "Jamie Dimon Warns Inflation Ticking Up Is 'Not Good' \u2014 Praises Trump's 'One Big Beautiful Bill,' Deregulation Push To Stimulate Economic Growth - Stocktwits \u2014 Jamie Dimon Warns Inflation Ticking Up Is 'Not Good' \u2014 Praises Trump's 'One Big Beautiful Bill,' Deregulation Push To Stimulate Economic Growth\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNT0doNFRsMDktVlctR3pFZkNTc2g5WUNfanZvQktOVkdOTkRsQmZPdGZpSmVCQ3dlY1l1VXdQekRaNmg5VFhCQjAtLUd0czB5X0RGdTVPNEs5VUxOQ2Y0Vk9LU00wdDlKQ3hYekEySzRXVWlsajl3RHpESVV3SUdObTVlNlZ1UnJJSHVXb2thclRfaGlPLWNHY2JzczlfTWhKeUlBS3EyTlg3SXRpQ19mSWhGNnZkWjI0eWYydmNUNl9aTDB1Y2hzWFdMT05CanFLVkVZa2Zsc05MUQ?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "SPY",
+   "strength": 68,
+   "reason": "Dimon praises deregulation & pro-growth policy; broad market bullish signal"
   },
   {
    "date": "2026-08-13T13:00:54Z",
@@ -2637,54 +2701,6 @@
     "base": 319.53,
     "last": 328.58,
     "base_date": "2026-08-06",
-    "last_date": "2026-08-07"
-   }
-  },
-  {
-   "date": "2026-08-06T03:10:54Z",
-   "platform": "News",
-   "text": "Trump Touts Inflation Decline, Praises Elon Musk and Blasts Canada's Nasty Leadership - sahi.com \u2014 Trump Touts Inflation Decline, Praises Elon Musk and Blasts Canada's Nasty Leadership\u00a0\u00a0sahi.com",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZ3lvYlNlOTNLZThWOHhuSWZ2cjU1cjI0WHN2QjF5NzF0UjQtYUlLUThxMk1nZDMzVWJtSDYwVjZYU2c4VllvaWdBamlNQjVsaWQxZ1Z2anhZR1B3RVFLNk5iVFJvdkloY0dWMV9YMHlZOU9GbG0zTjhTV0dWNFVyZnFfMHY1MzJ5U3R3QXlSZmFGUHl1MkpJd3ZTRHRBcDhlYkM2SWNKdGM0NVJGTGZ5dnNIcEtFeHhoUEdDNFlzYUc?oc=5",
-   "tickers": [
-    "TSLA"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "TSLA",
-   "strength": 50,
-   "reason": "Trump praises Elon Musk explicitly; bullish for Tesla",
-   "price_since": {
-    "ticker": "TSLA",
-    "pct": 2.8,
-    "base": 319.53,
-    "last": 328.58,
-    "base_date": "2026-08-06",
-    "last_date": "2026-08-07"
-   }
-  },
-  {
-   "date": "2026-08-05T23:23:36Z",
-   "platform": "News",
-   "text": "KEEL Stock Jumps Onto Retail Radar As Investors Eye First Data Center Lease Announcement - stocktwits.com \u2014 KEEL Stock Jumps Onto Retail Radar As Investors Eye First Data Center Lease Announcement\u00a0\u00a0stocktwits.com",
-   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVHpiUDN5T2I5aVFzNkpxZGZjdUJEVG0xLXN0c3pVRWo2REVuRGNZTFpvLXJTT2luZVhnTC1iVmFtcFYxbkpnanphZ3E0N0ExWmx5UGh4cGw2QmRiQXl3RG81OWlKRnEwOHVHT0FWdXlGd2VIZVhjM1k2TTU0THctQ3cyUVhNNG9JcGJQMlhPVHdWbkFVSVpfR25lNzVCMTJ4cGZRR05JcnR2SWFvSGc1VnYyMzFMMnFDLURZLW5pMGk3UUwyWktaVVNmZUdDZ21QZGQ0bEZfU0o1LXRvREhFd3h2NXBTMjQ?oc=5",
-   "tickers": [
-    "KEEL"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "KEEL",
-   "strength": 35,
-   "reason": "KEEL data center announcement attracting retail interest; speculative signal without Trump catalyst detail.",
-   "price_since": {
-    "ticker": "KEEL",
-    "pct": -1.3,
-    "base": 3.93,
-    "last": 3.88,
-    "base_date": "2026-08-05",
     "last_date": "2026-08-07"
    }
   },
