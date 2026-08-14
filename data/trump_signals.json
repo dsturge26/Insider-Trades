@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-08-14T11:08:07Z",
+ "last_updated": "2026-08-14T11:57:30Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-08-14T09:38:05Z",
+   "platform": "News",
+   "text": "Nasdaq, S&P 500 Futures Rebound As Micron Rally Lifts Chip Stocks: Why SPCX, QCOM, TSM, BABA, PLTR, CBRS, WEN, IBRX Are In Focus - Stocktwits \u2014 Nasdaq, S&P 500 Futures Rebound As Micron Rally Lifts Chip Stocks: Why SPCX, QCOM, TSM, BABA, PLTR, CBRS, WEN, IBRX Are In Focus\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQZjEyUjNpdUFBSU1TbzlQNmpzSV9LcDA3cDJHcDdWRWdmN0pqa2Nma3lfdEdJdmM2eGwtUE9PMTdqYUh1bno4cC04b3lUUVNGMEVlY0xYMTRZODJHREltVkNSYzlsbnJFd0RMdjQ4X0lDSWZRM1pfR0RJYTdPbl9UYThhRUhtdU91T2NsSVJqQlBCT2J2YmNXbXFWV1BQdkkyMVZmM0NwLXRGWk52WmRUeU9CZzRnalNQX3BMWmQ3VEpYMUE3RVhaTWNNOElQTllMR1NVYnUtWVFIbHh4a25heWJjWjZfNjdoT1d2eFhhTnlHN3dTVU05MnhGZGxHZTRpWm1xc2o0MEdSZw?oc=5",
+   "tickers": [
+    "SMH"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "SMH",
+   "strength": 45,
+   "reason": "Micron rally and chip sector strength lifts semiconductor ETF; broad positive momentum on chipmakers"
+  },
   {
    "date": "2026-08-14T08:35:53Z",
    "platform": "News",
@@ -2671,38 +2687,6 @@
     "base_date": "2026-08-05",
     "last_date": "2026-08-07"
    }
-  },
-  {
-   "date": "2026-08-05T17:48:32Z",
-   "platform": "News",
-   "text": "Mike Lindell resigns as MyPillow CEO to focus on campaign - newsnationnow.com \u2014 Mike Lindell resigns as MyPillow CEO to focus on campaign\u00a0\u00a0newsnationnow.com",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5fVkhWOHQ2ajV2UUcwaEYyRFlDdER6bGxyTlBVNUhfRU5RbTM2MmE4U2FJQ041dlVGU2VheGlCOUpFQVRWV3lyX0tFNHFVYnVfMThZLVdIXzdsVHg0YV83QVA5VjZhMmo1TUJMQXFSQTJmLTgwbEI4Qk9zR2JOQdIBgwFBVV95cUxQRkdtLTVybDB3N2k1Z2pQZTlrcGJRU0JJTTItOG90QThEekRESnVKRDRJWV9jMGVaWmpPTzd1OG4yeEdDUlRIX01XWEJJSnhySHBmU1JybkN0RDFqSVJUVXExcG04TU1ILVp5WGRvaTZMbWN0Wjl0MnRpMExIUUloV3hSRQ?oc=5",
-   "tickers": [
-    "MYPL"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "MYPL",
-   "strength": 45,
-   "reason": "Mike Lindell resigns as CEO to focus on campaign; leadership departure negative for MyPillow operations"
-  },
-  {
-   "date": "2026-08-05T17:48:32Z",
-   "platform": "News",
-   "text": "Mike Lindell resigns as MyPillow CEO to focus on campaign - NewsNation \u2014 Mike Lindell resigns as MyPillow CEO to focus on campaign\u00a0\u00a0NewsNation",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5fVkhWOHQ2ajV2UUcwaEYyRFlDdER6bGxyTlBVNUhfRU5RbTM2MmE4U2FJQ041dlVGU2VheGlCOUpFQVRWV3lyX0tFNHFVYnVfMThZLVdIXzdsVHg0YV83QVA5VjZhMmo1TUJMQXFSQTJmLTgwbEI4Qk9zR2JOQdIBgwFBVV95cUxQRkdtLTVybDB3N2k1Z2pQZTlrcGJRU0JJTTItOG90QThEekRESnVKRDRJWV9jMGVaWmpPTzd1OG4yeEdDUlRIX01XWEJJSnhySHBmU1JybkN0RDFqSVJUVXExcG04TU1ILVp5WGRvaTZMbWN0Wjl0MnRpMExIUUloV3hSRQ?oc=5",
-   "tickers": [
-    "MYRRL"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "MYRRL",
-   "strength": 40,
-   "reason": "Trump-linked executive leaving CEO role for political focus; CEO transition may weigh on operations"
   },
   {
    "curated": true,
