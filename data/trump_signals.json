@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-14T13:17:44Z",
+ "last_updated": "2026-08-14T14:30:31Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -113,7 +113,15 @@
    "direction": "BUY",
    "primary_ticker": "SMH",
    "strength": 45,
-   "reason": "SK Hynix and Micron DRAM news; semiconductor sector strength ahead of earnings."
+   "reason": "SK Hynix and Micron DRAM news; semiconductor sector strength ahead of earnings.",
+   "price_since": {
+    "ticker": "SMH",
+    "pct": -0.6,
+    "base": 589.12,
+    "last": 585.57,
+    "base_date": "2026-08-13",
+    "last_date": "2026-08-14"
+   }
   },
   {
    "date": "2026-08-13T22:38:59Z",
@@ -129,7 +137,15 @@
    "direction": "BUY",
    "primary_ticker": "SMH",
    "strength": 45,
-   "reason": "SK Hynix and Micron semiconductor strength signals positive momentum in DRAM/chip sector."
+   "reason": "SK Hynix and Micron semiconductor strength signals positive momentum in DRAM/chip sector.",
+   "price_since": {
+    "ticker": "SMH",
+    "pct": -0.6,
+    "base": 589.12,
+    "last": 585.57,
+    "base_date": "2026-08-13",
+    "last_date": "2026-08-14"
+   }
   },
   {
    "date": "2026-08-13T22:37:34Z",
@@ -145,7 +161,15 @@
    "direction": "WATCH",
    "primary_ticker": "QCOM",
    "strength": 45,
-   "reason": "Trump China visit with QCOM executives suggests potential trade/policy development; direction ambiguous"
+   "reason": "Trump China visit with QCOM executives suggests potential trade/policy development; direction ambiguous",
+   "price_since": {
+    "ticker": "QCOM",
+    "pct": 0.5,
+    "base": 164.79,
+    "last": 165.54,
+    "base_date": "2026-08-13",
+    "last_date": "2026-08-14"
+   }
   },
   {
    "date": "2026-08-13T21:20:10Z",
@@ -161,7 +185,15 @@
    "direction": "SELL",
    "primary_ticker": "DVLT",
    "strength": 55,
-   "reason": "Discounted stock offering typically bearish for existing shareholders."
+   "reason": "Discounted stock offering typically bearish for existing shareholders.",
+   "price_since": {
+    "ticker": "DVLT",
+    "pct": 3.1,
+    "base": 0.32,
+    "last": 0.33,
+    "base_date": "2026-08-13",
+    "last_date": "2026-08-14"
+   }
   },
   {
    "date": "2026-08-13T20:23:35Z",
@@ -177,7 +209,15 @@
    "direction": "BUY",
    "primary_ticker": "DELL",
    "strength": 45,
-   "reason": "Dell stock at new highs; wealth gain report confirms momentum"
+   "reason": "Dell stock at new highs; wealth gain report confirms momentum",
+   "price_since": {
+    "ticker": "DELL",
+    "pct": -0.6,
+    "base": 494.51,
+    "last": 491.74,
+    "base_date": "2026-08-13",
+    "last_date": "2026-08-14"
+   }
   },
   {
    "date": "2026-08-13T18:44:47Z",
@@ -193,7 +233,15 @@
    "direction": "WATCH",
    "primary_ticker": "DJT",
    "strength": 35,
-   "reason": "Report of high stock trading volume linked to Trump; potential insider trading concern or market speculation about his positions."
+   "reason": "Report of high stock trading volume linked to Trump; potential insider trading concern or market speculation about his positions.",
+   "price_since": {
+    "ticker": "DJT",
+    "pct": 0.6,
+    "base": 8.3,
+    "last": 8.35,
+    "base_date": "2026-08-13",
+    "last_date": "2026-08-14"
+   }
   },
   {
    "date": "2026-08-13T18:38:49.507Z",
@@ -210,7 +258,15 @@
    "direction": "BUY",
    "primary_ticker": "SPY",
    "strength": 45,
-   "reason": "Closing de minimis loophole increases tariff revenue collection, modest tailwind for broad market and importers"
+   "reason": "Closing de minimis loophole increases tariff revenue collection, modest tailwind for broad market and importers",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": -0.1,
+    "base": 777.88,
+    "last": 777.08,
+    "base_date": "2026-08-13",
+    "last_date": "2026-08-14"
+   }
   },
   {
    "date": "2026-08-13T17:25:21Z",
@@ -226,7 +282,15 @@
    "direction": "WATCH",
    "primary_ticker": "DJT",
    "strength": 35,
-   "reason": "Demand for transparency on Trump's stock trading; suggests market concern about his trading patterns and potential conflicts."
+   "reason": "Demand for transparency on Trump's stock trading; suggests market concern about his trading patterns and potential conflicts.",
+   "price_since": {
+    "ticker": "DJT",
+    "pct": 0.6,
+    "base": 8.3,
+    "last": 8.35,
+    "base_date": "2026-08-13",
+    "last_date": "2026-08-14"
+   }
   },
   {
    "date": "2026-08-13T15:04:08Z",
@@ -242,7 +306,15 @@
    "direction": "BUY",
    "primary_ticker": "SPY",
    "strength": 68,
-   "reason": "Dimon praises deregulation & pro-growth policy; broad market bullish signal"
+   "reason": "Dimon praises deregulation & pro-growth policy; broad market bullish signal",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": -0.1,
+    "base": 777.88,
+    "last": 777.09,
+    "base_date": "2026-08-13",
+    "last_date": "2026-08-14"
+   }
   },
   {
    "date": "2026-08-13T13:00:54Z",
@@ -258,7 +330,15 @@
    "direction": "WATCH",
    "primary_ticker": "DG",
    "strength": 20,
-   "reason": "Retailer earnings risk in cautious economic environment; direction ambiguous."
+   "reason": "Retailer earnings risk in cautious economic environment; direction ambiguous.",
+   "price_since": {
+    "ticker": "DG",
+    "pct": 1.5,
+    "base": 122.08,
+    "last": 123.88,
+    "base_date": "2026-08-13",
+    "last_date": "2026-08-14"
+   }
   },
   {
    "date": "2026-08-13T12:00:01Z",
@@ -274,7 +354,15 @@
    "direction": "WATCH",
    "primary_ticker": "DJT",
    "strength": 35,
-   "reason": "Report of demand to disclose stock managers and trading practices; raises governance/transparency concerns affecting his company."
+   "reason": "Report of demand to disclose stock managers and trading practices; raises governance/transparency concerns affecting his company.",
+   "price_since": {
+    "ticker": "DJT",
+    "pct": 0.6,
+    "base": 8.3,
+    "last": 8.35,
+    "base_date": "2026-08-13",
+    "last_date": "2026-08-14"
+   }
   },
   {
    "date": "2026-08-13T09:20:56Z",
@@ -290,7 +378,15 @@
    "direction": "BUY",
    "primary_ticker": "QTEX",
    "strength": 35,
-   "reason": "Stock more than doubles pre-market; positive momentum but reason for rally unclear."
+   "reason": "Stock more than doubles pre-market; positive momentum but reason for rally unclear.",
+   "price_since": {
+    "ticker": "QTEX",
+    "pct": -4.0,
+    "base": 1.0,
+    "last": 0.96,
+    "base_date": "2026-08-13",
+    "last_date": "2026-08-14"
+   }
   },
   {
    "date": "2026-08-13T09:20:56Z",
@@ -306,7 +402,15 @@
    "direction": "WATCH",
    "primary_ticker": "QTEX",
    "strength": 35,
-   "reason": "Stock doubles pre-market but reason unspecified; ambiguous if Trump-related or fundamentals-driven."
+   "reason": "Stock doubles pre-market but reason unspecified; ambiguous if Trump-related or fundamentals-driven.",
+   "price_since": {
+    "ticker": "QTEX",
+    "pct": -4.0,
+    "base": 1.0,
+    "last": 0.96,
+    "base_date": "2026-08-13",
+    "last_date": "2026-08-14"
+   }
   },
   {
    "date": "2026-08-13T06:29:11Z",
@@ -322,7 +426,15 @@
    "direction": "BUY",
    "primary_ticker": "XAR",
    "strength": 70,
-   "reason": "Trump signals exit from Iran war; defense/conflict de-escalation bullish for defense stocks and broad market"
+   "reason": "Trump signals exit from Iran war; defense/conflict de-escalation bullish for defense stocks and broad market",
+   "price_since": {
+    "ticker": "XAR",
+    "pct": 1.2,
+    "base": 292.1,
+    "last": 295.57,
+    "base_date": "2026-08-13",
+    "last_date": "2026-08-14"
+   }
   },
   {
    "date": "2026-08-13T04:29:06Z",
@@ -338,7 +450,15 @@
    "direction": "SELL",
    "primary_ticker": "DJT",
    "strength": 35,
-   "reason": "Lawsuit over Truth Social access monetization threatens DJT revenue model and reputation"
+   "reason": "Lawsuit over Truth Social access monetization threatens DJT revenue model and reputation",
+   "price_since": {
+    "ticker": "DJT",
+    "pct": 0.6,
+    "base": 8.3,
+    "last": 8.35,
+    "base_date": "2026-08-13",
+    "last_date": "2026-08-14"
+   }
   },
   {
    "date": "2026-08-13T03:42:00Z",
@@ -354,7 +474,15 @@
    "direction": "WATCH",
    "primary_ticker": "DJT",
    "strength": 25,
-   "reason": "Truth Social sued over paid access; unclear near-term profit/loss impact on Trump Media"
+   "reason": "Truth Social sued over paid access; unclear near-term profit/loss impact on Trump Media",
+   "price_since": {
+    "ticker": "DJT",
+    "pct": 0.6,
+    "base": 8.3,
+    "last": 8.35,
+    "base_date": "2026-08-13",
+    "last_date": "2026-08-14"
+   }
   },
   {
    "date": "2026-08-13T02:14:41Z",
@@ -370,7 +498,15 @@
    "direction": "BUY",
    "primary_ticker": "C",
    "strength": 70,
-   "reason": "Trump explicitly lauds Citi's M&A comeback; direct praise of named company bullish."
+   "reason": "Trump explicitly lauds Citi's M&A comeback; direct praise of named company bullish.",
+   "price_since": {
+    "ticker": "C",
+    "pct": 0.5,
+    "base": 138.73,
+    "last": 139.4,
+    "base_date": "2026-08-13",
+    "last_date": "2026-08-14"
+   }
   },
   {
    "date": "2026-08-13T00:58:05Z",
@@ -386,7 +522,15 @@
    "direction": "BUY",
    "primary_ticker": "C",
    "strength": 70,
-   "reason": "Trump explicitly lauds Citigroup's comeback and M&A activity, directly praising a named public company."
+   "reason": "Trump explicitly lauds Citigroup's comeback and M&A activity, directly praising a named public company.",
+   "price_since": {
+    "ticker": "C",
+    "pct": 0.5,
+    "base": 138.73,
+    "last": 139.4,
+    "base_date": "2026-08-13",
+    "last_date": "2026-08-14"
+   }
   },
   {
    "date": "2026-08-13T00:49:15Z",
@@ -402,7 +546,15 @@
    "direction": "WATCH",
    "primary_ticker": "DJT",
    "strength": 40,
-   "reason": "Profit-from-policy-access controversy creates regulatory/reputational risk for DJT; unclear if bullish or bearish"
+   "reason": "Profit-from-policy-access controversy creates regulatory/reputational risk for DJT; unclear if bullish or bearish",
+   "price_since": {
+    "ticker": "DJT",
+    "pct": 0.6,
+    "base": 8.3,
+    "last": 8.35,
+    "base_date": "2026-08-13",
+    "last_date": "2026-08-14"
+   }
   },
   {
    "date": "2026-08-12T23:47:17Z",
@@ -421,11 +573,11 @@
    "reason": "Oil & gas lease activity shows sector interest; modest bullish for energy but not a Trump action.",
    "price_since": {
     "ticker": "XLE",
-    "pct": 0.0,
+    "pct": 1.6,
     "base": 61.03,
-    "last": 61.06,
+    "last": 62.01,
     "base_date": "2026-08-12",
-    "last_date": "2026-08-13"
+    "last_date": "2026-08-14"
    }
   },
   {
@@ -446,11 +598,11 @@
    "reason": "Daylight Saving Time permanence reduces business friction and health costs; modest pro-growth sentiment.",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.7,
+    "pct": 0.6,
     "base": 772.49,
-    "last": 777.88,
+    "last": 777.07,
     "base_date": "2026-08-12",
-    "last_date": "2026-08-13"
+    "last_date": "2026-08-14"
    }
   },
   {
@@ -470,11 +622,11 @@
    "reason": "Legal challenge to Truth Social API; regulatory risk for Trump Media",
    "price_since": {
     "ticker": "DJT",
-    "pct": 0.4,
+    "pct": 1.0,
     "base": 8.27,
-    "last": 8.3,
+    "last": 8.35,
     "base_date": "2026-08-12",
-    "last_date": "2026-08-13"
+    "last_date": "2026-08-14"
    }
   },
   {
@@ -494,11 +646,11 @@
    "reason": "On Holdings share decline tied to Americas sportswear slowdown; bearish for the company but fundamentals-driven, not Trump-linked.",
    "price_since": {
     "ticker": "ONON",
-    "pct": 1.9,
+    "pct": 4.9,
     "base": 31.01,
-    "last": 31.59,
+    "last": 32.53,
     "base_date": "2026-08-12",
-    "last_date": "2026-08-13"
+    "last_date": "2026-08-14"
    }
   },
   {
@@ -534,11 +686,11 @@
    "reason": "Retrospective commentary on Trump's stock picks; ambiguous direction, no actionable signal",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.7,
+    "pct": 0.6,
     "base": 772.49,
-    "last": 777.88,
+    "last": 777.1,
     "base_date": "2026-08-12",
-    "last_date": "2026-08-13"
+    "last_date": "2026-08-14"
    }
   },
   {
@@ -558,11 +710,11 @@
    "reason": "Trump capital gains tax cut plan bullish for equities and wealth holders; pro-market policy",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.7,
+    "pct": 0.6,
     "base": 772.49,
-    "last": 777.88,
+    "last": 777.1,
     "base_date": "2026-08-12",
-    "last_date": "2026-08-13"
+    "last_date": "2026-08-14"
    }
   },
   {
@@ -583,11 +735,11 @@
    "reason": "US control of Strait of Hormuz strengthens oil supply security, bullish for energy sector",
    "price_since": {
     "ticker": "XLE",
-    "pct": 0.0,
+    "pct": 1.6,
     "base": 61.03,
-    "last": 61.06,
+    "last": 62.01,
     "base_date": "2026-08-12",
-    "last_date": "2026-08-13"
+    "last_date": "2026-08-14"
    }
   },
   {
@@ -2627,79 +2779,6 @@
     "pct": 0.6,
     "base": 768.56,
     "last": 773.26,
-    "base_date": "2026-08-06",
-    "last_date": "2026-08-07"
-   }
-  },
-  {
-   "date": "2026-08-06T12:31:46Z",
-   "platform": "News",
-   "text": "Trump Media & Technology Group Corp. (DJT) Stock Price, News, Quote & History - ca.finance.yahoo.com \u2014 Trump Media & Technology Group Corp. (DJT) Stock Price, News, Quote & History\u00a0\u00a0ca.finance.yahoo.com",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1QelBrZFExLUtrMFhUa3ZRTUNHeGdISDc4bmNicFZXUVJtMlJucDI1T3VveFJpelYzTlpMVV9XbDFfdFQ2Mkc4QTJxZS1VdHZi?oc=5",
-   "tickers": [
-    "DJT"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "DJT",
-   "strength": 10,
-   "reason": "Financial information page for Trump's company; neutral reference only",
-   "price_since": {
-    "ticker": "DJT",
-    "pct": 3.2,
-    "base": 9.89,
-    "last": 10.21,
-    "base_date": "2026-08-06",
-    "last_date": "2026-08-07"
-   }
-  },
-  {
-   "date": "2026-08-06T04:34:50.305Z",
-   "platform": "Truth Social",
-   "text": "The U.S. has massive amounts of \"munitions,\" especially of certain types. Additionally, large amounts are being manufactured and shipped to the U.S. as needed. Defense companies are building the largest number of plants and factories in our country's history. The \"leakers\" of these treasonous statements are being hunted down. Long term jail sentences will be sought! President DJT",
-   "tickers": [
-    "XAR"
-   ],
-   "engagement": 2411,
-   "url": "https://truthsocial.com/@realDonaldTrump/117046698987056229",
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "XAR",
-   "strength": 65,
-   "reason": "Defense manufacturing expansion and munitions production boost military-industrial demand",
-   "price_since": {
-    "ticker": "XAR",
-    "pct": 1.4,
-    "base": 282.91,
-    "last": 286.83,
-    "base_date": "2026-08-06",
-    "last_date": "2026-08-07"
-   }
-  },
-  {
-   "date": "2026-08-06T03:10:54Z",
-   "platform": "News",
-   "text": "Trump Touts Inflation Decline, Praises Elon Musk and Blasts Canada's Nasty Leadership - Sahi \u2014 Trump Touts Inflation Decline, Praises Elon Musk and Blasts Canada's Nasty Leadership\u00a0\u00a0Sahi",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZ3lvYlNlOTNLZThWOHhuSWZ2cjU1cjI0WHN2QjF5NzF0UjQtYUlLUThxMk1nZDMzVWJtSDYwVjZYU2c4VllvaWdBamlNQjVsaWQxZ1Z2anhZR1B3RVFLNk5iVFJvdkloY0dWMV9YMHlZOU9GbG0zTjhTV0dWNFVyZnFfMHY1MzJ5U3R3QXlSZmFGUHl1MkpJd3ZTRHRBcDhlYkM2SWNKdGM0NVJGTGZ5dnNIcEtFeHhoUEdDNFlzYUc?oc=5",
-   "tickers": [
-    "TSLA"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "TSLA",
-   "strength": 45,
-   "reason": "Trump praises Elon Musk; bullish signal on Tesla, though not an explicit stock call",
-   "price_since": {
-    "ticker": "TSLA",
-    "pct": 2.8,
-    "base": 319.53,
-    "last": 328.58,
     "base_date": "2026-08-06",
     "last_date": "2026-08-07"
    }
