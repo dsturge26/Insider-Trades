@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-14T22:49:30Z",
+ "last_updated": "2026-08-14T23:20:54Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -20,6 +20,22 @@
    "reason": "Arctic Security Cutter Icebreaker procurement for defense/maritime security is bullish for defense contractors"
   },
   {
+   "date": "2026-08-14T21:08:00Z",
+   "platform": "News",
+   "text": "Drone Stocks Rally After Trump Announces New Tariffs On Drones, Parts - Investor's Business Daily \u2014 Drone Stocks Rally After Trump Announces New Tariffs On Drones, Parts\u00a0\u00a0Investor's Business Daily",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQWh5Qm9kTjJuYUY5UF9HcDlCdXFXYXhpSGVCVHNjUWtseVc4WHRfaDlNVDE3UVBsRThCS1FaWWh5ZGF2UHVZMFhrSmhOTVlsTmR2NVA0cjAxYUdBVFRhcnpnNkdYOU5aRC1PeGlVdHFNX29jSzQ3SWdKMnFvWWxVVElBWlc3X3dNQjlCVTVJS0ZVN2wtNzFwUXprc1V1UzVmUVhJUlN3T2k3UTRuVTBJSjR1SQ?oc=5",
+   "tickers": [
+    "ITA"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "ITA",
+   "strength": 65,
+   "reason": "Trump tariffs on foreign drones boost domestic drone/aerospace sector"
+  },
+  {
    "date": "2026-08-14T16:20:11Z",
    "platform": "News",
    "text": "Ed Krassenstein: U.S. tariffs on foreign drones boost stocks tied to Trump sons - Traders Union \u2014 Ed Krassenstein: U.S. tariffs on foreign drones boost stocks tied to Trump sons\u00a0\u00a0Traders Union",
@@ -34,22 +50,6 @@
    "primary_ticker": "XLI",
    "strength": 65,
    "reason": "Tariffs on foreign drones boost domestic drone/manufacturing stocks"
-  },
-  {
-   "date": "2026-08-14T14:58:00Z",
-   "platform": "News",
-   "text": "Drone Stocks Rally After Trump Announces New Tariffs On Drones, Parts - Investor's Business Daily \u2014 Drone Stocks Rally After Trump Announces New Tariffs On Drones, Parts\u00a0\u00a0Investor's Business Daily",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQWh5Qm9kTjJuYUY5UF9HcDlCdXFXYXhpSGVCVHNjUWtseVc4WHRfaDlNVDE3UVBsRThCS1FaWWh5ZGF2UHVZMFhrSmhOTVlsTmR2NVA0cjAxYUdBVFRhcnpnNkdYOU5aRC1PeGlVdHFNX29jSzQ3SWdKMnFvWWxVVElBWlc3X3dNQjlCVTVJS0ZVN2wtNzFwUXprc1V1UzVmUVhJUlN3T2k3UTRuVTBJSjR1SQ?oc=5",
-   "tickers": [
-    "XLE"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "XLE",
-   "strength": 45,
-   "reason": "Tariffs on drones/parts announced; domestic drone makers benefit but sector unclear\u2014need to identify specific winners"
   },
   {
    "date": "2026-08-14T11:44:57Z",
@@ -464,6 +464,30 @@
     "pct": -0.7,
     "base": 494.51,
     "last": 490.81,
+    "base_date": "2026-08-13",
+    "last_date": "2026-08-14"
+   }
+  },
+  {
+   "date": "2026-08-13T20:01:46Z",
+   "platform": "News",
+   "text": "Trump Claims Iran Has Committed To No Nuclear Weapons \u2013 Says He\u2019s 'Getting Along Quite Well\u2019 With Supreme Leader Khamenei - Stocktwits \u2014 Trump Claims Iran Has Committed To No Nuclear Weapons \u2013 Says He\u2019s 'Getting Along Quite Well\u2019 With Supreme Leader Khamenei\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPb3pjU3JoNFBGcElfcTYxR2QzazdrcjRuUElqd1hIY0ZTVE1zY2RYNEFBcks5WUZrSk1MekI4TkkxUVhBZ0hVcHhWNnBzcVNZTHlxQzFTaUROaVdBclRUWEdtWnZhNkhUeDZMN3RNTmdLR18wQkZ6WmM1TGJRRkQ3Yk10SkU2d3NEcUIzVEIwNnAxM3ozcFJ6NklteTU0RzMxLVlpTVIyNGNMWDVNYlR5YzB0X3dSLUMydG5qZmVLUVVLQlJyV2ZhQkVmeWVTcXNT?oc=5",
+   "tickers": [
+    "XLE"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "XLE",
+   "strength": 50,
+   "reason": "Trump d\u00e9tente with Iran reduces geopolitical risk; oil/energy sector may stabilize",
+   "price_since": {
+    "ticker": "XLE",
+    "pct": 1.4,
+    "base": 61.06,
+    "last": 61.91,
     "base_date": "2026-08-13",
     "last_date": "2026-08-14"
    }
@@ -2758,22 +2782,6 @@
    "primary_ticker": "PLTR",
    "strength": 40,
    "reason": "Trump signals support for Palantir; bullish signal but not explicit direct call"
-  },
-  {
-   "date": "2026-08-08T06:07:01Z",
-   "platform": "News",
-   "text": "PLTR Stock Faces Split Narrative: Retail Bulls Hold Firm As Burry Sounds Alarm, Trump Signals Support - stocktwits.com \u2014 PLTR Stock Faces Split Narrative: Retail Bulls Hold Firm As Burry Sounds Alarm, Trump Signals Support\u00a0\u00a0stocktwits.com",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSFRDSVNMdHk3NEtMbFEwQ1ZRT2tLY3h1cEFvOTVjb182Qm1QUnVqTlE2dWhzYXZpaXBoN3gyNlg4dWVWY0dldndhRDZoOGE2N2ZSMTgxb1Ayb0RWanA3a0hEeEhKWGtYRENBSGZ0d0wySmlrSWpzM1BmcXZpTUdDOXcwMVl0NXVKYjMyOEFvYmVpYk9uOVRSaWdleVNEQnZkZk1tUE5vRURtNjdubE0wTUhLSFFUbGc3OUs5UVpJQXhVTHdZLTdLTmZDQVkxMUVwd3c?oc=5",
-   "tickers": [
-    "PLTR"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "PLTR",
-   "strength": 70,
-   "reason": "Trump signals support for Palantir; explicit endorsement of named company"
   },
   {
    "curated": true,
