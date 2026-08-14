@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-14T19:37:05Z",
+ "last_updated": "2026-08-14T20:14:46Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -212,9 +212,9 @@
    "reason": "SK Hynix and Micron DRAM news; semiconductor sector strength ahead of earnings.",
    "price_since": {
     "ticker": "SMH",
-    "pct": -0.5,
+    "pct": -0.2,
     "base": 589.12,
-    "last": 586.22,
+    "last": 587.82,
     "base_date": "2026-08-13",
     "last_date": "2026-08-14"
    }
@@ -236,9 +236,9 @@
    "reason": "SK Hynix and Micron semiconductor strength signals positive momentum in DRAM/chip sector.",
    "price_since": {
     "ticker": "SMH",
-    "pct": -0.5,
+    "pct": -0.2,
     "base": 589.12,
-    "last": 586.22,
+    "last": 587.82,
     "base_date": "2026-08-13",
     "last_date": "2026-08-14"
    }
@@ -260,9 +260,9 @@
    "reason": "Trump China visit with QCOM executives suggests potential trade/policy development; direction ambiguous",
    "price_since": {
     "ticker": "QCOM",
-    "pct": 0.4,
+    "pct": 0.6,
     "base": 164.79,
-    "last": 165.49,
+    "last": 165.79,
     "base_date": "2026-08-13",
     "last_date": "2026-08-14"
    }
@@ -284,9 +284,33 @@
    "reason": "QCOM near record high with executives joining Trump China visit; potential trade deal/deal-making upside",
    "price_since": {
     "ticker": "QCOM",
-    "pct": 0.4,
+    "pct": 0.6,
     "base": 164.79,
-    "last": 165.49,
+    "last": 165.79,
+    "base_date": "2026-08-13",
+    "last_date": "2026-08-14"
+   }
+  },
+  {
+   "date": "2026-08-13T21:54:19Z",
+   "platform": "News",
+   "text": "Meta's AI Workforce Academy Wins Praise From Former Trump Adviser, Ex-Facebook Exec: 'Hope More Companies Follow Suit' - Stocktwits \u2014 Meta's AI Workforce Academy Wins Praise From Former Trump Adviser, Ex-Facebook Exec: 'Hope More Companies Follow Suit'\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQU0E4QWNsTjlROXIwRTIyVHZyMTlHNHhxUndrNjlLbUxOajU2MEZIRFhHeE9xd2ZRdm9IQVMzdHlEMmU4NVBwckpvbEkyWURKRXFHMlR4Z0VWVk5qMGstTFNtVTZSNWpqVS0wWkZ3WTdEaktTd3FMUHlTRjc2M3UwZlpDY1NjeG5FZ2s2bDJVeGJiVjgwWXIzdVVOS0FhQ2E0WjNUMDIzY1ppOTdJNTJkanBEMjFzRUVzb2RBS1czdXZXVWoyb0xLcl9ycl81NG1zd0lNT0NRUmVMZVgyblRkTVlXU1ZUTENRdkJBQzdhU0VuSG9HN19jeFNna0NRVlVUN2E1blhrY0U5Zw?oc=5",
+   "tickers": [
+    "META"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "META",
+   "strength": 35,
+   "reason": "Former Trump adviser praises Meta's AI initiative; positive sentiment from Trump circle.",
+   "price_since": {
+    "ticker": "META",
+    "pct": -0.9,
+    "base": 594.97,
+    "last": 589.85,
     "base_date": "2026-08-13",
     "last_date": "2026-08-14"
    }
@@ -308,9 +332,9 @@
    "reason": "Dell stock at new highs; wealth gain report confirms momentum",
    "price_since": {
     "ticker": "DELL",
-    "pct": -1.0,
+    "pct": -0.7,
     "base": 494.51,
-    "last": 489.71,
+    "last": 490.97,
     "base_date": "2026-08-13",
     "last_date": "2026-08-14"
    }
@@ -332,9 +356,9 @@
    "reason": "Dell stock at new highs; broad market confidence, no Trump-specific action",
    "price_since": {
     "ticker": "DELL",
-    "pct": -1.0,
+    "pct": -0.7,
     "base": 494.51,
-    "last": 489.71,
+    "last": 490.97,
     "base_date": "2026-08-13",
     "last_date": "2026-08-14"
    }
@@ -356,33 +380,9 @@
    "reason": "Meta AI Workforce Academy praised by Trump adviser; slight positive sentiment for META but soft signal",
    "price_since": {
     "ticker": "META",
-    "pct": -0.7,
+    "pct": -0.9,
     "base": 594.97,
-    "last": 591.07,
-    "base_date": "2026-08-13",
-    "last_date": "2026-08-14"
-   }
-  },
-  {
-   "date": "2026-08-13T19:33:49Z",
-   "platform": "News",
-   "text": "Meta's AI Workforce Academy Wins Praise From Former Trump Adviser, Ex-Facebook Exec: 'Hope More Companies Follow Suit' - Stocktwits \u2014 Meta's AI Workforce Academy Wins Praise From Former Trump Adviser, Ex-Facebook Exec: 'Hope More Companies Follow Suit'\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQU0E4QWNsTjlROXIwRTIyVHZyMTlHNHhxUndrNjlLbUxOajU2MEZIRFhHeE9xd2ZRdm9IQVMzdHlEMmU4NVBwckpvbEkyWURKRXFHMlR4Z0VWVk5qMGstTFNtVTZSNWpqVS0wWkZ3WTdEaktTd3FMUHlTRjc2M3UwZlpDY1NjeG5FZ2s2bDJVeGJiVjgwWXIzdVVOS0FhQ2E0WjNUMDIzY1ppOTdJNTJkanBEMjFzRUVzb2RBS1czdXZXVWoyb0xLcl9ycl81NG1zd0lNT0NRUmVMZVgyblRkTVlXU1ZUTENRdkJBQzdhU0VuSG9HN19jeFNna0NRVlVUN2E1blhrY0U5Zw?oc=5",
-   "tickers": [
-    "META"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "META",
-   "strength": 30,
-   "reason": "Meta AI academy wins praise from former Trump adviser, positive sentiment",
-   "price_since": {
-    "ticker": "META",
-    "pct": -0.7,
-    "base": 594.97,
-    "last": 591.07,
+    "last": 589.85,
     "base_date": "2026-08-13",
     "last_date": "2026-08-14"
    }
@@ -404,9 +404,9 @@
    "reason": "Report of high stock trading volume linked to Trump; potential insider trading concern or market speculation about his positions.",
    "price_since": {
     "ticker": "DJT",
-    "pct": 0.7,
+    "pct": -0.4,
     "base": 8.3,
-    "last": 8.36,
+    "last": 8.27,
     "base_date": "2026-08-13",
     "last_date": "2026-08-14"
    }
@@ -431,7 +431,31 @@
     "ticker": "SPY",
     "pct": -0.2,
     "base": 777.88,
-    "last": 776.1,
+    "last": 776.32,
+    "base_date": "2026-08-13",
+    "last_date": "2026-08-14"
+   }
+  },
+  {
+   "date": "2026-08-13T17:57:10Z",
+   "platform": "News",
+   "text": "BB Stock To $10? Retail Traders Eye New Highs On QNX, Physical AI Boost - Stocktwits \u2014 BB Stock To $10? Retail Traders Eye New Highs On QNX, Physical AI Boost\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQlo3d1dSS0NHNUhSeER4LWR5di1DRFJLU2lsRWcyNlBUR2Q0TUh2MHdRcU1wZllORzVRZTkzZ0FJajRwVlEyVXBBZUZrMi1aR1hpS2dXamlRNkVSUDJXekNFRmF3TUVvVUVweFVmOEVZMUpNb1A3a2ptOHFVYkNnU3VXcWZoR0N1SnloRVpMTXMzSXRWak1rTkhoWFRwUk9iYkJ1NkJEbEstb1Z1S0dJMm5ESVRzbWZqd0FGd2xtNjRrSnRU?oc=5",
+   "tickers": [
+    "BB"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "BB",
+   "strength": 35,
+   "reason": "Retail traders eye higher targets on QNX and Physical AI momentum.",
+   "price_since": {
+    "ticker": "BB",
+    "pct": -1.1,
+    "base": 8.99,
+    "last": 8.89,
     "base_date": "2026-08-13",
     "last_date": "2026-08-14"
    }
@@ -453,9 +477,9 @@
    "reason": "Insider selling by cofounder; potential bearish sentiment signal",
    "price_since": {
     "ticker": "NFLX",
-    "pct": -0.2,
+    "pct": -0.1,
     "base": 78.24,
-    "last": 78.1,
+    "last": 78.16,
     "base_date": "2026-08-13",
     "last_date": "2026-08-14"
    }
@@ -477,9 +501,9 @@
    "reason": "Netflix cofounder insider selling; technical weakness into three-day red streak",
    "price_since": {
     "ticker": "NFLX",
-    "pct": -0.2,
+    "pct": -0.1,
     "base": 78.24,
-    "last": 78.1,
+    "last": 78.16,
     "base_date": "2026-08-13",
     "last_date": "2026-08-14"
    }
@@ -501,9 +525,9 @@
    "reason": "Demand for transparency on Trump's stock trading; suggests market concern about his trading patterns and potential conflicts.",
    "price_since": {
     "ticker": "DJT",
-    "pct": 0.7,
+    "pct": -0.4,
     "base": 8.3,
-    "last": 8.36,
+    "last": 8.27,
     "base_date": "2026-08-13",
     "last_date": "2026-08-14"
    }
@@ -525,9 +549,9 @@
    "reason": "Data center lease announcement catalyst; AI/infrastructure play",
    "price_since": {
     "ticker": "KEEL",
-    "pct": 5.4,
+    "pct": 6.0,
     "base": 3.31,
-    "last": 3.49,
+    "last": 3.51,
     "base_date": "2026-08-13",
     "last_date": "2026-08-14"
    }
@@ -549,9 +573,9 @@
    "reason": "Data center lease announcement pending; speculative retail interest but outcome unclear",
    "price_since": {
     "ticker": "KEEL",
-    "pct": 5.4,
+    "pct": 6.0,
     "base": 3.31,
-    "last": 3.49,
+    "last": 3.51,
     "base_date": "2026-08-13",
     "last_date": "2026-08-14"
    }
@@ -575,7 +599,7 @@
     "ticker": "SPY",
     "pct": -0.2,
     "base": 777.88,
-    "last": 776.09,
+    "last": 776.32,
     "base_date": "2026-08-13",
     "last_date": "2026-08-14"
    }
@@ -2313,30 +2337,6 @@
   {
    "date": "2026-08-08T18:01:16Z",
    "platform": "News",
-   "text": "BB Stock To $10? Retail Traders Eye New Highs On QNX, Physical AI Boost - Stocktwits \u2014 BB Stock To $10? Retail Traders Eye New Highs On QNX, Physical AI Boost\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQlo3d1dSS0NHNUhSeER4LWR5di1DRFJLU2lsRWcyNlBUR2Q0TUh2MHdRcU1wZllORzVRZTkzZ0FJajRwVlEyVXBBZUZrMi1aR1hpS2dXamlRNkVSUDJXekNFRmF3TUVvVUVweFVmOEVZMUpNb1A3a2ptOHFVYkNnU3VXcWZoR0N1SnloRVpMTXMzSXRWak1rTkhoWFRwUk9iYkJ1NkJEbEstb1Z1S0dJMm5ESVRzbWZqd0FGd2xtNjRrSnRU?oc=5",
-   "tickers": [
-    "BB"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "BB",
-   "strength": 35,
-   "reason": "Retail speculation on QNX/AI uplift loosely linked to Trump narrative; ambiguous direction",
-   "price_since": {
-    "ticker": "BB",
-    "pct": 1.7,
-    "base": 8.83,
-    "last": 8.98,
-    "base_date": "2026-08-10",
-    "last_date": "2026-08-11"
-   }
-  },
-  {
-   "date": "2026-08-08T18:01:16Z",
-   "platform": "News",
    "text": "BB Stock To $10? Retail Traders Eye New Highs On QNX, Physical AI Boost - stocktwits.com \u2014 BB Stock To $10? Retail Traders Eye New Highs On QNX, Physical AI Boost\u00a0\u00a0stocktwits.com",
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQlo3d1dSS0NHNUhSeER4LWR5di1DRFJLU2lsRWcyNlBUR2Q0TUh2MHdRcU1wZllORzVRZTkzZ0FJajRwVlEyVXBBZUZrMi1aR1hpS2dXamlRNkVSUDJXekNFRmF3TUVvVUVweFVmOEVZMUpNb1A3a2ptOHFVYkNnU3VXcWZoR0N1SnloRVpMTXMzSXRWak1rTkhoWFRwUk9iYkJ1NkJEbEstb1Z1S0dJMm5ESVRzbWZqd0FGd2xtNjRrSnRU?oc=5",
    "tickers": [
@@ -2786,54 +2786,6 @@
     "pct": -0.4,
     "base": 237.28,
     "last": 236.31,
-    "base_date": "2026-08-07",
-    "last_date": "2026-08-10"
-   }
-  },
-  {
-   "date": "2026-08-07T16:04:59Z",
-   "platform": "News",
-   "text": "MyPillow CEO Mike Lindell steps down to focus on Minnesota governor's race - Scripps News \u2014 MyPillow CEO Mike Lindell steps down to focus on Minnesota governor's race\u00a0\u00a0Scripps News",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSzJRZHp5aV8wNEZIaXhtVTR0Y3RmQzZHQVEtR1ZyUGgwMnFxbW5wblA0bTVYZWRsRnFLQWdTYWZMTWw0M1lxOTQwRlJ2bnAyYWZVZWtzVk1jQ1k3ZUFpbWU2RVFNM3AxWlpiaFVYQ3Z2alI1TzJaUUNrZnJramY2dzFrUGtjdEUySVpKZzhiN2ZVaWY5bVJHUnI4bnVQU0NINEVtd09HTl8wZ1VHRjhlWEdnREZJSVp1REYwZHUxSEI?oc=5",
-   "tickers": [
-    "MNKD"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "MNKD",
-   "strength": 25,
-   "reason": "MyPillow CEO stepping down signals management distraction and potential operational risk.",
-   "price_since": {
-    "ticker": "MNKD",
-    "pct": -4.4,
-    "base": 4.11,
-    "last": 3.93,
-    "base_date": "2026-08-07",
-    "last_date": "2026-08-10"
-   }
-  },
-  {
-   "date": "2026-08-07T15:12:25Z",
-   "platform": "News",
-   "text": "ASTS, RKLB Stocks Get The Trump Pump After Hidden Space Stock Bets Emerge - Stocktwits \u2014 ASTS, RKLB Stocks Get The Trump Pump After Hidden Space Stock Bets Emerge\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYlgtQnFIQ21RTHhqRVMtMUF4aWNUR2w3WHo5QzFfWVRyaExWYXJDUk9WaEFDaW90THVYcHVSd3J4Nk82T3lkMVBGZnhIQW43bHpGdURhaTgxYnRlR25BYmp6SWR1cjVhUHlXZXdWSFdkNlFTekNoQXZCSXNVem1Oc0NBYXBKQXhnRnNCTTVvOU5xSEZrUlNxdzZCczQyZmdVOW1jQVRBczU4cHlpU3M3dnBWZnBjdw?oc=5",
-   "tickers": [
-    "ASTS"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "ASTS",
-   "strength": 45,
-   "reason": "Space stocks rally on disclosed Trump holdings; speculative but sector-bullish signal",
-   "price_since": {
-    "ticker": "ASTS",
-    "pct": -2.4,
-    "base": 71.94,
-    "last": 70.24,
     "base_date": "2026-08-07",
     "last_date": "2026-08-10"
    }
