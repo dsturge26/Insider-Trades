@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-08-14T18:33:16Z",
+ "last_updated": "2026-08-14T19:37:05Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-08-14T16:20:11Z",
+   "platform": "News",
+   "text": "Ed Krassenstein: U.S. tariffs on foreign drones boost stocks tied to Trump sons - Traders Union \u2014 Ed Krassenstein: U.S. tariffs on foreign drones boost stocks tied to Trump sons\u00a0\u00a0Traders Union",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYk1FTDQ3VGoyazB3RzFSOHFweDlwWGRFT1BNc2JPbFhNcXJrX3liTEo1Vm9LNWZhbEg3VnNkVVEzOXVJUFRwd2R0M09rdi14OUJhVnVYQVpiYXJ1R2FpM3puVFFzd0ZRd1NmUE9XV1hWUjJ2blNGMjhqVUM5dmxUQWk1QXpoZ3M?oc=5",
+   "tickers": [
+    "XLI"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "XLI",
+   "strength": 65,
+   "reason": "Tariffs on foreign drones boost domestic drone/manufacturing stocks"
+  },
   {
    "date": "2026-08-14T14:58:00Z",
    "platform": "News",
@@ -49,6 +65,22 @@
    "primary_ticker": "XLE",
    "strength": 72,
    "reason": "Drone tariffs protect domestic maker; energy/defense beneficiary, bullish for sector"
+  },
+  {
+   "date": "2026-08-14T11:33:50Z",
+   "platform": "News",
+   "text": "Shares Of Trump Jr.-Linked Dronemaker Pop After White House Unveils New Tariffs - Forbes \u2014 Shares Of Trump Jr.-Linked Dronemaker Pop After White House Unveils New Tariffs\u00a0\u00a0Forbes",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOS2VfTlBxMkdseHlsZ0lOdElVbGRoNVpCYUltMmNpUDd2Mkl6akFDdHowSTJpdzBpcVRPcnBqQUxfWG1zRmxiRGx4MkxZVGZrX09YaWtNUy13VHd3V202dDVUcnFmcFJraUdLeUc4ZzhFcWpVbElDeHhJU24xdGI5X3ZmQkJ3MEdaaUtYLXFMM0I5RktfUmlqTlFJX0xMcURnSmhOWWduRnRFVXNYdTF0am9BZWtnNTUtS0I2TnFFRTA2RGxrX3RqeDdNSE1xNHhTY2c0VmVRclM?oc=5",
+   "tickers": [
+    "XLI"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "XLI",
+   "strength": 72,
+   "reason": "Tariffs on drones boost Trump-linked dronemaker shares"
   },
   {
    "date": "2026-08-14T10:38:53Z",
@@ -180,9 +212,9 @@
    "reason": "SK Hynix and Micron DRAM news; semiconductor sector strength ahead of earnings.",
    "price_since": {
     "ticker": "SMH",
-    "pct": -1.0,
+    "pct": -0.5,
     "base": 589.12,
-    "last": 583.51,
+    "last": 586.22,
     "base_date": "2026-08-13",
     "last_date": "2026-08-14"
    }
@@ -204,9 +236,9 @@
    "reason": "SK Hynix and Micron semiconductor strength signals positive momentum in DRAM/chip sector.",
    "price_since": {
     "ticker": "SMH",
-    "pct": -1.0,
+    "pct": -0.5,
     "base": 589.12,
-    "last": 583.51,
+    "last": 586.22,
     "base_date": "2026-08-13",
     "last_date": "2026-08-14"
    }
@@ -228,9 +260,9 @@
    "reason": "Trump China visit with QCOM executives suggests potential trade/policy development; direction ambiguous",
    "price_since": {
     "ticker": "QCOM",
-    "pct": -0.3,
+    "pct": 0.4,
     "base": 164.79,
-    "last": 164.3,
+    "last": 165.49,
     "base_date": "2026-08-13",
     "last_date": "2026-08-14"
    }
@@ -252,9 +284,9 @@
    "reason": "QCOM near record high with executives joining Trump China visit; potential trade deal/deal-making upside",
    "price_since": {
     "ticker": "QCOM",
-    "pct": -0.3,
+    "pct": 0.4,
     "base": 164.79,
-    "last": 164.3,
+    "last": 165.49,
     "base_date": "2026-08-13",
     "last_date": "2026-08-14"
    }
@@ -276,9 +308,9 @@
    "reason": "Dell stock at new highs; wealth gain report confirms momentum",
    "price_since": {
     "ticker": "DELL",
-    "pct": -0.6,
+    "pct": -1.0,
     "base": 494.51,
-    "last": 491.67,
+    "last": 489.71,
     "base_date": "2026-08-13",
     "last_date": "2026-08-14"
    }
@@ -300,9 +332,9 @@
    "reason": "Dell stock at new highs; broad market confidence, no Trump-specific action",
    "price_since": {
     "ticker": "DELL",
-    "pct": -0.6,
+    "pct": -1.0,
     "base": 494.51,
-    "last": 491.67,
+    "last": 489.71,
     "base_date": "2026-08-13",
     "last_date": "2026-08-14"
    }
@@ -324,9 +356,33 @@
    "reason": "Meta AI Workforce Academy praised by Trump adviser; slight positive sentiment for META but soft signal",
    "price_since": {
     "ticker": "META",
-    "pct": -0.6,
+    "pct": -0.7,
     "base": 594.97,
-    "last": 591.4,
+    "last": 591.07,
+    "base_date": "2026-08-13",
+    "last_date": "2026-08-14"
+   }
+  },
+  {
+   "date": "2026-08-13T19:33:49Z",
+   "platform": "News",
+   "text": "Meta's AI Workforce Academy Wins Praise From Former Trump Adviser, Ex-Facebook Exec: 'Hope More Companies Follow Suit' - Stocktwits \u2014 Meta's AI Workforce Academy Wins Praise From Former Trump Adviser, Ex-Facebook Exec: 'Hope More Companies Follow Suit'\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQU0E4QWNsTjlROXIwRTIyVHZyMTlHNHhxUndrNjlLbUxOajU2MEZIRFhHeE9xd2ZRdm9IQVMzdHlEMmU4NVBwckpvbEkyWURKRXFHMlR4Z0VWVk5qMGstTFNtVTZSNWpqVS0wWkZ3WTdEaktTd3FMUHlTRjc2M3UwZlpDY1NjeG5FZ2s2bDJVeGJiVjgwWXIzdVVOS0FhQ2E0WjNUMDIzY1ppOTdJNTJkanBEMjFzRUVzb2RBS1czdXZXVWoyb0xLcl9ycl81NG1zd0lNT0NRUmVMZVgyblRkTVlXU1ZUTENRdkJBQzdhU0VuSG9HN19jeFNna0NRVlVUN2E1blhrY0U5Zw?oc=5",
+   "tickers": [
+    "META"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "META",
+   "strength": 30,
+   "reason": "Meta AI academy wins praise from former Trump adviser, positive sentiment",
+   "price_since": {
+    "ticker": "META",
+    "pct": -0.7,
+    "base": 594.97,
+    "last": 591.07,
     "base_date": "2026-08-13",
     "last_date": "2026-08-14"
    }
@@ -348,9 +404,9 @@
    "reason": "Report of high stock trading volume linked to Trump; potential insider trading concern or market speculation about his positions.",
    "price_since": {
     "ticker": "DJT",
-    "pct": -0.5,
+    "pct": 0.7,
     "base": 8.3,
-    "last": 8.26,
+    "last": 8.36,
     "base_date": "2026-08-13",
     "last_date": "2026-08-14"
    }
@@ -373,9 +429,9 @@
    "reason": "Closing de minimis loophole increases tariff revenue collection, modest tailwind for broad market and importers",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.3,
+    "pct": -0.2,
     "base": 777.88,
-    "last": 775.92,
+    "last": 776.1,
     "base_date": "2026-08-13",
     "last_date": "2026-08-14"
    }
@@ -397,9 +453,9 @@
    "reason": "Insider selling by cofounder; potential bearish sentiment signal",
    "price_since": {
     "ticker": "NFLX",
-    "pct": -0.4,
+    "pct": -0.2,
     "base": 78.24,
-    "last": 77.92,
+    "last": 78.1,
     "base_date": "2026-08-13",
     "last_date": "2026-08-14"
    }
@@ -421,9 +477,9 @@
    "reason": "Netflix cofounder insider selling; technical weakness into three-day red streak",
    "price_since": {
     "ticker": "NFLX",
-    "pct": -0.4,
+    "pct": -0.2,
     "base": 78.24,
-    "last": 77.92,
+    "last": 78.1,
     "base_date": "2026-08-13",
     "last_date": "2026-08-14"
    }
@@ -445,9 +501,9 @@
    "reason": "Demand for transparency on Trump's stock trading; suggests market concern about his trading patterns and potential conflicts.",
    "price_since": {
     "ticker": "DJT",
-    "pct": -0.5,
+    "pct": 0.7,
     "base": 8.3,
-    "last": 8.26,
+    "last": 8.36,
     "base_date": "2026-08-13",
     "last_date": "2026-08-14"
    }
@@ -469,9 +525,9 @@
    "reason": "Data center lease announcement catalyst; AI/infrastructure play",
    "price_since": {
     "ticker": "KEEL",
-    "pct": 6.6,
+    "pct": 5.4,
     "base": 3.31,
-    "last": 3.53,
+    "last": 3.49,
     "base_date": "2026-08-13",
     "last_date": "2026-08-14"
    }
@@ -493,9 +549,9 @@
    "reason": "Data center lease announcement pending; speculative retail interest but outcome unclear",
    "price_since": {
     "ticker": "KEEL",
-    "pct": 6.6,
+    "pct": 5.4,
     "base": 3.31,
-    "last": 3.53,
+    "last": 3.49,
     "base_date": "2026-08-13",
     "last_date": "2026-08-14"
    }
@@ -517,9 +573,9 @@
    "reason": "Dimon praises deregulation & pro-growth policy; broad market bullish signal",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.3,
+    "pct": -0.2,
     "base": 777.88,
-    "last": 775.92,
+    "last": 776.09,
     "base_date": "2026-08-13",
     "last_date": "2026-08-14"
    }
@@ -541,9 +597,9 @@
    "reason": "Retailer earnings risk in cautious economic environment; direction ambiguous.",
    "price_since": {
     "ticker": "DG",
-    "pct": 1.4,
+    "pct": 1.3,
     "base": 122.08,
-    "last": 123.77,
+    "last": 123.71,
     "base_date": "2026-08-13",
     "last_date": "2026-08-14"
    }
@@ -565,9 +621,9 @@
    "reason": "Report of demand to disclose stock managers and trading practices; raises governance/transparency concerns affecting his company.",
    "price_since": {
     "ticker": "DJT",
-    "pct": -0.5,
+    "pct": 0.7,
     "base": 8.3,
-    "last": 8.26,
+    "last": 8.36,
     "base_date": "2026-08-13",
     "last_date": "2026-08-14"
    }
@@ -589,9 +645,9 @@
    "reason": "Stock more than doubles pre-market; positive momentum but reason for rally unclear.",
    "price_since": {
     "ticker": "QTEX",
-    "pct": -5.0,
+    "pct": -4.0,
     "base": 1.0,
-    "last": 0.95,
+    "last": 0.96,
     "base_date": "2026-08-13",
     "last_date": "2026-08-14"
    }
@@ -2599,22 +2655,6 @@
    "reason": "Trump interest in Greenland critical metals; niche metals rally."
   },
   {
-   "date": "2026-08-08T07:14:40Z",
-   "platform": "News",
-   "text": "Meta's AI Workforce Academy Wins Praise From Former Trump Adviser, Ex-Facebook Exec: 'Hope More Companies Follow Suit' - Stocktwits \u2014 Meta's AI Workforce Academy Wins Praise From Former Trump Adviser, Ex-Facebook Exec: 'Hope More Companies Follow Suit'\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQU0E4QWNsTjlROXIwRTIyVHZyMTlHNHhxUndrNjlLbUxOajU2MEZIRFhHeE9xd2ZRdm9IQVMzdHlEMmU4NVBwckpvbEkyWURKRXFHMlR4Z0VWVk5qMGstTFNtVTZSNWpqVS0wWkZ3WTdEaktTd3FMUHlTRjc2M3UwZlpDY1NjeG5FZ2s2bDJVeGJiVjgwWXIzdVVOS0FhQ2E0WjNUMDIzY1ppOTdJNTJkanBEMjFzRUVzb2RBS1czdXZXVWoyb0xLcl9ycl81NG1zd0lNT0NRUmVMZVgyblRkTVlXU1ZUTENRdkJBQzdhU0VuSG9HN19jeFNna0NRVlVUN2E1blhrY0U5Zw?oc=5",
-   "tickers": [
-    "META"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "META",
-   "strength": 35,
-   "reason": "Praise for Meta's AI initiative from Trump adviser suggests positive Trump administration sentiment toward Meta's AI efforts"
-  },
-  {
    "date": "2026-08-08T06:07:01Z",
    "platform": "News",
    "text": "PLTR Stock Faces Split Narrative: Retail Bulls Hold Firm As Burry Sounds Alarm, Trump Signals Support - Stocktwits \u2014 PLTR Stock Faces Split Narrative: Retail Bulls Hold Firm As Burry Sounds Alarm, Trump Signals Support\u00a0\u00a0Stocktwits",
@@ -2797,126 +2837,6 @@
     "base_date": "2026-08-07",
     "last_date": "2026-08-10"
    }
-  },
-  {
-   "date": "2026-08-07T15:12:25Z",
-   "platform": "News",
-   "text": "ASTS, RKLB Stocks Get The Trump Pump After Hidden Space Stock Bets Emerge - stocktwits.com \u2014 ASTS, RKLB Stocks Get The Trump Pump After Hidden Space Stock Bets Emerge\u00a0\u00a0stocktwits.com",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYlgtQnFIQ21RTHhqRVMtMUF4aWNUR2w3WHo5QzFfWVRyaExWYXJDUk9WaEFDaW90THVYcHVSd3J4Nk82T3lkMVBGZnhIQW43bHpGdURhaTgxYnRlR25BYmp6SWR1cjVhUHlXZXdWSFdkNlFTekNoQXZCSXNVem1Oc0NBYXBKQXhnRnNCTTVvOU5xSEZrUlNxdzZCczQyZmdVOW1jQVRBczU4cHlpU3M3dnBWZnBjdw?oc=5",
-   "tickers": [
-    "ASTS"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "ASTS",
-   "strength": 45,
-   "reason": "Trump reportedly holds space stock positions; bullish sentiment inferred but not explicit"
-  },
-  {
-   "date": "2026-08-07T15:02:00Z",
-   "platform": "News",
-   "text": "Freedom Fuel, praised by Trump, sells cheap gasoline. But how? - The Detroit News \u2014 Freedom Fuel, praised by Trump, sells cheap gasoline. But how?\u00a0\u00a0The Detroit News",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQU3h5WktoWEI5RENMSTMzQnoxNDBLTm9yNzgzczVxMWd6UjA0blRaU1BiTDRWeTN0TnNQUVNDYi1SNFF1cGhJWTN0U21wOENWamhpSnFyOG9aellodHp3ZUEta0Jma0pYSUR0MV9fZlFOLTlDQVJRakltTUs0NC1jVmhnN3lXUncyX3duSVBid2lCeTEycTNTSVpLaWx3NWlfOXZfNEFnOUpod25MdkFvT01lLTJMUzg0a2ozWUJTd0xTRGc?oc=5",
-   "tickers": [
-    "XLE"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "XLE",
-   "strength": 30,
-   "reason": "Trump praise for fuel company; energy/drilling bullish, but private company unclear"
-  },
-  {
-   "date": "2026-08-07T15:01:20Z",
-   "platform": "News",
-   "text": "Crucial Vote On Crypto Clarity Act Delayed Until September, Trump Says More People Are Paying in Bitcoin: Reports - Bitcoin Magazine \u2014 Crucial Vote On Crypto Clarity Act Delayed Until September, Trump Says More People Are Paying in Bitcoin: Reports\u00a0\u00a0Bitcoin Magazine",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ycW92NmJBaWhpSzFaN3ZrVjZGbXdtNjFyZ01ybHhhcDFzY3pqREhfVmQ1Z2FqQ2UzY1hxZW82WDQzcGd4cTlicjQ1dkJSRzY2dHV4UkMwTlNub3AwZEpkUGtqTVZURFBuYzlSQ3dEcmVDWXRmaGp3bG9EYw?oc=5",
-   "tickers": [
-    "BTC-USD"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "BTC-USD",
-   "strength": 45,
-   "reason": "Trump signals growing bitcoin adoption and crypto clarity legislative progress; bullish sentiment for crypto",
-   "price_since": {
-    "ticker": "BTC-USD",
-    "pct": 0.1,
-    "base": 64880.19,
-    "last": 64943.24,
-    "base_date": "2026-08-07",
-    "last_date": "2026-08-10"
-   }
-  },
-  {
-   "date": "2026-08-07T15:01:20Z",
-   "platform": "News",
-   "text": "Crucial Vote On Crypto Clarity Act Delayed Until September, Trump Says More People Are Paying in Bitcoin: Reports - bitcoinmagazine.com \u2014 Crucial Vote On Crypto Clarity Act Delayed Until September, Trump Says More People Are Paying in Bitcoin: Reports\u00a0\u00a0bitcoinmagazine.com",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ycW92NmJBaWhpSzFaN3ZrVjZGbXdtNjFyZ01ybHhhcDFzY3pqREhfVmQ1Z2FqQ2UzY1hxZW82WDQzcGd4cTlicjQ1dkJSRzY2dHV4UkMwTlNub3AwZEpkUGtqTVZURFBuYzlSQ3dEcmVDWXRmaGp3bG9EYw?oc=5",
-   "tickers": [
-    "BTC-USD"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "BTC-USD",
-   "strength": 50,
-   "reason": "Trump signals growing bitcoin adoption and crypto clarity; supportive macro environment.",
-   "price_since": {
-    "ticker": "BTC-USD",
-    "pct": 0.0,
-    "base": 64880.19,
-    "last": 64912.25,
-    "base_date": "2026-08-07",
-    "last_date": "2026-08-10"
-   }
-  },
-  {
-   "date": "2026-08-07T15:01:20Z",
-   "platform": "News",
-   "text": "Clarity Act Delayed Until September, Trump Praises Bitcoin - Bitcoin Magazine \u2014 Clarity Act Delayed Until September, Trump Praises Bitcoin\u00a0\u00a0Bitcoin Magazine",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ycW92NmJBaWhpSzFaN3ZrVjZGbXdtNjFyZ01ybHhhcDFzY3pqREhfVmQ1Z2FqQ2UzY1hxZW82WDQzcGd4cTlicjQ1dkJSRzY2dHV4UkMwTlNub3AwZEpkUGtqTVZURFBuYzlSQ3dEcmVDWXRmaGp3bG9EYw?oc=5",
-   "tickers": [
-    "BTC-USD"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "BTC-USD",
-   "strength": 60,
-   "reason": "Trump praises Bitcoin and Clarity Act delayed; regulatory tailwind for crypto",
-   "price_since": {
-    "ticker": "BTC-USD",
-    "pct": 0.0,
-    "base": 64880.19,
-    "last": 64912.25,
-    "base_date": "2026-08-07",
-    "last_date": "2026-08-10"
-   }
-  },
-  {
-   "date": "2026-08-07T15:01:20Z",
-   "platform": "News",
-   "text": "Clarity Act Delayed Until September, Trump Praises Bitcoin - bitcoinmagazine.com \u2014 Clarity Act Delayed Until September, Trump Praises Bitcoin\u00a0\u00a0bitcoinmagazine.com",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ycW92NmJBaWhpSzFaN3ZrVjZGbXdtNjFyZ01ybHhhcDFzY3pqREhfVmQ1Z2FqQ2UzY1hxZW82WDQzcGd4cTlicjQ1dkJSRzY2dHV4UkMwTlNub3AwZEpkUGtqTVZURFBuYzlSQ3dEcmVDWXRmaGp3bG9EYw?oc=5",
-   "tickers": [
-    "BTC-USD"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "BTC-USD",
-   "strength": 75,
-   "reason": "Trump praises Bitcoin explicitly; bullish signal for crypto asset."
   },
   {
    "curated": true,
