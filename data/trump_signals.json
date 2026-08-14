@@ -1,7 +1,24 @@
 {
- "last_updated": "2026-08-14T04:28:39Z",
+ "last_updated": "2026-08-14T05:59:41Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-08-14T04:18:52.556Z",
+   "platform": "Truth Social",
+   "text": "White House report details 'Great Transshipment Scam' costing tens of billions in tariff evasion: https://justthenews.com/government/white-house/white-house-report-details-great-transshipment-scam-costing-tens-billions",
+   "tickers": [
+    "SPY"
+   ],
+   "engagement": 1028,
+   "url": "https://truthsocial.com/@realDonaldTrump/117091934703272898",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "SPY",
+   "strength": 45,
+   "reason": "Tariff evasion scam report suggests tighter enforcement; potential drag on import-dependent sectors"
+  },
   {
    "date": "2026-08-13T21:20:10Z",
    "platform": "News",
@@ -251,6 +268,30 @@
    "primary_ticker": "SPY",
    "strength": 25,
    "reason": "Retrospective commentary on Trump's stock picks; ambiguous direction, no actionable signal",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": 0.7,
+    "base": 772.49,
+    "last": 777.88,
+    "base_date": "2026-08-12",
+    "last_date": "2026-08-13"
+   }
+  },
+  {
+   "date": "2026-08-12T14:43:50Z",
+   "platform": "News",
+   "text": "Could Trump's Capital Gains Plan Hand Warren Buffett a $0 Tax Bill? No - But the Savings Would Be Massive - 24/7 Wall St. \u2014 Could Trump's Capital Gains Plan Hand Warren Buffett a $0 Tax Bill? No - But the Savings Would Be Massive\u00a0\u00a024/7 Wall St.",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZUxWUFBHamxuVm1BZ3A2WEx5NU9sSnhsSXJhamJKUnBTbzBqNFVXbWFSZGdrVzFFUHZVdmFNQ0F0XzZhaWpMOVMzTUFSeXd5Y3FvU0kybVFzWnFWM2dnRThqcjRKNm4xV1B0WjlTNkJ5aVgzQ2MxYnBZZ3pJTFk3elVCNVZ6dEtlWngxeDBob19ydjJZOXNEVWJndUVrb3c5UUZMLUg3VVJ4Q2NTU1VYMFFYV0dZQTZqVmRSeDZNRkR5aTROTDFMNzBKdzZIX3VfbW5xNHJoMlYzQUcy?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "SPY",
+   "strength": 60,
+   "reason": "Trump capital gains tax cut plan bullish for equities and wealth holders; pro-market policy",
    "price_since": {
     "ticker": "SPY",
     "pct": 0.7,
@@ -2749,23 +2790,6 @@
    "primary_ticker": "HRI",
    "strength": 70,
    "reason": "Harris Corporation awarded $2.1B federal contract."
-  },
-  {
-   "date": "2019-10-16T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "THE BOEING COMPANY was awarded a $2.7B federal contract from National Aeronautics and Space Administration.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_80MSFC20C0052_8000_-NONE-_-NONE-",
-   "tickers": [
-    "BA"
-   ],
-   "contract_amount": 2.74,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "BA",
-   "strength": 70,
-   "reason": "Boeing awarded $2.7B NASA federal contract."
   }
  ],
  "how_to_read": "Each card is Claude's read of a public Trump post: the affected ticker, whether it implies BUY / SELL / WATCH, a 0\u2013100 strength (how explicit/emphatic the post is \u2014 NOT a profit predictor), and why. A 2-year backtest found these don't beat buy-and-hold, so this is for awareness, not trading. Not financial advice."
