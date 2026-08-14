@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-08-14T08:49:24Z",
+ "last_updated": "2026-08-14T10:01:28Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-08-14T08:35:53Z",
+   "platform": "News",
+   "text": "Why Is AG Stock Jumping Over 5% In Overnight Trading? - Stocktwits \u2014 Why Is AG Stock Jumping Over 5% In Overnight Trading?\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZWN4cjJ0TVQ3NUdWMm1CVVR2b2NWM3Q0QTdFX2h2NU8tQ3ZKNVNYUXlUNkt0NVkyZ0ZwV05DaWh3RVJzRzJzcVc5c3VBVWctc2dCdVZLMVU1U0NnY1Iwc3FKVjgxV1V5cHR3SklSSjFYTU5Mam41T0N5b3V0b041d20zOUo5RVZQMUxRSjhtN1g5ejA4Wmk2OWR4LXJDQQ?oc=5",
+   "tickers": [
+    "AG"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "AG",
+   "strength": 25,
+   "reason": "Stock jump reported but no identified catalyst; insufficient information to assess direction."
+  },
   {
    "date": "2026-08-14T04:18:52.556Z",
    "platform": "Truth Social",
@@ -133,6 +149,22 @@
    "reason": "Demand for transparency on Trump's stock trading; suggests market concern about his trading patterns and potential conflicts."
   },
   {
+   "date": "2026-08-13T13:00:54Z",
+   "platform": "News",
+   "text": "DG Stock Wades Through Cautious Wall Street Ahead Of Q1 Earnings As 'K-Shaped' Economy Risks Loom - Stocktwits \u2014 DG Stock Wades Through Cautious Wall Street Ahead Of Q1 Earnings As 'K-Shaped' Economy Risks Loom\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQaFpfTmo0R2NXVTF6V0xZcHI1cENMS3FqNXF2NVJycjc4M3BBOEhIcW1yMkRwbzJaalFhVXFZUFFFT0xIZHotaXZGbk5aaFc5T2tLaWZDQVR2QmVfaHV5TDFQRzI3V0g5cFYzVDRHM3VTVXkxZEZocTkwaEIwUXU4THZpUTJQTmRkeEhIQU85QTlpQmhkQjFpaFdPbVphSjlGZmlaUnh4OXdWeTlsckoxUzJQdkJTRE5wS2NaN2tXYml6VDhJZ2ZqbkpaUVlyOENTVGg2V1dTbTFMTDJrYjhfdElnNVN3eTMxTmxCaHpGQUM?oc=5",
+   "tickers": [
+    "DG"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "DG",
+   "strength": 20,
+   "reason": "Retailer earnings risk in cautious economic environment; direction ambiguous."
+  },
+  {
    "date": "2026-08-13T12:00:01Z",
    "platform": "News",
    "text": "Democrats demand Trump reveal stock managers, explain suspicious trades - CNBC \u2014 Democrats demand Trump reveal stock managers, explain suspicious trades\u00a0\u00a0CNBC",
@@ -259,6 +291,30 @@
    "primary_ticker": "DJT",
    "strength": 40,
    "reason": "Profit-from-policy-access controversy creates regulatory/reputational risk for DJT; unclear if bullish or bearish"
+  },
+  {
+   "date": "2026-08-12T23:47:17Z",
+   "platform": "News",
+   "text": "Gulf of Mexico Lease Sale Attracts $82.7 Million in High Bids - Offshore Engineer Magazine \u2014 Gulf of Mexico Lease Sale Attracts $82.7 Million in High Bids\u00a0\u00a0Offshore Engineer Magazine",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUURCN0NmWnl4Q3pEX1JpdE9LSXVMakZLRjN6RVduVEtpeS1YaWhMVHVEbE1pVlNqVEdHSkJmYjdrMWVZLW1BWXkyUXloRzItSElkdGVkc0hXallTMEQ1WDhfQXhqaXlaUFkzTzVXTGFZaDVxUTdWWXh6cHJGbk5QV0s2aksyVmhIbEF5M09DRUJ1djc5QUowVWl1MFNMM00?oc=5",
+   "tickers": [
+    "XLE"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "XLE",
+   "strength": 20,
+   "reason": "Oil & gas lease activity shows sector interest; modest bullish for energy but not a Trump action.",
+   "price_since": {
+    "ticker": "XLE",
+    "pct": 0.0,
+    "base": 61.03,
+    "last": 61.06,
+    "base_date": "2026-08-12",
+    "last_date": "2026-08-13"
+   }
   },
   {
    "date": "2026-08-12T22:45:40.784Z",
@@ -2679,22 +2735,6 @@
     "base_date": "2026-08-05",
     "last_date": "2026-08-07"
    }
-  },
-  {
-   "date": "2026-08-05T11:03:00Z",
-   "platform": "News",
-   "text": "Trump Plugs Lawn Firm After Old Goon Visits White House - The Daily Beast \u2014 Trump Plugs Lawn Firm After Old Goon Visits White House\u00a0\u00a0The Daily Beast",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObTM3aU5IWXhzc3lOV0tMWTdXUW5teVNZbk0wRXBiR1U4dmpBcFhFaHEyYi14VTVXNUpVYVd3dXNtbGUtWHBlVnRYMHZfNk9JMnBMMjF1eFpaWHphN25ZaVZmMG5WbmV5ZlRiYXh4UUQxemU2S2NodFF6bFd2NzJieGZydzF0OXFTN0NMVmlCcWt0N0h0djk5UFpFRUpKOWRLc054X2M3UF9Ldw?oc=5",
-   "tickers": [
-    "SCPH"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "SCPH",
-   "strength": 60,
-   "reason": "Trump explicitly plugs lawn firm (ScapeWorx) to customers; direct endorsement"
   },
   {
    "curated": true,
