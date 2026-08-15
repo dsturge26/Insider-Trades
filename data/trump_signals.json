@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-15T06:37:33Z",
+ "last_updated": "2026-08-15T07:16:14Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -257,7 +257,15 @@
    "direction": "WATCH",
    "primary_ticker": "BTC-USD",
    "strength": 35,
-   "reason": "Crypto/tokenized assets emerging; Thiel involvement suggests crypto-adjacent opportunity but direction unclear."
+   "reason": "Crypto/tokenized assets emerging; Thiel involvement suggests crypto-adjacent opportunity but direction unclear.",
+   "price_since": {
+    "ticker": "BTC-USD",
+    "pct": 0.1,
+    "base": 62975.59,
+    "last": 63049.17,
+    "base_date": "2026-08-14",
+    "last_date": "2026-08-15"
+   }
   },
   {
    "date": "2026-08-14T08:35:53Z",
@@ -2731,54 +2739,6 @@
     "pct": 1.1,
     "base": 60.18,
     "last": 60.83,
-    "base_date": "2026-08-10",
-    "last_date": "2026-08-11"
-   }
-  },
-  {
-   "date": "2026-08-08T09:10:17Z",
-   "platform": "News",
-   "text": "Trump praises $3 billion US investment in mineral project to counter China - theprint.in \u2014 Trump praises $3 billion US investment in mineral project to counter China\u00a0\u00a0theprint.in",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOd2xjSEJBVEpieEpUNmdvQnNqWDRQVFdOc1VaWjlKVlcxTHBEVmRhS21wM0M1VE5rOHZMdWFUYTFFaWhRZlhCZnRwQWZIWmM3Qm9OQXZhLVR3N2FBVE9YRF8tR180Wk5PWTY0OWFTS3Vpd3hER3ZOdHRpaHNNeVN5QmMtdmtyX3ljNDRjV0JzeFMyckNxcmpSNmFpQ3EwanZSS3MyNEtFTnA1RFc40gGyAUFVX3lxTE52M0hSa3dubEhmTk1WRGRMYjRtb3cyTFVMeDNFblN0QzZLX3N4by1qRGhRb2FhYllMMUxGUGUwMGU5aG56ZG9CS2tSSG84SWpTa01RVDRBdGFzdGxlenFsblVFS3pMck12NWlqV0VMVFZRSm9zYnJmZUo0MjQzNV9uZ1FRdUdHSTBnTUltWVJDUG5jcklFc3hSQTB6VWFvSWJmU1pmTDNDN2JsSkl6TDA4OEE?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "SPY",
-   "strength": 45,
-   "reason": "US mineral investment counter to China supports domestic supply chain; macro bullish",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": -0.3,
-    "base": 773.03,
-    "last": 771.02,
-    "base_date": "2026-08-10",
-    "last_date": "2026-08-11"
-   }
-  },
-  {
-   "date": "2026-08-08T09:01:21Z",
-   "platform": "News",
-   "text": "Eric Trump Says ABTC Has More Bitcoin Than GLXY \u2013 Stock Still Falls Amid Bitcoin\u2019s Decline - Stocktwits \u2014 Eric Trump Says ABTC Has More Bitcoin Than GLXY \u2013 Stock Still Falls Amid Bitcoin\u2019s Decline\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMi1CeXRoc3duaXd4NGxDU1M4aHRJR3ptWTltWjdiY1pJb2xUakZBeFpoZ0NsTm9Kd3hRQW9DOXBiTEgwUWVyaFRFOHgyaEpxOXZHNFZqWGZHOXpFbnBaaEU3TUI4U3laX1JRMjR4ejk0NG5iQTFfVnFBRlhBcnR5MGxIRF9tRUg2LWItQnRYZVF3ejVrQW1SVGNqQXdMVm1YMDlUZUJNSk50V3ZmNHZqOQ?oc=5",
-   "tickers": [
-    "GBTC"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "GBTC",
-   "strength": 25,
-   "reason": "Eric Trump's Bitcoin holdings commentary is indirect; stock decline driven by BTC price, not Trump signal",
-   "price_since": {
-    "ticker": "GBTC",
-    "pct": -0.8,
-    "base": 49.53,
-    "last": 49.13,
     "base_date": "2026-08-10",
     "last_date": "2026-08-11"
    }
