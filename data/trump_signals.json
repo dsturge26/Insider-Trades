@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-15T21:21:14Z",
+ "last_updated": "2026-08-15T21:46:00Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -388,9 +388,9 @@
    "reason": "Crypto/tokenized assets emerging; Thiel involvement suggests crypto-adjacent opportunity but direction unclear.",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": 0.1,
+    "pct": 0.2,
     "base": 62975.59,
-    "last": 63034.48,
+    "last": 63086.15,
     "base_date": "2026-08-14",
     "last_date": "2026-08-15"
    }
@@ -2616,102 +2616,6 @@
    }
   },
   {
-   "date": "2026-08-09T04:02:28Z",
-   "platform": "News",
-   "text": "Pentagon presses defense firms to build weapons as Iran war depletes stocks - The Washington Post \u2014 Pentagon presses defense firms to build weapons as Iran war depletes stocks\u00a0\u00a0The Washington Post",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMEVSY1poSEdoWXlVam44MEZhT2RqY3lRYWE1M001R2tlb2E3aUlWdEJHeWFvem5wY0ZXRzdKMzNTMTBCdUdHTWtxV2hucWRnVmk3SExENGk5M1lUeTN2RzA1V1F1RU54S041Q2U5WG5iZVdTUkhSUG5jQ3hna0tEeDNDNWVJN2E3ZzRRNl9lSmlrOXFtWFFKU3E0MmtrVkFQSmVqcmoyNDh5U29ZS1hRQ00wY3hKd1RNdklWWkZUaGo?oc=5",
-   "tickers": [
-    "XAR"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "XAR",
-   "strength": 50,
-   "reason": "Pentagon accelerating defense weapons production due to Iran conflict; bullish for defense contractors.",
-   "price_since": {
-    "ticker": "XAR",
-    "pct": 1.1,
-    "base": 288.29,
-    "last": 291.49,
-    "base_date": "2026-08-10",
-    "last_date": "2026-08-12"
-   }
-  },
-  {
-   "date": "2026-08-09T04:02:28Z",
-   "platform": "News",
-   "text": "Pentagon presses defense firms to build weapons as Iran war depletes stocks - washingtonpost.com \u2014 Pentagon presses defense firms to build weapons as Iran war depletes stocks\u00a0\u00a0washingtonpost.com",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMEVSY1poSEdoWXlVam44MEZhT2RqY3lRYWE1M001R2tlb2E3aUlWdEJHeWFvem5wY0ZXRzdKMzNTMTBCdUdHTWtxV2hucWRnVmk3SExENGk5M1lUeTN2RzA1V1F1RU54S041Q2U5WG5iZVdTUkhSUG5jQ3hna0tEeDNDNWVJN2E3ZzRRNl9lSmlrOXFtWFFKU3E0MmtrVkFQSmVqcmoyNDh5U29ZS1hRQ00wY3hKd1RNdklWWkZUaGo?oc=5",
-   "tickers": [
-    "XAR"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "XAR",
-   "strength": 55,
-   "reason": "Pentagon pressing defense firms to build weapons amid Iran conflict; bullish for defense sector",
-   "price_since": {
-    "ticker": "XAR",
-    "pct": 1.4,
-    "base": 288.29,
-    "last": 292.33,
-    "base_date": "2026-08-10",
-    "last_date": "2026-08-11"
-   }
-  },
-  {
-   "date": "2026-08-08T23:23:00Z",
-   "platform": "News",
-   "text": "Finley: Trump has until Labor Day to bring down gasoline prices - detroitnews.com \u2014 Finley: Trump has until Labor Day to bring down gasoline prices\u00a0\u00a0detroitnews.com",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQaGNqakM0X2gyRUNQaVdDMFBkRGhEeXBDWFRKMkFyYzRoMUpFcGx4QjJKeWpmWUN0U3lud2pyQ1BxaElUR2hROEx1MFpwTGxXWTV1TzJyOW51MEl5UTZuLUI0ZW5MbDJsUFU0cHRzU1VUbnh0b21hUGNPOWRGYUxCejlKZjA5LWhyMmY2Z0U3R3NMb3NuZGpxUjFzMURtMEwxaDBreF84angtQW1WQmhtYmVmWnQ1M2ZiVkxDOTVRYVAzRVhSRXZhUDQya2FxaWRBc3ZCZHluTWRyakJ2WlpjZTNHZ1d4bU5tNWc?oc=5",
-   "tickers": [
-    "XLE"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "XLE",
-   "strength": 25,
-   "reason": "Expectation Trump will lower gas prices; bearish for oil/energy sector if prices fall, but direction depends on policy execution.",
-   "price_since": {
-    "ticker": "XLE",
-    "pct": 1.2,
-    "base": 60.18,
-    "last": 60.93,
-    "base_date": "2026-08-10",
-    "last_date": "2026-08-11"
-   }
-  },
-  {
-   "date": "2026-08-08T23:23:00Z",
-   "platform": "News",
-   "text": "Finley: Trump has until Labor Day to bring down gasoline prices - The Detroit News \u2014 Finley: Trump has until Labor Day to bring down gasoline prices\u00a0\u00a0The Detroit News",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQaGNqakM0X2gyRUNQaVdDMFBkRGhEeXBDWFRKMkFyYzRoMUpFcGx4QjJKeWpmWUN0U3lud2pyQ1BxaElUR2hROEx1MFpwTGxXWTV1TzJyOW51MEl5UTZuLUI0ZW5MbDJsUFU0cHRzU1VUbnh0b21hUGNPOWRGYUxCejlKZjA5LWhyMmY2Z0U3R3NMb3NuZGpxUjFzMURtMEwxaDBreF84angtQW1WQmhtYmVmWnQ1M2ZiVkxDOTVRYVAzRVhSRXZhUDQya2FxaWRBc3ZCZHluTWRyakJ2WlpjZTNHZ1d4bU5tNWc?oc=5",
-   "tickers": [
-    "XLE"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "XLE",
-   "strength": 20,
-   "reason": "Trump pressure on gasoline prices; vague macro call, direction depends on policy outcome",
-   "price_since": {
-    "ticker": "XLE",
-    "pct": 1.2,
-    "base": 60.18,
-    "last": 60.93,
-    "base_date": "2026-08-10",
-    "last_date": "2026-08-11"
-   }
-  },
-  {
    "curated": true,
    "classified": true,
    "is_market": true,
@@ -2764,142 +2668,6 @@
    "reason": "Trump's majority-owned stock debuts \u2014 pure sentiment play, extremely volatile and headline-driven.",
    "market_reaction": "DJT spiked on debut then stayed volatile, moving heavily on Trump political/legal news.",
    "url": "https://www.nasdaq.com/market-activity/stocks/djt"
-  },
-  {
-   "date": "2021-07-01T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "HARRIS CORPORATION was awarded a $2.1B federal contract from Department of Transportation.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_693KA821F00222_6920_DTFA0102D03006_6920",
-   "tickers": [
-    "HRS"
-   ],
-   "contract_amount": 2.12,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "HRS",
-   "strength": 75,
-   "reason": "Large $2.1B federal contract to Harris Corporation (HRS) is bullish for the awardee."
-  },
-  {
-   "date": "2019-10-16T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "THE BOEING COMPANY was awarded a $2.7B federal contract from National Aeronautics and Space Administration.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_80MSFC20C0052_8000_-NONE-_-NONE-",
-   "tickers": [
-    "BA"
-   ],
-   "contract_amount": 2.74,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "BA",
-   "strength": 80,
-   "reason": "$2.7B NASA contract to Boeing (BA); significant aerospace/defense revenue driver."
-  },
-  {
-   "date": "2015-09-03T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "NORTHROP GRUMMAN SYSTEMS CORPORATION was awarded a $1.6B federal contract from National Aeronautics and Space Administration.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_NNH15CN76C_8000_-NONE-_-NONE-",
-   "tickers": [
-    "NOC"
-   ],
-   "contract_amount": 1.63,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "NOC",
-   "strength": 78,
-   "reason": "$1.6B NASA contract to Northrop Grumman (NOC); significant space/defense win."
-  },
-  {
-   "date": "2011-12-23T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "LEIDOS, INC. was awarded a $3.1B federal contract from National Science Foundation.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_NSFDACS1219442_4900_-NONE-_-NONE-",
-   "tickers": [
-    "LDOS"
-   ],
-   "contract_amount": 3.12,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "LDOS",
-   "strength": 76,
-   "reason": "$3.1B NSF contract to Leidos (LDOS); major federal research/IT contract."
-  },
-  {
-   "date": "2008-12-04T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "LOCKHEED MARTIN CORP was awarded a $2.0B federal contract from National Aeronautics and Space Administration.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_NNG09HR00C_8000_-NONE-_-NONE-",
-   "tickers": [
-    "LMT"
-   ],
-   "contract_amount": 2.03,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "LMT",
-   "strength": 79,
-   "reason": "$2.0B NASA contract to Lockheed Martin (LMT); strong aerospace/space revenue."
-  },
-  {
-   "date": "2007-09-01T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "THE BOEING COMPANY was awarded a $10.5B federal contract from National Aeronautics and Space Administration.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_NNM07AB03C_8000_-NONE-_-NONE-",
-   "tickers": [
-    "BA"
-   ],
-   "contract_amount": 10.52,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "BA",
-   "strength": 85,
-   "reason": "$10.5B NASA contract to Boeing (BA); very large program boost to aerospace segment."
-  },
-  {
-   "date": "2006-09-06T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "LOCKHEED MARTIN CORP was awarded a $15.6B federal contract from National Aeronautics and Space Administration.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_NNJ06TA25C_8000_-NONE-_-NONE-",
-   "tickers": [
-    "LMT"
-   ],
-   "contract_amount": 15.58,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "LMT",
-   "strength": 87,
-   "reason": "$15.6B NASA contract to Lockheed Martin (LMT); major space program award, highly bullish."
-  },
-  {
-   "date": "1993-11-15T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "THE BOEING COMPANY was awarded a $22.4B federal contract from National Aeronautics and Space Administration.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_NAS1510000_8000_-NONE-_-NONE-",
-   "tickers": [
-    "BA"
-   ],
-   "contract_amount": 22.44,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "BA",
-   "strength": 88,
-   "reason": "$22.4B NASA contract to Boeing (BA); largest award in set; material boost to defense/space revenue."
   }
  ],
  "how_to_read": "Each card is Claude's read of a public Trump post: the affected ticker, whether it implies BUY / SELL / WATCH, a 0\u2013100 strength (how explicit/emphatic the post is \u2014 NOT a profit predictor), and why. A 2-year backtest found these don't beat buy-and-hold, so this is for awareness, not trading. Not financial advice."
