@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-15T20:21:47Z",
+ "last_updated": "2026-08-15T20:48:34Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -83,6 +83,22 @@
    "reason": "IBM stock surge overnight, unclear catalyst from headline alone"
   },
   {
+   "date": "2026-08-15T01:09:12Z",
+   "platform": "News",
+   "text": "Why Is IBM Stock Surging Nearly 7% Higher In Overnight Trading? - stocktwits.com \u2014 Why Is IBM Stock Surging Nearly 7% Higher In Overnight Trading?\u00a0\u00a0stocktwits.com",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQk9pekpVQ1Q1NnRyVEdqWjdJN29OTFpDY3Rkc08wdG96eTdtMHRzVVRmUFItUlRQQS11WXBWZFpHWU50d3hoRHBENXM2eGhKMF9QZF9qb3ZQT2pXREgyU1pTMzBFU0JGZ0lOTk90VlU4YURiV3I1LWtPdTVzZDZRbUZGWEUySWxkZXg1a2dzYVVTVUpsOU1Yc25qQ2U4OE9tX1MtbEZFNDZDalpaS2JlbndvcnYyUU1Ca0E2cGxqMi02S2s?oc=5",
+   "tickers": [
+    "IBM"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "IBM",
+   "strength": 35,
+   "reason": "IBM surge overnight; unclear if Trump-linked catalyst or broader tech move; needs context"
+  },
+  {
    "date": "2026-08-15T00:16:40Z",
    "platform": "News",
    "text": "BB Stock To $10? Retail Traders Eye New Highs On QNX, Physical AI Boost - Stocktwits \u2014 BB Stock To $10? Retail Traders Eye New Highs On QNX, Physical AI Boost\u00a0\u00a0Stocktwits",
@@ -97,6 +113,22 @@
    "primary_ticker": "BB",
    "strength": 40,
    "reason": "Retail speculation on BB stock, no Trump catalyst evident"
+  },
+  {
+   "date": "2026-08-15T00:16:40Z",
+   "platform": "News",
+   "text": "BB Stock To $10? Retail Traders Eye New Highs On QNX, Physical AI Boost - stocktwits.com \u2014 BB Stock To $10? Retail Traders Eye New Highs On QNX, Physical AI Boost\u00a0\u00a0stocktwits.com",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQlo3d1dSS0NHNUhSeER4LWR5di1DRFJLU2lsRWcyNlBUR2Q0TUh2MHdRcU1wZllORzVRZTkzZ0FJajRwVlEyVXBBZUZrMi1aR1hpS2dXamlRNkVSUDJXekNFRmF3TUVvVUVweFVmOEVZMUpNb1A3a2ptOHFVYkNnU3VXcWZoR0N1SnloRVpMTXMzSXRWak1rTkhoWFRwUk9iYkJ1NkJEbEstb1Z1S0dJMm5ESVRzbWZqd0FGd2xtNjRrSnRU?oc=5",
+   "tickers": [
+    "BB"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "BB",
+   "strength": 40,
+   "reason": "Retail speculation on BB physical AI upside; no explicit Trump catalyst mentioned"
   },
   {
    "date": "2026-08-14T21:36:50.742Z",
@@ -358,7 +390,7 @@
     "ticker": "BTC-USD",
     "pct": 0.1,
     "base": 62975.59,
-    "last": 63007.64,
+    "last": 63026.08,
     "base_date": "2026-08-14",
     "last_date": "2026-08-15"
    }
@@ -677,6 +709,22 @@
    }
   },
   {
+   "date": "2026-08-13T20:01:46Z",
+   "platform": "News",
+   "text": "Trump Claims Iran Has Committed To No Nuclear Weapons \u2013 Says He\u2019s 'Getting Along Quite Well\u2019 With Supreme Leader Khamenei - stocktwits.com \u2014 Trump Claims Iran Has Committed To No Nuclear Weapons \u2013 Says He\u2019s 'Getting Along Quite Well\u2019 With Supreme Leader Khamenei\u00a0\u00a0stocktwits.com",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPb3pjU3JoNFBGcElfcTYxR2QzazdrcjRuUElqd1hIY0ZTVE1zY2RYNEFBcks5WUZrSk1MekI4TkkxUVhBZ0hVcHhWNnBzcVNZTHlxQzFTaUROaVdBclRUWEdtWnZhNkhUeDZMN3RNTmdLR18wQkZ6WmM1TGJRRkQ3Yk10SkU2d3NEcUIzVEIwNnAxM3ozcFJ6NklteTU0RzMxLVlpTVIyNGNMWDVNYlR5YzB0X3dSLUMydG5qZmVLUVVLQlJyV2ZhQkVmeWVTcXNT?oc=5",
+   "tickers": [
+    "USO"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "USO",
+   "strength": 55,
+   "reason": "Trump claims Iran nuclear de-escalation; reduces geopolitical oil risk; moderately bullish for energy"
+  },
+  {
    "date": "2026-08-13T18:44:47Z",
    "platform": "News",
    "text": "Warren Leads Demand for Answers on Trump's 'Unprecedented' Volume of Stock Trades - Common Dreams \u2014 Warren Leads Demand for Answers on Trump's 'Unprecedented' Volume of Stock Trades\u00a0\u00a0Common Dreams",
@@ -764,30 +812,6 @@
    "primary_ticker": "DJT",
    "strength": 25,
    "reason": "Query about DJT premarket movement; insufficient detail on underlying catalyst; neutral mention only."
-  },
-  {
-   "date": "2026-08-13T17:57:10Z",
-   "platform": "News",
-   "text": "BB Stock To $10? Retail Traders Eye New Highs On QNX, Physical AI Boost - stocktwits.com \u2014 BB Stock To $10? Retail Traders Eye New Highs On QNX, Physical AI Boost\u00a0\u00a0stocktwits.com",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQlo3d1dSS0NHNUhSeER4LWR5di1DRFJLU2lsRWcyNlBUR2Q0TUh2MHdRcU1wZllORzVRZTkzZ0FJajRwVlEyVXBBZUZrMi1aR1hpS2dXamlRNkVSUDJXekNFRmF3TUVvVUVweFVmOEVZMUpNb1A3a2ptOHFVYkNnU3VXcWZoR0N1SnloRVpMTXMzSXRWak1rTkhoWFRwUk9iYkJ1NkJEbEstb1Z1S0dJMm5ESVRzbWZqd0FGd2xtNjRrSnRU?oc=5",
-   "tickers": [
-    "BB"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "BB",
-   "strength": 50,
-   "reason": "BB stock retail bullish on QNX and AI; upside target $10 but market sentiment mixed.",
-   "price_since": {
-    "ticker": "BB",
-    "pct": -1.0,
-    "base": 8.99,
-    "last": 8.9,
-    "base_date": "2026-08-13",
-    "last_date": "2026-08-14"
-   }
   },
   {
    "date": "2026-08-13T17:38:01Z",
@@ -2675,30 +2699,6 @@
     "pct": 1.2,
     "base": 60.18,
     "last": 60.93,
-    "base_date": "2026-08-10",
-    "last_date": "2026-08-11"
-   }
-  },
-  {
-   "date": "2026-08-08T21:46:17Z",
-   "platform": "News",
-   "text": "IBM Stock Rallies On Trump Administration\u2019s $1B Grant: Analysts Say \u2018Big Blue\u2019 Could Become First US Quantum Foundry - stocktwits.com \u2014 IBM Stock Rallies On Trump Administration\u2019s $1B Grant: Analysts Say \u2018Big Blue\u2019 Could Become First US Quantum Foundry\u00a0\u00a0stocktwits.com",
-   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOVG52c0VBRjZ6TzVuLThuSWdTN3NxMlIzUEc0aWVkUllDZDJMSVVMRlo1Rkgxb1Rja2swU1JlcVhlbmg4ejlfeGJoRGkzVG1VSEM4ZC1McWtGQnNVYklYVjYwQVliTHRoX3NqZDJZV0dlQ2NTaC1NaHhFaVAtdmVjdzVGcFhSangwdDluaTltYXZ3TXhaWWxISmlPREpkQ0N2VHdEMENJUkpDaDBGcUhSdXFZdExXbkhPaENSWlAxbVhPS3EyTnoyc3NoX2RpOXNqeEFYaFhhaGYxQUxRaWR0QUJwQ0J5VmhBY3ZpOV9YMVNjeUZlRHRzVXBLS3BpSER4VXpVWTVsYS1aZw?oc=5",
-   "tickers": [
-    "IBM"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "IBM",
-   "strength": 85,
-   "reason": "Trump administration awarded IBM $1B federal grant for quantum foundry; direct federal contract to named public company.",
-   "price_since": {
-    "ticker": "IBM",
-    "pct": 0.9,
-    "base": 236.31,
-    "last": 238.42,
     "base_date": "2026-08-10",
     "last_date": "2026-08-11"
    }
