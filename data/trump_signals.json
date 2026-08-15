@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-15T07:16:14Z",
+ "last_updated": "2026-08-15T07:52:39Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -98,6 +98,22 @@
    "primary_ticker": "XAR",
    "strength": 70,
    "reason": "Tariffs on foreign drones boost Trump-linked domestic dronemaker stocks"
+  },
+  {
+   "date": "2026-08-14T16:15:25Z",
+   "platform": "News",
+   "text": "Why Is AG Stock Jumping Over 5% In Overnight Trading? - Stocktwits \u2014 Why Is AG Stock Jumping Over 5% In Overnight Trading?\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZWN4cjJ0TVQ3NUdWMm1CVVR2b2NWM3Q0QTdFX2h2NU8tQ3ZKNVNYUXlUNkt0NVkyZ0ZwV05DaWh3RVJzRzJzcVc5c3VBVWctc2dCdVZLMVU1U0NnY1Iwc3FKVjgxV1V5cHR3SklSSjFYTU5Mam41T0N5b3V0b041d20zOUo5RVZQMUxRSjhtN1g5ejA4Wmk2OWR4LXJDQQ?oc=5",
+   "tickers": [
+    "AG"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "AG",
+   "strength": 45,
+   "reason": "Stock jump suggests positive catalyst; likely trade/tariff related but catalyst unclear from headline"
   },
   {
    "date": "2026-08-14T14:15:24Z",
@@ -260,28 +276,12 @@
    "reason": "Crypto/tokenized assets emerging; Thiel involvement suggests crypto-adjacent opportunity but direction unclear.",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": 0.1,
+    "pct": 0.0,
     "base": 62975.59,
-    "last": 63049.17,
+    "last": 63005.5,
     "base_date": "2026-08-14",
     "last_date": "2026-08-15"
    }
-  },
-  {
-   "date": "2026-08-14T08:35:53Z",
-   "platform": "News",
-   "text": "Why Is AG Stock Jumping Over 5% In Overnight Trading? - Stocktwits \u2014 Why Is AG Stock Jumping Over 5% In Overnight Trading?\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZWN4cjJ0TVQ3NUdWMm1CVVR2b2NWM3Q0QTdFX2h2NU8tQ3ZKNVNYUXlUNkt0NVkyZ0ZwV05DaWh3RVJzRzJzcVc5c3VBVWctc2dCdVZLMVU1U0NnY1Iwc3FKVjgxV1V5cHR3SklSSjFYTU5Mam41T0N5b3V0b041d20zOUo5RVZQMUxRSjhtN1g5ejA4Wmk2OWR4LXJDQQ?oc=5",
-   "tickers": [
-    "AG"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "AG",
-   "strength": 25,
-   "reason": "Stock jump reported but no identified catalyst; insufficient information to assess direction."
   },
   {
    "date": "2026-08-14T08:35:53Z",
