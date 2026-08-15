@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-15T11:45:21Z",
+ "last_updated": "2026-08-15T12:00:06Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -276,9 +276,9 @@
    "reason": "Crypto/tokenized assets emerging; Thiel involvement suggests crypto-adjacent opportunity but direction unclear.",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": 0.0,
+    "pct": -0.0,
     "base": 62975.59,
-    "last": 62986.21,
+    "last": 62949.22,
     "base_date": "2026-08-14",
     "last_date": "2026-08-15"
    }
@@ -988,6 +988,22 @@
    "primary_ticker": "SPY",
    "strength": 45,
    "reason": "Trump weighs in on Elon/OpenAI/Intel and Fed policy; mixed signals across tech and macro, direction ambiguous."
+  },
+  {
+   "date": "2026-08-13T09:31:15Z",
+   "platform": "News",
+   "text": "BE Stock Recovers After 10% Selloff: Morgan Stanley Says Crusoe Project Pause Does Not Break AI Power Thesis - Stocktwits \u2014 BE Stock Recovers After 10% Selloff: Morgan Stanley Says Crusoe Project Pause Does Not Break AI Power Thesis\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNjlDbi1IQTBRdFN2cjFXR0FUTzRHZnIwUlVfMFZYdzFOelF4dDRSZ3A2dTVnczZ5bG83X3hURURjMUJkdVZlckRublhWNHVFb0wwZ0JwQVdzTTMyVFhLZXNySnd3VV9TSHFSTlVFd1M4UnpIUVQxQ29uSHlPSjc1MjVrNy16dDJVVG5LQm5qT1NvMmlEYjZicHFrZ2ltYVd0WGFCYlRQLWt5a0xaNGF6c283THpXLTItZDU5b0lqTVBEa0U?oc=5",
+   "tickers": [
+    "BE"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "BE",
+   "strength": 45,
+   "reason": "AI power project pause creates mixed signal; analyst confidence partially offsets selloff concern."
   },
   {
    "date": "2026-08-13T09:20:56Z",
