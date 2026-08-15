@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-08-15T15:19:40Z",
+ "last_updated": "2026-08-15T15:45:42Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-08-15T14:09:54Z",
+   "platform": "News",
+   "text": "PLTR Stock Faces Split Narrative: Retail Bulls Hold Firm As Burry Sounds Alarm, Trump Signals Support - stocktwits.com \u2014 PLTR Stock Faces Split Narrative: Retail Bulls Hold Firm As Burry Sounds Alarm, Trump Signals Support\u00a0\u00a0stocktwits.com",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSFRDSVNMdHk3NEtMbFEwQ1ZRT2tLY3h1cEFvOTVjb182Qm1QUnVqTlE2dWhzYXZpaXBoN3gyNlg4dWVWY0dldndhRDZoOGE2N2ZSMTgxb1Ayb0RWanA3a0hEeEhKWGtYRENBSGZ0d0wySmlrSWpzM1BmcXZpTUdDOXcwMVl0NXVKYjMyOEFvYmVpYk9uOVRSaWdleVNEQnZkZk1tUE5vRURtNjdubE0wTUhLSFFUbGc3OUs5UVpJQXhVTHdZLTdLTmZDQVkxMUVwd3c?oc=5",
+   "tickers": [
+    "PLTR"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "PLTR",
+   "strength": 35,
+   "reason": "Trump signals support for Palantir; vague endorsement without direct call"
+  },
   {
    "date": "2026-08-15T03:30:44Z",
    "platform": "News",
@@ -114,6 +130,22 @@
    "primary_ticker": "AG",
    "strength": 45,
    "reason": "Stock jump suggests positive catalyst; likely trade/tariff related but catalyst unclear from headline"
+  },
+  {
+   "date": "2026-08-14T16:15:25Z",
+   "platform": "News",
+   "text": "Why Is AG Stock Jumping Over 5% In Overnight Trading? - stocktwits.com \u2014 Why Is AG Stock Jumping Over 5% In Overnight Trading?\u00a0\u00a0stocktwits.com",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZWN4cjJ0TVQ3NUdWMm1CVVR2b2NWM3Q0QTdFX2h2NU8tQ3ZKNVNYUXlUNkt0NVkyZ0ZwV05DaWh3RVJzRzJzcVc5c3VBVWctc2dCdVZLMVU1U0NnY1Iwc3FKVjgxV1V5cHR3SklSSjFYTU5Mam41T0N5b3V0b041d20zOUo5RVZQMUxRSjhtN1g5ejA4Wmk2OWR4LXJDQQ?oc=5",
+   "tickers": [
+    "AG"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "AG",
+   "strength": 25,
+   "reason": "Stock gap up; context unknown but asset jumps overnight"
   },
   {
    "date": "2026-08-14T14:15:24Z",
@@ -278,26 +310,10 @@
     "ticker": "BTC-USD",
     "pct": 0.1,
     "base": 62975.59,
-    "last": 63007.13,
+    "last": 63041.77,
     "base_date": "2026-08-14",
     "last_date": "2026-08-15"
    }
-  },
-  {
-   "date": "2026-08-14T08:35:53Z",
-   "platform": "News",
-   "text": "Why Is AG Stock Jumping Over 5% In Overnight Trading? - stocktwits.com \u2014 Why Is AG Stock Jumping Over 5% In Overnight Trading?\u00a0\u00a0stocktwits.com",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZWN4cjJ0TVQ3NUdWMm1CVVR2b2NWM3Q0QTdFX2h2NU8tQ3ZKNVNYUXlUNkt0NVkyZ0ZwV05DaWh3RVJzRzJzcVc5c3VBVWctc2dCdVZLMVU1U0NnY1Iwc3FKVjgxV1V5cHR3SklSSjFYTU5Mam41T0N5b3V0b041d20zOUo5RVZQMUxRSjhtN1g5ejA4Wmk2OWR4LXJDQQ?oc=5",
-   "tickers": [
-    "AG"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "AG",
-   "strength": 50,
-   "reason": "AG jumping in overnight trading but reason/catalyst unclear; insufficient context"
   },
   {
    "date": "2026-08-14T04:18:52.556Z",
@@ -668,6 +684,22 @@
     "base_date": "2026-08-13",
     "last_date": "2026-08-14"
    }
+  },
+  {
+   "date": "2026-08-13T18:12:14Z",
+   "platform": "News",
+   "text": "Why Is DJT Stock Up Premarket Today? - stocktwits.com \u2014 Why Is DJT Stock Up Premarket Today?\u00a0\u00a0stocktwits.com",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSk1xMmNPNUVJMDcxTEpIMzdrR05NSTUyc3dqa3o4OTRQUHh0M09ZVjFJZ01GRlltSGtQTlBhWWVJaGVKSVh0UTROTVdIREhzbm85OHJHaGMxaTQyVDFuSlNTbWtPbEZSTXduY1pmTWRwR296cE5UcURMT09RekhNV1RiWkYxOVB3cHlUN1BETi0wdnhTQTlSUXBkRldfQ0tM?oc=5",
+   "tickers": [
+    "DJT"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "DJT",
+   "strength": 25,
+   "reason": "Query about DJT premarket movement; insufficient detail on underlying catalyst; neutral mention only."
   },
   {
    "date": "2026-08-13T17:57:10Z",
