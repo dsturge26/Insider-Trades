@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-15T12:00:06Z",
+ "last_updated": "2026-08-15T12:53:40Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -276,9 +276,9 @@
    "reason": "Crypto/tokenized assets emerging; Thiel involvement suggests crypto-adjacent opportunity but direction unclear.",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": -0.0,
+    "pct": -0.2,
     "base": 62975.59,
-    "last": 62949.22,
+    "last": 62880.62,
     "base_date": "2026-08-14",
     "last_date": "2026-08-15"
    }
@@ -2699,54 +2699,6 @@
     "pct": -3.7,
     "base": 457.88,
     "last": 440.97,
-    "base_date": "2026-08-10",
-    "last_date": "2026-08-11"
-   }
-  },
-  {
-   "date": "2026-08-08T12:09:26Z",
-   "platform": "News",
-   "text": "DELL Stock Spikes To Record Highs On President Trump\u2019s Endorsement - stocktwits.com \u2014 DELL Stock Spikes To Record Highs On President Trump\u2019s Endorsement\u00a0\u00a0stocktwits.com",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYWF1OUgweFU0d1NlNU4ya1FYQVJSVTRCX3IwM0NMd19VVmN5RzNtUmc1c2FhTU9abXdnTmVnMDE2QUxna3ZrUEF3Zkd0SFUtOWx3QkF2elBuNkNTcmZDRm1BRUkwMVRwYU0xaUVsWDZLSk0yeEtiMFFPV0t3ZXZ3OW15QUg5V0xHNnRrU1J5VXdvX09Oa0ZmRmJvV0VTVlFRRFh6c3E5RmtHckx0MXpNVVZTWmJpLTUtUXBHSG5pWEFfQll0ejRneDFB?oc=5",
-   "tickers": [
-    "DELL"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "DELL",
-   "strength": 85,
-   "reason": "Trump explicitly endorses Dell; direct stock spike cited.",
-   "price_since": {
-    "ticker": "DELL",
-    "pct": -3.7,
-    "base": 457.88,
-    "last": 440.97,
-    "base_date": "2026-08-10",
-    "last_date": "2026-08-11"
-   }
-  },
-  {
-   "date": "2026-08-08T10:35:33Z",
-   "platform": "News",
-   "text": "Michael Burry Says He\u2019s Still Short Palantir After Stock Sees Recovery Following Trump\u2019s Endorsement - Stocktwits \u2014 Michael Burry Says He\u2019s Still Short Palantir After Stock Sees Recovery Following Trump\u2019s Endorsement\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUmNQdmN5STJOLU11dEhkR1U0ckhuS3JMcm1NUDNMY0dNZ1pQcGhFVmd2bkZqVHV5N3N4N01tY1gzZWZnTDlvbVRzTEtkQnZyUjlibXR1ZUJ5MnVNY0ZlYlVEUWtRMkdnRzBGcmxpdEJaQm55ZWlTWmZZUDBPNnhncTFlLWg3bjllZXNpeGpTVjd3b3dCZ2lWT1dPZE5RSlNKT01IVXlTa1c5YmFodzVEWkJtbHpvUHN1Ry00NWhxcVJpdw?oc=5",
-   "tickers": [
-    "PLTR"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "PLTR",
-   "strength": 45,
-   "reason": "Burry short call on Palantir despite Trump endorsement; bearish signal from prominent investor",
-   "price_since": {
-    "ticker": "PLTR",
-    "pct": -0.1,
-    "base": 175.23,
-    "last": 175.12,
     "base_date": "2026-08-10",
     "last_date": "2026-08-11"
    }
