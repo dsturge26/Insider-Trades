@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-15T23:19:49Z",
+ "last_updated": "2026-08-15T23:45:16Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -33,6 +33,22 @@
    "primary_ticker": "PLTR",
    "strength": 65,
    "reason": "Trump signals support for Palantir, bullish catalyst for stock"
+  },
+  {
+   "date": "2026-08-15T05:34:40Z",
+   "platform": "News",
+   "text": "Why LASE Stock Has Surged Over 150% Today - Stocktwits \u2014 Why LASE Stock Has Surged Over 150% Today\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTEpDZFdYM3NTemdDLTlXdzBVa2dnLXZxdlZWbGVfeTR4MkJETjh3RUlpMVN1aGZHMDN0dlI0YXQ5bkJRcFhHTlYyaURJR0tnWHFtMFM1dEdxZlphb3NGVnp6cjJBU25rc1FJMGJaUGdpRXZSX3o2VVB2Ukt2OWtjMkpMX0gyWmRBdnU3Zk1XNDFUZnVlRHlfNEVaTlRlODBUSUxyZlZwS3JjTmVm?oc=5",
+   "tickers": [
+    "LASE"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "LASE",
+   "strength": 40,
+   "reason": "150% surge noted but driver/catalyst unclear from headline alone"
   },
   {
    "date": "2026-08-15T03:30:44Z",
@@ -390,7 +406,7 @@
     "ticker": "BTC-USD",
     "pct": 0.1,
     "base": 62975.59,
-    "last": 63061.66,
+    "last": 63034.17,
     "base_date": "2026-08-14",
     "last_date": "2026-08-15"
    }
