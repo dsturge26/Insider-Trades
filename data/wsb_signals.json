@@ -1,69 +1,60 @@
 {
- "last_updated": "2026-08-16T10:22:28Z",
+ "last_updated": "2026-08-16T10:49:10Z",
  "source": "ApeWisdom / r/wallstreetbets",
  "signals": [
-  {
-   "ticker": "SPY",
-   "name": "SPDR S&amp;P 500 ETF Trust",
-   "mentions": 35,
-   "mentions_24h_ago": 331,
-   "change_pct": -89.4,
-   "rank": 1,
-   "upvotes": 99
-  },
   {
    "ticker": "NVDA",
    "name": "NVIDIA",
    "mentions": 34,
-   "mentions_24h_ago": 104,
-   "change_pct": -67.3,
+   "mentions_24h_ago": 103,
+   "change_pct": -67.0,
+   "rank": 1,
+   "upvotes": 347
+  },
+  {
+   "ticker": "SPY",
+   "name": "SPDR S&amp;P 500 ETF Trust",
+   "mentions": 34,
+   "mentions_24h_ago": 330,
+   "change_pct": -89.7,
    "rank": 2,
-   "upvotes": 311
+   "upvotes": 104
   },
   {
    "ticker": "MU",
    "name": "Micron Technology",
    "mentions": 30,
-   "mentions_24h_ago": 187,
-   "change_pct": -84.0,
+   "mentions_24h_ago": 180,
+   "change_pct": -83.3,
    "rank": 3,
-   "upvotes": 309
+   "upvotes": 348
   },
   {
    "ticker": "SNDK",
    "name": "Sandisk",
    "mentions": 22,
-   "mentions_24h_ago": 211,
-   "change_pct": -89.6,
+   "mentions_24h_ago": 205,
+   "change_pct": -89.3,
    "rank": 4,
-   "upvotes": 38
+   "upvotes": 37
   },
   {
    "ticker": "NBIS",
    "name": "Nebius Group",
    "mentions": 21,
-   "mentions_24h_ago": 157,
-   "change_pct": -86.6,
+   "mentions_24h_ago": 158,
+   "change_pct": -86.7,
    "rank": 5,
-   "upvotes": 135
+   "upvotes": 133
   },
   {
    "ticker": "QQQ",
    "name": "Invesco QQQ ETF",
    "mentions": 20,
-   "mentions_24h_ago": 61,
-   "change_pct": -67.2,
-   "rank": 6,
-   "upvotes": 295
-  },
-  {
-   "ticker": "DTE",
-   "name": "DTE Energy",
-   "mentions": 19,
    "mentions_24h_ago": 60,
-   "change_pct": -68.3,
-   "rank": 7,
-   "upvotes": 234
+   "change_pct": -66.7,
+   "rank": 6,
+   "upvotes": 336
   },
   {
    "ticker": "TSLA",
@@ -71,17 +62,17 @@
    "mentions": 19,
    "mentions_24h_ago": 60,
    "change_pct": -68.3,
-   "rank": 8,
-   "upvotes": 279
+   "rank": 7,
+   "upvotes": 319
   },
   {
-   "ticker": "HTZ",
-   "name": "Hertz",
-   "mentions": 12,
-   "mentions_24h_ago": 132,
-   "change_pct": -90.9,
-   "rank": 9,
-   "upvotes": 80
+   "ticker": "DTE",
+   "name": "DTE Energy",
+   "mentions": 19,
+   "mentions_24h_ago": 60,
+   "change_pct": -68.3,
+   "rank": 8,
+   "upvotes": 241
   },
   {
    "ticker": "ASTS",
@@ -89,17 +80,17 @@
    "mentions": 12,
    "mentions_24h_ago": 13,
    "change_pct": -7.7,
-   "rank": 10,
+   "rank": 9,
    "upvotes": 28
   },
   {
-   "ticker": "API",
-   "name": "Agora.io",
-   "mentions": 11,
-   "mentions_24h_ago": 6,
-   "change_pct": 83.3,
-   "rank": 11,
-   "upvotes": 73
+   "ticker": "HTZ",
+   "name": "Hertz",
+   "mentions": 12,
+   "mentions_24h_ago": 127,
+   "change_pct": -90.6,
+   "rank": 10,
+   "upvotes": 78
   },
   {
    "ticker": "SPCX",
@@ -107,26 +98,26 @@
    "mentions": 11,
    "mentions_24h_ago": 70,
    "change_pct": -84.3,
+   "rank": 11,
+   "upvotes": 42
+  },
+  {
+   "ticker": "API",
+   "name": "Agora.io",
+   "mentions": 11,
+   "mentions_24h_ago": 6,
+   "change_pct": 83.3,
    "rank": 12,
-   "upvotes": 38
+   "upvotes": 74
   },
   {
    "ticker": "GOOG",
    "name": "Alphabet (Google)",
-   "mentions": 11,
+   "mentions": 10,
    "mentions_24h_ago": 45,
-   "change_pct": -75.6,
+   "change_pct": -77.8,
    "rank": 13,
    "upvotes": 37
-  },
-  {
-   "ticker": "MSTR",
-   "name": "MicroStrategy",
-   "mentions": 10,
-   "mentions_24h_ago": 4,
-   "change_pct": 150.0,
-   "rank": 14,
-   "upvotes": 106
   },
   {
    "ticker": "AVGO",
@@ -134,26 +125,35 @@
    "mentions": 10,
    "mentions_24h_ago": 124,
    "change_pct": -91.9,
-   "rank": 15,
+   "rank": 14,
    "upvotes": 17
+  },
+  {
+   "ticker": "MSTR",
+   "name": "MicroStrategy",
+   "mentions": 10,
+   "mentions_24h_ago": 4,
+   "change_pct": 150.0,
+   "rank": 15,
+   "upvotes": 106
   },
   {
    "ticker": "ONDS",
    "name": "Ondas Holdings",
    "mentions": 9,
-   "mentions_24h_ago": 30,
-   "change_pct": -70.0,
+   "mentions_24h_ago": 29,
+   "change_pct": -69.0,
    "rank": 16,
-   "upvotes": 23
+   "upvotes": 24
   },
   {
-   "ticker": "AAOI",
-   "name": "Applied Optoelectronics",
+   "ticker": "NOK",
+   "name": "Nokia",
    "mentions": 8,
-   "mentions_24h_ago": 26,
-   "change_pct": -69.2,
+   "mentions_24h_ago": 123,
+   "change_pct": -93.5,
    "rank": 17,
-   "upvotes": 19
+   "upvotes": 13
   },
   {
    "ticker": "VOO",
@@ -162,25 +162,16 @@
    "mentions_24h_ago": 22,
    "change_pct": -63.6,
    "rank": 18,
-   "upvotes": 35
+   "upvotes": 36
   },
   {
-   "ticker": "NOK",
-   "name": "Nokia",
+   "ticker": "AAOI",
+   "name": "Applied Optoelectronics",
    "mentions": 8,
-   "mentions_24h_ago": 123,
-   "change_pct": -93.5,
+   "mentions_24h_ago": 26,
+   "change_pct": -69.2,
    "rank": 19,
-   "upvotes": 14
-  },
-  {
-   "ticker": "RDDT",
-   "name": "Reddit",
-   "mentions": 7,
-   "mentions_24h_ago": 144,
-   "change_pct": -95.1,
-   "rank": 20,
-   "upvotes": 19
+   "upvotes": 18
   },
   {
    "ticker": "AMD",
@@ -188,35 +179,17 @@
    "mentions": 7,
    "mentions_24h_ago": 61,
    "change_pct": -88.5,
+   "rank": 20,
+   "upvotes": 16
+  },
+  {
+   "ticker": "RDDT",
+   "name": "Reddit",
+   "mentions": 7,
+   "mentions_24h_ago": 140,
+   "change_pct": -95.0,
    "rank": 21,
-   "upvotes": 15
-  },
-  {
-   "ticker": "APLD",
-   "name": "Applied Blockchain",
-   "mentions": 6,
-   "mentions_24h_ago": 1,
-   "change_pct": 500.0,
-   "rank": 22,
-   "upvotes": 8
-  },
-  {
-   "ticker": "ARR",
-   "name": "ARMOUR Residential REIT",
-   "mentions": 6,
-   "mentions_24h_ago": 1,
-   "change_pct": 500.0,
-   "rank": 23,
-   "upvotes": 304
-  },
-  {
-   "ticker": "ZIM",
-   "name": "ZIM Integrated Shipping Services",
-   "mentions": 6,
-   "mentions_24h_ago": 1,
-   "change_pct": 500.0,
-   "rank": 24,
-   "upvotes": 9
+   "upvotes": 19
   },
   {
    "ticker": "MSFT",
@@ -224,8 +197,35 @@
    "mentions": 6,
    "mentions_24h_ago": 46,
    "change_pct": -87.0,
-   "rank": 25,
+   "rank": 22,
    "upvotes": 12
+  },
+  {
+   "ticker": "ZIM",
+   "name": "ZIM Integrated Shipping Services",
+   "mentions": 6,
+   "mentions_24h_ago": 1,
+   "change_pct": 500.0,
+   "rank": 23,
+   "upvotes": 9
+  },
+  {
+   "ticker": "ARR",
+   "name": "ARMOUR Residential REIT",
+   "mentions": 6,
+   "mentions_24h_ago": 1,
+   "change_pct": 500.0,
+   "rank": 24,
+   "upvotes": 315
+  },
+  {
+   "ticker": "APLD",
+   "name": "Applied Blockchain",
+   "mentions": 6,
+   "mentions_24h_ago": 1,
+   "change_pct": 500.0,
+   "rank": 25,
+   "upvotes": 8
   }
  ]
 }
