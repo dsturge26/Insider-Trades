@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-16T00:00:04Z",
+ "last_updated": "2026-08-16T01:51:59Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -113,6 +113,22 @@
    "primary_ticker": "IBM",
    "strength": 35,
    "reason": "IBM surge overnight; unclear if Trump-linked catalyst or broader tech move; needs context"
+  },
+  {
+   "date": "2026-08-15T00:40:58Z",
+   "platform": "News",
+   "text": "IBM Stock Rallies On Trump Administration\u2019s $1B Grant: Analysts Say \u2018Big Blue\u2019 Could Become First US Quantum Foundry - Stocktwits \u2014 IBM Stock Rallies On Trump Administration\u2019s $1B Grant: Analysts Say \u2018Big Blue\u2019 Could Become First US Quantum Foundry\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOVG52c0VBRjZ6TzVuLThuSWdTN3NxMlIzUEc0aWVkUllDZDJMSVVMRlo1Rkgxb1Rja2swU1JlcVhlbmg4ejlfeGJoRGkzVG1VSEM4ZC1McWtGQnNVYklYVjYwQVliTHRoX3NqZDJZV0dlQ2NTaC1NaHhFaVAtdmVjdzVGcFhSangwdDluaTltYXZ3TXhaWWxISmlPREpkQ0N2VHdEMENJUkpDaDBGcUhSdXFZdExXbkhPaENSWlAxbVhPS3EyTnoyc3NoX2RpOXNqeEFYaFhhaGYxQUxRaWR0QUJwQ0J5VmhBY3ZpOV9YMVNjeUZlRHRzVXBLS3BpSER4VXpVWTVsYS1aZw?oc=5",
+   "tickers": [
+    "IBM"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "IBM",
+   "strength": 80,
+   "reason": "Trump Administration awards IBM $1B federal contract for quantum foundry"
   },
   {
    "date": "2026-08-15T00:16:40Z",
@@ -404,9 +420,9 @@
    "reason": "Crypto/tokenized assets emerging; Thiel involvement suggests crypto-adjacent opportunity but direction unclear.",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": 0.1,
+    "pct": 0.0,
     "base": 62975.59,
-    "last": 63018.75,
+    "last": 62993.93,
     "base_date": "2026-08-14",
     "last_date": "2026-08-16"
    }
@@ -1963,30 +1979,6 @@
     "pct": 2.1,
     "base": 332.81,
     "last": 339.96,
-    "base_date": "2026-08-11",
-    "last_date": "2026-08-13"
-   }
-  },
-  {
-   "date": "2026-08-11T19:22:25Z",
-   "platform": "News",
-   "text": "IBM Stock Rallies On Trump Administration\u2019s $1B Grant: Analysts Say \u2018Big Blue\u2019 Could Become First US Quantum Foundry - Stocktwits \u2014 IBM Stock Rallies On Trump Administration\u2019s $1B Grant: Analysts Say \u2018Big Blue\u2019 Could Become First US Quantum Foundry\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOVG52c0VBRjZ6TzVuLThuSWdTN3NxMlIzUEc0aWVkUllDZDJMSVVMRlo1Rkgxb1Rja2swU1JlcVhlbmg4ejlfeGJoRGkzVG1VSEM4ZC1McWtGQnNVYklYVjYwQVliTHRoX3NqZDJZV0dlQ2NTaC1NaHhFaVAtdmVjdzVGcFhSangwdDluaTltYXZ3TXhaWWxISmlPREpkQ0N2VHdEMENJUkpDaDBGcUhSdXFZdExXbkhPaENSWlAxbVhPS3EyTnoyc3NoX2RpOXNqeEFYaFhhaGYxQUxRaWR0QUJwQ0J5VmhBY3ZpOV9YMVNjeUZlRHRzVXBLS3BpSER4VXpVWTVsYS1aZw?oc=5",
-   "tickers": [
-    "IBM"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "IBM",
-   "strength": 80,
-   "reason": "Trump administration awards $1B quantum grant to IBM, direct federal contract support",
-   "price_since": {
-    "ticker": "IBM",
-    "pct": -0.5,
-    "base": 238.42,
-    "last": 237.14,
     "base_date": "2026-08-11",
     "last_date": "2026-08-13"
    }
