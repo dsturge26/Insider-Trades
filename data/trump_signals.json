@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-16T21:59:12Z",
+ "last_updated": "2026-08-16T22:29:58Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -86,6 +86,22 @@
    "reason": "Trump administration awarded IBM $1B grant for quantum foundry, direct positive catalyst"
   },
   {
+   "date": "2026-08-15T21:23:00Z",
+   "platform": "News",
+   "text": "ASTS, RKLB Stocks Get The Trump Pump After Hidden Space Stock Bets Emerge - Stocktwits \u2014 ASTS, RKLB Stocks Get The Trump Pump After Hidden Space Stock Bets Emerge\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYlgtQnFIQ21RTHhqRVMtMUF4aWNUR2w3WHo5QzFfWVRyaExWYXJDUk9WaEFDaW90THVYcHVSd3J4Nk82T3lkMVBGZnhIQW43bHpGdURhaTgxYnRlR25BYmp6SWR1cjVhUHlXZXdWSFdkNlFTekNoQXZCSXNVem1Oc0NBYXBKQXhnRnNCTTVvOU5xSEZrUlNxdzZCczQyZmdVOW1jQVRBczU4cHlpU3M3dnBWZnBjdw?oc=5",
+   "tickers": [
+    "RKLB"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "RKLB",
+   "strength": 55,
+   "reason": "Trump-linked space stock bets emerge; inferred bullish sentiment on space names"
+  },
+  {
    "date": "2026-08-15T20:23:10Z",
    "platform": "News",
    "text": "Why Is IBM Stock Surging Nearly 7% Higher In Overnight Trading? - stocktwits.com \u2014 Why Is IBM Stock Surging Nearly 7% Higher In Overnight Trading?\u00a0\u00a0stocktwits.com",
@@ -100,6 +116,22 @@
    "primary_ticker": "IBM",
    "strength": 80,
    "reason": "IBM stock surge on Trump quantum grant announcement; federal contract award bullish"
+  },
+  {
+   "date": "2026-08-15T20:23:10Z",
+   "platform": "News",
+   "text": "Why Is IBM Stock Surging Nearly 7% Higher In Overnight Trading? - Stocktwits \u2014 Why Is IBM Stock Surging Nearly 7% Higher In Overnight Trading?\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQk9pekpVQ1Q1NnRyVEdqWjdJN29OTFpDY3Rkc08wdG96eTdtMHRzVVRmUFItUlRQQS11WXBWZFpHWU50d3hoRHBENXM2eGhKMF9QZF9qb3ZQT2pXREgyU1pTMzBFU0JGZ0lOTk90VlU4YURiV3I1LWtPdTVzZDZRbUZGWEUySWxkZXg1a2dzYVVTVUpsOU1Yc25qQ2U4OE9tX1MtbEZFNDZDalpaS2JlbndvcnYyUU1Ca0E2cGxqMi02S2s?oc=5",
+   "tickers": [
+    "IBM"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "IBM",
+   "strength": 80,
+   "reason": "IBM stock surge tied to Trump administration $1B quantum grant"
   },
   {
    "date": "2026-08-15T20:03:25Z",
@@ -308,22 +340,6 @@
    "primary_ticker": "DELL",
    "strength": 70,
    "reason": "Trump explicitly endorses Dell, stock spikes to record highs"
-  },
-  {
-   "date": "2026-08-15T12:40:22Z",
-   "platform": "News",
-   "text": "Why Is IBM Stock Surging Nearly 7% Higher In Overnight Trading? - Stocktwits \u2014 Why Is IBM Stock Surging Nearly 7% Higher In Overnight Trading?\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQk9pekpVQ1Q1NnRyVEdqWjdJN29OTFpDY3Rkc08wdG96eTdtMHRzVVRmUFItUlRQQS11WXBWZFpHWU50d3hoRHBENXM2eGhKMF9QZF9qb3ZQT2pXREgyU1pTMzBFU0JGZ0lOTk90VlU4YURiV3I1LWtPdTVzZDZRbUZGWEUySWxkZXg1a2dzYVVTVUpsOU1Yc25qQ2U4OE9tX1MtbEZFNDZDalpaS2JlbndvcnYyUU1Ca0E2cGxqMi02S2s?oc=5",
-   "tickers": [
-    "IBM"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "IBM",
-   "strength": 70,
-   "reason": "IBM surging 7% overnight following federal quantum grant announcement"
   },
   {
    "date": "2026-08-15T11:40:49Z",
@@ -1070,30 +1086,6 @@
    "primary_ticker": "IREN",
    "strength": 50,
    "reason": "Nvidia AI investment deal drives IREN stock up; not Trump-driven but market relevant"
-  },
-  {
-   "date": "2026-08-13T23:09:37Z",
-   "platform": "News",
-   "text": "ASTS, RKLB Stocks Get The Trump Pump After Hidden Space Stock Bets Emerge - Stocktwits \u2014 ASTS, RKLB Stocks Get The Trump Pump After Hidden Space Stock Bets Emerge\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYlgtQnFIQ21RTHhqRVMtMUF4aWNUR2w3WHo5QzFfWVRyaExWYXJDUk9WaEFDaW90THVYcHVSd3J4Nk82T3lkMVBGZnhIQW43bHpGdURhaTgxYnRlR25BYmp6SWR1cjVhUHlXZXdWSFdkNlFTekNoQXZCSXNVem1Oc0NBYXBKQXhnRnNCTTVvOU5xSEZrUlNxdzZCczQyZmdVOW1jQVRBczU4cHlpU3M3dnBWZnBjdw?oc=5",
-   "tickers": [
-    "RKLB"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "RKLB",
-   "strength": 55,
-   "reason": "Trump space stock holdings revealed; bullish signal on aerospace/defense holdings.",
-   "price_since": {
-    "ticker": "RKLB",
-    "pct": 0.2,
-    "base": 80.1,
-    "last": 80.25,
-    "base_date": "2026-08-13",
-    "last_date": "2026-08-14"
-   }
   },
   {
    "date": "2026-08-13T23:09:37Z",
