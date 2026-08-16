@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-16T14:31:52Z",
+ "last_updated": "2026-08-16T14:59:16Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -53,6 +53,22 @@
    "reason": "Trump administration awarded IBM a $1B federal contract for quantum foundry\u2014direct bullish catalyst for named public company."
   },
   {
+   "date": "2026-08-15T14:12:24Z",
+   "platform": "News",
+   "text": "KEEL Stock Jumps Onto Retail Radar As Investors Eye First Data Center Lease Announcement - Stocktwits \u2014 KEEL Stock Jumps Onto Retail Radar As Investors Eye First Data Center Lease Announcement\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVHpiUDN5T2I5aVFzNkpxZGZjdUJEVG0xLXN0c3pVRWo2REVuRGNZTFpvLXJTT2luZVhnTC1iVmFtcFYxbkpnanphZ3E0N0ExWmx5UGh4cGw2QmRiQXl3RG81OWlKRnEwOHVHT0FWdXlGd2VIZVhjM1k2TTU0THctQ3cyUVhNNG9JcGJQMlhPVHdWbkFVSVpfR25lNzVCMTJ4cGZRR05JcnR2SWFvSGc1VnYyMzFMMnFDLURZLW5pMGk3UUwyWktaVVNmZUdDZ21QZGQ0bEZfU0o1LXRvREhFd3h2NXBTMjQ?oc=5",
+   "tickers": [
+    "KEEL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "KEEL",
+   "strength": 45,
+   "reason": "Data center lease announcement drive stock interest; unclear if Trump-related or pure company news"
+  },
+  {
    "date": "2026-08-15T14:09:54Z",
    "platform": "News",
    "text": "PLTR Stock Faces Split Narrative: Retail Bulls Hold Firm As Burry Sounds Alarm, Trump Signals Support - stocktwits.com \u2014 PLTR Stock Faces Split Narrative: Retail Bulls Hold Firm As Burry Sounds Alarm, Trump Signals Support\u00a0\u00a0stocktwits.com",
@@ -85,6 +101,22 @@
    "reason": "Trump signals support for Palantir, bullish catalyst for stock"
   },
   {
+   "date": "2026-08-15T12:53:25Z",
+   "platform": "News",
+   "text": "DELL Stock Spikes To Record Highs On President Trump\u2019s Endorsement - Stocktwits \u2014 DELL Stock Spikes To Record Highs On President Trump\u2019s Endorsement\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYWF1OUgweFU0d1NlNU4ya1FYQVJSVTRCX3IwM0NMd19VVmN5RzNtUmc1c2FhTU9abXdnTmVnMDE2QUxna3ZrUEF3Zkd0SFUtOWx3QkF2elBuNkNTcmZDRm1BRUkwMVRwYU0xaUVsWDZLSk0yeEtiMFFPV0t3ZXZ3OW15QUg5V0xHNnRrU1J5VXdvX09Oa0ZmRmJvV0VTVlFRRFh6c3E5RmtHckx0MXpNVVZTWmJpLTUtUXBHSG5pWEFfQll0ejRneDFB?oc=5",
+   "tickers": [
+    "DELL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "DELL",
+   "strength": 88,
+   "reason": "Trump explicitly endorses Dell, driving stock to record highs"
+  },
+  {
    "date": "2026-08-15T12:40:22Z",
    "platform": "News",
    "text": "Why Is IBM Stock Surging Nearly 7% Higher In Overnight Trading? - Stocktwits \u2014 Why Is IBM Stock Surging Nearly 7% Higher In Overnight Trading?\u00a0\u00a0Stocktwits",
@@ -115,22 +147,6 @@
    "primary_ticker": "DVLT",
    "strength": 50,
    "reason": "Discounted stock offering pressures share price; dilutive capital raise"
-  },
-  {
-   "date": "2026-08-15T09:32:01Z",
-   "platform": "News",
-   "text": "KEEL Stock Jumps Onto Retail Radar As Investors Eye First Data Center Lease Announcement - Stocktwits \u2014 KEEL Stock Jumps Onto Retail Radar As Investors Eye First Data Center Lease Announcement\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVHpiUDN5T2I5aVFzNkpxZGZjdUJEVG0xLXN0c3pVRWo2REVuRGNZTFpvLXJTT2luZVhnTC1iVmFtcFYxbkpnanphZ3E0N0ExWmx5UGh4cGw2QmRiQXl3RG81OWlKRnEwOHVHT0FWdXlGd2VIZVhjM1k2TTU0THctQ3cyUVhNNG9JcGJQMlhPVHdWbkFVSVpfR25lNzVCMTJ4cGZRR05JcnR2SWFvSGc1VnYyMzFMMnFDLURZLW5pMGk3UUwyWktaVVNmZUdDZ21QZGQ0bEZfU0o1LXRvREhFd3h2NXBTMjQ?oc=5",
-   "tickers": [
-    "KEEL"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "KEEL",
-   "strength": 20,
-   "reason": "Data center lease announcement drives retail attention; no Trump or macro catalyst identified here."
   },
   {
    "date": "2026-08-15T07:32:10Z",
@@ -2496,30 +2512,6 @@
    "primary_ticker": "SPY",
    "strength": 30,
    "reason": "Commentary on admin stock investments raises crony capitalism concerns but direction ambiguous pending which stocks are involved",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": 0.3,
-    "base": 770.56,
-    "last": 772.91,
-    "base_date": "2026-08-11",
-    "last_date": "2026-08-12"
-   }
-  },
-  {
-   "date": "2026-08-11T10:00:00Z",
-   "platform": "News",
-   "text": "Commentary: The Trump administration's investments in corporate stocks raise fears of 'crony capitalism' - latimes.com \u2014 Commentary: The Trump administration's investments in corporate stocks raise fears of 'crony capitalism'\u00a0\u00a0latimes.com",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZ2RPN3lGZlNrM3R6c0F6UGVOYUNHSlZJVnBFMFVPTm03LVJHYmRZUzdiM1NZRHNQSHVNNVVOWS1LLVRSQXlBQzFhRVg3WWNqLU1LVmNhUmw4bGw5b3kyN0dlVzZyM0xuTEpLNlZZdlJqaHNvYzYyS2JOd1lJam9TTnVKRGUwNEFVbm9UZVZweU51YVRSTXBoVUNGcGp3XzV6STh0S3phOFl6bDRTMHd1ZzZMSUtYczlvd05VaW5MRWlfNHV5eVc1blMxZWFXNC0tUUthOGVB?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "SPY",
-   "strength": 25,
-   "reason": "Commentary on administration stock investments raises crony capitalism concerns; vague policy risk",
    "price_since": {
     "ticker": "SPY",
     "pct": 0.3,
