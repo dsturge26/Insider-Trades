@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-08-16T11:19:25Z",
+ "last_updated": "2026-08-16T11:45:12Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-08-16T10:33:26Z",
+   "platform": "News",
+   "text": "IBM Stock Rallies On Trump Administration\u2019s $1B Grant: Analysts Say \u2018Big Blue\u2019 Could Become First US Quantum Foundry - Stocktwits \u2014 IBM Stock Rallies On Trump Administration\u2019s $1B Grant: Analysts Say \u2018Big Blue\u2019 Could Become First US Quantum Foundry\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOVG52c0VBRjZ6TzVuLThuSWdTN3NxMlIzUEc0aWVkUllDZDJMSVVMRlo1Rkgxb1Rja2swU1JlcVhlbmg4ejlfeGJoRGkzVG1VSEM4ZC1McWtGQnNVYklYVjYwQVliTHRoX3NqZDJZV0dlQ2NTaC1NaHhFaVAtdmVjdzVGcFhSangwdDluaTltYXZ3TXhaWWxISmlPREpkQ0N2VHdEMENJUkpDaDBGcUhSdXFZdExXbkhPaENSWlAxbVhPS3EyTnoyc3NoX2RpOXNqeEFYaFhhaGYxQUxRaWR0QUJwQ0J5VmhBY3ZpOV9YMVNjeUZlRHRzVXBLS3BpSER4VXpVWTVsYS1aZw?oc=5",
+   "tickers": [
+    "IBM"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "IBM",
+   "strength": 85,
+   "reason": "Trump administration awarded IBM a $1B federal contract for quantum foundry\u2014direct bullish catalyst for named public company."
+  },
   {
    "date": "2026-08-15T14:09:54Z",
    "platform": "News",
@@ -321,22 +337,6 @@
    "primary_ticker": "IBM",
    "strength": 35,
    "reason": "IBM surge overnight; unclear if Trump-linked catalyst or broader tech move; needs context"
-  },
-  {
-   "date": "2026-08-15T00:40:58Z",
-   "platform": "News",
-   "text": "IBM Stock Rallies On Trump Administration\u2019s $1B Grant: Analysts Say \u2018Big Blue\u2019 Could Become First US Quantum Foundry - Stocktwits \u2014 IBM Stock Rallies On Trump Administration\u2019s $1B Grant: Analysts Say \u2018Big Blue\u2019 Could Become First US Quantum Foundry\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOVG52c0VBRjZ6TzVuLThuSWdTN3NxMlIzUEc0aWVkUllDZDJMSVVMRlo1Rkgxb1Rja2swU1JlcVhlbmg4ejlfeGJoRGkzVG1VSEM4ZC1McWtGQnNVYklYVjYwQVliTHRoX3NqZDJZV0dlQ2NTaC1NaHhFaVAtdmVjdzVGcFhSangwdDluaTltYXZ3TXhaWWxISmlPREpkQ0N2VHdEMENJUkpDaDBGcUhSdXFZdExXbkhPaENSWlAxbVhPS3EyTnoyc3NoX2RpOXNqeEFYaFhhaGYxQUxRaWR0QUJwQ0J5VmhBY3ZpOV9YMVNjeUZlRHRzVXBLS3BpSER4VXpVWTVsYS1aZw?oc=5",
-   "tickers": [
-    "IBM"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "IBM",
-   "strength": 80,
-   "reason": "Trump Administration awards IBM $1B federal contract for quantum foundry"
   },
   {
    "date": "2026-08-15T00:16:40Z",
@@ -2532,30 +2532,6 @@
     "base": 8.91,
     "last": 8.41,
     "base_date": "2026-08-11",
-    "last_date": "2026-08-12"
-   }
-  },
-  {
-   "date": "2026-08-10T22:43:12Z",
-   "platform": "News",
-   "text": "Trump media company announces a massive loss and new turnaround effort - MyNorthwest.com \u2014 Trump media company announces a massive loss and new turnaround effort\u00a0\u00a0MyNorthwest.com",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMU40WlZJdUJPc0ExY3FaSkpXRFlfTC1YRS0zdjNBSm9Nb1RRbEV2aTl1ZU1KRVRXanYxamhiMXJldnhVRzkxeFlJdFpSa1VVZVVTaXNvcGZwOGUyWkNnWXdoTENXTnJrY3Y2UHRJRzBPa3l5NmtVRVp5M0NGQjMwWHZyeEVTNU51a2xzaWlLMi1wbkt4VDlmUnB2eDNDN1Yzczh3Q1BGNllRQVR5ZVR2ag?oc=5",
-   "tickers": [
-    "DJT"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "DJT",
-   "strength": 45,
-   "reason": "Trump media company financial loss signals weakness in DJT underlying business",
-   "price_since": {
-    "ticker": "DJT",
-    "pct": -10.6,
-    "base": 9.39,
-    "last": 8.39,
-    "base_date": "2026-08-10",
     "last_date": "2026-08-12"
    }
   },
