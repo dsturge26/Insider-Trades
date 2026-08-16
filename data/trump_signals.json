@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-16T08:46:45Z",
+ "last_updated": "2026-08-16T09:26:38Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -49,6 +49,38 @@
    "primary_ticker": "KEEL",
    "strength": 20,
    "reason": "Data center lease announcement drives retail attention; no Trump or macro catalyst identified here."
+  },
+  {
+   "date": "2026-08-15T07:32:10Z",
+   "platform": "News",
+   "text": "Trump Says China Has Not Approved NVDA H200 Chip Purchases Yet \u2014 'They Want To Develop Their Own' - Stocktwits \u2014 Trump Says China Has Not Approved NVDA H200 Chip Purchases Yet \u2014 'They Want To Develop Their Own'\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZ2oxZ3ZfNVpTWGQwLTY3T0xzazUxbWY2a3ZreDlRRGE0ZHQxbmNRR29RSm11VXBPajBkd1V1M0VhRUJvVUp0V2lfM3ladmswQ2hMWGlsUjY5RE1ERXR0LTBwN2JLYTBNUk1GRC1QbjktYTlkeTU5MlgteEpYeURwZmhaR2NjUUJMVWs5SGVnbm9uTEZ2dkdmSmVVdzctQ0I3clJZZFM1YnVqbkd1RG9kQlpXUjY?oc=5",
+   "tickers": [
+    "NVDA"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "NVDA",
+   "strength": 40,
+   "reason": "Trump comment on China chip restrictions impacts NVIDIA sales; mixed signal"
+  },
+  {
+   "date": "2026-08-15T07:00:07Z",
+   "platform": "News",
+   "text": "CAR Stock Rises Premarket: CEO Calls Shares \u2018Undervalued\u2019 And Rules Out Issuing Stock At Current Levels - Stocktwits \u2014 CAR Stock Rises Premarket: CEO Calls Shares \u2018Undervalued\u2019 And Rules Out Issuing Stock At Current Levels\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOb0ViZF9JTXBKczhJbnM3czIyQ3dxdFNNN3JWd1BWaFRfTkIzeXFFQlhYU25JXy1yRzVPSlVaSUdvZGtHT0hsdUFpUm9oSGFZU2Rma2NpS0dsQXZMUGN3eEpqUTBrX0JSb0lDb0NfaWRsX2RSWExlcjlnSUQ2a0R6TkxIYlB2M0dLMXo3UkUxYzZ1YUJMdk5VLWZwRlA0RkFUcVFRMTBneGk3ZDBMeGJsbUVReFByRG9ROFE?oc=5",
+   "tickers": [
+    "CAR"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "CAR",
+   "strength": 30,
+   "reason": "CEO valuation call; not Trump-driven but market-relevant"
   },
   {
    "date": "2026-08-15T05:34:40Z",
@@ -2475,30 +2507,6 @@
     "pct": 0.3,
     "base": 60.93,
     "last": 61.1,
-    "base_date": "2026-08-11",
-    "last_date": "2026-08-12"
-   }
-  },
-  {
-   "date": "2026-08-11T04:10:04Z",
-   "platform": "News",
-   "text": "Trump Says China Has Not Approved NVDA H200 Chip Purchases Yet \u2014 'They Want To Develop Their Own' - Stocktwits \u2014 Trump Says China Has Not Approved NVDA H200 Chip Purchases Yet \u2014 'They Want To Develop Their Own'\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZ2oxZ3ZfNVpTWGQwLTY3T0xzazUxbWY2a3ZreDlRRGE0ZHQxbmNRR29RSm11VXBPajBkd1V1M0VhRUJvVUp0V2lfM3ladmswQ2hMWGlsUjY5RE1ERXR0LTBwN2JLYTBNUk1GRC1QbjktYTlkeTU5MlgteEpYeURwZmhaR2NjUUJMVWs5SGVnbm9uTEZ2dkdmSmVVdzctQ0I3clJZZFM1YnVqbkd1RG9kQlpXUjY?oc=5",
-   "tickers": [
-    "NVDA"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "SELL",
-   "primary_ticker": "NVDA",
-   "strength": 55,
-   "reason": "Trump states China has not approved NVDA chip sales; bearish signal for semiconductor export revenue.",
-   "price_since": {
-    "ticker": "NVDA",
-    "pct": 3.0,
-    "base": 217.5,
-    "last": 223.96,
     "base_date": "2026-08-11",
     "last_date": "2026-08-12"
    }
