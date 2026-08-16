@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-16T03:54:54Z",
+ "last_updated": "2026-08-16T04:35:25Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -97,6 +97,22 @@
    "primary_ticker": "C",
    "strength": 55,
    "reason": "Trump lauds Citi's M&A comeback; explicit praise of named company"
+  },
+  {
+   "date": "2026-08-15T01:54:28Z",
+   "platform": "News",
+   "text": "Dow, S&P 500, Nasdaq Futures Whipsaw After Trump\u2019s \u2018Power Plant Day\u2019 Warning To Iran: Why ASTS, VELO, MRVL, LUNR, FCEL Are In Focus - Stocktwits \u2014 Dow, S&P 500, Nasdaq Futures Whipsaw After Trump\u2019s \u2018Power Plant Day\u2019 Warning To Iran: Why ASTS, VELO, MRVL, LUNR, FCEL Are In Focus\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZXoyV3RqQ1I4NjdmNkktNFNlNHZ4MVFpRzNzNldsTEZRTFhaN0RMVXhGWnROVG9USWhwWWdkaEl3VzB4Q2xtYWt0WDNWcjdyUWF2T0x5SV83aWw0cTlXV2ZxV3ozZ0lybmZ3LVEtOUNEODB2emp5V2hTdjhfM29JXzJrTnFTOUhvb29wcURZNi1BdVI1UTlYdjdfWEpCTi1Cd1BkVm9EQUhwVElTS3ZYNEUwYkhzWkwtUUo1S2NHN0FTZnFmN3UwVHpCWWdpSkRwX2dObWV1MHV6RDdUWm81N1Jn?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "SPY",
+   "strength": 70,
+   "reason": "Trump's Iran warning causes market whipsaw; geopolitical bearish signal"
   },
   {
    "date": "2026-08-15T01:54:18Z",
@@ -470,7 +486,7 @@
     "ticker": "BTC-USD",
     "pct": 0.1,
     "base": 62975.59,
-    "last": 63058.24,
+    "last": 63053.36,
     "base_date": "2026-08-14",
     "last_date": "2026-08-16"
    }
@@ -2684,23 +2700,6 @@
    "reason": "Trump's majority-owned stock debuts \u2014 pure sentiment play, extremely volatile and headline-driven.",
    "market_reaction": "DJT spiked on debut then stayed volatile, moving heavily on Trump political/legal news.",
    "url": "https://www.nasdaq.com/market-activity/stocks/djt"
-  },
-  {
-   "date": "2021-07-01T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "HARRIS CORPORATION was awarded a $2.1B federal contract from Department of Transportation.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_693KA821F00222_6920_DTFA0102D03006_6920",
-   "tickers": [
-    "HRS"
-   ],
-   "contract_amount": 2.12,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "HRS",
-   "strength": 80,
-   "reason": "Harris Corporation awarded $2.1B federal contract from Department of Transportation; direct bullish catalyst for named public company."
   }
  ],
  "how_to_read": "Each card is Claude's read of a public Trump post: the affected ticker, whether it implies BUY / SELL / WATCH, a 0\u2013100 strength (how explicit/emphatic the post is \u2014 NOT a profit predictor), and why. A 2-year backtest found these don't beat buy-and-hold, so this is for awareness, not trading. Not financial advice."
