@@ -1,7 +1,41 @@
 {
- "last_updated": "2026-08-16T13:31:19Z",
+ "last_updated": "2026-08-16T13:59:50Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-08-16T13:25:16.584Z",
+   "platform": "Truth Social",
+   "text": "Peter Navarro: It Was a Great Scam While It Lasted: https://www.nytimes.com/2026/08/13/opinion/us-tariffs-economy-trade-transshipment-scam.html",
+   "tickers": [
+    "SPY"
+   ],
+   "engagement": 859,
+   "url": "https://truthsocial.com/@realDonaldTrump/117105407858063694",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "SPY",
+   "strength": 45,
+   "reason": "Navarro critiques tariff effectiveness; implies tariff policy may be flawed or costly to economy"
+  },
+  {
+   "date": "2026-08-16T13:24:11.862Z",
+   "platform": "Truth Social",
+   "text": "Trump wins legal battle to keep cheap imports subject to tariffs: https://www.axios.com/2026/08/13/trump-de-minimis-tariff-court",
+   "tickers": [
+    "SPY"
+   ],
+   "engagement": 1006,
+   "url": "https://truthsocial.com/@realDonaldTrump/117105403616486905",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "SPY",
+   "strength": 55,
+   "reason": "Court victory upholds Trump tariff authority; supports continuation of tariff regime favored by administration"
+  },
   {
    "date": "2026-08-16T10:33:26Z",
    "platform": "News",
@@ -2475,54 +2509,6 @@
     "pct": 0.3,
     "base": 770.56,
     "last": 772.91,
-    "base_date": "2026-08-11",
-    "last_date": "2026-08-12"
-   }
-  },
-  {
-   "date": "2026-08-11T08:06:15Z",
-   "platform": "News",
-   "text": "The Latest: Trump pivots back to sanctions for Iran as other strategies to end his war fizzle - CBS 17 \u2014 The Latest: Trump pivots back to sanctions for Iran as other strategies to end his war fizzle\u00a0\u00a0CBS 17",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVkt5UzhheGhfSVpHanp6MmZYU1RoSlhnamFzREdWbkhCd1RJU0hZekNjdWpYVXJPWk1XTGU5RTJYU3ZVdkczZHVWT0o5ck93dC12RnZnb1k3WVpyZU5LMFVZSENmeEVMeUFKTmQwM0h6SUtTTDVxaERnXzVQR2tISjVHRHMzRGEzLWV4bHJ5MzgySl84SFJWYlZibHB4WS1vNXNhdThtUWtyMVZvLWR4RVRKWi1hb0ljRUcyZzNtMWRONTJxSWfSAcYBQVVfeXFMT1ZLeVM4YXhoX0laR2p6ejJmWFNUaEpYZ2phc0RHVm5IQndUSVNIWXpDY3VqWFVyT1pNV0xlOUUyWFN2VXZHM2R1Vk9KOXJPd3QtdkZ2Z29ZN1lacmVOSzBVWUhDZnhFTHlBSk5kMDNIeklLU0w1cWhEZ181UEdrSEo1R0RzM0RhMy1leGxyeTM4MkpfOEhSVmJWYmxweFktbzVzYXU4bVFrcjFWby1keEVUSlotYW9JY0VHMmczbTFkTjUycUln?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "SPY",
-   "strength": 35,
-   "reason": "Iran sanctions escalation typically bearish for broad market via geopolitical risk.",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": 0.3,
-    "base": 770.56,
-    "last": 772.91,
-    "base_date": "2026-08-11",
-    "last_date": "2026-08-12"
-   }
-  },
-  {
-   "date": "2026-08-11T08:06:15Z",
-   "platform": "News",
-   "text": "The Latest: Trump pivots back to sanctions for Iran as other strategies to end his war fizzle - ABC27 \u2014 The Latest: Trump pivots back to sanctions for Iran as other strategies to end his war fizzle\u00a0\u00a0ABC27",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSjBHdjVqR1MwX2V6d1pKUVdMd3ZKallLbVpUMmN3Sm9wSlc2OE55eGZzbUdtQ0RYa1dfZVlYdDVXcVVSNDRFQkxidnNiYkRyeFpsTDkzcTRyV2RrQk5zZGRYZ0dNankwajdfV3RBQlNIa3V1cHBEOXF1ZWZ6N2w1OFpETFNSUXJjSUpzQkhsYTl6Mm10cDhqSUhtbFRtbHpHRnBhVmE2VGktYlBFRE90ZlptRWMyVUtBcXVoYjl4ZFZlT3dpOEtIS0xlZE9pR0x2MVHSAdIBQVVfeXFMTkowR3Y1akdTMF9lendaSlFXTHd2SmpZS21aVDJjd0pvcEpXNjhOeXhmc21HbUNEWGtXX2VZWHQ1V3FVUjQ0RUJMYnZzYmJEcnhabEw5M3E0cldka0JOc2RkWGdHTWp5MGo3X1d0QUJTSGt1dXBwRDlxdWVmejdsNThaRExTUlFyY0lKc0JIbGE5ejJtdHA4aklIbWxUbWx6R0ZwYVZhNlRpLWJQRURPdGZabUVjMlVLQXF1aGI5eGRWZU93aThLSEtMZWRPaUdMdjFR?oc=5",
-   "tickers": [
-    "USO"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "USO",
-   "strength": 40,
-   "reason": "Iran sanctions strategy implies potential energy market volatility; geopolitical risk on oil.",
-   "price_since": {
-    "ticker": "USO",
-    "pct": -0.3,
-    "base": 127.61,
-    "last": 127.26,
     "base_date": "2026-08-11",
     "last_date": "2026-08-12"
    }
