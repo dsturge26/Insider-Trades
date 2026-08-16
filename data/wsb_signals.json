@@ -1,33 +1,42 @@
 {
- "last_updated": "2026-08-16T21:19:41Z",
+ "last_updated": "2026-08-16T21:45:24Z",
  "source": "ApeWisdom / r/wallstreetbets",
  "signals": [
   {
    "ticker": "MU",
    "name": "Micron Technology",
-   "mentions": 36,
-   "mentions_24h_ago": 32,
-   "change_pct": 12.5,
+   "mentions": 38,
+   "mentions_24h_ago": 29,
+   "change_pct": 31.0,
    "rank": 1,
-   "upvotes": 489
+   "upvotes": 499
+  },
+  {
+   "ticker": "NVDA",
+   "name": "NVIDIA",
+   "mentions": 34,
+   "mentions_24h_ago": 43,
+   "change_pct": -20.9,
+   "rank": 2,
+   "upvotes": 485
   },
   {
    "ticker": "SPY",
    "name": "SPDR S&amp;P 500 ETF Trust",
    "mentions": 34,
-   "mentions_24h_ago": 54,
-   "change_pct": -37.0,
-   "rank": 2,
+   "mentions_24h_ago": 51,
+   "change_pct": -33.3,
+   "rank": 3,
    "upvotes": 114
   },
   {
-   "ticker": "NVDA",
-   "name": "NVIDIA",
-   "mentions": 33,
-   "mentions_24h_ago": 44,
-   "change_pct": -25.0,
-   "rank": 3,
-   "upvotes": 483
+   "ticker": "SNDK",
+   "name": "Sandisk",
+   "mentions": 32,
+   "mentions_24h_ago": 31,
+   "change_pct": 3.2,
+   "rank": 4,
+   "upvotes": 74
   },
   {
    "ticker": "SPCX",
@@ -35,44 +44,35 @@
    "mentions": 27,
    "mentions_24h_ago": 17,
    "change_pct": 58.8,
-   "rank": 4,
-   "upvotes": 221
-  },
-  {
-   "ticker": "SNDK",
-   "name": "Sandisk",
-   "mentions": 27,
-   "mentions_24h_ago": 32,
-   "change_pct": -15.6,
    "rank": 5,
-   "upvotes": 60
+   "upvotes": 222
   },
   {
    "ticker": "NBIS",
    "name": "Nebius Group",
    "mentions": 24,
-   "mentions_24h_ago": 33,
-   "change_pct": -27.3,
+   "mentions_24h_ago": 32,
+   "change_pct": -25.0,
    "rank": 6,
-   "upvotes": 110
+   "upvotes": 113
   },
   {
    "ticker": "MSTR",
    "name": "MicroStrategy",
-   "mentions": 18,
+   "mentions": 19,
    "mentions_24h_ago": 1,
-   "change_pct": 1700.0,
+   "change_pct": 1800.0,
    "rank": 7,
-   "upvotes": 171
+   "upvotes": 176
   },
   {
    "ticker": "DTE",
    "name": "DTE Energy",
-   "mentions": 16,
+   "mentions": 17,
    "mentions_24h_ago": 16,
-   "change_pct": 0.0,
+   "change_pct": 6.2,
    "rank": 8,
-   "upvotes": 317
+   "upvotes": 322
   },
   {
    "ticker": "QQQ",
@@ -81,7 +81,16 @@
    "mentions_24h_ago": 28,
    "change_pct": -42.9,
    "rank": 9,
-   "upvotes": 475
+   "upvotes": 473
+  },
+  {
+   "ticker": "AMD",
+   "name": "AMD",
+   "mentions": 14,
+   "mentions_24h_ago": 15,
+   "change_pct": -6.7,
+   "rank": 10,
+   "upvotes": 30
   },
   {
    "ticker": "NFLX",
@@ -89,7 +98,7 @@
    "mentions": 14,
    "mentions_24h_ago": 9,
    "change_pct": 55.6,
-   "rank": 10,
+   "rank": 11,
    "upvotes": 42
   },
   {
@@ -98,62 +107,53 @@
    "mentions": 13,
    "mentions_24h_ago": 12,
    "change_pct": 8.3,
-   "rank": 11,
+   "rank": 12,
    "upvotes": 448
   },
   {
-   "ticker": "AMD",
-   "name": "AMD",
-   "mentions": 12,
-   "mentions_24h_ago": 15,
-   "change_pct": -20.0,
-   "rank": 12,
-   "upvotes": 19
+   "ticker": "RDDT",
+   "name": "Reddit",
+   "mentions": 10,
+   "mentions_24h_ago": 25,
+   "change_pct": -60.0,
+   "rank": 13,
+   "upvotes": 24
+  },
+  {
+   "ticker": "GOOG",
+   "name": "Alphabet (Google)",
+   "mentions": 9,
+   "mentions_24h_ago": 16,
+   "change_pct": -43.8,
+   "rank": 14,
+   "upvotes": 34
   },
   {
    "ticker": "AVGO",
    "name": "Broadcom",
    "mentions": 9,
-   "mentions_24h_ago": 8,
-   "change_pct": 12.5,
-   "rank": 13,
+   "mentions_24h_ago": 7,
+   "change_pct": 28.6,
+   "rank": 15,
    "upvotes": 16
-  },
-  {
-   "ticker": "HTZ",
-   "name": "Hertz",
-   "mentions": 9,
-   "mentions_24h_ago": 11,
-   "change_pct": -18.2,
-   "rank": 14,
-   "upvotes": 14
   },
   {
    "ticker": "ONDS",
    "name": "Ondas Holdings",
    "mentions": 9,
-   "mentions_24h_ago": 8,
-   "change_pct": 12.5,
-   "rank": 15,
-   "upvotes": 40
-  },
-  {
-   "ticker": "RDDT",
-   "name": "Reddit",
-   "mentions": 9,
-   "mentions_24h_ago": 26,
-   "change_pct": -65.4,
+   "mentions_24h_ago": 10,
+   "change_pct": -10.0,
    "rank": 16,
-   "upvotes": 20
+   "upvotes": 41
   },
   {
-   "ticker": "GOOG",
-   "name": "Alphabet (Google)",
+   "ticker": "HTZ",
+   "name": "Hertz",
    "mentions": 8,
-   "mentions_24h_ago": 16,
-   "change_pct": -50.0,
+   "mentions_24h_ago": 12,
+   "change_pct": -33.3,
    "rank": 17,
-   "upvotes": 32
+   "upvotes": 12
   },
   {
    "ticker": "APLD",
@@ -162,7 +162,7 @@
    "mentions_24h_ago": 1,
    "change_pct": 700.0,
    "rank": 18,
-   "upvotes": 12
+   "upvotes": 13
   },
   {
    "ticker": "NOK",
@@ -174,12 +174,21 @@
    "upvotes": 12
   },
   {
+   "ticker": "ASTS",
+   "name": "AST SpaceMobile",
+   "mentions": 7,
+   "mentions_24h_ago": 9,
+   "change_pct": -22.2,
+   "rank": 20,
+   "upvotes": 4
+  },
+  {
    "ticker": "AAOI",
    "name": "Applied Optoelectronics",
    "mentions": 7,
    "mentions_24h_ago": 7,
    "change_pct": 0.0,
-   "rank": 20,
+   "rank": 21,
    "upvotes": 11
   },
   {
@@ -188,8 +197,8 @@
    "mentions": 7,
    "mentions_24h_ago": 5,
    "change_pct": 40.0,
-   "rank": 21,
-   "upvotes": 33
+   "rank": 22,
+   "upvotes": 36
   },
   {
    "ticker": "HOOD",
@@ -197,35 +206,26 @@
    "mentions": 6,
    "mentions_24h_ago": 1,
    "change_pct": 500.0,
-   "rank": 22,
+   "rank": 23,
    "upvotes": 14
   },
   {
-   "ticker": "ASTS",
-   "name": "AST SpaceMobile",
+   "ticker": "RKLB",
+   "name": "Rocket Lab USA",
    "mentions": 6,
-   "mentions_24h_ago": 11,
-   "change_pct": -45.5,
-   "rank": 23,
+   "mentions_24h_ago": 3,
+   "change_pct": 100.0,
+   "rank": 24,
    "upvotes": 5
   },
   {
-   "ticker": "API",
-   "name": "Agora.io",
-   "mentions": 6,
-   "mentions_24h_ago": 12,
-   "change_pct": -50.0,
-   "rank": 24,
-   "upvotes": 34
-  },
-  {
-   "ticker": "NKE",
-   "name": "Nike",
+   "ticker": "WMT",
+   "name": "Walmart",
    "mentions": 5,
    "mentions_24h_ago": 1,
    "change_pct": 400.0,
    "rank": 25,
-   "upvotes": 11
+   "upvotes": 13
   }
  ]
 }
