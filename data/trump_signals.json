@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-16T13:59:50Z",
+ "last_updated": "2026-08-16T14:31:52Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -85,6 +85,22 @@
    "reason": "Trump signals support for Palantir, bullish catalyst for stock"
   },
   {
+   "date": "2026-08-15T12:40:22Z",
+   "platform": "News",
+   "text": "Why Is IBM Stock Surging Nearly 7% Higher In Overnight Trading? - Stocktwits \u2014 Why Is IBM Stock Surging Nearly 7% Higher In Overnight Trading?\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQk9pekpVQ1Q1NnRyVEdqWjdJN29OTFpDY3Rkc08wdG96eTdtMHRzVVRmUFItUlRQQS11WXBWZFpHWU50d3hoRHBENXM2eGhKMF9QZF9qb3ZQT2pXREgyU1pTMzBFU0JGZ0lOTk90VlU4YURiV3I1LWtPdTVzZDZRbUZGWEUySWxkZXg1a2dzYVVTVUpsOU1Yc25qQ2U4OE9tX1MtbEZFNDZDalpaS2JlbndvcnYyUU1Ca0E2cGxqMi02S2s?oc=5",
+   "tickers": [
+    "IBM"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "IBM",
+   "strength": 70,
+   "reason": "IBM surging 7% overnight following federal quantum grant announcement"
+  },
+  {
    "date": "2026-08-15T11:40:49Z",
    "platform": "News",
    "text": "DVLT Stock Tumbles Pre-Market On Discounted Offering \u2013 Retail Slams The Move, Calling It \u2018Self-Inflicted Pain\u2019 - Stocktwits \u2014 DVLT Stock Tumbles Pre-Market On Discounted Offering \u2013 Retail Slams The Move, Calling It \u2018Self-Inflicted Pain\u2019\u00a0\u00a0Stocktwits",
@@ -149,6 +165,22 @@
    "reason": "China restrictions on NVDA chip purchases imply demand headwind"
   },
   {
+   "date": "2026-08-15T07:05:55Z",
+   "platform": "News",
+   "text": "T, VZ, TMUS Stocks Are Sliding Today \u2014 Is There A SpaceX Connection? - Stocktwits \u2014 T, VZ, TMUS Stocks Are Sliding Today \u2014 Is There A SpaceX Connection?\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUG5pWEtzTDBTb1NPWDVkeS10QXl2UHdNd1M4UmMzWDZ0cF9iY1ZkcG1UNFBhWGVjMDBoMWhfWkpDTGNGMjRLQzYyaXI0aUdvem5QQ1ZrOW4tR2tHZzR4YW1UdDRiNnowRmlHXzVCemgwQkV2WjVkUVZuekJINWZzZmdxQ3BEcWlTSmVLdXZPMUZTbzJBM3FScUFoVDh3UGpEVTI4TzgxY0ZwVWhMd2RFcG9nazQ2QllQOEVpMjVMb0xSTVRUV3c?oc=5",
+   "tickers": [
+    "VZ"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "VZ",
+   "strength": 40,
+   "reason": "Telecom stocks sliding on potential SpaceX competition threat \u2014 sector pressure unclear"
+  },
+  {
    "date": "2026-08-15T07:00:07Z",
    "platform": "News",
    "text": "CAR Stock Rises Premarket: CEO Calls Shares \u2018Undervalued\u2019 And Rules Out Issuing Stock At Current Levels - Stocktwits \u2014 CAR Stock Rises Premarket: CEO Calls Shares \u2018Undervalued\u2019 And Rules Out Issuing Stock At Current Levels\u00a0\u00a0Stocktwits",
@@ -211,22 +243,6 @@
    "primary_ticker": "QQQ",
    "strength": 40,
    "reason": "Chip sector rally and broad tech momentum"
-  },
-  {
-   "date": "2026-08-15T04:30:39Z",
-   "platform": "News",
-   "text": "Why Is IBM Stock Surging Nearly 7% Higher In Overnight Trading? - Stocktwits \u2014 Why Is IBM Stock Surging Nearly 7% Higher In Overnight Trading?\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQk9pekpVQ1Q1NnRyVEdqWjdJN29OTFpDY3Rkc08wdG96eTdtMHRzVVRmUFItUlRQQS11WXBWZFpHWU50d3hoRHBENXM2eGhKMF9QZF9qb3ZQT2pXREgyU1pTMzBFU0JGZ0lOTk90VlU4YURiV3I1LWtPdTVzZDZRbUZGWEUySWxkZXg1a2dzYVVTVUpsOU1Yc25qQ2U4OE9tX1MtbEZFNDZDalpaS2JlbndvcnYyUU1Ca0E2cGxqMi02S2s?oc=5",
-   "tickers": [
-    "IBM"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "IBM",
-   "strength": 40,
-   "reason": "IBM surging overnight; headline lacks detail on Trump catalyst; needs confirmation."
   },
   {
    "date": "2026-08-15T04:30:39Z",
