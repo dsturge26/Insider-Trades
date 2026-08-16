@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-16T12:00:47Z",
+ "last_updated": "2026-08-16T12:55:19Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -49,6 +49,22 @@
    "primary_ticker": "PLTR",
    "strength": 65,
    "reason": "Trump signals support for Palantir, bullish catalyst for stock"
+  },
+  {
+   "date": "2026-08-15T11:40:49Z",
+   "platform": "News",
+   "text": "DVLT Stock Tumbles Pre-Market On Discounted Offering \u2013 Retail Slams The Move, Calling It \u2018Self-Inflicted Pain\u2019 - Stocktwits \u2014 DVLT Stock Tumbles Pre-Market On Discounted Offering \u2013 Retail Slams The Move, Calling It \u2018Self-Inflicted Pain\u2019\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVUx3aGVQUk9NNklvanl0M0xObG44aVBxc0FCaTNESVRBUm14b05yTHExSnNIeGNrWVpXTkxhSmU2S0xZaUhTRHBvRVYtS1ZqTGNNVnpYSHVKSG85WG1jeWdmMXdZZ1pUV0h1YlNBaWlyZkFJVmRuR25PMGxJRGlKTi04U29DSHMxOEplQW9ZbmZqamluSEduUGR6cUc1WmlfbU5TbUJB?oc=5",
+   "tickers": [
+    "DVLT"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "DVLT",
+   "strength": 50,
+   "reason": "Discounted stock offering pressures share price; dilutive capital raise"
   },
   {
    "date": "2026-08-15T09:32:01Z",
@@ -690,22 +706,6 @@
    "primary_ticker": "XAR",
    "strength": 75,
    "reason": "Trump tariffs on drones directly boost Trump Jr.-linked dronemaker"
-  },
-  {
-   "date": "2026-08-14T10:38:53Z",
-   "platform": "News",
-   "text": "DVLT Stock Tumbles Pre-Market On Discounted Offering \u2013 Retail Slams The Move, Calling It \u2018Self-Inflicted Pain\u2019 - Stocktwits \u2014 DVLT Stock Tumbles Pre-Market On Discounted Offering \u2013 Retail Slams The Move, Calling It \u2018Self-Inflicted Pain\u2019\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVUx3aGVQUk9NNklvanl0M0xObG44aVBxc0FCaTNESVRBUm14b05yTHExSnNIeGNrWVpXTkxhSmU2S0xZaUhTRHBvRVYtS1ZqTGNNVnpYSHVKSG85WG1jeWdmMXdZZ1pUV0h1YlNBaWlyZkFJVmRuR25PMGxJRGlKTi04U29DSHMxOEplQW9ZbmZqamluSEduUGR6cUc1WmlfbU5TbUJB?oc=5",
-   "tickers": [
-    "DVLT"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "DVLT",
-   "strength": 55,
-   "reason": "Discounted stock offering dilutes existing shareholders; bearish signal"
   },
   {
    "date": "2026-08-14T10:38:53Z",
@@ -2528,94 +2528,6 @@
    }
   },
   {
-   "date": "2026-08-11T08:06:15Z",
-   "platform": "News",
-   "text": "The Latest: Trump pivots back to sanctions for Iran as other strategies to end his war fizzle - abc27.com \u2014 The Latest: Trump pivots back to sanctions for Iran as other strategies to end his war fizzle\u00a0\u00a0abc27.com",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSjBHdjVqR1MwX2V6d1pKUVdMd3ZKallLbVpUMmN3Sm9wSlc2OE55eGZzbUdtQ0RYa1dfZVlYdDVXcVVSNDRFQkxidnNiYkRyeFpsTDkzcTRyV2RrQk5zZGRYZ0dNankwajdfV3RBQlNIa3V1cHBEOXF1ZWZ6N2w1OFpETFNSUXJjSUpzQkhsYTl6Mm10cDhqSUhtbFRtbHpHRnBhVmE2VGktYlBFRE90ZlptRWMyVUtBcXVoYjl4ZFZlT3dpOEtIS0xlZE9pR0x2MVHSAdIBQVVfeXFMTkowR3Y1akdTMF9lendaSlFXTHd2SmpZS21aVDJjd0pvcEpXNjhOeXhmc21HbUNEWGtXX2VZWHQ1V3FVUjQ0RUJMYnZzYmJEcnhabEw5M3E0cldka0JOc2RkWGdHTWp5MGo3X1d0QUJTSGt1dXBwRDlxdWVmejdsNThaRExTUlFyY0lKc0JIbGE5ejJtdHA4aklIbWxUbWx6R0ZwYVZhNlRpLWJQRURPdGZabUVjMlVLQXF1aGI5eGRWZU93aThLSEtMZWRPaUdMdjFR?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "SPY",
-   "strength": 40,
-   "reason": "Iran sanctions policy pivot; typically bearish for broad market (geopolitical risk, oil volatility).",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": 0.4,
-    "base": 770.56,
-    "last": 773.42,
-    "base_date": "2026-08-11",
-    "last_date": "2026-08-12"
-   }
-  },
-  {
-   "date": "2026-08-11T07:00:00Z",
-   "platform": "News",
-   "text": "Bill Ackman Endorses Trump Accounts As Key Win For Market Participation - scanx.trade \u2014 Bill Ackman Endorses Trump Accounts As Key Win For Market Participation\u00a0\u00a0scanx.trade",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRENIWjk0ZWdtMXBnSjNvMzBWQTY2M0FSTHNBMzFwbERxbWVfR3pMU1FobVJQeEpadzN5c1pZM2JRbXRVVmd3M254LWx3djNZQV80Z1ozUGpRNjZFZ1JpTF83RVVrQTJYSlpQVk9tTzctMC1xQVp2LXpwSlMzSVFidnpYS1pwUEZoc09PdzNteHBkUldLQzdQTzUzNGJ1eFk3cGNPUUU1d0hxZy1SYWtBX0Q5TWtoOG1nbXN5WmYyanZsSXc?oc=5",
-   "tickers": [
-    "DJT"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "DJT",
-   "strength": 35,
-   "reason": "Prominent investor endorsement of Trump accounts signals market confidence in Trump-linked assets"
-  },
-  {
-   "date": "2026-08-11T04:40:40Z",
-   "platform": "News",
-   "text": "Trump says US has '100%' control of Hormuz as Iran demands war reparations - Business Standard \u2014 Trump says US has '100%' control of Hormuz as Iran demands war reparations\u00a0\u00a0Business Standard",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWWl3WW1pb2c2bEEzeUgtZm5uUjl6Qk8tT0x6YmVVUHMzQkJydW45d25NTkRvUFpzNW9melpDTllURUY4ekZtcU1SZU5Xak5DRjR4YUpCeUd3bEk4SlNIYUJiXzlkUnF2RlZ6SUlrQ0ktZG0yOTEwczdlY0tHVUlRUC1uYTRGajB1MVZIZlBYQjdEa3hwalMxcW1IX0d1QTZpbzcyUUx4VDZ6akFKQ25wOWJ3S1RYTGtEelF6OXJCUWtrWEVWVVVfSFRrdVNQQ0xvUnlj0gHYAUFVX3lxTE02UWJXWGlRVm85UkJXZ3NQbHU0YldQVkwwbVBWN01fc2R3VGZ6UFRKbUdFU1MyMjBReEtpdmZnbUpnMzlibnh2enJybmpMNGx5SU5HLUN5TGpjdnpJY2M2ZjZwR2N2WEh3dlVpQm4wVTVRNUU3TWRfTjBzRWZJUDlNUjdPV1VoNVdwdEVlWXZfelVobVFsOUMzYWphWG1aRHdmTVE5WVg1VmhLNEVpajhqQUt1ZllEc2xlVVVSSzg2aHNaVlMxQVVZUWR6Q1Fpblk2aWhxQlFhMg?oc=5",
-   "tickers": [
-    "XLE"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "XLE",
-   "strength": 35,
-   "reason": "Trump's Hormuz control statement implies stability in oil shipping lanes; mildly bullish for energy.",
-   "price_since": {
-    "ticker": "XLE",
-    "pct": 0.3,
-    "base": 60.93,
-    "last": 61.1,
-    "base_date": "2026-08-11",
-    "last_date": "2026-08-12"
-   }
-  },
-  {
-   "date": "2026-08-11T00:03:00Z",
-   "platform": "News",
-   "text": "As Trump Media Scraps Some Businesses, It's Doubling Down on Truth Social and the President - usnews.com \u2014 As Trump Media Scraps Some Businesses, It's Doubling Down on Truth Social and the President\u00a0\u00a0usnews.com",
-   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQjRtbUE3bU1LWmFTMHFjQmJHd2JlRWpkSnRhWThmNlJRVTltMVVQTllKWmM0V29tb3p3Wk5jTXpDRmpBV2ZuQzJjQWpfelJTUVg5ZE82MTJ1ZGR5b0FzWkZaOFhGbWNOOWsyZm8tYmtJamNlVkZVcW1ILTJsalEtTGdqVThqSzdaam52d0lYRzN2bldUTEoxX1NXMHd6X0Z1d2dsVzhOOXhNLUZOMWlDRkFMZXVCczViUG53RDVsQldueHZjQ3k3d3AxbHZhZ0ZaZ2ktNXNLNkN4RkFCR1lj?oc=5",
-   "tickers": [
-    "DJT"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "DJT",
-   "strength": 45,
-   "reason": "Trump Media restructuring toward Truth Social; strategy shift for DJT stock outlook unclear",
-   "price_since": {
-    "ticker": "DJT",
-    "pct": -5.6,
-    "base": 8.91,
-    "last": 8.41,
-    "base_date": "2026-08-11",
-    "last_date": "2026-08-12"
-   }
-  },
-  {
    "curated": true,
    "classified": true,
    "is_market": true,
@@ -2668,23 +2580,6 @@
    "reason": "Trump's majority-owned stock debuts \u2014 pure sentiment play, extremely volatile and headline-driven.",
    "market_reaction": "DJT spiked on debut then stayed volatile, moving heavily on Trump political/legal news.",
    "url": "https://www.nasdaq.com/market-activity/stocks/djt"
-  },
-  {
-   "date": "2021-07-01T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "HARRIS CORPORATION was awarded a $2.1B federal contract from Department of Transportation.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_693KA821F00222_6920_DTFA0102D03006_6920",
-   "tickers": [
-    "HRS"
-   ],
-   "contract_amount": 2.14,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "HRS",
-   "strength": 75,
-   "reason": "Harris Corp awarded $2.1B federal contract; bullish for defense contractor"
   }
  ],
  "how_to_read": "Each card is Claude's read of a public Trump post: the affected ticker, whether it implies BUY / SELL / WATCH, a 0\u2013100 strength (how explicit/emphatic the post is \u2014 NOT a profit predictor), and why. A 2-year backtest found these don't beat buy-and-hold, so this is for awareness, not trading. Not financial advice."
