@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-17T04:44:09Z",
+ "last_updated": "2026-08-17T05:21:58Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -180,6 +180,22 @@
    "primary_ticker": "IBM",
    "strength": 80,
    "reason": "IBM stock surge tied to Trump administration $1B quantum grant"
+  },
+  {
+   "date": "2026-08-15T20:09:25Z",
+   "platform": "News",
+   "text": "Why Is DJT Stock Up Premarket Today? - Stocktwits \u2014 Why Is DJT Stock Up Premarket Today?\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSk1xMmNPNUVJMDcxTEpIMzdrR05NSTUyc3dqa3o4OTRQUHh0M09ZVjFJZ01GRlltSGtQTlBhWWVJaGVKSVh0UTROTVdIREhzbm85OHJHaGMxaTQyVDFuSlNTbWtPbEZSTXduY1pmTWRwR296cE5UcURMT09RekhNV1RiWkYxOVB3cHlUN1BETi0wdnhTQTlSUXBkRldfQ0tM?oc=5",
+   "tickers": [
+    "DJT"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "DJT",
+   "strength": 40,
+   "reason": "Trump Media stock premarket move; unclear catalyst."
   },
   {
    "date": "2026-08-15T20:03:25Z",
@@ -1411,30 +1427,6 @@
   {
    "date": "2026-08-13T18:12:14Z",
    "platform": "News",
-   "text": "Why Is DJT Stock Up Premarket Today? - Stocktwits \u2014 Why Is DJT Stock Up Premarket Today?\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSk1xMmNPNUVJMDcxTEpIMzdrR05NSTUyc3dqa3o4OTRQUHh0M09ZVjFJZ01GRlltSGtQTlBhWWVJaGVKSVh0UTROTVdIREhzbm85OHJHaGMxaTQyVDFuSlNTbWtPbEZSTXduY1pmTWRwR296cE5UcURMT09RekhNV1RiWkYxOVB3cHlUN1BETi0wdnhTQTlSUXBkRldfQ0tM?oc=5",
-   "tickers": [
-    "DJT"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "DJT",
-   "strength": 20,
-   "reason": "DJT stock premarket movement; headline only, no context given on cause or direction clarity.",
-   "price_since": {
-    "ticker": "DJT",
-    "pct": -0.4,
-    "base": 8.3,
-    "last": 8.27,
-    "base_date": "2026-08-13",
-    "last_date": "2026-08-14"
-   }
-  },
-  {
-   "date": "2026-08-13T18:12:14Z",
-   "platform": "News",
    "text": "Why Is DJT Stock Up Premarket Today? - stocktwits.com \u2014 Why Is DJT Stock Up Premarket Today?\u00a0\u00a0stocktwits.com",
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSk1xMmNPNUVJMDcxTEpIMzdrR05NSTUyc3dqa3o4OTRQUHh0M09ZVjFJZ01GRlltSGtQTlBhWWVJaGVKSVh0UTROTVdIREhzbm85OHJHaGMxaTQyVDFuSlNTbWtPbEZSTXduY1pmTWRwR296cE5UcURMT09RekhNV1RiWkYxOVB3cHlUN1BETi0wdnhTQTlSUXBkRldfQ0tM?oc=5",
    "tickers": [
@@ -2342,30 +2334,6 @@
     "pct": 0.9,
     "base": 770.56,
     "last": 777.88,
-    "base_date": "2026-08-11",
-    "last_date": "2026-08-13"
-   }
-  },
-  {
-   "date": "2026-08-11T19:46:15Z",
-   "platform": "News",
-   "text": "TSLA, RIVN, LCID Fall After Trump Repeals Foundational Scientific Finding Supporting EV Transition - Stocktwits \u2014 TSLA, RIVN, LCID Fall After Trump Repeals Foundational Scientific Finding Supporting EV Transition\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOYTh1SUJ5ZVpud2xJaVJONFY5elh0TmNTVjA1dWw2MEQwNWpKemNTTWJTbnRDUlJjQkRCX0gzS3FVaXdXREtpN2tMZHNRX28xV2VDSXFIQ3RfVjJNc1VfNU1lWnIyLXFkcWJqOHRNd1lYNXRPMk13SDF1Y25BUmJSbHdkMnRuQlg1aVU3ZHlNT2J4RTBBb0hQUmJnV2o3YUk4NjhWSjJvdWNONGNsRjYwaHNYSFEtU3NwMmR4d2pkWExyc2w3MkpkQXo3OGg4aUdTbDJud2UzMHdkNE1MamxKMGN5SHlER3QxRVZ6SVMyQ3A3QQ?oc=5",
-   "tickers": [
-    "TSLA"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "TSLA",
-   "strength": 75,
-   "reason": "Trump repeals EV transition science; bearish for electric vehicle makers",
-   "price_since": {
-    "ticker": "TSLA",
-    "pct": 2.1,
-    "base": 332.81,
-    "last": 339.96,
     "base_date": "2026-08-11",
     "last_date": "2026-08-13"
    }
