@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-17T11:02:20Z",
+ "last_updated": "2026-08-17T11:40:56Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -742,6 +742,22 @@
    "reason": "Stock rallying ahead of Trump SOTU; direction unclear without speech details"
   },
   {
+   "date": "2026-08-15T02:37:26Z",
+   "platform": "News",
+   "text": "AMD Stock Is Having Its Best Year In A Decade \u2014 And CEO Lisa Su Gets $36M Equity Reward To Match - Stocktwits \u2014 AMD Stock Is Having Its Best Year In A Decade \u2014 And CEO Lisa Su Gets $36M Equity Reward To Match\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNTGc3ZlZNOENNNjhrSjQyUjJ5SVdfVDRyUE9wUW5VRHFpb01UVktVSnAxZEdRbE5STjRPQV9rQTQ1aU1Ca2d4YUZOX0RCb2trWGY3dERJVXdfMm9DcVVmSkJGRVAxUmxpN0o1d3RkSDhSdFJFVTV1TjFhbkh5ZlNPWFk1OHlCUHlYazBHUnk4SWlYQ3JhWDgtTURERlA4N2V4cklpcEFkcHJCX0c1RXh4SE5pa3VxdzZCWG1HQmRBYUdocVRZV3ZyOFJHQWp5eWh2M3ZELTBQR0RWcmZjM0JHT3NMRk1NZ2NQWXF0SElabw?oc=5",
+   "tickers": [
+    "AMD"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "AMD",
+   "strength": 40,
+   "reason": "AMD strong year and CEO comp reward; no Trump link or policy driver\u2014standard corporate news, not a tradable Trump signal."
+  },
+  {
    "date": "2026-08-15T02:16:57Z",
    "platform": "News",
    "text": "Is SOFI Stock \u2018One Of The Easiest\u2019 Longs? Why The Bull Case Is Still Intact According To 3 Analysts - stocktwits.com \u2014 Is SOFI Stock \u2018One Of The Easiest\u2019 Longs? Why The Bull Case Is Still Intact According To 3 Analysts\u00a0\u00a0stocktwits.com",
@@ -884,22 +900,6 @@
    "primary_ticker": "DG",
    "strength": 25,
    "reason": "Earnings-driven uncertainty amid macro headwinds; no Trump catalyst, general market noise."
-  },
-  {
-   "date": "2026-08-15T01:46:11Z",
-   "platform": "News",
-   "text": "AMD Stock Is Having Its Best Year In A Decade \u2014 And CEO Lisa Su Gets $36M Equity Reward To Match - Stocktwits \u2014 AMD Stock Is Having Its Best Year In A Decade \u2014 And CEO Lisa Su Gets $36M Equity Reward To Match\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNTGc3ZlZNOENNNjhrSjQyUjJ5SVdfVDRyUE9wUW5VRHFpb01UVktVSnAxZEdRbE5STjRPQV9rQTQ1aU1Ca2d4YUZOX0RCb2trWGY3dERJVXdfMm9DcVVmSkJGRVAxUmxpN0o1d3RkSDhSdFJFVTV1TjFhbkh5ZlNPWFk1OHlCUHlYazBHUnk4SWlYQ3JhWDgtTURERlA4N2V4cklpcEFkcHJCX0c1RXh4SE5pa3VxdzZCWG1HQmRBYUdocVRZV3ZyOFJHQWp5eWh2M3ZELTBQR0RWcmZjM0JHT3NMRk1NZ2NQWXF0SElabw?oc=5",
-   "tickers": [
-    "AMD"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "AMD",
-   "strength": 30,
-   "reason": "Best year in a decade with CEO equity reward; positive momentum, no Trump catalyst identified."
   },
   {
    "date": "2026-08-15T01:46:11Z",
