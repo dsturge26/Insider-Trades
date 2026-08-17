@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-17T07:15:52Z",
+ "last_updated": "2026-08-17T08:06:50Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -692,6 +692,22 @@
    "primary_ticker": "SPY",
    "strength": 35,
    "reason": "Large investor accumulating US equities signals market confidence; macro bullish undertone"
+  },
+  {
+   "date": "2026-08-15T03:18:55Z",
+   "platform": "News",
+   "text": "INTC Stock Rockets Toward Best Month Ever: Something More Than A Trump Pump Could Be Powering The Rally - Stocktwits \u2014 INTC Stock Rockets Toward Best Month Ever: Something More Than A Trump Pump Could Be Powering The Rally\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQT29KOURKeHprQ2xZbmpLUUc3MGRlTTE5Y1JHVXJ5TGhldk10eENQcmZLSzRWNDQyTmJFclFNUThmZ0tBRlZUQTZ3MGF1dlZwR0Q4aUtXUnZVQ2o1MjM3cFNpU2RrejRkd2E0OXBhOVNpdDdBdDVSSTR1c2M5NTZfYlg4NEFxODg3QWpMTXd0VVIzM3pZRS10OG5JWG9QUW52UjZvbXVvQ29uZ1lJb1NwbFljM1lBN1dreHdJZDdYZ1hKTjVidndnRWlJRnl5cnNpT2llcjVuSVltVDNzVFdHbmZYTEpua3JJVllOcXIxVmdfaThfeHRzVm9R?oc=5",
+   "tickers": [
+    "INTC"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "INTC",
+   "strength": 45,
+   "reason": "references Trump-linked rally in semiconductor stock; inferred bullish signal but not explicit Trump endorsement"
   },
   {
    "date": "2026-08-15T03:11:52Z",
@@ -2326,30 +2342,6 @@
     "pct": -6.8,
     "base": 8.91,
     "last": 8.3,
-    "base_date": "2026-08-11",
-    "last_date": "2026-08-13"
-   }
-  },
-  {
-   "date": "2026-08-11T19:55:00Z",
-   "platform": "News",
-   "text": "7 Companies Being Boycotted Over Trump Policies - U.S. News - Money \u2014 7 Companies Being Boycotted Over Trump Policies\u00a0\u00a0U.S. News - Money",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSTNHYk5NelJYekx2MlBPZUpZXzNzZmYxUkFpVzRPdlNuNDVMZUk3b1FJSXRHbTZaSHJfSTJlcGI3TThISVlpX2tZYWw2clB5bnVDMVdqanZoMXR3enJYRHZUM3ZLYU8xbUZxX3M1WnhjbFJSSW5xVmZ0RHNKQmN3dGxJWFFMbXZ2QUhwUl9xRnBuTVB6TGgxVzZVNE1qOWg1?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "SPY",
-   "strength": 30,
-   "reason": "Boycott activity creates uncertainty for affected companies but direction and magnitude of impact unclear without named list",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": 0.9,
-    "base": 770.56,
-    "last": 777.88,
     "base_date": "2026-08-11",
     "last_date": "2026-08-13"
    }
