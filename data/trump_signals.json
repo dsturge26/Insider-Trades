@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-08-18T15:46:01Z",
+ "last_updated": "2026-08-18T16:30:50Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-08-18T14:45:58Z",
+   "platform": "News",
+   "text": "TSLA Stock Slips Premarket: Musk Joins Trump\u2019s China Trip As FSD Delays Threaten Tesla\u2019s Biggest Factory - Stocktwits \u2014 TSLA Stock Slips Premarket: Musk Joins Trump\u2019s China Trip As FSD Delays Threaten Tesla\u2019s Biggest Factory\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVHl5OGJHalFWTEM0d0l2LXRjLVJ6QTVjV0t3a3J6YkxkMF9fT2ZGU2VkNGl2NGpEc0NxMjV0SkRHMDhQUWJVTXZUOTVFeVdfb1I4dDBzV25yNWc2UlRsaGpIb1h0dXZIcVMyUXNQZ0FUd01vMmVPQmd2NDBkMy0tV2E1TGs2emp0Xy1iMHA0Z21ISDNpSTFOQzRKRjZGSGhZQ21vY2R0dzZfbEVnOWh4VzhtRnVoWnRJRXMwblQ0VFdJRzVKWnAyOExR?oc=5",
+   "tickers": [
+    "TSLA"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "TSLA",
+   "strength": 45,
+   "reason": "FSD delays and factory risks threaten Tesla's China revenue"
+  },
   {
    "date": "2026-08-18T12:46:28Z",
    "platform": "News",
@@ -133,7 +149,7 @@
     "ticker": "NOW",
     "pct": 1.9,
     "base": 117.7,
-    "last": 119.97,
+    "last": 119.93,
     "base_date": "2026-08-17",
     "last_date": "2026-08-18"
    }
@@ -155,9 +171,9 @@
    "reason": "Trump explicit endorsement of Dell drives stock to record highs",
    "price_since": {
     "ticker": "DELL",
-    "pct": -3.0,
+    "pct": -3.9,
     "base": 479.81,
-    "last": 465.34,
+    "last": 461.11,
     "base_date": "2026-08-17",
     "last_date": "2026-08-18"
    }
@@ -181,7 +197,7 @@
     "ticker": "SPY",
     "pct": -0.6,
     "base": 772.67,
-    "last": 768.28,
+    "last": 768.29,
     "base_date": "2026-08-17",
     "last_date": "2026-08-18"
    }
@@ -205,7 +221,7 @@
     "ticker": "SPY",
     "pct": -0.6,
     "base": 772.67,
-    "last": 768.28,
+    "last": 768.32,
     "base_date": "2026-08-17",
     "last_date": "2026-08-18"
    }
@@ -227,9 +243,9 @@
    "reason": "BE stock rebounds after Crusoe project pause; AI power thesis intact but project uncertainty.",
    "price_since": {
     "ticker": "BE",
-    "pct": -10.2,
+    "pct": -10.8,
     "base": 232.16,
-    "last": 208.56,
+    "last": 207.19,
     "base_date": "2026-08-17",
     "last_date": "2026-08-18"
    }
@@ -251,9 +267,9 @@
    "reason": "AI power thesis recovery; Crusoe project pause unclear on net direction",
    "price_since": {
     "ticker": "BE",
-    "pct": -10.2,
+    "pct": -10.8,
     "base": 232.16,
-    "last": 208.56,
+    "last": 207.19,
     "base_date": "2026-08-17",
     "last_date": "2026-08-18"
    }
@@ -275,9 +291,9 @@
    "reason": "Trump administration awards IBM $1B quantum grant; concrete federal contract bullish signal",
    "price_since": {
     "ticker": "IBM",
-    "pct": 1.2,
+    "pct": 1.5,
     "base": 228.85,
-    "last": 231.54,
+    "last": 232.25,
     "base_date": "2026-08-17",
     "last_date": "2026-08-18"
    }
@@ -299,9 +315,9 @@
    "reason": "Trump administration awards IBM $1B federal contract for quantum foundry; direct bullish catalyst.",
    "price_since": {
     "ticker": "IBM",
-    "pct": 1.2,
+    "pct": 1.5,
     "base": 228.85,
-    "last": 231.54,
+    "last": 232.25,
     "base_date": "2026-08-17",
     "last_date": "2026-08-18"
    }
@@ -323,9 +339,9 @@
    "reason": "Trump Media doubling down on Truth Social and the president signals strategic focus on core asset.",
    "price_since": {
     "ticker": "DJT",
-    "pct": -0.2,
+    "pct": -0.6,
     "base": 8.1,
-    "last": 8.08,
+    "last": 8.05,
     "base_date": "2026-08-17",
     "last_date": "2026-08-18"
    }
@@ -347,9 +363,9 @@
    "reason": "Intel rally tied to Trump-era semiconductor momentum and foundry support",
    "price_since": {
     "ticker": "INTC",
-    "pct": -7.1,
+    "pct": -7.3,
     "base": 103.49,
-    "last": 96.14,
+    "last": 95.94,
     "base_date": "2026-08-17",
     "last_date": "2026-08-18"
    }
@@ -419,9 +435,9 @@
    "reason": "Trump reports China blocking high-end chip sales; bearish for NVDA export revenue.",
    "price_since": {
     "ticker": "NVDA",
-    "pct": -2.2,
+    "pct": -2.4,
     "base": 225.01,
-    "last": 219.97,
+    "last": 219.6,
     "base_date": "2026-08-17",
     "last_date": "2026-08-18"
    }
@@ -443,9 +459,9 @@
    "reason": "Trump states China has not approved NVDA H200 purchases; bearish for NVDA China revenue.",
    "price_since": {
     "ticker": "NVDA",
-    "pct": -2.3,
+    "pct": -2.4,
     "base": 225.01,
-    "last": 219.93,
+    "last": 219.6,
     "base_date": "2026-08-17",
     "last_date": "2026-08-18"
    }
@@ -467,9 +483,9 @@
    "reason": "Insider selling by cofounder; mild bearish signal.",
    "price_since": {
     "ticker": "NFLX",
-    "pct": 3.5,
+    "pct": 3.6,
     "base": 76.02,
-    "last": 78.69,
+    "last": 78.79,
     "base_date": "2026-08-17",
     "last_date": "2026-08-18"
    }
@@ -491,9 +507,9 @@
    "reason": "Co-founder stock sale; neutral/mixed signal (possible bearish sentiment but routine executive activity).",
    "price_since": {
     "ticker": "NFLX",
-    "pct": 3.5,
+    "pct": 3.6,
     "base": 76.02,
-    "last": 78.69,
+    "last": 78.79,
     "base_date": "2026-08-17",
     "last_date": "2026-08-18"
    }
@@ -517,7 +533,7 @@
     "ticker": "SPY",
     "pct": -0.6,
     "base": 772.67,
-    "last": 768.33,
+    "last": 768.31,
     "base_date": "2026-08-17",
     "last_date": "2026-08-18"
    }
@@ -542,7 +558,7 @@
     "ticker": "SPY",
     "pct": -0.6,
     "base": 772.67,
-    "last": 768.33,
+    "last": 768.29,
     "base_date": "2026-08-17",
     "last_date": "2026-08-18"
    }
@@ -567,7 +583,7 @@
     "ticker": "SPY",
     "pct": -0.6,
     "base": 772.67,
-    "last": 768.33,
+    "last": 768.27,
     "base_date": "2026-08-17",
     "last_date": "2026-08-18"
    }
@@ -592,7 +608,7 @@
     "ticker": "SPY",
     "pct": -0.6,
     "base": 772.67,
-    "last": 768.35,
+    "last": 768.27,
     "base_date": "2026-08-17",
     "last_date": "2026-08-18"
    }
@@ -614,9 +630,9 @@
    "reason": "Dollar General earnings risk in cautious market; not Trump-driven, macro macro-economic concern",
    "price_since": {
     "ticker": "DG",
-    "pct": 2.5,
+    "pct": 2.2,
     "base": 120.08,
-    "last": 123.12,
+    "last": 122.71,
     "base_date": "2026-08-17",
     "last_date": "2026-08-18"
    }
@@ -638,9 +654,9 @@
    "reason": "Trump-linked space stock bets emerge; inferred bullish sentiment on space names",
    "price_since": {
     "ticker": "RKLB",
-    "pct": -3.1,
+    "pct": -2.7,
     "base": 82.08,
-    "last": 79.5,
+    "last": 79.87,
     "base_date": "2026-08-17",
     "last_date": "2026-08-18"
    }
@@ -662,9 +678,9 @@
    "reason": "Trump association with space stocks inferred from holdings; speculative but market-moving rumor",
    "price_since": {
     "ticker": "RKLB",
-    "pct": -3.2,
+    "pct": -2.7,
     "base": 82.08,
-    "last": 79.46,
+    "last": 79.87,
     "base_date": "2026-08-17",
     "last_date": "2026-08-18"
    }
@@ -683,7 +699,15 @@
    "direction": "BUY",
    "primary_ticker": "IBM",
    "strength": 80,
-   "reason": "IBM stock surge on Trump quantum grant announcement; federal contract award bullish"
+   "reason": "IBM stock surge on Trump quantum grant announcement; federal contract award bullish",
+   "price_since": {
+    "ticker": "IBM",
+    "pct": 1.5,
+    "base": 228.85,
+    "last": 232.25,
+    "base_date": "2026-08-17",
+    "last_date": "2026-08-18"
+   }
   },
   {
    "date": "2026-08-15T20:23:10Z",
@@ -699,7 +723,15 @@
    "direction": "BUY",
    "primary_ticker": "IBM",
    "strength": 80,
-   "reason": "IBM stock surge tied to Trump administration $1B quantum grant"
+   "reason": "IBM stock surge tied to Trump administration $1B quantum grant",
+   "price_since": {
+    "ticker": "IBM",
+    "pct": 1.5,
+    "base": 228.85,
+    "last": 232.25,
+    "base_date": "2026-08-17",
+    "last_date": "2026-08-18"
+   }
   },
   {
    "date": "2026-08-15T20:09:25Z",
@@ -715,7 +747,15 @@
    "direction": "WATCH",
    "primary_ticker": "DJT",
    "strength": 40,
-   "reason": "Trump Media stock premarket move; unclear catalyst."
+   "reason": "Trump Media stock premarket move; unclear catalyst.",
+   "price_since": {
+    "ticker": "DJT",
+    "pct": -0.6,
+    "base": 8.1,
+    "last": 8.05,
+    "base_date": "2026-08-17",
+    "last_date": "2026-08-18"
+   }
   },
   {
    "date": "2026-08-15T20:09:25Z",
@@ -731,7 +771,15 @@
    "direction": "WATCH",
    "primary_ticker": "DJT",
    "strength": 30,
-   "reason": "Trump Media stock premarket move; direction unclear without additional context"
+   "reason": "Trump Media stock premarket move; direction unclear without additional context",
+   "price_since": {
+    "ticker": "DJT",
+    "pct": -0.6,
+    "base": 8.1,
+    "last": 8.05,
+    "base_date": "2026-08-17",
+    "last_date": "2026-08-18"
+   }
   },
   {
    "date": "2026-08-15T20:03:25Z",
