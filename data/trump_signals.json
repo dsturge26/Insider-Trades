@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-18T20:23:28Z",
+ "last_updated": "2026-08-18T20:50:06Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -620,9 +620,9 @@
    "reason": "Trump claims stock market success and strong economy; macro bullish tone but vague, no specific catalyst",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.6,
+    "pct": -0.7,
     "base": 772.67,
-    "last": 767.82,
+    "last": 767.45,
     "base_date": "2026-08-17",
     "last_date": "2026-08-18"
    }
@@ -2413,30 +2413,6 @@
     "pct": 1.1,
     "base": 8.27,
     "last": 8.36,
-    "base_date": "2026-08-12",
-    "last_date": "2026-08-14"
-   }
-  },
-  {
-   "date": "2026-08-12T16:59:16Z",
-   "platform": "News",
-   "text": "Federer-backed On\u2019s shares plunge as Americas sportswear growth slows - CTV News \u2014 Federer-backed On\u2019s shares plunge as Americas sportswear growth slows\u00a0\u00a0CTV News",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdVJTb2hoQU9xbjh6aF9fU3BidTBrSThzVjJIeUE0WFB1ZURIdFdPaENiVVVGWUppSmNyczdmZVlOeEltZ19ROG5rSGstUkxIblpHbC00bWQ4ZWJHYVpBalRaeHdGSzJTZlBPM215VHE1RXBjVjhvX2w5eWJ1TkdzVHdEdDJMMmVDTlVHaVRyR0ljQUJlWjAtcWZmWWI0dHJUenN0cWFBVGlQdHBpTXc?oc=5",
-   "tickers": [
-    "ONON"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "ONON",
-   "strength": 35,
-   "reason": "On Holdings share decline tied to Americas sportswear slowdown; bearish for the company but fundamentals-driven, not Trump-linked.",
-   "price_since": {
-    "ticker": "ONON",
-    "pct": 5.1,
-    "base": 31.01,
-    "last": 32.6,
     "base_date": "2026-08-12",
     "last_date": "2026-08-14"
    }
