@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-18T15:02:01Z",
+ "last_updated": "2026-08-18T15:46:01Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -128,7 +128,15 @@
    "direction": "BUY",
    "primary_ticker": "NOW",
    "strength": 65,
-   "reason": "Trump stake in ServiceNow creates bullish signal and retail buzz."
+   "reason": "Trump stake in ServiceNow creates bullish signal and retail buzz.",
+   "price_since": {
+    "ticker": "NOW",
+    "pct": 1.9,
+    "base": 117.7,
+    "last": 119.97,
+    "base_date": "2026-08-17",
+    "last_date": "2026-08-18"
+   }
   },
   {
    "date": "2026-08-17T22:47:33Z",
@@ -144,7 +152,15 @@
    "direction": "BUY",
    "primary_ticker": "DELL",
    "strength": 85,
-   "reason": "Trump explicit endorsement of Dell drives stock to record highs"
+   "reason": "Trump explicit endorsement of Dell drives stock to record highs",
+   "price_since": {
+    "ticker": "DELL",
+    "pct": -3.0,
+    "base": 479.81,
+    "last": 465.34,
+    "base_date": "2026-08-17",
+    "last_date": "2026-08-18"
+   }
   },
   {
    "date": "2026-08-17T20:40:02Z",
@@ -160,7 +176,15 @@
    "direction": "SELL",
    "primary_ticker": "SPY",
    "strength": 35,
-   "reason": "Tariff announcement bearish for broad market; family enrichment concerns infer policy risk."
+   "reason": "Tariff announcement bearish for broad market; family enrichment concerns infer policy risk.",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": -0.6,
+    "base": 772.67,
+    "last": 768.28,
+    "base_date": "2026-08-17",
+    "last_date": "2026-08-18"
+   }
   },
   {
    "date": "2026-08-17T18:28:00Z",
@@ -176,7 +200,15 @@
    "direction": "WATCH",
    "primary_ticker": "SPY",
    "strength": 15,
-   "reason": "General market outlook unrelated to Trump action"
+   "reason": "General market outlook unrelated to Trump action",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": -0.6,
+    "base": 772.67,
+    "last": 768.28,
+    "base_date": "2026-08-17",
+    "last_date": "2026-08-18"
+   }
   },
   {
    "date": "2026-08-17T16:59:47Z",
@@ -192,7 +224,15 @@
    "direction": "WATCH",
    "primary_ticker": "BE",
    "strength": 35,
-   "reason": "BE stock rebounds after Crusoe project pause; AI power thesis intact but project uncertainty."
+   "reason": "BE stock rebounds after Crusoe project pause; AI power thesis intact but project uncertainty.",
+   "price_since": {
+    "ticker": "BE",
+    "pct": -10.2,
+    "base": 232.16,
+    "last": 208.56,
+    "base_date": "2026-08-17",
+    "last_date": "2026-08-18"
+   }
   },
   {
    "date": "2026-08-17T16:59:47Z",
@@ -208,7 +248,15 @@
    "direction": "WATCH",
    "primary_ticker": "BE",
    "strength": 40,
-   "reason": "AI power thesis recovery; Crusoe project pause unclear on net direction"
+   "reason": "AI power thesis recovery; Crusoe project pause unclear on net direction",
+   "price_since": {
+    "ticker": "BE",
+    "pct": -10.2,
+    "base": 232.16,
+    "last": 208.56,
+    "base_date": "2026-08-17",
+    "last_date": "2026-08-18"
+   }
   },
   {
    "date": "2026-08-17T16:10:57Z",
@@ -224,7 +272,15 @@
    "direction": "BUY",
    "primary_ticker": "IBM",
    "strength": 75,
-   "reason": "Trump administration awards IBM $1B quantum grant; concrete federal contract bullish signal"
+   "reason": "Trump administration awards IBM $1B quantum grant; concrete federal contract bullish signal",
+   "price_since": {
+    "ticker": "IBM",
+    "pct": 1.2,
+    "base": 228.85,
+    "last": 231.54,
+    "base_date": "2026-08-17",
+    "last_date": "2026-08-18"
+   }
   },
   {
    "date": "2026-08-17T16:10:57Z",
@@ -240,7 +296,15 @@
    "direction": "BUY",
    "primary_ticker": "IBM",
    "strength": 70,
-   "reason": "Trump administration awards IBM $1B federal contract for quantum foundry; direct bullish catalyst."
+   "reason": "Trump administration awards IBM $1B federal contract for quantum foundry; direct bullish catalyst.",
+   "price_since": {
+    "ticker": "IBM",
+    "pct": 1.2,
+    "base": 228.85,
+    "last": 231.54,
+    "base_date": "2026-08-17",
+    "last_date": "2026-08-18"
+   }
   },
   {
    "date": "2026-08-17T15:37:56Z",
@@ -256,7 +320,15 @@
    "direction": "BUY",
    "primary_ticker": "DJT",
    "strength": 45,
-   "reason": "Trump Media doubling down on Truth Social and the president signals strategic focus on core asset."
+   "reason": "Trump Media doubling down on Truth Social and the president signals strategic focus on core asset.",
+   "price_since": {
+    "ticker": "DJT",
+    "pct": -0.2,
+    "base": 8.1,
+    "last": 8.08,
+    "base_date": "2026-08-17",
+    "last_date": "2026-08-18"
+   }
   },
   {
    "date": "2026-08-17T13:45:00Z",
@@ -272,7 +344,15 @@
    "direction": "BUY",
    "primary_ticker": "INTC",
    "strength": 55,
-   "reason": "Intel rally tied to Trump-era semiconductor momentum and foundry support"
+   "reason": "Intel rally tied to Trump-era semiconductor momentum and foundry support",
+   "price_since": {
+    "ticker": "INTC",
+    "pct": -7.1,
+    "base": 103.49,
+    "last": 96.14,
+    "base_date": "2026-08-17",
+    "last_date": "2026-08-18"
+   }
   },
   {
    "date": "2026-08-17T13:36:00Z",
@@ -288,7 +368,15 @@
    "direction": "BUY",
    "primary_ticker": "SERV",
    "strength": 50,
-   "reason": "Company partnership expansion with Grubhub/DoorDash; not Trump-specific but market-moving corporate news."
+   "reason": "Company partnership expansion with Grubhub/DoorDash; not Trump-specific but market-moving corporate news.",
+   "price_since": {
+    "ticker": "SERV",
+    "pct": -7.6,
+    "base": 4.9,
+    "last": 4.53,
+    "base_date": "2026-08-17",
+    "last_date": "2026-08-18"
+   }
   },
   {
    "date": "2026-08-17T13:36:00Z",
@@ -304,7 +392,15 @@
    "direction": "BUY",
    "primary_ticker": "SERV",
    "strength": 40,
-   "reason": "SERV stock rallies on Grubhub/DoorDash partnerships; new delivery deal expands opportunity."
+   "reason": "SERV stock rallies on Grubhub/DoorDash partnerships; new delivery deal expands opportunity.",
+   "price_since": {
+    "ticker": "SERV",
+    "pct": -7.6,
+    "base": 4.9,
+    "last": 4.53,
+    "base_date": "2026-08-17",
+    "last_date": "2026-08-18"
+   }
   },
   {
    "date": "2026-08-17T09:46:36Z",
@@ -320,7 +416,15 @@
    "direction": "SELL",
    "primary_ticker": "NVDA",
    "strength": 55,
-   "reason": "Trump reports China blocking high-end chip sales; bearish for NVDA export revenue."
+   "reason": "Trump reports China blocking high-end chip sales; bearish for NVDA export revenue.",
+   "price_since": {
+    "ticker": "NVDA",
+    "pct": -2.2,
+    "base": 225.01,
+    "last": 219.97,
+    "base_date": "2026-08-17",
+    "last_date": "2026-08-18"
+   }
   },
   {
    "date": "2026-08-17T09:46:36Z",
@@ -336,7 +440,15 @@
    "direction": "SELL",
    "primary_ticker": "NVDA",
    "strength": 55,
-   "reason": "Trump states China has not approved NVDA H200 purchases; bearish for NVDA China revenue."
+   "reason": "Trump states China has not approved NVDA H200 purchases; bearish for NVDA China revenue.",
+   "price_since": {
+    "ticker": "NVDA",
+    "pct": -2.3,
+    "base": 225.01,
+    "last": 219.93,
+    "base_date": "2026-08-17",
+    "last_date": "2026-08-18"
+   }
   },
   {
    "date": "2026-08-17T09:35:13Z",
@@ -352,7 +464,15 @@
    "direction": "SELL",
    "primary_ticker": "NFLX",
    "strength": 30,
-   "reason": "Insider selling by cofounder; mild bearish signal."
+   "reason": "Insider selling by cofounder; mild bearish signal.",
+   "price_since": {
+    "ticker": "NFLX",
+    "pct": 3.5,
+    "base": 76.02,
+    "last": 78.69,
+    "base_date": "2026-08-17",
+    "last_date": "2026-08-18"
+   }
   },
   {
    "date": "2026-08-17T09:35:13Z",
@@ -368,7 +488,15 @@
    "direction": "WATCH",
    "primary_ticker": "NFLX",
    "strength": 25,
-   "reason": "Co-founder stock sale; neutral/mixed signal (possible bearish sentiment but routine executive activity)."
+   "reason": "Co-founder stock sale; neutral/mixed signal (possible bearish sentiment but routine executive activity).",
+   "price_since": {
+    "ticker": "NFLX",
+    "pct": 3.5,
+    "base": 76.02,
+    "last": 78.69,
+    "base_date": "2026-08-17",
+    "last_date": "2026-08-18"
+   }
   },
   {
    "date": "2026-08-17T06:22:03Z",
@@ -384,7 +512,15 @@
    "direction": "WATCH",
    "primary_ticker": "SPY",
    "strength": 15,
-   "reason": "Generic market direction question with no Trump-specific catalyst or signal"
+   "reason": "Generic market direction question with no Trump-specific catalyst or signal",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": -0.6,
+    "base": 772.67,
+    "last": 768.33,
+    "base_date": "2026-08-17",
+    "last_date": "2026-08-18"
+   }
   },
   {
    "date": "2026-08-16T20:10:37.719Z",
@@ -401,7 +537,15 @@
    "direction": "BUY",
    "primary_ticker": "SPY",
    "strength": 25,
-   "reason": "Trump claims stock market success and strong economy; macro bullish tone but vague, no specific catalyst"
+   "reason": "Trump claims stock market success and strong economy; macro bullish tone but vague, no specific catalyst",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": -0.6,
+    "base": 772.67,
+    "last": 768.33,
+    "base_date": "2026-08-17",
+    "last_date": "2026-08-18"
+   }
   },
   {
    "date": "2026-08-16T13:25:16.584Z",
@@ -418,7 +562,15 @@
    "direction": "SELL",
    "primary_ticker": "SPY",
    "strength": 45,
-   "reason": "Navarro critiques tariff effectiveness; implies tariff policy may be flawed or costly to economy"
+   "reason": "Navarro critiques tariff effectiveness; implies tariff policy may be flawed or costly to economy",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": -0.6,
+    "base": 772.67,
+    "last": 768.33,
+    "base_date": "2026-08-17",
+    "last_date": "2026-08-18"
+   }
   },
   {
    "date": "2026-08-16T13:24:11.862Z",
@@ -435,7 +587,15 @@
    "direction": "BUY",
    "primary_ticker": "SPY",
    "strength": 55,
-   "reason": "Court victory upholds Trump tariff authority; supports continuation of tariff regime favored by administration"
+   "reason": "Court victory upholds Trump tariff authority; supports continuation of tariff regime favored by administration",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": -0.6,
+    "base": 772.67,
+    "last": 768.35,
+    "base_date": "2026-08-17",
+    "last_date": "2026-08-18"
+   }
   },
   {
    "date": "2026-08-15T22:35:44Z",
@@ -451,7 +611,15 @@
    "direction": "WATCH",
    "primary_ticker": "DG",
    "strength": 40,
-   "reason": "Dollar General earnings risk in cautious market; not Trump-driven, macro macro-economic concern"
+   "reason": "Dollar General earnings risk in cautious market; not Trump-driven, macro macro-economic concern",
+   "price_since": {
+    "ticker": "DG",
+    "pct": 2.5,
+    "base": 120.08,
+    "last": 123.12,
+    "base_date": "2026-08-17",
+    "last_date": "2026-08-18"
+   }
   },
   {
    "date": "2026-08-15T21:23:00Z",
@@ -467,7 +635,15 @@
    "direction": "BUY",
    "primary_ticker": "RKLB",
    "strength": 55,
-   "reason": "Trump-linked space stock bets emerge; inferred bullish sentiment on space names"
+   "reason": "Trump-linked space stock bets emerge; inferred bullish sentiment on space names",
+   "price_since": {
+    "ticker": "RKLB",
+    "pct": -3.1,
+    "base": 82.08,
+    "last": 79.5,
+    "base_date": "2026-08-17",
+    "last_date": "2026-08-18"
+   }
   },
   {
    "date": "2026-08-15T21:23:00Z",
@@ -483,7 +659,15 @@
    "direction": "BUY",
    "primary_ticker": "RKLB",
    "strength": 60,
-   "reason": "Trump association with space stocks inferred from holdings; speculative but market-moving rumor"
+   "reason": "Trump association with space stocks inferred from holdings; speculative but market-moving rumor",
+   "price_since": {
+    "ticker": "RKLB",
+    "pct": -3.2,
+    "base": 82.08,
+    "last": 79.46,
+    "base_date": "2026-08-17",
+    "last_date": "2026-08-18"
+   }
   },
   {
    "date": "2026-08-15T20:23:10Z",
