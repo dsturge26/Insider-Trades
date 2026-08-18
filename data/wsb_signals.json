@@ -1,132 +1,114 @@
 {
- "last_updated": "2026-08-18T14:16:47Z",
+ "last_updated": "2026-08-18T15:02:02Z",
  "source": "ApeWisdom / r/wallstreetbets",
  "signals": [
   {
    "ticker": "SPY",
    "name": "SPDR S&amp;P 500 ETF Trust",
-   "mentions": 367,
-   "mentions_24h_ago": 104,
-   "change_pct": 252.9,
+   "mentions": 357,
+   "mentions_24h_ago": 120,
+   "change_pct": 197.5,
    "rank": 1,
-   "upvotes": 1110
+   "upvotes": 1108
   },
   {
    "ticker": "SNDK",
    "name": "Sandisk",
-   "mentions": 301,
-   "mentions_24h_ago": 174,
-   "change_pct": 73.0,
+   "mentions": 263,
+   "mentions_24h_ago": 229,
+   "change_pct": 14.8,
    "rank": 2,
-   "upvotes": 880
+   "upvotes": 758
   },
   {
    "ticker": "MU",
    "name": "Micron Technology",
-   "mentions": 223,
-   "mentions_24h_ago": 165,
-   "change_pct": 35.2,
+   "mentions": 221,
+   "mentions_24h_ago": 188,
+   "change_pct": 17.6,
    "rank": 3,
-   "upvotes": 1207
+   "upvotes": 1210
   },
   {
    "ticker": "META",
    "name": "Meta Platforms (Facebook)",
-   "mentions": 152,
-   "mentions_24h_ago": 13,
-   "change_pct": 1069.2,
+   "mentions": 156,
+   "mentions_24h_ago": 15,
+   "change_pct": 940.0,
    "rank": 4,
-   "upvotes": 383
+   "upvotes": 395
   },
   {
    "ticker": "NKE",
    "name": "Nike",
-   "mentions": 133,
-   "mentions_24h_ago": 2,
-   "change_pct": 6550.0,
+   "mentions": 140,
+   "mentions_24h_ago": 3,
+   "change_pct": 4566.7,
    "rank": 5,
-   "upvotes": 2994
+   "upvotes": 718
   },
   {
    "ticker": "SPCX",
    "name": "SpaceX",
-   "mentions": 110,
-   "mentions_24h_ago": 51,
-   "change_pct": 115.7,
+   "mentions": 100,
+   "mentions_24h_ago": 80,
+   "change_pct": 25.0,
    "rank": 6,
+   "upvotes": 186
+  },
+  {
+   "ticker": "NVDA",
+   "name": "NVIDIA",
+   "mentions": 97,
+   "mentions_24h_ago": 76,
+   "change_pct": 27.6,
+   "rank": 7,
    "upvotes": 213
   },
   {
    "ticker": "RDDT",
    "name": "Reddit",
-   "mentions": 96,
-   "mentions_24h_ago": 39,
-   "change_pct": 146.2,
-   "rank": 7,
-   "upvotes": 382
+   "mentions": 95,
+   "mentions_24h_ago": 47,
+   "change_pct": 102.1,
+   "rank": 8,
+   "upvotes": 383
   },
   {
    "ticker": "NBIS",
    "name": "Nebius Group",
-   "mentions": 96,
-   "mentions_24h_ago": 57,
-   "change_pct": 68.4,
-   "rank": 8,
-   "upvotes": 315
-  },
-  {
-   "ticker": "NVDA",
-   "name": "NVIDIA",
    "mentions": 95,
-   "mentions_24h_ago": 75,
-   "change_pct": 26.7,
+   "mentions_24h_ago": 67,
+   "change_pct": 41.8,
    "rank": 9,
-   "upvotes": 219
+   "upvotes": 320
   },
   {
    "ticker": "QQQ",
    "name": "Invesco QQQ ETF",
-   "mentions": 82,
-   "mentions_24h_ago": 43,
-   "change_pct": 90.7,
+   "mentions": 85,
+   "mentions_24h_ago": 50,
+   "change_pct": 70.0,
    "rank": 10,
    "upvotes": 231
   },
   {
    "ticker": "MSFT",
    "name": "Microsoft",
-   "mentions": 78,
-   "mentions_24h_ago": 18,
-   "change_pct": 333.3,
+   "mentions": 68,
+   "mentions_24h_ago": 24,
+   "change_pct": 183.3,
    "rank": 11,
-   "upvotes": 191
+   "upvotes": 154
   },
   {
    "ticker": "DTE",
    "name": "DTE Energy",
-   "mentions": 58,
-   "mentions_24h_ago": 26,
-   "change_pct": 123.1,
+   "mentions": 55,
+   "mentions_24h_ago": 28,
+   "change_pct": 96.4,
    "rank": 12,
-   "upvotes": 1560
-  },
-  {
-   "ticker": "GOOG",
-   "name": "Alphabet (Google)",
-   "mentions": 57,
-   "mentions_24h_ago": 22,
-   "change_pct": 159.1,
-   "rank": 13,
-   "upvotes": 186
-  },
-  {
-   "ticker": "TSLA",
-   "name": "Tesla",
-   "mentions": 53,
-   "mentions_24h_ago": 13,
-   "change_pct": 307.7,
-   "rank": 14,
-   "upvotes": 91
+   "upvotes": 1557
   },
   {
    "ticker": "KLAR",
@@ -134,8 +116,8 @@
    "mentions": 51,
    "mentions_24h_ago": 12,
    "change_pct": 325.0,
-   "rank": 15,
-   "upvotes": 94
+   "rank": 13,
+   "upvotes": 98
   },
   {
    "ticker": "TLT",
@@ -143,8 +125,26 @@
    "mentions": 49,
    "mentions_24h_ago": 5,
    "change_pct": 880.0,
+   "rank": 14,
+   "upvotes": 85
+  },
+  {
+   "ticker": "TSLA",
+   "name": "Tesla",
+   "mentions": 46,
+   "mentions_24h_ago": 16,
+   "change_pct": 187.5,
+   "rank": 15,
+   "upvotes": 83
+  },
+  {
+   "ticker": "GOOG",
+   "name": "Alphabet (Google)",
+   "mentions": 44,
+   "mentions_24h_ago": 32,
+   "change_pct": 37.5,
    "rank": 16,
-   "upvotes": 82
+   "upvotes": 122
   },
   {
    "ticker": "BK",
@@ -158,56 +158,38 @@
   {
    "ticker": "AMZN",
    "name": "Amazon",
-   "mentions": 37,
-   "mentions_24h_ago": 10,
-   "change_pct": 270.0,
+   "mentions": 34,
+   "mentions_24h_ago": 16,
+   "change_pct": 112.5,
    "rank": 18,
-   "upvotes": 76
+   "upvotes": 64
   },
   {
-   "ticker": "GOOGL",
-   "name": "Alphabet (Google)",
-   "mentions": 37,
-   "mentions_24h_ago": 13,
-   "change_pct": 184.6,
+   "ticker": "AAPL",
+   "name": "Apple",
+   "mentions": 27,
+   "mentions_24h_ago": 10,
+   "change_pct": 170.0,
    "rank": 19,
-   "upvotes": 94
+   "upvotes": 57
   },
   {
    "ticker": "HTZ",
    "name": "Hertz",
-   "mentions": 29,
-   "mentions_24h_ago": 23,
-   "change_pct": 26.1,
+   "mentions": 26,
+   "mentions_24h_ago": 29,
+   "change_pct": -10.3,
    "rank": 20,
-   "upvotes": 39
+   "upvotes": 29
   },
   {
-   "ticker": "NOK",
-   "name": "Nokia",
-   "mentions": 24,
-   "mentions_24h_ago": 13,
-   "change_pct": 84.6,
+   "ticker": "GOOGL",
+   "name": "Alphabet (Google)",
+   "mentions": 26,
+   "mentions_24h_ago": 21,
+   "change_pct": 23.8,
    "rank": 21,
-   "upvotes": 49
-  },
-  {
-   "ticker": "USO",
-   "name": "United States Commodity Funds LLC - United States Oil Fund",
-   "mentions": 24,
-   "mentions_24h_ago": 4,
-   "change_pct": 500.0,
-   "rank": 22,
-   "upvotes": 60
-  },
-  {
-   "ticker": "SOXL",
-   "name": "Direxion Shares ETF Trust - Direxion Daily Semiconductor Bull 3X Share",
-   "mentions": 24,
-   "mentions_24h_ago": 10,
-   "change_pct": 140.0,
-   "rank": 23,
-   "upvotes": 53
+   "upvotes": 61
   },
   {
    "ticker": "NOW",
@@ -215,17 +197,35 @@
    "mentions": 23,
    "mentions_24h_ago": 11,
    "change_pct": 109.1,
-   "rank": 24,
-   "upvotes": 39
+   "rank": 22,
+   "upvotes": 38
   },
   {
-   "ticker": "PLTR",
-   "name": "Palantir",
-   "mentions": 22,
-   "mentions_24h_ago": 4,
-   "change_pct": 450.0,
+   "ticker": "USO",
+   "name": "United States Commodity Funds LLC - United States Oil Fund",
+   "mentions": 23,
+   "mentions_24h_ago": 5,
+   "change_pct": 360.0,
+   "rank": 23,
+   "upvotes": 58
+  },
+  {
+   "ticker": "NOK",
+   "name": "Nokia",
+   "mentions": 21,
+   "mentions_24h_ago": 27,
+   "change_pct": -22.2,
+   "rank": 24,
+   "upvotes": 68
+  },
+  {
+   "ticker": "SOXL",
+   "name": "Direxion Shares ETF Trust - Direxion Daily Semiconductor Bull 3X Share",
+   "mentions": 21,
+   "mentions_24h_ago": 9,
+   "change_pct": 133.3,
    "rank": 25,
-   "upvotes": 28
+   "upvotes": 51
   }
  ]
 }
