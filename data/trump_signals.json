@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-18T11:51:34Z",
+ "last_updated": "2026-08-18T12:44:29Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -97,6 +97,22 @@
    "primary_ticker": "SMH",
    "strength": 45,
    "reason": "Micron-led chip rally mentioned; semiconductor sector broadly in focus."
+  },
+  {
+   "date": "2026-08-17T23:33:11Z",
+   "platform": "News",
+   "text": "NOW Stock Rises Overnight: Trump\u2019s ServiceNow Stake Fuels Retail Buzz Around SAAS Comeback - Stocktwits \u2014 NOW Stock Rises Overnight: Trump\u2019s ServiceNow Stake Fuels Retail Buzz Around SAAS Comeback\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQcEF0OFRRa3hIWF9rS21NMTBqNk53MDA4eWFQcDJad1Z2QkQyTTdmd3prLUVaVUUwdVRSWWpCOGs3N3JaYTZCcG1KMjg1c1Q0WWdjSnlWbHkteXVxcnFoUXFZMEg4ejh0YjA4ZG5BRnBEX1huMFNaS0dXdEx4LWNEOXBLcmNpMzlCQzc1OC0yRDFKeWFMWEZzWUpNQXBWTFFDQlJ6dmFWamU5cUpFZnVfcU1ocFdTa0tfdjByTlZZUHo4QUx1QzJOMHpzZEdaZjdqSVhoWFB0cVRKZW9BbnNLMi1XYUF2MlhaZGc?oc=5",
+   "tickers": [
+    "NOW"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "NOW",
+   "strength": 65,
+   "reason": "Trump stake in ServiceNow creates bullish signal and retail buzz."
   },
   {
    "date": "2026-08-17T22:47:33Z",
@@ -916,22 +932,6 @@
    "primary_ticker": "LASE",
    "strength": 40,
    "reason": "150% surge noted but driver/catalyst unclear from headline alone"
-  },
-  {
-   "date": "2026-08-15T04:35:06Z",
-   "platform": "News",
-   "text": "NOW Stock Rises Overnight: Trump\u2019s ServiceNow Stake Fuels Retail Buzz Around SAAS Comeback - Stocktwits \u2014 NOW Stock Rises Overnight: Trump\u2019s ServiceNow Stake Fuels Retail Buzz Around SAAS Comeback\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQcEF0OFRRa3hIWF9rS21NMTBqNk53MDA4eWFQcDJad1Z2QkQyTTdmd3prLUVaVUUwdVRSWWpCOGs3N3JaYTZCcG1KMjg1c1Q0WWdjSnlWbHkteXVxcnFoUXFZMEg4ejh0YjA4ZG5BRnBEX1huMFNaS0dXdEx4LWNEOXBLcmNpMzlCQzc1OC0yRDFKeWFMWEZzWUpNQXBWTFFDQlJ6dmFWamU5cUpFZnVfcU1ocFdTa0tfdjByTlZZUHo4QUx1QzJOMHpzZEdaZjdqSVhoWFB0cVRKZW9BbnNLMi1XYUF2MlhaZGc?oc=5",
-   "tickers": [
-    "NOW"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "NOW",
-   "strength": 70,
-   "reason": "Trump's disclosed stake in ServiceNow fuels bullish retail sentiment; explicit Trump ownership tie."
   },
   {
    "date": "2026-08-15T04:35:06Z",
@@ -2287,23 +2287,6 @@
    "reason": "Trump's majority-owned stock debuts \u2014 pure sentiment play, extremely volatile and headline-driven.",
    "market_reaction": "DJT spiked on debut then stayed volatile, moving heavily on Trump political/legal news.",
    "url": "https://www.nasdaq.com/market-activity/stocks/djt"
-  },
-  {
-   "date": "2021-07-01T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "HARRIS CORPORATION was awarded a $2.1B federal contract from Department of Transportation.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_693KA821F00222_6920_DTFA0102D03006_6920",
-   "tickers": [
-    "HRS"
-   ],
-   "contract_amount": 2.14,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "HRS",
-   "strength": 75,
-   "reason": "Harris Corporation awarded $2.1B Department of Transportation federal contract; bullish for awardee."
   }
  ],
  "how_to_read": "Each card is Claude's read of a public Trump post: the affected ticker, whether it implies BUY / SELL / WATCH, a 0\u2013100 strength (how explicit/emphatic the post is \u2014 NOT a profit predictor), and why. A 2-year backtest found these don't beat buy-and-hold, so this is for awareness, not trading. Not financial advice."
