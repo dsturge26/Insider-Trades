@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-18T16:30:52Z",
+ "last_updated": "2026-08-18T17:04:08Z",
  "note": "Trump-linked / 'Trump trade' tickers to watch. Prices are refreshed by the GitHub Action from Yahoo Finance (intraday quote + trend, no key; Stooq is a fallback). Stocks are ~15-min delayed, crypto is real-time.",
  "tickers": [
   {
@@ -249,10 +249,10 @@
      "close": 8.05
     }
    ],
-   "last": 8.04,
+   "last": 8.05,
    "prev_close": 8.27,
-   "day_pct": -2.78,
-   "as_of": "2026-08-18T16:30:44Z"
+   "day_pct": -2.66,
+   "as_of": "2026-08-18T17:03:43Z"
   },
   {
    "ticker": "SPY",
@@ -498,13 +498,13 @@
     },
     {
      "date": "2026-08-18",
-     "close": 768.26
+     "close": 768.68
     }
    ],
-   "last": 768.26,
+   "last": 768.68,
    "prev_close": 738.65,
-   "day_pct": 4.01,
-   "as_of": "2026-08-18T16:30:49Z"
+   "day_pct": 4.07,
+   "as_of": "2026-08-18T17:04:05Z"
   },
   {
    "ticker": "QQQ",
@@ -750,13 +750,13 @@
     },
     {
      "date": "2026-08-18",
-     "close": 718.33
+     "close": 719.37
     }
    ],
-   "last": 718.33,
+   "last": 719.37,
    "prev_close": 705.88,
-   "day_pct": 1.76,
-   "as_of": "2026-08-18T16:30:49Z"
+   "day_pct": 1.91,
+   "as_of": "2026-08-18T17:04:07Z"
   },
   {
    "ticker": "PLTR",
@@ -1002,13 +1002,13 @@
     },
     {
      "date": "2026-08-18",
-     "close": 171.94
+     "close": 172.96
     }
    ],
-   "last": 171.94,
+   "last": 172.96,
    "prev_close": 135.14,
-   "day_pct": 27.23,
-   "as_of": "2026-08-18T16:30:50Z"
+   "day_pct": 27.99,
+   "as_of": "2026-08-18T17:04:07Z"
   },
   {
    "ticker": "XAR",
@@ -1016,18 +1016,6 @@
    "why": "Defense names rally on conflict/spending headlines tied to administration policy.",
    "stooq": "xar.us",
    "prices": [
-    {
-     "date": "2026-05-19",
-     "close": 259.46
-    },
-    {
-     "date": "2026-05-20",
-     "close": 266.5
-    },
-    {
-     "date": "2026-05-21",
-     "close": 266.37
-    },
     {
      "date": "2026-05-22",
      "close": 271.18
@@ -1185,6 +1173,14 @@
      "close": 259.31
     },
     {
+     "date": "2026-07-21",
+     "close": 264.91
+    },
+    {
+     "date": "2026-07-22",
+     "close": 264.3
+    },
+    {
      "date": "2026-07-23",
      "close": 270.54
     },
@@ -1207,6 +1203,10 @@
     {
      "date": "2026-07-30",
      "close": 262.83
+    },
+    {
+     "date": "2026-07-31",
+     "close": 264.86
     },
     {
      "date": "2026-08-03",
@@ -1254,13 +1254,13 @@
     },
     {
      "date": "2026-08-18",
-     "close": 291.76
+     "close": 292.36
     }
    ],
-   "last": 291.75,
+   "last": 292.37,
    "prev_close": 263.21,
-   "day_pct": 10.84,
-   "as_of": "2026-08-18T16:30:41Z"
+   "day_pct": 11.08,
+   "as_of": "2026-08-18T17:02:53Z"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-18T16:30:50Z",
+ "last_updated": "2026-08-18T17:04:07Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -49,6 +49,22 @@
    "primary_ticker": "XLE",
    "strength": 45,
    "reason": "Monument gutting implies increased drilling/energy development in protected areas"
+  },
+  {
+   "date": "2026-08-18T11:29:00Z",
+   "platform": "News",
+   "text": "Shady stock buys linked to Trump's move to gut national monument - alternet.org \u2014 Shady stock buys linked to Trump's move to gut national monument\u00a0\u00a0alternet.org",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbE01dXA2cVR3Wm5HVHExSEhUeldzLUpKQjlMRGVuQ1RoOTJVTlM1RWdaUVVmTnctOER0UVN0T2ZYYmptelZtQVZ5b2tnQmpSUVowVWdNVUtHdXNSS1R2cmMxM28tcmUxak9mTEVwR1dUXzFoanA4VEpYRDBKMlUzeTRFbm92TFM5cTVPaGd5bmtuQWhO?oc=5",
+   "tickers": [
+    "XLE"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "XLE",
+   "strength": 40,
+   "reason": "Monument gutting implies drilling/energy access; vague but potentially bullish for energy sector; no explicit Trump call"
   },
   {
    "date": "2026-08-18T09:01:48Z",
@@ -147,9 +163,9 @@
    "reason": "Trump stake in ServiceNow creates bullish signal and retail buzz.",
    "price_since": {
     "ticker": "NOW",
-    "pct": 1.9,
+    "pct": 2.2,
     "base": 117.7,
-    "last": 119.93,
+    "last": 120.29,
     "base_date": "2026-08-17",
     "last_date": "2026-08-18"
    }
@@ -171,9 +187,9 @@
    "reason": "Trump explicit endorsement of Dell drives stock to record highs",
    "price_since": {
     "ticker": "DELL",
-    "pct": -3.9,
+    "pct": -3.3,
     "base": 479.81,
-    "last": 461.11,
+    "last": 463.92,
     "base_date": "2026-08-17",
     "last_date": "2026-08-18"
    }
@@ -195,9 +211,9 @@
    "reason": "Tariff announcement bearish for broad market; family enrichment concerns infer policy risk.",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.6,
+    "pct": -0.5,
     "base": 772.67,
-    "last": 768.29,
+    "last": 768.66,
     "base_date": "2026-08-17",
     "last_date": "2026-08-18"
    }
@@ -219,9 +235,9 @@
    "reason": "General market outlook unrelated to Trump action",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.6,
+    "pct": -0.5,
     "base": 772.67,
-    "last": 768.32,
+    "last": 768.67,
     "base_date": "2026-08-17",
     "last_date": "2026-08-18"
    }
@@ -243,9 +259,9 @@
    "reason": "BE stock rebounds after Crusoe project pause; AI power thesis intact but project uncertainty.",
    "price_since": {
     "ticker": "BE",
-    "pct": -10.8,
+    "pct": -9.9,
     "base": 232.16,
-    "last": 207.19,
+    "last": 209.23,
     "base_date": "2026-08-17",
     "last_date": "2026-08-18"
    }
@@ -267,9 +283,9 @@
    "reason": "AI power thesis recovery; Crusoe project pause unclear on net direction",
    "price_since": {
     "ticker": "BE",
-    "pct": -10.8,
+    "pct": -9.9,
     "base": 232.16,
-    "last": 207.19,
+    "last": 209.23,
     "base_date": "2026-08-17",
     "last_date": "2026-08-18"
    }
@@ -291,9 +307,9 @@
    "reason": "Trump administration awards IBM $1B quantum grant; concrete federal contract bullish signal",
    "price_since": {
     "ticker": "IBM",
-    "pct": 1.5,
+    "pct": 1.7,
     "base": 228.85,
-    "last": 232.25,
+    "last": 232.77,
     "base_date": "2026-08-17",
     "last_date": "2026-08-18"
    }
@@ -315,9 +331,9 @@
    "reason": "Trump administration awards IBM $1B federal contract for quantum foundry; direct bullish catalyst.",
    "price_since": {
     "ticker": "IBM",
-    "pct": 1.5,
+    "pct": 1.7,
     "base": 228.85,
-    "last": 232.25,
+    "last": 232.77,
     "base_date": "2026-08-17",
     "last_date": "2026-08-18"
    }
@@ -363,9 +379,9 @@
    "reason": "Intel rally tied to Trump-era semiconductor momentum and foundry support",
    "price_since": {
     "ticker": "INTC",
-    "pct": -7.3,
+    "pct": -7.0,
     "base": 103.49,
-    "last": 95.94,
+    "last": 96.29,
     "base_date": "2026-08-17",
     "last_date": "2026-08-18"
    }
@@ -387,9 +403,9 @@
    "reason": "Company partnership expansion with Grubhub/DoorDash; not Trump-specific but market-moving corporate news.",
    "price_since": {
     "ticker": "SERV",
-    "pct": -7.6,
+    "pct": -6.3,
     "base": 4.9,
-    "last": 4.53,
+    "last": 4.59,
     "base_date": "2026-08-17",
     "last_date": "2026-08-18"
    }
@@ -411,9 +427,9 @@
    "reason": "SERV stock rallies on Grubhub/DoorDash partnerships; new delivery deal expands opportunity.",
    "price_since": {
     "ticker": "SERV",
-    "pct": -7.6,
+    "pct": -6.3,
     "base": 4.9,
-    "last": 4.53,
+    "last": 4.59,
     "base_date": "2026-08-17",
     "last_date": "2026-08-18"
    }
@@ -435,9 +451,9 @@
    "reason": "Trump reports China blocking high-end chip sales; bearish for NVDA export revenue.",
    "price_since": {
     "ticker": "NVDA",
-    "pct": -2.4,
+    "pct": -2.1,
     "base": 225.01,
-    "last": 219.6,
+    "last": 220.32,
     "base_date": "2026-08-17",
     "last_date": "2026-08-18"
    }
@@ -459,9 +475,9 @@
    "reason": "Trump states China has not approved NVDA H200 purchases; bearish for NVDA China revenue.",
    "price_since": {
     "ticker": "NVDA",
-    "pct": -2.4,
+    "pct": -2.1,
     "base": 225.01,
-    "last": 219.6,
+    "last": 220.32,
     "base_date": "2026-08-17",
     "last_date": "2026-08-18"
    }
@@ -483,9 +499,9 @@
    "reason": "Insider selling by cofounder; mild bearish signal.",
    "price_since": {
     "ticker": "NFLX",
-    "pct": 3.6,
+    "pct": 3.7,
     "base": 76.02,
-    "last": 78.79,
+    "last": 78.84,
     "base_date": "2026-08-17",
     "last_date": "2026-08-18"
    }
@@ -507,9 +523,9 @@
    "reason": "Co-founder stock sale; neutral/mixed signal (possible bearish sentiment but routine executive activity).",
    "price_since": {
     "ticker": "NFLX",
-    "pct": 3.6,
+    "pct": 3.7,
     "base": 76.02,
-    "last": 78.79,
+    "last": 78.84,
     "base_date": "2026-08-17",
     "last_date": "2026-08-18"
    }
@@ -531,9 +547,9 @@
    "reason": "Generic market direction question with no Trump-specific catalyst or signal",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.6,
+    "pct": -0.5,
     "base": 772.67,
-    "last": 768.31,
+    "last": 768.68,
     "base_date": "2026-08-17",
     "last_date": "2026-08-18"
    }
@@ -556,9 +572,9 @@
    "reason": "Trump claims stock market success and strong economy; macro bullish tone but vague, no specific catalyst",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.6,
+    "pct": -0.5,
     "base": 772.67,
-    "last": 768.29,
+    "last": 768.68,
     "base_date": "2026-08-17",
     "last_date": "2026-08-18"
    }
@@ -581,9 +597,9 @@
    "reason": "Navarro critiques tariff effectiveness; implies tariff policy may be flawed or costly to economy",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.6,
+    "pct": -0.5,
     "base": 772.67,
-    "last": 768.27,
+    "last": 768.67,
     "base_date": "2026-08-17",
     "last_date": "2026-08-18"
    }
@@ -606,9 +622,9 @@
    "reason": "Court victory upholds Trump tariff authority; supports continuation of tariff regime favored by administration",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.6,
+    "pct": -0.5,
     "base": 772.67,
-    "last": 768.27,
+    "last": 768.68,
     "base_date": "2026-08-17",
     "last_date": "2026-08-18"
    }
@@ -632,7 +648,7 @@
     "ticker": "DG",
     "pct": 2.2,
     "base": 120.08,
-    "last": 122.71,
+    "last": 122.69,
     "base_date": "2026-08-17",
     "last_date": "2026-08-18"
    }
@@ -654,9 +670,9 @@
    "reason": "Trump-linked space stock bets emerge; inferred bullish sentiment on space names",
    "price_since": {
     "ticker": "RKLB",
-    "pct": -2.7,
+    "pct": -1.6,
     "base": 82.08,
-    "last": 79.87,
+    "last": 80.77,
     "base_date": "2026-08-17",
     "last_date": "2026-08-18"
    }
@@ -678,9 +694,9 @@
    "reason": "Trump association with space stocks inferred from holdings; speculative but market-moving rumor",
    "price_since": {
     "ticker": "RKLB",
-    "pct": -2.7,
+    "pct": -1.6,
     "base": 82.08,
-    "last": 79.87,
+    "last": 80.77,
     "base_date": "2026-08-17",
     "last_date": "2026-08-18"
    }
@@ -702,9 +718,9 @@
    "reason": "IBM stock surge on Trump quantum grant announcement; federal contract award bullish",
    "price_since": {
     "ticker": "IBM",
-    "pct": 1.5,
+    "pct": 1.7,
     "base": 228.85,
-    "last": 232.25,
+    "last": 232.77,
     "base_date": "2026-08-17",
     "last_date": "2026-08-18"
    }
@@ -726,9 +742,9 @@
    "reason": "IBM stock surge tied to Trump administration $1B quantum grant",
    "price_since": {
     "ticker": "IBM",
-    "pct": 1.5,
+    "pct": 1.7,
     "base": 228.85,
-    "last": 232.25,
+    "last": 232.77,
     "base_date": "2026-08-17",
     "last_date": "2026-08-18"
    }
@@ -2440,23 +2456,6 @@
     "base_date": "2026-08-12",
     "last_date": "2026-08-14"
    }
-  },
-  {
-   "date": "2026-08-12T14:31:09.583Z",
-   "platform": "Truth Social",
-   "text": "The U.S.A. has total control over the Strait of Hormuz. I THINK WE WILL KEEP IT! Our Naval Blockade is being called, by everyone, \"A WALL OF STEEL,\" and there is nothing Iran can do about it. They have no Navy, they have no Air Force, their remaining soldiers are unpaid, the IRGC is decimated and fleeing, and their \"Leadership\" is uncertain, at best! They have No Money - Their country is \"shot.\" All they have is FAKE NEWS and 300% INFLATION, and getting worse! Iran is all talk and no action, the Bully of the Middle East No Longer. Praise be to Allah! President DONALD J. TRUMP",
-   "tickers": [
-    "XLE"
-   ],
-   "engagement": 18811,
-   "url": "https://truthsocial.com/@realDonaldTrump/117083017680231697",
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "XLE",
-   "strength": 45,
-   "reason": "Military control of Strait of Hormuz and Iran weakness bullish for oil/energy sector"
   },
   {
    "curated": true,
