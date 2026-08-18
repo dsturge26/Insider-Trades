@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-08-18T11:25:03Z",
+ "last_updated": "2026-08-18T11:51:34Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-08-18T11:29:00Z",
+   "platform": "News",
+   "text": "Shady stock buys linked to Trump's move to gut national monument - Alternet \u2014 Shady stock buys linked to Trump's move to gut national monument\u00a0\u00a0Alternet",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbE01dXA2cVR3Wm5HVHExSEhUeldzLUpKQjlMRGVuQ1RoOTJVTlM1RWdaUVVmTnctOER0UVN0T2ZYYmptelZtQVZ5b2tnQmpSUVowVWdNVUtHdXNSS1R2cmMxM28tcmUxak9mTEVwR1dUXzFoanA4VEpYRDBKMlUzeTRFbm92TFM5cTVPaGd5bmtuQWhO?oc=5",
+   "tickers": [
+    "XLE"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "XLE",
+   "strength": 45,
+   "reason": "Monument gutting implies increased drilling/energy development in protected areas"
+  },
   {
    "date": "2026-08-18T09:01:48Z",
    "platform": "News",
@@ -83,6 +99,22 @@
    "reason": "Micron-led chip rally mentioned; semiconductor sector broadly in focus."
   },
   {
+   "date": "2026-08-17T22:47:33Z",
+   "platform": "News",
+   "text": "DELL Stock Spikes To Record Highs On President Trump\u2019s Endorsement - Stocktwits \u2014 DELL Stock Spikes To Record Highs On President Trump\u2019s Endorsement\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYWF1OUgweFU0d1NlNU4ya1FYQVJSVTRCX3IwM0NMd19VVmN5RzNtUmc1c2FhTU9abXdnTmVnMDE2QUxna3ZrUEF3Zkd0SFUtOWx3QkF2elBuNkNTcmZDRm1BRUkwMVRwYU0xaUVsWDZLSk0yeEtiMFFPV0t3ZXZ3OW15QUg5V0xHNnRrU1J5VXdvX09Oa0ZmRmJvV0VTVlFRRFh6c3E5RmtHckx0MXpNVVZTWmJpLTUtUXBHSG5pWEFfQll0ejRneDFB?oc=5",
+   "tickers": [
+    "DELL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "DELL",
+   "strength": 85,
+   "reason": "Trump explicit endorsement of Dell drives stock to record highs"
+  },
+  {
    "date": "2026-08-17T20:40:02Z",
    "platform": "News",
    "text": "Trump announcement of drone tariffs instantly made his son richer - AOL.com \u2014 Trump announcement of drone tariffs instantly made his son richer\u00a0\u00a0AOL.com",
@@ -129,6 +161,22 @@
    "primary_ticker": "BE",
    "strength": 35,
    "reason": "BE stock rebounds after Crusoe project pause; AI power thesis intact but project uncertainty."
+  },
+  {
+   "date": "2026-08-17T16:59:47Z",
+   "platform": "News",
+   "text": "BE Stock Recovers After 10% Selloff: Morgan Stanley Says Crusoe Project Pause Does Not Break AI Power Thesis - Stocktwits \u2014 BE Stock Recovers After 10% Selloff: Morgan Stanley Says Crusoe Project Pause Does Not Break AI Power Thesis\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNjlDbi1IQTBRdFN2cjFXR0FUTzRHZnIwUlVfMFZYdzFOelF4dDRSZ3A2dTVnczZ5bG83X3hURURjMUJkdVZlckRublhWNHVFb0wwZ0JwQVdzTTMyVFhLZXNySnd3VV9TSHFSTlVFd1M4UnpIUVQxQ29uSHlPSjc1MjVrNy16dDJVVG5LQm5qT1NvMmlEYjZicHFrZ2ltYVd0WGFCYlRQLWt5a0xaNGF6c283THpXLTItZDU5b0lqTVBEa0U?oc=5",
+   "tickers": [
+    "BE"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "BE",
+   "strength": 40,
+   "reason": "AI power thesis recovery; Crusoe project pause unclear on net direction"
   },
   {
    "date": "2026-08-17T16:10:57Z",
@@ -550,22 +598,6 @@
    "reason": "Earnings catalyst unrelated to Trump; retail sentiment mixed"
   },
   {
-   "date": "2026-08-15T16:25:34Z",
-   "platform": "News",
-   "text": "BE Stock Recovers After 10% Selloff: Morgan Stanley Says Crusoe Project Pause Does Not Break AI Power Thesis - Stocktwits \u2014 BE Stock Recovers After 10% Selloff: Morgan Stanley Says Crusoe Project Pause Does Not Break AI Power Thesis\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNjlDbi1IQTBRdFN2cjFXR0FUTzRHZnIwUlVfMFZYdzFOelF4dDRSZ3A2dTVnczZ5bG83X3hURURjMUJkdVZlckRublhWNHVFb0wwZ0JwQVdzTTMyVFhLZXNySnd3VV9TSHFSTlVFd1M4UnpIUVQxQ29uSHlPSjc1MjVrNy16dDJVVG5LQm5qT1NvMmlEYjZicHFrZ2ltYVd0WGFCYlRQLWt5a0xaNGF6c283THpXLTItZDU5b0lqTVBEa0U?oc=5",
-   "tickers": [
-    "BE"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "BE",
-   "strength": 45,
-   "reason": "Analyst commentary on project pause; mixed signal, underlying thesis intact"
-  },
-  {
    "date": "2026-08-15T15:04:01Z",
    "platform": "News",
    "text": "Michael Burry Says He\u2019s Still Short Palantir After Stock Sees Recovery Following Trump\u2019s Endorsement - Stocktwits \u2014 Michael Burry Says He\u2019s Still Short Palantir After Stock Sees Recovery Following Trump\u2019s Endorsement\u00a0\u00a0Stocktwits",
@@ -724,22 +756,6 @@
    "primary_ticker": "PLTR",
    "strength": 65,
    "reason": "Trump signals support for Palantir, bullish catalyst for stock"
-  },
-  {
-   "date": "2026-08-15T12:53:25Z",
-   "platform": "News",
-   "text": "DELL Stock Spikes To Record Highs On President Trump\u2019s Endorsement - Stocktwits \u2014 DELL Stock Spikes To Record Highs On President Trump\u2019s Endorsement\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYWF1OUgweFU0d1NlNU4ya1FYQVJSVTRCX3IwM0NMd19VVmN5RzNtUmc1c2FhTU9abXdnTmVnMDE2QUxna3ZrUEF3Zkd0SFUtOWx3QkF2elBuNkNTcmZDRm1BRUkwMVRwYU0xaUVsWDZLSk0yeEtiMFFPV0t3ZXZ3OW15QUg5V0xHNnRrU1J5VXdvX09Oa0ZmRmJvV0VTVlFRRFh6c3E5RmtHckx0MXpNVVZTWmJpLTUtUXBHSG5pWEFfQll0ejRneDFB?oc=5",
-   "tickers": [
-    "DELL"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "DELL",
-   "strength": 88,
-   "reason": "Trump explicitly endorses Dell, driving stock to record highs"
   },
   {
    "date": "2026-08-15T12:53:25Z",
@@ -2271,6 +2287,23 @@
    "reason": "Trump's majority-owned stock debuts \u2014 pure sentiment play, extremely volatile and headline-driven.",
    "market_reaction": "DJT spiked on debut then stayed volatile, moving heavily on Trump political/legal news.",
    "url": "https://www.nasdaq.com/market-activity/stocks/djt"
+  },
+  {
+   "date": "2021-07-01T12:00:00Z",
+   "platform": "Federal contract",
+   "text": "HARRIS CORPORATION was awarded a $2.1B federal contract from Department of Transportation.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_693KA821F00222_6920_DTFA0102D03006_6920",
+   "tickers": [
+    "HRS"
+   ],
+   "contract_amount": 2.14,
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "HRS",
+   "strength": 75,
+   "reason": "Harris Corporation awarded $2.1B Department of Transportation federal contract; bullish for awardee."
   }
  ],
  "how_to_read": "Each card is Claude's read of a public Trump post: the affected ticker, whether it implies BUY / SELL / WATCH, a 0\u2013100 strength (how explicit/emphatic the post is \u2014 NOT a profit predictor), and why. A 2-year backtest found these don't beat buy-and-hold, so this is for awareness, not trading. Not financial advice."
