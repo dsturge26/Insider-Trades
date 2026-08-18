@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-08-18T21:48:13Z",
+ "last_updated": "2026-08-18T22:22:53Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-08-18T18:19:11Z",
+   "platform": "News",
+   "text": "State Farm\u2019s $5 billion dividend is largest payout in company history - Washington Times \u2014 State Farm\u2019s $5 billion dividend is largest payout in company history\u00a0\u00a0Washington Times",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNS1ZjRmZMRTFFZWxVd25VZEwzNXh3SWEyOU4xTnFvbVVWWVd4R0M5S0hLVUhWT2lHX1NsWF9MdUJfWHNjaWdaLVRScHdXTmhuazBaQkxuQlU2S1dmeDZaNEFHc2R6ZWlRVWZxbTNSaDhCdjVrc1pJOGdnSWpyQ1BjLVRNTmFIcXdvYWxNMjVvQ2RIVDBHZkNSaHZjbkd1S0lkLVJBVV8zREhlSFFrbDFqVg?oc=5",
+   "tickers": [
+    "STWD"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "STWD",
+   "strength": 35,
+   "reason": "State Farm dividend announcement signals financial strength and capital return; proxied by insurance/financial sector"
+  },
   {
    "date": "2026-08-18T16:33:46Z",
    "platform": "News",
@@ -494,6 +510,30 @@
     "pct": -7.1,
     "base": 4.9,
     "last": 4.55,
+    "base_date": "2026-08-17",
+    "last_date": "2026-08-18"
+   }
+  },
+  {
+   "date": "2026-08-17T10:04:00Z",
+   "platform": "News",
+   "text": "Trump crypto firm backs venture offering AI from restricted Chinese companies - Reuters \u2014 Trump crypto firm backs venture offering AI from restricted Chinese companies\u00a0\u00a0Reuters",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTHhDcEM5cGN4V2duaGh3RmNtbVZndFdfWHBjSkF5ekRiN1JBVnRULTBUeTVld0I3czliYWZsckdXbVJfLTdJcldxY0V1VnV6NU1sME1uM3BWLUttZzR4RDVPSkJsTXlRQkRSTkFJc2pLelNEYXNBWHpUX1BGdzFBTGtmaFFwdE1DclphZDZncHMyTk5oNmFZSWhQRmVrUHdkaFpCb3ZBWWY4eExmcGZEMkJZekFPTEI3VG4zUQ?oc=5",
+   "tickers": [
+    "BTC"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "BTC",
+   "strength": 30,
+   "reason": "Trump-linked crypto firm backs AI venture with Chinese restrictions; regulatory/compliance risk creates ambiguous market signal.",
+   "price_since": {
+    "ticker": "BTC",
+    "pct": 0.5,
+    "base": 28.43,
+    "last": 28.57,
     "base_date": "2026-08-17",
     "last_date": "2026-08-18"
    }
@@ -2405,30 +2445,6 @@
     "pct": 0.5,
     "base": 772.49,
     "last": 776.16,
-    "base_date": "2026-08-12",
-    "last_date": "2026-08-14"
-   }
-  },
-  {
-   "date": "2026-08-12T17:58:54Z",
-   "platform": "News",
-   "text": "The Intercept sues Trump on First Amendment issues for Truth API - upi.com \u2014 The Intercept sues Trump on First Amendment issues for Truth API\u00a0\u00a0upi.com",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSzBRN19vb2ZVOHdtMUVZR014d19NcWw0OFNPdkc3VWI0M0gzYVplYlpBcWtiWFlfdUtPT21kRkFsT2xxdmd1QTRFXzJvMjhLb2lmSjV1d2FSdEpCVzhzNDFTYmROaFdzQWc1NlVzb3lyN2Z3b3ZJWmFYU0E3bnpLN0hhUFNzSlVuMmxXVjB2TTRPVFRBczJ5bUVmeHVBSzh4LVhwOE4tM2gxWThveHZr0gG0AUFVX3lxTE1JUkxtNFNBOUxISGF2TWpFbTJsRFRkMF9wMDduMWUyVGcybVMxTThmMUJfcFRLVzBSVVN4VUNlQ0lsSTN0SmpNWTRfUGJKaTVVdmpmQzJwbHpFSUVjWUZBRkpFWnkwSm9FV2tHaUItdmhpU2hQS2NUZHpwdWdnSjFqdkJKb180Um40amRPa3djM2dOSHp2Tmp2b182M0ZMcnBmRVBLWTN3WjA5ZWROMVFlWHZvcQ?oc=5",
-   "tickers": [
-    "DJT"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "DJT",
-   "strength": 20,
-   "reason": "Legal challenge to Truth Social API; regulatory risk for Trump Media",
-   "price_since": {
-    "ticker": "DJT",
-    "pct": 1.1,
-    "base": 8.27,
-    "last": 8.36,
     "base_date": "2026-08-12",
     "last_date": "2026-08-14"
    }
