@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-18T19:51:03Z",
+ "last_updated": "2026-08-18T20:23:28Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -33,6 +33,22 @@
    "primary_ticker": "SMR",
    "strength": 45,
    "reason": "NuScale revenue collapse and dilutive share sale signal operational distress"
+  },
+  {
+   "date": "2026-08-18T15:46:00Z",
+   "platform": "News",
+   "text": "Trump shares map labeling Strait of Hormuz as new US territory - WION \u2014 Trump shares map labeling Strait of Hormuz as new US territory\u00a0\u00a0WION",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZWFjcDlnM1VIRFg2Nzh6TlFQbUg1NThkZkExUTZUelFVYU9za3ltZ2pvdnRYZFl5TW5oMV9oRlUxdlJMVXNyc3lidW9SdFFWNklWTVZxZWQ0TlFIX3ZvZU81c3VCenQ5Z0RSelhhVWRxajIwMVY3T0JHOWJWZHdYdzR2M0RORTRVWmRfbXR6enFJbUoxUmVFRjZVX1M4dm92TWNJNXh1anBJcnlXcWYtcFVNTQ?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "SPY",
+   "strength": 15,
+   "reason": "Hormuz territorial claim is geopolitical noise; ambiguous market direction"
   },
   {
    "date": "2026-08-18T14:45:58Z",
@@ -195,9 +211,9 @@
    "reason": "Trump stake in ServiceNow creates bullish signal and retail buzz.",
    "price_since": {
     "ticker": "NOW",
-    "pct": 2.0,
+    "pct": 1.5,
     "base": 117.7,
-    "last": 120.04,
+    "last": 119.49,
     "base_date": "2026-08-17",
     "last_date": "2026-08-18"
    }
@@ -219,9 +235,9 @@
    "reason": "Trump explicit endorsement of Dell drives stock to record highs",
    "price_since": {
     "ticker": "DELL",
-    "pct": -1.9,
+    "pct": -2.3,
     "base": 479.81,
-    "last": 470.6,
+    "last": 468.65,
     "base_date": "2026-08-17",
     "last_date": "2026-08-18"
    }
@@ -243,9 +259,9 @@
    "reason": "Tariff announcement bearish for broad market; family enrichment concerns infer policy risk.",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.6,
+    "pct": -0.7,
     "base": 772.67,
-    "last": 767.83,
+    "last": 767.45,
     "base_date": "2026-08-17",
     "last_date": "2026-08-18"
    }
@@ -267,9 +283,9 @@
    "reason": "General market outlook unrelated to Trump action",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.6,
+    "pct": -0.7,
     "base": 772.67,
-    "last": 767.82,
+    "last": 767.45,
     "base_date": "2026-08-17",
     "last_date": "2026-08-18"
    }
@@ -291,9 +307,9 @@
    "reason": "BE stock rebounds after Crusoe project pause; AI power thesis intact but project uncertainty.",
    "price_since": {
     "ticker": "BE",
-    "pct": -9.6,
+    "pct": -10.0,
     "base": 232.16,
-    "last": 209.9,
+    "last": 209.01,
     "base_date": "2026-08-17",
     "last_date": "2026-08-18"
    }
@@ -315,9 +331,9 @@
    "reason": "AI power thesis recovery; Crusoe project pause unclear on net direction",
    "price_since": {
     "ticker": "BE",
-    "pct": -9.6,
+    "pct": -10.0,
     "base": 232.16,
-    "last": 209.9,
+    "last": 209.01,
     "base_date": "2026-08-17",
     "last_date": "2026-08-18"
    }
@@ -339,9 +355,9 @@
    "reason": "Trump administration awards IBM $1B quantum grant; concrete federal contract bullish signal",
    "price_since": {
     "ticker": "IBM",
-    "pct": 2.0,
+    "pct": 1.7,
     "base": 228.85,
-    "last": 233.34,
+    "last": 232.67,
     "base_date": "2026-08-17",
     "last_date": "2026-08-18"
    }
@@ -363,9 +379,9 @@
    "reason": "Trump administration awards IBM $1B federal contract for quantum foundry; direct bullish catalyst.",
    "price_since": {
     "ticker": "IBM",
-    "pct": 2.0,
+    "pct": 1.7,
     "base": 228.85,
-    "last": 233.34,
+    "last": 232.67,
     "base_date": "2026-08-17",
     "last_date": "2026-08-18"
    }
@@ -387,9 +403,9 @@
    "reason": "Trump Media doubling down on Truth Social and the president signals strategic focus on core asset.",
    "price_since": {
     "ticker": "DJT",
-    "pct": -0.4,
+    "pct": -0.5,
     "base": 8.1,
-    "last": 8.07,
+    "last": 8.06,
     "base_date": "2026-08-17",
     "last_date": "2026-08-18"
    }
@@ -411,9 +427,9 @@
    "reason": "Intel rally tied to Trump-era semiconductor momentum and foundry support",
    "price_since": {
     "ticker": "INTC",
-    "pct": -6.7,
+    "pct": -6.6,
     "base": 103.49,
-    "last": 96.52,
+    "last": 96.68,
     "base_date": "2026-08-17",
     "last_date": "2026-08-18"
    }
@@ -483,9 +499,9 @@
    "reason": "Trump reports China blocking high-end chip sales; bearish for NVDA export revenue.",
    "price_since": {
     "ticker": "NVDA",
-    "pct": -2.4,
+    "pct": -2.3,
     "base": 225.01,
-    "last": 219.65,
+    "last": 219.74,
     "base_date": "2026-08-17",
     "last_date": "2026-08-18"
    }
@@ -507,9 +523,9 @@
    "reason": "Trump states China has not approved NVDA H200 purchases; bearish for NVDA China revenue.",
    "price_since": {
     "ticker": "NVDA",
-    "pct": -2.4,
+    "pct": -2.3,
     "base": 225.01,
-    "last": 219.65,
+    "last": 219.74,
     "base_date": "2026-08-17",
     "last_date": "2026-08-18"
    }
@@ -533,7 +549,7 @@
     "ticker": "NFLX",
     "pct": 2.3,
     "base": 76.02,
-    "last": 77.79,
+    "last": 77.77,
     "base_date": "2026-08-17",
     "last_date": "2026-08-18"
    }
@@ -557,7 +573,7 @@
     "ticker": "NFLX",
     "pct": 2.3,
     "base": 76.02,
-    "last": 77.79,
+    "last": 77.77,
     "base_date": "2026-08-17",
     "last_date": "2026-08-18"
    }
@@ -579,9 +595,9 @@
    "reason": "Generic market direction question with no Trump-specific catalyst or signal",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.6,
+    "pct": -0.7,
     "base": 772.67,
-    "last": 767.81,
+    "last": 767.45,
     "base_date": "2026-08-17",
     "last_date": "2026-08-18"
    }
