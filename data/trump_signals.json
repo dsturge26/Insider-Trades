@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-19T07:42:38Z",
+ "last_updated": "2026-08-19T08:16:50Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -34,6 +34,22 @@
    "primary_ticker": "PRAX",
    "strength": 45,
    "reason": "Analyst price target hikes signal positive sentiment on stock"
+  },
+  {
+   "date": "2026-08-18T22:11:12Z",
+   "platform": "News",
+   "text": "Congressman Missed Out on Millions by Selling Comfort Systems in 2020 - Now It's the Best Stock of the Last Five Years - Dailyhunt \u2014 Congressman Missed Out on Millions by Selling Comfort Systems in 2020 - Now It's the Best Stock of the Last Five Years\u00a0\u00a0Dailyhunt",
+   "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPVy04cWw4UEQ4SHZkWjNvdE1pNjRFNkJTbmpIaHBJZzYxQldYaDlNUEhWZlp4LWliemJGYXdmZHo2S1M0WDNCdnRNNzIzQnRkazZVb2swQ3I4VVEyUlZIMldYWk1STWIzRE9pRmJta1V1cVZYeXpBejFCLS1LM3VBQjRsY1lVN0FFRUxnWGp5ZU9KU0FUTF93aVVBNFJEc3ZYYXQ5UHpDZHpiV25Tc1R3UHU4WWNoeENva0NOSHBhSTVzdWp2cmRjLUZLcUJ6UHI0SjJieUg2ZlZfcHUyUzZUdFlTZmZKOVpXTlFnb3hfT2NQOGJVZDRScmJUSl9SSWxIdlpUbE5fVUR4U1BSN19RT29md1BpU2xsQjlFMXl6ckIyUzFhLTg0?oc=5",
+   "tickers": [
+    "FUN"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "FUN",
+   "strength": 25,
+   "reason": "Historical retrospective on stock performance; no current catalyst"
   },
   {
    "date": "2026-08-18T18:19:11Z",
@@ -212,6 +228,22 @@
    "reason": "Major DRAM capex and chip sector strength signal"
   },
   {
+   "date": "2026-08-18T09:46:33Z",
+   "platform": "News",
+   "text": "PLTR Stock Faces Split Narrative: Retail Bulls Hold Firm As Burry Sounds Alarm, Trump Signals Support - Stocktwits \u2014 PLTR Stock Faces Split Narrative: Retail Bulls Hold Firm As Burry Sounds Alarm, Trump Signals Support\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSFRDSVNMdHk3NEtMbFEwQ1ZRT2tLY3h1cEFvOTVjb182Qm1QUnVqTlE2dWhzYXZpaXBoN3gyNlg4dWVWY0dldndhRDZoOGE2N2ZSMTgxb1Ayb0RWanA3a0hEeEhKWGtYRENBSGZ0d0wySmlrSWpzM1BmcXZpTUdDOXcwMVl0NXVKYjMyOEFvYmVpYk9uOVRSaWdleVNEQnZkZk1tUE5vRURtNjdubE0wTUhLSFFUbGc3OUs5UVpJQXhVTHdZLTdLTmZDQVkxMUVwd3c?oc=5",
+   "tickers": [
+    "PLTR"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "PLTR",
+   "strength": 65,
+   "reason": "Trump explicitly signals support for Palantir; bullish catalyst from aligned leadership"
+  },
+  {
    "date": "2026-08-18T09:01:48Z",
    "platform": "News",
    "text": "IBRX Stock Rallies Into Trump\u2019s Big SOTU Night \u2014 Here\u2019s What Traders Think Could Fuel The Next Move - Stocktwits \u2014 IBRX Stock Rallies Into Trump\u2019s Big SOTU Night \u2014 Here\u2019s What Traders Think Could Fuel The Next Move\u00a0\u00a0Stocktwits",
@@ -324,9 +356,9 @@
    "reason": "Trump-aligned figure bullish on bitcoin reaching $1M; bullish crypto sentiment.",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": -0.6,
+    "pct": -0.7,
     "base": 64680.71,
-    "last": 64314.9,
+    "last": 64204.15,
     "base_date": "2026-08-18",
     "last_date": "2026-08-19"
    }
@@ -1229,22 +1261,6 @@
    "primary_ticker": "PLTR",
    "strength": 35,
    "reason": "Trump signals support for Palantir; vague endorsement without direct call"
-  },
-  {
-   "date": "2026-08-15T14:09:54Z",
-   "platform": "News",
-   "text": "PLTR Stock Faces Split Narrative: Retail Bulls Hold Firm As Burry Sounds Alarm, Trump Signals Support - Stocktwits \u2014 PLTR Stock Faces Split Narrative: Retail Bulls Hold Firm As Burry Sounds Alarm, Trump Signals Support\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSFRDSVNMdHk3NEtMbFEwQ1ZRT2tLY3h1cEFvOTVjb182Qm1QUnVqTlE2dWhzYXZpaXBoN3gyNlg4dWVWY0dldndhRDZoOGE2N2ZSMTgxb1Ayb0RWanA3a0hEeEhKWGtYRENBSGZ0d0wySmlrSWpzM1BmcXZpTUdDOXcwMVl0NXVKYjMyOEFvYmVpYk9uOVRSaWdleVNEQnZkZk1tUE5vRURtNjdubE0wTUhLSFFUbGc3OUs5UVpJQXhVTHdZLTdLTmZDQVkxMUVwd3c?oc=5",
-   "tickers": [
-    "PLTR"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "PLTR",
-   "strength": 65,
-   "reason": "Trump signals support for Palantir, bullish catalyst for stock"
   },
   {
    "date": "2026-08-15T12:53:25Z",
