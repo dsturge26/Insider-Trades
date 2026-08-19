@@ -1,7 +1,24 @@
 {
- "last_updated": "2026-08-19T22:51:29Z",
+ "last_updated": "2026-08-19T23:22:05Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-08-19T22:59:02.219Z",
+   "platform": "Truth Social",
+   "text": "No one has given the Islamic Republic of Iran a greater opportunity to make a Deal than me. TRAGICALLY, for them, they have failed to take it. Therefore, today, I am announcing the MOST CRUSHING ECONOMIC OPERATION EVER TAKEN AGAINST ANY COUNTRY! This will be Economic Warfare and Isolation on an unprecedented scale. Their navy is gone, their air force is destroyed, their military factories are now rubble, their currency is worthless, and their country is hanging by a thread. Today, I am also announcing that ANY country that allows its financial institutions, businesses, airports, or government entities to provide any type of lifeline to Iran will itself face TREMENDOUS Economic Consequences. Oil smuggling, swap lines, cash transfers, exchange houses, ship registries, front companies \u2014 It all needs to stop NOW. You know who you are. This will be an ECONOMIC D-DAY, and we need all of our Allies to stand with the United States of America to isolate, and defeat, the Iran threat. These maniacs are on the ropes, and these HISTORIC MEASURES will cripple them and their ability to project terror worldwide. IRAN WILL NEVER HAVE A NUCLEAR WEAPON. THANK YOU FOR YOUR ATTENTION TO THIS MATTER. President DONALD J. TRUMP",
+   "tickers": [
+    "SPY"
+   ],
+   "engagement": 1436,
+   "url": "https://truthsocial.com/@realDonaldTrump/117124650907675461",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "SPY",
+   "strength": 72,
+   "reason": "Sweeping economic sanctions and isolation on Iran announced; geopolitical risk premium and potential crude oil supply shock"
+  },
   {
    "date": "2026-08-19T20:34:00Z",
    "platform": "News",
@@ -92,6 +109,30 @@
    }
   },
   {
+   "date": "2026-08-18T23:55:35Z",
+   "platform": "News",
+   "text": "IBM Stock Rallies On Trump Administration\u2019s $1B Grant: Analysts Say \u2018Big Blue\u2019 Could Become First US Quantum Foundry - stocktwits.com \u2014 IBM Stock Rallies On Trump Administration\u2019s $1B Grant: Analysts Say \u2018Big Blue\u2019 Could Become First US Quantum Foundry\u00a0\u00a0stocktwits.com",
+   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOVG52c0VBRjZ6TzVuLThuSWdTN3NxMlIzUEc0aWVkUllDZDJMSVVMRlo1Rkgxb1Rja2swU1JlcVhlbmg4ejlfeGJoRGkzVG1VSEM4ZC1McWtGQnNVYklYVjYwQVliTHRoX3NqZDJZV0dlQ2NTaC1NaHhFaVAtdmVjdzVGcFhSangwdDluaTltYXZ3TXhaWWxISmlPREpkQ0N2VHdEMENJUkpDaDBGcUhSdXFZdExXbkhPaENSWlAxbVhPS3EyTnoyc3NoX2RpOXNqeEFYaFhhaGYxQUxRaWR0QUJwQ0J5VmhBY3ZpOV9YMVNjeUZlRHRzVXBLS3BpSER4VXpVWTVsYS1aZw?oc=5",
+   "tickers": [
+    "IBM"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "IBM",
+   "strength": 78,
+   "reason": "Trump administration awards $1B federal grant to IBM for quantum foundry; direct bullish catalyst for named public company",
+   "price_since": {
+    "ticker": "IBM",
+    "pct": 1.9,
+    "base": 232.67,
+    "last": 237.16,
+    "base_date": "2026-08-18",
+    "last_date": "2026-08-19"
+   }
+  },
+  {
    "date": "2026-08-18T22:25:48Z",
    "platform": "News",
    "text": "Praxis Precision Shares Rally On Price Target Hikes: Analyst Sees Upside As High As 100% For Stock - Stocktwits \u2014 Praxis Precision Shares Rally On Price Target Hikes: Analyst Sees Upside As High As 100% For Stock\u00a0\u00a0Stocktwits",
@@ -106,6 +147,30 @@
    "primary_ticker": "PRAX",
    "strength": 45,
    "reason": "Analyst price target hikes signal positive sentiment on stock",
+   "price_since": {
+    "ticker": "PRAX",
+    "pct": 4.4,
+    "base": 369.84,
+    "last": 386.19,
+    "base_date": "2026-08-18",
+    "last_date": "2026-08-19"
+   }
+  },
+  {
+   "date": "2026-08-18T22:25:48Z",
+   "platform": "News",
+   "text": "Praxis Precision Shares Rally On Price Target Hikes: Analyst Sees Upside As High As 100% For Stock - stocktwits.com \u2014 Praxis Precision Shares Rally On Price Target Hikes: Analyst Sees Upside As High As 100% For Stock\u00a0\u00a0stocktwits.com",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZ3c0dm5hU2NSZE1USngwNnRMTU5fc0dIbmFpOVVUdnZ3OHRDYjVSTzVPTk5qZFFhODZYVnpSSTRNY3NieGtkWFd4bGJyLXdWLTcwQjliRnp2WUtPdmVfQnB3X2F6S296MVBNaFNhbEljYVc0WkVvSjk2LTB4TDBqSmpKNmJoY0VpbXdDejhsYUd1YlBJbmVQeFNBS0E0czRtWnl1OWxvMkhxbHV6eWUyTkJXTmFkUQ?oc=5",
+   "tickers": [
+    "PRAX"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "PRAX",
+   "strength": 42,
+   "reason": "Analyst price target hikes on stock; analyst-driven rally not directly Trump-attributed",
    "price_since": {
     "ticker": "PRAX",
     "pct": 4.4,
@@ -154,6 +219,30 @@
    "primary_ticker": "META",
    "strength": 25,
    "reason": "Former Trump adviser praise for Meta's AI program is soft positive signal but lacks specificity or directness",
+   "price_since": {
+    "ticker": "META",
+    "pct": 0.4,
+    "base": 543.67,
+    "last": 546.03,
+    "base_date": "2026-08-18",
+    "last_date": "2026-08-19"
+   }
+  },
+  {
+   "date": "2026-08-18T22:10:31Z",
+   "platform": "News",
+   "text": "Meta's AI Workforce Academy Wins Praise From Former Trump Adviser, Ex-Facebook Exec: 'Hope More Companies Follow Suit' - stocktwits.com \u2014 Meta's AI Workforce Academy Wins Praise From Former Trump Adviser, Ex-Facebook Exec: 'Hope More Companies Follow Suit'\u00a0\u00a0stocktwits.com",
+   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQU0E4QWNsTjlROXIwRTIyVHZyMTlHNHhxUndrNjlLbUxOajU2MEZIRFhHeE9xd2ZRdm9IQVMzdHlEMmU4NVBwckpvbEkyWURKRXFHMlR4Z0VWVk5qMGstTFNtVTZSNWpqVS0wWkZ3WTdEaktTd3FMUHlTRjc2M3UwZlpDY1NjeG5FZ2s2bDJVeGJiVjgwWXIzdVVOS0FhQ2E0WjNUMDIzY1ppOTdJNTJkanBEMjFzRUVzb2RBS1czdXZXVWoyb0xLcl9ycl81NG1zd0lNT0NRUmVMZVgyblRkTVlXU1ZUTENRdkJBQzdhU0VuSG9HN19jeFNna0NRVlVUN2E1blhrY0U5Zw?oc=5",
+   "tickers": [
+    "META"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "META",
+   "strength": 38,
+   "reason": "Trump adviser praise for Meta's AI Workforce Academy; indirect positive sentiment on Meta business",
    "price_since": {
     "ticker": "META",
     "pct": 0.4,
@@ -332,6 +421,30 @@
    }
   },
   {
+   "date": "2026-08-18T14:55:35Z",
+   "platform": "News",
+   "text": "Why Is IBM Stock Surging Nearly 7% Higher In Overnight Trading? - stocktwits.com \u2014 Why Is IBM Stock Surging Nearly 7% Higher In Overnight Trading?\u00a0\u00a0stocktwits.com",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQk9pekpVQ1Q1NnRyVEdqWjdJN29OTFpDY3Rkc08wdG96eTdtMHRzVVRmUFItUlRQQS11WXBWZFpHWU50d3hoRHBENXM2eGhKMF9QZF9qb3ZQT2pXREgyU1pTMzBFU0JGZ0lOTk90VlU4YURiV3I1LWtPdTVzZDZRbUZGWEUySWxkZXg1a2dzYVVTVUpsOU1Yc25qQ2U4OE9tX1MtbEZFNDZDalpaS2JlbndvcnYyUU1Ca0E2cGxqMi02S2s?oc=5",
+   "tickers": [
+    "IBM"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "IBM",
+   "strength": 75,
+   "reason": "IBM stock surge on federal grant award; strong confirmation of $1B Trump administration funding catalyst",
+   "price_since": {
+    "ticker": "IBM",
+    "pct": 1.9,
+    "base": 232.67,
+    "last": 237.16,
+    "base_date": "2026-08-18",
+    "last_date": "2026-08-19"
+   }
+  },
+  {
    "date": "2026-08-18T14:45:58Z",
    "platform": "News",
    "text": "TSLA Stock Slips Premarket: Musk Joins Trump\u2019s China Trip As FSD Delays Threaten Tesla\u2019s Biggest Factory - Stocktwits \u2014 TSLA Stock Slips Premarket: Musk Joins Trump\u2019s China Trip As FSD Delays Threaten Tesla\u2019s Biggest Factory\u00a0\u00a0Stocktwits",
@@ -346,6 +459,30 @@
    "primary_ticker": "TSLA",
    "strength": 45,
    "reason": "FSD delays and factory risks threaten Tesla's China revenue",
+   "price_since": {
+    "ticker": "TSLA",
+    "pct": 4.2,
+    "base": 336.87,
+    "last": 351.12,
+    "base_date": "2026-08-18",
+    "last_date": "2026-08-19"
+   }
+  },
+  {
+   "date": "2026-08-18T14:45:58Z",
+   "platform": "News",
+   "text": "TSLA Stock Slips Premarket: Musk Joins Trump\u2019s China Trip As FSD Delays Threaten Tesla\u2019s Biggest Factory - stocktwits.com \u2014 TSLA Stock Slips Premarket: Musk Joins Trump\u2019s China Trip As FSD Delays Threaten Tesla\u2019s Biggest Factory\u00a0\u00a0stocktwits.com",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVHl5OGJHalFWTEM0d0l2LXRjLVJ6QTVjV0t3a3J6YkxkMF9fT2ZGU2VkNGl2NGpEc0NxMjV0SkRHMDhQUWJVTXZUOTVFeVdfb1I4dDBzV25yNWc2UlRsaGpIb1h0dXZIcVMyUXNQZ0FUd01vMmVPQmd2NDBkMy0tV2E1TGs2emp0Xy1iMHA0Z21ISDNpSTFOQzRKRjZGSGhZQ21vY2R0dzZfbEVnOWh4VzhtRnVoWnRJRXMwblQ0VFdJRzVKWnAyOExR?oc=5",
+   "tickers": [
+    "TSLA"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "TSLA",
+   "strength": 52,
+   "reason": "Musk in China trade talks amid FSD delays and factory uncertainty; geopolitical risk and product delays weigh on Tesla",
    "price_since": {
     "ticker": "TSLA",
     "pct": 4.2,
@@ -490,6 +627,30 @@
    "primary_ticker": "PLTR",
    "strength": 65,
    "reason": "Trump explicitly signals support for Palantir; bullish catalyst from aligned leadership",
+   "price_since": {
+    "ticker": "PLTR",
+    "pct": 2.1,
+    "base": 171.54,
+    "last": 175.19,
+    "base_date": "2026-08-18",
+    "last_date": "2026-08-19"
+   }
+  },
+  {
+   "date": "2026-08-18T09:46:33Z",
+   "platform": "News",
+   "text": "PLTR Stock Faces Split Narrative: Retail Bulls Hold Firm As Burry Sounds Alarm, Trump Signals Support - stocktwits.com \u2014 PLTR Stock Faces Split Narrative: Retail Bulls Hold Firm As Burry Sounds Alarm, Trump Signals Support\u00a0\u00a0stocktwits.com",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSFRDSVNMdHk3NEtMbFEwQ1ZRT2tLY3h1cEFvOTVjb182Qm1QUnVqTlE2dWhzYXZpaXBoN3gyNlg4dWVWY0dldndhRDZoOGE2N2ZSMTgxb1Ayb0RWanA3a0hEeEhKWGtYRENBSGZ0d0wySmlrSWpzM1BmcXZpTUdDOXcwMVl0NXVKYjMyOEFvYmVpYk9uOVRSaWdleVNEQnZkZk1tUE5vRURtNjdubE0wTUhLSFFUbGc3OUs5UVpJQXhVTHdZLTdLTmZDQVkxMUVwd3c?oc=5",
+   "tickers": [
+    "PLTR"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "PLTR",
+   "strength": 70,
+   "reason": "Trump signals explicit support for Palantir; direct company praise from Trump is strong bullish signal.",
    "price_since": {
     "ticker": "PLTR",
     "pct": 2.1,
@@ -932,30 +1093,6 @@
    }
   },
   {
-   "date": "2026-08-17T16:10:57Z",
-   "platform": "News",
-   "text": "IBM Stock Rallies On Trump Administration\u2019s $1B Grant: Analysts Say \u2018Big Blue\u2019 Could Become First US Quantum Foundry - stocktwits.com \u2014 IBM Stock Rallies On Trump Administration\u2019s $1B Grant: Analysts Say \u2018Big Blue\u2019 Could Become First US Quantum Foundry\u00a0\u00a0stocktwits.com",
-   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOVG52c0VBRjZ6TzVuLThuSWdTN3NxMlIzUEc0aWVkUllDZDJMSVVMRlo1Rkgxb1Rja2swU1JlcVhlbmg4ejlfeGJoRGkzVG1VSEM4ZC1McWtGQnNVYklYVjYwQVliTHRoX3NqZDJZV0dlQ2NTaC1NaHhFaVAtdmVjdzVGcFhSangwdDluaTltYXZ3TXhaWWxISmlPREpkQ0N2VHdEMENJUkpDaDBGcUhSdXFZdExXbkhPaENSWlAxbVhPS3EyTnoyc3NoX2RpOXNqeEFYaFhhaGYxQUxRaWR0QUJwQ0J5VmhBY3ZpOV9YMVNjeUZlRHRzVXBLS3BpSER4VXpVWTVsYS1aZw?oc=5",
-   "tickers": [
-    "IBM"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "IBM",
-   "strength": 70,
-   "reason": "Trump administration awards IBM $1B federal contract for quantum foundry; direct bullish catalyst.",
-   "price_since": {
-    "ticker": "IBM",
-    "pct": 3.4,
-    "base": 228.85,
-    "last": 236.71,
-    "base_date": "2026-08-17",
-    "last_date": "2026-08-19"
-   }
-  },
-  {
    "date": "2026-08-17T15:37:56Z",
    "platform": "News",
    "text": "As Trump Media scraps some businesses, it's doubling down on Truth Social and the president - aol.com \u2014 As Trump Media scraps some businesses, it's doubling down on Truth Social and the president\u00a0\u00a0aol.com",
@@ -1319,30 +1456,6 @@
    }
   },
   {
-   "date": "2026-08-15T20:23:10Z",
-   "platform": "News",
-   "text": "Why Is IBM Stock Surging Nearly 7% Higher In Overnight Trading? - stocktwits.com \u2014 Why Is IBM Stock Surging Nearly 7% Higher In Overnight Trading?\u00a0\u00a0stocktwits.com",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQk9pekpVQ1Q1NnRyVEdqWjdJN29OTFpDY3Rkc08wdG96eTdtMHRzVVRmUFItUlRQQS11WXBWZFpHWU50d3hoRHBENXM2eGhKMF9QZF9qb3ZQT2pXREgyU1pTMzBFU0JGZ0lOTk90VlU4YURiV3I1LWtPdTVzZDZRbUZGWEUySWxkZXg1a2dzYVVTVUpsOU1Yc25qQ2U4OE9tX1MtbEZFNDZDalpaS2JlbndvcnYyUU1Ca0E2cGxqMi02S2s?oc=5",
-   "tickers": [
-    "IBM"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "IBM",
-   "strength": 80,
-   "reason": "IBM stock surge on Trump quantum grant announcement; federal contract award bullish",
-   "price_since": {
-    "ticker": "IBM",
-    "pct": 2.0,
-    "base": 228.85,
-    "last": 233.52,
-    "base_date": "2026-08-17",
-    "last_date": "2026-08-18"
-   }
-  },
-  {
    "date": "2026-08-15T20:09:25Z",
    "platform": "News",
    "text": "Why Is DJT Stock Up Premarket Today? - Stocktwits \u2014 Why Is DJT Stock Up Premarket Today?\u00a0\u00a0Stocktwits",
@@ -1581,22 +1694,6 @@
    "primary_ticker": "KEEL",
    "strength": 40,
    "reason": "Data center lease announcement; market-relevant but direction unclear without more details"
-  },
-  {
-   "date": "2026-08-15T14:09:54Z",
-   "platform": "News",
-   "text": "PLTR Stock Faces Split Narrative: Retail Bulls Hold Firm As Burry Sounds Alarm, Trump Signals Support - stocktwits.com \u2014 PLTR Stock Faces Split Narrative: Retail Bulls Hold Firm As Burry Sounds Alarm, Trump Signals Support\u00a0\u00a0stocktwits.com",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSFRDSVNMdHk3NEtMbFEwQ1ZRT2tLY3h1cEFvOTVjb182Qm1QUnVqTlE2dWhzYXZpaXBoN3gyNlg4dWVWY0dldndhRDZoOGE2N2ZSMTgxb1Ayb0RWanA3a0hEeEhKWGtYRENBSGZ0d0wySmlrSWpzM1BmcXZpTUdDOXcwMVl0NXVKYjMyOEFvYmVpYk9uOVRSaWdleVNEQnZkZk1tUE5vRURtNjdubE0wTUhLSFFUbGc3OUs5UVpJQXhVTHdZLTdLTmZDQVkxMUVwd3c?oc=5",
-   "tickers": [
-    "PLTR"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "PLTR",
-   "strength": 35,
-   "reason": "Trump signals support for Palantir; vague endorsement without direct call"
   },
   {
    "date": "2026-08-15T12:53:25Z",
@@ -2305,30 +2402,6 @@
    "reason": "WLFI soaring ahead of Trump-linked World Liberty Forum; explicit Trump association drives retail speculation"
   },
   {
-   "date": "2026-08-13T21:54:19Z",
-   "platform": "News",
-   "text": "Meta's AI Workforce Academy Wins Praise From Former Trump Adviser, Ex-Facebook Exec: 'Hope More Companies Follow Suit' - stocktwits.com \u2014 Meta's AI Workforce Academy Wins Praise From Former Trump Adviser, Ex-Facebook Exec: 'Hope More Companies Follow Suit'\u00a0\u00a0stocktwits.com",
-   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQU0E4QWNsTjlROXIwRTIyVHZyMTlHNHhxUndrNjlLbUxOajU2MEZIRFhHeE9xd2ZRdm9IQVMzdHlEMmU4NVBwckpvbEkyWURKRXFHMlR4Z0VWVk5qMGstTFNtVTZSNWpqVS0wWkZ3WTdEaktTd3FMUHlTRjc2M3UwZlpDY1NjeG5FZ2s2bDJVeGJiVjgwWXIzdVVOS0FhQ2E0WjNUMDIzY1ppOTdJNTJkanBEMjFzRUVzb2RBS1czdXZXVWoyb0xLcl9ycl81NG1zd0lNT0NRUmVMZVgyblRkTVlXU1ZUTENRdkJBQzdhU0VuSG9HN19jeFNna0NRVlVUN2E1blhrY0U5Zw?oc=5",
-   "tickers": [
-    "META"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "META",
-   "strength": 45,
-   "reason": "Meta AI Workforce Academy praised by Trump adviser; positive optics on Meta's AI strategy.",
-   "price_since": {
-    "ticker": "META",
-    "pct": -0.9,
-    "base": 594.97,
-    "last": 589.85,
-    "base_date": "2026-08-13",
-    "last_date": "2026-08-14"
-   }
-  },
-  {
    "date": "2026-08-13T20:23:35Z",
    "platform": "News",
    "text": "Michael Dell Fifth Richest in World as Dell Stock Climbs to New Highs: Gain of $106 Billion in 2026 Trails Only Musk - Benzinga \u2014 Michael Dell Fifth Richest in World as Dell Stock Climbs to New Highs: Gain of $106 Billion in 2026 Trails Only Musk\u00a0\u00a0Benzinga",
@@ -2512,30 +2585,6 @@
    "primary_ticker": "NVDA",
    "strength": 55,
    "reason": "New PC chip unveiling at Computex; bullish product catalyst for NVDA."
-  },
-  {
-   "date": "2026-08-13T15:04:08Z",
-   "platform": "News",
-   "text": "Jamie Dimon Warns Inflation Ticking Up Is 'Not Good' \u2014 Praises Trump's 'One Big Beautiful Bill,' Deregulation Push To Stimulate Economic Growth - Stocktwits \u2014 Jamie Dimon Warns Inflation Ticking Up Is 'Not Good' \u2014 Praises Trump's 'One Big Beautiful Bill,' Deregulation Push To Stimulate Economic Growth\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNT0doNFRsMDktVlctR3pFZkNTc2g5WUNfanZvQktOVkdOTkRsQmZPdGZpSmVCQ3dlY1l1VXdQekRaNmg5VFhCQjAtLUd0czB5X0RGdTVPNEs5VUxOQ2Y0Vk9LU00wdDlKQ3hYekEySzRXVWlsajl3RHpESVV3SUdObTVlNlZ1UnJJSHVXb2thclRfaGlPLWNHY2JzczlfTWhKeUlBS3EyTlg3SXRpQ19mSWhGNnZkWjI0eWYydmNUNl9aTDB1Y2hzWFdMT05CanFLVkVZa2Zsc05MUQ?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "SPY",
-   "strength": 68,
-   "reason": "Dimon praises deregulation & pro-growth policy; broad market bullish signal",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": -0.2,
-    "base": 777.88,
-    "last": 776.34,
-    "base_date": "2026-08-13",
-    "last_date": "2026-08-14"
-   }
   },
   {
    "curated": true,
