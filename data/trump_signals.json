@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-19T21:51:05Z",
+ "last_updated": "2026-08-19T22:23:53Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -17,6 +17,22 @@
    "primary_ticker": "COIN",
    "strength": 65,
    "reason": "Trump pushes crypto clarity legislation; bullish for crypto exchange operators and ecosystem"
+  },
+  {
+   "date": "2026-08-19T16:19:16Z",
+   "platform": "News",
+   "text": "Trump nominates White House adviser Overton as FDA pick - Seeking Alpha \u2014 Trump nominates White House adviser Overton as FDA pick\u00a0\u00a0Seeking Alpha",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMG1Lak94dWRUSENwLWU5U3hJNkVwVVNqcUV0TjBQNDBqY1QtbE16M3Bkd2ozcFhaTWN2NEhBb2ZaeGt5aHZMVnNXNWlUamQxckxuVll3NXp3SHQ4TFJEMzV5ZVZZaWRNVU15ZTVnS1NESUVsTmxxeWlqUmFPVnRMWEFwdTFBdGR3VlJFaFBhZnNLZXZmc3BnTXRUenhoTGs4WlFONUFOQ1R4cmptOTFZbjV6ZE53SmxWYmNKa09QMmxsclhFRW5VQw?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "SPY",
+   "strength": 15,
+   "reason": "FDA pick could affect healthcare/pharma sector; direction unclear without nominee details"
   },
   {
    "date": "2026-08-19T09:27:11Z",
@@ -50,6 +66,30 @@
    "primary_ticker": "XLE",
    "strength": 75,
    "reason": "Tariff pause on Canada is bullish; Keystone XL Pipeline revival signals energy sector upside"
+  },
+  {
+   "date": "2026-08-18T23:55:35Z",
+   "platform": "News",
+   "text": "IBM Stock Rallies On Trump Administration\u2019s $1B Grant: Analysts Say \u2018Big Blue\u2019 Could Become First US Quantum Foundry - Stocktwits \u2014 IBM Stock Rallies On Trump Administration\u2019s $1B Grant: Analysts Say \u2018Big Blue\u2019 Could Become First US Quantum Foundry\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOVG52c0VBRjZ6TzVuLThuSWdTN3NxMlIzUEc0aWVkUllDZDJMSVVMRlo1Rkgxb1Rja2swU1JlcVhlbmg4ejlfeGJoRGkzVG1VSEM4ZC1McWtGQnNVYklYVjYwQVliTHRoX3NqZDJZV0dlQ2NTaC1NaHhFaVAtdmVjdzVGcFhSangwdDluaTltYXZ3TXhaWWxISmlPREpkQ0N2VHdEMENJUkpDaDBGcUhSdXFZdExXbkhPaENSWlAxbVhPS3EyTnoyc3NoX2RpOXNqeEFYaFhhaGYxQUxRaWR0QUJwQ0J5VmhBY3ZpOV9YMVNjeUZlRHRzVXBLS3BpSER4VXpVWTVsYS1aZw?oc=5",
+   "tickers": [
+    "IBM"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "IBM",
+   "strength": 75,
+   "reason": "$1B federal grant awarded to IBM for quantum foundry; direct contract award bullish for recipient",
+   "price_since": {
+    "ticker": "IBM",
+    "pct": 1.9,
+    "base": 232.67,
+    "last": 237.16,
+    "base_date": "2026-08-18",
+    "last_date": "2026-08-19"
+   }
   },
   {
    "date": "2026-08-18T22:25:48Z",
@@ -668,9 +708,9 @@
    "reason": "Trump-aligned figure bullish on bitcoin reaching $1M; bullish crypto sentiment.",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": 7.8,
+    "pct": 7.1,
     "base": 64680.71,
-    "last": 69719.34,
+    "last": 69243.85,
     "base_date": "2026-08-18",
     "last_date": "2026-08-19"
    }
@@ -887,30 +927,6 @@
     "pct": -13.0,
     "base": 232.16,
     "last": 202.0,
-    "base_date": "2026-08-17",
-    "last_date": "2026-08-19"
-   }
-  },
-  {
-   "date": "2026-08-17T16:10:57Z",
-   "platform": "News",
-   "text": "IBM Stock Rallies On Trump Administration\u2019s $1B Grant: Analysts Say \u2018Big Blue\u2019 Could Become First US Quantum Foundry - Stocktwits \u2014 IBM Stock Rallies On Trump Administration\u2019s $1B Grant: Analysts Say \u2018Big Blue\u2019 Could Become First US Quantum Foundry\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOVG52c0VBRjZ6TzVuLThuSWdTN3NxMlIzUEc0aWVkUllDZDJMSVVMRlo1Rkgxb1Rja2swU1JlcVhlbmg4ejlfeGJoRGkzVG1VSEM4ZC1McWtGQnNVYklYVjYwQVliTHRoX3NqZDJZV0dlQ2NTaC1NaHhFaVAtdmVjdzVGcFhSangwdDluaTltYXZ3TXhaWWxISmlPREpkQ0N2VHdEMENJUkpDaDBGcUhSdXFZdExXbkhPaENSWlAxbVhPS3EyTnoyc3NoX2RpOXNqeEFYaFhhaGYxQUxRaWR0QUJwQ0J5VmhBY3ZpOV9YMVNjeUZlRHRzVXBLS3BpSER4VXpVWTVsYS1aZw?oc=5",
-   "tickers": [
-    "IBM"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "IBM",
-   "strength": 75,
-   "reason": "Trump administration awards IBM $1B quantum grant; concrete federal contract bullish signal",
-   "price_since": {
-    "ticker": "IBM",
-    "pct": 3.4,
-    "base": 228.85,
-    "last": 236.71,
     "base_date": "2026-08-17",
     "last_date": "2026-08-19"
    }
@@ -2544,22 +2560,6 @@
     "base_date": "2026-08-13",
     "last_date": "2026-08-14"
    }
-  },
-  {
-   "date": "2026-08-13T11:33:46Z",
-   "platform": "News",
-   "text": "Eric Trump Doubles Down On $1 Million Bitcoin Call \u2013 Says Crypto Is \u2018On The One-Yard Line\u2019 - stocktwits.com \u2014 Eric Trump Doubles Down On $1 Million Bitcoin Call \u2013 Says Crypto Is \u2018On The One-Yard Line\u2019\u00a0\u00a0stocktwits.com",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNX1pmRkZXRjdiRW5hMjBIczJUNUJIdGF6aldVWUh5a3NyTXlfM2RqczdicF96cDk3T1hqNmpNLWp5QXBJT0JkcWpJU0VzWXpUVWFFRkVEWlN6LTBCLUFkSGswd3BkRGZNWDZBa1pwdUtwTWpwUVlONEF6Ny1pMHpReUtsa2VNenVURDltcjRQcmFNWU1xT1RWOWMtdGdGenJ6Q0R6UnVSTS1qZlhkb1NsUHFxYTV2OW5wWjJVdmpLWkxFa3BaN1JSenpEX2o5VUFCSnFXT0FfM1B5alJNQ3c?oc=5",
-   "tickers": [
-    "BTC-USD"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "BTC-USD",
-   "strength": 35,
-   "reason": "Eric Trump bullish on Bitcoin at $1M target; family signal but not from Trump himself, vague timeframe."
   },
   {
    "curated": true,
