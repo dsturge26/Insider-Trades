@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-08-19T13:43:29Z",
+ "last_updated": "2026-08-19T14:18:30Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-08-19T09:27:11Z",
+   "platform": "News",
+   "text": "Trump discloses 21,000 securities trades during first year in office - ABC News - Breaking News, Latest News and Videos \u2014 Trump discloses 21,000 securities trades during first year in office\u00a0\u00a0ABC News - Breaking News, Latest News and Videos",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRXRKN3Z0andHTXp5WjRNQ2xkUjcxS2tCeHpfdG9EeFRpaGM1Q2IxZFM4akNkQm5IZkt6NnEwRFNsNUQ2VUpYaXdaQW5LZEFsNC1OcHhKNWczS0QxSDZ6RE9qbGFieUdvaHpsNldGczhQa1hTQjF2aGZiSl9wcUhlaENId0I5VWx1cGJFZ1NCM0IyY2M2LWtKRkVDX3I4WDYz0gGmAUFVX3lxTE9Dc2ZEcnpkNmxPUVphbjRJcnBpaGNsM0EyVXlsQTFwdmg3TWZXekcxSUR0cGp3RWttdU5NMkRFVkZlV280MHV1V0RQOWtrTzlLQTlRQkE5eGpXaF9Yajh2NC1ITkdqSmhYcFY2ZFlLeE9nTjFKWUdKaG12WDlVTzl3VWIxeTdJRldpOFpsbEdXM29abG1KejFLLWdnWVBBVEtXSHdtU2c?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "SPY",
+   "strength": 25,
+   "reason": "Securities trading disclosure suggests potential insider activity; ambiguous directional signal"
+  },
   {
    "date": "2026-08-19T02:15:41.128Z",
    "platform": "Truth Social",
@@ -36,9 +52,9 @@
    "reason": "Analyst price target hikes signal positive sentiment on stock",
    "price_since": {
     "ticker": "PRAX",
-    "pct": 1.4,
+    "pct": 0.3,
     "base": 369.84,
-    "last": 374.89,
+    "last": 370.83,
     "base_date": "2026-08-18",
     "last_date": "2026-08-19"
    }
@@ -60,9 +76,9 @@
    "reason": "Historical retrospective on stock performance; no current catalyst",
    "price_since": {
     "ticker": "FUN",
-    "pct": 3.6,
+    "pct": 4.4,
     "base": 15.75,
-    "last": 16.31,
+    "last": 16.44,
     "base_date": "2026-08-18",
     "last_date": "2026-08-19"
    }
@@ -84,9 +100,9 @@
    "reason": "Former Trump adviser praise for Meta's AI program is soft positive signal but lacks specificity or directness",
    "price_since": {
     "ticker": "META",
-    "pct": -0.4,
+    "pct": 0.6,
     "base": 543.67,
-    "last": 541.59,
+    "last": 547.04,
     "base_date": "2026-08-18",
     "last_date": "2026-08-19"
    }
@@ -108,9 +124,9 @@
    "reason": "State Farm dividend announcement signals financial strength and capital return; proxied by insurance/financial sector",
    "price_since": {
     "ticker": "STWD",
-    "pct": 2.0,
+    "pct": 2.6,
     "base": 16.24,
-    "last": 16.56,
+    "last": 16.67,
     "base_date": "2026-08-18",
     "last_date": "2026-08-19"
    }
@@ -132,9 +148,9 @@
    "reason": "NuScale revenue collapse and massive dilutive share sale bearish for nuclear stock",
    "price_since": {
     "ticker": "SMR",
-    "pct": 0.8,
+    "pct": 0.0,
     "base": 8.64,
-    "last": 8.71,
+    "last": 8.64,
     "base_date": "2026-08-18",
     "last_date": "2026-08-19"
    }
@@ -156,9 +172,9 @@
    "reason": "NuScale revenue collapse and dilutive share sale signal operational distress",
    "price_since": {
     "ticker": "SMR",
-    "pct": 0.8,
+    "pct": 0.0,
     "base": 8.64,
-    "last": 8.71,
+    "last": 8.64,
     "base_date": "2026-08-18",
     "last_date": "2026-08-19"
    }
@@ -182,7 +198,7 @@
     "ticker": "SPY",
     "pct": 0.3,
     "base": 767.45,
-    "last": 770.08,
+    "last": 769.89,
     "base_date": "2026-08-18",
     "last_date": "2026-08-19"
    }
@@ -206,7 +222,7 @@
     "ticker": "SPY",
     "pct": 0.3,
     "base": 767.45,
-    "last": 770.08,
+    "last": 769.89,
     "base_date": "2026-08-18",
     "last_date": "2026-08-19"
    }
@@ -228,9 +244,9 @@
    "reason": "FSD delays and factory risks threaten Tesla's China revenue",
    "price_since": {
     "ticker": "TSLA",
-    "pct": 0.8,
+    "pct": 0.9,
     "base": 336.87,
-    "last": 339.45,
+    "last": 340.01,
     "base_date": "2026-08-18",
     "last_date": "2026-08-19"
    }
@@ -252,9 +268,9 @@
    "reason": "Geopolitical tension over Strait of Hormuz may raise oil volatility but direction unclear.",
    "price_since": {
     "ticker": "USO",
-    "pct": 0.4,
+    "pct": 0.7,
     "base": 130.66,
-    "last": 131.13,
+    "last": 131.58,
     "base_date": "2026-08-18",
     "last_date": "2026-08-19"
    }
@@ -276,9 +292,9 @@
    "reason": "Geopolitical claim on Strait of Hormuz raises Middle East tension risk to oil markets",
    "price_since": {
     "ticker": "USO",
-    "pct": 0.4,
+    "pct": 0.7,
     "base": 130.66,
-    "last": 131.13,
+    "last": 131.58,
     "base_date": "2026-08-18",
     "last_date": "2026-08-19"
    }
@@ -302,7 +318,7 @@
     "ticker": "XLE",
     "pct": 0.7,
     "base": 63.68,
-    "last": 64.14,
+    "last": 64.12,
     "base_date": "2026-08-18",
     "last_date": "2026-08-19"
    }
@@ -326,7 +342,7 @@
     "ticker": "XLE",
     "pct": 0.7,
     "base": 63.68,
-    "last": 64.14,
+    "last": 64.12,
     "base_date": "2026-08-18",
     "last_date": "2026-08-19"
    }
@@ -348,9 +364,9 @@
    "reason": "Major DRAM capex and chip sector strength signal",
    "price_since": {
     "ticker": "SMH",
-    "pct": -0.5,
+    "pct": -2.1,
     "base": 569.77,
-    "last": 567.1,
+    "last": 557.64,
     "base_date": "2026-08-18",
     "last_date": "2026-08-19"
    }
@@ -372,9 +388,9 @@
    "reason": "Trump explicitly signals support for Palantir; bullish catalyst from aligned leadership",
    "price_since": {
     "ticker": "PLTR",
-    "pct": 2.2,
+    "pct": 0.3,
     "base": 171.54,
-    "last": 175.26,
+    "last": 172.09,
     "base_date": "2026-08-18",
     "last_date": "2026-08-19"
    }
@@ -396,9 +412,9 @@
    "reason": "Stock rallying into SOTU event; no specific Trump catalyst named, event-driven speculation only",
    "price_since": {
     "ticker": "IBRX",
-    "pct": 6.0,
+    "pct": 4.4,
     "base": 7.72,
-    "last": 8.18,
+    "last": 8.06,
     "base_date": "2026-08-18",
     "last_date": "2026-08-19"
    }
@@ -420,9 +436,9 @@
    "reason": "Stock rallying into SOTU event; no specific Trump catalyst disclosed in headline.",
    "price_since": {
     "ticker": "IBRX",
-    "pct": 6.0,
+    "pct": 4.4,
     "base": 7.72,
-    "last": 8.18,
+    "last": 8.06,
     "base_date": "2026-08-18",
     "last_date": "2026-08-19"
    }
@@ -446,7 +462,7 @@
     "ticker": "SPY",
     "pct": 0.3,
     "base": 767.45,
-    "last": 770.08,
+    "last": 769.84,
     "base_date": "2026-08-18",
     "last_date": "2026-08-19"
    }
@@ -468,9 +484,9 @@
    "reason": "Union push for Uber/Lyft drivers increases labor costs, bearish for rideshare platforms",
    "price_since": {
     "ticker": "UBER",
-    "pct": 1.0,
+    "pct": 3.2,
     "base": 74.66,
-    "last": 75.39,
+    "last": 77.03,
     "base_date": "2026-08-18",
     "last_date": "2026-08-19"
    }
@@ -492,9 +508,9 @@
    "reason": "Chip sector rally (Micron, QCOM, TSM); Nasdaq strength on semiconductor momentum.",
    "price_since": {
     "ticker": "QQQ",
-    "pct": 0.1,
+    "pct": -0.5,
     "base": 717.51,
-    "last": 718.25,
+    "last": 714.24,
     "base_date": "2026-08-18",
     "last_date": "2026-08-19"
    }
@@ -516,9 +532,9 @@
    "reason": "Micron-led chip rally mentioned; semiconductor sector broadly in focus.",
    "price_since": {
     "ticker": "SMH",
-    "pct": -0.5,
+    "pct": -2.1,
     "base": 569.77,
-    "last": 566.99,
+    "last": 557.86,
     "base_date": "2026-08-18",
     "last_date": "2026-08-19"
    }
@@ -540,9 +556,9 @@
    "reason": "China denies H200 chip approval; bearish for Nvidia's China revenue and earnings.",
    "price_since": {
     "ticker": "NVDA",
-    "pct": 0.1,
+    "pct": -1.1,
     "base": 219.74,
-    "last": 220.02,
+    "last": 217.37,
     "base_date": "2026-08-18",
     "last_date": "2026-08-19"
    }
@@ -564,9 +580,9 @@
    "reason": "Trump-aligned figure bullish on bitcoin reaching $1M; bullish crypto sentiment.",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": 0.3,
+    "pct": 1.0,
     "base": 64680.71,
-    "last": 64847.57,
+    "last": 65348.58,
     "base_date": "2026-08-18",
     "last_date": "2026-08-19"
    }
@@ -590,7 +606,7 @@
     "ticker": "XLE",
     "pct": 0.7,
     "base": 63.68,
-    "last": 64.14,
+    "last": 64.12,
     "base_date": "2026-08-18",
     "last_date": "2026-08-19"
    }
@@ -612,9 +628,9 @@
    "reason": "Trump explicitly lauded Citi's 'big comeback' in M&A, directly bullish signal on the bank.",
    "price_since": {
     "ticker": "C",
-    "pct": -0.9,
+    "pct": -1.6,
     "base": 137.65,
-    "last": 136.37,
+    "last": 135.46,
     "base_date": "2026-08-18",
     "last_date": "2026-08-19"
    }
@@ -636,9 +652,9 @@
    "reason": "Trump explicitly warns Netflix to fire board member or face consequences; direct threat.",
    "price_since": {
     "ticker": "NFLX",
-    "pct": 1.4,
+    "pct": 3.6,
     "base": 77.77,
-    "last": 78.83,
+    "last": 80.57,
     "base_date": "2026-08-18",
     "last_date": "2026-08-19"
    }
@@ -660,9 +676,9 @@
    "reason": "Trump stake in ServiceNow creates bullish signal and retail buzz.",
    "price_since": {
     "ticker": "NOW",
-    "pct": 4.7,
+    "pct": 6.0,
     "base": 117.7,
-    "last": 123.27,
+    "last": 124.76,
     "base_date": "2026-08-17",
     "last_date": "2026-08-19"
    }
@@ -684,9 +700,9 @@
    "reason": "Trump explicit endorsement of Dell drives stock to record highs",
    "price_since": {
     "ticker": "DELL",
-    "pct": -5.5,
+    "pct": -10.4,
     "base": 479.81,
-    "last": 453.45,
+    "last": 429.69,
     "base_date": "2026-08-17",
     "last_date": "2026-08-19"
    }
@@ -708,9 +724,9 @@
    "reason": "Tariff announcement bearish for broad market; family enrichment concerns infer policy risk.",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.3,
+    "pct": -0.4,
     "base": 772.67,
-    "last": 770.12,
+    "last": 769.86,
     "base_date": "2026-08-17",
     "last_date": "2026-08-19"
    }
