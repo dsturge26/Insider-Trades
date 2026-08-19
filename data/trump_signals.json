@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-19T04:52:18Z",
+ "last_updated": "2026-08-19T05:29:53Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -276,6 +276,22 @@
    "reason": "Micron-led chip rally mentioned; semiconductor sector broadly in focus."
   },
   {
+   "date": "2026-08-18T04:27:09Z",
+   "platform": "News",
+   "text": "Trump Says China Has Not Approved NVDA H200 Chip Purchases Yet \u2014 'They Want To Develop Their Own' - Stocktwits \u2014 Trump Says China Has Not Approved NVDA H200 Chip Purchases Yet \u2014 'They Want To Develop Their Own'\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZ2oxZ3ZfNVpTWGQwLTY3T0xzazUxbWY2a3ZreDlRRGE0ZHQxbmNRR29RSm11VXBPajBkd1V1M0VhRUJvVUp0V2lfM3ladmswQ2hMWGlsUjY5RE1ERXR0LTBwN2JLYTBNUk1GRC1QbjktYTlkeTU5MlgteEpYeURwZmhaR2NjUUJMVWs5SGVnbm9uTEZ2dkdmSmVVdzctQ0I3clJZZFM1YnVqbkd1RG9kQlpXUjY?oc=5",
+   "tickers": [
+    "NVDA"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "NVDA",
+   "strength": 60,
+   "reason": "China denies H200 chip approval; bearish for Nvidia's China revenue and earnings."
+  },
+  {
    "date": "2026-08-18T03:09:28Z",
    "platform": "News",
    "text": "Citi Stock Hits 52-Week High Before Fading As Trump Lauds Bank's 'Big Comeback' In M&A \u2014 But Full Picture Has Changed Now - Stocktwits \u2014 Citi Stock Hits 52-Week High Before Fading As Trump Lauds Bank's 'Big Comeback' In M&A \u2014 But Full Picture Has Changed Now\u00a0\u00a0Stocktwits",
@@ -369,15 +385,7 @@
    "direction": "SELL",
    "primary_ticker": "SPY",
    "strength": 35,
-   "reason": "Tariff announcement bearish for broad market; family enrichment concerns infer policy risk.",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": -0.7,
-    "base": 772.67,
-    "last": 767.45,
-    "base_date": "2026-08-17",
-    "last_date": "2026-08-18"
-   }
+   "reason": "Tariff announcement bearish for broad market; family enrichment concerns infer policy risk."
   },
   {
    "date": "2026-08-17T18:28:00Z",
@@ -441,7 +449,15 @@
    "direction": "WATCH",
    "primary_ticker": "BE",
    "strength": 40,
-   "reason": "AI power thesis recovery; Crusoe project pause unclear on net direction"
+   "reason": "AI power thesis recovery; Crusoe project pause unclear on net direction",
+   "price_since": {
+    "ticker": "BE",
+    "pct": -10.0,
+    "base": 232.16,
+    "last": 209.01,
+    "base_date": "2026-08-17",
+    "last_date": "2026-08-18"
+   }
   },
   {
    "date": "2026-08-17T16:10:57Z",
@@ -457,7 +473,15 @@
    "direction": "BUY",
    "primary_ticker": "IBM",
    "strength": 75,
-   "reason": "Trump administration awards IBM $1B quantum grant; concrete federal contract bullish signal"
+   "reason": "Trump administration awards IBM $1B quantum grant; concrete federal contract bullish signal",
+   "price_since": {
+    "ticker": "IBM",
+    "pct": 1.7,
+    "base": 228.85,
+    "last": 232.67,
+    "base_date": "2026-08-17",
+    "last_date": "2026-08-18"
+   }
   },
   {
    "date": "2026-08-17T16:10:57Z",
@@ -489,15 +513,7 @@
    "direction": "BUY",
    "primary_ticker": "DJT",
    "strength": 45,
-   "reason": "Trump Media doubling down on Truth Social and the president signals strategic focus on core asset.",
-   "price_since": {
-    "ticker": "DJT",
-    "pct": -0.5,
-    "base": 8.1,
-    "last": 8.06,
-    "base_date": "2026-08-17",
-    "last_date": "2026-08-18"
-   }
+   "reason": "Trump Media doubling down on Truth Social and the president signals strategic focus on core asset."
   },
   {
    "date": "2026-08-17T13:45:00Z",
@@ -591,30 +607,6 @@
     "pct": 0.5,
     "base": 28.43,
     "last": 28.57,
-    "base_date": "2026-08-17",
-    "last_date": "2026-08-18"
-   }
-  },
-  {
-   "date": "2026-08-17T09:46:36Z",
-   "platform": "News",
-   "text": "Trump Says China Has Not Approved NVDA H200 Chip Purchases Yet \u2014 'They Want To Develop Their Own' - Stocktwits \u2014 Trump Says China Has Not Approved NVDA H200 Chip Purchases Yet \u2014 'They Want To Develop Their Own'\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZ2oxZ3ZfNVpTWGQwLTY3T0xzazUxbWY2a3ZreDlRRGE0ZHQxbmNRR29RSm11VXBPajBkd1V1M0VhRUJvVUp0V2lfM3ladmswQ2hMWGlsUjY5RE1ERXR0LTBwN2JLYTBNUk1GRC1QbjktYTlkeTU5MlgteEpYeURwZmhaR2NjUUJMVWs5SGVnbm9uTEZ2dkdmSmVVdzctQ0I3clJZZFM1YnVqbkd1RG9kQlpXUjY?oc=5",
-   "tickers": [
-    "NVDA"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "NVDA",
-   "strength": 55,
-   "reason": "Trump reports China blocking high-end chip sales; bearish for NVDA export revenue.",
-   "price_since": {
-    "ticker": "NVDA",
-    "pct": -2.3,
-    "base": 225.01,
-    "last": 219.74,
     "base_date": "2026-08-17",
     "last_date": "2026-08-18"
    }
@@ -2352,23 +2344,6 @@
     "base_date": "2026-08-13",
     "last_date": "2026-08-14"
    }
-  },
-  {
-   "date": "2026-08-12T14:31:09.583Z",
-   "platform": "Truth Social",
-   "text": "The U.S.A. has total control over the Strait of Hormuz. I THINK WE WILL KEEP IT! Our Naval Blockade is being called, by everyone, \"A WALL OF STEEL,\" and there is nothing Iran can do about it. They have no Navy, they have no Air Force, their remaining soldiers are unpaid, the IRGC is decimated and fleeing, and their \"Leadership\" is uncertain, at best! They have No Money - Their country is \"shot.\" All they have is FAKE NEWS and 300% INFLATION, and getting worse! Iran is all talk and no action, the Bully of the Middle East No Longer. Praise be to Allah! President DONALD J. TRUMP",
-   "tickers": [
-    "XLE"
-   ],
-   "engagement": 18811,
-   "url": "https://truthsocial.com/@realDonaldTrump/117083017680231697",
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "XLE",
-   "strength": 45,
-   "reason": "US military control of Strait of Hormuz asserted; bullish for oil markets and energy sector via geopolitical stability."
   },
   {
    "curated": true,
