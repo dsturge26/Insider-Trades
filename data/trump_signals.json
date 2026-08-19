@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-08-19T21:24:49Z",
+ "last_updated": "2026-08-19T21:51:05Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-08-19T20:34:00Z",
+   "platform": "News",
+   "text": "Trump Ends War (On Crypto) At White House Summit, Pushes Clarity Act Vote - Investor's Business Daily \u2014 Trump Ends War (On Crypto) At White House Summit, Pushes Clarity Act Vote\u00a0\u00a0Investor's Business Daily",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNS0VVQXdwWXJUbzBDVWNxa1FPU0RCc3dRQ2JqRTJjc2FHZ0w2NXZCanM1b0Z0NVVKMlJfUURIM0RQem5Td2lOSjZkbXZRS2ctRnh2QlF5Nm1uNVlObF9uWi1zN05DMlBRWGdEMWgzcmRKdDU2eFRiZEVpVFZnb2IzYjMxYVBWZmF1S3F4dUV3TG1YYmxVdzlnU3JseXdHYkxlOGNqMU9R?oc=5",
+   "tickers": [
+    "COIN"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "COIN",
+   "strength": 65,
+   "reason": "Trump pushes crypto clarity legislation; bullish for crypto exchange operators and ecosystem"
+  },
   {
    "date": "2026-08-19T09:27:11Z",
    "platform": "News",
@@ -652,9 +668,9 @@
    "reason": "Trump-aligned figure bullish on bitcoin reaching $1M; bullish crypto sentiment.",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": 7.6,
+    "pct": 7.8,
     "base": 64680.71,
-    "last": 69566.07,
+    "last": 69719.34,
     "base_date": "2026-08-18",
     "last_date": "2026-08-19"
    }
@@ -750,7 +766,7 @@
     "ticker": "NOW",
     "pct": 8.1,
     "base": 117.7,
-    "last": 127.29,
+    "last": 127.2,
     "base_date": "2026-08-17",
     "last_date": "2026-08-19"
    }
@@ -772,9 +788,9 @@
    "reason": "Trump explicit endorsement of Dell drives stock to record highs",
    "price_since": {
     "ticker": "DELL",
-    "pct": -9.0,
+    "pct": -8.8,
     "base": 479.81,
-    "last": 436.67,
+    "last": 437.55,
     "base_date": "2026-08-17",
     "last_date": "2026-08-19"
    }
@@ -796,9 +812,9 @@
    "reason": "Tariff announcement bearish for broad market; family enrichment concerns infer policy risk.",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.4,
+    "pct": -0.5,
     "base": 772.67,
-    "last": 769.61,
+    "last": 769.06,
     "base_date": "2026-08-17",
     "last_date": "2026-08-19"
    }
