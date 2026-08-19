@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-19T04:11:02Z",
+ "last_updated": "2026-08-19T04:52:19Z",
  "note": "Trump-linked / 'Trump trade' tickers to watch. Prices are refreshed by the GitHub Action from Yahoo Finance (intraday quote + trend, no key; Stooq is a fallback). Stocks are ~15-min delayed, crypto is real-time.",
  "tickers": [
   {
@@ -8,10 +8,6 @@
    "why": "Trump is majority owner. The purest 'Trump sentiment' stock \u2014 moves on his political/legal/business news.",
    "stooq": "djt.us",
    "prices": [
-    {
-     "date": "2026-05-21",
-     "close": 7.95
-    },
     {
      "date": "2026-05-22",
      "close": 7.95
@@ -247,6 +243,10 @@
     {
      "date": "2026-08-17",
      "close": 8.1
+    },
+    {
+     "date": "2026-08-18",
+     "close": 8.06
     }
    ],
    "last": 8.06,
@@ -260,10 +260,6 @@
    "why": "Broad market. Trump policy/tariff posts move the whole index \u2014 the cleanest way to play a 'great time to buy' signal.",
    "stooq": "spy.us",
    "prices": [
-    {
-     "date": "2026-05-21",
-     "close": 742.72
-    },
     {
      "date": "2026-05-22",
      "close": 745.64
@@ -499,6 +495,10 @@
     {
      "date": "2026-08-17",
      "close": 772.67
+    },
+    {
+     "date": "2026-08-18",
+     "close": 767.45
     }
    ],
    "last": 767.45,
@@ -512,10 +512,6 @@
    "why": "Tech-heavy index; amplifies the same macro/tariff swings as SPY.",
    "stooq": "qqq.us",
    "prices": [
-    {
-     "date": "2026-05-21",
-     "close": 714.51
-    },
     {
      "date": "2026-05-22",
      "close": 717.54
@@ -751,6 +747,10 @@
     {
      "date": "2026-08-17",
      "close": 729.87
+    },
+    {
+     "date": "2026-08-18",
+     "close": 717.51
     }
    ],
    "last": 717.51,
@@ -1017,6 +1017,18 @@
    "stooq": "xar.us",
    "prices": [
     {
+     "date": "2026-05-19",
+     "close": 259.46
+    },
+    {
+     "date": "2026-05-20",
+     "close": 266.5
+    },
+    {
+     "date": "2026-05-21",
+     "close": 266.37
+    },
+    {
      "date": "2026-05-22",
      "close": 271.18
     },
@@ -1173,14 +1185,6 @@
      "close": 259.31
     },
     {
-     "date": "2026-07-21",
-     "close": 264.91
-    },
-    {
-     "date": "2026-07-22",
-     "close": 264.3
-    },
-    {
      "date": "2026-07-23",
      "close": 270.54
     },
@@ -1203,10 +1207,6 @@
     {
      "date": "2026-07-30",
      "close": 262.83
-    },
-    {
-     "date": "2026-07-31",
-     "close": 264.86
     },
     {
      "date": "2026-08-03",
@@ -1251,10 +1251,6 @@
     {
      "date": "2026-08-17",
      "close": 294.87
-    },
-    {
-     "date": "2026-08-18",
-     "close": 290.43
     }
    ],
    "last": 290.43,

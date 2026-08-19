@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-19T04:11:02Z",
+ "last_updated": "2026-08-19T04:52:18Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -292,6 +292,22 @@
    "reason": "Trump explicitly lauded Citi's 'big comeback' in M&A, directly bullish signal on the bank."
   },
   {
+   "date": "2026-08-18T00:48:01Z",
+   "platform": "News",
+   "text": "Is Netflix\u2019s WBD Bid In Trouble Again? Trump Warns Streaming Giant To Fire Board Member Or \u2018Pay The Consequences\u2019 - Stocktwits \u2014 Is Netflix\u2019s WBD Bid In Trouble Again? Trump Warns Streaming Giant To Fire Board Member Or \u2018Pay The Consequences\u2019\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQU3phR3IwODgtQldLX19NMUFXaVBmN2t6QlVvNTdXZmtVcVhwZzd1NVhCSTFyNndCNjhRZ19qa0Y0X2xuWXFuMmxpYmVwTUVWNzlRaU5DTURGWGl6azJLQWxjam9QRW9URXh1d3ZRYmlBU3h6dmV3aDlxTmlqY1BBVmltN09wMm9adDR0OFFDdXYzRlBlWDRCWmJWWW1NXzdRVkhac0M3dkREaXR2ZUFMZk9WZldYYk0xSVVzR1FncGw1NlpPNG9IVmUxbHY0RTh5dXhqcXloRElQM3E1aS02TEJ1MllrZDd5bGViTHg3LUJlMjg3bllVMEhKcDRiSDFNQmNz?oc=5",
+   "tickers": [
+    "NFLX"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "SELL",
+   "primary_ticker": "NFLX",
+   "strength": 75,
+   "reason": "Trump explicitly warns Netflix to fire board member or face consequences; direct threat."
+  },
+  {
    "date": "2026-08-17T23:33:11Z",
    "platform": "News",
    "text": "NOW Stock Rises Overnight: Trump\u2019s ServiceNow Stake Fuels Retail Buzz Around SAAS Comeback - Stocktwits \u2014 NOW Stock Rises Overnight: Trump\u2019s ServiceNow Stake Fuels Retail Buzz Around SAAS Comeback\u00a0\u00a0Stocktwits",
@@ -305,7 +321,15 @@
    "direction": "BUY",
    "primary_ticker": "NOW",
    "strength": 65,
-   "reason": "Trump stake in ServiceNow creates bullish signal and retail buzz."
+   "reason": "Trump stake in ServiceNow creates bullish signal and retail buzz.",
+   "price_since": {
+    "ticker": "NOW",
+    "pct": 1.5,
+    "base": 117.7,
+    "last": 119.49,
+    "base_date": "2026-08-17",
+    "last_date": "2026-08-18"
+   }
   },
   {
    "date": "2026-08-17T22:47:33Z",
@@ -321,7 +345,15 @@
    "direction": "BUY",
    "primary_ticker": "DELL",
    "strength": 85,
-   "reason": "Trump explicit endorsement of Dell drives stock to record highs"
+   "reason": "Trump explicit endorsement of Dell drives stock to record highs",
+   "price_since": {
+    "ticker": "DELL",
+    "pct": -2.3,
+    "base": 479.81,
+    "last": 468.65,
+    "base_date": "2026-08-17",
+    "last_date": "2026-08-18"
+   }
   },
   {
    "date": "2026-08-17T20:40:02Z",
@@ -385,7 +417,15 @@
    "direction": "WATCH",
    "primary_ticker": "BE",
    "strength": 35,
-   "reason": "BE stock rebounds after Crusoe project pause; AI power thesis intact but project uncertainty."
+   "reason": "BE stock rebounds after Crusoe project pause; AI power thesis intact but project uncertainty.",
+   "price_since": {
+    "ticker": "BE",
+    "pct": -10.0,
+    "base": 232.16,
+    "last": 209.01,
+    "base_date": "2026-08-17",
+    "last_date": "2026-08-18"
+   }
   },
   {
    "date": "2026-08-17T16:59:47Z",
@@ -401,15 +441,7 @@
    "direction": "WATCH",
    "primary_ticker": "BE",
    "strength": 40,
-   "reason": "AI power thesis recovery; Crusoe project pause unclear on net direction",
-   "price_since": {
-    "ticker": "BE",
-    "pct": -10.0,
-    "base": 232.16,
-    "last": 209.01,
-    "base_date": "2026-08-17",
-    "last_date": "2026-08-18"
-   }
+   "reason": "AI power thesis recovery; Crusoe project pause unclear on net direction"
   },
   {
    "date": "2026-08-17T16:10:57Z",
@@ -505,7 +537,15 @@
    "direction": "BUY",
    "primary_ticker": "SERV",
    "strength": 50,
-   "reason": "Company partnership expansion with Grubhub/DoorDash; not Trump-specific but market-moving corporate news."
+   "reason": "Company partnership expansion with Grubhub/DoorDash; not Trump-specific but market-moving corporate news.",
+   "price_since": {
+    "ticker": "SERV",
+    "pct": -7.1,
+    "base": 4.9,
+    "last": 4.55,
+    "base_date": "2026-08-17",
+    "last_date": "2026-08-18"
+   }
   },
   {
    "date": "2026-08-17T13:36:00Z",
