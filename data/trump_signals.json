@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-19T15:45:55Z",
+ "last_updated": "2026-08-19T16:31:00Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -52,9 +52,9 @@
    "reason": "Analyst price target hikes signal positive sentiment on stock",
    "price_since": {
     "ticker": "PRAX",
-    "pct": 2.1,
+    "pct": 2.0,
     "base": 369.84,
-    "last": 377.78,
+    "last": 377.4,
     "base_date": "2026-08-18",
     "last_date": "2026-08-19"
    }
@@ -76,9 +76,9 @@
    "reason": "Historical retrospective on stock performance; no current catalyst",
    "price_since": {
     "ticker": "FUN",
-    "pct": 5.3,
+    "pct": 4.4,
     "base": 15.75,
-    "last": 16.58,
+    "last": 16.45,
     "base_date": "2026-08-18",
     "last_date": "2026-08-19"
    }
@@ -100,9 +100,9 @@
    "reason": "Former Trump adviser praise for Meta's AI program is soft positive signal but lacks specificity or directness",
    "price_since": {
     "ticker": "META",
-    "pct": 1.6,
+    "pct": 1.5,
     "base": 543.67,
-    "last": 552.24,
+    "last": 551.87,
     "base_date": "2026-08-18",
     "last_date": "2026-08-19"
    }
@@ -124,9 +124,9 @@
    "reason": "State Farm dividend announcement signals financial strength and capital return; proxied by insurance/financial sector",
    "price_since": {
     "ticker": "STWD",
-    "pct": 2.3,
+    "pct": 2.2,
     "base": 16.24,
-    "last": 16.61,
+    "last": 16.59,
     "base_date": "2026-08-18",
     "last_date": "2026-08-19"
    }
@@ -148,9 +148,9 @@
    "reason": "NuScale revenue collapse and massive dilutive share sale bearish for nuclear stock",
    "price_since": {
     "ticker": "SMR",
-    "pct": 3.2,
+    "pct": 6.4,
     "base": 8.64,
-    "last": 8.92,
+    "last": 9.19,
     "base_date": "2026-08-18",
     "last_date": "2026-08-19"
    }
@@ -172,9 +172,9 @@
    "reason": "NuScale revenue collapse and dilutive share sale signal operational distress",
    "price_since": {
     "ticker": "SMR",
-    "pct": 3.2,
+    "pct": 6.4,
     "base": 8.64,
-    "last": 8.92,
+    "last": 9.19,
     "base_date": "2026-08-18",
     "last_date": "2026-08-19"
    }
@@ -198,7 +198,7 @@
     "ticker": "SPY",
     "pct": 0.4,
     "base": 767.45,
-    "last": 770.45,
+    "last": 770.58,
     "base_date": "2026-08-18",
     "last_date": "2026-08-19"
    }
@@ -222,7 +222,31 @@
     "ticker": "SPY",
     "pct": 0.4,
     "base": 767.45,
-    "last": 770.46,
+    "last": 770.58,
+    "base_date": "2026-08-18",
+    "last_date": "2026-08-19"
+   }
+  },
+  {
+   "date": "2026-08-18T14:55:35Z",
+   "platform": "News",
+   "text": "Why Is IBM Stock Surging Nearly 7% Higher In Overnight Trading? - Stocktwits \u2014 Why Is IBM Stock Surging Nearly 7% Higher In Overnight Trading?\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQk9pekpVQ1Q1NnRyVEdqWjdJN29OTFpDY3Rkc08wdG96eTdtMHRzVVRmUFItUlRQQS11WXBWZFpHWU50d3hoRHBENXM2eGhKMF9QZF9qb3ZQT2pXREgyU1pTMzBFU0JGZ0lOTk90VlU4YURiV3I1LWtPdTVzZDZRbUZGWEUySWxkZXg1a2dzYVVTVUpsOU1Yc25qQ2U4OE9tX1MtbEZFNDZDalpaS2JlbndvcnYyUU1Ca0E2cGxqMi02S2s?oc=5",
+   "tickers": [
+    "IBM"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "IBM",
+   "strength": 50,
+   "reason": "Strong overnight rally suggests positive catalyst or positive sentiment for IBM",
+   "price_since": {
+    "ticker": "IBM",
+    "pct": 1.8,
+    "base": 232.67,
+    "last": 236.85,
     "base_date": "2026-08-18",
     "last_date": "2026-08-19"
    }
@@ -244,9 +268,9 @@
    "reason": "FSD delays and factory risks threaten Tesla's China revenue",
    "price_since": {
     "ticker": "TSLA",
-    "pct": 3.0,
+    "pct": 3.3,
     "base": 336.87,
-    "last": 346.89,
+    "last": 347.89,
     "base_date": "2026-08-18",
     "last_date": "2026-08-19"
    }
@@ -270,7 +294,7 @@
     "ticker": "USO",
     "pct": 1.4,
     "base": 130.66,
-    "last": 132.45,
+    "last": 132.54,
     "base_date": "2026-08-18",
     "last_date": "2026-08-19"
    }
@@ -294,7 +318,7 @@
     "ticker": "USO",
     "pct": 1.4,
     "base": 130.66,
-    "last": 132.45,
+    "last": 132.54,
     "base_date": "2026-08-18",
     "last_date": "2026-08-19"
    }
@@ -318,7 +342,7 @@
     "ticker": "XLE",
     "pct": 0.2,
     "base": 63.68,
-    "last": 63.81,
+    "last": 63.78,
     "base_date": "2026-08-18",
     "last_date": "2026-08-19"
    }
@@ -342,7 +366,7 @@
     "ticker": "XLE",
     "pct": 0.2,
     "base": 63.68,
-    "last": 63.81,
+    "last": 63.78,
     "base_date": "2026-08-18",
     "last_date": "2026-08-19"
    }
@@ -364,9 +388,9 @@
    "reason": "Major DRAM capex and chip sector strength signal",
    "price_since": {
     "ticker": "SMH",
-    "pct": -1.3,
+    "pct": -1.1,
     "base": 569.77,
-    "last": 562.61,
+    "last": 563.4,
     "base_date": "2026-08-18",
     "last_date": "2026-08-19"
    }
@@ -388,9 +412,9 @@
    "reason": "Trump explicitly signals support for Palantir; bullish catalyst from aligned leadership",
    "price_since": {
     "ticker": "PLTR",
-    "pct": 1.7,
+    "pct": 2.7,
     "base": 171.54,
-    "last": 174.46,
+    "last": 176.1,
     "base_date": "2026-08-18",
     "last_date": "2026-08-19"
    }
@@ -412,9 +436,9 @@
    "reason": "Stock rallying into SOTU event; no specific Trump catalyst named, event-driven speculation only",
    "price_since": {
     "ticker": "IBRX",
-    "pct": 4.9,
+    "pct": 4.4,
     "base": 7.72,
-    "last": 8.1,
+    "last": 8.06,
     "base_date": "2026-08-18",
     "last_date": "2026-08-19"
    }
@@ -436,9 +460,9 @@
    "reason": "Stock rallying into SOTU event; no specific Trump catalyst disclosed in headline.",
    "price_since": {
     "ticker": "IBRX",
-    "pct": 4.9,
+    "pct": 4.4,
     "base": 7.72,
-    "last": 8.1,
+    "last": 8.06,
     "base_date": "2026-08-18",
     "last_date": "2026-08-19"
    }
@@ -462,7 +486,7 @@
     "ticker": "SPY",
     "pct": 0.4,
     "base": 767.45,
-    "last": 770.45,
+    "last": 770.6,
     "base_date": "2026-08-18",
     "last_date": "2026-08-19"
    }
@@ -484,9 +508,9 @@
    "reason": "Union push for Uber/Lyft drivers increases labor costs, bearish for rideshare platforms",
    "price_since": {
     "ticker": "UBER",
-    "pct": 4.1,
+    "pct": 5.0,
     "base": 74.66,
-    "last": 77.69,
+    "last": 78.43,
     "base_date": "2026-08-18",
     "last_date": "2026-08-19"
    }
@@ -510,7 +534,7 @@
     "ticker": "QQQ",
     "pct": 0.1,
     "base": 717.51,
-    "last": 717.9,
+    "last": 718.23,
     "base_date": "2026-08-18",
     "last_date": "2026-08-19"
    }
@@ -532,9 +556,9 @@
    "reason": "Micron-led chip rally mentioned; semiconductor sector broadly in focus.",
    "price_since": {
     "ticker": "SMH",
-    "pct": -1.3,
+    "pct": -1.1,
     "base": 569.77,
-    "last": 562.61,
+    "last": 563.59,
     "base_date": "2026-08-18",
     "last_date": "2026-08-19"
    }
@@ -558,7 +582,7 @@
     "ticker": "NVDA",
     "pct": -0.2,
     "base": 219.74,
-    "last": 219.32,
+    "last": 219.34,
     "base_date": "2026-08-18",
     "last_date": "2026-08-19"
    }
@@ -580,9 +604,9 @@
    "reason": "Trump-aligned figure bullish on bitcoin reaching $1M; bullish crypto sentiment.",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": 5.9,
+    "pct": 6.3,
     "base": 64680.71,
-    "last": 68485.83,
+    "last": 68771.72,
     "base_date": "2026-08-18",
     "last_date": "2026-08-19"
    }
@@ -606,7 +630,7 @@
     "ticker": "XLE",
     "pct": 0.2,
     "base": 63.68,
-    "last": 63.82,
+    "last": 63.78,
     "base_date": "2026-08-18",
     "last_date": "2026-08-19"
    }
@@ -628,9 +652,9 @@
    "reason": "Trump explicitly lauded Citi's 'big comeback' in M&A, directly bullish signal on the bank.",
    "price_since": {
     "ticker": "C",
-    "pct": -2.9,
+    "pct": -2.7,
     "base": 137.65,
-    "last": 133.7,
+    "last": 133.99,
     "base_date": "2026-08-18",
     "last_date": "2026-08-19"
    }
@@ -652,9 +676,9 @@
    "reason": "Trump explicitly warns Netflix to fire board member or face consequences; direct threat.",
    "price_since": {
     "ticker": "NFLX",
-    "pct": 3.4,
+    "pct": 3.5,
     "base": 77.77,
-    "last": 80.44,
+    "last": 80.53,
     "base_date": "2026-08-18",
     "last_date": "2026-08-19"
    }
@@ -676,9 +700,9 @@
    "reason": "Trump stake in ServiceNow creates bullish signal and retail buzz.",
    "price_since": {
     "ticker": "NOW",
-    "pct": 9.1,
+    "pct": 9.9,
     "base": 117.7,
-    "last": 128.4,
+    "last": 129.3,
     "base_date": "2026-08-17",
     "last_date": "2026-08-19"
    }
@@ -700,9 +724,9 @@
    "reason": "Trump explicit endorsement of Dell drives stock to record highs",
    "price_since": {
     "ticker": "DELL",
-    "pct": -8.2,
+    "pct": -7.2,
     "base": 479.81,
-    "last": 440.64,
+    "last": 445.07,
     "base_date": "2026-08-17",
     "last_date": "2026-08-19"
    }
@@ -726,7 +750,7 @@
     "ticker": "SPY",
     "pct": -0.3,
     "base": 772.67,
-    "last": 770.45,
+    "last": 770.61,
     "base_date": "2026-08-17",
     "last_date": "2026-08-19"
    }
@@ -750,7 +774,7 @@
     "ticker": "SPY",
     "pct": -0.3,
     "base": 772.67,
-    "last": 770.08,
+    "last": 770.6,
     "base_date": "2026-08-17",
     "last_date": "2026-08-19"
    }
@@ -1221,30 +1245,6 @@
    "primary_ticker": "IBM",
    "strength": 80,
    "reason": "IBM stock surge on Trump quantum grant announcement; federal contract award bullish",
-   "price_since": {
-    "ticker": "IBM",
-    "pct": 2.0,
-    "base": 228.85,
-    "last": 233.52,
-    "base_date": "2026-08-17",
-    "last_date": "2026-08-18"
-   }
-  },
-  {
-   "date": "2026-08-15T20:23:10Z",
-   "platform": "News",
-   "text": "Why Is IBM Stock Surging Nearly 7% Higher In Overnight Trading? - Stocktwits \u2014 Why Is IBM Stock Surging Nearly 7% Higher In Overnight Trading?\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQk9pekpVQ1Q1NnRyVEdqWjdJN29OTFpDY3Rkc08wdG96eTdtMHRzVVRmUFItUlRQQS11WXBWZFpHWU50d3hoRHBENXM2eGhKMF9QZF9qb3ZQT2pXREgyU1pTMzBFU0JGZ0lOTk90VlU4YURiV3I1LWtPdTVzZDZRbUZGWEUySWxkZXg1a2dzYVVTVUpsOU1Yc25qQ2U4OE9tX1MtbEZFNDZDalpaS2JlbndvcnYyUU1Ca0E2cGxqMi02S2s?oc=5",
-   "tickers": [
-    "IBM"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "IBM",
-   "strength": 80,
-   "reason": "IBM stock surge tied to Trump administration $1B quantum grant",
    "price_since": {
     "ticker": "IBM",
     "pct": 2.0,
