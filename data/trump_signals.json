@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-19T05:58:46Z",
+ "last_updated": "2026-08-19T06:57:27Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -385,15 +385,7 @@
    "direction": "BUY",
    "primary_ticker": "NOW",
    "strength": 65,
-   "reason": "Trump stake in ServiceNow creates bullish signal and retail buzz.",
-   "price_since": {
-    "ticker": "NOW",
-    "pct": 1.5,
-    "base": 117.7,
-    "last": 119.49,
-    "base_date": "2026-08-17",
-    "last_date": "2026-08-18"
-   }
+   "reason": "Trump stake in ServiceNow creates bullish signal and retail buzz."
   },
   {
    "date": "2026-08-17T22:47:33Z",
@@ -409,7 +401,15 @@
    "direction": "BUY",
    "primary_ticker": "DELL",
    "strength": 85,
-   "reason": "Trump explicit endorsement of Dell drives stock to record highs"
+   "reason": "Trump explicit endorsement of Dell drives stock to record highs",
+   "price_since": {
+    "ticker": "DELL",
+    "pct": -2.3,
+    "base": 479.81,
+    "last": 468.65,
+    "base_date": "2026-08-17",
+    "last_date": "2026-08-18"
+   }
   },
   {
    "date": "2026-08-17T20:40:02Z",
@@ -425,7 +425,15 @@
    "direction": "SELL",
    "primary_ticker": "SPY",
    "strength": 35,
-   "reason": "Tariff announcement bearish for broad market; family enrichment concerns infer policy risk."
+   "reason": "Tariff announcement bearish for broad market; family enrichment concerns infer policy risk.",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": -0.7,
+    "base": 772.67,
+    "last": 767.45,
+    "base_date": "2026-08-17",
+    "last_date": "2026-08-18"
+   }
   },
   {
    "date": "2026-08-17T18:28:00Z",
@@ -441,15 +449,7 @@
    "direction": "WATCH",
    "primary_ticker": "SPY",
    "strength": 15,
-   "reason": "General market outlook unrelated to Trump action",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": -0.7,
-    "base": 772.67,
-    "last": 767.45,
-    "base_date": "2026-08-17",
-    "last_date": "2026-08-18"
-   }
+   "reason": "General market outlook unrelated to Trump action"
   },
   {
    "date": "2026-08-17T16:59:47Z",
@@ -465,15 +465,7 @@
    "direction": "WATCH",
    "primary_ticker": "BE",
    "strength": 35,
-   "reason": "BE stock rebounds after Crusoe project pause; AI power thesis intact but project uncertainty.",
-   "price_since": {
-    "ticker": "BE",
-    "pct": -10.0,
-    "base": 232.16,
-    "last": 209.01,
-    "base_date": "2026-08-17",
-    "last_date": "2026-08-18"
-   }
+   "reason": "BE stock rebounds after Crusoe project pause; AI power thesis intact but project uncertainty."
   },
   {
    "date": "2026-08-17T16:59:47Z",
@@ -489,7 +481,15 @@
    "direction": "WATCH",
    "primary_ticker": "BE",
    "strength": 40,
-   "reason": "AI power thesis recovery; Crusoe project pause unclear on net direction"
+   "reason": "AI power thesis recovery; Crusoe project pause unclear on net direction",
+   "price_since": {
+    "ticker": "BE",
+    "pct": -10.0,
+    "base": 232.16,
+    "last": 209.01,
+    "base_date": "2026-08-17",
+    "last_date": "2026-08-18"
+   }
   },
   {
    "date": "2026-08-17T16:10:57Z",
@@ -505,15 +505,7 @@
    "direction": "BUY",
    "primary_ticker": "IBM",
    "strength": 75,
-   "reason": "Trump administration awards IBM $1B quantum grant; concrete federal contract bullish signal",
-   "price_since": {
-    "ticker": "IBM",
-    "pct": 1.7,
-    "base": 228.85,
-    "last": 232.67,
-    "base_date": "2026-08-17",
-    "last_date": "2026-08-18"
-   }
+   "reason": "Trump administration awards IBM $1B quantum grant; concrete federal contract bullish signal"
   },
   {
    "date": "2026-08-17T16:10:57Z",
