@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-19T12:45:37Z",
+ "last_updated": "2026-08-19T13:43:29Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -33,7 +33,15 @@
    "direction": "BUY",
    "primary_ticker": "PRAX",
    "strength": 45,
-   "reason": "Analyst price target hikes signal positive sentiment on stock"
+   "reason": "Analyst price target hikes signal positive sentiment on stock",
+   "price_since": {
+    "ticker": "PRAX",
+    "pct": 1.4,
+    "base": 369.84,
+    "last": 374.89,
+    "base_date": "2026-08-18",
+    "last_date": "2026-08-19"
+   }
   },
   {
    "date": "2026-08-18T22:11:12Z",
@@ -49,7 +57,39 @@
    "direction": "WATCH",
    "primary_ticker": "FUN",
    "strength": 25,
-   "reason": "Historical retrospective on stock performance; no current catalyst"
+   "reason": "Historical retrospective on stock performance; no current catalyst",
+   "price_since": {
+    "ticker": "FUN",
+    "pct": 3.6,
+    "base": 15.75,
+    "last": 16.31,
+    "base_date": "2026-08-18",
+    "last_date": "2026-08-19"
+   }
+  },
+  {
+   "date": "2026-08-18T22:10:31Z",
+   "platform": "News",
+   "text": "Meta's AI Workforce Academy Wins Praise From Former Trump Adviser, Ex-Facebook Exec: 'Hope More Companies Follow Suit' - Stocktwits \u2014 Meta's AI Workforce Academy Wins Praise From Former Trump Adviser, Ex-Facebook Exec: 'Hope More Companies Follow Suit'\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQU0E4QWNsTjlROXIwRTIyVHZyMTlHNHhxUndrNjlLbUxOajU2MEZIRFhHeE9xd2ZRdm9IQVMzdHlEMmU4NVBwckpvbEkyWURKRXFHMlR4Z0VWVk5qMGstTFNtVTZSNWpqVS0wWkZ3WTdEaktTd3FMUHlTRjc2M3UwZlpDY1NjeG5FZ2s2bDJVeGJiVjgwWXIzdVVOS0FhQ2E0WjNUMDIzY1ppOTdJNTJkanBEMjFzRUVzb2RBS1czdXZXVWoyb0xLcl9ycl81NG1zd0lNT0NRUmVMZVgyblRkTVlXU1ZUTENRdkJBQzdhU0VuSG9HN19jeFNna0NRVlVUN2E1blhrY0U5Zw?oc=5",
+   "tickers": [
+    "META"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "META",
+   "strength": 25,
+   "reason": "Former Trump adviser praise for Meta's AI program is soft positive signal but lacks specificity or directness",
+   "price_since": {
+    "ticker": "META",
+    "pct": -0.4,
+    "base": 543.67,
+    "last": 541.59,
+    "base_date": "2026-08-18",
+    "last_date": "2026-08-19"
+   }
   },
   {
    "date": "2026-08-18T18:19:11Z",
@@ -65,7 +105,15 @@
    "direction": "BUY",
    "primary_ticker": "STWD",
    "strength": 35,
-   "reason": "State Farm dividend announcement signals financial strength and capital return; proxied by insurance/financial sector"
+   "reason": "State Farm dividend announcement signals financial strength and capital return; proxied by insurance/financial sector",
+   "price_since": {
+    "ticker": "STWD",
+    "pct": 2.0,
+    "base": 16.24,
+    "last": 16.56,
+    "base_date": "2026-08-18",
+    "last_date": "2026-08-19"
+   }
   },
   {
    "date": "2026-08-18T16:33:46Z",
@@ -81,7 +129,15 @@
    "direction": "SELL",
    "primary_ticker": "SMR",
    "strength": 45,
-   "reason": "NuScale revenue collapse and massive dilutive share sale bearish for nuclear stock"
+   "reason": "NuScale revenue collapse and massive dilutive share sale bearish for nuclear stock",
+   "price_since": {
+    "ticker": "SMR",
+    "pct": 0.8,
+    "base": 8.64,
+    "last": 8.71,
+    "base_date": "2026-08-18",
+    "last_date": "2026-08-19"
+   }
   },
   {
    "date": "2026-08-18T16:33:46Z",
@@ -97,7 +153,15 @@
    "direction": "SELL",
    "primary_ticker": "SMR",
    "strength": 45,
-   "reason": "NuScale revenue collapse and dilutive share sale signal operational distress"
+   "reason": "NuScale revenue collapse and dilutive share sale signal operational distress",
+   "price_since": {
+    "ticker": "SMR",
+    "pct": 0.8,
+    "base": 8.64,
+    "last": 8.71,
+    "base_date": "2026-08-18",
+    "last_date": "2026-08-19"
+   }
   },
   {
    "date": "2026-08-18T15:46:00Z",
@@ -113,7 +177,15 @@
    "direction": "WATCH",
    "primary_ticker": "SPY",
    "strength": 15,
-   "reason": "Hormuz territorial claim is geopolitical noise; ambiguous market direction"
+   "reason": "Hormuz territorial claim is geopolitical noise; ambiguous market direction",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": 0.3,
+    "base": 767.45,
+    "last": 770.08,
+    "base_date": "2026-08-18",
+    "last_date": "2026-08-19"
+   }
   },
   {
    "date": "2026-08-18T15:46:00Z",
@@ -129,7 +201,15 @@
    "direction": "SELL",
    "primary_ticker": "SPY",
    "strength": 45,
-   "reason": "Territorial claims on Strait of Hormuz signal geopolitical risk and potential energy market disruption."
+   "reason": "Territorial claims on Strait of Hormuz signal geopolitical risk and potential energy market disruption.",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": 0.3,
+    "base": 767.45,
+    "last": 770.08,
+    "base_date": "2026-08-18",
+    "last_date": "2026-08-19"
+   }
   },
   {
    "date": "2026-08-18T14:45:58Z",
@@ -145,7 +225,15 @@
    "direction": "SELL",
    "primary_ticker": "TSLA",
    "strength": 45,
-   "reason": "FSD delays and factory risks threaten Tesla's China revenue"
+   "reason": "FSD delays and factory risks threaten Tesla's China revenue",
+   "price_since": {
+    "ticker": "TSLA",
+    "pct": 0.8,
+    "base": 336.87,
+    "last": 339.45,
+    "base_date": "2026-08-18",
+    "last_date": "2026-08-19"
+   }
   },
   {
    "date": "2026-08-18T12:46:28Z",
@@ -161,7 +249,15 @@
    "direction": "WATCH",
    "primary_ticker": "USO",
    "strength": 25,
-   "reason": "Geopolitical tension over Strait of Hormuz may raise oil volatility but direction unclear."
+   "reason": "Geopolitical tension over Strait of Hormuz may raise oil volatility but direction unclear.",
+   "price_since": {
+    "ticker": "USO",
+    "pct": 0.4,
+    "base": 130.66,
+    "last": 131.13,
+    "base_date": "2026-08-18",
+    "last_date": "2026-08-19"
+   }
   },
   {
    "date": "2026-08-18T12:46:28Z",
@@ -177,7 +273,15 @@
    "direction": "SELL",
    "primary_ticker": "USO",
    "strength": 45,
-   "reason": "Geopolitical claim on Strait of Hormuz raises Middle East tension risk to oil markets"
+   "reason": "Geopolitical claim on Strait of Hormuz raises Middle East tension risk to oil markets",
+   "price_since": {
+    "ticker": "USO",
+    "pct": 0.4,
+    "base": 130.66,
+    "last": 131.13,
+    "base_date": "2026-08-18",
+    "last_date": "2026-08-19"
+   }
   },
   {
    "date": "2026-08-18T11:29:00Z",
@@ -193,7 +297,15 @@
    "direction": "BUY",
    "primary_ticker": "XLE",
    "strength": 45,
-   "reason": "Monument gutting implies increased drilling/energy development in protected areas"
+   "reason": "Monument gutting implies increased drilling/energy development in protected areas",
+   "price_since": {
+    "ticker": "XLE",
+    "pct": 0.7,
+    "base": 63.68,
+    "last": 64.14,
+    "base_date": "2026-08-18",
+    "last_date": "2026-08-19"
+   }
   },
   {
    "date": "2026-08-18T11:29:00Z",
@@ -209,7 +321,15 @@
    "direction": "WATCH",
    "primary_ticker": "XLE",
    "strength": 40,
-   "reason": "Monument gutting implies drilling/energy access; vague but potentially bullish for energy sector; no explicit Trump call"
+   "reason": "Monument gutting implies drilling/energy access; vague but potentially bullish for energy sector; no explicit Trump call",
+   "price_since": {
+    "ticker": "XLE",
+    "pct": 0.7,
+    "base": 63.68,
+    "last": 64.14,
+    "base_date": "2026-08-18",
+    "last_date": "2026-08-19"
+   }
   },
   {
    "date": "2026-08-18T09:58:34Z",
@@ -225,7 +345,15 @@
    "direction": "BUY",
    "primary_ticker": "SMH",
    "strength": 50,
-   "reason": "Major DRAM capex and chip sector strength signal"
+   "reason": "Major DRAM capex and chip sector strength signal",
+   "price_since": {
+    "ticker": "SMH",
+    "pct": -0.5,
+    "base": 569.77,
+    "last": 567.1,
+    "base_date": "2026-08-18",
+    "last_date": "2026-08-19"
+   }
   },
   {
    "date": "2026-08-18T09:46:33Z",
@@ -241,7 +369,15 @@
    "direction": "BUY",
    "primary_ticker": "PLTR",
    "strength": 65,
-   "reason": "Trump explicitly signals support for Palantir; bullish catalyst from aligned leadership"
+   "reason": "Trump explicitly signals support for Palantir; bullish catalyst from aligned leadership",
+   "price_since": {
+    "ticker": "PLTR",
+    "pct": 2.2,
+    "base": 171.54,
+    "last": 175.26,
+    "base_date": "2026-08-18",
+    "last_date": "2026-08-19"
+   }
   },
   {
    "date": "2026-08-18T09:01:48Z",
@@ -257,7 +393,15 @@
    "direction": "WATCH",
    "primary_ticker": "IBRX",
    "strength": 25,
-   "reason": "Stock rallying into SOTU event; no specific Trump catalyst named, event-driven speculation only"
+   "reason": "Stock rallying into SOTU event; no specific Trump catalyst named, event-driven speculation only",
+   "price_since": {
+    "ticker": "IBRX",
+    "pct": 6.0,
+    "base": 7.72,
+    "last": 8.18,
+    "base_date": "2026-08-18",
+    "last_date": "2026-08-19"
+   }
   },
   {
    "date": "2026-08-18T09:01:48Z",
@@ -273,7 +417,15 @@
    "direction": "WATCH",
    "primary_ticker": "IBRX",
    "strength": 25,
-   "reason": "Stock rallying into SOTU event; no specific Trump catalyst disclosed in headline."
+   "reason": "Stock rallying into SOTU event; no specific Trump catalyst disclosed in headline.",
+   "price_since": {
+    "ticker": "IBRX",
+    "pct": 6.0,
+    "base": 7.72,
+    "last": 8.18,
+    "base_date": "2026-08-18",
+    "last_date": "2026-08-19"
+   }
   },
   {
    "date": "2026-08-18T08:16:00Z",
@@ -289,7 +441,15 @@
    "direction": "WATCH",
    "primary_ticker": "SPY",
    "strength": 55,
-   "reason": "North Korea diplomatic signals create geopolitical uncertainty; mixed risk/opportunity."
+   "reason": "North Korea diplomatic signals create geopolitical uncertainty; mixed risk/opportunity.",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": 0.3,
+    "base": 767.45,
+    "last": 770.08,
+    "base_date": "2026-08-18",
+    "last_date": "2026-08-19"
+   }
   },
   {
    "date": "2026-08-18T07:12:38Z",
@@ -305,7 +465,15 @@
    "direction": "SELL",
    "primary_ticker": "UBER",
    "strength": 35,
-   "reason": "Union push for Uber/Lyft drivers increases labor costs, bearish for rideshare platforms"
+   "reason": "Union push for Uber/Lyft drivers increases labor costs, bearish for rideshare platforms",
+   "price_since": {
+    "ticker": "UBER",
+    "pct": 1.0,
+    "base": 74.66,
+    "last": 75.39,
+    "base_date": "2026-08-18",
+    "last_date": "2026-08-19"
+   }
   },
   {
    "date": "2026-08-18T05:02:00Z",
@@ -321,7 +489,15 @@
    "direction": "BUY",
    "primary_ticker": "QQQ",
    "strength": 35,
-   "reason": "Chip sector rally (Micron, QCOM, TSM); Nasdaq strength on semiconductor momentum."
+   "reason": "Chip sector rally (Micron, QCOM, TSM); Nasdaq strength on semiconductor momentum.",
+   "price_since": {
+    "ticker": "QQQ",
+    "pct": 0.1,
+    "base": 717.51,
+    "last": 718.25,
+    "base_date": "2026-08-18",
+    "last_date": "2026-08-19"
+   }
   },
   {
    "date": "2026-08-18T05:02:00Z",
@@ -337,7 +513,15 @@
    "direction": "BUY",
    "primary_ticker": "SMH",
    "strength": 45,
-   "reason": "Micron-led chip rally mentioned; semiconductor sector broadly in focus."
+   "reason": "Micron-led chip rally mentioned; semiconductor sector broadly in focus.",
+   "price_since": {
+    "ticker": "SMH",
+    "pct": -0.5,
+    "base": 569.77,
+    "last": 566.99,
+    "base_date": "2026-08-18",
+    "last_date": "2026-08-19"
+   }
   },
   {
    "date": "2026-08-18T04:27:09Z",
@@ -353,7 +537,15 @@
    "direction": "SELL",
    "primary_ticker": "NVDA",
    "strength": 60,
-   "reason": "China denies H200 chip approval; bearish for Nvidia's China revenue and earnings."
+   "reason": "China denies H200 chip approval; bearish for Nvidia's China revenue and earnings.",
+   "price_since": {
+    "ticker": "NVDA",
+    "pct": 0.1,
+    "base": 219.74,
+    "last": 220.02,
+    "base_date": "2026-08-18",
+    "last_date": "2026-08-19"
+   }
   },
   {
    "date": "2026-08-18T04:26:45Z",
@@ -374,7 +566,7 @@
     "ticker": "BTC-USD",
     "pct": 0.3,
     "base": 64680.71,
-    "last": 64876.31,
+    "last": 64847.57,
     "base_date": "2026-08-18",
     "last_date": "2026-08-19"
    }
@@ -393,7 +585,15 @@
    "direction": "BUY",
    "primary_ticker": "XLE",
    "strength": 60,
-   "reason": "Trump revives Arctic/Greenland rare-earth and resource ambitions; bullish for energy and materials sector."
+   "reason": "Trump revives Arctic/Greenland rare-earth and resource ambitions; bullish for energy and materials sector.",
+   "price_since": {
+    "ticker": "XLE",
+    "pct": 0.7,
+    "base": 63.68,
+    "last": 64.14,
+    "base_date": "2026-08-18",
+    "last_date": "2026-08-19"
+   }
   },
   {
    "date": "2026-08-18T03:09:28Z",
@@ -409,7 +609,15 @@
    "direction": "BUY",
    "primary_ticker": "C",
    "strength": 65,
-   "reason": "Trump explicitly lauded Citi's 'big comeback' in M&A, directly bullish signal on the bank."
+   "reason": "Trump explicitly lauded Citi's 'big comeback' in M&A, directly bullish signal on the bank.",
+   "price_since": {
+    "ticker": "C",
+    "pct": -0.9,
+    "base": 137.65,
+    "last": 136.37,
+    "base_date": "2026-08-18",
+    "last_date": "2026-08-19"
+   }
   },
   {
    "date": "2026-08-18T00:48:01Z",
@@ -425,7 +633,15 @@
    "direction": "SELL",
    "primary_ticker": "NFLX",
    "strength": 75,
-   "reason": "Trump explicitly warns Netflix to fire board member or face consequences; direct threat."
+   "reason": "Trump explicitly warns Netflix to fire board member or face consequences; direct threat.",
+   "price_since": {
+    "ticker": "NFLX",
+    "pct": 1.4,
+    "base": 77.77,
+    "last": 78.83,
+    "base_date": "2026-08-18",
+    "last_date": "2026-08-19"
+   }
   },
   {
    "date": "2026-08-17T23:33:11Z",
@@ -444,11 +660,11 @@
    "reason": "Trump stake in ServiceNow creates bullish signal and retail buzz.",
    "price_since": {
     "ticker": "NOW",
-    "pct": 1.5,
+    "pct": 4.7,
     "base": 117.7,
-    "last": 119.49,
+    "last": 123.27,
     "base_date": "2026-08-17",
-    "last_date": "2026-08-18"
+    "last_date": "2026-08-19"
    }
   },
   {
@@ -468,11 +684,11 @@
    "reason": "Trump explicit endorsement of Dell drives stock to record highs",
    "price_since": {
     "ticker": "DELL",
-    "pct": -2.3,
+    "pct": -5.5,
     "base": 479.81,
-    "last": 468.65,
+    "last": 453.45,
     "base_date": "2026-08-17",
-    "last_date": "2026-08-18"
+    "last_date": "2026-08-19"
    }
   },
   {
@@ -492,11 +708,11 @@
    "reason": "Tariff announcement bearish for broad market; family enrichment concerns infer policy risk.",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.7,
+    "pct": -0.3,
     "base": 772.67,
-    "last": 767.45,
+    "last": 770.12,
     "base_date": "2026-08-17",
-    "last_date": "2026-08-18"
+    "last_date": "2026-08-19"
    }
   },
   {
@@ -516,11 +732,11 @@
    "reason": "General market outlook unrelated to Trump action",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.7,
+    "pct": -0.3,
     "base": 772.67,
-    "last": 767.45,
+    "last": 770.08,
     "base_date": "2026-08-17",
-    "last_date": "2026-08-18"
+    "last_date": "2026-08-19"
    }
   },
   {
@@ -540,11 +756,11 @@
    "reason": "BE stock rebounds after Crusoe project pause; AI power thesis intact but project uncertainty.",
    "price_since": {
     "ticker": "BE",
-    "pct": -10.0,
+    "pct": -10.3,
     "base": 232.16,
-    "last": 209.01,
+    "last": 208.31,
     "base_date": "2026-08-17",
-    "last_date": "2026-08-18"
+    "last_date": "2026-08-19"
    }
   },
   {
@@ -1999,30 +2215,6 @@
    "primary_ticker": "WLFI",
    "strength": 50,
    "reason": "WLFI soaring ahead of Trump-linked World Liberty Forum; explicit Trump association drives retail speculation"
-  },
-  {
-   "date": "2026-08-13T21:54:19Z",
-   "platform": "News",
-   "text": "Meta's AI Workforce Academy Wins Praise From Former Trump Adviser, Ex-Facebook Exec: 'Hope More Companies Follow Suit' - Stocktwits \u2014 Meta's AI Workforce Academy Wins Praise From Former Trump Adviser, Ex-Facebook Exec: 'Hope More Companies Follow Suit'\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQU0E4QWNsTjlROXIwRTIyVHZyMTlHNHhxUndrNjlLbUxOajU2MEZIRFhHeE9xd2ZRdm9IQVMzdHlEMmU4NVBwckpvbEkyWURKRXFHMlR4Z0VWVk5qMGstTFNtVTZSNWpqVS0wWkZ3WTdEaktTd3FMUHlTRjc2M3UwZlpDY1NjeG5FZ2s2bDJVeGJiVjgwWXIzdVVOS0FhQ2E0WjNUMDIzY1ppOTdJNTJkanBEMjFzRUVzb2RBS1czdXZXVWoyb0xLcl9ycl81NG1zd0lNT0NRUmVMZVgyblRkTVlXU1ZUTENRdkJBQzdhU0VuSG9HN19jeFNna0NRVlVUN2E1blhrY0U5Zw?oc=5",
-   "tickers": [
-    "META"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "META",
-   "strength": 35,
-   "reason": "Former Trump adviser praises Meta's AI initiative; positive sentiment from Trump circle.",
-   "price_since": {
-    "ticker": "META",
-    "pct": -0.9,
-    "base": 594.97,
-    "last": 589.85,
-    "base_date": "2026-08-13",
-    "last_date": "2026-08-14"
-   }
   },
   {
    "date": "2026-08-13T21:54:19Z",
