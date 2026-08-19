@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-19T10:56:41Z",
+ "last_updated": "2026-08-19T11:27:42Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -276,6 +276,22 @@
    "reason": "Stock rallying into SOTU event; no specific Trump catalyst disclosed in headline."
   },
   {
+   "date": "2026-08-18T08:16:00Z",
+   "platform": "News",
+   "text": "Trump praises North Korean leader, shares how Kim Jong UN treated him with great respect - WION \u2014 Trump praises North Korean leader, shares how Kim Jong UN treated him with great respect\u00a0\u00a0WION",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUFFfT092bnh1VG5zaWx2VF9oRFdvb0tnVFN0NmxKVXZSUWNMV1AtaWhkTXFfQ0FjcGwyYUJscS1sSDY1ZWQ5WFVZVTctaW8xN2xheS0yODRLcVV4OGwwU2ZOMjNYdDJ5SmU0OHhBdERRYy15alJZTWFsS0tjZS1jZlRfNlhjc3NISTdQZ1R3bkFTdXpNdF83dGE0WDlmN2NMeDIwUFR3WVRPcmRLdi1jVjBUZDRiZXgtNU41SkxfcXN0VUV6Q3BGajdHV0NhLVktZHBVYg?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "SPY",
+   "strength": 55,
+   "reason": "North Korea diplomatic signals create geopolitical uncertainty; mixed risk/opportunity."
+  },
+  {
    "date": "2026-08-18T07:12:38Z",
    "platform": "News",
    "text": "Gavin Newsom Touts Rideshare Drivers Union in California, Praises Push to Represent Uber, Lyft Drivers - Benzinga \u2014 Gavin Newsom Touts Rideshare Drivers Union in California, Praises Push to Represent Uber, Lyft Drivers\u00a0\u00a0Benzinga",
@@ -356,9 +372,9 @@
    "reason": "Trump-aligned figure bullish on bitcoin reaching $1M; bullish crypto sentiment.",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": -0.5,
+    "pct": -0.3,
     "base": 64680.71,
-    "last": 64371.17,
+    "last": 64475.28,
     "base_date": "2026-08-18",
     "last_date": "2026-08-19"
    }
