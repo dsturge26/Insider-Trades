@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-19T18:46:47Z",
+ "last_updated": "2026-08-19T19:24:44Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -52,9 +52,9 @@
    "reason": "Analyst price target hikes signal positive sentiment on stock",
    "price_since": {
     "ticker": "PRAX",
-    "pct": 3.6,
+    "pct": 5.2,
     "base": 369.84,
-    "last": 383.04,
+    "last": 389.17,
     "base_date": "2026-08-18",
     "last_date": "2026-08-19"
    }
@@ -76,9 +76,9 @@
    "reason": "Historical retrospective on stock performance; no current catalyst",
    "price_since": {
     "ticker": "FUN",
-    "pct": 6.2,
+    "pct": 6.4,
     "base": 15.75,
-    "last": 16.73,
+    "last": 16.76,
     "base_date": "2026-08-18",
     "last_date": "2026-08-19"
    }
@@ -102,7 +102,7 @@
     "ticker": "META",
     "pct": 1.2,
     "base": 543.67,
-    "last": 550.38,
+    "last": 550.41,
     "base_date": "2026-08-18",
     "last_date": "2026-08-19"
    }
@@ -124,9 +124,9 @@
    "reason": "State Farm dividend announcement signals financial strength and capital return; proxied by insurance/financial sector",
    "price_since": {
     "ticker": "STWD",
-    "pct": 1.9,
+    "pct": 1.6,
     "base": 16.24,
-    "last": 16.55,
+    "last": 16.5,
     "base_date": "2026-08-18",
     "last_date": "2026-08-19"
    }
@@ -148,9 +148,9 @@
    "reason": "NuScale revenue collapse and massive dilutive share sale bearish for nuclear stock",
    "price_since": {
     "ticker": "SMR",
-    "pct": 6.2,
+    "pct": 6.7,
     "base": 8.64,
-    "last": 9.18,
+    "last": 9.22,
     "base_date": "2026-08-18",
     "last_date": "2026-08-19"
    }
@@ -172,9 +172,9 @@
    "reason": "NuScale revenue collapse and dilutive share sale signal operational distress",
    "price_since": {
     "ticker": "SMR",
-    "pct": 6.2,
+    "pct": 6.7,
     "base": 8.64,
-    "last": 9.18,
+    "last": 9.22,
     "base_date": "2026-08-18",
     "last_date": "2026-08-19"
    }
@@ -198,7 +198,7 @@
     "ticker": "SPY",
     "pct": 0.3,
     "base": 767.45,
-    "last": 769.66,
+    "last": 769.94,
     "base_date": "2026-08-18",
     "last_date": "2026-08-19"
    }
@@ -222,7 +222,7 @@
     "ticker": "SPY",
     "pct": 0.3,
     "base": 767.45,
-    "last": 769.7,
+    "last": 769.98,
     "base_date": "2026-08-18",
     "last_date": "2026-08-19"
    }
@@ -246,7 +246,7 @@
     "ticker": "IBM",
     "pct": 1.7,
     "base": 232.67,
-    "last": 236.71,
+    "last": 236.57,
     "base_date": "2026-08-18",
     "last_date": "2026-08-19"
    }
@@ -268,9 +268,9 @@
    "reason": "FSD delays and factory risks threaten Tesla's China revenue",
    "price_since": {
     "ticker": "TSLA",
-    "pct": 3.4,
+    "pct": 3.5,
     "base": 336.87,
-    "last": 348.49,
+    "last": 348.65,
     "base_date": "2026-08-18",
     "last_date": "2026-08-19"
    }
@@ -292,9 +292,9 @@
    "reason": "Geopolitical tension over Strait of Hormuz may raise oil volatility but direction unclear.",
    "price_since": {
     "ticker": "USO",
-    "pct": 0.1,
+    "pct": -0.0,
     "base": 130.66,
-    "last": 130.82,
+    "last": 130.61,
     "base_date": "2026-08-18",
     "last_date": "2026-08-19"
    }
@@ -316,9 +316,9 @@
    "reason": "Geopolitical claim on Strait of Hormuz raises Middle East tension risk to oil markets",
    "price_since": {
     "ticker": "USO",
-    "pct": 0.1,
+    "pct": -0.0,
     "base": 130.66,
-    "last": 130.82,
+    "last": 130.61,
     "base_date": "2026-08-18",
     "last_date": "2026-08-19"
    }
@@ -340,9 +340,9 @@
    "reason": "Monument gutting implies increased drilling/energy development in protected areas",
    "price_since": {
     "ticker": "XLE",
-    "pct": -0.1,
+    "pct": -0.0,
     "base": 63.68,
-    "last": 63.63,
+    "last": 63.65,
     "base_date": "2026-08-18",
     "last_date": "2026-08-19"
    }
@@ -364,9 +364,9 @@
    "reason": "Monument gutting implies drilling/energy access; vague but potentially bullish for energy sector; no explicit Trump call",
    "price_since": {
     "ticker": "XLE",
-    "pct": -0.1,
+    "pct": -0.0,
     "base": 63.68,
-    "last": 63.63,
+    "last": 63.65,
     "base_date": "2026-08-18",
     "last_date": "2026-08-19"
    }
@@ -388,9 +388,9 @@
    "reason": "Major DRAM capex and chip sector strength signal",
    "price_since": {
     "ticker": "SMH",
-    "pct": -1.3,
+    "pct": -1.2,
     "base": 569.77,
-    "last": 562.19,
+    "last": 563.05,
     "base_date": "2026-08-18",
     "last_date": "2026-08-19"
    }
@@ -412,9 +412,9 @@
    "reason": "Trump explicitly signals support for Palantir; bullish catalyst from aligned leadership",
    "price_since": {
     "ticker": "PLTR",
-    "pct": 1.9,
+    "pct": 2.4,
     "base": 171.54,
-    "last": 174.87,
+    "last": 175.65,
     "base_date": "2026-08-18",
     "last_date": "2026-08-19"
    }
@@ -486,7 +486,7 @@
     "ticker": "SPY",
     "pct": 0.3,
     "base": 767.45,
-    "last": 769.7,
+    "last": 769.95,
     "base_date": "2026-08-18",
     "last_date": "2026-08-19"
    }
@@ -508,9 +508,33 @@
    "reason": "Union push for Uber/Lyft drivers increases labor costs, bearish for rideshare platforms",
    "price_since": {
     "ticker": "UBER",
-    "pct": 5.0,
+    "pct": 4.5,
     "base": 74.66,
-    "last": 78.42,
+    "last": 78.03,
+    "base_date": "2026-08-18",
+    "last_date": "2026-08-19"
+   }
+  },
+  {
+   "date": "2026-08-18T07:12:38Z",
+   "platform": "News",
+   "text": "Gavin Newsom Touts Rideshare Drivers Union in California, Praises Push to Represent Uber, Lyft Drivers - benzinga.com \u2014 Gavin Newsom Touts Rideshare Drivers Union in California, Praises Push to Represent Uber, Lyft Drivers\u00a0\u00a0benzinga.com",
+   "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQZ00wRV9LaFJNMGFudko1NzNlUkoyRThQN0U4U2VYbTRESjZidERGV1g2RXpwWlZxMFRvWkk2Tl9rX2t6bjVDdnAtcWk4bHBwamROWGVJLW1kRVpVSU9hUzFJNi1sUVVjZ25mdUJYYjVtWWF4YmRaRUVLU043MVd3RVdGdDhMRWFDTHIzUzdaNDRVTkpRM1loSmVpUzdTOXROOWNkQzhOVlY1cXNhTnhWenBVM2tGV3RVM2V2WERYZGYyZC1HOENPTnBVdFBYS1ZFemlMVUp0Z2lRWVF2WWZ4dzEtbjluUDRfVTJsWmNKNzVrRFF6UG10T2xadHJxOS1Obm1hR21qY1dCa250bnNiWHFta2l4a01YZWZYbjlMWQ?oc=5",
+   "tickers": [
+    "UBER"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "UBER",
+   "strength": 25,
+   "reason": "California push to unionize rideshare drivers increases labor costs for Uber/Lyft",
+   "price_since": {
+    "ticker": "UBER",
+    "pct": 4.5,
+    "base": 74.66,
+    "last": 78.03,
     "base_date": "2026-08-18",
     "last_date": "2026-08-19"
    }
@@ -534,7 +558,7 @@
     "ticker": "QQQ",
     "pct": -0.1,
     "base": 717.51,
-    "last": 716.69,
+    "last": 717.11,
     "base_date": "2026-08-18",
     "last_date": "2026-08-19"
    }
@@ -556,9 +580,9 @@
    "reason": "Micron-led chip rally mentioned; semiconductor sector broadly in focus.",
    "price_since": {
     "ticker": "SMH",
-    "pct": -1.3,
+    "pct": -1.2,
     "base": 569.77,
-    "last": 562.19,
+    "last": 563.05,
     "base_date": "2026-08-18",
     "last_date": "2026-08-19"
    }
@@ -580,9 +604,9 @@
    "reason": "China denies H200 chip approval; bearish for Nvidia's China revenue and earnings.",
    "price_since": {
     "ticker": "NVDA",
-    "pct": -0.1,
+    "pct": -0.0,
     "base": 219.74,
-    "last": 219.46,
+    "last": 219.73,
     "base_date": "2026-08-18",
     "last_date": "2026-08-19"
    }
@@ -604,9 +628,9 @@
    "reason": "Trump-aligned figure bullish on bitcoin reaching $1M; bullish crypto sentiment.",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": 5.8,
+    "pct": 5.7,
     "base": 64680.71,
-    "last": 68437.08,
+    "last": 68342.0,
     "base_date": "2026-08-18",
     "last_date": "2026-08-19"
    }
@@ -628,9 +652,9 @@
    "reason": "Trump revives Arctic/Greenland rare-earth and resource ambitions; bullish for energy and materials sector.",
    "price_since": {
     "ticker": "XLE",
-    "pct": -0.1,
+    "pct": -0.0,
     "base": 63.68,
-    "last": 63.62,
+    "last": 63.65,
     "base_date": "2026-08-18",
     "last_date": "2026-08-19"
    }
@@ -652,9 +676,9 @@
    "reason": "Trump explicitly lauded Citi's 'big comeback' in M&A, directly bullish signal on the bank.",
    "price_since": {
     "ticker": "C",
-    "pct": -3.2,
+    "pct": -3.4,
     "base": 137.65,
-    "last": 133.2,
+    "last": 132.95,
     "base_date": "2026-08-18",
     "last_date": "2026-08-19"
    }
@@ -676,9 +700,9 @@
    "reason": "Trump explicitly warns Netflix to fire board member or face consequences; direct threat.",
    "price_since": {
     "ticker": "NFLX",
-    "pct": 3.7,
+    "pct": 3.4,
     "base": 77.77,
-    "last": 80.62,
+    "last": 80.43,
     "base_date": "2026-08-18",
     "last_date": "2026-08-19"
    }
@@ -700,9 +724,9 @@
    "reason": "Trump stake in ServiceNow creates bullish signal and retail buzz.",
    "price_since": {
     "ticker": "NOW",
-    "pct": 8.4,
+    "pct": 8.8,
     "base": 117.7,
-    "last": 127.62,
+    "last": 128.07,
     "base_date": "2026-08-17",
     "last_date": "2026-08-19"
    }
@@ -724,9 +748,9 @@
    "reason": "Trump explicit endorsement of Dell drives stock to record highs",
    "price_since": {
     "ticker": "DELL",
-    "pct": -9.4,
+    "pct": -9.0,
     "base": 479.81,
-    "last": 434.54,
+    "last": 436.67,
     "base_date": "2026-08-17",
     "last_date": "2026-08-19"
    }
@@ -2538,23 +2562,6 @@
    }
   },
   {
-   "date": "2026-08-12T14:31:09.583Z",
-   "platform": "Truth Social",
-   "text": "The U.S.A. has total control over the Strait of Hormuz. I THINK WE WILL KEEP IT! Our Naval Blockade is being called, by everyone, \"A WALL OF STEEL,\" and there is nothing Iran can do about it. They have no Navy, they have no Air Force, their remaining soldiers are unpaid, the IRGC is decimated and fleeing, and their \"Leadership\" is uncertain, at best! They have No Money - Their country is \"shot.\" All they have is FAKE NEWS and 300% INFLATION, and getting worse! Iran is all talk and no action, the Bully of the Middle East No Longer. Praise be to Allah! President DONALD J. TRUMP",
-   "tickers": [
-    "USO"
-   ],
-   "engagement": 18811,
-   "url": "https://truthsocial.com/@realDonaldTrump/117083017680231697",
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "USO",
-   "strength": 35,
-   "reason": "U.S. control of Strait of Hormuz bullish for oil prices via reduced geopolitical risk premium"
-  },
-  {
    "curated": true,
    "classified": true,
    "is_market": true,
@@ -2607,108 +2614,6 @@
    "reason": "Trump's majority-owned stock debuts \u2014 pure sentiment play, extremely volatile and headline-driven.",
    "market_reaction": "DJT spiked on debut then stayed volatile, moving heavily on Trump political/legal news.",
    "url": "https://www.nasdaq.com/market-activity/stocks/djt"
-  },
-  {
-   "date": "2021-07-01T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "HARRIS CORPORATION was awarded a $2.1B federal contract from Department of Transportation.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_693KA821F00222_6920_DTFA0102D03006_6920",
-   "tickers": [
-    "HRS"
-   ],
-   "contract_amount": 2.14,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "HRS",
-   "strength": 75,
-   "reason": "$2.1B federal contract award to Harris Corporation directly bullish"
-  },
-  {
-   "date": "2019-10-16T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "THE BOEING COMPANY was awarded a $2.7B federal contract from National Aeronautics and Space Administration.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_80MSFC20C0052_8000_-NONE-_-NONE-",
-   "tickers": [
-    "BA"
-   ],
-   "contract_amount": 2.74,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "BA",
-   "strength": 75,
-   "reason": "$2.7B federal contract award to Boeing directly bullish"
-  },
-  {
-   "date": "2008-12-04T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "LOCKHEED MARTIN CORP was awarded a $2.0B federal contract from National Aeronautics and Space Administration.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_NNG09HR00C_8000_-NONE-_-NONE-",
-   "tickers": [
-    "LMT"
-   ],
-   "contract_amount": 2.03,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "LMT",
-   "strength": 75,
-   "reason": "$2.0B federal contract award to Lockheed Martin directly bullish"
-  },
-  {
-   "date": "2007-09-01T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "THE BOEING COMPANY was awarded a $10.5B federal contract from National Aeronautics and Space Administration.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_NNM07AB03C_8000_-NONE-_-NONE-",
-   "tickers": [
-    "BA"
-   ],
-   "contract_amount": 10.52,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "BA",
-   "strength": 82,
-   "reason": "$10.5B federal contract award to Boeing directly bullish"
-  },
-  {
-   "date": "2006-09-06T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "LOCKHEED MARTIN CORP was awarded a $15.6B federal contract from National Aeronautics and Space Administration.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_NNJ06TA25C_8000_-NONE-_-NONE-",
-   "tickers": [
-    "LMT"
-   ],
-   "contract_amount": 15.58,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "LMT",
-   "strength": 85,
-   "reason": "$15.6B federal contract award to Lockheed Martin directly bullish"
-  },
-  {
-   "date": "1993-11-15T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "THE BOEING COMPANY was awarded a $22.4B federal contract from National Aeronautics and Space Administration.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_NAS1510000_8000_-NONE-_-NONE-",
-   "tickers": [
-    "BA"
-   ],
-   "contract_amount": 22.44,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "BA",
-   "strength": 90,
-   "reason": "$22.4B federal contract award to Boeing directly bullish; largest contract in batch"
   }
  ],
  "how_to_read": "Each card is Claude's read of a public Trump post: the affected ticker, whether it implies BUY / SELL / WATCH, a 0\u2013100 strength (how explicit/emphatic the post is \u2014 NOT a profit predictor), and why. A 2-year backtest found these don't beat buy-and-hold, so this is for awareness, not trading. Not financial advice."
