@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-19T03:29:43Z",
+ "last_updated": "2026-08-19T04:11:02Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -276,6 +276,22 @@
    "reason": "Micron-led chip rally mentioned; semiconductor sector broadly in focus."
   },
   {
+   "date": "2026-08-18T03:09:28Z",
+   "platform": "News",
+   "text": "Citi Stock Hits 52-Week High Before Fading As Trump Lauds Bank's 'Big Comeback' In M&A \u2014 But Full Picture Has Changed Now - Stocktwits \u2014 Citi Stock Hits 52-Week High Before Fading As Trump Lauds Bank's 'Big Comeback' In M&A \u2014 But Full Picture Has Changed Now\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWUpacUZnX014SV9nTnRZbVQ0dWhFQlZiV3ZjLV9nWExYUjVMdmlZdkdoNnFLcUhZUEhuZ1k3a2JENWJrYkhqdjJqNFlLaVlVYzBRb3dJOFA2Q1dESmhCTVJnQXJJaU15VjVFUFo2cWJDOEx3QTIzN0NSQjExRWhRZlNLaDFXeEZMQ0poajdjbGhmNlhPd1ZQSnVOSmNVa0pVTF94Z1RVdXlSU2JrR0N3X2dHSENINjZHNWdTYzB1dEZPaERK?oc=5",
+   "tickers": [
+    "C"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "C",
+   "strength": 65,
+   "reason": "Trump explicitly lauded Citi's 'big comeback' in M&A, directly bullish signal on the bank."
+  },
+  {
    "date": "2026-08-17T23:33:11Z",
    "platform": "News",
    "text": "NOW Stock Rises Overnight: Trump\u2019s ServiceNow Stake Fuels Retail Buzz Around SAAS Comeback - Stocktwits \u2014 NOW Stock Rises Overnight: Trump\u2019s ServiceNow Stake Fuels Retail Buzz Around SAAS Comeback\u00a0\u00a0Stocktwits",
@@ -289,15 +305,7 @@
    "direction": "BUY",
    "primary_ticker": "NOW",
    "strength": 65,
-   "reason": "Trump stake in ServiceNow creates bullish signal and retail buzz.",
-   "price_since": {
-    "ticker": "NOW",
-    "pct": 1.5,
-    "base": 117.7,
-    "last": 119.49,
-    "base_date": "2026-08-17",
-    "last_date": "2026-08-18"
-   }
+   "reason": "Trump stake in ServiceNow creates bullish signal and retail buzz."
   },
   {
    "date": "2026-08-17T22:47:33Z",
@@ -313,15 +321,7 @@
    "direction": "BUY",
    "primary_ticker": "DELL",
    "strength": 85,
-   "reason": "Trump explicit endorsement of Dell drives stock to record highs",
-   "price_since": {
-    "ticker": "DELL",
-    "pct": -2.3,
-    "base": 479.81,
-    "last": 468.65,
-    "base_date": "2026-08-17",
-    "last_date": "2026-08-18"
-   }
+   "reason": "Trump explicit endorsement of Dell drives stock to record highs"
   },
   {
    "date": "2026-08-17T20:40:02Z",
@@ -385,15 +385,7 @@
    "direction": "WATCH",
    "primary_ticker": "BE",
    "strength": 35,
-   "reason": "BE stock rebounds after Crusoe project pause; AI power thesis intact but project uncertainty.",
-   "price_since": {
-    "ticker": "BE",
-    "pct": -10.0,
-    "base": 232.16,
-    "last": 209.01,
-    "base_date": "2026-08-17",
-    "last_date": "2026-08-18"
-   }
+   "reason": "BE stock rebounds after Crusoe project pause; AI power thesis intact but project uncertainty."
   },
   {
    "date": "2026-08-17T16:59:47Z",
@@ -433,15 +425,7 @@
    "direction": "BUY",
    "primary_ticker": "IBM",
    "strength": 75,
-   "reason": "Trump administration awards IBM $1B quantum grant; concrete federal contract bullish signal",
-   "price_since": {
-    "ticker": "IBM",
-    "pct": 1.7,
-    "base": 228.85,
-    "last": 232.67,
-    "base_date": "2026-08-17",
-    "last_date": "2026-08-18"
-   }
+   "reason": "Trump administration awards IBM $1B quantum grant; concrete federal contract bullish signal"
   },
   {
    "date": "2026-08-17T16:10:57Z",
@@ -457,15 +441,7 @@
    "direction": "BUY",
    "primary_ticker": "IBM",
    "strength": 70,
-   "reason": "Trump administration awards IBM $1B federal contract for quantum foundry; direct bullish catalyst.",
-   "price_since": {
-    "ticker": "IBM",
-    "pct": 1.7,
-    "base": 228.85,
-    "last": 232.67,
-    "base_date": "2026-08-17",
-    "last_date": "2026-08-18"
-   }
+   "reason": "Trump administration awards IBM $1B federal contract for quantum foundry; direct bullish catalyst."
   },
   {
    "date": "2026-08-17T15:37:56Z",
@@ -510,7 +486,7 @@
     "ticker": "INTC",
     "pct": -6.6,
     "base": 103.49,
-    "last": 96.68,
+    "last": 96.69,
     "base_date": "2026-08-17",
     "last_date": "2026-08-18"
    }
@@ -529,15 +505,7 @@
    "direction": "BUY",
    "primary_ticker": "SERV",
    "strength": 50,
-   "reason": "Company partnership expansion with Grubhub/DoorDash; not Trump-specific but market-moving corporate news.",
-   "price_since": {
-    "ticker": "SERV",
-    "pct": -7.1,
-    "base": 4.9,
-    "last": 4.55,
-    "base_date": "2026-08-17",
-    "last_date": "2026-08-18"
-   }
+   "reason": "Company partnership expansion with Grubhub/DoorDash; not Trump-specific but market-moving corporate news."
   },
   {
    "date": "2026-08-17T13:36:00Z",
@@ -1493,22 +1461,6 @@
    "primary_ticker": "INTC",
    "strength": 60,
    "reason": "Trump takes aim at Intel; negative commentary on semiconductor player"
-  },
-  {
-   "date": "2026-08-15T01:54:44Z",
-   "platform": "News",
-   "text": "Citi Stock Hits 52-Week High Before Fading As Trump Lauds Bank's 'Big Comeback' In M&A \u2014 But Full Picture Has Changed Now - Stocktwits \u2014 Citi Stock Hits 52-Week High Before Fading As Trump Lauds Bank's 'Big Comeback' In M&A \u2014 But Full Picture Has Changed Now\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWUpacUZnX014SV9nTnRZbVQ0dWhFQlZiV3ZjLV9nWExYUjVMdmlZdkdoNnFLcUhZUEhuZ1k3a2JENWJrYkhqdjJqNFlLaVlVYzBRb3dJOFA2Q1dESmhCTVJnQXJJaU15VjVFUFo2cWJDOEx3QTIzN0NSQjExRWhRZlNLaDFXeEZMQ0poajdjbGhmNlhPd1ZQSnVOSmNVa0pVTF94Z1RVdXlSU2JrR0N3X2dHSENINjZHNWdTYzB1dEZPaERK?oc=5",
-   "tickers": [
-    "C"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "C",
-   "strength": 55,
-   "reason": "Trump lauds Citi's M&A comeback; explicit praise of named company"
   },
   {
    "date": "2026-08-15T01:54:44Z",
