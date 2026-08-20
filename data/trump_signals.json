@@ -1,7 +1,39 @@
 {
- "last_updated": "2026-08-20T13:10:52Z",
+ "last_updated": "2026-08-20T13:59:58Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-08-20T13:28:02Z",
+   "platform": "News",
+   "text": "Trump Praises Prediction Markets As $8M Military Bet Profits Flagged - Intercontinental Exchange (NYSE:IC - Benzinga \u2014 Trump Praises Prediction Markets As $8M Military Bet Profits Flagged - Intercontinental Exchange (NYSE:IC\u00a0\u00a0Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQQ0hDTUJNdHRXZENOai1KSzV3a2M1R1l3MGRveGQyRWVjZFJKZ2txWVQzNTdhRGVsWmFkZ08zZHpZc2J0aHotb3pOaFBITG84ZzZqcnRrUjlHd1pLX0lNMHNRTjUyaXZQNEVKVXRIN19CdEZfeHZWeUtybThweVJyUEJjQ3pwZEpoOHJ5VmQyTEpOYmJLTnV5bEo4TjBHd3VsMkRZVEhGWE9kQ2NlTERhdlNEY1QtOV9Vd3FqM05nUWdGVmRVUFp0eV9ScF9TMERJR1V6R1VGdTY2TllvREJwd0R0SWJRcDQ0azBuUWZzRTh5Q2hYSlA5SUxn?oc=5",
+   "tickers": [
+    "COIN"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "COIN",
+   "strength": 45,
+   "reason": "Trump praise of prediction markets bullish for crypto trading platforms and speculation ecosystems"
+  },
+  {
+   "date": "2026-08-20T12:50:37Z",
+   "platform": "News",
+   "text": "Crypto Stocks Set to Extend Gains on Trump Push, Dollar Slump - Bloomberg.com \u2014 Crypto Stocks Set to Extend Gains on Trump Push, Dollar Slump\u00a0\u00a0Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQLU1pNndWM3BuTlRUbDFDMzdzenNyM0RNbUx6M28wZzNBOGNEQ0otaTc0THVEb2hhUkVJWEJnQUx1OG92bmRYc04wSFhwMU01bFhMNTRiNlk1ZkhJZXRXY24zci1IYTJ6TFdabXpmdkgwb3Y2YlN0N3JmSlZBSU4tSFhuZlVUTU9GRk5MVXZrNGt5N0Q3d1BOQ3lfMzJlekFBUnVJQ2g0N1N4RFhOcmRaQg?oc=5",
+   "tickers": [
+    "COIN"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "COIN",
+   "strength": 60,
+   "reason": "Trump administration crypto-friendly push drives crypto stocks higher; dollar weakness amplifies"
+  },
   {
    "date": "2026-08-20T11:11:07Z",
    "platform": "News",
@@ -129,7 +161,15 @@
    "direction": "SELL",
    "primary_ticker": "SPY",
    "strength": 72,
-   "reason": "Sweeping economic sanctions and isolation on Iran announced; geopolitical risk premium and potential crude oil supply shock"
+   "reason": "Sweeping economic sanctions and isolation on Iran announced; geopolitical risk premium and potential crude oil supply shock",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": -0.3,
+    "base": 769.06,
+    "last": 766.48,
+    "base_date": "2026-08-19",
+    "last_date": "2026-08-20"
+   }
   },
   {
    "date": "2026-08-19T21:18:53Z",
@@ -145,7 +185,15 @@
    "direction": "BUY",
    "primary_ticker": "XLE",
    "strength": 65,
-   "reason": "Trump focus on Keystone XL pipeline revival bullish for oil/energy sector"
+   "reason": "Trump focus on Keystone XL pipeline revival bullish for oil/energy sector",
+   "price_since": {
+    "ticker": "XLE",
+    "pct": 1.3,
+    "base": 63.58,
+    "last": 64.4,
+    "base_date": "2026-08-19",
+    "last_date": "2026-08-20"
+   }
   },
   {
    "date": "2026-08-19T21:15:16Z",
@@ -161,7 +209,15 @@
    "direction": "BUY",
    "primary_ticker": "TCMD",
    "strength": 65,
-   "reason": "FDA pick Heidi Overton seen as key to marijuana rescheduling; bullish for cannabis operators like Trulieve"
+   "reason": "FDA pick Heidi Overton seen as key to marijuana rescheduling; bullish for cannabis operators like Trulieve",
+   "price_since": {
+    "ticker": "TCMD",
+    "pct": 0.5,
+    "base": 23.6,
+    "last": 23.72,
+    "base_date": "2026-08-19",
+    "last_date": "2026-08-20"
+   }
   },
   {
    "date": "2026-08-19T20:34:00Z",
@@ -177,7 +233,15 @@
    "direction": "BUY",
    "primary_ticker": "COIN",
    "strength": 65,
-   "reason": "Trump pushes crypto clarity legislation; bullish for crypto exchange operators and ecosystem"
+   "reason": "Trump pushes crypto clarity legislation; bullish for crypto exchange operators and ecosystem",
+   "price_since": {
+    "ticker": "COIN",
+    "pct": 6.3,
+    "base": 160.2,
+    "last": 170.27,
+    "base_date": "2026-08-19",
+    "last_date": "2026-08-20"
+   }
   },
   {
    "date": "2026-08-19T20:13:34Z",
@@ -193,7 +257,15 @@
    "direction": "BUY",
    "primary_ticker": "MRNA",
    "strength": 35,
-   "reason": "Trump's Moderna stock gains are market-neutral reporting; no directional signal implied"
+   "reason": "Trump's Moderna stock gains are market-neutral reporting; no directional signal implied",
+   "price_since": {
+    "ticker": "MRNA",
+    "pct": -17.6,
+    "base": 174.38,
+    "last": 143.61,
+    "base_date": "2026-08-19",
+    "last_date": "2026-08-20"
+   }
   },
   {
    "date": "2026-08-19T20:13:34Z",
@@ -209,7 +281,15 @@
    "direction": "BUY",
    "primary_ticker": "MRNA",
    "strength": 35,
-   "reason": "Trump has Moderna stock holdings; stock gains are his personal gain, not a market call"
+   "reason": "Trump has Moderna stock holdings; stock gains are his personal gain, not a market call",
+   "price_since": {
+    "ticker": "MRNA",
+    "pct": -17.6,
+    "base": 174.38,
+    "last": 143.68,
+    "base_date": "2026-08-19",
+    "last_date": "2026-08-20"
+   }
   },
   {
    "date": "2026-08-19T20:13:00Z",
@@ -225,7 +305,15 @@
    "direction": "BUY",
    "primary_ticker": "XLE",
    "strength": 60,
-   "reason": "Keystone XL revival signals pro-energy/pro-oil policy; bullish for oil & gas sector."
+   "reason": "Keystone XL revival signals pro-energy/pro-oil policy; bullish for oil & gas sector.",
+   "price_since": {
+    "ticker": "XLE",
+    "pct": 1.3,
+    "base": 63.58,
+    "last": 64.4,
+    "base_date": "2026-08-19",
+    "last_date": "2026-08-20"
+   }
   },
   {
    "date": "2026-08-19T16:19:16Z",
@@ -241,7 +329,15 @@
    "direction": "WATCH",
    "primary_ticker": "SPY",
    "strength": 15,
-   "reason": "FDA pick could affect healthcare/pharma sector; direction unclear without nominee details"
+   "reason": "FDA pick could affect healthcare/pharma sector; direction unclear without nominee details",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": -0.3,
+    "base": 769.06,
+    "last": 766.49,
+    "base_date": "2026-08-19",
+    "last_date": "2026-08-20"
+   }
   },
   {
    "date": "2026-08-19T09:27:11Z",
@@ -257,7 +353,15 @@
    "direction": "WATCH",
    "primary_ticker": "SPY",
    "strength": 25,
-   "reason": "Securities trading disclosure suggests potential insider activity; ambiguous directional signal"
+   "reason": "Securities trading disclosure suggests potential insider activity; ambiguous directional signal",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": -0.3,
+    "base": 769.06,
+    "last": 766.49,
+    "base_date": "2026-08-19",
+    "last_date": "2026-08-20"
+   }
   },
   {
    "date": "2026-08-19T02:15:41.128Z",
@@ -274,7 +378,15 @@
    "direction": "BUY",
    "primary_ticker": "XLE",
    "strength": 75,
-   "reason": "Tariff pause on Canada is bullish; Keystone XL Pipeline revival signals energy sector upside"
+   "reason": "Tariff pause on Canada is bullish; Keystone XL Pipeline revival signals energy sector upside",
+   "price_since": {
+    "ticker": "XLE",
+    "pct": 1.3,
+    "base": 63.58,
+    "last": 64.4,
+    "base_date": "2026-08-19",
+    "last_date": "2026-08-20"
+   }
   },
   {
    "date": "2026-08-18T23:55:35Z",
@@ -293,11 +405,11 @@
    "reason": "Trump administration awards $1B federal grant to IBM for quantum foundry; direct bullish catalyst for named public company",
    "price_since": {
     "ticker": "IBM",
-    "pct": 1.9,
+    "pct": 1.4,
     "base": 232.67,
-    "last": 237.16,
+    "last": 235.99,
     "base_date": "2026-08-18",
-    "last_date": "2026-08-19"
+    "last_date": "2026-08-20"
    }
   },
   {
@@ -317,11 +429,11 @@
    "reason": "Analyst price target hikes signal positive sentiment on stock",
    "price_since": {
     "ticker": "PRAX",
-    "pct": 4.4,
+    "pct": 3.0,
     "base": 369.84,
-    "last": 386.19,
+    "last": 381.04,
     "base_date": "2026-08-18",
-    "last_date": "2026-08-19"
+    "last_date": "2026-08-20"
    }
   },
   {
@@ -341,11 +453,11 @@
    "reason": "Analyst price target hikes on stock; analyst-driven rally not directly Trump-attributed",
    "price_since": {
     "ticker": "PRAX",
-    "pct": 4.4,
+    "pct": 3.0,
     "base": 369.84,
-    "last": 386.19,
+    "last": 381.04,
     "base_date": "2026-08-18",
-    "last_date": "2026-08-19"
+    "last_date": "2026-08-20"
    }
   },
   {
@@ -365,11 +477,11 @@
    "reason": "Historical retrospective on stock performance; no current catalyst",
    "price_since": {
     "ticker": "FUN",
-    "pct": 7.3,
+    "pct": 7.4,
     "base": 15.75,
-    "last": 16.9,
+    "last": 16.91,
     "base_date": "2026-08-18",
-    "last_date": "2026-08-19"
+    "last_date": "2026-08-20"
    }
   },
   {
@@ -389,11 +501,11 @@
    "reason": "Former Trump adviser praise for Meta's AI program is soft positive signal but lacks specificity or directness",
    "price_since": {
     "ticker": "META",
-    "pct": 0.4,
+    "pct": 0.7,
     "base": 543.67,
-    "last": 546.03,
+    "last": 547.62,
     "base_date": "2026-08-18",
-    "last_date": "2026-08-19"
+    "last_date": "2026-08-20"
    }
   },
   {
@@ -413,11 +525,11 @@
    "reason": "Trump adviser praise for Meta's AI Workforce Academy; indirect positive sentiment on Meta business",
    "price_since": {
     "ticker": "META",
-    "pct": 0.4,
+    "pct": 0.8,
     "base": 543.67,
-    "last": 546.03,
+    "last": 547.8,
     "base_date": "2026-08-18",
-    "last_date": "2026-08-19"
+    "last_date": "2026-08-20"
    }
   },
   {
@@ -437,11 +549,11 @@
    "reason": "CEO calls shares undervalued and rules out dilution, positive signal for stock value",
    "price_since": {
     "ticker": "CAR",
-    "pct": 2.8,
+    "pct": 2.5,
     "base": 137.62,
-    "last": 141.46,
+    "last": 141.09,
     "base_date": "2026-08-18",
-    "last_date": "2026-08-19"
+    "last_date": "2026-08-20"
    }
   },
   {
@@ -463,9 +575,9 @@
     "ticker": "AMD",
     "pct": -3.7,
     "base": 484.39,
-    "last": 466.42,
+    "last": 466.35,
     "base_date": "2026-08-18",
-    "last_date": "2026-08-19"
+    "last_date": "2026-08-20"
    }
   },
   {
@@ -485,11 +597,11 @@
    "reason": "State Farm dividend announcement signals financial strength and capital return; proxied by insurance/financial sector",
    "price_since": {
     "ticker": "STWD",
-    "pct": 2.0,
+    "pct": 1.8,
     "base": 16.24,
-    "last": 16.56,
+    "last": 16.53,
     "base_date": "2026-08-18",
-    "last_date": "2026-08-19"
+    "last_date": "2026-08-20"
    }
   },
   {
@@ -509,11 +621,11 @@
    "reason": "NuScale revenue collapse and massive dilutive share sale bearish for nuclear stock",
    "price_since": {
     "ticker": "SMR",
-    "pct": 7.5,
+    "pct": 2.3,
     "base": 8.64,
-    "last": 9.29,
+    "last": 8.84,
     "base_date": "2026-08-18",
-    "last_date": "2026-08-19"
+    "last_date": "2026-08-20"
    }
   },
   {
@@ -533,11 +645,11 @@
    "reason": "NuScale revenue collapse and dilutive share sale signal operational distress",
    "price_since": {
     "ticker": "SMR",
-    "pct": 7.5,
+    "pct": 2.3,
     "base": 8.64,
-    "last": 9.29,
+    "last": 8.84,
     "base_date": "2026-08-18",
-    "last_date": "2026-08-19"
+    "last_date": "2026-08-20"
    }
   },
   {
@@ -557,11 +669,11 @@
    "reason": "Hormuz territorial claim is geopolitical noise; ambiguous market direction",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.2,
+    "pct": -0.1,
     "base": 767.45,
-    "last": 769.06,
+    "last": 766.51,
     "base_date": "2026-08-18",
-    "last_date": "2026-08-19"
+    "last_date": "2026-08-20"
    }
   },
   {
@@ -581,11 +693,11 @@
    "reason": "Territorial claims on Strait of Hormuz signal geopolitical risk and potential energy market disruption.",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.2,
+    "pct": -0.1,
     "base": 767.45,
-    "last": 769.06,
+    "last": 766.51,
     "base_date": "2026-08-18",
-    "last_date": "2026-08-19"
+    "last_date": "2026-08-20"
    }
   },
   {

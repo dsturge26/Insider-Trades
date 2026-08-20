@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-20T13:10:52Z",
+ "last_updated": "2026-08-20T13:59:59Z",
  "note": "Trump-linked / 'Trump trade' tickers to watch. Prices are refreshed by the GitHub Action from Yahoo Finance (intraday quote + trend, no key; Stooq is a fallback). Stocks are ~15-min delayed, crypto is real-time.",
  "tickers": [
   {
@@ -8,10 +8,6 @@
    "why": "Trump is majority owner. The purest 'Trump sentiment' stock \u2014 moves on his political/legal/business news.",
    "stooq": "djt.us",
    "prices": [
-    {
-     "date": "2026-05-26",
-     "close": 8.28
-    },
     {
      "date": "2026-05-27",
      "close": 8.57
@@ -247,12 +243,16 @@
     {
      "date": "2026-08-19",
      "close": 8.35
+    },
+    {
+     "date": "2026-08-20",
+     "close": 8.45
     }
    ],
-   "last": 8.35,
-   "prev_close": 8.0,
-   "day_pct": 4.37,
-   "as_of": "2026-08-19T20:00:01Z"
+   "last": 8.45,
+   "prev_close": 8.06,
+   "day_pct": 4.84,
+   "as_of": "2026-08-20T13:59:39Z"
   },
   {
    "ticker": "SPY",
@@ -260,10 +260,6 @@
    "why": "Broad market. Trump policy/tariff posts move the whole index \u2014 the cleanest way to play a 'great time to buy' signal.",
    "stooq": "spy.us",
    "prices": [
-    {
-     "date": "2026-05-26",
-     "close": 750.59
-    },
     {
      "date": "2026-05-27",
      "close": 750.46
@@ -499,12 +495,16 @@
     {
      "date": "2026-08-19",
      "close": 769.06
+    },
+    {
+     "date": "2026-08-20",
+     "close": 766.58
     }
    ],
-   "last": 769.06,
-   "prev_close": 733.73,
-   "day_pct": 4.82,
-   "as_of": "2026-08-19T20:00:00Z"
+   "last": 766.58,
+   "prev_close": 741.25,
+   "day_pct": 3.42,
+   "as_of": "2026-08-20T13:59:58Z"
   },
   {
    "ticker": "QQQ",
@@ -512,10 +512,6 @@
    "why": "Tech-heavy index; amplifies the same macro/tariff swings as SPY.",
    "stooq": "qqq.us",
    "prices": [
-    {
-     "date": "2026-05-26",
-     "close": 730.28
-    },
     {
      "date": "2026-05-27",
      "close": 729.45
@@ -751,12 +747,16 @@
     {
      "date": "2026-08-19",
      "close": 716.08
+    },
+    {
+     "date": "2026-08-20",
+     "close": 712.11
     }
    ],
-   "last": 716.08,
-   "prev_close": 701.53,
-   "day_pct": 2.07,
-   "as_of": "2026-08-19T20:00:00Z"
+   "last": 712.11,
+   "prev_close": 713.15,
+   "day_pct": -0.15,
+   "as_of": "2026-08-20T13:59:57Z"
   },
   {
    "ticker": "PLTR",
@@ -764,10 +764,6 @@
    "why": "Frequent congressional buy and a 'government contracts / Trump era' favorite.",
    "stooq": "pltr.us",
    "prices": [
-    {
-     "date": "2026-05-26",
-     "close": 136.6
-    },
     {
      "date": "2026-05-27",
      "close": 132.51
@@ -1003,12 +999,16 @@
     {
      "date": "2026-08-19",
      "close": 175.19
+    },
+    {
+     "date": "2026-08-20",
+     "close": 175.4
     }
    ],
-   "last": 175.19,
-   "prev_close": 135.26,
-   "day_pct": 29.52,
-   "as_of": "2026-08-19T20:00:00Z"
+   "last": 175.4,
+   "prev_close": 137.15,
+   "day_pct": 27.89,
+   "as_of": "2026-08-20T13:59:58Z"
   },
   {
    "ticker": "XAR",
@@ -1016,6 +1016,14 @@
    "why": "Defense names rally on conflict/spending headlines tied to administration policy.",
    "stooq": "xar.us",
    "prices": [
+    {
+     "date": "2026-05-21",
+     "close": 266.37
+    },
+    {
+     "date": "2026-05-22",
+     "close": 271.18
+    },
     {
      "date": "2026-05-26",
      "close": 276.56
@@ -1169,14 +1177,6 @@
      "close": 259.31
     },
     {
-     "date": "2026-07-21",
-     "close": 264.91
-    },
-    {
-     "date": "2026-07-22",
-     "close": 264.3
-    },
-    {
      "date": "2026-07-23",
      "close": 270.54
     },
@@ -1199,10 +1199,6 @@
     {
      "date": "2026-07-30",
      "close": 262.83
-    },
-    {
-     "date": "2026-07-31",
-     "close": 264.86
     },
     {
      "date": "2026-08-03",
@@ -1255,12 +1251,16 @@
     {
      "date": "2026-08-19",
      "close": 284.1
+    },
+    {
+     "date": "2026-08-20",
+     "close": 279.22
     }
    ],
-   "last": 284.1,
-   "prev_close": 259.46,
-   "day_pct": 9.5,
-   "as_of": "2026-08-19T20:00:00Z"
+   "last": 279.22,
+   "prev_close": 266.5,
+   "day_pct": 4.77,
+   "as_of": "2026-08-20T13:59:29Z"
   }
  ]
 }
