@@ -1,7 +1,39 @@
 {
- "last_updated": "2026-08-20T11:03:49Z",
+ "last_updated": "2026-08-20T11:42:50Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-08-20T09:36:58Z",
+   "platform": "News",
+   "text": "Trump says he'll consider giving Turkey F-35 jets, adds that US will lift sanctions - ABC News - Breaking News, Latest News and Videos \u2014 Trump says he'll consider giving Turkey F-35 jets, adds that US will lift sanctions\u00a0\u00a0ABC News - Breaking News, Latest News and Videos",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZkVXSVdMWjlXRUlidzI2bVhDaE5JUHcxcHZWV3NPWkRLZkozSGl1c083OUw4eGNya2IzOWJ0SkQxQmpJSm9UdUdhdS1qNG5OTlRtUjJKc1M2U183TlRULTRVT2dXS2JRXzE2SktaRk4xcUlObkFFR2taeVhmQm9zak40OTN4eEF6MUZJeVB3elc5QdIBlwFBVV95cUxOaGI1aXdhOTBKeXBMbUVkR015RDVITy1vcXgwZkpkMmdRS3lpWUxYUU1XZWk0dGYxZGtyRlVhTUkzVVp1d2dhU09hOWlhdHEzc1ZoNm1nVWRpMmJEemNONWwwbXhUZnUzNmRpd0kwS0k4aFBCZHNvOFhzanpnMFJOXy0yX1NiWGFTUFJaUlhCSi14dzRycnNV?oc=5",
+   "tickers": [
+    "XAR"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "XAR",
+   "strength": 35,
+   "reason": "F-35 jet sales to Turkey and sanctions lift -> defense spending boost"
+  },
+  {
+   "date": "2026-08-20T09:26:53Z",
+   "platform": "News",
+   "text": "Dow, S&P 500, Nasdaq Futures Slip As Trump\u2019s Hormuz Deadline Looms: Why UNH, CAR, TSLA, AVGO, ENVX Are Trending After-Hours - Stocktwits \u2014 Dow, S&P 500, Nasdaq Futures Slip As Trump\u2019s Hormuz Deadline Looms: Why UNH, CAR, TSLA, AVGO, ENVX Are Trending After-Hours\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaTFzRnFlV1J4WU0xM2JWeWFSbXJRVkJvS19IRVNRVEN6TnZxOWJKSW0zSzhqY2xWZDJ3b0VFbGstZ0lGN1NYZDVHZkdRb1ZmUnRoQk9DRXpMUTROWVpqWXVlYkc0RkpfM1duX3FFTHN3ZGk2VF9YSTlyandwdDl4TUZwazRZb3BkbVBCQ0thUzFGMGVuS3IzUVlIX2xlTG5TeFNueU9mRXBCZjh4QUkxOFBGXzBVRk1zLWk0VzM1RV9WWEl3Mk9KT0wzSjNIeFE?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "SPY",
+   "strength": 40,
+   "reason": "Trump's Hormuz deadline creates geopolitical uncertainty, futures declining"
+  },
   {
    "date": "2026-08-20T08:58:55Z",
    "platform": "News",
@@ -2488,22 +2520,6 @@
     "base_date": "2026-08-13",
     "last_date": "2026-08-14"
    }
-  },
-  {
-   "date": "2026-08-13T22:35:36Z",
-   "platform": "News",
-   "text": "Why Is WLFI Soaring Before Trump-Linked World Liberty Forum? - Stocktwits \u2014 Why Is WLFI Soaring Before Trump-Linked World Liberty Forum?\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYkc4ZHcxcGxXaHBhZnJPWWxYZzZuR05xSWF3RnBpXzRrZ2ZWR2hjZEN0aXJ5ZW9nZzBuRXFSVHVOUWJyaGpJdVVrQmo4cWhyck52bWZwM0tYejdJcTdLNjdiYURfdElJWWZmaEY0T2ZCaHNFN2tGY3gyUTVTcnJIdklZa1FyQ3VSUTQ4VHZCSVdwT0pjVE51V0RidUs0eVlHaTVmUVlISVZWbktFQmRsT180U2RnX2c?oc=5",
-   "tickers": [
-    "WLFI"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "WLFI",
-   "strength": 50,
-   "reason": "WLFI soaring ahead of Trump-linked World Liberty Forum; explicit Trump association drives retail speculation"
   },
   {
    "curated": true,
