@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-08-20T14:45:55Z",
+ "last_updated": "2026-08-20T15:33:12Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-08-20T14:16:00Z",
+   "platform": "News",
+   "text": "Every Trump-Endorsed Crypto is Down 60%. Will Hyperliquid be Different? - BeInCrypto \u2014 Every Trump-Endorsed Crypto is Down 60%. Will Hyperliquid be Different?\u00a0\u00a0BeInCrypto",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE40eFNIcmVrbUJxdkxieXFHRXNoclB0QUhvQWVYMmQ3YXZUSVRxcnV6Ujg3OC1OZ2xjSWp6S2RwYUh6dnBicEItOTFSLTltWUZMdEpVNndxbjY2blA0aTdBLWtCVFpKa0gwVkw5TUthNWo3SVVhNldqMEt0T3RmT0E?oc=5",
+   "tickers": [
+    "TRUMP"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "TRUMP",
+   "strength": 35,
+   "reason": "Trump-endorsed crypto declining; ambiguous whether endorsement still valid or market-wide crypto headwind"
+  },
   {
    "date": "2026-08-20T13:28:02Z",
    "platform": "News",
@@ -17,6 +33,22 @@
    "primary_ticker": "COIN",
    "strength": 45,
    "reason": "Trump praise of prediction markets bullish for crypto trading platforms and speculation ecosystems"
+  },
+  {
+   "date": "2026-08-20T13:03:28Z",
+   "platform": "News",
+   "text": "ASTS, RKLB Stocks Get The Trump Pump After Hidden Space Stock Bets Emerge - Stocktwits \u2014 ASTS, RKLB Stocks Get The Trump Pump After Hidden Space Stock Bets Emerge\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYlgtQnFIQ21RTHhqRVMtMUF4aWNUR2w3WHo5QzFfWVRyaExWYXJDUk9WaEFDaW90THVYcHVSd3J4Nk82T3lkMVBGZnhIQW43bHpGdURhaTgxYnRlR25BYmp6SWR1cjVhUHlXZXdWSFdkNlFTekNoQXZCSXNVem1Oc0NBYXBKQXhnRnNCTTVvOU5xSEZrUlNxdzZCczQyZmdVOW1jQVRBczU4cHlpU3M3dnBWZnBjdw?oc=5",
+   "tickers": [
+    "RKLB"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "RKLB",
+   "strength": 50,
+   "reason": "Trump hidden space stock bets disclosed; bullish signal for space stocks ASTS and RKLB"
   },
   {
    "date": "2026-08-20T12:50:37Z",
@@ -180,9 +212,9 @@
    "reason": "Sweeping economic sanctions and isolation on Iran announced; geopolitical risk premium and potential crude oil supply shock",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.2,
+    "pct": -0.3,
     "base": 769.06,
-    "last": 767.28,
+    "last": 766.41,
     "base_date": "2026-08-19",
     "last_date": "2026-08-20"
    }
@@ -204,9 +236,9 @@
    "reason": "Trump focus on Keystone XL pipeline revival bullish for oil/energy sector",
    "price_since": {
     "ticker": "XLE",
-    "pct": 1.5,
+    "pct": 1.4,
     "base": 63.58,
-    "last": 64.53,
+    "last": 64.44,
     "base_date": "2026-08-19",
     "last_date": "2026-08-20"
    }
@@ -228,9 +260,9 @@
    "reason": "FDA pick Heidi Overton seen as key to marijuana rescheduling; bullish for cannabis operators like Trulieve",
    "price_since": {
     "ticker": "TCMD",
-    "pct": -1.2,
+    "pct": -1.5,
     "base": 23.6,
-    "last": 23.31,
+    "last": 23.24,
     "base_date": "2026-08-19",
     "last_date": "2026-08-20"
    }
@@ -252,9 +284,9 @@
    "reason": "Trump pushes crypto clarity legislation; bullish for crypto exchange operators and ecosystem",
    "price_since": {
     "ticker": "COIN",
-    "pct": 5.9,
+    "pct": 8.3,
     "base": 160.2,
-    "last": 169.63,
+    "last": 173.52,
     "base_date": "2026-08-19",
     "last_date": "2026-08-20"
    }
@@ -276,9 +308,9 @@
    "reason": "Trump's Moderna stock gains are market-neutral reporting; no directional signal implied",
    "price_since": {
     "ticker": "MRNA",
-    "pct": -19.4,
+    "pct": -17.8,
     "base": 174.38,
-    "last": 140.62,
+    "last": 143.37,
     "base_date": "2026-08-19",
     "last_date": "2026-08-20"
    }
@@ -300,9 +332,9 @@
    "reason": "Trump has Moderna stock holdings; stock gains are his personal gain, not a market call",
    "price_since": {
     "ticker": "MRNA",
-    "pct": -19.4,
+    "pct": -17.8,
     "base": 174.38,
-    "last": 140.62,
+    "last": 143.33,
     "base_date": "2026-08-19",
     "last_date": "2026-08-20"
    }
@@ -324,9 +356,9 @@
    "reason": "Keystone XL revival signals pro-energy/pro-oil policy; bullish for oil & gas sector.",
    "price_since": {
     "ticker": "XLE",
-    "pct": 1.5,
+    "pct": 1.4,
     "base": 63.58,
-    "last": 64.53,
+    "last": 64.44,
     "base_date": "2026-08-19",
     "last_date": "2026-08-20"
    }
@@ -348,9 +380,9 @@
    "reason": "FDA pick could affect healthcare/pharma sector; direction unclear without nominee details",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.2,
+    "pct": -0.3,
     "base": 769.06,
-    "last": 767.32,
+    "last": 766.41,
     "base_date": "2026-08-19",
     "last_date": "2026-08-20"
    }
@@ -372,9 +404,9 @@
    "reason": "Securities trading disclosure suggests potential insider activity; ambiguous directional signal",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.2,
+    "pct": -0.3,
     "base": 769.06,
-    "last": 767.34,
+    "last": 766.42,
     "base_date": "2026-08-19",
     "last_date": "2026-08-20"
    }
@@ -397,9 +429,9 @@
    "reason": "Tariff pause on Canada is bullish; Keystone XL Pipeline revival signals energy sector upside",
    "price_since": {
     "ticker": "XLE",
-    "pct": 1.5,
+    "pct": 1.4,
     "base": 63.58,
-    "last": 64.53,
+    "last": 64.44,
     "base_date": "2026-08-19",
     "last_date": "2026-08-20"
    }
@@ -421,9 +453,9 @@
    "reason": "Trump administration awards $1B federal grant to IBM for quantum foundry; direct bullish catalyst for named public company",
    "price_since": {
     "ticker": "IBM",
-    "pct": 1.2,
+    "pct": 1.8,
     "base": 232.67,
-    "last": 235.5,
+    "last": 236.91,
     "base_date": "2026-08-18",
     "last_date": "2026-08-20"
    }
@@ -445,9 +477,9 @@
    "reason": "Analyst price target hikes signal positive sentiment on stock",
    "price_since": {
     "ticker": "PRAX",
-    "pct": 3.0,
+    "pct": 1.9,
     "base": 369.84,
-    "last": 380.87,
+    "last": 377.0,
     "base_date": "2026-08-18",
     "last_date": "2026-08-20"
    }
@@ -469,9 +501,9 @@
    "reason": "Analyst price target hikes on stock; analyst-driven rally not directly Trump-attributed",
    "price_since": {
     "ticker": "PRAX",
-    "pct": 3.0,
+    "pct": 1.9,
     "base": 369.84,
-    "last": 380.87,
+    "last": 377.0,
     "base_date": "2026-08-18",
     "last_date": "2026-08-20"
    }
@@ -493,9 +525,9 @@
    "reason": "Historical retrospective on stock performance; no current catalyst",
    "price_since": {
     "ticker": "FUN",
-    "pct": 6.9,
+    "pct": 7.7,
     "base": 15.75,
-    "last": 16.83,
+    "last": 16.96,
     "base_date": "2026-08-18",
     "last_date": "2026-08-20"
    }
@@ -517,9 +549,9 @@
    "reason": "Former Trump adviser praise for Meta's AI program is soft positive signal but lacks specificity or directness",
    "price_since": {
     "ticker": "META",
-    "pct": 0.6,
+    "pct": -0.0,
     "base": 543.67,
-    "last": 546.95,
+    "last": 543.52,
     "base_date": "2026-08-18",
     "last_date": "2026-08-20"
    }
@@ -541,9 +573,9 @@
    "reason": "Trump adviser praise for Meta's AI Workforce Academy; indirect positive sentiment on Meta business",
    "price_since": {
     "ticker": "META",
-    "pct": 0.6,
+    "pct": -0.0,
     "base": 543.67,
-    "last": 546.95,
+    "last": 543.52,
     "base_date": "2026-08-18",
     "last_date": "2026-08-20"
    }
@@ -565,9 +597,9 @@
    "reason": "CEO calls shares undervalued and rules out dilution, positive signal for stock value",
    "price_since": {
     "ticker": "CAR",
-    "pct": 2.5,
+    "pct": 2.9,
     "base": 137.62,
-    "last": 141.04,
+    "last": 141.6,
     "base_date": "2026-08-18",
     "last_date": "2026-08-20"
    }
@@ -589,9 +621,9 @@
    "reason": "Best year in decade and CEO equity reward signal strong fundamentals",
    "price_since": {
     "ticker": "AMD",
-    "pct": -3.2,
+    "pct": -4.2,
     "base": 484.39,
-    "last": 469.05,
+    "last": 464.2,
     "base_date": "2026-08-18",
     "last_date": "2026-08-20"
    }
@@ -613,9 +645,9 @@
    "reason": "State Farm dividend announcement signals financial strength and capital return; proxied by insurance/financial sector",
    "price_since": {
     "ticker": "STWD",
-    "pct": 1.6,
+    "pct": 1.4,
     "base": 16.24,
-    "last": 16.5,
+    "last": 16.46,
     "base_date": "2026-08-18",
     "last_date": "2026-08-20"
    }
@@ -1682,30 +1714,6 @@
   {
    "date": "2026-08-15T21:23:00Z",
    "platform": "News",
-   "text": "ASTS, RKLB Stocks Get The Trump Pump After Hidden Space Stock Bets Emerge - Stocktwits \u2014 ASTS, RKLB Stocks Get The Trump Pump After Hidden Space Stock Bets Emerge\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYlgtQnFIQ21RTHhqRVMtMUF4aWNUR2w3WHo5QzFfWVRyaExWYXJDUk9WaEFDaW90THVYcHVSd3J4Nk82T3lkMVBGZnhIQW43bHpGdURhaTgxYnRlR25BYmp6SWR1cjVhUHlXZXdWSFdkNlFTekNoQXZCSXNVem1Oc0NBYXBKQXhnRnNCTTVvOU5xSEZrUlNxdzZCczQyZmdVOW1jQVRBczU4cHlpU3M3dnBWZnBjdw?oc=5",
-   "tickers": [
-    "RKLB"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "RKLB",
-   "strength": 55,
-   "reason": "Trump-linked space stock bets emerge; inferred bullish sentiment on space names",
-   "price_since": {
-    "ticker": "RKLB",
-    "pct": -2.5,
-    "base": 82.08,
-    "last": 79.99,
-    "base_date": "2026-08-17",
-    "last_date": "2026-08-18"
-   }
-  },
-  {
-   "date": "2026-08-15T21:23:00Z",
-   "platform": "News",
    "text": "ASTS, RKLB Stocks Get The Trump Pump After Hidden Space Stock Bets Emerge - stocktwits.com \u2014 ASTS, RKLB Stocks Get The Trump Pump After Hidden Space Stock Bets Emerge\u00a0\u00a0stocktwits.com",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYlgtQnFIQ21RTHhqRVMtMUF4aWNUR2w3WHo5QzFfWVRyaExWYXJDUk9WaEFDaW90THVYcHVSd3J4Nk82T3lkMVBGZnhIQW43bHpGdURhaTgxYnRlR25BYmp6SWR1cjVhUHlXZXdWSFdkNlFTekNoQXZCSXNVem1Oc0NBYXBKQXhnRnNCTTVvOU5xSEZrUlNxdzZCczQyZmdVOW1jQVRBczU4cHlpU3M3dnBWZnBjdw?oc=5",
    "tickers": [
@@ -1982,6 +1990,23 @@
    "primary_ticker": "DELL",
    "strength": 70,
    "reason": "Trump explicitly endorses Dell, stock spikes to record highs"
+  },
+  {
+   "date": "2026-08-15T12:31:50.605Z",
+   "platform": "Truth Social",
+   "text": "White House report details 'Great Transshipment Scam' costing tens of billions in tariff evasion: https://justthenews.com/government/white-house/white-house-report-details-great-transshipment-scam-costing-tens-billions",
+   "tickers": [
+    "SPY"
+   ],
+   "engagement": 9528,
+   "url": "https://truthsocial.com/@realDonaldTrump/117099535440653927",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "SPY",
+   "strength": 35,
+   "reason": "White House tariff enforcement action against evasion; suggests tighter tariff regime bearish for broad market and trade"
   },
   {
    "date": "2026-08-15T11:40:49Z",
@@ -2527,38 +2552,6 @@
    "primary_ticker": "XLE",
    "strength": 72,
    "reason": "Drone tariffs protect domestic maker; energy/defense beneficiary, bullish for sector"
-  },
-  {
-   "date": "2026-08-14T11:33:50Z",
-   "platform": "News",
-   "text": "Shares Of Trump Jr.-Linked Dronemaker Pop After White House Unveils New Tariffs - Forbes \u2014 Shares Of Trump Jr.-Linked Dronemaker Pop After White House Unveils New Tariffs\u00a0\u00a0Forbes",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOS2VfTlBxMkdseHlsZ0lOdElVbGRoNVpCYUltMmNpUDd2Mkl6akFDdHowSTJpdzBpcVRPcnBqQUxfWG1zRmxiRGx4MkxZVGZrX09YaWtNUy13VHd3V202dDVUcnFmcFJraUdLeUc4ZzhFcWpVbElDeHhJU24xdGI5X3ZmQkJ3MEdaaUtYLXFMM0I5RktfUmlqTlFJX0xMcURnSmhOWWduRnRFVXNYdTF0am9BZWtnNTUtS0I2TnFFRTA2RGxrX3RqeDdNSE1xNHhTY2c0VmVRclM?oc=5",
-   "tickers": [
-    "XLI"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "XLI",
-   "strength": 72,
-   "reason": "Tariffs on drones boost Trump-linked dronemaker shares"
-  },
-  {
-   "date": "2026-08-14T11:33:50Z",
-   "platform": "News",
-   "text": "Shares Of Trump Jr.-Linked Dronemaker Pop After White House Unveils New Tariffs - forbes.com \u2014 Shares Of Trump Jr.-Linked Dronemaker Pop After White House Unveils New Tariffs\u00a0\u00a0forbes.com",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOS2VfTlBxMkdseHlsZ0lOdElVbGRoNVpCYUltMmNpUDd2Mkl6akFDdHowSTJpdzBpcVRPcnBqQUxfWG1zRmxiRGx4MkxZVGZrX09YaWtNUy13VHd3V202dDVUcnFmcFJraUdLeUc4ZzhFcWpVbElDeHhJU24xdGI5X3ZmQkJ3MEdaaUtYLXFMM0I5RktfUmlqTlFJX0xMcURnSmhOWWduRnRFVXNYdTF0am9BZWtnNTUtS0I2TnFFRTA2RGxrX3RqeDdNSE1xNHhTY2c0VmVRclM?oc=5",
-   "tickers": [
-    "XAR"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "XAR",
-   "strength": 75,
-   "reason": "Trump tariffs on drones directly boost Trump Jr.-linked dronemaker"
   },
   {
    "curated": true,
