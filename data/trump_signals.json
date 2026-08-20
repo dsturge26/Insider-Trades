@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-20T20:46:14Z",
+ "last_updated": "2026-08-20T21:27:32Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -546,7 +546,15 @@
    "direction": "BUY",
    "primary_ticker": "PRAX",
    "strength": 45,
-   "reason": "Analyst price target hikes signal positive sentiment on stock"
+   "reason": "Analyst price target hikes signal positive sentiment on stock",
+   "price_since": {
+    "ticker": "PRAX",
+    "pct": -1.4,
+    "base": 369.84,
+    "last": 364.58,
+    "base_date": "2026-08-18",
+    "last_date": "2026-08-20"
+   }
   },
   {
    "date": "2026-08-18T22:25:48Z",
