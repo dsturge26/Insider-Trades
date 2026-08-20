@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-08-20T17:58:27Z",
+ "last_updated": "2026-08-20T18:50:41Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-08-20T16:14:05Z",
+   "platform": "News",
+   "text": "Lithium-Ion Batteries Tapped For $100 Million from Trump Admin. - CleanTechnica \u2014 Lithium-Ion Batteries Tapped For $100 Million from Trump Admin.\u00a0\u00a0CleanTechnica",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQ3BoS2xkOEM0bXZRUmoteEtLUlRwc01UVzRnaTZsMUp1NWp3YmFGSFczNnZLWGQ3eXJlMm5YU1JZOUhJZG9YTHE0Y0N6d0ZrNjhxakprNGs3d3pRUllZUTBaejNmSFhETF9VeXExdWk3WlBUTDNTNjlZQXJPNS0xYnEwV0U2RWxLaXg2UDh5VXpkZ1FSZ25iWg?oc=5",
+   "tickers": [
+    "XLI"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "XLI",
+   "strength": 45,
+   "reason": "$100M federal grant for lithium-ion batteries supports clean energy/industrial sector; bullish for battery and EV supply chain"
+  },
   {
    "date": "2026-08-20T15:31:03Z",
    "platform": "News",
@@ -244,9 +260,9 @@
    "reason": "Sweeping economic sanctions and isolation on Iran announced; geopolitical risk premium and potential crude oil supply shock",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.6,
+    "pct": -0.7,
     "base": 769.06,
-    "last": 764.74,
+    "last": 763.74,
     "base_date": "2026-08-19",
     "last_date": "2026-08-20"
    }
@@ -268,9 +284,9 @@
    "reason": "Trump focus on Keystone XL pipeline revival bullish for oil/energy sector",
    "price_since": {
     "ticker": "XLE",
-    "pct": 0.5,
+    "pct": 0.6,
     "base": 63.58,
-    "last": 63.88,
+    "last": 63.94,
     "base_date": "2026-08-19",
     "last_date": "2026-08-20"
    }
@@ -292,9 +308,9 @@
    "reason": "FDA pick Heidi Overton seen as key to marijuana rescheduling; bullish for cannabis operators like Trulieve",
    "price_since": {
     "ticker": "TCMD",
-    "pct": -1.5,
+    "pct": -1.7,
     "base": 23.6,
-    "last": 23.25,
+    "last": 23.19,
     "base_date": "2026-08-19",
     "last_date": "2026-08-20"
    }
@@ -316,9 +332,9 @@
    "reason": "Trump pushes crypto clarity legislation; bullish for crypto exchange operators and ecosystem",
    "price_since": {
     "ticker": "COIN",
-    "pct": 7.9,
+    "pct": 7.0,
     "base": 160.2,
-    "last": 172.88,
+    "last": 171.37,
     "base_date": "2026-08-19",
     "last_date": "2026-08-20"
    }
@@ -340,9 +356,9 @@
    "reason": "Trump's Moderna stock gains are market-neutral reporting; no directional signal implied",
    "price_since": {
     "ticker": "MRNA",
-    "pct": -23.9,
+    "pct": -23.0,
     "base": 174.38,
-    "last": 132.68,
+    "last": 134.31,
     "base_date": "2026-08-19",
     "last_date": "2026-08-20"
    }
@@ -364,9 +380,9 @@
    "reason": "Trump has Moderna stock holdings; stock gains are his personal gain, not a market call",
    "price_since": {
     "ticker": "MRNA",
-    "pct": -23.9,
+    "pct": -23.0,
     "base": 174.38,
-    "last": 132.77,
+    "last": 134.31,
     "base_date": "2026-08-19",
     "last_date": "2026-08-20"
    }
@@ -388,9 +404,9 @@
    "reason": "Keystone XL revival signals pro-energy/pro-oil policy; bullish for oil & gas sector.",
    "price_since": {
     "ticker": "XLE",
-    "pct": 0.5,
+    "pct": 0.6,
     "base": 63.58,
-    "last": 63.88,
+    "last": 63.94,
     "base_date": "2026-08-19",
     "last_date": "2026-08-20"
    }
@@ -412,9 +428,9 @@
    "reason": "FDA pick could affect healthcare/pharma sector; direction unclear without nominee details",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.6,
+    "pct": -0.7,
     "base": 769.06,
-    "last": 764.73,
+    "last": 763.73,
     "base_date": "2026-08-19",
     "last_date": "2026-08-20"
    }
@@ -436,9 +452,9 @@
    "reason": "Unnamed 'iconic brand' stock crash is bearish signal but ticker unspecified; broad market downside inferred.",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.6,
+    "pct": -0.7,
     "base": 769.06,
-    "last": 764.73,
+    "last": 763.74,
     "base_date": "2026-08-19",
     "last_date": "2026-08-20"
    }
@@ -460,9 +476,9 @@
    "reason": "Securities trading disclosure suggests potential insider activity; ambiguous directional signal",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.6,
+    "pct": -0.7,
     "base": 769.06,
-    "last": 764.73,
+    "last": 763.74,
     "base_date": "2026-08-19",
     "last_date": "2026-08-20"
    }
@@ -485,9 +501,9 @@
    "reason": "Tariff pause on Canada is bullish; Keystone XL Pipeline revival signals energy sector upside",
    "price_since": {
     "ticker": "XLE",
-    "pct": 0.5,
+    "pct": 0.6,
     "base": 63.58,
-    "last": 63.88,
+    "last": 63.94,
     "base_date": "2026-08-19",
     "last_date": "2026-08-20"
    }
@@ -509,9 +525,9 @@
    "reason": "Trump administration awards $1B federal grant to IBM for quantum foundry; direct bullish catalyst for named public company",
    "price_since": {
     "ticker": "IBM",
-    "pct": 1.2,
+    "pct": 0.9,
     "base": 232.67,
-    "last": 235.47,
+    "last": 234.85,
     "base_date": "2026-08-18",
     "last_date": "2026-08-20"
    }
@@ -533,9 +549,9 @@
    "reason": "Analyst price target hikes signal positive sentiment on stock",
    "price_since": {
     "ticker": "PRAX",
-    "pct": -1.3,
+    "pct": -1.8,
     "base": 369.84,
-    "last": 365.02,
+    "last": 363.16,
     "base_date": "2026-08-18",
     "last_date": "2026-08-20"
    }
@@ -559,7 +575,7 @@
     "ticker": "PRAX",
     "pct": -1.8,
     "base": 369.84,
-    "last": 363.2,
+    "last": 363.16,
     "base_date": "2026-08-18",
     "last_date": "2026-08-20"
    }
@@ -581,9 +597,9 @@
    "reason": "Historical retrospective on stock performance; no current catalyst",
    "price_since": {
     "ticker": "FUN",
-    "pct": 7.9,
+    "pct": 6.3,
     "base": 15.75,
-    "last": 16.99,
+    "last": 16.74,
     "base_date": "2026-08-18",
     "last_date": "2026-08-20"
    }
