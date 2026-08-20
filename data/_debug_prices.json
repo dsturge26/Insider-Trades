@@ -1,30 +1,30 @@
 {
- "generated": "2026-08-20T19:30:49Z",
+ "generated": "2026-08-20T20:02:38Z",
  "key_present": true,
  "tickers": {
   "DJT": {
-   "source": "yahoo:ok",
-   "count": 60,
+   "source": "yahoo:HTTP 429 | fmp:HTTP 402 | stooq:empty",
+   "count": 0,
    "last": 8.6
   },
   "SPY": {
-   "source": "yahoo:ok",
+   "source": "yahoo:HTTP 429 | fmp:ok",
    "count": 60,
-   "last": 763.4
+   "last": 762.38
   },
   "QQQ": {
    "source": "yahoo:ok",
    "count": 60,
-   "last": 710.88
+   "last": 710.93
   },
   "PLTR": {
-   "source": "yahoo:ok",
+   "source": "yahoo:HTTP 429 | fmp:ok",
    "count": 60,
-   "last": 175.09
+   "last": 174.76
   },
   "XAR": {
-   "source": "yahoo:ok",
-   "count": 60,
+   "source": "yahoo:HTTP 429 | fmp:HTTP 402 | stooq:empty",
+   "count": 0,
    "last": 271.74
   }
  }
