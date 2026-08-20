@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-20T16:50:35Z",
+ "last_updated": "2026-08-20T17:28:25Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -195,6 +195,22 @@
    "reason": "IBM stock surging 7% overnight suggests positive catalyst; likely earnings/product news unrelated to Trump"
   },
   {
+   "date": "2026-08-20T04:15:05Z",
+   "platform": "News",
+   "text": "Eric Trump Says It's 'Exciting to See' Bitcoin's\u2026 - inkl \u2014 Eric Trump Says It's 'Exciting to See' Bitcoin's\u2026\u00a0\u00a0inkl",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOb0ZrWm40d0YwSVpmRTJ0RUtnYlRiZ2xHendpNDQwOUFPb0ZHS3lsNzI0YkdmNDMxOVd6UG1BZVotQjlmMl85UHJOdS0xa3BrMWNBcVpTRkdlVndxRld1eUVhRTJpU0pmQk9qbHJoWWNVZGxzam52SUFoNmVFM0RHaGYySmQ1VXpRZmdNZ1pERzFGWFZrMDF3NUVKY0VEYUdBWEIwckxyajdlSmZrVTFaUlNNS0w5RHpFenNlaUVLdm8yYUZKS3V4NUZwdFJEWTc0WUh5Vg?oc=5",
+   "tickers": [
+    "BTC-USD"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "BTC-USD",
+   "strength": 50,
+   "reason": "Eric Trump bullish on Bitcoin; family-endorsed crypto sentiment"
+  },
+  {
    "date": "2026-08-20T03:14:17Z",
    "platform": "News",
    "text": "SERV Stock Rallies On Grubhub Partnership, DoorDash Deal Expansion \u2014 CEO Calls It 'Clearest Signal Yet Of Where We're Headed' - Stocktwits \u2014 SERV Stock Rallies On Grubhub Partnership, DoorDash Deal Expansion \u2014 CEO Calls It 'Clearest Signal Yet Of Where We're Headed'\u00a0\u00a0Stocktwits",
@@ -228,9 +244,9 @@
    "reason": "Sweeping economic sanctions and isolation on Iran announced; geopolitical risk premium and potential crude oil supply shock",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.3,
+    "pct": -0.6,
     "base": 769.06,
-    "last": 766.54,
+    "last": 764.75,
     "base_date": "2026-08-19",
     "last_date": "2026-08-20"
    }
@@ -252,9 +268,9 @@
    "reason": "Trump focus on Keystone XL pipeline revival bullish for oil/energy sector",
    "price_since": {
     "ticker": "XLE",
-    "pct": 0.8,
+    "pct": 0.6,
     "base": 63.58,
-    "last": 64.07,
+    "last": 63.97,
     "base_date": "2026-08-19",
     "last_date": "2026-08-20"
    }
@@ -276,9 +292,9 @@
    "reason": "FDA pick Heidi Overton seen as key to marijuana rescheduling; bullish for cannabis operators like Trulieve",
    "price_since": {
     "ticker": "TCMD",
-    "pct": -1.6,
+    "pct": -1.5,
     "base": 23.6,
-    "last": 23.22,
+    "last": 23.24,
     "base_date": "2026-08-19",
     "last_date": "2026-08-20"
    }
@@ -300,9 +316,9 @@
    "reason": "Trump pushes crypto clarity legislation; bullish for crypto exchange operators and ecosystem",
    "price_since": {
     "ticker": "COIN",
-    "pct": 8.0,
+    "pct": 7.9,
     "base": 160.2,
-    "last": 172.96,
+    "last": 172.93,
     "base_date": "2026-08-19",
     "last_date": "2026-08-20"
    }
@@ -324,9 +340,9 @@
    "reason": "Trump's Moderna stock gains are market-neutral reporting; no directional signal implied",
    "price_since": {
     "ticker": "MRNA",
-    "pct": -25.1,
+    "pct": -25.7,
     "base": 174.38,
-    "last": 130.56,
+    "last": 129.56,
     "base_date": "2026-08-19",
     "last_date": "2026-08-20"
    }
@@ -348,9 +364,9 @@
    "reason": "Trump has Moderna stock holdings; stock gains are his personal gain, not a market call",
    "price_since": {
     "ticker": "MRNA",
-    "pct": -25.1,
+    "pct": -25.7,
     "base": 174.38,
-    "last": 130.56,
+    "last": 129.56,
     "base_date": "2026-08-19",
     "last_date": "2026-08-20"
    }
@@ -372,9 +388,9 @@
    "reason": "Keystone XL revival signals pro-energy/pro-oil policy; bullish for oil & gas sector.",
    "price_since": {
     "ticker": "XLE",
-    "pct": 0.8,
+    "pct": 0.6,
     "base": 63.58,
-    "last": 64.07,
+    "last": 63.97,
     "base_date": "2026-08-19",
     "last_date": "2026-08-20"
    }
@@ -396,9 +412,33 @@
    "reason": "FDA pick could affect healthcare/pharma sector; direction unclear without nominee details",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.3,
+    "pct": -0.6,
     "base": 769.06,
-    "last": 766.58,
+    "last": 764.75,
+    "base_date": "2026-08-19",
+    "last_date": "2026-08-20"
+   }
+  },
+  {
+   "date": "2026-08-19T15:26:41Z",
+   "platform": "News",
+   "text": "Ted Cruz takes victory lap as iconic American brand's stock plunges to 12-year low - Fox News \u2014 Ted Cruz takes victory lap as iconic American brand's stock plunges to 12-year low\u00a0\u00a0Fox News",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWXV1ejZWbS1iM1dWQkRGUHJ6YndEaDk1eWRTZ3ZDb1Qwa1ZLVGJ3dkxISXNhaG5PLXVnZmQzMG9Fb01Xd3hmVXFoUUVvRERaMXR3dUtsMVRBYkZ5a0RrTlM1SDRWNFFXTEVDMi1GMVRtQi1XejFacmprRmk1X2dmY1VtdS1sWjdmUjUwVUVjVUFLOVN3cHIwVkRWeUJtcGd3VU1jc2VEcF_SAa4BQVVfeXFMT1o3b2U4blRRdXppOXVDcnVmUzB1UGtESnlKVGdNbmdsSjgzTnFielBTNjQ4VGtnaGpVYVVGakdIdG5TLWxsbFhqanJZSi0yNE9UbDJJc01rYnlmVVMzV1Z3SjRHRWRISVRxRjVNSVFNT25xbldhOHFWUVpEdFlocGFrY3djNzY0VFVZZ2NBdGJaVE5ENmZtV1ZPNjY4R1hpV0ozVkxZb1FxMmFuZk1R?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "SPY",
+   "strength": 25,
+   "reason": "Unnamed 'iconic brand' stock crash is bearish signal but ticker unspecified; broad market downside inferred.",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": -0.6,
+    "base": 769.06,
+    "last": 764.75,
     "base_date": "2026-08-19",
     "last_date": "2026-08-20"
    }
@@ -420,9 +460,9 @@
    "reason": "Securities trading disclosure suggests potential insider activity; ambiguous directional signal",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.3,
+    "pct": -0.6,
     "base": 769.06,
-    "last": 766.58,
+    "last": 764.75,
     "base_date": "2026-08-19",
     "last_date": "2026-08-20"
    }
@@ -445,9 +485,9 @@
    "reason": "Tariff pause on Canada is bullish; Keystone XL Pipeline revival signals energy sector upside",
    "price_since": {
     "ticker": "XLE",
-    "pct": 0.8,
+    "pct": 0.6,
     "base": 63.58,
-    "last": 64.07,
+    "last": 63.97,
     "base_date": "2026-08-19",
     "last_date": "2026-08-20"
    }
@@ -469,9 +509,9 @@
    "reason": "Trump administration awards $1B federal grant to IBM for quantum foundry; direct bullish catalyst for named public company",
    "price_since": {
     "ticker": "IBM",
-    "pct": 2.0,
+    "pct": 1.5,
     "base": 232.67,
-    "last": 237.34,
+    "last": 236.27,
     "base_date": "2026-08-18",
     "last_date": "2026-08-20"
    }
@@ -493,9 +533,9 @@
    "reason": "Analyst price target hikes signal positive sentiment on stock",
    "price_since": {
     "ticker": "PRAX",
-    "pct": -1.1,
+    "pct": -1.8,
     "base": 369.84,
-    "last": 365.68,
+    "last": 363.2,
     "base_date": "2026-08-18",
     "last_date": "2026-08-20"
    }
@@ -517,9 +557,9 @@
    "reason": "Analyst price target hikes on stock; analyst-driven rally not directly Trump-attributed",
    "price_since": {
     "ticker": "PRAX",
-    "pct": -1.1,
+    "pct": -1.8,
     "base": 369.84,
-    "last": 365.68,
+    "last": 363.2,
     "base_date": "2026-08-18",
     "last_date": "2026-08-20"
    }
