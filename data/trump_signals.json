@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-20T18:50:41Z",
+ "last_updated": "2026-08-20T19:30:49Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -262,7 +262,7 @@
     "ticker": "SPY",
     "pct": -0.7,
     "base": 769.06,
-    "last": 763.74,
+    "last": 763.4,
     "base_date": "2026-08-19",
     "last_date": "2026-08-20"
    }
@@ -284,9 +284,9 @@
    "reason": "Trump focus on Keystone XL pipeline revival bullish for oil/energy sector",
    "price_since": {
     "ticker": "XLE",
-    "pct": 0.6,
+    "pct": 0.2,
     "base": 63.58,
-    "last": 63.94,
+    "last": 63.71,
     "base_date": "2026-08-19",
     "last_date": "2026-08-20"
    }
@@ -308,9 +308,9 @@
    "reason": "FDA pick Heidi Overton seen as key to marijuana rescheduling; bullish for cannabis operators like Trulieve",
    "price_since": {
     "ticker": "TCMD",
-    "pct": -1.7,
+    "pct": -0.6,
     "base": 23.6,
-    "last": 23.19,
+    "last": 23.47,
     "base_date": "2026-08-19",
     "last_date": "2026-08-20"
    }
@@ -332,9 +332,9 @@
    "reason": "Trump pushes crypto clarity legislation; bullish for crypto exchange operators and ecosystem",
    "price_since": {
     "ticker": "COIN",
-    "pct": 7.0,
+    "pct": 7.3,
     "base": 160.2,
-    "last": 171.37,
+    "last": 171.92,
     "base_date": "2026-08-19",
     "last_date": "2026-08-20"
    }
@@ -356,9 +356,9 @@
    "reason": "Trump's Moderna stock gains are market-neutral reporting; no directional signal implied",
    "price_since": {
     "ticker": "MRNA",
-    "pct": -23.0,
+    "pct": -22.7,
     "base": 174.38,
-    "last": 134.31,
+    "last": 134.71,
     "base_date": "2026-08-19",
     "last_date": "2026-08-20"
    }
@@ -380,9 +380,9 @@
    "reason": "Trump has Moderna stock holdings; stock gains are his personal gain, not a market call",
    "price_since": {
     "ticker": "MRNA",
-    "pct": -23.0,
+    "pct": -22.7,
     "base": 174.38,
-    "last": 134.31,
+    "last": 134.71,
     "base_date": "2026-08-19",
     "last_date": "2026-08-20"
    }
@@ -404,9 +404,9 @@
    "reason": "Keystone XL revival signals pro-energy/pro-oil policy; bullish for oil & gas sector.",
    "price_since": {
     "ticker": "XLE",
-    "pct": 0.6,
+    "pct": 0.2,
     "base": 63.58,
-    "last": 63.94,
+    "last": 63.71,
     "base_date": "2026-08-19",
     "last_date": "2026-08-20"
    }
@@ -430,7 +430,7 @@
     "ticker": "SPY",
     "pct": -0.7,
     "base": 769.06,
-    "last": 763.73,
+    "last": 763.39,
     "base_date": "2026-08-19",
     "last_date": "2026-08-20"
    }
@@ -454,7 +454,7 @@
     "ticker": "SPY",
     "pct": -0.7,
     "base": 769.06,
-    "last": 763.74,
+    "last": 763.39,
     "base_date": "2026-08-19",
     "last_date": "2026-08-20"
    }
@@ -478,7 +478,7 @@
     "ticker": "SPY",
     "pct": -0.7,
     "base": 769.06,
-    "last": 763.74,
+    "last": 763.41,
     "base_date": "2026-08-19",
     "last_date": "2026-08-20"
    }
@@ -501,9 +501,9 @@
    "reason": "Tariff pause on Canada is bullish; Keystone XL Pipeline revival signals energy sector upside",
    "price_since": {
     "ticker": "XLE",
-    "pct": 0.6,
+    "pct": 0.2,
     "base": 63.58,
-    "last": 63.94,
+    "last": 63.71,
     "base_date": "2026-08-19",
     "last_date": "2026-08-20"
    }
@@ -525,9 +525,9 @@
    "reason": "Trump administration awards $1B federal grant to IBM for quantum foundry; direct bullish catalyst for named public company",
    "price_since": {
     "ticker": "IBM",
-    "pct": 0.9,
+    "pct": 0.8,
     "base": 232.67,
-    "last": 234.85,
+    "last": 234.59,
     "base_date": "2026-08-18",
     "last_date": "2026-08-20"
    }
@@ -549,9 +549,9 @@
    "reason": "Analyst price target hikes signal positive sentiment on stock",
    "price_since": {
     "ticker": "PRAX",
-    "pct": -1.8,
+    "pct": -0.3,
     "base": 369.84,
-    "last": 363.16,
+    "last": 368.76,
     "base_date": "2026-08-18",
     "last_date": "2026-08-20"
    }
@@ -573,9 +573,9 @@
    "reason": "Analyst price target hikes on stock; analyst-driven rally not directly Trump-attributed",
    "price_since": {
     "ticker": "PRAX",
-    "pct": -1.8,
+    "pct": -0.3,
     "base": 369.84,
-    "last": 363.16,
+    "last": 368.76,
     "base_date": "2026-08-18",
     "last_date": "2026-08-20"
    }
@@ -2544,22 +2544,6 @@
    "primary_ticker": "XAR",
    "strength": 70,
    "reason": "Tariffs on foreign drones boost Trump-linked domestic dronemaker stocks"
-  },
-  {
-   "date": "2026-08-14T16:15:25Z",
-   "platform": "News",
-   "text": "Why Is AG Stock Jumping Over 5% In Overnight Trading? - Stocktwits \u2014 Why Is AG Stock Jumping Over 5% In Overnight Trading?\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZWN4cjJ0TVQ3NUdWMm1CVVR2b2NWM3Q0QTdFX2h2NU8tQ3ZKNVNYUXlUNkt0NVkyZ0ZwV05DaWh3RVJzRzJzcVc5c3VBVWctc2dCdVZLMVU1U0NnY1Iwc3FKVjgxV1V5cHR3SklSSjFYTU5Mam41T0N5b3V0b041d20zOUo5RVZQMUxRSjhtN1g5ejA4Wmk2OWR4LXJDQQ?oc=5",
-   "tickers": [
-    "AG"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "AG",
-   "strength": 45,
-   "reason": "Stock jump suggests positive catalyst; likely trade/tariff related but catalyst unclear from headline"
   },
   {
    "curated": true,
