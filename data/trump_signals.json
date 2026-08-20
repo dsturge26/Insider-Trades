@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-08-20T15:33:12Z",
+ "last_updated": "2026-08-20T16:04:30Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-08-20T15:31:03Z",
+   "platform": "News",
+   "text": "HYPE Rallies 22%, PURR Skyrockets 33% as President Trump Vows to Bring Hyperliquid to US - Benzinga \u2014 HYPE Rallies 22%, PURR Skyrockets 33% as President Trump Vows to Bring Hyperliquid to US\u00a0\u00a0Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONkNGTURuRUNHZEh0N0VWVjByeVladjg4V3BJaDRqY1hhcnFMS2FqSmZ2THFNVkRGalpTVng1cFctSEVhZXU1azk4TEtXWmdBRDI5bi05cFlkN212SHRfbzY4dFJRZU4zeE1vdHowQ2d3V3VOTm1vdzBKU0tEVUpsNWdVb2xMczliTFFzMVNxcEJGbmNvd0t6dk9EcTNWcUN2c3gyRl9qWVctXzdsY0FxYXNoczBNd1RJcDRxNFVOYXFBU0NEVXg4?oc=5",
+   "tickers": [
+    "HYPE"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "HYPE",
+   "strength": 70,
+   "reason": "Trump vows to bring Hyperliquid to US; crypto asset rallies 22% on policy support"
+  },
   {
    "date": "2026-08-20T14:16:00Z",
    "platform": "News",
@@ -212,9 +228,9 @@
    "reason": "Sweeping economic sanctions and isolation on Iran announced; geopolitical risk premium and potential crude oil supply shock",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.3,
+    "pct": -0.4,
     "base": 769.06,
-    "last": 766.41,
+    "last": 765.87,
     "base_date": "2026-08-19",
     "last_date": "2026-08-20"
    }
@@ -238,7 +254,7 @@
     "ticker": "XLE",
     "pct": 1.4,
     "base": 63.58,
-    "last": 64.44,
+    "last": 64.46,
     "base_date": "2026-08-19",
     "last_date": "2026-08-20"
    }
@@ -260,9 +276,9 @@
    "reason": "FDA pick Heidi Overton seen as key to marijuana rescheduling; bullish for cannabis operators like Trulieve",
    "price_since": {
     "ticker": "TCMD",
-    "pct": -1.5,
+    "pct": -2.4,
     "base": 23.6,
-    "last": 23.24,
+    "last": 23.03,
     "base_date": "2026-08-19",
     "last_date": "2026-08-20"
    }
@@ -284,9 +300,9 @@
    "reason": "Trump pushes crypto clarity legislation; bullish for crypto exchange operators and ecosystem",
    "price_since": {
     "ticker": "COIN",
-    "pct": 8.3,
+    "pct": 7.2,
     "base": 160.2,
-    "last": 173.52,
+    "last": 171.73,
     "base_date": "2026-08-19",
     "last_date": "2026-08-20"
    }
@@ -308,9 +324,9 @@
    "reason": "Trump's Moderna stock gains are market-neutral reporting; no directional signal implied",
    "price_since": {
     "ticker": "MRNA",
-    "pct": -17.8,
+    "pct": -20.4,
     "base": 174.38,
-    "last": 143.37,
+    "last": 138.79,
     "base_date": "2026-08-19",
     "last_date": "2026-08-20"
    }
@@ -332,9 +348,9 @@
    "reason": "Trump has Moderna stock holdings; stock gains are his personal gain, not a market call",
    "price_since": {
     "ticker": "MRNA",
-    "pct": -17.8,
+    "pct": -20.4,
     "base": 174.38,
-    "last": 143.33,
+    "last": 138.79,
     "base_date": "2026-08-19",
     "last_date": "2026-08-20"
    }
@@ -358,7 +374,7 @@
     "ticker": "XLE",
     "pct": 1.4,
     "base": 63.58,
-    "last": 64.44,
+    "last": 64.46,
     "base_date": "2026-08-19",
     "last_date": "2026-08-20"
    }
@@ -380,9 +396,9 @@
    "reason": "FDA pick could affect healthcare/pharma sector; direction unclear without nominee details",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.3,
+    "pct": -0.4,
     "base": 769.06,
-    "last": 766.41,
+    "last": 765.87,
     "base_date": "2026-08-19",
     "last_date": "2026-08-20"
    }
@@ -404,9 +420,9 @@
    "reason": "Securities trading disclosure suggests potential insider activity; ambiguous directional signal",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.3,
+    "pct": -0.4,
     "base": 769.06,
-    "last": 766.42,
+    "last": 765.87,
     "base_date": "2026-08-19",
     "last_date": "2026-08-20"
    }
@@ -431,7 +447,7 @@
     "ticker": "XLE",
     "pct": 1.4,
     "base": 63.58,
-    "last": 64.44,
+    "last": 64.46,
     "base_date": "2026-08-19",
     "last_date": "2026-08-20"
    }
@@ -453,9 +469,9 @@
    "reason": "Trump administration awards $1B federal grant to IBM for quantum foundry; direct bullish catalyst for named public company",
    "price_since": {
     "ticker": "IBM",
-    "pct": 1.8,
+    "pct": 2.0,
     "base": 232.67,
-    "last": 236.91,
+    "last": 237.24,
     "base_date": "2026-08-18",
     "last_date": "2026-08-20"
    }
@@ -477,9 +493,9 @@
    "reason": "Analyst price target hikes signal positive sentiment on stock",
    "price_since": {
     "ticker": "PRAX",
-    "pct": 1.9,
+    "pct": -0.8,
     "base": 369.84,
-    "last": 377.0,
+    "last": 366.96,
     "base_date": "2026-08-18",
     "last_date": "2026-08-20"
    }
@@ -501,9 +517,9 @@
    "reason": "Analyst price target hikes on stock; analyst-driven rally not directly Trump-attributed",
    "price_since": {
     "ticker": "PRAX",
-    "pct": 1.9,
+    "pct": -0.8,
     "base": 369.84,
-    "last": 377.0,
+    "last": 366.96,
     "base_date": "2026-08-18",
     "last_date": "2026-08-20"
    }
@@ -525,9 +541,9 @@
    "reason": "Historical retrospective on stock performance; no current catalyst",
    "price_since": {
     "ticker": "FUN",
-    "pct": 7.7,
+    "pct": 7.6,
     "base": 15.75,
-    "last": 16.96,
+    "last": 16.94,
     "base_date": "2026-08-18",
     "last_date": "2026-08-20"
    }
@@ -549,9 +565,9 @@
    "reason": "Former Trump adviser praise for Meta's AI program is soft positive signal but lacks specificity or directness",
    "price_since": {
     "ticker": "META",
-    "pct": -0.0,
+    "pct": -0.2,
     "base": 543.67,
-    "last": 543.52,
+    "last": 542.64,
     "base_date": "2026-08-18",
     "last_date": "2026-08-20"
    }
@@ -573,9 +589,9 @@
    "reason": "Trump adviser praise for Meta's AI Workforce Academy; indirect positive sentiment on Meta business",
    "price_since": {
     "ticker": "META",
-    "pct": -0.0,
+    "pct": -0.2,
     "base": 543.67,
-    "last": 543.52,
+    "last": 542.64,
     "base_date": "2026-08-18",
     "last_date": "2026-08-20"
    }
@@ -597,9 +613,9 @@
    "reason": "CEO calls shares undervalued and rules out dilution, positive signal for stock value",
    "price_since": {
     "ticker": "CAR",
-    "pct": 2.9,
+    "pct": 3.0,
     "base": 137.62,
-    "last": 141.6,
+    "last": 141.8,
     "base_date": "2026-08-18",
     "last_date": "2026-08-20"
    }
@@ -2536,22 +2552,6 @@
    "primary_ticker": "RDDT",
    "strength": 65,
    "reason": "S&P 500 inclusion typically bullish for the stock; index inclusion drives inflows"
-  },
-  {
-   "date": "2026-08-14T11:33:50Z",
-   "platform": "News",
-   "text": "White House Slaps Tariffs On Imported Drones\u2014Shares Of Trump Jr.-Linked Drone Maker Soar - Forbes \u2014 White House Slaps Tariffs On Imported Drones\u2014Shares Of Trump Jr.-Linked Drone Maker Soar\u00a0\u00a0Forbes",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOS2VfTlBxMkdseHlsZ0lOdElVbGRoNVpCYUltMmNpUDd2Mkl6akFDdHowSTJpdzBpcVRPcnBqQUxfWG1zRmxiRGx4MkxZVGZrX09YaWtNUy13VHd3V202dDVUcnFmcFJraUdLeUc4ZzhFcWpVbElDeHhJU24xdGI5X3ZmQkJ3MEdaaUtYLXFMM0I5RktfUmlqTlFJX0xMcURnSmhOWWduRnRFVXNYdTF0am9BZWtnNTUtS0I2TnFFRTA2RGxrX3RqeDdNSE1xNHhTY2c0VmVRclM?oc=5",
-   "tickers": [
-    "XLE"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "XLE",
-   "strength": 72,
-   "reason": "Drone tariffs protect domestic maker; energy/defense beneficiary, bullish for sector"
   },
   {
    "curated": true,
