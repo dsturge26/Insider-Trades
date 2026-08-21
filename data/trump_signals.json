@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-21T19:32:04Z",
+ "last_updated": "2026-08-21T19:57:14Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -245,9 +245,9 @@
    "reason": "Multiple stocks at 52-week highs; no explicit Trump driver stated",
    "price_since": {
     "ticker": "C",
-    "pct": 1.4,
+    "pct": 1.3,
     "base": 129.67,
-    "last": 131.52,
+    "last": 131.32,
     "base_date": "2026-08-20",
     "last_date": "2026-08-21"
    }
@@ -269,9 +269,9 @@
    "reason": "Micron earnings catalyst unrelated to Trump; retail sentiment mention but no Trump signal",
    "price_since": {
     "ticker": "MU",
-    "pct": -0.7,
+    "pct": -0.8,
     "base": 974.33,
-    "last": 967.67,
+    "last": 966.97,
     "base_date": "2026-08-20",
     "last_date": "2026-08-21"
    }
@@ -293,9 +293,9 @@
    "reason": "Trump presses Congress on CLARITY Act as Bitcoin tops $70K; explicit crypto regulatory push aligns with bullish price move",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": 5.8,
+    "pct": 5.5,
     "base": 73032.76,
-    "last": 77249.73,
+    "last": 77077.99,
     "base_date": "2026-08-20",
     "last_date": "2026-08-21"
    }
@@ -333,9 +333,9 @@
    "reason": "Trump Arctic/Greenland rare-earth push; uranium and mining stocks rally on policy direction",
    "price_since": {
     "ticker": "UUUU",
-    "pct": 9.1,
+    "pct": 9.0,
     "base": 13.9,
-    "last": 15.16,
+    "last": 15.15,
     "base_date": "2026-08-20",
     "last_date": "2026-08-21"
    }
@@ -357,9 +357,9 @@
    "reason": "CEO calls shares undervalued; momentum signal unrelated to Trump but market-relevant.",
    "price_since": {
     "ticker": "CAR",
-    "pct": 1.5,
+    "pct": 1.4,
     "base": 143.98,
-    "last": 146.09,
+    "last": 146.06,
     "base_date": "2026-08-20",
     "last_date": "2026-08-21"
    }
@@ -397,9 +397,9 @@
    "reason": "Praise for Meta's AI Workforce Academy from Trump-linked figure signals positive sentiment on tech/AI initiatives.",
    "price_since": {
     "ticker": "META",
-    "pct": 0.9,
+    "pct": 0.8,
     "base": 545.83,
-    "last": 550.7,
+    "last": 550.41,
     "base_date": "2026-08-20",
     "last_date": "2026-08-21"
    }
@@ -423,7 +423,7 @@
     "ticker": "QQQ",
     "pct": 0.4,
     "base": 710.93,
-    "last": 713.72,
+    "last": 713.44,
     "base_date": "2026-08-20",
     "last_date": "2026-08-21"
    }
@@ -445,9 +445,9 @@
    "reason": "F-35 fighter jet sales potential to Turkey and sanctions lift imply defense contractor bullish sentiment.",
    "price_since": {
     "ticker": "XAR",
-    "pct": 0.8,
+    "pct": 0.5,
     "base": 271.78,
-    "last": 273.83,
+    "last": 273.03,
     "base_date": "2026-08-20",
     "last_date": "2026-08-21"
    }
@@ -469,9 +469,9 @@
    "reason": "Data center lease catalyzes stock jump; Trump context unclear but market-relevant.",
    "price_since": {
     "ticker": "KEEL",
-    "pct": -2.4,
+    "pct": -1.8,
     "base": 3.37,
-    "last": 3.29,
+    "last": 3.31,
     "base_date": "2026-08-20",
     "last_date": "2026-08-21"
    }
@@ -493,9 +493,9 @@
    "reason": "$100M federal grant for lithium-ion batteries supports clean energy/industrial sector; bullish for battery and EV supply chain",
    "price_since": {
     "ticker": "XLI",
-    "pct": 0.4,
+    "pct": 0.3,
     "base": 179.77,
-    "last": 180.53,
+    "last": 180.35,
     "base_date": "2026-08-20",
     "last_date": "2026-08-21"
    }
@@ -517,9 +517,9 @@
    "reason": "Stock rallies sharply; no Trump catalyst named but market-positive momentum.",
    "price_since": {
     "ticker": "CADL",
-    "pct": 4.5,
+    "pct": 6.4,
     "base": 12.35,
-    "last": 12.91,
+    "last": 13.14,
     "base_date": "2026-08-20",
     "last_date": "2026-08-21"
    }
@@ -557,9 +557,9 @@
    "reason": "Elon Musk Starship reuse progress; SpaceX/Tesla space venture; direction ambiguous near-term.",
    "price_since": {
     "ticker": "TSLA",
-    "pct": 5.7,
+    "pct": 5.2,
     "base": 345.13,
-    "last": 364.89,
+    "last": 363.14,
     "base_date": "2026-08-20",
     "last_date": "2026-08-21"
    }
@@ -581,9 +581,9 @@
    "reason": "Trump crypto push & dollar weakness lift crypto stocks broadly",
    "price_since": {
     "ticker": "COIN",
-    "pct": 7.4,
+    "pct": 8.4,
     "base": 172.35,
-    "last": 185.03,
+    "last": 186.84,
     "base_date": "2026-08-20",
     "last_date": "2026-08-21"
    }
@@ -2684,22 +2684,6 @@
    "reason": "150% surge noted but driver/catalyst unclear from headline alone"
   },
   {
-   "date": "2026-08-15T04:35:06Z",
-   "platform": "News",
-   "text": "NOW Stock Rises Overnight: Trump\u2019s ServiceNow Stake Fuels Retail Buzz Around SAAS Comeback - stocktwits.com \u2014 NOW Stock Rises Overnight: Trump\u2019s ServiceNow Stake Fuels Retail Buzz Around SAAS Comeback\u00a0\u00a0stocktwits.com",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQcEF0OFRRa3hIWF9rS21NMTBqNk53MDA4eWFQcDJad1Z2QkQyTTdmd3prLUVaVUUwdVRSWWpCOGs3N3JaYTZCcG1KMjg1c1Q0WWdjSnlWbHkteXVxcnFoUXFZMEg4ejh0YjA4ZG5BRnBEX1huMFNaS0dXdEx4LWNEOXBLcmNpMzlCQzc1OC0yRDFKeWFMWEZzWUpNQXBWTFFDQlJ6dmFWamU5cUpFZnVfcU1ocFdTa0tfdjByTlZZUHo4QUx1QzJOMHpzZEdaZjdqSVhoWFB0cVRKZW9BbnNLMi1XYUF2MlhaZGc?oc=5",
-   "tickers": [
-    "NOW"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "NOW",
-   "strength": 65,
-   "reason": "Trump stake in ServiceNow reported; implies confidence in the company"
-  },
-  {
    "curated": true,
    "classified": true,
    "is_market": true,
@@ -2752,23 +2736,6 @@
    "reason": "Trump's majority-owned stock debuts \u2014 pure sentiment play, extremely volatile and headline-driven.",
    "market_reaction": "DJT spiked on debut then stayed volatile, moving heavily on Trump political/legal news.",
    "url": "https://www.nasdaq.com/market-activity/stocks/djt"
-  },
-  {
-   "date": "2021-07-01T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "HARRIS CORPORATION was awarded a $2.1B federal contract from Department of Transportation.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_693KA821F00222_6920_DTFA0102D03006_6920",
-   "tickers": [
-    "HRI"
-   ],
-   "contract_amount": 2.14,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "HRI",
-   "strength": 75,
-   "reason": "Harris Corporation awarded $2.1B federal Department of Transportation contract; direct bullish catalyst."
   }
  ],
  "how_to_read": "Each card is Claude's read of a public Trump post: the affected ticker, whether it implies BUY / SELL / WATCH, a 0\u2013100 strength (how explicit/emphatic the post is \u2014 NOT a profit predictor), and why. A 2-year backtest found these don't beat buy-and-hold, so this is for awareness, not trading. Not financial advice."
