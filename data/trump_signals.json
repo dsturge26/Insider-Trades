@@ -1,7 +1,24 @@
 {
- "last_updated": "2026-08-21T10:50:16Z",
+ "last_updated": "2026-08-21T11:25:38Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-08-21T10:52:55.535Z",
+   "platform": "Truth Social",
+   "text": "Today, I concluded a deal to substantially lower the price of ground beef for working American families. As everyone knows, under President Biden, beef prices soared at their fastest rate and the American beef herd fell to its smallest size in modern history.  As we work to rebuild this herd and help our ranchers, for the next 90 days, the United States will allow up to 300,000 metric tons of product for ground beef to be imported with no out of quota tariff.  We have a commitment that this beef will be sold at 25 percent below current market prices. This deal will reduce prices for Americans while giving space for our Great American Beef Herd to grow again. Thank you for your attention to this matter! President DONALD J. TRUMP",
+   "tickers": [
+    "XLE"
+   ],
+   "engagement": 1148,
+   "url": "https://truthsocial.com/@realDonaldTrump/117133120342300539",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "XLE",
+   "strength": 45,
+   "reason": "Beef import deal and tariff pause bearish for domestic livestock/agriculture prices"
+  },
   {
    "date": "2026-08-21T03:01:25Z",
    "platform": "News",
@@ -2512,38 +2529,6 @@
    "primary_ticker": "INTC",
    "strength": 75,
    "reason": "Trump confirms Apple-Intel chip manufacturing deal; explicit deal catalyst for Intel"
-  },
-  {
-   "date": "2026-08-15T01:54:18Z",
-   "platform": "News",
-   "text": "Intel Stock Rips Nearly 6% Overnight After Trump Confirms Apple Chip Manufacturing Deal - stocktwits.com \u2014 Intel Stock Rips Nearly 6% Overnight After Trump Confirms Apple Chip Manufacturing Deal\u00a0\u00a0stocktwits.com",
-   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPeVc1bmhubW1ud3BrVThmeW1EX2hTT3J6WnNaTnp5VDhmVUhCU19XUm9mUFhsNXpjRThjdS1BOFpjTHJ4ekwtQlhvQzlFbWJnVEloRHlGRzZueGpYN2RBbFQzNXRCWFhJemd6bFJzdXZGS09ram1nOEs1V2paaHNYWWZMOFJOSUNNbEt1bzRDRHFCNm5kTE5MWWRkQ255Uk1VODlzeW11RFFIQjlJVFdveVdtRkcwWTl0VnVaM1RVb0ZOX2ZLSmtVSlFoX1RBdVhqQzBjVDQ0eXFGRVhsbVFqSTl3M0Y?oc=5",
-   "tickers": [
-    "INTC"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "INTC",
-   "strength": 75,
-   "reason": "Trump confirms Apple chip manufacturing deal with Intel; direct bullish catalyst"
-  },
-  {
-   "date": "2026-08-15T01:48:18Z",
-   "platform": "News",
-   "text": "DG Stock Wades Through Cautious Wall Street Ahead Of Q1 Earnings As 'K-Shaped' Economy Risks Loom - stocktwits.com \u2014 DG Stock Wades Through Cautious Wall Street Ahead Of Q1 Earnings As 'K-Shaped' Economy Risks Loom\u00a0\u00a0stocktwits.com",
-   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQaFpfTmo0R2NXVTF6V0xZcHI1cENMS3FqNXF2NVJycjc4M3BBOEhIcW1yMkRwbzJaalFhVXFZUFFFT0xIZHotaXZGbk5aaFc5T2tLaWZDQVR2QmVfaHV5TDFQRzI3V0g5cFYzVDRHM3VTVXkxZEZocTkwaEIwUXU4THZpUTJQTmRkeEhIQU85QTlpQmhkQjFpaFdPbVphSjlGZmlaUnh4OXdWeTlsckoxUzJQdkJTRE5wS2NaN2tXYml6VDhJZ2ZqbkpaUVlyOENTVGg2V1dTbTFMTDJrYjhfdElnNVN3eTMxTmxCaHpGQUM?oc=5",
-   "tickers": [
-    "DG"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "DG",
-   "strength": 25,
-   "reason": "Earnings-driven uncertainty amid macro headwinds; no Trump catalyst, general market noise."
   },
   {
    "curated": true,
