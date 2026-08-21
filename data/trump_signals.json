@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-21T06:45:19Z",
+ "last_updated": "2026-08-21T07:30:28Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -99,6 +99,22 @@
    "reason": "Elon Musk Starship reuse progress; SpaceX/Tesla space venture; direction ambiguous near-term."
   },
   {
+   "date": "2026-08-20T14:32:27Z",
+   "platform": "News",
+   "text": "Crypto Stocks Set to Extend Gains on Trump Push, Dollar Slump - Bloomberg.com \u2014 Crypto Stocks Set to Extend Gains on Trump Push, Dollar Slump\u00a0\u00a0Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQLU1pNndWM3BuTlRUbDFDMzdzenNyM0RNbUx6M28wZzNBOGNEQ0otaTc0THVEb2hhUkVJWEJnQUx1OG92bmRYc04wSFhwMU01bFhMNTRiNlk1ZkhJZXRXY24zci1IYTJ6TFdabXpmdkgwb3Y2YlN0N3JmSlZBSU4tSFhuZlVUTU9GRk5MVXZrNGt5N0Q3d1BOQ3lfMzJlekFBUnVJQ2g0N1N4RFhOcmRaQg?oc=5",
+   "tickers": [
+    "COIN"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "COIN",
+   "strength": 65,
+   "reason": "Trump crypto push & dollar weakness lift crypto stocks broadly"
+  },
+  {
    "date": "2026-08-20T14:16:00Z",
    "platform": "News",
    "text": "Every Trump-Endorsed Crypto is Down 60%. Will Hyperliquid be Different? - BeInCrypto \u2014 Every Trump-Endorsed Crypto is Down 60%. Will Hyperliquid be Different?\u00a0\u00a0BeInCrypto",
@@ -161,22 +177,6 @@
    "primary_ticker": "RKLB",
    "strength": 50,
    "reason": "Trump hidden space stock bets disclosed; bullish signal for space stocks ASTS and RKLB"
-  },
-  {
-   "date": "2026-08-20T12:50:37Z",
-   "platform": "News",
-   "text": "Crypto Stocks Set to Extend Gains on Trump Push, Dollar Slump - Bloomberg.com \u2014 Crypto Stocks Set to Extend Gains on Trump Push, Dollar Slump\u00a0\u00a0Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQLU1pNndWM3BuTlRUbDFDMzdzenNyM0RNbUx6M28wZzNBOGNEQ0otaTc0THVEb2hhUkVJWEJnQUx1OG92bmRYc04wSFhwMU01bFhMNTRiNlk1ZkhJZXRXY24zci1IYTJ6TFdabXpmdkgwb3Y2YlN0N3JmSlZBSU4tSFhuZlVUTU9GRk5MVXZrNGt5N0Q3d1BOQ3lfMzJlekFBUnVJQ2g0N1N4RFhOcmRaQg?oc=5",
-   "tickers": [
-    "COIN"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "COIN",
-   "strength": 60,
-   "reason": "Trump administration crypto-friendly push drives crypto stocks higher; dollar weakness amplifies"
   },
   {
    "date": "2026-08-20T12:50:37Z",
@@ -352,7 +352,15 @@
    "direction": "BUY",
    "primary_ticker": "BTC-USD",
    "strength": 50,
-   "reason": "Eric Trump bullish on Bitcoin; family-endorsed crypto sentiment"
+   "reason": "Eric Trump bullish on Bitcoin; family-endorsed crypto sentiment",
+   "price_since": {
+    "ticker": "BTC-USD",
+    "pct": 4.6,
+    "base": 73032.76,
+    "last": 76384.5,
+    "base_date": "2026-08-20",
+    "last_date": "2026-08-21"
+   }
   },
   {
    "date": "2026-08-19T22:59:02.219Z",
