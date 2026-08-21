@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-21T11:53:10Z",
+ "last_updated": "2026-08-21T12:46:32Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -82,6 +82,22 @@
    "primary_ticker": "IBRX",
    "strength": 25,
    "reason": "Stock rallies ahead of SOTU; direction ambiguous"
+  },
+  {
+   "date": "2026-08-20T23:42:38Z",
+   "platform": "News",
+   "text": "Why Did ROKU, SNDK, C Stocks Hit 52-Week Highs Last Week? - Stocktwits \u2014 Why Did ROKU, SNDK, C Stocks Hit 52-Week Highs Last Week?\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOelVibHQyMlJiUG1UaTB0RUc1WU43VHpjNjY0RUFMYUVCdkc5aXdXcDU0RXdpeFFKcXVUN1NXejZOQ1QxN0pBQkdKbnNvcklETHJabEN2ZUR0N29yUkozMWZDY2hBaU91TjQyd0VUV29PYXNWWHBHczhTeXBIb3lfOUllYXNpc1BPR2lIMW9kTmpIVUwwYUdrSnRQck9hMEtFT0o5a1FxdEt3VFhGeEdkOThCWU93Mmljdnc?oc=5",
+   "tickers": [
+    "C"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "C",
+   "strength": 30,
+   "reason": "Multiple stocks at 52-week highs; no explicit Trump driver stated"
   },
   {
    "date": "2026-08-20T23:24:07Z",
@@ -2529,22 +2545,6 @@
    "primary_ticker": "SPY",
    "strength": 70,
    "reason": "Trump's Iran warning causes market whipsaw; geopolitical bearish signal"
-  },
-  {
-   "date": "2026-08-15T01:54:18Z",
-   "platform": "News",
-   "text": "Intel Stock Rips Nearly 6% Overnight After Trump Confirms Apple Chip Manufacturing Deal - Stocktwits \u2014 Intel Stock Rips Nearly 6% Overnight After Trump Confirms Apple Chip Manufacturing Deal\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPeVc1bmhubW1ud3BrVThmeW1EX2hTT3J6WnNaTnp5VDhmVUhCU19XUm9mUFhsNXpjRThjdS1BOFpjTHJ4ekwtQlhvQzlFbWJnVEloRHlGRzZueGpYN2RBbFQzNXRCWFhJemd6bFJzdXZGS09ram1nOEs1V2paaHNYWWZMOFJOSUNNbEt1bzRDRHFCNm5kTE5MWWRkQ255Uk1VODlzeW11RFFIQjlJVFdveVdtRkcwWTl0VnVaM1RVb0ZOX2ZLSmtVSlFoX1RBdVhqQzBjVDQ0eXFGRVhsbVFqSTl3M0Y?oc=5",
-   "tickers": [
-    "INTC"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "INTC",
-   "strength": 75,
-   "reason": "Trump confirms Apple-Intel chip manufacturing deal; explicit deal catalyst for Intel"
   },
   {
    "curated": true,
