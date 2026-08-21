@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-21T19:00:29Z",
+ "last_updated": "2026-08-21T19:32:04Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -197,6 +197,22 @@
    "reason": "IBM CEO letter drove 25% stock surge; bullish momentum signal"
   },
   {
+   "date": "2026-08-21T00:46:00Z",
+   "platform": "News",
+   "text": "MAGA-aligned marketplace burns $160 million in humiliating flame-out - Alternet \u2014 MAGA-aligned marketplace burns $160 million in humiliating flame-out\u00a0\u00a0Alternet",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8xZDhzOWc2RDVDeHc3UGItZVM0cERiTTRfV09PelhLVmNzV2hBTUhJUkF3dmNhUklfM2hFZWVFb1lNREtsNnlFYTNVTlJFbUdnc0RDcWlNcWlXeU9XZWFTNA?oc=5",
+   "tickers": [
+    "AMZN"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "AMZN",
+   "strength": 40,
+   "reason": "MAGA-aligned marketplace failure and Trump Jr. involvement suggests reputational/competitive risk to Amazon via association"
+  },
+  {
    "date": "2026-08-21T00:15:12Z",
    "platform": "News",
    "text": "IBRX Stock Rallies Into Trump\u2019s Big SOTU Night \u2014 Here\u2019s What Traders Think Could Fuel The Next Move - Stocktwits \u2014 IBRX Stock Rallies Into Trump\u2019s Big SOTU Night \u2014 Here\u2019s What Traders Think Could Fuel The Next Move\u00a0\u00a0Stocktwits",
@@ -229,9 +245,9 @@
    "reason": "Multiple stocks at 52-week highs; no explicit Trump driver stated",
    "price_since": {
     "ticker": "C",
-    "pct": 1.5,
+    "pct": 1.4,
     "base": 129.67,
-    "last": 131.59,
+    "last": 131.52,
     "base_date": "2026-08-20",
     "last_date": "2026-08-21"
    }
@@ -253,9 +269,33 @@
    "reason": "Micron earnings catalyst unrelated to Trump; retail sentiment mention but no Trump signal",
    "price_since": {
     "ticker": "MU",
-    "pct": -0.6,
+    "pct": -0.7,
     "base": 974.33,
-    "last": 968.95,
+    "last": 967.67,
+    "base_date": "2026-08-20",
+    "last_date": "2026-08-21"
+   }
+  },
+  {
+   "date": "2026-08-20T22:34:12Z",
+   "platform": "News",
+   "text": "Trump Presses Congress on CLARITY Act as Bitcoin Tops $70K - CoinMarketCap \u2014 Trump Presses Congress on CLARITY Act as Bitcoin Tops $70K\u00a0\u00a0CoinMarketCap",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYVZaRHZnTlVtallBYi1WU0lTZWt3MzhuclJTMTEzaGlEc3ZSM0pqV1UycjZ5NlZVTzQ0LVQ2TlJwNE1ZbUx6UHU5SXRBVUxfOGVweU9ZRkN1bFhsUXdCVjdsaHVtTlZteVlMdElvLU1WYWRCUTRpeXpDM1JISU1PNkQ4bFRkQXNZYjVJdFB2clBXMWZONlVOMQ?oc=5",
+   "tickers": [
+    "BTC-USD"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "BTC-USD",
+   "strength": 70,
+   "reason": "Trump presses Congress on CLARITY Act as Bitcoin tops $70K; explicit crypto regulatory push aligns with bullish price move",
+   "price_since": {
+    "ticker": "BTC-USD",
+    "pct": 5.8,
+    "base": 73032.76,
+    "last": 77249.73,
     "base_date": "2026-08-20",
     "last_date": "2026-08-21"
    }
@@ -293,9 +333,9 @@
    "reason": "Trump Arctic/Greenland rare-earth push; uranium and mining stocks rally on policy direction",
    "price_since": {
     "ticker": "UUUU",
-    "pct": 9.9,
+    "pct": 9.1,
     "base": 13.9,
-    "last": 15.27,
+    "last": 15.16,
     "base_date": "2026-08-20",
     "last_date": "2026-08-21"
    }
@@ -317,9 +357,9 @@
    "reason": "CEO calls shares undervalued; momentum signal unrelated to Trump but market-relevant.",
    "price_since": {
     "ticker": "CAR",
-    "pct": 2.3,
+    "pct": 1.5,
     "base": 143.98,
-    "last": 147.27,
+    "last": 146.09,
     "base_date": "2026-08-20",
     "last_date": "2026-08-21"
    }
@@ -357,9 +397,9 @@
    "reason": "Praise for Meta's AI Workforce Academy from Trump-linked figure signals positive sentiment on tech/AI initiatives.",
    "price_since": {
     "ticker": "META",
-    "pct": 1.0,
+    "pct": 0.9,
     "base": 545.83,
-    "last": 551.27,
+    "last": 550.7,
     "base_date": "2026-08-20",
     "last_date": "2026-08-21"
    }
@@ -383,7 +423,7 @@
     "ticker": "QQQ",
     "pct": 0.4,
     "base": 710.93,
-    "last": 713.61,
+    "last": 713.72,
     "base_date": "2026-08-20",
     "last_date": "2026-08-21"
    }
@@ -405,9 +445,9 @@
    "reason": "F-35 fighter jet sales potential to Turkey and sanctions lift imply defense contractor bullish sentiment.",
    "price_since": {
     "ticker": "XAR",
-    "pct": 0.7,
+    "pct": 0.8,
     "base": 271.78,
-    "last": 273.8,
+    "last": 273.83,
     "base_date": "2026-08-20",
     "last_date": "2026-08-21"
    }
@@ -453,9 +493,9 @@
    "reason": "$100M federal grant for lithium-ion batteries supports clean energy/industrial sector; bullish for battery and EV supply chain",
    "price_since": {
     "ticker": "XLI",
-    "pct": 0.5,
+    "pct": 0.4,
     "base": 179.77,
-    "last": 180.65,
+    "last": 180.53,
     "base_date": "2026-08-20",
     "last_date": "2026-08-21"
    }
@@ -477,9 +517,9 @@
    "reason": "Stock rallies sharply; no Trump catalyst named but market-positive momentum.",
    "price_since": {
     "ticker": "CADL",
-    "pct": 3.9,
+    "pct": 4.5,
     "base": 12.35,
-    "last": 12.83,
+    "last": 12.91,
     "base_date": "2026-08-20",
     "last_date": "2026-08-21"
    }
@@ -517,9 +557,9 @@
    "reason": "Elon Musk Starship reuse progress; SpaceX/Tesla space venture; direction ambiguous near-term.",
    "price_since": {
     "ticker": "TSLA",
-    "pct": 5.6,
+    "pct": 5.7,
     "base": 345.13,
-    "last": 364.54,
+    "last": 364.89,
     "base_date": "2026-08-20",
     "last_date": "2026-08-21"
    }
@@ -541,9 +581,9 @@
    "reason": "Trump crypto push & dollar weakness lift crypto stocks broadly",
    "price_since": {
     "ticker": "COIN",
-    "pct": 8.2,
+    "pct": 7.4,
     "base": 172.35,
-    "last": 186.41,
+    "last": 185.03,
     "base_date": "2026-08-20",
     "last_date": "2026-08-21"
    }
