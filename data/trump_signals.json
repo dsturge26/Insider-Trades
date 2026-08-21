@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-21T13:44:28Z",
+ "last_updated": "2026-08-21T14:19:54Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -100,9 +100,9 @@
    "reason": "Multiple stocks at 52-week highs; no explicit Trump driver stated",
    "price_since": {
     "ticker": "C",
-    "pct": 1.3,
+    "pct": 1.2,
     "base": 129.67,
-    "last": 131.41,
+    "last": 131.28,
     "base_date": "2026-08-20",
     "last_date": "2026-08-21"
    }
@@ -124,9 +124,9 @@
    "reason": "Micron earnings catalyst unrelated to Trump; retail sentiment mention but no Trump signal",
    "price_since": {
     "ticker": "MU",
-    "pct": 0.5,
+    "pct": -1.4,
     "base": 974.33,
-    "last": 978.92,
+    "last": 960.42,
     "base_date": "2026-08-20",
     "last_date": "2026-08-21"
    }
@@ -148,9 +148,33 @@
    "reason": "Trump Arctic/Greenland rare-earth push; uranium and mining stocks rally on policy direction",
    "price_since": {
     "ticker": "UUUU",
-    "pct": 9.2,
+    "pct": 6.3,
     "base": 13.9,
-    "last": 15.18,
+    "last": 14.77,
+    "base_date": "2026-08-20",
+    "last_date": "2026-08-21"
+   }
+  },
+  {
+   "date": "2026-08-20T19:05:41Z",
+   "platform": "News",
+   "text": "CAR Stock Rises Premarket: CEO Calls Shares \u2018Undervalued\u2019 And Rules Out Issuing Stock At Current Levels - Stocktwits \u2014 CAR Stock Rises Premarket: CEO Calls Shares \u2018Undervalued\u2019 And Rules Out Issuing Stock At Current Levels\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOb0ViZF9JTXBKczhJbnM3czIyQ3dxdFNNN3JWd1BWaFRfTkIzeXFFQlhYU25JXy1yRzVPSlVaSUdvZGtHT0hsdUFpUm9oSGFZU2Rma2NpS0dsQXZMUGN3eEpqUTBrX0JSb0lDb0NfaWRsX2RSWExlcjlnSUQ2a0R6TkxIYlB2M0dLMXo3UkUxYzZ1YUJMdk5VLWZwRlA0RkFUcVFRMTBneGk3ZDBMeGJsbUVReFByRG9ROFE?oc=5",
+   "tickers": [
+    "CAR"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "CAR",
+   "strength": 40,
+   "reason": "CEO calls shares undervalued; momentum signal unrelated to Trump but market-relevant.",
+   "price_since": {
+    "ticker": "CAR",
+    "pct": 1.2,
+    "base": 143.98,
+    "last": 145.75,
     "base_date": "2026-08-20",
     "last_date": "2026-08-21"
    }
@@ -188,9 +212,9 @@
    "reason": "Treasury secretary's bond-market strategy; macro but direction unclear",
    "price_since": {
     "ticker": "QQQ",
-    "pct": 0.1,
+    "pct": -0.2,
     "base": 710.93,
-    "last": 711.59,
+    "last": 709.44,
     "base_date": "2026-08-20",
     "last_date": "2026-08-21"
    }
@@ -212,9 +236,9 @@
    "reason": "Data center lease catalyzes stock jump; Trump context unclear but market-relevant.",
    "price_since": {
     "ticker": "KEEL",
-    "pct": 11.9,
+    "pct": 1.2,
     "base": 3.37,
-    "last": 3.77,
+    "last": 3.41,
     "base_date": "2026-08-20",
     "last_date": "2026-08-21"
    }
@@ -236,9 +260,33 @@
    "reason": "$100M federal grant for lithium-ion batteries supports clean energy/industrial sector; bullish for battery and EV supply chain",
    "price_since": {
     "ticker": "XLI",
-    "pct": 0.5,
+    "pct": 0.2,
     "base": 179.77,
-    "last": 180.65,
+    "last": 180.08,
+    "base_date": "2026-08-20",
+    "last_date": "2026-08-21"
+   }
+  },
+  {
+   "date": "2026-08-20T15:38:12Z",
+   "platform": "News",
+   "text": "CADL Stock On Track For Best Day In Nearly 16 Months \u2014 What\u2019s Driving The Rally? - Stocktwits \u2014 CADL Stock On Track For Best Day In Nearly 16 Months \u2014 What\u2019s Driving The Rally?\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcUJyYUl3Q0dVbEZyZ19yZ2Jyd0U2UTBVU0I2czF4YXl1QklmTHBhWjR3WDdCZ3d0R29Wejl6cG5YVmdkRE5FanBNNXBRVkljbTVkbGdNRGFZakhxR2dfZ0pvSUVyeWtnenB5RnlGaEdqeG1CRTBpSFkwdVo3c0NxOU9pazZaRHRfRC1CZE1SMDNDaGFkZ2RPT2w2N3c5ZjFmM19UOUpiYWRvV193OEpfcnE1c1hfS253UjUyUjdCR3lNbExqUk8zbUktd1IyeHprVTVhYk1qUQ?oc=5",
+   "tickers": [
+    "CADL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "CADL",
+   "strength": 40,
+   "reason": "Stock rallies sharply; no Trump catalyst named but market-positive momentum.",
+   "price_since": {
+    "ticker": "CADL",
+    "pct": 4.7,
+    "base": 12.35,
+    "last": 12.93,
     "base_date": "2026-08-20",
     "last_date": "2026-08-21"
    }
@@ -276,9 +324,9 @@
    "reason": "Elon Musk Starship reuse progress; SpaceX/Tesla space venture; direction ambiguous near-term.",
    "price_since": {
     "ticker": "TSLA",
-    "pct": 1.4,
+    "pct": 3.7,
     "base": 345.13,
-    "last": 349.79,
+    "last": 357.97,
     "base_date": "2026-08-20",
     "last_date": "2026-08-21"
    }
@@ -300,9 +348,9 @@
    "reason": "Trump crypto push & dollar weakness lift crypto stocks broadly",
    "price_since": {
     "ticker": "COIN",
-    "pct": 9.0,
+    "pct": 8.2,
     "base": 172.35,
-    "last": 187.78,
+    "last": 186.56,
     "base_date": "2026-08-20",
     "last_date": "2026-08-21"
    }
@@ -340,9 +388,9 @@
    "reason": "Trump praise of prediction markets bullish for crypto trading platforms and speculation ecosystems",
    "price_since": {
     "ticker": "COIN",
-    "pct": 9.0,
+    "pct": 8.2,
     "base": 172.35,
-    "last": 187.78,
+    "last": 186.56,
     "base_date": "2026-08-20",
     "last_date": "2026-08-21"
    }
@@ -388,9 +436,9 @@
    "reason": "Trump hidden space stock bets disclosed; bullish signal for space stocks ASTS and RKLB",
    "price_since": {
     "ticker": "RKLB",
-    "pct": 2.0,
+    "pct": -1.5,
     "base": 72.95,
-    "last": 74.4,
+    "last": 71.89,
     "base_date": "2026-08-20",
     "last_date": "2026-08-21"
    }
@@ -412,9 +460,9 @@
    "reason": "Trump pro-crypto policy push lifts crypto sector",
    "price_since": {
     "ticker": "COIN",
-    "pct": 9.0,
+    "pct": 8.1,
     "base": 172.35,
-    "last": 187.78,
+    "last": 186.37,
     "base_date": "2026-08-20",
     "last_date": "2026-08-21"
    }
@@ -436,9 +484,9 @@
    "reason": "Trump push for crypto policy favorable to crypto stocks and exchanges",
    "price_since": {
     "ticker": "COIN",
-    "pct": 9.0,
+    "pct": 8.1,
     "base": 172.35,
-    "last": 187.78,
+    "last": 186.37,
     "base_date": "2026-08-20",
     "last_date": "2026-08-21"
    }
@@ -460,9 +508,9 @@
    "reason": "SERV rallies on Grubhub partnership and DoorDash deal expansion; concrete business catalyst",
    "price_since": {
     "ticker": "SERV",
-    "pct": 6.5,
+    "pct": 5.7,
     "base": 4.74,
-    "last": 5.05,
+    "last": 5.01,
     "base_date": "2026-08-20",
     "last_date": "2026-08-21"
    }
@@ -484,9 +532,9 @@
    "reason": "$1B federal grant for quantum foundry directly awarded to IBM",
    "price_since": {
     "ticker": "IBM",
-    "pct": 0.1,
+    "pct": 0.7,
     "base": 233.69,
-    "last": 233.94,
+    "last": 235.38,
     "base_date": "2026-08-20",
     "last_date": "2026-08-21"
    }
@@ -508,9 +556,9 @@
    "reason": "Walmart sales growth slows to 6-year low; retail weakness signal unrelated to Trump",
    "price_since": {
     "ticker": "WMT",
-    "pct": -0.5,
+    "pct": -1.0,
     "base": 103.84,
-    "last": 103.27,
+    "last": 102.76,
     "base_date": "2026-08-20",
     "last_date": "2026-08-21"
    }
@@ -1073,30 +1121,6 @@
     "pct": 0.1,
     "base": 543.67,
     "last": 544.09,
-    "base_date": "2026-08-18",
-    "last_date": "2026-08-20"
-   }
-  },
-  {
-   "date": "2026-08-18T21:53:41Z",
-   "platform": "News",
-   "text": "CAR Stock Rises Premarket: CEO Calls Shares \u2018Undervalued\u2019 And Rules Out Issuing Stock At Current Levels - Stocktwits \u2014 CAR Stock Rises Premarket: CEO Calls Shares \u2018Undervalued\u2019 And Rules Out Issuing Stock At Current Levels\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOb0ViZF9JTXBKczhJbnM3czIyQ3dxdFNNN3JWd1BWaFRfTkIzeXFFQlhYU25JXy1yRzVPSlVaSUdvZGtHT0hsdUFpUm9oSGFZU2Rma2NpS0dsQXZMUGN3eEpqUTBrX0JSb0lDb0NfaWRsX2RSWExlcjlnSUQ2a0R6TkxIYlB2M0dLMXo3UkUxYzZ1YUJMdk5VLWZwRlA0RkFUcVFRMTBneGk3ZDBMeGJsbUVReFByRG9ROFE?oc=5",
-   "tickers": [
-    "CAR"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "CAR",
-   "strength": 40,
-   "reason": "CEO calls shares undervalued and rules out dilution, positive signal for stock value",
-   "price_since": {
-    "ticker": "CAR",
-    "pct": 2.7,
-    "base": 137.62,
-    "last": 141.29,
     "base_date": "2026-08-18",
     "last_date": "2026-08-20"
    }
