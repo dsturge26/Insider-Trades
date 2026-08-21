@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-08-20T23:52:42Z",
+ "last_updated": "2026-08-21T01:16:37Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-08-20T18:48:15Z",
+   "platform": "News",
+   "text": "Hyperliquid Shares Extend Surge Past $10 as Trump Endorses U.S. Entry, Druckenmiller Reveals Stake - finance.biggo.com \u2014 Hyperliquid Shares Extend Surge Past $10 as Trump Endorses U.S. Entry, Druckenmiller Reveals Stake\u00a0\u00a0finance.biggo.com",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBNandoQXR5em9RZ3BIVGFxVFdLaEx3VEVEeVpVTk8tZ2kzclRBUU9wNkVvbHRlTU51SFVqLTc0cmJEZGF5dVh1aGVPSEd2UGMxSXh5NFpIa2NPS2dabkh4T0o5Z3k0MFZwMUtuQjFiLXc1b0pHNkE?oc=5",
+   "tickers": [
+    "HYPE"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "HYPE",
+   "strength": 85,
+   "reason": "Trump explicitly endorses Hyperliquid U.S. entry; crypto asset rallies on endorsement."
+  },
   {
    "date": "2026-08-20T16:14:05Z",
    "platform": "News",
@@ -33,6 +49,22 @@
    "primary_ticker": "HYPE",
    "strength": 70,
    "reason": "Trump vows to bring Hyperliquid to US; crypto asset rallies 22% on policy support"
+  },
+  {
+   "date": "2026-08-20T14:39:24Z",
+   "platform": "News",
+   "text": "Elon Musk Says Starship Reuse Is Near After Years of Delays: What Do Prediction Markets Say? - Benzinga \u2014 Elon Musk Says Starship Reuse Is Near After Years of Delays: What Do Prediction Markets Say?\u00a0\u00a0Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOY3poVTVyVlNDS3ZzX2s4bnllUUxzOGp5MlB1TkVTZ2FNVVB4LUNLei1kb3pHX2E0UWxDS2trQ2hsQWczWExSU2lkLXRLQU1fVnlCMG5CY09zS1lQRkx6S1NDU3JNbERwcFpqOHoyRnh4NGQxQTFRQlR1clloemxMYlhDZ2FiSE92TXF5RGpXRGEzcE91QXJ4QW5GaEtXNno3?oc=5",
+   "tickers": [
+    "TSLA"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "TSLA",
+   "strength": 50,
+   "reason": "Elon Musk Starship reuse progress; SpaceX/Tesla space venture; direction ambiguous near-term."
   },
   {
    "date": "2026-08-20T14:16:00Z",
