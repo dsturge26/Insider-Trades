@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-21T18:15:18Z",
+ "last_updated": "2026-08-21T19:00:29Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -83,6 +83,22 @@
    "primary_ticker": "SPY",
    "strength": 35,
    "reason": "Opportunity zones policy signal; real estate/development stimulus implies broad economic activity boost"
+  },
+  {
+   "date": "2026-08-21T04:54:33Z",
+   "platform": "News",
+   "text": "SK Hynix Targets $29B Nasdaq Offering \u2013 DRAM Jumps Over 4% Ahead Of Micron's Report - Stocktwits \u2014 SK Hynix Targets $29B Nasdaq Offering \u2013 DRAM Jumps Over 4% Ahead Of Micron's Report\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQVWh6bUc2UTNReFhfeldjczVpMzFLU2p6VXZEalVfSUd2MnFTbURJamJSWjdYdWNSaElTY3R2aG9YR1U2bDM1U3ljSXYxeTFJVUQxdVlrdlRLeEk2ZzlJNS10bEkyOTVKdWxVcEdfemFzdUFTMkNnUnhEYWdfTWJhOW9FX2dYcnVaYjJsQ1hDVVBTUXJwTTFlcjRUVWROYUFwcnJOZ0oteUJsWEFuUGdpaGJJejVhczZFZjZaa3F4Rk1scW9jalotbjh6S19rWkZTTXNjckVDaEtfOFZE?oc=5",
+   "tickers": [
+    "SMH"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "SMH",
+   "strength": 40,
+   "reason": "DRAM supply/demand catalyst from SK Hynix offering; semiconductor sector positive; no Trump link but market signal."
   },
   {
    "date": "2026-08-21T04:43:23Z",
@@ -213,9 +229,9 @@
    "reason": "Multiple stocks at 52-week highs; no explicit Trump driver stated",
    "price_since": {
     "ticker": "C",
-    "pct": 1.2,
+    "pct": 1.5,
     "base": 129.67,
-    "last": 131.22,
+    "last": 131.59,
     "base_date": "2026-08-20",
     "last_date": "2026-08-21"
    }
@@ -237,9 +253,9 @@
    "reason": "Micron earnings catalyst unrelated to Trump; retail sentiment mention but no Trump signal",
    "price_since": {
     "ticker": "MU",
-    "pct": -0.7,
+    "pct": -0.6,
     "base": 974.33,
-    "last": 967.42,
+    "last": 968.95,
     "base_date": "2026-08-20",
     "last_date": "2026-08-21"
    }
@@ -277,9 +293,9 @@
    "reason": "Trump Arctic/Greenland rare-earth push; uranium and mining stocks rally on policy direction",
    "price_since": {
     "ticker": "UUUU",
-    "pct": 8.7,
+    "pct": 9.9,
     "base": 13.9,
-    "last": 15.11,
+    "last": 15.27,
     "base_date": "2026-08-20",
     "last_date": "2026-08-21"
    }
@@ -301,9 +317,9 @@
    "reason": "CEO calls shares undervalued; momentum signal unrelated to Trump but market-relevant.",
    "price_since": {
     "ticker": "CAR",
-    "pct": 3.1,
+    "pct": 2.3,
     "base": 143.98,
-    "last": 148.51,
+    "last": 147.27,
     "base_date": "2026-08-20",
     "last_date": "2026-08-21"
    }
@@ -341,9 +357,9 @@
    "reason": "Praise for Meta's AI Workforce Academy from Trump-linked figure signals positive sentiment on tech/AI initiatives.",
    "price_since": {
     "ticker": "META",
-    "pct": 0.7,
+    "pct": 1.0,
     "base": 545.83,
-    "last": 549.62,
+    "last": 551.27,
     "base_date": "2026-08-20",
     "last_date": "2026-08-21"
    }
@@ -365,9 +381,9 @@
    "reason": "Treasury secretary's bond-market strategy; macro but direction unclear",
    "price_since": {
     "ticker": "QQQ",
-    "pct": 0.3,
+    "pct": 0.4,
     "base": 710.93,
-    "last": 712.96,
+    "last": 713.61,
     "base_date": "2026-08-20",
     "last_date": "2026-08-21"
    }
@@ -389,9 +405,9 @@
    "reason": "F-35 fighter jet sales potential to Turkey and sanctions lift imply defense contractor bullish sentiment.",
    "price_since": {
     "ticker": "XAR",
-    "pct": 0.6,
+    "pct": 0.7,
     "base": 271.78,
-    "last": 273.33,
+    "last": 273.8,
     "base_date": "2026-08-20",
     "last_date": "2026-08-21"
    }
@@ -413,9 +429,9 @@
    "reason": "Data center lease catalyzes stock jump; Trump context unclear but market-relevant.",
    "price_since": {
     "ticker": "KEEL",
-    "pct": -1.5,
+    "pct": -2.4,
     "base": 3.37,
-    "last": 3.32,
+    "last": 3.29,
     "base_date": "2026-08-20",
     "last_date": "2026-08-21"
    }
@@ -437,9 +453,9 @@
    "reason": "$100M federal grant for lithium-ion batteries supports clean energy/industrial sector; bullish for battery and EV supply chain",
    "price_since": {
     "ticker": "XLI",
-    "pct": 0.3,
+    "pct": 0.5,
     "base": 179.77,
-    "last": 180.27,
+    "last": 180.65,
     "base_date": "2026-08-20",
     "last_date": "2026-08-21"
    }
@@ -461,9 +477,9 @@
    "reason": "Stock rallies sharply; no Trump catalyst named but market-positive momentum.",
    "price_since": {
     "ticker": "CADL",
-    "pct": 3.3,
+    "pct": 3.9,
     "base": 12.35,
-    "last": 12.76,
+    "last": 12.83,
     "base_date": "2026-08-20",
     "last_date": "2026-08-21"
    }
@@ -501,9 +517,9 @@
    "reason": "Elon Musk Starship reuse progress; SpaceX/Tesla space venture; direction ambiguous near-term.",
    "price_since": {
     "ticker": "TSLA",
-    "pct": 5.3,
+    "pct": 5.6,
     "base": 345.13,
-    "last": 363.33,
+    "last": 364.54,
     "base_date": "2026-08-20",
     "last_date": "2026-08-21"
    }
@@ -525,9 +541,9 @@
    "reason": "Trump crypto push & dollar weakness lift crypto stocks broadly",
    "price_since": {
     "ticker": "COIN",
-    "pct": 8.1,
+    "pct": 8.2,
     "base": 172.35,
-    "last": 186.29,
+    "last": 186.41,
     "base_date": "2026-08-20",
     "last_date": "2026-08-21"
    }
@@ -565,9 +581,9 @@
    "reason": "Trump praise of prediction markets bullish for crypto trading platforms and speculation ecosystems",
    "price_since": {
     "ticker": "COIN",
-    "pct": 8.1,
+    "pct": 8.2,
     "base": 172.35,
-    "last": 186.29,
+    "last": 186.41,
     "base_date": "2026-08-20",
     "last_date": "2026-08-21"
    }
@@ -1554,30 +1570,6 @@
     "pct": -0.2,
     "base": 63.68,
     "last": 63.58,
-    "base_date": "2026-08-18",
-    "last_date": "2026-08-19"
-   }
-  },
-  {
-   "date": "2026-08-18T09:58:34Z",
-   "platform": "News",
-   "text": "SK Hynix Targets $29B Nasdaq Offering \u2013 DRAM Jumps Over 4% Ahead Of Micron's Report - Stocktwits \u2014 SK Hynix Targets $29B Nasdaq Offering \u2013 DRAM Jumps Over 4% Ahead Of Micron's Report\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQVWh6bUc2UTNReFhfeldjczVpMzFLU2p6VXZEalVfSUd2MnFTbURJamJSWjdYdWNSaElTY3R2aG9YR1U2bDM1U3ljSXYxeTFJVUQxdVlrdlRLeEk2ZzlJNS10bEkyOTVKdWxVcEdfemFzdUFTMkNnUnhEYWdfTWJhOW9FX2dYcnVaYjJsQ1hDVVBTUXJwTTFlcjRUVWROYUFwcnJOZ0oteUJsWEFuUGdpaGJJejVhczZFZjZaa3F4Rk1scW9jalotbjh6S19rWkZTTXNjckVDaEtfOFZE?oc=5",
-   "tickers": [
-    "SMH"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "SMH",
-   "strength": 50,
-   "reason": "Major DRAM capex and chip sector strength signal",
-   "price_since": {
-    "ticker": "SMH",
-    "pct": -1.6,
-    "base": 569.77,
-    "last": 560.92,
     "base_date": "2026-08-18",
     "last_date": "2026-08-19"
    }
