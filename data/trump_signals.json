@@ -1,7 +1,39 @@
 {
- "last_updated": "2026-08-21T21:59:40Z",
+ "last_updated": "2026-08-21T22:33:25Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-08-21T22:26:25Z",
+   "platform": "News",
+   "text": "Bitcoin rally sends crypto stocks soaring as miners, treasury companies jump - Cryptonews.net \u2014 Bitcoin rally sends crypto stocks soaring as miners, treasury companies jump\u00a0\u00a0Cryptonews.net",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9lRVYwUE12QjBFcHpwc0xUU2hlb21FSGNUM3RVamwzUTBINDVlN3ZHTE55bVZUMHU5djVUYVd0YUNpQmo4S01ZSVpxQ2NUWjI2NEdmdGYwMHk?oc=5",
+   "tickers": [
+    "BTC-USD"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "BTC-USD",
+   "strength": 45,
+   "reason": "Bitcoin rally driving crypto sector upward; broad tailwind for crypto assets"
+  },
+  {
+   "date": "2026-08-21T20:35:44Z",
+   "platform": "News",
+   "text": "MARA Holdings, Inc. stock surges 15.54% to $11.15 on Clarity Act hopes - Cryptonews.net \u2014 MARA Holdings, Inc. stock surges 15.54% to $11.15 on Clarity Act hopes\u00a0\u00a0Cryptonews.net",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1kdzRTckVTV2x0VHBiMEo0bU16Ry10M085UTdFLWVORWxoNHp2MzVIRFRKZ194bGlnTU5XR2Z3V1ZiRE5MMkt1Z2E4XzQ0XzhyaEJpUUhmMy03Vzg?oc=5",
+   "tickers": [
+    "MARA"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "MARA",
+   "strength": 60,
+   "reason": "MARA surges on Clarity Act hopes; specific crypto regulatory catalyst"
+  },
   {
    "date": "2026-08-21T17:24:14.193Z",
    "platform": "Truth Social",
@@ -309,9 +341,9 @@
    "reason": "Trump presses Congress on CLARITY Act as Bitcoin tops $70K; explicit crypto regulatory push aligns with bullish price move",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": 7.5,
+    "pct": 7.2,
     "base": 73032.76,
-    "last": 78492.48,
+    "last": 78305.86,
     "base_date": "2026-08-20",
     "last_date": "2026-08-21"
    }
