@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-21T08:58:14Z",
+ "last_updated": "2026-08-21T09:44:22Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -305,6 +305,22 @@
    "primary_ticker": "IBM",
    "strength": 75,
    "reason": "$1B federal grant for quantum foundry directly awarded to IBM"
+  },
+  {
+   "date": "2026-08-20T11:03:51Z",
+   "platform": "News",
+   "text": "Walmart shares tumble as sales growth slows to six-year low - Financial Times \u2014 Walmart shares tumble as sales growth slows to six-year low\u00a0\u00a0Financial Times",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQW4zekRNc2pKdF9rRVpyaWVRTTNMYWVqejI4dHRZTkpSUVE0NkFMNFFnaEJPOWNvR253cF8yWWROeWxNdVRPaVg2ZVluSk9Kd1VaeEd6Qld1LU84WERBa1JBWm5OTzA3amM0eEMtZExCOVgxY3hvbVVIZmFZRms1aDdWbUI?oc=5",
+   "tickers": [
+    "WMT"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "WMT",
+   "strength": 70,
+   "reason": "Walmart sales growth slows to 6-year low; retail weakness signal unrelated to Trump"
   },
   {
    "date": "2026-08-20T09:36:58Z",
@@ -2528,22 +2544,6 @@
    "primary_ticker": "AMD",
    "strength": 35,
    "reason": "Strong year-to-date performance and executive compensation reflects company momentum; not Trump-driven."
-  },
-  {
-   "date": "2026-08-15T01:43:33Z",
-   "platform": "News",
-   "text": "Rinehart almost doubles US shares to $8 billion, led by backing Elon Musk\u2019s SpaceX - SMH.com.au \u2014 Rinehart almost doubles US shares to $8 billion, led by backing Elon Musk\u2019s SpaceX\u00a0\u00a0SMH.com.au",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQd19BSnRzcEJOUUo3VlBiV2RHMld4TDlldlQ3bEZNeFBkeW1yQU1mTmM3U09PcHY5aXpMTXM2YlV0dk5RZHZFeTVwc3ozbERfbmVOdm8yMVdGQ3ZxTDJiLVpkUll1cTA4REp6TFcwUG5rNW5NS1NEX0UyYWk1NjFDMlZtVWhabkJVUnYzc1AwR21FNV9ycUZ2YkhEWVg5V0RmUFhyTDhOcF9aM0laMGgydUQ4cWVqV015bVdlUjEtckR5NmJfQk5mYTA3NVk0ZjBQaHNSRU1lUGNOUQ?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "SPY",
-   "strength": 30,
-   "reason": "Large capital allocation to US equities and SpaceX-related bets signals optimism"
   },
   {
    "curated": true,
