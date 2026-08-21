@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-21T23:00:25Z",
+ "last_updated": "2026-08-21T23:32:38Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -82,6 +82,22 @@
    "primary_ticker": "HOOD",
    "strength": 75,
    "reason": "Trump explicitly endorses Crypto Clarity Act; Robinhood stock already rallied 11% as direct beneficiary of crypto-friendly policy"
+  },
+  {
+   "date": "2026-08-21T11:19:51Z",
+   "platform": "News",
+   "text": "Trump Says China Has Not Approved NVDA H200 Chip Purchases Yet \u2014 'They Want To Develop Their Own' - Stocktwits \u2014 Trump Says China Has Not Approved NVDA H200 Chip Purchases Yet \u2014 'They Want To Develop Their Own'\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZ2oxZ3ZfNVpTWGQwLTY3T0xzazUxbWY2a3ZreDlRRGE0ZHQxbmNRR29RSm11VXBPajBkd1V1M0VhRUJvVUp0V2lfM3ladmswQ2hMWGlsUjY5RE1ERXR0LTBwN2JLYTBNUk1GRC1QbjktYTlkeTU5MlgteEpYeURwZmhaR2NjUUJMVWs5SGVnbm9uTEZ2dkdmSmVVdzctQ0I3clJZZFM1YnVqbkd1RG9kQlpXUjY?oc=5",
+   "tickers": [
+    "NVDA"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "SELL",
+   "primary_ticker": "NVDA",
+   "strength": 55,
+   "reason": "Trump reports China has not approved NVDA H200 purchases; headwind for NVDA China revenue and chip sales."
   },
   {
    "date": "2026-08-21T10:52:55.535Z",
@@ -341,9 +357,9 @@
    "reason": "Trump presses Congress on CLARITY Act as Bitcoin tops $70K; explicit crypto regulatory push aligns with bullish price move",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": 7.4,
+    "pct": 7.5,
     "base": 73032.76,
-    "last": 78421.82,
+    "last": 78485.71,
     "base_date": "2026-08-20",
     "last_date": "2026-08-21"
    }
@@ -1850,30 +1866,6 @@
     "pct": -1.6,
     "base": 569.77,
     "last": 560.92,
-    "base_date": "2026-08-18",
-    "last_date": "2026-08-19"
-   }
-  },
-  {
-   "date": "2026-08-18T04:27:09Z",
-   "platform": "News",
-   "text": "Trump Says China Has Not Approved NVDA H200 Chip Purchases Yet \u2014 'They Want To Develop Their Own' - Stocktwits \u2014 Trump Says China Has Not Approved NVDA H200 Chip Purchases Yet \u2014 'They Want To Develop Their Own'\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZ2oxZ3ZfNVpTWGQwLTY3T0xzazUxbWY2a3ZreDlRRGE0ZHQxbmNRR29RSm11VXBPajBkd1V1M0VhRUJvVUp0V2lfM3ladmswQ2hMWGlsUjY5RE1ERXR0LTBwN2JLYTBNUk1GRC1QbjktYTlkeTU5MlgteEpYeURwZmhaR2NjUUJMVWs5SGVnbm9uTEZ2dkdmSmVVdzctQ0I3clJZZFM1YnVqbkd1RG9kQlpXUjY?oc=5",
-   "tickers": [
-    "NVDA"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "NVDA",
-   "strength": 60,
-   "reason": "China denies H200 chip approval; bearish for Nvidia's China revenue and earnings.",
-   "price_since": {
-    "ticker": "NVDA",
-    "pct": -1.0,
-    "base": 219.74,
-    "last": 217.56,
     "base_date": "2026-08-18",
     "last_date": "2026-08-19"
    }
