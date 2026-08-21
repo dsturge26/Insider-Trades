@@ -1,7 +1,24 @@
 {
- "last_updated": "2026-08-21T17:08:25Z",
+ "last_updated": "2026-08-21T17:45:14Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-08-21T17:24:14.193Z",
+   "platform": "Truth Social",
+   "text": "'That's the Jetsons that's coming to life': Trump officials tout multifront drone initiative: https://www.washingtonexaminer.com/policy/defense/4694450/drone-market-threat-requires-whole-government-approach/#google_vignette",
+   "tickers": [
+    "XAR"
+   ],
+   "engagement": 456,
+   "url": "https://truthsocial.com/@realDonaldTrump/117134659039628490",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "XAR",
+   "strength": 45,
+   "reason": "Trump administration backing multifront drone initiative signals bullish defense/aerospace sector outlook"
+  },
   {
    "date": "2026-08-21T16:11:07Z",
    "platform": "News",
@@ -66,6 +83,22 @@
    "primary_ticker": "SPY",
    "strength": 35,
    "reason": "Opportunity zones policy signal; real estate/development stimulus implies broad economic activity boost"
+  },
+  {
+   "date": "2026-08-21T04:43:23Z",
+   "platform": "News",
+   "text": "ASTS, RKLB Stocks Get The Trump Pump After Hidden Space Stock Bets Emerge - Stocktwits \u2014 ASTS, RKLB Stocks Get The Trump Pump After Hidden Space Stock Bets Emerge\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYlgtQnFIQ21RTHhqRVMtMUF4aWNUR2w3WHo5QzFfWVRyaExWYXJDUk9WaEFDaW90THVYcHVSd3J4Nk82T3lkMVBGZnhIQW43bHpGdURhaTgxYnRlR25BYmp6SWR1cjVhUHlXZXdWSFdkNlFTekNoQXZCSXNVem1Oc0NBYXBKQXhnRnNCTTVvOU5xSEZrUlNxdzZCczQyZmdVOW1jQVRBczU4cHlpU3M3dnBWZnBjdw?oc=5",
+   "tickers": [
+    "RKLB"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "RKLB",
+   "strength": 60,
+   "reason": "Trump hidden stakes in space stocks (ASTS, RKLB) emerge; bullish signal for aerospace/satellite sector"
   },
   {
    "date": "2026-08-21T04:18:46Z",
@@ -180,9 +213,9 @@
    "reason": "Multiple stocks at 52-week highs; no explicit Trump driver stated",
    "price_since": {
     "ticker": "C",
-    "pct": 0.6,
+    "pct": 0.8,
     "base": 129.67,
-    "last": 130.46,
+    "last": 130.77,
     "base_date": "2026-08-20",
     "last_date": "2026-08-21"
    }
@@ -204,9 +237,9 @@
    "reason": "Micron earnings catalyst unrelated to Trump; retail sentiment mention but no Trump signal",
    "price_since": {
     "ticker": "MU",
-    "pct": -1.0,
+    "pct": -0.7,
     "base": 974.33,
-    "last": 964.3,
+    "last": 967.16,
     "base_date": "2026-08-20",
     "last_date": "2026-08-21"
    }
@@ -244,9 +277,9 @@
    "reason": "Trump Arctic/Greenland rare-earth push; uranium and mining stocks rally on policy direction",
    "price_since": {
     "ticker": "UUUU",
-    "pct": 9.9,
+    "pct": 9.6,
     "base": 13.9,
-    "last": 15.28,
+    "last": 15.23,
     "base_date": "2026-08-20",
     "last_date": "2026-08-21"
    }
@@ -268,9 +301,9 @@
    "reason": "CEO calls shares undervalued; momentum signal unrelated to Trump but market-relevant.",
    "price_since": {
     "ticker": "CAR",
-    "pct": 2.9,
+    "pct": 3.2,
     "base": 143.98,
-    "last": 148.15,
+    "last": 148.65,
     "base_date": "2026-08-20",
     "last_date": "2026-08-21"
    }
@@ -310,7 +343,7 @@
     "ticker": "QQQ",
     "pct": 0.4,
     "base": 710.93,
-    "last": 713.87,
+    "last": 713.64,
     "base_date": "2026-08-20",
     "last_date": "2026-08-21"
    }
@@ -356,9 +389,9 @@
    "reason": "$100M federal grant for lithium-ion batteries supports clean energy/industrial sector; bullish for battery and EV supply chain",
    "price_since": {
     "ticker": "XLI",
-    "pct": 0.2,
+    "pct": 0.3,
     "base": 179.77,
-    "last": 180.1,
+    "last": 180.23,
     "base_date": "2026-08-20",
     "last_date": "2026-08-21"
    }
@@ -380,9 +413,9 @@
    "reason": "Stock rallies sharply; no Trump catalyst named but market-positive momentum.",
    "price_since": {
     "ticker": "CADL",
-    "pct": 6.5,
+    "pct": 5.7,
     "base": 12.35,
-    "last": 13.15,
+    "last": 13.06,
     "base_date": "2026-08-20",
     "last_date": "2026-08-21"
    }
@@ -420,9 +453,9 @@
    "reason": "Elon Musk Starship reuse progress; SpaceX/Tesla space venture; direction ambiguous near-term.",
    "price_since": {
     "ticker": "TSLA",
-    "pct": 5.6,
+    "pct": 5.3,
     "base": 345.13,
-    "last": 364.4,
+    "last": 363.41,
     "base_date": "2026-08-20",
     "last_date": "2026-08-21"
    }
@@ -444,9 +477,9 @@
    "reason": "Trump crypto push & dollar weakness lift crypto stocks broadly",
    "price_since": {
     "ticker": "COIN",
-    "pct": 8.7,
+    "pct": 8.3,
     "base": 172.35,
-    "last": 187.35,
+    "last": 186.7,
     "base_date": "2026-08-20",
     "last_date": "2026-08-21"
    }
@@ -484,9 +517,9 @@
    "reason": "Trump praise of prediction markets bullish for crypto trading platforms and speculation ecosystems",
    "price_since": {
     "ticker": "COIN",
-    "pct": 8.7,
+    "pct": 8.3,
     "base": 172.35,
-    "last": 187.35,
+    "last": 186.7,
     "base_date": "2026-08-20",
     "last_date": "2026-08-21"
    }
@@ -508,33 +541,9 @@
    "reason": "Trump profits as Americans' costs climb; bearish macro backdrop, but bullish for DJT personally",
    "price_since": {
     "ticker": "DJT",
-    "pct": 6.9,
+    "pct": 6.1,
     "base": 8.51,
-    "last": 9.1,
-    "base_date": "2026-08-20",
-    "last_date": "2026-08-21"
-   }
-  },
-  {
-   "date": "2026-08-20T13:03:28Z",
-   "platform": "News",
-   "text": "ASTS, RKLB Stocks Get The Trump Pump After Hidden Space Stock Bets Emerge - Stocktwits \u2014 ASTS, RKLB Stocks Get The Trump Pump After Hidden Space Stock Bets Emerge\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYlgtQnFIQ21RTHhqRVMtMUF4aWNUR2w3WHo5QzFfWVRyaExWYXJDUk9WaEFDaW90THVYcHVSd3J4Nk82T3lkMVBGZnhIQW43bHpGdURhaTgxYnRlR25BYmp6SWR1cjVhUHlXZXdWSFdkNlFTekNoQXZCSXNVem1Oc0NBYXBKQXhnRnNCTTVvOU5xSEZrUlNxdzZCczQyZmdVOW1jQVRBczU4cHlpU3M3dnBWZnBjdw?oc=5",
-   "tickers": [
-    "RKLB"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "RKLB",
-   "strength": 50,
-   "reason": "Trump hidden space stock bets disclosed; bullish signal for space stocks ASTS and RKLB",
-   "price_since": {
-    "ticker": "RKLB",
-    "pct": 1.1,
-    "base": 72.95,
-    "last": 73.76,
+    "last": 9.03,
     "base_date": "2026-08-20",
     "last_date": "2026-08-21"
    }
@@ -556,9 +565,9 @@
    "reason": "Trump pro-crypto policy push lifts crypto sector",
    "price_since": {
     "ticker": "COIN",
-    "pct": 8.7,
+    "pct": 8.3,
     "base": 172.35,
-    "last": 187.35,
+    "last": 186.7,
     "base_date": "2026-08-20",
     "last_date": "2026-08-21"
    }
@@ -580,9 +589,9 @@
    "reason": "Trump push for crypto policy favorable to crypto stocks and exchanges",
    "price_since": {
     "ticker": "COIN",
-    "pct": 8.7,
+    "pct": 8.3,
     "base": 172.35,
-    "last": 187.38,
+    "last": 186.7,
     "base_date": "2026-08-20",
     "last_date": "2026-08-21"
    }
@@ -2657,38 +2666,6 @@
    "primary_ticker": "NOW",
    "strength": 65,
    "reason": "Trump stake in ServiceNow reported; implies confidence in the company"
-  },
-  {
-   "date": "2026-08-15T03:30:44Z",
-   "platform": "News",
-   "text": "Gina Rinehart Doubles Down on US Stock Market, Now Holds $5.7 Billion in Shares - SSBCrack \u2014 Gina Rinehart Doubles Down on US Stock Market, Now Holds $5.7 Billion in Shares\u00a0\u00a0SSBCrack",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQajV0MG1jSUszZDZ6emJ0V252RmRJTWFNTXZCakVlUDBNWVR1OTNLQm1rMExoMEVEazNBUGJHUy0zbTd0bEJpalhZeE9jaFlVc3JKQXI5U2lvdjJkV08xaHpVWXo0MTRWOC15bXhKN3k4S0FFQ01ZamJUbllZOG1BOVpKczUxTGg1NENxdnZCdHBYU1lpbTBidG5vVjJQREtUU3FCNUs1WQ?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "SPY",
-   "strength": 25,
-   "reason": "Major investor confidence in US stock market bullish signal"
-  },
-  {
-   "date": "2026-08-15T03:30:44Z",
-   "platform": "News",
-   "text": "Gina Rinehart Doubles Down on US Stock Market, Now Holds $5.7 Billion in Shares - news.ssbcrack.com \u2014 Gina Rinehart Doubles Down on US Stock Market, Now Holds $5.7 Billion in Shares\u00a0\u00a0news.ssbcrack.com",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQajV0MG1jSUszZDZ6emJ0V252RmRJTWFNTXZCakVlUDBNWVR1OTNLQm1rMExoMEVEazNBUGJHUy0zbTd0bEJpalhZeE9jaFlVc3JKQXI5U2lvdjJkV08xaHpVWXo0MTRWOC15bXhKN3k4S0FFQ01ZamJUbllZOG1BOVpKczUxTGg1NENxdnZCdHBYU1lpbTBidG5vVjJQREtUU3FCNUs1WQ?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "SPY",
-   "strength": 35,
-   "reason": "Large investor accumulating US equities signals market confidence; macro bullish undertone"
   },
   {
    "curated": true,
