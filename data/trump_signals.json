@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-21T16:34:18Z",
+ "last_updated": "2026-08-21T17:08:25Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -180,9 +180,9 @@
    "reason": "Multiple stocks at 52-week highs; no explicit Trump driver stated",
    "price_since": {
     "ticker": "C",
-    "pct": 0.8,
+    "pct": 0.6,
     "base": 129.67,
-    "last": 130.77,
+    "last": 130.46,
     "base_date": "2026-08-20",
     "last_date": "2026-08-21"
    }
@@ -204,9 +204,9 @@
    "reason": "Micron earnings catalyst unrelated to Trump; retail sentiment mention but no Trump signal",
    "price_since": {
     "ticker": "MU",
-    "pct": -0.9,
+    "pct": -1.0,
     "base": 974.33,
-    "last": 965.7,
+    "last": 964.3,
     "base_date": "2026-08-20",
     "last_date": "2026-08-21"
    }
@@ -244,9 +244,9 @@
    "reason": "Trump Arctic/Greenland rare-earth push; uranium and mining stocks rally on policy direction",
    "price_since": {
     "ticker": "UUUU",
-    "pct": 9.4,
+    "pct": 9.9,
     "base": 13.9,
-    "last": 15.2,
+    "last": 15.28,
     "base_date": "2026-08-20",
     "last_date": "2026-08-21"
    }
@@ -268,9 +268,9 @@
    "reason": "CEO calls shares undervalued; momentum signal unrelated to Trump but market-relevant.",
    "price_since": {
     "ticker": "CAR",
-    "pct": 2.8,
+    "pct": 2.9,
     "base": 143.98,
-    "last": 148.06,
+    "last": 148.15,
     "base_date": "2026-08-20",
     "last_date": "2026-08-21"
    }
@@ -310,7 +310,7 @@
     "ticker": "QQQ",
     "pct": 0.4,
     "base": 710.93,
-    "last": 713.6,
+    "last": 713.87,
     "base_date": "2026-08-20",
     "last_date": "2026-08-21"
    }
@@ -332,9 +332,9 @@
    "reason": "Data center lease catalyzes stock jump; Trump context unclear but market-relevant.",
    "price_since": {
     "ticker": "KEEL",
-    "pct": -0.9,
+    "pct": -1.8,
     "base": 3.37,
-    "last": 3.34,
+    "last": 3.31,
     "base_date": "2026-08-20",
     "last_date": "2026-08-21"
    }
@@ -380,9 +380,9 @@
    "reason": "Stock rallies sharply; no Trump catalyst named but market-positive momentum.",
    "price_since": {
     "ticker": "CADL",
-    "pct": 5.3,
+    "pct": 6.5,
     "base": 12.35,
-    "last": 13.0,
+    "last": 13.15,
     "base_date": "2026-08-20",
     "last_date": "2026-08-21"
    }
@@ -420,9 +420,9 @@
    "reason": "Elon Musk Starship reuse progress; SpaceX/Tesla space venture; direction ambiguous near-term.",
    "price_since": {
     "ticker": "TSLA",
-    "pct": 5.4,
+    "pct": 5.6,
     "base": 345.13,
-    "last": 363.7,
+    "last": 364.4,
     "base_date": "2026-08-20",
     "last_date": "2026-08-21"
    }
@@ -444,9 +444,9 @@
    "reason": "Trump crypto push & dollar weakness lift crypto stocks broadly",
    "price_since": {
     "ticker": "COIN",
-    "pct": 9.1,
+    "pct": 8.7,
     "base": 172.35,
-    "last": 188.02,
+    "last": 187.35,
     "base_date": "2026-08-20",
     "last_date": "2026-08-21"
    }
@@ -484,9 +484,9 @@
    "reason": "Trump praise of prediction markets bullish for crypto trading platforms and speculation ecosystems",
    "price_since": {
     "ticker": "COIN",
-    "pct": 9.1,
+    "pct": 8.7,
     "base": 172.35,
-    "last": 188.02,
+    "last": 187.35,
     "base_date": "2026-08-20",
     "last_date": "2026-08-21"
    }
@@ -508,9 +508,9 @@
    "reason": "Trump profits as Americans' costs climb; bearish macro backdrop, but bullish for DJT personally",
    "price_since": {
     "ticker": "DJT",
-    "pct": 6.3,
+    "pct": 6.9,
     "base": 8.51,
-    "last": 9.05,
+    "last": 9.1,
     "base_date": "2026-08-20",
     "last_date": "2026-08-21"
    }
@@ -532,9 +532,9 @@
    "reason": "Trump hidden space stock bets disclosed; bullish signal for space stocks ASTS and RKLB",
    "price_since": {
     "ticker": "RKLB",
-    "pct": 1.8,
+    "pct": 1.1,
     "base": 72.95,
-    "last": 74.28,
+    "last": 73.76,
     "base_date": "2026-08-20",
     "last_date": "2026-08-21"
    }
@@ -556,9 +556,9 @@
    "reason": "Trump pro-crypto policy push lifts crypto sector",
    "price_since": {
     "ticker": "COIN",
-    "pct": 9.1,
+    "pct": 8.7,
     "base": 172.35,
-    "last": 188.1,
+    "last": 187.35,
     "base_date": "2026-08-20",
     "last_date": "2026-08-21"
    }
@@ -580,9 +580,9 @@
    "reason": "Trump push for crypto policy favorable to crypto stocks and exchanges",
    "price_since": {
     "ticker": "COIN",
-    "pct": 9.1,
+    "pct": 8.7,
     "base": 172.35,
-    "last": 188.1,
+    "last": 187.38,
     "base_date": "2026-08-20",
     "last_date": "2026-08-21"
    }
@@ -604,9 +604,9 @@
    "reason": "SERV rallies on Grubhub partnership and DoorDash deal expansion; concrete business catalyst",
    "price_since": {
     "ticker": "SERV",
-    "pct": 7.0,
+    "pct": 6.1,
     "base": 4.74,
-    "last": 5.07,
+    "last": 5.03,
     "base_date": "2026-08-20",
     "last_date": "2026-08-21"
    }
@@ -2689,38 +2689,6 @@
    "primary_ticker": "SPY",
    "strength": 35,
    "reason": "Large investor accumulating US equities signals market confidence; macro bullish undertone"
-  },
-  {
-   "date": "2026-08-15T03:18:55Z",
-   "platform": "News",
-   "text": "INTC Stock Rockets Toward Best Month Ever: Something More Than A Trump Pump Could Be Powering The Rally - stocktwits.com \u2014 INTC Stock Rockets Toward Best Month Ever: Something More Than A Trump Pump Could Be Powering The Rally\u00a0\u00a0stocktwits.com",
-   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQT29KOURKeHprQ2xZbmpLUUc3MGRlTTE5Y1JHVXJ5TGhldk10eENQcmZLSzRWNDQyTmJFclFNUThmZ0tBRlZUQTZ3MGF1dlZwR0Q4aUtXUnZVQ2o1MjM3cFNpU2RrejRkd2E0OXBhOVNpdDdBdDVSSTR1c2M5NTZfYlg4NEFxODg3QWpMTXd0VVIzM3pZRS10OG5JWG9QUW52UjZvbXVvQ29uZ1lJb1NwbFljM1lBN1dreHdJZDdYZ1hKTjVidndnRWlJRnl5cnNpT2llcjVuSVltVDNzVFdHbmZYTEpua3JJVllOcXIxVmdfaThfeHRzVm9R?oc=5",
-   "tickers": [
-    "INTC"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "INTC",
-   "strength": 55,
-   "reason": "Trump pump mentioned for semiconductor rally; domestic chip policy supportive"
-  },
-  {
-   "date": "2026-08-15T02:16:57Z",
-   "platform": "News",
-   "text": "Is SOFI Stock \u2018One Of The Easiest\u2019 Longs? Why The Bull Case Is Still Intact According To 3 Analysts - stocktwits.com \u2014 Is SOFI Stock \u2018One Of The Easiest\u2019 Longs? Why The Bull Case Is Still Intact According To 3 Analysts\u00a0\u00a0stocktwits.com",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaEViT0pDUkg2UEo2R21neHhvcnFUTFFYWXcyN0xmaTctN1MwOTRLRFNoNEN3NEpYMDNmQTNYblRaSC1Bb0RjSGItYTQ2VExfdTVScEZ2MVZGZFozUXdEWmRyUlgzeGpqOHc1aG8ySUVvTmxST3pic0VZV1ZIZTFkc0lmZWs1YVhGOWN2OUVEbmlpeFhJVDBKYUZiVnBYN2cyYzJ3VzNFeHduZ2Z3Q3VaWnl0Snl4NkFCOUE?oc=5",
-   "tickers": [
-    "SOFI"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "SOFI",
-   "strength": 35,
-   "reason": "Analyst bull case intact; fintech sentiment positive but no Trump catalyst"
   },
   {
    "curated": true,
