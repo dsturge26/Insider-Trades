@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-08-21T15:04:07Z",
+ "last_updated": "2026-08-21T15:48:34Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-08-21T15:00:29Z",
+   "platform": "News",
+   "text": "Robinhood (HOOD) Stock Rockets 11% as Trump Endorses Crypto Clarity Act - Blockonomi \u2014 Robinhood (HOOD) Stock Rockets 11% as Trump Endorses Crypto Clarity Act\u00a0\u00a0Blockonomi",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObXlDZDM0eTZEU1dXME1xZnZWNDVvQUdpdnNHRTd6czMzX3o2V3hlT2N1M1otbmstYUtlOWdMVzczalNybHB0R2Q3djV2d3Npa1dwNWVWdGhwMnM0QllXN2d2ajlrUUkwYUM3QUdwUVM3WjhHS1NGb0tJUFhuSm90aU1DNkxRa080SkVEdTFPS25kajNpVWs0?oc=5",
+   "tickers": [
+    "HOOD"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "HOOD",
+   "strength": 75,
+   "reason": "Trump explicitly endorses Crypto Clarity Act; Robinhood stock already rallied 11% as direct beneficiary of crypto-friendly policy"
+  },
   {
    "date": "2026-08-21T10:52:55.535Z",
    "platform": "Truth Social",
@@ -100,9 +116,9 @@
    "reason": "Multiple stocks at 52-week highs; no explicit Trump driver stated",
    "price_since": {
     "ticker": "C",
-    "pct": 0.9,
+    "pct": 1.1,
     "base": 129.67,
-    "last": 130.85,
+    "last": 131.04,
     "base_date": "2026-08-20",
     "last_date": "2026-08-21"
    }
@@ -124,12 +140,28 @@
    "reason": "Micron earnings catalyst unrelated to Trump; retail sentiment mention but no Trump signal",
    "price_since": {
     "ticker": "MU",
-    "pct": -0.9,
+    "pct": -0.5,
     "base": 974.33,
-    "last": 965.22,
+    "last": 969.1,
     "base_date": "2026-08-20",
     "last_date": "2026-08-21"
    }
+  },
+  {
+   "date": "2026-08-20T22:33:27Z",
+   "platform": "News",
+   "text": "HYPE Nears Record High, PURR Stock Adds To Its Biggest Single-Day Gain After Trump Signals US Path For Hyperliquid Exchange - Stocktwits \u2014 HYPE Nears Record High, PURR Stock Adds To Its Biggest Single-Day Gain After Trump Signals US Path For Hyperliquid Exchange\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPYkpESzdraEMzZ0NpX19LMXl5QWVtVElRa2diWVRFeGEweTdFRHIyYUtNWW41b2VYY1AxNHF0Y1I0SHAwTkx6R0RXZVFINXQwSkRNaU1ENGkzUXdfSlhDQTlMalVMRTJXX19PcE1NMWJLaERHZ2NDNmZRbHFnQi11MzVCTDZDZlQxYTlwcWp6MDlVaGlWNmhqZVMwNnU5YkJmTXhtSXdfX2N5eUxxdHdPcHdFVS1Pd21CbGI1UGllN2p5NjE5T3FhZWxtYkhYWGNK?oc=5",
+   "tickers": [
+    "HYPE"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "HYPE",
+   "strength": 85,
+   "reason": "Trump explicitly signals US regulatory path for Hyperliquid exchange; both HYPE and PURR spike significantly on direct endorsement"
   },
   {
    "date": "2026-08-20T22:09:07Z",
@@ -148,9 +180,9 @@
    "reason": "Trump Arctic/Greenland rare-earth push; uranium and mining stocks rally on policy direction",
    "price_since": {
     "ticker": "UUUU",
-    "pct": 7.0,
+    "pct": 8.8,
     "base": 13.9,
-    "last": 14.87,
+    "last": 15.12,
     "base_date": "2026-08-20",
     "last_date": "2026-08-21"
    }
@@ -172,9 +204,9 @@
    "reason": "CEO calls shares undervalued; momentum signal unrelated to Trump but market-relevant.",
    "price_since": {
     "ticker": "CAR",
-    "pct": 2.8,
+    "pct": 2.9,
     "base": 143.98,
-    "last": 147.96,
+    "last": 148.2,
     "base_date": "2026-08-20",
     "last_date": "2026-08-21"
    }
@@ -212,9 +244,9 @@
    "reason": "Treasury secretary's bond-market strategy; macro but direction unclear",
    "price_since": {
     "ticker": "QQQ",
-    "pct": 0.2,
+    "pct": 0.5,
     "base": 710.93,
-    "last": 712.43,
+    "last": 714.46,
     "base_date": "2026-08-20",
     "last_date": "2026-08-21"
    }
@@ -236,9 +268,9 @@
    "reason": "Data center lease catalyzes stock jump; Trump context unclear but market-relevant.",
    "price_since": {
     "ticker": "KEEL",
-    "pct": 0.0,
+    "pct": 0.9,
     "base": 3.37,
-    "last": 3.37,
+    "last": 3.4,
     "base_date": "2026-08-20",
     "last_date": "2026-08-21"
    }
@@ -260,9 +292,9 @@
    "reason": "$100M federal grant for lithium-ion batteries supports clean energy/industrial sector; bullish for battery and EV supply chain",
    "price_since": {
     "ticker": "XLI",
-    "pct": 0.1,
+    "pct": 0.3,
     "base": 179.77,
-    "last": 180.01,
+    "last": 180.34,
     "base_date": "2026-08-20",
     "last_date": "2026-08-21"
    }
@@ -284,9 +316,9 @@
    "reason": "Stock rallies sharply; no Trump catalyst named but market-positive momentum.",
    "price_since": {
     "ticker": "CADL",
-    "pct": 4.5,
+    "pct": 4.8,
     "base": 12.35,
-    "last": 12.9,
+    "last": 12.94,
     "base_date": "2026-08-20",
     "last_date": "2026-08-21"
    }
@@ -326,7 +358,7 @@
     "ticker": "TSLA",
     "pct": 5.1,
     "base": 345.13,
-    "last": 362.6,
+    "last": 362.79,
     "base_date": "2026-08-20",
     "last_date": "2026-08-21"
    }
@@ -348,9 +380,9 @@
    "reason": "Trump crypto push & dollar weakness lift crypto stocks broadly",
    "price_since": {
     "ticker": "COIN",
-    "pct": 10.7,
+    "pct": 9.8,
     "base": 172.35,
-    "last": 190.84,
+    "last": 189.26,
     "base_date": "2026-08-20",
     "last_date": "2026-08-21"
    }
@@ -388,9 +420,9 @@
    "reason": "Trump praise of prediction markets bullish for crypto trading platforms and speculation ecosystems",
    "price_since": {
     "ticker": "COIN",
-    "pct": 10.7,
+    "pct": 9.8,
     "base": 172.35,
-    "last": 190.84,
+    "last": 189.26,
     "base_date": "2026-08-20",
     "last_date": "2026-08-21"
    }
@@ -412,9 +444,9 @@
    "reason": "Trump profits as Americans' costs climb; bearish macro backdrop, but bullish for DJT personally",
    "price_since": {
     "ticker": "DJT",
-    "pct": 3.9,
+    "pct": 5.5,
     "base": 8.51,
-    "last": 8.84,
+    "last": 8.98,
     "base_date": "2026-08-20",
     "last_date": "2026-08-21"
    }
@@ -436,9 +468,9 @@
    "reason": "Trump hidden space stock bets disclosed; bullish signal for space stocks ASTS and RKLB",
    "price_since": {
     "ticker": "RKLB",
-    "pct": -0.3,
+    "pct": 1.1,
     "base": 72.95,
-    "last": 72.72,
+    "last": 73.78,
     "base_date": "2026-08-20",
     "last_date": "2026-08-21"
    }
@@ -460,9 +492,9 @@
    "reason": "Trump pro-crypto policy push lifts crypto sector",
    "price_since": {
     "ticker": "COIN",
-    "pct": 10.7,
+    "pct": 9.8,
     "base": 172.35,
-    "last": 190.84,
+    "last": 189.26,
     "base_date": "2026-08-20",
     "last_date": "2026-08-21"
    }
@@ -484,9 +516,9 @@
    "reason": "Trump push for crypto policy favorable to crypto stocks and exchanges",
    "price_since": {
     "ticker": "COIN",
-    "pct": 10.7,
+    "pct": 9.8,
     "base": 172.35,
-    "last": 190.84,
+    "last": 189.26,
     "base_date": "2026-08-20",
     "last_date": "2026-08-21"
    }
@@ -508,9 +540,9 @@
    "reason": "SERV rallies on Grubhub partnership and DoorDash deal expansion; concrete business catalyst",
    "price_since": {
     "ticker": "SERV",
-    "pct": 7.0,
+    "pct": 6.3,
     "base": 4.74,
-    "last": 5.07,
+    "last": 5.04,
     "base_date": "2026-08-20",
     "last_date": "2026-08-21"
    }
@@ -532,9 +564,9 @@
    "reason": "$1B federal grant for quantum foundry directly awarded to IBM",
    "price_since": {
     "ticker": "IBM",
-    "pct": 0.7,
+    "pct": 1.7,
     "base": 233.69,
-    "last": 235.38,
+    "last": 237.72,
     "base_date": "2026-08-20",
     "last_date": "2026-08-21"
    }
@@ -558,7 +590,7 @@
     "ticker": "WMT",
     "pct": -1.0,
     "base": 103.84,
-    "last": 102.76,
+    "last": 102.75,
     "base_date": "2026-08-20",
     "last_date": "2026-08-21"
    }
@@ -580,9 +612,9 @@
    "reason": "F-35 jet sales to Turkey and sanctions lift -> defense spending boost",
    "price_since": {
     "ticker": "XAR",
-    "pct": 1.1,
+    "pct": 0.6,
     "base": 271.78,
-    "last": 274.7,
+    "last": 273.42,
     "base_date": "2026-08-20",
     "last_date": "2026-08-21"
    }
@@ -604,9 +636,9 @@
    "reason": "IBM surges 7% overnight; positive momentum continuation from CEO letter",
    "price_since": {
     "ticker": "IBM",
-    "pct": 0.1,
+    "pct": 1.7,
     "base": 233.69,
-    "last": 233.94,
+    "last": 237.72,
     "base_date": "2026-08-20",
     "last_date": "2026-08-21"
    }
@@ -625,7 +657,15 @@
    "direction": "SELL",
    "primary_ticker": "SPY",
    "strength": 40,
-   "reason": "Trump's Hormuz deadline creates geopolitical uncertainty, futures declining"
+   "reason": "Trump's Hormuz deadline creates geopolitical uncertainty, futures declining",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": 0.6,
+    "base": 762.6,
+    "last": 767.09,
+    "base_date": "2026-08-20",
+    "last_date": "2026-08-21"
+   }
   },
   {
    "date": "2026-08-20T08:58:55Z",
@@ -641,7 +681,15 @@
    "direction": "WATCH",
    "primary_ticker": "SPY",
    "strength": 30,
-   "reason": "Market-wide premarket decline affecting multiple sectors; headline only reports decline without Trump-specific catalyst"
+   "reason": "Market-wide premarket decline affecting multiple sectors; headline only reports decline without Trump-specific catalyst",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": 0.6,
+    "base": 762.6,
+    "last": 767.09,
+    "base_date": "2026-08-20",
+    "last_date": "2026-08-21"
+   }
   },
   {
    "date": "2026-08-20T08:21:38Z",
