@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-21T12:46:32Z",
+ "last_updated": "2026-08-21T13:44:28Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -97,7 +97,15 @@
    "direction": "WATCH",
    "primary_ticker": "C",
    "strength": 30,
-   "reason": "Multiple stocks at 52-week highs; no explicit Trump driver stated"
+   "reason": "Multiple stocks at 52-week highs; no explicit Trump driver stated",
+   "price_since": {
+    "ticker": "C",
+    "pct": 1.3,
+    "base": 129.67,
+    "last": 131.41,
+    "base_date": "2026-08-20",
+    "last_date": "2026-08-21"
+   }
   },
   {
    "date": "2026-08-20T23:24:07Z",
@@ -113,7 +121,15 @@
    "direction": "WATCH",
    "primary_ticker": "MU",
    "strength": 25,
-   "reason": "Micron earnings catalyst unrelated to Trump; retail sentiment mention but no Trump signal"
+   "reason": "Micron earnings catalyst unrelated to Trump; retail sentiment mention but no Trump signal",
+   "price_since": {
+    "ticker": "MU",
+    "pct": 0.5,
+    "base": 974.33,
+    "last": 978.92,
+    "base_date": "2026-08-20",
+    "last_date": "2026-08-21"
+   }
   },
   {
    "date": "2026-08-20T22:09:07Z",
@@ -129,7 +145,15 @@
    "direction": "BUY",
    "primary_ticker": "UUUU",
    "strength": 65,
-   "reason": "Trump Arctic/Greenland rare-earth push; uranium and mining stocks rally on policy direction"
+   "reason": "Trump Arctic/Greenland rare-earth push; uranium and mining stocks rally on policy direction",
+   "price_since": {
+    "ticker": "UUUU",
+    "pct": 9.2,
+    "base": 13.9,
+    "last": 15.18,
+    "base_date": "2026-08-20",
+    "last_date": "2026-08-21"
+   }
   },
   {
    "date": "2026-08-20T18:48:15Z",
@@ -161,7 +185,39 @@
    "direction": "WATCH",
    "primary_ticker": "QQQ",
    "strength": 20,
-   "reason": "Treasury secretary's bond-market strategy; macro but direction unclear"
+   "reason": "Treasury secretary's bond-market strategy; macro but direction unclear",
+   "price_since": {
+    "ticker": "QQQ",
+    "pct": 0.1,
+    "base": 710.93,
+    "last": 711.59,
+    "base_date": "2026-08-20",
+    "last_date": "2026-08-21"
+   }
+  },
+  {
+   "date": "2026-08-20T16:21:11Z",
+   "platform": "News",
+   "text": "KEEL Stock Jumps Onto Retail Radar As Investors Eye First Data Center Lease Announcement - Stocktwits \u2014 KEEL Stock Jumps Onto Retail Radar As Investors Eye First Data Center Lease Announcement\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVHpiUDN5T2I5aVFzNkpxZGZjdUJEVG0xLXN0c3pVRWo2REVuRGNZTFpvLXJTT2luZVhnTC1iVmFtcFYxbkpnanphZ3E0N0ExWmx5UGh4cGw2QmRiQXl3RG81OWlKRnEwOHVHT0FWdXlGd2VIZVhjM1k2TTU0THctQ3cyUVhNNG9JcGJQMlhPVHdWbkFVSVpfR25lNzVCMTJ4cGZRR05JcnR2SWFvSGc1VnYyMzFMMnFDLURZLW5pMGk3UUwyWktaVVNmZUdDZ21QZGQ0bEZfU0o1LXRvREhFd3h2NXBTMjQ?oc=5",
+   "tickers": [
+    "KEEL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "KEEL",
+   "strength": 40,
+   "reason": "Data center lease catalyzes stock jump; Trump context unclear but market-relevant.",
+   "price_since": {
+    "ticker": "KEEL",
+    "pct": 11.9,
+    "base": 3.37,
+    "last": 3.77,
+    "base_date": "2026-08-20",
+    "last_date": "2026-08-21"
+   }
   },
   {
    "date": "2026-08-20T16:14:05Z",
@@ -177,7 +233,15 @@
    "direction": "BUY",
    "primary_ticker": "XLI",
    "strength": 45,
-   "reason": "$100M federal grant for lithium-ion batteries supports clean energy/industrial sector; bullish for battery and EV supply chain"
+   "reason": "$100M federal grant for lithium-ion batteries supports clean energy/industrial sector; bullish for battery and EV supply chain",
+   "price_since": {
+    "ticker": "XLI",
+    "pct": 0.5,
+    "base": 179.77,
+    "last": 180.65,
+    "base_date": "2026-08-20",
+    "last_date": "2026-08-21"
+   }
   },
   {
    "date": "2026-08-20T15:31:03Z",
@@ -209,7 +273,15 @@
    "direction": "WATCH",
    "primary_ticker": "TSLA",
    "strength": 50,
-   "reason": "Elon Musk Starship reuse progress; SpaceX/Tesla space venture; direction ambiguous near-term."
+   "reason": "Elon Musk Starship reuse progress; SpaceX/Tesla space venture; direction ambiguous near-term.",
+   "price_since": {
+    "ticker": "TSLA",
+    "pct": 1.4,
+    "base": 345.13,
+    "last": 349.79,
+    "base_date": "2026-08-20",
+    "last_date": "2026-08-21"
+   }
   },
   {
    "date": "2026-08-20T14:32:27Z",
@@ -225,7 +297,15 @@
    "direction": "BUY",
    "primary_ticker": "COIN",
    "strength": 65,
-   "reason": "Trump crypto push & dollar weakness lift crypto stocks broadly"
+   "reason": "Trump crypto push & dollar weakness lift crypto stocks broadly",
+   "price_since": {
+    "ticker": "COIN",
+    "pct": 9.0,
+    "base": 172.35,
+    "last": 187.78,
+    "base_date": "2026-08-20",
+    "last_date": "2026-08-21"
+   }
   },
   {
    "date": "2026-08-20T14:16:00Z",
@@ -257,7 +337,15 @@
    "direction": "BUY",
    "primary_ticker": "COIN",
    "strength": 45,
-   "reason": "Trump praise of prediction markets bullish for crypto trading platforms and speculation ecosystems"
+   "reason": "Trump praise of prediction markets bullish for crypto trading platforms and speculation ecosystems",
+   "price_since": {
+    "ticker": "COIN",
+    "pct": 9.0,
+    "base": 172.35,
+    "last": 187.78,
+    "base_date": "2026-08-20",
+    "last_date": "2026-08-21"
+   }
   },
   {
    "date": "2026-08-20T13:07:56Z",
@@ -273,7 +361,15 @@
    "direction": "WATCH",
    "primary_ticker": "DJT",
    "strength": 55,
-   "reason": "Trump profits as Americans' costs climb; bearish macro backdrop, but bullish for DJT personally"
+   "reason": "Trump profits as Americans' costs climb; bearish macro backdrop, but bullish for DJT personally",
+   "price_since": {
+    "ticker": "DJT",
+    "pct": 3.3,
+    "base": 8.51,
+    "last": 8.79,
+    "base_date": "2026-08-20",
+    "last_date": "2026-08-21"
+   }
   },
   {
    "date": "2026-08-20T13:03:28Z",
@@ -289,7 +385,15 @@
    "direction": "BUY",
    "primary_ticker": "RKLB",
    "strength": 50,
-   "reason": "Trump hidden space stock bets disclosed; bullish signal for space stocks ASTS and RKLB"
+   "reason": "Trump hidden space stock bets disclosed; bullish signal for space stocks ASTS and RKLB",
+   "price_since": {
+    "ticker": "RKLB",
+    "pct": 2.0,
+    "base": 72.95,
+    "last": 74.4,
+    "base_date": "2026-08-20",
+    "last_date": "2026-08-21"
+   }
   },
   {
    "date": "2026-08-20T12:50:37Z",
@@ -305,7 +409,15 @@
    "direction": "BUY",
    "primary_ticker": "COIN",
    "strength": 55,
-   "reason": "Trump pro-crypto policy push lifts crypto sector"
+   "reason": "Trump pro-crypto policy push lifts crypto sector",
+   "price_since": {
+    "ticker": "COIN",
+    "pct": 9.0,
+    "base": 172.35,
+    "last": 187.78,
+    "base_date": "2026-08-20",
+    "last_date": "2026-08-21"
+   }
   },
   {
    "date": "2026-08-20T12:50:37Z",
@@ -321,7 +433,15 @@
    "direction": "BUY",
    "primary_ticker": "COIN",
    "strength": 60,
-   "reason": "Trump push for crypto policy favorable to crypto stocks and exchanges"
+   "reason": "Trump push for crypto policy favorable to crypto stocks and exchanges",
+   "price_since": {
+    "ticker": "COIN",
+    "pct": 9.0,
+    "base": 172.35,
+    "last": 187.78,
+    "base_date": "2026-08-20",
+    "last_date": "2026-08-21"
+   }
   },
   {
    "date": "2026-08-20T12:17:22Z",
@@ -337,7 +457,15 @@
    "direction": "BUY",
    "primary_ticker": "SERV",
    "strength": 72,
-   "reason": "SERV rallies on Grubhub partnership and DoorDash deal expansion; concrete business catalyst"
+   "reason": "SERV rallies on Grubhub partnership and DoorDash deal expansion; concrete business catalyst",
+   "price_since": {
+    "ticker": "SERV",
+    "pct": 6.5,
+    "base": 4.74,
+    "last": 5.05,
+    "base_date": "2026-08-20",
+    "last_date": "2026-08-21"
+   }
   },
   {
    "date": "2026-08-20T11:11:07Z",
@@ -353,7 +481,15 @@
    "direction": "BUY",
    "primary_ticker": "IBM",
    "strength": 75,
-   "reason": "$1B federal grant for quantum foundry directly awarded to IBM"
+   "reason": "$1B federal grant for quantum foundry directly awarded to IBM",
+   "price_since": {
+    "ticker": "IBM",
+    "pct": 0.1,
+    "base": 233.69,
+    "last": 233.94,
+    "base_date": "2026-08-20",
+    "last_date": "2026-08-21"
+   }
   },
   {
    "date": "2026-08-20T11:03:51Z",
@@ -369,7 +505,15 @@
    "direction": "SELL",
    "primary_ticker": "WMT",
    "strength": 70,
-   "reason": "Walmart sales growth slows to 6-year low; retail weakness signal unrelated to Trump"
+   "reason": "Walmart sales growth slows to 6-year low; retail weakness signal unrelated to Trump",
+   "price_since": {
+    "ticker": "WMT",
+    "pct": -0.5,
+    "base": 103.84,
+    "last": 103.27,
+    "base_date": "2026-08-20",
+    "last_date": "2026-08-21"
+   }
   },
   {
    "date": "2026-08-20T09:36:58Z",
@@ -385,7 +529,15 @@
    "direction": "BUY",
    "primary_ticker": "XAR",
    "strength": 35,
-   "reason": "F-35 jet sales to Turkey and sanctions lift -> defense spending boost"
+   "reason": "F-35 jet sales to Turkey and sanctions lift -> defense spending boost",
+   "price_since": {
+    "ticker": "XAR",
+    "pct": 1.1,
+    "base": 271.78,
+    "last": 274.7,
+    "base_date": "2026-08-20",
+    "last_date": "2026-08-21"
+   }
   },
   {
    "date": "2026-08-20T09:28:48Z",
@@ -401,7 +553,15 @@
    "direction": "BUY",
    "primary_ticker": "IBM",
    "strength": 55,
-   "reason": "IBM surges 7% overnight; positive momentum continuation from CEO letter"
+   "reason": "IBM surges 7% overnight; positive momentum continuation from CEO letter",
+   "price_since": {
+    "ticker": "IBM",
+    "pct": 0.1,
+    "base": 233.69,
+    "last": 233.94,
+    "base_date": "2026-08-20",
+    "last_date": "2026-08-21"
+   }
   },
   {
    "date": "2026-08-20T09:26:53Z",
@@ -2212,22 +2372,6 @@
   {
    "date": "2026-08-15T14:12:24Z",
    "platform": "News",
-   "text": "KEEL Stock Jumps Onto Retail Radar As Investors Eye First Data Center Lease Announcement - Stocktwits \u2014 KEEL Stock Jumps Onto Retail Radar As Investors Eye First Data Center Lease Announcement\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVHpiUDN5T2I5aVFzNkpxZGZjdUJEVG0xLXN0c3pVRWo2REVuRGNZTFpvLXJTT2luZVhnTC1iVmFtcFYxbkpnanphZ3E0N0ExWmx5UGh4cGw2QmRiQXl3RG81OWlKRnEwOHVHT0FWdXlGd2VIZVhjM1k2TTU0THctQ3cyUVhNNG9JcGJQMlhPVHdWbkFVSVpfR25lNzVCMTJ4cGZRR05JcnR2SWFvSGc1VnYyMzFMMnFDLURZLW5pMGk3UUwyWktaVVNmZUdDZ21QZGQ0bEZfU0o1LXRvREhFd3h2NXBTMjQ?oc=5",
-   "tickers": [
-    "KEEL"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "KEEL",
-   "strength": 45,
-   "reason": "Data center lease announcement drive stock interest; unclear if Trump-related or pure company news"
-  },
-  {
-   "date": "2026-08-15T14:12:24Z",
-   "platform": "News",
    "text": "KEEL Stock Jumps Onto Retail Radar As Investors Eye First Data Center Lease Announcement - stocktwits.com \u2014 KEEL Stock Jumps Onto Retail Radar As Investors Eye First Data Center Lease Announcement\u00a0\u00a0stocktwits.com",
    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVHpiUDN5T2I5aVFzNkpxZGZjdUJEVG0xLXN0c3pVRWo2REVuRGNZTFpvLXJTT2luZVhnTC1iVmFtcFYxbkpnanphZ3E0N0ExWmx5UGh4cGw2QmRiQXl3RG81OWlKRnEwOHVHT0FWdXlGd2VIZVhjM1k2TTU0THctQ3cyUVhNNG9JcGJQMlhPVHdWbkFVSVpfR25lNzVCMTJ4cGZRR05JcnR2SWFvSGc1VnYyMzFMMnFDLURZLW5pMGk3UUwyWktaVVNmZUdDZ21QZGQ0bEZfU0o1LXRvREhFd3h2NXBTMjQ?oc=5",
    "tickers": [
@@ -2529,22 +2673,6 @@
    "primary_ticker": "C",
    "strength": 70,
    "reason": "Trump explicitly lauds Citi's big comeback in M&A"
-  },
-  {
-   "date": "2026-08-15T01:54:28Z",
-   "platform": "News",
-   "text": "Dow, S&P 500, Nasdaq Futures Whipsaw After Trump\u2019s \u2018Power Plant Day\u2019 Warning To Iran: Why ASTS, VELO, MRVL, LUNR, FCEL Are In Focus - Stocktwits \u2014 Dow, S&P 500, Nasdaq Futures Whipsaw After Trump\u2019s \u2018Power Plant Day\u2019 Warning To Iran: Why ASTS, VELO, MRVL, LUNR, FCEL Are In Focus\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZXoyV3RqQ1I4NjdmNkktNFNlNHZ4MVFpRzNzNldsTEZRTFhaN0RMVXhGWnROVG9USWhwWWdkaEl3VzB4Q2xtYWt0WDNWcjdyUWF2T0x5SV83aWw0cTlXV2ZxV3ozZ0lybmZ3LVEtOUNEODB2emp5V2hTdjhfM29JXzJrTnFTOUhvb29wcURZNi1BdVI1UTlYdjdfWEpCTi1Cd1BkVm9EQUhwVElTS3ZYNEUwYkhzWkwtUUo1S2NHN0FTZnFmN3UwVHpCWWdpSkRwX2dObWV1MHV6RDdUWm81N1Jn?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "SPY",
-   "strength": 70,
-   "reason": "Trump's Iran warning causes market whipsaw; geopolitical bearish signal"
   },
   {
    "curated": true,
