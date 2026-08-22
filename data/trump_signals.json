@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-22T22:21:20Z",
+ "last_updated": "2026-08-22T22:48:29Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -117,10 +117,26 @@
     "ticker": "BTC-USD",
     "pct": -1.6,
     "base": 78335.19,
-    "last": 77112.14,
+    "last": 77049.65,
     "base_date": "2026-08-21",
     "last_date": "2026-08-22"
    }
+  },
+  {
+   "date": "2026-08-21T21:13:23Z",
+   "platform": "News",
+   "text": "UNH Stock Becomes Dow\u2019s Biggest Driver Back To 50,000 \u2014 Will Trump Tailwinds Spark Another Leg Higher? - Stocktwits \u2014 UNH Stock Becomes Dow\u2019s Biggest Driver Back To 50,000 \u2014 Will Trump Tailwinds Spark Another Leg Higher?\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPc09TZEpPUXhaQndxcjc0MUd3T1RhaTNMb2FIamg3MWlfNWR0VHc5QXk0S01oQk9ucTBrcmRMRFdhOUd0MDE5NlBUWnBvOExFeVdyTHdyaDdIanE1YlRCd0VUbk5RZXNJSW9yVmRHejRVR0duRHJJS0U2dThGSmlHTzVmYzFEdzZfZER1aC1TSGx6M01BVlNPdXB5b1padWMyTEhjZlpuMWhEX1pkUnpPVVVleHdKbUZCd2c?oc=5",
+   "tickers": [
+    "UNH"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "UNH",
+   "strength": 35,
+   "reason": "Market-leading position with Trump-aligned policy tailwinds in healthcare"
   },
   {
    "date": "2026-08-21T20:52:18Z",
@@ -443,22 +459,6 @@
    "primary_ticker": "RKLB",
    "strength": 60,
    "reason": "Trump hidden stakes in space stocks (ASTS, RKLB) emerge; bullish signal for aerospace/satellite sector"
-  },
-  {
-   "date": "2026-08-21T04:18:46Z",
-   "platform": "News",
-   "text": "UNH Stock Becomes Dow\u2019s Biggest Driver Back To 50,000 \u2014 Will Trump Tailwinds Spark Another Leg Higher? - Stocktwits \u2014 UNH Stock Becomes Dow\u2019s Biggest Driver Back To 50,000 \u2014 Will Trump Tailwinds Spark Another Leg Higher?\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPc09TZEpPUXhaQndxcjc0MUd3T1RhaTNMb2FIamg3MWlfNWR0VHc5QXk0S01oQk9ucTBrcmRMRFdhOUd0MDE5NlBUWnBvOExFeVdyTHdyaDdIanE1YlRCd0VUbk5RZXNJSW9yVmRHejRVR0duRHJJS0U2dThGSmlHTzVmYzFEdzZfZER1aC1TSGx6M01BVlNPdXB5b1padWMyTEhjZlpuMWhEX1pkUnpPVVVleHdKbUZCd2c?oc=5",
-   "tickers": [
-    "UNH"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "UNH",
-   "strength": 40,
-   "reason": "UNH rallies with speculative Trump tailwind narrative; direction ambiguous."
   },
   {
    "date": "2026-08-21T04:10:50Z",
