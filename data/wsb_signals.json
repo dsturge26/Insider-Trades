@@ -1,87 +1,78 @@
 {
- "last_updated": "2026-08-22T17:46:26Z",
+ "last_updated": "2026-08-22T18:29:44Z",
  "source": "ApeWisdom / r/wallstreetbets",
  "signals": [
   {
    "ticker": "SPY",
    "name": "SPDR S&amp;P 500 ETF Trust",
-   "mentions": 100,
-   "mentions_24h_ago": 263,
-   "change_pct": -62.0,
+   "mentions": 85,
+   "mentions_24h_ago": 243,
+   "change_pct": -65.0,
    "rank": 1,
-   "upvotes": 284
+   "upvotes": 264
   },
   {
    "ticker": "NVDA",
    "name": "NVIDIA",
-   "mentions": 86,
+   "mentions": 84,
    "mentions_24h_ago": 103,
-   "change_pct": -16.5,
+   "change_pct": -18.4,
    "rank": 2,
-   "upvotes": 316
-  },
-  {
-   "ticker": "SLS",
-   "name": "Sellas Life Sciences",
-   "mentions": 47,
-   "mentions_24h_ago": 24,
-   "change_pct": 95.8,
-   "rank": 3,
-   "upvotes": 100
+   "upvotes": 274
   },
   {
    "ticker": "MRNA",
    "name": "Moderna",
-   "mentions": 44,
-   "mentions_24h_ago": 169,
-   "change_pct": -74.0,
+   "mentions": 38,
+   "mentions_24h_ago": 150,
+   "change_pct": -74.7,
+   "rank": 3,
+   "upvotes": 238
+  },
+  {
+   "ticker": "SLS",
+   "name": "Sellas Life Sciences",
+   "mentions": 34,
+   "mentions_24h_ago": 29,
+   "change_pct": 17.2,
    "rank": 4,
-   "upvotes": 248
+   "upvotes": 80
   },
   {
    "ticker": "MU",
    "name": "Micron Technology",
-   "mentions": 39,
-   "mentions_24h_ago": 159,
-   "change_pct": -75.5,
+   "mentions": 30,
+   "mentions_24h_ago": 160,
+   "change_pct": -81.2,
    "rank": 5,
-   "upvotes": 81
+   "upvotes": 65
   },
   {
    "ticker": "DTE",
    "name": "DTE Energy",
-   "mentions": 36,
-   "mentions_24h_ago": 50,
-   "change_pct": -28.0,
+   "mentions": 29,
+   "mentions_24h_ago": 48,
+   "change_pct": -39.6,
    "rank": 6,
-   "upvotes": 246
+   "upvotes": 235
   },
   {
    "ticker": "SNDK",
    "name": "Sandisk",
-   "mentions": 32,
-   "mentions_24h_ago": 94,
-   "change_pct": -66.0,
+   "mentions": 29,
+   "mentions_24h_ago": 89,
+   "change_pct": -67.4,
    "rank": 7,
-   "upvotes": 61
+   "upvotes": 55
   },
   {
    "ticker": "TSLA",
    "name": "Tesla",
-   "mentions": 28,
-   "mentions_24h_ago": 61,
-   "change_pct": -54.1,
+   "mentions": 23,
+   "mentions_24h_ago": 64,
+   "change_pct": -64.1,
    "rank": 8,
-   "upvotes": 59
-  },
-  {
-   "ticker": "HOOD",
-   "name": "Robinhood",
-   "mentions": 26,
-   "mentions_24h_ago": 59,
-   "change_pct": -55.9,
-   "rank": 9,
-   "upvotes": 101
+   "upvotes": 45
   },
   {
    "ticker": "AAOI",
@@ -89,17 +80,26 @@
    "mentions": 23,
    "mentions_24h_ago": 2,
    "change_pct": 1050.0,
+   "rank": 9,
+   "upvotes": 39
+  },
+  {
+   "ticker": "HOOD",
+   "name": "Robinhood",
+   "mentions": 21,
+   "mentions_24h_ago": 58,
+   "change_pct": -63.8,
    "rank": 10,
-   "upvotes": 40
+   "upvotes": 53
   },
   {
    "ticker": "QQQ",
    "name": "Invesco QQQ ETF",
-   "mentions": 19,
-   "mentions_24h_ago": 110,
+   "mentions": 18,
+   "mentions_24h_ago": 104,
    "change_pct": -82.7,
    "rank": 11,
-   "upvotes": 28
+   "upvotes": 38
   },
   {
    "ticker": "IREN",
@@ -111,49 +111,31 @@
    "upvotes": 41
   },
   {
-   "ticker": "META",
-   "name": "Meta Platforms (Facebook)",
-   "mentions": 15,
-   "mentions_24h_ago": 85,
-   "change_pct": -82.4,
-   "rank": 13,
-   "upvotes": 47
-  },
-  {
    "ticker": "VOO",
    "name": "Vanguard S&amp;P 500 ETF",
    "mentions": 14,
-   "mentions_24h_ago": 5,
-   "change_pct": 180.0,
-   "rank": 14,
-   "upvotes": 184
+   "mentions_24h_ago": 3,
+   "change_pct": 366.7,
+   "rank": 13,
+   "upvotes": 185
   },
   {
-   "ticker": "MRVL",
-   "name": "Marvell Technology Group",
+   "ticker": "META",
+   "name": "Meta Platforms (Facebook)",
    "mentions": 13,
-   "mentions_24h_ago": 20,
-   "change_pct": -35.0,
-   "rank": 15,
-   "upvotes": 51
+   "mentions_24h_ago": 83,
+   "change_pct": -84.3,
+   "rank": 14,
+   "upvotes": 35
   },
   {
    "ticker": "WMT",
    "name": "Walmart",
-   "mentions": 11,
-   "mentions_24h_ago": 60,
-   "change_pct": -81.7,
-   "rank": 16,
-   "upvotes": 31
-  },
-  {
-   "ticker": "GLD",
-   "name": "SSgA SPDR Gold Shares",
    "mentions": 10,
-   "mentions_24h_ago": 22,
-   "change_pct": -54.5,
-   "rank": 17,
-   "upvotes": 33
+   "mentions_24h_ago": 55,
+   "change_pct": -81.8,
+   "rank": 15,
+   "upvotes": 26
   },
   {
    "ticker": "NOW",
@@ -161,71 +143,89 @@
    "mentions": 9,
    "mentions_24h_ago": 8,
    "change_pct": 12.5,
-   "rank": 18,
+   "rank": 16,
    "upvotes": 80
+  },
+  {
+   "ticker": "USO",
+   "name": "United States Commodity Funds LLC - United States Oil Fund",
+   "mentions": 9,
+   "mentions_24h_ago": 13,
+   "change_pct": -30.8,
+   "rank": 17,
+   "upvotes": 134
   },
   {
    "ticker": "SPCX",
    "name": "SpaceX",
    "mentions": 9,
-   "mentions_24h_ago": 47,
-   "change_pct": -80.9,
+   "mentions_24h_ago": 44,
+   "change_pct": -79.5,
+   "rank": 18,
+   "upvotes": 24
+  },
+  {
+   "ticker": "GLD",
+   "name": "SSgA SPDR Gold Shares",
+   "mentions": 9,
+   "mentions_24h_ago": 25,
+   "change_pct": -64.0,
    "rank": 19,
-   "upvotes": 23
+   "upvotes": 38
   },
   {
    "ticker": "MSTR",
    "name": "MicroStrategy",
    "mentions": 9,
-   "mentions_24h_ago": 62,
-   "change_pct": -85.5,
+   "mentions_24h_ago": 61,
+   "change_pct": -85.2,
    "rank": 20,
-   "upvotes": 16
+   "upvotes": 13
+  },
+  {
+   "ticker": "MRVL",
+   "name": "Marvell Technology Group",
+   "mentions": 8,
+   "mentions_24h_ago": 21,
+   "change_pct": -61.9,
+   "rank": 21,
+   "upvotes": 22
   },
   {
    "ticker": "CRM",
    "name": "Salesforce",
-   "mentions": 8,
-   "mentions_24h_ago": 1,
-   "change_pct": 700.0,
-   "rank": 21,
-   "upvotes": 67
-  },
-  {
-   "ticker": "USO",
-   "name": "United States Commodity Funds LLC - United States Oil Fund",
-   "mentions": 8,
-   "mentions_24h_ago": 14,
-   "change_pct": -42.9,
-   "rank": 22,
-   "upvotes": 134
-  },
-  {
-   "ticker": "RDDT",
-   "name": "Reddit",
    "mentions": 7,
-   "mentions_24h_ago": 105,
-   "change_pct": -93.3,
-   "rank": 23,
-   "upvotes": 21
-  },
-  {
-   "ticker": "MSFT",
-   "name": "Microsoft",
-   "mentions": 6,
-   "mentions_24h_ago": 20,
-   "change_pct": -70.0,
-   "rank": 24,
-   "upvotes": 11
+   "mentions_24h_ago": 1,
+   "change_pct": 600.0,
+   "rank": 22,
+   "upvotes": 64
   },
   {
    "ticker": "RNA",
    "name": "Avidity Biosciences",
    "mentions": 6,
-   "mentions_24h_ago": 29,
-   "change_pct": -79.3,
+   "mentions_24h_ago": 28,
+   "change_pct": -78.6,
+   "rank": 23,
+   "upvotes": 19
+  },
+  {
+   "ticker": "RDDT",
+   "name": "Reddit",
+   "mentions": 6,
+   "mentions_24h_ago": 96,
+   "change_pct": -93.8,
+   "rank": 24,
+   "upvotes": 23
+  },
+  {
+   "ticker": "NBIS",
+   "name": "Nebius Group",
+   "mentions": 6,
+   "mentions_24h_ago": 26,
+   "change_pct": -76.9,
    "rank": 25,
-   "upvotes": 20
+   "upvotes": 21
   }
  ]
 }
