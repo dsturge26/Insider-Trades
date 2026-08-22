@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-08-22T20:49:20Z",
+ "last_updated": "2026-08-22T21:21:17Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-08-22T14:50:07Z",
+   "platform": "News",
+   "text": "TMC Stock Gains On NOAA Compliance Ruling In A Boost To US Critical Metals Push - Stocktwits \u2014 TMC Stock Gains On NOAA Compliance Ruling In A Boost To US Critical Metals Push\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPU2VKTTZTaFFpRGRTM2xzQlphMnVwbWFUNVdqVGx2R2dwa2dmNGxPRzRUUWQwMXZocEVkMzBLcnNJcDZxaTBkaFk0U3FWSFNMUms4aTk0XzFkdlZKUWFub0NHRFlvY0E4NHJVWUd4VWUzSVhUSG45VEhNd3hWUXpyTTE3dGliSWpDV2xqU2l1djJsUmZiZnpOdWMtZ19lLTlxMXkzWGFMdjlxbkZvTGZyV0pyeWNkalFISkF4UU9sQkVWV1dF?oc=5",
+   "tickers": [
+    "TMC"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "TMC",
+   "strength": 75,
+   "reason": "Named federal ruling (NOAA compliance) directly boosting critical metals company TMC; clear bullish catalyst for the ticker."
+  },
   {
    "date": "2026-08-22T10:55:12Z",
    "platform": "News",
@@ -99,9 +115,9 @@
    "reason": "Bitcoin rally driving crypto sector upward; broad tailwind for crypto assets",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": -1.3,
+    "pct": -1.4,
     "base": 78335.19,
-    "last": 77344.38,
+    "last": 77208.7,
     "base_date": "2026-08-21",
     "last_date": "2026-08-22"
    }
