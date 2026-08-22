@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-22T07:54:49Z",
+ "last_updated": "2026-08-22T08:29:21Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -19,9 +19,9 @@
    "reason": "Bitcoin rally driving crypto sector upward; broad tailwind for crypto assets",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": -1.2,
+    "pct": -1.4,
     "base": 78335.19,
-    "last": 77358.76,
+    "last": 77252.93,
     "base_date": "2026-08-21",
     "last_date": "2026-08-22"
    }
@@ -171,6 +171,38 @@
    "primary_ticker": "SPY",
    "strength": 35,
    "reason": "Opportunity zones policy signal; real estate/development stimulus implies broad economic activity boost"
+  },
+  {
+   "date": "2026-08-21T07:53:52Z",
+   "platform": "News",
+   "text": "Is Netflix\u2019s WBD Bid In Trouble Again? Trump Warns Streaming Giant To Fire Board Member Or \u2018Pay The Consequences\u2019 - Stocktwits \u2014 Is Netflix\u2019s WBD Bid In Trouble Again? Trump Warns Streaming Giant To Fire Board Member Or \u2018Pay The Consequences\u2019\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQU3phR3IwODgtQldLX19NMUFXaVBmN2t6QlVvNTdXZmtVcVhwZzd1NVhCSTFyNndCNjhRZ19qa0Y0X2xuWXFuMmxpYmVwTUVWNzlRaU5DTURGWGl6azJLQWxjam9QRW9URXh1d3ZRYmlBU3h6dmV3aDlxTmlqY1BBVmltN09wMm9adDR0OFFDdXYzRlBlWDRCWmJWWW1NXzdRVkhac0M3dkREaXR2ZUFMZk9WZldYYk0xSVVzR1FncGw1NlpPNG9IVmUxbHY0RTh5dXhqcXloRElQM3E1aS02TEJ1MllrZDd5bGViTHg3LUJlMjg3bllVMEhKcDRiSDFNQmNz?oc=5",
+   "tickers": [
+    "NFLX"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "SELL",
+   "primary_ticker": "NFLX",
+   "strength": 70,
+   "reason": "Trump threatens Netflix to fire board member; direct attack on specific company with consequences implied"
+  },
+  {
+   "date": "2026-08-21T07:52:56Z",
+   "platform": "News",
+   "text": "Nasdaq, S&P 500 Futures Rebound As Micron Rally Lifts Chip Stocks: Why SPCX, QCOM, TSM, BABA, PLTR, CBRS, WEN, IBRX Are In Focus - Stocktwits \u2014 Nasdaq, S&P 500 Futures Rebound As Micron Rally Lifts Chip Stocks: Why SPCX, QCOM, TSM, BABA, PLTR, CBRS, WEN, IBRX Are In Focus\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQZjEyUjNpdUFBSU1TbzlQNmpzSV9LcDA3cDJHcDdWRWdmN0pqa2Nma3lfdEdJdmM2eGwtUE9PMTdqYUh1bno4cC04b3lUUVNGMEVlY0xYMTRZODJHREltVkNSYzlsbnJFd0RMdjQ4X0lDSWZRM1pfR0RJYTdPbl9UYThhRUhtdU91T2NsSVJqQlBCT2J2YmNXbXFWV1BQdkkyMVZmM0NwLXRGWk52WmRUeU9CZzRnalNQX3BMWmQ3VEpYMUE3RVhaTWNNOElQTllMR1NVYnUtWVFIbHh4a25heWJjWjZfNjdoT1d2eFhhTnlHN3dTVU05MnhGZGxHZTRpWm1xc2o0MEdSZw?oc=5",
+   "tickers": [
+    "SMH"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "SMH",
+   "strength": 50,
+   "reason": "Chip sector rally; Micron and semiconductor strength broad-based"
   },
   {
    "date": "2026-08-21T05:02:37Z",
@@ -1897,30 +1929,6 @@
   {
    "date": "2026-08-18T05:02:00Z",
    "platform": "News",
-   "text": "Nasdaq, S&P 500 Futures Rebound As Micron Rally Lifts Chip Stocks: Why SPCX, QCOM, TSM, BABA, PLTR, CBRS, WEN, IBRX Are In Focus - Stocktwits \u2014 Nasdaq, S&P 500 Futures Rebound As Micron Rally Lifts Chip Stocks: Why SPCX, QCOM, TSM, BABA, PLTR, CBRS, WEN, IBRX Are In Focus\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQZjEyUjNpdUFBSU1TbzlQNmpzSV9LcDA3cDJHcDdWRWdmN0pqa2Nma3lfdEdJdmM2eGwtUE9PMTdqYUh1bno4cC04b3lUUVNGMEVlY0xYMTRZODJHREltVkNSYzlsbnJFd0RMdjQ4X0lDSWZRM1pfR0RJYTdPbl9UYThhRUhtdU91T2NsSVJqQlBCT2J2YmNXbXFWV1BQdkkyMVZmM0NwLXRGWk52WmRUeU9CZzRnalNQX3BMWmQ3VEpYMUE3RVhaTWNNOElQTllMR1NVYnUtWVFIbHh4a25heWJjWjZfNjdoT1d2eFhhTnlHN3dTVU05MnhGZGxHZTRpWm1xc2o0MEdSZw?oc=5",
-   "tickers": [
-    "QQQ"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "QQQ",
-   "strength": 35,
-   "reason": "Chip sector rally (Micron, QCOM, TSM); Nasdaq strength on semiconductor momentum.",
-   "price_since": {
-    "ticker": "QQQ",
-    "pct": -0.2,
-    "base": 717.51,
-    "last": 716.08,
-    "base_date": "2026-08-18",
-    "last_date": "2026-08-19"
-   }
-  },
-  {
-   "date": "2026-08-18T05:02:00Z",
-   "platform": "News",
    "text": "Nasdaq, S&P 500 Futures Rebound As Micron Rally Lifts Chip Stocks: Why SPCX, QCOM, TSM, BABA, PLTR, CBRS, WEN, IBRX Are In Focus - stocktwits.com \u2014 Nasdaq, S&P 500 Futures Rebound As Micron Rally Lifts Chip Stocks: Why SPCX, QCOM, TSM, BABA, PLTR, CBRS, WEN, IBRX Are In Focus\u00a0\u00a0stocktwits.com",
    "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQZjEyUjNpdUFBSU1TbzlQNmpzSV9LcDA3cDJHcDdWRWdmN0pqa2Nma3lfdEdJdmM2eGwtUE9PMTdqYUh1bno4cC04b3lUUVNGMEVlY0xYMTRZODJHREltVkNSYzlsbnJFd0RMdjQ4X0lDSWZRM1pfR0RJYTdPbl9UYThhRUhtdU91T2NsSVJqQlBCT2J2YmNXbXFWV1BQdkkyMVZmM0NwLXRGWk52WmRUeU9CZzRnalNQX3BMWmQ3VEpYMUE3RVhaTWNNOElQTllMR1NVYnUtWVFIbHh4a25heWJjWjZfNjdoT1d2eFhhTnlHN3dTVU05MnhGZGxHZTRpWm1xc2o0MEdSZw?oc=5",
    "tickers": [
@@ -1962,30 +1970,6 @@
     "pct": 7.1,
     "base": 64680.71,
     "last": 69252.54,
-    "base_date": "2026-08-18",
-    "last_date": "2026-08-19"
-   }
-  },
-  {
-   "date": "2026-08-18T00:48:01Z",
-   "platform": "News",
-   "text": "Is Netflix\u2019s WBD Bid In Trouble Again? Trump Warns Streaming Giant To Fire Board Member Or \u2018Pay The Consequences\u2019 - Stocktwits \u2014 Is Netflix\u2019s WBD Bid In Trouble Again? Trump Warns Streaming Giant To Fire Board Member Or \u2018Pay The Consequences\u2019\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQU3phR3IwODgtQldLX19NMUFXaVBmN2t6QlVvNTdXZmtVcVhwZzd1NVhCSTFyNndCNjhRZ19qa0Y0X2xuWXFuMmxpYmVwTUVWNzlRaU5DTURGWGl6azJLQWxjam9QRW9URXh1d3ZRYmlBU3h6dmV3aDlxTmlqY1BBVmltN09wMm9adDR0OFFDdXYzRlBlWDRCWmJWWW1NXzdRVkhac0M3dkREaXR2ZUFMZk9WZldYYk0xSVVzR1FncGw1NlpPNG9IVmUxbHY0RTh5dXhqcXloRElQM3E1aS02TEJ1MllrZDd5bGViTHg3LUJlMjg3bllVMEhKcDRiSDFNQmNz?oc=5",
-   "tickers": [
-    "NFLX"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "SELL",
-   "primary_ticker": "NFLX",
-   "strength": 75,
-   "reason": "Trump explicitly warns Netflix to fire board member or face consequences; direct threat.",
-   "price_since": {
-    "ticker": "NFLX",
-    "pct": 3.2,
-    "base": 77.77,
-    "last": 80.22,
     "base_date": "2026-08-18",
     "last_date": "2026-08-19"
    }
