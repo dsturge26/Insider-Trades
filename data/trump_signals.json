@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-22T19:00:22Z",
+ "last_updated": "2026-08-22T19:29:36Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -83,9 +83,9 @@
    "reason": "Bitcoin rally driving crypto sector upward; broad tailwind for crypto assets",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": -1.4,
+    "pct": -1.3,
     "base": 78335.19,
-    "last": 77245.8,
+    "last": 77278.6,
     "base_date": "2026-08-21",
     "last_date": "2026-08-22"
    }
@@ -121,6 +121,22 @@
    "primary_ticker": "MARA",
    "strength": 60,
    "reason": "MARA surges on Clarity Act hopes; specific crypto regulatory catalyst"
+  },
+  {
+   "date": "2026-08-21T20:05:32Z",
+   "platform": "News",
+   "text": "NOK Stock Rises Pre-Market: Trump Endorsement Adds Fuel To AI Growth Push For Nokia - Stocktwits \u2014 NOK Stock Rises Pre-Market: Trump Endorsement Adds Fuel To AI Growth Push For Nokia\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNaVBkeHg0Vi02NWZ0Tlp5bGh2bjdYaC10MUFVamtBcTFCbjByT05oVmIyeUJQSzFMVGZSLXpFdkd0NVVIMHY3UzNqOFFIQ3FvakVucnM4dms0VXZHQTdlSnJkTXpqdVVJclpEU2lEUUtKYTloWjFFRU5Db2cteVF5UGxkd05LakNaMWZpa1UtaVdodVVIU1I1Vkxjb0kyTG52eFVUaHdkR3Rjb0l4MmpQT2ZMTW5HWWNFdTA2elZuN3ZCckxMa2VrS0FXZm9VNUJWSDBSU2RDMV9WNkJmajVJ?oc=5",
+   "tickers": [
+    "NOK"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "NOK",
+   "strength": 65,
+   "reason": "Trump explicit endorsement of Nokia for AI growth; direct named-company praise"
   },
   {
    "date": "2026-08-21T17:24:14.193Z",
@@ -186,6 +202,22 @@
    "primary_ticker": "HOOD",
    "strength": 75,
    "reason": "Trump explicitly endorses Crypto Clarity Act; Robinhood stock already rallied 11% as direct beneficiary of crypto-friendly policy"
+  },
+  {
+   "date": "2026-08-21T14:54:03Z",
+   "platform": "News",
+   "text": "Trump Claims Iran Has Committed To No Nuclear Weapons \u2013 Says He\u2019s 'Getting Along Quite Well\u2019 With Supreme Leader Khamenei - Stocktwits \u2014 Trump Claims Iran Has Committed To No Nuclear Weapons \u2013 Says He\u2019s 'Getting Along Quite Well\u2019 With Supreme Leader Khamenei\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPb3pjU3JoNFBGcElfcTYxR2QzazdrcjRuUElqd1hIY0ZTVE1zY2RYNEFBcks5WUZrSk1MekI4TkkxUVhBZ0hVcHhWNnBzcVNZTHlxQzFTaUROaVdBclRUWEdtWnZhNkhUeDZMN3RNTmdLR18wQkZ6WmM1TGJRRkQ3Yk10SkU2d3NEcUIzVEIwNnAxM3ozcFJ6NklteTU0RzMxLVlpTVIyNGNMWDVNYlR5YzB0X3dSLUMydG5qZmVLUVVLQlJyV2ZhQkVmeWVTcXNT?oc=5",
+   "tickers": [
+    "XLE"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "XLE",
+   "strength": 40,
+   "reason": "Iran nuclear deal reduces geopolitical risk; supports oil and energy stability"
   },
   {
    "date": "2026-08-21T13:47:05Z",
@@ -2497,22 +2529,6 @@
     "base_date": "2026-08-17",
     "last_date": "2026-08-18"
    }
-  },
-  {
-   "date": "2026-08-15T20:03:25Z",
-   "platform": "News",
-   "text": "NOK Stock Rises Pre-Market: Trump Endorsement Adds Fuel To AI Growth Push For Nokia - Stocktwits \u2014 NOK Stock Rises Pre-Market: Trump Endorsement Adds Fuel To AI Growth Push For Nokia\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNaVBkeHg0Vi02NWZ0Tlp5bGh2bjdYaC10MUFVamtBcTFCbjByT05oVmIyeUJQSzFMVGZSLXpFdkd0NVVIMHY3UzNqOFFIQ3FvakVucnM4dms0VXZHQTdlSnJkTXpqdVVJclpEU2lEUUtKYTloWjFFRU5Db2cteVF5UGxkd05LakNaMWZpa1UtaVdodVVIU1I1Vkxjb0kyTG52eFVUaHdkR3Rjb0l4MmpQT2ZMTW5HWWNFdTA2elZuN3ZCckxMa2VrS0FXZm9VNUJWSDBSU2RDMV9WNkJmajVJ?oc=5",
-   "tickers": [
-    "NOK"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "NOK",
-   "strength": 70,
-   "reason": "Trump endorsement of Nokia for AI growth; explicit praise of named public company"
   },
   {
    "date": "2026-08-15T20:03:25Z",
