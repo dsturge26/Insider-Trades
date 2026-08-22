@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-22T15:46:37Z",
+ "last_updated": "2026-08-22T16:23:33Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -35,6 +35,22 @@
    "reason": "SK Hynix DRAM offering and Micron strength bullish for semiconductor sector"
   },
   {
+   "date": "2026-08-22T03:52:02Z",
+   "platform": "News",
+   "text": "Trump Reinstates Iranian Blockade, Says US Will Be Reimbursed At A Rate Of 20% On All Cargo Shipped Through The Strait Of Hormuz - Stocktwits \u2014 Trump Reinstates Iranian Blockade, Says US Will Be Reimbursed At A Rate Of 20% On All Cargo Shipped Through The Strait Of Hormuz\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQbmtjamxSQk5UZDVHZ3FaSjdKTmdhYjNhclV0Tk95ZEpvM2FFRnFDclNiVzhwNjluT2d0V0xBc0N5RkZUeDdXOGVkZV90ZkVQdEkzM0lvSEdrZjdwRENPRUQwdVZTS2VjSTRkSFdEbzdxZXlqXzV6cUMyY0trTW9RQ29ld3pRU2dyMnFSYzEwUE9sSzEwakNmY20xeUpVcUhINzdwN2p3SkxHdEpaZjVSa0RWa3dHWkJQaW51SV8tbk5GQ2ZOdXNhaXBCOA?oc=5",
+   "tickers": [
+    "XLE"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "XLE",
+   "strength": 65,
+   "reason": "Iranian blockade with 20% cargo tax creates geopolitical friction and shipping cost inflation, bearish for oil/energy sector"
+  },
+  {
    "date": "2026-08-21T22:26:25Z",
    "platform": "News",
    "text": "Bitcoin rally sends crypto stocks soaring as miners, treasury companies jump - Cryptonews.net \u2014 Bitcoin rally sends crypto stocks soaring as miners, treasury companies jump\u00a0\u00a0Cryptonews.net",
@@ -51,9 +67,9 @@
    "reason": "Bitcoin rally driving crypto sector upward; broad tailwind for crypto assets",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": -1.6,
+    "pct": -1.5,
     "base": 78335.19,
-    "last": 77070.01,
+    "last": 77186.93,
     "base_date": "2026-08-21",
     "last_date": "2026-08-22"
    }
