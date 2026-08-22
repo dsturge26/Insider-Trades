@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-22T14:20:55Z",
+ "last_updated": "2026-08-22T14:47:54Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -53,7 +53,7 @@
     "ticker": "BTC-USD",
     "pct": -1.7,
     "base": 78335.19,
-    "last": 77017.52,
+    "last": 76977.17,
     "base_date": "2026-08-21",
     "last_date": "2026-08-22"
    }
@@ -331,6 +331,22 @@
    "primary_ticker": "UNH",
    "strength": 40,
    "reason": "UNH rallies with speculative Trump tailwind narrative; direction ambiguous."
+  },
+  {
+   "date": "2026-08-21T04:10:50Z",
+   "platform": "News",
+   "text": "Micron Pours $10 Billion Into Memory Research Lab as Trump Administration and Apple CEO Express Support - TradingKey \u2014 Micron Pours $10 Billion Into Memory Research Lab as Trump Administration and Apple CEO Express Support\u00a0\u00a0TradingKey",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQYkNFTHV0Qk1RUnRTR1JwZThxX2ZvUDVnY1NaaS1EclllVXFob09lWXdNN2I0UVc5clhuT0o4MVJTem5VaU1Bd3Z2VmltX25vN29iX2Nad3J4ekhHSkhSNmJHcTBBUHRYOXpFZWU2TkQzZUlNM1o4Wm8yTTdVMWNYdDQ0NnNBcDZ5emdqV0tsZFdvS2tNMGVNYTJBR3pLaS1Xc3Z2TWFMNWJ3MS1Yb0ZxTXpQVjJlckR2TDY1OUhpYjU5cUMyZnc?oc=5",
+   "tickers": [
+    "MU"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "MU",
+   "strength": 70,
+   "reason": "Micron $10B memory lab investment; Trump administration and Apple CEO support bullish for chip capex and demand"
   },
   {
    "date": "2026-08-21T03:55:12Z",
