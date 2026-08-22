@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-22T13:19:07Z",
+ "last_updated": "2026-08-22T13:52:05Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -51,9 +51,9 @@
    "reason": "Bitcoin rally driving crypto sector upward; broad tailwind for crypto assets",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": -1.5,
+    "pct": -1.3,
     "base": 78335.19,
-    "last": 77158.1,
+    "last": 77335.19,
     "base_date": "2026-08-21",
     "last_date": "2026-08-22"
    }
@@ -154,6 +154,22 @@
    "primary_ticker": "SPY",
    "strength": 40,
    "reason": "Perpetual futures regulation debate affects market structure but direction unclear; macro financial infrastructure issue"
+  },
+  {
+   "date": "2026-08-21T12:19:41Z",
+   "platform": "News",
+   "text": "IBRX Stock Rallies Into Trump\u2019s Big SOTU Night \u2014 Here\u2019s What Traders Think Could Fuel The Next Move - Stocktwits \u2014 IBRX Stock Rallies Into Trump\u2019s Big SOTU Night \u2014 Here\u2019s What Traders Think Could Fuel The Next Move\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWFdFall2YVNMN3Rialp3SE9sU0h6YUQ1MDFiX2JaeXMxNlFFZUZveFU0TkVxUFI4cTQ5bW5VdkFlTDd1dFNwSUN2YTRtRl83aVRRXzZ6d09TeEhlR1NJb1JaMHlMWDhrQXpmZW40c1B1Y21KNjhxdm90Ny1uU3p4MzJZSW9GNGduMEdyRzFIU2RGLWlYWXg4TFJUU0N6ZlhFemxtUmprVXY0YkVRZk5vZHljazQ?oc=5",
+   "tickers": [
+    "IBRX"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "IBRX",
+   "strength": 40,
+   "reason": "IBRX mentioned in State of Union context but direction and catalyst unclear"
   },
   {
    "date": "2026-08-21T12:00:00Z",
@@ -459,22 +475,6 @@
    "primary_ticker": "AMZN",
    "strength": 40,
    "reason": "MAGA-aligned marketplace failure and Trump Jr. involvement suggests reputational/competitive risk to Amazon via association"
-  },
-  {
-   "date": "2026-08-21T00:15:12Z",
-   "platform": "News",
-   "text": "IBRX Stock Rallies Into Trump\u2019s Big SOTU Night \u2014 Here\u2019s What Traders Think Could Fuel The Next Move - Stocktwits \u2014 IBRX Stock Rallies Into Trump\u2019s Big SOTU Night \u2014 Here\u2019s What Traders Think Could Fuel The Next Move\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWFdFall2YVNMN3Rialp3SE9sU0h6YUQ1MDFiX2JaeXMxNlFFZUZveFU0TkVxUFI4cTQ5bW5VdkFlTDd1dFNwSUN2YTRtRl83aVRRXzZ6d09TeEhlR1NJb1JaMHlMWDhrQXpmZW40c1B1Y21KNjhxdm90Ny1uU3p4MzJZSW9GNGduMEdyRzFIU2RGLWlYWXg4TFJUU0N6ZlhFemxtUmprVXY0YkVRZk5vZHljazQ?oc=5",
-   "tickers": [
-    "IBRX"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "IBRX",
-   "strength": 25,
-   "reason": "Stock rallies ahead of SOTU; direction ambiguous"
   },
   {
    "date": "2026-08-21T00:06:21Z",
@@ -2633,23 +2633,6 @@
    "primary_ticker": "DELL",
    "strength": 70,
    "reason": "Trump explicitly endorses Dell, stock spikes to record highs"
-  },
-  {
-   "date": "2026-08-15T12:31:50.605Z",
-   "platform": "Truth Social",
-   "text": "White House report details 'Great Transshipment Scam' costing tens of billions in tariff evasion: https://justthenews.com/government/white-house/white-house-report-details-great-transshipment-scam-costing-tens-billions",
-   "tickers": [
-    "SPY"
-   ],
-   "engagement": 9528,
-   "url": "https://truthsocial.com/@realDonaldTrump/117099535440653927",
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "SPY",
-   "strength": 35,
-   "reason": "White House tariff enforcement action against evasion; suggests tighter tariff regime bearish for broad market and trade"
   },
   {
    "curated": true,
