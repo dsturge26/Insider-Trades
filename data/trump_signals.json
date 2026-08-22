@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-22T19:29:36Z",
+ "last_updated": "2026-08-22T19:49:25Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -67,6 +67,22 @@
    "reason": "Iranian blockade with 20% cargo tax creates geopolitical friction and shipping cost inflation, bearish for oil/energy sector"
   },
   {
+   "date": "2026-08-22T01:00:04Z",
+   "platform": "News",
+   "text": "AMD Stock Is Having Its Best Year In A Decade \u2014 And CEO Lisa Su Gets $36M Equity Reward To Match - Stocktwits \u2014 AMD Stock Is Having Its Best Year In A Decade \u2014 And CEO Lisa Su Gets $36M Equity Reward To Match\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNTGc3ZlZNOENNNjhrSjQyUjJ5SVdfVDRyUE9wUW5VRHFpb01UVktVSnAxZEdRbE5STjRPQV9rQTQ1aU1Ca2d4YUZOX0RCb2trWGY3dERJVXdfMm9DcVVmSkJGRVAxUmxpN0o1d3RkSDhSdFJFVTV1TjFhbkh5ZlNPWFk1OHlCUHlYazBHUnk4SWlYQ3JhWDgtTURERlA4N2V4cklpcEFkcHJCX0c1RXh4SE5pa3VxdzZCWG1HQmRBYUdocVRZV3ZyOFJHQWp5eWh2M3ZELTBQR0RWcmZjM0JHT3NMRk1NZ2NQWXF0SElabw?oc=5",
+   "tickers": [
+    "AMD"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "AMD",
+   "strength": 40,
+   "reason": "AMD stock surge and CEO reward; reflects strong performance but no direct Trump catalyst mentioned"
+  },
+  {
    "date": "2026-08-21T22:26:25Z",
    "platform": "News",
    "text": "Bitcoin rally sends crypto stocks soaring as miners, treasury companies jump - Cryptonews.net \u2014 Bitcoin rally sends crypto stocks soaring as miners, treasury companies jump\u00a0\u00a0Cryptonews.net",
@@ -83,9 +99,9 @@
    "reason": "Bitcoin rally driving crypto sector upward; broad tailwind for crypto assets",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": -1.3,
+    "pct": -1.1,
     "base": 78335.19,
-    "last": 77278.6,
+    "last": 77445.45,
     "base_date": "2026-08-21",
     "last_date": "2026-08-22"
    }
@@ -1527,30 +1543,6 @@
    }
   },
   {
-   "date": "2026-08-18T20:04:39Z",
-   "platform": "News",
-   "text": "AMD Stock Is Having Its Best Year In A Decade \u2014 And CEO Lisa Su Gets $36M Equity Reward To Match - Stocktwits \u2014 AMD Stock Is Having Its Best Year In A Decade \u2014 And CEO Lisa Su Gets $36M Equity Reward To Match\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNTGc3ZlZNOENNNjhrSjQyUjJ5SVdfVDRyUE9wUW5VRHFpb01UVktVSnAxZEdRbE5STjRPQV9rQTQ1aU1Ca2d4YUZOX0RCb2trWGY3dERJVXdfMm9DcVVmSkJGRVAxUmxpN0o1d3RkSDhSdFJFVTV1TjFhbkh5ZlNPWFk1OHlCUHlYazBHUnk4SWlYQ3JhWDgtTURERlA4N2V4cklpcEFkcHJCX0c1RXh4SE5pa3VxdzZCWG1HQmRBYUdocVRZV3ZyOFJHQWp5eWh2M3ZELTBQR0RWcmZjM0JHT3NMRk1NZ2NQWXF0SElabw?oc=5",
-   "tickers": [
-    "AMD"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "AMD",
-   "strength": 45,
-   "reason": "Best year in decade and CEO equity reward signal strong fundamentals",
-   "price_since": {
-    "ticker": "AMD",
-    "pct": -4.2,
-    "base": 484.39,
-    "last": 464.2,
-    "base_date": "2026-08-18",
-    "last_date": "2026-08-20"
-   }
-  },
-  {
    "date": "2026-08-18T18:19:11Z",
    "platform": "News",
    "text": "State Farm\u2019s $5 billion dividend is largest payout in company history - Washington Times \u2014 State Farm\u2019s $5 billion dividend is largest payout in company history\u00a0\u00a0Washington Times",
@@ -2625,22 +2617,6 @@
    "primary_ticker": "UUUU",
    "strength": 65,
    "reason": "Trump Arctic/Greenland ambitions boost rare-earth & uranium demand prospects"
-  },
-  {
-   "date": "2026-08-15T14:42:36Z",
-   "platform": "News",
-   "text": "QCOM Stock Is 7% From Its Record High; Executives To Join Trump In China Visit - stocktwits.com \u2014 QCOM Stock Is 7% From Its Record High; Executives To Join Trump In China Visit\u00a0\u00a0stocktwits.com",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVXpadHNKQ3hrQS15eXBfZVNyZkRXR2hZZGpvbUF0OFp0VHJrWUhsck53RmFDb2l4eUdfVFQwY0QyZ0tYMERtRE1aaGRVSV9ORFVQd1I4WW9VOXNPS2o2Z3RqRnVReldvOWJneGJsbl81MDRkdTQ1TFd1RVQzWHgzcS01VU9ZY0RuVHZ4TWZOQWphQjlDZVQxMkJKb21PZkJYZXNxLVhnT0xKUDVEcHZYWWUyNncyZzJwX0V1YkJUTUluTU9rTFkxZ2RLRkx6eTk0dGRLSTg1T0Nwd0toT3c?oc=5",
-   "tickers": [
-    "QCOM"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "QCOM",
-   "strength": 60,
-   "reason": "QCOM executives joining Trump China visit signals potential trade engagement; near record highs on optimism"
   },
   {
    "curated": true,
