@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-22T06:39:09Z",
+ "last_updated": "2026-08-22T07:18:50Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -16,7 +16,15 @@
    "direction": "BUY",
    "primary_ticker": "BTC-USD",
    "strength": 45,
-   "reason": "Bitcoin rally driving crypto sector upward; broad tailwind for crypto assets"
+   "reason": "Bitcoin rally driving crypto sector upward; broad tailwind for crypto assets",
+   "price_since": {
+    "ticker": "BTC-USD",
+    "pct": -1.4,
+    "base": 78335.19,
+    "last": 77225.12,
+    "base_date": "2026-08-21",
+    "last_date": "2026-08-22"
+   }
   },
   {
    "date": "2026-08-21T20:52:18Z",
@@ -163,6 +171,22 @@
    "primary_ticker": "SPY",
    "strength": 35,
    "reason": "Opportunity zones policy signal; real estate/development stimulus implies broad economic activity boost"
+  },
+  {
+   "date": "2026-08-21T05:02:37Z",
+   "platform": "News",
+   "text": "QCOM Stock Is 7% From Its Record High; Executives To Join Trump In China Visit - Stocktwits \u2014 QCOM Stock Is 7% From Its Record High; Executives To Join Trump In China Visit\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVXpadHNKQ3hrQS15eXBfZVNyZkRXR2hZZGpvbUF0OFp0VHJrWUhsck53RmFDb2l4eUdfVFQwY0QyZ0tYMERtRE1aaGRVSV9ORFVQd1I4WW9VOXNPS2o2Z3RqRnVReldvOWJneGJsbl81MDRkdTQ1TFd1RVQzWHgzcS01VU9ZY0RuVHZ4TWZOQWphQjlDZVQxMkJKb21PZkJYZXNxLVhnT0xKUDVEcHZYWWUyNncyZzJwX0V1YkJUTUluTU9rTFkxZ2RLRkx6eTk0dGRLSTg1T0Nwd0toT3c?oc=5",
+   "tickers": [
+    "QCOM"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "QCOM",
+   "strength": 55,
+   "reason": "QCOM execs join Trump China visit \u2192 potential trade deal or policy clarity bullish signal"
   },
   {
    "date": "2026-08-21T04:54:33Z",
@@ -477,9 +501,9 @@
    "reason": "Trump presses Congress on CLARITY Act as Bitcoin tops $70K; explicit crypto regulatory push aligns with bullish price move",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": 5.9,
+    "pct": 5.8,
     "base": 73032.76,
-    "last": 77321.79,
+    "last": 77257.35,
     "base_date": "2026-08-20",
     "last_date": "2026-08-22"
    }
@@ -2593,22 +2617,6 @@
    "primary_ticker": "QCOM",
    "strength": 60,
    "reason": "QCOM executives joining Trump China visit signals potential trade engagement; near record highs on optimism"
-  },
-  {
-   "date": "2026-08-15T14:42:36Z",
-   "platform": "News",
-   "text": "QCOM Stock Is 7% From Its Record High; Executives To Join Trump In China Visit - Stocktwits \u2014 QCOM Stock Is 7% From Its Record High; Executives To Join Trump In China Visit\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVXpadHNKQ3hrQS15eXBfZVNyZkRXR2hZZGpvbUF0OFp0VHJrWUhsck53RmFDb2l4eUdfVFQwY0QyZ0tYMERtRE1aaGRVSV9ORFVQd1I4WW9VOXNPS2o2Z3RqRnVReldvOWJneGJsbl81MDRkdTQ1TFd1RVQzWHgzcS01VU9ZY0RuVHZ4TWZOQWphQjlDZVQxMkJKb21PZkJYZXNxLVhnT0xKUDVEcHZYWWUyNncyZzJwX0V1YkJUTUluTU9rTFkxZ2RLRkx6eTk0dGRLSTg1T0Nwd0toT3c?oc=5",
-   "tickers": [
-    "QCOM"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "QCOM",
-   "strength": 50,
-   "reason": "Qualcomm executives joining Trump in China visit; potential trade opportunity but direction unclear"
   },
   {
    "date": "2026-08-15T14:12:24Z",
