@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-22T21:21:17Z",
+ "last_updated": "2026-08-22T21:46:29Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -115,9 +115,9 @@
    "reason": "Bitcoin rally driving crypto sector upward; broad tailwind for crypto assets",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": -1.4,
+    "pct": -1.8,
     "base": 78335.19,
-    "last": 77208.7,
+    "last": 76960.69,
     "base_date": "2026-08-21",
     "last_date": "2026-08-22"
    }
@@ -185,6 +185,22 @@
    "primary_ticker": "PLTR",
    "strength": 70,
    "reason": "Trump signals support for Palantir; explicit positive catalyst for named stock"
+  },
+  {
+   "date": "2026-08-21T18:01:32Z",
+   "platform": "News",
+   "text": "Trump Says After Iran, US May Turn Its Attention To Cuba: Report - Stocktwits \u2014 Trump Says After Iran, US May Turn Its Attention To Cuba: Report\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQWZ4TldDMUd6TUpfRWZzZFdHSmNPQ19WdUVQaFl0UWR6dHZwZnA2cUFHUVRpU3cxenFXOVFSaEg1SVc5UWZCMlFLWWtjaEhVMVlFWXhwNjdmN1RZU0NrejZWN29oOXVIS2dzejA1WVhVUDhsOVhWVG84dk9KZ1JFdC1ZWmxmbDFFVGZYNnR5T2JwTGZBZGZFTWxCWWFTc1JUQ0F5VTNCelYwd1psZkoxOG5jNEp1OUg2bDNTbzZOTnE1OGFw?oc=5",
+   "tickers": [
+    "XLE"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "XLE",
+   "strength": 50,
+   "reason": "potential Cuba sanctions expansion could affect energy and trade flows"
   },
   {
    "date": "2026-08-21T17:24:14.193Z",
@@ -2609,22 +2625,6 @@
    "primary_ticker": "PLTR",
    "strength": 40,
    "reason": "Trump endorsement supports stock but contrarian short thesis from Burry creates conflicting signals"
-  },
-  {
-   "date": "2026-08-15T14:47:06Z",
-   "platform": "News",
-   "text": "CRML, UUUU, USAR, ALOY, GLND: Greenland\u2019s Rare-Earth Trade Draws Investors As Trump Revives Arctic Ambitions - stocktwits.com \u2014 CRML, UUUU, USAR, ALOY, GLND: Greenland\u2019s Rare-Earth Trade Draws Investors As Trump Revives Arctic Ambitions\u00a0\u00a0stocktwits.com",
-   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPS2w5bklfdmlQVG1ZZDgtRGo5QnlTdW5FZ3dWdnh3aGhJU1FoVHk3aW0tSUU5eDB3bmptb21TSmZvbkZSR2pDR0QydXJFNGV3MFVZWDRxV0YxYkV5R1FtVlVza1B0NU9teWNCN053QU1mNzJXbE83T1E1UElUN1VTZGpqOFBmLUJlbGJZYnRDYy1mYWpYY0dpNFh2OE01SnM1ZnRBall0MFVJTE9DcFJoRnR0NXd3cTQzZnhsdENCM2xrVm1HN00zYUQxRG1ScFo5U19TWG1rcDVuXzEteEhHVzhFQlNmeVhRZXF5UktfSkhYQ2IxNE9iVg?oc=5",
-   "tickers": [
-    "UUUU"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "UUUU",
-   "strength": 65,
-   "reason": "Trump Arctic/Greenland ambitions boost rare-earth & uranium demand prospects"
   },
   {
    "curated": true,
