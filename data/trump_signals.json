@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-22T05:26:33Z",
+ "last_updated": "2026-08-22T05:54:25Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -277,6 +277,22 @@
    "reason": "Oil price surge; Trump policy question on energy\u2014ambiguous direction (could cut supply, could ease prices)."
   },
   {
+   "date": "2026-08-21T02:34:20Z",
+   "platform": "News",
+   "text": "Trump says he'll consider giving Turkey F-35 jets, adds that US will lift sanctions - ABC News - Breaking News, Latest News and Videos \u2014 Trump says he'll consider giving Turkey F-35 jets, adds that US will lift sanctions\u00a0\u00a0ABC News - Breaking News, Latest News and Videos",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZkVXSVdMWjlXRUlidzI2bVhDaE5JUHcxcHZWV3NPWkRLZkozSGl1c083OUw4eGNya2IzOWJ0SkQxQmpJSm9UdUdhdS1qNG5OTlRtUjJKc1M2U183TlRULTRVT2dXS2JRXzE2SktaRk4xcUlObkFFR2taeVhmQm9zak40OTN4eEF6MUZJeVB3elc5QdIBlwFBVV95cUxOaGI1aXdhOTBKeXBMbUVkR015RDVITy1vcXgwZkpkMmdRS3lpWUxYUU1XZWk0dGYxZGtyRlVhTUkzVVp1d2dhU09hOWlhdHEzc1ZoNm1nVWRpMmJEemNONWwwbXhUZnUzNmRpd0kwS0k4aFBCZHNvOFhzanpnMFJOXy0yX1NiWGFTUFJaUlhCSi14dzRycnNV?oc=5",
+   "tickers": [
+    "XAR"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "XAR",
+   "strength": 60,
+   "reason": "Trump considers F-35 jets to Turkey and lifts sanctions; defense spending and deregulation bullish"
+  },
+  {
    "date": "2026-08-21T01:30:00Z",
    "platform": "News",
    "text": "Why is the Trump administration causing turmoil in the bond markets? | Richard Partington - The Guardian \u2014 Why is the Trump administration causing turmoil in the bond markets? | Richard Partington\u00a0\u00a0The Guardian",
@@ -461,9 +477,9 @@
    "reason": "Trump presses Congress on CLARITY Act as Bitcoin tops $70K; explicit crypto regulatory push aligns with bullish price move",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": 5.7,
+    "pct": 5.9,
     "base": 73032.76,
-    "last": 77181.21,
+    "last": 77321.79,
     "base_date": "2026-08-20",
     "last_date": "2026-08-22"
    }
@@ -568,30 +584,6 @@
     "pct": 0.4,
     "base": 710.93,
     "last": 713.44,
-    "base_date": "2026-08-20",
-    "last_date": "2026-08-21"
-   }
-  },
-  {
-   "date": "2026-08-20T16:25:10Z",
-   "platform": "News",
-   "text": "Trump says he'll consider giving Turkey F-35 jets, adds that US will lift sanctions - ABC News - Breaking News, Latest News and Videos \u2014 Trump says he'll consider giving Turkey F-35 jets, adds that US will lift sanctions\u00a0\u00a0ABC News - Breaking News, Latest News and Videos",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZkVXSVdMWjlXRUlidzI2bVhDaE5JUHcxcHZWV3NPWkRLZkozSGl1c083OUw4eGNya2IzOWJ0SkQxQmpJSm9UdUdhdS1qNG5OTlRtUjJKc1M2U183TlRULTRVT2dXS2JRXzE2SktaRk4xcUlObkFFR2taeVhmQm9zak40OTN4eEF6MUZJeVB3elc5QdIBlwFBVV95cUxOaGI1aXdhOTBKeXBMbUVkR015RDVITy1vcXgwZkpkMmdRS3lpWUxYUU1XZWk0dGYxZGtyRlVhTUkzVVp1d2dhU09hOWlhdHEzc1ZoNm1nVWRpMmJEemNONWwwbXhUZnUzNmRpd0kwS0k4aFBCZHNvOFhzanpnMFJOXy0yX1NiWGFTUFJaUlhCSi14dzRycnNV?oc=5",
-   "tickers": [
-    "XAR"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "XAR",
-   "strength": 55,
-   "reason": "F-35 fighter jet sales potential to Turkey and sanctions lift imply defense contractor bullish sentiment.",
-   "price_since": {
-    "ticker": "XAR",
-    "pct": 0.4,
-    "base": 271.78,
-    "last": 272.74,
     "base_date": "2026-08-20",
     "last_date": "2026-08-21"
    }
@@ -2666,22 +2658,6 @@
    "primary_ticker": "SPY",
    "strength": 35,
    "reason": "White House tariff enforcement action against evasion; suggests tighter tariff regime bearish for broad market and trade"
-  },
-  {
-   "date": "2026-08-15T11:40:49Z",
-   "platform": "News",
-   "text": "DVLT Stock Tumbles Pre-Market On Discounted Offering \u2013 Retail Slams The Move, Calling It \u2018Self-Inflicted Pain\u2019 - stocktwits.com \u2014 DVLT Stock Tumbles Pre-Market On Discounted Offering \u2013 Retail Slams The Move, Calling It \u2018Self-Inflicted Pain\u2019\u00a0\u00a0stocktwits.com",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVUx3aGVQUk9NNklvanl0M0xObG44aVBxc0FCaTNESVRBUm14b05yTHExSnNIeGNrWVpXTkxhSmU2S0xZaUhTRHBvRVYtS1ZqTGNNVnpYSHVKSG85WG1jeWdmMXdZZ1pUV0h1YlNBaWlyZkFJVmRuR25PMGxJRGlKTi04U29DSHMxOEplQW9ZbmZqamluSEduUGR6cUc1WmlfbU5TbUJB?oc=5",
-   "tickers": [
-    "DVLT"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "DVLT",
-   "strength": 50,
-   "reason": "Stock tumbles on discounted offering; dilutive capital raise"
   },
   {
    "curated": true,
