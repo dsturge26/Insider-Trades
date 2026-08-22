@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-22T08:29:21Z",
+ "last_updated": "2026-08-22T08:59:07Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -19,9 +19,9 @@
    "reason": "Bitcoin rally driving crypto sector upward; broad tailwind for crypto assets",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": -1.4,
+    "pct": -1.5,
     "base": 78335.19,
-    "last": 77252.93,
+    "last": 77153.72,
     "base_date": "2026-08-21",
     "last_date": "2026-08-22"
    }
@@ -203,6 +203,22 @@
    "primary_ticker": "SMH",
    "strength": 50,
    "reason": "Chip sector rally; Micron and semiconductor strength broad-based"
+  },
+  {
+   "date": "2026-08-21T05:53:58Z",
+   "platform": "News",
+   "text": "Why Did ROKU, SNDK, C Stocks Hit 52-Week Highs Last Week? - Stocktwits \u2014 Why Did ROKU, SNDK, C Stocks Hit 52-Week Highs Last Week?\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOelVibHQyMlJiUG1UaTB0RUc1WU43VHpjNjY0RUFMYUVCdkc5aXdXcDU0RXdpeFFKcXVUN1NXejZOQ1QxN0pBQkdKbnNvcklETHJabEN2ZUR0N29yUkozMWZDY2hBaU91TjQyd0VUV29PYXNWWHBHczhTeXBIb3lfOUllYXNpc1BPR2lIMW9kTmpIVUwwYUdrSnRQck9hMEtFT0o5a1FxdEt3VFhGeEdkOThCWU93Mmljdnc?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "SPY",
+   "strength": 35,
+   "reason": "Multiple stocks at 52-week highs; broad strength but no Trump-specific driver identified"
   },
   {
    "date": "2026-08-21T05:02:37Z",
@@ -443,30 +459,6 @@
    "primary_ticker": "XLE",
    "strength": 55,
    "reason": "Oil prices rise on Hormuz tensions; geopolitical friction favors energy sector"
-  },
-  {
-   "date": "2026-08-20T23:42:38Z",
-   "platform": "News",
-   "text": "Why Did ROKU, SNDK, C Stocks Hit 52-Week Highs Last Week? - Stocktwits \u2014 Why Did ROKU, SNDK, C Stocks Hit 52-Week Highs Last Week?\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOelVibHQyMlJiUG1UaTB0RUc1WU43VHpjNjY0RUFMYUVCdkc5aXdXcDU0RXdpeFFKcXVUN1NXejZOQ1QxN0pBQkdKbnNvcklETHJabEN2ZUR0N29yUkozMWZDY2hBaU91TjQyd0VUV29PYXNWWHBHczhTeXBIb3lfOUllYXNpc1BPR2lIMW9kTmpIVUwwYUdrSnRQck9hMEtFT0o5a1FxdEt3VFhGeEdkOThCWU93Mmljdnc?oc=5",
-   "tickers": [
-    "C"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "C",
-   "strength": 30,
-   "reason": "Multiple stocks at 52-week highs; no explicit Trump driver stated",
-   "price_since": {
-    "ticker": "C",
-    "pct": 1.5,
-    "base": 129.67,
-    "last": 131.65,
-    "base_date": "2026-08-20",
-    "last_date": "2026-08-21"
-   }
   },
   {
    "date": "2026-08-20T23:24:07Z",
