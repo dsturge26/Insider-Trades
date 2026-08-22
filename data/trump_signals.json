@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-22T04:49:08Z",
+ "last_updated": "2026-08-22T05:26:33Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -277,6 +277,22 @@
    "reason": "Oil price surge; Trump policy question on energy\u2014ambiguous direction (could cut supply, could ease prices)."
   },
   {
+   "date": "2026-08-21T01:30:00Z",
+   "platform": "News",
+   "text": "Why is the Trump administration causing turmoil in the bond markets? | Richard Partington - The Guardian \u2014 Why is the Trump administration causing turmoil in the bond markets? | Richard Partington\u00a0\u00a0The Guardian",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNGQwUFdxNTg1RnVlaXRpc0dYdmJMbmUxZHJ3TWxzWUtGeHlzNGEyQnRsNkotbWJUWkYxbTkxdWkwSE1BSENxYkI1bVBNdGFzYTNCenU2c3V4cG9yTVJqS2NOazJpalVuWmE2Y1Z2UWpXQ0VwLWpzVDRiQVFXLVVTVGVEWDBnT0ZOV3JuR1l0MjJLdFZDcW1kbE5fMmE3bHBMcnY0bnZrRmo?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "SPY",
+   "strength": 65,
+   "reason": "Trump administration policies causing bond market turmoil; negative macro signal for equities"
+  },
+  {
    "date": "2026-08-21T01:29:04Z",
    "platform": "News",
    "text": "RKLB Stock Jumps Overnight: Rocket Lab Lines Up Record Launch Blitz After Nasdaq-100 Entry - Stocktwits \u2014 RKLB Stock Jumps Overnight: Rocket Lab Lines Up Record Launch Blitz After Nasdaq-100 Entry\u00a0\u00a0Stocktwits",
@@ -445,9 +461,9 @@
    "reason": "Trump presses Congress on CLARITY Act as Bitcoin tops $70K; explicit crypto regulatory push aligns with bullish price move",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": 7.5,
+    "pct": 5.7,
     "base": 73032.76,
-    "last": 78536.56,
+    "last": 77181.21,
     "base_date": "2026-08-20",
     "last_date": "2026-08-22"
    }
@@ -2666,22 +2682,6 @@
    "primary_ticker": "DVLT",
    "strength": 50,
    "reason": "Stock tumbles on discounted offering; dilutive capital raise"
-  },
-  {
-   "date": "2026-08-15T09:06:04Z",
-   "platform": "News",
-   "text": "Trump Reinstates Iranian Blockade, Says US Will Be Reimbursed At A Rate Of 20% On All Cargo Shipped Through The Strait Of Hormuz - Stocktwits \u2014 Trump Reinstates Iranian Blockade, Says US Will Be Reimbursed At A Rate Of 20% On All Cargo Shipped Through The Strait Of Hormuz\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQbmtjamxSQk5UZDVHZ3FaSjdKTmdhYjNhclV0Tk95ZEpvM2FFRnFDclNiVzhwNjluT2d0V0xBc0N5RkZUeDdXOGVkZV90ZkVQdEkzM0lvSEdrZjdwRENPRUQwdVZTS2VjSTRkSFdEbzdxZXlqXzV6cUMyY0trTW9RQ29ld3pRU2dyMnFSYzEwUE9sSzEwakNmY20xeUpVcUhINzdwN2p3SkxHdEpaZjVSa0RWa3dHWkJQaW51SV8tbk5GQ2ZOdXNhaXBCOA?oc=5",
-   "tickers": [
-    "XLE"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "XLE",
-   "strength": 75,
-   "reason": "Iranian blockade and 20% toll on Strait of Hormuz disrupts oil trade; bearish for global oil/shipping."
   },
   {
    "curated": true,
