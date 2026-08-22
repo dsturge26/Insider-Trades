@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-22T04:06:15Z",
+ "last_updated": "2026-08-22T04:49:08Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -261,6 +261,22 @@
    "reason": "Trump explicitly lauds Citi's M&A comeback"
   },
   {
+   "date": "2026-08-21T02:48:51Z",
+   "platform": "News",
+   "text": "Can Trump stop the surge in oil prices? Experts weigh in - ABC News - Breaking News, Latest News and Videos \u2014 Can Trump stop the surge in oil prices? Experts weigh in\u00a0\u00a0ABC News - Breaking News, Latest News and Videos",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRkw4RU9xbDZSTmtFZTBfY0JESTZUWElMOVdvaWUzbFNiZ25wQmtGQWgyTk1FWkhLTDRNdEprY0ZMdUxvN2V4WDZaeVVuTnIyNndMVVFnazk1cjh2WVZkcjUyUElfRUJPMHMxVFktVWlaSURKb2VZVU93Qld4SU9Jc1pZOUFtcWZsUjlUVXAyRkExOFXSAZgBQVVfeXFMTWtTb3JPM3luaE9XT2dQRmxsODBSaFpJOHA4Y3NhVmR2Z1ZQeHMzRHNhUlZvaGRVYVZmM3pTeWxyWkZSdW03UlFMaFU3TWtOOThWUThxcGpXYmRrcklRZnpPSEd3TjBic0RUdlM4ZXFfaklkZVF3Q3c3ZTZNbWpaSS1rRDRYM1BEM2VqNFBiT0NQdFpPSFZFaFM?oc=5",
+   "tickers": [
+    "XLE"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "XLE",
+   "strength": 40,
+   "reason": "Oil price surge; Trump policy question on energy\u2014ambiguous direction (could cut supply, could ease prices)."
+  },
+  {
    "date": "2026-08-21T01:29:04Z",
    "platform": "News",
    "text": "RKLB Stock Jumps Overnight: Rocket Lab Lines Up Record Launch Blitz After Nasdaq-100 Entry - Stocktwits \u2014 RKLB Stock Jumps Overnight: Rocket Lab Lines Up Record Launch Blitz After Nasdaq-100 Entry\u00a0\u00a0Stocktwits",
@@ -429,9 +445,9 @@
    "reason": "Trump presses Congress on CLARITY Act as Bitcoin tops $70K; explicit crypto regulatory push aligns with bullish price move",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": 7.3,
+    "pct": 7.5,
     "base": 73032.76,
-    "last": 78386.41,
+    "last": 78536.56,
     "base_date": "2026-08-20",
     "last_date": "2026-08-22"
    }
