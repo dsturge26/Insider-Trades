@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-08-22T12:37:58Z",
+ "last_updated": "2026-08-22T13:19:07Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-08-22T09:36:55Z",
+   "platform": "News",
+   "text": "Why Is IBM Stock Surging Nearly 7% Higher In Overnight Trading? - Stocktwits \u2014 Why Is IBM Stock Surging Nearly 7% Higher In Overnight Trading?\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQk9pekpVQ1Q1NnRyVEdqWjdJN29OTFpDY3Rkc08wdG96eTdtMHRzVVRmUFItUlRQQS11WXBWZFpHWU50d3hoRHBENXM2eGhKMF9QZF9qb3ZQT2pXREgyU1pTMzBFU0JGZ0lOTk90VlU4YURiV3I1LWtPdTVzZDZRbUZGWEUySWxkZXg1a2dzYVVTVUpsOU1Yc25qQ2U4OE9tX1MtbEZFNDZDalpaS2JlbndvcnYyUU1Ca0E2cGxqMi02S2s?oc=5",
+   "tickers": [
+    "IBM"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "IBM",
+   "strength": 30,
+   "reason": "IBM stock surge reported but no Trump-specific catalyst mentioned in headline"
+  },
   {
    "date": "2026-08-22T08:06:07Z",
    "platform": "News",
@@ -35,9 +51,9 @@
    "reason": "Bitcoin rally driving crypto sector upward; broad tailwind for crypto assets",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": -1.4,
+    "pct": -1.5,
     "base": 78335.19,
-    "last": 77273.52,
+    "last": 77158.1,
     "base_date": "2026-08-21",
     "last_date": "2026-08-22"
    }
@@ -138,6 +154,22 @@
    "primary_ticker": "SPY",
    "strength": 40,
    "reason": "Perpetual futures regulation debate affects market structure but direction unclear; macro financial infrastructure issue"
+  },
+  {
+   "date": "2026-08-21T12:00:00Z",
+   "platform": "News",
+   "text": "Opinion: Trump is selling early access to his Truth Social posts \u2014 and, of course, there are no investigators in sight - Yakima Herald-Republic \u2014 Opinion: Trump is selling early access to his Truth Social posts \u2014 and, of course, there are no investigators in sight\u00a0\u00a0Yakima Herald-Republic",
+   "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPc0NTUTMzVlpGUTRCN0JZNVIxNFRkQWZPX0UzOVlNQ25lYk1ILThxd2xqNnR2R0k0OTZSVWctLUVveHYwbklEZmlrRDhNbEViTGVSbVBHdjd2aFZXczZkT1p4Z2Q1anpEVjA1SExucW5XSTN5MTdaTEJsQ194OWpDMHI0U0RtNE81R3dtQ3lvQmgyTWxDbndneTAwYjhUallFb0xpcW1jLXNJOUY0MlRLdE00NlBVblBHdjJiYk9ucl9EMXFfYi1yYU5oUjFxLS1mTThMVE96U3pDTXdjbWNjTDhEYWx3XzlMSVVFLUV6Y2dVLThYVFNFdmU2MUxKNS01bXo2UdIBhAJBVV95cUxPc0NTUTMzVlpGUTRCN0JZNVIxNFRkQWZPX0UzOVlNQ25lYk1ILThxd2xqNnR2R0k0OTZSVWctLUVveHYwbklEZmlrRDhNbEViTGVSbVBHdjd2aFZXczZkT1p4Z2Q1anpEVjA1SExucW5XSTN5MTdaTEJsQ194OWpDMHI0U0RtNE81R3dtQ3lvQmgyTWxDbndneTAwYjhUallFb0xpcW1jLXNJOUY0MlRLdE00NlBVblBHdjJiYk9ucl9EMXFfYi1yYU5oUjFxLS1mTThMVE96U3pDTXdjbWNjTDhEYWx3XzlMSVVFLUV6Y2dVLThYVFNFdmU2MUxKNS01bXo2UQ?oc=5",
+   "tickers": [
+    "DJT"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "WATCH",
+   "primary_ticker": "DJT",
+   "strength": 50,
+   "reason": "Trump monetizing Truth Social early-access posts affects DJT valuation; mixed implications"
   },
   {
    "date": "2026-08-21T11:19:51Z",
@@ -952,30 +984,6 @@
     "pct": -0.8,
     "base": 103.84,
     "last": 103.01,
-    "base_date": "2026-08-20",
-    "last_date": "2026-08-21"
-   }
-  },
-  {
-   "date": "2026-08-20T09:28:48Z",
-   "platform": "News",
-   "text": "Why Is IBM Stock Surging Nearly 7% Higher In Overnight Trading? - Stocktwits \u2014 Why Is IBM Stock Surging Nearly 7% Higher In Overnight Trading?\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQk9pekpVQ1Q1NnRyVEdqWjdJN29OTFpDY3Rkc08wdG96eTdtMHRzVVRmUFItUlRQQS11WXBWZFpHWU50d3hoRHBENXM2eGhKMF9QZF9qb3ZQT2pXREgyU1pTMzBFU0JGZ0lOTk90VlU4YURiV3I1LWtPdTVzZDZRbUZGWEUySWxkZXg1a2dzYVVTVUpsOU1Yc25qQ2U4OE9tX1MtbEZFNDZDalpaS2JlbndvcnYyUU1Ca0E2cGxqMi02S2s?oc=5",
-   "tickers": [
-    "IBM"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "IBM",
-   "strength": 55,
-   "reason": "IBM surges 7% overnight; positive momentum continuation from CEO letter",
-   "price_since": {
-    "ticker": "IBM",
-    "pct": 1.7,
-    "base": 233.69,
-    "last": 237.72,
     "base_date": "2026-08-20",
     "last_date": "2026-08-21"
    }
