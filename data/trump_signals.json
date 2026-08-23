@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-23T14:22:57Z",
+ "last_updated": "2026-08-23T14:50:14Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -35,6 +35,22 @@
    "primary_ticker": "SPY",
    "strength": 65,
    "reason": "Trump threatens new tariffs on Canada (major trade partner); tariff threats are bearish for broad market and agriculture sector."
+  },
+  {
+   "date": "2026-08-23T03:34:58Z",
+   "platform": "News",
+   "text": "Trump discloses 21,000 securities trades during first year in office - eciks.org \u2014 Trump discloses 21,000 securities trades during first year in office\u00a0\u00a0eciks.org",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5BVGhKaEZkeHpyeW15XzBsSGhoTzFNSV9ndUdhd2l3d3g2WjBPVy1GTGZQQ09WVDNzckxTREFLRVA4dmVvVkc0aUZXR2Y3MXlVVGdYVGhQTTRKV2xXME53NXZ4UjNqN2p2dGN5dFZfc0dQUQ?oc=5",
+   "tickers": [
+    "DJT"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "DJT",
+   "strength": 35,
+   "reason": "Trump's large trading volume suggests portfolio activity but no clear directional signal without trade details"
   },
   {
    "date": "2026-08-23T02:21:13Z",
@@ -245,9 +261,9 @@
    "reason": "Bitcoin rally driving crypto sector upward; broad tailwind for crypto assets",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": -1.2,
+    "pct": -1.5,
     "base": 78335.19,
-    "last": 77426.8,
+    "last": 77190.75,
     "base_date": "2026-08-21",
     "last_date": "2026-08-23"
    }
@@ -462,6 +478,22 @@
    "reason": "IBM awarded $1B federal grant for quantum foundry; direct federal contract award"
   },
   {
+   "date": "2026-08-21T12:49:18Z",
+   "platform": "News",
+   "text": "ASTS, RKLB Stocks Get The Trump Pump After Hidden Space Stock Bets Emerge - Stocktwits \u2014 ASTS, RKLB Stocks Get The Trump Pump After Hidden Space Stock Bets Emerge\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYlgtQnFIQ21RTHhqRVMtMUF4aWNUR2w3WHo5QzFfWVRyaExWYXJDUk9WaEFDaW90THVYcHVSd3J4Nk82T3lkMVBGZnhIQW43bHpGdURhaTgxYnRlR25BYmp6SWR1cjVhUHlXZXdWSFdkNlFTekNoQXZCSXNVem1Oc0NBYXBKQXhnRnNCTTVvOU5xSEZrUlNxdzZCczQyZmdVOW1jQVRBczU4cHlpU3M3dnBWZnBjdw?oc=5",
+   "tickers": [
+    "RKLB"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "RKLB",
+   "strength": 60,
+   "reason": "Trump administration space stock bets and support emerge; Rocket Lab (RKLB) benefits from implicit endorsement of space sector priorities."
+  },
+  {
    "date": "2026-08-21T12:32:32Z",
    "platform": "News",
    "text": "Wall Street's existential crisis over perpetual futures \u2014 the 24/7 security on steroids \u2014 just got urgent - CNBC \u2014 Wall Street's existential crisis over perpetual futures \u2014 the 24/7 security on steroids \u2014 just got urgent\u00a0\u00a0CNBC",
@@ -589,22 +621,6 @@
    "primary_ticker": "QCOM",
    "strength": 55,
    "reason": "QCOM execs join Trump China visit \u2192 potential trade deal or policy clarity bullish signal"
-  },
-  {
-   "date": "2026-08-21T04:43:23Z",
-   "platform": "News",
-   "text": "ASTS, RKLB Stocks Get The Trump Pump After Hidden Space Stock Bets Emerge - Stocktwits \u2014 ASTS, RKLB Stocks Get The Trump Pump After Hidden Space Stock Bets Emerge\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYlgtQnFIQ21RTHhqRVMtMUF4aWNUR2w3WHo5QzFfWVRyaExWYXJDUk9WaEFDaW90THVYcHVSd3J4Nk82T3lkMVBGZnhIQW43bHpGdURhaTgxYnRlR25BYmp6SWR1cjVhUHlXZXdWSFdkNlFTekNoQXZCSXNVem1Oc0NBYXBKQXhnRnNCTTVvOU5xSEZrUlNxdzZCczQyZmdVOW1jQVRBczU4cHlpU3M3dnBWZnBjdw?oc=5",
-   "tickers": [
-    "RKLB"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "RKLB",
-   "strength": 60,
-   "reason": "Trump hidden stakes in space stocks (ASTS, RKLB) emerge; bullish signal for aerospace/satellite sector"
   },
   {
    "date": "2026-08-21T04:10:50Z",
