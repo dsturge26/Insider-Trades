@@ -1,7 +1,39 @@
 {
- "last_updated": "2026-08-23T01:18:30Z",
+ "last_updated": "2026-08-23T02:44:51Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-08-23T01:25:00Z",
+   "platform": "News",
+   "text": "Trump Made Over 1,000 Trades in June: First-Ever Berkshire Hathaway Purchase, Cuts Meta and Palantir Stakes - finance.biggo.com \u2014 Trump Made Over 1,000 Trades in June: First-Ever Berkshire Hathaway Purchase, Cuts Meta and Palantir Stakes\u00a0\u00a0finance.biggo.com",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5VQ0hyV1dNOWdKeDZXQlVZMXRiemZCN1kxaW5pR2NNRFJnR09oRTc2bHJvNldvUVlvVUgwcTBCanU1cGNGd25fMk0tVm9JMW1oUTEwQnczcFhaMW1iUl9XQjdSbHlEUVh0QjFrNlRrNGd0SzJubnc?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "SPY",
+   "strength": 25,
+   "reason": "Trump's large portfolio activity noted but direction and specific catalyst unclear"
+  },
+  {
+   "date": "2026-08-22T19:31:05Z",
+   "platform": "News",
+   "text": "Trump\u2019s Stock Disclosure Shows More Than 1,000 Trades in June - Bloomberg \u2014 Trump\u2019s Stock Disclosure Shows More Than 1,000 Trades in June\u00a0\u00a0Bloomberg",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbUg0bXhTNTNMQ01fWFR1SFpGd2cxTHlOY082M3dVbDE4N0VwcEl4S2pUa1gxNURzUUx4MGhqWnRJd2hGeUVmTjNJQ3ZDTTBDQ2FZV0xQRkZYUzBZaWtMemRaaTc2RE5xNGdHNWlEUkcxd2prX1VVZndFTUhLczZVdVdET2tZSUxnbzhnc3ZDdktkQlRRaldteHd3dUpYQjdFaWdUVmpvM0JvMEIwWFNqcHRGa3BJcGp6NXJJOUtqbEllT042NVNSMXc0NUxNUFVP?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "SPY",
+   "strength": 25,
+   "reason": "Trump's significant trading activity disclosed but no directional market signal"
+  },
   {
    "date": "2026-08-22T14:50:07Z",
    "platform": "News",
@@ -67,6 +99,22 @@
    "reason": "SK Hynix DRAM offering and Micron strength bullish for semiconductor sector"
   },
   {
+   "date": "2026-08-22T06:29:07Z",
+   "platform": "News",
+   "text": "Trump discloses 21,000 securities trades during first year in office - ABC News - Breaking News, Latest News and Videos \u2014 Trump discloses 21,000 securities trades during first year in office\u00a0\u00a0ABC News - Breaking News, Latest News and Videos",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRXRKN3Z0andHTXp5WjRNQ2xkUjcxS2tCeHpfdG9EeFRpaGM1Q2IxZFM4akNkQm5IZkt6NnEwRFNsNUQ2VUpYaXdaQW5LZEFsNC1OcHhKNWczS0QxSDZ6RE9qbGFieUdvaHpsNldGczhQa1hTQjF2aGZiSl9wcUhlaENId0I5VWx1cGJFZ1NCM0IyY2M2LWtKRkVDX3I4WDYz0gGmAUFVX3lxTE9Dc2ZEcnpkNmxPUVphbjRJcnBpaGNsM0EyVXlsQTFwdmg3TWZXekcxSUR0cGp3RWttdU5NMkRFVkZlV280MHV1V0RQOWtrTzlLQTlRQkE5eGpXaF9Yajh2NC1ITkdqSmhYcFY2ZFlLeE9nTjFKWUdKaG12WDlVTzl3VWIxeTdJRldpOFpsbEdXM29abG1KejFLLWdnWVBBVEtXSHdtU2c?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "SPY",
+   "strength": 20,
+   "reason": "Trump's heavy trading disclosed; market-relevant activity but no directional catalyst"
+  },
+  {
    "date": "2026-08-22T03:52:02Z",
    "platform": "News",
    "text": "Trump Reinstates Iranian Blockade, Says US Will Be Reimbursed At A Rate Of 20% On All Cargo Shipped Through The Strait Of Hormuz - Stocktwits \u2014 Trump Reinstates Iranian Blockade, Says US Will Be Reimbursed At A Rate Of 20% On All Cargo Shipped Through The Strait Of Hormuz\u00a0\u00a0Stocktwits",
@@ -115,9 +163,9 @@
    "reason": "Bitcoin rally driving crypto sector upward; broad tailwind for crypto assets",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": -1.2,
+    "pct": -1.5,
     "base": 78335.19,
-    "last": 77373.01,
+    "last": 77164.0,
     "base_date": "2026-08-21",
     "last_date": "2026-08-23"
    }
@@ -656,30 +704,6 @@
     "pct": -0.8,
     "base": 974.33,
     "last": 966.78,
-    "base_date": "2026-08-20",
-    "last_date": "2026-08-21"
-   }
-  },
-  {
-   "date": "2026-08-20T22:57:18Z",
-   "platform": "News",
-   "text": "Trump discloses 21,000 securities trades during first year in office - ABC News - Breaking News, Latest News and Videos \u2014 Trump discloses 21,000 securities trades during first year in office\u00a0\u00a0ABC News - Breaking News, Latest News and Videos",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRXRKN3Z0andHTXp5WjRNQ2xkUjcxS2tCeHpfdG9EeFRpaGM1Q2IxZFM4akNkQm5IZkt6NnEwRFNsNUQ2VUpYaXdaQW5LZEFsNC1OcHhKNWczS0QxSDZ6RE9qbGFieUdvaHpsNldGczhQa1hTQjF2aGZiSl9wcUhlaENId0I5VWx1cGJFZ1NCM0IyY2M2LWtKRkVDX3I4WDYz0gGmAUFVX3lxTE9Dc2ZEcnpkNmxPUVphbjRJcnBpaGNsM0EyVXlsQTFwdmg3TWZXekcxSUR0cGp3RWttdU5NMkRFVkZlV280MHV1V0RQOWtrTzlLQTlRQkE5eGpXaF9Yajh2NC1ITkdqSmhYcFY2ZFlLeE9nTjFKWUdKaG12WDlVTzl3VWIxeTdJRldpOFpsbEdXM29abG1KejFLLWdnWVBBVEtXSHdtU2c?oc=5",
-   "tickers": [
-    "DJT"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "DJT",
-   "strength": 55,
-   "reason": "Trump discloses 21,000 trades in first year; reflects active portfolio management and potential insider positioning signals",
-   "price_since": {
-    "ticker": "DJT",
-    "pct": 6.9,
-    "base": 8.51,
-    "last": 9.1,
     "base_date": "2026-08-20",
     "last_date": "2026-08-21"
    }
