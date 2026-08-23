@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-23T06:15:14Z",
+ "last_updated": "2026-08-23T07:05:31Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -195,9 +195,9 @@
    "reason": "Bitcoin rally driving crypto sector upward; broad tailwind for crypto assets",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": -2.9,
+    "pct": -2.8,
     "base": 78335.19,
-    "last": 76075.3,
+    "last": 76166.98,
     "base_date": "2026-08-21",
     "last_date": "2026-08-23"
    }
@@ -378,6 +378,22 @@
    "primary_ticker": "XLE",
    "strength": 40,
    "reason": "Iran nuclear deal reduces geopolitical risk; supports oil and energy stability"
+  },
+  {
+   "date": "2026-08-21T14:32:19Z",
+   "platform": "News",
+   "text": "Why LASE Stock Has Surged Over 150% Today - Stocktwits \u2014 Why LASE Stock Has Surged Over 150% Today\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTEpDZFdYM3NTemdDLTlXdzBVa2dnLXZxdlZWbGVfeTR4MkJETjh3RUlpMVN1aGZHMDN0dlI0YXQ5bkJRcFhHTlYyaURJR0tnWHFtMFM1dEdxZlphb3NGVnp6cjJBU25rc1FJMGJaUGdpRXZSX3o2VVB2Ukt2OWtjMkpMX0gyWmRBdnU3Zk1XNDFUZnVlRHlfNEVaTlRlODBUSUxyZlZwS3JjTmVm?oc=5",
+   "tickers": [
+    "LASE"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "LASE",
+   "strength": 45,
+   "reason": "Stock surged 150% but reason unclear; likely Trump-related catalyst but not explicit"
   },
   {
    "date": "2026-08-21T13:47:05Z",
