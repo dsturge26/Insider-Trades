@@ -1,33 +1,33 @@
 {
- "last_updated": "2026-08-23T07:05:33Z",
+ "last_updated": "2026-08-23T07:47:24Z",
  "source": "ApeWisdom / r/wallstreetbets",
  "signals": [
   {
    "ticker": "NVDA",
    "name": "NVIDIA",
-   "mentions": 53,
+   "mentions": 52,
    "mentions_24h_ago": 134,
-   "change_pct": -60.4,
+   "change_pct": -61.2,
    "rank": 1,
-   "upvotes": 141
+   "upvotes": 153
   },
   {
    "ticker": "SPY",
    "name": "SPDR S&amp;P 500 ETF Trust",
-   "mentions": 43,
-   "mentions_24h_ago": 208,
-   "change_pct": -79.3,
+   "mentions": 41,
+   "mentions_24h_ago": 207,
+   "change_pct": -80.2,
    "rank": 2,
-   "upvotes": 160
+   "upvotes": 162
   },
   {
    "ticker": "AMD",
    "name": "AMD",
-   "mentions": 20,
+   "mentions": 19,
    "mentions_24h_ago": 6,
-   "change_pct": 233.3,
+   "change_pct": 216.7,
    "rank": 3,
-   "upvotes": 172
+   "upvotes": 179
   },
   {
    "ticker": "DTE",
@@ -42,8 +42,8 @@
    "ticker": "MRNA",
    "name": "Moderna",
    "mentions": 16,
-   "mentions_24h_ago": 108,
-   "change_pct": -85.2,
+   "mentions_24h_ago": 107,
+   "change_pct": -85.0,
    "rank": 5,
    "upvotes": 1391
   },
@@ -59,11 +59,11 @@
   {
    "ticker": "EU",
    "name": "enCore Energy",
-   "mentions": 12,
+   "mentions": 13,
    "mentions_24h_ago": 1,
-   "change_pct": 1100.0,
+   "change_pct": 1200.0,
    "rank": 7,
-   "upvotes": 115
+   "upvotes": 118
   },
   {
    "ticker": "MU",
@@ -72,7 +72,7 @@
    "mentions_24h_ago": 110,
    "change_pct": -89.1,
    "rank": 8,
-   "upvotes": 24
+   "upvotes": 26
   },
   {
    "ticker": "QQQ",
@@ -90,25 +90,16 @@
    "mentions_24h_ago": 43,
    "change_pct": -81.4,
    "rank": 10,
-   "upvotes": 22
+   "upvotes": 21
   },
   {
    "ticker": "META",
    "name": "Meta Platforms (Facebook)",
    "mentions": 8,
-   "mentions_24h_ago": 46,
-   "change_pct": -82.6,
+   "mentions_24h_ago": 45,
+   "change_pct": -82.2,
    "rank": 11,
    "upvotes": 41
-  },
-  {
-   "ticker": "IREN",
-   "name": "Iris Energy",
-   "mentions": 8,
-   "mentions_24h_ago": 25,
-   "change_pct": -68.0,
-   "rank": 12,
-   "upvotes": 24
   },
   {
    "ticker": "USO",
@@ -116,8 +107,8 @@
    "mentions": 8,
    "mentions_24h_ago": 15,
    "change_pct": -46.7,
-   "rank": 13,
-   "upvotes": 21
+   "rank": 12,
+   "upvotes": 24
   },
   {
    "ticker": "MRVL",
@@ -125,8 +116,17 @@
    "mentions": 8,
    "mentions_24h_ago": 18,
    "change_pct": -55.6,
+   "rank": 13,
+   "upvotes": 25
+  },
+  {
+   "ticker": "IREN",
+   "name": "Iris Energy",
+   "mentions": 7,
+   "mentions_24h_ago": 25,
+   "change_pct": -72.0,
    "rank": 14,
-   "upvotes": 28
+   "upvotes": 21
   },
   {
    "ticker": "VOO",
@@ -135,7 +135,7 @@
    "mentions_24h_ago": 10,
    "change_pct": -30.0,
    "rank": 15,
-   "upvotes": 159
+   "upvotes": 158
   },
   {
    "ticker": "CBRS",
@@ -144,14 +144,14 @@
    "mentions_24h_ago": 0,
    "change_pct": null,
    "rank": 16,
-   "upvotes": 79
+   "upvotes": 81
   },
   {
    "ticker": "MSTR",
    "name": "MicroStrategy",
    "mentions": 6,
-   "mentions_24h_ago": 48,
-   "change_pct": -87.5,
+   "mentions_24h_ago": 49,
+   "change_pct": -87.8,
    "rank": 17,
    "upvotes": 14
   },
@@ -171,7 +171,16 @@
    "mentions_24h_ago": 21,
    "change_pct": -71.4,
    "rank": 19,
-   "upvotes": 46
+   "upvotes": 47
+  },
+  {
+   "ticker": "YOU",
+   "name": "CLEAR Secure",
+   "mentions": 5,
+   "mentions_24h_ago": 5,
+   "change_pct": 0.0,
+   "rank": 20,
+   "upvotes": 10
   },
   {
    "ticker": "OI",
@@ -179,7 +188,7 @@
    "mentions": 5,
    "mentions_24h_ago": 1,
    "change_pct": 400.0,
-   "rank": 20,
+   "rank": 21,
    "upvotes": 39
   },
   {
@@ -188,8 +197,8 @@
    "mentions": 5,
    "mentions_24h_ago": 0,
    "change_pct": null,
-   "rank": 21,
-   "upvotes": -44
+   "rank": 22,
+   "upvotes": -45
   },
   {
    "ticker": "AAOI",
@@ -197,17 +206,8 @@
    "mentions": 4,
    "mentions_24h_ago": 21,
    "change_pct": -81.0,
-   "rank": 22,
-   "upvotes": 8
-  },
-  {
-   "ticker": "YOU",
-   "name": "CLEAR Secure",
-   "mentions": 4,
-   "mentions_24h_ago": 5,
-   "change_pct": -20.0,
    "rank": 23,
-   "upvotes": 12
+   "upvotes": 8
   },
   {
    "ticker": "HOOD",
@@ -216,7 +216,7 @@
    "mentions_24h_ago": 68,
    "change_pct": -94.1,
    "rank": 24,
-   "upvotes": 12
+   "upvotes": 11
   },
   {
    "ticker": "FCF",
@@ -225,7 +225,7 @@
    "mentions_24h_ago": 1,
    "change_pct": 300.0,
    "rank": 25,
-   "upvotes": 42
+   "upvotes": 47
   }
  ]
 }
