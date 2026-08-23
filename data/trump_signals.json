@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-23T13:20:26Z",
+ "last_updated": "2026-08-23T13:53:55Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -53,20 +53,20 @@
    "reason": "Hormuz control claim threatens regional stability and oil shipping; potential supply disruption risk."
   },
   {
-   "date": "2026-08-23T01:25:00Z",
+   "date": "2026-08-23T01:40:21Z",
    "platform": "News",
    "text": "Trump Made Over 1,000 Trades in June: First-Ever Berkshire Hathaway Purchase, Cuts Meta and Palantir Stakes - finance.biggo.com \u2014 Trump Made Over 1,000 Trades in June: First-Ever Berkshire Hathaway Purchase, Cuts Meta and Palantir Stakes\u00a0\u00a0finance.biggo.com",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5VQ0hyV1dNOWdKeDZXQlVZMXRiemZCN1kxaW5pR2NNRFJnR09oRTc2bHJvNldvUVlvVUgwcTBCanU1cGNGd25fMk0tVm9JMW1oUTEwQnczcFhaMW1iUl9XQjdSbHlEUVh0QjFrNlRrNGd0SzJubnc?oc=5",
    "tickers": [
-    "SPY"
+    "BRK.B"
    ],
    "classified": true,
    "is_market": true,
    "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "SPY",
-   "strength": 25,
-   "reason": "Trump's large portfolio activity noted but direction and specific catalyst unclear"
+   "direction": "BUY",
+   "primary_ticker": "BRK.B",
+   "strength": 35,
+   "reason": "Trump's first-ever Berkshire purchase signals confidence; cuts to META and PLTR signal rotation"
   },
   {
    "date": "2026-08-22T19:31:05Z",
@@ -99,6 +99,22 @@
    "primary_ticker": "SPY",
    "strength": 20,
    "reason": "High trading volume reported; unclear directional intent without details on holdings changes."
+  },
+  {
+   "date": "2026-08-22T19:31:05Z",
+   "platform": "News",
+   "text": "Trump\u2019s Stock Disclosure Shows More Than 1,000 Trades in June - Yahoo Finance \u2014 Trump\u2019s Stock Disclosure Shows More Than 1,000 Trades in June\u00a0\u00a0Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNS2Rxbk1hV1AtUlZ1cGFzaVp0WDVoak5KLXVVanpVc2JXODRJM080T05idlRXN1VzaEktdl9lbUtFZ3RfcEduNXN6aWNrZ0pDSUs0MVl2cG9hTkNDQUtlRllPRUhJc2dfU2VVNDdvZkZGNVpMelg5NUJfeW1aTGhxa3JubVBTZUIwcURJYmU3eEFxNjlNQWJOcnJrTmRmODg?oc=5",
+   "tickers": [
+    "BRK.B"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "BRK.B",
+   "strength": 35,
+   "reason": "Trump's Berkshire purchase and active trading signal portfolio positioning"
   },
   {
    "date": "2026-08-22T14:50:07Z",
@@ -229,9 +245,9 @@
    "reason": "Bitcoin rally driving crypto sector upward; broad tailwind for crypto assets",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": -0.9,
+    "pct": -1.2,
     "base": 78335.19,
-    "last": 77618.37,
+    "last": 77405.31,
     "base_date": "2026-08-21",
     "last_date": "2026-08-23"
    }
