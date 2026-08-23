@@ -1,7 +1,24 @@
 {
- "last_updated": "2026-08-23T12:39:19Z",
+ "last_updated": "2026-08-23T13:20:26Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-08-23T13:11:09.146Z",
+   "platform": "Truth Social",
+   "text": "RT @realDonaldTrumpCanada wants the benefits of being a State, without being one!!! They have also charged our great farmers, for many years, massive amounts of Tariffs. No more!!! President DJT",
+   "tickers": [
+    "SPY"
+   ],
+   "engagement": 0,
+   "url": "https://truthsocial.com/@realDonaldTrump/117144988493215562",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "SPY",
+   "strength": 65,
+   "reason": "Canada tariff threat; potential retaliatory tariffs on US farmers and broad economy"
+  },
   {
    "date": "2026-08-23T05:06:38.819Z",
    "platform": "Truth Social",
@@ -212,9 +229,9 @@
    "reason": "Bitcoin rally driving crypto sector upward; broad tailwind for crypto assets",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": -1.6,
+    "pct": -0.9,
     "base": 78335.19,
-    "last": 77077.15,
+    "last": 77618.37,
     "base_date": "2026-08-21",
     "last_date": "2026-08-23"
    }
@@ -2559,30 +2576,6 @@
     "pct": 2.0,
     "base": 120.08,
     "last": 122.45,
-    "base_date": "2026-08-17",
-    "last_date": "2026-08-18"
-   }
-  },
-  {
-   "date": "2026-08-15T21:23:00Z",
-   "platform": "News",
-   "text": "ASTS, RKLB Stocks Get The Trump Pump After Hidden Space Stock Bets Emerge - stocktwits.com \u2014 ASTS, RKLB Stocks Get The Trump Pump After Hidden Space Stock Bets Emerge\u00a0\u00a0stocktwits.com",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYlgtQnFIQ21RTHhqRVMtMUF4aWNUR2w3WHo5QzFfWVRyaExWYXJDUk9WaEFDaW90THVYcHVSd3J4Nk82T3lkMVBGZnhIQW43bHpGdURhaTgxYnRlR25BYmp6SWR1cjVhUHlXZXdWSFdkNlFTekNoQXZCSXNVem1Oc0NBYXBKQXhnRnNCTTVvOU5xSEZrUlNxdzZCczQyZmdVOW1jQVRBczU4cHlpU3M3dnBWZnBjdw?oc=5",
-   "tickers": [
-    "RKLB"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "RKLB",
-   "strength": 60,
-   "reason": "Trump association with space stocks inferred from holdings; speculative but market-moving rumor",
-   "price_since": {
-    "ticker": "RKLB",
-    "pct": -2.5,
-    "base": 82.08,
-    "last": 79.99,
     "base_date": "2026-08-17",
     "last_date": "2026-08-18"
    }
