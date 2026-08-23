@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-23T17:46:08Z",
+ "last_updated": "2026-08-23T18:28:42Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -293,9 +293,9 @@
    "reason": "Bitcoin rally driving crypto sector upward; broad tailwind for crypto assets",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": -1.3,
+    "pct": -1.2,
     "base": 78335.19,
-    "last": 77305.81,
+    "last": 77381.75,
     "base_date": "2026-08-21",
     "last_date": "2026-08-23"
    }
@@ -526,6 +526,22 @@
    "reason": "Stock surged 150% but reason unclear; likely Trump-related catalyst but not explicit"
   },
   {
+   "date": "2026-08-21T14:01:49Z",
+   "platform": "News",
+   "text": "QCOM Stock Is 7% From Its Record High; Executives To Join Trump In China Visit - Stocktwits \u2014 QCOM Stock Is 7% From Its Record High; Executives To Join Trump In China Visit\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVXpadHNKQ3hrQS15eXBfZVNyZkRXR2hZZGpvbUF0OFp0VHJrWUhsck53RmFDb2l4eUdfVFQwY0QyZ0tYMERtRE1aaGRVSV9ORFVQd1I4WW9VOXNPS2o2Z3RqRnVReldvOWJneGJsbl81MDRkdTQ1TFd1RVQzWHgzcS01VU9ZY0RuVHZ4TWZOQWphQjlDZVQxMkJKb21PZkJYZXNxLVhnT0xKUDVEcHZYWWUyNncyZzJwX0V1YkJUTUluTU9rTFkxZ2RLRkx6eTk0dGRLSTg1T0Nwd0toT3c?oc=5",
+   "tickers": [
+    "QCOM"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "QCOM",
+   "strength": 45,
+   "reason": "QCOM executives joining Trump in China visit hints at trade negotiation; unclear if deal bullish or tariff-related headwind"
+  },
+  {
    "date": "2026-08-21T13:47:05Z",
    "platform": "News",
    "text": "IBM Stock Rallies On Trump Administration\u2019s $1B Grant: Analysts Say \u2018Big Blue\u2019 Could Become First US Quantum Foundry - Stocktwits \u2014 IBM Stock Rallies On Trump Administration\u2019s $1B Grant: Analysts Say \u2018Big Blue\u2019 Could Become First US Quantum Foundry\u00a0\u00a0Stocktwits",
@@ -669,22 +685,6 @@
    "primary_ticker": "SPY",
    "strength": 35,
    "reason": "Multiple stocks at 52-week highs; broad strength but no Trump-specific driver identified"
-  },
-  {
-   "date": "2026-08-21T05:02:37Z",
-   "platform": "News",
-   "text": "QCOM Stock Is 7% From Its Record High; Executives To Join Trump In China Visit - Stocktwits \u2014 QCOM Stock Is 7% From Its Record High; Executives To Join Trump In China Visit\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVXpadHNKQ3hrQS15eXBfZVNyZkRXR2hZZGpvbUF0OFp0VHJrWUhsck53RmFDb2l4eUdfVFQwY0QyZ0tYMERtRE1aaGRVSV9ORFVQd1I4WW9VOXNPS2o2Z3RqRnVReldvOWJneGJsbl81MDRkdTQ1TFd1RVQzWHgzcS01VU9ZY0RuVHZ4TWZOQWphQjlDZVQxMkJKb21PZkJYZXNxLVhnT0xKUDVEcHZYWWUyNncyZzJwX0V1YkJUTUluTU9rTFkxZ2RLRkx6eTk0dGRLSTg1T0Nwd0toT3c?oc=5",
-   "tickers": [
-    "QCOM"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "QCOM",
-   "strength": 55,
-   "reason": "QCOM execs join Trump China visit \u2192 potential trade deal or policy clarity bullish signal"
   },
   {
    "date": "2026-08-21T04:10:50Z",
