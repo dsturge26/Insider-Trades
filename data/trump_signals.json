@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-23T16:25:17Z",
+ "last_updated": "2026-08-23T16:52:04Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -277,12 +277,28 @@
    "reason": "Bitcoin rally driving crypto sector upward; broad tailwind for crypto assets",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": -1.4,
+    "pct": -1.2,
     "base": 78335.19,
-    "last": 77251.06,
+    "last": 77431.3,
     "base_date": "2026-08-21",
     "last_date": "2026-08-23"
    }
+  },
+  {
+   "date": "2026-08-21T22:14:11Z",
+   "platform": "News",
+   "text": "DJI ban: how the world\u2019s biggest dronemaker is getting shoved out of the US - The Verge \u2014 DJI ban: how the world\u2019s biggest dronemaker is getting shoved out of the US\u00a0\u00a0The Verge",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeWVMbm10WFUzMU9JT1ZaOU1XLUhwYUlPOG00N3NicDdvb2N3MUJ4RzBXejA5ZVpPVERibkh4bjk1RHlVOE1KM2RvM3ZIR0JQbVluUWJ6bkZ0cUVtb0QzdWtZX3U0M1VsSFAtQWhOT1FpVGt3N3VENktYemZnSGxvalBUaw?oc=5",
+   "tickers": [
+    "UAVS"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "UAVS",
+   "strength": 60,
+   "reason": "DJI ban removes dominant competitor; US dronemakers gain market share opportunity"
   },
   {
    "date": "2026-08-21T21:13:23Z",
@@ -331,6 +347,22 @@
    "primary_ticker": "MARA",
    "strength": 60,
    "reason": "MARA surges on Clarity Act hopes; specific crypto regulatory catalyst"
+  },
+  {
+   "date": "2026-08-21T20:34:49Z",
+   "platform": "News",
+   "text": "\u2018NACHO\u2019 Trade Returns: Oil Prices Climb On Renewed Tensions In Hormuz Strait - Stocktwits \u2014 \u2018NACHO\u2019 Trade Returns: Oil Prices Climb On Renewed Tensions In Hormuz Strait\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSnBUODQzM1ktdHF3TDlQR3hsM3cwWUJCOFgtbVo2R0Jtd2lGM25hRFgwMHdlbzFvUHVfV29laHUtUWFqdTZaTnhQR2dKdmc3U1FoT0ttZmg0SUxlQTN3ajZfSE52V1pSUmxkQjlwN1hrOV9aX09hTDFtUkFQLWtReldzSUZ6VDE0OGZWQ2NPS3NUelV1MmcwM2ZPMTJIWkx4X2JZSG92SF9MQ21ZWmtka3pFd0owSmxqdFJReXBYbHhwZF9jQ3NvV1NYaldLNzhaZ0E4?oc=5",
+   "tickers": [
+    "XLE"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "XLE",
+   "strength": 60,
+   "reason": "Hormuz tensions from Trump blockade push oil prices higher; energy sector bullish"
   },
   {
    "date": "2026-08-21T20:05:32Z",
@@ -797,22 +829,6 @@
    "primary_ticker": "AMZN",
    "strength": 40,
    "reason": "MAGA-aligned marketplace failure and Trump Jr. involvement suggests reputational/competitive risk to Amazon via association"
-  },
-  {
-   "date": "2026-08-21T00:06:21Z",
-   "platform": "News",
-   "text": "\u2018NACHO\u2019 Trade Returns: Oil Prices Climb On Renewed Tensions In Hormuz Strait - Stocktwits \u2014 \u2018NACHO\u2019 Trade Returns: Oil Prices Climb On Renewed Tensions In Hormuz Strait\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSnBUODQzM1ktdHF3TDlQR3hsM3cwWUJCOFgtbVo2R0Jtd2lGM25hRFgwMHdlbzFvUHVfV29laHUtUWFqdTZaTnhQR2dKdmc3U1FoT0ttZmg0SUxlQTN3ajZfSE52V1pSUmxkQjlwN1hrOV9aX09hTDFtUkFQLWtReldzSUZ6VDE0OGZWQ2NPS3NUelV1MmcwM2ZPMTJIWkx4X2JZSG92SF9MQ21ZWmtka3pFd0owSmxqdFJReXBYbHhwZF9jQ3NvV1NYaldLNzhaZ0E4?oc=5",
-   "tickers": [
-    "XLE"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "XLE",
-   "strength": 55,
-   "reason": "Oil prices rise on Hormuz tensions; geopolitical friction favors energy sector"
   },
   {
    "date": "2026-08-20T23:24:07Z",
