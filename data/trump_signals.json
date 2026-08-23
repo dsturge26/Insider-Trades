@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-23T20:49:28Z",
+ "last_updated": "2026-08-23T21:21:29Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -117,6 +117,22 @@
    "reason": "Trump's first-ever Berkshire purchase signals confidence; cuts to META and PLTR signal rotation"
   },
   {
+   "date": "2026-08-23T01:06:00Z",
+   "platform": "News",
+   "text": "Trump\u2019s Stock Disclosure Shows More Than 1,000 Trades in June - Bloomberg.com \u2014 Trump\u2019s Stock Disclosure Shows More Than 1,000 Trades in June\u00a0\u00a0Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOa0tvdEJYUG5VUzZMLWhzQUNDcFlnQzlucEZFMjVXZ1pLVndMdTN0bXpoTjdRSUdnd0ZZQldXa2RRaFc0eUtOTmRISEdidTlrV19MbFRaX3l0TzVFM1B2RzVOZDU1a0licnNMZ2k1ZlkyMGRjaE1yaVJnZ0FMMUZxTS1jU00ta1hNWWdUVmlrTFdMTVlfUnRXdTR6cXptSXI4dWd6YnFYWlg3djZXMzVkTDFR?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "SPY",
+   "strength": 25,
+   "reason": "High trading volume disclosed but mixed positions (buys and sells); ambiguous directional signal for broad market."
+  },
+  {
    "date": "2026-08-22T21:25:01Z",
    "platform": "News",
    "text": "Trump says he'll consider giving Turkey F-35 jets, adds that US will lift sanctions - ABC News - Breaking News, Latest News and Videos \u2014 Trump says he'll consider giving Turkey F-35 jets, adds that US will lift sanctions\u00a0\u00a0ABC News - Breaking News, Latest News and Videos",
@@ -147,22 +163,6 @@
    "primary_ticker": "SPY",
    "strength": 25,
    "reason": "Trump's significant trading activity disclosed but no directional market signal"
-  },
-  {
-   "date": "2026-08-22T19:31:05Z",
-   "platform": "News",
-   "text": "Trump\u2019s Stock Disclosure Shows More Than 1,000 Trades in June - Bloomberg.com \u2014 Trump\u2019s Stock Disclosure Shows More Than 1,000 Trades in June\u00a0\u00a0Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbUg0bXhTNTNMQ01fWFR1SFpGd2cxTHlOY082M3dVbDE4N0VwcEl4S2pUa1gxNURzUUx4MGhqWnRJd2hGeUVmTjNJQ3ZDTTBDQ2FZV0xQRkZYUzBZaWtMemRaaTc2RE5xNGdHNWlEUkcxd2prX1VVZndFTUhLczZVdVdET2tZSUxnbzhnc3ZDdktkQlRRaldteHd3dUpYQjdFaWdUVmpvM0JvMEIwWFNqcHRGa3BJcGp6NXJJOUtqbEllT042NVNSMXc0NUxNUFVP?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "SPY",
-   "strength": 20,
-   "reason": "High trading volume reported; unclear directional intent without details on holdings changes."
   },
   {
    "date": "2026-08-22T19:31:05Z",
@@ -309,9 +309,9 @@
    "reason": "Bitcoin rally driving crypto sector upward; broad tailwind for crypto assets",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": -1.2,
+    "pct": -0.5,
     "base": 78335.19,
-    "last": 77412.31,
+    "last": 77960.99,
     "base_date": "2026-08-21",
     "last_date": "2026-08-23"
    }
