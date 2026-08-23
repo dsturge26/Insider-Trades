@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-08-23T18:28:42Z",
+ "last_updated": "2026-08-23T18:58:53Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-08-23T18:32:08Z",
+   "platform": "News",
+   "text": "Trump Made Over 1,000 Trades in June: Bought Berkshire, Sold Meta, Churned Defense AI Stocks - finance.biggo.com \u2014 Trump Made Over 1,000 Trades in June: Bought Berkshire, Sold Meta, Churned Defense AI Stocks\u00a0\u00a0finance.biggo.com",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1hZmZabWlDSi1sR25LYXlmdmxHdzBYdGtPZWUxNTYzeWwyUWFtNEJWbU00VUhmREt0ZVVzUGhSNWVBcFlHUnBUVF9IbTJYa1FmZmhaZFQ2VXJ4NEc1anJncW1ybnZDMVlrYk1RN2IzZlZDMEhMbHc?oc=5",
+   "tickers": [
+    "BRK.B"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "BRK.B",
+   "strength": 45,
+   "reason": "Trump personal portfolio buys Berkshire Hathaway; signal is his own capital allocation, not a market recommendation"
+  },
   {
    "date": "2026-08-23T13:11:09.146Z",
    "platform": "Truth Social",
@@ -293,9 +309,9 @@
    "reason": "Bitcoin rally driving crypto sector upward; broad tailwind for crypto assets",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": -1.2,
+    "pct": -1.3,
     "base": 78335.19,
-    "last": 77381.75,
+    "last": 77316.8,
     "base_date": "2026-08-21",
     "last_date": "2026-08-23"
    }
@@ -427,6 +443,22 @@
    "primary_ticker": "XLE",
    "strength": 50,
    "reason": "potential Cuba sanctions expansion could affect energy and trade flows"
+  },
+  {
+   "date": "2026-08-21T17:55:57Z",
+   "platform": "News",
+   "text": "NOW Stock Rises Overnight: Trump\u2019s ServiceNow Stake Fuels Retail Buzz Around SAAS Comeback - Stocktwits \u2014 NOW Stock Rises Overnight: Trump\u2019s ServiceNow Stake Fuels Retail Buzz Around SAAS Comeback\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQcEF0OFRRa3hIWF9rS21NMTBqNk53MDA4eWFQcDJad1Z2QkQyTTdmd3prLUVaVUUwdVRSWWpCOGs3N3JaYTZCcG1KMjg1c1Q0WWdjSnlWbHkteXVxcnFoUXFZMEg4ejh0YjA4ZG5BRnBEX1huMFNaS0dXdEx4LWNEOXBLcmNpMzlCQzc1OC0yRDFKeWFMWEZzWUpNQXBWTFFDQlJ6dmFWamU5cUpFZnVfcU1ocFdTa0tfdjByTlZZUHo4QUx1QzJOMHpzZEdaZjdqSVhoWFB0cVRKZW9BbnNLMi1XYUF2MlhaZGc?oc=5",
+   "tickers": [
+    "NOW"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "NOW",
+   "strength": 72,
+   "reason": "Trump has or signals stake in ServiceNow; direct support for named company stock."
   },
   {
    "date": "2026-08-21T17:24:14.193Z",
@@ -701,22 +733,6 @@
    "primary_ticker": "MU",
    "strength": 70,
    "reason": "Micron $10B memory lab investment; Trump administration and Apple CEO support bullish for chip capex and demand"
-  },
-  {
-   "date": "2026-08-21T03:55:12Z",
-   "platform": "News",
-   "text": "NOW Stock Rises Overnight: Trump\u2019s ServiceNow Stake Fuels Retail Buzz Around SAAS Comeback - Stocktwits \u2014 NOW Stock Rises Overnight: Trump\u2019s ServiceNow Stake Fuels Retail Buzz Around SAAS Comeback\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQcEF0OFRRa3hIWF9rS21NMTBqNk53MDA4eWFQcDJad1Z2QkQyTTdmd3prLUVaVUUwdVRSWWpCOGs3N3JaYTZCcG1KMjg1c1Q0WWdjSnlWbHkteXVxcnFoUXFZMEg4ejh0YjA4ZG5BRnBEX1huMFNaS0dXdEx4LWNEOXBLcmNpMzlCQzc1OC0yRDFKeWFMWEZzWUpNQXBWTFFDQlJ6dmFWamU5cUpFZnVfcU1ocFdTa0tfdjByTlZZUHo4QUx1QzJOMHpzZEdaZjdqSVhoWFB0cVRKZW9BbnNLMi1XYUF2MlhaZGc?oc=5",
-   "tickers": [
-    "NOW"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "NOW",
-   "strength": 60,
-   "reason": "Trump stake in ServiceNow reported; implied bullish signal on his portfolio pick."
   },
   {
    "date": "2026-08-21T03:01:29Z",
