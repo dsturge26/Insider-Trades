@@ -1,22 +1,38 @@
 {
- "last_updated": "2026-08-24T21:28:42Z",
+ "last_updated": "2026-08-24T21:55:37Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
-   "date": "2026-08-24T18:49:51Z",
+   "date": "2026-08-24T18:57:27Z",
    "platform": "News",
    "text": "Trump bought shares in Elon Musk's SpaceX in June, financial disclosure shows - Reuters \u2014 Trump bought shares in Elon Musk's SpaceX in June, financial disclosure shows\u00a0\u00a0Reuters",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZHBZd3V0b2sySFhUajY0b2NBeVcwZzFLdGpNMENHWGRyMHEtX0NqYi1fUXU2a1E4UGVqS25vS3hpTkd2MW5xLVRtTi1pSnZ3R1VpZDBxY1lLLW9WbEdKdzFZbTlzbjZMRlJGQmt1OS1kTlBpZkhkbVJXYWd4elhfRTV5SENBRG80WHlhbURPeGZRYWt5TmxoN0FlSHVZb2QweFJlQWtkemoyQnRhak5ncnl6S29SWHdadjRUamdRdw?oc=5",
    "tickers": [
-    "RKLB"
+    "DJT"
    ],
    "classified": true,
    "is_market": true,
    "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "RKLB",
-   "strength": 35,
-   "reason": "Trump personal investment in SpaceX signals bullish view on space/defense sector; spillover sentiment to public space stocks like Rocket Lab"
+   "direction": "WATCH",
+   "primary_ticker": "DJT",
+   "strength": 25,
+   "reason": "Trump's personal SpaceX investment signals confidence in space/AI; indirect bullish read on space sector but ambiguous direction"
+  },
+  {
+   "date": "2026-08-24T18:27:00Z",
+   "platform": "News",
+   "text": "Donald Trump bought up to $50,000 worth SpaceX shares in June, financial disclosure shows - The Economic Times \u2014 Donald Trump bought up to $50,000 worth SpaceX shares in June, financial disclosure shows\u00a0\u00a0The Economic Times",
+   "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQZHdXck14T3hkT0piMmp4bUE0SnVBZmQtQWFtbE9RVEdFUUZoMGd4YUczRW9QTjIwV3FjSWI4UWFXclNoODRQTjVzbEZTa3dlVFB3QU1UQTg1U2xnQ281TE9JVmIySm5pdnhDd1JSWVNkV0lsTkZFeXljZ1lueTd5dVl1d09fQ01Wc3BmMW0zQkNMQmJEMktmZ2pIV3ZwZWpBOUpJeUpXOFJYQXBFdXBXR3Rsb1Q3Ym5GMTJmSUsxcmV4X2o1aHJkeVB1WW1PZWFPOHlHOGRkVzFCbzRYRTh3cElodkxjYUFOYWZwSDJBTzhwMWZjT3BJa2VrRk1VWnlGRENiLWNUendQX3Jx0gGMAkFVX3lxTFBkd1dyTXhPeGRPSmIyanhtQTRKdUFmZC1BYW1sT1FUR0VRRmgwZ3hhRzNFb1BOMjBXcWNJYjhRYVdyU2g4NFBONXNsRlNrd2VUUHdBTVRBODVTbGdDbzVMT0lWYjJKbml2eEN3UlJZU2RXSWxORkV5eWNnWW55N3l1WXV3T19DTVZzcGYxbTNCQ0xCYkQyS2ZnakhXdnBlakE5Skl5Slc4UlhBcEV1cFdHdGxvVDdibkYxMmZJSzFyZXhfajVocmR5UHVZbU9lYU84eUc4ZGRXMUJvNFhFOHdwSWh2TGNhQU5hZnBIMkFPOHAxZmNPcElrZWtGTVVaeUZEQ2ItY1R6d1BfcnE?oc=5",
+   "tickers": [
+    "DJT"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "DJT",
+   "strength": 25,
+   "reason": "Trump SpaceX share purchase signals sector interest; modest signal via his trading activity"
   },
   {
    "date": "2026-08-24T17:48:25Z",
@@ -2367,30 +2383,6 @@
     "pct": 5.3,
     "base": 7.72,
     "last": 8.13,
-    "base_date": "2026-08-18",
-    "last_date": "2026-08-19"
-   }
-  },
-  {
-   "date": "2026-08-18T08:16:00Z",
-   "platform": "News",
-   "text": "Trump praises North Korean leader, shares how Kim Jong UN treated him with great respect - WION \u2014 Trump praises North Korean leader, shares how Kim Jong UN treated him with great respect\u00a0\u00a0WION",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUFFfT092bnh1VG5zaWx2VF9oRFdvb0tnVFN0NmxKVXZSUWNMV1AtaWhkTXFfQ0FjcGwyYUJscS1sSDY1ZWQ5WFVZVTctaW8xN2xheS0yODRLcVV4OGwwU2ZOMjNYdDJ5SmU0OHhBdERRYy15alJZTWFsS0tjZS1jZlRfNlhjc3NISTdQZ1R3bkFTdXpNdF83dGE0WDlmN2NMeDIwUFR3WVRPcmRLdi1jVjBUZDRiZXgtNU41SkxfcXN0VUV6Q3BGajdHV0NhLVktZHBVYg?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "SPY",
-   "strength": 55,
-   "reason": "North Korea diplomatic signals create geopolitical uncertainty; mixed risk/opportunity.",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": 0.2,
-    "base": 767.45,
-    "last": 769.06,
     "base_date": "2026-08-18",
     "last_date": "2026-08-19"
    }
