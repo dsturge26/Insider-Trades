@@ -1,7 +1,40 @@
 {
- "last_updated": "2026-08-24T16:55:22Z",
+ "last_updated": "2026-08-24T17:30:33Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-08-24T17:26:02Z",
+   "platform": "News",
+   "text": "Trump bought shares in Elon Musk\u2019s SpaceX in June, financial disclosure shows - 1450 AM 99.7 FM WHTC \u2014 Trump bought shares in Elon Musk\u2019s SpaceX in June, financial disclosure shows\u00a0\u00a01450 AM 99.7 FM WHTC",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVG90QnZrQ3A2ODBoUFgyTl90N19jbTlqTzdjT1o0eWFGVElTcUtWcVRhYXdDTzFfMWtyb3BjWFBYc0NQNnhkSThpaktZdFM4TFE2OFJuY0Q5elBLUlhCWVRGZmRQU3NScmF0cVdPcFVldlRCVXFLbUYxWVEzV1dOdV8tV2hnV2R3TW9TUnJOVFVzazdEUWItTnlYcmp0OXV2R0QtM1R4dw?oc=5",
+   "tickers": [
+    "SPACE"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "SPACE",
+   "strength": 55,
+   "reason": "Trump's disclosed SpaceX share purchase signals confidence in space sector; SpaceX proxy is limited, but movement in space stocks (RKLB, ASTS) likely follows."
+  },
+  {
+   "date": "2026-08-24T16:56:22.682Z",
+   "platform": "Truth Social",
+   "text": "Trump's Tariffs Force Some Canadian Companies to Consider Moving South: https://www.nytimes.com/2026/08/12/world/canada/canada-tariffs-manufacturing-trade-trump.html",
+   "tickers": [
+    "SPY"
+   ],
+   "engagement": 853,
+   "url": "https://truthsocial.com/@realDonaldTrump/117151536426663116",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "SPY",
+   "strength": 60,
+   "reason": "Tariffs on Canada force manufacturing relocation; bearish for broad US equity market and affected sectors."
+  },
   {
    "date": "2026-08-24T13:38:26.562Z",
    "platform": "Truth Social",
@@ -2375,47 +2408,6 @@
     "base": 64680.71,
     "last": 69252.54,
     "base_date": "2026-08-18",
-    "last_date": "2026-08-19"
-   }
-  },
-  {
-   "date": "2026-08-17T22:42:51.124Z",
-   "platform": "Truth Social",
-   "text": "Senator Dan Sullivan is doing a fantastic job representing the Great State of Alaska! Prior to becoming a very distinguished and Highly Respected Senator, Dan served as State Attorney General and the Commissioner of the Alaska Department of Natural Resources.\u00a0Dan is a GREAT man, has ALWAYS delivered for Alaska (which I won three times by BIG margins in 2016, 2020, and 2024!), and will continue doing so in the U.S. Senate. No one has done more for Alaska than \"TRUMP,\" including just securing 11 new Arctic Security Cutter Icebreakers, the first such ships bought in more than 40 years, and Dan Sullivan has been with us all the way. He is fighting hard to Grow our Economy, Lower Taxes, Cut Regulations, Help Secure our VERY Secure (Record Setting!) Border, Champion our Incredible Military/Veterans, Advance American Energy DOMINANCE by helping to keep the price of Gasoline, Oil, and all forms of Energy VERY LOW, and Defend our always under siege Second Amendment.\u00a0Because of the trickery in the Voting, the Crooked, Radical Left Dumocrats have put up another man named \"Dan Sullivan,\" and they did this to take Votes away from our Great Senator of the same name. Democrats are trying to \"trick\" Alaskans, and treat Alaskan Voters with contempt. On Tuesday, August 18th, Alaskans, don't be fooled. The Senator you want to vote for is:\u00a0\"SULLIVAN, DAN S. \u2014 REGISTERED REPUBLICAN/INCUMBENT\"\u00a0\"SULLIVAN, DAN S\" has my Complete and Total Endorsement for Re-Election \u2013 HE WILL NOT LET YOU DOWN!\u00a0Find your Voting Location here: https://swampthevoteusa.com/alaska/",
-   "tickers": [
-    "XAR"
-   ],
-   "engagement": 1832,
-   "url": "https://truthsocial.com/@realDonaldTrump/117113262645072564",
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "XAR",
-   "strength": 58,
-   "reason": "Trump secures 11 Arctic Security Cutter Icebreaker contracts; new federal defense spending bullish for aerospace/defense"
-  },
-  {
-   "date": "2026-08-17T20:40:02Z",
-   "platform": "News",
-   "text": "Trump announcement of drone tariffs instantly made his son richer - AOL.com \u2014 Trump announcement of drone tariffs instantly made his son richer\u00a0\u00a0AOL.com",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPa3ZQUmJQOW0yc1cxQmU4QmtzNWgwaXA3VzctYWt0UjA3Z3dkeWJCYXRFajRDcTJNYTJ6dFN5eXhXXzktNlpmQUhKalhDeGxtLU84bmNKRzZSSlF6MXRkSHRMQnh5c3RwZWVZbnp6QzNKMFNRaVpONEpPYS0tai0wTGxkeXViZ04zbF9Uc1hJQQ?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "SPY",
-   "strength": 35,
-   "reason": "Tariff announcement bearish for broad market; family enrichment concerns infer policy risk.",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": -0.5,
-    "base": 772.67,
-    "last": 769.06,
-    "base_date": "2026-08-17",
     "last_date": "2026-08-19"
    }
   },
