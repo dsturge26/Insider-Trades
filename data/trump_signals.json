@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-24T16:04:25Z",
+ "last_updated": "2026-08-24T16:55:22Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -51,6 +51,22 @@
    "primary_ticker": "SPY",
    "strength": 45,
    "reason": "energy independence and deregulation policy broadly supportive of market"
+  },
+  {
+   "date": "2026-08-24T03:12:02Z",
+   "platform": "News",
+   "text": "DELL Stock Spikes To Record Highs On President Trump\u2019s Endorsement - Stocktwits \u2014 DELL Stock Spikes To Record Highs On President Trump\u2019s Endorsement\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYWF1OUgweFU0d1NlNU4ya1FYQVJSVTRCX3IwM0NMd19VVmN5RzNtUmc1c2FhTU9abXdnTmVnMDE2QUxna3ZrUEF3Zkd0SFUtOWx3QkF2elBuNkNTcmZDRm1BRUkwMVRwYU0xaUVsWDZLSk0yeEtiMFFPV0t3ZXZ3OW15QUg5V0xHNnRrU1J5VXdvX09Oa0ZmRmJvV0VTVlFRRFh6c3E5RmtHckx0MXpNVVZTWmJpLTUtUXBHSG5pWEFfQll0ejRneDFB?oc=5",
+   "tickers": [
+    "DELL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "DELL",
+   "strength": 75,
+   "reason": "Trump explicitly endorses Dell; stock spikes on direct praise"
   },
   {
    "date": "2026-08-24T02:37:21Z",
@@ -275,22 +291,6 @@
    "primary_ticker": "MU",
    "strength": 75,
    "reason": "Micron explicitly backs Trump accounts with $250M commitment; clear corporate support signal"
-  },
-  {
-   "date": "2026-08-23T13:25:10Z",
-   "platform": "News",
-   "text": "DELL Stock Spikes To Record Highs On President Trump\u2019s Endorsement - Stocktwits \u2014 DELL Stock Spikes To Record Highs On President Trump\u2019s Endorsement\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYWF1OUgweFU0d1NlNU4ya1FYQVJSVTRCX3IwM0NMd19VVmN5RzNtUmc1c2FhTU9abXdnTmVnMDE2QUxna3ZrUEF3Zkd0SFUtOWx3QkF2elBuNkNTcmZDRm1BRUkwMVRwYU0xaUVsWDZLSk0yeEtiMFFPV0t3ZXZ3OW15QUg5V0xHNnRrU1J5VXdvX09Oa0ZmRmJvV0VTVlFRRFh6c3E5RmtHckx0MXpNVVZTWmJpLTUtUXBHSG5pWEFfQll0ejRneDFB?oc=5",
-   "tickers": [
-    "DELL"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "DELL",
-   "strength": 80,
-   "reason": "Trump explicitly endorsed Dell; stock spiked on direct praise of named company"
   },
   {
    "date": "2026-08-23T13:11:09.146Z",
@@ -2415,54 +2415,6 @@
     "pct": -0.5,
     "base": 772.67,
     "last": 769.06,
-    "base_date": "2026-08-17",
-    "last_date": "2026-08-19"
-   }
-  },
-  {
-   "date": "2026-08-17T18:28:00Z",
-   "platform": "News",
-   "text": "Stock Futures Point to Mixed Open as Traders Weigh Retail Earnings and Middle East Risks - finance.biggo.com \u2014 Stock Futures Point to Mixed Open as Traders Weigh Retail Earnings and Middle East Risks\u00a0\u00a0finance.biggo.com",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB0YmZ3ZDJHRkh4SjRKSXRGd3I1bmFNV19DczhlNTIxbWlXNkZ3SWtEdHlLX1hRYVU3cVA3bHlUMDI0ZlBmUUc4V0ZQTzA4eEFUZjEzUV9hZF92X0E0N3hBRVNDSFJzQjBIZHRuN1BrOW1lMlRzTUE?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "SPY",
-   "strength": 15,
-   "reason": "General market outlook unrelated to Trump action",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": -0.4,
-    "base": 772.67,
-    "last": 769.64,
-    "base_date": "2026-08-17",
-    "last_date": "2026-08-19"
-   }
-  },
-  {
-   "date": "2026-08-17T16:59:47Z",
-   "platform": "News",
-   "text": "BE Stock Recovers After 10% Selloff: Morgan Stanley Says Crusoe Project Pause Does Not Break AI Power Thesis - stocktwits.com \u2014 BE Stock Recovers After 10% Selloff: Morgan Stanley Says Crusoe Project Pause Does Not Break AI Power Thesis\u00a0\u00a0stocktwits.com",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNjlDbi1IQTBRdFN2cjFXR0FUTzRHZnIwUlVfMFZYdzFOelF4dDRSZ3A2dTVnczZ5bG83X3hURURjMUJkdVZlckRublhWNHVFb0wwZ0JwQVdzTTMyVFhLZXNySnd3VV9TSHFSTlVFd1M4UnpIUVQxQ29uSHlPSjc1MjVrNy16dDJVVG5LQm5qT1NvMmlEYjZicHFrZ2ltYVd0WGFCYlRQLWt5a0xaNGF6c283THpXLTItZDU5b0lqTVBEa0U?oc=5",
-   "tickers": [
-    "BE"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "BE",
-   "strength": 35,
-   "reason": "BE stock rebounds after Crusoe project pause; AI power thesis intact but project uncertainty.",
-   "price_since": {
-    "ticker": "BE",
-    "pct": -13.0,
-    "base": 232.16,
-    "last": 202.0,
     "base_date": "2026-08-17",
     "last_date": "2026-08-19"
    }
