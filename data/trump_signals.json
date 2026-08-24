@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-08-24T21:55:37Z",
+ "last_updated": "2026-08-24T22:26:36Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-08-24T21:39:00Z",
+   "platform": "News",
+   "text": "Elon Musk Praises New SpaceX and NVIDIA Partnership, Yet Both Stocks Fall - BeInCrypto \u2014 Elon Musk Praises New SpaceX and NVIDIA Partnership, Yet Both Stocks Fall\u00a0\u00a0BeInCrypto",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9KRURFQ2VQd21ERUw0U0FvSnZVTWNwN1pDR3FCbnJuUlJRd1NaNWxaMkkzczdrUU5DY3RWdjAtX0RwR09sQ1JMSlNrOFAwSWEtXzNQSUVzYVZ0Zi1SRFE2X1pfUXptYWh1VEE0WHhjSlllQVNVeTJEQVk2bw?oc=5",
+   "tickers": [
+    "NVDA"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "NVDA",
+   "strength": 25,
+   "reason": "Musk praises NVIDIA partnership but stocks fell; praise contradicted by price action, no clear directional signal"
+  },
   {
    "date": "2026-08-24T18:57:27Z",
    "platform": "News",
@@ -2359,30 +2375,6 @@
     "pct": 2.1,
     "base": 171.54,
     "last": 175.19,
-    "base_date": "2026-08-18",
-    "last_date": "2026-08-19"
-   }
-  },
-  {
-   "date": "2026-08-18T09:01:48Z",
-   "platform": "News",
-   "text": "IBRX Stock Rallies Into Trump\u2019s Big SOTU Night \u2014 Here\u2019s What Traders Think Could Fuel The Next Move - stocktwits.com \u2014 IBRX Stock Rallies Into Trump\u2019s Big SOTU Night \u2014 Here\u2019s What Traders Think Could Fuel The Next Move\u00a0\u00a0stocktwits.com",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWFdFall2YVNMN3Rialp3SE9sU0h6YUQ1MDFiX2JaeXMxNlFFZUZveFU0TkVxUFI4cTQ5bW5VdkFlTDd1dFNwSUN2YTRtRl83aVRRXzZ6d09TeEhlR1NJb1JaMHlMWDhrQXpmZW40c1B1Y21KNjhxdm90Ny1uU3p4MzJZSW9GNGduMEdyRzFIU2RGLWlYWXg4TFJUU0N6ZlhFemxtUmprVXY0YkVRZk5vZHljazQ?oc=5",
-   "tickers": [
-    "IBRX"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "IBRX",
-   "strength": 25,
-   "reason": "Stock rallying into SOTU event; no specific Trump catalyst disclosed in headline.",
-   "price_since": {
-    "ticker": "IBRX",
-    "pct": 5.3,
-    "base": 7.72,
-    "last": 8.13,
     "base_date": "2026-08-18",
     "last_date": "2026-08-19"
    }
