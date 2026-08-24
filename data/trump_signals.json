@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-24T10:03:53Z",
+ "last_updated": "2026-08-24T10:53:29Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -372,6 +372,22 @@
    "primary_ticker": "BRK.B",
    "strength": 35,
    "reason": "Trump's Berkshire purchase and active trading signal portfolio positioning"
+  },
+  {
+   "date": "2026-08-22T18:45:27Z",
+   "platform": "News",
+   "text": "Dow, S&P 500, Nasdaq Futures Slip As Trump\u2019s Hormuz Deadline Looms: Why UNH, CAR, TSLA, AVGO, ENVX Are Trending After-Hours - Stocktwits \u2014 Dow, S&P 500, Nasdaq Futures Slip As Trump\u2019s Hormuz Deadline Looms: Why UNH, CAR, TSLA, AVGO, ENVX Are Trending After-Hours\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaTFzRnFlV1J4WU0xM2JWeWFSbXJRVkJvS19IRVNRVEN6TnZxOWJKSW0zSzhqY2xWZDJ3b0VFbGstZ0lGN1NYZDVHZkdRb1ZmUnRoQk9DRXpMUTROWVpqWXVlYkc0RkpfM1duX3FFTHN3ZGk2VF9YSTlyandwdDl4TUZwazRZb3BkbVBCQ0thUzFGMGVuS3IzUVlIX2xlTG5TeFNueU9mRXBCZjh4QUkxOFBGXzBVRk1zLWk0VzM1RV9WWEl3Mk9KT0wzSjNIeFE?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "SPY",
+   "strength": 65,
+   "reason": "Trump Hormuz deadline threat (likely tariffs/geopolitical tension) implies broad market pressure; futures slipping."
   },
   {
    "date": "2026-08-22T14:50:07Z",
@@ -1408,30 +1424,6 @@
    }
   },
   {
-   "date": "2026-08-20T09:26:53Z",
-   "platform": "News",
-   "text": "Dow, S&P 500, Nasdaq Futures Slip As Trump\u2019s Hormuz Deadline Looms: Why UNH, CAR, TSLA, AVGO, ENVX Are Trending After-Hours - Stocktwits \u2014 Dow, S&P 500, Nasdaq Futures Slip As Trump\u2019s Hormuz Deadline Looms: Why UNH, CAR, TSLA, AVGO, ENVX Are Trending After-Hours\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaTFzRnFlV1J4WU0xM2JWeWFSbXJRVkJvS19IRVNRVEN6TnZxOWJKSW0zSzhqY2xWZDJ3b0VFbGstZ0lGN1NYZDVHZkdRb1ZmUnRoQk9DRXpMUTROWVpqWXVlYkc0RkpfM1duX3FFTHN3ZGk2VF9YSTlyandwdDl4TUZwazRZb3BkbVBCQ0thUzFGMGVuS3IzUVlIX2xlTG5TeFNueU9mRXBCZjh4QUkxOFBGXzBVRk1zLWk0VzM1RV9WWEl3Mk9KT0wzSjNIeFE?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "SPY",
-   "strength": 40,
-   "reason": "Trump's Hormuz deadline creates geopolitical uncertainty, futures declining",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": 0.6,
-    "base": 762.6,
-    "last": 767.09,
-    "base_date": "2026-08-20",
-    "last_date": "2026-08-21"
-   }
-  },
-  {
    "date": "2026-08-20T08:58:55Z",
    "platform": "News",
    "text": "Why Are Nasdaq, S&P 500 Futures Falling Premarket? NVDA, SKHY, SPCX, TSLA, MRNA, MSTR, PURR, WMT Stocks In Focus - TradingView \u2014 Why Are Nasdaq, S&P 500 Futures Falling Premarket? NVDA, SKHY, SPCX, TSLA, MRNA, MSTR, PURR, WMT Stocks In Focus\u00a0\u00a0TradingView",
@@ -2456,54 +2448,6 @@
     "last": 8.35,
     "base_date": "2026-08-17",
     "last_date": "2026-08-19"
-   }
-  },
-  {
-   "date": "2026-08-17T13:45:00Z",
-   "platform": "News",
-   "text": "INTC Stock Rockets Toward Best Month Ever: Something More Than A Trump Pump Could Be Powering The Rally - Stocktwits \u2014 INTC Stock Rockets Toward Best Month Ever: Something More Than A Trump Pump Could Be Powering The Rally\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQT29KOURKeHprQ2xZbmpLUUc3MGRlTTE5Y1JHVXJ5TGhldk10eENQcmZLSzRWNDQyTmJFclFNUThmZ0tBRlZUQTZ3MGF1dlZwR0Q4aUtXUnZVQ2o1MjM3cFNpU2RrejRkd2E0OXBhOVNpdDdBdDVSSTR1c2M5NTZfYlg4NEFxODg3QWpMTXd0VVIzM3pZRS10OG5JWG9QUW52UjZvbXVvQ29uZ1lJb1NwbFljM1lBN1dreHdJZDdYZ1hKTjVidndnRWlJRnl5cnNpT2llcjVuSVltVDNzVFdHbmZYTEpua3JJVllOcXIxVmdfaThfeHRzVm9R?oc=5",
-   "tickers": [
-    "INTC"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "INTC",
-   "strength": 55,
-   "reason": "Intel rally tied to Trump-era semiconductor momentum and foundry support",
-   "price_since": {
-    "ticker": "INTC",
-    "pct": -10.0,
-    "base": 103.49,
-    "last": 93.09,
-    "base_date": "2026-08-17",
-    "last_date": "2026-08-19"
-   }
-  },
-  {
-   "date": "2026-08-17T13:36:00Z",
-   "platform": "News",
-   "text": "SERV Stock Rallies On Grubhub Partnership, DoorDash Deal Expansion \u2014 CEO Calls It 'Clearest Signal Yet Of Where We're Headed' - stocktwits.com \u2014 SERV Stock Rallies On Grubhub Partnership, DoorDash Deal Expansion \u2014 CEO Calls It 'Clearest Signal Yet Of Where We're Headed'\u00a0\u00a0stocktwits.com",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQUFaZUZwcDRSdjFvQzY4NjBHTFFyNUN6WUVEY3RqcGZrZV9QNzY3NFZVVXJWaUpXRnJjOXVGVmE0clZRUkRCSENZSVVGY3NUMTh1M1BlNHRVU1RyT2xxUUlOcTNTMnA5dDVmRDJMWE5PaXBVV0ZDd1FXOUVRU2pLRERkLXVvcS1ZSVFZTkN0ZDlLMjJOZE5wcmN0bzY5bHhleFhOT1BFTG1Hc0FBc21hUGJoQzgzZEdsQU5GVk9ZakJaUQ?oc=5",
-   "tickers": [
-    "SERV"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "SERV",
-   "strength": 40,
-   "reason": "SERV stock rallies on Grubhub/DoorDash partnerships; new delivery deal expands opportunity.",
-   "price_since": {
-    "ticker": "SERV",
-    "pct": -7.1,
-    "base": 4.9,
-    "last": 4.55,
-    "base_date": "2026-08-17",
-    "last_date": "2026-08-18"
    }
   },
   {
