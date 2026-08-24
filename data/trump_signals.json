@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-24T22:54:43Z",
+ "last_updated": "2026-08-24T23:21:36Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -17,6 +17,22 @@
    "primary_ticker": "NVDA",
    "strength": 25,
    "reason": "Musk praises NVIDIA partnership but stocks fell; praise contradicted by price action, no clear directional signal"
+  },
+  {
+   "date": "2026-08-24T20:22:39Z",
+   "platform": "News",
+   "text": "Trump bought shares in Elon Musk\u2019s SpaceX in June, financial disclosure shows - South China Morning Post \u2014 Trump bought shares in Elon Musk\u2019s SpaceX in June, financial disclosure shows\u00a0\u00a0South China Morning Post",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNMU1WenVOWXM0ZGtZajhsYWRSc2xoNlM3ZGZXdXd6Z3N5cFpzV3o5S0ltYUZlbmlQMm8wYkFhUEk5cXJIaUxSU21fVmNPS1UwSkRpSlZTUXhCV1JXVW5tWE02Z1V2SnljTmtudzZEd3BxcHJpNXBfdW1vb1EzZWRDNS11dFk1RlFQNEpJc194Zmc5MTB2OHpMWHF4ZGhjS2t0dFYwREM5UURWMmpkc3Z4dlJjRVN2UnNVNTdRc1ZuWF9lTVhuNmdVaFpxdlRUQkdCQ3dwTFJOb2FTYWpXcWo2bHM3NW0?oc=5",
+   "tickers": [
+    "RKLB"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "RKLB",
+   "strength": 35,
+   "reason": "Trump personal investment in SpaceX signals confidence in space sector; SpaceX private so use RKLB as proxy"
   },
   {
    "date": "2026-08-24T18:57:27Z",
