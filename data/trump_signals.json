@@ -1,7 +1,24 @@
 {
- "last_updated": "2026-08-24T09:04:41Z",
+ "last_updated": "2026-08-24T10:03:53Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-08-24T05:23:41.353Z",
+   "platform": "Truth Social",
+   "text": "RT @katy_libertyMark Levin just laid it out clearly.Trump is cutting and reviewing regulations to restore American energy independence, put more money in people's paychecks, and make homeownership attainable again \u2014 while still looking out for the environment and American workers.Blue-state governors are sabotaging that progress every chance they get.Democrats claim \"he's not focused on affordability.\" He's all about affordability. They're just furious he's delivering it.Stop listening to the liberal media and your blue-state governors. Do your own research. The Democrats have been the reason we can't have nice things.",
+   "tickers": [
+    "SPY"
+   ],
+   "engagement": 1,
+   "url": "https://truthsocial.com/@realDonaldTrump/117148812663367626",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "SPY",
+   "strength": 45,
+   "reason": "energy independence and deregulation policy broadly supportive of market"
+  },
   {
    "date": "2026-08-24T00:28:49Z",
    "platform": "News",
@@ -33,6 +50,22 @@
    "primary_ticker": "PLTR",
    "strength": 65,
    "reason": "Palantir contract expansion under Trump administration boosts defense revenue"
+  },
+  {
+   "date": "2026-08-23T21:57:40Z",
+   "platform": "News",
+   "text": "Vanda Stock Draws Heavy Buzz Ahead Of FDA Verdict On Bysanti For Bipolar, Schizophrenia - Stocktwits \u2014 Vanda Stock Draws Heavy Buzz Ahead Of FDA Verdict On Bysanti For Bipolar, Schizophrenia\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPQUVCcXhKTlJtT1VlOFg4dGVpRXBOSTJWSHpxcEM3TkJiSFowNDRXdFFwQ3VlNGJiclctU2F0cEs1emlUOW1UdDF3djM1MHdkelZaSE1CMHRDa0kwc19NejBkUmY1Z1lIdUJpU0xDR2JwZGx1RUpGeEJJdmljY2xYb0RnVGp0b1dwMVhDYWY5TlFuVEdIaW9uOWZ3RERYcGRYSDlkLThBb3hxV3dBdDdxcWthclMzQVhzcTFfMGV6UTgwWXB3cl9RUHJ1TGdyRDNrRTc5MjVycU4xbGNNTGFkM1lEMmE?oc=5",
+   "tickers": [
+    "VNDA"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "VNDA",
+   "strength": 40,
+   "reason": "FDA verdict catalyst independent of Trump; clinical risk/reward"
   },
   {
    "date": "2026-08-23T20:12:10Z",
@@ -129,6 +162,22 @@
    "primary_ticker": "BRK.B",
    "strength": 45,
    "reason": "Trump buying Berkshire Hathaway signals confidence; sold Meta and defense AI stocks"
+  },
+  {
+   "date": "2026-08-23T18:09:56Z",
+   "platform": "News",
+   "text": "IHRT Stock Soars On Merger Talks With Sirius XM: Report - Stocktwits \u2014 IHRT Stock Soars On Merger Talks With Sirius XM: Report\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaTVvNzhVcTdPalZYdl9wVEtVQ0RWb3hLU0RjWXdpek5LUGdDdjY0TTRwa01xWFVkbjlCUG1wUk5PT0JtWmp2ZWJWeVM5MDh6SUN3cU1EUVBxanhrYU1XdTc3ZkZGRW1aelhoazZLREp4QTZwWkN4b09faU1JZnZQNDBKcVgxRERZTGtTTzYydG8wMXU0TFF0WVcydWExMU5DS3gxTkVyUlFJNllYMHNPaHpLOWE1dGswc0E?oc=5",
+   "tickers": [
+    "IHRT"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "IHRT",
+   "strength": 45,
+   "reason": "merger speculation catalyst; independent of Trump"
   },
   {
    "date": "2026-08-23T16:51:32Z",
@@ -2453,54 +2502,6 @@
     "pct": -7.1,
     "base": 4.9,
     "last": 4.55,
-    "base_date": "2026-08-17",
-    "last_date": "2026-08-18"
-   }
-  },
-  {
-   "date": "2026-08-17T10:04:00Z",
-   "platform": "News",
-   "text": "Trump crypto firm backs venture offering AI from restricted Chinese companies - Reuters \u2014 Trump crypto firm backs venture offering AI from restricted Chinese companies\u00a0\u00a0Reuters",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTHhDcEM5cGN4V2duaGh3RmNtbVZndFdfWHBjSkF5ekRiN1JBVnRULTBUeTVld0I3czliYWZsckdXbVJfLTdJcldxY0V1VnV6NU1sME1uM3BWLUttZzR4RDVPSkJsTXlRQkRSTkFJc2pLelNEYXNBWHpUX1BGdzFBTGtmaFFwdE1DclphZDZncHMyTk5oNmFZSWhQRmVrUHdkaFpCb3ZBWWY4eExmcGZEMkJZekFPTEI3VG4zUQ?oc=5",
-   "tickers": [
-    "BTC"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "BTC",
-   "strength": 30,
-   "reason": "Trump-linked crypto firm backs AI venture with Chinese restrictions; regulatory/compliance risk creates ambiguous market signal.",
-   "price_since": {
-    "ticker": "BTC",
-    "pct": 0.5,
-    "base": 28.43,
-    "last": 28.57,
-    "base_date": "2026-08-17",
-    "last_date": "2026-08-18"
-   }
-  },
-  {
-   "date": "2026-08-17T09:46:36Z",
-   "platform": "News",
-   "text": "Trump Says China Has Not Approved NVDA H200 Chip Purchases Yet \u2014 'They Want To Develop Their Own' - stocktwits.com \u2014 Trump Says China Has Not Approved NVDA H200 Chip Purchases Yet \u2014 'They Want To Develop Their Own'\u00a0\u00a0stocktwits.com",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZ2oxZ3ZfNVpTWGQwLTY3T0xzazUxbWY2a3ZreDlRRGE0ZHQxbmNRR29RSm11VXBPajBkd1V1M0VhRUJvVUp0V2lfM3ladmswQ2hMWGlsUjY5RE1ERXR0LTBwN2JLYTBNUk1GRC1QbjktYTlkeTU5MlgteEpYeURwZmhaR2NjUUJMVWs5SGVnbm9uTEZ2dkdmSmVVdzctQ0I3clJZZFM1YnVqbkd1RG9kQlpXUjY?oc=5",
-   "tickers": [
-    "NVDA"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "SELL",
-   "primary_ticker": "NVDA",
-   "strength": 55,
-   "reason": "Trump states China has not approved NVDA H200 purchases; bearish for NVDA China revenue.",
-   "price_since": {
-    "ticker": "NVDA",
-    "pct": -2.3,
-    "base": 225.01,
-    "last": 219.74,
     "base_date": "2026-08-17",
     "last_date": "2026-08-18"
    }
