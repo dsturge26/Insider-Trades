@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-24T01:16:01Z",
+ "last_updated": "2026-08-24T02:45:25Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -49,6 +49,38 @@
    "primary_ticker": "BRK.B",
    "strength": 45,
    "reason": "Trump buying Berkshire Hathaway signals confidence; sold Meta and defense AI stocks"
+  },
+  {
+   "date": "2026-08-23T14:26:25Z",
+   "platform": "News",
+   "text": "MU Stock Eases After Record Run: Micron Backs Trump Accounts With $250M Commitment - Stocktwits \u2014 MU Stock Eases After Record Run: Micron Backs Trump Accounts With $250M Commitment\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPVDE3TEpTVWtjT281REUwbWFGQzN0ZHpWNnU1UlpVRWRYMDExdzEyRVZ1MHlpbDd6V3ZFNjlmUVRyYXlabHpkVUpSejJmb3p5bF9mbkpobEpQanF5bzM2NjNpcDZ5N01rOEYyeDZvLTRZc0xIeG9xaEpESjc0bERrUTQwbTRMcXdCUHE0N0UzaTNoZFd2ZTU1Qk5JaDlMOG1GUG1icU9SMU9ja0Y5c21SUEcwN2EyYVpRUFQxY1JqOUZBeUJZT2QyYVppalpTSnhSUER1M0pMcjlLRG5YeVE?oc=5",
+   "tickers": [
+    "MU"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "MU",
+   "strength": 75,
+   "reason": "Micron explicitly backs Trump accounts with $250M commitment; clear corporate support signal"
+  },
+  {
+   "date": "2026-08-23T13:25:10Z",
+   "platform": "News",
+   "text": "DELL Stock Spikes To Record Highs On President Trump\u2019s Endorsement - Stocktwits \u2014 DELL Stock Spikes To Record Highs On President Trump\u2019s Endorsement\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYWF1OUgweFU0d1NlNU4ya1FYQVJSVTRCX3IwM0NMd19VVmN5RzNtUmc1c2FhTU9abXdnTmVnMDE2QUxna3ZrUEF3Zkd0SFUtOWx3QkF2elBuNkNTcmZDRm1BRUkwMVRwYU0xaUVsWDZLSk0yeEtiMFFPV0t3ZXZ3OW15QUg5V0xHNnRrU1J5VXdvX09Oa0ZmRmJvV0VTVlFRRFh6c3E5RmtHckx0MXpNVVZTWmJpLTUtUXBHSG5pWEFfQll0ejRneDFB?oc=5",
+   "tickers": [
+    "DELL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "DELL",
+   "strength": 80,
+   "reason": "Trump explicitly endorsed Dell; stock spiked on direct praise of named company"
   },
   {
    "date": "2026-08-23T13:11:09.146Z",
@@ -341,9 +373,9 @@
    "reason": "Bitcoin rally driving crypto sector upward; broad tailwind for crypto assets",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": -1.2,
+    "pct": -1.1,
     "base": 78335.19,
-    "last": 77391.82,
+    "last": 77435.23,
     "base_date": "2026-08-21",
     "last_date": "2026-08-24"
    }
@@ -2241,30 +2273,6 @@
    }
   },
   {
-   "date": "2026-08-17T22:47:33Z",
-   "platform": "News",
-   "text": "DELL Stock Spikes To Record Highs On President Trump\u2019s Endorsement - Stocktwits \u2014 DELL Stock Spikes To Record Highs On President Trump\u2019s Endorsement\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYWF1OUgweFU0d1NlNU4ya1FYQVJSVTRCX3IwM0NMd19VVmN5RzNtUmc1c2FhTU9abXdnTmVnMDE2QUxna3ZrUEF3Zkd0SFUtOWx3QkF2elBuNkNTcmZDRm1BRUkwMVRwYU0xaUVsWDZLSk0yeEtiMFFPV0t3ZXZ3OW15QUg5V0xHNnRrU1J5VXdvX09Oa0ZmRmJvV0VTVlFRRFh6c3E5RmtHckx0MXpNVVZTWmJpLTUtUXBHSG5pWEFfQll0ejRneDFB?oc=5",
-   "tickers": [
-    "DELL"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "DELL",
-   "strength": 85,
-   "reason": "Trump explicit endorsement of Dell drives stock to record highs",
-   "price_since": {
-    "ticker": "DELL",
-    "pct": -8.8,
-    "base": 479.81,
-    "last": 437.55,
-    "base_date": "2026-08-17",
-    "last_date": "2026-08-19"
-   }
-  },
-  {
    "date": "2026-08-17T22:42:51.124Z",
    "platform": "Truth Social",
    "text": "Senator Dan Sullivan is doing a fantastic job representing the Great State of Alaska! Prior to becoming a very distinguished and Highly Respected Senator, Dan served as State Attorney General and the Commissioner of the Alaska Department of Natural Resources.\u00a0Dan is a GREAT man, has ALWAYS delivered for Alaska (which I won three times by BIG margins in 2016, 2020, and 2024!), and will continue doing so in the U.S. Senate. No one has done more for Alaska than \"TRUMP,\" including just securing 11 new Arctic Security Cutter Icebreakers, the first such ships bought in more than 40 years, and Dan Sullivan has been with us all the way. He is fighting hard to Grow our Economy, Lower Taxes, Cut Regulations, Help Secure our VERY Secure (Record Setting!) Border, Champion our Incredible Military/Veterans, Advance American Energy DOMINANCE by helping to keep the price of Gasoline, Oil, and all forms of Energy VERY LOW, and Defend our always under siege Second Amendment.\u00a0Because of the trickery in the Voting, the Crooked, Radical Left Dumocrats have put up another man named \"Dan Sullivan,\" and they did this to take Votes away from our Great Senator of the same name. Democrats are trying to \"trick\" Alaskans, and treat Alaskan Voters with contempt. On Tuesday, August 18th, Alaskans, don't be fooled. The Senator you want to vote for is:\u00a0\"SULLIVAN, DAN S. \u2014 REGISTERED REPUBLICAN/INCUMBENT\"\u00a0\"SULLIVAN, DAN S\" has my Complete and Total Endorsement for Re-Election \u2013 HE WILL NOT LET YOU DOWN!\u00a0Find your Voting Location here: https://swampthevoteusa.com/alaska/",
@@ -2517,54 +2525,6 @@
     "pct": 2.3,
     "base": 76.02,
     "last": 77.77,
-    "base_date": "2026-08-17",
-    "last_date": "2026-08-18"
-   }
-  },
-  {
-   "date": "2026-08-17T09:35:13Z",
-   "platform": "News",
-   "text": "Netflix Cofounder Reed Hastings Sells Stock Worth Nearly $38M \u2013 NFLX Stock Eyes A Three-Day Red Streak - stocktwits.com \u2014 Netflix Cofounder Reed Hastings Sells Stock Worth Nearly $38M \u2013 NFLX Stock Eyes A Three-Day Red Streak\u00a0\u00a0stocktwits.com",
-   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPMnU5Rzk2YTk4Q0owNEUyUFk3WlZQcTFvajRUZTJSREpPREZQSzRwVG9yLVlKTDh1OW95a0c1M3htdk81Z2JOU1JZSEl6S3ZLVGwwZS1hU2hob2RmZERiUkNzV05nRHdRS0Y3WTR5b3Z0b1puNENaY0RpN0VvbWRyWUdYeUY3VDFOZG5YdkFqRE5YR2tCbDdua1NsUDhmR3d5TWNkLXFFaEhDTzFvNXlYNjNta0RuTkpYMnNPemZfRC15anJYaXVCRkQ3V2FuMHhBd19lVlgwaEQ2RTB2aUxYRlBoaFphS3hNTEN5S2hhaDREaHJDWDlR?oc=5",
-   "tickers": [
-    "NFLX"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "NFLX",
-   "strength": 25,
-   "reason": "Co-founder stock sale; neutral/mixed signal (possible bearish sentiment but routine executive activity).",
-   "price_since": {
-    "ticker": "NFLX",
-    "pct": 2.3,
-    "base": 76.02,
-    "last": 77.77,
-    "base_date": "2026-08-17",
-    "last_date": "2026-08-18"
-   }
-  },
-  {
-   "date": "2026-08-17T06:22:03Z",
-   "platform": "News",
-   "text": "Stock Market: Will S&P 500 Open Up or Down Today? - Benzinga \u2014 Stock Market: Will S&P 500 Open Up or Down Today?\u00a0\u00a0Benzinga",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQnAxc0JOVVlPcmJlYk5zbm93SXZwTnNldEcxaDY3YjZ6aVFOVldsY2VYc0FoZ0U0TThpWHBleVNwZjRSc3N6N1BfUVhwNE5nNTJkWVZMMmVtc2s3R2c1aGZlMU1SZXJMYm9CRlBOQ3l1dlB3azMyb2RrVF84RUU4cVZVWEk4SGNDYmRJa0NsMXlOVE9TZXE0OUkwY1J0QlZzREFrQ1Q3MHVaV1hxSkVjbWNuMHBMc28?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "SPY",
-   "strength": 15,
-   "reason": "Generic market direction question with no Trump-specific catalyst or signal",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": -0.7,
-    "base": 772.67,
-    "last": 767.45,
     "base_date": "2026-08-17",
     "last_date": "2026-08-18"
    }
