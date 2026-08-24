@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-24T03:39:51Z",
+ "last_updated": "2026-08-24T04:28:59Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -17,6 +17,22 @@
    "primary_ticker": "PLTR",
    "strength": 65,
    "reason": "Palantir contract expansion under Trump administration boosts defense revenue"
+  },
+  {
+   "date": "2026-08-23T19:28:12Z",
+   "platform": "News",
+   "text": "Praxis Precision Shares Rally On Price Target Hikes: Analyst Sees Upside As High As 100% For Stock - Stocktwits \u2014 Praxis Precision Shares Rally On Price Target Hikes: Analyst Sees Upside As High As 100% For Stock\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZ3c0dm5hU2NSZE1USngwNnRMTU5fc0dIbmFpOVVUdnZ3OHRDYjVSTzVPTk5qZFFhODZYVnpSSTRNY3NieGtkWFd4bGJyLXdWLTcwQjliRnp2WUtPdmVfQnB3X2F6S296MVBNaFNhbEljYVc0WkVvSjk2LTB4TDBqSmpKNmJoY0VpbXdDejhsYUd1YlBJbmVQeFNBS0E0czRtWnl1OWxvMkhxbHV6eWUyTkJXTmFkUQ?oc=5",
+   "tickers": [
+    "PLX"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "PLX",
+   "strength": 45,
+   "reason": "Analyst price target hikes indicate positive momentum; no Trump direct signal"
   },
   {
    "date": "2026-08-23T18:32:08Z",
@@ -373,9 +389,9 @@
    "reason": "Bitcoin rally driving crypto sector upward; broad tailwind for crypto assets",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": -1.6,
+    "pct": -1.4,
     "base": 78335.19,
-    "last": 77053.52,
+    "last": 77223.8,
     "base_date": "2026-08-21",
     "last_date": "2026-08-24"
    }
@@ -1716,30 +1732,6 @@
     "pct": 0.4,
     "base": 232.67,
     "last": 233.69,
-    "base_date": "2026-08-18",
-    "last_date": "2026-08-20"
-   }
-  },
-  {
-   "date": "2026-08-18T22:25:48Z",
-   "platform": "News",
-   "text": "Praxis Precision Shares Rally On Price Target Hikes: Analyst Sees Upside As High As 100% For Stock - Stocktwits \u2014 Praxis Precision Shares Rally On Price Target Hikes: Analyst Sees Upside As High As 100% For Stock\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZ3c0dm5hU2NSZE1USngwNnRMTU5fc0dIbmFpOVVUdnZ3OHRDYjVSTzVPTk5qZFFhODZYVnpSSTRNY3NieGtkWFd4bGJyLXdWLTcwQjliRnp2WUtPdmVfQnB3X2F6S296MVBNaFNhbEljYVc0WkVvSjk2LTB4TDBqSmpKNmJoY0VpbXdDejhsYUd1YlBJbmVQeFNBS0E0czRtWnl1OWxvMkhxbHV6eWUyTkJXTmFkUQ?oc=5",
-   "tickers": [
-    "PRAX"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "PRAX",
-   "strength": 45,
-   "reason": "Analyst price target hikes signal positive sentiment on stock",
-   "price_since": {
-    "ticker": "PRAX",
-    "pct": -1.4,
-    "base": 369.84,
-    "last": 364.58,
     "base_date": "2026-08-18",
     "last_date": "2026-08-20"
    }
