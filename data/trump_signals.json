@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-08-23T23:45:50Z",
+ "last_updated": "2026-08-24T01:16:01Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-08-24T00:09:17Z",
+   "platform": "News",
+   "text": "Palantir emerges as military contracting powerhouse under Trump - Crypto Briefing \u2014 Palantir emerges as military contracting powerhouse under Trump\u00a0\u00a0Crypto Briefing",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5UN28wb29FVjJROE5wcXZ1Z2NVUVpSNEg5Q0pkOG1jTGwwS25lcHRwT05UcmNZSkNQeGZxS3R2dU04SHZONGxLTGRKakp6cG01eWVMV1kwbmdxeERlX1V0MERaWlZOVXRrSDJHUXU3WGo?oc=5",
+   "tickers": [
+    "PLTR"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "PLTR",
+   "strength": 65,
+   "reason": "Palantir contract expansion under Trump administration boosts defense revenue"
+  },
   {
    "date": "2026-08-23T18:32:08Z",
    "platform": "News",
@@ -17,6 +33,22 @@
    "primary_ticker": "BRK.B",
    "strength": 45,
    "reason": "Trump personal portfolio buys Berkshire Hathaway; signal is his own capital allocation, not a market recommendation"
+  },
+  {
+   "date": "2026-08-23T18:32:08Z",
+   "platform": "News",
+   "text": "Trump Made Over 1,000 Trades in June: Bought Berkshire, Sold Meta, Repeatedly Traded Defense AI Stocks - finance.biggo.com \u2014 Trump Made Over 1,000 Trades in June: Bought Berkshire, Sold Meta, Repeatedly Traded Defense AI Stocks\u00a0\u00a0finance.biggo.com",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1hZmZabWlDSi1sR25LYXlmdmxHdzBYdGtPZWUxNTYzeWwyUWFtNEJWbU00VUhmREt0ZVVzUGhSNWVBcFlHUnBUVF9IbTJYa1FmZmhaZFQ2VXJ4NEc1anJncW1ybnZDMVlrYk1RN2IzZlZDMEhMbHc?oc=5",
+   "tickers": [
+    "BRK.B"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "BRK.B",
+   "strength": 45,
+   "reason": "Trump buying Berkshire Hathaway signals confidence; sold Meta and defense AI stocks"
   },
   {
    "date": "2026-08-23T13:11:09.146Z",
@@ -309,11 +341,11 @@
    "reason": "Bitcoin rally driving crypto sector upward; broad tailwind for crypto assets",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": -1.1,
+    "pct": -1.2,
     "base": 78335.19,
-    "last": 77492.51,
+    "last": 77391.82,
     "base_date": "2026-08-21",
-    "last_date": "2026-08-23"
+    "last_date": "2026-08-24"
    }
   },
   {
