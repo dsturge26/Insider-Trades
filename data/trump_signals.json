@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-24T18:59:14Z",
+ "last_updated": "2026-08-24T19:36:30Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -17,6 +17,22 @@
    "primary_ticker": "RKLB",
    "strength": 35,
    "reason": "Trump personal investment in SpaceX signals bullish view on space/defense sector; spillover sentiment to public space stocks like Rocket Lab"
+  },
+  {
+   "date": "2026-08-24T17:48:25Z",
+   "platform": "News",
+   "text": "Trump threatens 50% tariffs on all cars and trucks from Canada amid trade fight - Devdiscourse \u2014 Trump threatens 50% tariffs on all cars and trucks from Canada amid trade fight\u00a0\u00a0Devdiscourse",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRjNKUHJ5WDVmUzJmS1hrejFqbXBmR3ZTVjFDbEFtNUdYUlpTNXdtcjZ4TmIxQVViYWU5ODRELTdXUUhMM2dBN2ljQ2NuWjIwNVh4WkNhcFRfM2JNdnhTU1VwMmQwenFZektjbVlSbTY1XzVCNWpMZC0yNm45QlVFbDVxUW9lY29MR3FvbS1pWmVaZXFTanlxVS1pYlZoU1UyNHNITUE4SHQyNVJ1MHZKXzM3VGR5ZTAzRTJwVnhiQkpzNk9QTlBMVjZxWVZrdWQ0RzZuU1JuSGHSAdgBQVVfeXFMUEYzSlByeVg1ZlMyZktYa3oxam1wZkd2U1YxQ2xBbTVHWFJaUzV3bXI2eE5iMUFVYmFlOTg0RC03V1FITDNnQTdpY0NjbloyMDVYeFpDYXBUXzNiTXZ4U1NVcDJkMHpxWXpLY21ZUm02NV81QjVqTGQtMjZuOUJVRWw1cVFvZWNvTEdxb20taVplWmVxU2p5cVUtaWJWaFNVMjRzSE1BOEh0MjVSdTB2Sl8zN1RkeWUwM0UycFZ4YkJKczZPUE5QTFY2cVlWa3VkNEc2blNSbkhh?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "SPY",
+   "strength": 75,
+   "reason": "50% tariffs on Canadian autos bearish for auto sector and broad market; concrete policy threat."
   },
   {
    "date": "2026-08-24T17:29:51Z",
@@ -2391,30 +2407,6 @@
     "pct": 4.5,
     "base": 74.66,
     "last": 78.04,
-    "base_date": "2026-08-18",
-    "last_date": "2026-08-19"
-   }
-  },
-  {
-   "date": "2026-08-18T05:02:00Z",
-   "platform": "News",
-   "text": "Nasdaq, S&P 500 Futures Rebound As Micron Rally Lifts Chip Stocks: Why SPCX, QCOM, TSM, BABA, PLTR, CBRS, WEN, IBRX Are In Focus - stocktwits.com \u2014 Nasdaq, S&P 500 Futures Rebound As Micron Rally Lifts Chip Stocks: Why SPCX, QCOM, TSM, BABA, PLTR, CBRS, WEN, IBRX Are In Focus\u00a0\u00a0stocktwits.com",
-   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQZjEyUjNpdUFBSU1TbzlQNmpzSV9LcDA3cDJHcDdWRWdmN0pqa2Nma3lfdEdJdmM2eGwtUE9PMTdqYUh1bno4cC04b3lUUVNGMEVlY0xYMTRZODJHREltVkNSYzlsbnJFd0RMdjQ4X0lDSWZRM1pfR0RJYTdPbl9UYThhRUhtdU91T2NsSVJqQlBCT2J2YmNXbXFWV1BQdkkyMVZmM0NwLXRGWk52WmRUeU9CZzRnalNQX3BMWmQ3VEpYMUE3RVhaTWNNOElQTllMR1NVYnUtWVFIbHh4a25heWJjWjZfNjdoT1d2eFhhTnlHN3dTVU05MnhGZGxHZTRpWm1xc2o0MEdSZw?oc=5",
-   "tickers": [
-    "SMH"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "SMH",
-   "strength": 45,
-   "reason": "Micron-led chip rally mentioned; semiconductor sector broadly in focus.",
-   "price_since": {
-    "ticker": "SMH",
-    "pct": -1.6,
-    "base": 569.77,
-    "last": 560.92,
     "base_date": "2026-08-18",
     "last_date": "2026-08-19"
    }
