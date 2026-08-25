@@ -1,7 +1,41 @@
 {
- "last_updated": "2026-08-25T13:28:01Z",
+ "last_updated": "2026-08-25T14:21:38Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-08-25T14:00:40.967Z",
+   "platform": "Truth Social",
+   "text": "Over the last 10 years, the United States lost, on average, 60 Billion Dollars a year with Canada. No more! President DJT",
+   "tickers": [
+    "SPY"
+   ],
+   "engagement": 2215,
+   "url": "https://truthsocial.com/@realDonaldTrump/117156507875234061",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "SPY",
+   "strength": 45,
+   "reason": "tariff/trade criticism of Canada implies potential trade policy action, broadly bullish if resolved"
+  },
+  {
+   "date": "2026-08-25T13:40:40.521Z",
+   "platform": "Truth Social",
+   "text": "Canada has been \"Ripping Off\" the U.S.A. for decades. They have been charging our Farmers 400% Tariffs, and more. They have driven many wonderful U.S. companies out of business. For 10 years they wouldn't certify Gulfstream Jets, until I got involved. They wanted 100% of the market for Gulfstream's Canadian competitor. I deal with many countries, and Canada is easily the most difficult and unreasonable. They feel entitled, but they are not a State, and will be entitled no longer! President DJT",
+   "tickers": [
+    "SPY"
+   ],
+   "engagement": 3976,
+   "url": "https://truthsocial.com/@realDonaldTrump/117156429202842827",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "SPY",
+   "strength": 50,
+   "reason": "explicit tariff threat against Canada and criticism of bilateral trade; tariffs typically bearish for broad market"
+  },
   {
    "date": "2026-08-25T10:07:13Z",
    "platform": "News",
@@ -17,6 +51,22 @@
    "primary_ticker": "SPACEX",
    "strength": 35,
    "reason": "Trump reportedly bought SpaceX stake; signal of Trump confidence in company but not a direct endorsement"
+  },
+  {
+   "date": "2026-08-25T08:06:00Z",
+   "platform": "News",
+   "text": "DJT Stock Rises Premarket: Trump Media CEO Defends Truth API As 'An Obvious Place To Go' - Stocktwits \u2014 DJT Stock Rises Premarket: Trump Media CEO Defends Truth API As 'An Obvious Place To Go'\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNS0pLMWdGaGZYUmxERzd1US12ejNNNUNGWGtnYmJmQngyU2kxYWVhY3hIeC1LNXBONThGbzdqVWdyWWhjb1g4WGE4LTVaWTMtV3F5SDRJRi1QMUNlZTRvVnExVzRKTFF5RDNhUm5uMERHVTNCSEQyYTdnVS0teG5kUnV5VFljMTA2STJ3cEh4ODBLTjFXalFxNlJKd0N5ZDFUWEw3dVBrY0tCcE1uRnZsLTYzVXdjaUZnODhaUGc0YldYaXJYT3ZJSXZSakdZVElWTDE0bTR1dW9zdGk5TFZxLWgzcw?oc=5",
+   "tickers": [
+    "DJT"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "DJT",
+   "strength": 60,
+   "reason": "Trump Media stock rises on CEO defending Truth Social API; self-owned asset sentiment positive"
   },
   {
    "date": "2026-08-25T03:26:23Z",
@@ -128,7 +178,15 @@
    "direction": "WATCH",
    "primary_ticker": "NVDA",
    "strength": 25,
-   "reason": "Musk praises NVIDIA partnership but stocks fell; praise contradicted by price action, no clear directional signal"
+   "reason": "Musk praises NVIDIA partnership but stocks fell; praise contradicted by price action, no clear directional signal",
+   "price_since": {
+    "ticker": "NVDA",
+    "pct": 2.3,
+    "base": 208.48,
+    "last": 213.35,
+    "base_date": "2026-08-24",
+    "last_date": "2026-08-25"
+   }
   },
   {
    "date": "2026-08-24T20:56:57Z",
@@ -144,7 +202,15 @@
    "direction": "BUY",
    "primary_ticker": "ASTS",
    "strength": 60,
-   "reason": "FCC approves direct phone-to-satellite connectivity; regulatory catalyst for satellite industry"
+   "reason": "FCC approves direct phone-to-satellite connectivity; regulatory catalyst for satellite industry",
+   "price_since": {
+    "ticker": "ASTS",
+    "pct": -1.6,
+    "base": 62.35,
+    "last": 61.33,
+    "base_date": "2026-08-24",
+    "last_date": "2026-08-25"
+   }
   },
   {
    "date": "2026-08-24T20:43:00Z",
@@ -160,7 +226,15 @@
    "direction": "BUY",
    "primary_ticker": "SPY",
    "strength": 45,
-   "reason": "Dow rises on Trump's Canada comments; broad market bullish sentiment on trade stance"
+   "reason": "Dow rises on Trump's Canada comments; broad market bullish sentiment on trade stance",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": 0.2,
+    "base": 763.47,
+    "last": 765.24,
+    "base_date": "2026-08-24",
+    "last_date": "2026-08-25"
+   }
   },
   {
    "date": "2026-08-24T20:22:39Z",
@@ -176,7 +250,15 @@
    "direction": "BUY",
    "primary_ticker": "RKLB",
    "strength": 35,
-   "reason": "Trump personal investment in SpaceX signals confidence in space sector; SpaceX private so use RKLB as proxy"
+   "reason": "Trump personal investment in SpaceX signals confidence in space sector; SpaceX private so use RKLB as proxy",
+   "price_since": {
+    "ticker": "RKLB",
+    "pct": -1.5,
+    "base": 68.28,
+    "last": 67.23,
+    "base_date": "2026-08-24",
+    "last_date": "2026-08-25"
+   }
   },
   {
    "date": "2026-08-24T18:57:27Z",
@@ -192,7 +274,15 @@
    "direction": "WATCH",
    "primary_ticker": "DJT",
    "strength": 25,
-   "reason": "Trump's personal SpaceX investment signals confidence in space/AI; indirect bullish read on space sector but ambiguous direction"
+   "reason": "Trump's personal SpaceX investment signals confidence in space/AI; indirect bullish read on space sector but ambiguous direction",
+   "price_since": {
+    "ticker": "DJT",
+    "pct": -1.6,
+    "base": 9.3,
+    "last": 9.15,
+    "base_date": "2026-08-24",
+    "last_date": "2026-08-25"
+   }
   },
   {
    "date": "2026-08-24T18:27:00Z",
@@ -208,7 +298,15 @@
    "direction": "WATCH",
    "primary_ticker": "DJT",
    "strength": 25,
-   "reason": "Trump SpaceX share purchase signals sector interest; modest signal via his trading activity"
+   "reason": "Trump SpaceX share purchase signals sector interest; modest signal via his trading activity",
+   "price_since": {
+    "ticker": "DJT",
+    "pct": -1.6,
+    "base": 9.3,
+    "last": 9.15,
+    "base_date": "2026-08-24",
+    "last_date": "2026-08-25"
+   }
   },
   {
    "date": "2026-08-24T18:02:17Z",
@@ -224,7 +322,15 @@
    "direction": "BUY",
    "primary_ticker": "WMT",
    "strength": 40,
-   "reason": "Trump touts Walmart price cuts; positive endorsement of retailer"
+   "reason": "Trump touts Walmart price cuts; positive endorsement of retailer",
+   "price_since": {
+    "ticker": "WMT",
+    "pct": -1.2,
+    "base": 106.49,
+    "last": 105.24,
+    "base_date": "2026-08-24",
+    "last_date": "2026-08-25"
+   }
   },
   {
    "date": "2026-08-24T17:56:25Z",
@@ -240,7 +346,15 @@
    "direction": "SELL",
    "primary_ticker": "SPY",
    "strength": 70,
-   "reason": "Trump threatens 50% tariffs on Canadian autos and steel; broad market bearish"
+   "reason": "Trump threatens 50% tariffs on Canadian autos and steel; broad market bearish",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": 0.2,
+    "base": 763.47,
+    "last": 765.24,
+    "base_date": "2026-08-24",
+    "last_date": "2026-08-25"
+   }
   },
   {
    "date": "2026-08-24T17:48:25Z",
@@ -256,7 +370,15 @@
    "direction": "SELL",
    "primary_ticker": "SPY",
    "strength": 75,
-   "reason": "50% tariffs on Canadian autos bearish for auto sector and broad market; concrete policy threat."
+   "reason": "50% tariffs on Canadian autos bearish for auto sector and broad market; concrete policy threat.",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": 0.2,
+    "base": 763.47,
+    "last": 765.25,
+    "base_date": "2026-08-24",
+    "last_date": "2026-08-25"
+   }
   },
   {
    "date": "2026-08-24T17:35:59Z",
@@ -272,7 +394,15 @@
    "direction": "BUY",
    "primary_ticker": "IBRX",
    "strength": 45,
-   "reason": "Trump diplomacy credited with cancer drug 'amazing results'; company-specific bullish signal"
+   "reason": "Trump diplomacy credited with cancer drug 'amazing results'; company-specific bullish signal",
+   "price_since": {
+    "ticker": "IBRX",
+    "pct": 3.0,
+    "base": 7.58,
+    "last": 7.81,
+    "base_date": "2026-08-24",
+    "last_date": "2026-08-25"
+   }
   },
   {
    "date": "2026-08-24T17:29:51Z",
@@ -288,7 +418,15 @@
    "direction": "BUY",
    "primary_ticker": "RKLB",
    "strength": 35,
-   "reason": "Repeat report of Trump SpaceX investment; bullish signal for space sector equities"
+   "reason": "Repeat report of Trump SpaceX investment; bullish signal for space sector equities",
+   "price_since": {
+    "ticker": "RKLB",
+    "pct": -1.5,
+    "base": 68.28,
+    "last": 67.26,
+    "base_date": "2026-08-24",
+    "last_date": "2026-08-25"
+   }
   },
   {
    "date": "2026-08-24T17:26:02Z",
@@ -321,7 +459,15 @@
    "direction": "SELL",
    "primary_ticker": "SPY",
    "strength": 60,
-   "reason": "Tariffs on Canada force manufacturing relocation; bearish for broad US equity market and affected sectors."
+   "reason": "Tariffs on Canada force manufacturing relocation; bearish for broad US equity market and affected sectors.",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": 0.2,
+    "base": 763.47,
+    "last": 765.25,
+    "base_date": "2026-08-24",
+    "last_date": "2026-08-25"
+   }
   },
   {
    "date": "2026-08-24T16:23:34Z",
@@ -337,7 +483,15 @@
    "direction": "BUY",
    "primary_ticker": "CRML",
    "strength": 60,
-   "reason": "Trump's Arctic/Greenland strategy attracts rare-earth investors; listed tickers benefit"
+   "reason": "Trump's Arctic/Greenland strategy attracts rare-earth investors; listed tickers benefit",
+   "price_since": {
+    "ticker": "CRML",
+    "pct": 14.5,
+    "base": 6.67,
+    "last": 7.64,
+    "base_date": "2026-08-24",
+    "last_date": "2026-08-25"
+   }
   },
   {
    "date": "2026-08-24T14:19:00Z",
@@ -353,7 +507,15 @@
    "direction": "SELL",
    "primary_ticker": "SPY",
    "strength": 65,
-   "reason": "50% tariffs on Canadian autos bearish for broad market and auto sector"
+   "reason": "50% tariffs on Canadian autos bearish for broad market and auto sector",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": 0.2,
+    "base": 763.47,
+    "last": 765.25,
+    "base_date": "2026-08-24",
+    "last_date": "2026-08-25"
+   }
   },
   {
    "date": "2026-08-24T13:38:26.562Z",
@@ -370,7 +532,15 @@
    "direction": "SELL",
    "primary_ticker": "SPY",
    "strength": 75,
-   "reason": "50% tariffs on Canadian autos/parts/steel effective Jan 1 2027 -> broad market bearish, especially auto/industrial"
+   "reason": "50% tariffs on Canadian autos/parts/steel effective Jan 1 2027 -> broad market bearish, especially auto/industrial",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": 0.2,
+    "base": 763.47,
+    "last": 765.25,
+    "base_date": "2026-08-24",
+    "last_date": "2026-08-25"
+   }
   },
   {
    "date": "2026-08-24T08:11:26Z",
@@ -386,7 +556,15 @@
    "direction": "BUY",
    "primary_ticker": "CRML",
    "strength": 70,
-   "reason": "Trump's Greenland pursuit signals push for critical metals/rare-earth resources; bullish for sector"
+   "reason": "Trump's Greenland pursuit signals push for critical metals/rare-earth resources; bullish for sector",
+   "price_since": {
+    "ticker": "CRML",
+    "pct": 14.5,
+    "base": 6.67,
+    "last": 7.64,
+    "base_date": "2026-08-24",
+    "last_date": "2026-08-25"
+   }
   },
   {
    "date": "2026-08-24T05:23:41.353Z",
@@ -403,7 +581,15 @@
    "direction": "BUY",
    "primary_ticker": "SPY",
    "strength": 45,
-   "reason": "energy independence and deregulation policy broadly supportive of market"
+   "reason": "energy independence and deregulation policy broadly supportive of market",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": 0.2,
+    "base": 763.47,
+    "last": 765.25,
+    "base_date": "2026-08-24",
+    "last_date": "2026-08-25"
+   }
   },
   {
    "date": "2026-08-24T03:12:02Z",
@@ -419,7 +605,15 @@
    "direction": "BUY",
    "primary_ticker": "DELL",
    "strength": 75,
-   "reason": "Trump explicitly endorses Dell; stock spikes on direct praise"
+   "reason": "Trump explicitly endorses Dell; stock spikes on direct praise",
+   "price_since": {
+    "ticker": "DELL",
+    "pct": 4.1,
+    "base": 433.19,
+    "last": 451.16,
+    "base_date": "2026-08-24",
+    "last_date": "2026-08-25"
+   }
   },
   {
    "date": "2026-08-24T02:37:21Z",
@@ -435,7 +629,15 @@
    "direction": "SELL",
    "primary_ticker": "XLE",
    "strength": 55,
-   "reason": "Iranian blockade with 20% cargo tax increases energy costs and shipping friction; bearish for oil/energy sector"
+   "reason": "Iranian blockade with 20% cargo tax increases energy costs and shipping friction; bearish for oil/energy sector",
+   "price_since": {
+    "ticker": "XLE",
+    "pct": -0.8,
+    "base": 63.11,
+    "last": 62.62,
+    "base_date": "2026-08-24",
+    "last_date": "2026-08-25"
+   }
   },
   {
    "date": "2026-08-24T00:28:49Z",
@@ -451,7 +653,15 @@
    "direction": "BUY",
    "primary_ticker": "CAR",
    "strength": 45,
-   "reason": "CEO calls shares undervalued and rules out dilution; bullish signal unrelated to Trump but market-relevant."
+   "reason": "CEO calls shares undervalued and rules out dilution; bullish signal unrelated to Trump but market-relevant.",
+   "price_since": {
+    "ticker": "CAR",
+    "pct": -0.7,
+    "base": 146.88,
+    "last": 145.85,
+    "base_date": "2026-08-24",
+    "last_date": "2026-08-25"
+   }
   },
   {
    "date": "2026-08-24T00:09:17Z",
@@ -2215,78 +2425,6 @@
     "pct": 6.3,
     "base": 15.75,
     "last": 16.74,
-    "base_date": "2026-08-18",
-    "last_date": "2026-08-20"
-   }
-  },
-  {
-   "date": "2026-08-18T22:10:31Z",
-   "platform": "News",
-   "text": "Meta's AI Workforce Academy Wins Praise From Former Trump Adviser, Ex-Facebook Exec: 'Hope More Companies Follow Suit' - stocktwits.com \u2014 Meta's AI Workforce Academy Wins Praise From Former Trump Adviser, Ex-Facebook Exec: 'Hope More Companies Follow Suit'\u00a0\u00a0stocktwits.com",
-   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQU0E4QWNsTjlROXIwRTIyVHZyMTlHNHhxUndrNjlLbUxOajU2MEZIRFhHeE9xd2ZRdm9IQVMzdHlEMmU4NVBwckpvbEkyWURKRXFHMlR4Z0VWVk5qMGstTFNtVTZSNWpqVS0wWkZ3WTdEaktTd3FMUHlTRjc2M3UwZlpDY1NjeG5FZ2s2bDJVeGJiVjgwWXIzdVVOS0FhQ2E0WjNUMDIzY1ppOTdJNTJkanBEMjFzRUVzb2RBS1czdXZXVWoyb0xLcl9ycl81NG1zd0lNT0NRUmVMZVgyblRkTVlXU1ZUTENRdkJBQzdhU0VuSG9HN19jeFNna0NRVlVUN2E1blhrY0U5Zw?oc=5",
-   "tickers": [
-    "META"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "META",
-   "strength": 38,
-   "reason": "Trump adviser praise for Meta's AI Workforce Academy; indirect positive sentiment on Meta business",
-   "price_since": {
-    "ticker": "META",
-    "pct": 0.1,
-    "base": 543.67,
-    "last": 544.09,
-    "base_date": "2026-08-18",
-    "last_date": "2026-08-20"
-   }
-  },
-  {
-   "date": "2026-08-18T18:19:11Z",
-   "platform": "News",
-   "text": "State Farm\u2019s $5 billion dividend is largest payout in company history - Washington Times \u2014 State Farm\u2019s $5 billion dividend is largest payout in company history\u00a0\u00a0Washington Times",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNS1ZjRmZMRTFFZWxVd25VZEwzNXh3SWEyOU4xTnFvbVVWWVd4R0M5S0hLVUhWT2lHX1NsWF9MdUJfWHNjaWdaLVRScHdXTmhuazBaQkxuQlU2S1dmeDZaNEFHc2R6ZWlRVWZxbTNSaDhCdjVrc1pJOGdnSWpyQ1BjLVRNTmFIcXdvYWxNMjVvQ2RIVDBHZkNSaHZjbkd1S0lkLVJBVV8zREhlSFFrbDFqVg?oc=5",
-   "tickers": [
-    "STWD"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "STWD",
-   "strength": 35,
-   "reason": "State Farm dividend announcement signals financial strength and capital return; proxied by insurance/financial sector",
-   "price_since": {
-    "ticker": "STWD",
-    "pct": 1.4,
-    "base": 16.24,
-    "last": 16.46,
-    "base_date": "2026-08-18",
-    "last_date": "2026-08-20"
-   }
-  },
-  {
-   "date": "2026-08-18T16:33:46Z",
-   "platform": "News",
-   "text": "NuScale Power Falls 6% With Q2 Revenue Drop to $75,000 and a New $750M Share Sale - 247wallst.com \u2014 NuScale Power Falls 6% With Q2 Revenue Drop to $75,000 and a New $750M Share Sale\u00a0\u00a0247wallst.com",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORndkd0ZPOVUzbEdWbENPVnRxSXVxWVNXYmtXQWFvN1JyNGxtcDBzcUJuN0Rrb2dHNUJlWnRfLWZzVklnbkNSeTFCcmpNdHRhbE9pR3BsNHNRUmVxOU5XeVI2SmdlT09tcUtiZzNqbFlWY2lrOUJjenRzcXQyOHFNX0cwRGZ6Q3dRNHZxU0c2ZXJKdjU1ck9CNFV0MFRwX1psbnV4aG03YTNVdTFzVFhQaTV4LVp2LWM1XzRsbUlB?oc=5",
-   "tickers": [
-    "SMR"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "SMR",
-   "strength": 45,
-   "reason": "NuScale revenue collapse and massive dilutive share sale bearish for nuclear stock",
-   "price_since": {
-    "ticker": "SMR",
-    "pct": 3.5,
-    "base": 8.64,
-    "last": 8.94,
     "base_date": "2026-08-18",
     "last_date": "2026-08-20"
    }
