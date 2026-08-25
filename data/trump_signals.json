@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-25T16:08:22Z",
+ "last_updated": "2026-08-25T16:55:22Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -119,6 +119,22 @@
    "reason": "Trump Media stock rises on CEO defending Truth Social API; self-owned asset sentiment positive"
   },
   {
+   "date": "2026-08-25T03:47:10Z",
+   "platform": "News",
+   "text": "Trump stands to profit off US policy announcements by selling fast access to his social media posts - AOL.ca \u2014 Trump stands to profit off US policy announcements by selling fast access to his social media posts\u00a0\u00a0AOL.ca",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBwaHBDNmY0TC1GLTdjSFd2Y01WZ3FQb1JSUkR6Y1N3SlM4UkFxOWhhblN6X3YwWVVub1U3ODlud1hUS0xfSjRlRlNvNG15MWtKdjkybTBfcjBQUEZZa0tpSFlxcm5TUWdfcWowWXBrYUpVaTFSdW53SA?oc=5",
+   "tickers": [
+    "DJT"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "DJT",
+   "strength": 35,
+   "reason": "Trump profiting from Truth Social monetization; positive for DJT"
+  },
+  {
    "date": "2026-08-25T03:26:23Z",
    "platform": "News",
    "text": "ASTS, RKLB Stocks Get The Trump Pump After Hidden Space Stock Bets Emerge - Stocktwits \u2014 ASTS, RKLB Stocks Get The Trump Pump After Hidden Space Stock Bets Emerge\u00a0\u00a0Stocktwits",
@@ -231,9 +247,9 @@
    "reason": "Musk praises NVIDIA partnership but stocks fell; praise contradicted by price action, no clear directional signal",
    "price_since": {
     "ticker": "NVDA",
-    "pct": 1.6,
+    "pct": 1.8,
     "base": 208.48,
-    "last": 211.74,
+    "last": 212.15,
     "base_date": "2026-08-24",
     "last_date": "2026-08-25"
    }
@@ -255,9 +271,9 @@
    "reason": "FCC approves direct phone-to-satellite connectivity; regulatory catalyst for satellite industry",
    "price_since": {
     "ticker": "ASTS",
-    "pct": -0.9,
+    "pct": -0.5,
     "base": 62.35,
-    "last": 61.81,
+    "last": 62.03,
     "base_date": "2026-08-24",
     "last_date": "2026-08-25"
    }
@@ -281,7 +297,7 @@
     "ticker": "SPY",
     "pct": 0.3,
     "base": 763.47,
-    "last": 765.54,
+    "last": 765.46,
     "base_date": "2026-08-24",
     "last_date": "2026-08-25"
    }
@@ -303,9 +319,9 @@
    "reason": "Trump personal investment in SpaceX signals confidence in space sector; SpaceX private so use RKLB as proxy",
    "price_since": {
     "ticker": "RKLB",
-    "pct": -1.3,
+    "pct": -1.7,
     "base": 68.28,
-    "last": 67.42,
+    "last": 67.13,
     "base_date": "2026-08-24",
     "last_date": "2026-08-25"
    }
@@ -353,7 +369,7 @@
     "ticker": "SPY",
     "pct": 0.3,
     "base": 763.47,
-    "last": 765.54,
+    "last": 765.46,
     "base_date": "2026-08-24",
     "last_date": "2026-08-25"
    }
@@ -399,9 +415,9 @@
    "reason": "Trump touts Walmart price cuts; positive endorsement of retailer",
    "price_since": {
     "ticker": "WMT",
-    "pct": -1.8,
+    "pct": -1.2,
     "base": 106.49,
-    "last": 104.58,
+    "last": 105.18,
     "base_date": "2026-08-24",
     "last_date": "2026-08-25"
    }
@@ -425,7 +441,7 @@
     "ticker": "SPY",
     "pct": 0.3,
     "base": 763.47,
-    "last": 765.54,
+    "last": 765.46,
     "base_date": "2026-08-24",
     "last_date": "2026-08-25"
    }
@@ -449,7 +465,7 @@
     "ticker": "SPY",
     "pct": 0.3,
     "base": 763.47,
-    "last": 765.54,
+    "last": 765.46,
     "base_date": "2026-08-24",
     "last_date": "2026-08-25"
    }
@@ -471,9 +487,9 @@
    "reason": "Trump diplomacy credited with cancer drug 'amazing results'; company-specific bullish signal",
    "price_since": {
     "ticker": "IBRX",
-    "pct": 4.9,
+    "pct": 5.4,
     "base": 7.58,
-    "last": 7.95,
+    "last": 7.99,
     "base_date": "2026-08-24",
     "last_date": "2026-08-25"
    }
@@ -495,9 +511,9 @@
    "reason": "Repeat report of Trump SpaceX investment; bullish signal for space sector equities",
    "price_since": {
     "ticker": "RKLB",
-    "pct": -1.3,
+    "pct": -1.7,
     "base": 68.28,
-    "last": 67.42,
+    "last": 67.13,
     "base_date": "2026-08-24",
     "last_date": "2026-08-25"
    }
@@ -538,7 +554,7 @@
     "ticker": "SPY",
     "pct": 0.3,
     "base": 763.47,
-    "last": 765.55,
+    "last": 765.46,
     "base_date": "2026-08-24",
     "last_date": "2026-08-25"
    }
@@ -560,9 +576,9 @@
    "reason": "Trump's Arctic/Greenland strategy attracts rare-earth investors; listed tickers benefit",
    "price_since": {
     "ticker": "CRML",
-    "pct": 20.2,
+    "pct": 19.3,
     "base": 6.67,
-    "last": 8.02,
+    "last": 7.96,
     "base_date": "2026-08-24",
     "last_date": "2026-08-25"
    }
@@ -584,9 +600,9 @@
    "reason": "50% tariffs on Canadian autos bearish for broad market and auto sector",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.2,
+    "pct": 0.3,
     "base": 763.47,
-    "last": 765.12,
+    "last": 765.46,
     "base_date": "2026-08-24",
     "last_date": "2026-08-25"
    }
@@ -2378,30 +2394,6 @@
     "pct": 0.3,
     "base": 63.58,
     "last": 63.75,
-    "base_date": "2026-08-19",
-    "last_date": "2026-08-20"
-   }
-  },
-  {
-   "date": "2026-08-19T16:19:16Z",
-   "platform": "News",
-   "text": "Trump nominates White House adviser Overton as FDA pick - Seeking Alpha \u2014 Trump nominates White House adviser Overton as FDA pick\u00a0\u00a0Seeking Alpha",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMG1Lak94dWRUSENwLWU5U3hJNkVwVVNqcUV0TjBQNDBqY1QtbE16M3Bkd2ozcFhaTWN2NEhBb2ZaeGt5aHZMVnNXNWlUamQxckxuVll3NXp3SHQ4TFJEMzV5ZVZZaWRNVU15ZTVnS1NESUVsTmxxeWlqUmFPVnRMWEFwdTFBdGR3VlJFaFBhZnNLZXZmc3BnTXRUenhoTGs4WlFONUFOQ1R4cmptOTFZbjV6ZE53SmxWYmNKa09QMmxsclhFRW5VQw?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "SPY",
-   "strength": 15,
-   "reason": "FDA pick could affect healthcare/pharma sector; direction unclear without nominee details",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": -0.8,
-    "base": 769.06,
-    "last": 762.6,
     "base_date": "2026-08-19",
     "last_date": "2026-08-20"
    }
