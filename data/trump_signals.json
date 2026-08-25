@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-08-25T20:01:19Z",
+ "last_updated": "2026-08-25T20:45:54Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-08-25T16:02:52Z",
+   "platform": "News",
+   "text": "Critical Metals Stock Surges As Trump Sets Sights On Greenland Yet Again: 'Big, Poorly Run, Piece Of Ice!' - Stocktwits \u2014 Critical Metals Stock Surges As Trump Sets Sights On Greenland Yet Again: 'Big, Poorly Run, Piece Of Ice!'\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZFdENjBoV0hEenBRM0VFTG9UR1JuV200S0NBMFBVdFdSSVN6V1pNSWZGeEMwbWNMMFI4ZVQyNTZyclFQQlBXbUVUeDZSbFI4YWhvTzBRLWtwU3ZUcXBRdWRVbEM0a3dCTGFsNXhYZGpDZGJuR1k3NlhmSzJ6RV9yZE04Um84WjJuQ3B1cW9peE44UTZTWjNueEpPTHJOeUxyMGM3czlaeHVFQkJxY1FaNG54dUhKc2ZkZk9tVGk0UUlHMjlCeGptTFBDWWRoREhnTUE?oc=5",
+   "tickers": [
+    "REMX"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "REMX",
+   "strength": 45,
+   "reason": "Trump interest in Greenland implies rare-earth/critical minerals exploration; critical metals sector up on geopolitical resource play."
+  },
   {
    "date": "2026-08-25T15:40:59.136Z",
    "platform": "Truth Social",
@@ -51,6 +67,22 @@
    "primary_ticker": "UEC",
    "strength": 40,
    "reason": "Nuclear stocks rebounding on oversold bounce; sector-specific but unclear if Trump-driven or technical mean-reversion"
+  },
+  {
+   "date": "2026-08-25T14:52:29Z",
+   "platform": "News",
+   "text": "NOK Stock Rises Pre-Market: Trump Endorsement Adds Fuel To AI Growth Push For Nokia - Stocktwits \u2014 NOK Stock Rises Pre-Market: Trump Endorsement Adds Fuel To AI Growth Push For Nokia\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNaVBkeHg0Vi02NWZ0Tlp5bGh2bjdYaC10MUFVamtBcTFCbjByT05oVmIyeUJQSzFMVGZSLXpFdkd0NVVIMHY3UzNqOFFIQ3FvakVucnM4dms0VXZHQTdlSnJkTXpqdVVJclpEU2lEUUtKYTloWjFFRU5Db2cteVF5UGxkd05LakNaMWZpa1UtaVdodVVIU1I1Vkxjb0kyTG52eFVUaHdkR3Rjb0l4MmpQT2ZMTW5HWWNFdTA2elZuN3ZCckxMa2VrS0FXZm9VNUJWSDBSU2RDMV9WNkJmajVJ?oc=5",
+   "tickers": [
+    "NOK"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "NOK",
+   "strength": 60,
+   "reason": "Trump explicitly endorsed Nokia for AI growth; direct company praise is a strong bullish signal for the stock."
   },
   {
    "date": "2026-08-25T14:00:40.967Z",
@@ -297,7 +329,7 @@
     "ticker": "SPY",
     "pct": 0.3,
     "base": 763.47,
-    "last": 765.85,
+    "last": 765.91,
     "base_date": "2026-08-24",
     "last_date": "2026-08-25"
    }
@@ -369,7 +401,7 @@
     "ticker": "SPY",
     "pct": 0.3,
     "base": 763.47,
-    "last": 765.85,
+    "last": 765.91,
     "base_date": "2026-08-24",
     "last_date": "2026-08-25"
    }
@@ -441,7 +473,7 @@
     "ticker": "SPY",
     "pct": 0.3,
     "base": 763.47,
-    "last": 765.85,
+    "last": 765.91,
     "base_date": "2026-08-24",
     "last_date": "2026-08-25"
    }
@@ -465,7 +497,7 @@
     "ticker": "SPY",
     "pct": 0.3,
     "base": 763.47,
-    "last": 765.85,
+    "last": 765.91,
     "base_date": "2026-08-24",
     "last_date": "2026-08-25"
    }
@@ -554,7 +586,7 @@
     "ticker": "SPY",
     "pct": 0.3,
     "base": 763.47,
-    "last": 765.85,
+    "last": 765.91,
     "base_date": "2026-08-24",
     "last_date": "2026-08-25"
    }
@@ -576,9 +608,9 @@
    "reason": "Trump's Arctic/Greenland strategy attracts rare-earth investors; listed tickers benefit",
    "price_since": {
     "ticker": "CRML",
-    "pct": 17.5,
+    "pct": 21.4,
     "base": 6.67,
-    "last": 7.84,
+    "last": 8.1,
     "base_date": "2026-08-24",
     "last_date": "2026-08-25"
    }
@@ -602,7 +634,7 @@
     "ticker": "SPY",
     "pct": 0.3,
     "base": 763.47,
-    "last": 765.64,
+    "last": 765.91,
     "base_date": "2026-08-24",
     "last_date": "2026-08-25"
    }
@@ -627,7 +659,7 @@
     "ticker": "SPY",
     "pct": 0.3,
     "base": 763.47,
-    "last": 765.65,
+    "last": 765.91,
     "base_date": "2026-08-24",
     "last_date": "2026-08-25"
    }
@@ -651,31 +683,7 @@
     "ticker": "SPY",
     "pct": 0.3,
     "base": 763.47,
-    "last": 765.65,
-    "base_date": "2026-08-24",
-    "last_date": "2026-08-25"
-   }
-  },
-  {
-   "date": "2026-08-24T08:11:26Z",
-   "platform": "News",
-   "text": "Critical Metals Stock Surges As Trump Sets Sights On Greenland Yet Again: 'Big, Poorly Run, Piece Of Ice!' - Stocktwits \u2014 Critical Metals Stock Surges As Trump Sets Sights On Greenland Yet Again: 'Big, Poorly Run, Piece Of Ice!'\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZFdENjBoV0hEenBRM0VFTG9UR1JuV200S0NBMFBVdFdSSVN6V1pNSWZGeEMwbWNMMFI4ZVQyNTZyclFQQlBXbUVUeDZSbFI4YWhvTzBRLWtwU3ZUcXBRdWRVbEM0a3dCTGFsNXhYZGpDZGJuR1k3NlhmSzJ6RV9yZE04Um84WjJuQ3B1cW9peE44UTZTWjNueEpPTHJOeUxyMGM3czlaeHVFQkJxY1FaNG54dUhKc2ZkZk9tVGk0UUlHMjlCeGptTFBDWWRoREhnTUE?oc=5",
-   "tickers": [
-    "CRML"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "CRML",
-   "strength": 70,
-   "reason": "Trump's Greenland pursuit signals push for critical metals/rare-earth resources; bullish for sector",
-   "price_since": {
-    "ticker": "CRML",
-    "pct": 17.5,
-    "base": 6.67,
-    "last": 7.84,
+    "last": 765.91,
     "base_date": "2026-08-24",
     "last_date": "2026-08-25"
    }
@@ -840,22 +848,6 @@
    "primary_ticker": "KEEL",
    "strength": 35,
    "reason": "Data center lease announcement positive but no Trump nexus stated; stock-specific news"
-  },
-  {
-   "date": "2026-08-23T19:50:21Z",
-   "platform": "News",
-   "text": "NOK Stock Rises Pre-Market: Trump Endorsement Adds Fuel To AI Growth Push For Nokia - Stocktwits \u2014 NOK Stock Rises Pre-Market: Trump Endorsement Adds Fuel To AI Growth Push For Nokia\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNaVBkeHg0Vi02NWZ0Tlp5bGh2bjdYaC10MUFVamtBcTFCbjByT05oVmIyeUJQSzFMVGZSLXpFdkd0NVVIMHY3UzNqOFFIQ3FvakVucnM4dms0VXZHQTdlSnJkTXpqdVVJclpEU2lEUUtKYTloWjFFRU5Db2cteVF5UGxkd05LakNaMWZpa1UtaVdodVVIU1I1Vkxjb0kyTG52eFVUaHdkR3Rjb0l4MmpQT2ZMTW5HWWNFdTA2elZuN3ZCckxMa2VrS0FXZm9VNUJWSDBSU2RDMV9WNkJmajVJ?oc=5",
-   "tickers": [
-    "NOK"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "NOK",
-   "strength": 75,
-   "reason": "Trump explicitly endorsed Nokia; named company receives direct praise for AI growth"
   },
   {
    "date": "2026-08-23T19:28:12Z",
