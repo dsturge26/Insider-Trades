@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-25T12:16:10Z",
+ "last_updated": "2026-08-25T13:28:01Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -145,6 +145,22 @@
    "primary_ticker": "ASTS",
    "strength": 60,
    "reason": "FCC approves direct phone-to-satellite connectivity; regulatory catalyst for satellite industry"
+  },
+  {
+   "date": "2026-08-24T20:43:00Z",
+   "platform": "News",
+   "text": "Stock Market Today: Dow Up As Trump Says This On Canada; Nvidia Shares Skid Despite AI Move - Investor's Business Daily \u2014 Stock Market Today: Dow Up As Trump Says This On Canada; Nvidia Shares Skid Despite AI Move\u00a0\u00a0Investor's Business Daily",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMnE5STlmSDJyVHIzYkNOSzRsUGtHZFd0THZDdThJQzdhT0x1SXdfaXJhMkxVOXF3ZDlhQU1DbTNOS3JONFEtQ2Y2bHhZa3d5V0RSN3JHbUFaY0JtLVkwLWRyWkQ4ZEYtbWhKR0JsSGp0QzB1b18tcFI3YkZfRlhCV0V6UlhGUHFwSTF2SlBjaHp0Q2I1QTROMnpwYjNPM1hZRW5xcVotd2NTV2lGMTFQNXk0N245UQ?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "SPY",
+   "strength": 45,
+   "reason": "Dow rises on Trump's Canada comments; broad market bullish sentiment on trade stance"
   },
   {
    "date": "2026-08-24T20:22:39Z",
@@ -2266,30 +2282,6 @@
    "primary_ticker": "SMR",
    "strength": 45,
    "reason": "NuScale revenue collapse and massive dilutive share sale bearish for nuclear stock",
-   "price_since": {
-    "ticker": "SMR",
-    "pct": 3.5,
-    "base": 8.64,
-    "last": 8.94,
-    "base_date": "2026-08-18",
-    "last_date": "2026-08-20"
-   }
-  },
-  {
-   "date": "2026-08-18T16:33:46Z",
-   "platform": "News",
-   "text": "NuScale Power Falls 6% With Q2 Revenue Drop to $75,000 and a New $750M Share Sale - 24/7 Wall St. \u2014 NuScale Power Falls 6% With Q2 Revenue Drop to $75,000 and a New $750M Share Sale\u00a0\u00a024/7 Wall St.",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORndkd0ZPOVUzbEdWbENPVnRxSXVxWVNXYmtXQWFvN1JyNGxtcDBzcUJuN0Rrb2dHNUJlWnRfLWZzVklnbkNSeTFCcmpNdHRhbE9pR3BsNHNRUmVxOU5XeVI2SmdlT09tcUtiZzNqbFlWY2lrOUJjenRzcXQyOHFNX0cwRGZ6Q3dRNHZxU0c2ZXJKdjU1ck9CNFV0MFRwX1psbnV4aG03YTNVdTFzVFhQaTV4LVp2LWM1XzRsbUlB?oc=5",
-   "tickers": [
-    "SMR"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "SMR",
-   "strength": 45,
-   "reason": "NuScale revenue collapse and dilutive share sale signal operational distress",
    "price_since": {
     "ticker": "SMR",
     "pct": 3.5,
