@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-08-25T04:23:31Z",
+ "last_updated": "2026-08-25T05:05:16Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-08-25T02:28:17Z",
+   "platform": "News",
+   "text": "Elon Musk Praises New SpaceX and NVIDIA Partnership, Yet Both Stocks Fall - Mitrade \u2014 Elon Musk Praises New SpaceX and NVIDIA Partnership, Yet Both Stocks Fall\u00a0\u00a0Mitrade",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNX05lb25HTjVOWGowM1NMMnNFTFhEOTk5UEJjdmhHY014YmdwNUNNSXlVVGMwT0xnMFhwZWlqMGZCRWc5Tm5RSzRpdHA3Z2NrZU53NVJvWXNtNDI4RFBnb25zTzNpaUdFeWdkOF9FeE1UbmFBa2VsUDY2T0FnQmlSNnFySDdENDNqNThKNEFPcm9Cd2s?oc=5",
+   "tickers": [
+    "NVDA"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "NVDA",
+   "strength": 15,
+   "reason": "Musk praised SpaceX-NVIDIA partnership but both stocks fell; ambiguous market direction"
+  },
   {
    "date": "2026-08-24T21:39:00Z",
    "platform": "News",
@@ -97,6 +113,22 @@
    "primary_ticker": "SPY",
    "strength": 75,
    "reason": "50% tariffs on Canadian autos bearish for auto sector and broad market; concrete policy threat."
+  },
+  {
+   "date": "2026-08-24T17:35:59Z",
+   "platform": "News",
+   "text": "IBRX Stock Rally Not Over Yet? Chairman Says Trump Diplomacy Led To \u2018Amazing Results\u2019 For Cancer Drug - Stocktwits \u2014 IBRX Stock Rally Not Over Yet? Chairman Says Trump Diplomacy Led To \u2018Amazing Results\u2019 For Cancer Drug\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOcVFTb3RQWTZrUG9ONVN6MEVNSk54ckxoS1E2bWNXQmRjRWIxaURpT1lyY3ItODk1LXRGb0MyeWtSMERnRmpmNHpha1JPZWZWa1NUWmNkOGJNbjJiTWMtRm52djZJZTVhQUVmNDVHTUE0N1RtN2M5ZmxMSE9RbVVUTi1vZENNdHhTZWJ6eDFlZXhIUFI0Nm5rLTZYWUIwblZCaXRHYlhyd3Zpa25XcWUtbTNEdGVXelpqcVN0eDBZZ3RMajBVZjdxaVJYV3E4V2lMNnlUODhYMzdTR1h4NFRGWlQ4b01SNDluNEZvZXJjT29pTXpj?oc=5",
+   "tickers": [
+    "IBRX"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "IBRX",
+   "strength": 45,
+   "reason": "Trump diplomacy credited with cancer drug 'amazing results'; company-specific bullish signal"
   },
   {
    "date": "2026-08-24T17:29:51Z",
