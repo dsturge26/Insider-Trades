@@ -1,7 +1,57 @@
 {
- "last_updated": "2026-08-25T15:21:25Z",
+ "last_updated": "2026-08-25T16:08:22Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-08-25T15:40:59.136Z",
+   "platform": "Truth Social",
+   "text": "S&P Global: 'US Business Is Booming': https://www.breitbart.com/economy/2026/08/21/biz-is-booming/",
+   "tickers": [
+    "SPY"
+   ],
+   "engagement": 1032,
+   "url": "https://truthsocial.com/@realDonaldTrump/117156902282061140",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "SPY",
+   "strength": 25,
+   "reason": "Broad optimism on US business conditions; macro bullish but vague, no specific catalyst"
+  },
+  {
+   "date": "2026-08-25T15:40:43.380Z",
+   "platform": "Truth Social",
+   "text": "RT @realwayneroot\"US BUSINESS IS BOOMING.\" My great friend & financial advisor Kip Herriage of VRAinsider called this first. I took ball & ran with it. Trump economy is BOOMING. Yet no one knows it because commie media is gaslighting America. Yes prices still high, but that's 100% Biden's inflation. Inflation growth under Trump is lowest among recent presidents. Big stocks are booming to all time highs, profits all time highs, earnings all time highs- Trump economy is exploding to Reagan levels- while fake news media scams you into thinking it's bad. This is biggest scam in history (other than Obamacare, Covid vaccine & stolen 2020 election)- total fantasy media is promoting that economy is bad. All time record profits & earnings are bad?https://www.breitbart.com/economy/2026/08/21/biz-is-booming/",
+   "tickers": [
+    "SPY"
+   ],
+   "engagement": 2,
+   "url": "https://truthsocial.com/@realDonaldTrump/117156901249242368",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "SPY",
+   "strength": 35,
+   "reason": "Claims Trump economy booming, stocks at all-time highs, earnings strong; macro positive but relies on unverified assertions and political spin"
+  },
+  {
+   "date": "2026-08-25T15:14:18Z",
+   "platform": "News",
+   "text": "Nuclear Stocks Rebound on an Oversold Bounce: Uranium Energy Jumps 6%, NuScale Power and Oklo Climb 5% - 24/7 Wall St. \u2014 Nuclear Stocks Rebound on an Oversold Bounce: Uranium Energy Jumps 6%, NuScale Power and Oklo Climb 5%\u00a0\u00a024/7 Wall St.",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPb3N6cjI4OFhTMnhNdkZ4dkhQSTJQblJjZGxHZTh6V1dvVGlVWFQya1RPRjItV1FyUzktTHM0VUpEOG1QclBoUmhuSmFTNTdyaEFPclM5a21PLTNaX3JPTlFBZW1MbXktdDd3eVl5QTY5QXV4YjkwM1BaS0ttLUppSERxY3hEZlRMZ2t3VFF2clJCSFY3UWpjdmI2a3g3bzdjYkhFRF9xWnFzQUY5RkxyV19DYURDV2ppN0p3YUdlNEN2cXhxOEU1VmI4ODRXMVdmRHhjZlRINlBYdw?oc=5",
+   "tickers": [
+    "UEC"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "UEC",
+   "strength": 40,
+   "reason": "Nuclear stocks rebounding on oversold bounce; sector-specific but unclear if Trump-driven or technical mean-reversion"
+  },
   {
    "date": "2026-08-25T14:00:40.967Z",
    "platform": "Truth Social",
@@ -181,9 +231,9 @@
    "reason": "Musk praises NVIDIA partnership but stocks fell; praise contradicted by price action, no clear directional signal",
    "price_since": {
     "ticker": "NVDA",
-    "pct": 1.1,
+    "pct": 1.6,
     "base": 208.48,
-    "last": 210.76,
+    "last": 211.74,
     "base_date": "2026-08-24",
     "last_date": "2026-08-25"
    }
@@ -205,9 +255,9 @@
    "reason": "FCC approves direct phone-to-satellite connectivity; regulatory catalyst for satellite industry",
    "price_since": {
     "ticker": "ASTS",
-    "pct": -0.1,
+    "pct": -0.9,
     "base": 62.35,
-    "last": 62.31,
+    "last": 61.81,
     "base_date": "2026-08-24",
     "last_date": "2026-08-25"
    }
@@ -229,9 +279,9 @@
    "reason": "Dow rises on Trump's Canada comments; broad market bullish sentiment on trade stance",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.2,
+    "pct": 0.3,
     "base": 763.47,
-    "last": 765.11,
+    "last": 765.54,
     "base_date": "2026-08-24",
     "last_date": "2026-08-25"
    }
@@ -253,9 +303,9 @@
    "reason": "Trump personal investment in SpaceX signals confidence in space sector; SpaceX private so use RKLB as proxy",
    "price_since": {
     "ticker": "RKLB",
-    "pct": -1.1,
+    "pct": -1.3,
     "base": 68.28,
-    "last": 67.56,
+    "last": 67.42,
     "base_date": "2026-08-24",
     "last_date": "2026-08-25"
    }
@@ -277,9 +327,9 @@
    "reason": "Trump's personal SpaceX investment signals confidence in space/AI; indirect bullish read on space sector but ambiguous direction",
    "price_since": {
     "ticker": "DJT",
-    "pct": -0.8,
+    "pct": -0.6,
     "base": 9.3,
-    "last": 9.23,
+    "last": 9.24,
     "base_date": "2026-08-24",
     "last_date": "2026-08-25"
    }
@@ -301,9 +351,9 @@
    "reason": "50% auto tariffs on Canada announced; broad market bearish, explicit policy threat",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.2,
+    "pct": 0.3,
     "base": 763.47,
-    "last": 765.12,
+    "last": 765.54,
     "base_date": "2026-08-24",
     "last_date": "2026-08-25"
    }
@@ -325,9 +375,9 @@
    "reason": "Trump SpaceX share purchase signals sector interest; modest signal via his trading activity",
    "price_since": {
     "ticker": "DJT",
-    "pct": -0.8,
+    "pct": -0.6,
     "base": 9.3,
-    "last": 9.23,
+    "last": 9.24,
     "base_date": "2026-08-24",
     "last_date": "2026-08-25"
    }
@@ -349,9 +399,9 @@
    "reason": "Trump touts Walmart price cuts; positive endorsement of retailer",
    "price_since": {
     "ticker": "WMT",
-    "pct": -1.3,
+    "pct": -1.8,
     "base": 106.49,
-    "last": 105.11,
+    "last": 104.58,
     "base_date": "2026-08-24",
     "last_date": "2026-08-25"
    }
@@ -373,9 +423,9 @@
    "reason": "Trump threatens 50% tariffs on Canadian autos and steel; broad market bearish",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.2,
+    "pct": 0.3,
     "base": 763.47,
-    "last": 765.12,
+    "last": 765.54,
     "base_date": "2026-08-24",
     "last_date": "2026-08-25"
    }
@@ -397,9 +447,9 @@
    "reason": "50% tariffs on Canadian autos bearish for auto sector and broad market; concrete policy threat.",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.2,
+    "pct": 0.3,
     "base": 763.47,
-    "last": 765.12,
+    "last": 765.54,
     "base_date": "2026-08-24",
     "last_date": "2026-08-25"
    }
@@ -421,9 +471,9 @@
    "reason": "Trump diplomacy credited with cancer drug 'amazing results'; company-specific bullish signal",
    "price_since": {
     "ticker": "IBRX",
-    "pct": 5.1,
+    "pct": 4.9,
     "base": 7.58,
-    "last": 7.97,
+    "last": 7.95,
     "base_date": "2026-08-24",
     "last_date": "2026-08-25"
    }
@@ -445,9 +495,9 @@
    "reason": "Repeat report of Trump SpaceX investment; bullish signal for space sector equities",
    "price_since": {
     "ticker": "RKLB",
-    "pct": -1.1,
+    "pct": -1.3,
     "base": 68.28,
-    "last": 67.56,
+    "last": 67.42,
     "base_date": "2026-08-24",
     "last_date": "2026-08-25"
    }
@@ -486,9 +536,9 @@
    "reason": "Tariffs on Canada force manufacturing relocation; bearish for broad US equity market and affected sectors.",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.2,
+    "pct": 0.3,
     "base": 763.47,
-    "last": 765.12,
+    "last": 765.55,
     "base_date": "2026-08-24",
     "last_date": "2026-08-25"
    }
@@ -510,9 +560,9 @@
    "reason": "Trump's Arctic/Greenland strategy attracts rare-earth investors; listed tickers benefit",
    "price_since": {
     "ticker": "CRML",
-    "pct": 18.6,
+    "pct": 20.2,
     "base": 6.67,
-    "last": 7.91,
+    "last": 8.02,
     "base_date": "2026-08-24",
     "last_date": "2026-08-25"
    }
@@ -2353,103 +2403,6 @@
     "base": 769.06,
     "last": 762.6,
     "base_date": "2026-08-19",
-    "last_date": "2026-08-20"
-   }
-  },
-  {
-   "date": "2026-08-19T15:26:41Z",
-   "platform": "News",
-   "text": "Ted Cruz takes victory lap as iconic American brand's stock plunges to 12-year low - Fox News \u2014 Ted Cruz takes victory lap as iconic American brand's stock plunges to 12-year low\u00a0\u00a0Fox News",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWXV1ejZWbS1iM1dWQkRGUHJ6YndEaDk1eWRTZ3ZDb1Qwa1ZLVGJ3dkxISXNhaG5PLXVnZmQzMG9Fb01Xd3hmVXFoUUVvRERaMXR3dUtsMVRBYkZ5a0RrTlM1SDRWNFFXTEVDMi1GMVRtQi1XejFacmprRmk1X2dmY1VtdS1sWjdmUjUwVUVjVUFLOVN3cHIwVkRWeUJtcGd3VU1jc2VEcF_SAa4BQVVfeXFMT1o3b2U4blRRdXppOXVDcnVmUzB1UGtESnlKVGdNbmdsSjgzTnFielBTNjQ4VGtnaGpVYVVGakdIdG5TLWxsbFhqanJZSi0yNE9UbDJJc01rYnlmVVMzV1Z3SjRHRWRISVRxRjVNSVFNT25xbldhOHFWUVpEdFlocGFrY3djNzY0VFVZZ2NBdGJaVE5ENmZtV1ZPNjY4R1hpV0ozVkxZb1FxMmFuZk1R?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "SPY",
-   "strength": 25,
-   "reason": "Unnamed 'iconic brand' stock crash is bearish signal but ticker unspecified; broad market downside inferred.",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": -0.8,
-    "base": 769.06,
-    "last": 762.6,
-    "base_date": "2026-08-19",
-    "last_date": "2026-08-20"
-   }
-  },
-  {
-   "date": "2026-08-19T02:15:41.128Z",
-   "platform": "Truth Social",
-   "text": "I have paused the 50% Tariffs against Canada, that were scheduled to kick in tomorrow morning for a three day period, based on the fact that Canada and the U.S.A., subject to the finalization of documents, have a DEAL! The great Keystone XL Pipeline, long ago killed by Sleepy Joe Biden, may be awoken from the grave! Thank you for your attention to this matter. President DONALD J. TRUMP",
-   "tickers": [
-    "XLE"
-   ],
-   "engagement": 1914,
-   "url": "https://truthsocial.com/@realDonaldTrump/117119761850520698",
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "XLE",
-   "strength": 75,
-   "reason": "Tariff pause on Canada is bullish; Keystone XL Pipeline revival signals energy sector upside",
-   "price_since": {
-    "ticker": "XLE",
-    "pct": 0.3,
-    "base": 63.58,
-    "last": 63.75,
-    "base_date": "2026-08-19",
-    "last_date": "2026-08-20"
-   }
-  },
-  {
-   "date": "2026-08-18T23:55:35Z",
-   "platform": "News",
-   "text": "IBM Stock Rallies On Trump Administration\u2019s $1B Grant: Analysts Say \u2018Big Blue\u2019 Could Become First US Quantum Foundry - stocktwits.com \u2014 IBM Stock Rallies On Trump Administration\u2019s $1B Grant: Analysts Say \u2018Big Blue\u2019 Could Become First US Quantum Foundry\u00a0\u00a0stocktwits.com",
-   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOVG52c0VBRjZ6TzVuLThuSWdTN3NxMlIzUEc0aWVkUllDZDJMSVVMRlo1Rkgxb1Rja2swU1JlcVhlbmg4ejlfeGJoRGkzVG1VSEM4ZC1McWtGQnNVYklYVjYwQVliTHRoX3NqZDJZV0dlQ2NTaC1NaHhFaVAtdmVjdzVGcFhSangwdDluaTltYXZ3TXhaWWxISmlPREpkQ0N2VHdEMENJUkpDaDBGcUhSdXFZdExXbkhPaENSWlAxbVhPS3EyTnoyc3NoX2RpOXNqeEFYaFhhaGYxQUxRaWR0QUJwQ0J5VmhBY3ZpOV9YMVNjeUZlRHRzVXBLS3BpSER4VXpVWTVsYS1aZw?oc=5",
-   "tickers": [
-    "IBM"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "IBM",
-   "strength": 78,
-   "reason": "Trump administration awards $1B federal grant to IBM for quantum foundry; direct bullish catalyst for named public company",
-   "price_since": {
-    "ticker": "IBM",
-    "pct": 0.4,
-    "base": 232.67,
-    "last": 233.69,
-    "base_date": "2026-08-18",
-    "last_date": "2026-08-20"
-   }
-  },
-  {
-   "date": "2026-08-18T22:25:48Z",
-   "platform": "News",
-   "text": "Praxis Precision Shares Rally On Price Target Hikes: Analyst Sees Upside As High As 100% For Stock - stocktwits.com \u2014 Praxis Precision Shares Rally On Price Target Hikes: Analyst Sees Upside As High As 100% For Stock\u00a0\u00a0stocktwits.com",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZ3c0dm5hU2NSZE1USngwNnRMTU5fc0dIbmFpOVVUdnZ3OHRDYjVSTzVPTk5qZFFhODZYVnpSSTRNY3NieGtkWFd4bGJyLXdWLTcwQjliRnp2WUtPdmVfQnB3X2F6S296MVBNaFNhbEljYVc0WkVvSjk2LTB4TDBqSmpKNmJoY0VpbXdDejhsYUd1YlBJbmVQeFNBS0E0czRtWnl1OWxvMkhxbHV6eWUyTkJXTmFkUQ?oc=5",
-   "tickers": [
-    "PRAX"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "PRAX",
-   "strength": 42,
-   "reason": "Analyst price target hikes on stock; analyst-driven rally not directly Trump-attributed",
-   "price_since": {
-    "ticker": "PRAX",
-    "pct": -0.3,
-    "base": 369.84,
-    "last": 368.76,
-    "base_date": "2026-08-18",
     "last_date": "2026-08-20"
    }
   },
