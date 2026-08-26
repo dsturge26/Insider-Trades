@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-26T02:47:08Z",
+ "last_updated": "2026-08-26T03:52:51Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -17,6 +17,22 @@
    "primary_ticker": "DJT",
    "strength": 45,
    "reason": "Trump Media climbs 6% on alternative media platform momentum; inferred bullish sentiment but no explicit Trump statement"
+  },
+  {
+   "date": "2026-08-25T21:18:01Z",
+   "platform": "News",
+   "text": "Trump\u2019s investment accounts show stock trades in companies awarded immigration contracts - AOL.ca \u2014 Trump\u2019s investment accounts show stock trades in companies awarded immigration contracts\u00a0\u00a0AOL.ca",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPLURCOVdfWDFyOW5LQlk2NHVxY2E3d3p3dWdTRFo0WkhOMnVFZWJkY1lwRWdSdnU5bnNxTW5FSWJIX085d21ZQUo4WVhqTHliWjVQZnFzemQtM2tVY3ctNWVHOVg1TGpZdmJ1bGRfVHRHUmNDZkY5c1hVMFZGMFpqVXhIbDMyZw?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "SPY",
+   "strength": 25,
+   "reason": "Trump trades stocks in companies with immigration contracts; unclear directional impact"
   },
   {
    "date": "2026-08-25T17:27:44Z",
@@ -2330,54 +2346,6 @@
     "pct": 0.3,
     "base": 63.58,
     "last": 63.75,
-    "base_date": "2026-08-19",
-    "last_date": "2026-08-20"
-   }
-  },
-  {
-   "date": "2026-08-19T21:15:16Z",
-   "platform": "News",
-   "text": "Trulieve CEO Praises Trump\u2019s FDA Pick Heidi Overton, Says She\u2019s Been \u2018Key\u2019 to Marijuana Rescheduling - The Marijuana Herald \u2014 Trulieve CEO Praises Trump\u2019s FDA Pick Heidi Overton, Says She\u2019s Been \u2018Key\u2019 to Marijuana Rescheduling\u00a0\u00a0The Marijuana Herald",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWFNRMEkyVWZFQ3hfX0xPNUtCNWZfbDg1cVFTN2NCYmtrZ0VvMEZuaVpfWUpLSHhIaVY4UC1QbUx1bW9LUzZaTWx0d2J4TUFKYWRrUE16TUVmZDdGLTVNVlpEd3ZXR1BxTHVfWmF3OWlNY2NYUTdMUjVIQ3FXMzBXV29ReUR0RTJ4QWJ2Snc0SnNFSjE4VThTX09ndG4xc0NXSGNLbHA0MTI5OG83U2tYdy1icXd5X3BPTzYtOVpXNNIBxAFBVV95cUxQYlJHNHhBV0s1d1k4ZThqUm9VekFtMi12cDZLQXA4U0tsWW5HejRLa1BONVVRSUdYRnM5ME1DNTRBVHVrT09iVGRxdjB0c24tLVhVeTZxLUdxeE1OTTM4bjFFQllBaXBXTHFfUlVja3FfbjJpVTE5aUxZRFR4cnFSQW5oZmRNRENQYXZEVERMcm1mY2t0ODYtRDR5SDg3UDNKNW5JQTJNTmtyY2xCNWpIeUdXSzZHM2VCcFhIOFFOWFBaYnJw?oc=5",
-   "tickers": [
-    "TCMD"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "TCMD",
-   "strength": 65,
-   "reason": "FDA pick Heidi Overton seen as key to marijuana rescheduling; bullish for cannabis operators like Trulieve",
-   "price_since": {
-    "ticker": "TCMD",
-    "pct": -0.7,
-    "base": 23.6,
-    "last": 23.43,
-    "base_date": "2026-08-19",
-    "last_date": "2026-08-20"
-   }
-  },
-  {
-   "date": "2026-08-19T20:34:00Z",
-   "platform": "News",
-   "text": "Trump Ends War (On Crypto) At White House Summit, Pushes Clarity Act Vote - Investor's Business Daily \u2014 Trump Ends War (On Crypto) At White House Summit, Pushes Clarity Act Vote\u00a0\u00a0Investor's Business Daily",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNS0VVQXdwWXJUbzBDVWNxa1FPU0RCc3dRQ2JqRTJjc2FHZ0w2NXZCanM1b0Z0NVVKMlJfUURIM0RQem5Td2lOSjZkbXZRS2ctRnh2QlF5Nm1uNVlObF9uWi1zN05DMlBRWGdEMWgzcmRKdDU2eFRiZEVpVFZnb2IzYjMxYVBWZmF1S3F4dUV3TG1YYmxVdzlnU3JseXdHYkxlOGNqMU9R?oc=5",
-   "tickers": [
-    "COIN"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "COIN",
-   "strength": 65,
-   "reason": "Trump pushes crypto clarity legislation; bullish for crypto exchange operators and ecosystem",
-   "price_since": {
-    "ticker": "COIN",
-    "pct": 7.6,
-    "base": 160.2,
-    "last": 172.35,
     "base_date": "2026-08-19",
     "last_date": "2026-08-20"
    }
