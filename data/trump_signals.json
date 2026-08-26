@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-08-26T01:16:55Z",
+ "last_updated": "2026-08-26T02:47:08Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-08-26T00:08:32Z",
+   "platform": "News",
+   "text": "RUM Group Jumps 7% on Northern Data AI Pivot, Trump Media Climbs 6%: Why Are Traders Focusing on These Alternative Media Platforms Today? - AOL.com \u2014 RUM Group Jumps 7% on Northern Data AI Pivot, Trump Media Climbs 6%: Why Are Traders Focusing on These Alternative Media Platforms Today?\u00a0\u00a0AOL.com",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9YeEZPelIyTUl0TU1SRDUzMGZkbzVISWhXMzFRcWwyNlh6RFltR2pJNjVTMGdIMG1HbkhHVGg3S29EajZPbW01Vlp4VUtSNVd3Y2NPR3djNHlyWTJoM1VwSFktZXhOZDlMOWZXSjk4YVNVUTNjaF9QRnBR?oc=5",
+   "tickers": [
+    "DJT"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "DJT",
+   "strength": 45,
+   "reason": "Trump Media climbs 6% on alternative media platform momentum; inferred bullish sentiment but no explicit Trump statement"
+  },
   {
    "date": "2026-08-25T17:27:44Z",
    "platform": "News",
@@ -151,6 +167,38 @@
    "reason": "explicit tariff threat against Canada and criticism of bilateral trade; tariffs typically bearish for broad market"
   },
   {
+   "date": "2026-08-25T13:28:21Z",
+   "platform": "News",
+   "text": "MU, SNDK, STX, WDC Stocks Extend Slide Overnight As Memory Pump Fades: Retail Traders Hopeful For Rebound - Stocktwits \u2014 MU, SNDK, STX, WDC Stocks Extend Slide Overnight As Memory Pump Fades: Retail Traders Hopeful For Rebound\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPb0VPUHFyT3dNU1BkR3RTbUZ5dENaV0tfUUViMzZzVDJDcXZFVWdxZ1Raa3N4SkFYX0E3enVNUzdxN193Q1lkUVVfdUtqNkhJelJLUkwzVmhMYUEtWDBsRmw4LV9mQmVCQlMyUFJ2a3lZT0Z1QWF3clF0eUtPa2JsMDJGT3pJcEdiNVpTWHFobGxIUlRCeEV5N1dYQUp5LV9Pbjlyc1FNeS03OGhUZTViX29RTmM5d1BpalVIWDNTUDFja2lRb1FnY19pSi0zRXozSUNzaUJKS0tpdFcwa0NWbG94dzBvWnItOHF1dVNQM29Kc2h1SF9FUg?oc=5",
+   "tickers": [
+    "SMH"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "SMH",
+   "strength": 35,
+   "reason": "Memory chip stocks (MU, SNDK, STX, WDC) slide as 'memory pump' fades; sector momentum reversal, no Trump catalyst"
+  },
+  {
+   "date": "2026-08-25T12:59:31Z",
+   "platform": "News",
+   "text": "Why Did PANW, AAL, MRNA Surge To 52-Week Highs? - Stocktwits \u2014 Why Did PANW, AAL, MRNA Surge To 52-Week Highs?\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTlBYYnRFLUw0ekRPSlg0bHViSVNLbkVHY1BYbXQ0RlFIX2pPX1dHNjJ3cTFJb3lfREw4OG1lbHNNUFhEYzd4d2N0dXZ4NnY0cFp6dUhSekhfTlhKbmIyYVlReWxIQVlzVnZPck45c2VLeEx4amRRa0xMRWZROHpEWnBJZFRKZ2FSQUJVRmJlUXpMWTJ0TzU3SFN5bl8zTVhxVU5BOU5GTGNhcnJH?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "SPY",
+   "strength": 25,
+   "reason": "Multiple unrelated stocks hit 52-week highs; no Trump-specific catalyst or market direction implied"
+  },
+  {
    "date": "2026-08-25T11:59:14Z",
    "platform": "News",
    "text": "Netflix Cofounder Reed Hastings Sells Stock Worth Nearly $38M \u2013 NFLX Stock Eyes A Three-Day Red Streak - Stocktwits \u2014 Netflix Cofounder Reed Hastings Sells Stock Worth Nearly $38M \u2013 NFLX Stock Eyes A Three-Day Red Streak\u00a0\u00a0Stocktwits",
@@ -277,22 +325,6 @@
    "primary_ticker": "IBRX",
    "strength": 20,
    "reason": "Stock rally into Trump SOTU event; awaiting concrete catalyst from speech"
-  },
-  {
-   "date": "2026-08-25T01:15:33Z",
-   "platform": "News",
-   "text": "MU, SNDK, STX, WDC Stocks Extend Slide Overnight As Memory Pump Fades: Retail Traders Hopeful For Rebound - Stocktwits \u2014 MU, SNDK, STX, WDC Stocks Extend Slide Overnight As Memory Pump Fades: Retail Traders Hopeful For Rebound\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPb0VPUHFyT3dNU1BkR3RTbUZ5dENaV0tfUUViMzZzVDJDcXZFVWdxZ1Raa3N4SkFYX0E3enVNUzdxN193Q1lkUVVfdUtqNkhJelJLUkwzVmhMYUEtWDBsRmw4LV9mQmVCQlMyUFJ2a3lZT0Z1QWF3clF0eUtPa2JsMDJGT3pJcEdiNVpTWHFobGxIUlRCeEV5N1dYQUp5LV9Pbjlyc1FNeS03OGhUZTViX29RTmM5d1BpalVIWDNTUDFja2lRb1FnY19pSi0zRXozSUNzaUJKS0tpdFcwa0NWbG94dzBvWnItOHF1dVNQM29Kc2h1SF9FUg?oc=5",
-   "tickers": [
-    "SMH"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "SMH",
-   "strength": 30,
-   "reason": "Memory chip stocks slide after initial pump; sector momentum reversal, uncertain direction"
   },
   {
    "date": "2026-08-25T00:03:21Z",
@@ -2346,30 +2378,6 @@
     "pct": 7.6,
     "base": 160.2,
     "last": 172.35,
-    "base_date": "2026-08-19",
-    "last_date": "2026-08-20"
-   }
-  },
-  {
-   "date": "2026-08-19T20:13:34Z",
-   "platform": "News",
-   "text": "Trump Adds to Wealth With Moderna Stock Gains: Here\u2019s How Much President Made - inkl \u2014 Trump Adds to Wealth With Moderna Stock Gains: Here\u2019s How Much President Made\u00a0\u00a0inkl",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVGlFSTl4WXo4MUUxR1RBLTVyMXlNZ3p4SFRjLW5Iem9ZQTU3OXpScUVraUJIX1lPTUVqZDN1czR2Z3NDSzlDR2FkdzQ2LUpuWXNiSkRMNWQtREF5MTl5bDZkTUY0VElobVdqakRBUWNIVDk4aVdYRmNuVmxoNThxZ29wWXVHLV9WdEpYSWtaY2tvWTRQbkFIc01IX2pwc2VQTm9V?oc=5",
-   "tickers": [
-    "MRNA"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "MRNA",
-   "strength": 35,
-   "reason": "Trump's Moderna stock gains are market-neutral reporting; no directional signal implied",
-   "price_since": {
-    "ticker": "MRNA",
-    "pct": -23.5,
-    "base": 174.38,
-    "last": 133.32,
     "base_date": "2026-08-19",
     "last_date": "2026-08-20"
    }
