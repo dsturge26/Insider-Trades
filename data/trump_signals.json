@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-08-26T03:52:51Z",
+ "last_updated": "2026-08-26T04:39:01Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-08-26T00:23:58Z",
+   "platform": "News",
+   "text": "DELL Stock Spikes To Record Highs On President Trump\u2019s Endorsement - Stocktwits \u2014 DELL Stock Spikes To Record Highs On President Trump\u2019s Endorsement\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYWF1OUgweFU0d1NlNU4ya1FYQVJSVTRCX3IwM0NMd19VVmN5RzNtUmc1c2FhTU9abXdnTmVnMDE2QUxna3ZrUEF3Zkd0SFUtOWx3QkF2elBuNkNTcmZDRm1BRUkwMVRwYU0xaUVsWDZLSk0yeEtiMFFPV0t3ZXZ3OW15QUg5V0xHNnRrU1J5VXdvX09Oa0ZmRmJvV0VTVlFRRFh6c3E5RmtHckx0MXpNVVZTWmJpLTUtUXBHSG5pWEFfQll0ejRneDFB?oc=5",
+   "tickers": [
+    "DELL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "DELL",
+   "strength": 85,
+   "reason": "Trump explicitly endorsed Dell; stock spiked on his endorsement"
+  },
   {
    "date": "2026-08-26T00:08:32Z",
    "platform": "News",
@@ -805,30 +821,6 @@
     "pct": 0.3,
     "base": 763.47,
     "last": 765.66,
-    "base_date": "2026-08-24",
-    "last_date": "2026-08-25"
-   }
-  },
-  {
-   "date": "2026-08-24T03:12:02Z",
-   "platform": "News",
-   "text": "DELL Stock Spikes To Record Highs On President Trump\u2019s Endorsement - Stocktwits \u2014 DELL Stock Spikes To Record Highs On President Trump\u2019s Endorsement\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYWF1OUgweFU0d1NlNU4ya1FYQVJSVTRCX3IwM0NMd19VVmN5RzNtUmc1c2FhTU9abXdnTmVnMDE2QUxna3ZrUEF3Zkd0SFUtOWx3QkF2elBuNkNTcmZDRm1BRUkwMVRwYU0xaUVsWDZLSk0yeEtiMFFPV0t3ZXZ3OW15QUg5V0xHNnRrU1J5VXdvX09Oa0ZmRmJvV0VTVlFRRFh6c3E5RmtHckx0MXpNVVZTWmJpLTUtUXBHSG5pWEFfQll0ejRneDFB?oc=5",
-   "tickers": [
-    "DELL"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "DELL",
-   "strength": 75,
-   "reason": "Trump explicitly endorses Dell; stock spikes on direct praise",
-   "price_since": {
-    "ticker": "DELL",
-    "pct": 4.3,
-    "base": 433.19,
-    "last": 451.65,
     "base_date": "2026-08-24",
     "last_date": "2026-08-25"
    }
@@ -2322,30 +2314,6 @@
     "pct": -0.8,
     "base": 769.06,
     "last": 762.6,
-    "base_date": "2026-08-19",
-    "last_date": "2026-08-20"
-   }
-  },
-  {
-   "date": "2026-08-19T21:18:53Z",
-   "platform": "News",
-   "text": "Keystone XL: What Trump\u2019s focus on an oil pipeline says about Canada-U.S. trade - CBC \u2014 Keystone XL: What Trump\u2019s focus on an oil pipeline says about Canada-U.S. trade\u00a0\u00a0CBC",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1KVFFySHhCdGI3R2RNYTR2Um94dUhHOUk4YkxQUTJDN0xmdF9RQ1YyOTJjMk9ZVy10RVo1NGVmcmZFcmFhamFvM01rdWFINTV4SWNoY3ZXU1lvRk9UYk1yRl9HUHMwRzg3eHRZd19PQnZGU2NW?oc=5",
-   "tickers": [
-    "XLE"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "XLE",
-   "strength": 65,
-   "reason": "Trump focus on Keystone XL pipeline revival bullish for oil/energy sector",
-   "price_since": {
-    "ticker": "XLE",
-    "pct": 0.3,
-    "base": 63.58,
-    "last": 63.75,
     "base_date": "2026-08-19",
     "last_date": "2026-08-20"
    }
