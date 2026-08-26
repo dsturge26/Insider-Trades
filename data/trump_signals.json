@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-26T12:18:02Z",
+ "last_updated": "2026-08-26T13:34:23Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -96,7 +96,15 @@
    "direction": "SELL",
    "primary_ticker": "NFLX",
    "strength": 70,
-   "reason": "Trump threatens Netflix with consequences if board member not fired; direct attack on named company."
+   "reason": "Trump threatens Netflix with consequences if board member not fired; direct attack on named company.",
+   "price_since": {
+    "ticker": "NFLX",
+    "pct": -0.1,
+    "base": 82.23,
+    "last": 82.13,
+    "base_date": "2026-08-25",
+    "last_date": "2026-08-26"
+   }
   },
   {
    "date": "2026-08-25T21:18:01Z",
@@ -112,7 +120,15 @@
    "direction": "WATCH",
    "primary_ticker": "SPY",
    "strength": 25,
-   "reason": "Trump trades stocks in companies with immigration contracts; unclear directional impact"
+   "reason": "Trump trades stocks in companies with immigration contracts; unclear directional impact",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": -0.0,
+    "base": 765.91,
+    "last": 765.56,
+    "base_date": "2026-08-25",
+    "last_date": "2026-08-26"
+   }
   },
   {
    "date": "2026-08-25T17:50:39Z",
@@ -128,7 +144,15 @@
    "direction": "WATCH",
    "primary_ticker": "SPY",
    "strength": 25,
-   "reason": "Question whether Trump moved SpaceX post; speculative, direction ambiguous."
+   "reason": "Question whether Trump moved SpaceX post; speculative, direction ambiguous.",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": -0.0,
+    "base": 765.91,
+    "last": 765.56,
+    "base_date": "2026-08-25",
+    "last_date": "2026-08-26"
+   }
   },
   {
    "date": "2026-08-25T17:27:44Z",
@@ -144,7 +168,15 @@
    "direction": "BUY",
    "primary_ticker": "REMX",
    "strength": 45,
-   "reason": "Critical metals demand surge from Greenland interest (rare earths/strategic resources)"
+   "reason": "Critical metals demand surge from Greenland interest (rare earths/strategic resources)",
+   "price_since": {
+    "ticker": "REMX",
+    "pct": -0.8,
+    "base": 79.12,
+    "last": 78.52,
+    "base_date": "2026-08-25",
+    "last_date": "2026-08-26"
+   }
   },
   {
    "date": "2026-08-25T15:40:59.136Z",
@@ -161,7 +193,15 @@
    "direction": "BUY",
    "primary_ticker": "SPY",
    "strength": 25,
-   "reason": "Broad optimism on US business conditions; macro bullish but vague, no specific catalyst"
+   "reason": "Broad optimism on US business conditions; macro bullish but vague, no specific catalyst",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": -0.0,
+    "base": 765.91,
+    "last": 765.53,
+    "base_date": "2026-08-25",
+    "last_date": "2026-08-26"
+   }
   },
   {
    "date": "2026-08-25T15:40:43.380Z",
@@ -178,7 +218,15 @@
    "direction": "BUY",
    "primary_ticker": "SPY",
    "strength": 35,
-   "reason": "Claims Trump economy booming, stocks at all-time highs, earnings strong; macro positive but relies on unverified assertions and political spin"
+   "reason": "Claims Trump economy booming, stocks at all-time highs, earnings strong; macro positive but relies on unverified assertions and political spin",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": -0.0,
+    "base": 765.91,
+    "last": 765.53,
+    "base_date": "2026-08-25",
+    "last_date": "2026-08-26"
+   }
   },
   {
    "date": "2026-08-25T15:14:18Z",
@@ -194,7 +242,15 @@
    "direction": "WATCH",
    "primary_ticker": "UEC",
    "strength": 40,
-   "reason": "Nuclear stocks rebounding on oversold bounce; sector-specific but unclear if Trump-driven or technical mean-reversion"
+   "reason": "Nuclear stocks rebounding on oversold bounce; sector-specific but unclear if Trump-driven or technical mean-reversion",
+   "price_since": {
+    "ticker": "UEC",
+    "pct": 1.2,
+    "base": 13.27,
+    "last": 13.43,
+    "base_date": "2026-08-25",
+    "last_date": "2026-08-26"
+   }
   },
   {
    "date": "2026-08-25T14:52:29Z",
@@ -210,7 +266,15 @@
    "direction": "BUY",
    "primary_ticker": "NOK",
    "strength": 60,
-   "reason": "Trump explicitly endorsed Nokia for AI growth; direct company praise is a strong bullish signal for the stock."
+   "reason": "Trump explicitly endorsed Nokia for AI growth; direct company praise is a strong bullish signal for the stock.",
+   "price_since": {
+    "ticker": "NOK",
+    "pct": -0.8,
+    "base": 10.35,
+    "last": 10.27,
+    "base_date": "2026-08-25",
+    "last_date": "2026-08-26"
+   }
   },
   {
    "date": "2026-08-25T14:34:41Z",
@@ -226,7 +290,15 @@
    "direction": "SELL",
    "primary_ticker": "TSLA",
    "strength": 40,
-   "reason": "FSD delays and China factory uncertainty amid trade tensions weigh on Tesla"
+   "reason": "FSD delays and China factory uncertainty amid trade tensions weigh on Tesla",
+   "price_since": {
+    "ticker": "TSLA",
+    "pct": -2.0,
+    "base": 350.25,
+    "last": 343.2,
+    "base_date": "2026-08-25",
+    "last_date": "2026-08-26"
+   }
   },
   {
    "date": "2026-08-25T14:21:14Z",
@@ -242,7 +314,15 @@
    "direction": "BUY",
    "primary_ticker": "CAR",
    "strength": 40,
-   "reason": "Avis rises pre-market; CEO confidence on valuation and no dilution supports near-term upside."
+   "reason": "Avis rises pre-market; CEO confidence on valuation and no dilution supports near-term upside.",
+   "price_since": {
+    "ticker": "CAR",
+    "pct": -0.6,
+    "base": 145.13,
+    "last": 144.2,
+    "base_date": "2026-08-25",
+    "last_date": "2026-08-26"
+   }
   },
   {
    "date": "2026-08-25T14:00:40.967Z",
@@ -259,7 +339,15 @@
    "direction": "BUY",
    "primary_ticker": "SPY",
    "strength": 45,
-   "reason": "tariff/trade criticism of Canada implies potential trade policy action, broadly bullish if resolved"
+   "reason": "tariff/trade criticism of Canada implies potential trade policy action, broadly bullish if resolved",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": -0.0,
+    "base": 765.91,
+    "last": 765.6,
+    "base_date": "2026-08-25",
+    "last_date": "2026-08-26"
+   }
   },
   {
    "date": "2026-08-25T13:43:28Z",
@@ -275,7 +363,15 @@
    "direction": "BUY",
    "primary_ticker": "IBM",
    "strength": 75,
-   "reason": "Trump administration awarded IBM $1B quantum grant; explicit federal contract to named public company."
+   "reason": "Trump administration awarded IBM $1B quantum grant; explicit federal contract to named public company.",
+   "price_since": {
+    "ticker": "IBM",
+    "pct": -0.5,
+    "base": 234.19,
+    "last": 233.13,
+    "base_date": "2026-08-25",
+    "last_date": "2026-08-26"
+   }
   },
   {
    "date": "2026-08-25T13:40:40.521Z",
@@ -292,7 +388,15 @@
    "direction": "SELL",
    "primary_ticker": "SPY",
    "strength": 50,
-   "reason": "explicit tariff threat against Canada and criticism of bilateral trade; tariffs typically bearish for broad market"
+   "reason": "explicit tariff threat against Canada and criticism of bilateral trade; tariffs typically bearish for broad market",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": -0.0,
+    "base": 765.91,
+    "last": 765.6,
+    "base_date": "2026-08-25",
+    "last_date": "2026-08-26"
+   }
   },
   {
    "date": "2026-08-25T13:28:21Z",
@@ -308,7 +412,15 @@
    "direction": "SELL",
    "primary_ticker": "SMH",
    "strength": 35,
-   "reason": "Memory chip stocks (MU, SNDK, STX, WDC) slide as 'memory pump' fades; sector momentum reversal, no Trump catalyst"
+   "reason": "Memory chip stocks (MU, SNDK, STX, WDC) slide as 'memory pump' fades; sector momentum reversal, no Trump catalyst",
+   "price_since": {
+    "ticker": "SMH",
+    "pct": -0.1,
+    "base": 555.82,
+    "last": 555.31,
+    "base_date": "2026-08-25",
+    "last_date": "2026-08-26"
+   }
   },
   {
    "date": "2026-08-25T12:59:31Z",
@@ -324,7 +436,15 @@
    "direction": "WATCH",
    "primary_ticker": "SPY",
    "strength": 25,
-   "reason": "Multiple unrelated stocks hit 52-week highs; no Trump-specific catalyst or market direction implied"
+   "reason": "Multiple unrelated stocks hit 52-week highs; no Trump-specific catalyst or market direction implied",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": -0.0,
+    "base": 765.91,
+    "last": 765.53,
+    "base_date": "2026-08-25",
+    "last_date": "2026-08-26"
+   }
   },
   {
    "date": "2026-08-25T12:51:59Z",
@@ -340,7 +460,15 @@
    "direction": "BUY",
    "primary_ticker": "SPY",
    "strength": 35,
-   "reason": "Trump stake in private SpaceX suggests bullish view on space/defense; indirect signal on broad tech/defense sentiment."
+   "reason": "Trump stake in private SpaceX suggests bullish view on space/defense; indirect signal on broad tech/defense sentiment.",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": -0.0,
+    "base": 765.91,
+    "last": 765.6,
+    "base_date": "2026-08-25",
+    "last_date": "2026-08-26"
+   }
   },
   {
    "date": "2026-08-25T11:59:14Z",
@@ -356,7 +484,15 @@
    "direction": "WATCH",
    "primary_ticker": "NFLX",
    "strength": 15,
-   "reason": "Netflix cofounder insider sell; no Trump catalyst or explicit market call, general insider activity."
+   "reason": "Netflix cofounder insider sell; no Trump catalyst or explicit market call, general insider activity.",
+   "price_since": {
+    "ticker": "NFLX",
+    "pct": -0.1,
+    "base": 82.23,
+    "last": 82.14,
+    "base_date": "2026-08-25",
+    "last_date": "2026-08-26"
+   }
   },
   {
    "date": "2026-08-25T10:07:13Z",
@@ -388,7 +524,15 @@
    "direction": "BUY",
    "primary_ticker": "DJT",
    "strength": 60,
-   "reason": "Trump Media stock rises on CEO defending Truth Social API; self-owned asset sentiment positive"
+   "reason": "Trump Media stock rises on CEO defending Truth Social API; self-owned asset sentiment positive",
+   "price_since": {
+    "ticker": "DJT",
+    "pct": -0.3,
+    "base": 9.4,
+    "last": 9.37,
+    "base_date": "2026-08-25",
+    "last_date": "2026-08-26"
+   }
   },
   {
    "date": "2026-08-25T03:47:10Z",
@@ -404,7 +548,15 @@
    "direction": "BUY",
    "primary_ticker": "DJT",
    "strength": 35,
-   "reason": "Trump profiting from Truth Social monetization; positive for DJT"
+   "reason": "Trump profiting from Truth Social monetization; positive for DJT",
+   "price_since": {
+    "ticker": "DJT",
+    "pct": -0.3,
+    "base": 9.4,
+    "last": 9.37,
+    "base_date": "2026-08-25",
+    "last_date": "2026-08-26"
+   }
   },
   {
    "date": "2026-08-25T03:26:23Z",
@@ -420,7 +572,15 @@
    "direction": "BUY",
    "primary_ticker": "ASTS",
    "strength": 45,
-   "reason": "Trump hidden space stock bets emerge; inferred bullish sentiment on satellite stocks"
+   "reason": "Trump hidden space stock bets emerge; inferred bullish sentiment on satellite stocks",
+   "price_since": {
+    "ticker": "ASTS",
+    "pct": -0.8,
+    "base": 62.01,
+    "last": 61.49,
+    "base_date": "2026-08-25",
+    "last_date": "2026-08-26"
+   }
   },
   {
    "date": "2026-08-25T03:13:18Z",
