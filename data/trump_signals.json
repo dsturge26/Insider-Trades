@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-26T11:01:24Z",
+ "last_updated": "2026-08-26T11:44:43Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -81,6 +81,22 @@
    "primary_ticker": "INTC",
    "strength": 35,
    "reason": "Intel rally mentioned in context of 'Trump pump' and semiconductor/AI boost; direction bullish but attributable to other factors."
+  },
+  {
+   "date": "2026-08-25T22:24:39Z",
+   "platform": "News",
+   "text": "Is Netflix\u2019s WBD Bid In Trouble Again? Trump Warns Streaming Giant To Fire Board Member Or \u2018Pay The Consequences\u2019 - Stocktwits \u2014 Is Netflix\u2019s WBD Bid In Trouble Again? Trump Warns Streaming Giant To Fire Board Member Or \u2018Pay The Consequences\u2019\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQU3phR3IwODgtQldLX19NMUFXaVBmN2t6QlVvNTdXZmtVcVhwZzd1NVhCSTFyNndCNjhRZ19qa0Y0X2xuWXFuMmxpYmVwTUVWNzlRaU5DTURGWGl6azJLQWxjam9QRW9URXh1d3ZRYmlBU3h6dmV3aDlxTmlqY1BBVmltN09wMm9adDR0OFFDdXYzRlBlWDRCWmJWWW1NXzdRVkhac0M3dkREaXR2ZUFMZk9WZldYYk0xSVVzR1FncGw1NlpPNG9IVmUxbHY0RTh5dXhqcXloRElQM3E1aS02TEJ1MllrZDd5bGViTHg3LUJlMjg3bllVMEhKcDRiSDFNQmNz?oc=5",
+   "tickers": [
+    "NFLX"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "SELL",
+   "primary_ticker": "NFLX",
+   "strength": 70,
+   "reason": "Trump threatens Netflix with consequences if board member not fired; direct attack on named company."
   },
   {
    "date": "2026-08-25T21:18:01Z",
@@ -1686,22 +1702,6 @@
    "reason": "Opportunity zones policy signal; real estate/development stimulus implies broad economic activity boost"
   },
   {
-   "date": "2026-08-21T07:53:52Z",
-   "platform": "News",
-   "text": "Is Netflix\u2019s WBD Bid In Trouble Again? Trump Warns Streaming Giant To Fire Board Member Or \u2018Pay The Consequences\u2019 - Stocktwits \u2014 Is Netflix\u2019s WBD Bid In Trouble Again? Trump Warns Streaming Giant To Fire Board Member Or \u2018Pay The Consequences\u2019\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQU3phR3IwODgtQldLX19NMUFXaVBmN2t6QlVvNTdXZmtVcVhwZzd1NVhCSTFyNndCNjhRZ19qa0Y0X2xuWXFuMmxpYmVwTUVWNzlRaU5DTURGWGl6azJLQWxjam9QRW9URXh1d3ZRYmlBU3h6dmV3aDlxTmlqY1BBVmltN09wMm9adDR0OFFDdXYzRlBlWDRCWmJWWW1NXzdRVkhac0M3dkREaXR2ZUFMZk9WZldYYk0xSVVzR1FncGw1NlpPNG9IVmUxbHY0RTh5dXhqcXloRElQM3E1aS02TEJ1MllrZDd5bGViTHg3LUJlMjg3bllVMEhKcDRiSDFNQmNz?oc=5",
-   "tickers": [
-    "NFLX"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "SELL",
-   "primary_ticker": "NFLX",
-   "strength": 70,
-   "reason": "Trump threatens Netflix to fire board member; direct attack on specific company with consequences implied"
-  },
-  {
    "date": "2026-08-21T05:53:58Z",
    "platform": "News",
    "text": "Why Did ROKU, SNDK, C Stocks Hit 52-Week Highs Last Week? - Stocktwits \u2014 Why Did ROKU, SNDK, C Stocks Hit 52-Week Highs Last Week?\u00a0\u00a0Stocktwits",
@@ -2228,62 +2228,6 @@
     "base_date": "2026-08-20",
     "last_date": "2026-08-21"
    }
-  },
-  {
-   "date": "2026-08-20T08:58:55Z",
-   "platform": "News",
-   "text": "Why Are Nasdaq, S&P 500 Futures Falling Premarket? NVDA, SKHY, SPCX, TSLA, MRNA, MSTR, PURR, WMT Stocks In Focus - TradingView \u2014 Why Are Nasdaq, S&P 500 Futures Falling Premarket? NVDA, SKHY, SPCX, TSLA, MRNA, MSTR, PURR, WMT Stocks In Focus\u00a0\u00a0TradingView",
-   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOaHN2WUUtX3EzUlJON2tHNW1mRzlIejA1RVprMW1XQlJzSGU2UUpHSG5YUE1Cdm1mdlVoU2hzMGRfRFNBU3AtaG4tS0lSNHpqYnlYWTlNdnJlVUJRcTdKWFpFNndzZUJjbHdtSDk4c25WalFwY2pFZ3N3RjYwUmJtTzU1dmViLWVHMjRXNV8xSXNPUTJLUlhNc3ZxLWNlSHk1bmt4QzBVSkFaWmtfOHJOZHl0dkF2RGdlck5EOVhLeHBDS1QwdC1naExJOFRSS1ZDNVRRUS1EcUdESFU0dTFtRXZYNU14bVpuREN4eFdsYnQ0ZFoxZDBJ?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "SPY",
-   "strength": 30,
-   "reason": "Market-wide premarket decline affecting multiple sectors; headline only reports decline without Trump-specific catalyst",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": 0.6,
-    "base": 762.6,
-    "last": 767.09,
-    "base_date": "2026-08-20",
-    "last_date": "2026-08-21"
-   }
-  },
-  {
-   "date": "2026-08-20T08:21:38Z",
-   "platform": "News",
-   "text": "REPL, QURE, MRNA Soar On Reports Trump Will Fire FDA\u2019s Marty Makary - Stocktwits \u2014 REPL, QURE, MRNA Soar On Reports Trump Will Fire FDA\u2019s Marty Makary\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPU3Z0Z1R6VlBrbUhjMmZMNmVXdXBXQW5TTUtIelRzbmMtS0kzSjdQTWFJRGV4TTFuVWE0QmxTTGpPc1NWdVdWQjl2bmVPTGNXY180NXltOWlqM3pPd1JDTmVORU5Kemc4Wk1IRWMtUE1UbVlQV1VndWx2cGhwSmxUWmw1Y3htZWVGQ1RxUEY3bVh4Y0lIcW1oVF9TMWgyUmNUY1JQajF4NGdCZHUzNEFDbnAtWTUzRmlpcHNYZk4tb0l6b2pDbFE?oc=5",
-   "tickers": [
-    "MRNA"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "MRNA",
-   "strength": 70,
-   "reason": "Trump fires FDA chief Makary; pharma/vaccine deregulation bullish for MRNA and biotech"
-  },
-  {
-   "date": "2026-08-20T05:21:00Z",
-   "platform": "News",
-   "text": "Tech leaders rally behind Trump\u2019s crypto push - IANS LIVE \u2014 Tech leaders rally behind Trump\u2019s crypto push\u00a0\u00a0IANS LIVE",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSF9IYlFqbUNZT3Brazdmb0tzN3VxMjdVcjZIVndaaHRUSkVpY0JrOUU1aTdFcmlGeVdOTmQ0YVk3TlZnMkRxMjc2MjNKSS11S25NUmFKcmMyVHBXSkZMRlJzemcyTTN4RmZUOVE4T1hVVzlZakh1RU9XUlFpZWdWY1JLdTVqMkk?oc=5",
-   "tickers": [
-    "TRUMP"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "TRUMP",
-   "strength": 45,
-   "reason": "Tech leaders rally behind Trump's crypto push; bullish for crypto assets and Trump Media"
   },
   {
    "curated": true,
