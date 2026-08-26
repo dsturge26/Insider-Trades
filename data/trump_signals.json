@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-26T05:16:29Z",
+ "last_updated": "2026-08-26T05:59:49Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -35,6 +35,22 @@
    "reason": "Trump Media climbs 6% on alternative media platform momentum; inferred bullish sentiment but no explicit Trump statement"
   },
   {
+   "date": "2026-08-26T00:04:28Z",
+   "platform": "News",
+   "text": "INTC Stock Rockets Toward Best Month Ever: Something More Than A Trump Pump Could Be Powering The Rally - Stocktwits \u2014 INTC Stock Rockets Toward Best Month Ever: Something More Than A Trump Pump Could Be Powering The Rally\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQT29KOURKeHprQ2xZbmpLUUc3MGRlTTE5Y1JHVXJ5TGhldk10eENQcmZLSzRWNDQyTmJFclFNUThmZ0tBRlZUQTZ3MGF1dlZwR0Q4aUtXUnZVQ2o1MjM3cFNpU2RrejRkd2E0OXBhOVNpdDdBdDVSSTR1c2M5NTZfYlg4NEFxODg3QWpMTXd0VVIzM3pZRS10OG5JWG9QUW52UjZvbXVvQ29uZ1lJb1NwbFljM1lBN1dreHdJZDdYZ1hKTjVidndnRWlJRnl5cnNpT2llcjVuSVltVDNzVFdHbmZYTEpua3JJVllOcXIxVmdfaThfeHRzVm9R?oc=5",
+   "tickers": [
+    "INTC"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "INTC",
+   "strength": 35,
+   "reason": "Intel rally mentioned in context of 'Trump pump' and semiconductor/AI boost; direction bullish but attributable to other factors."
+  },
+  {
    "date": "2026-08-25T21:18:01Z",
    "platform": "News",
    "text": "Trump\u2019s investment accounts show stock trades in companies awarded immigration contracts - AOL.ca \u2014 Trump\u2019s investment accounts show stock trades in companies awarded immigration contracts\u00a0\u00a0AOL.ca",
@@ -49,6 +65,22 @@
    "primary_ticker": "SPY",
    "strength": 25,
    "reason": "Trump trades stocks in companies with immigration contracts; unclear directional impact"
+  },
+  {
+   "date": "2026-08-25T17:50:39Z",
+   "platform": "News",
+   "text": "Did Trump Just Move SpaceX Stock With One Truth Social Post? - BeInCrypto \u2014 Did Trump Just Move SpaceX Stock With One Truth Social Post?\u00a0\u00a0BeInCrypto",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5YNThaaWhaSm5NdDM3RDYxY1phaWVJQXZKYTVCWTcyX3NzeWlrYUtFTEUtQjVIblZVcHZUVVBKNkJjSVlYZDhPdmctRXNrZjdyWGhXNUZrRVZBSmZnTDdUdHU5QTlFQkh4YUVV?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "SPY",
+   "strength": 25,
+   "reason": "Question whether Trump moved SpaceX post; speculative, direction ambiguous."
   },
   {
    "date": "2026-08-25T17:27:44Z",
@@ -229,6 +261,22 @@
    "primary_ticker": "SPY",
    "strength": 25,
    "reason": "Multiple unrelated stocks hit 52-week highs; no Trump-specific catalyst or market direction implied"
+  },
+  {
+   "date": "2026-08-25T12:51:59Z",
+   "platform": "News",
+   "text": "Trump bought shares in Musk's SpaceX in June - News24 \u2014 Trump bought shares in Musk's SpaceX in June\u00a0\u00a0News24",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYWNuVmt0Vld0THZYblM1OE5wVXYzN3c2dnlla0drbWRKSUotbTE4TTVfQzUzeC1vWGVPU2NuTjl3RV9kQlJidUhIZHN4SzNVc1dnM1hMVm50dnN2REc0cG1WN1RmTlFNbDk0Y0RiMlVaNFNRX3FjVzdkUFZya0xBMVlTdmd5LWEyY0RnQ2l4TllUQmFQSFBGUFUycjZQSW11?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "SPY",
+   "strength": 35,
+   "reason": "Trump stake in private SpaceX suggests bullish view on space/defense; indirect signal on broad tech/defense sentiment."
   },
   {
    "date": "2026-08-25T11:59:14Z",
