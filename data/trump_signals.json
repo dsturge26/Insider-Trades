@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-26T11:44:43Z",
+ "last_updated": "2026-08-26T12:18:02Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -2230,6 +2230,40 @@
    }
   },
   {
+   "date": "2026-08-19T22:59:02.219Z",
+   "platform": "Truth Social",
+   "text": "No one has given the Islamic Republic of Iran a greater opportunity to make a Deal than me. TRAGICALLY, for them, they have failed to take it. Therefore, today, I am announcing the MOST CRUSHING ECONOMIC OPERATION EVER TAKEN AGAINST ANY COUNTRY! This will be Economic Warfare and Isolation on an unprecedented scale. Their navy is gone, their air force is destroyed, their military factories are now rubble, their currency is worthless, and their country is hanging by a thread. Today, I am also announcing that ANY country that allows its financial institutions, businesses, airports, or government entities to provide any type of lifeline to Iran will itself face TREMENDOUS Economic Consequences. Oil smuggling, swap lines, cash transfers, exchange houses, ship registries, front companies \u2014 It all needs to stop NOW. You know who you are. This will be an ECONOMIC D-DAY, and we need all of our Allies to stand with the United States of America to isolate, and defeat, the Iran threat. These maniacs are on the ropes, and these HISTORIC MEASURES will cripple them and their ability to project terror worldwide. IRAN WILL NEVER HAVE A NUCLEAR WEAPON. THANK YOU FOR YOUR ATTENTION TO THIS MATTER. President DONALD J. TRUMP",
+   "tickers": [
+    "SPY"
+   ],
+   "engagement": 21637,
+   "url": "https://truthsocial.com/@realDonaldTrump/117124650907675461",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "SPY",
+   "strength": 65,
+   "reason": "major escalation of Iran sanctions and economic warfare; broad market risk and geopolitical tension"
+  },
+  {
+   "date": "2026-08-19T02:15:41.128Z",
+   "platform": "Truth Social",
+   "text": "I have paused the 50% Tariffs against Canada, that were scheduled to kick in tomorrow morning for a three day period, based on the fact that Canada and the U.S.A., subject to the finalization of documents, have a DEAL! The great Keystone XL Pipeline, long ago killed by Sleepy Joe Biden, may be awoken from the grave! Thank you for your attention to this matter. President DONALD J. TRUMP",
+   "tickers": [
+    "SPY"
+   ],
+   "engagement": 22996,
+   "url": "https://truthsocial.com/@realDonaldTrump/117119761850520698",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "SPY",
+   "strength": 70,
+   "reason": "pause of 50% Canada tariffs and deal struck; trade war de-escalation is bullish for broad market"
+  },
+  {
    "curated": true,
    "classified": true,
    "is_market": true,
@@ -2282,6 +2316,23 @@
    "reason": "Trump's majority-owned stock debuts \u2014 pure sentiment play, extremely volatile and headline-driven.",
    "market_reaction": "DJT spiked on debut then stayed volatile, moving heavily on Trump political/legal news.",
    "url": "https://www.nasdaq.com/market-activity/stocks/djt"
+  },
+  {
+   "date": "2021-07-01T12:00:00Z",
+   "platform": "Federal contract",
+   "text": "HARRIS CORPORATION was awarded a $2.1B federal contract from Department of Transportation.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_693KA821F00222_6920_DTFA0102D03006_6920",
+   "tickers": [
+    "HRS"
+   ],
+   "contract_amount": 2.15,
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "HRS",
+   "strength": 80,
+   "reason": "Harris Corporation awarded $2.1B federal DoT contract; major defense/aerospace win is bullish for recipient"
   }
  ],
  "how_to_read": "Each card is Claude's read of a public Trump post: the affected ticker, whether it implies BUY / SELL / WATCH, a 0\u2013100 strength (how explicit/emphatic the post is \u2014 NOT a profit predictor), and why. A 2-year backtest found these don't beat buy-and-hold, so this is for awareness, not trading. Not financial advice."
