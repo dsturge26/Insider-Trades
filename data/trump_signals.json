@@ -1,7 +1,57 @@
 {
- "last_updated": "2026-08-26T16:00:45Z",
+ "last_updated": "2026-08-26T16:59:04Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-08-26T16:26:54.420Z",
+   "platform": "Truth Social",
+   "text": "Trump Unleashes Scott Bessent on Iran: https://www.wsj.com/opinion/donald-trump-scott-bessent-sanctions-iran-oil-economy-96362772",
+   "tickers": [
+    "USO"
+   ],
+   "engagement": 816,
+   "url": "https://truthsocial.com/@realDonaldTrump/117162745162432870",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "USO",
+   "strength": 65,
+   "reason": "Iran sanctions via Treasury secretary appointment typically bullish for oil prices and energy sector"
+  },
+  {
+   "date": "2026-08-26T16:21:18.460Z",
+   "platform": "Truth Social",
+   "text": "Apple to invest $30 billion in US chip manufacturing: https://www.foxbusiness.com/media/apple-invest-30-billion-us-chip-manufacturing",
+   "tickers": [
+    "AAPL"
+   ],
+   "engagement": 868,
+   "url": "https://truthsocial.com/@realDonaldTrump/117162723145155748",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "AAPL",
+   "strength": 55,
+   "reason": "Major US chip manufacturing investment supports domestic semiconductor capacity and capex outlook"
+  },
+  {
+   "date": "2026-08-26T15:31:17Z",
+   "platform": "News",
+   "text": "Trump Snapped Up SpaceX Shares 11 Days After $1.77 Trillion IPO: Here's What Else He Purchased - Yahoo Finance \u2014 Trump Snapped Up SpaceX Shares 11 Days After $1.77 Trillion IPO: Here's What Else He Purchased\u00a0\u00a0Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWEtwa0lHcENGNURqUlBMTjJja2IwbFpVR0dRX2JLNkRlR20wNVZNU00tRVMzeW95dTFVOGRmM3ktWks2ek8zcTUwU0M1RTRVUVRjYml1enJ0MEdXR2pZUkRNSjY5WnpvUmxxcnZRSk5SbXZ1SVJPXy1BRkdXV1JYcVp5QUpPb0phUHA4SmxaOGhJZEczU2FMN3Bzbw?oc=5",
+   "tickers": [
+    "SPACE"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "SPACE",
+   "strength": 70,
+   "reason": "Trump personal investment in SpaceX post-IPO signals confidence in the company's trajectory"
+  },
   {
    "date": "2026-08-26T08:25:37Z",
    "platform": "News",
@@ -117,7 +167,7 @@
     "ticker": "NFLX",
     "pct": -0.7,
     "base": 82.23,
-    "last": 81.63,
+    "last": 81.65,
     "base_date": "2026-08-25",
     "last_date": "2026-08-26"
    }
@@ -139,9 +189,9 @@
    "reason": "Trump trades stocks in companies with immigration contracts; unclear directional impact",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.1,
+    "pct": -0.2,
     "base": 765.91,
-    "last": 765.27,
+    "last": 764.66,
     "base_date": "2026-08-25",
     "last_date": "2026-08-26"
    }
@@ -163,12 +213,28 @@
    "reason": "Question whether Trump moved SpaceX post; speculative, direction ambiguous.",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.1,
+    "pct": -0.2,
     "base": 765.91,
-    "last": 765.27,
+    "last": 764.66,
     "base_date": "2026-08-25",
     "last_date": "2026-08-26"
    }
+  },
+  {
+   "date": "2026-08-25T17:43:09Z",
+   "platform": "News",
+   "text": "Did Trump Just Move SpaceX Stock With One Truth Social Post? - Yahoo Finance \u2014 Did Trump Just Move SpaceX Stock With One Truth Social Post?\u00a0\u00a0Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNU1aVmZiUnRMdmd1Q2g4bEFNNUE3dnRkNGJiUVNmQ3ZXX28zNXhGMmZkS1I1ak1pWW8xMTlXSEtISno5bkNVeWYzSThVZldhYXdjNW5lbFo0LVVzWG50aTNpTnltczhyWTRZUVZIaUFjS1FpNDVBRkFGb3R5dFBGYlI0SGRfYnNkRER0ZEZ4UXZJal9CLXc?oc=5",
+   "tickers": [
+    "SPACE"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "SPACE",
+   "strength": 40,
+   "reason": "Duplicate of index 28; Trump post attributed to SpaceX stock movement"
   },
   {
    "date": "2026-08-25T17:27:44Z",
@@ -187,9 +253,9 @@
    "reason": "Critical metals demand surge from Greenland interest (rare earths/strategic resources)",
    "price_since": {
     "ticker": "REMX",
-    "pct": -1.9,
+    "pct": -1.5,
     "base": 79.12,
-    "last": 77.59,
+    "last": 77.93,
     "base_date": "2026-08-25",
     "last_date": "2026-08-26"
    }
@@ -212,9 +278,9 @@
    "reason": "Broad optimism on US business conditions; macro bullish but vague, no specific catalyst",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.1,
+    "pct": -0.2,
     "base": 765.91,
-    "last": 765.27,
+    "last": 764.66,
     "base_date": "2026-08-25",
     "last_date": "2026-08-26"
    }
@@ -237,9 +303,9 @@
    "reason": "Claims Trump economy booming, stocks at all-time highs, earnings strong; macro positive but relies on unverified assertions and political spin",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.1,
+    "pct": -0.2,
     "base": 765.91,
-    "last": 765.27,
+    "last": 764.66,
     "base_date": "2026-08-25",
     "last_date": "2026-08-26"
    }
@@ -261,9 +327,9 @@
    "reason": "Nuclear stocks rebounding on oversold bounce; sector-specific but unclear if Trump-driven or technical mean-reversion",
    "price_since": {
     "ticker": "UEC",
-    "pct": -1.3,
+    "pct": -1.9,
     "base": 13.27,
-    "last": 13.1,
+    "last": 13.02,
     "base_date": "2026-08-25",
     "last_date": "2026-08-26"
    }
@@ -285,9 +351,9 @@
    "reason": "Trump explicitly endorsed Nokia for AI growth; direct company praise is a strong bullish signal for the stock.",
    "price_since": {
     "ticker": "NOK",
-    "pct": -0.7,
+    "pct": -0.8,
     "base": 10.35,
-    "last": 10.28,
+    "last": 10.27,
     "base_date": "2026-08-25",
     "last_date": "2026-08-26"
    }
@@ -309,9 +375,9 @@
    "reason": "FSD delays and China factory uncertainty amid trade tensions weigh on Tesla",
    "price_since": {
     "ticker": "TSLA",
-    "pct": -1.7,
+    "pct": -1.4,
     "base": 350.25,
-    "last": 344.2,
+    "last": 345.18,
     "base_date": "2026-08-25",
     "last_date": "2026-08-26"
    }
@@ -333,9 +399,9 @@
    "reason": "Avis rises pre-market; CEO confidence on valuation and no dilution supports near-term upside.",
    "price_since": {
     "ticker": "CAR",
-    "pct": -1.0,
+    "pct": -0.3,
     "base": 145.13,
-    "last": 143.75,
+    "last": 144.73,
     "base_date": "2026-08-25",
     "last_date": "2026-08-26"
    }
@@ -358,9 +424,9 @@
    "reason": "tariff/trade criticism of Canada implies potential trade policy action, broadly bullish if resolved",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.1,
+    "pct": -0.2,
     "base": 765.91,
-    "last": 765.29,
+    "last": 764.66,
     "base_date": "2026-08-25",
     "last_date": "2026-08-26"
    }
@@ -382,9 +448,9 @@
    "reason": "Trump administration awarded IBM $1B quantum grant; explicit federal contract to named public company.",
    "price_since": {
     "ticker": "IBM",
-    "pct": -2.0,
+    "pct": -1.9,
     "base": 234.19,
-    "last": 229.61,
+    "last": 229.85,
     "base_date": "2026-08-25",
     "last_date": "2026-08-26"
    }
@@ -407,9 +473,9 @@
    "reason": "explicit tariff threat against Canada and criticism of bilateral trade; tariffs typically bearish for broad market",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.1,
+    "pct": -0.2,
     "base": 765.91,
-    "last": 765.29,
+    "last": 764.69,
     "base_date": "2026-08-25",
     "last_date": "2026-08-26"
    }
@@ -431,9 +497,9 @@
    "reason": "Memory chip stocks (MU, SNDK, STX, WDC) slide as 'memory pump' fades; sector momentum reversal, no Trump catalyst",
    "price_since": {
     "ticker": "SMH",
-    "pct": -0.3,
+    "pct": -0.4,
     "base": 555.82,
-    "last": 553.89,
+    "last": 553.62,
     "base_date": "2026-08-25",
     "last_date": "2026-08-26"
    }
@@ -455,9 +521,9 @@
    "reason": "Multiple unrelated stocks hit 52-week highs; no Trump-specific catalyst or market direction implied",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.1,
+    "pct": -0.2,
     "base": 765.91,
-    "last": 765.29,
+    "last": 764.69,
     "base_date": "2026-08-25",
     "last_date": "2026-08-26"
    }
@@ -479,9 +545,9 @@
    "reason": "Trump stake in private SpaceX suggests bullish view on space/defense; indirect signal on broad tech/defense sentiment.",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.1,
+    "pct": -0.2,
     "base": 765.91,
-    "last": 765.29,
+    "last": 764.69,
     "base_date": "2026-08-25",
     "last_date": "2026-08-26"
    }
@@ -505,7 +571,7 @@
     "ticker": "NFLX",
     "pct": -0.7,
     "base": 82.23,
-    "last": 81.63,
+    "last": 81.64,
     "base_date": "2026-08-25",
     "last_date": "2026-08-26"
    }
@@ -2407,23 +2473,6 @@
    "reason": "major escalation of Iran sanctions and economic warfare; broad market risk and geopolitical tension"
   },
   {
-   "date": "2026-08-19T02:15:41.128Z",
-   "platform": "Truth Social",
-   "text": "I have paused the 50% Tariffs against Canada, that were scheduled to kick in tomorrow morning for a three day period, based on the fact that Canada and the U.S.A., subject to the finalization of documents, have a DEAL! The great Keystone XL Pipeline, long ago killed by Sleepy Joe Biden, may be awoken from the grave! Thank you for your attention to this matter. President DONALD J. TRUMP",
-   "tickers": [
-    "SPY"
-   ],
-   "engagement": 22996,
-   "url": "https://truthsocial.com/@realDonaldTrump/117119761850520698",
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "SPY",
-   "strength": 70,
-   "reason": "pause of 50% Canada tariffs and deal struck; trade war de-escalation is bullish for broad market"
-  },
-  {
    "curated": true,
    "classified": true,
    "is_market": true,
@@ -2476,23 +2525,6 @@
    "reason": "Trump's majority-owned stock debuts \u2014 pure sentiment play, extremely volatile and headline-driven.",
    "market_reaction": "DJT spiked on debut then stayed volatile, moving heavily on Trump political/legal news.",
    "url": "https://www.nasdaq.com/market-activity/stocks/djt"
-  },
-  {
-   "date": "2021-07-01T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "HARRIS CORPORATION was awarded a $2.1B federal contract from Department of Transportation.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_693KA821F00222_6920_DTFA0102D03006_6920",
-   "tickers": [
-    "HRS"
-   ],
-   "contract_amount": 2.15,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "HRS",
-   "strength": 80,
-   "reason": "Harris Corporation awarded $2.1B federal DoT contract; major defense/aerospace win is bullish for recipient"
   }
  ],
  "how_to_read": "Each card is Claude's read of a public Trump post: the affected ticker, whether it implies BUY / SELL / WATCH, a 0\u2013100 strength (how explicit/emphatic the post is \u2014 NOT a profit predictor), and why. A 2-year backtest found these don't beat buy-and-hold, so this is for awareness, not trading. Not financial advice."
