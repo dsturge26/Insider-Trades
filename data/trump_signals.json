@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-08-26T09:40:47Z",
+ "last_updated": "2026-08-26T10:18:33Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-08-26T08:25:37Z",
+   "platform": "News",
+   "text": "Why Is IBM Stock Surging Nearly 7% Higher In Overnight Trading? - Stocktwits \u2014 Why Is IBM Stock Surging Nearly 7% Higher In Overnight Trading?\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQk9pekpVQ1Q1NnRyVEdqWjdJN29OTFpDY3Rkc08wdG96eTdtMHRzVVRmUFItUlRQQS11WXBWZFpHWU50d3hoRHBENXM2eGhKMF9QZF9qb3ZQT2pXREgyU1pTMzBFU0JGZ0lOTk90VlU4YURiV3I1LWtPdTVzZDZRbUZGWEUySWxkZXg1a2dzYVVTVUpsOU1Yc25qQ2U4OE9tX1MtbEZFNDZDalpaS2JlbndvcnYyUU1Ca0E2cGxqMi02S2s?oc=5",
+   "tickers": [
+    "IBM"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "IBM",
+   "strength": 75,
+   "reason": "IBM surging on overnight trading\u2014likely tied to federal contract or Trump administration grant."
+  },
   {
    "date": "2026-08-26T04:00:10Z",
    "platform": "News",
@@ -195,6 +211,22 @@
    "primary_ticker": "TSLA",
    "strength": 40,
    "reason": "FSD delays and China factory uncertainty amid trade tensions weigh on Tesla"
+  },
+  {
+   "date": "2026-08-25T14:21:14Z",
+   "platform": "News",
+   "text": "CAR Stock Rises Premarket: CEO Calls Shares \u2018Undervalued\u2019 And Rules Out Issuing Stock At Current Levels - Stocktwits \u2014 CAR Stock Rises Premarket: CEO Calls Shares \u2018Undervalued\u2019 And Rules Out Issuing Stock At Current Levels\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOb0ViZF9JTXBKczhJbnM3czIyQ3dxdFNNN3JWd1BWaFRfTkIzeXFFQlhYU25JXy1yRzVPSlVaSUdvZGtHT0hsdUFpUm9oSGFZU2Rma2NpS0dsQXZMUGN3eEpqUTBrX0JSb0lDb0NfaWRsX2RSWExlcjlnSUQ2a0R6TkxIYlB2M0dLMXo3UkUxYzZ1YUJMdk5VLWZwRlA0RkFUcVFRMTBneGk3ZDBMeGJsbUVReFByRG9ROFE?oc=5",
+   "tickers": [
+    "CAR"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "CAR",
+   "strength": 40,
+   "reason": "Avis rises pre-market; CEO confidence on valuation and no dilution supports near-term upside."
   },
   {
    "date": "2026-08-25T14:00:40.967Z",
@@ -906,30 +938,6 @@
    }
   },
   {
-   "date": "2026-08-24T00:28:49Z",
-   "platform": "News",
-   "text": "CAR Stock Rises Premarket: CEO Calls Shares \u2018Undervalued\u2019 And Rules Out Issuing Stock At Current Levels - Stocktwits \u2014 CAR Stock Rises Premarket: CEO Calls Shares \u2018Undervalued\u2019 And Rules Out Issuing Stock At Current Levels\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOb0ViZF9JTXBKczhJbnM3czIyQ3dxdFNNN3JWd1BWaFRfTkIzeXFFQlhYU25JXy1yRzVPSlVaSUdvZGtHT0hsdUFpUm9oSGFZU2Rma2NpS0dsQXZMUGN3eEpqUTBrX0JSb0lDb0NfaWRsX2RSWExlcjlnSUQ2a0R6TkxIYlB2M0dLMXo3UkUxYzZ1YUJMdk5VLWZwRlA0RkFUcVFRMTBneGk3ZDBMeGJsbUVReFByRG9ROFE?oc=5",
-   "tickers": [
-    "CAR"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "CAR",
-   "strength": 45,
-   "reason": "CEO calls shares undervalued and rules out dilution; bullish signal unrelated to Trump but market-relevant.",
-   "price_since": {
-    "ticker": "CAR",
-    "pct": -0.7,
-    "base": 146.88,
-    "last": 145.85,
-    "base_date": "2026-08-24",
-    "last_date": "2026-08-25"
-   }
-  },
-  {
    "date": "2026-08-24T00:09:17Z",
    "platform": "News",
    "text": "Palantir emerges as military contracting powerhouse under Trump - Crypto Briefing \u2014 Palantir emerges as military contracting powerhouse under Trump\u00a0\u00a0Crypto Briefing",
@@ -1362,22 +1370,6 @@
    "primary_ticker": "NVDA",
    "strength": 45,
    "reason": "China restricting NVDA chip sales reduces export revenue and competitive position"
-  },
-  {
-   "date": "2026-08-22T09:36:55Z",
-   "platform": "News",
-   "text": "Why Is IBM Stock Surging Nearly 7% Higher In Overnight Trading? - Stocktwits \u2014 Why Is IBM Stock Surging Nearly 7% Higher In Overnight Trading?\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQk9pekpVQ1Q1NnRyVEdqWjdJN29OTFpDY3Rkc08wdG96eTdtMHRzVVRmUFItUlRQQS11WXBWZFpHWU50d3hoRHBENXM2eGhKMF9QZF9qb3ZQT2pXREgyU1pTMzBFU0JGZ0lOTk90VlU4YURiV3I1LWtPdTVzZDZRbUZGWEUySWxkZXg1a2dzYVVTVUpsOU1Yc25qQ2U4OE9tX1MtbEZFNDZDalpaS2JlbndvcnYyUU1Ca0E2cGxqMi02S2s?oc=5",
-   "tickers": [
-    "IBM"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "IBM",
-   "strength": 30,
-   "reason": "IBM stock surge reported but no Trump-specific catalyst mentioned in headline"
   },
   {
    "date": "2026-08-22T08:06:07Z",
