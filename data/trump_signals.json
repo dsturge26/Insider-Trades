@@ -1,7 +1,135 @@
 {
- "last_updated": "2026-08-27T03:18:53Z",
+ "last_updated": "2026-08-27T14:28:12Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-08-27T05:28:55Z",
+   "platform": "News",
+   "text": "QCOM Stock Is 7% From Its Record High; Executives To Join Trump In China Visit - Stocktwits \u2014 QCOM Stock Is 7% From Its Record High; Executives To Join Trump In China Visit\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVXpadHNKQ3hrQS15eXBfZVNyZkRXR2hZZGpvbUF0OFp0VHJrWUhsck53RmFDb2l4eUdfVFQwY0QyZ0tYMERtRE1aaGRVSV9ORFVQd1I4WW9VOXNPS2o2Z3RqRnVReldvOWJneGJsbl81MDRkdTQ1TFd1RVQzWHgzcS01VU9ZY0RuVHZ4TWZOQWphQjlDZVQxMkJKb21PZkJYZXNxLVhnT0xKUDVEcHZYWWUyNncyZzJwX0V1YkJUTUluTU9rTFkxZ2RLRkx6eTk0dGRLSTg1T0Nwd0toT3c?oc=5",
+   "tickers": [
+    "QCOM"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "QCOM",
+   "strength": 65,
+   "reason": "Trump diplomatic engagement with China; executives joining trip signals potential trade deal, bullish for semiconductor sector"
+  },
+  {
+   "date": "2026-08-27T02:21:30Z",
+   "platform": "News",
+   "text": "Nvidia Q2 Earnings Spark 4% NVDA Reversal, Is the Selloff Curse Broken? - Mitrade \u2014 Nvidia Q2 Earnings Spark 4% NVDA Reversal, Is the Selloff Curse Broken?\u00a0\u00a0Mitrade",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVTlLcHVyNVZwdmo4UWVKV0R5NGwtR1hFNzlaY2pxRG9qUVVjWlM5V0FxNnc4Zk1uWkQ3ZmtYWXpjcmxRTXZGbVZsOFY0N0J3dDJJSlpYUVhHbjhXT0FLenBEdktDUDJ1ZVFCNUlGeWZmR1NmZVRDS3FTeHhKSDd6TVU5TWNPNUZMQzBnTkJ6RUZXWUU?oc=5",
+   "tickers": [
+    "NVDA"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "NVDA",
+   "strength": 40,
+   "reason": "Earnings-driven reversal unrelated to Trump; neutral market signal"
+  },
+  {
+   "date": "2026-08-26T21:12:41Z",
+   "platform": "News",
+   "text": "KEEL Stock Jumps Onto Retail Radar As Investors Eye First Data Center Lease Announcement - Stocktwits \u2014 KEEL Stock Jumps Onto Retail Radar As Investors Eye First Data Center Lease Announcement\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVHpiUDN5T2I5aVFzNkpxZGZjdUJEVG0xLXN0c3pVRWo2REVuRGNZTFpvLXJTT2luZVhnTC1iVmFtcFYxbkpnanphZ3E0N0ExWmx5UGh4cGw2QmRiQXl3RG81OWlKRnEwOHVHT0FWdXlGd2VIZVhjM1k2TTU0THctQ3cyUVhNNG9JcGJQMlhPVHdWbkFVSVpfR25lNzVCMTJ4cGZRR05JcnR2SWFvSGc1VnYyMzFMMnFDLURZLW5pMGk3UUwyWktaVVNmZUdDZ21QZGQ0bEZfU0o1LXRvREhFd3h2NXBTMjQ?oc=5",
+   "tickers": [
+    "KEEL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "KEEL",
+   "strength": 50,
+   "reason": "Data center lease announcement; speculative play on infrastructure demand",
+   "price_since": {
+    "ticker": "KEEL",
+    "pct": 6.5,
+    "base": 3.36,
+    "last": 3.58,
+    "base_date": "2026-08-26",
+    "last_date": "2026-08-27"
+   }
+  },
+  {
+   "date": "2026-08-26T21:00:50Z",
+   "platform": "News",
+   "text": "Trump touts Walmart price cuts for America 250 anniversary - scanx.trade \u2014 Trump touts Walmart price cuts for America 250 anniversary\u00a0\u00a0scanx.trade",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaXJPQllTeXM1bDl1aVdwa2hZLW9JMlEwNGVxdF83ajMzaHRCOThzNG13bFdBR2UyLTg2OFNQLTZjLTdWMkU3dUF5SU9YVkk5YXF6WmxiYXA5MXlxWWt0SEtqaFVIMXRPZE1hNFpnMURMbG00WGRnZHVkVnMzNHV6cnZXMVFldTJqR2NHX092alp6cGp3ZVozUHFtdDlaNjZpYVNjbmhEX3JzTmtM?oc=5",
+   "tickers": [
+    "WMT"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "WMT",
+   "strength": 60,
+   "reason": "Trump touts specific company price cuts; indirect praise of Walmart operations and competitiveness",
+   "price_since": {
+    "ticker": "WMT",
+    "pct": -1.7,
+    "base": 104.34,
+    "last": 102.54,
+    "base_date": "2026-08-26",
+    "last_date": "2026-08-27"
+   }
+  },
+  {
+   "date": "2026-08-26T18:02:29Z",
+   "platform": "News",
+   "text": "IBRX Stock Rallies Into Trump\u2019s Big SOTU Night \u2014 Here\u2019s What Traders Think Could Fuel The Next Move - Stocktwits \u2014 IBRX Stock Rallies Into Trump\u2019s Big SOTU Night \u2014 Here\u2019s What Traders Think Could Fuel The Next Move\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWFdFall2YVNMN3Rialp3SE9sU0h6YUQ1MDFiX2JaeXMxNlFFZUZveFU0TkVxUFI4cTQ5bW5VdkFlTDd1dFNwSUN2YTRtRl83aVRRXzZ6d09TeEhlR1NJb1JaMHlMWDhrQXpmZW40c1B1Y21KNjhxdm90Ny1uU3p4MzJZSW9GNGduMEdyRzFIU2RGLWlYWXg4TFJUU0N6ZlhFemxtUmprVXY0YkVRZk5vZHljazQ?oc=5",
+   "tickers": [
+    "IBRX"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "IBRX",
+   "strength": 35,
+   "reason": "Stock rally around SOTU; unclear catalyst; no Trump-specific market call",
+   "price_since": {
+    "ticker": "IBRX",
+    "pct": 1.8,
+    "base": 8.25,
+    "last": 8.4,
+    "base_date": "2026-08-26",
+    "last_date": "2026-08-27"
+   }
+  },
+  {
+   "date": "2026-08-26T17:45:06Z",
+   "platform": "News",
+   "text": "CRML, UUUU, USAR, ALOY, GLND: Greenland\u2019s Rare-Earth Trade Draws Investors As Trump Revives Arctic Ambitions - Stocktwits \u2014 CRML, UUUU, USAR, ALOY, GLND: Greenland\u2019s Rare-Earth Trade Draws Investors As Trump Revives Arctic Ambitions\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPS2w5bklfdmlQVG1ZZDgtRGo5QnlTdW5FZ3dWdnh3aGhJU1FoVHk3aW0tSUU5eDB3bmptb21TSmZvbkZSR2pDR0QydXJFNGV3MFVZWDRxV0YxYkV5R1FtVlVza1B0NU9teWNCN053QU1mNzJXbE83T1E1UElUN1VTZGpqOFBmLUJlbGJZYnRDYy1mYWpYY0dpNFh2OE01SnM1ZnRBall0MFVJTE9DcFJoRnR0NXd3cTQzZnhsdENCM2xrVm1HN00zYUQxRG1ScFo5U19TWG1rcDVuXzEteEhHVzhFQlNmeVhRZXF5UktfSkhYQ2IxNE9iVg?oc=5",
+   "tickers": [
+    "UUUU"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "UUUU",
+   "strength": 75,
+   "reason": "Trump revives Arctic/Greenland ambitions; bullish for rare-earth and uranium miners",
+   "price_since": {
+    "ticker": "UUUU",
+    "pct": 0.1,
+    "base": 15.7,
+    "last": 15.72,
+    "base_date": "2026-08-26",
+    "last_date": "2026-08-27"
+   }
+  },
   {
    "date": "2026-08-26T16:26:54.420Z",
    "platform": "Truth Social",
@@ -17,7 +145,15 @@
    "direction": "BUY",
    "primary_ticker": "USO",
    "strength": 65,
-   "reason": "Iran sanctions via Treasury secretary appointment typically bullish for oil prices and energy sector"
+   "reason": "Iran sanctions via Treasury secretary appointment typically bullish for oil prices and energy sector",
+   "price_since": {
+    "ticker": "USO",
+    "pct": 1.0,
+    "base": 127.35,
+    "last": 128.64,
+    "base_date": "2026-08-26",
+    "last_date": "2026-08-27"
+   }
   },
   {
    "date": "2026-08-26T16:21:18.460Z",
@@ -34,7 +170,15 @@
    "direction": "BUY",
    "primary_ticker": "AAPL",
    "strength": 55,
-   "reason": "Major US chip manufacturing investment supports domestic semiconductor capacity and capex outlook"
+   "reason": "Major US chip manufacturing investment supports domestic semiconductor capacity and capex outlook",
+   "price_since": {
+    "ticker": "AAPL",
+    "pct": -0.9,
+    "base": 313.45,
+    "last": 310.64,
+    "base_date": "2026-08-26",
+    "last_date": "2026-08-27"
+   }
   },
   {
    "date": "2026-08-26T15:31:17Z",
@@ -53,6 +197,54 @@
    "reason": "Trump personal investment in SpaceX post-IPO signals confidence in the company's trajectory"
   },
   {
+   "date": "2026-08-26T12:45:02Z",
+   "platform": "News",
+   "text": "REPL, QURE, MRNA Soar On Reports Trump Will Fire FDA\u2019s Marty Makary - Stocktwits \u2014 REPL, QURE, MRNA Soar On Reports Trump Will Fire FDA\u2019s Marty Makary\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPU3Z0Z1R6VlBrbUhjMmZMNmVXdXBXQW5TTUtIelRzbmMtS0kzSjdQTWFJRGV4TTFuVWE0QmxTTGpPc1NWdVdWQjl2bmVPTGNXY180NXltOWlqM3pPd1JDTmVORU5Kemc4Wk1IRWMtUE1UbVlQV1VndWx2cGhwSmxUWmw1Y3htZWVGQ1RxUEY3bVh4Y0lIcW1oVF9TMWgyUmNUY1JQajF4NGdCZHUzNEFDbnAtWTUzRmlpcHNYZk4tb0l6b2pDbFE?oc=5",
+   "tickers": [
+    "MRNA"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "MRNA",
+   "strength": 70,
+   "reason": "Trump plans FDA leadership change; biotech rallies on deregulation hopes",
+   "price_since": {
+    "ticker": "MRNA",
+    "pct": -4.6,
+    "base": 149.66,
+    "last": 142.72,
+    "base_date": "2026-08-26",
+    "last_date": "2026-08-27"
+   }
+  },
+  {
+   "date": "2026-08-26T09:37:05Z",
+   "platform": "News",
+   "text": "Trump Says After Iran, US May Turn Its Attention To Cuba: Report - Stocktwits \u2014 Trump Says After Iran, US May Turn Its Attention To Cuba: Report\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQWZ4TldDMUd6TUpfRWZzZFdHSmNPQ19WdUVQaFl0UWR6dHZwZnA2cUFHUVRpU3cxenFXOVFSaEg1SVc5UWZCMlFLWWtjaEhVMVlFWXhwNjdmN1RZU0NrejZWN29oOXVIS2dzejA1WVhVUDhsOVhWVG84dk9KZ1JFdC1ZWmxmbDFFVGZYNnR5T2JwTGZBZGZFTWxCWWFTc1JUQ0F5VTNCelYwd1psZkoxOG5jNEp1OUg2bDNTbzZOTnE1OGFw?oc=5",
+   "tickers": [
+    "XLE"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "XLE",
+   "strength": 55,
+   "reason": "Potential military action signals geopolitical risk premium and demand for energy/defense assets",
+   "price_since": {
+    "ticker": "XLE",
+    "pct": -0.8,
+    "base": 62.43,
+    "last": 61.92,
+    "base_date": "2026-08-26",
+    "last_date": "2026-08-27"
+   }
+  },
+  {
    "date": "2026-08-26T08:25:37Z",
    "platform": "News",
    "text": "Why Is IBM Stock Surging Nearly 7% Higher In Overnight Trading? - Stocktwits \u2014 Why Is IBM Stock Surging Nearly 7% Higher In Overnight Trading?\u00a0\u00a0Stocktwits",
@@ -66,23 +258,15 @@
    "direction": "BUY",
    "primary_ticker": "IBM",
    "strength": 75,
-   "reason": "IBM surging on overnight trading\u2014likely tied to federal contract or Trump administration grant."
-  },
-  {
-   "date": "2026-08-26T04:00:10Z",
-   "platform": "News",
-   "text": "CRML, UUUU, USAR, ALOY, GLND: Greenland\u2019s Rare-Earth Trade Draws Investors As Trump Revives Arctic Ambitions - Stocktwits \u2014 CRML, UUUU, USAR, ALOY, GLND: Greenland\u2019s Rare-Earth Trade Draws Investors As Trump Revives Arctic Ambitions\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPS2w5bklfdmlQVG1ZZDgtRGo5QnlTdW5FZ3dWdnh3aGhJU1FoVHk3aW0tSUU5eDB3bmptb21TSmZvbkZSR2pDR0QydXJFNGV3MFVZWDRxV0YxYkV5R1FtVlVza1B0NU9teWNCN053QU1mNzJXbE83T1E1UElUN1VTZGpqOFBmLUJlbGJZYnRDYy1mYWpYY0dpNFh2OE01SnM1ZnRBall0MFVJTE9DcFJoRnR0NXd3cTQzZnhsdENCM2xrVm1HN00zYUQxRG1ScFo5U19TWG1rcDVuXzEteEhHVzhFQlNmeVhRZXF5UktfSkhYQ2IxNE9iVg?oc=5",
-   "tickers": [
-    "UUUU"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "UUUU",
-   "strength": 65,
-   "reason": "Trump Arctic/Greenland focus drives rare-earth and uranium demand"
+   "reason": "IBM surging on overnight trading\u2014likely tied to federal contract or Trump administration grant.",
+   "price_since": {
+    "ticker": "IBM",
+    "pct": 2.9,
+    "base": 229.87,
+    "last": 236.45,
+    "base_date": "2026-08-26",
+    "last_date": "2026-08-27"
+   }
   },
   {
    "date": "2026-08-26T02:28:32Z",
@@ -98,7 +282,15 @@
    "direction": "WATCH",
    "primary_ticker": "SOFI",
    "strength": 25,
-   "reason": "SOFI analyst bull case reported but no Trump connection or catalyst mentioned."
+   "reason": "SOFI analyst bull case reported but no Trump connection or catalyst mentioned.",
+   "price_since": {
+    "ticker": "SOFI",
+    "pct": 1.9,
+    "base": 18.84,
+    "last": 19.2,
+    "base_date": "2026-08-26",
+    "last_date": "2026-08-27"
+   }
   },
   {
    "date": "2026-08-26T00:23:58Z",
@@ -114,7 +306,15 @@
    "direction": "BUY",
    "primary_ticker": "DELL",
    "strength": 85,
-   "reason": "Trump explicitly endorsed Dell; stock spiked on his endorsement"
+   "reason": "Trump explicitly endorsed Dell; stock spiked on his endorsement",
+   "price_since": {
+    "ticker": "DELL",
+    "pct": 1.2,
+    "base": 463.82,
+    "last": 469.49,
+    "base_date": "2026-08-26",
+    "last_date": "2026-08-27"
+   }
   },
   {
    "date": "2026-08-26T00:08:32Z",
@@ -130,7 +330,15 @@
    "direction": "BUY",
    "primary_ticker": "DJT",
    "strength": 45,
-   "reason": "Trump Media climbs 6% on alternative media platform momentum; inferred bullish sentiment but no explicit Trump statement"
+   "reason": "Trump Media climbs 6% on alternative media platform momentum; inferred bullish sentiment but no explicit Trump statement",
+   "price_since": {
+    "ticker": "DJT",
+    "pct": 2.3,
+    "base": 9.5,
+    "last": 9.72,
+    "base_date": "2026-08-26",
+    "last_date": "2026-08-27"
+   }
   },
   {
    "date": "2026-08-26T00:04:28Z",
@@ -146,7 +354,15 @@
    "direction": "BUY",
    "primary_ticker": "INTC",
    "strength": 35,
-   "reason": "Intel rally mentioned in context of 'Trump pump' and semiconductor/AI boost; direction bullish but attributable to other factors."
+   "reason": "Intel rally mentioned in context of 'Trump pump' and semiconductor/AI boost; direction bullish but attributable to other factors.",
+   "price_since": {
+    "ticker": "INTC",
+    "pct": 4.6,
+    "base": 88.24,
+    "last": 92.27,
+    "base_date": "2026-08-26",
+    "last_date": "2026-08-27"
+   }
   },
   {
    "date": "2026-08-25T22:24:39Z",
@@ -165,11 +381,11 @@
    "reason": "Trump threatens Netflix with consequences if board member not fired; direct attack on named company.",
    "price_since": {
     "ticker": "NFLX",
-    "pct": -0.9,
+    "pct": -3.1,
     "base": 82.23,
-    "last": 81.46,
+    "last": 79.71,
     "base_date": "2026-08-25",
-    "last_date": "2026-08-26"
+    "last_date": "2026-08-27"
    }
   },
   {
@@ -189,11 +405,11 @@
    "reason": "Trump trades stocks in companies with immigration contracts; unclear directional impact",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.0,
+    "pct": 0.5,
     "base": 765.91,
-    "last": 766.08,
+    "last": 769.74,
     "base_date": "2026-08-25",
-    "last_date": "2026-08-26"
+    "last_date": "2026-08-27"
    }
   },
   {
@@ -213,11 +429,11 @@
    "reason": "Question whether Trump moved SpaceX post; speculative, direction ambiguous.",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.0,
+    "pct": 0.5,
     "base": 765.91,
-    "last": 766.08,
+    "last": 769.73,
     "base_date": "2026-08-25",
-    "last_date": "2026-08-26"
+    "last_date": "2026-08-27"
    }
   },
   {
@@ -253,11 +469,11 @@
    "reason": "Critical metals demand surge from Greenland interest (rare earths/strategic resources)",
    "price_since": {
     "ticker": "REMX",
-    "pct": -1.3,
+    "pct": -0.9,
     "base": 79.12,
-    "last": 78.07,
+    "last": 78.4,
     "base_date": "2026-08-25",
-    "last_date": "2026-08-26"
+    "last_date": "2026-08-27"
    }
   },
   {
@@ -278,11 +494,11 @@
    "reason": "Broad optimism on US business conditions; macro bullish but vague, no specific catalyst",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.0,
+    "pct": 0.5,
     "base": 765.91,
-    "last": 766.08,
+    "last": 769.73,
     "base_date": "2026-08-25",
-    "last_date": "2026-08-26"
+    "last_date": "2026-08-27"
    }
   },
   {
@@ -303,11 +519,11 @@
    "reason": "Claims Trump economy booming, stocks at all-time highs, earnings strong; macro positive but relies on unverified assertions and political spin",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.0,
+    "pct": 0.5,
     "base": 765.91,
-    "last": 766.08,
+    "last": 769.73,
     "base_date": "2026-08-25",
-    "last_date": "2026-08-26"
+    "last_date": "2026-08-27"
    }
   },
   {
@@ -327,11 +543,11 @@
    "reason": "Nuclear stocks rebounding on oversold bounce; sector-specific but unclear if Trump-driven or technical mean-reversion",
    "price_since": {
     "ticker": "UEC",
-    "pct": -1.1,
+    "pct": 0.0,
     "base": 13.27,
-    "last": 13.13,
+    "last": 13.27,
     "base_date": "2026-08-25",
-    "last_date": "2026-08-26"
+    "last_date": "2026-08-27"
    }
   },
   {
@@ -351,11 +567,11 @@
    "reason": "Trump explicitly endorsed Nokia for AI growth; direct company praise is a strong bullish signal for the stock.",
    "price_since": {
     "ticker": "NOK",
-    "pct": 0.6,
+    "pct": 1.1,
     "base": 10.35,
-    "last": 10.41,
+    "last": 10.46,
     "base_date": "2026-08-25",
-    "last_date": "2026-08-26"
+    "last_date": "2026-08-27"
    }
   },
   {
@@ -375,11 +591,11 @@
    "reason": "FSD delays and China factory uncertainty amid trade tensions weigh on Tesla",
    "price_since": {
     "ticker": "TSLA",
-    "pct": -1.3,
+    "pct": 0.8,
     "base": 350.25,
-    "last": 345.82,
+    "last": 352.94,
     "base_date": "2026-08-25",
-    "last_date": "2026-08-26"
+    "last_date": "2026-08-27"
    }
   },
   {
@@ -401,9 +617,9 @@
     "ticker": "CAR",
     "pct": -0.8,
     "base": 145.13,
-    "last": 144.0,
+    "last": 143.99,
     "base_date": "2026-08-25",
-    "last_date": "2026-08-26"
+    "last_date": "2026-08-27"
    }
   },
   {
@@ -424,11 +640,11 @@
    "reason": "tariff/trade criticism of Canada implies potential trade policy action, broadly bullish if resolved",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.0,
+    "pct": 0.5,
     "base": 765.91,
-    "last": 766.08,
+    "last": 769.73,
     "base_date": "2026-08-25",
-    "last_date": "2026-08-26"
+    "last_date": "2026-08-27"
    }
   },
   {
@@ -448,11 +664,11 @@
    "reason": "Military/defense expansion via Project Freedom suggests increased defense spending appetite.",
    "price_since": {
     "ticker": "XAR",
-    "pct": 0.7,
+    "pct": 0.0,
     "base": 264.85,
-    "last": 266.65,
+    "last": 264.89,
     "base_date": "2026-08-25",
-    "last_date": "2026-08-26"
+    "last_date": "2026-08-27"
    }
   },
   {
@@ -472,11 +688,11 @@
    "reason": "Trump administration awarded IBM $1B quantum grant; explicit federal contract to named public company.",
    "price_since": {
     "ticker": "IBM",
-    "pct": -1.8,
+    "pct": 1.0,
     "base": 234.19,
-    "last": 229.87,
+    "last": 236.45,
     "base_date": "2026-08-25",
-    "last_date": "2026-08-26"
+    "last_date": "2026-08-27"
    }
   },
   {
@@ -497,11 +713,11 @@
    "reason": "explicit tariff threat against Canada and criticism of bilateral trade; tariffs typically bearish for broad market",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.0,
+    "pct": 0.5,
     "base": 765.91,
-    "last": 766.08,
+    "last": 769.73,
     "base_date": "2026-08-25",
-    "last_date": "2026-08-26"
+    "last_date": "2026-08-27"
    }
   },
   {
@@ -521,11 +737,11 @@
    "reason": "Memory chip stocks (MU, SNDK, STX, WDC) slide as 'memory pump' fades; sector momentum reversal, no Trump catalyst",
    "price_since": {
     "ticker": "SMH",
-    "pct": -0.0,
+    "pct": 2.6,
     "base": 555.82,
-    "last": 555.77,
+    "last": 570.13,
     "base_date": "2026-08-25",
-    "last_date": "2026-08-26"
+    "last_date": "2026-08-27"
    }
   },
   {
@@ -545,11 +761,11 @@
    "reason": "Multiple unrelated stocks hit 52-week highs; no Trump-specific catalyst or market direction implied",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.0,
+    "pct": 0.5,
     "base": 765.91,
-    "last": 766.08,
+    "last": 769.73,
     "base_date": "2026-08-25",
-    "last_date": "2026-08-26"
+    "last_date": "2026-08-27"
    }
   },
   {
@@ -569,11 +785,11 @@
    "reason": "Trump stake in private SpaceX suggests bullish view on space/defense; indirect signal on broad tech/defense sentiment.",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.0,
+    "pct": 0.5,
     "base": 765.91,
-    "last": 766.08,
+    "last": 769.73,
     "base_date": "2026-08-25",
-    "last_date": "2026-08-26"
+    "last_date": "2026-08-27"
    }
   },
   {
@@ -719,38 +935,6 @@
    "primary_ticker": "NVDA",
    "strength": 15,
    "reason": "Musk praised SpaceX-NVIDIA partnership but both stocks fell; ambiguous market direction"
-  },
-  {
-   "date": "2026-08-25T02:21:02Z",
-   "platform": "News",
-   "text": "IBRX Stock Rallies Into Trump\u2019s Big SOTU Night \u2014 Here\u2019s What Traders Think Could Fuel The Next Move - Stocktwits \u2014 IBRX Stock Rallies Into Trump\u2019s Big SOTU Night \u2014 Here\u2019s What Traders Think Could Fuel The Next Move\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWFdFall2YVNMN3Rialp3SE9sU0h6YUQ1MDFiX2JaeXMxNlFFZUZveFU0TkVxUFI4cTQ5bW5VdkFlTDd1dFNwSUN2YTRtRl83aVRRXzZ6d09TeEhlR1NJb1JaMHlMWDhrQXpmZW40c1B1Y21KNjhxdm90Ny1uU3p4MzJZSW9GNGduMEdyRzFIU2RGLWlYWXg4TFJUU0N6ZlhFemxtUmprVXY0YkVRZk5vZHljazQ?oc=5",
-   "tickers": [
-    "IBRX"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "IBRX",
-   "strength": 20,
-   "reason": "Stock rally into Trump SOTU event; awaiting concrete catalyst from speech"
-  },
-  {
-   "date": "2026-08-25T00:03:21Z",
-   "platform": "News",
-   "text": "QCOM Stock Is 7% From Its Record High; Executives To Join Trump In China Visit - Stocktwits \u2014 QCOM Stock Is 7% From Its Record High; Executives To Join Trump In China Visit\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVXpadHNKQ3hrQS15eXBfZVNyZkRXR2hZZGpvbUF0OFp0VHJrWUhsck53RmFDb2l4eUdfVFQwY0QyZ0tYMERtRE1aaGRVSV9ORFVQd1I4WW9VOXNPS2o2Z3RqRnVReldvOWJneGJsbl81MDRkdTQ1TFd1RVQzWHgzcS01VU9ZY0RuVHZ4TWZOQWphQjlDZVQxMkJKb21PZkJYZXNxLVhnT0xKUDVEcHZYWWUyNncyZzJwX0V1YkJUTUluTU9rTFkxZ2RLRkx6eTk0dGRLSTg1T0Nwd0toT3c?oc=5",
-   "tickers": [
-    "QCOM"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "QCOM",
-   "strength": 25,
-   "reason": "QCOM executives joining Trump China visit; China trade implications ambiguous"
   },
   {
    "date": "2026-08-24T21:39:00Z",
@@ -916,30 +1100,6 @@
     "pct": 1.1,
     "base": 9.3,
     "last": 9.4,
-    "base_date": "2026-08-24",
-    "last_date": "2026-08-25"
-   }
-  },
-  {
-   "date": "2026-08-24T18:02:17Z",
-   "platform": "News",
-   "text": "Trump touts Walmart price cuts for America 250 anniversary - scanx.trade \u2014 Trump touts Walmart price cuts for America 250 anniversary\u00a0\u00a0scanx.trade",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaXJPQllTeXM1bDl1aVdwa2hZLW9JMlEwNGVxdF83ajMzaHRCOThzNG13bFdBR2UyLTg2OFNQLTZjLTdWMkU3dUF5SU9YVkk5YXF6WmxiYXA5MXlxWWt0SEtqaFVIMXRPZE1hNFpnMURMbG00WGRnZHVkVnMzNHV6cnZXMVFldTJqR2NHX092alp6cGp3ZVozUHFtdDlaNjZpYVNjbmhEX3JzTmtM?oc=5",
-   "tickers": [
-    "WMT"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "WMT",
-   "strength": 40,
-   "reason": "Trump touts Walmart price cuts; positive endorsement of retailer",
-   "price_since": {
-    "ticker": "WMT",
-    "pct": -1.0,
-    "base": 106.49,
-    "last": 105.38,
     "base_date": "2026-08-24",
     "last_date": "2026-08-25"
    }
@@ -1250,22 +1410,6 @@
    "primary_ticker": "VNDA",
    "strength": 40,
    "reason": "FDA verdict catalyst independent of Trump; clinical risk/reward"
-  },
-  {
-   "date": "2026-08-23T20:12:10Z",
-   "platform": "News",
-   "text": "KEEL Stock Jumps Onto Retail Radar As Investors Eye First Data Center Lease Announcement - Stocktwits \u2014 KEEL Stock Jumps Onto Retail Radar As Investors Eye First Data Center Lease Announcement\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVHpiUDN5T2I5aVFzNkpxZGZjdUJEVG0xLXN0c3pVRWo2REVuRGNZTFpvLXJTT2luZVhnTC1iVmFtcFYxbkpnanphZ3E0N0ExWmx5UGh4cGw2QmRiQXl3RG81OWlKRnEwOHVHT0FWdXlGd2VIZVhjM1k2TTU0THctQ3cyUVhNNG9JcGJQMlhPVHdWbkFVSVpfR25lNzVCMTJ4cGZRR05JcnR2SWFvSGc1VnYyMzFMMnFDLURZLW5pMGk3UUwyWktaVVNmZUdDZ21QZGQ0bEZfU0o1LXRvREhFd3h2NXBTMjQ?oc=5",
-   "tickers": [
-    "KEEL"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "KEEL",
-   "strength": 35,
-   "reason": "Data center lease announcement positive but no Trump nexus stated; stock-specific news"
   },
   {
    "date": "2026-08-23T19:28:12Z",
@@ -1804,22 +1948,6 @@
    "primary_ticker": "PLTR",
    "strength": 70,
    "reason": "Trump signals support for Palantir; explicit positive catalyst for named stock"
-  },
-  {
-   "date": "2026-08-21T18:01:32Z",
-   "platform": "News",
-   "text": "Trump Says After Iran, US May Turn Its Attention To Cuba: Report - Stocktwits \u2014 Trump Says After Iran, US May Turn Its Attention To Cuba: Report\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQWZ4TldDMUd6TUpfRWZzZFdHSmNPQ19WdUVQaFl0UWR6dHZwZnA2cUFHUVRpU3cxenFXOVFSaEg1SVc5UWZCMlFLWWtjaEhVMVlFWXhwNjdmN1RZU0NrejZWN29oOXVIS2dzejA1WVhVUDhsOVhWVG84dk9KZ1JFdC1ZWmxmbDFFVGZYNnR5T2JwTGZBZGZFTWxCWWFTc1JUQ0F5VTNCelYwd1psZkoxOG5jNEp1OUg2bDNTbzZOTnE1OGFw?oc=5",
-   "tickers": [
-    "XLE"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "XLE",
-   "strength": 50,
-   "reason": "potential Cuba sanctions expansion could affect energy and trade flows"
   },
   {
    "date": "2026-08-21T17:55:57Z",
@@ -2430,23 +2558,6 @@
     "base_date": "2026-08-20",
     "last_date": "2026-08-21"
    }
-  },
-  {
-   "date": "2026-08-19T22:59:02.219Z",
-   "platform": "Truth Social",
-   "text": "No one has given the Islamic Republic of Iran a greater opportunity to make a Deal than me. TRAGICALLY, for them, they have failed to take it. Therefore, today, I am announcing the MOST CRUSHING ECONOMIC OPERATION EVER TAKEN AGAINST ANY COUNTRY! This will be Economic Warfare and Isolation on an unprecedented scale. Their navy is gone, their air force is destroyed, their military factories are now rubble, their currency is worthless, and their country is hanging by a thread. Today, I am also announcing that ANY country that allows its financial institutions, businesses, airports, or government entities to provide any type of lifeline to Iran will itself face TREMENDOUS Economic Consequences. Oil smuggling, swap lines, cash transfers, exchange houses, ship registries, front companies \u2014 It all needs to stop NOW. You know who you are. This will be an ECONOMIC D-DAY, and we need all of our Allies to stand with the United States of America to isolate, and defeat, the Iran threat. These maniacs are on the ropes, and these HISTORIC MEASURES will cripple them and their ability to project terror worldwide. IRAN WILL NEVER HAVE A NUCLEAR WEAPON. THANK YOU FOR YOUR ATTENTION TO THIS MATTER. President DONALD J. TRUMP",
-   "tickers": [
-    "SPY"
-   ],
-   "engagement": 21637,
-   "url": "https://truthsocial.com/@realDonaldTrump/117124650907675461",
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "SPY",
-   "strength": 75,
-   "reason": "Severe economic sanctions and military operations against Iran; geopolitical risk, oil market volatility, broad market uncertainty."
   },
   {
    "curated": true,
