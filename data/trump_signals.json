@@ -1,7 +1,186 @@
 {
- "last_updated": "2026-08-28T09:53:32Z",
+ "last_updated": "2026-08-28T21:07:05Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-08-28T18:06:47.683Z",
+   "platform": "Truth Social",
+   "text": "Laura Ingraham: \"Year-to-date, the goods and services deficit decreased $189.3 billion, or 33.8 percent, from the same period in 2025. Exports increased $198.3 billion or 11.7 percent. Imports increased $9.0 billion or 0.4 percent. Where are all the experts who claimed that the tariffs would kill our exports? GOOD NEWS TUESDAY\u2026IN ADDITION TO THE DOW AND OIL DOWN....The trade deficit is going down, and exports are up for the year so far.\"",
+   "tickers": [
+    "SPY"
+   ],
+   "engagement": 3563,
+   "url": "https://truthsocial.com/@realDonaldTrump/117174462557932061",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "SPY",
+   "strength": 45,
+   "reason": "Tariffs producing trade deficit improvement and export growth suggests policy is working; broad market bullish macro signal"
+  },
+  {
+   "date": "2026-08-28T18:05:46.379Z",
+   "platform": "Truth Social",
+   "text": "FBI Shuts Down Sprawling China-Linked Hacking Network: https://www.wsj.com/tech/cybersecurity/fbi-shuts-down-sprawling-china-linked-hacking-network-61eade59",
+   "tickers": [
+    "SPY"
+   ],
+   "engagement": 3490,
+   "url": "https://truthsocial.com/@realDonaldTrump/117174458540297380",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "SPY",
+   "strength": 35,
+   "reason": "China hacking network shutdown reduces cybersecurity risk; mild positive for broad market and tech"
+  },
+  {
+   "date": "2026-08-28T18:05:30.761Z",
+   "platform": "Truth Social",
+   "text": "Trump Moves to Ban Some Foreign Energy Equipment From Grid: https://www.bloomberg.com/news/articles/2026-08-26/trump-signs-order-to-ban-some-foreign-energy-equipment-from-grid",
+   "tickers": [
+    "XLE"
+   ],
+   "engagement": 3279,
+   "url": "https://truthsocial.com/@realDonaldTrump/117174457516746267",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "XLE",
+   "strength": 50,
+   "reason": "Banning foreign energy equipment protects US domestic energy sector from competition; bullish for US energy producers"
+  },
+  {
+   "date": "2026-08-28T15:51:57Z",
+   "platform": "News",
+   "text": "Trump praises Micron\u2019s $10 billion investment in US for AI research - The American Bazaar \u2014 Trump praises Micron\u2019s $10 billion investment in US for AI research\u00a0\u00a0The American Bazaar",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUWRKa3pxTEFJSkRIUG1KUXpuZjZWLVdocm1BRFExRWIxa1BlR19qNUpKS2ZWMXVGam1MdTF0MEpNU0xMVmpLUU0yZGNSYzREM2s3UDZORlVPZHlPY3NiU1REVXR4TUJPT0lkWmlsRzNyOVhrWko4MlluV191T0JfUUhVTm44cG9qeTFCWTAwSm1hZHpzOFFrSTZ6ZFlVRURLS2dfcjJSOExVZnRVM3lzRXROZUZKRzBB?oc=5",
+   "tickers": [
+    "MU"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "MU",
+   "strength": 70,
+   "reason": "Trump explicitly praises Micron's $10B US investment; direct endorsement of the company as bullish"
+  },
+  {
+   "date": "2026-08-28T15:02:38Z",
+   "platform": "News",
+   "text": "NOW Stock Rises Overnight: Trump\u2019s ServiceNow Stake Fuels Retail Buzz Around SAAS Comeback - Stocktwits \u2014 NOW Stock Rises Overnight: Trump\u2019s ServiceNow Stake Fuels Retail Buzz Around SAAS Comeback\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQcEF0OFRRa3hIWF9rS21NMTBqNk53MDA4eWFQcDJad1Z2QkQyTTdmd3prLUVaVUUwdVRSWWpCOGs3N3JaYTZCcG1KMjg1c1Q0WWdjSnlWbHkteXVxcnFoUXFZMEg4ejh0YjA4ZG5BRnBEX1huMFNaS0dXdEx4LWNEOXBLcmNpMzlCQzc1OC0yRDFKeWFMWEZzWUpNQXBWTFFDQlJ6dmFWamU5cUpFZnVfcU1ocFdTa0tfdjByTlZZUHo4QUx1QzJOMHpzZEdaZjdqSVhoWFB0cVRKZW9BbnNLMi1XYUF2MlhaZGc?oc=5",
+   "tickers": [
+    "NOW"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "NOW",
+   "strength": 40,
+   "reason": "Trump stake in ServiceNow creates retail buzz; direction ambiguous without clarity on stake size or Trump's intent"
+  },
+  {
+   "date": "2026-08-28T14:01:50Z",
+   "platform": "News",
+   "text": "Trump Calls Micron One of the World\u2019s \u201cHottest\u201d Companies a Day After Nvidia Disclosed $279 Billion in Supplier Commitments - Yahoo Finance \u2014 Trump Calls Micron One of the World\u2019s \u201cHottest\u201d Companies a Day After Nvidia Disclosed $279 Billion in Supplier Commitments\u00a0\u00a0Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbFV2U3o4d1o4a0Q1OUtUdHVLbG9KTEludDdpZmtRNzBZQlJKc19wUGpxaHhndXYtakdMUnBVM09ESThWdXNJMWkzRERodF9yaGw4WjducVRwV3lYdFBNejhmdGZrOE1EeG9jQ2VVNjRhd21YcTVNRDNGc0pyd1RPTXgtX2hvM1ZZOTUyTUl0ZWdyU3FfYmJrYQ?oc=5",
+   "tickers": [
+    "MU"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "MU",
+   "strength": 75,
+   "reason": "Trump calls Micron one of world's 'hottest' companies; explicit praise of specific named company"
+  },
+  {
+   "date": "2026-08-28T14:01:00Z",
+   "platform": "News",
+   "text": "Trump Calls Micron One of the World's \"Hottest\" Companies a Day After Nvidia Disclosed $279 Billion in Supplier Commitments - 24/7 Wall St. \u2014 Trump Calls Micron One of the World's \"Hottest\" Companies a Day After Nvidia Disclosed $279 Billion in Supplier Commitments\u00a0\u00a024/7 Wall St.",
+   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNMU5lQWNoZFMzTU04YnZoTTBWNjlXVWktS3BUM0x2bWt1WUZsZEZ5QVZaQ2pibEU1YVpNLTN0cFVNd0tObkRhU3VmVGg1alFTazRDVGhEMjY3QkpyeHhVMkl2X1RHM0EzTWQzY3VnM194Nm94MmtqSU1JUno5STMxUFo1aDBTUjl0SWF5Vmt2aTFfT0MyS25qV21fTzdkN01Ua3BXMUh6NE4tYlhvakgtVkZrVWhvRmlDd3R1TlY0cmZ4UWZqc2xoN3pVNnVLWUVKZElZVDNrWTJVUFhadnpVd0Z6MWJNQzVWem9FRWpnYTBPc1V4OVE?oc=5",
+   "tickers": [
+    "MU"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "MU",
+   "strength": 75,
+   "reason": "Trump calls Micron one of world's 'hottest' companies; explicit praise of specific named company"
+  },
+  {
+   "date": "2026-08-28T13:48:41Z",
+   "platform": "News",
+   "text": "MU, SNDK, STX, WDC Stocks Extend Slide Overnight As Memory Pump Fades: Retail Traders Hopeful For Rebound - Stocktwits \u2014 MU, SNDK, STX, WDC Stocks Extend Slide Overnight As Memory Pump Fades: Retail Traders Hopeful For Rebound\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPb0VPUHFyT3dNU1BkR3RTbUZ5dENaV0tfUUViMzZzVDJDcXZFVWdxZ1Raa3N4SkFYX0E3enVNUzdxN193Q1lkUVVfdUtqNkhJelJLUkwzVmhMYUEtWDBsRmw4LV9mQmVCQlMyUFJ2a3lZT0Z1QWF3clF0eUtPa2JsMDJGT3pJcEdiNVpTWHFobGxIUlRCeEV5N1dYQUp5LV9Pbjlyc1FNeS03OGhUZTViX29RTmM5d1BpalVIWDNTUDFja2lRb1FnY19pSi0zRXozSUNzaUJKS0tpdFcwa0NWbG94dzBvWnItOHF1dVNQM29Kc2h1SF9FUg?oc=5",
+   "tickers": [
+    "MU"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "MU",
+   "strength": 35,
+   "reason": "Memory chip stocks slide despite Trump praise; market sentiment fades, direction unclear"
+  },
+  {
+   "date": "2026-08-28T12:08:28Z",
+   "platform": "News",
+   "text": "Trump Calls Micron One of the \u201cHottest\u201d Companies. What MU Investors Need to Know - TipRanks \u2014 Trump Calls Micron One of the \u201cHottest\u201d Companies. What MU Investors Need to Know\u00a0\u00a0TipRanks",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA0YXdWa3BCWDJBd2dhb1lYckZNY19wcDdmcmlfWXl5TXJ3a2lSUGVpaTRzNm5yVzY4RHhMc04xaFpzRmJ3NnNycU1hNU9QYlNMeWxmb1NOQ2xQX0VOX3h1LTY0U0tZVkptTnBpZg?oc=5",
+   "tickers": [
+    "MU"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "MU",
+   "strength": 70,
+   "reason": "Trump calls Micron 'hottest' company; explicit bullish endorsement of named stock"
+  },
+  {
+   "date": "2026-08-28T05:57:52Z",
+   "platform": "News",
+   "text": "Nasdaq, S&P 500 Futures Rebound As Micron Rally Lifts Chip Stocks: Why SPCX, QCOM, TSM, BABA, PLTR, CBRS, WEN, IBRX Are In Focus - Stocktwits \u2014 Nasdaq, S&P 500 Futures Rebound As Micron Rally Lifts Chip Stocks: Why SPCX, QCOM, TSM, BABA, PLTR, CBRS, WEN, IBRX Are In Focus\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQZjEyUjNpdUFBSU1TbzlQNmpzSV9LcDA3cDJHcDdWRWdmN0pqa2Nma3lfdEdJdmM2eGwtUE9PMTdqYUh1bno4cC04b3lUUVNGMEVlY0xYMTRZODJHREltVkNSYzlsbnJFd0RMdjQ4X0lDSWZRM1pfR0RJYTdPbl9UYThhRUhtdU91T2NsSVJqQlBCT2J2YmNXbXFWV1BQdkkyMVZmM0NwLXRGWk52WmRUeU9CZzRnalNQX3BMWmQ3VEpYMUE3RVhaTWNNOElQTllMR1NVYnUtWVFIbHh4a25heWJjWjZfNjdoT1d2eFhhTnlHN3dTVU05MnhGZGxHZTRpWm1xc2o0MEdSZw?oc=5",
+   "tickers": [
+    "SMH"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "SMH",
+   "strength": 55,
+   "reason": "Micron rally lifts broader chip sector; semiconductor complex gains on positive sentiment"
+  },
+  {
+   "date": "2026-08-28T05:54:00Z",
+   "platform": "News",
+   "text": "Nvidia\u2019s Monster Quarter Wins Praise From Elon Musk, \u2018Big Short\u2019 Investor And Ex-Trump Adviser As AI Bears Get \u2018Shredded\u2019 - Stocktwits \u2014 Nvidia\u2019s Monster Quarter Wins Praise From Elon Musk, \u2018Big Short\u2019 Investor And Ex-Trump Adviser As AI Bears Get \u2018Shredded\u2019\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZmNmckw5UFFDejdkd3p0bHRVS2E2NGUtYXcxdTctdmpSWFZudDQyVDliQ0Fwd2hKTV9PeWZXUXU2MzZnSnkxUURSQ3dDbDdaWjF3dHQ1REQ3TW1YTVcxcjBZZzBTTXl0bS1iTTR2M09MSDV2b2NRTFBfUFhIQkN5T25xV1M4STVld05xUlRfOHFPX2ZUQWJNbk43NmhaY2ljZ3ZJLXhPclN6UV9mQ3dSVWFQdnFpc2M?oc=5",
+   "tickers": [
+    "NVDA"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "NVDA",
+   "strength": 50,
+   "reason": "Nvidia earnings praise from multiple sources including ex-Trump adviser; validation of AI strength"
+  },
   {
    "date": "2026-08-28T04:25:11Z",
    "platform": "News",
@@ -208,7 +387,15 @@
    "direction": "BUY",
    "primary_ticker": "C",
    "strength": 60,
-   "reason": "Trump explicitly praises Citi's 'big comeback' in M&A; direct named-company endorsement drives stock rally"
+   "reason": "Trump explicitly praises Citi's 'big comeback' in M&A; direct named-company endorsement drives stock rally",
+   "price_since": {
+    "ticker": "C",
+    "pct": 0.2,
+    "base": 132.68,
+    "last": 132.9,
+    "base_date": "2026-08-27",
+    "last_date": "2026-08-28"
+   }
   },
   {
    "date": "2026-08-27T22:31:58.782Z",
@@ -225,7 +412,15 @@
    "direction": "SELL",
    "primary_ticker": "XLE",
    "strength": 35,
-   "reason": "Iran tension rhetoric could increase geopolitical risk, oil volatility"
+   "reason": "Iran tension rhetoric could increase geopolitical risk, oil volatility",
+   "price_since": {
+    "ticker": "XLE",
+    "pct": 0.6,
+    "base": 62.29,
+    "last": 62.68,
+    "base_date": "2026-08-27",
+    "last_date": "2026-08-28"
+   }
   },
   {
    "date": "2026-08-27T22:19:57.420Z",
@@ -242,7 +437,15 @@
    "direction": "WATCH",
    "primary_ticker": "XLE",
    "strength": 25,
-   "reason": "Iran deal negotiation talk suggests potential de-escalation; direction ambiguous"
+   "reason": "Iran deal negotiation talk suggests potential de-escalation; direction ambiguous",
+   "price_since": {
+    "ticker": "XLE",
+    "pct": 0.6,
+    "base": 62.29,
+    "last": 62.68,
+    "base_date": "2026-08-27",
+    "last_date": "2026-08-28"
+   }
   },
   {
    "date": "2026-08-27T22:09:05Z",
@@ -258,7 +461,15 @@
    "direction": "BUY",
    "primary_ticker": "NVDA",
    "strength": 55,
-   "reason": "Trump praised Nvidia explicitly; positive signal for semiconductor leader"
+   "reason": "Trump praised Nvidia explicitly; positive signal for semiconductor leader",
+   "price_since": {
+    "ticker": "NVDA",
+    "pct": -4.6,
+    "base": 227.98,
+    "last": 217.55,
+    "base_date": "2026-08-27",
+    "last_date": "2026-08-28"
+   }
   },
   {
    "date": "2026-08-27T21:45:00Z",
@@ -274,7 +485,15 @@
    "direction": "BUY",
    "primary_ticker": "NVDA",
    "strength": 60,
-   "reason": "Trump's praise of Nvidia after strong earnings is bullish for the stock"
+   "reason": "Trump's praise of Nvidia after strong earnings is bullish for the stock",
+   "price_since": {
+    "ticker": "NVDA",
+    "pct": -4.6,
+    "base": 227.98,
+    "last": 217.55,
+    "base_date": "2026-08-27",
+    "last_date": "2026-08-28"
+   }
   },
   {
    "date": "2026-08-27T20:30:28Z",
@@ -290,7 +509,39 @@
    "direction": "BUY",
    "primary_ticker": "MU",
    "strength": 70,
-   "reason": "Trump explicitly praised Micron as 'one of hottest companies' and its $10B US investment; strong endorsement"
+   "reason": "Trump explicitly praised Micron as 'one of hottest companies' and its $10B US investment; strong endorsement",
+   "price_since": {
+    "ticker": "MU",
+    "pct": -0.3,
+    "base": 935.39,
+    "last": 932.86,
+    "base_date": "2026-08-27",
+    "last_date": "2026-08-28"
+   }
+  },
+  {
+   "date": "2026-08-27T20:24:34Z",
+   "platform": "News",
+   "text": "MU Stock In Focus After Trump Hails Micron\u2019s $10B Investment In US Research Labs \u2014 \u2018One Of The Hottest Companies In The World\u2019 - Yahoo Finance \u2014 MU Stock In Focus After Trump Hails Micron\u2019s $10B Investment In US Research Labs \u2014 \u2018One Of The Hottest Companies In The World\u2019\u00a0\u00a0Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSTVNbkpramlySm44dXMzVkxWbnV0OUVlYnZxdzJUdDFTMS05cUFUbFphREMxWE9vMFl0M2t4dlJreTB0RlRjaW52VkV1N3NWLTlobU9TSHRiZWhZMVA4OWVYSkN3eVNiTkxvVXpqblNkZFlRV2RIZnJWM181RVlZUXYxTTU1dnRra292TURCbW9Kb2dBLXc?oc=5",
+   "tickers": [
+    "MU"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "MU",
+   "strength": 80,
+   "reason": "Trump explicitly hails Micron's $10B US investment and calls it 'One Of The Hottest Companies In The World'; direct named-company praise with strong emphasis.",
+   "price_since": {
+    "ticker": "MU",
+    "pct": -0.3,
+    "base": 935.39,
+    "last": 932.86,
+    "base_date": "2026-08-27",
+    "last_date": "2026-08-28"
+   }
   },
   {
    "date": "2026-08-27T20:11:00Z",
@@ -306,7 +557,15 @@
    "direction": "BUY",
    "primary_ticker": "MU",
    "strength": 65,
-   "reason": "Trump mentioned Micron positively; price weakness does not negate bullish signal from his praise"
+   "reason": "Trump mentioned Micron positively; price weakness does not negate bullish signal from his praise",
+   "price_since": {
+    "ticker": "MU",
+    "pct": -0.3,
+    "base": 935.39,
+    "last": 932.86,
+    "base_date": "2026-08-27",
+    "last_date": "2026-08-28"
+   }
   },
   {
    "date": "2026-08-27T19:20:10Z",
@@ -1100,30 +1359,6 @@
    }
   },
   {
-   "date": "2026-08-25T13:28:21Z",
-   "platform": "News",
-   "text": "MU, SNDK, STX, WDC Stocks Extend Slide Overnight As Memory Pump Fades: Retail Traders Hopeful For Rebound - Stocktwits \u2014 MU, SNDK, STX, WDC Stocks Extend Slide Overnight As Memory Pump Fades: Retail Traders Hopeful For Rebound\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPb0VPUHFyT3dNU1BkR3RTbUZ5dENaV0tfUUViMzZzVDJDcXZFVWdxZ1Raa3N4SkFYX0E3enVNUzdxN193Q1lkUVVfdUtqNkhJelJLUkwzVmhMYUEtWDBsRmw4LV9mQmVCQlMyUFJ2a3lZT0Z1QWF3clF0eUtPa2JsMDJGT3pJcEdiNVpTWHFobGxIUlRCeEV5N1dYQUp5LV9Pbjlyc1FNeS03OGhUZTViX29RTmM5d1BpalVIWDNTUDFja2lRb1FnY19pSi0zRXozSUNzaUJKS0tpdFcwa0NWbG94dzBvWnItOHF1dVNQM29Kc2h1SF9FUg?oc=5",
-   "tickers": [
-    "SMH"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "SMH",
-   "strength": 35,
-   "reason": "Memory chip stocks (MU, SNDK, STX, WDC) slide as 'memory pump' fades; sector momentum reversal, no Trump catalyst",
-   "price_since": {
-    "ticker": "SMH",
-    "pct": 2.6,
-    "base": 555.82,
-    "last": 570.13,
-    "base_date": "2026-08-25",
-    "last_date": "2026-08-27"
-   }
-  },
-  {
    "date": "2026-08-25T12:59:31Z",
    "platform": "News",
    "text": "Why Did PANW, AAL, MRNA Surge To 52-Week Highs? - Stocktwits \u2014 Why Did PANW, AAL, MRNA Surge To 52-Week Highs?\u00a0\u00a0Stocktwits",
@@ -1871,22 +2106,6 @@
    "reason": "merger speculation catalyst; independent of Trump"
   },
   {
-   "date": "2026-08-23T16:51:32Z",
-   "platform": "News",
-   "text": "Nasdaq, S&P 500 Futures Rebound As Micron Rally Lifts Chip Stocks: Why SPCX, QCOM, TSM, BABA, PLTR, CBRS, WEN, IBRX Are In Focus - Stocktwits \u2014 Nasdaq, S&P 500 Futures Rebound As Micron Rally Lifts Chip Stocks: Why SPCX, QCOM, TSM, BABA, PLTR, CBRS, WEN, IBRX Are In Focus\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQZjEyUjNpdUFBSU1TbzlQNmpzSV9LcDA3cDJHcDdWRWdmN0pqa2Nma3lfdEdJdmM2eGwtUE9PMTdqYUh1bno4cC04b3lUUVNGMEVlY0xYMTRZODJHREltVkNSYzlsbnJFd0RMdjQ4X0lDSWZRM1pfR0RJYTdPbl9UYThhRUhtdU91T2NsSVJqQlBCT2J2YmNXbXFWV1BQdkkyMVZmM0NwLXRGWk52WmRUeU9CZzRnalNQX3BMWmQ3VEpYMUE3RVhaTWNNOElQTllMR1NVYnUtWVFIbHh4a25heWJjWjZfNjdoT1d2eFhhTnlHN3dTVU05MnhGZGxHZTRpWm1xc2o0MEdSZw?oc=5",
-   "tickers": [
-    "QCOM"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "QCOM",
-   "strength": 35,
-   "reason": "Chip sector rebound is market-relevant but not Trump-specific; generic sector momentum"
-  },
-  {
    "date": "2026-08-23T14:26:25Z",
    "platform": "News",
    "text": "MU Stock Eases After Record Run: Micron Backs Trump Accounts With $250M Commitment - Stocktwits \u2014 MU Stock Eases After Record Run: Micron Backs Trump Accounts With $250M Commitment\u00a0\u00a0Stocktwits",
@@ -2297,22 +2516,6 @@
    "reason": "Trump signals support for Palantir; explicit positive catalyst for named stock"
   },
   {
-   "date": "2026-08-21T17:55:57Z",
-   "platform": "News",
-   "text": "NOW Stock Rises Overnight: Trump\u2019s ServiceNow Stake Fuels Retail Buzz Around SAAS Comeback - Stocktwits \u2014 NOW Stock Rises Overnight: Trump\u2019s ServiceNow Stake Fuels Retail Buzz Around SAAS Comeback\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQcEF0OFRRa3hIWF9rS21NMTBqNk53MDA4eWFQcDJad1Z2QkQyTTdmd3prLUVaVUUwdVRSWWpCOGs3N3JaYTZCcG1KMjg1c1Q0WWdjSnlWbHkteXVxcnFoUXFZMEg4ejh0YjA4ZG5BRnBEX1huMFNaS0dXdEx4LWNEOXBLcmNpMzlCQzc1OC0yRDFKeWFMWEZzWUpNQXBWTFFDQlJ6dmFWamU5cUpFZnVfcU1ocFdTa0tfdjByTlZZUHo4QUx1QzJOMHpzZEdaZjdqSVhoWFB0cVRKZW9BbnNLMi1XYUF2MlhaZGc?oc=5",
-   "tickers": [
-    "NOW"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "NOW",
-   "strength": 72,
-   "reason": "Trump has or signals stake in ServiceNow; direct support for named company stock."
-  },
-  {
    "date": "2026-08-21T17:24:14.193Z",
    "platform": "Truth Social",
    "text": "'That's the Jetsons that's coming to life': Trump officials tout multifront drone initiative: https://www.washingtonexaminer.com/policy/defense/4694450/drone-market-threat-requires-whole-government-approach/#google_vignette",
@@ -2360,231 +2563,6 @@
    "primary_ticker": "HOOD",
    "strength": 75,
    "reason": "Trump explicitly endorses Crypto Clarity Act; Robinhood stock already rallied 11% as direct beneficiary of crypto-friendly policy"
-  },
-  {
-   "date": "2026-08-21T12:32:32Z",
-   "platform": "News",
-   "text": "Wall Street's existential crisis over perpetual futures \u2014 the 24/7 security on steroids \u2014 just got urgent - CNBC \u2014 Wall Street's existential crisis over perpetual futures \u2014 the 24/7 security on steroids \u2014 just got urgent\u00a0\u00a0CNBC",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQM3diVm50cUw1WVExRzBlUmNCM2k5TjkzNWlCZEFFWTVBQzljRDhLdTY4ZWp5b1FFc3Z6WTVWM29PcVlXeHpEOGZkMXZyZ0Mwall0NGprT29LOFJvYnVtaHAzVXpDLXZtaWdmQThYdzVWVEdhaU5STTJHRlVDUWpGVC15TlBCMUdKS2lDblB6TVVJa193X0k1UG5LU1l6N3p5V3cxOElQbEtqdzlsanBiOGdsUWFib1ZvNnpabDV5c0xMUnFzOXNTZnRjRDVhU1h5TFQ00gHYAUFVX3lxTFBFSFFRaVdwaVJTYzNKYnNJY3lFcl80UUluRERRelpSTjV3TWtRUEVpUkhfcV9sWXA3cnltRGRCRW8ydjlCRFVsS2RJQk14UmJKbkllY040NS12U0U3VVJPc3NPRC00VDNCVGl4U181SFFsTWNZQTRXN2M2dVhZM2tYWjRNMTZjZnFTQWR2ZWpVblNUZG1TdjBmSlZlZ2RmUExkbXVDb0pxMW5yNEJVOHkwaGthdGxWajJKdkoyVlB0VnpFWXZrUzk4Z0hRdHFINFRhRmMtRkpLRQ?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "SPY",
-   "strength": 40,
-   "reason": "Perpetual futures regulation debate affects market structure but direction unclear; macro financial infrastructure issue"
-  },
-  {
-   "date": "2026-08-21T12:00:00Z",
-   "platform": "News",
-   "text": "Opinion: Trump is selling early access to his Truth Social posts \u2014 and, of course, there are no investigators in sight - Yakima Herald-Republic \u2014 Opinion: Trump is selling early access to his Truth Social posts \u2014 and, of course, there are no investigators in sight\u00a0\u00a0Yakima Herald-Republic",
-   "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPc0NTUTMzVlpGUTRCN0JZNVIxNFRkQWZPX0UzOVlNQ25lYk1ILThxd2xqNnR2R0k0OTZSVWctLUVveHYwbklEZmlrRDhNbEViTGVSbVBHdjd2aFZXczZkT1p4Z2Q1anpEVjA1SExucW5XSTN5MTdaTEJsQ194OWpDMHI0U0RtNE81R3dtQ3lvQmgyTWxDbndneTAwYjhUallFb0xpcW1jLXNJOUY0MlRLdE00NlBVblBHdjJiYk9ucl9EMXFfYi1yYU5oUjFxLS1mTThMVE96U3pDTXdjbWNjTDhEYWx3XzlMSVVFLUV6Y2dVLThYVFNFdmU2MUxKNS01bXo2UdIBhAJBVV95cUxPc0NTUTMzVlpGUTRCN0JZNVIxNFRkQWZPX0UzOVlNQ25lYk1ILThxd2xqNnR2R0k0OTZSVWctLUVveHYwbklEZmlrRDhNbEViTGVSbVBHdjd2aFZXczZkT1p4Z2Q1anpEVjA1SExucW5XSTN5MTdaTEJsQ194OWpDMHI0U0RtNE81R3dtQ3lvQmgyTWxDbndneTAwYjhUallFb0xpcW1jLXNJOUY0MlRLdE00NlBVblBHdjJiYk9ucl9EMXFfYi1yYU5oUjFxLS1mTThMVE96U3pDTXdjbWNjTDhEYWx3XzlMSVVFLUV6Y2dVLThYVFNFdmU2MUxKNS01bXo2UQ?oc=5",
-   "tickers": [
-    "DJT"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "WATCH",
-   "primary_ticker": "DJT",
-   "strength": 50,
-   "reason": "Trump monetizing Truth Social early-access posts affects DJT valuation; mixed implications"
-  },
-  {
-   "date": "2026-08-21T10:52:55.535Z",
-   "platform": "Truth Social",
-   "text": "Today, I concluded a deal to substantially lower the price of ground beef for working American families. As everyone knows, under President Biden, beef prices soared at their fastest rate and the American beef herd fell to its smallest size in modern history.  As we work to rebuild this herd and help our ranchers, for the next 90 days, the United States will allow up to 300,000 metric tons of product for ground beef to be imported with no out of quota tariff.  We have a commitment that this beef will be sold at 25 percent below current market prices. This deal will reduce prices for Americans while giving space for our Great American Beef Herd to grow again. Thank you for your attention to this matter! President DONALD J. TRUMP",
-   "tickers": [
-    "XLE"
-   ],
-   "engagement": 1148,
-   "url": "https://truthsocial.com/@realDonaldTrump/117133120342300539",
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "XLE",
-   "strength": 45,
-   "reason": "Beef import deal and tariff pause bearish for domestic livestock/agriculture prices"
-  },
-  {
-   "date": "2026-08-21T10:04:00Z",
-   "platform": "News",
-   "text": "HUD Secretary Turner calls opportunity zones \u2018transformative\u2019 in TN - The Tennessean \u2014 HUD Secretary Turner calls opportunity zones \u2018transformative\u2019 in TN\u00a0\u00a0The Tennessean",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQ3haZEluWWNUNDFpd1Q5U1FMNFZNazdDeFNULUEyMUFhVFFPTjdteTZjb0VLX1V3VTNMTGdOTGhSUllyV0pQeWVmbHlwOU92cDBBZ0t4NWZvdnN1c25SMUpZNkxHRXNwZmVvVFJJbEJqczZtWXdxUXlrRkRhV01FSEpUVzNJS3ZTejYtRXEwQzFDZ0RnUTZpaTgtS3BkXy1EdEhranZpVHp5aklzU0psTWczNFcyZw?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "SPY",
-   "strength": 35,
-   "reason": "Opportunity zones policy signal; real estate/development stimulus implies broad economic activity boost"
-  },
-  {
-   "date": "2026-08-21T05:53:58Z",
-   "platform": "News",
-   "text": "Why Did ROKU, SNDK, C Stocks Hit 52-Week Highs Last Week? - Stocktwits \u2014 Why Did ROKU, SNDK, C Stocks Hit 52-Week Highs Last Week?\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOelVibHQyMlJiUG1UaTB0RUc1WU43VHpjNjY0RUFMYUVCdkc5aXdXcDU0RXdpeFFKcXVUN1NXejZOQ1QxN0pBQkdKbnNvcklETHJabEN2ZUR0N29yUkozMWZDY2hBaU91TjQyd0VUV29PYXNWWHBHczhTeXBIb3lfOUllYXNpc1BPR2lIMW9kTmpIVUwwYUdrSnRQck9hMEtFT0o5a1FxdEt3VFhGeEdkOThCWU93Mmljdnc?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "SPY",
-   "strength": 35,
-   "reason": "Multiple stocks at 52-week highs; broad strength but no Trump-specific driver identified"
-  },
-  {
-   "date": "2026-08-21T04:10:50Z",
-   "platform": "News",
-   "text": "Micron Pours $10 Billion Into Memory Research Lab as Trump Administration and Apple CEO Express Support - TradingKey \u2014 Micron Pours $10 Billion Into Memory Research Lab as Trump Administration and Apple CEO Express Support\u00a0\u00a0TradingKey",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQYkNFTHV0Qk1RUnRTR1JwZThxX2ZvUDVnY1NaaS1EclllVXFob09lWXdNN2I0UVc5clhuT0o4MVJTem5VaU1Bd3Z2VmltX25vN29iX2Nad3J4ekhHSkhSNmJHcTBBUHRYOXpFZWU2TkQzZUlNM1o4Wm8yTTdVMWNYdDQ0NnNBcDZ5emdqV0tsZFdvS2tNMGVNYTJBR3pLaS1Xc3Z2TWFMNWJ3MS1Yb0ZxTXpQVjJlckR2TDY1OUhpYjU5cUMyZnc?oc=5",
-   "tickers": [
-    "MU"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "MU",
-   "strength": 70,
-   "reason": "Micron $10B memory lab investment; Trump administration and Apple CEO support bullish for chip capex and demand"
-  },
-  {
-   "date": "2026-08-21T02:48:51Z",
-   "platform": "News",
-   "text": "Can Trump stop the surge in oil prices? Experts weigh in - ABC News - Breaking News, Latest News and Videos \u2014 Can Trump stop the surge in oil prices? Experts weigh in\u00a0\u00a0ABC News - Breaking News, Latest News and Videos",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRkw4RU9xbDZSTmtFZTBfY0JESTZUWElMOVdvaWUzbFNiZ25wQmtGQWgyTk1FWkhLTDRNdEprY0ZMdUxvN2V4WDZaeVVuTnIyNndMVVFnazk1cjh2WVZkcjUyUElfRUJPMHMxVFktVWlaSURKb2VZVU93Qld4SU9Jc1pZOUFtcWZsUjlUVXAyRkExOFXSAZgBQVVfeXFMTWtTb3JPM3luaE9XT2dQRmxsODBSaFpJOHA4Y3NhVmR2Z1ZQeHMzRHNhUlZvaGRVYVZmM3pTeWxyWkZSdW03UlFMaFU3TWtOOThWUThxcGpXYmRrcklRZnpPSEd3TjBic0RUdlM4ZXFfaklkZVF3Q3c3ZTZNbWpaSS1rRDRYM1BEM2VqNFBiT0NQdFpPSFZFaFM?oc=5",
-   "tickers": [
-    "XLE"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "XLE",
-   "strength": 40,
-   "reason": "Oil price surge; Trump policy question on energy\u2014ambiguous direction (could cut supply, could ease prices)."
-  },
-  {
-   "date": "2026-08-21T01:30:00Z",
-   "platform": "News",
-   "text": "Why is the Trump administration causing turmoil in the bond markets? | Richard Partington - The Guardian \u2014 Why is the Trump administration causing turmoil in the bond markets? | Richard Partington\u00a0\u00a0The Guardian",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNGQwUFdxNTg1RnVlaXRpc0dYdmJMbmUxZHJ3TWxzWUtGeHlzNGEyQnRsNkotbWJUWkYxbTkxdWkwSE1BSENxYkI1bVBNdGFzYTNCenU2c3V4cG9yTVJqS2NOazJpalVuWmE2Y1Z2UWpXQ0VwLWpzVDRiQVFXLVVTVGVEWDBnT0ZOV3JuR1l0MjJLdFZDcW1kbE5fMmE3bHBMcnY0bnZrRmo?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "SPY",
-   "strength": 65,
-   "reason": "Trump administration policies causing bond market turmoil; negative macro signal for equities"
-  },
-  {
-   "date": "2026-08-21T01:29:04Z",
-   "platform": "News",
-   "text": "RKLB Stock Jumps Overnight: Rocket Lab Lines Up Record Launch Blitz After Nasdaq-100 Entry - Stocktwits \u2014 RKLB Stock Jumps Overnight: Rocket Lab Lines Up Record Launch Blitz After Nasdaq-100 Entry\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcmNfZ0ZLLUkwNmE3aUw4WGlIbUFMNjJzVF90Z3ItWWxTb0NOVDY3Z1NsZTBQRlktUjJWY2t6dWI3LUE5MDZDdjdyb0doOTZvRVFleVFXYmN6eWYyeEowUnNGdEExSWthS1ZHRng2SWROYV9wZlN5djU4UWtucEJpNzJYNlFrN0pNVm5VaFhCblNiblIyaUtrYzlRQmwxb29wMmFrT2dQVUpLeFluMU10cldZMjR1TWZt?oc=5",
-   "tickers": [
-    "RKLB"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "RKLB",
-   "strength": 70,
-   "reason": "rocket lab nasdaq-100 entry and record launch blitz; strong execution catalyst"
-  },
-  {
-   "date": "2026-08-21T01:15:00Z",
-   "platform": "News",
-   "text": "IBM CEO Arvind Krishna on his letter that \u2018shocked\u2019 business world, sent company's stock over 25 percent - The Times of India \u2014 IBM CEO Arvind Krishna on his letter that \u2018shocked\u2019 business world, sent company's stock over 25 percent\u00a0\u00a0The Times of India",
-   "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPMm1YRnZucjZ0d0NxRlhDdV9JYlM5dEFkbGlKUGZweDB6bmJlUExZYWxnc19QVUFpMC05SGY2UDBRMGtkbHhpc0p1QkxCZHF0LTNvNzU3R2Jwc281TVhweG5Ocm9tSVlheG5yc1hWVGtraXVjRXdpWEtCOTBtMHlGLWdaczBuYjhVMGNLQzdJYjlkbGNNQ2duejhkdTNTTTZXVURDQ1JOMUd3SC1aMm1LeExVYUxKOWpWOFY5RjhFMjdRRmhkV1pGSDlacHdjVzhEVlJkNU15QnlUaXNoQXM5R3EzdVg3c1V4djh3UjNaRS1FX0NVTmJSQkozN2N1UHNlYlZTYXZrVlZENEthTHpNSUR2U0JlVHpiaGhXRlFiQXhWQmkwdEJtMXRVSENhWW9kWWRxeUkzSUwxSzVob0RWZUU5bEdNd9IBywJBVV95cUxNZTJ2eHg2Q2c4dk9tblVqb1hlTUI1T3k1Yjk3UjVLTkpHcG5CZVo3OTlBcE5hTlpDVVZPNG9hc0lkYkxlWklIX1FZa2FvU0RFR1FRc3huQU1sc3prWjZ4RGxaTG0yMDNoZHNDNFllQU0xQ1l2a1Y5T0UxQ1pSX2hmdWdwMmJsNGhvX05taV85eF9xOTFhaTNpb3hybEw0eC1FeHZfck5yOGlHUE5HMGFVNE1MX0pqSkN1aDlTU2pVZTBtMGl1N1N6REVqTVRYcDJGeXFTRk5RWEJyOGRTcXV4MXBLcjlVbXVUdWdnbzg3SjNyU2RJb1hZamlyZGlsTHVYRGZ5Z1RMQ0ZHZnpSRE1OX3dXVnVEQ01FV1BlNkF4RkZSV3ZvWkltbzN3Rko1ZlpPQXN0T2N5ZmNNS0kxeWZyQmhVelZNU1V0RnFZ?oc=5",
-   "tickers": [
-    "IBM"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "IBM",
-   "strength": 45,
-   "reason": "IBM CEO letter drove 25% stock surge; bullish momentum signal"
-  },
-  {
-   "date": "2026-08-21T00:46:00Z",
-   "platform": "News",
-   "text": "MAGA-aligned marketplace burns $160 million in humiliating flame-out - Alternet \u2014 MAGA-aligned marketplace burns $160 million in humiliating flame-out\u00a0\u00a0Alternet",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8xZDhzOWc2RDVDeHc3UGItZVM0cERiTTRfV09PelhLVmNzV2hBTUhJUkF3dmNhUklfM2hFZWVFb1lNREtsNnlFYTNVTlJFbUdnc0RDcWlNcWlXeU9XZWFTNA?oc=5",
-   "tickers": [
-    "AMZN"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "AMZN",
-   "strength": 40,
-   "reason": "MAGA-aligned marketplace failure and Trump Jr. involvement suggests reputational/competitive risk to Amazon via association"
-  },
-  {
-   "date": "2026-08-20T23:24:07Z",
-   "platform": "News",
-   "text": "MU Rises Premarket Ahead Of Q3 Report: Analysts Set High Bar, Retail Investors See Tuesday\u2019s Selloff As Setup For Post-Earnings Rally - Stocktwits \u2014 MU Rises Premarket Ahead Of Q3 Report: Analysts Set High Bar, Retail Investors See Tuesday\u2019s Selloff As Setup For Post-Earnings Rally\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPWS1raE5ENUQyNVFuTzNKSk5hc1VZQmhUYTNDT0lXMnVQWUlzeWUzdnMzb05GVmpTSGhqV29HeHE5b3NIanFKd1ZQY1NjMDZ5ZU9QZWRPLTRjM193NUxtNkZqUG0yUjBBd2dZMjVuNFMycWJIcWRvMkI0RXJTTXhwS2pSMUo0ODRsbkxoaU5KVXY5cnNSYTBCVWpGaV9lc3B2UnU4RTYyclM5ZGNrM3F2QVVLRnFrT1djSXRtQ3ljMFQtYU9RbDZ0V2hLY1dCQlFYOE0wbVFxWWY5UFBFMWdYbDBrZXpVQXVYcXBJZUg1X2hUYXhqRDdCY2JhY1ZSSGtoTXh0R1l4c2VraG1XRGhmY1A2VlpQT0tBdnFPRnQ4d1U?oc=5",
-   "tickers": [
-    "MU"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "MU",
-   "strength": 25,
-   "reason": "Micron earnings catalyst unrelated to Trump; retail sentiment mention but no Trump signal",
-   "price_since": {
-    "ticker": "MU",
-    "pct": -0.8,
-    "base": 974.33,
-    "last": 966.78,
-    "base_date": "2026-08-20",
-    "last_date": "2026-08-21"
-   }
-  },
-  {
-   "date": "2026-08-20T22:34:12Z",
-   "platform": "News",
-   "text": "Trump Presses Congress on CLARITY Act as Bitcoin Tops $70K - CoinMarketCap \u2014 Trump Presses Congress on CLARITY Act as Bitcoin Tops $70K\u00a0\u00a0CoinMarketCap",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYVZaRHZnTlVtallBYi1WU0lTZWt3MzhuclJTMTEzaGlEc3ZSM0pqV1UycjZ5NlZVTzQ0LVQ2TlJwNE1ZbUx6UHU5SXRBVUxfOGVweU9ZRkN1bFhsUXdCVjdsaHVtTlZteVlMdElvLU1WYWRCUTRpeXpDM1JISU1PNkQ4bFRkQXNZYjVJdFB2clBXMWZONlVOMQ?oc=5",
-   "tickers": [
-    "BTC-USD"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "BTC-USD",
-   "strength": 70,
-   "reason": "Trump presses Congress on CLARITY Act as Bitcoin tops $70K; explicit crypto regulatory push aligns with bullish price move",
-   "price_since": {
-    "ticker": "BTC-USD",
-    "pct": 5.5,
-    "base": 73032.76,
-    "last": 77028.04,
-    "base_date": "2026-08-20",
-    "last_date": "2026-08-22"
-   }
   },
   {
    "curated": true,
