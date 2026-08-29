@@ -1,7 +1,39 @@
 {
- "last_updated": "2026-08-29T03:10:12Z",
+ "last_updated": "2026-08-29T10:04:46Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-08-29T08:48:40Z",
+   "platform": "News",
+   "text": "Trump hails 'biggest oil deal in history' with Venezuela to secure 65bn barrels - the-sun.com \u2014 Trump hails 'biggest oil deal in history' with Venezuela to secure 65bn barrels\u00a0\u00a0the-sun.com",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOalRJdS1ZMFpFSHNIV0MxVzZfN0hBMjVablk5QjZDaDFkYUZHbTZ4N2ZsMURRNDUtaDRpYXlBSlJ4ZWhrVGJUX2FyNHd5cTQxaDZOOXllRm9MOFdjTkQwVDF1Q2JlbUZYeFV1UzVMQlZ6NVFxVUwwODd1cENlSF9sbjZNLUFud0E?oc=5",
+   "tickers": [
+    "XLE"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "XLE",
+   "strength": 65,
+   "reason": "Large oil deal with Venezuela increases US oil supply and domestic energy leverage; bullish for energy sector."
+  },
+  {
+   "date": "2026-08-29T01:00:36Z",
+   "platform": "News",
+   "text": "ASTS Stock Eases After 3-Day Run: FCC Opens Door For Direct Phone-To-Satellite Connectivity Using 800 MHz Spectrum - Stocktwits \u2014 ASTS Stock Eases After 3-Day Run: FCC Opens Door For Direct Phone-To-Satellite Connectivity Using 800 MHz Spectrum\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNM0htWHVkSmhubE0yX1VDNVRtYUtHd0xDMl9yTkhyZ0IwQmdGSGpVQ3BINGcwSTZCcmZ4NkFkSTZGY21QNzc3U0ZROWdQMlFQUExvNUtaRTBZaER5UUw2VnhHNXlkSThoWWpmeVVrZE04c3FHOWhmQzF4RHhpREdvXzRfMURGY1g5U3ZNaXhJaDktc3VFQVBaZjY1eEhHaWNVdDlZZ2JzWnlXSGJxcUtacEVqUTU?oc=5",
+   "tickers": [
+    "ASTS"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "ASTS",
+   "strength": 40,
+   "reason": "FCC spectrum approval for satellite-to-phone is positive regulatory catalyst, but stock already rallied; direction unclear near-term."
+  },
   {
    "date": "2026-08-29T00:21:20.531Z",
    "platform": "Truth Social",
@@ -18,6 +50,38 @@
    "primary_ticker": "XLE",
    "strength": 65,
    "reason": "Major oil deal announcement increases US oil reserves, bullish for energy sector"
+  },
+  {
+   "date": "2026-08-29T00:09:18Z",
+   "platform": "News",
+   "text": "Nasdaq, S&P 500 Futures Rebound As Micron Rally Lifts Chip Stocks: Why SPCX, QCOM, TSM, BABA, PLTR, CBRS, WEN, IBRX Are In Focus - Stocktwits \u2014 Nasdaq, S&P 500 Futures Rebound As Micron Rally Lifts Chip Stocks: Why SPCX, QCOM, TSM, BABA, PLTR, CBRS, WEN, IBRX Are In Focus\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQZjEyUjNpdUFBSU1TbzlQNmpzSV9LcDA3cDJHcDdWRWdmN0pqa2Nma3lfdEdJdmM2eGwtUE9PMTdqYUh1bno4cC04b3lUUVNGMEVlY0xYMTRZODJHREltVkNSYzlsbnJFd0RMdjQ4X0lDSWZRM1pfR0RJYTdPbl9UYThhRUhtdU91T2NsSVJqQlBCT2J2YmNXbXFWV1BQdkkyMVZmM0NwLXRGWk52WmRUeU9CZzRnalNQX3BMWmQ3VEpYMUE3RVhaTWNNOElQTllMR1NVYnUtWVFIbHh4a25heWJjWjZfNjdoT1d2eFhhTnlHN3dTVU05MnhGZGxHZTRpWm1xc2o0MEdSZw?oc=5",
+   "tickers": [
+    "SMH"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "SMH",
+   "strength": 35,
+   "reason": "Micron rally lifts chip sector broadly; no Trump signal here, general chip sector momentum."
+  },
+  {
+   "date": "2026-08-28T23:15:38Z",
+   "platform": "News",
+   "text": "Michael Burry Says He\u2019s Still Short Palantir After Stock Sees Recovery Following Trump\u2019s Endorsement - Stocktwits \u2014 Michael Burry Says He\u2019s Still Short Palantir After Stock Sees Recovery Following Trump\u2019s Endorsement\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUmNQdmN5STJOLU11dEhkR1U0ckhuS3JMcm1NUDNMY0dNZ1pQcGhFVmd2bkZqVHV5N3N4N01tY1gzZWZnTDlvbVRzTEtkQnZyUjlibXR1ZUJ5MnVNY0ZlYlVEUWtRMkdnRzBGcmxpdEJaQm55ZWlTWmZZUDBPNnhncTFlLWg3bjllZXNpeGpTVjd3b3dCZ2lWT1dPZE5RSlNKT01IVXlTa1c5YmFodzVEWkJtbHpvUHN1Ry00NWhxcVJpdw?oc=5",
+   "tickers": [
+    "PLTR"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "PLTR",
+   "strength": 45,
+   "reason": "Trump's prior endorsement of Palantir is bullish, but Michael Burry remains short; conflicting signals warrant caution."
   },
   {
    "date": "2026-08-28T22:48:41Z",
@@ -200,20 +264,20 @@
    "reason": "Trump calls Micron 'hottest' company; explicit bullish endorsement of named stock"
   },
   {
-   "date": "2026-08-28T05:57:52Z",
+   "date": "2026-08-28T06:58:54Z",
    "platform": "News",
-   "text": "Nasdaq, S&P 500 Futures Rebound As Micron Rally Lifts Chip Stocks: Why SPCX, QCOM, TSM, BABA, PLTR, CBRS, WEN, IBRX Are In Focus - Stocktwits \u2014 Nasdaq, S&P 500 Futures Rebound As Micron Rally Lifts Chip Stocks: Why SPCX, QCOM, TSM, BABA, PLTR, CBRS, WEN, IBRX Are In Focus\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQZjEyUjNpdUFBSU1TbzlQNmpzSV9LcDA3cDJHcDdWRWdmN0pqa2Nma3lfdEdJdmM2eGwtUE9PMTdqYUh1bno4cC04b3lUUVNGMEVlY0xYMTRZODJHREltVkNSYzlsbnJFd0RMdjQ4X0lDSWZRM1pfR0RJYTdPbl9UYThhRUhtdU91T2NsSVJqQlBCT2J2YmNXbXFWV1BQdkkyMVZmM0NwLXRGWk52WmRUeU9CZzRnalNQX3BMWmQ3VEpYMUE3RVhaTWNNOElQTllMR1NVYnUtWVFIbHh4a25heWJjWjZfNjdoT1d2eFhhTnlHN3dTVU05MnhGZGxHZTRpWm1xc2o0MEdSZw?oc=5",
+   "text": "IBM Stock Rallies On Trump Administration\u2019s $1B Grant: Analysts Say \u2018Big Blue\u2019 Could Become First US Quantum Foundry - Stocktwits \u2014 IBM Stock Rallies On Trump Administration\u2019s $1B Grant: Analysts Say \u2018Big Blue\u2019 Could Become First US Quantum Foundry\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOVG52c0VBRjZ6TzVuLThuSWdTN3NxMlIzUEc0aWVkUllDZDJMSVVMRlo1Rkgxb1Rja2swU1JlcVhlbmg4ejlfeGJoRGkzVG1VSEM4ZC1McWtGQnNVYklYVjYwQVliTHRoX3NqZDJZV0dlQ2NTaC1NaHhFaVAtdmVjdzVGcFhSangwdDluaTltYXZ3TXhaWWxISmlPREpkQ0N2VHdEMENJUkpDaDBGcUhSdXFZdExXbkhPaENSWlAxbVhPS3EyTnoyc3NoX2RpOXNqeEFYaFhhaGYxQUxRaWR0QUJwQ0J5VmhBY3ZpOV9YMVNjeUZlRHRzVXBLS3BpSER4VXpVWTVsYS1aZw?oc=5",
    "tickers": [
-    "SMH"
+    "IBM"
    ],
    "classified": true,
    "is_market": true,
-   "explicit": false,
+   "explicit": true,
    "direction": "BUY",
-   "primary_ticker": "SMH",
-   "strength": 55,
-   "reason": "Micron rally lifts broader chip sector; semiconductor complex gains on positive sentiment"
+   "primary_ticker": "IBM",
+   "strength": 70,
+   "reason": "Trump administration awards IBM $1B grant for quantum research; federal contract to named public company is bullish."
   },
   {
    "date": "2026-08-28T05:56:03Z",
@@ -296,6 +360,38 @@
    "reason": "Warren accusation of Trump profiting from crypto policy creates political/regulatory uncertainty around his crypto holdings"
   },
   {
+   "date": "2026-08-28T03:37:30Z",
+   "platform": "News",
+   "text": "Trump Praises Nvidia CEO Jensen Huang On 'Incredible Numbers,' Calls Micron One Of The World's 'Hottest' Companies - Dailyhunt \u2014 Trump Praises Nvidia CEO Jensen Huang On 'Incredible Numbers,' Calls Micron One Of The World's 'Hottest' Companies\u00a0\u00a0Dailyhunt",
+   "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxOdFR5SktMR0Z6MndZZ1NRbHpUb01yRE1id2pUa2gwYWxQVlk1SWVxWGR1Y0tUTVktR2l2Yk9sT2Ewd244SGE3cmtCTllBaVpoNEZHWGFRZElYR1RMTXNMbmpBU09QVXI0WmNUUmY4aUNYcUZsTVVqOHpFNkoyNXZ4N0thd2luRHgzbGtUdlNHeVczN2dWNWl6a0NnZUZfR3lZek42RGRUQm5LR0dOeE1hY0dUS283NnZWbkVhMVFlNWI4bFNuVnExUkxLUTJ4ZkRTVGllbkpGMklReVRESjFGcy1EQ1EwSlEtbVk1M3E4Wk41MVpJNGs4d1BoMWdiQms1R0Zjb2dBQzJ4RDI1cnB1dTVXclQwbGVMYVVGTlVB?oc=5",
+   "tickers": [
+    "MU"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "MU",
+   "strength": 75,
+   "reason": "Trump calls Micron 'hottest' company and praises Nvidia CEO; dual explicit praise for semiconductor leaders."
+  },
+  {
+   "date": "2026-08-28T03:32:14Z",
+   "platform": "News",
+   "text": "FTC Investigates YouTube Over Suspended User Accounts: Report - Alphabet (NASDAQ:GOOGL) - Benzinga \u2014 FTC Investigates YouTube Over Suspended User Accounts: Report - Alphabet (NASDAQ:GOOGL)\u00a0\u00a0Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORHA4SUJDTllrdnIySWlYaXFRYUJ6cERIMGZHdTBSOWp4NkZUNlA5aHlxekJjTHNUeEh6Zm5QNUpyMGNXSzExVng1cndESWhYZ0dRcmRUU1pjV2xBV1Z1Zzh6ZFJWVTJyWXhBV0t2aTFfR1pzTVF4ZnBpenhDS1E0SnBwcERyOVdRVjNqRDR5OEZoTmhfSlpscm1RbVF5RF9NUmZQYkNDOVEtMFJR?oc=5",
+   "tickers": [
+    "GOOGL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "GOOGL",
+   "strength": 45,
+   "reason": "FTC investigating YouTube account suspensions; regulatory headwind for Alphabet subsidiary."
+  },
+  {
    "date": "2026-08-28T02:28:19Z",
    "platform": "News",
    "text": "NOK Stock Rises Pre-Market: Trump Endorsement Adds Fuel To AI Growth Push For Nokia - Stocktwits \u2014 NOK Stock Rises Pre-Market: Trump Endorsement Adds Fuel To AI Growth Push For Nokia\u00a0\u00a0Stocktwits",
@@ -326,6 +422,22 @@
    "primary_ticker": "NVDA",
    "strength": 80,
    "reason": "Trump praises Nvidia's incredible numbers and holds $12M stake, explicit company endorsement with ownership signal"
+  },
+  {
+   "date": "2026-08-28T02:26:35Z",
+   "platform": "News",
+   "text": "Trump Praises Nvidia's 'Incredible Numbers' After Q2 Stunner \u2014 He Also Reportedly Holds Over $12M In The Stock - TradingView \u2014 Trump Praises Nvidia's 'Incredible Numbers' After Q2 Stunner \u2014 He Also Reportedly Holds Over $12M In The Stock\u00a0\u00a0TradingView",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBpc0JsaDhnMHJ6eWVLb3pUellFd2p2aW1GOEJ1MjVpN3hjLTQ4aFIxWGpBMDAxZm1nZXJLdkxHOXR2aENyU0tNWDRWRGkxTnVReEV3bkt2cURRekJSbS15OXY0X2g1WGgxVWc?oc=5",
+   "tickers": [
+    "NVDA"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "NVDA",
+   "strength": 70,
+   "reason": "Trump praises Nvidia's earnings and holds $12M+ stake; explicit praise plus disclosed holdings signal confidence."
   },
   {
    "date": "2026-08-28T02:12:15Z",
@@ -1360,30 +1472,6 @@
    }
   },
   {
-   "date": "2026-08-25T13:43:28Z",
-   "platform": "News",
-   "text": "IBM Stock Rallies On Trump Administration\u2019s $1B Grant: Analysts Say \u2018Big Blue\u2019 Could Become First US Quantum Foundry - Stocktwits \u2014 IBM Stock Rallies On Trump Administration\u2019s $1B Grant: Analysts Say \u2018Big Blue\u2019 Could Become First US Quantum Foundry\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOVG52c0VBRjZ6TzVuLThuSWdTN3NxMlIzUEc0aWVkUllDZDJMSVVMRlo1Rkgxb1Rja2swU1JlcVhlbmg4ejlfeGJoRGkzVG1VSEM4ZC1McWtGQnNVYklYVjYwQVliTHRoX3NqZDJZV0dlQ2NTaC1NaHhFaVAtdmVjdzVGcFhSangwdDluaTltYXZ3TXhaWWxISmlPREpkQ0N2VHdEMENJUkpDaDBGcUhSdXFZdExXbkhPaENSWlAxbVhPS3EyTnoyc3NoX2RpOXNqeEFYaFhhaGYxQUxRaWR0QUJwQ0J5VmhBY3ZpOV9YMVNjeUZlRHRzVXBLS3BpSER4VXpVWTVsYS1aZw?oc=5",
-   "tickers": [
-    "IBM"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "IBM",
-   "strength": 75,
-   "reason": "Trump administration awarded IBM $1B quantum grant; explicit federal contract to named public company.",
-   "price_since": {
-    "ticker": "IBM",
-    "pct": 1.0,
-    "base": 234.19,
-    "last": 236.45,
-    "base_date": "2026-08-25",
-    "last_date": "2026-08-27"
-   }
-  },
-  {
    "date": "2026-08-25T13:40:40.521Z",
    "platform": "Truth Social",
    "text": "Canada has been \"Ripping Off\" the U.S.A. for decades. They have been charging our Farmers 400% Tariffs, and more. They have driven many wonderful U.S. companies out of business. For 10 years they wouldn't certify Gulfstream Jets, until I got involved. They wanted 100% of the market for Gulfstream's Canadian competitor. I deal with many countries, and Canada is easily the most difficult and unreasonable. They feel entitled, but they are not a State, and will be entitled no longer! President DJT",
@@ -1620,30 +1708,6 @@
     "pct": 2.2,
     "base": 208.48,
     "last": 213.05,
-    "base_date": "2026-08-24",
-    "last_date": "2026-08-25"
-   }
-  },
-  {
-   "date": "2026-08-24T20:56:57Z",
-   "platform": "News",
-   "text": "ASTS Stock Eases After 3-Day Run: FCC Opens Door For Direct Phone-To-Satellite Connectivity Using 800 MHz Spectrum - Stocktwits \u2014 ASTS Stock Eases After 3-Day Run: FCC Opens Door For Direct Phone-To-Satellite Connectivity Using 800 MHz Spectrum\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNM0htWHVkSmhubE0yX1VDNVRtYUtHd0xDMl9yTkhyZ0IwQmdGSGpVQ3BINGcwSTZCcmZ4NkFkSTZGY21QNzc3U0ZROWdQMlFQUExvNUtaRTBZaER5UUw2VnhHNXlkSThoWWpmeVVrZE04c3FHOWhmQzF4RHhpREdvXzRfMURGY1g5U3ZNaXhJaDktc3VFQVBaZjY1eEhHaWNVdDlZZ2JzWnlXSGJxcUtacEVqUTU?oc=5",
-   "tickers": [
-    "ASTS"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "ASTS",
-   "strength": 60,
-   "reason": "FCC approves direct phone-to-satellite connectivity; regulatory catalyst for satellite industry",
-   "price_since": {
-    "ticker": "ASTS",
-    "pct": -0.5,
-    "base": 62.35,
-    "last": 62.01,
     "base_date": "2026-08-24",
     "last_date": "2026-08-25"
    }
@@ -2444,6 +2508,23 @@
    "primary_ticker": "SPY",
    "strength": 20,
    "reason": "Trump's heavy trading disclosed; market-relevant activity but no directional catalyst"
+  },
+  {
+   "date": "2026-08-21T17:24:14.193Z",
+   "platform": "Truth Social",
+   "text": "'That's the Jetsons that's coming to life': Trump officials tout multifront drone initiative: https://www.washingtonexaminer.com/policy/defense/4694450/drone-market-threat-requires-whole-government-approach/#google_vignette",
+   "tickers": [
+    "XAR"
+   ],
+   "engagement": 8040,
+   "url": "https://truthsocial.com/@realDonaldTrump/117134659039628490",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "XAR",
+   "strength": 65,
+   "reason": "Trump administration touts multifront drone/defense initiative; bullish for defense sector."
   },
   {
    "curated": true,
