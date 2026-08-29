@@ -1,7 +1,57 @@
 {
- "last_updated": "2026-08-28T21:07:05Z",
+ "last_updated": "2026-08-29T03:10:12Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-08-29T00:21:20.531Z",
+   "platform": "Truth Social",
+   "text": "Our deal with Venezuela is the biggest oil deal, by far, in World history! President DJT",
+   "tickers": [
+    "XLE"
+   ],
+   "engagement": 8669,
+   "url": "https://truthsocial.com/@realDonaldTrump/117175935338426953",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "XLE",
+   "strength": 65,
+   "reason": "Major oil deal announcement increases US oil reserves, bullish for energy sector"
+  },
+  {
+   "date": "2026-08-28T22:48:41Z",
+   "platform": "News",
+   "text": "Nvidia CEO Jensen Huang interrupted by Donald Trump call during meeting, hours before presidential congratulations on earnings - Crypto Briefing \u2014 Nvidia CEO Jensen Huang interrupted by Donald Trump call during meeting, hours before presidential congratulations on earnings\u00a0\u00a0Crypto Briefing",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE81M1ZJNTdIQldaRWg0cUtqZ194cHQ2TDl0UzI4cnlSeHJPRW84aVphV0RIVXNNQ0RzQmpFcWhncUZvT2NTWXlBTFJmakdzNzNaQlo0dUl0NmZxVW1WZ29xbTRHRmFHZmJ1eXJFdw?oc=5",
+   "tickers": [
+    "NVDA"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "NVDA",
+   "strength": 70,
+   "reason": "Trump called/congratulated Nvidia CEO on earnings, implicit praise of company"
+  },
+  {
+   "date": "2026-08-28T22:47:42.170Z",
+   "platform": "Truth Social",
+   "text": "BREAKING NEWS: The United States of America has just entered into an Agreement with the Country of Venezuela on, THE BIGGEST OIL DEAL IN WORLD HISTORY! At my direction, Secretary of State Marco Rubio, and Secretary of War Pete Hegseth, working closely with Highly Respected Interim President of Venezuela, Delcy Rodriguez, and, through a partnership with private business, have secured majority U.S. control of more than 65 BILLION BARRELS of proven Oil Reserves in Venezuela, at no cost to the American Taxpayer. This Historic Transaction MORE THAN DOUBLES American Oil Reserves, greatly increases our Oil Supply, and will substantially lower Gas Prices for all Americans, long into the future, while helping to continue to set Venezuela on a course toward Tremendous Success and Great Prosperity. This Transaction will greatly strengthen the already growing relationship between Venezuela and the United States! Thank you for your attention to this groundbreaking matter. MAKE AMERICA GREAT AGAIN! President DONALD J. TRUMP",
+   "tickers": [
+    "XLE"
+   ],
+   "engagement": 33503,
+   "url": "https://truthsocial.com/@realDonaldTrump/117175567133618952",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "XLE",
+   "strength": 75,
+   "reason": "Historic oil deal securing 65B+ barrels doubles US reserves, major bullish energy catalyst"
+  },
   {
    "date": "2026-08-28T18:06:47.683Z",
    "platform": "Truth Social",
@@ -166,7 +216,7 @@
    "reason": "Micron rally lifts broader chip sector; semiconductor complex gains on positive sentiment"
   },
   {
-   "date": "2026-08-28T05:54:00Z",
+   "date": "2026-08-28T05:56:03Z",
    "platform": "News",
    "text": "Nvidia\u2019s Monster Quarter Wins Praise From Elon Musk, \u2018Big Short\u2019 Investor And Ex-Trump Adviser As AI Bears Get \u2018Shredded\u2019 - Stocktwits \u2014 Nvidia\u2019s Monster Quarter Wins Praise From Elon Musk, \u2018Big Short\u2019 Investor And Ex-Trump Adviser As AI Bears Get \u2018Shredded\u2019\u00a0\u00a0Stocktwits",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZmNmckw5UFFDejdkd3p0bHRVS2E2NGUtYXcxdTctdmpSWFZudDQyVDliQ0Fwd2hKTV9PeWZXUXU2MzZnSnkxUURSQ3dDbDdaWjF3dHQ1REQ3TW1YTVcxcjBZZzBTTXl0bS1iTTR2M09MSDV2b2NRTFBfUFhIQkN5T25xV1M4STVld05xUlRfOHFPX2ZUQWJNbk43NmhaY2ljZ3ZJLXhPclN6UV9mQ3dSVWFQdnFpc2M?oc=5",
@@ -178,8 +228,8 @@
    "explicit": false,
    "direction": "BUY",
    "primary_ticker": "NVDA",
-   "strength": 50,
-   "reason": "Nvidia earnings praise from multiple sources including ex-Trump adviser; validation of AI strength"
+   "strength": 55,
+   "reason": "Nvidia praised for strong quarter by influential figures including ex-Trump adviser, positive sentiment"
   },
   {
    "date": "2026-08-28T04:25:11Z",
@@ -262,7 +312,7 @@
    "reason": "Trump endorsement of Nokia's AI growth push; explicit praise of named company"
   },
   {
-   "date": "2026-08-28T02:26:00Z",
+   "date": "2026-08-28T02:27:00Z",
    "platform": "News",
    "text": "Trump Praises Nvidia's 'Incredible Numbers' After Q2 Stunner \u2014 He Also Reportedly Holds Over $12M In The Stock - Stocktwits \u2014 Trump Praises Nvidia's 'Incredible Numbers' After Q2 Stunner \u2014 He Also Reportedly Holds Over $12M In The Stock\u00a0\u00a0Stocktwits",
    "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPQlNxTl9TQUlpZEpBSUFhb0owYS1WMG43X2c4TnMxaUtrTHlJTmwxTWtubmI4ekZYbHY3ZXphcl8wQ1FVaXVxb2gxblJpSTkxRXRsNnpWRFYtYWF6aFlJeHR0endMUEo2cUh5VHNncTVwZHk5Tkx2QmllVVlUczhVWEpCc3FJUUptN3poclRXbm5makJSSjVuemIxTWxNOGpvejVNVWNremFTaFNFLWZRU3RvVVlkUS1wWDJRekNLRWdPSTRzYTlGSGtSYmI5UmxCZHZuejVaOVRtcUdTMWhXRXJ0aHU4dkJjTF9ocDV0NGJIMGJZQUk4M2F1WXFzSlU?oc=5",
@@ -275,7 +325,7 @@
    "direction": "BUY",
    "primary_ticker": "NVDA",
    "strength": 80,
-   "reason": "Trump explicitly praises Nvidia's earnings and holds $12M+ position; strong direct endorsement"
+   "reason": "Trump praises Nvidia's incredible numbers and holds $12M stake, explicit company endorsement with ownership signal"
   },
   {
    "date": "2026-08-28T02:12:15Z",
@@ -2394,175 +2444,6 @@
    "primary_ticker": "SPY",
    "strength": 20,
    "reason": "Trump's heavy trading disclosed; market-relevant activity but no directional catalyst"
-  },
-  {
-   "date": "2026-08-22T04:22:41Z",
-   "platform": "News",
-   "text": "AMD Stock Is Having Its Best Year In A Decade \u2014 And CEO Lisa Su Gets $36M Equity Reward To Match - Stocktwits \u2014 AMD Stock Is Having Its Best Year In A Decade \u2014 And CEO Lisa Su Gets $36M Equity Reward To Match\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNTGc3ZlZNOENNNjhrSjQyUjJ5SVdfVDRyUE9wUW5VRHFpb01UVktVSnAxZEdRbE5STjRPQV9rQTQ1aU1Ca2d4YUZOX0RCb2trWGY3dERJVXdfMm9DcVVmSkJGRVAxUmxpN0o1d3RkSDhSdFJFVTV1TjFhbkh5ZlNPWFk1OHlCUHlYazBHUnk4SWlYQ3JhWDgtTURERlA4N2V4cklpcEFkcHJCX0c1RXh4SE5pa3VxdzZCWG1HQmRBYUdocVRZV3ZyOFJHQWp5eWh2M3ZELTBQR0RWcmZjM0JHT3NMRk1NZ2NQWXF0SElabw?oc=5",
-   "tickers": [
-    "AMD"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "AMD",
-   "strength": 35,
-   "reason": "Strong year performance and CEO reward signal confidence; chip sector momentum"
-  },
-  {
-   "date": "2026-08-21T22:26:25Z",
-   "platform": "News",
-   "text": "Bitcoin rally sends crypto stocks soaring as miners, treasury companies jump - Cryptonews.net \u2014 Bitcoin rally sends crypto stocks soaring as miners, treasury companies jump\u00a0\u00a0Cryptonews.net",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9lRVYwUE12QjBFcHpwc0xUU2hlb21FSGNUM3RVamwzUTBINDVlN3ZHTE55bVZUMHU5djVUYVd0YUNpQmo4S01ZSVpxQ2NUWjI2NEdmdGYwMHk?oc=5",
-   "tickers": [
-    "BTC-USD"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "BTC-USD",
-   "strength": 45,
-   "reason": "Bitcoin rally driving crypto sector upward; broad tailwind for crypto assets",
-   "price_since": {
-    "ticker": "BTC-USD",
-    "pct": -1.3,
-    "base": 78335.19,
-    "last": 77306.07,
-    "base_date": "2026-08-21",
-    "last_date": "2026-08-24"
-   }
-  },
-  {
-   "date": "2026-08-21T22:14:11Z",
-   "platform": "News",
-   "text": "DJI ban: how the world\u2019s biggest dronemaker is getting shoved out of the US - The Verge \u2014 DJI ban: how the world\u2019s biggest dronemaker is getting shoved out of the US\u00a0\u00a0The Verge",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeWVMbm10WFUzMU9JT1ZaOU1XLUhwYUlPOG00N3NicDdvb2N3MUJ4RzBXejA5ZVpPVERibkh4bjk1RHlVOE1KM2RvM3ZIR0JQbVluUWJ6bkZ0cUVtb0QzdWtZX3U0M1VsSFAtQWhOT1FpVGt3N3VENktYemZnSGxvalBUaw?oc=5",
-   "tickers": [
-    "UAVS"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "UAVS",
-   "strength": 60,
-   "reason": "DJI ban removes dominant competitor; US dronemakers gain market share opportunity"
-  },
-  {
-   "date": "2026-08-21T21:13:23Z",
-   "platform": "News",
-   "text": "UNH Stock Becomes Dow\u2019s Biggest Driver Back To 50,000 \u2014 Will Trump Tailwinds Spark Another Leg Higher? - Stocktwits \u2014 UNH Stock Becomes Dow\u2019s Biggest Driver Back To 50,000 \u2014 Will Trump Tailwinds Spark Another Leg Higher?\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPc09TZEpPUXhaQndxcjc0MUd3T1RhaTNMb2FIamg3MWlfNWR0VHc5QXk0S01oQk9ucTBrcmRMRFdhOUd0MDE5NlBUWnBvOExFeVdyTHdyaDdIanE1YlRCd0VUbk5RZXNJSW9yVmRHejRVR0duRHJJS0U2dThGSmlHTzVmYzFEdzZfZER1aC1TSGx6M01BVlNPdXB5b1padWMyTEhjZlpuMWhEX1pkUnpPVVVleHdKbUZCd2c?oc=5",
-   "tickers": [
-    "UNH"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "UNH",
-   "strength": 35,
-   "reason": "Market-leading position with Trump-aligned policy tailwinds in healthcare"
-  },
-  {
-   "date": "2026-08-21T20:35:44Z",
-   "platform": "News",
-   "text": "MARA Holdings, Inc. stock surges 15.54% to $11.15 on Clarity Act hopes - Cryptonews.net \u2014 MARA Holdings, Inc. stock surges 15.54% to $11.15 on Clarity Act hopes\u00a0\u00a0Cryptonews.net",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1kdzRTckVTV2x0VHBiMEo0bU16Ry10M085UTdFLWVORWxoNHp2MzVIRFRKZ194bGlnTU5XR2Z3V1ZiRE5MMkt1Z2E4XzQ0XzhyaEJpUUhmMy03Vzg?oc=5",
-   "tickers": [
-    "MARA"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "MARA",
-   "strength": 60,
-   "reason": "MARA surges on Clarity Act hopes; specific crypto regulatory catalyst"
-  },
-  {
-   "date": "2026-08-21T20:34:49Z",
-   "platform": "News",
-   "text": "\u2018NACHO\u2019 Trade Returns: Oil Prices Climb On Renewed Tensions In Hormuz Strait - Stocktwits \u2014 \u2018NACHO\u2019 Trade Returns: Oil Prices Climb On Renewed Tensions In Hormuz Strait\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSnBUODQzM1ktdHF3TDlQR3hsM3cwWUJCOFgtbVo2R0Jtd2lGM25hRFgwMHdlbzFvUHVfV29laHUtUWFqdTZaTnhQR2dKdmc3U1FoT0ttZmg0SUxlQTN3ajZfSE52V1pSUmxkQjlwN1hrOV9aX09hTDFtUkFQLWtReldzSUZ6VDE0OGZWQ2NPS3NUelV1MmcwM2ZPMTJIWkx4X2JZSG92SF9MQ21ZWmtka3pFd0owSmxqdFJReXBYbHhwZF9jQ3NvV1NYaldLNzhaZ0E4?oc=5",
-   "tickers": [
-    "XLE"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "XLE",
-   "strength": 60,
-   "reason": "Hormuz tensions from Trump blockade push oil prices higher; energy sector bullish"
-  },
-  {
-   "date": "2026-08-21T19:44:56Z",
-   "platform": "News",
-   "text": "PLTR Stock Faces Split Narrative: Retail Bulls Hold Firm As Burry Sounds Alarm, Trump Signals Support - Stocktwits \u2014 PLTR Stock Faces Split Narrative: Retail Bulls Hold Firm As Burry Sounds Alarm, Trump Signals Support\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSFRDSVNMdHk3NEtMbFEwQ1ZRT2tLY3h1cEFvOTVjb182Qm1QUnVqTlE2dWhzYXZpaXBoN3gyNlg4dWVWY0dldndhRDZoOGE2N2ZSMTgxb1Ayb0RWanA3a0hEeEhKWGtYRENBSGZ0d0wySmlrSWpzM1BmcXZpTUdDOXcwMVl0NXVKYjMyOEFvYmVpYk9uOVRSaWdleVNEQnZkZk1tUE5vRURtNjdubE0wTUhLSFFUbGc3OUs5UVpJQXhVTHdZLTdLTmZDQVkxMUVwd3c?oc=5",
-   "tickers": [
-    "PLTR"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "PLTR",
-   "strength": 70,
-   "reason": "Trump signals support for Palantir; explicit positive catalyst for named stock"
-  },
-  {
-   "date": "2026-08-21T17:24:14.193Z",
-   "platform": "Truth Social",
-   "text": "'That's the Jetsons that's coming to life': Trump officials tout multifront drone initiative: https://www.washingtonexaminer.com/policy/defense/4694450/drone-market-threat-requires-whole-government-approach/#google_vignette",
-   "tickers": [
-    "XAR"
-   ],
-   "engagement": 456,
-   "url": "https://truthsocial.com/@realDonaldTrump/117134659039628490",
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "XAR",
-   "strength": 45,
-   "reason": "Trump administration backing multifront drone initiative signals bullish defense/aerospace sector outlook"
-  },
-  {
-   "date": "2026-08-21T16:11:07Z",
-   "platform": "News",
-   "text": "Bitcoin rally sends crypto stocks soaring as miners, treasury companies jump - TradingView \u2014 Bitcoin rally sends crypto stocks soaring as miners, treasury companies jump\u00a0\u00a0TradingView",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQQW1VZ05sZ0V1R1FDUzhNak5kY2NKemkzN241a01KeDRXVnF1eDJXQTJWdzUwTENMYWhZb3g5cnZLN2hUekJuSy1vTnNlbXNBeWpCMjhuRjJsQlZZS0oxelpoTWxlSHhwb2M2T0h6WXZGampNeHg5MHJBVU9fRS1XaDZaUVlCaHVleVhadDZCX21ZU2U5X3NpWUZHUERfUTIyakV4dUdYNEhFWEtvVlNvQm1wZ2lkZHZSQU1vRVRrOHdnU0pOX0FyMUNDeXlVVUY3ZzBLN293?oc=5",
-   "tickers": [
-    "COIN"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "COIN",
-   "strength": 45,
-   "reason": "Bitcoin rally lifts crypto asset managers and miners; macro bullish on digital assets."
-  },
-  {
-   "date": "2026-08-21T15:00:29Z",
-   "platform": "News",
-   "text": "Robinhood (HOOD) Stock Rockets 11% as Trump Endorses Crypto Clarity Act - Blockonomi \u2014 Robinhood (HOOD) Stock Rockets 11% as Trump Endorses Crypto Clarity Act\u00a0\u00a0Blockonomi",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObXlDZDM0eTZEU1dXME1xZnZWNDVvQUdpdnNHRTd6czMzX3o2V3hlT2N1M1otbmstYUtlOWdMVzczalNybHB0R2Q3djV2d3Npa1dwNWVWdGhwMnM0QllXN2d2ajlrUUkwYUM3QUdwUVM3WjhHS1NGb0tJUFhuSm90aU1DNkxRa080SkVEdTFPS25kajNpVWs0?oc=5",
-   "tickers": [
-    "HOOD"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "HOOD",
-   "strength": 75,
-   "reason": "Trump explicitly endorses Crypto Clarity Act; Robinhood stock already rallied 11% as direct beneficiary of crypto-friendly policy"
   },
   {
    "curated": true,
