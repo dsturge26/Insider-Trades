@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-08-29T18:29:51Z",
+ "last_updated": "2026-08-29T21:07:51Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -17,6 +17,22 @@
    "primary_ticker": "PLTR",
    "strength": 65,
    "reason": "Trump explicitly signals support for Palantir; named company, retail bullish momentum"
+  },
+  {
+   "date": "2026-08-29T12:32:23Z",
+   "platform": "News",
+   "text": "ASTS, RKLB Stocks Get The Trump Pump After Hidden Space Stock Bets Emerge - Stocktwits \u2014 ASTS, RKLB Stocks Get The Trump Pump After Hidden Space Stock Bets Emerge\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYlgtQnFIQ21RTHhqRVMtMUF4aWNUR2w3WHo5QzFfWVRyaExWYXJDUk9WaEFDaW90THVYcHVSd3J4Nk82T3lkMVBGZnhIQW43bHpGdURhaTgxYnRlR25BYmp6SWR1cjVhUHlXZXdWSFdkNlFTekNoQXZCSXNVem1Oc0NBYXBKQXhnRnNCTTVvOU5xSEZrUlNxdzZCczQyZmdVOW1jQVRBczU4cHlpU3M3dnBWZnBjdw?oc=5",
+   "tickers": [
+    "ASTS"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "ASTS",
+   "strength": 60,
+   "reason": "Trump space stock bets emerge; bullish sentiment for space sector."
   },
   {
    "date": "2026-08-29T10:41:39Z",
@@ -1705,30 +1721,6 @@
    }
   },
   {
-   "date": "2026-08-25T03:26:23Z",
-   "platform": "News",
-   "text": "ASTS, RKLB Stocks Get The Trump Pump After Hidden Space Stock Bets Emerge - Stocktwits \u2014 ASTS, RKLB Stocks Get The Trump Pump After Hidden Space Stock Bets Emerge\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYlgtQnFIQ21RTHhqRVMtMUF4aWNUR2w3WHo5QzFfWVRyaExWYXJDUk9WaEFDaW90THVYcHVSd3J4Nk82T3lkMVBGZnhIQW43bHpGdURhaTgxYnRlR25BYmp6SWR1cjVhUHlXZXdWSFdkNlFTekNoQXZCSXNVem1Oc0NBYXBKQXhnRnNCTTVvOU5xSEZrUlNxdzZCczQyZmdVOW1jQVRBczU4cHlpU3M3dnBWZnBjdw?oc=5",
-   "tickers": [
-    "ASTS"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "ASTS",
-   "strength": 45,
-   "reason": "Trump hidden space stock bets emerge; inferred bullish sentiment on satellite stocks",
-   "price_since": {
-    "ticker": "ASTS",
-    "pct": -2.8,
-    "base": 62.01,
-    "last": 60.27,
-    "base_date": "2026-08-25",
-    "last_date": "2026-08-26"
-   }
-  },
-  {
    "date": "2026-08-25T03:13:18Z",
    "platform": "News",
    "text": "$50,000 SpaceX Shares Bought By Trump Two Weeks After Record IPO - NDTV Profit \u2014 $50,000 SpaceX Shares Bought By Trump Two Weeks After Record IPO\u00a0\u00a0NDTV Profit",
@@ -2436,70 +2428,6 @@
    "primary_ticker": "XAR",
    "strength": 50,
    "reason": "F-35 jet sales to Turkey and sanctions lift are defense/geopolitical tailwinds"
-  },
-  {
-   "date": "2026-08-22T19:31:05Z",
-   "platform": "News",
-   "text": "Trump\u2019s Stock Disclosure Shows More Than 1,000 Trades in June - Bloomberg \u2014 Trump\u2019s Stock Disclosure Shows More Than 1,000 Trades in June\u00a0\u00a0Bloomberg",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbUg0bXhTNTNMQ01fWFR1SFpGd2cxTHlOY082M3dVbDE4N0VwcEl4S2pUa1gxNURzUUx4MGhqWnRJd2hGeUVmTjNJQ3ZDTTBDQ2FZV0xQRkZYUzBZaWtMemRaaTc2RE5xNGdHNWlEUkcxd2prX1VVZndFTUhLczZVdVdET2tZSUxnbzhnc3ZDdktkQlRRaldteHd3dUpYQjdFaWdUVmpvM0JvMEIwWFNqcHRGa3BJcGp6NXJJOUtqbEllT042NVNSMXc0NUxNUFVP?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "SPY",
-   "strength": 25,
-   "reason": "Trump's significant trading activity disclosed but no directional market signal"
-  },
-  {
-   "date": "2026-08-22T19:31:05Z",
-   "platform": "News",
-   "text": "Trump\u2019s Stock Disclosure Shows More Than 1,000 Trades in June - Yahoo Finance \u2014 Trump\u2019s Stock Disclosure Shows More Than 1,000 Trades in June\u00a0\u00a0Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNS2Rxbk1hV1AtUlZ1cGFzaVp0WDVoak5KLXVVanpVc2JXODRJM080T05idlRXN1VzaEktdl9lbUtFZ3RfcEduNXN6aWNrZ0pDSUs0MVl2cG9hTkNDQUtlRllPRUhJc2dfU2VVNDdvZkZGNVpMelg5NUJfeW1aTGhxa3JubVBTZUIwcURJYmU3eEFxNjlNQWJOcnJrTmRmODg?oc=5",
-   "tickers": [
-    "BRK.B"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "BRK.B",
-   "strength": 35,
-   "reason": "Trump's Berkshire purchase and active trading signal portfolio positioning"
-  },
-  {
-   "date": "2026-08-22T18:45:27Z",
-   "platform": "News",
-   "text": "Dow, S&P 500, Nasdaq Futures Slip As Trump\u2019s Hormuz Deadline Looms: Why UNH, CAR, TSLA, AVGO, ENVX Are Trending After-Hours - Stocktwits \u2014 Dow, S&P 500, Nasdaq Futures Slip As Trump\u2019s Hormuz Deadline Looms: Why UNH, CAR, TSLA, AVGO, ENVX Are Trending After-Hours\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaTFzRnFlV1J4WU0xM2JWeWFSbXJRVkJvS19IRVNRVEN6TnZxOWJKSW0zSzhqY2xWZDJ3b0VFbGstZ0lGN1NYZDVHZkdRb1ZmUnRoQk9DRXpMUTROWVpqWXVlYkc0RkpfM1duX3FFTHN3ZGk2VF9YSTlyandwdDl4TUZwazRZb3BkbVBCQ0thUzFGMGVuS3IzUVlIX2xlTG5TeFNueU9mRXBCZjh4QUkxOFBGXzBVRk1zLWk0VzM1RV9WWEl3Mk9KT0wzSjNIeFE?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "SPY",
-   "strength": 65,
-   "reason": "Trump Hormuz deadline threat (likely tariffs/geopolitical tension) implies broad market pressure; futures slipping."
-  },
-  {
-   "date": "2026-08-22T14:50:07Z",
-   "platform": "News",
-   "text": "TMC Stock Gains On NOAA Compliance Ruling In A Boost To US Critical Metals Push - Stocktwits \u2014 TMC Stock Gains On NOAA Compliance Ruling In A Boost To US Critical Metals Push\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPU2VKTTZTaFFpRGRTM2xzQlphMnVwbWFUNVdqVGx2R2dwa2dmNGxPRzRUUWQwMXZocEVkMzBLcnNJcDZxaTBkaFk0U3FWSFNMUms4aTk0XzFkdlZKUWFub0NHRFlvY0E4NHJVWUd4VWUzSVhUSG45VEhNd3hWUXpyTTE3dGliSWpDV2xqU2l1djJsUmZiZnpOdWMtZ19lLTlxMXkzWGFMdjlxbkZvTGZyV0pyeWNkalFISkF4UU9sQkVWV1dF?oc=5",
-   "tickers": [
-    "TMC"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "TMC",
-   "strength": 75,
-   "reason": "Named federal ruling (NOAA compliance) directly boosting critical metals company TMC; clear bullish catalyst for the ticker."
   },
   {
    "curated": true,
