@@ -1,7 +1,40 @@
 {
- "last_updated": "2026-08-30T07:16:21Z",
+ "last_updated": "2026-08-30T13:08:26Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-08-30T12:19:44.016Z",
+   "platform": "Truth Social",
+   "text": "Trump's historic oil deal with Venezuela realigns global energy and puts OPEC, Canada on notice: https://justthenews.com/government/white-house/trump-announces-massive-oil-deal-venezuela",
+   "tickers": [
+    "USO"
+   ],
+   "engagement": 1680,
+   "url": "https://truthsocial.com/@realDonaldTrump/117184422478750334",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "USO",
+   "strength": 75,
+   "reason": "Trump oil deal with Venezuela increases crude supply optionality; bullish crude"
+  },
+  {
+   "date": "2026-08-30T02:47:52Z",
+   "platform": "News",
+   "text": "Citi Stock Hits 52-Week High Before Fading As Trump Lauds Bank's 'Big Comeback' In M&A \u2014 But Full Picture Has Changed Now - Stocktwits \u2014 Citi Stock Hits 52-Week High Before Fading As Trump Lauds Bank's 'Big Comeback' In M&A \u2014 But Full Picture Has Changed Now\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWUpacUZnX014SV9nTnRZbVQ0dWhFQlZiV3ZjLV9nWExYUjVMdmlZdkdoNnFLcUhZUEhuZ1k3a2JENWJrYkhqdjJqNFlLaVlVYzBRb3dJOFA2Q1dESmhCTVJnQXJJaU15VjVFUFo2cWJDOEx3QTIzN0NSQjExRWhRZlNLaDFXeEZMQ0poajdjbGhmNlhPd1ZQSnVOSmNVa0pVTF94Z1RVdXlSU2JrR0N3X2dHSENINjZHNWdTYzB1dEZPaERK?oc=5",
+   "tickers": [
+    "C"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "C",
+   "strength": 60,
+   "reason": "Trump explicitly lauds Citi's M&A 'comeback'; direct company praise"
+  },
   {
    "date": "2026-08-30T02:06:00Z",
    "platform": "News",
@@ -17,6 +50,22 @@
    "primary_ticker": "SPY",
    "strength": 25,
    "reason": "Political/legal risk to Trump administration's equity holdings creates uncertainty for broad portfolio"
+  },
+  {
+   "date": "2026-08-29T23:11:20Z",
+   "platform": "News",
+   "text": "DELL Stock Spikes To Record Highs On President Trump\u2019s Endorsement - Stocktwits \u2014 DELL Stock Spikes To Record Highs On President Trump\u2019s Endorsement\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYWF1OUgweFU0d1NlNU4ya1FYQVJSVTRCX3IwM0NMd19VVmN5RzNtUmc1c2FhTU9abXdnTmVnMDE2QUxna3ZrUEF3Zkd0SFUtOWx3QkF2elBuNkNTcmZDRm1BRUkwMVRwYU0xaUVsWDZLSk0yeEtiMFFPV0t3ZXZ3OW15QUg5V0xHNnRrU1J5VXdvX09Oa0ZmRmJvV0VTVlFRRFh6c3E5RmtHckx0MXpNVVZTWmJpLTUtUXBHSG5pWEFfQll0ejRneDFB?oc=5",
+   "tickers": [
+    "DELL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "DELL",
+   "strength": 85,
+   "reason": "Trump explicitly endorses Dell; stock spikes on named company praise"
   },
   {
    "date": "2026-08-29T20:43:15Z",
@@ -374,6 +423,22 @@
    "primary_ticker": "XLE",
    "strength": 50,
    "reason": "Banning foreign energy equipment protects US domestic energy sector from competition; bullish for US energy producers"
+  },
+  {
+   "date": "2026-08-28T16:36:00Z",
+   "platform": "News",
+   "text": "Nvidia's $96.2B Quarter Sparks Rally, While Marvell's Strong Report Fails to Impress - finance.biggo.com \u2014 Nvidia's $96.2B Quarter Sparks Rally, While Marvell's Strong Report Fails to Impress\u00a0\u00a0finance.biggo.com",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9xTE5fbGx5RnRSZEtCR0hMUmNnQlgyeXFJeW9OOFo1ME9seXNnX01mcWNiOGJCSENXRld2WXA1OGpwT2ZIbnplLUNrckNJQkswY0VJOHVwZ1hfeGVRLUZRNEdjQjd2aTFJUGJ3d2lEakUzX2FwSWc?oc=5",
+   "tickers": [
+    "NVDA"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "NVDA",
+   "strength": 70,
+   "reason": "Nvidia's $96.2B quarter and rally reflect AI chip demand strength; strong earnings momentum support continuation."
   },
   {
    "date": "2026-08-28T16:29:05Z",
@@ -760,30 +825,6 @@
    "reason": "Stock at record low on analyst downgrade (KeyBanc); fundamental deterioration unrelated to Trump"
   },
   {
-   "date": "2026-08-27T23:34:54Z",
-   "platform": "News",
-   "text": "Citi Stock Hits 52-Week High Before Fading As Trump Lauds Bank's 'Big Comeback' In M&A \u2014 But Full Picture Has Changed Now - Stocktwits \u2014 Citi Stock Hits 52-Week High Before Fading As Trump Lauds Bank's 'Big Comeback' In M&A \u2014 But Full Picture Has Changed Now\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWUpacUZnX014SV9nTnRZbVQ0dWhFQlZiV3ZjLV9nWExYUjVMdmlZdkdoNnFLcUhZUEhuZ1k3a2JENWJrYkhqdjJqNFlLaVlVYzBRb3dJOFA2Q1dESmhCTVJnQXJJaU15VjVFUFo2cWJDOEx3QTIzN0NSQjExRWhRZlNLaDFXeEZMQ0poajdjbGhmNlhPd1ZQSnVOSmNVa0pVTF94Z1RVdXlSU2JrR0N3X2dHSENINjZHNWdTYzB1dEZPaERK?oc=5",
-   "tickers": [
-    "C"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "C",
-   "strength": 60,
-   "reason": "Trump explicitly praises Citi's 'big comeback' in M&A; direct named-company endorsement drives stock rally",
-   "price_since": {
-    "ticker": "C",
-    "pct": 0.2,
-    "base": 132.68,
-    "last": 132.9,
-    "base_date": "2026-08-27",
-    "last_date": "2026-08-28"
-   }
-  },
-  {
    "date": "2026-08-27T22:31:58.782Z",
    "platform": "Truth Social",
    "text": "Iran Is a Failing Nation! President DJT",
@@ -1097,22 +1138,6 @@
    "primary_ticker": "NVDA",
    "strength": 40,
    "reason": "Earnings-driven reversal unrelated to Trump; neutral market signal"
-  },
-  {
-   "date": "2026-08-27T01:10:37Z",
-   "platform": "News",
-   "text": "DELL Stock Spikes To Record Highs On President Trump\u2019s Endorsement - Stocktwits \u2014 DELL Stock Spikes To Record Highs On President Trump\u2019s Endorsement\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYWF1OUgweFU0d1NlNU4ya1FYQVJSVTRCX3IwM0NMd19VVmN5RzNtUmc1c2FhTU9abXdnTmVnMDE2QUxna3ZrUEF3Zkd0SFUtOWx3QkF2elBuNkNTcmZDRm1BRUkwMVRwYU0xaUVsWDZLSk0yeEtiMFFPV0t3ZXZ3OW15QUg5V0xHNnRrU1J5VXdvX09Oa0ZmRmJvV0VTVlFRRFh6c3E5RmtHckx0MXpNVVZTWmJpLTUtUXBHSG5pWEFfQll0ejRneDFB?oc=5",
-   "tickers": [
-    "DELL"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "DELL",
-   "strength": 85,
-   "reason": "Trump explicitly endorses DELL; stock already spiking on the direct approval/praise"
   },
   {
    "date": "2026-08-26T21:12:41Z",
@@ -2387,87 +2412,6 @@
    "primary_ticker": "F",
    "strength": 75,
    "reason": "Trump sets 50% auto tariffs on Canada; bearish for Ford, GM, Stellantis"
-  },
-  {
-   "date": "2026-08-23T05:06:38.819Z",
-   "platform": "Truth Social",
-   "text": "Canada wants the benefits of being a State, without being one!!! They have also charged our great farmers, for many years, massive amounts of Tariffs. No more!!! President DJT",
-   "tickers": [
-    "SPY"
-   ],
-   "engagement": 4461,
-   "url": "https://truthsocial.com/@realDonaldTrump/117143083340259038",
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "SPY",
-   "strength": 65,
-   "reason": "Trump threatens new tariffs on Canada (major trade partner); tariff threats are bearish for broad market and agriculture sector."
-  },
-  {
-   "date": "2026-08-23T03:34:58Z",
-   "platform": "News",
-   "text": "Trump discloses 21,000 securities trades during first year in office - eciks.org \u2014 Trump discloses 21,000 securities trades during first year in office\u00a0\u00a0eciks.org",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5BVGhKaEZkeHpyeW15XzBsSGhoTzFNSV9ndUdhd2l3d3g2WjBPVy1GTGZQQ09WVDNzckxTREFLRVA4dmVvVkc0aUZXR2Y3MXlVVGdYVGhQTTRKV2xXME53NXZ4UjNqN2p2dGN5dFZfc0dQUQ?oc=5",
-   "tickers": [
-    "DJT"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "DJT",
-   "strength": 35,
-   "reason": "Trump's large trading volume suggests portfolio activity but no clear directional signal without trade details"
-  },
-  {
-   "date": "2026-08-23T02:21:13Z",
-   "platform": "News",
-   "text": "Trump doubles down on Hormuz claim, shares map calling strait 'NEW US Territory' - Business Today \u2014 Trump doubles down on Hormuz claim, shares map calling strait 'NEW US Territory'\u00a0\u00a0Business Today",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxON2VVZTF6UjNaQTNneW12Nkp0LWo0MVF2Yk9hakRjZkJPREVaMkw5cWNZQlpaU0h1MUJzdVQySG9IUnpWQ0g4SzNKU2NEOUJ1OEhNUDlRUktVamt2MWN3dEczVXNKdDN2MHQ2M21aZ2lYSGdqa1hsVnZ1OXo3TFpqUFZRMU9abDlXbWJVTWxYOWplOE10NmFyTnhXODVhWmktTWlmeXFMNDVQRUs0czBNVFFqZ2NxOGFGYm9OMktwRTRHS0U0LWRNQzFvU3BwTXF0M2fSAdcBQVVfeXFMTXdEbmh3UlZfYklRTmlleHFRNm00TEN0dzhsQ0tsRGtTRV9PY1hLQjQtZndHZnRxNHoxVm0zbVRNWHhrcWJpelpwYV92TUFfNUw4OWZXQWtEdGNWTzYzVjZGY3VEdVhnTlpPVUJ0M3RETzZ1aWJwWnJNR3dTdnpyZUJQekt6UFdXX0xSOTdLZzFhUFplOVBFMkg1MV9SVlNpS2FUZkNhYm9xampaZU9rRk1vNVA1MGpuVl85NlFqOURWM1N2SzhZX0ZISUFDRGUwY3gwdS1qZmc?oc=5",
-   "tickers": [
-    "USO"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "USO",
-   "strength": 35,
-   "reason": "Hormuz control claim threatens regional stability and oil shipping; potential supply disruption risk."
-  },
-  {
-   "date": "2026-08-23T01:40:21Z",
-   "platform": "News",
-   "text": "Trump Made Over 1,000 Trades in June: First-Ever Berkshire Hathaway Purchase, Cuts Meta and Palantir Stakes - finance.biggo.com \u2014 Trump Made Over 1,000 Trades in June: First-Ever Berkshire Hathaway Purchase, Cuts Meta and Palantir Stakes\u00a0\u00a0finance.biggo.com",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5VQ0hyV1dNOWdKeDZXQlVZMXRiemZCN1kxaW5pR2NNRFJnR09oRTc2bHJvNldvUVlvVUgwcTBCanU1cGNGd25fMk0tVm9JMW1oUTEwQnczcFhaMW1iUl9XQjdSbHlEUVh0QjFrNlRrNGd0SzJubnc?oc=5",
-   "tickers": [
-    "BRK.B"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "BRK.B",
-   "strength": 35,
-   "reason": "Trump's first-ever Berkshire purchase signals confidence; cuts to META and PLTR signal rotation"
-  },
-  {
-   "date": "2026-08-23T01:06:00Z",
-   "platform": "News",
-   "text": "Trump\u2019s Stock Disclosure Shows More Than 1,000 Trades in June - Bloomberg.com \u2014 Trump\u2019s Stock Disclosure Shows More Than 1,000 Trades in June\u00a0\u00a0Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOa0tvdEJYUG5VUzZMLWhzQUNDcFlnQzlucEZFMjVXZ1pLVndMdTN0bXpoTjdRSUdnd0ZZQldXa2RRaFc0eUtOTmRISEdidTlrV19MbFRaX3l0TzVFM1B2RzVOZDU1a0licnNMZ2k1ZlkyMGRjaE1yaVJnZ0FMMUZxTS1jU00ta1hNWWdUVmlrTFdMTVlfUnRXdTR6cXptSXI4dWd6YnFYWlg3djZXMzVkTDFR?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "SPY",
-   "strength": 25,
-   "reason": "High trading volume disclosed but mixed positions (buys and sells); ambiguous directional signal for broad market."
   },
   {
    "curated": true,
