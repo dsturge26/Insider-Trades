@@ -1,60 +1,69 @@
 {
- "last_updated": "2026-08-30T22:39:41Z",
+ "last_updated": "2026-08-31T00:51:04Z",
  "source": "ApeWisdom / r/wallstreetbets",
  "signals": [
   {
    "ticker": "SPY",
    "name": "SPDR S&amp;P 500 ETF Trust",
-   "mentions": 45,
-   "mentions_24h_ago": 57,
-   "change_pct": -21.1,
+   "mentions": 56,
+   "mentions_24h_ago": 56,
+   "change_pct": 0.0,
    "rank": 1,
-   "upvotes": 129
+   "upvotes": 175
   },
   {
    "ticker": "MU",
    "name": "Micron Technology",
-   "mentions": 42,
-   "mentions_24h_ago": 19,
-   "change_pct": 121.1,
+   "mentions": 47,
+   "mentions_24h_ago": 22,
+   "change_pct": 113.6,
    "rank": 2,
-   "upvotes": 135
+   "upvotes": 155
   },
   {
    "ticker": "NVDA",
    "name": "NVIDIA",
-   "mentions": 27,
-   "mentions_24h_ago": 47,
-   "change_pct": -42.6,
+   "mentions": 35,
+   "mentions_24h_ago": 46,
+   "change_pct": -23.9,
    "rank": 3,
-   "upvotes": 54
+   "upvotes": 80
   },
   {
    "ticker": "AVGO",
    "name": "Broadcom",
-   "mentions": 12,
+   "mentions": 17,
    "mentions_24h_ago": 7,
-   "change_pct": 71.4,
+   "change_pct": 142.9,
    "rank": 4,
-   "upvotes": 22
+   "upvotes": 31
   },
   {
    "ticker": "MRVL",
    "name": "Marvell Technology Group",
-   "mentions": 11,
-   "mentions_24h_ago": 10,
-   "change_pct": 10.0,
+   "mentions": 14,
+   "mentions_24h_ago": 11,
+   "change_pct": 27.3,
    "rank": 5,
-   "upvotes": 23
+   "upvotes": 30
   },
   {
    "ticker": "ASTS",
    "name": "AST SpaceMobile",
-   "mentions": 11,
+   "mentions": 13,
    "mentions_24h_ago": 4,
-   "change_pct": 175.0,
+   "change_pct": 225.0,
    "rank": 6,
-   "upvotes": 27
+   "upvotes": 34
+  },
+  {
+   "ticker": "SNDK",
+   "name": "Sandisk",
+   "mentions": 12,
+   "mentions_24h_ago": 18,
+   "change_pct": -33.3,
+   "rank": 7,
+   "upvotes": 24
   },
   {
    "ticker": "RDDT",
@@ -62,80 +71,89 @@
    "mentions": 11,
    "mentions_24h_ago": 4,
    "change_pct": 175.0,
-   "rank": 7,
-   "upvotes": 33
-  },
-  {
-   "ticker": "SNDK",
-   "name": "Sandisk",
-   "mentions": 11,
-   "mentions_24h_ago": 18,
-   "change_pct": -38.9,
    "rank": 8,
-   "upvotes": 32
-  },
-  {
-   "ticker": "IREN",
-   "name": "Iris Energy",
-   "mentions": 10,
-   "mentions_24h_ago": 14,
-   "change_pct": -28.6,
-   "rank": 9,
-   "upvotes": 19
-  },
-  {
-   "ticker": "QQQ",
-   "name": "Invesco QQQ ETF",
-   "mentions": 9,
-   "mentions_24h_ago": 13,
-   "change_pct": -30.8,
-   "rank": 10,
-   "upvotes": 22
+   "upvotes": 36
   },
   {
    "ticker": "SPCX",
    "name": "SpaceX",
-   "mentions": 8,
-   "mentions_24h_ago": 6,
-   "change_pct": 33.3,
-   "rank": 11,
-   "upvotes": 8
+   "mentions": 10,
+   "mentions_24h_ago": 5,
+   "change_pct": 100.0,
+   "rank": 9,
+   "upvotes": 13
+  },
+  {
+   "ticker": "QQQ",
+   "name": "Invesco QQQ ETF",
+   "mentions": 10,
+   "mentions_24h_ago": 13,
+   "change_pct": -23.1,
+   "rank": 10,
+   "upvotes": 22
   },
   {
    "ticker": "AAPL",
    "name": "Apple",
-   "mentions": 7,
-   "mentions_24h_ago": 2,
-   "change_pct": 250.0,
+   "mentions": 9,
+   "mentions_24h_ago": 1,
+   "change_pct": 800.0,
+   "rank": 11,
+   "upvotes": 6
+  },
+  {
+   "ticker": "IREN",
+   "name": "Iris Energy",
+   "mentions": 9,
+   "mentions_24h_ago": 6,
+   "change_pct": 50.0,
    "rank": 12,
-   "upvotes": 9
+   "upvotes": 17
+  },
+  {
+   "ticker": "AM",
+   "name": "Antero Midstream",
+   "mentions": 8,
+   "mentions_24h_ago": 5,
+   "change_pct": 60.0,
+   "rank": 13,
+   "upvotes": 17
   },
   {
    "ticker": "TSLA",
    "name": "Tesla",
    "mentions": 7,
-   "mentions_24h_ago": 2,
-   "change_pct": 250.0,
-   "rank": 13,
+   "mentions_24h_ago": 1,
+   "change_pct": 600.0,
+   "rank": 14,
    "upvotes": 8
+  },
+  {
+   "ticker": "TLT",
+   "name": "BlackRock Institutional Trust Company N.A. - BTC iShares 20+ Year Trea",
+   "mentions": 7,
+   "mentions_24h_ago": 3,
+   "change_pct": 133.3,
+   "rank": 15,
+   "upvotes": 10
   },
   {
    "ticker": "DTE",
    "name": "DTE Energy",
-   "mentions": 7,
-   "mentions_24h_ago": 3,
-   "change_pct": 133.3,
-   "rank": 14,
-   "upvotes": 12
+   "mentions": 6,
+   "mentions_24h_ago": 7,
+   "change_pct": -14.3,
+   "rank": 16,
+   "upvotes": 24
   },
   {
-   "ticker": "AM",
-   "name": "Antero Midstream",
-   "mentions": 7,
-   "mentions_24h_ago": 5,
-   "change_pct": 40.0,
-   "rank": 15,
-   "upvotes": 15
+   "ticker": "DELL",
+   "name": "Dell",
+   "mentions": 6,
+   "mentions_24h_ago": 7,
+   "change_pct": -14.3,
+   "rank": 17,
+   "upvotes": 20
   },
   {
    "ticker": "AGI",
@@ -143,17 +161,26 @@
    "mentions": 6,
    "mentions_24h_ago": 1,
    "change_pct": 500.0,
-   "rank": 16,
-   "upvotes": 9
+   "rank": 18,
+   "upvotes": 6
   },
   {
-   "ticker": "TLT",
-   "name": "BlackRock Institutional Trust Company N.A. - BTC iShares 20+ Year Trea",
+   "ticker": "RKLB",
+   "name": "Rocket Lab USA",
    "mentions": 6,
-   "mentions_24h_ago": 3,
-   "change_pct": 100.0,
-   "rank": 17,
-   "upvotes": 10
+   "mentions_24h_ago": 1,
+   "change_pct": 500.0,
+   "rank": 19,
+   "upvotes": 7
+  },
+  {
+   "ticker": "AMD",
+   "name": "AMD",
+   "mentions": 5,
+   "mentions_24h_ago": 8,
+   "change_pct": -37.5,
+   "rank": 20,
+   "upvotes": 9
   },
   {
    "ticker": "NKE",
@@ -161,7 +188,7 @@
    "mentions": 5,
    "mentions_24h_ago": 1,
    "change_pct": 400.0,
-   "rank": 18,
+   "rank": 21,
    "upvotes": 6
   },
   {
@@ -170,62 +197,35 @@
    "mentions": 5,
    "mentions_24h_ago": 1,
    "change_pct": 400.0,
-   "rank": 19,
+   "rank": 22,
    "upvotes": 1
   },
   {
    "ticker": "YOU",
    "name": "CLEAR Secure",
    "mentions": 5,
-   "mentions_24h_ago": 6,
-   "change_pct": -16.7,
-   "rank": 20,
-   "upvotes": 7
-  },
-  {
-   "ticker": "ORCL",
-   "name": "Oracle",
-   "mentions": 4,
-   "mentions_24h_ago": 1,
-   "change_pct": 300.0,
-   "rank": 21,
-   "upvotes": 5
-  },
-  {
-   "ticker": "MDT",
-   "name": "Medtronic",
-   "mentions": 4,
-   "mentions_24h_ago": 1,
-   "change_pct": 300.0,
-   "rank": 22,
-   "upvotes": 3
-  },
-  {
-   "ticker": "GLD",
-   "name": "SSgA SPDR Gold Shares",
-   "mentions": 4,
-   "mentions_24h_ago": 1,
-   "change_pct": 300.0,
+   "mentions_24h_ago": 7,
+   "change_pct": -28.6,
    "rank": 23,
-   "upvotes": 20
-  },
-  {
-   "ticker": "IGV",
-   "name": "BlackRock Institutional Trust Company N.A. - iShares Expanded Tech-Sof",
-   "mentions": 4,
-   "mentions_24h_ago": 1,
-   "change_pct": 300.0,
-   "rank": 24,
-   "upvotes": 6
+   "upvotes": 11
   },
   {
    "ticker": "SOFI",
    "name": "SoFi",
-   "mentions": 4,
-   "mentions_24h_ago": 2,
-   "change_pct": 100.0,
+   "mentions": 5,
+   "mentions_24h_ago": 1,
+   "change_pct": 400.0,
+   "rank": 24,
+   "upvotes": 9
+  },
+  {
+   "ticker": "META",
+   "name": "Meta Platforms (Facebook)",
+   "mentions": 5,
+   "mentions_24h_ago": 3,
+   "change_pct": 66.7,
    "rank": 25,
-   "upvotes": 8
+   "upvotes": -2
   }
  ]
 }

@@ -1,7 +1,24 @@
 {
- "last_updated": "2026-08-30T22:39:40Z",
+ "last_updated": "2026-08-31T00:51:03Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-08-31T00:26:05.013Z",
+   "platform": "Truth Social",
+   "text": "For many years, the USA has been losing more than 60 Billion Dollars a year with Canada. Why??? Our long ago stolen businesses are now coming back to America in order to avoid paying tariffs. They are lining up, just like the rest of the World!!! President DJT",
+   "tickers": [
+    "SPY"
+   ],
+   "engagement": 502,
+   "url": "https://truthsocial.com/@realDonaldTrump/117187278603098753",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "SPY",
+   "strength": 45,
+   "reason": "Tariff threat on Canada drives companies back to US; bullish macro signal but vague on timing/magnitude"
+  },
   {
    "date": "2026-08-30T18:26:25.271Z",
    "platform": "Truth Social",
@@ -407,6 +424,22 @@
    "primary_ticker": "USO",
    "strength": 70,
    "reason": "Trump hails major Venezuela oil deal; direct bullish signal for oil supply and energy sector"
+  },
+  {
+   "date": "2026-08-29T07:00:00Z",
+   "platform": "News",
+   "text": "Pence praises Trump space agenda as launches hit 178 in 2025 - scanx.trade \u2014 Pence praises Trump space agenda as launches hit 178 in 2025\u00a0\u00a0scanx.trade",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQUUtZGlaMWw3N3VNZnFGcy1NUC1QSV9qR05FSHdzdXYyeHJpUW5ETXl5b3JNZ3NfMXJXeGI0cWViUEZNcjc3TmR5YkJ6b252SF81T3NSZVM3cTBlQVpsbUVuczY5WC16Zk5aWkt6SS1NS3pNOTNhZlBRdmMxajJwNEI5ODBJU0pFTWZjWWtKWGMzd2M5NEZZc2UyNXZKN0stUmtiaThxMjNTQWFn?oc=5",
+   "tickers": [
+    "XAR"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "XAR",
+   "strength": 50,
+   "reason": "Space launches at 178 in 2025 signal strong aerospace/defense activity and expansion"
   },
   {
    "date": "2026-08-29T04:33:55Z",
@@ -2368,46 +2401,6 @@
     "base_date": "2026-08-24",
     "last_date": "2026-08-25"
    }
-  },
-  {
-   "date": "2026-08-24T02:37:21Z",
-   "platform": "News",
-   "text": "Trump Reinstates Iranian Blockade, Says US Will Be Reimbursed At A Rate Of 20% On All Cargo Shipped Through The Strait Of Hormuz - Stocktwits \u2014 Trump Reinstates Iranian Blockade, Says US Will Be Reimbursed At A Rate Of 20% On All Cargo Shipped Through The Strait Of Hormuz\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQbmtjamxSQk5UZDVHZ3FaSjdKTmdhYjNhclV0Tk95ZEpvM2FFRnFDclNiVzhwNjluT2d0V0xBc0N5RkZUeDdXOGVkZV90ZkVQdEkzM0lvSEdrZjdwRENPRUQwdVZTS2VjSTRkSFdEbzdxZXlqXzV6cUMyY0trTW9RQ29ld3pRU2dyMnFSYzEwUE9sSzEwakNmY20xeUpVcUhINzdwN2p3SkxHdEpaZjVSa0RWa3dHWkJQaW51SV8tbk5GQ2ZOdXNhaXBCOA?oc=5",
-   "tickers": [
-    "XLE"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "XLE",
-   "strength": 55,
-   "reason": "Iranian blockade with 20% cargo tax increases energy costs and shipping friction; bearish for oil/energy sector",
-   "price_since": {
-    "ticker": "XLE",
-    "pct": -0.8,
-    "base": 63.11,
-    "last": 62.62,
-    "base_date": "2026-08-24",
-    "last_date": "2026-08-25"
-   }
-  },
-  {
-   "date": "2026-08-24T00:09:17Z",
-   "platform": "News",
-   "text": "Palantir emerges as military contracting powerhouse under Trump - Crypto Briefing \u2014 Palantir emerges as military contracting powerhouse under Trump\u00a0\u00a0Crypto Briefing",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5UN28wb29FVjJROE5wcXZ1Z2NVUVpSNEg5Q0pkOG1jTGwwS25lcHRwT05UcmNZSkNQeGZxS3R2dU04SHZONGxLTGRKakp6cG01eWVMV1kwbmdxeERlX1V0MERaWlZOVXRrSDJHUXU3WGo?oc=5",
-   "tickers": [
-    "PLTR"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "PLTR",
-   "strength": 65,
-   "reason": "Palantir contract expansion under Trump administration boosts defense revenue"
   },
   {
    "curated": true,
