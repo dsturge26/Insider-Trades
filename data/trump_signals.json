@@ -1,7 +1,41 @@
 {
- "last_updated": "2026-08-31T14:28:00Z",
+ "last_updated": "2026-08-31T20:18:21Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-08-31T15:36:12.189Z",
+   "platform": "Truth Social",
+   "text": "RT @realDonaldTrumpThe only reason that communities throughout the U.S.A. should not want Data Centers is if they want to end up being backwards and poor. If they want to be successful and rich, with far lower taxes and jobs all over the place, let Data Reign. The good news is that there are plenty of other places that want them. If we kill the Golden Goose, you will only have yourselves to blame. China could not be happier with this anti Data Center movement. Actually, they can't believe it is happening! President DJT",
+   "tickers": [
+    "SPY"
+   ],
+   "engagement": 0,
+   "url": "https://truthsocial.com/@realDonaldTrump/117190857339012632",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "SPY",
+   "strength": 45,
+   "reason": "Trump endorses data centers as economic driver; pro-business/growth macro signal, bullish for broad market and tech infrastructure"
+  },
+  {
+   "date": "2026-08-31T15:32:45.469Z",
+   "platform": "Truth Social",
+   "text": "Trump Asks Congress to Pass Crypto Bill Alongside Executives: https://www.bloomberg.com/news/articles/2026-08-19/trump-asks-congress-to-pass-crypto-bill-alongside-executives",
+   "tickers": [
+    "TRUMP"
+   ],
+   "engagement": 3530,
+   "url": "https://truthsocial.com/@realDonaldTrump/117190843791390411",
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "TRUMP",
+   "strength": 75,
+   "reason": "Trump directly asks Congress to pass crypto bill; explicit pro-crypto policy push; bullish for crypto assets and DJT"
+  },
   {
    "date": "2026-08-31T13:59:35.393Z",
    "platform": "Truth Social",
@@ -52,6 +86,22 @@
    "reason": "Trump explicitly praises Nvidia CEO's 'incredible numbers' and Micron as 'hottest' company"
   },
   {
+   "date": "2026-08-31T10:16:12Z",
+   "platform": "News",
+   "text": "DELL Stock Spikes To Record Highs On President Trump\u2019s Endorsement - Stocktwits \u2014 DELL Stock Spikes To Record Highs On President Trump\u2019s Endorsement\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYWF1OUgweFU0d1NlNU4ya1FYQVJSVTRCX3IwM0NMd19VVmN5RzNtUmc1c2FhTU9abXdnTmVnMDE2QUxna3ZrUEF3Zkd0SFUtOWx3QkF2elBuNkNTcmZDRm1BRUkwMVRwYU0xaUVsWDZLSk0yeEtiMFFPV0t3ZXZ3OW15QUg5V0xHNnRrU1J5VXdvX09Oa0ZmRmJvV0VTVlFRRFh6c3E5RmtHckx0MXpNVVZTWmJpLTUtUXBHSG5pWEFfQll0ejRneDFB?oc=5",
+   "tickers": [
+    "DELL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "DELL",
+   "strength": 85,
+   "reason": "Trump explicitly endorses Dell; stock spikes on direct presidential praise"
+  },
+  {
    "date": "2026-08-31T10:00:01Z",
    "platform": "News",
    "text": "Coupang dispute fuels new U.S. tariff pressure on South Korea - CNBC \u2014 Coupang dispute fuels new U.S. tariff pressure on South Korea\u00a0\u00a0CNBC",
@@ -68,6 +118,22 @@
    "reason": "Tariff pressure on South Korea signals potential trade friction headwind"
   },
   {
+   "date": "2026-08-31T09:55:27Z",
+   "platform": "News",
+   "text": "WULF Stock Drops Despite Price Target Hikes From Wall Street On $19B Anthropic Lease - Stocktwits \u2014 WULF Stock Drops Despite Price Target Hikes From Wall Street On $19B Anthropic Lease\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZkNMOVRxOWRRS0YyQUl5S0JsbENGN3Y1Qy02RHE1eWNFblM1WVdmUWFsamloREdtWjZPQ3Y5VFU2cUFVakZOQ29lWG0waDJmS3pyZWFxbGpLYW5IaTNjV2ZWajBIaXA4cnV0LUEwSG5aOWFxOVRtZ3dfS0Y4SXR3OFBpekRJVEpHZmxNRVhUSUtaWF9ocnkzY3ZwOExuT3h3dTlsM2VCN2FuTVllSnBsMk5QRHNUZw?oc=5",
+   "tickers": [
+    "WULF"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "WULF",
+   "strength": 35,
+   "reason": "$19B AI infrastructure lease to Anthropic is bullish for data-center operators like Wulf, but stock falling suggests mixed sentiment"
+  },
+  {
    "date": "2026-08-31T07:59:51Z",
    "platform": "News",
    "text": "Trump Says China Has Not Approved NVDA H200 Chip Purchases Yet \u2014 'They Want To Develop Their Own' - Stocktwits \u2014 Trump Says China Has Not Approved NVDA H200 Chip Purchases Yet \u2014 'They Want To Develop Their Own'\u00a0\u00a0Stocktwits",
@@ -82,22 +148,6 @@
    "primary_ticker": "NVDA",
    "strength": 50,
    "reason": "China chip restrictions on H200 purchases bearish for Nvidia export revenue"
-  },
-  {
-   "date": "2026-08-31T07:23:51Z",
-   "platform": "News",
-   "text": "WULF Stock Drops Despite Price Target Hikes From Wall Street On $19B Anthropic Lease - Stocktwits \u2014 WULF Stock Drops Despite Price Target Hikes From Wall Street On $19B Anthropic Lease\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZkNMOVRxOWRRS0YyQUl5S0JsbENGN3Y1Qy02RHE1eWNFblM1WVdmUWFsamloREdtWjZPQ3Y5VFU2cUFVakZOQ29lWG0waDJmS3pyZWFxbGpLYW5IaTNjV2ZWajBIaXA4cnV0LUEwSG5aOWFxOVRtZ3dfS0Y4SXR3OFBpekRJVEpHZmxNRVhUSUtaWF9ocnkzY3ZwOExuT3h3dTlsM2VCN2FuTVllSnBsMk5QRHNUZw?oc=5",
-   "tickers": [
-    "WULF"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "WULF",
-   "strength": 40,
-   "reason": "$19B Anthropic lease ambiguous; AI infrastructure play but stock weakness despite bullish action"
   },
   {
    "date": "2026-08-31T05:29:22Z",
@@ -363,6 +413,22 @@
    "reason": "Canada trade rhetoric and auto industry tension; macro tariff/trade concern but direction ambiguous pending details"
   },
   {
+   "date": "2026-08-30T12:44:22Z",
+   "platform": "News",
+   "text": "Nasdaq, S&P 500 Futures Rebound As Micron Rally Lifts Chip Stocks: Why SPCX, QCOM, TSM, BABA, PLTR, CBRS, WEN, IBRX Are In Focus - Stocktwits \u2014 Nasdaq, S&P 500 Futures Rebound As Micron Rally Lifts Chip Stocks: Why SPCX, QCOM, TSM, BABA, PLTR, CBRS, WEN, IBRX Are In Focus\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQZjEyUjNpdUFBSU1TbzlQNmpzSV9LcDA3cDJHcDdWRWdmN0pqa2Nma3lfdEdJdmM2eGwtUE9PMTdqYUh1bno4cC04b3lUUVNGMEVlY0xYMTRZODJHREltVkNSYzlsbnJFd0RMdjQ4X0lDSWZRM1pfR0RJYTdPbl9UYThhRUhtdU91T2NsSVJqQlBCT2J2YmNXbXFWV1BQdkkyMVZmM0NwLXRGWk52WmRUeU9CZzRnalNQX3BMWmQ3VEpYMUE3RVhaTWNNOElQTllMR1NVYnUtWVFIbHh4a25heWJjWjZfNjdoT1d2eFhhTnlHN3dTVU05MnhGZGxHZTRpWm1xc2o0MEdSZw?oc=5",
+   "tickers": [
+    "NVDA"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "NVDA",
+   "strength": 50,
+   "reason": "Micron rally lifts chip sector; Nasdaq rebound on semiconductor strength; sector momentum bullish"
+  },
+  {
    "date": "2026-08-30T12:19:44.016Z",
    "platform": "Truth Social",
    "text": "Trump's historic oil deal with Venezuela realigns global energy and puts OPEC, Canada on notice: https://justthenews.com/government/white-house/trump-announces-massive-oil-deal-venezuela",
@@ -524,22 +590,6 @@
    "reason": "AMD having best year in a decade; CEO equity reward reflects strong performance, but no direct Trump catalyst or explicit endorsement mentioned."
   },
   {
-   "date": "2026-08-29T23:11:20Z",
-   "platform": "News",
-   "text": "DELL Stock Spikes To Record Highs On President Trump\u2019s Endorsement - Stocktwits \u2014 DELL Stock Spikes To Record Highs On President Trump\u2019s Endorsement\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYWF1OUgweFU0d1NlNU4ya1FYQVJSVTRCX3IwM0NMd19VVmN5RzNtUmc1c2FhTU9abXdnTmVnMDE2QUxna3ZrUEF3Zkd0SFUtOWx3QkF2elBuNkNTcmZDRm1BRUkwMVRwYU0xaUVsWDZLSk0yeEtiMFFPV0t3ZXZ3OW15QUg5V0xHNnRrU1J5VXdvX09Oa0ZmRmJvV0VTVlFRRFh6c3E5RmtHckx0MXpNVVZTWmJpLTUtUXBHSG5pWEFfQll0ejRneDFB?oc=5",
-   "tickers": [
-    "DELL"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "DELL",
-   "strength": 85,
-   "reason": "Trump explicitly endorses Dell; stock spikes on named company praise"
-  },
-  {
    "date": "2026-08-29T18:29:20Z",
    "platform": "News",
    "text": "Trump Weighs In On Elon Musk, OpenAI, Intel \u2014 And Takes Aim At The 'Hostile' Fed Board - Stocktwits \u2014 Trump Weighs In On Elon Musk, OpenAI, Intel \u2014 And Takes Aim At The 'Hostile' Fed Board\u00a0\u00a0Stocktwits",
@@ -699,22 +749,6 @@
    "primary_ticker": "XLE",
    "strength": 65,
    "reason": "Major oil deal announcement increases US oil reserves, bullish for energy sector"
-  },
-  {
-   "date": "2026-08-29T00:09:18Z",
-   "platform": "News",
-   "text": "Nasdaq, S&P 500 Futures Rebound As Micron Rally Lifts Chip Stocks: Why SPCX, QCOM, TSM, BABA, PLTR, CBRS, WEN, IBRX Are In Focus - Stocktwits \u2014 Nasdaq, S&P 500 Futures Rebound As Micron Rally Lifts Chip Stocks: Why SPCX, QCOM, TSM, BABA, PLTR, CBRS, WEN, IBRX Are In Focus\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQZjEyUjNpdUFBSU1TbzlQNmpzSV9LcDA3cDJHcDdWRWdmN0pqa2Nma3lfdEdJdmM2eGwtUE9PMTdqYUh1bno4cC04b3lUUVNGMEVlY0xYMTRZODJHREltVkNSYzlsbnJFd0RMdjQ4X0lDSWZRM1pfR0RJYTdPbl9UYThhRUhtdU91T2NsSVJqQlBCT2J2YmNXbXFWV1BQdkkyMVZmM0NwLXRGWk52WmRUeU9CZzRnalNQX3BMWmQ3VEpYMUE3RVhaTWNNOElQTllMR1NVYnUtWVFIbHh4a25heWJjWjZfNjdoT1d2eFhhTnlHN3dTVU05MnhGZGxHZTRpWm1xc2o0MEdSZw?oc=5",
-   "tickers": [
-    "SMH"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "SMH",
-   "strength": 35,
-   "reason": "Micron rally lifts chip sector broadly; no Trump signal here, general chip sector momentum."
   },
   {
    "date": "2026-08-28T22:48:41Z",
@@ -2245,126 +2279,6 @@
     "pct": -2.0,
     "base": 68.28,
     "last": 66.91,
-    "base_date": "2026-08-24",
-    "last_date": "2026-08-25"
-   }
-  },
-  {
-   "date": "2026-08-24T18:57:27Z",
-   "platform": "News",
-   "text": "Trump bought shares in Elon Musk's SpaceX in June, financial disclosure shows - Reuters \u2014 Trump bought shares in Elon Musk's SpaceX in June, financial disclosure shows\u00a0\u00a0Reuters",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZHBZd3V0b2sySFhUajY0b2NBeVcwZzFLdGpNMENHWGRyMHEtX0NqYi1fUXU2a1E4UGVqS25vS3hpTkd2MW5xLVRtTi1pSnZ3R1VpZDBxY1lLLW9WbEdKdzFZbTlzbjZMRlJGQmt1OS1kTlBpZkhkbVJXYWd4elhfRTV5SENBRG80WHlhbURPeGZRYWt5TmxoN0FlSHVZb2QweFJlQWtkemoyQnRhak5ncnl6S29SWHdadjRUamdRdw?oc=5",
-   "tickers": [
-    "DJT"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "DJT",
-   "strength": 25,
-   "reason": "Trump's personal SpaceX investment signals confidence in space/AI; indirect bullish read on space sector but ambiguous direction",
-   "price_since": {
-    "ticker": "DJT",
-    "pct": 1.1,
-    "base": 9.3,
-    "last": 9.4,
-    "base_date": "2026-08-24",
-    "last_date": "2026-08-25"
-   }
-  },
-  {
-   "date": "2026-08-24T18:44:53Z",
-   "platform": "News",
-   "text": "Trump threatens 50% tariffs on all cars and trucks from Canada amid trade fight - Reuters \u2014 Trump threatens 50% tariffs on all cars and trucks from Canada amid trade fight\u00a0\u00a0Reuters",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPeHRsVm1PblBZVy1Kb0lNOVdrZ3E1dVItdjNHazBSVWFOc25tWHluRU81c3ZRNzB0Y2c4eUlmX2dzWE0yY2FNV0xqaG4zcDVRWVhvVGhleTFIVExKYVRqeVUxazBGNzBuSVBabzczRFpxdi1lVF9GdDZiQk55ZDJzMThwMEJIcGxrSTNncDg1aUU0TkxUTEc1a19rN0lnNFVFQ3F3V3g1UFlGcE1lNm9pOW84MVpDd3Y3VEFvYk9LOXVUUTN3Z2ZvX1FQR0RoemtwRUlvdWVoSQ?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "SELL",
-   "primary_ticker": "SPY",
-   "strength": 75,
-   "reason": "50% auto tariffs on Canada announced; broad market bearish, explicit policy threat",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": 0.3,
-    "base": 763.47,
-    "last": 765.91,
-    "base_date": "2026-08-24",
-    "last_date": "2026-08-25"
-   }
-  },
-  {
-   "date": "2026-08-24T18:27:00Z",
-   "platform": "News",
-   "text": "Donald Trump bought up to $50,000 worth SpaceX shares in June, financial disclosure shows - The Economic Times \u2014 Donald Trump bought up to $50,000 worth SpaceX shares in June, financial disclosure shows\u00a0\u00a0The Economic Times",
-   "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQZHdXck14T3hkT0piMmp4bUE0SnVBZmQtQWFtbE9RVEdFUUZoMGd4YUczRW9QTjIwV3FjSWI4UWFXclNoODRQTjVzbEZTa3dlVFB3QU1UQTg1U2xnQ281TE9JVmIySm5pdnhDd1JSWVNkV0lsTkZFeXljZ1lueTd5dVl1d09fQ01Wc3BmMW0zQkNMQmJEMktmZ2pIV3ZwZWpBOUpJeUpXOFJYQXBFdXBXR3Rsb1Q3Ym5GMTJmSUsxcmV4X2o1aHJkeVB1WW1PZWFPOHlHOGRkVzFCbzRYRTh3cElodkxjYUFOYWZwSDJBTzhwMWZjT3BJa2VrRk1VWnlGRENiLWNUendQX3Jx0gGMAkFVX3lxTFBkd1dyTXhPeGRPSmIyanhtQTRKdUFmZC1BYW1sT1FUR0VRRmgwZ3hhRzNFb1BOMjBXcWNJYjhRYVdyU2g4NFBONXNsRlNrd2VUUHdBTVRBODVTbGdDbzVMT0lWYjJKbml2eEN3UlJZU2RXSWxORkV5eWNnWW55N3l1WXV3T19DTVZzcGYxbTNCQ0xCYkQyS2ZnakhXdnBlakE5Skl5Slc4UlhBcEV1cFdHdGxvVDdibkYxMmZJSzFyZXhfajVocmR5UHVZbU9lYU84eUc4ZGRXMUJvNFhFOHdwSWh2TGNhQU5hZnBIMkFPOHAxZmNPcElrZWtGTVVaeUZEQ2ItY1R6d1BfcnE?oc=5",
-   "tickers": [
-    "DJT"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "DJT",
-   "strength": 25,
-   "reason": "Trump SpaceX share purchase signals sector interest; modest signal via his trading activity",
-   "price_since": {
-    "ticker": "DJT",
-    "pct": 1.1,
-    "base": 9.3,
-    "last": 9.4,
-    "base_date": "2026-08-24",
-    "last_date": "2026-08-25"
-   }
-  },
-  {
-   "date": "2026-08-24T17:56:25Z",
-   "platform": "News",
-   "text": "Memory Stocks Slide as Trump Threatens 50% Tariffs on Canadian Autos, Steel in 2027: Stock Market Today - Dailyhunt \u2014 Memory Stocks Slide as Trump Threatens 50% Tariffs on Canadian Autos, Steel in 2027: Stock Market Today\u00a0\u00a0Dailyhunt",
-   "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQNDdaeDBlNVBvc2plVUg1ZHo5NFJkdTZGaW5CS24yazRGWDQ5N1daMkJiSzVCaWN5Q1BWdkFMWWFyU1VrejJnRWt4VVpRTTVWN0VianlwOWw0WW1PYVMwYXQ5bU94WEpmYUVwUTZkSDhSSGk1UVVSZFdERlBSbDc4MGN2SjhNbnd0aEl1R3d5RTNfb0dLbTA5UUdHUm1tMkNOdU15V1hKVURqQ21kSWZTX21kcm9XN0twcmNYd2dfVHRpRXc5VVFwWXJsV1c0QlFUYzFBTVJLY09mWC1QZnZOMGdUQnl3V2lMMEdYQmMyMDlzM21JV1I3NzRwLVB4Yy1nWXBxbHVzQ0w1d284dlZ0aERybw?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "SPY",
-   "strength": 70,
-   "reason": "Trump threatens 50% tariffs on Canadian autos and steel; broad market bearish",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": 0.3,
-    "base": 763.47,
-    "last": 765.91,
-    "base_date": "2026-08-24",
-    "last_date": "2026-08-25"
-   }
-  },
-  {
-   "date": "2026-08-24T17:48:25Z",
-   "platform": "News",
-   "text": "Trump threatens 50% tariffs on all cars and trucks from Canada amid trade fight - Devdiscourse \u2014 Trump threatens 50% tariffs on all cars and trucks from Canada amid trade fight\u00a0\u00a0Devdiscourse",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRjNKUHJ5WDVmUzJmS1hrejFqbXBmR3ZTVjFDbEFtNUdYUlpTNXdtcjZ4TmIxQVViYWU5ODRELTdXUUhMM2dBN2ljQ2NuWjIwNVh4WkNhcFRfM2JNdnhTU1VwMmQwenFZektjbVlSbTY1XzVCNWpMZC0yNm45QlVFbDVxUW9lY29MR3FvbS1pWmVaZXFTanlxVS1pYlZoU1UyNHNITUE4SHQyNVJ1MHZKXzM3VGR5ZTAzRTJwVnhiQkpzNk9QTlBMVjZxWVZrdWQ0RzZuU1JuSGHSAdgBQVVfeXFMUEYzSlByeVg1ZlMyZktYa3oxam1wZkd2U1YxQ2xBbTVHWFJaUzV3bXI2eE5iMUFVYmFlOTg0RC03V1FITDNnQTdpY0NjbloyMDVYeFpDYXBUXzNiTXZ4U1NVcDJkMHpxWXpLY21ZUm02NV81QjVqTGQtMjZuOUJVRWw1cVFvZWNvTEdxb20taVplWmVxU2p5cVUtaWJWaFNVMjRzSE1BOEh0MjVSdTB2Sl8zN1RkeWUwM0UycFZ4YkJKczZPUE5QTFY2cVlWa3VkNEc2blNSbkhh?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "SPY",
-   "strength": 75,
-   "reason": "50% tariffs on Canadian autos bearish for auto sector and broad market; concrete policy threat.",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": 0.3,
-    "base": 763.47,
-    "last": 765.91,
     "base_date": "2026-08-24",
     "last_date": "2026-08-25"
    }
