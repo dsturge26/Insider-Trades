@@ -1,7 +1,39 @@
 {
- "last_updated": "2026-09-01T09:46:46Z",
+ "last_updated": "2026-09-01T14:33:14Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-09-01T09:54:48Z",
+   "platform": "News",
+   "text": "Stock Market Today: S&P 500, Dow Futures Drop After Trump Says Iran Is 'Totally Defeated', Brent Tops $92 \u2014 CBRS, PXS, PANW, DELL in Focus - TradingView \u2014 Stock Market Today: S&P 500, Dow Futures Drop After Trump Says Iran Is 'Totally Defeated', Brent Tops $92 \u2014 CBRS, PXS, PANW, DELL in Focus\u00a0\u00a0TradingView",
+   "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPRVJPQm5ZOW4wc3hKYXJSMEhqUHJvdUtlb2c1TlJEQ3lNQmxKM1h2VS1UVmFwbDdDUHgtOTlEaEQ4VnJJT2F3MDRGdVR0OGNDcFJKZGVkN1dSOE1NQkR6dkdWNzRiYjdWYVlLZW8zWDBaNUVEOHgzaHUwd0dWQ094Nkg2c2ZMMUFjaHBjeWRnVWlrS0VaWWtOcy1wUlctWGxvaDdud2xtZUdYaWprTzZjRlFCaGIwUll4UkVWclJSNHh5b1BMWjBhRkRGVTYzV3ljS2lLM054Sy1nOVdFdFFXT3F0NnNhYXdGenNsZEp4QURXVGNqTHdGeENIb1dLYjR3RTRJT3JBUzNiRFYzZFFRMEhEYVg?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "SPY",
+   "strength": 35,
+   "reason": "Trump Iran comment and geopolitical tension imply broad market weakness; oil up"
+  },
+  {
+   "date": "2026-09-01T05:21:44Z",
+   "platform": "News",
+   "text": "NOK Stock Rises Pre-Market: Trump Endorsement Adds Fuel To AI Growth Push For Nokia - Stocktwits \u2014 NOK Stock Rises Pre-Market: Trump Endorsement Adds Fuel To AI Growth Push For Nokia\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNaVBkeHg0Vi02NWZ0Tlp5bGh2bjdYaC10MUFVamtBcTFCbjByT05oVmIyeUJQSzFMVGZSLXpFdkd0NVVIMHY3UzNqOFFIQ3FvakVucnM4dms0VXZHQTdlSnJkTXpqdVVJclpEU2lEUUtKYTloWjFFRU5Db2cteVF5UGxkd05LakNaMWZpa1UtaVdodVVIU1I1Vkxjb0kyTG52eFVUaHdkR3Rjb0l4MmpQT2ZMTW5HWWNFdTA2elZuN3ZCckxMa2VrS0FXZm9VNUJWSDBSU2RDMV9WNkJmajVJ?oc=5",
+   "tickers": [
+    "NOK"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "NOK",
+   "strength": 65,
+   "reason": "Trump endorsement of Nokia explicitly named; AI/growth bullish for NOK"
+  },
   {
    "date": "2026-09-01T03:02:00Z",
    "platform": "News",
@@ -35,6 +67,30 @@
    "reason": "Cathie Wood portfolio moves; crypto rally backdrop but no Trump statement or action"
   },
   {
+   "date": "2026-08-31T23:32:29Z",
+   "platform": "News",
+   "text": "Critical Metals Stock Surges As Trump Sets Sights On Greenland Yet Again: 'Big, Poorly Run, Piece Of Ice!' - Stocktwits \u2014 Critical Metals Stock Surges As Trump Sets Sights On Greenland Yet Again: 'Big, Poorly Run, Piece Of Ice!'\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZFdENjBoV0hEenBRM0VFTG9UR1JuV200S0NBMFBVdFdSSVN6V1pNSWZGeEMwbWNMMFI4ZVQyNTZyclFQQlBXbUVUeDZSbFI4YWhvTzBRLWtwU3ZUcXBRdWRVbEM0a3dCTGFsNXhYZGpDZGJuR1k3NlhmSzJ6RV9yZE04Um84WjJuQ3B1cW9peE44UTZTWjNueEpPTHJOeUxyMGM3czlaeHVFQkJxY1FaNG54dUhKc2ZkZk9tVGk0UUlHMjlCeGptTFBDWWRoREhnTUE?oc=5",
+   "tickers": [
+    "XME"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "XME",
+   "strength": 50,
+   "reason": "Trump Greenland interest implies critical metals/rare earths supply catalyst; bullish metals sector",
+   "price_since": {
+    "ticker": "XME",
+    "pct": -0.7,
+    "base": 118.13,
+    "last": 117.25,
+    "base_date": "2026-08-31",
+    "last_date": "2026-09-01"
+   }
+  },
+  {
    "date": "2026-08-31T22:40:00Z",
    "platform": "News",
    "text": "Trump Endorses U.S. Tax Incentive to Keep Hollywood Production: \u2018Let\u2019s Get This Done!\u2019 - Variety \u2014 Trump Endorses U.S. Tax Incentive to Keep Hollywood Production: \u2018Let\u2019s Get This Done!\u2019\u00a0\u00a0Variety",
@@ -48,7 +104,39 @@
    "direction": "BUY",
    "primary_ticker": "SPY",
    "strength": 45,
-   "reason": "Tax incentive for Hollywood production; modest pro-business signal affecting media/entertainment sector"
+   "reason": "Tax incentive for Hollywood production; modest pro-business signal affecting media/entertainment sector",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": -0.4,
+    "base": 767.05,
+    "last": 764.3,
+    "base_date": "2026-08-31",
+    "last_date": "2026-09-01"
+   }
+  },
+  {
+   "date": "2026-08-31T21:47:46Z",
+   "platform": "News",
+   "text": "KEEL Stock Jumps Onto Retail Radar As Investors Eye First Data Center Lease Announcement - Stocktwits \u2014 KEEL Stock Jumps Onto Retail Radar As Investors Eye First Data Center Lease Announcement\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVHpiUDN5T2I5aVFzNkpxZGZjdUJEVG0xLXN0c3pVRWo2REVuRGNZTFpvLXJTT2luZVhnTC1iVmFtcFYxbkpnanphZ3E0N0ExWmx5UGh4cGw2QmRiQXl3RG81OWlKRnEwOHVHT0FWdXlGd2VIZVhjM1k2TTU0THctQ3cyUVhNNG9JcGJQMlhPVHdWbkFVSVpfR25lNzVCMTJ4cGZRR05JcnR2SWFvSGc1VnYyMzFMMnFDLURZLW5pMGk3UUwyWktaVVNmZUdDZ21QZGQ0bEZfU0o1LXRvREhFd3h2NXBTMjQ?oc=5",
+   "tickers": [
+    "KEEL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "KEEL",
+   "strength": 35,
+   "reason": "Data center lease announcement; momentum play but direction unclear without details",
+   "price_since": {
+    "ticker": "KEEL",
+    "pct": -3.2,
+    "base": 3.15,
+    "last": 3.05,
+    "base_date": "2026-08-31",
+    "last_date": "2026-09-01"
+   }
   },
   {
    "date": "2026-08-31T21:10:05Z",
@@ -64,7 +152,39 @@
    "direction": "BUY",
    "primary_ticker": "DELL",
    "strength": 75,
-   "reason": "Trump Account holders receiving Dell grants directly supports Dell and signals Trump endorsement of the company."
+   "reason": "Trump Account holders receiving Dell grants directly supports Dell and signals Trump endorsement of the company.",
+   "price_since": {
+    "ticker": "DELL",
+    "pct": -3.0,
+    "base": 456.01,
+    "last": 442.44,
+    "base_date": "2026-08-31",
+    "last_date": "2026-09-01"
+   }
+  },
+  {
+   "date": "2026-08-31T17:20:45Z",
+   "platform": "News",
+   "text": "Trump strikes new drug pricing deals with nine midsized drugmakers - CNBC \u2014 Trump strikes new drug pricing deals with nine midsized drugmakers\u00a0\u00a0CNBC",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBuT1lnX3ByMXlKZEM1QnphTV9pNGpWM25WS1Q0WWdFeHMyM2xsX3FQWWxhSlFqSFlERzZDUFFGWkFqa3Z2ZWVGWlFpc1FoNVZwSUN5UndoT1lDYzZqMVBPNWFvYWpBNFViZU9PMDJB0gFzQVVfeXFMUFJpNEJ6MU5DSWN1ckpWQkRSdWlDMnlGeG5pVFdJTGoxS3lZeVV6cGRxVk5haXdTdmU1NFN6M2FqQ2lNdW1KR3dEN0pCMWY0SjFhbk5KUFppZnZMX0p6QUd6Z3pRTXc1cC1EckU5VDBQMzNuUQ?oc=5",
+   "tickers": [
+    "XBI"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "XBI",
+   "strength": 40,
+   "reason": "Trump drug pricing deals; mixed signal for biotech/pharma (cost control bearish; regulatory bullish)",
+   "price_since": {
+    "ticker": "XBI",
+    "pct": -0.3,
+    "base": 162.5,
+    "last": 162.0,
+    "base_date": "2026-08-31",
+    "last_date": "2026-09-01"
+   }
   },
   {
    "date": "2026-08-31T15:36:12.189Z",
@@ -81,7 +201,15 @@
    "direction": "BUY",
    "primary_ticker": "SPY",
    "strength": 45,
-   "reason": "Trump endorses data centers as economic driver; pro-business/growth macro signal, bullish for broad market and tech infrastructure"
+   "reason": "Trump endorses data centers as economic driver; pro-business/growth macro signal, bullish for broad market and tech infrastructure",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": -0.4,
+    "base": 767.05,
+    "last": 764.32,
+    "base_date": "2026-08-31",
+    "last_date": "2026-09-01"
+   }
   },
   {
    "date": "2026-08-31T15:32:45.469Z",
@@ -114,7 +242,15 @@
    "direction": "SELL",
    "primary_ticker": "NVDA",
    "strength": 65,
-   "reason": "Trump reports China blocking H200 chip sales; negative for Nvidia exports"
+   "reason": "Trump reports China blocking H200 chip sales; negative for Nvidia exports",
+   "price_since": {
+    "ticker": "NVDA",
+    "pct": -1.3,
+    "base": 220.78,
+    "last": 217.96,
+    "base_date": "2026-08-31",
+    "last_date": "2026-09-01"
+   }
   },
   {
    "date": "2026-08-31T14:57:45Z",
@@ -130,7 +266,15 @@
    "direction": "BUY",
    "primary_ticker": "IBM",
    "strength": 80,
-   "reason": "Trump administration awards $1B quantum computing grant; direct federal contract bullish"
+   "reason": "Trump administration awards $1B quantum computing grant; direct federal contract bullish",
+   "price_since": {
+    "ticker": "IBM",
+    "pct": -0.6,
+    "base": 233.87,
+    "last": 232.39,
+    "base_date": "2026-08-31",
+    "last_date": "2026-09-01"
+   }
   },
   {
    "date": "2026-08-31T14:15:23Z",
@@ -146,7 +290,15 @@
    "direction": "WATCH",
    "primary_ticker": "WULF",
    "strength": 50,
-   "reason": "$19B Anthropic lease bullish but stock drops; mixed signal on AI infrastructure play"
+   "reason": "$19B Anthropic lease bullish but stock drops; mixed signal on AI infrastructure play",
+   "price_since": {
+    "ticker": "WULF",
+    "pct": -3.9,
+    "base": 15.13,
+    "last": 14.54,
+    "base_date": "2026-08-31",
+    "last_date": "2026-09-01"
+   }
   },
   {
    "date": "2026-08-31T13:59:35.393Z",
@@ -163,7 +315,15 @@
    "direction": "BUY",
    "primary_ticker": "SMH",
    "strength": 35,
-   "reason": "Pro-data center policy stance bullish for semiconductor/chip infrastructure sector"
+   "reason": "Pro-data center policy stance bullish for semiconductor/chip infrastructure sector",
+   "price_since": {
+    "ticker": "SMH",
+    "pct": -2.3,
+    "base": 556.63,
+    "last": 543.6,
+    "base_date": "2026-08-31",
+    "last_date": "2026-09-01"
+   }
   },
   {
    "date": "2026-08-31T13:10:32Z",
@@ -179,7 +339,15 @@
    "direction": "BUY",
    "primary_ticker": "NVDA",
    "strength": 80,
-   "reason": "Trump explicitly praises Nvidia's 'incredible results' to CEO; direct positive endorsement of named public company."
+   "reason": "Trump explicitly praises Nvidia's 'incredible results' to CEO; direct positive endorsement of named public company.",
+   "price_since": {
+    "ticker": "NVDA",
+    "pct": -1.3,
+    "base": 220.78,
+    "last": 217.96,
+    "base_date": "2026-08-31",
+    "last_date": "2026-09-01"
+   }
   },
   {
    "date": "2026-08-31T13:10:00Z",
@@ -195,7 +363,15 @@
    "direction": "BUY",
    "primary_ticker": "NVDA",
    "strength": 65,
-   "reason": "Trump called Nvidia CEO and celebrated; direct praise of company"
+   "reason": "Trump called Nvidia CEO and celebrated; direct praise of company",
+   "price_since": {
+    "ticker": "NVDA",
+    "pct": -1.3,
+    "base": 220.78,
+    "last": 217.98,
+    "base_date": "2026-08-31",
+    "last_date": "2026-09-01"
+   }
   },
   {
    "date": "2026-08-31T13:10:00Z",
@@ -211,7 +387,15 @@
    "direction": "BUY",
    "primary_ticker": "NVDA",
    "strength": 80,
-   "reason": "Trump explicitly praises Nvidia's 'incredible results' to CEO; direct positive endorsement of named public company."
+   "reason": "Trump explicitly praises Nvidia's 'incredible results' to CEO; direct positive endorsement of named public company.",
+   "price_since": {
+    "ticker": "NVDA",
+    "pct": -1.3,
+    "base": 220.78,
+    "last": 217.96,
+    "base_date": "2026-08-31",
+    "last_date": "2026-09-01"
+   }
   },
   {
    "date": "2026-08-31T11:01:13Z",
@@ -227,7 +411,15 @@
    "direction": "BUY",
    "primary_ticker": "NVDA",
    "strength": 70,
-   "reason": "Trump explicitly praises Nvidia CEO's 'incredible numbers' and Micron as 'hottest' company"
+   "reason": "Trump explicitly praises Nvidia CEO's 'incredible numbers' and Micron as 'hottest' company",
+   "price_since": {
+    "ticker": "NVDA",
+    "pct": -1.3,
+    "base": 220.78,
+    "last": 217.98,
+    "base_date": "2026-08-31",
+    "last_date": "2026-09-01"
+   }
   },
   {
    "date": "2026-08-31T11:01:13Z",
@@ -243,7 +435,15 @@
    "direction": "BUY",
    "primary_ticker": "NVDA",
    "strength": 75,
-   "reason": "Trump praises Nvidia CEO on 'incredible numbers'; explicit bullish endorsement"
+   "reason": "Trump praises Nvidia CEO on 'incredible numbers'; explicit bullish endorsement",
+   "price_since": {
+    "ticker": "NVDA",
+    "pct": -1.3,
+    "base": 220.78,
+    "last": 217.96,
+    "base_date": "2026-08-31",
+    "last_date": "2026-09-01"
+   }
   },
   {
    "date": "2026-08-31T10:16:12Z",
@@ -259,7 +459,15 @@
    "direction": "BUY",
    "primary_ticker": "DELL",
    "strength": 85,
-   "reason": "Trump explicitly endorses Dell; stock spikes on direct presidential praise"
+   "reason": "Trump explicitly endorses Dell; stock spikes on direct presidential praise",
+   "price_since": {
+    "ticker": "DELL",
+    "pct": -3.0,
+    "base": 456.01,
+    "last": 442.44,
+    "base_date": "2026-08-31",
+    "last_date": "2026-09-01"
+   }
   },
   {
    "date": "2026-08-31T10:00:01Z",
@@ -275,7 +483,39 @@
    "direction": "SELL",
    "primary_ticker": "SPY",
    "strength": 45,
-   "reason": "Tariff pressure on South Korea signals potential trade friction headwind"
+   "reason": "Tariff pressure on South Korea signals potential trade friction headwind",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": -0.3,
+    "base": 767.05,
+    "last": 764.38,
+    "base_date": "2026-08-31",
+    "last_date": "2026-09-01"
+   }
+  },
+  {
+   "date": "2026-08-31T09:50:47Z",
+   "platform": "News",
+   "text": "TSLA Stock Slips Premarket: Musk Joins Trump\u2019s China Trip As FSD Delays Threaten Tesla\u2019s Biggest Factory - Stocktwits \u2014 TSLA Stock Slips Premarket: Musk Joins Trump\u2019s China Trip As FSD Delays Threaten Tesla\u2019s Biggest Factory\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVHl5OGJHalFWTEM0d0l2LXRjLVJ6QTVjV0t3a3J6YkxkMF9fT2ZGU2VkNGl2NGpEc0NxMjV0SkRHMDhQUWJVTXZUOTVFeVdfb1I4dDBzV25yNWc2UlRsaGpIb1h0dXZIcVMyUXNQZ0FUd01vMmVPQmd2NDBkMy0tV2E1TGs2emp0Xy1iMHA0Z21ISDNpSTFOQzRKRjZGSGhZQ21vY2R0dzZfbEVnOWh4VzhtRnVoWnRJRXMwblQ0VFdJRzVKWnAyOExR?oc=5",
+   "tickers": [
+    "TSLA"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "TSLA",
+   "strength": 35,
+   "reason": "Musk involvement in China trip and FSD delays create mixed signals for Tesla operations",
+   "price_since": {
+    "ticker": "TSLA",
+    "pct": -2.5,
+    "base": 367.95,
+    "last": 358.83,
+    "base_date": "2026-08-31",
+    "last_date": "2026-09-01"
+   }
   },
   {
    "date": "2026-08-31T05:29:22Z",
@@ -291,7 +531,15 @@
    "direction": "SELL",
    "primary_ticker": "XLE",
    "strength": 35,
-   "reason": "Iran strikes on GCC oil-producing states risk regional instability and supply disruptions; bearish for oil and energy markets."
+   "reason": "Iran strikes on GCC oil-producing states risk regional instability and supply disruptions; bearish for oil and energy markets.",
+   "price_since": {
+    "ticker": "XLE",
+    "pct": 0.5,
+    "base": 63.96,
+    "last": 64.31,
+    "base_date": "2026-08-31",
+    "last_date": "2026-09-01"
+   }
   },
   {
    "date": "2026-08-31T04:22:11Z",
@@ -307,7 +555,15 @@
    "direction": "BUY",
    "primary_ticker": "NVDA",
    "strength": 75,
-   "reason": "Nvidia Q2 revenue beat 106% YoY; strong earnings fundamentals support stock appreciation."
+   "reason": "Nvidia Q2 revenue beat 106% YoY; strong earnings fundamentals support stock appreciation.",
+   "price_since": {
+    "ticker": "NVDA",
+    "pct": -1.3,
+    "base": 220.78,
+    "last": 217.96,
+    "base_date": "2026-08-31",
+    "last_date": "2026-09-01"
+   }
   },
   {
    "date": "2026-08-31T03:44:07Z",
@@ -323,7 +579,15 @@
    "direction": "BUY",
    "primary_ticker": "NVDA",
    "strength": 70,
-   "reason": "Trump praises Nvidia as 'Incredible' directly to CEO Jensen Huang; explicit positive endorsement of named company."
+   "reason": "Trump praises Nvidia as 'Incredible' directly to CEO Jensen Huang; explicit positive endorsement of named company.",
+   "price_since": {
+    "ticker": "NVDA",
+    "pct": -1.3,
+    "base": 220.78,
+    "last": 217.98,
+    "base_date": "2026-08-31",
+    "last_date": "2026-09-01"
+   }
   },
   {
    "date": "2026-08-31T02:18:57.272Z",
@@ -340,7 +604,15 @@
    "direction": "SELL",
    "primary_ticker": "XLE",
    "strength": 45,
-   "reason": "Rhetoric about Kharg Island (major Iranian oil facility) destruction signals geopolitical tension and oil supply risk."
+   "reason": "Rhetoric about Kharg Island (major Iranian oil facility) destruction signals geopolitical tension and oil supply risk.",
+   "price_since": {
+    "ticker": "XLE",
+    "pct": 0.5,
+    "base": 63.96,
+    "last": 64.31,
+    "base_date": "2026-08-31",
+    "last_date": "2026-09-01"
+   }
   },
   {
    "date": "2026-08-31T00:26:05.013Z",
@@ -357,7 +629,15 @@
    "direction": "BUY",
    "primary_ticker": "SPY",
    "strength": 45,
-   "reason": "Tariff threat on Canada drives companies back to US; bullish macro signal but vague on timing/magnitude"
+   "reason": "Tariff threat on Canada drives companies back to US; bullish macro signal but vague on timing/magnitude",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": -0.4,
+    "base": 767.05,
+    "last": 764.34,
+    "base_date": "2026-08-31",
+    "last_date": "2026-09-01"
+   }
   },
   {
    "date": "2026-08-30T22:09:36Z",
@@ -373,7 +653,15 @@
    "direction": "BUY",
    "primary_ticker": "IBRX",
    "strength": 60,
-   "reason": "Trump diplomacy credited with cancer drug approvals; tailwind for biotech company"
+   "reason": "Trump diplomacy credited with cancer drug approvals; tailwind for biotech company",
+   "price_since": {
+    "ticker": "IBRX",
+    "pct": -0.5,
+    "base": 7.95,
+    "last": 7.91,
+    "base_date": "2026-08-31",
+    "last_date": "2026-09-01"
+   }
   },
   {
    "date": "2026-08-30T22:03:48Z",
@@ -389,7 +677,15 @@
    "direction": "BUY",
    "primary_ticker": "IBRX",
    "strength": 55,
-   "reason": "IBRX rally on Trump policy support; biotech sentiment positive around SOTU"
+   "reason": "IBRX rally on Trump policy support; biotech sentiment positive around SOTU",
+   "price_since": {
+    "ticker": "IBRX",
+    "pct": -0.5,
+    "base": 7.95,
+    "last": 7.91,
+    "base_date": "2026-08-31",
+    "last_date": "2026-09-01"
+   }
   },
   {
    "date": "2026-08-30T19:38:42Z",
@@ -405,7 +701,15 @@
    "direction": "BUY",
    "primary_ticker": "MU",
    "strength": 80,
-   "reason": "Trump explicitly hails Micron as 'One Of The Hottest Companies In The World' and praises $10B US investment; direct bullish endorsement."
+   "reason": "Trump explicitly hails Micron as 'One Of The Hottest Companies In The World' and praises $10B US investment; direct bullish endorsement.",
+   "price_since": {
+    "ticker": "MU",
+    "pct": -2.0,
+    "base": 958.73,
+    "last": 939.32,
+    "base_date": "2026-08-31",
+    "last_date": "2026-09-01"
+   }
   },
   {
    "date": "2026-08-30T18:26:25.271Z",
@@ -422,7 +726,15 @@
    "direction": "BUY",
    "primary_ticker": "SPY",
    "strength": 45,
-   "reason": "Tariff exemption for Canadian companies relocating to US is pro-business/growth signal, but vague macro policy without specific catalyst."
+   "reason": "Tariff exemption for Canadian companies relocating to US is pro-business/growth signal, but vague macro policy without specific catalyst.",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": -0.3,
+    "base": 767.05,
+    "last": 764.38,
+    "base_date": "2026-08-31",
+    "last_date": "2026-09-01"
+   }
   },
   {
    "date": "2026-08-30T18:16:09.434Z",
@@ -439,7 +751,15 @@
    "direction": "BUY",
    "primary_ticker": "F",
    "strength": 55,
-   "reason": "Trump credits tariffs and his leadership for reviving Ford auto plant to 24/7 profitable operation; bullish for auto sector, but claim is contested and macro/policy-based."
+   "reason": "Trump credits tariffs and his leadership for reviving Ford auto plant to 24/7 profitable operation; bullish for auto sector, but claim is contested and macro/policy-based.",
+   "price_since": {
+    "ticker": "F",
+    "pct": 0.4,
+    "base": 13.94,
+    "last": 14.0,
+    "base_date": "2026-08-31",
+    "last_date": "2026-09-01"
+   }
   },
   {
    "date": "2026-08-30T17:46:18Z",
@@ -620,22 +940,6 @@
    "primary_ticker": "IBM",
    "strength": 60,
    "reason": "IBM stock surging 7% overnight; likely driven by the $1B grant announcement, confirming market-bullish read on the contract."
-  },
-  {
-   "date": "2026-08-30T05:54:59Z",
-   "platform": "News",
-   "text": "KEEL Stock Jumps Onto Retail Radar As Investors Eye First Data Center Lease Announcement - Stocktwits \u2014 KEEL Stock Jumps Onto Retail Radar As Investors Eye First Data Center Lease Announcement\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVHpiUDN5T2I5aVFzNkpxZGZjdUJEVG0xLXN0c3pVRWo2REVuRGNZTFpvLXJTT2luZVhnTC1iVmFtcFYxbkpnanphZ3E0N0ExWmx5UGh4cGw2QmRiQXl3RG81OWlKRnEwOHVHT0FWdXlGd2VIZVhjM1k2TTU0THctQ3cyUVhNNG9JcGJQMlhPVHdWbkFVSVpfR25lNzVCMTJ4cGZRR05JcnR2SWFvSGc1VnYyMzFMMnFDLURZLW5pMGk3UUwyWktaVVNmZUdDZ21QZGQ0bEZfU0o1LXRvREhFd3h2NXBTMjQ?oc=5",
-   "tickers": [
-    "KEEL"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "KEEL",
-   "strength": 60,
-   "reason": "Data center lease announcement under Trump administration infrastructure/tech spending push; bullish for facility operators"
   },
   {
    "date": "2026-08-30T04:12:48Z",
@@ -1265,22 +1569,6 @@
    "primary_ticker": "GOOGL",
    "strength": 45,
    "reason": "FTC investigating YouTube account suspensions; regulatory headwind for Alphabet subsidiary."
-  },
-  {
-   "date": "2026-08-28T02:28:19Z",
-   "platform": "News",
-   "text": "NOK Stock Rises Pre-Market: Trump Endorsement Adds Fuel To AI Growth Push For Nokia - Stocktwits \u2014 NOK Stock Rises Pre-Market: Trump Endorsement Adds Fuel To AI Growth Push For Nokia\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNaVBkeHg0Vi02NWZ0Tlp5bGh2bjdYaC10MUFVamtBcTFCbjByT05oVmIyeUJQSzFMVGZSLXpFdkd0NVVIMHY3UzNqOFFIQ3FvakVucnM4dms0VXZHQTdlSnJkTXpqdVVJclpEU2lEUUtKYTloWjFFRU5Db2cteVF5UGxkd05LakNaMWZpa1UtaVdodVVIU1I1Vkxjb0kyTG52eFVUaHdkR3Rjb0l4MmpQT2ZMTW5HWWNFdTA2elZuN3ZCckxMa2VrS0FXZm9VNUJWSDBSU2RDMV9WNkJmajVJ?oc=5",
-   "tickers": [
-    "NOK"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "NOK",
-   "strength": 65,
-   "reason": "Trump endorsement of Nokia's AI growth push; explicit praise of named company"
   },
   {
    "date": "2026-08-28T02:27:00Z",
@@ -1984,30 +2272,6 @@
    "reason": "Duplicate of index 28; Trump post attributed to SpaceX stock movement"
   },
   {
-   "date": "2026-08-25T17:27:44Z",
-   "platform": "News",
-   "text": "Critical Metals Stock Surges As Trump Sets Sights On Greenland Yet Again: 'Big, Poorly Run, Piece Of Ice!' - Stocktwits \u2014 Critical Metals Stock Surges As Trump Sets Sights On Greenland Yet Again: 'Big, Poorly Run, Piece Of Ice!'\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZFdENjBoV0hEenBRM0VFTG9UR1JuV200S0NBMFBVdFdSSVN6V1pNSWZGeEMwbWNMMFI4ZVQyNTZyclFQQlBXbUVUeDZSbFI4YWhvTzBRLWtwU3ZUcXBRdWRVbEM0a3dCTGFsNXhYZGpDZGJuR1k3NlhmSzJ6RV9yZE04Um84WjJuQ3B1cW9peE44UTZTWjNueEpPTHJOeUxyMGM3czlaeHVFQkJxY1FaNG54dUhKc2ZkZk9tVGk0UUlHMjlCeGptTFBDWWRoREhnTUE?oc=5",
-   "tickers": [
-    "REMX"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "REMX",
-   "strength": 45,
-   "reason": "Critical metals demand surge from Greenland interest (rare earths/strategic resources)",
-   "price_since": {
-    "ticker": "REMX",
-    "pct": 0.2,
-    "base": 79.12,
-    "last": 79.25,
-    "base_date": "2026-08-25",
-    "last_date": "2026-08-27"
-   }
-  },
-  {
    "date": "2026-08-25T15:40:59.136Z",
    "platform": "Truth Social",
    "text": "S&P Global: 'US Business Is Booming': https://www.breitbart.com/economy/2026/08/21/biz-is-booming/",
@@ -2077,30 +2341,6 @@
     "pct": 2.6,
     "base": 13.27,
     "last": 13.62,
-    "base_date": "2026-08-25",
-    "last_date": "2026-08-27"
-   }
-  },
-  {
-   "date": "2026-08-25T14:34:41Z",
-   "platform": "News",
-   "text": "TSLA Stock Slips Premarket: Musk Joins Trump\u2019s China Trip As FSD Delays Threaten Tesla\u2019s Biggest Factory - Stocktwits \u2014 TSLA Stock Slips Premarket: Musk Joins Trump\u2019s China Trip As FSD Delays Threaten Tesla\u2019s Biggest Factory\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVHl5OGJHalFWTEM0d0l2LXRjLVJ6QTVjV0t3a3J6YkxkMF9fT2ZGU2VkNGl2NGpEc0NxMjV0SkRHMDhQUWJVTXZUOTVFeVdfb1I4dDBzV25yNWc2UlRsaGpIb1h0dXZIcVMyUXNQZ0FUd01vMmVPQmd2NDBkMy0tV2E1TGs2emp0Xy1iMHA0Z21ISDNpSTFOQzRKRjZGSGhZQ21vY2R0dzZfbEVnOWh4VzhtRnVoWnRJRXMwblQ0VFdJRzVKWnAyOExR?oc=5",
-   "tickers": [
-    "TSLA"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "TSLA",
-   "strength": 40,
-   "reason": "FSD delays and China factory uncertainty amid trade tensions weigh on Tesla",
-   "price_since": {
-    "ticker": "TSLA",
-    "pct": 0.8,
-    "base": 350.25,
-    "last": 352.94,
     "base_date": "2026-08-25",
     "last_date": "2026-08-27"
    }
@@ -2249,70 +2489,6 @@
     "last": 769.73,
     "base_date": "2026-08-25",
     "last_date": "2026-08-27"
-   }
-  },
-  {
-   "date": "2026-08-25T11:59:14Z",
-   "platform": "News",
-   "text": "Netflix Cofounder Reed Hastings Sells Stock Worth Nearly $38M \u2013 NFLX Stock Eyes A Three-Day Red Streak - Stocktwits \u2014 Netflix Cofounder Reed Hastings Sells Stock Worth Nearly $38M \u2013 NFLX Stock Eyes A Three-Day Red Streak\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPMnU5Rzk2YTk4Q0owNEUyUFk3WlZQcTFvajRUZTJSREpPREZQSzRwVG9yLVlKTDh1OW95a0c1M3htdk81Z2JOU1JZSEl6S3ZLVGwwZS1hU2hob2RmZERiUkNzV05nRHdRS0Y3WTR5b3Z0b1puNENaY0RpN0VvbWRyWUdYeUY3VDFOZG5YdkFqRE5YR2tCbDdua1NsUDhmR3d5TWNkLXFFaEhDTzFvNXlYNjNta0RuTkpYMnNPemZfRC15anJYaXVCRkQ3V2FuMHhBd19lVlgwaEQ2RTB2aUxYRlBoaFphS3hNTEN5S2hhaDREaHJDWDlR?oc=5",
-   "tickers": [
-    "NFLX"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "NFLX",
-   "strength": 15,
-   "reason": "Netflix cofounder insider sell; no Trump catalyst or explicit market call, general insider activity.",
-   "price_since": {
-    "ticker": "NFLX",
-    "pct": -0.9,
-    "base": 82.23,
-    "last": 81.46,
-    "base_date": "2026-08-25",
-    "last_date": "2026-08-26"
-   }
-  },
-  {
-   "date": "2026-08-25T10:07:13Z",
-   "platform": "News",
-   "text": "SpaceX Stock Price Prediction: Trump Reportedly Bought SpaceX Stake in June, Can SPCX Stock Regain Upward Momentum? - TradingKey \u2014 SpaceX Stock Price Prediction: Trump Reportedly Bought SpaceX Stake in June, Can SPCX Stock Regain Upward Momentum?\u00a0\u00a0TradingKey",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMDRjTW1wY295WEkzMjg0VWJ1N2hsdlZ5OWdtWDlVNnVRM0NWU2R4amp2dGxDSkh4M3RMZVNjdWQ5OTdHa0l2OW1xemRndEFnQTdrcEp1ZGxCdmp5YWF3YlNVNVpHQ2VDYlZyUFRsX3RPNWtRLWJlTTNtdUo2a0pjNmhJQmlxVU9qZEwtZkFPZkRtYVowbkRHY0RxWjFrQUdyVWJwNjNzd3hwX19YdEhRd3dULXZpd1pKVF9ScmlnWUtJYWpHOW53?oc=5",
-   "tickers": [
-    "SPACEX"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "SPACEX",
-   "strength": 35,
-   "reason": "Trump reportedly bought SpaceX stake; signal of Trump confidence in company but not a direct endorsement"
-  },
-  {
-   "date": "2026-08-25T08:06:00Z",
-   "platform": "News",
-   "text": "DJT Stock Rises Premarket: Trump Media CEO Defends Truth API As 'An Obvious Place To Go' - Stocktwits \u2014 DJT Stock Rises Premarket: Trump Media CEO Defends Truth API As 'An Obvious Place To Go'\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNS0pLMWdGaGZYUmxERzd1US12ejNNNUNGWGtnYmJmQngyU2kxYWVhY3hIeC1LNXBONThGbzdqVWdyWWhjb1g4WGE4LTVaWTMtV3F5SDRJRi1QMUNlZTRvVnExVzRKTFF5RDNhUm5uMERHVTNCSEQyYTdnVS0teG5kUnV5VFljMTA2STJ3cEh4ODBLTjFXalFxNlJKd0N5ZDFUWEw3dVBrY0tCcE1uRnZsLTYzVXdjaUZnODhaUGc0YldYaXJYT3ZJSXZSakdZVElWTDE0bTR1dW9zdGk5TFZxLWgzcw?oc=5",
-   "tickers": [
-    "DJT"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "DJT",
-   "strength": 60,
-   "reason": "Trump Media stock rises on CEO defending Truth Social API; self-owned asset sentiment positive",
-   "price_since": {
-    "ticker": "DJT",
-    "pct": 1.1,
-    "base": 9.4,
-    "last": 9.5,
-    "base_date": "2026-08-25",
-    "last_date": "2026-08-26"
    }
   },
   {
