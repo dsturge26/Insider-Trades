@@ -1,7 +1,39 @@
 {
- "last_updated": "2026-08-31T23:59:59Z",
+ "last_updated": "2026-09-01T04:54:55Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-09-01T03:02:00Z",
+   "platform": "News",
+   "text": "Dow Futures Climb While S&P 500, Nasdaq Futures Slide After Strong August Rally: TTWO, TSLA, EIX, MDB Stocks In Focus - TradingView \u2014 Dow Futures Climb While S&P 500, Nasdaq Futures Slide After Strong August Rally: TTWO, TSLA, EIX, MDB Stocks In Focus\u00a0\u00a0TradingView",
+   "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNYTU0OVowck5fV0RYN0pxLVhoalhzYjl3aUoyMjRzdDNBRlREMVpfY3N1b3pIeWVYN0YybTB0MXk5WUhXeEVhbk1tbjhTNk1rWlRPdV9nSTNPZXRfZVY3REdDM2E3SENoX1dBRjNDcnJsQmkwSkFlUlk1akpoZG1iVVpHVG8xMkVzOWY1RHdMWXFaMkVpOUZ3eS1VTlk4X0VnYjlQUEtxUkxPMFBDRy1vSTNMOTRKb3I4YVFhVGFBUThZWENGYXJaMC1ncmVzYWZ1M3lNdktWQWg2bzZtZ3IyNk1tSTgwUnJGZUV4b0plZWRmS2k3WmNkM0FkUkJnZERlNTlR?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "SPY",
+   "strength": 35,
+   "reason": "Mixed market signals post-August rally; no Trump catalyst identified"
+  },
+  {
+   "date": "2026-08-31T22:40:00Z",
+   "platform": "News",
+   "text": "Trump Endorses U.S. Tax Incentive to Keep Hollywood Production: \u2018Let\u2019s Get This Done!\u2019 - Variety \u2014 Trump Endorses U.S. Tax Incentive to Keep Hollywood Production: \u2018Let\u2019s Get This Done!\u2019\u00a0\u00a0Variety",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSUFKamdoT0xJU1liWmRNS0hyR1k4ckRjcnJnZF9pZDhUQWQyOXlUUlpPVjRDcWx1c28zdEZsdmxZeWQ4aWwtN1dYcENjalhsMUpSZFdRZkQ3dWlWSlpWazl1VUY5ZXd0QkMwVUdnV2FkQUxSTDZ1UDREdlZxczBJZ2tzSm5vTm1SMzhvUFdEVVlfcjQ?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "SPY",
+   "strength": 45,
+   "reason": "Tax incentive for Hollywood production; modest pro-business signal affecting media/entertainment sector"
+  },
   {
    "date": "2026-08-31T21:10:05Z",
    "platform": "News",
@@ -51,6 +83,54 @@
    "primary_ticker": "TRUMP",
    "strength": 75,
    "reason": "Trump directly asks Congress to pass crypto bill; explicit pro-crypto policy push; bullish for crypto assets and DJT"
+  },
+  {
+   "date": "2026-08-31T15:19:57Z",
+   "platform": "News",
+   "text": "Trump Says China Has Not Approved NVDA H200 Chip Purchases Yet \u2014 'They Want To Develop Their Own' - Stocktwits \u2014 Trump Says China Has Not Approved NVDA H200 Chip Purchases Yet \u2014 'They Want To Develop Their Own'\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZ2oxZ3ZfNVpTWGQwLTY3T0xzazUxbWY2a3ZreDlRRGE0ZHQxbmNRR29RSm11VXBPajBkd1V1M0VhRUJvVUp0V2lfM3ladmswQ2hMWGlsUjY5RE1ERXR0LTBwN2JLYTBNUk1GRC1QbjktYTlkeTU5MlgteEpYeURwZmhaR2NjUUJMVWs5SGVnbm9uTEZ2dkdmSmVVdzctQ0I3clJZZFM1YnVqbkd1RG9kQlpXUjY?oc=5",
+   "tickers": [
+    "NVDA"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "SELL",
+   "primary_ticker": "NVDA",
+   "strength": 65,
+   "reason": "Trump reports China blocking H200 chip sales; negative for Nvidia exports"
+  },
+  {
+   "date": "2026-08-31T14:57:45Z",
+   "platform": "News",
+   "text": "IBM Stock Rallies On Trump Administration\u2019s $1B Grant: Analysts Say \u2018Big Blue\u2019 Could Become First US Quantum Foundry - Stocktwits \u2014 IBM Stock Rallies On Trump Administration\u2019s $1B Grant: Analysts Say \u2018Big Blue\u2019 Could Become First US Quantum Foundry\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOVG52c0VBRjZ6TzVuLThuSWdTN3NxMlIzUEc0aWVkUllDZDJMSVVMRlo1Rkgxb1Rja2swU1JlcVhlbmg4ejlfeGJoRGkzVG1VSEM4ZC1McWtGQnNVYklYVjYwQVliTHRoX3NqZDJZV0dlQ2NTaC1NaHhFaVAtdmVjdzVGcFhSangwdDluaTltYXZ3TXhaWWxISmlPREpkQ0N2VHdEMENJUkpDaDBGcUhSdXFZdExXbkhPaENSWlAxbVhPS3EyTnoyc3NoX2RpOXNqeEFYaFhhaGYxQUxRaWR0QUJwQ0J5VmhBY3ZpOV9YMVNjeUZlRHRzVXBLS3BpSER4VXpVWTVsYS1aZw?oc=5",
+   "tickers": [
+    "IBM"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "IBM",
+   "strength": 80,
+   "reason": "Trump administration awards $1B quantum computing grant; direct federal contract bullish"
+  },
+  {
+   "date": "2026-08-31T14:15:23Z",
+   "platform": "News",
+   "text": "WULF Stock Drops Despite Price Target Hikes From Wall Street On $19B Anthropic Lease - Stocktwits \u2014 WULF Stock Drops Despite Price Target Hikes From Wall Street On $19B Anthropic Lease\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZkNMOVRxOWRRS0YyQUl5S0JsbENGN3Y1Qy02RHE1eWNFblM1WVdmUWFsamloREdtWjZPQ3Y5VFU2cUFVakZOQ29lWG0waDJmS3pyZWFxbGpLYW5IaTNjV2ZWajBIaXA4cnV0LUEwSG5aOWFxOVRtZ3dfS0Y4SXR3OFBpekRJVEpHZmxNRVhUSUtaWF9ocnkzY3ZwOExuT3h3dTlsM2VCN2FuTVllSnBsMk5QRHNUZw?oc=5",
+   "tickers": [
+    "WULF"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "WULF",
+   "strength": 50,
+   "reason": "$19B Anthropic lease bullish but stock drops; mixed signal on AI infrastructure play"
   },
   {
    "date": "2026-08-31T13:59:35.393Z",
@@ -134,6 +214,22 @@
    "reason": "Trump explicitly praises Nvidia CEO's 'incredible numbers' and Micron as 'hottest' company"
   },
   {
+   "date": "2026-08-31T11:01:13Z",
+   "platform": "News",
+   "text": "Trump Praises Nvidia CEO Jensen Huang On 'Incredible Numbers,' Calls Micron One Of The World's 'Hottest' Companies - finance.yahoo.com \u2014 Trump Praises Nvidia CEO Jensen Huang On 'Incredible Numbers,' Calls Micron One Of The World's 'Hottest' Companies\u00a0\u00a0finance.yahoo.com",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONFBfNFlaa1pLSUtHYWdZcHNMaE9GZHJXbUN6OTVTSGNfUnpiSFlxU3Y2LXZoV0duMmdEQzk3Qm91RTNJU0lJRnMybHMwY0Z5NEhqZDJjU2FFbDFZX1pIV1l2UmkzbnJEb2hseU5pN1VjQjFzUVpxenFGcU00VFRlR1RJX1F1S1hjdThSME93YVNUemdkR283cWZKNA?oc=5",
+   "tickers": [
+    "NVDA"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "NVDA",
+   "strength": 75,
+   "reason": "Trump praises Nvidia CEO on 'incredible numbers'; explicit bullish endorsement"
+  },
+  {
    "date": "2026-08-31T10:16:12Z",
    "platform": "News",
    "text": "DELL Stock Spikes To Record Highs On President Trump\u2019s Endorsement - Stocktwits \u2014 DELL Stock Spikes To Record Highs On President Trump\u2019s Endorsement\u00a0\u00a0Stocktwits",
@@ -164,38 +260,6 @@
    "primary_ticker": "SPY",
    "strength": 45,
    "reason": "Tariff pressure on South Korea signals potential trade friction headwind"
-  },
-  {
-   "date": "2026-08-31T09:55:27Z",
-   "platform": "News",
-   "text": "WULF Stock Drops Despite Price Target Hikes From Wall Street On $19B Anthropic Lease - Stocktwits \u2014 WULF Stock Drops Despite Price Target Hikes From Wall Street On $19B Anthropic Lease\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZkNMOVRxOWRRS0YyQUl5S0JsbENGN3Y1Qy02RHE1eWNFblM1WVdmUWFsamloREdtWjZPQ3Y5VFU2cUFVakZOQ29lWG0waDJmS3pyZWFxbGpLYW5IaTNjV2ZWajBIaXA4cnV0LUEwSG5aOWFxOVRtZ3dfS0Y4SXR3OFBpekRJVEpHZmxNRVhUSUtaWF9ocnkzY3ZwOExuT3h3dTlsM2VCN2FuTVllSnBsMk5QRHNUZw?oc=5",
-   "tickers": [
-    "WULF"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "WULF",
-   "strength": 35,
-   "reason": "$19B AI infrastructure lease to Anthropic is bullish for data-center operators like Wulf, but stock falling suggests mixed sentiment"
-  },
-  {
-   "date": "2026-08-31T07:59:51Z",
-   "platform": "News",
-   "text": "Trump Says China Has Not Approved NVDA H200 Chip Purchases Yet \u2014 'They Want To Develop Their Own' - Stocktwits \u2014 Trump Says China Has Not Approved NVDA H200 Chip Purchases Yet \u2014 'They Want To Develop Their Own'\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZ2oxZ3ZfNVpTWGQwLTY3T0xzazUxbWY2a3ZreDlRRGE0ZHQxbmNRR29RSm11VXBPajBkd1V1M0VhRUJvVUp0V2lfM3ladmswQ2hMWGlsUjY5RE1ERXR0LTBwN2JLYTBNUk1GRC1QbjktYTlkeTU5MlgteEpYeURwZmhaR2NjUUJMVWs5SGVnbm9uTEZ2dkdmSmVVdzctQ0I3clJZZFM1YnVqbkd1RG9kQlpXUjY?oc=5",
-   "tickers": [
-    "NVDA"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "NVDA",
-   "strength": 50,
-   "reason": "China chip restrictions on H200 purchases bearish for Nvidia export revenue"
   },
   {
    "date": "2026-08-31T05:29:22Z",
@@ -508,22 +572,6 @@
    "primary_ticker": "PLTR",
    "strength": 50,
    "reason": "Palantir recovered on Trump endorsement but short thesis remains; direction ambiguous"
-  },
-  {
-   "date": "2026-08-30T08:18:32Z",
-   "platform": "News",
-   "text": "IBM Stock Rallies On Trump Administration\u2019s $1B Grant: Analysts Say \u2018Big Blue\u2019 Could Become First US Quantum Foundry - Stocktwits \u2014 IBM Stock Rallies On Trump Administration\u2019s $1B Grant: Analysts Say \u2018Big Blue\u2019 Could Become First US Quantum Foundry\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOVG52c0VBRjZ6TzVuLThuSWdTN3NxMlIzUEc0aWVkUllDZDJMSVVMRlo1Rkgxb1Rja2swU1JlcVhlbmg4ejlfeGJoRGkzVG1VSEM4ZC1McWtGQnNVYklYVjYwQVliTHRoX3NqZDJZV0dlQ2NTaC1NaHhFaVAtdmVjdzVGcFhSangwdDluaTltYXZ3TXhaWWxISmlPREpkQ0N2VHdEMENJUkpDaDBGcUhSdXFZdExXbkhPaENSWlAxbVhPS3EyTnoyc3NoX2RpOXNqeEFYaFhhaGYxQUxRaWR0QUJwQ0J5VmhBY3ZpOV9YMVNjeUZlRHRzVXBLS3BpSER4VXpVWTVsYS1aZw?oc=5",
-   "tickers": [
-    "IBM"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "IBM",
-   "strength": 80,
-   "reason": "Trump administration awarded IBM $1B quantum foundry grant; direct bullish catalyst for IBM growth and tech investment"
   },
   {
    "date": "2026-08-30T06:57:11Z",
@@ -2260,94 +2308,6 @@
    "reason": "Trump personal investment in SpaceX signals confidence; modest stake size limits strength"
   },
   {
-   "date": "2026-08-25T02:28:17Z",
-   "platform": "News",
-   "text": "Elon Musk Praises New SpaceX and NVIDIA Partnership, Yet Both Stocks Fall - Mitrade \u2014 Elon Musk Praises New SpaceX and NVIDIA Partnership, Yet Both Stocks Fall\u00a0\u00a0Mitrade",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNX05lb25HTjVOWGowM1NMMnNFTFhEOTk5UEJjdmhHY014YmdwNUNNSXlVVGMwT0xnMFhwZWlqMGZCRWc5Tm5RSzRpdHA3Z2NrZU53NVJvWXNtNDI4RFBnb25zTzNpaUdFeWdkOF9FeE1UbmFBa2VsUDY2T0FnQmlSNnFySDdENDNqNThKNEFPcm9Cd2s?oc=5",
-   "tickers": [
-    "NVDA"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "NVDA",
-   "strength": 15,
-   "reason": "Musk praised SpaceX-NVIDIA partnership but both stocks fell; ambiguous market direction"
-  },
-  {
-   "date": "2026-08-24T21:39:00Z",
-   "platform": "News",
-   "text": "Elon Musk Praises New SpaceX and NVIDIA Partnership, Yet Both Stocks Fall - BeInCrypto \u2014 Elon Musk Praises New SpaceX and NVIDIA Partnership, Yet Both Stocks Fall\u00a0\u00a0BeInCrypto",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9KRURFQ2VQd21ERUw0U0FvSnZVTWNwN1pDR3FCbnJuUlJRd1NaNWxaMkkzczdrUU5DY3RWdjAtX0RwR09sQ1JMSlNrOFAwSWEtXzNQSUVzYVZ0Zi1SRFE2X1pfUXptYWh1VEE0WHhjSlllQVNVeTJEQVk2bw?oc=5",
-   "tickers": [
-    "NVDA"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "NVDA",
-   "strength": 25,
-   "reason": "Musk praises NVIDIA partnership but stocks fell; praise contradicted by price action, no clear directional signal",
-   "price_since": {
-    "ticker": "NVDA",
-    "pct": 2.2,
-    "base": 208.48,
-    "last": 213.05,
-    "base_date": "2026-08-24",
-    "last_date": "2026-08-25"
-   }
-  },
-  {
-   "date": "2026-08-24T20:43:00Z",
-   "platform": "News",
-   "text": "Stock Market Today: Dow Up As Trump Says This On Canada; Nvidia Shares Skid Despite AI Move - Investor's Business Daily \u2014 Stock Market Today: Dow Up As Trump Says This On Canada; Nvidia Shares Skid Despite AI Move\u00a0\u00a0Investor's Business Daily",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMnE5STlmSDJyVHIzYkNOSzRsUGtHZFd0THZDdThJQzdhT0x1SXdfaXJhMkxVOXF3ZDlhQU1DbTNOS3JONFEtQ2Y2bHhZa3d5V0RSN3JHbUFaY0JtLVkwLWRyWkQ4ZEYtbWhKR0JsSGp0QzB1b18tcFI3YkZfRlhCV0V6UlhGUHFwSTF2SlBjaHp0Q2I1QTROMnpwYjNPM1hZRW5xcVotd2NTV2lGMTFQNXk0N245UQ?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "SPY",
-   "strength": 45,
-   "reason": "Dow rises on Trump's Canada comments; broad market bullish sentiment on trade stance",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": 0.3,
-    "base": 763.47,
-    "last": 765.91,
-    "base_date": "2026-08-24",
-    "last_date": "2026-08-25"
-   }
-  },
-  {
-   "date": "2026-08-24T20:22:39Z",
-   "platform": "News",
-   "text": "Trump bought shares in Elon Musk\u2019s SpaceX in June, financial disclosure shows - South China Morning Post \u2014 Trump bought shares in Elon Musk\u2019s SpaceX in June, financial disclosure shows\u00a0\u00a0South China Morning Post",
-   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNMU1WenVOWXM0ZGtZajhsYWRSc2xoNlM3ZGZXdXd6Z3N5cFpzV3o5S0ltYUZlbmlQMm8wYkFhUEk5cXJIaUxSU21fVmNPS1UwSkRpSlZTUXhCV1JXVW5tWE02Z1V2SnljTmtudzZEd3BxcHJpNXBfdW1vb1EzZWRDNS11dFk1RlFQNEpJc194Zmc5MTB2OHpMWHF4ZGhjS2t0dFYwREM5UURWMmpkc3Z4dlJjRVN2UnNVNTdRc1ZuWF9lTVhuNmdVaFpxdlRUQkdCQ3dwTFJOb2FTYWpXcWo2bHM3NW0?oc=5",
-   "tickers": [
-    "RKLB"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "RKLB",
-   "strength": 35,
-   "reason": "Trump personal investment in SpaceX signals confidence in space sector; SpaceX private so use RKLB as proxy",
-   "price_since": {
-    "ticker": "RKLB",
-    "pct": -2.0,
-    "base": 68.28,
-    "last": 66.91,
-    "base_date": "2026-08-24",
-    "last_date": "2026-08-25"
-   }
-  },
-  {
    "curated": true,
    "classified": true,
    "is_market": true,
@@ -2400,23 +2360,6 @@
    "reason": "Trump's majority-owned stock debuts \u2014 pure sentiment play, extremely volatile and headline-driven.",
    "market_reaction": "DJT spiked on debut then stayed volatile, moving heavily on Trump political/legal news.",
    "url": "https://www.nasdaq.com/market-activity/stocks/djt"
-  },
-  {
-   "date": "2022-09-28T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "ORACLE HEALTH GOVERNMENT SERVICES, INC. was awarded a $1.7B federal contract from Department of Veterans Affairs.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_36C10B22N0051EHRM_3600_36C10B18D5000_3600",
-   "tickers": [
-    "ORCL"
-   ],
-   "contract_amount": 1.68,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "ORCL",
-   "strength": 72,
-   "reason": "Oracle Health Government Services (Oracle subsidiary) awarded $1.7B federal contract by VA; large government contract is bullish for Oracle revenue and positioning."
   }
  ],
  "how_to_read": "Each card is Claude's read of a public Trump post: the affected ticker, whether it implies BUY / SELL / WATCH, a 0\u2013100 strength (how explicit/emphatic the post is \u2014 NOT a profit predictor), and why. A 2-year backtest found these don't beat buy-and-hold, so this is for awareness, not trading. Not financial advice."
