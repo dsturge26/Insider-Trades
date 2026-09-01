@@ -1,7 +1,56 @@
 {
- "last_updated": "2026-09-01T17:57:53Z",
+ "last_updated": "2026-09-01T20:54:28Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-09-01T19:39:33.960Z",
+   "platform": "Truth Social",
+   "text": "Nvidia, Wall Street Firms Strike AI Financing Deal Targeting $500 Billion: https://www.wsj.com/business/deals/nvidia-wall-street-firms-strike-ai-financing-deal-targeting-500-billion-c50377db",
+   "tickers": [
+    "NVDA"
+   ],
+   "engagement": 1804,
+   "url": "https://truthsocial.com/@realDonaldTrump/117197476591086616",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "NVDA",
+   "strength": 35,
+   "reason": "Major AI financing deal signals strong demand and investor confidence in Nvidia, though not Trump-specific"
+  },
+  {
+   "date": "2026-09-01T17:47:29Z",
+   "platform": "News",
+   "text": "Trump endorses federal production tax credit - Axios \u2014 Trump endorses federal production tax credit\u00a0\u00a0Axios",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBFSFRpUEZsZnU1bEZKS2FqZFpBeU5XODV6Z2hjZGNuYlZ2b3pvR05BMEtKN3ZJa3dyeUdFVDAwb0JMcXNQNGo4M2FqZG9Ic0NDRVduMkJsZFY3TW1MXzRZNFBYZlY2SWlpOUxqY3dKSzdyUHVCYkRXcXJB?oc=5",
+   "tickers": [
+    "IYY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "IYY",
+   "strength": 25,
+   "reason": "Federal production tax credit endorsement is bullish for film/media industry, modest strength"
+  },
+  {
+   "date": "2026-09-01T14:00:55Z",
+   "platform": "News",
+   "text": "President Trump Endorses Federal Tax Credits for US Film Production - The Daily Hodl \u2014 President Trump Endorses Federal Tax Credits for US Film Production\u00a0\u00a0The Daily Hodl",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQN2lkb2NwenRnMDZvUzdsd2wxQ1FKUXlwX1ZoWUFXTTZqdWRtYjhyS2F1YWI1Tll1Nmc3aVdTQTRlRkttMm4yUV9pa0oyeXFLb2gzOUlBRWszU3JLNV9aNFpmaGtJWDRDcm9neURWZnJ0N1lTRnBvUUdtd2lBckJXbjJzbWhDaGRYdm9kd3BPaFpwM0VudmU4dkhSb1EwdkcxNTRBcWdvQUrSAagBQVVfeXFMUDdpZG9jcHp0ZzA2b1M3bHdsMUNRSlF5cF9WaFlBV002anVkbWI4ckthdWFiNU5ZdTZnN2lXU0E0ZUZLbTJuMlFfaWtKMnlxS29oMzlJQUVrM1NySzVfWjRaZmhrSVg0Q3JvZ3lEVmZydDdZU0Zwb1FHbXdpQXJCV24yc21oQ2hkWHZvZHdwT2hacDNFbnZlOHZIUm9RMHZHMTU0QXFnb0FK?oc=5",
+   "tickers": [
+    "IYY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "IYY",
+   "strength": 25,
+   "reason": "Federal tax credit for film/TV production bullish for media sector, moderate signal"
+  },
   {
    "date": "2026-09-01T09:54:48Z",
    "platform": "News",
@@ -19,6 +68,22 @@
    "reason": "Trump Iran comment and geopolitical tension imply broad market weakness; oil up"
   },
   {
+   "date": "2026-09-01T09:36:53Z",
+   "platform": "News",
+   "text": "President Trump Endorses Federal Tax Incentive for Film, TV Production - Decatur Radio \u2014 President Trump Endorses Federal Tax Incentive for Film, TV Production\u00a0\u00a0Decatur Radio",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbXN4aTlXb2g3cTFBM195am5hQWE4aE42MEZzTnhTanAwUE1pVzFESkNMT29reUg2ZHdKektTMUs2dm1aa1V5dnFIUlhPc0JuazFpQnVRcnFlSkNRV1p6OW5iSEZsTTdDNWM5LXFXRkZaNEhpcV94a0FBaWhma0dXY2lLR00wVklOZ0RORVJKRk9tMmYtR0pZemFDYmZIYUZzNG5iTC1JYUFva19IdmIw?oc=5",
+   "tickers": [
+    "IYY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "IYY",
+   "strength": 25,
+   "reason": "Federal tax incentive for film/TV production bullish for media sector"
+  },
+  {
    "date": "2026-09-01T05:21:44Z",
    "platform": "News",
    "text": "NOK Stock Rises Pre-Market: Trump Endorsement Adds Fuel To AI Growth Push For Nokia - Stocktwits \u2014 NOK Stock Rises Pre-Market: Trump Endorsement Adds Fuel To AI Growth Push For Nokia\u00a0\u00a0Stocktwits",
@@ -33,6 +98,22 @@
    "primary_ticker": "NOK",
    "strength": 65,
    "reason": "Trump endorsement of Nokia explicitly named; AI/growth bullish for NOK"
+  },
+  {
+   "date": "2026-09-01T04:50:28Z",
+   "platform": "News",
+   "text": "ASTS Stock Eases After 3-Day Run: FCC Opens Door For Direct Phone-To-Satellite Connectivity Using 800 MHz Spectrum - Stocktwits \u2014 ASTS Stock Eases After 3-Day Run: FCC Opens Door For Direct Phone-To-Satellite Connectivity Using 800 MHz Spectrum\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNM0htWHVkSmhubE0yX1VDNVRtYUtHd0xDMl9yTkhyZ0IwQmdGSGpVQ3BINGcwSTZCcmZ4NkFkSTZGY21QNzc3U0ZROWdQMlFQUExvNUtaRTBZaER5UUw2VnhHNXlkSThoWWpmeVVrZE04c3FHOWhmQzF4RHhpREdvXzRfMURGY1g5U3ZNaXhJaDktc3VFQVBaZjY1eEhHaWNVdDlZZ2JzWnlXSGJxcUtacEVqUTU?oc=5",
+   "tickers": [
+    "ASTS"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "ASTS",
+   "strength": 35,
+   "reason": "FCC door-open for satellite spectrum is positive catalyst; easing after run suggests mixed near-term direction"
   },
   {
    "date": "2026-09-01T03:02:00Z",
@@ -83,9 +164,9 @@
    "reason": "Trump Greenland interest implies critical metals/rare earths supply catalyst; bullish metals sector",
    "price_since": {
     "ticker": "XME",
-    "pct": -1.4,
+    "pct": -2.0,
     "base": 118.13,
-    "last": 116.48,
+    "last": 115.77,
     "base_date": "2026-08-31",
     "last_date": "2026-09-01"
    }
@@ -109,7 +190,7 @@
     "ticker": "SPY",
     "pct": -0.7,
     "base": 767.05,
-    "last": 761.52,
+    "last": 761.78,
     "base_date": "2026-08-31",
     "last_date": "2026-09-01"
    }
@@ -133,7 +214,7 @@
     "ticker": "SPY",
     "pct": -0.7,
     "base": 767.05,
-    "last": 761.52,
+    "last": 761.78,
     "base_date": "2026-08-31",
     "last_date": "2026-09-01"
    }
@@ -155,9 +236,9 @@
    "reason": "Data center lease announcement; momentum play but direction unclear without details",
    "price_since": {
     "ticker": "KEEL",
-    "pct": -1.6,
+    "pct": -2.5,
     "base": 3.15,
-    "last": 3.1,
+    "last": 3.07,
     "base_date": "2026-08-31",
     "last_date": "2026-09-01"
    }
@@ -179,9 +260,9 @@
    "reason": "Trump Account holders receiving Dell grants directly supports Dell and signals Trump endorsement of the company.",
    "price_since": {
     "ticker": "DELL",
-    "pct": -5.2,
+    "pct": -6.8,
     "base": 456.01,
-    "last": 432.26,
+    "last": 425.0,
     "base_date": "2026-08-31",
     "last_date": "2026-09-01"
    }
@@ -203,9 +284,9 @@
    "reason": "Trump drug pricing deals; mixed signal for biotech/pharma (cost control bearish; regulatory bullish)",
    "price_since": {
     "ticker": "XBI",
-    "pct": 0.2,
+    "pct": 0.6,
     "base": 162.5,
-    "last": 162.9,
+    "last": 163.4,
     "base_date": "2026-08-31",
     "last_date": "2026-09-01"
    }
@@ -230,7 +311,7 @@
     "ticker": "SPY",
     "pct": -0.7,
     "base": 767.05,
-    "last": 761.53,
+    "last": 761.78,
     "base_date": "2026-08-31",
     "last_date": "2026-09-01"
    }
@@ -269,9 +350,9 @@
    "reason": "Trump reports China blocking H200 chip sales; negative for Nvidia exports",
    "price_since": {
     "ticker": "NVDA",
-    "pct": -1.3,
+    "pct": -1.5,
     "base": 220.78,
-    "last": 217.87,
+    "last": 217.44,
     "base_date": "2026-08-31",
     "last_date": "2026-09-01"
    }
@@ -293,9 +374,9 @@
    "reason": "Trump administration awards $1B quantum computing grant; direct federal contract bullish",
    "price_since": {
     "ticker": "IBM",
-    "pct": -1.3,
+    "pct": -1.1,
     "base": 233.87,
-    "last": 230.92,
+    "last": 231.4,
     "base_date": "2026-08-31",
     "last_date": "2026-09-01"
    }
@@ -317,9 +398,9 @@
    "reason": "$19B Anthropic lease bullish but stock drops; mixed signal on AI infrastructure play",
    "price_since": {
     "ticker": "WULF",
-    "pct": -2.2,
+    "pct": -3.2,
     "base": 15.13,
-    "last": 14.79,
+    "last": 14.65,
     "base_date": "2026-08-31",
     "last_date": "2026-09-01"
    }
@@ -342,9 +423,9 @@
    "reason": "Pro-data center policy stance bullish for semiconductor/chip infrastructure sector",
    "price_since": {
     "ticker": "SMH",
-    "pct": -2.3,
+    "pct": -2.0,
     "base": 556.63,
-    "last": 543.91,
+    "last": 545.22,
     "base_date": "2026-08-31",
     "last_date": "2026-09-01"
    }
@@ -366,9 +447,9 @@
    "reason": "Trump explicitly praises Nvidia's 'incredible results' to CEO; direct positive endorsement of named public company.",
    "price_since": {
     "ticker": "NVDA",
-    "pct": -1.3,
+    "pct": -1.5,
     "base": 220.78,
-    "last": 217.87,
+    "last": 217.44,
     "base_date": "2026-08-31",
     "last_date": "2026-09-01"
    }
@@ -390,9 +471,9 @@
    "reason": "Trump called Nvidia CEO and celebrated; direct praise of company",
    "price_since": {
     "ticker": "NVDA",
-    "pct": -1.3,
+    "pct": -1.5,
     "base": 220.78,
-    "last": 217.87,
+    "last": 217.44,
     "base_date": "2026-08-31",
     "last_date": "2026-09-01"
    }
@@ -414,9 +495,9 @@
    "reason": "Trump explicitly praises Nvidia's 'incredible results' to CEO; direct positive endorsement of named public company.",
    "price_since": {
     "ticker": "NVDA",
-    "pct": -1.3,
+    "pct": -1.5,
     "base": 220.78,
-    "last": 217.86,
+    "last": 217.44,
     "base_date": "2026-08-31",
     "last_date": "2026-09-01"
    }
@@ -438,9 +519,9 @@
    "reason": "Trump explicitly praises Nvidia CEO's 'incredible numbers' and Micron as 'hottest' company",
    "price_since": {
     "ticker": "NVDA",
-    "pct": -1.3,
+    "pct": -1.5,
     "base": 220.78,
-    "last": 217.86,
+    "last": 217.44,
     "base_date": "2026-08-31",
     "last_date": "2026-09-01"
    }
@@ -462,9 +543,9 @@
    "reason": "Trump praises Nvidia CEO on 'incredible numbers'; explicit bullish endorsement",
    "price_since": {
     "ticker": "NVDA",
-    "pct": -1.3,
+    "pct": -1.5,
     "base": 220.78,
-    "last": 217.86,
+    "last": 217.44,
     "base_date": "2026-08-31",
     "last_date": "2026-09-01"
    }
@@ -486,9 +567,9 @@
    "reason": "Trump explicitly endorses Dell; stock spikes on direct presidential praise",
    "price_since": {
     "ticker": "DELL",
-    "pct": -5.2,
+    "pct": -6.8,
     "base": 456.01,
-    "last": 432.26,
+    "last": 425.0,
     "base_date": "2026-08-31",
     "last_date": "2026-09-01"
    }
@@ -512,7 +593,7 @@
     "ticker": "SPY",
     "pct": -0.7,
     "base": 767.05,
-    "last": 761.54,
+    "last": 761.78,
     "base_date": "2026-08-31",
     "last_date": "2026-09-01"
    }
@@ -534,9 +615,9 @@
    "reason": "Musk involvement in China trip and FSD delays create mixed signals for Tesla operations",
    "price_since": {
     "ticker": "TSLA",
-    "pct": -3.1,
+    "pct": -3.2,
     "base": 367.95,
-    "last": 356.41,
+    "last": 356.09,
     "base_date": "2026-08-31",
     "last_date": "2026-09-01"
    }
@@ -558,9 +639,9 @@
    "reason": "Iran strikes on GCC oil-producing states risk regional instability and supply disruptions; bearish for oil and energy markets.",
    "price_since": {
     "ticker": "XLE",
-    "pct": 1.1,
+    "pct": 1.3,
     "base": 63.96,
-    "last": 64.68,
+    "last": 64.77,
     "base_date": "2026-08-31",
     "last_date": "2026-09-01"
    }
@@ -582,9 +663,9 @@
    "reason": "Nvidia Q2 revenue beat 106% YoY; strong earnings fundamentals support stock appreciation.",
    "price_since": {
     "ticker": "NVDA",
-    "pct": -1.3,
+    "pct": -1.5,
     "base": 220.78,
-    "last": 217.85,
+    "last": 217.44,
     "base_date": "2026-08-31",
     "last_date": "2026-09-01"
    }
@@ -606,9 +687,9 @@
    "reason": "Trump praises Nvidia as 'Incredible' directly to CEO Jensen Huang; explicit positive endorsement of named company.",
    "price_since": {
     "ticker": "NVDA",
-    "pct": -1.3,
+    "pct": -1.5,
     "base": 220.78,
-    "last": 217.85,
+    "last": 217.44,
     "base_date": "2026-08-31",
     "last_date": "2026-09-01"
    }
@@ -964,22 +1045,6 @@
    "primary_ticker": "IBM",
    "strength": 60,
    "reason": "IBM stock surging 7% overnight; likely driven by the $1B grant announcement, confirming market-bullish read on the contract."
-  },
-  {
-   "date": "2026-08-30T04:12:48Z",
-   "platform": "News",
-   "text": "ASTS Stock Eases After 3-Day Run: FCC Opens Door For Direct Phone-To-Satellite Connectivity Using 800 MHz Spectrum - Stocktwits \u2014 ASTS Stock Eases After 3-Day Run: FCC Opens Door For Direct Phone-To-Satellite Connectivity Using 800 MHz Spectrum\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNM0htWHVkSmhubE0yX1VDNVRtYUtHd0xDMl9yTkhyZ0IwQmdGSGpVQ3BINGcwSTZCcmZ4NkFkSTZGY21QNzc3U0ZROWdQMlFQUExvNUtaRTBZaER5UUw2VnhHNXlkSThoWWpmeVVrZE04c3FHOWhmQzF4RHhpREdvXzRfMURGY1g5U3ZNaXhJaDktc3VFQVBaZjY1eEhHaWNVdDlZZ2JzWnlXSGJxcUtacEVqUTU?oc=5",
-   "tickers": [
-    "ASTS"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "ASTS",
-   "strength": 45,
-   "reason": "FCC regulatory approval for direct satellite-to-phone connectivity benefits ASTS; momentum easing after 3-day run suggests mixed near-term direction."
   },
   {
    "date": "2026-08-30T02:47:52Z",
@@ -2180,290 +2245,6 @@
     "base": 9.5,
     "last": 9.77,
     "base_date": "2026-08-26",
-    "last_date": "2026-08-27"
-   }
-  },
-  {
-   "date": "2026-08-26T00:04:28Z",
-   "platform": "News",
-   "text": "INTC Stock Rockets Toward Best Month Ever: Something More Than A Trump Pump Could Be Powering The Rally - Stocktwits \u2014 INTC Stock Rockets Toward Best Month Ever: Something More Than A Trump Pump Could Be Powering The Rally\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQT29KOURKeHprQ2xZbmpLUUc3MGRlTTE5Y1JHVXJ5TGhldk10eENQcmZLSzRWNDQyTmJFclFNUThmZ0tBRlZUQTZ3MGF1dlZwR0Q4aUtXUnZVQ2o1MjM3cFNpU2RrejRkd2E0OXBhOVNpdDdBdDVSSTR1c2M5NTZfYlg4NEFxODg3QWpMTXd0VVIzM3pZRS10OG5JWG9QUW52UjZvbXVvQ29uZ1lJb1NwbFljM1lBN1dreHdJZDdYZ1hKTjVidndnRWlJRnl5cnNpT2llcjVuSVltVDNzVFdHbmZYTEpua3JJVllOcXIxVmdfaThfeHRzVm9R?oc=5",
-   "tickers": [
-    "INTC"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "INTC",
-   "strength": 35,
-   "reason": "Intel rally mentioned in context of 'Trump pump' and semiconductor/AI boost; direction bullish but attributable to other factors.",
-   "price_since": {
-    "ticker": "INTC",
-    "pct": 4.4,
-    "base": 88.24,
-    "last": 92.09,
-    "base_date": "2026-08-26",
-    "last_date": "2026-08-27"
-   }
-  },
-  {
-   "date": "2026-08-25T22:24:39Z",
-   "platform": "News",
-   "text": "Is Netflix\u2019s WBD Bid In Trouble Again? Trump Warns Streaming Giant To Fire Board Member Or \u2018Pay The Consequences\u2019 - Stocktwits \u2014 Is Netflix\u2019s WBD Bid In Trouble Again? Trump Warns Streaming Giant To Fire Board Member Or \u2018Pay The Consequences\u2019\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQU3phR3IwODgtQldLX19NMUFXaVBmN2t6QlVvNTdXZmtVcVhwZzd1NVhCSTFyNndCNjhRZ19qa0Y0X2xuWXFuMmxpYmVwTUVWNzlRaU5DTURGWGl6azJLQWxjam9QRW9URXh1d3ZRYmlBU3h6dmV3aDlxTmlqY1BBVmltN09wMm9adDR0OFFDdXYzRlBlWDRCWmJWWW1NXzdRVkhac0M3dkREaXR2ZUFMZk9WZldYYk0xSVVzR1FncGw1NlpPNG9IVmUxbHY0RTh5dXhqcXloRElQM3E1aS02TEJ1MllrZDd5bGViTHg3LUJlMjg3bllVMEhKcDRiSDFNQmNz?oc=5",
-   "tickers": [
-    "NFLX"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "SELL",
-   "primary_ticker": "NFLX",
-   "strength": 70,
-   "reason": "Trump threatens Netflix with consequences if board member not fired; direct attack on named company.",
-   "price_since": {
-    "ticker": "NFLX",
-    "pct": -2.9,
-    "base": 82.23,
-    "last": 79.84,
-    "base_date": "2026-08-25",
-    "last_date": "2026-08-27"
-   }
-  },
-  {
-   "date": "2026-08-25T21:18:01Z",
-   "platform": "News",
-   "text": "Trump\u2019s investment accounts show stock trades in companies awarded immigration contracts - AOL.ca \u2014 Trump\u2019s investment accounts show stock trades in companies awarded immigration contracts\u00a0\u00a0AOL.ca",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPLURCOVdfWDFyOW5LQlk2NHVxY2E3d3p3dWdTRFo0WkhOMnVFZWJkY1lwRWdSdnU5bnNxTW5FSWJIX085d21ZQUo4WVhqTHliWjVQZnFzemQtM2tVY3ctNWVHOVg1TGpZdmJ1bGRfVHRHUmNDZkY5c1hVMFZGMFpqVXhIbDMyZw?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "SPY",
-   "strength": 25,
-   "reason": "Trump trades stocks in companies with immigration contracts; unclear directional impact",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": 0.7,
-    "base": 765.91,
-    "last": 771.1,
-    "base_date": "2026-08-25",
-    "last_date": "2026-08-27"
-   }
-  },
-  {
-   "date": "2026-08-25T17:50:39Z",
-   "platform": "News",
-   "text": "Did Trump Just Move SpaceX Stock With One Truth Social Post? - BeInCrypto \u2014 Did Trump Just Move SpaceX Stock With One Truth Social Post?\u00a0\u00a0BeInCrypto",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5YNThaaWhaSm5NdDM3RDYxY1phaWVJQXZKYTVCWTcyX3NzeWlrYUtFTEUtQjVIblZVcHZUVVBKNkJjSVlYZDhPdmctRXNrZjdyWGhXNUZrRVZBSmZnTDdUdHU5QTlFQkh4YUVV?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "SPY",
-   "strength": 25,
-   "reason": "Question whether Trump moved SpaceX post; speculative, direction ambiguous.",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": 0.7,
-    "base": 765.91,
-    "last": 771.1,
-    "base_date": "2026-08-25",
-    "last_date": "2026-08-27"
-   }
-  },
-  {
-   "date": "2026-08-25T17:43:09Z",
-   "platform": "News",
-   "text": "Did Trump Just Move SpaceX Stock With One Truth Social Post? - Yahoo Finance \u2014 Did Trump Just Move SpaceX Stock With One Truth Social Post?\u00a0\u00a0Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNU1aVmZiUnRMdmd1Q2g4bEFNNUE3dnRkNGJiUVNmQ3ZXX28zNXhGMmZkS1I1ak1pWW8xMTlXSEtISno5bkNVeWYzSThVZldhYXdjNW5lbFo0LVVzWG50aTNpTnltczhyWTRZUVZIaUFjS1FpNDVBRkFGb3R5dFBGYlI0SGRfYnNkRER0ZEZ4UXZJal9CLXc?oc=5",
-   "tickers": [
-    "SPACE"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "SPACE",
-   "strength": 40,
-   "reason": "Duplicate of index 28; Trump post attributed to SpaceX stock movement"
-  },
-  {
-   "date": "2026-08-25T15:40:59.136Z",
-   "platform": "Truth Social",
-   "text": "S&P Global: 'US Business Is Booming': https://www.breitbart.com/economy/2026/08/21/biz-is-booming/",
-   "tickers": [
-    "SPY"
-   ],
-   "engagement": 1032,
-   "url": "https://truthsocial.com/@realDonaldTrump/117156902282061140",
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "SPY",
-   "strength": 25,
-   "reason": "Broad optimism on US business conditions; macro bullish but vague, no specific catalyst",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": 0.7,
-    "base": 765.91,
-    "last": 771.1,
-    "base_date": "2026-08-25",
-    "last_date": "2026-08-27"
-   }
-  },
-  {
-   "date": "2026-08-25T15:40:43.380Z",
-   "platform": "Truth Social",
-   "text": "RT @realwayneroot\"US BUSINESS IS BOOMING.\" My great friend & financial advisor Kip Herriage of VRAinsider called this first. I took ball & ran with it. Trump economy is BOOMING. Yet no one knows it because commie media is gaslighting America. Yes prices still high, but that's 100% Biden's inflation. Inflation growth under Trump is lowest among recent presidents. Big stocks are booming to all time highs, profits all time highs, earnings all time highs- Trump economy is exploding to Reagan levels- while fake news media scams you into thinking it's bad. This is biggest scam in history (other than Obamacare, Covid vaccine & stolen 2020 election)- total fantasy media is promoting that economy is bad. All time record profits & earnings are bad?https://www.breitbart.com/economy/2026/08/21/biz-is-booming/",
-   "tickers": [
-    "SPY"
-   ],
-   "engagement": 2,
-   "url": "https://truthsocial.com/@realDonaldTrump/117156901249242368",
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "SPY",
-   "strength": 35,
-   "reason": "Claims Trump economy booming, stocks at all-time highs, earnings strong; macro positive but relies on unverified assertions and political spin",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": 0.7,
-    "base": 765.91,
-    "last": 771.1,
-    "base_date": "2026-08-25",
-    "last_date": "2026-08-27"
-   }
-  },
-  {
-   "date": "2026-08-25T15:14:18Z",
-   "platform": "News",
-   "text": "Nuclear Stocks Rebound on an Oversold Bounce: Uranium Energy Jumps 6%, NuScale Power and Oklo Climb 5% - 24/7 Wall St. \u2014 Nuclear Stocks Rebound on an Oversold Bounce: Uranium Energy Jumps 6%, NuScale Power and Oklo Climb 5%\u00a0\u00a024/7 Wall St.",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPb3N6cjI4OFhTMnhNdkZ4dkhQSTJQblJjZGxHZTh6V1dvVGlVWFQya1RPRjItV1FyUzktTHM0VUpEOG1QclBoUmhuSmFTNTdyaEFPclM5a21PLTNaX3JPTlFBZW1MbXktdDd3eVl5QTY5QXV4YjkwM1BaS0ttLUppSERxY3hEZlRMZ2t3VFF2clJCSFY3UWpjdmI2a3g3bzdjYkhFRF9xWnFzQUY5RkxyV19DYURDV2ppN0p3YUdlNEN2cXhxOEU1VmI4ODRXMVdmRHhjZlRINlBYdw?oc=5",
-   "tickers": [
-    "UEC"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "UEC",
-   "strength": 40,
-   "reason": "Nuclear stocks rebounding on oversold bounce; sector-specific but unclear if Trump-driven or technical mean-reversion",
-   "price_since": {
-    "ticker": "UEC",
-    "pct": 2.6,
-    "base": 13.27,
-    "last": 13.62,
-    "base_date": "2026-08-25",
-    "last_date": "2026-08-27"
-   }
-  },
-  {
-   "date": "2026-08-25T14:21:14Z",
-   "platform": "News",
-   "text": "CAR Stock Rises Premarket: CEO Calls Shares \u2018Undervalued\u2019 And Rules Out Issuing Stock At Current Levels - Stocktwits \u2014 CAR Stock Rises Premarket: CEO Calls Shares \u2018Undervalued\u2019 And Rules Out Issuing Stock At Current Levels\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOb0ViZF9JTXBKczhJbnM3czIyQ3dxdFNNN3JWd1BWaFRfTkIzeXFFQlhYU25JXy1yRzVPSlVaSUdvZGtHT0hsdUFpUm9oSGFZU2Rma2NpS0dsQXZMUGN3eEpqUTBrX0JSb0lDb0NfaWRsX2RSWExlcjlnSUQ2a0R6TkxIYlB2M0dLMXo3UkUxYzZ1YUJMdk5VLWZwRlA0RkFUcVFRMTBneGk3ZDBMeGJsbUVReFByRG9ROFE?oc=5",
-   "tickers": [
-    "CAR"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "CAR",
-   "strength": 40,
-   "reason": "Avis rises pre-market; CEO confidence on valuation and no dilution supports near-term upside.",
-   "price_since": {
-    "ticker": "CAR",
-    "pct": -0.8,
-    "base": 145.13,
-    "last": 143.99,
-    "base_date": "2026-08-25",
-    "last_date": "2026-08-27"
-   }
-  },
-  {
-   "date": "2026-08-25T14:00:40.967Z",
-   "platform": "Truth Social",
-   "text": "Over the last 10 years, the United States lost, on average, 60 Billion Dollars a year with Canada. No more! President DJT",
-   "tickers": [
-    "SPY"
-   ],
-   "engagement": 2215,
-   "url": "https://truthsocial.com/@realDonaldTrump/117156507875234061",
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "SPY",
-   "strength": 45,
-   "reason": "tariff/trade criticism of Canada implies potential trade policy action, broadly bullish if resolved",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": 0.5,
-    "base": 765.91,
-    "last": 769.73,
-    "base_date": "2026-08-25",
-    "last_date": "2026-08-27"
-   }
-  },
-  {
-   "date": "2026-08-25T13:50:09Z",
-   "platform": "News",
-   "text": "Trump Considers Restarting Project Freedom, Warns It Would Go Beyond Merely Escorting Ships Through Strait Of Hormuz - Stocktwits \u2014 Trump Considers Restarting Project Freedom, Warns It Would Go Beyond Merely Escorting Ships Through Strait Of Hormuz\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYkNuQjdjcE15c1lUR3k3S3l4cGE4aVFndUZCQU5DeHM0OTFrTGdIVTJuS0tDVDQ1TVNNTm9MamZ6XzBmYnZhNFN0MWdVZzhwb1lhTmxBblpVcU50YS01LUdCb3VnMnpPeklteWg1N1IxTktXdTdUUENQUVRzV21YanliMHZ4OXBnc09hTG1PTklpV0w1OVhuN1JKQWhOTFdBQkFNYjgyU0ZQNE5zWjBJZzNxRmpreDhsMUlv?oc=5",
-   "tickers": [
-    "XAR"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "XAR",
-   "strength": 35,
-   "reason": "Military/defense expansion via Project Freedom suggests increased defense spending appetite.",
-   "price_since": {
-    "ticker": "XAR",
-    "pct": 0.0,
-    "base": 264.85,
-    "last": 264.89,
-    "base_date": "2026-08-25",
-    "last_date": "2026-08-27"
-   }
-  },
-  {
-   "date": "2026-08-25T13:40:40.521Z",
-   "platform": "Truth Social",
-   "text": "Canada has been \"Ripping Off\" the U.S.A. for decades. They have been charging our Farmers 400% Tariffs, and more. They have driven many wonderful U.S. companies out of business. For 10 years they wouldn't certify Gulfstream Jets, until I got involved. They wanted 100% of the market for Gulfstream's Canadian competitor. I deal with many countries, and Canada is easily the most difficult and unreasonable. They feel entitled, but they are not a State, and will be entitled no longer! President DJT",
-   "tickers": [
-    "SPY"
-   ],
-   "engagement": 3976,
-   "url": "https://truthsocial.com/@realDonaldTrump/117156429202842827",
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "SPY",
-   "strength": 50,
-   "reason": "explicit tariff threat against Canada and criticism of bilateral trade; tariffs typically bearish for broad market",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": 0.5,
-    "base": 765.91,
-    "last": 769.73,
-    "base_date": "2026-08-25",
     "last_date": "2026-08-27"
    }
   },
