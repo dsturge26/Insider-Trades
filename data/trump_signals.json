@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-09-01T14:33:14Z",
+ "last_updated": "2026-09-01T17:57:53Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -83,9 +83,33 @@
    "reason": "Trump Greenland interest implies critical metals/rare earths supply catalyst; bullish metals sector",
    "price_since": {
     "ticker": "XME",
-    "pct": -0.7,
+    "pct": -1.4,
     "base": 118.13,
-    "last": 117.25,
+    "last": 116.48,
+    "base_date": "2026-08-31",
+    "last_date": "2026-09-01"
+   }
+  },
+  {
+   "date": "2026-08-31T23:15:33Z",
+   "platform": "News",
+   "text": "Trump Warns Of Tariffs Up To 200% For Companies That Don't Build In The US \u2014 'We're Doing Great On Steel Because We Charge Tariffs' - Stocktwits \u2014 Trump Warns Of Tariffs Up To 200% For Companies That Don't Build In The US \u2014 'We're Doing Great On Steel Because We Charge Tariffs'\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMm40WW15RHg0T0ZIMkQzNzBxd2RZZ3ZxbDVMSi1zTE9HQkNBdHdmdFlWendxcC1acHJmX0lmY1hRREpWYTRrZ2FsOGh3TnN0N0dwTEdLbTN0QlFjdXFPQTEyUWtEV1RIc3AyZ1hMR0lQOVpDM190ZmdEVWtLeWlpakxtYkY0QzF4ZlU3enY4a2FBUUZ5Zk9VNVAtemxnWDl1S3Ywc3l3R1FlZmpLZ2RoRmY2MzZ4dw?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "SPY",
+   "strength": 70,
+   "reason": "Tariff threat up to 200%; broad market and manufacturing stocks down on protectionist policy",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": -0.7,
+    "base": 767.05,
+    "last": 761.52,
     "base_date": "2026-08-31",
     "last_date": "2026-09-01"
    }
@@ -107,9 +131,9 @@
    "reason": "Tax incentive for Hollywood production; modest pro-business signal affecting media/entertainment sector",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.4,
+    "pct": -0.7,
     "base": 767.05,
-    "last": 764.3,
+    "last": 761.52,
     "base_date": "2026-08-31",
     "last_date": "2026-09-01"
    }
@@ -131,9 +155,9 @@
    "reason": "Data center lease announcement; momentum play but direction unclear without details",
    "price_since": {
     "ticker": "KEEL",
-    "pct": -3.2,
+    "pct": -1.6,
     "base": 3.15,
-    "last": 3.05,
+    "last": 3.1,
     "base_date": "2026-08-31",
     "last_date": "2026-09-01"
    }
@@ -155,9 +179,9 @@
    "reason": "Trump Account holders receiving Dell grants directly supports Dell and signals Trump endorsement of the company.",
    "price_since": {
     "ticker": "DELL",
-    "pct": -3.0,
+    "pct": -5.2,
     "base": 456.01,
-    "last": 442.44,
+    "last": 432.26,
     "base_date": "2026-08-31",
     "last_date": "2026-09-01"
    }
@@ -179,9 +203,9 @@
    "reason": "Trump drug pricing deals; mixed signal for biotech/pharma (cost control bearish; regulatory bullish)",
    "price_since": {
     "ticker": "XBI",
-    "pct": -0.3,
+    "pct": 0.2,
     "base": 162.5,
-    "last": 162.0,
+    "last": 162.9,
     "base_date": "2026-08-31",
     "last_date": "2026-09-01"
    }
@@ -204,9 +228,9 @@
    "reason": "Trump endorses data centers as economic driver; pro-business/growth macro signal, bullish for broad market and tech infrastructure",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.4,
+    "pct": -0.7,
     "base": 767.05,
-    "last": 764.32,
+    "last": 761.53,
     "base_date": "2026-08-31",
     "last_date": "2026-09-01"
    }
@@ -247,7 +271,7 @@
     "ticker": "NVDA",
     "pct": -1.3,
     "base": 220.78,
-    "last": 217.96,
+    "last": 217.87,
     "base_date": "2026-08-31",
     "last_date": "2026-09-01"
    }
@@ -269,9 +293,9 @@
    "reason": "Trump administration awards $1B quantum computing grant; direct federal contract bullish",
    "price_since": {
     "ticker": "IBM",
-    "pct": -0.6,
+    "pct": -1.3,
     "base": 233.87,
-    "last": 232.39,
+    "last": 230.92,
     "base_date": "2026-08-31",
     "last_date": "2026-09-01"
    }
@@ -293,9 +317,9 @@
    "reason": "$19B Anthropic lease bullish but stock drops; mixed signal on AI infrastructure play",
    "price_since": {
     "ticker": "WULF",
-    "pct": -3.9,
+    "pct": -2.2,
     "base": 15.13,
-    "last": 14.54,
+    "last": 14.79,
     "base_date": "2026-08-31",
     "last_date": "2026-09-01"
    }
@@ -320,7 +344,7 @@
     "ticker": "SMH",
     "pct": -2.3,
     "base": 556.63,
-    "last": 543.6,
+    "last": 543.91,
     "base_date": "2026-08-31",
     "last_date": "2026-09-01"
    }
@@ -344,7 +368,7 @@
     "ticker": "NVDA",
     "pct": -1.3,
     "base": 220.78,
-    "last": 217.96,
+    "last": 217.87,
     "base_date": "2026-08-31",
     "last_date": "2026-09-01"
    }
@@ -368,7 +392,7 @@
     "ticker": "NVDA",
     "pct": -1.3,
     "base": 220.78,
-    "last": 217.98,
+    "last": 217.87,
     "base_date": "2026-08-31",
     "last_date": "2026-09-01"
    }
@@ -392,7 +416,7 @@
     "ticker": "NVDA",
     "pct": -1.3,
     "base": 220.78,
-    "last": 217.96,
+    "last": 217.86,
     "base_date": "2026-08-31",
     "last_date": "2026-09-01"
    }
@@ -416,7 +440,7 @@
     "ticker": "NVDA",
     "pct": -1.3,
     "base": 220.78,
-    "last": 217.98,
+    "last": 217.86,
     "base_date": "2026-08-31",
     "last_date": "2026-09-01"
    }
@@ -440,7 +464,7 @@
     "ticker": "NVDA",
     "pct": -1.3,
     "base": 220.78,
-    "last": 217.96,
+    "last": 217.86,
     "base_date": "2026-08-31",
     "last_date": "2026-09-01"
    }
@@ -462,9 +486,9 @@
    "reason": "Trump explicitly endorses Dell; stock spikes on direct presidential praise",
    "price_since": {
     "ticker": "DELL",
-    "pct": -3.0,
+    "pct": -5.2,
     "base": 456.01,
-    "last": 442.44,
+    "last": 432.26,
     "base_date": "2026-08-31",
     "last_date": "2026-09-01"
    }
@@ -486,9 +510,9 @@
    "reason": "Tariff pressure on South Korea signals potential trade friction headwind",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.3,
+    "pct": -0.7,
     "base": 767.05,
-    "last": 764.38,
+    "last": 761.54,
     "base_date": "2026-08-31",
     "last_date": "2026-09-01"
    }
@@ -510,9 +534,9 @@
    "reason": "Musk involvement in China trip and FSD delays create mixed signals for Tesla operations",
    "price_since": {
     "ticker": "TSLA",
-    "pct": -2.5,
+    "pct": -3.1,
     "base": 367.95,
-    "last": 358.83,
+    "last": 356.41,
     "base_date": "2026-08-31",
     "last_date": "2026-09-01"
    }
@@ -534,9 +558,9 @@
    "reason": "Iran strikes on GCC oil-producing states risk regional instability and supply disruptions; bearish for oil and energy markets.",
    "price_since": {
     "ticker": "XLE",
-    "pct": 0.5,
+    "pct": 1.1,
     "base": 63.96,
-    "last": 64.31,
+    "last": 64.68,
     "base_date": "2026-08-31",
     "last_date": "2026-09-01"
    }
@@ -560,7 +584,7 @@
     "ticker": "NVDA",
     "pct": -1.3,
     "base": 220.78,
-    "last": 217.96,
+    "last": 217.85,
     "base_date": "2026-08-31",
     "last_date": "2026-09-01"
    }
@@ -584,7 +608,7 @@
     "ticker": "NVDA",
     "pct": -1.3,
     "base": 220.78,
-    "last": 217.98,
+    "last": 217.85,
     "base_date": "2026-08-31",
     "last_date": "2026-09-01"
    }
@@ -607,9 +631,9 @@
    "reason": "Rhetoric about Kharg Island (major Iranian oil facility) destruction signals geopolitical tension and oil supply risk.",
    "price_since": {
     "ticker": "XLE",
-    "pct": 0.5,
+    "pct": 1.1,
     "base": 63.96,
-    "last": 64.31,
+    "last": 64.68,
     "base_date": "2026-08-31",
     "last_date": "2026-09-01"
    }
@@ -632,9 +656,9 @@
    "reason": "Tariff threat on Canada drives companies back to US; bullish macro signal but vague on timing/magnitude",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.4,
+    "pct": -0.7,
     "base": 767.05,
-    "last": 764.34,
+    "last": 761.53,
     "base_date": "2026-08-31",
     "last_date": "2026-09-01"
    }
@@ -656,9 +680,9 @@
    "reason": "Trump diplomacy credited with cancer drug approvals; tailwind for biotech company",
    "price_since": {
     "ticker": "IBRX",
-    "pct": -0.5,
+    "pct": -0.3,
     "base": 7.95,
-    "last": 7.91,
+    "last": 7.93,
     "base_date": "2026-08-31",
     "last_date": "2026-09-01"
    }
@@ -2434,54 +2458,6 @@
    "primary_ticker": "SPY",
    "strength": 50,
    "reason": "explicit tariff threat against Canada and criticism of bilateral trade; tariffs typically bearish for broad market",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": 0.5,
-    "base": 765.91,
-    "last": 769.73,
-    "base_date": "2026-08-25",
-    "last_date": "2026-08-27"
-   }
-  },
-  {
-   "date": "2026-08-25T12:59:31Z",
-   "platform": "News",
-   "text": "Why Did PANW, AAL, MRNA Surge To 52-Week Highs? - Stocktwits \u2014 Why Did PANW, AAL, MRNA Surge To 52-Week Highs?\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTlBYYnRFLUw0ekRPSlg0bHViSVNLbkVHY1BYbXQ0RlFIX2pPX1dHNjJ3cTFJb3lfREw4OG1lbHNNUFhEYzd4d2N0dXZ4NnY0cFp6dUhSekhfTlhKbmIyYVlReWxIQVlzVnZPck45c2VLeEx4amRRa0xMRWZROHpEWnBJZFRKZ2FSQUJVRmJlUXpMWTJ0TzU3SFN5bl8zTVhxVU5BOU5GTGNhcnJH?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "SPY",
-   "strength": 25,
-   "reason": "Multiple unrelated stocks hit 52-week highs; no Trump-specific catalyst or market direction implied",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": 0.5,
-    "base": 765.91,
-    "last": 769.73,
-    "base_date": "2026-08-25",
-    "last_date": "2026-08-27"
-   }
-  },
-  {
-   "date": "2026-08-25T12:51:59Z",
-   "platform": "News",
-   "text": "Trump bought shares in Musk's SpaceX in June - News24 \u2014 Trump bought shares in Musk's SpaceX in June\u00a0\u00a0News24",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYWNuVmt0Vld0THZYblM1OE5wVXYzN3c2dnlla0drbWRKSUotbTE4TTVfQzUzeC1vWGVPU2NuTjl3RV9kQlJidUhIZHN4SzNVc1dnM1hMVm50dnN2REc0cG1WN1RmTlFNbDk0Y0RiMlVaNFNRX3FjVzdkUFZya0xBMVlTdmd5LWEyY0RnQ2l4TllUQmFQSFBGUFUycjZQSW11?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "SPY",
-   "strength": 35,
-   "reason": "Trump stake in private SpaceX suggests bullish view on space/defense; indirect signal on broad tech/defense sentiment.",
    "price_since": {
     "ticker": "SPY",
     "pct": 0.5,
