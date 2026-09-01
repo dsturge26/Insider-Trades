@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-08-31T20:18:21Z",
+ "last_updated": "2026-08-31T23:59:59Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-08-31T21:10:05Z",
+   "platform": "News",
+   "text": "Trump Account holders may receive $250 Dell grant starting Monday, Dell Foundation says - CNBC \u2014 Trump Account holders may receive $250 Dell grant starting Monday, Dell Foundation says\u00a0\u00a0CNBC",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdWpGVTA1d1dBcjNQNFJUSWt2bVI5RmZOUEVYaVk4LTUwaVdwOXZFeUJrX09sV3RsejBIX1c4aTRHdUJpSk8wcmRRcjJmMWFteWd1TTRqSXN4eWJvWnE5UUxpazVMbmMyLS1RTGxCRlhCZDhxcWZ0N2ptVlJhbzA0RWxTVzcyOFZ3ZHZtajBSck04ZTRIbk9OWFdpVlBLWTJzX0xIbVJaU2LSAa4BQVVfeXFMUEJCenpEWEVuY2hHQS11RWo5LUtjdk5WdWFvaFFZQWIwTktGeDBKdGg5OUJlelhOaFN4ZVlUcFFIdS1adGExSU5BdS1Uem9PamdFTXUxTmJqUklib09pS1BwNGN2d0NfU3E2QkVmRl9vSm1Pajl5aHpTQ2hjaGVCNC02emt5V0t2bUhFcmFUekFqOUl2bl9rVkdKbnlxTUpqT0R1SklfcXpnY21hOVBB?oc=5",
+   "tickers": [
+    "DELL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "DELL",
+   "strength": 75,
+   "reason": "Trump Account holders receiving Dell grants directly supports Dell and signals Trump endorsement of the company."
+  },
   {
    "date": "2026-08-31T15:36:12.189Z",
    "platform": "Truth Social",
@@ -54,6 +70,22 @@
    "reason": "Pro-data center policy stance bullish for semiconductor/chip infrastructure sector"
   },
   {
+   "date": "2026-08-31T13:10:32Z",
+   "platform": "News",
+   "text": "Jensen Huang Was Addressing Nvidia Employees When Trump Suddenly Called \u2014 Hours Later, Trump Celebrated the Chipmaker\u2019s \u2018Incredible\u2019 Results: Report (UPDATED) - Yahoo Finance \u2014 Jensen Huang Was Addressing Nvidia Employees When Trump Suddenly Called \u2014 Hours Later, Trump Celebrated the Chipmaker\u2019s \u2018Incredible\u2019 Results: Report (UPDATED)\u00a0\u00a0Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdXJUeG9SUVlrT29RV3VXYXVLSW9mYjMtVE9USm5sZDh0RDZDeGYtM0E0bFFPOE1MU1Y0MVZTaUhLM2k1SU1QMnhVc1F2djZQUlJ1MlU1SXU5Y05QbzVxTTVwYzUxNmViTXJMQk1NZWZWWVlnbW9YZXB2dTRCaFRRZGVIOXpBWWxYMlZvN2RJSHdsdmkyQ1NpUW40bV9IZjd4VmxV?oc=5",
+   "tickers": [
+    "NVDA"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "NVDA",
+   "strength": 80,
+   "reason": "Trump explicitly praises Nvidia's 'incredible results' to CEO; direct positive endorsement of named public company."
+  },
+  {
    "date": "2026-08-31T13:10:00Z",
    "platform": "News",
    "text": "Jensen Huang Was Addressing Nvidia Employees When Trump Suddenly Called \u2014 Hours Later, Trump Celebrated t - Benzinga \u2014 Jensen Huang Was Addressing Nvidia Employees When Trump Suddenly Called \u2014 Hours Later, Trump Celebrated t\u00a0\u00a0Benzinga",
@@ -68,6 +100,22 @@
    "primary_ticker": "NVDA",
    "strength": 65,
    "reason": "Trump called Nvidia CEO and celebrated; direct praise of company"
+  },
+  {
+   "date": "2026-08-31T13:10:00Z",
+   "platform": "News",
+   "text": "Jensen Huang Was Addressing Nvidia Employees When Trump Suddenly Called \u2014 Hours Later, Trump Celebrated t - benzinga.com \u2014 Jensen Huang Was Addressing Nvidia Employees When Trump Suddenly Called \u2014 Hours Later, Trump Celebrated t\u00a0\u00a0benzinga.com",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNnVLaUJEUDlYR2VRakQtVWJoSlYxbTJmTG9xU1BSQkYxby1Jb0lMS2JxT1c1TGJzOW12RkZycUQwTE9JMVU0aVlIUjlaWG43ekNxekp4VURLamhJU0RLcWNUVXdYSFNZR1A2UXdrOU5OdVNMcU02NWZzR3JkejJKWWp5TTZvUnJWMWxDUWhsZy1ZeDFxeURscm5jMWxIbTZRWE5CX01UQ0t1dW85RGIxWkVVeWxiQTRCTy1J?oc=5",
+   "tickers": [
+    "NVDA"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "NVDA",
+   "strength": 80,
+   "reason": "Trump explicitly praises Nvidia's 'incredible results' to CEO; direct positive endorsement of named public company."
   },
   {
    "date": "2026-08-31T11:01:13Z",
@@ -556,6 +604,22 @@
    "primary_ticker": "XAR",
    "strength": 65,
    "reason": "Trump administration backing space expansion and American leadership; bullish for defense/aerospace and space contractors"
+  },
+  {
+   "date": "2026-08-30T02:38:10Z",
+   "platform": "News",
+   "text": "Mike Pence Praises Trump\u2019s \u2018Golden Age\u2019 of Space, Says President Is \u2018Reviving\u2019 American Leadership - benzinga.com \u2014 Mike Pence Praises Trump\u2019s \u2018Golden Age\u2019 of Space, Says President Is \u2018Reviving\u2019 American Leadership\u00a0\u00a0benzinga.com",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPbmpRNEYzWEN6czh2cTNlVmFySHlic0lKck0xRTVERzhmWkgxRkxTRkt2Q21xaHVLRGVyX0dLTktRdW1RbFk0Sk44NEhISXQtLVctVHlWa1VUcnRDRzRxQ1JGYmdSVXFnYW9VNXY3OGtRTUJJaHp2VE1adGhOekhfeTA2WldjUzRZc01XeGgwdmFseGQ2ZmEya01qalJjVFc5VnpjWlh3a1dLQjdXVmlLSTRCX0lYU09neEh2eXBQdGZieU1QQVVSMTZkX3N5M0NnMlBZNUo3eFJQaTg?oc=5",
+   "tickers": [
+    "XAR"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "XAR",
+   "strength": 35,
+   "reason": "Policy praise for space/aerospace sector revival implies potential bullish tailwind for defense and space contractors, but lacks specific catalyst."
   },
   {
    "date": "2026-08-30T02:06:00Z",
@@ -2336,6 +2400,23 @@
    "reason": "Trump's majority-owned stock debuts \u2014 pure sentiment play, extremely volatile and headline-driven.",
    "market_reaction": "DJT spiked on debut then stayed volatile, moving heavily on Trump political/legal news.",
    "url": "https://www.nasdaq.com/market-activity/stocks/djt"
+  },
+  {
+   "date": "2022-09-28T12:00:00Z",
+   "platform": "Federal contract",
+   "text": "ORACLE HEALTH GOVERNMENT SERVICES, INC. was awarded a $1.7B federal contract from Department of Veterans Affairs.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_36C10B22N0051EHRM_3600_36C10B18D5000_3600",
+   "tickers": [
+    "ORCL"
+   ],
+   "contract_amount": 1.68,
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "ORCL",
+   "strength": 72,
+   "reason": "Oracle Health Government Services (Oracle subsidiary) awarded $1.7B federal contract by VA; large government contract is bullish for Oracle revenue and positioning."
   }
  ],
  "how_to_read": "Each card is Claude's read of a public Trump post: the affected ticker, whether it implies BUY / SELL / WATCH, a 0\u2013100 strength (how explicit/emphatic the post is \u2014 NOT a profit predictor), and why. A 2-year backtest found these don't beat buy-and-hold, so this is for awareness, not trading. Not financial advice."
