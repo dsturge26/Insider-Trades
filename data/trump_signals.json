@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-09-01T23:04:07Z",
+ "last_updated": "2026-09-02T01:01:56Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -34,6 +34,22 @@
    "primary_ticker": "IYY",
    "strength": 25,
    "reason": "Federal production tax credit endorsement is bullish for film/media industry, modest strength"
+  },
+  {
+   "date": "2026-09-01T17:47:29Z",
+   "platform": "News",
+   "text": "Trump endorses federal production tax credit - axios.com \u2014 Trump endorses federal production tax credit\u00a0\u00a0axios.com",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBFSFRpUEZsZnU1bEZKS2FqZFpBeU5XODV6Z2hjZGNuYlZ2b3pvR05BMEtKN3ZJa3dyeUdFVDAwb0JMcXNQNGo4M2FqZG9Ic0NDRVduMkJsZFY3TW1MXzRZNFBYZlY2SWlpOUxqY3dKSzdyUHVCYkRXcXJB?oc=5",
+   "tickers": [
+    "QQQ"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "QQQ",
+   "strength": 35,
+   "reason": "Federal production tax credit endorsement supports domestic film/tech production; modest positive for creative/production sectors"
   },
   {
    "date": "2026-09-01T14:00:55Z",
@@ -260,6 +276,30 @@
    }
   },
   {
+   "date": "2026-08-31T21:52:00Z",
+   "platform": "News",
+   "text": "Teva, BridgeBio and 7 Others Reach Drug Pricing Deals With Trump - Barron's \u2014 Teva, BridgeBio and 7 Others Reach Drug Pricing Deals With Trump\u00a0\u00a0Barron's",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWEdSTy1ieHN4dVdTN0JhdHJVRU0xVXBBRVJqOFJWcUV4N2xpcWpiTjBrdFl2NjhwY1BmOEVBd0RQQzE4bU44OHhleGtiTm0wN19RaWU4bWpnTUR4SGxJWm9tcnVOcS11TDMweHU3SzM3LXNwMzFHS0p3SmYzUDVoYmRGVUx5bDZ3Ylk3RHZiWG1FSEpEUFl3YmZUaWp2QUE?oc=5",
+   "tickers": [
+    "PJP"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "PJP",
+   "strength": 50,
+   "reason": "Drug pricing deals negotiated with Trump; implies lower pharma pricing power and margins for mid-cap drugmakers",
+   "price_since": {
+    "ticker": "PJP",
+    "pct": 0.4,
+    "base": 127.49,
+    "last": 128.02,
+    "base_date": "2026-08-31",
+    "last_date": "2026-09-01"
+   }
+  },
+  {
    "date": "2026-08-31T21:47:46Z",
    "platform": "News",
    "text": "KEEL Stock Jumps Onto Retail Radar As Investors Eye First Data Center Lease Announcement - Stocktwits \u2014 KEEL Stock Jumps Onto Retail Radar As Investors Eye First Data Center Lease Announcement\u00a0\u00a0Stocktwits",
@@ -351,6 +391,30 @@
     "pct": 0.6,
     "base": 162.5,
     "last": 163.4,
+    "base_date": "2026-08-31",
+    "last_date": "2026-09-01"
+   }
+  },
+  {
+   "date": "2026-08-31T20:08:54Z",
+   "platform": "News",
+   "text": "Trump on possible Venezuela departure from OPEC: 'It's up to them' - Devdiscourse \u2014 Trump on possible Venezuela departure from OPEC: 'It's up to them'\u00a0\u00a0Devdiscourse",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMEwxeW96enhMaFlpSEdkdlJuMlJMcnA1azVULWtwR0tIRUo3TWdKUTRQUjNneG1XNEcxaXJiVFdKa0lVY0dlRTJFT3JjV0xBeUJFcDctWG5rdlVRbTl1Z0t2VjNyQW5uRnd0bnpVTnZESk50WXdWN0tUOUllbDItOVh1RG9CMWZyU2FlSHNva2RwSFJZMU1MLXFVckloNkxuZ0d0VWNhSExvcWpOcldad3JjaTE1dWhTV2UzTDJBZ1BhZ2_SAcMBQVVfeXFMTjBMMXlvenp4TGhZaUhHZHZSbjJSTHJwNWs1VC1rcEdLSEVKN01nSlE0UFIzZ3htVzRHMWlyYlRXSmtJVWNHZUUyRU9yY1dMQXlCRXA3LVhua3ZVUW05dWdLdlYzckFubkZ3dG56VU52REpOdFl3VjdLVDlJZWwyLTlYdURvQjFmclNhZUhzb2tkcEhSWTFNTC1xVXJJaDZMbmdHdFVjYUhMb3FqTnJXWndyY2kxNXVoU1dlM0wyQWdQYWdv?oc=5",
+   "tickers": [
+    "USO"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "USO",
+   "strength": 25,
+   "reason": "Venezuela OPEC departure could affect oil supply and prices; ambiguous near-term direction",
+   "price_since": {
+    "ticker": "USO",
+    "pct": 5.5,
+    "base": 133.7,
+    "last": 141.0,
     "base_date": "2026-08-31",
     "last_date": "2026-09-01"
    }
@@ -2447,57 +2511,6 @@
    "reason": "Trump's majority-owned stock debuts \u2014 pure sentiment play, extremely volatile and headline-driven.",
    "market_reaction": "DJT spiked on debut then stayed volatile, moving heavily on Trump political/legal news.",
    "url": "https://www.nasdaq.com/market-activity/stocks/djt"
-  },
-  {
-   "date": "2022-09-28T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "ORACLE HEALTH GOVERNMENT SERVICES, INC. was awarded a $1.7B federal contract from Department of Veterans Affairs.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_36C10B22N0051EHRM_3600_36C10B18D5000_3600",
-   "tickers": [
-    "ORCL"
-   ],
-   "contract_amount": 1.68,
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "ORCL",
-   "strength": 70,
-   "reason": "$1.7B federal contract award to Oracle Health for Veterans Affairs\u2014direct bullish catalyst for ORCL"
-  },
-  {
-   "date": "2021-07-01T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "HARRIS CORPORATION was awarded a $2.1B federal contract from Department of Transportation.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_693KA821F00222_6920_DTFA0102D03006_6920",
-   "tickers": [
-    "HRS"
-   ],
-   "contract_amount": 2.15,
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "HRS",
-   "strength": 70,
-   "reason": "$2.1B federal contract award to Harris Corporation from DOT\u2014direct bullish catalyst for HRS"
-  },
-  {
-   "date": "2020-05-13T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "SPACE EXPLORATION TECHNOLOGIES CORP. was awarded a $3.2B federal contract from National Aeronautics and Space Administration.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_80MSFC20C0034_8000_-NONE-_-NONE-",
-   "tickers": [
-    "SPACE"
-   ],
-   "contract_amount": 3.21,
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "SPACE",
-   "strength": 75,
-   "reason": "$3.2B federal NASA contract to SpaceX\u2014large award bullish for Musk's space venture"
   }
  ],
  "how_to_read": "Each card is Claude's read of a public Trump post: the affected ticker, whether it implies BUY / SELL / WATCH, a 0\u2013100 strength (how explicit/emphatic the post is \u2014 NOT a profit predictor), and why. A 2-year backtest found these don't beat buy-and-hold, so this is for awareness, not trading. Not financial advice."
