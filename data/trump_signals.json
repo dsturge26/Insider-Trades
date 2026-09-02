@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-09-02T14:44:23Z",
+ "last_updated": "2026-09-02T18:07:49Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-09-02T14:42:00Z",
+   "platform": "News",
+   "text": "Anthropic Leader Praises President Trump\u2019s Data Center Stance at G20 Meeting - theinformation.com \u2014 Anthropic Leader Praises President Trump\u2019s Data Center Stance at G20 Meeting\u00a0\u00a0theinformation.com",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNExXSGRnbXhlZm95TUdLVDE0ZmRPUzJiNVpFRlRGUmNrZG50T280bUFlWFZxd3BHOUNZaWtPaU1NZXlCUm1xQ3JhTVdWdFBmZFBhZnp5bGdDejMtUmRXeXJYVm0waXRqNVdjaFNVNkVUdkF1RThCMF9Sd1ZlUG1tZ1dWVFBLM0RmSEdCRVRMeUx1aW5vaDdYaFJROEJNbWY4WXUxVVlfSFlOSHFRTWFjN29fZw?oc=5",
+   "tickers": [
+    "NVDA"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "NVDA",
+   "strength": 35,
+   "reason": "Trump's pro-data-center stance supports AI infrastructure & semiconductor demand"
+  },
   {
    "date": "2026-09-02T05:39:24Z",
    "platform": "News",
@@ -101,9 +117,9 @@
    "reason": "Major AI financing deal signals strong demand and investor confidence in Nvidia, though not Trump-specific",
    "price_since": {
     "ticker": "NVDA",
-    "pct": 3.0,
+    "pct": 3.3,
     "base": 217.44,
-    "last": 223.94,
+    "last": 224.62,
     "base_date": "2026-09-01",
     "last_date": "2026-09-02"
    }
@@ -125,9 +141,9 @@
    "reason": "Federal production tax credit endorsement is bullish for film/media industry, modest strength",
    "price_since": {
     "ticker": "IYY",
-    "pct": 0.5,
+    "pct": 0.4,
     "base": 185.5,
-    "last": 186.44,
+    "last": 186.26,
     "base_date": "2026-09-01",
     "last_date": "2026-09-02"
    }
@@ -149,9 +165,9 @@
    "reason": "Federal production tax credit endorsement supports domestic film/tech production; modest positive for creative/production sectors",
    "price_since": {
     "ticker": "QQQ",
-    "pct": 0.2,
+    "pct": 0.1,
     "base": 707.64,
-    "last": 709.4,
+    "last": 708.36,
     "base_date": "2026-09-01",
     "last_date": "2026-09-02"
    }
@@ -173,9 +189,33 @@
    "reason": "Trump endorses federal production tax credit for film/entertainment",
    "price_since": {
     "ticker": "IYJ",
-    "pct": 0.7,
+    "pct": 0.5,
     "base": 158.71,
-    "last": 159.81,
+    "last": 159.51,
+    "base_date": "2026-09-01",
+    "last_date": "2026-09-02"
+   }
+  },
+  {
+   "date": "2026-09-01T14:28:44Z",
+   "platform": "News",
+   "text": "NOW Stock Rises Overnight: Trump\u2019s ServiceNow Stake Fuels Retail Buzz Around SAAS Comeback - Stocktwits \u2014 NOW Stock Rises Overnight: Trump\u2019s ServiceNow Stake Fuels Retail Buzz Around SAAS Comeback\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQcEF0OFRRa3hIWF9rS21NMTBqNk53MDA4eWFQcDJad1Z2QkQyTTdmd3prLUVaVUUwdVRSWWpCOGs3N3JaYTZCcG1KMjg1c1Q0WWdjSnlWbHkteXVxcnFoUXFZMEg4ejh0YjA4ZG5BRnBEX1huMFNaS0dXdEx4LWNEOXBLcmNpMzlCQzc1OC0yRDFKeWFMWEZzWUpNQXBWTFFDQlJ6dmFWamU5cUpFZnVfcU1ocFdTa0tfdjByTlZZUHo4QUx1QzJOMHpzZEdaZjdqSVhoWFB0cVRKZW9BbnNLMi1XYUF2MlhaZGc?oc=5",
+   "tickers": [
+    "NOW"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "NOW",
+   "strength": 75,
+   "reason": "Trump stake in ServiceNow explicitly fuels retail interest & stock rally",
+   "price_since": {
+    "ticker": "NOW",
+    "pct": -3.8,
+    "base": 142.9,
+    "last": 137.41,
     "base_date": "2026-09-01",
     "last_date": "2026-09-02"
    }
@@ -197,9 +237,9 @@
    "reason": "Federal tax credit for film/TV production bullish for media sector, moderate signal",
    "price_since": {
     "ticker": "IYY",
-    "pct": 0.5,
+    "pct": 0.4,
     "base": 185.5,
-    "last": 186.44,
+    "last": 186.26,
     "base_date": "2026-09-01",
     "last_date": "2026-09-02"
    }
@@ -221,33 +261,9 @@
    "reason": "Iran conflict/geopolitical escalation drives broad market risk-off, futures decline.",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.6,
+    "pct": 0.4,
     "base": 761.78,
-    "last": 766.23,
-    "base_date": "2026-09-01",
-    "last_date": "2026-09-02"
-   }
-  },
-  {
-   "date": "2026-09-01T11:58:06Z",
-   "platform": "News",
-   "text": "NOW Stock Rises Overnight: Trump\u2019s ServiceNow Stake Fuels Retail Buzz Around SAAS Comeback - Stocktwits \u2014 NOW Stock Rises Overnight: Trump\u2019s ServiceNow Stake Fuels Retail Buzz Around SAAS Comeback\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQcEF0OFRRa3hIWF9rS21NMTBqNk53MDA4eWFQcDJad1Z2QkQyTTdmd3prLUVaVUUwdVRSWWpCOGs3N3JaYTZCcG1KMjg1c1Q0WWdjSnlWbHkteXVxcnFoUXFZMEg4ejh0YjA4ZG5BRnBEX1huMFNaS0dXdEx4LWNEOXBLcmNpMzlCQzc1OC0yRDFKeWFMWEZzWUpNQXBWTFFDQlJ6dmFWamU5cUpFZnVfcU1ocFdTa0tfdjByTlZZUHo4QUx1QzJOMHpzZEdaZjdqSVhoWFB0cVRKZW9BbnNLMi1XYUF2MlhaZGc?oc=5",
-   "tickers": [
-    "NOW"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "NOW",
-   "strength": 55,
-   "reason": "Trump stake in ServiceNow signals confidence in AI/SaaS; implied bullish read on stock",
-   "price_since": {
-    "ticker": "NOW",
-    "pct": -2.4,
-    "base": 142.9,
-    "last": 139.49,
+    "last": 765.14,
     "base_date": "2026-09-01",
     "last_date": "2026-09-02"
    }
@@ -269,9 +285,9 @@
    "reason": "Trump signals support for Palantir amid mixed analyst sentiment",
    "price_since": {
     "ticker": "PLTR",
-    "pct": -3.5,
+    "pct": -5.8,
     "base": 179.92,
-    "last": 173.55,
+    "last": 169.56,
     "base_date": "2026-09-01",
     "last_date": "2026-09-02"
    }
@@ -293,9 +309,9 @@
    "reason": "Trump Iran comment and geopolitical tension imply broad market weakness; oil up",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.6,
+    "pct": 0.4,
     "base": 761.78,
-    "last": 766.26,
+    "last": 765.15,
     "base_date": "2026-09-01",
     "last_date": "2026-09-02"
    }
@@ -317,9 +333,9 @@
    "reason": "Federal tax incentive for film/TV production bullish for media sector",
    "price_since": {
     "ticker": "IYY",
-    "pct": 0.5,
+    "pct": 0.4,
     "base": 185.5,
-    "last": 186.44,
+    "last": 186.26,
     "base_date": "2026-09-01",
     "last_date": "2026-09-02"
    }
@@ -341,9 +357,9 @@
    "reason": "Trump endorsement of Nokia explicitly named; AI/growth bullish for NOK",
    "price_since": {
     "ticker": "NOK",
-    "pct": -0.8,
+    "pct": -1.2,
     "base": 9.93,
-    "last": 9.85,
+    "last": 9.81,
     "base_date": "2026-09-01",
     "last_date": "2026-09-02"
    }
@@ -365,9 +381,9 @@
    "reason": "FCC door-open for satellite spectrum is positive catalyst; easing after run suggests mixed near-term direction",
    "price_since": {
     "ticker": "ASTS",
-    "pct": 9.1,
+    "pct": 10.1,
     "base": 55.8,
-    "last": 60.9,
+    "last": 61.43,
     "base_date": "2026-09-01",
     "last_date": "2026-09-02"
    }
@@ -389,9 +405,9 @@
    "reason": "Mixed market signals post-August rally; no Trump catalyst identified",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.6,
+    "pct": 0.4,
     "base": 761.78,
-    "last": 766.26,
+    "last": 765.15,
     "base_date": "2026-09-01",
     "last_date": "2026-09-02"
    }
@@ -415,7 +431,7 @@
     "ticker": "BTC-USD",
     "pct": -0.1,
     "base": 77403.62,
-    "last": 77334.9,
+    "last": 77298.77,
     "base_date": "2026-09-01",
     "last_date": "2026-09-02"
    }
@@ -437,9 +453,9 @@
    "reason": "Trump commentary on Fed rate policy; ambiguous signal (could push either way depending on Warsh pick and market interpretation).",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.6,
+    "pct": 0.4,
     "base": 761.78,
-    "last": 766.23,
+    "last": 765.15,
     "base_date": "2026-09-01",
     "last_date": "2026-09-02"
    }
@@ -461,9 +477,9 @@
    "reason": "Trump Greenland interest implies critical metals/rare earths supply catalyst; bullish metals sector",
    "price_since": {
     "ticker": "XME",
-    "pct": 1.3,
+    "pct": 0.6,
     "base": 118.13,
-    "last": 119.61,
+    "last": 118.81,
     "base_date": "2026-08-31",
     "last_date": "2026-09-02"
    }
@@ -485,9 +501,9 @@
    "reason": "Federal film tax credit endorsement supports media/entertainment and business investment",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.1,
+    "pct": -0.3,
     "base": 767.05,
-    "last": 766.23,
+    "last": 765.12,
     "base_date": "2026-08-31",
     "last_date": "2026-09-02"
    }
@@ -509,9 +525,9 @@
    "reason": "Tariff threat up to 200%; broad market and manufacturing stocks down on protectionist policy",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.1,
+    "pct": -0.2,
     "base": 767.05,
-    "last": 766.23,
+    "last": 765.15,
     "base_date": "2026-08-31",
     "last_date": "2026-09-02"
    }
@@ -533,9 +549,9 @@
    "reason": "Tax incentive for Hollywood production; modest pro-business signal affecting media/entertainment sector",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.1,
+    "pct": -0.3,
     "base": 767.05,
-    "last": 766.23,
+    "last": 765.12,
     "base_date": "2026-08-31",
     "last_date": "2026-09-02"
    }
@@ -557,9 +573,9 @@
    "reason": "Drug pricing deals negotiated with Trump; implies lower pharma pricing power and margins for mid-cap drugmakers",
    "price_since": {
     "ticker": "PJP",
-    "pct": 1.2,
+    "pct": 1.6,
     "base": 127.49,
-    "last": 129.01,
+    "last": 129.52,
     "base_date": "2026-08-31",
     "last_date": "2026-09-02"
    }
@@ -581,9 +597,9 @@
    "reason": "Drug pricing deals with Trump suggest price controls/negotiations, bearish for pharma sector margins",
    "price_since": {
     "ticker": "PEG",
-    "pct": -0.5,
+    "pct": 0.4,
     "base": 73.33,
-    "last": 72.96,
+    "last": 73.59,
     "base_date": "2026-08-31",
     "last_date": "2026-09-02"
    }
@@ -605,9 +621,9 @@
    "reason": "Data center lease announcement; momentum play but direction unclear without details",
    "price_since": {
     "ticker": "KEEL",
-    "pct": -2.2,
+    "pct": -0.6,
     "base": 3.15,
-    "last": 3.08,
+    "last": 3.13,
     "base_date": "2026-08-31",
     "last_date": "2026-09-02"
    }
@@ -629,9 +645,9 @@
    "reason": "Trump Account holders receiving Dell grants directly supports Dell and signals Trump endorsement of the company.",
    "price_since": {
     "ticker": "DELL",
-    "pct": -2.7,
+    "pct": 2.8,
     "base": 456.01,
-    "last": 443.64,
+    "last": 468.78,
     "base_date": "2026-08-31",
     "last_date": "2026-09-02"
    }
@@ -653,9 +669,9 @@
    "reason": "Trump-tied grant program drives consumer interest and demand for Dell products",
    "price_since": {
     "ticker": "DELL",
-    "pct": -2.7,
+    "pct": 2.8,
     "base": 456.01,
-    "last": 443.7,
+    "last": 468.78,
     "base_date": "2026-08-31",
     "last_date": "2026-09-02"
    }
@@ -679,7 +695,7 @@
     "ticker": "XBI",
     "pct": 0.8,
     "base": 162.5,
-    "last": 163.79,
+    "last": 163.78,
     "base_date": "2026-08-31",
     "last_date": "2026-09-02"
    }
@@ -701,9 +717,9 @@
    "reason": "Venezuela OPEC departure could affect oil supply and prices; ambiguous near-term direction",
    "price_since": {
     "ticker": "USO",
-    "pct": 4.7,
+    "pct": 6.3,
     "base": 133.7,
-    "last": 140.03,
+    "last": 142.09,
     "base_date": "2026-08-31",
     "last_date": "2026-09-02"
    }
@@ -727,7 +743,7 @@
     "ticker": "XBI",
     "pct": 0.8,
     "base": 162.5,
-    "last": 163.79,
+    "last": 163.78,
     "base_date": "2026-08-31",
     "last_date": "2026-09-02"
    }
@@ -749,11 +765,11 @@
    "reason": "drug pricing deals with midsized makers\u2014sector-level signal but direction mixed (price pressure vs. deal certainty)",
    "price_since": {
     "ticker": "XBI",
-    "pct": 0.6,
+    "pct": 0.8,
     "base": 162.5,
-    "last": 163.4,
+    "last": 163.78,
     "base_date": "2026-08-31",
-    "last_date": "2026-09-01"
+    "last_date": "2026-09-02"
    }
   },
   {
@@ -774,11 +790,11 @@
    "reason": "Trump endorses data centers as economic driver; pro-business/growth macro signal, bullish for broad market and tech infrastructure",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.7,
+    "pct": -0.3,
     "base": 767.05,
-    "last": 761.78,
+    "last": 765.12,
     "base_date": "2026-08-31",
-    "last_date": "2026-09-01"
+    "last_date": "2026-09-02"
    }
   },
   {
@@ -2462,38 +2478,6 @@
    "primary_ticker": "XLE",
    "strength": 45,
    "reason": "Trump's oil/gas trades during Iran war suggest hedging; geopolitical risk signal but direction ambiguous"
-  },
-  {
-   "date": "2026-08-27T03:26:03Z",
-   "platform": "News",
-   "text": "Trump Claims Iran Has Committed To No Nuclear Weapons \u2013 Says He\u2019s 'Getting Along Quite Well\u2019 With Supreme Leader Khamenei - Stocktwits \u2014 Trump Claims Iran Has Committed To No Nuclear Weapons \u2013 Says He\u2019s 'Getting Along Quite Well\u2019 With Supreme Leader Khamenei\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPb3pjU3JoNFBGcElfcTYxR2QzazdrcjRuUElqd1hIY0ZTVE1zY2RYNEFBcks5WUZrSk1MekI4TkkxUVhBZ0hVcHhWNnBzcVNZTHlxQzFTaUROaVdBclRUWEdtWnZhNkhUeDZMN3RNTmdLR18wQkZ6WmM1TGJRRkQ3Yk10SkU2d3NEcUIzVEIwNnAxM3ozcFJ6NklteTU0RzMxLVlpTVIyNGNMWDVNYlR5YzB0X3dSLUMydG5qZmVLUVVLQlJyV2ZhQkVmeWVTcXNT?oc=5",
-   "tickers": [
-    "XLE"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "XLE",
-   "strength": 40,
-   "reason": "Trump claiming Iran nuclear deal progress and friendly relations suggests de-escalation, reducing geopolitical oil premium"
-  },
-  {
-   "date": "2026-08-27T02:21:30Z",
-   "platform": "News",
-   "text": "Nvidia Q2 Earnings Spark 4% NVDA Reversal, Is the Selloff Curse Broken? - Mitrade \u2014 Nvidia Q2 Earnings Spark 4% NVDA Reversal, Is the Selloff Curse Broken?\u00a0\u00a0Mitrade",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVTlLcHVyNVZwdmo4UWVKV0R5NGwtR1hFNzlaY2pxRG9qUVVjWlM5V0FxNnc4Zk1uWkQ3ZmtYWXpjcmxRTXZGbVZsOFY0N0J3dDJJSlpYUVhHbjhXT0FLenBEdktDUDJ1ZVFCNUlGeWZmR1NmZVRDS3FTeHhKSDd6TVU5TWNPNUZMQzBnTkJ6RUZXWUU?oc=5",
-   "tickers": [
-    "NVDA"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "NVDA",
-   "strength": 40,
-   "reason": "Earnings-driven reversal unrelated to Trump; neutral market signal"
   },
   {
    "curated": true,
