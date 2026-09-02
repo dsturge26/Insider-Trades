@@ -1,7 +1,40 @@
 {
- "last_updated": "2026-09-02T01:01:56Z",
+ "last_updated": "2026-09-02T05:50:21Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-09-02T02:49:09Z",
+   "platform": "News",
+   "text": "Trump urges refiners to boost fuel output - Briefs Finance \u2014 Trump urges refiners to boost fuel output\u00a0\u00a0Briefs Finance",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVlNPdXJMS2VuOTZYWkJUT0JJcnNvdnk0UC1rUXJuRGluN09JTUJqMjJHUVZUSlZmSGgzMUZsOUhCWGQzaTd5TEhpLUt3eDFOa2szeGZFSFVzX3dMSEpXM2FfWTBmS3MwOW00cFpnbjEyMDB3M3FuRmxhTHRISmRHQWJrTzdEX3NEMGtyRlBnVVpPZw?oc=5",
+   "tickers": [
+    "XLE"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "XLE",
+   "strength": 45,
+   "reason": "Trump urges oil refiners to boost output, implying support for energy sector expansion."
+  },
+  {
+   "date": "2026-09-02T01:13:08.802Z",
+   "platform": "Truth Social",
+   "text": "I'm not trying to force Iran to the bargaining table, as ABC Fake News reported. I couldn't care less if they sign a worthless, to them, agreement. I like our position now much better, with almost total control of the Hormuz Strait, and their economy totally collapsing. They are just playing out the inevitable. When are the Iranian people going to rise up and fight? President DJT",
+   "tickers": [
+    "USO"
+   ],
+   "engagement": 8428,
+   "url": "https://truthsocial.com/@realDonaldTrump/117198788283772326",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "USO",
+   "strength": 55,
+   "reason": "Iran sanctions/collapse and Strait of Hormuz control tightening bullish for oil/energy."
+  },
   {
    "date": "2026-09-01T19:39:33.960Z",
    "platform": "Truth Social",
@@ -66,6 +99,22 @@
    "primary_ticker": "IYY",
    "strength": 25,
    "reason": "Federal tax credit for film/TV production bullish for media sector, moderate signal"
+  },
+  {
+   "date": "2026-09-01T12:34:00Z",
+   "platform": "News",
+   "text": "Stock Market Today: S&P 500, Dow, Nasdaq 100 Futures Drop After Trump Says Iran Is \u2018Totally Defeated\u2019, Br - benzinga.com \u2014 Stock Market Today: S&P 500, Dow, Nasdaq 100 Futures Drop After Trump Says Iran Is \u2018Totally Defeated\u2019, Br\u00a0\u00a0benzinga.com",
+   "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNamRJUDJHVWotaFNkYnlMOUpmeFBybFNSTnRwWTZ6MnlyNVhSczVfd3Y2R1IwM1l1aXdQTzNla2lMYVVsdm5MU3BfQUhSTnoxT3hLYXc5UzJmWFVNQzdVTFBRaWhkTUFqRE1pS01udlM2LWg1djd2WkVsaV9UeEVKN3c5TmJMZ1BiNGRPU1FQSkJmdlVCTVM2WjVlX0JOM3BVazJGeF9hU19FLXJ2bkVlb3dqYnVDSHNnVUZpeThnMEN2VUlRN0lqOEE2dENZS2RIUmtJcGlieGRUWjgyWERGaHNKM3JsNGNIc1NoazZmaGVMYnlQU3UyblZDYXFlUGI4OW82d19nOWNCMTBtWV9qQQ?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "SPY",
+   "strength": 60,
+   "reason": "Iran conflict/geopolitical escalation drives broad market risk-off, futures decline."
   },
   {
    "date": "2026-09-01T11:58:06Z",
@@ -295,6 +344,30 @@
     "pct": 0.4,
     "base": 127.49,
     "last": 128.02,
+    "base_date": "2026-08-31",
+    "last_date": "2026-09-01"
+   }
+  },
+  {
+   "date": "2026-08-31T21:52:00Z",
+   "platform": "News",
+   "text": "Teva, BridgeBio and 7 Others Reach Drug Pricing Deals With Trump - barrons.com \u2014 Teva, BridgeBio and 7 Others Reach Drug Pricing Deals With Trump\u00a0\u00a0barrons.com",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWEdSTy1ieHN4dVdTN0JhdHJVRU0xVXBBRVJqOFJWcUV4N2xpcWpiTjBrdFl2NjhwY1BmOEVBd0RQQzE4bU44OHhleGtiTm0wN19RaWU4bWpnTUR4SGxJWm9tcnVOcS11TDMweHU3SzM3LXNwMzFHS0p3SmYzUDVoYmRGVUx5bDZ3Ylk3RHZiWG1FSEpEUFl3YmZUaWp2QUE?oc=5",
+   "tickers": [
+    "PEG"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "PEG",
+   "strength": 45,
+   "reason": "Drug pricing deals with Trump suggest price controls/negotiations, bearish for pharma sector margins",
+   "price_since": {
+    "ticker": "PEG",
+    "pct": 0.2,
+    "base": 73.33,
+    "last": 73.48,
     "base_date": "2026-08-31",
     "last_date": "2026-09-01"
    }
@@ -2375,88 +2448,6 @@
     "base_date": "2026-08-26",
     "last_date": "2026-08-27"
    }
-  },
-  {
-   "date": "2026-08-26T02:28:32Z",
-   "platform": "News",
-   "text": "Is SOFI Stock \u2018One Of The Easiest\u2019 Longs? Why The Bull Case Is Still Intact According To 3 Analysts - Stocktwits \u2014 Is SOFI Stock \u2018One Of The Easiest\u2019 Longs? Why The Bull Case Is Still Intact According To 3 Analysts\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaEViT0pDUkg2UEo2R21neHhvcnFUTFFYWXcyN0xmaTctN1MwOTRLRFNoNEN3NEpYMDNmQTNYblRaSC1Bb0RjSGItYTQ2VExfdTVScEZ2MVZGZFozUXdEWmRyUlgzeGpqOHc1aG8ySUVvTmxST3pic0VZV1ZIZTFkc0lmZWs1YVhGOWN2OUVEbmlpeFhJVDBKYUZiVnBYN2cyYzJ3VzNFeHduZ2Z3Q3VaWnl0Snl4NkFCOUE?oc=5",
-   "tickers": [
-    "SOFI"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "SOFI",
-   "strength": 25,
-   "reason": "SOFI analyst bull case reported but no Trump connection or catalyst mentioned.",
-   "price_since": {
-    "ticker": "SOFI",
-    "pct": 1.8,
-    "base": 18.84,
-    "last": 19.18,
-    "base_date": "2026-08-26",
-    "last_date": "2026-08-27"
-   }
-  },
-  {
-   "date": "2026-08-26T00:08:32Z",
-   "platform": "News",
-   "text": "RUM Group Jumps 7% on Northern Data AI Pivot, Trump Media Climbs 6%: Why Are Traders Focusing on These Alternative Media Platforms Today? - AOL.com \u2014 RUM Group Jumps 7% on Northern Data AI Pivot, Trump Media Climbs 6%: Why Are Traders Focusing on These Alternative Media Platforms Today?\u00a0\u00a0AOL.com",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9YeEZPelIyTUl0TU1SRDUzMGZkbzVISWhXMzFRcWwyNlh6RFltR2pJNjVTMGdIMG1HbkhHVGg3S29EajZPbW01Vlp4VUtSNVd3Y2NPR3djNHlyWTJoM1VwSFktZXhOZDlMOWZXSjk4YVNVUTNjaF9QRnBR?oc=5",
-   "tickers": [
-    "DJT"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "DJT",
-   "strength": 45,
-   "reason": "Trump Media climbs 6% on alternative media platform momentum; inferred bullish sentiment but no explicit Trump statement",
-   "price_since": {
-    "ticker": "DJT",
-    "pct": 2.8,
-    "base": 9.5,
-    "last": 9.77,
-    "base_date": "2026-08-26",
-    "last_date": "2026-08-27"
-   }
-  },
-  {
-   "date": "2026-08-25T15:40:59.136Z",
-   "platform": "Truth Social",
-   "text": "S&P Global: 'US Business Is Booming': https://www.breitbart.com/economy/2026/08/21/biz-is-booming/",
-   "tickers": [
-    "SPY"
-   ],
-   "engagement": 9353,
-   "url": "https://truthsocial.com/@realDonaldTrump/117156902282061140",
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "SPY",
-   "strength": 55,
-   "reason": "macro claim US business booming, economy strong\u2014bullish broad market sentiment"
-  },
-  {
-   "date": "2026-08-25T15:40:43.380Z",
-   "platform": "Truth Social",
-   "text": "RT @realwayneroot\"US BUSINESS IS BOOMING.\" My great friend & financial advisor Kip Herriage of VRAinsider called this first. I took ball & ran with it. Trump economy is BOOMING. Yet no one knows it because commie media is gaslighting America. Yes prices still high, but that's 100% Biden's inflation. Inflation growth under Trump is lowest among recent presidents. Big stocks are booming to all time highs, profits all time highs, earnings all time highs- Trump economy is exploding to Reagan levels- while fake news media scams you into thinking it's bad. This is biggest scam in history (other than Obamacare, Covid vaccine & stolen 2020 election)- total fantasy media is promoting that economy is bad. All time record profits & earnings are bad?https://www.breitbart.com/economy/2026/08/21/biz-is-booming/",
-   "tickers": [
-    "SPY"
-   ],
-   "engagement": 5,
-   "url": "https://truthsocial.com/@realDonaldTrump/117156901249242368",
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "SPY",
-   "strength": 50,
-   "reason": "Trump boasts economy booming, stocks at all-time highs, earnings strong\u2014broad bullish macro narrative"
   },
   {
    "curated": true,
