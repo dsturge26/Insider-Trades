@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-09-02T18:07:49Z",
+ "last_updated": "2026-09-02T21:03:44Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-09-02T20:01:23Z",
+   "platform": "News",
+   "text": "Trump $1 coins out of stock hours after going on sale - Yahoo News Singapore \u2014 Trump $1 coins out of stock hours after going on sale\u00a0\u00a0Yahoo News Singapore",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9KbTdXcEVQOTB5SE43WmQ5Q05vWE8tQVJzeXNUc2xxQmMzakRYUXAwU2I5SDRySFlPei1SQXp6b1MtMXFqVWRDbVNxaGF6VFJzSExXbDVDQkw3aXVyZV9Da1ZFV2psQ1pqb1VmLVFEM251OFo1?oc=5",
+   "tickers": [
+    "DJT"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "DJT",
+   "strength": 55,
+   "reason": "Trump coin sold out quickly indicates high demand for Trump-branded merchandise"
+  },
   {
    "date": "2026-09-02T14:42:00Z",
    "platform": "News",
@@ -19,6 +35,38 @@
    "reason": "Trump's pro-data-center stance supports AI infrastructure & semiconductor demand"
   },
   {
+   "date": "2026-09-02T12:01:00Z",
+   "platform": "News",
+   "text": "US oil giant Chevron confirms it will expand operations in Venezuela - Gulf Coast News and Weather \u2014 US oil giant Chevron confirms it will expand operations in Venezuela\u00a0\u00a0Gulf Coast News and Weather",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPT0FBMkJYWHJkdFJCQ3VPREdNb1ViVXNpRDBaeG9hdjM1SVEtSWlwS0U5S21DS1Vmd1I0cmdISkhRWkJPRnNheU9rXy1WRVZha3lfam9MQl9jLWFtZnhvM2plU09YNTZJVzhERVlNOEVDZHNYRFFwTm9FeFlKdm1WUHctbGRkNE16a2c?oc=5",
+   "tickers": [
+    "CVX"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "CVX",
+   "strength": 50,
+   "reason": "Chevron Venezuela expansion under Trump relaxed stance is bullish for oil major"
+  },
+  {
+   "date": "2026-09-02T10:16:20Z",
+   "platform": "News",
+   "text": "Trump Endorses Federal Tax Incentive to Save Hollywood Production - The Quintessential Gentleman \u2014 Trump Endorses Federal Tax Incentive to Save Hollywood Production\u00a0\u00a0The Quintessential Gentleman",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObWRneXVnZHZ1Q090NnZpSWo0UTlPOERpNFh3akNMWlhOR0J2VnBsZXlTZVlWLWhjbWlWYmpwUy1PNEsxTXd0aC01LTZXdTcycU9lR2o4emI2V01MWUhWUk5Oclg1c19lMGdPbDdrck5sQ0dyWnN0clpxdDhYU0RVNzVpeHlabUNOd3pXMW1oLUlCb1htSUh6XzVWRTJkLUxCd21OaTNHaEtBRkROaVE?oc=5",
+   "tickers": [
+    "QQQ"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "QQQ",
+   "strength": 35,
+   "reason": "Federal tax incentive for Hollywood production is mild stimulus to media/entertainment sector"
+  },
+  {
    "date": "2026-09-02T05:39:24Z",
    "platform": "News",
    "text": "QCOM Stock Is 7% From Its Record High; Executives To Join Trump In China Visit - Stocktwits \u2014 QCOM Stock Is 7% From Its Record High; Executives To Join Trump In China Visit\u00a0\u00a0Stocktwits",
@@ -33,22 +81,6 @@
    "primary_ticker": "QCOM",
    "strength": 45,
    "reason": "QCOM executives joining Trump China visit signals potential trade progress"
-  },
-  {
-   "date": "2026-09-02T05:11:18Z",
-   "platform": "News",
-   "text": "Trump Endorses Federal Tax Incentive to Save Hollywood Production - The Quintessential Gentleman \u2014 Trump Endorses Federal Tax Incentive to Save Hollywood Production\u00a0\u00a0The Quintessential Gentleman",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObWRneXVnZHZ1Q090NnZpSWo0UTlPOERpNFh3akNMWlhOR0J2VnBsZXlTZVlWLWhjbWlWYmpwUy1PNEsxTXd0aC01LTZXdTcycU9lR2o4emI2V01MWUhWUk5Oclg1c19lMGdPbDdrck5sQ0dyWnN0clpxdDhYU0RVNzVpeHlabUNOd3pXMW1oLUlCb1htSUh6XzVWRTJkLUxCd21OaTNHaEtBRkROaVE?oc=5",
-   "tickers": [
-    "XRT"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "XRT",
-   "strength": 35,
-   "reason": "Federal tax incentive for film/TV production bullish for entertainment sector"
   },
   {
    "date": "2026-09-02T02:49:09Z",
@@ -117,9 +149,9 @@
    "reason": "Major AI financing deal signals strong demand and investor confidence in Nvidia, though not Trump-specific",
    "price_since": {
     "ticker": "NVDA",
-    "pct": 3.3,
+    "pct": 3.2,
     "base": 217.44,
-    "last": 224.62,
+    "last": 224.41,
     "base_date": "2026-09-01",
     "last_date": "2026-09-02"
    }
@@ -143,7 +175,7 @@
     "ticker": "IYY",
     "pct": 0.4,
     "base": 185.5,
-    "last": 186.26,
+    "last": 186.32,
     "base_date": "2026-09-01",
     "last_date": "2026-09-02"
    }
@@ -165,9 +197,9 @@
    "reason": "Federal production tax credit endorsement supports domestic film/tech production; modest positive for creative/production sectors",
    "price_since": {
     "ticker": "QQQ",
-    "pct": 0.1,
+    "pct": 0.2,
     "base": 707.64,
-    "last": 708.36,
+    "last": 709.24,
     "base_date": "2026-09-01",
     "last_date": "2026-09-02"
    }
@@ -191,7 +223,31 @@
     "ticker": "IYJ",
     "pct": 0.5,
     "base": 158.71,
-    "last": 159.51,
+    "last": 159.43,
+    "base_date": "2026-09-01",
+    "last_date": "2026-09-02"
+   }
+  },
+  {
+   "date": "2026-09-01T14:56:00Z",
+   "platform": "News",
+   "text": "Gas retailer tied to Trump-backed Freedom Fuel Network sued over unpaid $3.9M fuel bill - NJ.com \u2014 Gas retailer tied to Trump-backed Freedom Fuel Network sued over unpaid $3.9M fuel bill\u00a0\u00a0NJ.com",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQa0NBNjFzSm1QT1dTazl1T0lJQTRUaWJIRk1nU29TNEswMW5VSXpnZVJFMW9oM2ZkQXpPSEpNSWQydC0yQmhLVldWRk1EX3hrZTN5a1RjTVFjWk5nd2ZBWXdfb0tfcmN5YmZJMFRQWVhlQ0ZYeEpTM1lkQU9yaFIxN2FWOXZnN3Q5YmZvM010T0V1R3NmUWRrZC1sSEY5Q1Vtd1RhYVNBTTRyUFhiZGlyYTl1eXFSRmdlZ0JHWnFCQdIB0wFBVV95cUxQRDZLWDQtOFhYdTNzekNsb2ZZaVVnRlVhejZ4eFlNWUVlejBDcGYxVjU0bEV1STBGZWI0eDRJemNFVU5Qc2FLZXVyUHZlYkk2ek1RT2pfZHVhM2tjVmgtRmNrWGduTWtickJMaHE2Rm9QclplcFhyV1hUSUp0NW9EUHZGX1o1dWNPRTMzZzJrVlpfY3hKYUI3ZmlVM1hzdFN5UnE0RXF6T3dVNENPUHQxYWVfOVBrdjdhOGhXNVFXbEJMbUJkQU91dWRGa29tSW5ldGM4?oc=5",
+   "tickers": [
+    "XLE"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "XLE",
+   "strength": 45,
+   "reason": "Trump-backed fuel network entity sued for unpaid $3.9M bill \u2014 reputational/operational risk to energy/fuel sector ties.",
+   "price_since": {
+    "ticker": "XLE",
+    "pct": 0.5,
+    "base": 64.77,
+    "last": 65.1,
     "base_date": "2026-09-01",
     "last_date": "2026-09-02"
    }
@@ -213,9 +269,9 @@
    "reason": "Trump stake in ServiceNow explicitly fuels retail interest & stock rally",
    "price_since": {
     "ticker": "NOW",
-    "pct": -3.8,
+    "pct": -4.3,
     "base": 142.9,
-    "last": 137.41,
+    "last": 136.72,
     "base_date": "2026-09-01",
     "last_date": "2026-09-02"
    }
@@ -239,7 +295,7 @@
     "ticker": "IYY",
     "pct": 0.4,
     "base": 185.5,
-    "last": 186.26,
+    "last": 186.32,
     "base_date": "2026-09-01",
     "last_date": "2026-09-02"
    }
@@ -263,7 +319,7 @@
     "ticker": "SPY",
     "pct": 0.4,
     "base": 761.78,
-    "last": 765.14,
+    "last": 765.16,
     "base_date": "2026-09-01",
     "last_date": "2026-09-02"
    }
@@ -287,7 +343,7 @@
     "ticker": "PLTR",
     "pct": -5.8,
     "base": 179.92,
-    "last": 169.56,
+    "last": 169.46,
     "base_date": "2026-09-01",
     "last_date": "2026-09-02"
    }
@@ -311,7 +367,7 @@
     "ticker": "SPY",
     "pct": 0.4,
     "base": 761.78,
-    "last": 765.15,
+    "last": 765.16,
     "base_date": "2026-09-01",
     "last_date": "2026-09-02"
    }
@@ -335,7 +391,7 @@
     "ticker": "IYY",
     "pct": 0.4,
     "base": 185.5,
-    "last": 186.26,
+    "last": 186.32,
     "base_date": "2026-09-01",
     "last_date": "2026-09-02"
    }
@@ -357,9 +413,9 @@
    "reason": "Trump endorsement of Nokia explicitly named; AI/growth bullish for NOK",
    "price_since": {
     "ticker": "NOK",
-    "pct": -1.2,
+    "pct": -0.9,
     "base": 9.93,
-    "last": 9.81,
+    "last": 9.84,
     "base_date": "2026-09-01",
     "last_date": "2026-09-02"
    }
@@ -381,9 +437,9 @@
    "reason": "FCC door-open for satellite spectrum is positive catalyst; easing after run suggests mixed near-term direction",
    "price_since": {
     "ticker": "ASTS",
-    "pct": 10.1,
+    "pct": 11.8,
     "base": 55.8,
-    "last": 61.43,
+    "last": 62.4,
     "base_date": "2026-09-01",
     "last_date": "2026-09-02"
    }
@@ -407,7 +463,7 @@
     "ticker": "SPY",
     "pct": 0.4,
     "base": 761.78,
-    "last": 765.15,
+    "last": 765.16,
     "base_date": "2026-09-01",
     "last_date": "2026-09-02"
    }
@@ -431,7 +487,7 @@
     "ticker": "BTC-USD",
     "pct": -0.1,
     "base": 77403.62,
-    "last": 77298.77,
+    "last": 77314.81,
     "base_date": "2026-09-01",
     "last_date": "2026-09-02"
    }
@@ -455,7 +511,7 @@
     "ticker": "SPY",
     "pct": 0.4,
     "base": 761.78,
-    "last": 765.15,
+    "last": 765.16,
     "base_date": "2026-09-01",
     "last_date": "2026-09-02"
    }
@@ -477,9 +533,9 @@
    "reason": "Trump Greenland interest implies critical metals/rare earths supply catalyst; bullish metals sector",
    "price_since": {
     "ticker": "XME",
-    "pct": 0.6,
+    "pct": 1.1,
     "base": 118.13,
-    "last": 118.81,
+    "last": 119.46,
     "base_date": "2026-08-31",
     "last_date": "2026-09-02"
    }
@@ -501,9 +557,9 @@
    "reason": "Federal film tax credit endorsement supports media/entertainment and business investment",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.3,
+    "pct": -0.2,
     "base": 767.05,
-    "last": 765.12,
+    "last": 765.16,
     "base_date": "2026-08-31",
     "last_date": "2026-09-02"
    }
@@ -527,7 +583,7 @@
     "ticker": "SPY",
     "pct": -0.2,
     "base": 767.05,
-    "last": 765.15,
+    "last": 765.16,
     "base_date": "2026-08-31",
     "last_date": "2026-09-02"
    }
@@ -549,9 +605,9 @@
    "reason": "Tax incentive for Hollywood production; modest pro-business signal affecting media/entertainment sector",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.3,
+    "pct": -0.2,
     "base": 767.05,
-    "last": 765.12,
+    "last": 765.16,
     "base_date": "2026-08-31",
     "last_date": "2026-09-02"
    }
@@ -573,9 +629,9 @@
    "reason": "Drug pricing deals negotiated with Trump; implies lower pharma pricing power and margins for mid-cap drugmakers",
    "price_since": {
     "ticker": "PJP",
-    "pct": 1.6,
+    "pct": 2.0,
     "base": 127.49,
-    "last": 129.52,
+    "last": 130.05,
     "base_date": "2026-08-31",
     "last_date": "2026-09-02"
    }
@@ -597,9 +653,9 @@
    "reason": "Drug pricing deals with Trump suggest price controls/negotiations, bearish for pharma sector margins",
    "price_since": {
     "ticker": "PEG",
-    "pct": 0.4,
+    "pct": -0.0,
     "base": 73.33,
-    "last": 73.59,
+    "last": 73.32,
     "base_date": "2026-08-31",
     "last_date": "2026-09-02"
    }
@@ -621,9 +677,9 @@
    "reason": "Data center lease announcement; momentum play but direction unclear without details",
    "price_since": {
     "ticker": "KEEL",
-    "pct": -0.6,
+    "pct": -1.3,
     "base": 3.15,
-    "last": 3.13,
+    "last": 3.11,
     "base_date": "2026-08-31",
     "last_date": "2026-09-02"
    }
@@ -645,9 +701,9 @@
    "reason": "Trump Account holders receiving Dell grants directly supports Dell and signals Trump endorsement of the company.",
    "price_since": {
     "ticker": "DELL",
-    "pct": 2.8,
+    "pct": 7.9,
     "base": 456.01,
-    "last": 468.78,
+    "last": 492.2,
     "base_date": "2026-08-31",
     "last_date": "2026-09-02"
    }
@@ -669,9 +725,9 @@
    "reason": "Trump-tied grant program drives consumer interest and demand for Dell products",
    "price_since": {
     "ticker": "DELL",
-    "pct": 2.8,
+    "pct": 7.9,
     "base": 456.01,
-    "last": 468.78,
+    "last": 492.2,
     "base_date": "2026-08-31",
     "last_date": "2026-09-02"
    }
@@ -693,9 +749,9 @@
    "reason": "drug pricing deals announced but sector impact ambiguous\u2014pharma typically pressured by price controls, some relief priced in",
    "price_since": {
     "ticker": "XBI",
-    "pct": 0.8,
+    "pct": 1.8,
     "base": 162.5,
-    "last": 163.78,
+    "last": 165.37,
     "base_date": "2026-08-31",
     "last_date": "2026-09-02"
    }
@@ -717,9 +773,9 @@
    "reason": "Venezuela OPEC departure could affect oil supply and prices; ambiguous near-term direction",
    "price_since": {
     "ticker": "USO",
-    "pct": 6.3,
+    "pct": 5.6,
     "base": 133.7,
-    "last": 142.09,
+    "last": 141.15,
     "base_date": "2026-08-31",
     "last_date": "2026-09-02"
    }
@@ -741,9 +797,9 @@
    "reason": "Trump drug pricing deals; mixed signal for biotech/pharma (cost control bearish; regulatory bullish)",
    "price_since": {
     "ticker": "XBI",
-    "pct": 0.8,
+    "pct": 1.8,
     "base": 162.5,
-    "last": 163.78,
+    "last": 165.37,
     "base_date": "2026-08-31",
     "last_date": "2026-09-02"
    }
@@ -765,9 +821,9 @@
    "reason": "drug pricing deals with midsized makers\u2014sector-level signal but direction mixed (price pressure vs. deal certainty)",
    "price_since": {
     "ticker": "XBI",
-    "pct": 0.8,
+    "pct": 1.8,
     "base": 162.5,
-    "last": 163.78,
+    "last": 165.37,
     "base_date": "2026-08-31",
     "last_date": "2026-09-02"
    }
@@ -2462,22 +2518,6 @@
    "primary_ticker": "XLE",
    "strength": 40,
    "reason": "Trump's stock trades in oil/defense during Iran tensions show positioning; unclear if market-moving signal"
-  },
-  {
-   "date": "2026-08-27T13:11:00Z",
-   "platform": "News",
-   "text": "Trump\u2019s Oil and Gas Stock Trades During Iran War Revealed in Financial Disclosures - Mediaite \u2014 Trump\u2019s Oil and Gas Stock Trades During Iran War Revealed in Financial Disclosures\u00a0\u00a0Mediaite",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMlhkRmxuTmNCZFBWSzdTRnNCRldsamx5TzBsMEk0VzA4NHNyVzhZd19JYTZWQXg1X1ljS0ZDVmQ2bEZHUkpnaEhmS0s3a2IwRXhkaGFjdm04UHRKNjlMYl83NFV5OFRvcHNuNkJrendQQWV1dUZoM1EzTWNvQUdleGtzSW0yeTFScDVPS09rczJpbjYwcmVyejJIWUxlN094MWlrakVfMWcyQTI2OGE3dW5JY0I1Tndm?oc=5",
-   "tickers": [
-    "XLE"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "XLE",
-   "strength": 45,
-   "reason": "Trump's oil/gas trades during Iran war suggest hedging; geopolitical risk signal but direction ambiguous"
   },
   {
    "curated": true,
