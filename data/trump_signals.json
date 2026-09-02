@@ -1,7 +1,39 @@
 {
- "last_updated": "2026-09-02T05:50:21Z",
+ "last_updated": "2026-09-02T10:45:08Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-09-02T05:39:24Z",
+   "platform": "News",
+   "text": "QCOM Stock Is 7% From Its Record High; Executives To Join Trump In China Visit - Stocktwits \u2014 QCOM Stock Is 7% From Its Record High; Executives To Join Trump In China Visit\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVXpadHNKQ3hrQS15eXBfZVNyZkRXR2hZZGpvbUF0OFp0VHJrWUhsck53RmFDb2l4eUdfVFQwY0QyZ0tYMERtRE1aaGRVSV9ORFVQd1I4WW9VOXNPS2o2Z3RqRnVReldvOWJneGJsbl81MDRkdTQ1TFd1RVQzWHgzcS01VU9ZY0RuVHZ4TWZOQWphQjlDZVQxMkJKb21PZkJYZXNxLVhnT0xKUDVEcHZYWWUyNncyZzJwX0V1YkJUTUluTU9rTFkxZ2RLRkx6eTk0dGRLSTg1T0Nwd0toT3c?oc=5",
+   "tickers": [
+    "QCOM"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "QCOM",
+   "strength": 45,
+   "reason": "QCOM executives joining Trump China visit signals potential trade progress"
+  },
+  {
+   "date": "2026-09-02T05:11:18Z",
+   "platform": "News",
+   "text": "Trump Endorses Federal Tax Incentive to Save Hollywood Production - The Quintessential Gentleman \u2014 Trump Endorses Federal Tax Incentive to Save Hollywood Production\u00a0\u00a0The Quintessential Gentleman",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObWRneXVnZHZ1Q090NnZpSWo0UTlPOERpNFh3akNMWlhOR0J2VnBsZXlTZVlWLWhjbWlWYmpwUy1PNEsxTXd0aC01LTZXdTcycU9lR2o4emI2V01MWUhWUk5Oclg1c19lMGdPbDdrck5sQ0dyWnN0clpxdDhYU0RVNzVpeHlabUNOd3pXMW1oLUlCb1htSUh6XzVWRTJkLUxCd21OaTNHaEtBRkROaVE?oc=5",
+   "tickers": [
+    "XRT"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "XRT",
+   "strength": 35,
+   "reason": "Federal tax incentive for film/TV production bullish for entertainment sector"
+  },
   {
    "date": "2026-09-02T02:49:09Z",
    "platform": "News",
@@ -17,6 +49,22 @@
    "primary_ticker": "XLE",
    "strength": 45,
    "reason": "Trump urges oil refiners to boost output, implying support for energy sector expansion."
+  },
+  {
+   "date": "2026-09-02T02:12:26Z",
+   "platform": "News",
+   "text": "Brent crude tops $96 per barrel after Trump claims 'almost total control' of Strait of Hormuz - Business Today \u2014 Brent crude tops $96 per barrel after Trump claims 'almost total control' of Strait of Hormuz\u00a0\u00a0Business Today",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTXJxdVQ1SFA0YjhzNEItNWNycGdSOFdIX0VUVDhxQ1BLMzhvV041X1pSZEtPMF9vY2U3SGRoeVFoZEtra3FCVmM2U1diQXk1cG5XSzRpVk96RWwtQ2prWjJndXZGUzhZNmJ0cnBNcUtlNnlzRUFTd0JhVU5PQndmY2Z5R0VrN0h1UXplOXFuUlRyVlR3dHN3bEdING82dWk0enZqNHVhLWpJcmZvSFRTZ0RCNWJFQ3VGLVd6U0VBQ3FzMEhxZGFIOHJMMWE5RGdKTjBJOGU2NExyTGZtTzhodjF3QdIB6AFBVV95cUxNc09pS0tIZFMyUl9yTFRwUlBiMEhqSXpvUnZPMS1JYkNoVGxyc2dWbURQaDlIVmExQlgxMWV1Rzg4S3JTZjNDWldPLWhZZWFndDlLV0V4bU1aM19rd3NsbjNpaFZmNGVBMVZ0SGRBSjBDQzdWZTJlM2M3NFcxaVppS3QwbC1seFlsSHhqQXZ0WTJsaXpIb0ZpM0NUb2p6bzJmdFBUSlVNdkZCN0tMVHBwcmZWYXBjT1V3QUZVVDh1WFNBYm9CODIxX0R1cFFUOEhiRDVMMjJzWHVURmdmeDBoQzktYk1GOEEx?oc=5",
+   "tickers": [
+    "USO"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "USO",
+   "strength": 65,
+   "reason": "Trump's Strait of Hormuz control claim drives crude oil higher directly"
   },
   {
    "date": "2026-09-02T01:13:08.802Z",
@@ -226,7 +274,31 @@
    "direction": "WATCH",
    "primary_ticker": "BTC-USD",
    "strength": 25,
-   "reason": "Cathie Wood portfolio moves; crypto rally backdrop but no Trump statement or action"
+   "reason": "Cathie Wood portfolio moves; crypto rally backdrop but no Trump statement or action",
+   "price_since": {
+    "ticker": "BTC-USD",
+    "pct": -1.1,
+    "base": 77403.62,
+    "last": 76543.22,
+    "base_date": "2026-09-01",
+    "last_date": "2026-09-02"
+   }
+  },
+  {
+   "date": "2026-09-01T00:00:43Z",
+   "platform": "News",
+   "text": "Trump on Prospect of Warsh Supporting Rate Hikes: 'He'll Do What He Has to Do' - Moomoo \u2014 Trump on Prospect of Warsh Supporting Rate Hikes: 'He'll Do What He Has to Do'\u00a0\u00a0Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNM2FBREk4OVpIQzNvY3pvRXNBaWhMS1E2Zy12d05QSDdvODJYU1ZGVnhUMDA2ak1VX2Ewb0dlS21GQ1VOZkhsd3VGYmk4VnBVdjB1TGV3Z3BkUGVFVTVJd1FwVzlCSXJ2X2pIclhIdU1lUkZrNXhfaThLemtVOFBQUzhXeFJOSEVJSEwtMWZHd1ZLemRWLXVLUzVtY2s?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "SPY",
+   "strength": 40,
+   "reason": "Trump commentary on Fed rate policy; ambiguous signal (could push either way depending on Warsh pick and market interpretation)."
   },
   {
    "date": "2026-08-31T23:32:29Z",
@@ -2264,22 +2336,6 @@
    "reason": "Trump's oil/gas trades during Iran war suggest hedging; geopolitical risk signal but direction ambiguous"
   },
   {
-   "date": "2026-08-27T05:28:55Z",
-   "platform": "News",
-   "text": "QCOM Stock Is 7% From Its Record High; Executives To Join Trump In China Visit - Stocktwits \u2014 QCOM Stock Is 7% From Its Record High; Executives To Join Trump In China Visit\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVXpadHNKQ3hrQS15eXBfZVNyZkRXR2hZZGpvbUF0OFp0VHJrWUhsck53RmFDb2l4eUdfVFQwY0QyZ0tYMERtRE1aaGRVSV9ORFVQd1I4WW9VOXNPS2o2Z3RqRnVReldvOWJneGJsbl81MDRkdTQ1TFd1RVQzWHgzcS01VU9ZY0RuVHZ4TWZOQWphQjlDZVQxMkJKb21PZkJYZXNxLVhnT0xKUDVEcHZYWWUyNncyZzJwX0V1YkJUTUluTU9rTFkxZ2RLRkx6eTk0dGRLSTg1T0Nwd0toT3c?oc=5",
-   "tickers": [
-    "QCOM"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "QCOM",
-   "strength": 65,
-   "reason": "Trump diplomatic engagement with China; executives joining trip signals potential trade deal, bullish for semiconductor sector"
-  },
-  {
    "date": "2026-08-27T03:26:03Z",
    "platform": "News",
    "text": "Trump Claims Iran Has Committed To No Nuclear Weapons \u2013 Says He\u2019s 'Getting Along Quite Well\u2019 With Supreme Leader Khamenei - Stocktwits \u2014 Trump Claims Iran Has Committed To No Nuclear Weapons \u2013 Says He\u2019s 'Getting Along Quite Well\u2019 With Supreme Leader Khamenei\u00a0\u00a0Stocktwits",
@@ -2381,70 +2437,6 @@
     "pct": 0.4,
     "base": 313.45,
     "last": 314.58,
-    "base_date": "2026-08-26",
-    "last_date": "2026-08-27"
-   }
-  },
-  {
-   "date": "2026-08-26T15:31:17Z",
-   "platform": "News",
-   "text": "Trump Snapped Up SpaceX Shares 11 Days After $1.77 Trillion IPO: Here's What Else He Purchased - Yahoo Finance \u2014 Trump Snapped Up SpaceX Shares 11 Days After $1.77 Trillion IPO: Here's What Else He Purchased\u00a0\u00a0Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWEtwa0lHcENGNURqUlBMTjJja2IwbFpVR0dRX2JLNkRlR20wNVZNU00tRVMzeW95dTFVOGRmM3ktWks2ek8zcTUwU0M1RTRVUVRjYml1enJ0MEdXR2pZUkRNSjY5WnpvUmxxcnZRSk5SbXZ1SVJPXy1BRkdXV1JYcVp5QUpPb0phUHA4SmxaOGhJZEczU2FMN3Bzbw?oc=5",
-   "tickers": [
-    "SPACE"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "SPACE",
-   "strength": 70,
-   "reason": "Trump personal investment in SpaceX post-IPO signals confidence in the company's trajectory"
-  },
-  {
-   "date": "2026-08-26T12:45:02Z",
-   "platform": "News",
-   "text": "REPL, QURE, MRNA Soar On Reports Trump Will Fire FDA\u2019s Marty Makary - Stocktwits \u2014 REPL, QURE, MRNA Soar On Reports Trump Will Fire FDA\u2019s Marty Makary\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPU3Z0Z1R6VlBrbUhjMmZMNmVXdXBXQW5TTUtIelRzbmMtS0kzSjdQTWFJRGV4TTFuVWE0QmxTTGpPc1NWdVdWQjl2bmVPTGNXY180NXltOWlqM3pPd1JDTmVORU5Kemc4Wk1IRWMtUE1UbVlQV1VndWx2cGhwSmxUWmw1Y3htZWVGQ1RxUEY3bVh4Y0lIcW1oVF9TMWgyUmNUY1JQajF4NGdCZHUzNEFDbnAtWTUzRmlpcHNYZk4tb0l6b2pDbFE?oc=5",
-   "tickers": [
-    "MRNA"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "MRNA",
-   "strength": 70,
-   "reason": "Trump plans FDA leadership change; biotech rallies on deregulation hopes",
-   "price_since": {
-    "ticker": "MRNA",
-    "pct": -4.6,
-    "base": 149.66,
-    "last": 142.77,
-    "base_date": "2026-08-26",
-    "last_date": "2026-08-27"
-   }
-  },
-  {
-   "date": "2026-08-26T09:37:05Z",
-   "platform": "News",
-   "text": "Trump Says After Iran, US May Turn Its Attention To Cuba: Report - Stocktwits \u2014 Trump Says After Iran, US May Turn Its Attention To Cuba: Report\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQWZ4TldDMUd6TUpfRWZzZFdHSmNPQ19WdUVQaFl0UWR6dHZwZnA2cUFHUVRpU3cxenFXOVFSaEg1SVc5UWZCMlFLWWtjaEhVMVlFWXhwNjdmN1RZU0NrejZWN29oOXVIS2dzejA1WVhVUDhsOVhWVG84dk9KZ1JFdC1ZWmxmbDFFVGZYNnR5T2JwTGZBZGZFTWxCWWFTc1JUQ0F5VTNCelYwd1psZkoxOG5jNEp1OUg2bDNTbzZOTnE1OGFw?oc=5",
-   "tickers": [
-    "XLE"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "XLE",
-   "strength": 55,
-   "reason": "Potential military action signals geopolitical risk premium and demand for energy/defense assets",
-   "price_since": {
-    "ticker": "XLE",
-    "pct": -0.2,
-    "base": 62.43,
-    "last": 62.29,
     "base_date": "2026-08-26",
     "last_date": "2026-08-27"
    }
