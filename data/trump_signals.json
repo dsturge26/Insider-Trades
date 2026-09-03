@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-09-03T06:12:41Z",
+ "last_updated": "2026-09-03T11:18:33Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-09-03T08:49:23Z",
+   "platform": "News",
+   "text": "Stock Futures Rebound Thursday as Markets Eye Jobs Data After Three-Day Slide - Blockonomi \u2014 Stock Futures Rebound Thursday as Markets Eye Jobs Data After Three-Day Slide\u00a0\u00a0Blockonomi",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNU0JRRDVDaklabl9HUjlOamFnNlpxQl9MVHNYN2hTdlZXMU1KZnVjOUhPbUhvZW1VWnBURVEwaG9jTmZuNENjek9lRjd5NC16MGNkZDdQQ2R4Q1Y2akw1aWhBT2lkVlRNYVo2Wk1MSGIybTlIMFF6RWxvVDlWZ2RyTjF1UjhueGszUHRIYXVSRWFlXzhNMXY3UlVCNGtuNDM3LWJj?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "SPY",
+   "strength": 15,
+   "reason": "Market rebound after three-day slide; generic macro sentiment, not Trump-specific"
+  },
   {
    "date": "2026-09-03T03:47:21Z",
    "platform": "News",
@@ -17,6 +33,22 @@
    "primary_ticker": "XLE",
    "strength": 25,
    "reason": "Oil price concerns and geopolitical tensions affect energy sector but direction unclear"
+  },
+  {
+   "date": "2026-09-03T03:39:36Z",
+   "platform": "News",
+   "text": "US secures G20 support for light-touch rules on AI, emerging tech - Business Standard \u2014 US secures G20 support for light-touch rules on AI, emerging tech\u00a0\u00a0Business Standard",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUjIxdUUySFF0RHNtWURYUWI0MUpLUUNjNjdSc0RlNVlrV2dlaTZwNTBWVE9Ccm50eXM5YmVZalhkSUkyZGJ5bldoeWtvQ3czenpLNVlYMk5kMmllZFV3dkx1WGhVMXN4c2hQTXFlZUpVbnN2UU11b1Q1R3Z5UFVZOU52TWVDSEFRdWxLZ1l6UkRROVVMSGFuN19uUGhpVXZESzZRVHMxcUlKOEdISVZlWXhfaXJWZ3RNT1UwY3dPUk84c2M5Ui1YTNIBzgFBVV95cUxOSFhNREZtNFZRM2xIX2ZrRm03aVh2a1pnSDFWVk5MSWNyc0g2azE2cm1qdExWV0hqdnRMZEh6SkNpR1lWemtQSE1KNlJRNjI4NWdwTTAwbzYwekdMZXlPSHZJTmxfeUphbGEwUy1EVjZpdU82Y1ZBam95VERfWGpkTkZINllMQVJHZmtkMlBFWWxpQk9fWFpqWWNLSzZ6eVNwN3BmQ2JtYnF4VzVRaWtvbHBFbUpwZHhIOEVZYTRINFVwZmZoY20wYkFycEJfZw?oc=5",
+   "tickers": [
+    "QQQ"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "QQQ",
+   "strength": 25,
+   "reason": "Light-touch AI/tech regulation support is generally bullish for tech sector"
   },
   {
    "date": "2026-09-03T02:53:33Z",
@@ -2419,224 +2451,6 @@
    "primary_ticker": "NVDA",
    "strength": 80,
    "reason": "Trump praises Nvidia's incredible numbers and holds $12M stake, explicit company endorsement with ownership signal"
-  },
-  {
-   "date": "2026-08-28T02:26:35Z",
-   "platform": "News",
-   "text": "Trump Praises Nvidia's 'Incredible Numbers' After Q2 Stunner \u2014 He Also Reportedly Holds Over $12M In The Stock - TradingView \u2014 Trump Praises Nvidia's 'Incredible Numbers' After Q2 Stunner \u2014 He Also Reportedly Holds Over $12M In The Stock\u00a0\u00a0TradingView",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBpc0JsaDhnMHJ6eWVLb3pUellFd2p2aW1GOEJ1MjVpN3hjLTQ4aFIxWGpBMDAxZm1nZXJLdkxHOXR2aENyU0tNWDRWRGkxTnVReEV3bkt2cURRekJSbS15OXY0X2g1WGgxVWc?oc=5",
-   "tickers": [
-    "NVDA"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "NVDA",
-   "strength": 70,
-   "reason": "Trump praises Nvidia's earnings and holds $12M+ stake; explicit praise plus disclosed holdings signal confidence."
-  },
-  {
-   "date": "2026-08-28T02:12:15Z",
-   "platform": "News",
-   "text": "Trump Praises Nvidia After Earnings, Calls Micron 'Hottest' Company' - NVIDIA (NASDAQ:NVDA) - Benzinga \u2014 Trump Praises Nvidia After Earnings, Calls Micron 'Hottest' Company' - NVIDIA (NASDAQ:NVDA)\u00a0\u00a0Benzinga",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOamtQd0dkeWVyV3o3SUQ2MGl4dHd6MGI4TC1aa05UVk8xVkRmbVhWSkFOVlZKZE92enBNTW5faVpKVTBKd242WUFmZFpFNl9mTFY3NExFMHhMS3dKcnZNVTk4Wl95WnRFUEtlUTJxTXRaeEtxTFN5UzJJNFYzNnF4VDN5MWdpNmM1dU1mS0xHRllhNkpsVzFObUk5QTdOQTdDbkM2Nkx2VjQ2blRxLUdZamJRREZHb2JhYTRwcw?oc=5",
-   "tickers": [
-    "NVDA"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "NVDA",
-   "strength": 80,
-   "reason": "Trump explicitly praises Nvidia after earnings and calls Micron 'hottest company'; direct named-company endorsement"
-  },
-  {
-   "date": "2026-08-28T01:52:56Z",
-   "platform": "News",
-   "text": "INFQ, HPE, WLY Stocks Rise On Trump Administration\u2019s $5B Genesis Mission Expansion - Stocktwits \u2014 INFQ, HPE, WLY Stocks Rise On Trump Administration\u2019s $5B Genesis Mission Expansion\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOODFVQ0tHVERJRjhRZ3d5NExXVm5PcVNYaXczTTlMYXlVNUxnU2Z5MEE2UFh5bC1oQWJkVEljTDdPNERpMHFtTkI2MlUyMzBTVWtyLUMtZERCdExkclFhNlhXUjFEb3NJVWY4MEpYajFHLUdrNWxFd1VZLURrNk1RVENqN25OTk9UQUdwaV8ybnZnWFEtQ2gta0tienFNTDJ1VkphYU9iU1dfQ01CclpDNTBNZkVxZVg0VHVuZzVGcThOZ3F1MWFqUjJFWQ?oc=5",
-   "tickers": [
-    "XAR"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "XAR",
-   "strength": 70,
-   "reason": "$5B Genesis Mission (defense/space) expansion benefits defense contractors INFQ/HPE/WLY; federal spending catalyst"
-  },
-  {
-   "date": "2026-08-28T01:45:45Z",
-   "platform": "News",
-   "text": "BATL, TPET, SKYQ, INDO Stocks Surge Premarket: Oil Prices Spike On Renewed US-Iran Hostilities - Stocktwits \u2014 BATL, TPET, SKYQ, INDO Stocks Surge Premarket: Oil Prices Spike On Renewed US-Iran Hostilities\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZ01jSjMzSkhFbXh0eUwxVmxRc1I2VHJzWTFVc3dBRXN4ejZXMTB4aVRNeF9nQmNpLVBfMVgwTlpXQWlvWTk2LUFfU2RETTZZbzlHRkc3cHAwZkZ4V1hwR2VNcl9IR3FGUnIzVy1tNjVIMUk5NEFoQUlkcTlaSW5fQlN3RUtFek1WNlk4bllVY0VIVG9zN1N2WkxvZHhfLXpXSzRZUS1oQ0lJZXNNQ01rZFNHWm5jeDgwdlNzaUFVTEtWbjAz?oc=5",
-   "tickers": [
-    "XLE"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "XLE",
-   "strength": 60,
-   "reason": "US-Iran tensions spike oil prices; energy stocks rally on supply-disruption risk"
-  },
-  {
-   "date": "2026-08-28T01:38:19Z",
-   "platform": "News",
-   "text": "IBRX Stock To Open Week On A High? Chairman Teases Anktiva\u2019s 3-Year Expansion Plans, Hints At Cancer Breakthrough - Stocktwits \u2014 IBRX Stock To Open Week On A High? Chairman Teases Anktiva\u2019s 3-Year Expansion Plans, Hints At Cancer Breakthrough\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPU1hWM0R3cTRmNVEtVzJBZTA5WG1UVnRzUHp4MDdXamhITEUtOWxtUDFzektqbnBlX3U5QUFSaTVhbWlldnBHQnkzZ0wtYUt1WU9NV05QRFg2OUdxbWhpRVBWU0prODJkZkhrT1Rfb0ZacGpUVkt2MGljc1dUNnNkakl6Zks1WVhIT1NjbFRDTElCOEotWGZRUEV5UVBfU09Ca045LVZ2dmdzczlwbWg2QVVPdTdlWUxKdVNoYVRKeWZ0dmc2X3drTmJJc2tjZms0UDNmQlBOTXNmeFlyMDRodWFleEluQUp5VU8wVm15YVg?oc=5",
-   "tickers": [
-    "IBRX"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "IBRX",
-   "strength": 40,
-   "reason": "Company chairman teases expansion and hints at cancer breakthrough; company-specific catalyst unrelated to Trump"
-  },
-  {
-   "date": "2026-08-28T00:04:50Z",
-   "platform": "News",
-   "text": "EVH Stock On Track To Open At Record Low \u2013 Here\u2019s Why Keybanc Turned Cautious - Stocktwits \u2014 EVH Stock On Track To Open At Record Low \u2013 Here\u2019s Why Keybanc Turned Cautious\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeGFiME5wdzJ6UENWM0NvYXkwS1dQVnUyVUE4ZmhUZjlDSVZ6UkhPWlBuTUV0R0NsOW52NGhJOVg2ZllaTzI2Tl8tUTZDMDdRODYybU0xWmlxQU5lTHZyT1F3NmJINEQ5QzdlZ1VneXdCbzNzWFNvZmI3ZDlfUDY1ellDb0JvR3diNjk0MW93RDdsUDB6RlFsbTA0MU9LVWM4b0x4dw?oc=5",
-   "tickers": [
-    "EVH"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "EVH",
-   "strength": 55,
-   "reason": "Stock at record low on analyst downgrade (KeyBanc); fundamental deterioration unrelated to Trump"
-  },
-  {
-   "date": "2026-08-27T22:31:58.782Z",
-   "platform": "Truth Social",
-   "text": "Iran Is a Failing Nation! President DJT",
-   "tickers": [
-    "XLE"
-   ],
-   "engagement": 2576,
-   "url": "https://truthsocial.com/@realDonaldTrump/117169842997327695",
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "XLE",
-   "strength": 35,
-   "reason": "Iran tension rhetoric could increase geopolitical risk, oil volatility",
-   "price_since": {
-    "ticker": "XLE",
-    "pct": 0.6,
-    "base": 62.29,
-    "last": 62.68,
-    "base_date": "2026-08-27",
-    "last_date": "2026-08-28"
-   }
-  },
-  {
-   "date": "2026-08-27T22:19:57.420Z",
-   "platform": "Truth Social",
-   "text": "Jonathan Hunt of FoxNews did a particularly inaccurate report on the Failing Islamic Republic of Iran. I don't want to meet, they do. In fact, they are begging to make a deal. Bret Baier should straighten out his flunkies, for a change! President DJT",
-   "tickers": [
-    "XLE"
-   ],
-   "engagement": 3131,
-   "url": "https://truthsocial.com/@realDonaldTrump/117169795722157998",
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "XLE",
-   "strength": 25,
-   "reason": "Iran deal negotiation talk suggests potential de-escalation; direction ambiguous",
-   "price_since": {
-    "ticker": "XLE",
-    "pct": 0.6,
-    "base": 62.29,
-    "last": 62.68,
-    "base_date": "2026-08-27",
-    "last_date": "2026-08-28"
-   }
-  },
-  {
-   "date": "2026-08-27T22:09:05Z",
-   "platform": "News",
-   "text": "How Trump\u2019s Praise of Nvidia Could Ripple Through Tech Stocks and ETFs - TipRanks \u2014 How Trump\u2019s Praise of Nvidia Could Ripple Through Tech Stocks and ETFs\u00a0\u00a0TipRanks",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdk5DUml5R3o1NnphY25CdUJHbzdha1FPZjE4S1Q5bWR1WVUtUkljQWNCWnVRU0FvR2xlUHprVzdOVmNhcThBejV0RkV4d0lhWURzaVFPY3V4MmZJOHl2SUZreFkzVU1yNzc0UlVqZ1phNlN6T1dkbm9UTXFpSnFWbU9Yd0UyS202eHFZdzNUajV2dFRqYjhMSWt6WW1PMmMtWW16VmNpRkFTYXJi?oc=5",
-   "tickers": [
-    "NVDA"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "NVDA",
-   "strength": 55,
-   "reason": "Trump praised Nvidia explicitly; positive signal for semiconductor leader",
-   "price_since": {
-    "ticker": "NVDA",
-    "pct": -4.6,
-    "base": 227.98,
-    "last": 217.55,
-    "base_date": "2026-08-27",
-    "last_date": "2026-08-28"
-   }
-  },
-  {
-   "date": "2026-08-27T21:45:00Z",
-   "platform": "News",
-   "text": "Trump praises Nvidia after record revenue - Breakingthenews.net \u2014 Trump praises Nvidia after record revenue\u00a0\u00a0Breakingthenews.net",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNXy1HUDFtd3B2cjNfOEZ2bWlQUklCY2Vpczd5Z2J0OGUxU1NYRzI5b1NJM21lTHJFamROWG1VWDNReERCVlFWWGRwSzA1bTlnWHQ3bWtBTVJLU0ozeUl0Z2VTLVNMLWt0SlE2R2Z5TVFGRjFRZ0lXcmU1ZHRVUC1MdDR2RHlVRnBZbFpoS09CNA?oc=5",
-   "tickers": [
-    "NVDA"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "NVDA",
-   "strength": 60,
-   "reason": "Trump's praise of Nvidia after strong earnings is bullish for the stock",
-   "price_since": {
-    "ticker": "NVDA",
-    "pct": -4.6,
-    "base": 227.98,
-    "last": 217.55,
-    "base_date": "2026-08-27",
-    "last_date": "2026-08-28"
-   }
-  },
-  {
-   "date": "2026-08-27T20:24:34Z",
-   "platform": "News",
-   "text": "MU Stock In Focus After Trump Hails Micron\u2019s $10B Investment In US Research Labs \u2014 \u2018One Of The Hottest Companies In The World\u2019 - Yahoo Finance \u2014 MU Stock In Focus After Trump Hails Micron\u2019s $10B Investment In US Research Labs \u2014 \u2018One Of The Hottest Companies In The World\u2019\u00a0\u00a0Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSTVNbkpramlySm44dXMzVkxWbnV0OUVlYnZxdzJUdDFTMS05cUFUbFphREMxWE9vMFl0M2t4dlJreTB0RlRjaW52VkV1N3NWLTlobU9TSHRiZWhZMVA4OWVYSkN3eVNiTkxvVXpqblNkZFlRV2RIZnJWM181RVlZUXYxTTU1dnRra292TURCbW9Kb2dBLXc?oc=5",
-   "tickers": [
-    "MU"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "MU",
-   "strength": 80,
-   "reason": "Trump explicitly hails Micron's $10B US investment and calls it 'One Of The Hottest Companies In The World'; direct named-company praise with strong emphasis.",
-   "price_since": {
-    "ticker": "MU",
-    "pct": -0.3,
-    "base": 935.39,
-    "last": 932.86,
-    "base_date": "2026-08-27",
-    "last_date": "2026-08-28"
-   }
   },
   {
    "curated": true,
