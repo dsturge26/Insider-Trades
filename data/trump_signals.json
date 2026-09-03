@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-09-03T11:18:33Z",
+ "last_updated": "2026-09-03T15:06:35Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-09-03T10:36:38Z",
+   "platform": "News",
+   "text": "Trump Praises U.S. Strikes, Claims Control of Hormuz - WSJ \u2014 Trump Praises U.S. Strikes, Claims Control of Hormuz\u00a0\u00a0WSJ",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZl8yUlFPTS1mVzVfZlgwWkJKMnhXeG1FYmt0NkttZnVSUms1Tkxoa2tMdWxrazIxSE9YZzhTREdyeHZzam5ZeVpBTXBBSkhWSUx0Szc3VzVKSUJZMjlVcEdkbG5wNFBTM2cxSW93ZE9iMl9BNTFPVDVHU2pJXzMtQW1VVGRMNUpiQzIzQlNYd2lzRFhLNExhRWRnWEFuTXRfNmxpbzEwRFYwZTUyTEp6RHRn?oc=5",
+   "tickers": [
+    "XLE"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "XLE",
+   "strength": 35,
+   "reason": "Hormuz control claim affects oil/energy geopolitics; direction ambiguous"
+  },
   {
    "date": "2026-09-03T08:49:23Z",
    "platform": "News",
@@ -96,7 +112,15 @@
    "direction": "BUY",
    "primary_ticker": "NVDA",
    "strength": 35,
-   "reason": "Nvidia exec pushes AI infrastructure globally; bullish for AI chip demand"
+   "reason": "Nvidia exec pushes AI infrastructure globally; bullish for AI chip demand",
+   "price_since": {
+    "ticker": "NVDA",
+    "pct": 0.7,
+    "base": 224.41,
+    "last": 226.04,
+    "base_date": "2026-09-02",
+    "last_date": "2026-09-03"
+   }
   },
   {
    "date": "2026-09-02T20:01:23Z",
@@ -112,7 +136,15 @@
    "direction": "BUY",
    "primary_ticker": "DJT",
    "strength": 55,
-   "reason": "Trump coin sold out quickly indicates high demand for Trump-branded merchandise"
+   "reason": "Trump coin sold out quickly indicates high demand for Trump-branded merchandise",
+   "price_since": {
+    "ticker": "DJT",
+    "pct": 5.0,
+    "base": 9.14,
+    "last": 9.6,
+    "base_date": "2026-09-02",
+    "last_date": "2026-09-03"
+   }
   },
   {
    "date": "2026-09-02T17:25:29Z",
@@ -128,7 +160,15 @@
    "direction": "SELL",
    "primary_ticker": "COF",
    "strength": 35,
-   "reason": "Capital One debanking review of Trump accounts creates regulatory/reputational risk"
+   "reason": "Capital One debanking review of Trump accounts creates regulatory/reputational risk",
+   "price_since": {
+    "ticker": "COF",
+    "pct": 1.0,
+    "base": 216.6,
+    "last": 218.82,
+    "base_date": "2026-09-02",
+    "last_date": "2026-09-03"
+   }
   },
   {
    "date": "2026-09-02T17:02:18Z",
@@ -144,7 +184,15 @@
    "direction": "BUY",
    "primary_ticker": "GOOG",
    "strength": 35,
-   "reason": "Implied thaw with AI firm Anthropic suggests reduced regulatory friction; modest bullish signal for AI sector"
+   "reason": "Implied thaw with AI firm Anthropic suggests reduced regulatory friction; modest bullish signal for AI sector",
+   "price_since": {
+    "ticker": "GOOG",
+    "pct": 1.2,
+    "base": 333.78,
+    "last": 337.64,
+    "base_date": "2026-09-02",
+    "last_date": "2026-09-03"
+   }
   },
   {
    "date": "2026-09-02T14:42:00Z",
@@ -160,7 +208,15 @@
    "direction": "BUY",
    "primary_ticker": "NVDA",
    "strength": 35,
-   "reason": "Trump's pro-data-center stance supports AI infrastructure & semiconductor demand"
+   "reason": "Trump's pro-data-center stance supports AI infrastructure & semiconductor demand",
+   "price_since": {
+    "ticker": "NVDA",
+    "pct": 0.7,
+    "base": 224.41,
+    "last": 226.06,
+    "base_date": "2026-09-02",
+    "last_date": "2026-09-03"
+   }
   },
   {
    "date": "2026-09-02T12:01:00Z",
@@ -176,7 +232,15 @@
    "direction": "BUY",
    "primary_ticker": "CVX",
    "strength": 50,
-   "reason": "Chevron Venezuela expansion under Trump relaxed stance is bullish for oil major"
+   "reason": "Chevron Venezuela expansion under Trump relaxed stance is bullish for oil major",
+   "price_since": {
+    "ticker": "CVX",
+    "pct": 0.3,
+    "base": 211.78,
+    "last": 212.36,
+    "base_date": "2026-09-02",
+    "last_date": "2026-09-03"
+   }
   },
   {
    "date": "2026-09-02T11:04:43Z",
@@ -192,7 +256,15 @@
    "direction": "WATCH",
    "primary_ticker": "MU",
    "strength": 30,
-   "reason": "Micron stock movement headline; specific catalyst unclear from title alone"
+   "reason": "Micron stock movement headline; specific catalyst unclear from title alone",
+   "price_since": {
+    "ticker": "MU",
+    "pct": -0.3,
+    "base": 956.08,
+    "last": 953.54,
+    "base_date": "2026-09-02",
+    "last_date": "2026-09-03"
+   }
   },
   {
    "date": "2026-09-02T10:16:20Z",
@@ -208,7 +280,15 @@
    "direction": "BUY",
    "primary_ticker": "QQQ",
    "strength": 35,
-   "reason": "Federal tax incentive for Hollywood production is mild stimulus to media/entertainment sector"
+   "reason": "Federal tax incentive for Hollywood production is mild stimulus to media/entertainment sector",
+   "price_since": {
+    "ticker": "QQQ",
+    "pct": 0.8,
+    "base": 709.24,
+    "last": 715.12,
+    "base_date": "2026-09-02",
+    "last_date": "2026-09-03"
+   }
   },
   {
    "date": "2026-09-02T09:08:21Z",
@@ -224,7 +304,15 @@
    "direction": "BUY",
    "primary_ticker": "QQQ",
    "strength": 25,
-   "reason": "Push for AI companies to fund Trump could signal favorable AI sector stance"
+   "reason": "Push for AI companies to fund Trump could signal favorable AI sector stance",
+   "price_since": {
+    "ticker": "QQQ",
+    "pct": 0.8,
+    "base": 709.24,
+    "last": 715.17,
+    "base_date": "2026-09-02",
+    "last_date": "2026-09-03"
+   }
   },
   {
    "date": "2026-09-02T06:22:00Z",
@@ -240,7 +328,15 @@
    "direction": "WATCH",
    "primary_ticker": "SPY",
    "strength": 10,
-   "reason": "Generic market direction question; no Trump-specific catalyst"
+   "reason": "Generic market direction question; no Trump-specific catalyst",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": 0.7,
+    "base": 765.16,
+    "last": 770.48,
+    "base_date": "2026-09-02",
+    "last_date": "2026-09-03"
+   }
   },
   {
    "date": "2026-09-02T06:15:26Z",
@@ -256,7 +352,15 @@
    "direction": "WATCH",
    "primary_ticker": "NIO",
    "strength": 20,
-   "reason": "NIO stock movement tied to ES8 drag and breakeven outlook; macro uncertainty"
+   "reason": "NIO stock movement tied to ES8 drag and breakeven outlook; macro uncertainty",
+   "price_since": {
+    "ticker": "NIO",
+    "pct": -1.8,
+    "base": 3.86,
+    "last": 3.79,
+    "base_date": "2026-09-02",
+    "last_date": "2026-09-03"
+   }
   },
   {
    "date": "2026-09-02T05:39:24Z",
@@ -272,7 +376,15 @@
    "direction": "BUY",
    "primary_ticker": "QCOM",
    "strength": 45,
-   "reason": "QCOM executives joining Trump China visit signals potential trade progress"
+   "reason": "QCOM executives joining Trump China visit signals potential trade progress",
+   "price_since": {
+    "ticker": "QCOM",
+    "pct": -1.0,
+    "base": 169.96,
+    "last": 168.26,
+    "base_date": "2026-09-02",
+    "last_date": "2026-09-03"
+   }
   },
   {
    "date": "2026-09-02T05:39:24Z",
@@ -288,7 +400,15 @@
    "direction": "BUY",
    "primary_ticker": "QCOM",
    "strength": 40,
-   "reason": "Qualcomm executives join Trump China visit; suggests favorable trade/geopolitical positioning"
+   "reason": "Qualcomm executives join Trump China visit; suggests favorable trade/geopolitical positioning",
+   "price_since": {
+    "ticker": "QCOM",
+    "pct": -1.0,
+    "base": 169.96,
+    "last": 168.26,
+    "base_date": "2026-09-02",
+    "last_date": "2026-09-03"
+   }
   },
   {
    "date": "2026-09-02T05:33:01Z",
@@ -304,7 +424,15 @@
    "direction": "BUY",
    "primary_ticker": "SMH",
    "strength": 40,
-   "reason": "SK Hynix large DRAM offering; bullish signal for semiconductor sector ahead of Micron earnings."
+   "reason": "SK Hynix large DRAM offering; bullish signal for semiconductor sector ahead of Micron earnings.",
+   "price_since": {
+    "ticker": "SMH",
+    "pct": -0.5,
+    "base": 550.48,
+    "last": 547.71,
+    "base_date": "2026-09-02",
+    "last_date": "2026-09-03"
+   }
   },
   {
    "date": "2026-09-02T05:33:01Z",
@@ -320,7 +448,15 @@
    "direction": "BUY",
    "primary_ticker": "SMH",
    "strength": 35,
-   "reason": "SK Hynix IPO and DRAM strength ahead of Micron report; semiconductor tailwind"
+   "reason": "SK Hynix IPO and DRAM strength ahead of Micron report; semiconductor tailwind",
+   "price_since": {
+    "ticker": "SMH",
+    "pct": -0.5,
+    "base": 550.48,
+    "last": 547.71,
+    "base_date": "2026-09-02",
+    "last_date": "2026-09-03"
+   }
   },
   {
    "date": "2026-09-02T05:32:20Z",
@@ -336,7 +472,15 @@
    "direction": "BUY",
    "primary_ticker": "DELL",
    "strength": 50,
-   "reason": "Dell CEO highlights AI boom driving robust parts demand; bullish for Dell on strong AI-driven sales."
+   "reason": "Dell CEO highlights AI boom driving robust parts demand; bullish for Dell on strong AI-driven sales.",
+   "price_since": {
+    "ticker": "DELL",
+    "pct": 3.2,
+    "base": 492.2,
+    "last": 507.72,
+    "base_date": "2026-09-02",
+    "last_date": "2026-09-03"
+   }
   },
   {
    "date": "2026-09-02T02:49:09Z",
@@ -352,7 +496,15 @@
    "direction": "BUY",
    "primary_ticker": "XLE",
    "strength": 45,
-   "reason": "Trump urges oil refiners to boost output, implying support for energy sector expansion."
+   "reason": "Trump urges oil refiners to boost output, implying support for energy sector expansion.",
+   "price_since": {
+    "ticker": "XLE",
+    "pct": 0.3,
+    "base": 65.1,
+    "last": 65.32,
+    "base_date": "2026-09-02",
+    "last_date": "2026-09-03"
+   }
   },
   {
    "date": "2026-09-02T02:12:26Z",
@@ -368,7 +520,15 @@
    "direction": "BUY",
    "primary_ticker": "USO",
    "strength": 65,
-   "reason": "Trump's Strait of Hormuz control claim drives crude oil higher directly"
+   "reason": "Trump's Strait of Hormuz control claim drives crude oil higher directly",
+   "price_since": {
+    "ticker": "USO",
+    "pct": 1.4,
+    "base": 141.15,
+    "last": 143.07,
+    "base_date": "2026-09-02",
+    "last_date": "2026-09-03"
+   }
   },
   {
    "date": "2026-09-02T01:47:23Z",
@@ -384,7 +544,15 @@
    "direction": "BUY",
    "primary_ticker": "NVDA",
    "strength": 55,
-   "reason": "Nvidia's strong quarter praised by Musk and Trump adviser; bullish sentiment for semiconductor leader."
+   "reason": "Nvidia's strong quarter praised by Musk and Trump adviser; bullish sentiment for semiconductor leader.",
+   "price_since": {
+    "ticker": "NVDA",
+    "pct": 0.7,
+    "base": 224.41,
+    "last": 226.06,
+    "base_date": "2026-09-02",
+    "last_date": "2026-09-03"
+   }
   },
   {
    "date": "2026-09-02T01:13:08.802Z",
@@ -401,7 +569,15 @@
    "direction": "BUY",
    "primary_ticker": "USO",
    "strength": 55,
-   "reason": "Iran sanctions/collapse and Strait of Hormuz control tightening bullish for oil/energy."
+   "reason": "Iran sanctions/collapse and Strait of Hormuz control tightening bullish for oil/energy.",
+   "price_since": {
+    "ticker": "USO",
+    "pct": 1.4,
+    "base": 141.15,
+    "last": 143.07,
+    "base_date": "2026-09-02",
+    "last_date": "2026-09-03"
+   }
   },
   {
    "date": "2026-09-02T00:11:27Z",
@@ -417,7 +593,15 @@
    "direction": "SELL",
    "primary_ticker": "NVDA",
    "strength": 40,
-   "reason": "Short position research raises China ties concern; bearish sentiment on Nvidia's exposure to China risk."
+   "reason": "Short position research raises China ties concern; bearish sentiment on Nvidia's exposure to China risk.",
+   "price_since": {
+    "ticker": "NVDA",
+    "pct": 0.7,
+    "base": 224.41,
+    "last": 226.09,
+    "base_date": "2026-09-02",
+    "last_date": "2026-09-03"
+   }
   },
   {
    "date": "2026-09-01T19:39:33.960Z",
@@ -437,11 +621,11 @@
    "reason": "Major AI financing deal signals strong demand and investor confidence in Nvidia, though not Trump-specific",
    "price_since": {
     "ticker": "NVDA",
-    "pct": 3.2,
+    "pct": 4.0,
     "base": 217.44,
-    "last": 224.41,
+    "last": 226.06,
     "base_date": "2026-09-01",
-    "last_date": "2026-09-02"
+    "last_date": "2026-09-03"
    }
   },
   {
@@ -461,11 +645,11 @@
    "reason": "Federal production tax credit endorsement is bullish for film/media industry, modest strength",
    "price_since": {
     "ticker": "IYY",
-    "pct": 0.4,
+    "pct": 1.0,
     "base": 185.5,
-    "last": 186.32,
+    "last": 187.37,
     "base_date": "2026-09-01",
-    "last_date": "2026-09-02"
+    "last_date": "2026-09-03"
    }
   },
   {
@@ -485,11 +669,11 @@
    "reason": "Federal production tax credit endorsement supports domestic film/tech production; modest positive for creative/production sectors",
    "price_since": {
     "ticker": "QQQ",
-    "pct": 0.2,
+    "pct": 1.1,
     "base": 707.64,
-    "last": 709.24,
+    "last": 715.12,
     "base_date": "2026-09-01",
-    "last_date": "2026-09-02"
+    "last_date": "2026-09-03"
    }
   },
   {
@@ -509,11 +693,11 @@
    "reason": "Trump endorses federal production tax credit for film/entertainment",
    "price_since": {
     "ticker": "IYJ",
-    "pct": 0.5,
+    "pct": 0.8,
     "base": 158.71,
-    "last": 159.43,
+    "last": 159.95,
     "base_date": "2026-09-01",
-    "last_date": "2026-09-02"
+    "last_date": "2026-09-03"
    }
   },
   {
@@ -533,11 +717,11 @@
    "reason": "Trump-backed fuel network entity sued for unpaid $3.9M bill \u2014 reputational/operational risk to energy/fuel sector ties.",
    "price_since": {
     "ticker": "XLE",
-    "pct": 0.5,
+    "pct": 0.8,
     "base": 64.77,
-    "last": 65.1,
+    "last": 65.32,
     "base_date": "2026-09-01",
-    "last_date": "2026-09-02"
+    "last_date": "2026-09-03"
    }
   },
   {
@@ -557,11 +741,11 @@
    "reason": "Trump stake in ServiceNow explicitly fuels retail interest & stock rally",
    "price_since": {
     "ticker": "NOW",
-    "pct": -4.3,
+    "pct": 0.8,
     "base": 142.9,
-    "last": 136.72,
+    "last": 144.06,
     "base_date": "2026-09-01",
-    "last_date": "2026-09-02"
+    "last_date": "2026-09-03"
    }
   },
   {
@@ -581,11 +765,35 @@
    "reason": "Federal tax credit for film/TV production bullish for media sector, moderate signal",
    "price_since": {
     "ticker": "IYY",
-    "pct": 0.4,
+    "pct": 1.0,
     "base": 185.5,
-    "last": 186.32,
+    "last": 187.37,
     "base_date": "2026-09-01",
-    "last_date": "2026-09-02"
+    "last_date": "2026-09-03"
+   }
+  },
+  {
+   "date": "2026-09-01T14:00:55Z",
+   "platform": "News",
+   "text": "President Trump Endorses Federal Tax Credits for US Film Production - dailyhodl.com \u2014 President Trump Endorses Federal Tax Credits for US Film Production\u00a0\u00a0dailyhodl.com",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQN2lkb2NwenRnMDZvUzdsd2wxQ1FKUXlwX1ZoWUFXTTZqdWRtYjhyS2F1YWI1Tll1Nmc3aVdTQTRlRkttMm4yUV9pa0oyeXFLb2gzOUlBRWszU3JLNV9aNFpmaGtJWDRDcm9neURWZnJ0N1lTRnBvUUdtd2lBckJXbjJzbWhDaGRYdm9kd3BPaFpwM0VudmU4dkhSb1EwdkcxNTRBcWdvQUrSAagBQVVfeXFMUDdpZG9jcHp0ZzA2b1M3bHdsMUNRSlF5cF9WaFlBV002anVkbWI4ckthdWFiNU5ZdTZnN2lXU0E0ZUZLbTJuMlFfaWtKMnlxS29oMzlJQUVrM1NySzVfWjRaZmhrSVg0Q3JvZ3lEVmZydDdZU0Zwb1FHbXdpQXJCV24yc21oQ2hkWHZvZHdwT2hacDNFbnZlOHZIUm9RMHZHMTU0QXFnb0FK?oc=5",
+   "tickers": [
+    "IYJ"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "IYJ",
+   "strength": 35,
+   "reason": "Federal tax credit endorsement for film production is bullish for entertainment/media sector",
+   "price_since": {
+    "ticker": "IYJ",
+    "pct": 0.8,
+    "base": 158.71,
+    "last": 159.95,
+    "base_date": "2026-09-01",
+    "last_date": "2026-09-03"
    }
   },
   {
@@ -605,11 +813,11 @@
    "reason": "Iran conflict/geopolitical escalation drives broad market risk-off, futures decline.",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.4,
+    "pct": 1.1,
     "base": 761.78,
-    "last": 765.16,
+    "last": 770.49,
     "base_date": "2026-09-01",
-    "last_date": "2026-09-02"
+    "last_date": "2026-09-03"
    }
   },
   {
@@ -629,11 +837,11 @@
    "reason": "Trump signals support for Palantir amid mixed analyst sentiment",
    "price_since": {
     "ticker": "PLTR",
-    "pct": -5.8,
+    "pct": 1.0,
     "base": 179.92,
-    "last": 169.46,
+    "last": 181.73,
     "base_date": "2026-09-01",
-    "last_date": "2026-09-02"
+    "last_date": "2026-09-03"
    }
   },
   {
@@ -653,11 +861,11 @@
    "reason": "Trump Iran comment and geopolitical tension imply broad market weakness; oil up",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.4,
+    "pct": 1.1,
     "base": 761.78,
-    "last": 765.16,
+    "last": 770.48,
     "base_date": "2026-09-01",
-    "last_date": "2026-09-02"
+    "last_date": "2026-09-03"
    }
   },
   {
@@ -2419,38 +2627,6 @@
    "primary_ticker": "MU",
    "strength": 75,
    "reason": "Trump calls Micron 'hottest' company and praises Nvidia CEO; dual explicit praise for semiconductor leaders."
-  },
-  {
-   "date": "2026-08-28T03:32:14Z",
-   "platform": "News",
-   "text": "FTC Investigates YouTube Over Suspended User Accounts: Report - Alphabet (NASDAQ:GOOGL) - Benzinga \u2014 FTC Investigates YouTube Over Suspended User Accounts: Report - Alphabet (NASDAQ:GOOGL)\u00a0\u00a0Benzinga",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORHA4SUJDTllrdnIySWlYaXFRYUJ6cERIMGZHdTBSOWp4NkZUNlA5aHlxekJjTHNUeEh6Zm5QNUpyMGNXSzExVng1cndESWhYZ0dRcmRUU1pjV2xBV1Z1Zzh6ZFJWVTJyWXhBV0t2aTFfR1pzTVF4ZnBpenhDS1E0SnBwcERyOVdRVjNqRDR5OEZoTmhfSlpscm1RbVF5RF9NUmZQYkNDOVEtMFJR?oc=5",
-   "tickers": [
-    "GOOGL"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "GOOGL",
-   "strength": 45,
-   "reason": "FTC investigating YouTube account suspensions; regulatory headwind for Alphabet subsidiary."
-  },
-  {
-   "date": "2026-08-28T02:27:00Z",
-   "platform": "News",
-   "text": "Trump Praises Nvidia's 'Incredible Numbers' After Q2 Stunner \u2014 He Also Reportedly Holds Over $12M In The Stock - Stocktwits \u2014 Trump Praises Nvidia's 'Incredible Numbers' After Q2 Stunner \u2014 He Also Reportedly Holds Over $12M In The Stock\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPQlNxTl9TQUlpZEpBSUFhb0owYS1WMG43X2c4TnMxaUtrTHlJTmwxTWtubmI4ekZYbHY3ZXphcl8wQ1FVaXVxb2gxblJpSTkxRXRsNnpWRFYtYWF6aFlJeHR0endMUEo2cUh5VHNncTVwZHk5Tkx2QmllVVlUczhVWEpCc3FJUUptN3poclRXbm5makJSSjVuemIxTWxNOGpvejVNVWNremFTaFNFLWZRU3RvVVlkUS1wWDJRekNLRWdPSTRzYTlGSGtSYmI5UmxCZHZuejVaOVRtcUdTMWhXRXJ0aHU4dkJjTF9ocDV0NGJIMGJZQUk4M2F1WXFzSlU?oc=5",
-   "tickers": [
-    "NVDA"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "NVDA",
-   "strength": 80,
-   "reason": "Trump praises Nvidia's incredible numbers and holds $12M stake, explicit company endorsement with ownership signal"
   },
   {
    "curated": true,
