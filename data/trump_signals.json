@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-09-03T23:25:47Z",
+ "last_updated": "2026-09-04T01:10:44Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -17,6 +17,22 @@
    "primary_ticker": "ITA",
    "strength": 65,
    "reason": "100% tariffs on imports protective of domestic drone manufacturers; sector bullish"
+  },
+  {
+   "date": "2026-09-03T20:14:27Z",
+   "platform": "News",
+   "text": "Jim Cramer issues bullish call on Robinhood after Morgan Stanley upgrade - thestreet.com \u2014 Jim Cramer issues bullish call on Robinhood after Morgan Stanley upgrade\u00a0\u00a0thestreet.com",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVE1PNjlxQTd4SlZaUTJzajdNaVFOc2paalR1QkRtYkg5U3NzQkstczAyeHh6QTF6MTF0VTcyZ09pY0drenlTRUdJUVhoR3JWeWxPd0ZrS2NzenlIZ2xYajJGd01mZG83MDA5VUUzcFZGSmcwbTJObmc0eFRUdExVMVVLVVFnR1BWbGNzQjdxMURobGxDSTdhTmpGOGRuaWdkR1NjY2RsUnFtc1ZENmsyQkVMaw?oc=5",
+   "tickers": [
+    "HOOD"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "HOOD",
+   "strength": 45,
+   "reason": "Bullish analyst upgrade and Cramer call on Robinhood; isolated analyst sentiment, not Trump-driven"
   },
   {
    "date": "2026-09-03T17:14:50Z",
@@ -401,15 +417,7 @@
    "direction": "BUY",
    "primary_ticker": "NVDA",
    "strength": 35,
-   "reason": "Nvidia exec pushes AI infrastructure globally; bullish for AI chip demand",
-   "price_since": {
-    "ticker": "NVDA",
-    "pct": 1.8,
-    "base": 224.41,
-    "last": 228.45,
-    "base_date": "2026-09-02",
-    "last_date": "2026-09-03"
-   }
+   "reason": "Nvidia exec pushes AI infrastructure globally; bullish for AI chip demand"
   },
   {
    "date": "2026-09-02T20:02:38Z",
@@ -425,15 +433,7 @@
    "direction": "WATCH",
    "primary_ticker": "XLE",
    "strength": 50,
-   "reason": "Trump addressing oil price surge; unclear whether policy will cap or inflate prices; energy direction ambiguous.",
-   "price_since": {
-    "ticker": "XLE",
-    "pct": -0.7,
-    "base": 65.1,
-    "last": 64.62,
-    "base_date": "2026-09-02",
-    "last_date": "2026-09-03"
-   }
+   "reason": "Trump addressing oil price surge; unclear whether policy will cap or inflate prices; energy direction ambiguous."
   },
   {
    "date": "2026-09-02T20:01:23Z",
@@ -449,15 +449,7 @@
    "direction": "BUY",
    "primary_ticker": "DJT",
    "strength": 55,
-   "reason": "Trump coin sold out quickly indicates high demand for Trump-branded merchandise",
-   "price_since": {
-    "ticker": "DJT",
-    "pct": 4.2,
-    "base": 9.14,
-    "last": 9.52,
-    "base_date": "2026-09-02",
-    "last_date": "2026-09-03"
-   }
+   "reason": "Trump coin sold out quickly indicates high demand for Trump-branded merchandise"
   },
   {
    "date": "2026-09-02T18:12:11Z",
@@ -489,15 +481,7 @@
    "direction": "SELL",
    "primary_ticker": "COF",
    "strength": 35,
-   "reason": "Capital One debanking review of Trump accounts creates regulatory/reputational risk",
-   "price_since": {
-    "ticker": "COF",
-    "pct": 1.8,
-    "base": 216.6,
-    "last": 220.5,
-    "base_date": "2026-09-02",
-    "last_date": "2026-09-03"
-   }
+   "reason": "Capital One debanking review of Trump accounts creates regulatory/reputational risk"
   },
   {
    "date": "2026-09-02T17:25:29Z",
@@ -570,6 +554,22 @@
     "base_date": "2026-09-02",
     "last_date": "2026-09-03"
    }
+  },
+  {
+   "date": "2026-09-02T14:42:00Z",
+   "platform": "News",
+   "text": "Anthropic Leader Praises President Trump\u2019s Data Center Stance at G20 Meeting - The Information \u2014 Anthropic Leader Praises President Trump\u2019s Data Center Stance at G20 Meeting\u00a0\u00a0The Information",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNExXSGRnbXhlZm95TUdLVDE0ZmRPUzJiNVpFRlRGUmNrZG50T280bUFlWFZxd3BHOUNZaWtPaU1NZXlCUm1xQ3JhTVdWdFBmZFBhZnp5bGdDejMtUmRXeXJYVm0waXRqNVdjaFNVNkVUdkF1RThCMF9Sd1ZlUG1tZ1dWVFBLM0RmSEdCRVRMeUx1aW5vaDdYaFJROEJNbWY4WXUxVVlfSFlOSHFRTWFjN29fZw?oc=5",
+   "tickers": [
+    "NASDAQ"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "NASDAQ",
+   "strength": 35,
+   "reason": "Trump praised for data center stance; suggests AI/compute-friendly policy favorable to tech sector growth."
   },
   {
    "date": "2026-09-02T13:05:05Z",
@@ -2631,70 +2631,6 @@
    "primary_ticker": "ASTS",
    "strength": 60,
    "reason": "Trump space stock bets emerge; bullish sentiment for space sector."
-  },
-  {
-   "date": "2026-08-29T10:41:39Z",
-   "platform": "News",
-   "text": "CRML, UUUU, USAR, ALOY, GLND: Greenland\u2019s Rare-Earth Trade Draws Investors As Trump Revives Arctic Ambitions - Stocktwits \u2014 CRML, UUUU, USAR, ALOY, GLND: Greenland\u2019s Rare-Earth Trade Draws Investors As Trump Revives Arctic Ambitions\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPS2w5bklfdmlQVG1ZZDgtRGo5QnlTdW5FZ3dWdnh3aGhJU1FoVHk3aW0tSUU5eDB3bmptb21TSmZvbkZSR2pDR0QydXJFNGV3MFVZWDRxV0YxYkV5R1FtVlVza1B0NU9teWNCN053QU1mNzJXbE83T1E1UElUN1VTZGpqOFBmLUJlbGJZYnRDYy1mYWpYY0dpNFh2OE01SnM1ZnRBall0MFVJTE9DcFJoRnR0NXd3cTQzZnhsdENCM2xrVm1HN00zYUQxRG1ScFo5U19TWG1rcDVuXzEteEhHVzhFQlNmeVhRZXF5UktfSkhYQ2IxNE9iVg?oc=5",
-   "tickers": [
-    "UUUU"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "UUUU",
-   "strength": 45,
-   "reason": "Greenland rare-earth trade revival under Trump Arctic policy boosts uranium/rare-earth miners; UUUU most liquid rare-earth play."
-  },
-  {
-   "date": "2026-08-29T08:52:05Z",
-   "platform": "News",
-   "text": "Trump hails 'biggest oil deal in history' with Venezuela to secure 65bn barrels - The Irish Sun \u2014 Trump hails 'biggest oil deal in history' with Venezuela to secure 65bn barrels\u00a0\u00a0The Irish Sun",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOb2w0ZWJ4b2huc3loRERsUFdPN0E2N2dCZ05IaFVlc3RfOVlpcW5ybUJIUUtLbGYxTURpY3BWTW5vWHFmNXdNdHBSal9jY3FmQkc4ZnRBUUxKVUZITUQ5OVFxY2lManBzc2xyMnB3MlU1LXZqSXF0d3VZUWdjcS1lMGVoaWk?oc=5",
-   "tickers": [
-    "XLE"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "XLE",
-   "strength": 55,
-   "reason": "Trump claims biggest oil deal in history with Venezuela for 65bn barrels; major oil supply deal bullish for energy sector, but claim unverified/macro."
-  },
-  {
-   "date": "2026-08-29T08:48:40Z",
-   "platform": "News",
-   "text": "Trump hails 'biggest oil deal in history' with Venezuela to secure 65bn barrels - the-sun.com \u2014 Trump hails 'biggest oil deal in history' with Venezuela to secure 65bn barrels\u00a0\u00a0the-sun.com",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOalRJdS1ZMFpFSHNIV0MxVzZfN0hBMjVablk5QjZDaDFkYUZHbTZ4N2ZsMURRNDUtaDRpYXlBSlJ4ZWhrVGJUX2FyNHd5cTQxaDZOOXllRm9MOFdjTkQwVDF1Q2JlbUZYeFV1UzVMQlZ6NVFxVUwwODd1cENlSF9sbjZNLUFud0E?oc=5",
-   "tickers": [
-    "XLE"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "XLE",
-   "strength": 65,
-   "reason": "Large oil deal with Venezuela increases US oil supply and domestic energy leverage; bullish for energy sector."
-  },
-  {
-   "date": "2026-08-29T08:45:00Z",
-   "platform": "News",
-   "text": "Trump hails 'biggest oil deal in history' with Venezuela to secure 65bn barrels - The Sun \u2014 Trump hails 'biggest oil deal in history' with Venezuela to secure 65bn barrels\u00a0\u00a0The Sun",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSG9pRTdRQzRueS1hWXV1NzdTTnhKdk9xZzVHQ2gtUTlCU2J5NnM5MW5IUzF1Rl9PR0wtWEJsYkVRd2RnbDJXeUw4WG0teXppU3NLa29IWWU4b25KRzVEMEV1a3d4RERWSFZOTTg1dXFLbG5aNXpTNXFFODdvWHdMbFZEWFFzQUQ5?oc=5",
-   "tickers": [
-    "USO"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "USO",
-   "strength": 70,
-   "reason": "Trump hails major Venezuela oil deal; direct bullish signal for oil supply and energy sector"
   },
   {
    "curated": true,
