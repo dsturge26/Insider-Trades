@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-09-04T20:21:10Z",
+ "last_updated": "2026-09-04T22:28:35Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -213,6 +213,22 @@
    "reason": "Large Anthropic data-center lease is bullish for infrastructure but stock fell; market sentiment unclear"
   },
   {
+   "date": "2026-09-04T01:10:24Z",
+   "platform": "News",
+   "text": "Why Did PANW, AAL, MRNA Surge To 52-Week Highs? - Stocktwits \u2014 Why Did PANW, AAL, MRNA Surge To 52-Week Highs?\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTlBYYnRFLUw0ekRPSlg0bHViSVNLbkVHY1BYbXQ0RlFIX2pPX1dHNjJ3cTFJb3lfREw4OG1lbHNNUFhEYzd4d2N0dXZ4NnY0cFp6dUhSekhfTlhKbmIyYVlReWxIQVlzVnZPck45c2VLeEx4amRRa0xMRWZROHpEWnBJZFRKZ2FSQUJVRmJlUXpMWTJ0TzU3SFN5bl8zTVhxVU5BOU5GTGNhcnJH?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "SPY",
+   "strength": 15,
+   "reason": "Mixed stock moves (PANW, AAL, MRNA); no coherent Trump catalyst identified."
+  },
+  {
    "date": "2026-09-04T01:08:26Z",
    "platform": "News",
    "text": "Nasdaq, S&P 500 Futures Rebound As Micron Rally Lifts Chip Stocks: Why SPCX, QCOM, TSM, BABA, PLTR, CBRS, WEN, IBRX Are In Focus - Stocktwits \u2014 Nasdaq, S&P 500 Futures Rebound As Micron Rally Lifts Chip Stocks: Why SPCX, QCOM, TSM, BABA, PLTR, CBRS, WEN, IBRX Are In Focus\u00a0\u00a0Stocktwits",
@@ -245,9 +261,9 @@
    "reason": "Trump family bullish bitcoin call signals crypto upside",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": -1.8,
+    "pct": -2.0,
     "base": 81271.74,
-    "last": 79836.97,
+    "last": 79685.99,
     "base_date": "2026-09-03",
     "last_date": "2026-09-04"
    }
@@ -320,6 +336,54 @@
     "pct": -3.4,
     "base": 67.71,
     "last": 65.42,
+    "base_date": "2026-09-03",
+    "last_date": "2026-09-04"
+   }
+  },
+  {
+   "date": "2026-09-03T18:12:18Z",
+   "platform": "News",
+   "text": "DELL Stock Spikes To Record Highs On President Trump\u2019s Endorsement - Stocktwits \u2014 DELL Stock Spikes To Record Highs On President Trump\u2019s Endorsement\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYWF1OUgweFU0d1NlNU4ya1FYQVJSVTRCX3IwM0NMd19VVmN5RzNtUmc1c2FhTU9abXdnTmVnMDE2QUxna3ZrUEF3Zkd0SFUtOWx3QkF2elBuNkNTcmZDRm1BRUkwMVRwYU0xaUVsWDZLSk0yeEtiMFFPV0t3ZXZ3OW15QUg5V0xHNnRrU1J5VXdvX09Oa0ZmRmJvV0VTVlFRRFh6c3E5RmtHckx0MXpNVVZTWmJpLTUtUXBHSG5pWEFfQll0ejRneDFB?oc=5",
+   "tickers": [
+    "DELL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "DELL",
+   "strength": 85,
+   "reason": "Trump explicitly endorsed DELL, stock spiked on his endorsement",
+   "price_since": {
+    "ticker": "DELL",
+    "pct": 1.5,
+    "base": 516.39,
+    "last": 524.14,
+    "base_date": "2026-09-03",
+    "last_date": "2026-09-04"
+   }
+  },
+  {
+   "date": "2026-09-03T17:28:51Z",
+   "platform": "News",
+   "text": "Why Is IBM Stock Surging Nearly 7% Higher In Overnight Trading? - Stocktwits \u2014 Why Is IBM Stock Surging Nearly 7% Higher In Overnight Trading?\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQk9pekpVQ1Q1NnRyVEdqWjdJN29OTFpDY3Rkc08wdG96eTdtMHRzVVRmUFItUlRQQS11WXBWZFpHWU50d3hoRHBENXM2eGhKMF9QZF9qb3ZQT2pXREgyU1pTMzBFU0JGZ0lOTk90VlU4YURiV3I1LWtPdTVzZDZRbUZGWEUySWxkZXg1a2dzYVVTVUpsOU1Yc25qQ2U4OE9tX1MtbEZFNDZDalpaS2JlbndvcnYyUU1Ca0E2cGxqMi02S2s?oc=5",
+   "tickers": [
+    "IBM"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "IBM",
+   "strength": 45,
+   "reason": "IBM stock surging overnight but reason not specified; unclear if Trump-driven or unrelated catalyst",
+   "price_since": {
+    "ticker": "IBM",
+    "pct": 0.1,
+    "base": 234.71,
+    "last": 234.89,
     "base_date": "2026-09-03",
     "last_date": "2026-09-04"
    }
@@ -2515,30 +2579,6 @@
    }
   },
   {
-   "date": "2026-08-31T10:16:12Z",
-   "platform": "News",
-   "text": "DELL Stock Spikes To Record Highs On President Trump\u2019s Endorsement - Stocktwits \u2014 DELL Stock Spikes To Record Highs On President Trump\u2019s Endorsement\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYWF1OUgweFU0d1NlNU4ya1FYQVJSVTRCX3IwM0NMd19VVmN5RzNtUmc1c2FhTU9abXdnTmVnMDE2QUxna3ZrUEF3Zkd0SFUtOWx3QkF2elBuNkNTcmZDRm1BRUkwMVRwYU0xaUVsWDZLSk0yeEtiMFFPV0t3ZXZ3OW15QUg5V0xHNnRrU1J5VXdvX09Oa0ZmRmJvV0VTVlFRRFh6c3E5RmtHckx0MXpNVVZTWmJpLTUtUXBHSG5pWEFfQll0ejRneDFB?oc=5",
-   "tickers": [
-    "DELL"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "DELL",
-   "strength": 85,
-   "reason": "Trump explicitly endorses Dell; stock spikes on direct presidential praise",
-   "price_since": {
-    "ticker": "DELL",
-    "pct": -6.8,
-    "base": 456.01,
-    "last": 425.0,
-    "base_date": "2026-08-31",
-    "last_date": "2026-09-01"
-   }
-  },
-  {
    "date": "2026-08-31T10:00:01Z",
    "platform": "News",
    "text": "Coupang dispute fuels new U.S. tariff pressure on South Korea - CNBC \u2014 Coupang dispute fuels new U.S. tariff pressure on South Korea\u00a0\u00a0CNBC",
@@ -2821,88 +2861,6 @@
     "base_date": "2026-08-31",
     "last_date": "2026-09-01"
    }
-  },
-  {
-   "date": "2026-08-30T17:46:18Z",
-   "platform": "News",
-   "text": "GOP gambles on midterm dividends from RFK Jr.\u2019s MAHA - NewsNation \u2014 GOP gambles on midterm dividends from RFK Jr.\u2019s MAHA\u00a0\u00a0NewsNation",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdlVCZk5TZkNFNnRoSW42dDlYZUN1c2FFLURmRGJIblphODRnbW0wUURheGhPY0dRYlhxT3RESV9QRFBpcUVkbUsweVhhTjNUNE90Ynh6RWlKWEpjSDQtZ3p5cXIyRVJNV010TjRHMGllTnJCdVAyUjBzTzlvVzJ0UmpKSmvSAYQBQVVfeXFMT3ZVQmZOU2ZDRTZ0aEluNnQ5WGVDdXNhRS1EZkRiSG5aYTg0Z21tMFFEYXhoT2NHUWJYcU90RElfUERQaXFFZG1LMHlYYU4zVDRPdGJ4ekVpSlhKY0g0LWd6eXFyMkVSTVdNdE40RzBpZU5yQnVQMlIwc085b1cydFJqSkpr?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "SPY",
-   "strength": 35,
-   "reason": "RFK Jr. MAHA health initiative; macro health/regulation policy; direction ambiguous (regulatory risk vs. opportunity)"
-  },
-  {
-   "date": "2026-08-30T17:20:58Z",
-   "platform": "News",
-   "text": "How Trump\u2019s Boeing Praise Could Ripple Through Aerospace and Industrial Stocks - TipRanks \u2014 How Trump\u2019s Boeing Praise Could Ripple Through Aerospace and Industrial Stocks\u00a0\u00a0TipRanks",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVzNBaGhnZFFVY2NuRE4zR2lMNmVuUXNxNUdwUkVwLU5sNnBXY3ZSWkl3d3JFVmtLZTRiRE1vQUZDS0FzV1dmdUJkVm9SQXhIYVhKQktjOTVnWjdZVDJGUUZqVllFbUIzc0g4b0dhaVRKZUFLT0VwblVyZnhvMy1qMnhQM2lsM1YtRk5hLWItTDB1QmI2NEZlRWtoa3o1bTFTeEFkalktSXZSaVdDa3Q5T3NWQkt6Z2M?oc=5",
-   "tickers": [
-    "BA"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "BA",
-   "strength": 65,
-   "reason": "Trump praised Boeing; aerospace/industrial stocks benefit from administration support and likely defense/infrastructure spending"
-  },
-  {
-   "date": "2026-08-30T17:17:35Z",
-   "platform": "News",
-   "text": "MU Stock Eases After Record Run: Micron Backs Trump Accounts With $250M Commitment - Stocktwits \u2014 MU Stock Eases After Record Run: Micron Backs Trump Accounts With $250M Commitment\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPVDE3TEpTVWtjT281REUwbWFGQzN0ZHpWNnU1UlpVRWRYMDExdzEyRVZ1MHlpbDd6V3ZFNjlmUVRyYXlabHpkVUpSejJmb3p5bF9mbkpobEpQanF5bzM2NjNpcDZ5N01rOEYyeDZvLTRZc0xIeG9xaEpESjc0bERrUTQwbTRMcXdCUHE0N0UzaTNoZFd2ZTU1Qk5JaDlMOG1GUG1icU9SMU9ja0Y5c21SUEcwN2EyYVpRUFQxY1JqOUZBeUJZT2QyYVppalpTSnhSUER1M0pMcjlLRG5YeVE?oc=5",
-   "tickers": [
-    "MU"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "MU",
-   "strength": 55,
-   "reason": "Micron pledges $250M to Trump accounts as stock eases; mixed signal\u2014support offset by profit-taking after rally."
-  },
-  {
-   "date": "2026-08-30T16:29:19.902Z",
-   "platform": "Truth Social",
-   "text": "RT @sergiogorPresident Trump is the Greatest JOBS President in American History. He works tirelessly every day to create millions of high-paying Jobs, drive Trillions of Dollars in Investment, and reinvigorate our Economy. Just this week, President Trump and the Prime Minister of Bangladesh made another incredible Deal, with Bangladesh committing to spend Billions of Dollars to buy more Boeing Aircraft, significantly increasing their initial order. Our President is Making America, and our partners, Great Again!",
-   "tickers": [
-    "BA"
-   ],
-   "engagement": 0,
-   "url": "https://truthsocial.com/@realDonaldTrump/117185403938534473",
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "BA",
-   "strength": 75,
-   "reason": "Trump explicitly highlights Bangladesh Boeing aircraft deal; direct bullish catalyst for Boeing orders and revenue"
-  },
-  {
-   "date": "2026-08-30T14:10:20.699Z",
-   "platform": "Truth Social",
-   "text": "One of the things I am going to do with the Venezuelan Oil is fill up the Strategic National Reserves which, because of Sleepy Joe Biden, has been virtually emptied. The \"topping out\" process will begin very shortly, and is a Gift from Venezuela to the People of the United States. Thank you! President DONALD J. TRUMP",
-   "tickers": [
-    "USO"
-   ],
-   "engagement": 24480,
-   "url": "https://truthsocial.com/@realDonaldTrump/117184857420534704",
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "USO",
-   "strength": 70,
-   "reason": "Trump announces Venezuelan oil acquisition for Strategic Petroleum Reserve; bullish for oil prices and energy sector"
   },
   {
    "curated": true,
