@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-09-04T01:10:44Z",
+ "last_updated": "2026-09-04T05:54:40Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-09-03T23:01:46Z",
+   "platform": "News",
+   "text": "Eric Trump Doubles Down On $1 Million Bitcoin Call \u2013 Says Crypto Is \u2018On The One-Yard Line\u2019 - Stocktwits \u2014 Eric Trump Doubles Down On $1 Million Bitcoin Call \u2013 Says Crypto Is \u2018On The One-Yard Line\u2019\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNX1pmRkZXRjdiRW5hMjBIczJUNUJIdGF6aldVWUh5a3NyTXlfM2RqczdicF96cDk3T1hqNmpNLWp5QXBJT0JkcWpJU0VzWXpUVWFFRkVEWlN6LTBCLUFkSGswd3BkRGZNWDZBa1pwdUtwTWpwUVlONEF6Ny1pMHpReUtsa2VNenVURDltcjRQcmFNWU1xT1RWOWMtdGdGenJ6Q0R6UnVSTS1qZlhkb1NsUHFxYTV2OW5wWjJVdmpLWkxFa3BaN1JSenpEX2o5VUFCSnFXT0FfM1B5alJNQ3c?oc=5",
+   "tickers": [
+    "BTC-USD"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "BTC-USD",
+   "strength": 45,
+   "reason": "Trump family bullish bitcoin call signals crypto upside"
+  },
   {
    "date": "2026-09-03T20:53:00Z",
    "platform": "News",
@@ -260,6 +276,22 @@
    "reason": "Oil falls on Trump remarks; explicit market reaction indicating bearish pressure on oil from Trump policy/rhetoric."
   },
   {
+   "date": "2026-09-03T07:19:23Z",
+   "platform": "News",
+   "text": "Trump Says $800M Will Be Invested In Stock Market This Week For American Children As Trump Accounts Go Live - Stocktwits \u2014 Trump Says $800M Will Be Invested In Stock Market This Week For American Children As Trump Accounts Go Live\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNemVFZHVJdEo1TUFCNmNSZGFMRGJaaE5CVnl4LW1GVGs2cDFqNy1IcUtNZXpqT0NZUDAwTU56WU5BajYyVHVRZVdTd19RelMyMXhxaG5KdlVOZTQ5eFFRMFNIdGZBRGZxeXpMTjktZ3BVU2thb1oyWDJUZ1ZlZFJBQnRza0RieEdYeFNQdVVlWnBHNUlnY0xBTGo1bVpMZ1kzaFFCN1JGWlVxLWxveUFnQ2NmaG9jajRhMU9lN1Y1M3V5WWg2YzRnMw?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "SPY",
+   "strength": 75,
+   "reason": "Trump announces $800M stock market investment for retail account holders, direct bullish signal"
+  },
+  {
    "date": "2026-09-03T04:14:13Z",
    "platform": "News",
    "text": "Trump discloses 21,000 securities trades during first year in office - ABC News - Breaking News, Latest News and Videos \u2014 Trump discloses 21,000 securities trades during first year in office\u00a0\u00a0ABC News - Breaking News, Latest News and Videos",
@@ -417,7 +449,15 @@
    "direction": "BUY",
    "primary_ticker": "NVDA",
    "strength": 35,
-   "reason": "Nvidia exec pushes AI infrastructure globally; bullish for AI chip demand"
+   "reason": "Nvidia exec pushes AI infrastructure globally; bullish for AI chip demand",
+   "price_since": {
+    "ticker": "NVDA",
+    "pct": 1.8,
+    "base": 224.41,
+    "last": 228.45,
+    "base_date": "2026-09-02",
+    "last_date": "2026-09-03"
+   }
   },
   {
    "date": "2026-09-02T20:02:38Z",
@@ -433,7 +473,15 @@
    "direction": "WATCH",
    "primary_ticker": "XLE",
    "strength": 50,
-   "reason": "Trump addressing oil price surge; unclear whether policy will cap or inflate prices; energy direction ambiguous."
+   "reason": "Trump addressing oil price surge; unclear whether policy will cap or inflate prices; energy direction ambiguous.",
+   "price_since": {
+    "ticker": "XLE",
+    "pct": -0.7,
+    "base": 65.1,
+    "last": 64.62,
+    "base_date": "2026-09-02",
+    "last_date": "2026-09-03"
+   }
   },
   {
    "date": "2026-09-02T20:01:23Z",
@@ -449,7 +497,15 @@
    "direction": "BUY",
    "primary_ticker": "DJT",
    "strength": 55,
-   "reason": "Trump coin sold out quickly indicates high demand for Trump-branded merchandise"
+   "reason": "Trump coin sold out quickly indicates high demand for Trump-branded merchandise",
+   "price_since": {
+    "ticker": "DJT",
+    "pct": 4.2,
+    "base": 9.14,
+    "last": 9.52,
+    "base_date": "2026-09-02",
+    "last_date": "2026-09-03"
+   }
   },
   {
    "date": "2026-09-02T18:12:11Z",
@@ -481,7 +537,15 @@
    "direction": "SELL",
    "primary_ticker": "COF",
    "strength": 35,
-   "reason": "Capital One debanking review of Trump accounts creates regulatory/reputational risk"
+   "reason": "Capital One debanking review of Trump accounts creates regulatory/reputational risk",
+   "price_since": {
+    "ticker": "COF",
+    "pct": 1.8,
+    "base": 216.6,
+    "last": 220.5,
+    "base_date": "2026-09-02",
+    "last_date": "2026-09-03"
+   }
   },
   {
    "date": "2026-09-02T17:25:29Z",
@@ -2373,22 +2437,6 @@
    "reason": "Micron pledges $250M to Trump accounts as stock eases; mixed signal\u2014support offset by profit-taking after rally."
   },
   {
-   "date": "2026-08-30T16:33:31Z",
-   "platform": "News",
-   "text": "Trump Says $800M Will Be Invested In Stock Market This Week For American Children As Trump Accounts Go Live - Stocktwits \u2014 Trump Says $800M Will Be Invested In Stock Market This Week For American Children As Trump Accounts Go Live\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNemVFZHVJdEo1TUFCNmNSZGFMRGJaaE5CVnl4LW1GVGs2cDFqNy1IcUtNZXpqT0NZUDAwTU56WU5BajYyVHVRZVdTd19RelMyMXhxaG5KdlVOZTQ5eFFRMFNIdGZBRGZxeXpMTjktZ3BVU2thb1oyWDJUZ1ZlZFJBQnRza0RieEdYeFNQdVVlWnBHNUlnY0xBTGo1bVpMZ1kzaFFCN1JGWlVxLWxveUFnQ2NmaG9jajRhMU9lN1Y1M3V5WWg2YzRnMw?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "SPY",
-   "strength": 60,
-   "reason": "Trump announces $800M stock market investment for Trump accounts; direct injection of capital into equities."
-  },
-  {
    "date": "2026-08-30T16:29:19.902Z",
    "platform": "Truth Social",
    "text": "RT @sergiogorPresident Trump is the Greatest JOBS President in American History. He works tirelessly every day to create millions of high-paying Jobs, drive Trillions of Dollars in Investment, and reinvigorate our Economy. Just this week, President Trump and the Prime Minister of Bangladesh made another incredible Deal, with Bangladesh committing to spend Billions of Dollars to buy more Boeing Aircraft, significantly increasing their initial order. Our President is Making America, and our partners, Great Again!",
@@ -2599,38 +2647,6 @@
    "primary_ticker": "INTC",
    "strength": 40,
    "reason": "Trump comments on Intel and other tech firms are market-relevant but direction unclear without full context"
-  },
-  {
-   "date": "2026-08-29T13:00:00Z",
-   "platform": "News",
-   "text": "Trump Backlash Adds New Risks to the Stocks the Government Owns - Bloomberg.com \u2014 Trump Backlash Adds New Risks to the Stocks the Government Owns\u00a0\u00a0Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTml6UDBEN2NpSTJaNzVjQnJiZGNIZF9hcmFhWGRQVmlFcHd0Uk54UkQyMjVTTVVHR0NqSWx0OVdDNnZyZ1A0czdGcVJqbFBuNExiRFhMbjhsNmlrQks5d2VqclE5TGIydFFYR3ZsM1lrUERncG5pd3cxRF9tblg4dmNRa3dzSzJteWV5ODg2Wm1OMXIxdVF6SkwxV3MyWWktczVnZXppUktTaW1iRU13S3h2NGw?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "SPY",
-   "strength": 30,
-   "reason": "Political backlash to Trump-held equities creates risk for broad portfolio holdings"
-  },
-  {
-   "date": "2026-08-29T12:32:23Z",
-   "platform": "News",
-   "text": "ASTS, RKLB Stocks Get The Trump Pump After Hidden Space Stock Bets Emerge - Stocktwits \u2014 ASTS, RKLB Stocks Get The Trump Pump After Hidden Space Stock Bets Emerge\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYlgtQnFIQ21RTHhqRVMtMUF4aWNUR2w3WHo5QzFfWVRyaExWYXJDUk9WaEFDaW90THVYcHVSd3J4Nk82T3lkMVBGZnhIQW43bHpGdURhaTgxYnRlR25BYmp6SWR1cjVhUHlXZXdWSFdkNlFTekNoQXZCSXNVem1Oc0NBYXBKQXhnRnNCTTVvOU5xSEZrUlNxdzZCczQyZmdVOW1jQVRBczU4cHlpU3M3dnBWZnBjdw?oc=5",
-   "tickers": [
-    "ASTS"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "ASTS",
-   "strength": 60,
-   "reason": "Trump space stock bets emerge; bullish sentiment for space sector."
   },
   {
    "curated": true,
