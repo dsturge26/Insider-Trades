@@ -1,7 +1,41 @@
 {
- "last_updated": "2026-09-04T22:28:35Z",
+ "last_updated": "2026-09-05T00:19:10Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-09-04T22:27:05.922Z",
+   "platform": "Truth Social",
+   "text": "WHITE HOUSE PRESS RELEASE \u2014 Made in America: Manufacturing, Private Hiring Power Explosive August Jobs Report:https://www.whitehouse.gov/releases/2026/09/made-in-america-manufacturing-private-hiring-power-explosive-august-jobs-report/",
+   "tickers": [
+    "SPY"
+   ],
+   "engagement": 3253,
+   "url": "https://truthsocial.com/@realDonaldTrump/117215122287615906",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "SPY",
+   "strength": 60,
+   "reason": "Strong jobs report and manufacturing boom narrative bullish for broad market"
+  },
+  {
+   "date": "2026-09-04T22:26:40.238Z",
+   "platform": "Truth Social",
+   "text": "GREAT NEWS! Our THRIVING Economy added 162 THOUSAND Jobs in August, in honor of our Great American Workers who we celebrate this (and every!) Labor Day. This strong number is nearly TRIPLE the predictions of the Bloomberg survey's so-called \"Economists,\" who continue to suffer from Trump Derangement Syndrome. The effects of the Trump Boom can be seen across many Industries.\u00a0My Administration's Fair Trade Policies, using a wonderful tool called \"TARIFFS,\" have reset the Global Economy, bringing Manufacturing Jobs BACK to America, like never before. Factory Construction is BOOMING as Companies take advantage of FULL EXPENSING \u2014 One year deduction. Before long, these Factories will be teeming with red, white, and blue-blooded AMERICAN Workers! President DONALD J. TRUMP",
+   "tickers": [
+    "SPY"
+   ],
+   "engagement": 3801,
+   "url": "https://truthsocial.com/@realDonaldTrump/117215120604420966",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "SPY",
+   "strength": 65,
+   "reason": "Emphasis on thriving economy, job growth, and tariff-driven manufacturing revival bullish for equities"
+  },
   {
    "date": "2026-09-04T16:30:20.102Z",
    "platform": "Truth Social",
@@ -263,9 +297,9 @@
     "ticker": "BTC-USD",
     "pct": -2.0,
     "base": 81271.74,
-    "last": 79685.99,
+    "last": 79658.04,
     "base_date": "2026-09-03",
-    "last_date": "2026-09-04"
+    "last_date": "2026-09-05"
    }
   },
   {
@@ -282,15 +316,7 @@
    "direction": "BUY",
    "primary_ticker": "ITA",
    "strength": 65,
-   "reason": "100% tariffs on imports protective of domestic drone manufacturers; sector bullish",
-   "price_since": {
-    "ticker": "ITA",
-    "pct": -0.2,
-    "base": 225.98,
-    "last": 225.61,
-    "base_date": "2026-09-03",
-    "last_date": "2026-09-04"
-   }
+   "reason": "100% tariffs on imports protective of domestic drone manufacturers; sector bullish"
   },
   {
    "date": "2026-09-03T20:14:27Z",
@@ -306,15 +332,7 @@
    "direction": "BUY",
    "primary_ticker": "HOOD",
    "strength": 45,
-   "reason": "Bullish analyst upgrade and Cramer call on Robinhood; isolated analyst sentiment, not Trump-driven",
-   "price_since": {
-    "ticker": "HOOD",
-    "pct": -2.1,
-    "base": 124.72,
-    "last": 122.11,
-    "base_date": "2026-09-03",
-    "last_date": "2026-09-04"
-   }
+   "reason": "Bullish analyst upgrade and Cramer call on Robinhood; isolated analyst sentiment, not Trump-driven"
   },
   {
    "date": "2026-09-03T18:18:07Z",
@@ -330,15 +348,7 @@
    "direction": "SELL",
    "primary_ticker": "FOXA",
    "strength": 35,
-   "reason": "Bartiromo departure signals Trump/Fox News tension; negative for Fox valuation",
-   "price_since": {
-    "ticker": "FOXA",
-    "pct": -3.4,
-    "base": 67.71,
-    "last": 65.42,
-    "base_date": "2026-09-03",
-    "last_date": "2026-09-04"
-   }
+   "reason": "Bartiromo departure signals Trump/Fox News tension; negative for Fox valuation"
   },
   {
    "date": "2026-09-03T18:12:18Z",
@@ -354,15 +364,7 @@
    "direction": "BUY",
    "primary_ticker": "DELL",
    "strength": 85,
-   "reason": "Trump explicitly endorsed DELL, stock spiked on his endorsement",
-   "price_since": {
-    "ticker": "DELL",
-    "pct": 1.5,
-    "base": 516.39,
-    "last": 524.14,
-    "base_date": "2026-09-03",
-    "last_date": "2026-09-04"
-   }
+   "reason": "Trump explicitly endorsed DELL, stock spiked on his endorsement"
   },
   {
    "date": "2026-09-03T17:28:51Z",
@@ -378,15 +380,7 @@
    "direction": "WATCH",
    "primary_ticker": "IBM",
    "strength": 45,
-   "reason": "IBM stock surging overnight but reason not specified; unclear if Trump-driven or unrelated catalyst",
-   "price_since": {
-    "ticker": "IBM",
-    "pct": 0.1,
-    "base": 234.71,
-    "last": 234.89,
-    "base_date": "2026-09-03",
-    "last_date": "2026-09-04"
-   }
+   "reason": "IBM stock surging overnight but reason not specified; unclear if Trump-driven or unrelated catalyst"
   },
   {
    "date": "2026-09-03T17:14:50Z",
@@ -418,15 +412,7 @@
    "direction": "BUY",
    "primary_ticker": "AAL",
    "strength": 35,
-   "reason": "Airline CEO praise in Oval Office suggests positive Trump administration sentiment toward airline sector.",
-   "price_since": {
-    "ticker": "AAL",
-    "pct": 1.2,
-    "base": 12.97,
-    "last": 13.13,
-    "base_date": "2026-09-03",
-    "last_date": "2026-09-04"
-   }
+   "reason": "Airline CEO praise in Oval Office suggests positive Trump administration sentiment toward airline sector."
   },
   {
    "date": "2026-09-03T16:39:56Z",
@@ -442,15 +428,7 @@
    "direction": "BUY",
    "primary_ticker": "AAL",
    "strength": 55,
-   "reason": "CEO praises Trump administration; potential regulatory/policy tailwind for airline",
-   "price_since": {
-    "ticker": "AAL",
-    "pct": 1.2,
-    "base": 12.97,
-    "last": 13.13,
-    "base_date": "2026-09-03",
-    "last_date": "2026-09-04"
-   }
+   "reason": "CEO praises Trump administration; potential regulatory/policy tailwind for airline"
   },
   {
    "date": "2026-09-03T16:31:07Z",
@@ -466,15 +444,7 @@
    "direction": "WATCH",
    "primary_ticker": "QQQ",
    "strength": 25,
-   "reason": "AI funding/PR push is macro AI-sector relevant but direction ambiguous; lobbying signal rather than concrete catalyst.",
-   "price_since": {
-    "ticker": "QQQ",
-    "pct": 0.2,
-    "base": 717.67,
-    "last": 718.96,
-    "base_date": "2026-09-03",
-    "last_date": "2026-09-04"
-   }
+   "reason": "AI funding/PR push is macro AI-sector relevant but direction ambiguous; lobbying signal rather than concrete catalyst."
   },
   {
    "date": "2026-09-03T16:31:07Z",
@@ -490,15 +460,7 @@
    "direction": "WATCH",
    "primary_ticker": "COIN",
    "strength": 45,
-   "reason": "AI companies urged to fund Trump; potential regulatory favoritism for AI/crypto; direction ambiguous",
-   "price_since": {
-    "ticker": "COIN",
-    "pct": -4.2,
-    "base": 192.7,
-    "last": 184.64,
-    "base_date": "2026-09-03",
-    "last_date": "2026-09-04"
-   }
+   "reason": "AI companies urged to fund Trump; potential regulatory favoritism for AI/crypto; direction ambiguous"
   },
   {
    "date": "2026-09-03T14:56:21.515Z",
@@ -515,15 +477,7 @@
    "direction": "BUY",
    "primary_ticker": "XAR",
    "strength": 60,
-   "reason": "Military munitions production ramp and stockpiling; strong bullish signal for defense sector.",
-   "price_since": {
-    "ticker": "XAR",
-    "pct": -0.4,
-    "base": 253.93,
-    "last": 252.92,
-    "base_date": "2026-09-03",
-    "last_date": "2026-09-04"
-   }
+   "reason": "Military munitions production ramp and stockpiling; strong bullish signal for defense sector."
   },
   {
    "date": "2026-09-03T14:05:00Z",
@@ -539,15 +493,7 @@
    "direction": "WATCH",
    "primary_ticker": "XLE",
    "strength": 35,
-   "reason": "Headline references rising oil prices context; no Trump-specific catalyst stated",
-   "price_since": {
-    "ticker": "XLE",
-    "pct": -0.9,
-    "base": 64.62,
-    "last": 64.06,
-    "base_date": "2026-09-03",
-    "last_date": "2026-09-04"
-   }
+   "reason": "Headline references rising oil prices context; no Trump-specific catalyst stated"
   },
   {
    "date": "2026-09-03T12:24:14Z",
@@ -563,15 +509,7 @@
    "direction": "BUY",
    "primary_ticker": "SPY",
    "strength": 30,
-   "reason": "Tax incentives for film production; modest positive signal for entertainment/production sector and general economic policy.",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": -0.4,
-    "base": 773.17,
-    "last": 770.19,
-    "base_date": "2026-09-03",
-    "last_date": "2026-09-04"
-   }
+   "reason": "Tax incentives for film production; modest positive signal for entertainment/production sector and general economic policy."
   },
   {
    "date": "2026-09-03T11:38:27Z",
@@ -587,15 +525,7 @@
    "direction": "BUY",
    "primary_ticker": "QQQ",
    "strength": 40,
-   "reason": "U.S. hands-off AI regulatory framework endorsed globally; bullish for unrestricted AI sector growth.",
-   "price_since": {
-    "ticker": "QQQ",
-    "pct": 0.2,
-    "base": 717.67,
-    "last": 718.96,
-    "base_date": "2026-09-03",
-    "last_date": "2026-09-04"
-   }
+   "reason": "U.S. hands-off AI regulatory framework endorsed globally; bullish for unrestricted AI sector growth."
   },
   {
    "date": "2026-09-03T10:36:38Z",
@@ -611,15 +541,7 @@
    "direction": "WATCH",
    "primary_ticker": "XLE",
    "strength": 35,
-   "reason": "Hormuz control claim affects oil/energy geopolitics; direction ambiguous",
-   "price_since": {
-    "ticker": "XLE",
-    "pct": -0.9,
-    "base": 64.62,
-    "last": 64.06,
-    "base_date": "2026-09-03",
-    "last_date": "2026-09-04"
-   }
+   "reason": "Hormuz control claim affects oil/energy geopolitics; direction ambiguous"
   },
   {
    "date": "2026-09-03T10:36:38Z",
@@ -2784,80 +2706,6 @@
     "pct": -0.3,
     "base": 7.95,
     "last": 7.93,
-    "base_date": "2026-08-31",
-    "last_date": "2026-09-01"
-   }
-  },
-  {
-   "date": "2026-08-30T22:03:48Z",
-   "platform": "News",
-   "text": "IBRX Stock Rallies Into Trump\u2019s Big SOTU Night \u2014 Here\u2019s What Traders Think Could Fuel The Next Move - Stocktwits \u2014 IBRX Stock Rallies Into Trump\u2019s Big SOTU Night \u2014 Here\u2019s What Traders Think Could Fuel The Next Move\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWFdFall2YVNMN3Rialp3SE9sU0h6YUQ1MDFiX2JaeXMxNlFFZUZveFU0TkVxUFI4cTQ5bW5VdkFlTDd1dFNwSUN2YTRtRl83aVRRXzZ6d09TeEhlR1NJb1JaMHlMWDhrQXpmZW40c1B1Y21KNjhxdm90Ny1uU3p4MzJZSW9GNGduMEdyRzFIU2RGLWlYWXg4TFJUU0N6ZlhFemxtUmprVXY0YkVRZk5vZHljazQ?oc=5",
-   "tickers": [
-    "IBRX"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "IBRX",
-   "strength": 55,
-   "reason": "IBRX rally on Trump policy support; biotech sentiment positive around SOTU",
-   "price_since": {
-    "ticker": "IBRX",
-    "pct": -0.5,
-    "base": 7.95,
-    "last": 7.91,
-    "base_date": "2026-08-31",
-    "last_date": "2026-09-01"
-   }
-  },
-  {
-   "date": "2026-08-30T18:26:25.271Z",
-   "platform": "Truth Social",
-   "text": "Let all Canadian Companies that are doing business with America move to the United States, immediately. Many of them are Companies that moved out years ago due to stupid U.S. Leadership. When you move back, there are no TARIFFS! President DONALD J. TRUMP",
-   "tickers": [
-    "SPY"
-   ],
-   "engagement": 6387,
-   "url": "https://truthsocial.com/@realDonaldTrump/117185864353206503",
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "SPY",
-   "strength": 45,
-   "reason": "Tariff exemption for Canadian companies relocating to US is pro-business/growth signal, but vague macro policy without specific catalyst.",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": -0.3,
-    "base": 767.05,
-    "last": 764.38,
-    "base_date": "2026-08-31",
-    "last_date": "2026-09-01"
-   }
-  },
-  {
-   "date": "2026-08-30T18:16:09.434Z",
-   "platform": "Truth Social",
-   "text": "When I announced that I was running in the 2024 Presidential Election, right at the beginning, Ford was getting ready to close their Big Factory, in Detroit. Then, because I was leading in the Polls, they figured they would leave it open a little longer to see what happened. Now it's running 24/7, and it's one of the most profitable Car Plants in the World! There are many other examples, for both Ford, General Motors, and others. I've revived, and indeed saved, the Automobile Business in our America. That's because of what I've done with TARIFFS. One of the Worst Abusers is Canada. I don't want Canadian cars, I don't want Canadian parts, I don't want Canadian anything. They've been ripping us off for decades, and it's going to stop. This should have happened long ago with other Presidents, just as stopping Iran should have happened long ago. They want to be treated like a State, but they aren't one. I deal with the Leadership of many Countries, but I find Canada to be the worst. They are entitled no longer! President DONALD J. TRUMP",
-   "tickers": [
-    "F"
-   ],
-   "engagement": 6239,
-   "url": "https://truthsocial.com/@realDonaldTrump/117185823993660126",
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "F",
-   "strength": 55,
-   "reason": "Trump credits tariffs and his leadership for reviving Ford auto plant to 24/7 profitable operation; bullish for auto sector, but claim is contested and macro/policy-based.",
-   "price_since": {
-    "ticker": "F",
-    "pct": 0.4,
-    "base": 13.94,
-    "last": 14.0,
     "base_date": "2026-08-31",
     "last_date": "2026-09-01"
    }
