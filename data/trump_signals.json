@@ -1,7 +1,39 @@
 {
- "last_updated": "2026-09-05T08:51:07Z",
+ "last_updated": "2026-09-05T12:26:00Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-09-05T09:43:25Z",
+   "platform": "News",
+   "text": "CRML, UUUU, USAR, ALOY, GLND: Greenland\u2019s Rare-Earth Trade Draws Investors As Trump Revives Arctic Ambitions - Stocktwits \u2014 CRML, UUUU, USAR, ALOY, GLND: Greenland\u2019s Rare-Earth Trade Draws Investors As Trump Revives Arctic Ambitions\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPS2w5bklfdmlQVG1ZZDgtRGo5QnlTdW5FZ3dWdnh3aGhJU1FoVHk3aW0tSUU5eDB3bmptb21TSmZvbkZSR2pDR0QydXJFNGV3MFVZWDRxV0YxYkV5R1FtVlVza1B0NU9teWNCN053QU1mNzJXbE83T1E1UElUN1VTZGpqOFBmLUJlbGJZYnRDYy1mYWpYY0dpNFh2OE01SnM1ZnRBall0MFVJTE9DcFJoRnR0NXd3cTQzZnhsdENCM2xrVm1HN00zYUQxRG1ScFo5U19TWG1rcDVuXzEteEhHVzhFQlNmeVhRZXF5UktfSkhYQ2IxNE9iVg?oc=5",
+   "tickers": [
+    "UUUU"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "UUUU",
+   "strength": 65,
+   "reason": "Trump revives Arctic/Greenland ambitions \u2192 rare-earth demand up, uranium explorers bullish"
+  },
+  {
+   "date": "2026-09-05T09:04:22Z",
+   "platform": "News",
+   "text": "Trump Says $800M Will Be Invested In Stock Market This Week For American Children As Trump Accounts Go Live - Stocktwits \u2014 Trump Says $800M Will Be Invested In Stock Market This Week For American Children As Trump Accounts Go Live\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNemVFZHVJdEo1TUFCNmNSZGFMRGJaaE5CVnl4LW1GVGs2cDFqNy1IcUtNZXpqT0NZUDAwTU56WU5BajYyVHVRZVdTd19RelMyMXhxaG5KdlVOZTQ5eFFRMFNIdGZBRGZxeXpMTjktZ3BVU2thb1oyWDJUZ1ZlZFJBQnRza0RieEdYeFNQdVVlWnBHNUlnY0xBTGo1bVpMZ1kzaFFCN1JGWlVxLWxveUFnQ2NmaG9jajRhMU9lN1Y1M3V5WWg2YzRnMw?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "SPY",
+   "strength": 35,
+   "reason": "$800M stock market investment program for children is macro-bullish sentiment, modest strength"
+  },
   {
    "date": "2026-09-05T04:25:03Z",
    "platform": "News",
@@ -17,6 +49,22 @@
    "primary_ticker": "MU",
    "strength": 65,
    "reason": "Micron commits $250M to Trump Accounts; positive sentiment toward MU, though commitment details unclear"
+  },
+  {
+   "date": "2026-09-05T04:15:55Z",
+   "platform": "News",
+   "text": "Nvidia\u2019s Monster Quarter Wins Praise From Elon Musk, \u2018Big Short\u2019 Investor And Ex-Trump Adviser As AI Bears Get \u2018Shredded\u2019 - Stocktwits \u2014 Nvidia\u2019s Monster Quarter Wins Praise From Elon Musk, \u2018Big Short\u2019 Investor And Ex-Trump Adviser As AI Bears Get \u2018Shredded\u2019\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZmNmckw5UFFDejdkd3p0bHRVS2E2NGUtYXcxdTctdmpSWFZudDQyVDliQ0Fwd2hKTV9PeWZXUXU2MzZnSnkxUURSQ3dDbDdaWjF3dHQ1REQ3TW1YTVcxcjBZZzBTTXl0bS1iTTR2M09MSDV2b2NRTFBfUFhIQkN5T25xV1M4STVld05xUlRfOHFPX2ZUQWJNbk43NmhaY2ljZ3ZJLXhPclN6UV9mQ3dSVWFQdnFpc2M?oc=5",
+   "tickers": [
+    "NVDA"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "NVDA",
+   "strength": 45,
+   "reason": "Nvidia's strong quarter praised by Elon Musk and Trump adviser is positive sentiment, but praise is indirect"
   },
   {
    "date": "2026-09-05T03:46:40Z",
@@ -425,7 +473,7 @@
     "ticker": "BTC-USD",
     "pct": -2.0,
     "base": 81271.74,
-    "last": 79618.27,
+    "last": 79683.73,
     "base_date": "2026-09-03",
     "last_date": "2026-09-05"
    }
@@ -835,30 +883,6 @@
     "pct": -5.3,
     "base": 9.52,
     "last": 9.02,
-    "base_date": "2026-09-03",
-    "last_date": "2026-09-04"
-   }
-  },
-  {
-   "date": "2026-09-03T07:19:23Z",
-   "platform": "News",
-   "text": "Trump Says $800M Will Be Invested In Stock Market This Week For American Children As Trump Accounts Go Live - Stocktwits \u2014 Trump Says $800M Will Be Invested In Stock Market This Week For American Children As Trump Accounts Go Live\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNemVFZHVJdEo1TUFCNmNSZGFMRGJaaE5CVnl4LW1GVGs2cDFqNy1IcUtNZXpqT0NZUDAwTU56WU5BajYyVHVRZVdTd19RelMyMXhxaG5KdlVOZTQ5eFFRMFNIdGZBRGZxeXpMTjktZ3BVU2thb1oyWDJUZ1ZlZFJBQnRza0RieEdYeFNQdVVlWnBHNUlnY0xBTGo1bVpMZ1kzaFFCN1JGWlVxLWxveUFnQ2NmaG9jajRhMU9lN1Y1M3V5WWg2YzRnMw?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "SPY",
-   "strength": 75,
-   "reason": "Trump announces $800M stock market investment for retail account holders, direct bullish signal",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": -0.4,
-    "base": 773.17,
-    "last": 770.19,
     "base_date": "2026-09-03",
     "last_date": "2026-09-04"
    }
@@ -1635,30 +1659,6 @@
     "pct": 0.4,
     "base": 141.15,
     "last": 141.66,
-    "base_date": "2026-09-02",
-    "last_date": "2026-09-03"
-   }
-  },
-  {
-   "date": "2026-09-02T01:47:23Z",
-   "platform": "News",
-   "text": "Nvidia\u2019s Monster Quarter Wins Praise From Elon Musk, \u2018Big Short\u2019 Investor And Ex-Trump Adviser As AI Bears Get \u2018Shredded\u2019 - Stocktwits \u2014 Nvidia\u2019s Monster Quarter Wins Praise From Elon Musk, \u2018Big Short\u2019 Investor And Ex-Trump Adviser As AI Bears Get \u2018Shredded\u2019\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZmNmckw5UFFDejdkd3p0bHRVS2E2NGUtYXcxdTctdmpSWFZudDQyVDliQ0Fwd2hKTV9PeWZXUXU2MzZnSnkxUURSQ3dDbDdaWjF3dHQ1REQ3TW1YTVcxcjBZZzBTTXl0bS1iTTR2M09MSDV2b2NRTFBfUFhIQkN5T25xV1M4STVld05xUlRfOHFPX2ZUQWJNbk43NmhaY2ljZ3ZJLXhPclN6UV9mQ3dSVWFQdnFpc2M?oc=5",
-   "tickers": [
-    "NVDA"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "NVDA",
-   "strength": 55,
-   "reason": "Nvidia's strong quarter praised by Musk and Trump adviser; bullish sentiment for semiconductor leader.",
-   "price_since": {
-    "ticker": "NVDA",
-    "pct": 2.5,
-    "base": 224.41,
-    "last": 229.93,
     "base_date": "2026-09-02",
     "last_date": "2026-09-03"
    }
@@ -2716,48 +2716,6 @@
     "base_date": "2026-08-31",
     "last_date": "2026-09-01"
    }
-  },
-  {
-   "date": "2026-08-31T00:26:05.013Z",
-   "platform": "Truth Social",
-   "text": "For many years, the USA has been losing more than 60 Billion Dollars a year with Canada. Why??? Our long ago stolen businesses are now coming back to America in order to avoid paying tariffs. They are lining up, just like the rest of the World!!! President DJT",
-   "tickers": [
-    "SPY"
-   ],
-   "engagement": 502,
-   "url": "https://truthsocial.com/@realDonaldTrump/117187278603098753",
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "SPY",
-   "strength": 45,
-   "reason": "Tariff threat on Canada drives companies back to US; bullish macro signal but vague on timing/magnitude",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": -0.7,
-    "base": 767.05,
-    "last": 761.53,
-    "base_date": "2026-08-31",
-    "last_date": "2026-09-01"
-   }
-  },
-  {
-   "date": "2026-08-30T18:26:25.271Z",
-   "platform": "Truth Social",
-   "text": "Let all Canadian Companies that are doing business with America move to the United States, immediately. Many of them are Companies that moved out years ago due to stupid U.S. Leadership. When you move back, there are no TARIFFS! President DONALD J. TRUMP",
-   "tickers": [
-    "SPY"
-   ],
-   "engagement": 21573,
-   "url": "https://truthsocial.com/@realDonaldTrump/117185864353206503",
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "SPY",
-   "strength": 70,
-   "reason": "Trump tariff exemption for Canadian firms moving to US is pro-growth/pro-onshoring policy; broadly bullish for US equities and manufacturing"
   },
   {
    "curated": true,
