@@ -1,7 +1,87 @@
 {
- "last_updated": "2026-09-05T00:19:10Z",
+ "last_updated": "2026-09-05T04:50:03Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-09-05T01:35:33Z",
+   "platform": "News",
+   "text": "WULF Stock Drops Despite Price Target Hikes From Wall Street On $19B Anthropic Lease - Stocktwits \u2014 WULF Stock Drops Despite Price Target Hikes From Wall Street On $19B Anthropic Lease\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZkNMOVRxOWRRS0YyQUl5S0JsbENGN3Y1Qy02RHE1eWNFblM1WVdmUWFsamloREdtWjZPQ3Y5VFU2cUFVakZOQ29lWG0waDJmS3pyZWFxbGpLYW5IaTNjV2ZWajBIaXA4cnV0LUEwSG5aOWFxOVRtZ3dfS0Y4SXR3OFBpekRJVEpHZmxNRVhUSUtaWF9ocnkzY3ZwOExuT3h3dTlsM2VCN2FuTVllSnBsMk5QRHNUZw?oc=5",
+   "tickers": [
+    "WULF"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "WULF",
+   "strength": 25,
+   "reason": "Anthropic lease deal affects WULF; mixed signal (price targets up, stock down) warrants caution"
+  },
+  {
+   "date": "2026-09-05T01:11:00Z",
+   "platform": "News",
+   "text": "Why Is IBM Stock Surging Nearly 7% Higher In Overnight Trading? - Stocktwits \u2014 Why Is IBM Stock Surging Nearly 7% Higher In Overnight Trading?\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQk9pekpVQ1Q1NnRyVEdqWjdJN29OTFpDY3Rkc08wdG96eTdtMHRzVVRmUFItUlRQQS11WXBWZFpHWU50d3hoRHBENXM2eGhKMF9QZF9qb3ZQT2pXREgyU1pTMzBFU0JGZ0lOTk90VlU4YURiV3I1LWtPdTVzZDZRbUZGWEUySWxkZXg1a2dzYVVTVUpsOU1Yc25qQ2U4OE9tX1MtbEZFNDZDalpaS2JlbndvcnYyUU1Ca0E2cGxqMi02S2s?oc=5",
+   "tickers": [
+    "IBM"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "IBM",
+   "strength": 30,
+   "reason": "IBM overnight surge but no Trump catalyst mentioned; insufficient info to attribute to Trump action"
+  },
+  {
+   "date": "2026-09-05T00:35:57Z",
+   "platform": "News",
+   "text": "NOK Stock Rises Pre-Market: Trump Endorsement Adds Fuel To AI Growth Push For Nokia - Stocktwits \u2014 NOK Stock Rises Pre-Market: Trump Endorsement Adds Fuel To AI Growth Push For Nokia\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNaVBkeHg0Vi02NWZ0Tlp5bGh2bjdYaC10MUFVamtBcTFCbjByT05oVmIyeUJQSzFMVGZSLXpFdkd0NVVIMHY3UzNqOFFIQ3FvakVucnM4dms0VXZHQTdlSnJkTXpqdVVJclpEU2lEUUtKYTloWjFFRU5Db2cteVF5UGxkd05LakNaMWZpa1UtaVdodVVIU1I1Vkxjb0kyTG52eFVUaHdkR3Rjb0l4MmpQT2ZMTW5HWWNFdTA2elZuN3ZCckxMa2VrS0FXZm9VNUJWSDBSU2RDMV9WNkJmajVJ?oc=5",
+   "tickers": [
+    "NOK"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "NOK",
+   "strength": 65,
+   "reason": "Trump endorsement of Nokia cited; explicit praise for AI growth push"
+  },
+  {
+   "date": "2026-09-04T23:50:48Z",
+   "platform": "News",
+   "text": "Trump Says China Has Not Approved NVDA H200 Chip Purchases Yet \u2014 'They Want To Develop Their Own' - Stocktwits \u2014 Trump Says China Has Not Approved NVDA H200 Chip Purchases Yet \u2014 'They Want To Develop Their Own'\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZ2oxZ3ZfNVpTWGQwLTY3T0xzazUxbWY2a3ZreDlRRGE0ZHQxbmNRR29RSm11VXBPajBkd1V1M0VhRUJvVUp0V2lfM3ladmswQ2hMWGlsUjY5RE1ERXR0LTBwN2JLYTBNUk1GRC1QbjktYTlkeTU5MlgteEpYeURwZmhaR2NjUUJMVWs5SGVnbm9uTEZ2dkdmSmVVdzctQ0I3clJZZFM1YnVqbkd1RG9kQlpXUjY?oc=5",
+   "tickers": [
+    "NVDA"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "NVDA",
+   "strength": 50,
+   "reason": "China chip purchase restrictions imply reduced NVDA sales to China"
+  },
+  {
+   "date": "2026-09-04T23:27:07Z",
+   "platform": "News",
+   "text": "PLTR Stock Faces Split Narrative: Retail Bulls Hold Firm As Burry Sounds Alarm, Trump Signals Support - Stocktwits \u2014 PLTR Stock Faces Split Narrative: Retail Bulls Hold Firm As Burry Sounds Alarm, Trump Signals Support\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSFRDSVNMdHk3NEtMbFEwQ1ZRT2tLY3h1cEFvOTVjb182Qm1QUnVqTlE2dWhzYXZpaXBoN3gyNlg4dWVWY0dldndhRDZoOGE2N2ZSMTgxb1Ayb0RWanA3a0hEeEhKWGtYRENBSGZ0d0wySmlrSWpzM1BmcXZpTUdDOXcwMVl0NXVKYjMyOEFvYmVpYk9uOVRSaWdleVNEQnZkZk1tUE5vRURtNjdubE0wTUhLSFFUbGc3OUs5UVpJQXhVTHdZLTdLTmZDQVkxMUVwd3c?oc=5",
+   "tickers": [
+    "PLTR"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "PLTR",
+   "strength": 60,
+   "reason": "Trump signals support for Palantir; explicit endorsement"
+  },
   {
    "date": "2026-09-04T22:27:05.922Z",
    "platform": "Truth Social",
@@ -231,22 +311,6 @@
    "reason": "Trump sentiment risk toward Fox News; potential negative pressure on stock"
   },
   {
-   "date": "2026-09-04T01:36:26Z",
-   "platform": "News",
-   "text": "WULF Stock Drops Despite Price Target Hikes From Wall Street On $19B Anthropic Lease - Stocktwits \u2014 WULF Stock Drops Despite Price Target Hikes From Wall Street On $19B Anthropic Lease\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZkNMOVRxOWRRS0YyQUl5S0JsbENGN3Y1Qy02RHE1eWNFblM1WVdmUWFsamloREdtWjZPQ3Y5VFU2cUFVakZOQ29lWG0waDJmS3pyZWFxbGpLYW5IaTNjV2ZWajBIaXA4cnV0LUEwSG5aOWFxOVRtZ3dfS0Y4SXR3OFBpekRJVEpHZmxNRVhUSUtaWF9ocnkzY3ZwOExuT3h3dTlsM2VCN2FuTVllSnBsMk5QRHNUZw?oc=5",
-   "tickers": [
-    "WULF"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "WULF",
-   "strength": 40,
-   "reason": "Large Anthropic data-center lease is bullish for infrastructure but stock fell; market sentiment unclear"
-  },
-  {
    "date": "2026-09-04T01:10:24Z",
    "platform": "News",
    "text": "Why Did PANW, AAL, MRNA Surge To 52-Week Highs? - Stocktwits \u2014 Why Did PANW, AAL, MRNA Surge To 52-Week Highs?\u00a0\u00a0Stocktwits",
@@ -295,9 +359,9 @@
    "reason": "Trump family bullish bitcoin call signals crypto upside",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": -2.0,
+    "pct": -2.1,
     "base": 81271.74,
-    "last": 79658.04,
+    "last": 79570.99,
     "base_date": "2026-09-03",
     "last_date": "2026-09-05"
    }
@@ -316,7 +380,15 @@
    "direction": "BUY",
    "primary_ticker": "ITA",
    "strength": 65,
-   "reason": "100% tariffs on imports protective of domestic drone manufacturers; sector bullish"
+   "reason": "100% tariffs on imports protective of domestic drone manufacturers; sector bullish",
+   "price_since": {
+    "ticker": "ITA",
+    "pct": -0.2,
+    "base": 225.98,
+    "last": 225.61,
+    "base_date": "2026-09-03",
+    "last_date": "2026-09-04"
+   }
   },
   {
    "date": "2026-09-03T20:14:27Z",
@@ -332,7 +404,15 @@
    "direction": "BUY",
    "primary_ticker": "HOOD",
    "strength": 45,
-   "reason": "Bullish analyst upgrade and Cramer call on Robinhood; isolated analyst sentiment, not Trump-driven"
+   "reason": "Bullish analyst upgrade and Cramer call on Robinhood; isolated analyst sentiment, not Trump-driven",
+   "price_since": {
+    "ticker": "HOOD",
+    "pct": -2.1,
+    "base": 124.72,
+    "last": 122.11,
+    "base_date": "2026-09-03",
+    "last_date": "2026-09-04"
+   }
   },
   {
    "date": "2026-09-03T18:18:07Z",
@@ -348,7 +428,15 @@
    "direction": "SELL",
    "primary_ticker": "FOXA",
    "strength": 35,
-   "reason": "Bartiromo departure signals Trump/Fox News tension; negative for Fox valuation"
+   "reason": "Bartiromo departure signals Trump/Fox News tension; negative for Fox valuation",
+   "price_since": {
+    "ticker": "FOXA",
+    "pct": -3.4,
+    "base": 67.71,
+    "last": 65.42,
+    "base_date": "2026-09-03",
+    "last_date": "2026-09-04"
+   }
   },
   {
    "date": "2026-09-03T18:12:18Z",
@@ -364,23 +452,15 @@
    "direction": "BUY",
    "primary_ticker": "DELL",
    "strength": 85,
-   "reason": "Trump explicitly endorsed DELL, stock spiked on his endorsement"
-  },
-  {
-   "date": "2026-09-03T17:28:51Z",
-   "platform": "News",
-   "text": "Why Is IBM Stock Surging Nearly 7% Higher In Overnight Trading? - Stocktwits \u2014 Why Is IBM Stock Surging Nearly 7% Higher In Overnight Trading?\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQk9pekpVQ1Q1NnRyVEdqWjdJN29OTFpDY3Rkc08wdG96eTdtMHRzVVRmUFItUlRQQS11WXBWZFpHWU50d3hoRHBENXM2eGhKMF9QZF9qb3ZQT2pXREgyU1pTMzBFU0JGZ0lOTk90VlU4YURiV3I1LWtPdTVzZDZRbUZGWEUySWxkZXg1a2dzYVVTVUpsOU1Yc25qQ2U4OE9tX1MtbEZFNDZDalpaS2JlbndvcnYyUU1Ca0E2cGxqMi02S2s?oc=5",
-   "tickers": [
-    "IBM"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "IBM",
-   "strength": 45,
-   "reason": "IBM stock surging overnight but reason not specified; unclear if Trump-driven or unrelated catalyst"
+   "reason": "Trump explicitly endorsed DELL, stock spiked on his endorsement",
+   "price_since": {
+    "ticker": "DELL",
+    "pct": 1.5,
+    "base": 516.39,
+    "last": 524.14,
+    "base_date": "2026-09-03",
+    "last_date": "2026-09-04"
+   }
   },
   {
    "date": "2026-09-03T17:14:50Z",
@@ -399,6 +479,30 @@
    "reason": "Pentagon ban on Anthropic despite Lutnick remarks; direct bearish signal for AI company"
   },
   {
+   "date": "2026-09-03T17:06:01Z",
+   "platform": "News",
+   "text": "Trump Praises U.S. Strikes, Claims Control of Hormuz - WSJ \u2014 Trump Praises U.S. Strikes, Claims Control of Hormuz\u00a0\u00a0WSJ",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZl8yUlFPTS1mVzVfZlgwWkJKMnhXeG1FYmt0NkttZnVSUms1Tkxoa2tMdWxrazIxSE9YZzhTREdyeHZzam5ZeVpBTXBBSkhWSUx0Szc3VzVKSUJZMjlVcEdkbG5wNFBTM2cxSW93ZE9iMl9BNTFPVDVHU2pJXzMtQW1VVGRMNUpiQzIzQlNYd2lzRFhLNExhRWRnWEFuTXRfNmxpbzEwRFYwZTUyTEp6RHRn?oc=5",
+   "tickers": [
+    "XAR"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "XAR",
+   "strength": 50,
+   "reason": "U.S. military strikes and geopolitical posturing support defense sector momentum.",
+   "price_since": {
+    "ticker": "XAR",
+    "pct": -0.4,
+    "base": 253.93,
+    "last": 252.92,
+    "base_date": "2026-09-03",
+    "last_date": "2026-09-04"
+   }
+  },
+  {
    "date": "2026-09-03T16:39:56Z",
    "platform": "News",
    "text": "American Airlines CEO Lavishes Praise On Trump In Oval Office, And The White House Loves It - Live and Let's Fly \u2014 American Airlines CEO Lavishes Praise On Trump In Oval Office, And The White House Loves It\u00a0\u00a0Live and Let's Fly",
@@ -412,7 +516,15 @@
    "direction": "BUY",
    "primary_ticker": "AAL",
    "strength": 35,
-   "reason": "Airline CEO praise in Oval Office suggests positive Trump administration sentiment toward airline sector."
+   "reason": "Airline CEO praise in Oval Office suggests positive Trump administration sentiment toward airline sector.",
+   "price_since": {
+    "ticker": "AAL",
+    "pct": 1.2,
+    "base": 12.97,
+    "last": 13.13,
+    "base_date": "2026-09-03",
+    "last_date": "2026-09-04"
+   }
   },
   {
    "date": "2026-09-03T16:39:56Z",
@@ -428,7 +540,15 @@
    "direction": "BUY",
    "primary_ticker": "AAL",
    "strength": 55,
-   "reason": "CEO praises Trump administration; potential regulatory/policy tailwind for airline"
+   "reason": "CEO praises Trump administration; potential regulatory/policy tailwind for airline",
+   "price_since": {
+    "ticker": "AAL",
+    "pct": 1.2,
+    "base": 12.97,
+    "last": 13.13,
+    "base_date": "2026-09-03",
+    "last_date": "2026-09-04"
+   }
   },
   {
    "date": "2026-09-03T16:31:07Z",
@@ -526,22 +646,6 @@
    "primary_ticker": "QQQ",
    "strength": 40,
    "reason": "U.S. hands-off AI regulatory framework endorsed globally; bullish for unrestricted AI sector growth."
-  },
-  {
-   "date": "2026-09-03T10:36:38Z",
-   "platform": "News",
-   "text": "Trump Praises U.S. Strikes, Claims Control of Hormuz - WSJ \u2014 Trump Praises U.S. Strikes, Claims Control of Hormuz\u00a0\u00a0WSJ",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZl8yUlFPTS1mVzVfZlgwWkJKMnhXeG1FYmt0NkttZnVSUms1Tkxoa2tMdWxrazIxSE9YZzhTREdyeHZzam5ZeVpBTXBBSkhWSUx0Szc3VzVKSUJZMjlVcEdkbG5wNFBTM2cxSW93ZE9iMl9BNTFPVDVHU2pJXzMtQW1VVGRMNUpiQzIzQlNYd2lzRFhLNExhRWRnWEFuTXRfNmxpbzEwRFYwZTUyTEp6RHRn?oc=5",
-   "tickers": [
-    "XLE"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "XLE",
-   "strength": 35,
-   "reason": "Hormuz control claim affects oil/energy geopolitics; direction ambiguous"
   },
   {
    "date": "2026-09-03T10:36:38Z",
@@ -1778,30 +1882,6 @@
    }
   },
   {
-   "date": "2026-09-01T11:55:12Z",
-   "platform": "News",
-   "text": "PLTR Stock Faces Split Narrative: Retail Bulls Hold Firm As Burry Sounds Alarm, Trump Signals Support - Stocktwits \u2014 PLTR Stock Faces Split Narrative: Retail Bulls Hold Firm As Burry Sounds Alarm, Trump Signals Support\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSFRDSVNMdHk3NEtMbFEwQ1ZRT2tLY3h1cEFvOTVjb182Qm1QUnVqTlE2dWhzYXZpaXBoN3gyNlg4dWVWY0dldndhRDZoOGE2N2ZSMTgxb1Ayb0RWanA3a0hEeEhKWGtYRENBSGZ0d0wySmlrSWpzM1BmcXZpTUdDOXcwMVl0NXVKYjMyOEFvYmVpYk9uOVRSaWdleVNEQnZkZk1tUE5vRURtNjdubE0wTUhLSFFUbGc3OUs5UVpJQXhVTHdZLTdLTmZDQVkxMUVwd3c?oc=5",
-   "tickers": [
-    "PLTR"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "PLTR",
-   "strength": 50,
-   "reason": "Trump signals support for Palantir amid mixed analyst sentiment",
-   "price_since": {
-    "ticker": "PLTR",
-    "pct": 1.0,
-    "base": 179.92,
-    "last": 181.73,
-    "base_date": "2026-09-01",
-    "last_date": "2026-09-03"
-   }
-  },
-  {
    "date": "2026-09-01T09:54:48Z",
    "platform": "News",
    "text": "Stock Market Today: S&P 500, Dow Futures Drop After Trump Says Iran Is 'Totally Defeated', Brent Tops $92 \u2014 CBRS, PXS, PANW, DELL in Focus - TradingView \u2014 Stock Market Today: S&P 500, Dow Futures Drop After Trump Says Iran Is 'Totally Defeated', Brent Tops $92 \u2014 CBRS, PXS, PANW, DELL in Focus\u00a0\u00a0TradingView",
@@ -1845,30 +1925,6 @@
     "pct": 0.4,
     "base": 185.5,
     "last": 186.32,
-    "base_date": "2026-09-01",
-    "last_date": "2026-09-02"
-   }
-  },
-  {
-   "date": "2026-09-01T05:21:44Z",
-   "platform": "News",
-   "text": "NOK Stock Rises Pre-Market: Trump Endorsement Adds Fuel To AI Growth Push For Nokia - Stocktwits \u2014 NOK Stock Rises Pre-Market: Trump Endorsement Adds Fuel To AI Growth Push For Nokia\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNaVBkeHg0Vi02NWZ0Tlp5bGh2bjdYaC10MUFVamtBcTFCbjByT05oVmIyeUJQSzFMVGZSLXpFdkd0NVVIMHY3UzNqOFFIQ3FvakVucnM4dms0VXZHQTdlSnJkTXpqdVVJclpEU2lEUUtKYTloWjFFRU5Db2cteVF5UGxkd05LakNaMWZpa1UtaVdodVVIU1I1Vkxjb0kyTG52eFVUaHdkR3Rjb0l4MmpQT2ZMTW5HWWNFdTA2elZuN3ZCckxMa2VrS0FXZm9VNUJWSDBSU2RDMV9WNkJmajVJ?oc=5",
-   "tickers": [
-    "NOK"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "NOK",
-   "strength": 65,
-   "reason": "Trump endorsement of Nokia explicitly named; AI/growth bullish for NOK",
-   "price_since": {
-    "ticker": "NOK",
-    "pct": -0.9,
-    "base": 9.93,
-    "last": 9.84,
     "base_date": "2026-09-01",
     "last_date": "2026-09-02"
    }
@@ -2308,30 +2364,6 @@
    "reason": "Trump directly asks Congress to pass crypto bill; explicit pro-crypto policy push; bullish for crypto assets and DJT"
   },
   {
-   "date": "2026-08-31T15:19:57Z",
-   "platform": "News",
-   "text": "Trump Says China Has Not Approved NVDA H200 Chip Purchases Yet \u2014 'They Want To Develop Their Own' - Stocktwits \u2014 Trump Says China Has Not Approved NVDA H200 Chip Purchases Yet \u2014 'They Want To Develop Their Own'\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZ2oxZ3ZfNVpTWGQwLTY3T0xzazUxbWY2a3ZreDlRRGE0ZHQxbmNRR29RSm11VXBPajBkd1V1M0VhRUJvVUp0V2lfM3ladmswQ2hMWGlsUjY5RE1ERXR0LTBwN2JLYTBNUk1GRC1QbjktYTlkeTU5MlgteEpYeURwZmhaR2NjUUJMVWs5SGVnbm9uTEZ2dkdmSmVVdzctQ0I3clJZZFM1YnVqbkd1RG9kQlpXUjY?oc=5",
-   "tickers": [
-    "NVDA"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "SELL",
-   "primary_ticker": "NVDA",
-   "strength": 65,
-   "reason": "Trump reports China blocking H200 chip sales; negative for Nvidia exports",
-   "price_since": {
-    "ticker": "NVDA",
-    "pct": -1.5,
-    "base": 220.78,
-    "last": 217.44,
-    "base_date": "2026-08-31",
-    "last_date": "2026-09-01"
-   }
-  },
-  {
    "date": "2026-08-31T14:57:45Z",
    "platform": "News",
    "text": "IBM Stock Rallies On Trump Administration\u2019s $1B Grant: Analysts Say \u2018Big Blue\u2019 Could Become First US Quantum Foundry - Stocktwits \u2014 IBM Stock Rallies On Trump Administration\u2019s $1B Grant: Analysts Say \u2018Big Blue\u2019 Could Become First US Quantum Foundry\u00a0\u00a0Stocktwits",
@@ -2682,30 +2714,6 @@
     "pct": -0.7,
     "base": 767.05,
     "last": 761.53,
-    "base_date": "2026-08-31",
-    "last_date": "2026-09-01"
-   }
-  },
-  {
-   "date": "2026-08-30T22:09:36Z",
-   "platform": "News",
-   "text": "IBRX Stock Rally Not Over Yet? Chairman Says Trump Diplomacy Led To \u2018Amazing Results\u2019 For Cancer Drug - Stocktwits \u2014 IBRX Stock Rally Not Over Yet? Chairman Says Trump Diplomacy Led To \u2018Amazing Results\u2019 For Cancer Drug\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOcVFTb3RQWTZrUG9ONVN6MEVNSk54ckxoS1E2bWNXQmRjRWIxaURpT1lyY3ItODk1LXRGb0MyeWtSMERnRmpmNHpha1JPZWZWa1NUWmNkOGJNbjJiTWMtRm52djZJZTVhQUVmNDVHTUE0N1RtN2M5ZmxMSE9RbVVUTi1vZENNdHhTZWJ6eDFlZXhIUFI0Nm5rLTZYWUIwblZCaXRHYlhyd3Zpa25XcWUtbTNEdGVXelpqcVN0eDBZZ3RMajBVZjdxaVJYV3E4V2lMNnlUODhYMzdTR1h4NFRGWlQ4b01SNDluNEZvZXJjT29pTXpj?oc=5",
-   "tickers": [
-    "IBRX"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "IBRX",
-   "strength": 60,
-   "reason": "Trump diplomacy credited with cancer drug approvals; tailwind for biotech company",
-   "price_since": {
-    "ticker": "IBRX",
-    "pct": -0.3,
-    "base": 7.95,
-    "last": 7.93,
     "base_date": "2026-08-31",
     "last_date": "2026-09-01"
    }
