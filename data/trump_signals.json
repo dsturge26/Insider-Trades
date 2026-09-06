@@ -1,7 +1,40 @@
 {
- "last_updated": "2026-09-06T10:48:03Z",
+ "last_updated": "2026-09-06T13:58:45Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-09-06T13:10:13.213Z",
+   "platform": "Truth Social",
+   "text": "Canada's (currency) Dollar imbalance with the U.S. is unacceptable. It has been that way for years - but no longer! President DJT",
+   "tickers": [
+    "FXC"
+   ],
+   "engagement": 2773,
+   "url": "https://truthsocial.com/@realDonaldTrump/117224257173061934",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "FXC",
+   "strength": 35,
+   "reason": "Canadian dollar weakness implied by Trump's criticism of CAD imbalance; bearish for CAD."
+  },
+  {
+   "date": "2026-09-06T01:54:26Z",
+   "platform": "News",
+   "text": "TSLA Stock Slips Premarket: Musk Joins Trump\u2019s China Trip As FSD Delays Threaten Tesla\u2019s Biggest Factory - stocktwits.com \u2014 TSLA Stock Slips Premarket: Musk Joins Trump\u2019s China Trip As FSD Delays Threaten Tesla\u2019s Biggest Factory\u00a0\u00a0stocktwits.com",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVHl5OGJHalFWTEM0d0l2LXRjLVJ6QTVjV0t3a3J6YkxkMF9fT2ZGU2VkNGl2NGpEc0NxMjV0SkRHMDhQUWJVTXZUOTVFeVdfb1I4dDBzV25yNWc2UlRsaGpIb1h0dXZIcVMyUXNQZ0FUd01vMmVPQmd2NDBkMy0tV2E1TGs2emp0Xy1iMHA0Z21ISDNpSTFOQzRKRjZGSGhZQ21vY2R0dzZfbEVnOWh4VzhtRnVoWnRJRXMwblQ0VFdJRzVKWnAyOExR?oc=5",
+   "tickers": [
+    "TSLA"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "TSLA",
+   "strength": 45,
+   "reason": "FSD delays and China trip uncertainty threaten Tesla's largest factory; near-term bearish."
+  },
   {
    "date": "2026-09-06T01:26:42Z",
    "platform": "News",
@@ -35,6 +68,22 @@
    "reason": "Trump administration awards IBM $1B federal grant for quantum foundry; direct bullish catalyst"
   },
   {
+   "date": "2026-09-06T01:16:01Z",
+   "platform": "News",
+   "text": "IBM Stock Rallies On Trump Administration\u2019s $1B Grant: Analysts Say \u2018Big Blue\u2019 Could Become First US Quantum Foundry - stocktwits.com \u2014 IBM Stock Rallies On Trump Administration\u2019s $1B Grant: Analysts Say \u2018Big Blue\u2019 Could Become First US Quantum Foundry\u00a0\u00a0stocktwits.com",
+   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOVG52c0VBRjZ6TzVuLThuSWdTN3NxMlIzUEc0aWVkUllDZDJMSVVMRlo1Rkgxb1Rja2swU1JlcVhlbmg4ejlfeGJoRGkzVG1VSEM4ZC1McWtGQnNVYklYVjYwQVliTHRoX3NqZDJZV0dlQ2NTaC1NaHhFaVAtdmVjdzVGcFhSangwdDluaTltYXZ3TXhaWWxISmlPREpkQ0N2VHdEMENJUkpDaDBGcUhSdXFZdExXbkhPaENSWlAxbVhPS3EyTnoyc3NoX2RpOXNqeEFYaFhhaGYxQUxRaWR0QUJwQ0J5VmhBY3ZpOV9YMVNjeUZlRHRzVXBLS3BpSER4VXpVWTVsYS1aZw?oc=5",
+   "tickers": [
+    "IBM"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "IBM",
+   "strength": 75,
+   "reason": "Trump administration awards $1B federal quantum grant to IBM; direct bullish catalyst."
+  },
+  {
    "date": "2026-09-06T00:29:55Z",
    "platform": "News",
    "text": "NOK Stock Rises Pre-Market: Trump Endorsement Adds Fuel To AI Growth Push For Nokia - Stocktwits \u2014 NOK Stock Rises Pre-Market: Trump Endorsement Adds Fuel To AI Growth Push For Nokia\u00a0\u00a0Stocktwits",
@@ -49,6 +98,22 @@
    "primary_ticker": "NOK",
    "strength": 70,
    "reason": "Trump endorsement of Nokia's AI growth push named explicitly; direct positive signal"
+  },
+  {
+   "date": "2026-09-06T00:29:55Z",
+   "platform": "News",
+   "text": "NOK Stock Rises Pre-Market: Trump Endorsement Adds Fuel To AI Growth Push For Nokia - stocktwits.com \u2014 NOK Stock Rises Pre-Market: Trump Endorsement Adds Fuel To AI Growth Push For Nokia\u00a0\u00a0stocktwits.com",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNaVBkeHg0Vi02NWZ0Tlp5bGh2bjdYaC10MUFVamtBcTFCbjByT05oVmIyeUJQSzFMVGZSLXpFdkd0NVVIMHY3UzNqOFFIQ3FvakVucnM4dms0VXZHQTdlSnJkTXpqdVVJclpEU2lEUUtKYTloWjFFRU5Db2cteVF5UGxkd05LakNaMWZpa1UtaVdodVVIU1I1Vkxjb0kyTG52eFVUaHdkR3Rjb0l4MmpQT2ZMTW5HWWNFdTA2elZuN3ZCckxMa2VrS0FXZm9VNUJWSDBSU2RDMV9WNkJmajVJ?oc=5",
+   "tickers": [
+    "NOK"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "NOK",
+   "strength": 60,
+   "reason": "Trump endorsement of Nokia for AI growth; explicit named-company praise."
   },
   {
    "date": "2026-09-05T23:42:26Z",
@@ -67,6 +132,22 @@
    "reason": "Memory chip stocks sliding as rally fades; sector weakness, no Trump-specific driver"
   },
   {
+   "date": "2026-09-05T23:42:26Z",
+   "platform": "News",
+   "text": "MU, SNDK, STX, WDC Stocks Extend Slide Overnight As Memory Pump Fades: Retail Traders Hopeful For Rebound - stocktwits.com \u2014 MU, SNDK, STX, WDC Stocks Extend Slide Overnight As Memory Pump Fades: Retail Traders Hopeful For Rebound\u00a0\u00a0stocktwits.com",
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPb0VPUHFyT3dNU1BkR3RTbUZ5dENaV0tfUUViMzZzVDJDcXZFVWdxZ1Raa3N4SkFYX0E3enVNUzdxN193Q1lkUVVfdUtqNkhJelJLUkwzVmhMYUEtWDBsRmw4LV9mQmVCQlMyUFJ2a3lZT0Z1QWF3clF0eUtPa2JsMDJGT3pJcEdiNVpTWHFobGxIUlRCeEV5N1dYQUp5LV9Pbjlyc1FNeS03OGhUZTViX29RTmM5d1BpalVIWDNTUDFja2lRb1FnY19pSi0zRXozSUNzaUJKS0tpdFcwa0NWbG94dzBvWnItOHF1dVNQM29Kc2h1SF9FUg?oc=5",
+   "tickers": [
+    "SMH"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "SMH",
+   "strength": 40,
+   "reason": "Memory chip stocks (MU, SNDK, STX, WDC) extend slide; sector weakness."
+  },
+  {
    "date": "2026-09-05T23:33:13Z",
    "platform": "News",
    "text": "MU Stock Eases After Record Run: Micron Backs Trump Accounts With $250M Commitment - Stocktwits \u2014 MU Stock Eases After Record Run: Micron Backs Trump Accounts With $250M Commitment\u00a0\u00a0Stocktwits",
@@ -81,6 +162,38 @@
    "primary_ticker": "MU",
    "strength": 45,
    "reason": "Micron backs Trump accounts with $250M commitment; bullish support but mixed with stock easing after run"
+  },
+  {
+   "date": "2026-09-05T23:33:13Z",
+   "platform": "News",
+   "text": "MU Stock Eases After Record Run: Micron Backs Trump Accounts With $250M Commitment - stocktwits.com \u2014 MU Stock Eases After Record Run: Micron Backs Trump Accounts With $250M Commitment\u00a0\u00a0stocktwits.com",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPVDE3TEpTVWtjT281REUwbWFGQzN0ZHpWNnU1UlpVRWRYMDExdzEyRVZ1MHlpbDd6V3ZFNjlmUVRyYXlabHpkVUpSejJmb3p5bF9mbkpobEpQanF5bzM2NjNpcDZ5N01rOEYyeDZvLTRZc0xIeG9xaEpESjc0bERrUTQwbTRMcXdCUHE0N0UzaTNoZFd2ZTU1Qk5JaDlMOG1GUG1icU9SMU9ja0Y5c21SUEcwN2EyYVpRUFQxY1JqOUZBeUJZT2QyYVppalpTSnhSUER1M0pMcjlLRG5YeVE?oc=5",
+   "tickers": [
+    "MU"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "MU",
+   "strength": 35,
+   "reason": "Micron's $250M Trump account commitment is supportive but stock easing after run suggests mixed signals."
+  },
+  {
+   "date": "2026-09-05T23:13:34Z",
+   "platform": "News",
+   "text": "KEEL Stock Jumps Onto Retail Radar As Investors Eye First Data Center Lease Announcement - stocktwits.com \u2014 KEEL Stock Jumps Onto Retail Radar As Investors Eye First Data Center Lease Announcement\u00a0\u00a0stocktwits.com",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVHpiUDN5T2I5aVFzNkpxZGZjdUJEVG0xLXN0c3pVRWo2REVuRGNZTFpvLXJTT2luZVhnTC1iVmFtcFYxbkpnanphZ3E0N0ExWmx5UGh4cGw2QmRiQXl3RG81OWlKRnEwOHVHT0FWdXlGd2VIZVhjM1k2TTU0THctQ3cyUVhNNG9JcGJQMlhPVHdWbkFVSVpfR25lNzVCMTJ4cGZRR05JcnR2SWFvSGc1VnYyMzFMMnFDLURZLW5pMGk3UUwyWktaVVNmZUdDZ21QZGQ0bEZfU0o1LXRvREhFd3h2NXBTMjQ?oc=5",
+   "tickers": [
+    "KEEL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "KEEL",
+   "strength": 40,
+   "reason": "Data center lease announcement amid Trump AI/infrastructure push; retail interest but unclear catalyst."
   },
   {
    "date": "2026-09-05T22:22:35Z",
@@ -99,6 +212,38 @@
    "reason": "Trump stake in ServiceNow disclosed; explicit ownership signal driving retail interest and bullish read"
   },
   {
+   "date": "2026-09-05T22:22:35Z",
+   "platform": "News",
+   "text": "NOW Stock Rises Overnight: Trump\u2019s ServiceNow Stake Fuels Retail Buzz Around SAAS Comeback - stocktwits.com \u2014 NOW Stock Rises Overnight: Trump\u2019s ServiceNow Stake Fuels Retail Buzz Around SAAS Comeback\u00a0\u00a0stocktwits.com",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQcEF0OFRRa3hIWF9rS21NMTBqNk53MDA4eWFQcDJad1Z2QkQyTTdmd3prLUVaVUUwdVRSWWpCOGs3N3JaYTZCcG1KMjg1c1Q0WWdjSnlWbHkteXVxcnFoUXFZMEg4ejh0YjA4ZG5BRnBEX1huMFNaS0dXdEx4LWNEOXBLcmNpMzlCQzc1OC0yRDFKeWFMWEZzWUpNQXBWTFFDQlJ6dmFWamU5cUpFZnVfcU1ocFdTa0tfdjByTlZZUHo4QUx1QzJOMHpzZEdaZjdqSVhoWFB0cVRKZW9BbnNLMi1XYUF2MlhaZGc?oc=5",
+   "tickers": [
+    "NOW"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "NOW",
+   "strength": 55,
+   "reason": "Trump personal stake in ServiceNow fuels bullish retail sentiment; implicit endorsement."
+  },
+  {
+   "date": "2026-09-05T22:14:38Z",
+   "platform": "News",
+   "text": "UNH Stock Becomes Dow\u2019s Biggest Driver Back To 50,000 \u2014 Will Trump Tailwinds Spark Another Leg Higher? - stocktwits.com \u2014 UNH Stock Becomes Dow\u2019s Biggest Driver Back To 50,000 \u2014 Will Trump Tailwinds Spark Another Leg Higher?\u00a0\u00a0stocktwits.com",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPc09TZEpPUXhaQndxcjc0MUd3T1RhaTNMb2FIamg3MWlfNWR0VHc5QXk0S01oQk9ucTBrcmRMRFdhOUd0MDE5NlBUWnBvOExFeVdyTHdyaDdIanE1YlRCd0VUbk5RZXNJSW9yVmRHejRVR0duRHJJS0U2dThGSmlHTzVmYzFEdzZfZER1aC1TSGx6M01BVlNPdXB5b1padWMyTEhjZlpuMWhEX1pkUnpPVVVleHdKbUZCd2c?oc=5",
+   "tickers": [
+    "UNH"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "UNH",
+   "strength": 45,
+   "reason": "UNH driving Dow recovery; Trump tailwinds speculated but direction ambiguous without specific policy detail."
+  },
+  {
    "date": "2026-09-05T21:59:42Z",
    "platform": "News",
    "text": "DELL Stock Spikes To Record Highs On President Trump\u2019s Endorsement - Stocktwits \u2014 DELL Stock Spikes To Record Highs On President Trump\u2019s Endorsement\u00a0\u00a0Stocktwits",
@@ -113,6 +258,22 @@
    "primary_ticker": "DELL",
    "strength": 85,
    "reason": "Trump explicitly endorses Dell, stock spikes to record highs; direct named company praise"
+  },
+  {
+   "date": "2026-09-05T21:59:42Z",
+   "platform": "News",
+   "text": "DELL Stock Spikes To Record Highs On President Trump\u2019s Endorsement - stocktwits.com \u2014 DELL Stock Spikes To Record Highs On President Trump\u2019s Endorsement\u00a0\u00a0stocktwits.com",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYWF1OUgweFU0d1NlNU4ya1FYQVJSVTRCX3IwM0NMd19VVmN5RzNtUmc1c2FhTU9abXdnTmVnMDE2QUxna3ZrUEF3Zkd0SFUtOWx3QkF2elBuNkNTcmZDRm1BRUkwMVRwYU0xaUVsWDZLSk0yeEtiMFFPV0t3ZXZ3OW15QUg5V0xHNnRrU1J5VXdvX09Oa0ZmRmJvV0VTVlFRRFh6c3E5RmtHckx0MXpNVVZTWmJpLTUtUXBHSG5pWEFfQll0ejRneDFB?oc=5",
+   "tickers": [
+    "DELL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "DELL",
+   "strength": 75,
+   "reason": "Trump explicit endorsement of Dell; stock spikes to records on named-company praise."
   },
   {
    "date": "2026-09-05T20:08:21Z",
@@ -227,20 +388,36 @@
    "reason": "FCC satellite-phone spectrum approval is regulatory catalyst; positive long-term but stock cooling after 3-day run"
   },
   {
-   "date": "2026-09-05T13:06:34Z",
+   "date": "2026-09-05T17:27:37Z",
    "platform": "News",
-   "text": "NOK Stock Rises Pre-Market: Trump Endorsement Adds Fuel To AI Growth Push For Nokia - stocktwits.com \u2014 NOK Stock Rises Pre-Market: Trump Endorsement Adds Fuel To AI Growth Push For Nokia\u00a0\u00a0stocktwits.com",
-   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNaVBkeHg0Vi02NWZ0Tlp5bGh2bjdYaC10MUFVamtBcTFCbjByT05oVmIyeUJQSzFMVGZSLXpFdkd0NVVIMHY3UzNqOFFIQ3FvakVucnM4dms0VXZHQTdlSnJkTXpqdVVJclpEU2lEUUtKYTloWjFFRU5Db2cteVF5UGxkd05LakNaMWZpa1UtaVdodVVIU1I1Vkxjb0kyTG52eFVUaHdkR3Rjb0l4MmpQT2ZMTW5HWWNFdTA2elZuN3ZCckxMa2VrS0FXZm9VNUJWSDBSU2RDMV9WNkJmajVJ?oc=5",
+   "text": "Trump Claims Iran Has Committed To No Nuclear Weapons \u2013 Says He\u2019s 'Getting Along Quite Well\u2019 With Supreme Leader Khamenei - stocktwits.com \u2014 Trump Claims Iran Has Committed To No Nuclear Weapons \u2013 Says He\u2019s 'Getting Along Quite Well\u2019 With Supreme Leader Khamenei\u00a0\u00a0stocktwits.com",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPb3pjU3JoNFBGcElfcTYxR2QzazdrcjRuUElqd1hIY0ZTVE1zY2RYNEFBcks5WUZrSk1MekI4TkkxUVhBZ0hVcHhWNnBzcVNZTHlxQzFTaUROaVdBclRUWEdtWnZhNkhUeDZMN3RNTmdLR18wQkZ6WmM1TGJRRkQ3Yk10SkU2d3NEcUIzVEIwNnAxM3ozcFJ6NklteTU0RzMxLVlpTVIyNGNMWDVNYlR5YzB0X3dSLUMydG5qZmVLUVVLQlJyV2ZhQkVmeWVTcXNT?oc=5",
    "tickers": [
-    "NOK"
+    "XLE"
    ],
    "classified": true,
    "is_market": true,
-   "explicit": true,
+   "explicit": false,
    "direction": "BUY",
-   "primary_ticker": "NOK",
-   "strength": 65,
-   "reason": "Trump explicit endorsement of Nokia for AI growth; direct positive call on named stock"
+   "primary_ticker": "XLE",
+   "strength": 45,
+   "reason": "Iran nuclear de-escalation reduces geopolitical oil risk; slightly bullish for energy sector."
+  },
+  {
+   "date": "2026-09-05T13:33:50Z",
+   "platform": "News",
+   "text": "Why Is AG Stock Jumping Over 5% In Overnight Trading? - stocktwits.com \u2014 Why Is AG Stock Jumping Over 5% In Overnight Trading?\u00a0\u00a0stocktwits.com",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZWN4cjJ0TVQ3NUdWMm1CVVR2b2NWM3Q0QTdFX2h2NU8tQ3ZKNVNYUXlUNkt0NVkyZ0ZwV05DaWh3RVJzRzJzcVc5c3VBVWctc2dCdVZLMVU1U0NnY1Iwc3FKVjgxV1V5cHR3SklSSjFYTU5Mam41T0N5b3V0b041d20zOUo5RVZQMUxRSjhtN1g5ejA4Wmk2OWR4LXJDQQ?oc=5",
+   "tickers": [
+    "AG"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "AG",
+   "strength": 30,
+   "reason": "AG stock jump reason not stated; insufficient Trump-specific catalyst detail provided."
   },
   {
    "date": "2026-09-05T09:43:25Z",
@@ -273,22 +450,6 @@
    "primary_ticker": "XLI",
    "strength": 55,
    "reason": "Trump Arctic/Greenland rare-earth push bullish for rare-earth miners and supply chain"
-  },
-  {
-   "date": "2026-09-05T04:25:03Z",
-   "platform": "News",
-   "text": "MU Stock Eases After Record Run: Micron Backs Trump Accounts With $250M Commitment - stocktwits.com \u2014 MU Stock Eases After Record Run: Micron Backs Trump Accounts With $250M Commitment\u00a0\u00a0stocktwits.com",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPVDE3TEpTVWtjT281REUwbWFGQzN0ZHpWNnU1UlpVRWRYMDExdzEyRVZ1MHlpbDd6V3ZFNjlmUVRyYXlabHpkVUpSejJmb3p5bF9mbkpobEpQanF5bzM2NjNpcDZ5N01rOEYyeDZvLTRZc0xIeG9xaEpESjc0bERrUTQwbTRMcXdCUHE0N0UzaTNoZFd2ZTU1Qk5JaDlMOG1GUG1icU9SMU9ja0Y5c21SUEcwN2EyYVpRUFQxY1JqOUZBeUJZT2QyYVppalpTSnhSUER1M0pMcjlLRG5YeVE?oc=5",
-   "tickers": [
-    "MU"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "MU",
-   "strength": 40,
-   "reason": "Micron backing Trump account shows alignment but $250M commitment is PR move, not core business catalyst"
   },
   {
    "date": "2026-09-05T04:15:55Z",
@@ -1331,30 +1492,6 @@
     "pct": -4.3,
     "base": 192.7,
     "last": 184.45,
-    "base_date": "2026-09-03",
-    "last_date": "2026-09-04"
-   }
-  },
-  {
-   "date": "2026-09-03T00:23:43Z",
-   "platform": "News",
-   "text": "MU, SNDK, STX, WDC Stocks Extend Slide Overnight As Memory Pump Fades: Retail Traders Hopeful For Rebound - stocktwits.com \u2014 MU, SNDK, STX, WDC Stocks Extend Slide Overnight As Memory Pump Fades: Retail Traders Hopeful For Rebound\u00a0\u00a0stocktwits.com",
-   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPb0VPUHFyT3dNU1BkR3RTbUZ5dENaV0tfUUViMzZzVDJDcXZFVWdxZ1Raa3N4SkFYX0E3enVNUzdxN193Q1lkUVVfdUtqNkhJelJLUkwzVmhMYUEtWDBsRmw4LV9mQmVCQlMyUFJ2a3lZT0Z1QWF3clF0eUtPa2JsMDJGT3pJcEdiNVpTWHFobGxIUlRCeEV5N1dYQUp5LV9Pbjlyc1FNeS03OGhUZTViX29RTmM5d1BpalVIWDNTUDFja2lRb1FnY19pSi0zRXozSUNzaUJKS0tpdFcwa0NWbG94dzBvWnItOHF1dVNQM29Kc2h1SF9FUg?oc=5",
-   "tickers": [
-    "SMH"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "SMH",
-   "strength": 30,
-   "reason": "Memory chip sector decline; technical/cyclical downturn signal but no Trump-specific catalyst mentioned.",
-   "price_since": {
-    "ticker": "SMH",
-    "pct": 2.1,
-    "base": 552.6,
-    "last": 564.26,
     "base_date": "2026-09-03",
     "last_date": "2026-09-04"
    }
@@ -2525,103 +2662,6 @@
     "pct": 1.8,
     "base": 162.5,
     "last": 165.37,
-    "base_date": "2026-08-31",
-    "last_date": "2026-09-02"
-   }
-  },
-  {
-   "date": "2026-08-31T20:08:54Z",
-   "platform": "News",
-   "text": "Trump on possible Venezuela departure from OPEC: 'It's up to them' - Devdiscourse \u2014 Trump on possible Venezuela departure from OPEC: 'It's up to them'\u00a0\u00a0Devdiscourse",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMEwxeW96enhMaFlpSEdkdlJuMlJMcnA1azVULWtwR0tIRUo3TWdKUTRQUjNneG1XNEcxaXJiVFdKa0lVY0dlRTJFT3JjV0xBeUJFcDctWG5rdlVRbTl1Z0t2VjNyQW5uRnd0bnpVTnZESk50WXdWN0tUOUllbDItOVh1RG9CMWZyU2FlSHNva2RwSFJZMU1MLXFVckloNkxuZ0d0VWNhSExvcWpOcldad3JjaTE1dWhTV2UzTDJBZ1BhZ2_SAcMBQVVfeXFMTjBMMXlvenp4TGhZaUhHZHZSbjJSTHJwNWs1VC1rcEdLSEVKN01nSlE0UFIzZ3htVzRHMWlyYlRXSmtJVWNHZUUyRU9yY1dMQXlCRXA3LVhua3ZVUW05dWdLdlYzckFubkZ3dG56VU52REpOdFl3VjdLVDlJZWwyLTlYdURvQjFmclNhZUhzb2tkcEhSWTFNTC1xVXJJaDZMbmdHdFVjYUhMb3FqTnJXWndyY2kxNXVoU1dlM0wyQWdQYWdv?oc=5",
-   "tickers": [
-    "USO"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "USO",
-   "strength": 25,
-   "reason": "Venezuela OPEC departure could affect oil supply and prices; ambiguous near-term direction",
-   "price_since": {
-    "ticker": "USO",
-    "pct": 5.6,
-    "base": 133.7,
-    "last": 141.15,
-    "base_date": "2026-08-31",
-    "last_date": "2026-09-02"
-   }
-  },
-  {
-   "date": "2026-08-31T17:20:45Z",
-   "platform": "News",
-   "text": "Trump strikes new drug pricing deals with nine midsized drugmakers - CNBC \u2014 Trump strikes new drug pricing deals with nine midsized drugmakers\u00a0\u00a0CNBC",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBuT1lnX3ByMXlKZEM1QnphTV9pNGpWM25WS1Q0WWdFeHMyM2xsX3FQWWxhSlFqSFlERzZDUFFGWkFqa3Z2ZWVGWlFpc1FoNVZwSUN5UndoT1lDYzZqMVBPNWFvYWpBNFViZU9PMDJB0gFzQVVfeXFMUFJpNEJ6MU5DSWN1ckpWQkRSdWlDMnlGeG5pVFdJTGoxS3lZeVV6cGRxVk5haXdTdmU1NFN6M2FqQ2lNdW1KR3dEN0pCMWY0SjFhbk5KUFppZnZMX0p6QUd6Z3pRTXc1cC1EckU5VDBQMzNuUQ?oc=5",
-   "tickers": [
-    "XBI"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "XBI",
-   "strength": 40,
-   "reason": "Trump drug pricing deals; mixed signal for biotech/pharma (cost control bearish; regulatory bullish)",
-   "price_since": {
-    "ticker": "XBI",
-    "pct": 1.8,
-    "base": 162.5,
-    "last": 165.37,
-    "base_date": "2026-08-31",
-    "last_date": "2026-09-02"
-   }
-  },
-  {
-   "date": "2026-08-31T17:20:45Z",
-   "platform": "News",
-   "text": "Trump strikes new drug pricing deals with nine midsized drugmakers - cnbc.com \u2014 Trump strikes new drug pricing deals with nine midsized drugmakers\u00a0\u00a0cnbc.com",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBuT1lnX3ByMXlKZEM1QnphTV9pNGpWM25WS1Q0WWdFeHMyM2xsX3FQWWxhSlFqSFlERzZDUFFGWkFqa3Z2ZWVGWlFpc1FoNVZwSUN5UndoT1lDYzZqMVBPNWFvYWpBNFViZU9PMDJB0gFzQVVfeXFMUFJpNEJ6MU5DSWN1ckpWQkRSdWlDMnlGeG5pVFdJTGoxS3lZeVV6cGRxVk5haXdTdmU1NFN6M2FqQ2lNdW1KR3dEN0pCMWY0SjFhbk5KUFppZnZMX0p6QUd6Z3pRTXc1cC1EckU5VDBQMzNuUQ?oc=5",
-   "tickers": [
-    "XBI"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "XBI",
-   "strength": 35,
-   "reason": "drug pricing deals with midsized makers\u2014sector-level signal but direction mixed (price pressure vs. deal certainty)",
-   "price_since": {
-    "ticker": "XBI",
-    "pct": 1.8,
-    "base": 162.5,
-    "last": 165.37,
-    "base_date": "2026-08-31",
-    "last_date": "2026-09-02"
-   }
-  },
-  {
-   "date": "2026-08-31T15:36:12.189Z",
-   "platform": "Truth Social",
-   "text": "RT @realDonaldTrumpThe only reason that communities throughout the U.S.A. should not want Data Centers is if they want to end up being backwards and poor. If they want to be successful and rich, with far lower taxes and jobs all over the place, let Data Reign. The good news is that there are plenty of other places that want them. If we kill the Golden Goose, you will only have yourselves to blame. China could not be happier with this anti Data Center movement. Actually, they can't believe it is happening! President DJT",
-   "tickers": [
-    "SPY"
-   ],
-   "engagement": 0,
-   "url": "https://truthsocial.com/@realDonaldTrump/117190857339012632",
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "SPY",
-   "strength": 45,
-   "reason": "Trump endorses data centers as economic driver; pro-business/growth macro signal, bullish for broad market and tech infrastructure",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": -0.3,
-    "base": 767.05,
-    "last": 765.12,
     "base_date": "2026-08-31",
     "last_date": "2026-09-02"
    }
