@@ -1,7 +1,39 @@
 {
- "last_updated": "2026-09-06T01:13:56Z",
+ "last_updated": "2026-09-06T06:00:21Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-09-05T20:08:21Z",
+   "platform": "News",
+   "text": "Trump Weighs In On Elon Musk, OpenAI, Intel \u2014 And Takes Aim At The 'Hostile' Fed Board - stocktwits.com \u2014 Trump Weighs In On Elon Musk, OpenAI, Intel \u2014 And Takes Aim At The 'Hostile' Fed Board\u00a0\u00a0stocktwits.com",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSGdkS2RRUEt3TWdWdW8yWkZrN0NfU1lZak10VExCWGktUlg3enppTzF4UnpEVjg3YVZRR2JqRmFYdTVBQTdIcmJHYVFkX2ZtcHFiREF5UWZ3NExDNTJhTnd2VE5HM1A1WFZnVEpoY0Rfa1BYMVJrZ0lKNlhDdDBKVW41S0dCOTdncW5jWEhHRkZMU0lERlF4MlFyU0xxTXFNS25wMWVoa1c3SkliajdkUDUtTDdUWnZmUnI5aUhNeHJreTBacEE0Zk1WZVMzMXpfUDFIeU9GSEN2N2liM2c?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "SPY",
+   "strength": 35,
+   "reason": "Trump comments on Fed board, Elon/OpenAI/Intel but no clear buy/sell signal \u2014 mixed macro read on Fed policy"
+  },
+  {
+   "date": "2026-09-05T20:00:53Z",
+   "platform": "News",
+   "text": "Michael Burry Says He\u2019s Still Short Palantir After Stock Sees Recovery Following Trump\u2019s Endorsement - stocktwits.com \u2014 Michael Burry Says He\u2019s Still Short Palantir After Stock Sees Recovery Following Trump\u2019s Endorsement\u00a0\u00a0stocktwits.com",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUmNQdmN5STJOLU11dEhkR1U0ckhuS3JMcm1NUDNMY0dNZ1pQcGhFVmd2bkZqVHV5N3N4N01tY1gzZWZnTDlvbVRzTEtkQnZyUjlibXR1ZUJ5MnVNY0ZlYlVEUWtRMkdnRzBGcmxpdEJaQm55ZWlTWmZZUDBPNnhncTFlLWg3bjllZXNpeGpTVjd3b3dCZ2lWT1dPZE5RSlNKT01IVXlTa1c5YmFodzVEWkJtbHpvUHN1Ry00NWhxcVJpdw?oc=5",
+   "tickers": [
+    "PLTR"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "PLTR",
+   "strength": 20,
+   "reason": "Burry short despite Trump endorsement; conflicting signals, no new catalyst here"
+  },
   {
    "date": "2026-09-05T18:59:51Z",
    "platform": "News",
@@ -17,6 +49,38 @@
    "primary_ticker": "WULF",
    "strength": 35,
    "reason": "WULF drops despite analyst upgrades; market reaction unclear, mixed signal on AI/data-center infrastructure play"
+  },
+  {
+   "date": "2026-09-05T18:59:51Z",
+   "platform": "News",
+   "text": "WULF Stock Drops Despite Price Target Hikes From Wall Street On $19B Anthropic Lease - stocktwits.com \u2014 WULF Stock Drops Despite Price Target Hikes From Wall Street On $19B Anthropic Lease\u00a0\u00a0stocktwits.com",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZkNMOVRxOWRRS0YyQUl5S0JsbENGN3Y1Qy02RHE1eWNFblM1WVdmUWFsamloREdtWjZPQ3Y5VFU2cUFVakZOQ29lWG0waDJmS3pyZWFxbGpLYW5IaTNjV2ZWajBIaXA4cnV0LUEwSG5aOWFxOVRtZ3dfS0Y4SXR3OFBpekRJVEpHZmxNRVhUSUtaWF9ocnkzY3ZwOExuT3h3dTlsM2VCN2FuTVllSnBsMk5QRHNUZw?oc=5",
+   "tickers": [
+    "WULF"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "WULF",
+   "strength": 25,
+   "reason": "Anthropic lease deal affects data center demand; unclear if bullish or stock-specific headwind"
+  },
+  {
+   "date": "2026-09-05T13:06:34Z",
+   "platform": "News",
+   "text": "NOK Stock Rises Pre-Market: Trump Endorsement Adds Fuel To AI Growth Push For Nokia - stocktwits.com \u2014 NOK Stock Rises Pre-Market: Trump Endorsement Adds Fuel To AI Growth Push For Nokia\u00a0\u00a0stocktwits.com",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNaVBkeHg0Vi02NWZ0Tlp5bGh2bjdYaC10MUFVamtBcTFCbjByT05oVmIyeUJQSzFMVGZSLXpFdkd0NVVIMHY3UzNqOFFIQ3FvakVucnM4dms0VXZHQTdlSnJkTXpqdVVJclpEU2lEUUtKYTloWjFFRU5Db2cteVF5UGxkd05LakNaMWZpa1UtaVdodVVIU1I1Vkxjb0kyTG52eFVUaHdkR3Rjb0l4MmpQT2ZMTW5HWWNFdTA2elZuN3ZCckxMa2VrS0FXZm9VNUJWSDBSU2RDMV9WNkJmajVJ?oc=5",
+   "tickers": [
+    "NOK"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "NOK",
+   "strength": 65,
+   "reason": "Trump explicit endorsement of Nokia for AI growth; direct positive call on named stock"
   },
   {
    "date": "2026-09-05T11:46:45Z",
@@ -51,6 +115,22 @@
    "reason": "Trump revives Arctic/Greenland ambitions \u2192 rare-earth demand up, uranium explorers bullish"
   },
   {
+   "date": "2026-09-05T09:43:25Z",
+   "platform": "News",
+   "text": "CRML, UUUU, USAR, ALOY, GLND: Greenland\u2019s Rare-Earth Trade Draws Investors As Trump Revives Arctic Ambitions - stocktwits.com \u2014 CRML, UUUU, USAR, ALOY, GLND: Greenland\u2019s Rare-Earth Trade Draws Investors As Trump Revives Arctic Ambitions\u00a0\u00a0stocktwits.com",
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPS2w5bklfdmlQVG1ZZDgtRGo5QnlTdW5FZ3dWdnh3aGhJU1FoVHk3aW0tSUU5eDB3bmptb21TSmZvbkZSR2pDR0QydXJFNGV3MFVZWDRxV0YxYkV5R1FtVlVza1B0NU9teWNCN053QU1mNzJXbE83T1E1UElUN1VTZGpqOFBmLUJlbGJZYnRDYy1mYWpYY0dpNFh2OE01SnM1ZnRBall0MFVJTE9DcFJoRnR0NXd3cTQzZnhsdENCM2xrVm1HN00zYUQxRG1ScFo5U19TWG1rcDVuXzEteEhHVzhFQlNmeVhRZXF5UktfSkhYQ2IxNE9iVg?oc=5",
+   "tickers": [
+    "XLI"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "XLI",
+   "strength": 55,
+   "reason": "Trump Arctic/Greenland rare-earth push bullish for rare-earth miners and supply chain"
+  },
+  {
    "date": "2026-09-05T09:04:22Z",
    "platform": "News",
    "text": "Trump Says $800M Will Be Invested In Stock Market This Week For American Children As Trump Accounts Go Live - Stocktwits \u2014 Trump Says $800M Will Be Invested In Stock Market This Week For American Children As Trump Accounts Go Live\u00a0\u00a0Stocktwits",
@@ -81,6 +161,22 @@
    "primary_ticker": "MU",
    "strength": 65,
    "reason": "Micron commits $250M to Trump Accounts; positive sentiment toward MU, though commitment details unclear"
+  },
+  {
+   "date": "2026-09-05T04:25:03Z",
+   "platform": "News",
+   "text": "MU Stock Eases After Record Run: Micron Backs Trump Accounts With $250M Commitment - stocktwits.com \u2014 MU Stock Eases After Record Run: Micron Backs Trump Accounts With $250M Commitment\u00a0\u00a0stocktwits.com",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPVDE3TEpTVWtjT281REUwbWFGQzN0ZHpWNnU1UlpVRWRYMDExdzEyRVZ1MHlpbDd6V3ZFNjlmUVRyYXlabHpkVUpSejJmb3p5bF9mbkpobEpQanF5bzM2NjNpcDZ5N01rOEYyeDZvLTRZc0xIeG9xaEpESjc0bERrUTQwbTRMcXdCUHE0N0UzaTNoZFd2ZTU1Qk5JaDlMOG1GUG1icU9SMU9ja0Y5c21SUEcwN2EyYVpRUFQxY1JqOUZBeUJZT2QyYVppalpTSnhSUER1M0pMcjlLRG5YeVE?oc=5",
+   "tickers": [
+    "MU"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "MU",
+   "strength": 40,
+   "reason": "Micron backing Trump account shows alignment but $250M commitment is PR move, not core business catalyst"
   },
   {
    "date": "2026-09-05T04:15:55Z",
@@ -115,6 +211,22 @@
    "reason": "Trump diplomacy cited for cancer drug approvals; company-specific bullish catalyst"
   },
   {
+   "date": "2026-09-05T03:38:02Z",
+   "platform": "News",
+   "text": "IBRX Stock Rally Not Over Yet? Chairman Says Trump Diplomacy Led To \u2018Amazing Results\u2019 For Cancer Drug - stocktwits.com \u2014 IBRX Stock Rally Not Over Yet? Chairman Says Trump Diplomacy Led To \u2018Amazing Results\u2019 For Cancer Drug\u00a0\u00a0stocktwits.com",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOcVFTb3RQWTZrUG9ONVN6MEVNSk54ckxoS1E2bWNXQmRjRWIxaURpT1lyY3ItODk1LXRGb0MyeWtSMERnRmpmNHpha1JPZWZWa1NUWmNkOGJNbjJiTWMtRm52djZJZTVhQUVmNDVHTUE0N1RtN2M5ZmxMSE9RbVVUTi1vZENNdHhTZWJ6eDFlZXhIUFI0Nm5rLTZYWUIwblZCaXRHYlhyd3Zpa25XcWUtbTNEdGVXelpqcVN0eDBZZ3RMajBVZjdxaVJYV3E4V2lMNnlUODhYMzdTR1h4NFRGWlQ4b01SNDluNEZvZXJjT29pTXpj?oc=5",
+   "tickers": [
+    "IBRX"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "IBRX",
+   "strength": 50,
+   "reason": "Trump diplomacy credited with 'amazing results' on cancer drug approval; tailwind for biotech"
+  },
+  {
    "date": "2026-09-05T03:37:26Z",
    "platform": "News",
    "text": "DOCN Stock Climbs On Strong Preliminary Q2 Numbers \u2013 CEO Touts Winning \u2018World\u2019s Most Sophisticated AI Customers\u2019 - Stocktwits \u2014 DOCN Stock Climbs On Strong Preliminary Q2 Numbers \u2013 CEO Touts Winning \u2018World\u2019s Most Sophisticated AI Customers\u2019\u00a0\u00a0Stocktwits",
@@ -129,6 +241,22 @@
    "primary_ticker": "DOCN",
    "strength": 45,
    "reason": "DigitalOcean strong Q2 and AI customer wins; company fundamentals bullish, Trump indirect."
+  },
+  {
+   "date": "2026-09-05T03:37:26Z",
+   "platform": "News",
+   "text": "DOCN Stock Climbs On Strong Preliminary Q2 Numbers \u2013 CEO Touts Winning \u2018World\u2019s Most Sophisticated AI Customers\u2019 - stocktwits.com \u2014 DOCN Stock Climbs On Strong Preliminary Q2 Numbers \u2013 CEO Touts Winning \u2018World\u2019s Most Sophisticated AI Customers\u2019\u00a0\u00a0stocktwits.com",
+   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQSDhLZWEzOWdNblNQSk5nQUZ0MVBTczJnbmRYQlhMWElpczZCRTlqdEw3RWh6Y0czc2dVakxtc2Q0RFFpLTU0LTUwZEVoajlTZzFReHlsRl9oVFoxYnlVTTU4SXQtYmFUT1FaeDNvaFNoT0xFMGxqM05UeDRQZVJEVUJIU1hYOUtyWWZJQ1RLRDdRNlhNa01tekRPOHpBLThLMzJvSl9TMkxhd3lzM09vR3VqcTZhc09USlNSLUp2OTRNY0FXWlVodkhfRmVCWGttZW9FTEliZ0tueVdrRnB6QVBoVUlrZVY0MWt5N2d4bHhpMWlNNVN4dThUdVZDSDBrM3c?oc=5",
+   "tickers": [
+    "DOCN"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "DOCN",
+   "strength": 45,
+   "reason": "Strong Q2 and winning sophisticated AI customers; growth story independent but positive momentum"
   },
   {
    "date": "2026-09-05T02:19:49Z",
@@ -257,6 +385,22 @@
    "primary_ticker": "PLTR",
    "strength": 60,
    "reason": "Trump signals support for Palantir; explicit endorsement"
+  },
+  {
+   "date": "2026-09-04T23:27:07Z",
+   "platform": "News",
+   "text": "PLTR Stock Faces Split Narrative: Retail Bulls Hold Firm As Burry Sounds Alarm, Trump Signals Support - stocktwits.com \u2014 PLTR Stock Faces Split Narrative: Retail Bulls Hold Firm As Burry Sounds Alarm, Trump Signals Support\u00a0\u00a0stocktwits.com",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSFRDSVNMdHk3NEtMbFEwQ1ZRT2tLY3h1cEFvOTVjb182Qm1QUnVqTlE2dWhzYXZpaXBoN3gyNlg4dWVWY0dldndhRDZoOGE2N2ZSMTgxb1Ayb0RWanA3a0hEeEhKWGtYRENBSGZ0d0wySmlrSWpzM1BmcXZpTUdDOXcwMVl0NXVKYjMyOEFvYmVpYk9uOVRSaWdleVNEQnZkZk1tUE5vRURtNjdubE0wTUhLSFFUbGc3OUs5UVpJQXhVTHdZLTdLTmZDQVkxMUVwd3c?oc=5",
+   "tickers": [
+    "PLTR"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "PLTR",
+   "strength": 60,
+   "reason": "Trump explicit signal of support for Palantir; direct positive call on named stock despite Burry dissent"
   },
   {
    "date": "2026-09-04T22:27:05.922Z",
@@ -2667,22 +2811,6 @@
     "base_date": "2026-08-31",
     "last_date": "2026-09-01"
    }
-  },
-  {
-   "date": "2026-08-31T10:00:01Z",
-   "platform": "News",
-   "text": "Coupang dispute fuels new U.S. tariff pressure on South Korea - cnbc.com \u2014 Coupang dispute fuels new U.S. tariff pressure on South Korea\u00a0\u00a0cnbc.com",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5DdEh0c054Zy1OLWcwbXI3Wnpycm54cVBQcFA1dy1XekFSR0dMQWFXYmpNeU5tSDl3RWVMNTM3M3gzTjZ3cmpoTDVxZUw5RmRFN2hPVHBfd045bmJyY21kb1BndkVQeGlQdlRPY3RJMENuRVlRY3fSAXtBVV95cUxPUkd6eXltNTFodmNXejBoNzdFNTNUeWN6aTlHbVRqYlRlM2pvWFRkVWpTNkxwb05zWFA1b1RHMjBrQ0JSZUhsLTE2VUk5LU04Z1NqU3VOemVGbElwbVlBWFNCaXdqYXpRSWZGVjhWZ0pEaWV0OUhnZ1pIbmc?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "SPY",
-   "strength": 50,
-   "reason": "tariff pressure on South Korea trade partner; escalating trade friction bearish broad market"
   },
   {
    "curated": true,
