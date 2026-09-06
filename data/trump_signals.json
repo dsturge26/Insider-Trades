@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-09-06T18:53:04Z",
+ "last_updated": "2026-09-06T21:05:13Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-09-06T17:37:05Z",
+   "platform": "News",
+   "text": "Stock Market Today: Nasdaq Ends Off Steeper Loss, Dow Rises After Downturn; Credo Technology Advances - Investor's Business Daily \u2014 Stock Market Today: Nasdaq Ends Off Steeper Loss, Dow Rises After Downturn; Credo Technology Advances\u00a0\u00a0Investor's Business Daily",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWWtqOUZjRl9sN004azF3ekxYQzc3dHdQUk44UXRTOEhpWVFJWHpmcUgxTnRTNTBHRVlJT1dBMkRPbUI4eklyVW9JajdTbXA1WDBkUHJRQXVzZG95UmpQRzJyV3R3NGNha2hqNE1uWnJRLVFrcnhFZkZVNmFjS2U1blh5TVctMWx0bjY3Rkphb2xFWlRyQ1lScE5vZWhaOEZQX2NGQkRvOXF1cFU?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "SPY",
+   "strength": 15,
+   "reason": "General market narrative (Nasdaq, Dow moves); no directional signal without context."
+  },
   {
    "date": "2026-09-06T13:10:13.213Z",
    "platform": "Truth Social",
@@ -20,20 +36,20 @@
    "reason": "Canadian dollar weakness implied by Trump's criticism of CAD imbalance; bearish for CAD."
   },
   {
-   "date": "2026-09-06T07:26:44Z",
+   "date": "2026-09-06T10:24:12Z",
    "platform": "News",
-   "text": "Stock Market Today: Nasdaq Ends Off Steeper Loss, Dow Rises After Downturn; Credo Technology Advances - Investor's Business Daily \u2014 Stock Market Today: Nasdaq Ends Off Steeper Loss, Dow Rises After Downturn; Credo Technology Advances\u00a0\u00a0Investor's Business Daily",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWWtqOUZjRl9sN004azF3ekxYQzc3dHdQUk44UXRTOEhpWVFJWHpmcUgxTnRTNTBHRVlJT1dBMkRPbUI4eklyVW9JajdTbXA1WDBkUHJRQXVzZG95UmpQRzJyV3R3NGNha2hqNE1uWnJRLVFrcnhFZkZVNmFjS2U1blh5TVctMWx0bjY3Rkphb2xFWlRyQ1lScE5vZWhaOEZQX2NGQkRvOXF1cFU?oc=5",
+   "text": "QCOM Stock Is 7% From Its Record High; Executives To Join Trump In China Visit - Stocktwits \u2014 QCOM Stock Is 7% From Its Record High; Executives To Join Trump In China Visit\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVXpadHNKQ3hrQS15eXBfZVNyZkRXR2hZZGpvbUF0OFp0VHJrWUhsck53RmFDb2l4eUdfVFQwY0QyZ0tYMERtRE1aaGRVSV9ORFVQd1I4WW9VOXNPS2o2Z3RqRnVReldvOWJneGJsbl81MDRkdTQ1TFd1RVQzWHgzcS01VU9ZY0RuVHZ4TWZOQWphQjlDZVQxMkJKb21PZkJYZXNxLVhnT0xKUDVEcHZYWWUyNncyZzJwX0V1YkJUTUluTU9rTFkxZ2RLRkx6eTk0dGRLSTg1T0Nwd0toT3c?oc=5",
    "tickers": [
-    "SPY"
+    "QCOM"
    ],
    "classified": true,
    "is_market": true,
    "explicit": false,
    "direction": "WATCH",
-   "primary_ticker": "SPY",
-   "strength": 25,
-   "reason": "General market moves post-downturn; no Trump-specific catalyst evident."
+   "primary_ticker": "QCOM",
+   "strength": 35,
+   "reason": "Qualcomm executives join Trump China visit; diplomatic signal but direction unclear on deal vs. tensions."
   },
   {
    "date": "2026-09-06T01:54:26Z",
@@ -242,6 +258,22 @@
    "primary_ticker": "KEEL",
    "strength": 40,
    "reason": "Data center lease announcement amid Trump AI/infrastructure push; retail interest but unclear catalyst."
+  },
+  {
+   "date": "2026-09-05T23:13:34Z",
+   "platform": "News",
+   "text": "KEEL Stock Jumps Onto Retail Radar As Investors Eye First Data Center Lease Announcement - Stocktwits \u2014 KEEL Stock Jumps Onto Retail Radar As Investors Eye First Data Center Lease Announcement\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVHpiUDN5T2I5aVFzNkpxZGZjdUJEVG0xLXN0c3pVRWo2REVuRGNZTFpvLXJTT2luZVhnTC1iVmFtcFYxbkpnanphZ3E0N0ExWmx5UGh4cGw2QmRiQXl3RG81OWlKRnEwOHVHT0FWdXlGd2VIZVhjM1k2TTU0THctQ3cyUVhNNG9JcGJQMlhPVHdWbkFVSVpfR25lNzVCMTJ4cGZRR05JcnR2SWFvSGc1VnYyMzFMMnFDLURZLW5pMGk3UUwyWktaVVNmZUdDZ21QZGQ0bEZfU0o1LXRvREhFd3h2NXBTMjQ?oc=5",
+   "tickers": [
+    "KEEL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "KEEL",
+   "strength": 20,
+   "reason": "Data center lease announcement; small-cap move but limited Trump connection evident."
   },
   {
    "date": "2026-09-05T23:09:47Z",
@@ -498,6 +530,22 @@
    "primary_ticker": "AG",
    "strength": 30,
    "reason": "AG stock jump reason not stated; insufficient Trump-specific catalyst detail provided."
+  },
+  {
+   "date": "2026-09-05T13:33:50Z",
+   "platform": "News",
+   "text": "Why Is AG Stock Jumping Over 5% In Overnight Trading? - Stocktwits \u2014 Why Is AG Stock Jumping Over 5% In Overnight Trading?\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZWN4cjJ0TVQ3NUdWMm1CVVR2b2NWM3Q0QTdFX2h2NU8tQ3ZKNVNYUXlUNkt0NVkyZ0ZwV05DaWh3RVJzRzJzcVc5c3VBVWctc2dCdVZLMVU1U0NnY1Iwc3FKVjgxV1V5cHR3SklSSjFYTU5Mam41T0N5b3V0b041d20zOUo5RVZQMUxRSjhtN1g5ejA4Wmk2OWR4LXJDQQ?oc=5",
+   "tickers": [
+    "AG"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "AG",
+   "strength": 10,
+   "reason": "Stock jump with no reason stated; insufficient catalyst to determine direction."
   },
   {
    "date": "2026-09-05T09:43:25Z",
@@ -1987,30 +2035,6 @@
   {
    "date": "2026-09-02T05:39:24Z",
    "platform": "News",
-   "text": "QCOM Stock Is 7% From Its Record High; Executives To Join Trump In China Visit - Stocktwits \u2014 QCOM Stock Is 7% From Its Record High; Executives To Join Trump In China Visit\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVXpadHNKQ3hrQS15eXBfZVNyZkRXR2hZZGpvbUF0OFp0VHJrWUhsck53RmFDb2l4eUdfVFQwY0QyZ0tYMERtRE1aaGRVSV9ORFVQd1I4WW9VOXNPS2o2Z3RqRnVReldvOWJneGJsbl81MDRkdTQ1TFd1RVQzWHgzcS01VU9ZY0RuVHZ4TWZOQWphQjlDZVQxMkJKb21PZkJYZXNxLVhnT0xKUDVEcHZYWWUyNncyZzJwX0V1YkJUTUluTU9rTFkxZ2RLRkx6eTk0dGRLSTg1T0Nwd0toT3c?oc=5",
-   "tickers": [
-    "QCOM"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "QCOM",
-   "strength": 45,
-   "reason": "QCOM executives joining Trump China visit signals potential trade progress",
-   "price_since": {
-    "ticker": "QCOM",
-    "pct": -0.1,
-    "base": 169.96,
-    "last": 169.74,
-    "base_date": "2026-09-02",
-    "last_date": "2026-09-03"
-   }
-  },
-  {
-   "date": "2026-09-02T05:39:24Z",
-   "platform": "News",
    "text": "QCOM Stock Is 7% From Its Record High; Executives To Join Trump In China Visit - stocktwits.com \u2014 QCOM Stock Is 7% From Its Record High; Executives To Join Trump In China Visit\u00a0\u00a0stocktwits.com",
    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVXpadHNKQ3hrQS15eXBfZVNyZkRXR2hZZGpvbUF0OFp0VHJrWUhsck53RmFDb2l4eUdfVFQwY0QyZ0tYMERtRE1aaGRVSV9ORFVQd1I4WW9VOXNPS2o2Z3RqRnVReldvOWJneGJsbl81MDRkdTQ1TFd1RVQzWHgzcS01VU9ZY0RuVHZ4TWZOQWphQjlDZVQxMkJKb21PZkJYZXNxLVhnT0xKUDVEcHZYWWUyNncyZzJwX0V1YkJUTUluTU9rTFkxZ2RLRkx6eTk0dGRLSTg1T0Nwd0toT3c?oc=5",
    "tickers": [
@@ -2416,30 +2440,6 @@
     "last": 770.48,
     "base_date": "2026-09-01",
     "last_date": "2026-09-03"
-   }
-  },
-  {
-   "date": "2026-09-01T09:36:53Z",
-   "platform": "News",
-   "text": "President Trump Endorses Federal Tax Incentive for Film, TV Production - Decatur Radio \u2014 President Trump Endorses Federal Tax Incentive for Film, TV Production\u00a0\u00a0Decatur Radio",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbXN4aTlXb2g3cTFBM195am5hQWE4aE42MEZzTnhTanAwUE1pVzFESkNMT29reUg2ZHdKektTMUs2dm1aa1V5dnFIUlhPc0JuazFpQnVRcnFlSkNRV1p6OW5iSEZsTTdDNWM5LXFXRkZaNEhpcV94a0FBaWhma0dXY2lLR00wVklOZ0RORVJKRk9tMmYtR0pZemFDYmZIYUZzNG5iTC1JYUFva19IdmIw?oc=5",
-   "tickers": [
-    "IYY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "IYY",
-   "strength": 25,
-   "reason": "Federal tax incentive for film/TV production bullish for media sector",
-   "price_since": {
-    "ticker": "IYY",
-    "pct": 0.4,
-    "base": 185.5,
-    "last": 186.32,
-    "base_date": "2026-09-01",
-    "last_date": "2026-09-02"
    }
   },
   {
