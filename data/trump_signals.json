@@ -1,7 +1,39 @@
 {
- "last_updated": "2026-09-07T05:16:22Z",
+ "last_updated": "2026-09-07T10:37:30Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-09-07T08:25:00Z",
+   "platform": "News",
+   "text": "Trump Posts AI Trading Image as Intel Stock Nearly Quadruples From 52-Week Low - finance.biggo.com \u2014 Trump Posts AI Trading Image as Intel Stock Nearly Quadruples From 52-Week Low\u00a0\u00a0finance.biggo.com",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA5aTlCemFSZHFDVnhsYWRxZm5xaVlDZ3M0TXAwb2lLWnpmLXRSTjNrbGZudjFpTVlhRXJMbGFCTlVYRmpHYnloM2pzN25sLTc1SjlVUDNRYkpIdHRUYVZMMUdXSDA5NTZjZ25HcFJrbS05TjFUbFE?oc=5",
+   "tickers": [
+    "INTC"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "INTC",
+   "strength": 75,
+   "reason": "Trump touts Intel stock gains in AI context, explicit endorsement of semiconductor play"
+  },
+  {
+   "date": "2026-09-07T07:06:00Z",
+   "platform": "News",
+   "text": "Trump Again Touts Intel Stock Gains in AI Image, Claims He Made \u2018Hundreds of Billions' - BeInCrypto \u2014 Trump Again Touts Intel Stock Gains in AI Image, Claims He Made \u2018Hundreds of Billions'\u00a0\u00a0BeInCrypto",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5VenZNLTlPblYtUlhVM2lROXdsVmhuMVZpVVdiblJhNWYzZFRadTlEMHBmX19VN0F1VVA1THJlRXNtd2VtcVdablI4RWwxNVBIdmFTbjQtQW8wZGl6a0dV?oc=5",
+   "tickers": [
+    "INTC"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "INTC",
+   "strength": 80,
+   "reason": "Trump again praises Intel gains and claims huge personal returns, direct bullish signal on INTC"
+  },
   {
    "date": "2026-09-07T00:48:41.414Z",
    "platform": "Truth Social",
@@ -115,6 +147,22 @@
    "primary_ticker": "MU",
    "strength": 30,
    "reason": "Memory-chip volatility; retail optimism for rebound but no Trump-specific catalyst."
+  },
+  {
+   "date": "2026-09-06T11:06:51Z",
+   "platform": "News",
+   "text": "Michael Burry Says Palantir's $432 Billion Valuation Could Fall Below $100 Billion - Startup Fortune \u2014 Michael Burry Says Palantir's $432 Billion Valuation Could Fall Below $100 Billion\u00a0\u00a0Startup Fortune",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNR2hhYjNVV2tncWpQeExqMzQ4TnhfNE9sWUVGTDJvWDBjcTIzRVoyb3lqakNkeUpMVktkejUzTUVFZ1pwMy1iQldJQW1ta2ZRblJ2LXhIZzZfNUZtSTRxUU1mellRa0llVW5vMUtPaEhTWXl2T1ljWHJVVlBMMW5aT3ZOdDVWMHdNMWNtSnpORWNueHJMTW9ENE9aY0tzYXRoeUJ2V2NlSWVuVDQ?oc=5",
+   "tickers": [
+    "PLTR"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "PLTR",
+   "strength": 65,
+   "reason": "Prominent investor warns of massive Palantir valuation downside, bearish outlook"
   },
   {
    "date": "2026-09-06T10:24:12Z",
@@ -645,6 +693,22 @@
    "reason": "Stock jump with no reason stated; insufficient catalyst to determine direction."
   },
   {
+   "date": "2026-09-05T10:32:00Z",
+   "platform": "News",
+   "text": "Trump Threatens Trade Halt Unless Fed Cuts Interest Rates - Tempo.co English \u2014 Trump Threatens Trade Halt Unless Fed Cuts Interest Rates\u00a0\u00a0Tempo.co English",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTEtrdVQ4WWQ0aU92S1NDYzEyRVdDcEI4dXNyb2ZfX0s4eFR2MVVrcEpZVG5ZQkU2VGRWMjVXX28yQVV1bWdnVnNHZmFlUUkzb2xpTzQ1NUFpdU01bWpQU3l1LW42N2F6NkhlWHViOGZZWGpNV3Q2Y3dUY3VFY2Z2Z0JtYUFkTl9yRHNiVVhMQ2tja00?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "SPY",
+   "strength": 70,
+   "reason": "Trump threatens trade halt unless Fed cuts rates, macro economic pressure on broad market"
+  },
+  {
    "date": "2026-09-05T09:43:25Z",
    "platform": "News",
    "text": "CRML, UUUU, USAR, ALOY, GLND: Greenland\u2019s Rare-Earth Trade Draws Investors As Trump Revives Arctic Ambitions - Stocktwits \u2014 CRML, UUUU, USAR, ALOY, GLND: Greenland\u2019s Rare-Earth Trade Draws Investors As Trump Revives Arctic Ambitions\u00a0\u00a0Stocktwits",
@@ -771,6 +835,22 @@
    "primary_ticker": "USO",
    "strength": 45,
    "reason": "Venezuela oil deal framed positively but US firms raise concerns; ambiguous direction on US oil/energy upside vs. trade risk"
+  },
+  {
+   "date": "2026-09-05T03:27:55Z",
+   "platform": "News",
+   "text": "Donald Trump \u2018Doesn\u2019t Care\u2019 If Iran Talks Are Over, Says Oil Will Drop \u2018Like a Rock\u2019: Report - Stocktwits \u2014 Donald Trump \u2018Doesn\u2019t Care\u2019 If Iran Talks Are Over, Says Oil Will Drop \u2018Like a Rock\u2019: Report\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQVExtZHpyQjhpbFo1R20wZ2ZDTS1NLWJ1T2xwdklBN01UamxDSnBOODQ1aVVZaDZKVTVYemh2V05DTDFkZnF4aTJSSDhFMEx1dzUydzVQcGx1eHR5Y1lNTDVmOEEwaUo3UkZjbnRJZEVuS2VMaUZMX1JEWUswT1pNMnYxQmlVS2RydzlVOHJ4T1NDOHJmMjRFWm5vY1ltdDBOWWtIN0p4UThpX2FNMWcwQTdWZldBX3Z4UzdRb1M3QXdNZl9NcVJsM2tiZzg0a005MXY5THFSb2pfWmQ0eGVCTExwY3E0WjA?oc=5",
+   "tickers": [
+    "XLE"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "XLE",
+   "strength": 60,
+   "reason": "Trump expects oil to drop sharply on Iran talks collapse, bearish energy signal"
   },
   {
    "date": "2026-09-05T02:19:49Z",
@@ -2354,6 +2434,23 @@
     "base_date": "2026-09-01",
     "last_date": "2026-09-03"
    }
+  },
+  {
+   "date": "2026-08-31T15:36:12.189Z",
+   "platform": "Truth Social",
+   "text": "RT @realDonaldTrumpThe only reason that communities throughout the U.S.A. should not want Data Centers is if they want to end up being backwards and poor. If they want to be successful and rich, with far lower taxes and jobs all over the place, let Data Reign. The good news is that there are plenty of other places that want them. If we kill the Golden Goose, you will only have yourselves to blame. China could not be happier with this anti Data Center movement. Actually, they can't believe it is happening! President DJT",
+   "tickers": [
+    "SPY"
+   ],
+   "engagement": 0,
+   "url": "https://truthsocial.com/@realDonaldTrump/117190857339012632",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "SPY",
+   "strength": 55,
+   "reason": "Trump advocates for data center expansion; pro-growth/pro-business macro signal favoring infrastructure and tech investment; moderate strength due to broad sector implication"
   },
   {
    "curated": true,
