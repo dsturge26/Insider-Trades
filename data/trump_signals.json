@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-09-06T22:54:24Z",
+ "last_updated": "2026-09-07T00:43:31Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-09-06T22:58:38Z",
+   "platform": "News",
+   "text": "[Morning Headlines] President Trump: \"The US should lower interest rates\"; US-Iran attacks continue in Europe; Amazon cargo plane crashes, 5 dead - Moomoo \u2014 [Morning Headlines] President Trump: \"The US should lower interest rates\"; US-Iran attacks continue in Europe; Amazon cargo plane crashes, 5 dead\u00a0\u00a0Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPc2RXUVZ3VVhQOUhlX3NUbGt3dng5ZTd0TkpoYU5meWRtMFRWaFJTV2pqY1pYZzYzUldrNFdFWFVNVUpCR0FyUGlNbzNaRUg4eE5lRTdzV3k0N0pvaXJ1X1gtdzNkbWFHMHhycWZZMml6OVkyOTdoRllsMU5SQ29OdXFNNGtmZEVIM1l5YmR1azdWaUJqb2U2U3FHVUk1ZXV4WTMzbGdMVzJTZ1l6QjMzOA?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "SPY",
+   "strength": 35,
+   "reason": "Trump calls for lower interest rates; dovish signal for broad market and bonds"
+  },
   {
    "date": "2026-09-06T17:37:05Z",
    "platform": "News",
@@ -50,6 +66,22 @@
    "primary_ticker": "QCOM",
    "strength": 35,
    "reason": "Qualcomm executives join Trump China visit; diplomatic signal but direction unclear on deal vs. tensions."
+  },
+  {
+   "date": "2026-09-06T06:02:00Z",
+   "platform": "News",
+   "text": "America\u2019s biggest investor Michael Burry issues '$100 billion warning' on America's biggest defence tech - The Times of India \u2014 America\u2019s biggest investor Michael Burry issues '$100 billion warning' on America's biggest defence tech\u00a0\u00a0The Times of India",
+   "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxQMW54UlhteHppejgtajBCWmhiMGlNcGgzMW5uTlJkalc0SGo1aTRlUWNkbGVVWXZIOXBRVmh0SzVpUXV5cVI3aU5qS0JaV0MwRGhaMm9aUGVwNnR5UzVJbWlyUndDcnNUZGtkQ09WYmpLdHZnMllpa0NjV2x2bXdhLXYtNXc4NHl3OUUzdmRYb2FmenRNaVY3dXE0MVRZV29sOTNYYVFKVUxQMmhGWnZsZEJaVDlsU1JzY3REeHhGcklkdXFnTEY3ZW0xRlotWVRWdWxIUEluaUdmOVBnNnV3ZzI4QVBUQzEzeU1KOFlmVmZxLTV3dnlmaVYxUS1kdHNkdlFMWkJpcjU4SldOM3ZPU3VZZXlFTzlTZUtJMlFvSldUeGVGNGVuV3Y5NFpmMEMwU0lXVjJCUdIBvAJBVV95cUxNcmhHMjFCeEFodnVRa0pNRDdEZElJc1F6SDRkQ1QtbG1YRlFzTk5JUk9MZXdlR0o1YUlwaHpDYzhWaWt1NVVDT005UG5GNTJuLTFZdW5raDljNmw0ZGpxOHJiYk1MOWMtQTRmcjBVRWhCVDJoazUybFlJVjRIdy13QktnUjRLdXpSbVlvTXhyeXlxbnQ5QUw5c0JXZXdyMTRFSnVJUmZob2poazJ1VnNFVEJRY1U1N1FSbUVHWlRNY0VLaXdNaEh2UnJOSEdfbjlvajJLSTdXeWFJWUMxdmFEeDNGZHAxd1p2cjRrbnllUE1xR2I5Y1U0cVJKczk1T0lpVEdCamVZWDAyZGU0M3p2cXJtTENFaFJ3a3MtUTFRSG9YU0w0NjRwSVVXUC1NcTJBQWhuQXY3bjVWNVAy?oc=5",
+   "tickers": [
+    "XAR"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "XAR",
+   "strength": 40,
+   "reason": "Burry warning on defense tech valuation; ambiguous direction on sector near-term"
   },
   {
    "date": "2026-09-06T01:54:26Z",
@@ -2406,30 +2438,6 @@
     "pct": 0.8,
     "base": 158.71,
     "last": 159.95,
-    "base_date": "2026-09-01",
-    "last_date": "2026-09-03"
-   }
-  },
-  {
-   "date": "2026-09-01T12:34:00Z",
-   "platform": "News",
-   "text": "Stock Market Today: S&P 500, Dow, Nasdaq 100 Futures Drop After Trump Says Iran Is \u2018Totally Defeated\u2019, Br - benzinga.com \u2014 Stock Market Today: S&P 500, Dow, Nasdaq 100 Futures Drop After Trump Says Iran Is \u2018Totally Defeated\u2019, Br\u00a0\u00a0benzinga.com",
-   "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNamRJUDJHVWotaFNkYnlMOUpmeFBybFNSTnRwWTZ6MnlyNVhSczVfd3Y2R1IwM1l1aXdQTzNla2lMYVVsdm5MU3BfQUhSTnoxT3hLYXc5UzJmWFVNQzdVTFBRaWhkTUFqRE1pS01udlM2LWg1djd2WkVsaV9UeEVKN3c5TmJMZ1BiNGRPU1FQSkJmdlVCTVM2WjVlX0JOM3BVazJGeF9hU19FLXJ2bkVlb3dqYnVDSHNnVUZpeThnMEN2VUlRN0lqOEE2dENZS2RIUmtJcGlieGRUWjgyWERGaHNKM3JsNGNIc1NoazZmaGVMYnlQU3UyblZDYXFlUGI4OW82d19nOWNCMTBtWV9qQQ?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "SPY",
-   "strength": 60,
-   "reason": "Iran conflict/geopolitical escalation drives broad market risk-off, futures decline.",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": 1.1,
-    "base": 761.78,
-    "last": 770.49,
     "base_date": "2026-09-01",
     "last_date": "2026-09-03"
    }
