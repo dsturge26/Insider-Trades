@@ -1,7 +1,24 @@
 {
- "last_updated": "2026-09-07T00:43:31Z",
+ "last_updated": "2026-09-07T05:16:22Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-09-07T00:48:41.414Z",
+   "platform": "Truth Social",
+   "text": "Trump cheers strong jobs report, calls for lower interest rates: https://justthenews.com/politics-policy/trump-cheers-strong-jobs-report-calls-lower-interest-rates",
+   "tickers": [
+    "SPY"
+   ],
+   "engagement": 5514,
+   "url": "https://truthsocial.com/@realDonaldTrump/117227003669020660",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "SPY",
+   "strength": 35,
+   "reason": "Call for lower interest rates is macro-bullish but ambiguous on near-term direction; jobs report strength is mixed signal."
+  },
   {
    "date": "2026-09-06T22:58:38Z",
    "platform": "News",
@@ -35,6 +52,38 @@
    "reason": "General market narrative (Nasdaq, Dow moves); no directional signal without context."
   },
   {
+   "date": "2026-09-06T16:18:57Z",
+   "platform": "News",
+   "text": "ASTS, RKLB Stocks Get The Trump Pump After Hidden Space Stock Bets Emerge - Stocktwits \u2014 ASTS, RKLB Stocks Get The Trump Pump After Hidden Space Stock Bets Emerge\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYlgtQnFIQ21RTHhqRVMtMUF4aWNUR2w3WHo5QzFfWVRyaExWYXJDUk9WaEFDaW90THVYcHVSd3J4Nk82T3lkMVBGZnhIQW43bHpGdURhaTgxYnRlR25BYmp6SWR1cjVhUHlXZXdWSFdkNlFTekNoQXZCSXNVem1Oc0NBYXBKQXhnRnNCTTVvOU5xSEZrUlNxdzZCczQyZmdVOW1jQVRBczU4cHlpU3M3dnBWZnBjdw?oc=5",
+   "tickers": [
+    "RKLB"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "RKLB",
+   "strength": 40,
+   "reason": "Trump space-sector interest inferred; speculative retail pump with unclear fundamental driver."
+  },
+  {
+   "date": "2026-09-06T14:58:02Z",
+   "platform": "News",
+   "text": "IBRX Stock Rally Not Over Yet? Chairman Says Trump Diplomacy Led To \u2018Amazing Results\u2019 For Cancer Drug - Stocktwits \u2014 IBRX Stock Rally Not Over Yet? Chairman Says Trump Diplomacy Led To \u2018Amazing Results\u2019 For Cancer Drug\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOcVFTb3RQWTZrUG9ONVN6MEVNSk54ckxoS1E2bWNXQmRjRWIxaURpT1lyY3ItODk1LXRGb0MyeWtSMERnRmpmNHpha1JPZWZWa1NUWmNkOGJNbjJiTWMtRm52djZJZTVhQUVmNDVHTUE0N1RtN2M5ZmxMSE9RbVVUTi1vZENNdHhTZWJ6eDFlZXhIUFI0Nm5rLTZYWUIwblZCaXRHYlhyd3Zpa25XcWUtbTNEdGVXelpqcVN0eDBZZ3RMajBVZjdxaVJYV3E4V2lMNnlUODhYMzdTR1h4NFRGWlQ4b01SNDluNEZvZXJjT29pTXpj?oc=5",
+   "tickers": [
+    "IBRX"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "IBRX",
+   "strength": 45,
+   "reason": "Trump diplomacy credited with drug approval breakthrough; positive for biotech name."
+  },
+  {
    "date": "2026-09-06T13:10:13.213Z",
    "platform": "Truth Social",
    "text": "Canada's (currency) Dollar imbalance with the U.S. is unacceptable. It has been that way for years - but no longer! President DJT",
@@ -50,6 +99,22 @@
    "primary_ticker": "FXC",
    "strength": 35,
    "reason": "Canadian dollar weakness implied by Trump's criticism of CAD imbalance; bearish for CAD."
+  },
+  {
+   "date": "2026-09-06T12:54:45Z",
+   "platform": "News",
+   "text": "MU, SNDK, STX, WDC Stocks Extend Slide Overnight As Memory Pump Fades: Retail Traders Hopeful For Rebound - Stocktwits \u2014 MU, SNDK, STX, WDC Stocks Extend Slide Overnight As Memory Pump Fades: Retail Traders Hopeful For Rebound\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPb0VPUHFyT3dNU1BkR3RTbUZ5dENaV0tfUUViMzZzVDJDcXZFVWdxZ1Raa3N4SkFYX0E3enVNUzdxN193Q1lkUVVfdUtqNkhJelJLUkwzVmhMYUEtWDBsRmw4LV9mQmVCQlMyUFJ2a3lZT0Z1QWF3clF0eUtPa2JsMDJGT3pJcEdiNVpTWHFobGxIUlRCeEV5N1dYQUp5LV9Pbjlyc1FNeS03OGhUZTViX29RTmM5d1BpalVIWDNTUDFja2lRb1FnY19pSi0zRXozSUNzaUJKS0tpdFcwa0NWbG94dzBvWnItOHF1dVNQM29Kc2h1SF9FUg?oc=5",
+   "tickers": [
+    "MU"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "MU",
+   "strength": 30,
+   "reason": "Memory-chip volatility; retail optimism for rebound but no Trump-specific catalyst."
   },
   {
    "date": "2026-09-06T10:24:12Z",
@@ -194,22 +259,6 @@
    "primary_ticker": "NOK",
    "strength": 60,
    "reason": "Trump endorsement of Nokia for AI growth; explicit named-company praise."
-  },
-  {
-   "date": "2026-09-05T23:42:26Z",
-   "platform": "News",
-   "text": "MU, SNDK, STX, WDC Stocks Extend Slide Overnight As Memory Pump Fades: Retail Traders Hopeful For Rebound - Stocktwits \u2014 MU, SNDK, STX, WDC Stocks Extend Slide Overnight As Memory Pump Fades: Retail Traders Hopeful For Rebound\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPb0VPUHFyT3dNU1BkR3RTbUZ5dENaV0tfUUViMzZzVDJDcXZFVWdxZ1Raa3N4SkFYX0E3enVNUzdxN193Q1lkUVVfdUtqNkhJelJLUkwzVmhMYUEtWDBsRmw4LV9mQmVCQlMyUFJ2a3lZT0Z1QWF3clF0eUtPa2JsMDJGT3pJcEdiNVpTWHFobGxIUlRCeEV5N1dYQUp5LV9Pbjlyc1FNeS03OGhUZTViX29RTmM5d1BpalVIWDNTUDFja2lRb1FnY19pSi0zRXozSUNzaUJKS0tpdFcwa0NWbG94dzBvWnItOHF1dVNQM29Kc2h1SF9FUg?oc=5",
-   "tickers": [
-    "SMH"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "SMH",
-   "strength": 40,
-   "reason": "Memory chip stocks sliding as rally fades; sector weakness, no Trump-specific driver"
   },
   {
    "date": "2026-09-05T23:42:26Z",
@@ -658,22 +707,6 @@
    "primary_ticker": "NVDA",
    "strength": 45,
    "reason": "Nvidia's strong quarter praised by Elon Musk and Trump adviser is positive sentiment, but praise is indirect"
-  },
-  {
-   "date": "2026-09-05T03:38:02Z",
-   "platform": "News",
-   "text": "IBRX Stock Rally Not Over Yet? Chairman Says Trump Diplomacy Led To \u2018Amazing Results\u2019 For Cancer Drug - Stocktwits \u2014 IBRX Stock Rally Not Over Yet? Chairman Says Trump Diplomacy Led To \u2018Amazing Results\u2019 For Cancer Drug\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOcVFTb3RQWTZrUG9ONVN6MEVNSk54ckxoS1E2bWNXQmRjRWIxaURpT1lyY3ItODk1LXRGb0MyeWtSMERnRmpmNHpha1JPZWZWa1NUWmNkOGJNbjJiTWMtRm52djZJZTVhQUVmNDVHTUE0N1RtN2M5ZmxMSE9RbVVUTi1vZENNdHhTZWJ6eDFlZXhIUFI0Nm5rLTZYWUIwblZCaXRHYlhyd3Zpa25XcWUtbTNEdGVXelpqcVN0eDBZZ3RMajBVZjdxaVJYV3E4V2lMNnlUODhYMzdTR1h4NFRGWlQ4b01SNDluNEZvZXJjT29pTXpj?oc=5",
-   "tickers": [
-    "IBRX"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "IBRX",
-   "strength": 60,
-   "reason": "Trump diplomacy cited for cancer drug approvals; company-specific bullish catalyst"
   },
   {
    "date": "2026-09-05T03:38:02Z",
@@ -2318,126 +2351,6 @@
     "pct": 1.0,
     "base": 185.5,
     "last": 187.37,
-    "base_date": "2026-09-01",
-    "last_date": "2026-09-03"
-   }
-  },
-  {
-   "date": "2026-09-01T17:47:29Z",
-   "platform": "News",
-   "text": "Trump endorses federal production tax credit - axios.com \u2014 Trump endorses federal production tax credit\u00a0\u00a0axios.com",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBFSFRpUEZsZnU1bEZKS2FqZFpBeU5XODV6Z2hjZGNuYlZ2b3pvR05BMEtKN3ZJa3dyeUdFVDAwb0JMcXNQNGo4M2FqZG9Ic0NDRVduMkJsZFY3TW1MXzRZNFBYZlY2SWlpOUxqY3dKSzdyUHVCYkRXcXJB?oc=5",
-   "tickers": [
-    "QQQ"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "QQQ",
-   "strength": 35,
-   "reason": "Federal production tax credit endorsement supports domestic film/tech production; modest positive for creative/production sectors",
-   "price_since": {
-    "ticker": "QQQ",
-    "pct": 1.1,
-    "base": 707.64,
-    "last": 715.12,
-    "base_date": "2026-09-01",
-    "last_date": "2026-09-03"
-   }
-  },
-  {
-   "date": "2026-09-01T17:43:15Z",
-   "platform": "News",
-   "text": "Trump endorses federal production tax credit - Yahoo Finance \u2014 Trump endorses federal production tax credit\u00a0\u00a0Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMnhiQ0lBY0MtNzBwX2F6WlpuSzB1X3dxQnV4aGVCQ1pWSjJiM0d6bHpxYWJKWnFMbXlrR1hXWUFWbXlLRGJkN2RkUFJsY1VibHVKazNSRlBwLWdrQnV0SklkRWpLRjhXOXBKMV9xVU5SS1FseGg4YXYxTTFyNHRvTENxcWFNbm5GOE1GRXdyRmpPd0tmVDZ2S0xkSXB0RWRlMGFtWG91YUE?oc=5",
-   "tickers": [
-    "IYJ"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "IYJ",
-   "strength": 35,
-   "reason": "Trump endorses federal production tax credit for film/entertainment",
-   "price_since": {
-    "ticker": "IYJ",
-    "pct": 0.8,
-    "base": 158.71,
-    "last": 159.95,
-    "base_date": "2026-09-01",
-    "last_date": "2026-09-03"
-   }
-  },
-  {
-   "date": "2026-09-01T14:56:00Z",
-   "platform": "News",
-   "text": "Gas retailer tied to Trump-backed Freedom Fuel Network sued over unpaid $3.9M fuel bill - NJ.com \u2014 Gas retailer tied to Trump-backed Freedom Fuel Network sued over unpaid $3.9M fuel bill\u00a0\u00a0NJ.com",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQa0NBNjFzSm1QT1dTazl1T0lJQTRUaWJIRk1nU29TNEswMW5VSXpnZVJFMW9oM2ZkQXpPSEpNSWQydC0yQmhLVldWRk1EX3hrZTN5a1RjTVFjWk5nd2ZBWXdfb0tfcmN5YmZJMFRQWVhlQ0ZYeEpTM1lkQU9yaFIxN2FWOXZnN3Q5YmZvM010T0V1R3NmUWRrZC1sSEY5Q1Vtd1RhYVNBTTRyUFhiZGlyYTl1eXFSRmdlZ0JHWnFCQdIB0wFBVV95cUxQRDZLWDQtOFhYdTNzekNsb2ZZaVVnRlVhejZ4eFlNWUVlejBDcGYxVjU0bEV1STBGZWI0eDRJemNFVU5Qc2FLZXVyUHZlYkk2ek1RT2pfZHVhM2tjVmgtRmNrWGduTWtickJMaHE2Rm9QclplcFhyV1hUSUp0NW9EUHZGX1o1dWNPRTMzZzJrVlpfY3hKYUI3ZmlVM1hzdFN5UnE0RXF6T3dVNENPUHQxYWVfOVBrdjdhOGhXNVFXbEJMbUJkQU91dWRGa29tSW5ldGM4?oc=5",
-   "tickers": [
-    "XLE"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "XLE",
-   "strength": 45,
-   "reason": "Trump-backed fuel network entity sued for unpaid $3.9M bill \u2014 reputational/operational risk to energy/fuel sector ties.",
-   "price_since": {
-    "ticker": "XLE",
-    "pct": 0.8,
-    "base": 64.77,
-    "last": 65.32,
-    "base_date": "2026-09-01",
-    "last_date": "2026-09-03"
-   }
-  },
-  {
-   "date": "2026-09-01T14:00:55Z",
-   "platform": "News",
-   "text": "President Trump Endorses Federal Tax Credits for US Film Production - The Daily Hodl \u2014 President Trump Endorses Federal Tax Credits for US Film Production\u00a0\u00a0The Daily Hodl",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQN2lkb2NwenRnMDZvUzdsd2wxQ1FKUXlwX1ZoWUFXTTZqdWRtYjhyS2F1YWI1Tll1Nmc3aVdTQTRlRkttMm4yUV9pa0oyeXFLb2gzOUlBRWszU3JLNV9aNFpmaGtJWDRDcm9neURWZnJ0N1lTRnBvUUdtd2lBckJXbjJzbWhDaGRYdm9kd3BPaFpwM0VudmU4dkhSb1EwdkcxNTRBcWdvQUrSAagBQVVfeXFMUDdpZG9jcHp0ZzA2b1M3bHdsMUNRSlF5cF9WaFlBV002anVkbWI4ckthdWFiNU5ZdTZnN2lXU0E0ZUZLbTJuMlFfaWtKMnlxS29oMzlJQUVrM1NySzVfWjRaZmhrSVg0Q3JvZ3lEVmZydDdZU0Zwb1FHbXdpQXJCV24yc21oQ2hkWHZvZHdwT2hacDNFbnZlOHZIUm9RMHZHMTU0QXFnb0FK?oc=5",
-   "tickers": [
-    "IYY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "IYY",
-   "strength": 25,
-   "reason": "Federal tax credit for film/TV production bullish for media sector, moderate signal",
-   "price_since": {
-    "ticker": "IYY",
-    "pct": 1.0,
-    "base": 185.5,
-    "last": 187.37,
-    "base_date": "2026-09-01",
-    "last_date": "2026-09-03"
-   }
-  },
-  {
-   "date": "2026-09-01T14:00:55Z",
-   "platform": "News",
-   "text": "President Trump Endorses Federal Tax Credits for US Film Production - dailyhodl.com \u2014 President Trump Endorses Federal Tax Credits for US Film Production\u00a0\u00a0dailyhodl.com",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQN2lkb2NwenRnMDZvUzdsd2wxQ1FKUXlwX1ZoWUFXTTZqdWRtYjhyS2F1YWI1Tll1Nmc3aVdTQTRlRkttMm4yUV9pa0oyeXFLb2gzOUlBRWszU3JLNV9aNFpmaGtJWDRDcm9neURWZnJ0N1lTRnBvUUdtd2lBckJXbjJzbWhDaGRYdm9kd3BPaFpwM0VudmU4dkhSb1EwdkcxNTRBcWdvQUrSAagBQVVfeXFMUDdpZG9jcHp0ZzA2b1M3bHdsMUNRSlF5cF9WaFlBV002anVkbWI4ckthdWFiNU5ZdTZnN2lXU0E0ZUZLbTJuMlFfaWtKMnlxS29oMzlJQUVrM1NySzVfWjRaZmhrSVg0Q3JvZ3lEVmZydDdZU0Zwb1FHbXdpQXJCV24yc21oQ2hkWHZvZHdwT2hacDNFbnZlOHZIUm9RMHZHMTU0QXFnb0FK?oc=5",
-   "tickers": [
-    "IYJ"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "IYJ",
-   "strength": 35,
-   "reason": "Federal tax credit endorsement for film production is bullish for entertainment/media sector",
-   "price_since": {
-    "ticker": "IYJ",
-    "pct": 0.8,
-    "base": 158.71,
-    "last": 159.95,
     "base_date": "2026-09-01",
     "last_date": "2026-09-03"
    }
