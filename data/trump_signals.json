@@ -1,7 +1,24 @@
 {
- "last_updated": "2026-09-07T19:58:38Z",
+ "last_updated": "2026-09-07T22:44:48Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-09-07T21:35:50.447Z",
+   "platform": "Truth Social",
+   "text": "US producer prices post largest drop in 14 months; inflation risks still tilted to the upside: https://www.reuters.com/business/us-producer-prices-unexpectedly-fall-june-2026-07-15/",
+   "tickers": [
+    "SPY"
+   ],
+   "engagement": 2608,
+   "url": "https://truthsocial.com/@realDonaldTrump/117231907664551152",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "SPY",
+   "strength": 45,
+   "reason": "Deflation signal mixed with upside inflation risks; macro economic data suggests market uncertainty."
+  },
   {
    "date": "2026-09-07T17:39:29.684Z",
    "platform": "Truth Social",
@@ -2246,78 +2263,6 @@
     "pct": 1.2,
     "base": 709.24,
     "last": 717.67,
-    "base_date": "2026-09-02",
-    "last_date": "2026-09-03"
-   }
-  },
-  {
-   "date": "2026-09-02T09:08:21Z",
-   "platform": "News",
-   "text": "David Sacks Urges AI Companies to Fund Trump Accounts, Says It Would 'Improve the Public\u2019s Image of AI' - TradingView \u2014 David Sacks Urges AI Companies to Fund Trump Accounts, Says It Would 'Improve the Public\u2019s Image of AI'\u00a0\u00a0TradingView",
-   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQc2x4UUgxc2xlbGcwS3IyTjJDbVZZNEYtTm9SeTR3YWdrUFo1dUFZTUgwUWRodGxGMV9fbkJRek00YUhwdlJnSldyUGpGN29iaGZTOFQ4cDE1N3VmUmFrTEhnRWZ3bjZDYk91cVl2RFYtd2VnaXlhVkJjVWlBdXBTbHFoYW5mOE9KWU1HcGQwcTZOOVktN3c5b3gtXzlPal83dkJ4M1BHbmtjVnNKRXgySWVpSGJqSU0tVk56RjBhZVBEOVJDWHFxdEVFMExKVFhCRVpfSDMtY3kwQzA1cVN4TEF5RHhNamc5SlQzOGdpQ2Q?oc=5",
-   "tickers": [
-    "QQQ"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "QQQ",
-   "strength": 25,
-   "reason": "Push for AI companies to fund Trump could signal favorable AI sector stance",
-   "price_since": {
-    "ticker": "QQQ",
-    "pct": 1.2,
-    "base": 709.24,
-    "last": 717.67,
-    "base_date": "2026-09-02",
-    "last_date": "2026-09-03"
-   }
-  },
-  {
-   "date": "2026-09-02T06:22:00Z",
-   "platform": "News",
-   "text": "Stock Market: Will S&P 500 Open Up or Down Today? - TradingView \u2014 Stock Market: Will S&P 500 Open Up or Down Today?\u00a0\u00a0TradingView",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOGxaX2lCT24ydTU0NUtfLVhhNTFGT0dRcGdxdzhwZVBkbTlOMWtwZ3k5RWZtelZHODY4WHdEUTBtOXF1VlRtT2k5VEYxcDF4MWFRaEhMSTJZeFVBX25FNlh1TTdqd3FXT0FCd3g4bi1Gc2RiZmhhalBRbm5pQkNKRk55akxxYVhYZzZXd1d2TmlSdldCNG9DS2NoeHNkQWJrM1N6WEhTTmlmQQ?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "SPY",
-   "strength": 10,
-   "reason": "Generic market direction question; no Trump-specific catalyst",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": 1.0,
-    "base": 765.16,
-    "last": 773.17,
-    "base_date": "2026-09-02",
-    "last_date": "2026-09-03"
-   }
-  },
-  {
-   "date": "2026-09-02T06:15:26Z",
-   "platform": "News",
-   "text": "NIO Stock Eyes First Green Week In A Month: Deutsche Bank Sees ES8 Drag, But Q2 Breakeven Still In Play - stocktwits.com \u2014 NIO Stock Eyes First Green Week In A Month: Deutsche Bank Sees ES8 Drag, But Q2 Breakeven Still In Play\u00a0\u00a0stocktwits.com",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZTRGb2FMNHB2b0lBSWtJUGswb1c2aDF6VE1QMFY1bm5OeVpGbzlHZ3ZndXlZQ183WmZpNzNtbFRYbDdfbTdseGRxNUl6cnhhYndxM0tfYkQteWtwNG5ib2JNQ1dvdWljS1F0VXlMbVBwVmw1b05QTVFYLVI0OUNCSzl3X09mbWUtQ3otTkhPaGFCeE5HQWFpMURDaFd0X25kbEpjMF9n?oc=5",
-   "tickers": [
-    "NIO"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "NIO",
-   "strength": 20,
-   "reason": "NIO stock movement tied to ES8 drag and breakeven outlook; macro uncertainty",
-   "price_since": {
-    "ticker": "NIO",
-    "pct": 0.0,
-    "base": 3.86,
-    "last": 3.86,
     "base_date": "2026-09-02",
     "last_date": "2026-09-03"
    }
