@@ -1,7 +1,24 @@
 {
- "last_updated": "2026-09-07T16:05:28Z",
+ "last_updated": "2026-09-07T19:58:38Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-09-07T17:39:29.684Z",
+   "platform": "Truth Social",
+   "text": "NO MORE SELLING BOMBARDIER IN THE UNITED STATES! Their products aren't good enough! Over 50% of their revenue comes from the United States \u2014 They live off American Buyers, American Companies, American Airports, and American Service \u2014 All while Canada blocks our GREAT American Banks, and Companies, throughout the U.S.A. They even blocked Gulfstream Aerospace from doing business in Canada \u2014 Completely unjust and unfair! That Era is OVER! If they want our Market, they must build here, and stop treating America like a \"piggybank.\" BUY AMERICAN. FLY ON AMERICAN AIRLINERS. ENJOY AMERICAN LIQUOR AND BEVERAGES. SAIL ON LAKE AMERICA. AMERICA FIRST! Thank you for your attention to this matter. President DONALD J. TRUMP",
+   "tickers": [
+    "BBD"
+   ],
+   "engagement": 24402,
+   "url": "https://truthsocial.com/@realDonaldTrump/117230978314061095",
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "SELL",
+   "primary_ticker": "BBD",
+   "strength": 75,
+   "reason": "Trump explicitly attacks Bombardier as unworthy, warns of US market exclusion unless they build domestically\u2014bearish for the company."
+  },
   {
    "date": "2026-09-07T14:53:45Z",
    "platform": "News",
@@ -51,6 +68,22 @@
    "reason": "Trump touts market gains in AI posts; vague macro bullishness but no concrete actionable catalyst"
   },
   {
+   "date": "2026-09-07T08:40:04Z",
+   "platform": "News",
+   "text": "CRML, UUUU, USAR, ALOY, GLND: Greenland\u2019s Rare-Earth Trade Draws Investors As Trump Revives Arctic Ambitions - Stocktwits \u2014 CRML, UUUU, USAR, ALOY, GLND: Greenland\u2019s Rare-Earth Trade Draws Investors As Trump Revives Arctic Ambitions\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPS2w5bklfdmlQVG1ZZDgtRGo5QnlTdW5FZ3dWdnh3aGhJU1FoVHk3aW0tSUU5eDB3bmptb21TSmZvbkZSR2pDR0QydXJFNGV3MFVZWDRxV0YxYkV5R1FtVlVza1B0NU9teWNCN053QU1mNzJXbE83T1E1UElUN1VTZGpqOFBmLUJlbGJZYnRDYy1mYWpYY0dpNFh2OE01SnM1ZnRBall0MFVJTE9DcFJoRnR0NXd3cTQzZnhsdENCM2xrVm1HN00zYUQxRG1ScFo5U19TWG1rcDVuXzEteEhHVzhFQlNmeVhRZXF5UktfSkhYQ2IxNE9iVg?oc=5",
+   "tickers": [
+    "UUUU"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "UUUU",
+   "strength": 50,
+   "reason": "Greenland rare-earth/Arctic strategy is bullish for uranium and rare-earth miners, but direction hinges on geopolitical details; moderate strength."
+  },
+  {
    "date": "2026-09-07T08:34:14Z",
    "platform": "News",
    "text": "ORCL Stock Snaps 3-Day Losing Streak: What\u2019s Making Retail Traders \u2018Extremely Bullish\u2019? - Stocktwits \u2014 ORCL Stock Snaps 3-Day Losing Streak: What\u2019s Making Retail Traders \u2018Extremely Bullish\u2019?\u00a0\u00a0Stocktwits",
@@ -97,6 +130,38 @@
    "primary_ticker": "INTC",
    "strength": 80,
    "reason": "Trump again praises Intel gains and claims huge personal returns, direct bullish signal on INTC"
+  },
+  {
+   "date": "2026-09-07T03:34:03Z",
+   "platform": "News",
+   "text": "Trump gives Ukraine OK to produce Patriot missiles as war with Russia drags on - ABC News - Breaking News, Latest News and Videos \u2014 Trump gives Ukraine OK to produce Patriot missiles as war with Russia drags on\u00a0\u00a0ABC News - Breaking News, Latest News and Videos",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNzUxYW1DQXFGR3RsYThFQ3UxMmhQZTIwNG44ZHI1VENmWWNLYjN4Rm5QWTVpY1Rpa2JHX0ZrTHgzaEFldnFXeXVqbk9YajVmdk1tZTQ2bkNSZksxNmtGYk0tQ20zeFg1UVVqUGlReVhUMFRnV3RXTVc2TmR1VTZXNmRMTFlqQUZOMlVITTlQaXowUVl2UkHSAZsBQVVfeXFMTTJ5Y050Vm52ZWFjTkhvQzd2eHpxMm9FbXVSVU9KOXp5eXJYQzBDbnFXdVh1MS1iWXVRQ2RUemJqdVNIa2FHakozaW1rTHh5dldHeF9hU1p3SmNYRFVUSW4zTHBpUmoxTWFFS0VTSDdOZVhTWUJ6aTN3UnFWN2d3SndMb3lKRmhUWExBZGQxQzIxdmdERElvd0xJbm8?oc=5",
+   "tickers": [
+    "XAR"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "XAR",
+   "strength": 60,
+   "reason": "Ukraine authorized to produce Patriot missiles; defense spending/military industrial expansion bullish for defense sector."
+  },
+  {
+   "date": "2026-09-07T03:23:27Z",
+   "platform": "News",
+   "text": "Trump Reinstates Iranian Blockade, Says US Will Be Reimbursed At A Rate Of 20% On All Cargo Shipped Through The Strait Of Hormuz - Stocktwits \u2014 Trump Reinstates Iranian Blockade, Says US Will Be Reimbursed At A Rate Of 20% On All Cargo Shipped Through The Strait Of Hormuz\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQbmtjamxSQk5UZDVHZ3FaSjdKTmdhYjNhclV0Tk95ZEpvM2FFRnFDclNiVzhwNjluT2d0V0xBc0N5RkZUeDdXOGVkZV90ZkVQdEkzM0lvSEdrZjdwRENPRUQwdVZTS2VjSTRkSFdEbzdxZXlqXzV6cUMyY0trTW9RQ29ld3pRU2dyMnFSYzEwUE9sSzEwakNmY20xeUpVcUhINzdwN2p3SkxHdEpaZjVSa0RWa3dHWkJQaW51SV8tbk5GQ2ZOdXNhaXBCOA?oc=5",
+   "tickers": [
+    "XLE"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "XLE",
+   "strength": 65,
+   "reason": "Reimposed Iranian blockade with 20% cargo tax restricts oil supply flow through critical strait; bearish for global oil/energy market access."
   },
   {
    "date": "2026-09-07T01:20:29Z",
@@ -803,22 +868,6 @@
    "primary_ticker": "SPY",
    "strength": 70,
    "reason": "Trump threatens trade halt unless Fed cuts rates, macro economic pressure on broad market"
-  },
-  {
-   "date": "2026-09-05T09:43:25Z",
-   "platform": "News",
-   "text": "CRML, UUUU, USAR, ALOY, GLND: Greenland\u2019s Rare-Earth Trade Draws Investors As Trump Revives Arctic Ambitions - Stocktwits \u2014 CRML, UUUU, USAR, ALOY, GLND: Greenland\u2019s Rare-Earth Trade Draws Investors As Trump Revives Arctic Ambitions\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPS2w5bklfdmlQVG1ZZDgtRGo5QnlTdW5FZ3dWdnh3aGhJU1FoVHk3aW0tSUU5eDB3bmptb21TSmZvbkZSR2pDR0QydXJFNGV3MFVZWDRxV0YxYkV5R1FtVlVza1B0NU9teWNCN053QU1mNzJXbE83T1E1UElUN1VTZGpqOFBmLUJlbGJZYnRDYy1mYWpYY0dpNFh2OE01SnM1ZnRBall0MFVJTE9DcFJoRnR0NXd3cTQzZnhsdENCM2xrVm1HN00zYUQxRG1ScFo5U19TWG1rcDVuXzEteEhHVzhFQlNmeVhRZXF5UktfSkhYQ2IxNE9iVg?oc=5",
-   "tickers": [
-    "UUUU"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "UUUU",
-   "strength": 65,
-   "reason": "Trump revives Arctic/Greenland ambitions \u2192 rare-earth demand up, uranium explorers bullish"
   },
   {
    "date": "2026-09-05T09:43:25Z",
@@ -2269,150 +2318,6 @@
     "pct": 0.0,
     "base": 3.86,
     "last": 3.86,
-    "base_date": "2026-09-02",
-    "last_date": "2026-09-03"
-   }
-  },
-  {
-   "date": "2026-09-02T05:39:24Z",
-   "platform": "News",
-   "text": "QCOM Stock Is 7% From Its Record High; Executives To Join Trump In China Visit - stocktwits.com \u2014 QCOM Stock Is 7% From Its Record High; Executives To Join Trump In China Visit\u00a0\u00a0stocktwits.com",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVXpadHNKQ3hrQS15eXBfZVNyZkRXR2hZZGpvbUF0OFp0VHJrWUhsck53RmFDb2l4eUdfVFQwY0QyZ0tYMERtRE1aaGRVSV9ORFVQd1I4WW9VOXNPS2o2Z3RqRnVReldvOWJneGJsbl81MDRkdTQ1TFd1RVQzWHgzcS01VU9ZY0RuVHZ4TWZOQWphQjlDZVQxMkJKb21PZkJYZXNxLVhnT0xKUDVEcHZYWWUyNncyZzJwX0V1YkJUTUluTU9rTFkxZ2RLRkx6eTk0dGRLSTg1T0Nwd0toT3c?oc=5",
-   "tickers": [
-    "QCOM"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "QCOM",
-   "strength": 40,
-   "reason": "Qualcomm executives join Trump China visit; suggests favorable trade/geopolitical positioning",
-   "price_since": {
-    "ticker": "QCOM",
-    "pct": -0.1,
-    "base": 169.96,
-    "last": 169.74,
-    "base_date": "2026-09-02",
-    "last_date": "2026-09-03"
-   }
-  },
-  {
-   "date": "2026-09-02T05:33:01Z",
-   "platform": "News",
-   "text": "SK Hynix Targets $29B Nasdaq Offering \u2013 DRAM Jumps Over 4% Ahead Of Micron's Report - Stocktwits \u2014 SK Hynix Targets $29B Nasdaq Offering \u2013 DRAM Jumps Over 4% Ahead Of Micron's Report\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQVWh6bUc2UTNReFhfeldjczVpMzFLU2p6VXZEalVfSUd2MnFTbURJamJSWjdYdWNSaElTY3R2aG9YR1U2bDM1U3ljSXYxeTFJVUQxdVlrdlRLeEk2ZzlJNS10bEkyOTVKdWxVcEdfemFzdUFTMkNnUnhEYWdfTWJhOW9FX2dYcnVaYjJsQ1hDVVBTUXJwTTFlcjRUVWROYUFwcnJOZ0oteUJsWEFuUGdpaGJJejVhczZFZjZaa3F4Rk1scW9jalotbjh6S19rWkZTTXNjckVDaEtfOFZE?oc=5",
-   "tickers": [
-    "SMH"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "SMH",
-   "strength": 40,
-   "reason": "SK Hynix large DRAM offering; bullish signal for semiconductor sector ahead of Micron earnings.",
-   "price_since": {
-    "ticker": "SMH",
-    "pct": 0.5,
-    "base": 550.48,
-    "last": 553.46,
-    "base_date": "2026-09-02",
-    "last_date": "2026-09-03"
-   }
-  },
-  {
-   "date": "2026-09-02T05:33:01Z",
-   "platform": "News",
-   "text": "SK Hynix Targets $29B Nasdaq Offering \u2013 DRAM Jumps Over 4% Ahead Of Micron's Report - stocktwits.com \u2014 SK Hynix Targets $29B Nasdaq Offering \u2013 DRAM Jumps Over 4% Ahead Of Micron's Report\u00a0\u00a0stocktwits.com",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQVWh6bUc2UTNReFhfeldjczVpMzFLU2p6VXZEalVfSUd2MnFTbURJamJSWjdYdWNSaElTY3R2aG9YR1U2bDM1U3ljSXYxeTFJVUQxdVlrdlRLeEk2ZzlJNS10bEkyOTVKdWxVcEdfemFzdUFTMkNnUnhEYWdfTWJhOW9FX2dYcnVaYjJsQ1hDVVBTUXJwTTFlcjRUVWROYUFwcnJOZ0oteUJsWEFuUGdpaGJJejVhczZFZjZaa3F4Rk1scW9jalotbjh6S19rWkZTTXNjckVDaEtfOFZE?oc=5",
-   "tickers": [
-    "SMH"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "SMH",
-   "strength": 35,
-   "reason": "SK Hynix IPO and DRAM strength ahead of Micron report; semiconductor tailwind",
-   "price_since": {
-    "ticker": "SMH",
-    "pct": 0.5,
-    "base": 550.48,
-    "last": 553.48,
-    "base_date": "2026-09-02",
-    "last_date": "2026-09-03"
-   }
-  },
-  {
-   "date": "2026-09-02T05:32:20Z",
-   "platform": "News",
-   "text": "Dell's CEO Says AI Boom Means Nonstop Scrambling for Parts - Dell Technologies (NYSE:DELL) - Benzinga \u2014 Dell's CEO Says AI Boom Means Nonstop Scrambling for Parts - Dell Technologies (NYSE:DELL)\u00a0\u00a0Benzinga",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZ3Z5NlZndUh5NXh4T1Y2UHN3X25KVjVoS1ZycUtyREJhYWR1V2p0ZkhOR3B4Vjh6YzY4S1dHSUlaNWRQemE0a25oTzJEeTI1QWRScXVfOFljb1Z2WkE2dHZnREx6Unhua29ERkt1QkFNX2Ftb3hNeDIwN1BrelJMbGZ2WFk0bGl0UzFzbjJfQUFtcmhIckxtY2ZSNWhQQW9zY3J1a3hrQURuN0RG?oc=5",
-   "tickers": [
-    "DELL"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "DELL",
-   "strength": 50,
-   "reason": "Dell CEO highlights AI boom driving robust parts demand; bullish for Dell on strong AI-driven sales.",
-   "price_since": {
-    "ticker": "DELL",
-    "pct": 4.5,
-    "base": 492.2,
-    "last": 514.27,
-    "base_date": "2026-09-02",
-    "last_date": "2026-09-03"
-   }
-  },
-  {
-   "date": "2026-09-02T02:49:09Z",
-   "platform": "News",
-   "text": "Trump urges refiners to boost fuel output - Briefs Finance \u2014 Trump urges refiners to boost fuel output\u00a0\u00a0Briefs Finance",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVlNPdXJMS2VuOTZYWkJUT0JJcnNvdnk0UC1rUXJuRGluN09JTUJqMjJHUVZUSlZmSGgzMUZsOUhCWGQzaTd5TEhpLUt3eDFOa2szeGZFSFVzX3dMSEpXM2FfWTBmS3MwOW00cFpnbjEyMDB3M3FuRmxhTHRISmRHQWJrTzdEX3NEMGtyRlBnVVpPZw?oc=5",
-   "tickers": [
-    "XLE"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "XLE",
-   "strength": 45,
-   "reason": "Trump urges oil refiners to boost output, implying support for energy sector expansion.",
-   "price_since": {
-    "ticker": "XLE",
-    "pct": -0.4,
-    "base": 65.1,
-    "last": 64.85,
-    "base_date": "2026-09-02",
-    "last_date": "2026-09-03"
-   }
-  },
-  {
-   "date": "2026-09-02T02:12:26Z",
-   "platform": "News",
-   "text": "Brent crude tops $96 per barrel after Trump claims 'almost total control' of Strait of Hormuz - Business Today \u2014 Brent crude tops $96 per barrel after Trump claims 'almost total control' of Strait of Hormuz\u00a0\u00a0Business Today",
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTXJxdVQ1SFA0YjhzNEItNWNycGdSOFdIX0VUVDhxQ1BLMzhvV041X1pSZEtPMF9vY2U3SGRoeVFoZEtra3FCVmM2U1diQXk1cG5XSzRpVk96RWwtQ2prWjJndXZGUzhZNmJ0cnBNcUtlNnlzRUFTd0JhVU5PQndmY2Z5R0VrN0h1UXplOXFuUlRyVlR3dHN3bEdING82dWk0enZqNHVhLWpJcmZvSFRTZ0RCNWJFQ3VGLVd6U0VBQ3FzMEhxZGFIOHJMMWE5RGdKTjBJOGU2NExyTGZtTzhodjF3QdIB6AFBVV95cUxNc09pS0tIZFMyUl9yTFRwUlBiMEhqSXpvUnZPMS1JYkNoVGxyc2dWbURQaDlIVmExQlgxMWV1Rzg4S3JTZjNDWldPLWhZZWFndDlLV0V4bU1aM19rd3NsbjNpaFZmNGVBMVZ0SGRBSjBDQzdWZTJlM2M3NFcxaVppS3QwbC1seFlsSHhqQXZ0WTJsaXpIb0ZpM0NUb2p6bzJmdFBUSlVNdkZCN0tMVHBwcmZWYXBjT1V3QUZVVDh1WFNBYm9CODIxX0R1cFFUOEhiRDVMMjJzWHVURmdmeDBoQzktYk1GOEEx?oc=5",
-   "tickers": [
-    "USO"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "USO",
-   "strength": 65,
-   "reason": "Trump's Strait of Hormuz control claim drives crude oil higher directly",
-   "price_since": {
-    "ticker": "USO",
-    "pct": 0.4,
-    "base": 141.15,
-    "last": 141.66,
     "base_date": "2026-09-02",
     "last_date": "2026-09-03"
    }
