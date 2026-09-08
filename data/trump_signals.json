@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-09-08T05:19:43Z",
+ "last_updated": "2026-09-08T09:58:10Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-09-08T06:45:48Z",
+   "platform": "News",
+   "text": "Trump Threatens to Block Bombardier Planes From US Market - Tempo.co English \u2014 Trump Threatens to Block Bombardier Planes From US Market\u00a0\u00a0Tempo.co English",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcnVubWpkSVNXUFRUWkk2UXpxcnQ1UHdrQzRtei1nMGFrM2pCZ084bDA5b3hURUNKaHZtTUo4a1VhSEJGekFlOS1tdmh0NEJfZEota2hPUzhNWlh2WDZPc3Z0ekxiTEd1OTYyUV9PdEJMMDg1M1RXVm4xalpfQzFTU0lXcVdIWTM1SlRoUDAxRUN1UktC?oc=5",
+   "tickers": [
+    "BDRBF"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "SELL",
+   "primary_ticker": "BDRBF",
+   "strength": 75,
+   "reason": "Trump threatens to block Bombardier planes from US market, bearish for manufacturer"
+  },
   {
    "date": "2026-09-08T00:35:10Z",
    "platform": "News",
@@ -228,6 +244,22 @@
    "primary_ticker": "INTC",
    "strength": 80,
    "reason": "Trump again praises Intel gains and claims huge personal returns, direct bullish signal on INTC"
+  },
+  {
+   "date": "2026-09-07T03:52:12Z",
+   "platform": "News",
+   "text": "IBM Stock Rallies On Trump Administration\u2019s $1B Grant: Analysts Say \u2018Big Blue\u2019 Could Become First US Quantum Foundry - Stocktwits \u2014 IBM Stock Rallies On Trump Administration\u2019s $1B Grant: Analysts Say \u2018Big Blue\u2019 Could Become First US Quantum Foundry\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOVG52c0VBRjZ6TzVuLThuSWdTN3NxMlIzUEc0aWVkUllDZDJMSVVMRlo1Rkgxb1Rja2swU1JlcVhlbmg4ejlfeGJoRGkzVG1VSEM4ZC1McWtGQnNVYklYVjYwQVliTHRoX3NqZDJZV0dlQ2NTaC1NaHhFaVAtdmVjdzVGcFhSangwdDluaTltYXZ3TXhaWWxISmlPREpkQ0N2VHdEMENJUkpDaDBGcUhSdXFZdExXbkhPaENSWlAxbVhPS3EyTnoyc3NoX2RpOXNqeEFYaFhhaGYxQUxRaWR0QUJwQ0J5VmhBY3ZpOV9YMVNjeUZlRHRzVXBLS3BpSER4VXpVWTVsYS1aZw?oc=5",
+   "tickers": [
+    "IBM"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "IBM",
+   "strength": 80,
+   "reason": "Trump administration awards IBM $1B quantum grant, direct bullish federal contract to named public company"
   },
   {
    "date": "2026-09-07T03:34:03Z",
@@ -646,22 +678,6 @@
    "primary_ticker": "SPY",
    "strength": 35,
    "reason": "Trump signals $800M stock market investment for retail; bullish macro tone but vague on timing/mechanism"
-  },
-  {
-   "date": "2026-09-06T01:16:01Z",
-   "platform": "News",
-   "text": "IBM Stock Rallies On Trump Administration\u2019s $1B Grant: Analysts Say \u2018Big Blue\u2019 Could Become First US Quantum Foundry - Stocktwits \u2014 IBM Stock Rallies On Trump Administration\u2019s $1B Grant: Analysts Say \u2018Big Blue\u2019 Could Become First US Quantum Foundry\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOVG52c0VBRjZ6TzVuLThuSWdTN3NxMlIzUEc0aWVkUllDZDJMSVVMRlo1Rkgxb1Rja2swU1JlcVhlbmg4ejlfeGJoRGkzVG1VSEM4ZC1McWtGQnNVYklYVjYwQVliTHRoX3NqZDJZV0dlQ2NTaC1NaHhFaVAtdmVjdzVGcFhSangwdDluaTltYXZ3TXhaWWxISmlPREpkQ0N2VHdEMENJUkpDaDBGcUhSdXFZdExXbkhPaENSWlAxbVhPS3EyTnoyc3NoX2RpOXNqeEFYaFhhaGYxQUxRaWR0QUJwQ0J5VmhBY3ZpOV9YMVNjeUZlRHRzVXBLS3BpSER4VXpVWTVsYS1aZw?oc=5",
-   "tickers": [
-    "IBM"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "IBM",
-   "strength": 75,
-   "reason": "Trump administration awards IBM $1B federal grant for quantum foundry; direct bullish catalyst"
   },
   {
    "date": "2026-09-06T01:16:01Z",
@@ -2192,78 +2208,6 @@
     "pct": 1.8,
     "base": 216.6,
     "last": 220.5,
-    "base_date": "2026-09-02",
-    "last_date": "2026-09-03"
-   }
-  },
-  {
-   "date": "2026-09-02T17:25:29Z",
-   "platform": "News",
-   "text": "Capital One asked for for details on anti-money laundering review linked to debanking Trump accounts - report - Seeking Alpha \u2014 Capital One asked for for details on anti-money laundering review linked to debanking Trump accounts - report\u00a0\u00a0Seeking Alpha",
-   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOc3hfWWZsZ0JTNFdUbktWalhaWlhTUDdkQUV5ZnNfWHRaU1B4UXNtWnpmbmRsVlU2TWxmWHJHRG4zQVFuUXRPcDVmMUtIVWZqZS1oN3M3b3dvc3pnbTc3QktXbjZ4aXB5MGlfeUpKMGRJeDRtbzBGanBlQjQ2b1Ywb1d6RjJBUERnTzZCay1RU2tRQnlQal9FTFBTd2hteGNuUG1XeVR2TDBwNDViNnFTOG8tUXptYlBrc2o4Q1JTYWxqeVVhQ3l1V3FZUWtNVzRnT1hhcHphX1VJeXByNU53OHBwR2g?oc=5",
-   "tickers": [
-    "COF"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "COF",
-   "strength": 50,
-   "reason": "Capital One AML review tied to Trump account debanking suggests regulatory/reputational friction; negative for bank.",
-   "price_since": {
-    "ticker": "COF",
-    "pct": 1.8,
-    "base": 216.6,
-    "last": 220.5,
-    "base_date": "2026-09-02",
-    "last_date": "2026-09-03"
-   }
-  },
-  {
-   "date": "2026-09-02T17:02:18Z",
-   "platform": "News",
-   "text": "Trump-Anthropic thaw? US Commerce Secretary says AI firm is \u2018back on the right side\u2019 - Moneycontrol.com \u2014 Trump-Anthropic thaw? US Commerce Secretary says AI firm is \u2018back on the right side\u2019\u00a0\u00a0Moneycontrol.com",
-   "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNWjJFalZqa0tSLWE3Zk90WHhFSng4N2tLdnh5ZjVXQnNQVXZaVHJ3bTRyN2VjQ0VBMWNDdGl3YW95U0FiUnRvVUtkempONGYzNmJjNnJCSTJDUDFfdS1QZVplNUp1LVROOFhDZ2lqeHNCUjJ0blh4UWl4R094WXpNWHVLOGd5amtCbHNKTnNRYlV0OUYwTmZ6VlMyWG9ObEtOSDJvbklyYVBFSzB0TFc4Z2s4SnBSdWZVVko5YmRtV2lKWUFMX09EcFFUNGNmN09Hc1NMWTNQX1NVYmNkSHdvOTVMWkdvbXpfMjhaZ3pQbVc4bzhBWTVhREU3ci1seGxIVUJ1bNIBhAJBVV95cUxNWjJFalZqa0tSLWE3Zk90WHhFSng4N2tLdnh5ZjVXQnNQVXZaVHJ3bTRyN2VjQ0VBMWNDdGl3YW95U0FiUnRvVUtkempONGYzNmJjNnJCSTJDUDFfdS1QZVplNUp1LVROOFhDZ2lqeHNCUjJ0blh4UWl4R094WXpNWHVLOGd5amtCbHNKTnNRYlV0OUYwTmZ6VlMyWG9ObEtOSDJvbklyYVBFSzB0TFc4Z2s4SnBSdWZVVko5YmRtV2lKWUFMX09EcFFUNGNmN09Hc1NMWTNQX1NVYmNkSHdvOTVMWkdvbXpfMjhaZ3pQbVc4bzhBWTVhREU3ci1seGxIVUJ1bA?oc=5",
-   "tickers": [
-    "GOOG"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "GOOG",
-   "strength": 35,
-   "reason": "Implied thaw with AI firm Anthropic suggests reduced regulatory friction; modest bullish signal for AI sector",
-   "price_since": {
-    "ticker": "GOOG",
-    "pct": 1.6,
-    "base": 333.78,
-    "last": 339.08,
-    "base_date": "2026-09-02",
-    "last_date": "2026-09-03"
-   }
-  },
-  {
-   "date": "2026-09-02T14:42:00Z",
-   "platform": "News",
-   "text": "Anthropic Leader Praises President Trump\u2019s Data Center Stance at G20 Meeting - theinformation.com \u2014 Anthropic Leader Praises President Trump\u2019s Data Center Stance at G20 Meeting\u00a0\u00a0theinformation.com",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNExXSGRnbXhlZm95TUdLVDE0ZmRPUzJiNVpFRlRGUmNrZG50T280bUFlWFZxd3BHOUNZaWtPaU1NZXlCUm1xQ3JhTVdWdFBmZFBhZnp5bGdDejMtUmRXeXJYVm0waXRqNVdjaFNVNkVUdkF1RThCMF9Sd1ZlUG1tZ1dWVFBLM0RmSEdCRVRMeUx1aW5vaDdYaFJROEJNbWY4WXUxVVlfSFlOSHFRTWFjN29fZw?oc=5",
-   "tickers": [
-    "NVDA"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "NVDA",
-   "strength": 35,
-   "reason": "Trump's pro-data-center stance supports AI infrastructure & semiconductor demand",
-   "price_since": {
-    "ticker": "NVDA",
-    "pct": 1.8,
-    "base": 224.41,
-    "last": 228.45,
     "base_date": "2026-09-02",
     "last_date": "2026-09-03"
    }
