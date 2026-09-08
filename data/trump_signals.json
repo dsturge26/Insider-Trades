@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-09-08T09:58:10Z",
+ "last_updated": "2026-09-08T14:18:48Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -50,6 +50,22 @@
    "primary_ticker": "USO",
    "strength": 60,
    "reason": "War resolution with Iran and oil price collapse forecast implies oil demand/supply shock; bullish for energy sector on geopolitical de-escalation narrative"
+  },
+  {
+   "date": "2026-09-07T22:32:24Z",
+   "platform": "News",
+   "text": "Trump gives Ukraine OK to produce Patriot missiles as war with Russia drags on - ABC News - Breaking News, Latest News and Videos \u2014 Trump gives Ukraine OK to produce Patriot missiles as war with Russia drags on\u00a0\u00a0ABC News - Breaking News, Latest News and Videos",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNzUxYW1DQXFGR3RsYThFQ3UxMmhQZTIwNG44ZHI1VENmWWNLYjN4Rm5QWTVpY1Rpa2JHX0ZrTHgzaEFldnFXeXVqbk9YajVmdk1tZTQ2bkNSZksxNmtGYk0tQ20zeFg1UVVqUGlReVhUMFRnV3RXTVc2TmR1VTZXNmRMTFlqQUZOMlVITTlQaXowUVl2UkHSAZsBQVVfeXFMTTJ5Y050Vm52ZWFjTkhvQzd2eHpxMm9FbXVSVU9KOXp5eXJYQzBDbnFXdVh1MS1iWXVRQ2RUemJqdVNIa2FHakozaW1rTHh5dldHeF9hU1p3SmNYRFVUSW4zTHBpUmoxTWFFS0VTSDdOZVhTWUJ6aTN3UnFWN2d3SndMb3lKRmhUWExBZGQxQzIxdmdERElvd0xJbm8?oc=5",
+   "tickers": [
+    "XAR"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "XAR",
+   "strength": 50,
+   "reason": "Ukraine approval to produce Patriot missiles; bullish for US defense contractors"
   },
   {
    "date": "2026-09-07T21:35:50.447Z",
@@ -148,6 +164,38 @@
    "primary_ticker": "SPY",
    "strength": 25,
    "reason": "Trump claims market gains; weak signal since unverified claim with no new policy catalyst"
+  },
+  {
+   "date": "2026-09-07T11:39:04Z",
+   "platform": "News",
+   "text": "MU, SNDK, STX, WDC Stocks Extend Slide Overnight As Memory Pump Fades: Retail Traders Hopeful For Rebound - Stocktwits \u2014 MU, SNDK, STX, WDC Stocks Extend Slide Overnight As Memory Pump Fades: Retail Traders Hopeful For Rebound\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPb0VPUHFyT3dNU1BkR3RTbUZ5dENaV0tfUUViMzZzVDJDcXZFVWdxZ1Raa3N4SkFYX0E3enVNUzdxN193Q1lkUVVfdUtqNkhJelJLUkwzVmhMYUEtWDBsRmw4LV9mQmVCQlMyUFJ2a3lZT0Z1QWF3clF0eUtPa2JsMDJGT3pJcEdiNVpTWHFobGxIUlRCeEV5N1dYQUp5LV9Pbjlyc1FNeS03OGhUZTViX29RTmM5d1BpalVIWDNTUDFja2lRb1FnY19pSi0zRXozSUNzaUJKS0tpdFcwa0NWbG94dzBvWnItOHF1dVNQM29Kc2h1SF9FUg?oc=5",
+   "tickers": [
+    "MU"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "MU",
+   "strength": 45,
+   "reason": "Memory chip stocks sliding as tariff/AI cycle dynamics shift; direction ambiguous"
+  },
+  {
+   "date": "2026-09-07T11:20:27Z",
+   "platform": "News",
+   "text": "MU Stock Eases After Record Run: Micron Backs Trump Accounts With $250M Commitment - Stocktwits \u2014 MU Stock Eases After Record Run: Micron Backs Trump Accounts With $250M Commitment\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPVDE3TEpTVWtjT281REUwbWFGQzN0ZHpWNnU1UlpVRWRYMDExdzEyRVZ1MHlpbDd6V3ZFNjlmUVRyYXlabHpkVUpSejJmb3p5bF9mbkpobEpQanF5bzM2NjNpcDZ5N01rOEYyeDZvLTRZc0xIeG9xaEpESjc0bERrUTQwbTRMcXdCUHE0N0UzaTNoZFd2ZTU1Qk5JaDlMOG1GUG1icU9SMU9ja0Y5c21SUEcwN2EyYVpRUFQxY1JqOUZBeUJZT2QyYVppalpTSnhSUER1M0pMcjlLRG5YeVE?oc=5",
+   "tickers": [
+    "MU"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "MU",
+   "strength": 50,
+   "reason": "Micron commits $250M to Trump accounts; supportive signal for the stock"
   },
   {
    "date": "2026-09-07T11:06:20Z",
@@ -260,22 +308,6 @@
    "primary_ticker": "IBM",
    "strength": 80,
    "reason": "Trump administration awards IBM $1B quantum grant, direct bullish federal contract to named public company"
-  },
-  {
-   "date": "2026-09-07T03:34:03Z",
-   "platform": "News",
-   "text": "Trump gives Ukraine OK to produce Patriot missiles as war with Russia drags on - ABC News - Breaking News, Latest News and Videos \u2014 Trump gives Ukraine OK to produce Patriot missiles as war with Russia drags on\u00a0\u00a0ABC News - Breaking News, Latest News and Videos",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNzUxYW1DQXFGR3RsYThFQ3UxMmhQZTIwNG44ZHI1VENmWWNLYjN4Rm5QWTVpY1Rpa2JHX0ZrTHgzaEFldnFXeXVqbk9YajVmdk1tZTQ2bkNSZksxNmtGYk0tQ20zeFg1UVVqUGlReVhUMFRnV3RXTVc2TmR1VTZXNmRMTFlqQUZOMlVITTlQaXowUVl2UkHSAZsBQVVfeXFMTTJ5Y050Vm52ZWFjTkhvQzd2eHpxMm9FbXVSVU9KOXp5eXJYQzBDbnFXdVh1MS1iWXVRQ2RUemJqdVNIa2FHakozaW1rTHh5dldHeF9hU1p3SmNYRFVUSW4zTHBpUmoxTWFFS0VTSDdOZVhTWUJ6aTN3UnFWN2d3SndMb3lKRmhUWExBZGQxQzIxdmdERElvd0xJbm8?oc=5",
-   "tickers": [
-    "XAR"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "XAR",
-   "strength": 60,
-   "reason": "Ukraine authorized to produce Patriot missiles; defense spending/military industrial expansion bullish for defense sector."
   },
   {
    "date": "2026-09-07T03:34:03Z",
@@ -568,22 +600,6 @@
    "reason": "Canadian dollar weakness implied by Trump's criticism of CAD imbalance; bearish for CAD."
   },
   {
-   "date": "2026-09-06T12:54:45Z",
-   "platform": "News",
-   "text": "MU, SNDK, STX, WDC Stocks Extend Slide Overnight As Memory Pump Fades: Retail Traders Hopeful For Rebound - Stocktwits \u2014 MU, SNDK, STX, WDC Stocks Extend Slide Overnight As Memory Pump Fades: Retail Traders Hopeful For Rebound\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPb0VPUHFyT3dNU1BkR3RTbUZ5dENaV0tfUUViMzZzVDJDcXZFVWdxZ1Raa3N4SkFYX0E3enVNUzdxN193Q1lkUVVfdUtqNkhJelJLUkwzVmhMYUEtWDBsRmw4LV9mQmVCQlMyUFJ2a3lZT0Z1QWF3clF0eUtPa2JsMDJGT3pJcEdiNVpTWHFobGxIUlRCeEV5N1dYQUp5LV9Pbjlyc1FNeS03OGhUZTViX29RTmM5d1BpalVIWDNTUDFja2lRb1FnY19pSi0zRXozSUNzaUJKS0tpdFcwa0NWbG94dzBvWnItOHF1dVNQM29Kc2h1SF9FUg?oc=5",
-   "tickers": [
-    "MU"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "MU",
-   "strength": 30,
-   "reason": "Memory-chip volatility; retail optimism for rebound but no Trump-specific catalyst."
-  },
-  {
    "date": "2026-09-06T11:06:51Z",
    "platform": "News",
    "text": "Michael Burry Says Palantir's $432 Billion Valuation Could Fall Below $100 Billion - Startup Fortune \u2014 Michael Burry Says Palantir's $432 Billion Valuation Could Fall Below $100 Billion\u00a0\u00a0Startup Fortune",
@@ -710,22 +726,6 @@
    "primary_ticker": "SMH",
    "strength": 40,
    "reason": "Memory chip stocks (MU, SNDK, STX, WDC) extend slide; sector weakness."
-  },
-  {
-   "date": "2026-09-05T23:33:13Z",
-   "platform": "News",
-   "text": "MU Stock Eases After Record Run: Micron Backs Trump Accounts With $250M Commitment - Stocktwits \u2014 MU Stock Eases After Record Run: Micron Backs Trump Accounts With $250M Commitment\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPVDE3TEpTVWtjT281REUwbWFGQzN0ZHpWNnU1UlpVRWRYMDExdzEyRVZ1MHlpbDd6V3ZFNjlmUVRyYXlabHpkVUpSejJmb3p5bF9mbkpobEpQanF5bzM2NjNpcDZ5N01rOEYyeDZvLTRZc0xIeG9xaEpESjc0bERrUTQwbTRMcXdCUHE0N0UzaTNoZFd2ZTU1Qk5JaDlMOG1GUG1icU9SMU9ja0Y5c21SUEcwN2EyYVpRUFQxY1JqOUZBeUJZT2QyYVppalpTSnhSUER1M0pMcjlLRG5YeVE?oc=5",
-   "tickers": [
-    "MU"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "MU",
-   "strength": 45,
-   "reason": "Micron backs Trump accounts with $250M commitment; bullish support but mixed with stock easing after run"
   },
   {
    "date": "2026-09-05T23:33:13Z",
@@ -2187,30 +2187,6 @@
    "primary_ticker": "ANTML",
    "strength": 45,
    "reason": "Anthropic reported back in Trump's favor after Pentagon friction; thaw suggests policy support for AI/defense sector"
-  },
-  {
-   "date": "2026-09-02T17:25:29Z",
-   "platform": "News",
-   "text": "Senator asks Capital One for details on anti-money laundering review linked to debanking Trump accounts - report - Seeking Alpha \u2014 Senator asks Capital One for details on anti-money laundering review linked to debanking Trump accounts - report\u00a0\u00a0Seeking Alpha",
-   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOc3hfWWZsZ0JTNFdUbktWalhaWlhTUDdkQUV5ZnNfWHRaU1B4UXNtWnpmbmRsVlU2TWxmWHJHRG4zQVFuUXRPcDVmMUtIVWZqZS1oN3M3b3dvc3pnbTc3QktXbjZ4aXB5MGlfeUpKMGRJeDRtbzBGanBlQjQ2b1Ywb1d6RjJBUERnTzZCay1RU2tRQnlQal9FTFBTd2hteGNuUG1XeVR2TDBwNDViNnFTOG8tUXptYlBrc2o4Q1JTYWxqeVVhQ3l1V3FZUWtNVzRnT1hhcHphX1VJeXByNU53OHBwR2g?oc=5",
-   "tickers": [
-    "COF"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "COF",
-   "strength": 35,
-   "reason": "Capital One debanking review of Trump accounts creates regulatory/reputational risk",
-   "price_since": {
-    "ticker": "COF",
-    "pct": 1.8,
-    "base": 216.6,
-    "last": 220.5,
-    "base_date": "2026-09-02",
-    "last_date": "2026-09-03"
-   }
   },
   {
    "curated": true,
