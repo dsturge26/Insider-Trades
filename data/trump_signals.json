@@ -1,7 +1,39 @@
 {
- "last_updated": "2026-09-08T14:18:48Z",
+ "last_updated": "2026-09-08T18:00:46Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-09-08T15:21:23Z",
+   "platform": "News",
+   "text": "Bombardier Shares Tank 7% After Trump Threatens To Cut Canadian Jet Maker's US Market Access - NDTV Profit \u2014 Bombardier Shares Tank 7% After Trump Threatens To Cut Canadian Jet Maker's US Market Access\u00a0\u00a0NDTV Profit",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNa01JV0w3OTFwZnVkRXgxNFo0c09ENHV1cjg3YU1yTHVmN2xQdkVDRm5HMF95Wm1ZVzlsNXNvZEJxZ0hvc0dYd0Y0eUN2cEdhYUd3cE80VGxqa1hBQXlQTWJDNmFsWVdNTmVpZ0VOQVBDckoyeUNjMFdSOWNYTG5xcHRhZXR1a3NZWHhwU2xPRWdvMjhnSUVXVUgyYVVaRTF2eEFWN0p0UjZoTjBhSmZiby14bmlTR3E3UGMyVlpTdXJJSEI3dTBGVEE5cUdvWlnSAdcBQVVfeXFMTU1sV1I5aHRXQV9xNmNDZldkb3NkMlItZ0c5LU00bVBuV1d0TlE5Y1UyTW1GSW5uaWNKekZabkd1QWFVc25QdlhKTVV3Uzc4bUFJQmJqaEVnY19rbXF1UTVOLW1STmZMOVBNZVRYTHYwSURPU3U4SzFOQzVtYXJKM0xLc3phUVpfbmt2Qk9Cb0FTVGJQWW5DT1BMRFhxUVB0V0pRRVNHNGFHM3VVS2dOWmM4Z2ZxTTJPMEdaekVXOTF6T1hTWnl6MW5maEF4cG9kbEFDbkN5Skk?oc=5",
+   "tickers": [
+    "BBD"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "SELL",
+   "primary_ticker": "BBD",
+   "strength": 75,
+   "reason": "Trump threatens to cut Bombardier's US market access; direct bearish impact on Canadian jet maker"
+  },
+  {
+   "date": "2026-09-08T12:13:42Z",
+   "platform": "News",
+   "text": "Bombardier, a Canadian Jet Maker, Is a Target in Trump\u2019s Trade War - The New York Times \u2014 Bombardier, a Canadian Jet Maker, Is a Target in Trump\u2019s Trade War\u00a0\u00a0The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcnZhSEptOENzYndSTGpLdWs1eWg2WnoyMHpqT0tqMnhQblU5eUZBQy12azdESmdCWDJPVWJnMUkwb0g0enQ2enFRdzBTWGhQQVhfTS1KTUtwVWxENE83aHZlbk02RHhrajd2V0NVLU1lM2pnMF9tLTFqN0dBUzhzYTVQaUpJQjJlaGUwNVhJOVhNQQ?oc=5",
+   "tickers": [
+    "BBD"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "SELL",
+   "primary_ticker": "BBD",
+   "strength": 75,
+   "reason": "Trump targets Bombardier in trade war; direct threat to Canadian aerospace company's US access"
+  },
   {
    "date": "2026-09-08T06:45:48Z",
    "platform": "News",
@@ -17,6 +49,22 @@
    "primary_ticker": "BDRBF",
    "strength": 75,
    "reason": "Trump threatens to block Bombardier planes from US market, bearish for manufacturer"
+  },
+  {
+   "date": "2026-09-08T06:01:00Z",
+   "platform": "News",
+   "text": "INTC Jumps Overnight: Trump Touts Intel Stock In AI-Generated Trading Image, Claims He Made \u2018Billions\u2019 For US - Stocktwits \u2014 INTC Jumps Overnight: Trump Touts Intel Stock In AI-Generated Trading Image, Claims He Made \u2018Billions\u2019 For US\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNbWFMUVhCdjQ2RloxMVl3RmFtZHA5aWwwQXJ0SGlQX2piODhMUE5DWUVrOFlQVVc2QmljSkJZOUtDclFsWjY3cWZZUGpvMl9QalExek81dmctU0prNk13RmlHVzNJVTNNbC1TVnVRa21PRTRUVF80c2NHeE9rNjF5clJHR3ZOcHpSSHpURkpyS1R3UHFrSGpjWTZKVVU1OUtJS05GdVVSWGdsUFNGSmMxdFVKTE5hVDN1ZmN4cVZMb29LV0tqVXctbHR6TENyUnY5b0dMREhxTnZzTGtiNWxra0pZaXhWSUtWS0w1alJZczI0Rkp2cjBrbk42UGF2UQ?oc=5",
+   "tickers": [
+    "INTC"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "INTC",
+   "strength": 85,
+   "reason": "Trump explicitly touts Intel stock in image and claims gains; direct bullish signal for INTC"
   },
   {
    "date": "2026-09-08T00:35:10Z",
@@ -148,6 +196,38 @@
    "primary_ticker": "SPY",
    "strength": 35,
    "reason": "Trump praise for tax cuts is macro-bullish for broad market and financials; vague, indirect signal"
+  },
+  {
+   "date": "2026-09-07T14:53:45Z",
+   "platform": "News",
+   "text": "Trump Praises ETF Tax Cuts: Potential Ripple Effects on Financial Sector ETFs - tipranks.com \u2014 Trump Praises ETF Tax Cuts: Potential Ripple Effects on Financial Sector ETFs\u00a0\u00a0tipranks.com",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSXk4aXhWNml5c0QwYk12b2ZGcDBEeERyUEE2dUZTd2FVUVdfS2prMXliRlo4VlJxRUtPVVVxb1FTTG1Fb3RqbjN4dlNtZTJUNjNEY3ZuR2JOZENrLURqaFBqTFl4YzRYRXh6UktCLVNtZmZ3SmFXTy1yMTNFRmUzMU8tUHk5U2ZhWkxGVFhBTDM3RV9mTXNlSnJhRFI0R1RGX3Y1VmV2d1RsTlVTX1NSMFpJc2JLZw?oc=5",
+   "tickers": [
+    "VFV"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "VFV",
+   "strength": 50,
+   "reason": "Trump praises ETF tax cuts; potential bullish signal for financial sector ETFs if policy enacted"
+  },
+  {
+   "date": "2026-09-07T14:17:46Z",
+   "platform": "News",
+   "text": "IBRX Stock Rallies Into Trump\u2019s Big SOTU Night \u2014 Here\u2019s What Traders Think Could Fuel The Next Move - Stocktwits \u2014 IBRX Stock Rallies Into Trump\u2019s Big SOTU Night \u2014 Here\u2019s What Traders Think Could Fuel The Next Move\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWFdFall2YVNMN3Rialp3SE9sU0h6YUQ1MDFiX2JaeXMxNlFFZUZveFU0TkVxUFI4cTQ5bW5VdkFlTDd1dFNwSUN2YTRtRl83aVRRXzZ6d09TeEhlR1NJb1JaMHlMWDhrQXpmZW40c1B1Y21KNjhxdm90Ny1uU3p4MzJZSW9GNGduMEdyRzFIU2RGLWlYWXg4TFJUU0N6ZlhFemxtUmprVXY0YkVRZk5vZHljazQ?oc=5",
+   "tickers": [
+    "IBRX"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "IBRX",
+   "strength": 35,
+   "reason": "Stock rallying ahead of SOTU; direction depends on speech content, not yet determined"
   },
   {
    "date": "2026-09-07T14:09:26Z",
