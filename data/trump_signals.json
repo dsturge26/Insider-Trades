@@ -1,7 +1,39 @@
 {
- "last_updated": "2026-09-09T15:19:41Z",
+ "last_updated": "2026-09-09T18:47:28Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-09-09T16:56:43Z",
+   "platform": "News",
+   "text": "Republican U.S. senator calls on Trump to \u2018de-escalate\u2019 trade war with Canada. Live updates here. - ctvnews.ca \u2014 Republican U.S. senator calls on Trump to \u2018de-escalate\u2019 trade war with Canada. Live updates here.\u00a0\u00a0ctvnews.ca",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQcG5nVlJ2TnVkbTdWZl9CNl9NcGc1b0FFclc3bG1XTkpiRHBER2M0ai1FOGI1QXpwUTRfSVVzX0xZV2xzMWxwRHZ3MTlhMk9VRlNMMC1sb2EyakFwTDFROEZ0WE1hazZoMFpYdmdzeDlFc2dOVHpzZXV5emxoWXFOcEc2VjFyNWc3MEVuakdpMEhOeWp6SXZlYUFDV1R4dGtOY1U4X1F3RVhiNXlXQ3R0Sk1wX2phdVpfcHgxU0lmUldKekNvQTR0NjBWOFlnYkhQYmVHZFduQmxXbnhS?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "SPY",
+   "strength": 30,
+   "reason": "De-escalation calls on trade war suggest potential tariff pause; direction ambiguous without confirmation"
+  },
+  {
+   "date": "2026-09-09T16:30:00Z",
+   "platform": "News",
+   "text": "Beloved burger chain goes full MAGA, and sales are soaring. Can you make money on the Trump Train? 3 stocks to bet on - Yahoo Finance \u2014 Beloved burger chain goes full MAGA, and sales are soaring. Can you make money on the Trump Train? 3 stocks to bet on\u00a0\u00a0Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVTZISHJwd0N4WHpBVWR4dTlwbGF3YktYMVl5dVRfV0ZObXRaWVIwNlF1WDZMSjkycEEyTGJWWEd3TkdObEpGckZVR3V4dHRVN2pZSE9iS0V3d2dTbjlnUFNGS1JodnlFdjA3VmRGNExwZVhtamVlR3ZiR2ZoZ3JrdEIxN094Vlh5LTNjRXFzTEs5QVZvTnpWRG02Yw?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "SPY",
+   "strength": 45,
+   "reason": "MAGA-aligned company sales surge implied; broad market or retail sector BUY if Trump endorsement drives consumer spending"
+  },
   {
    "date": "2026-09-09T14:28:06Z",
    "platform": "News",
@@ -34,6 +66,38 @@
    "primary_ticker": "XLE",
    "strength": 45,
    "reason": "Trump promotes oil/energy analyst commentary, signaling pro-energy policy stance"
+  },
+  {
+   "date": "2026-09-09T12:37:56Z",
+   "platform": "News",
+   "text": "Calls for companies that leave Canada to be punished as Trump imposes new tariffs on Canada. Live updates here. - bnnbloomberg.ca \u2014 Calls for companies that leave Canada to be punished as Trump imposes new tariffs on Canada. Live updates here.\u00a0\u00a0bnnbloomberg.ca",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPV0wtaWhKU2E0V0JwUUItdXJlYkhpNWhqbzN5M1NVdFgwQnFEb1IyaGctdlZtYl9USVZoVGVYX2NGcmtTUWhUMmE0WWRjTFpHUEpocUY3SHg5T0liSnhBM2NyMTZqbDNsSzhJcUhLUGpvdm1sLVpVWFFJeG1NaTN0SnhmMnFleG5IeFFlb3dWQ2VCVS1ETlE1QnFpUGt6R1R3MXdfMm9VVnRlNmpWOHNFdzhiTC1kaUN2Ry1INzcwV3Y3dUkyajJaYUE2TEpTazctMFE0SHoxNzJxZ0lBSF9jSVV6MUdwN19meVdtVjBR?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "SPY",
+   "strength": 55,
+   "reason": "New tariffs on Canada escalate trade war; bearish for broad market and affected sectors"
+  },
+  {
+   "date": "2026-09-09T12:37:56Z",
+   "platform": "News",
+   "text": "Trump escalates trade war by banning alcohol, motorcycles and dairy from Canada. Follow for live updates. - bnnbloomberg.ca \u2014 Trump escalates trade war by banning alcohol, motorcycles and dairy from Canada. Follow for live updates.\u00a0\u00a0bnnbloomberg.ca",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPOFhNajN1c0tRdGktR21aY2JEeTdiWk1zTWEtTTQ5TndJQV8xSlJzdnMtNjhqVGJ2c0pwTEdvZkw1Tmd6R2JoOHZBY19CQU92eTBrbTNOcUVadXRQNGdaYVFHRXNYVmlTX1FUQWtHMmhYa0N3QXVHN0dpT1pXQ0hQRWJZQnkwRk4tNHEyMk1nejc5Y3pWZXBmSlJlRDlQYWxreUl0eUNYTkw2S3RPRlJEc1FVTGxjZGtMQXZ3dnhvV04zd2JZVllPd0NoVEZteXVHWWw4ajRDWmNoemVOYVViTUs4alM?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "SPY",
+   "strength": 65,
+   "reason": "Tariff escalation on alcohol, motorcycles, dairy; broad market bearish; specific sectors (beverages, industrial) pressured"
   },
   {
    "date": "2026-09-09T01:56:16Z",
@@ -140,9 +204,9 @@
    "reason": "U.S.-Canada trade war escalation with product bans on government contracts signals broader tariff/trade conflict, bearish for markets",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.5,
+    "pct": -0.4,
     "base": 765.96,
-    "last": 762.03,
+    "last": 763.07,
     "base_date": "2026-09-08",
     "last_date": "2026-09-09"
    }
@@ -164,9 +228,9 @@
    "reason": "Trump's Wall Street venture reportedly failing; bearish on Trump Media",
    "price_since": {
     "ticker": "DJT",
-    "pct": -2.3,
+    "pct": -4.9,
     "base": 9.23,
-    "last": 9.02,
+    "last": 8.78,
     "base_date": "2026-09-08",
     "last_date": "2026-09-09"
    }
@@ -189,9 +253,9 @@
    "reason": "Trump threatens Canadian market access; tariff/trade war escalation bearish for broad market",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.5,
+    "pct": -0.4,
     "base": 765.96,
-    "last": 762.08,
+    "last": 763.07,
     "base_date": "2026-09-08",
     "last_date": "2026-09-09"
    }
@@ -213,9 +277,9 @@
    "reason": "Trump's high trading volume disclosure is market-relevant but direction ambiguous without knowing trade composition",
    "price_since": {
     "ticker": "DJT",
-    "pct": -2.3,
+    "pct": -4.9,
     "base": 9.23,
-    "last": 9.02,
+    "last": 8.78,
     "base_date": "2026-09-08",
     "last_date": "2026-09-09"
    }
@@ -237,9 +301,9 @@
    "reason": "Trump praises nuclear reactor innovation; long-term bullish for energy sector but vague and indirect.",
    "price_since": {
     "ticker": "XLE",
-    "pct": 0.6,
+    "pct": 0.9,
     "base": 64.77,
-    "last": 65.15,
+    "last": 65.38,
     "base_date": "2026-09-08",
     "last_date": "2026-09-09"
    }
@@ -365,6 +429,30 @@
    }
   },
   {
+   "date": "2026-09-08T12:13:42Z",
+   "platform": "News",
+   "text": "Bombardier Shares Down as Trump\u2019s Trade War Targets Canadian Jet Maker - nytimes.com \u2014 Bombardier Shares Down as Trump\u2019s Trade War Targets Canadian Jet Maker\u00a0\u00a0nytimes.com",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcnZhSEptOENzYndSTGpLdWs1eWg2WnoyMHpqT0tqMnhQblU5eUZBQy12azdESmdCWDJPVWJnMUkwb0g0enQ2enFRdzBTWGhQQVhfTS1KTUtwVWxENE83aHZlbk02RHhrajd2V0NVLU1lM2pnMF9tLTFqN0dBUzhzYTVQaUpJQjJlaGUwNVhJOVhNQQ?oc=5",
+   "tickers": [
+    "BBD"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "SELL",
+   "primary_ticker": "BBD",
+   "strength": 75,
+   "reason": "Trump trade war targets Bombardier; direct threat to US market access reduces revenue/margins.",
+   "price_since": {
+    "ticker": "BBD",
+    "pct": -3.1,
+    "base": 3.55,
+    "last": 3.44,
+    "base_date": "2026-09-08",
+    "last_date": "2026-09-09"
+   }
+  },
+  {
    "date": "2026-09-08T12:04:30Z",
    "platform": "News",
    "text": "Canada hits back with counter-tariffs; new EU alliance in the works, report says. Follow for live updates. - BNN Bloomberg \u2014 Canada hits back with counter-tariffs; new EU alliance in the works, report says. Follow for live updates.\u00a0\u00a0BNN Bloomberg",
@@ -381,9 +469,9 @@
    "reason": "Canada counter-tariffs and EU alliance signal escalating trade war; broad market headwind",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.5,
+    "pct": -0.4,
     "base": 765.96,
-    "last": 762.05,
+    "last": 763.06,
     "base_date": "2026-09-08",
     "last_date": "2026-09-09"
    }
@@ -405,9 +493,33 @@
    "reason": "Ban on Canadian products from U.S. government contracts; trade war escalation signals broad market headwind",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.5,
+    "pct": -0.4,
     "base": 765.96,
-    "last": 762.05,
+    "last": 763.06,
+    "base_date": "2026-09-08",
+    "last_date": "2026-09-09"
+   }
+  },
+  {
+   "date": "2026-09-08T12:04:30Z",
+   "platform": "News",
+   "text": "Canada responds to new U.S. trade measures as Trump signs flurry of executive orders - bnnbloomberg.ca \u2014 Canada responds to new U.S. trade measures as Trump signs flurry of executive orders\u00a0\u00a0bnnbloomberg.ca",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQN2NDZTRjNWhIOHpsWFNZdmRyUHVCcmN1SS04dXBXck5mRTJKSWNiSGozMDFVWHlIY2pocmNTYlNmVElXRTNDQ1JrVUdoLWNETWg1czJWRDNmMEt0R3JLb1c4Q21va2dfVkNpa21XVkhncTNodl9Ca0ViQkxfdnpFdTJYcTBuZ0xxYzRuZDJrYVpoVXBHTENxZzNQbzdiSlo5LUdNZkdhdXpZMmRYUjJrdkpsenBPVF9NUEFjSTFlWm5XQQ?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "SPY",
+   "strength": 45,
+   "reason": "Broad trade measures signed; macro uncertainty for US equities and cross-border commerce, direction unclear.",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": -0.4,
+    "base": 765.96,
+    "last": 763.06,
     "base_date": "2026-09-08",
     "last_date": "2026-09-09"
    }
@@ -429,9 +541,9 @@
    "reason": "Trump threatens to block Bombardier planes from US market, bearish for manufacturer",
    "price_since": {
     "ticker": "BDRBF",
-    "pct": -0.6,
+    "pct": -1.6,
     "base": 222.6,
-    "last": 221.23,
+    "last": 219.1,
     "base_date": "2026-09-08",
     "last_date": "2026-09-09"
    }
@@ -453,9 +565,9 @@
    "reason": "Trump explicitly touts Intel stock in image and claims gains; direct bullish signal for INTC",
    "price_since": {
     "ticker": "INTC",
-    "pct": 0.6,
+    "pct": 1.3,
     "base": 104.47,
-    "last": 105.05,
+    "last": 105.8,
     "base_date": "2026-09-08",
     "last_date": "2026-09-09"
    }
@@ -477,9 +589,9 @@
    "reason": "Trump threatens to block Bombardier plane sales in U.S., direct bearish call on the company.",
    "price_since": {
     "ticker": "BDRBF",
-    "pct": -0.6,
+    "pct": -1.6,
     "base": 222.6,
-    "last": 221.23,
+    "last": 219.1,
     "base_date": "2026-09-08",
     "last_date": "2026-09-09"
    }
@@ -504,7 +616,7 @@
     "ticker": "USO",
     "pct": 2.3,
     "base": 146.03,
-    "last": 149.4,
+    "last": 149.43,
     "base_date": "2026-09-08",
     "last_date": "2026-09-09"
    }
@@ -526,9 +638,9 @@
    "reason": "Ukraine approval to produce Patriot missiles; bullish for US defense contractors",
    "price_since": {
     "ticker": "XAR",
-    "pct": -1.9,
+    "pct": -2.2,
     "base": 253.27,
-    "last": 248.45,
+    "last": 247.76,
     "base_date": "2026-09-08",
     "last_date": "2026-09-09"
    }
@@ -551,9 +663,9 @@
    "reason": "Deflation signal mixed with upside inflation risks; macro economic data suggests market uncertainty.",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.5,
+    "pct": -0.4,
     "base": 765.96,
-    "last": 762.07,
+    "last": 763.07,
     "base_date": "2026-09-08",
     "last_date": "2026-09-09"
    }
@@ -575,9 +687,9 @@
    "reason": "Tariff fears cited as headwind for semiconductor memory; bearish sector read on trade policy risk",
    "price_since": {
     "ticker": "MU",
-    "pct": 2.8,
+    "pct": 2.6,
     "base": 1000.26,
-    "last": 1028.05,
+    "last": 1026.49,
     "base_date": "2026-09-08",
     "last_date": "2026-09-09"
    }
@@ -599,9 +711,9 @@
    "reason": "WULF stock falls on $19B Anthropic lease despite price target hikes; bearish near-term pressure despite analyst optimism",
    "price_since": {
     "ticker": "WULF",
-    "pct": -3.2,
+    "pct": -3.9,
     "base": 17.86,
-    "last": 17.29,
+    "last": 17.16,
     "base_date": "2026-09-08",
     "last_date": "2026-09-09"
    }
@@ -623,9 +735,9 @@
    "reason": "Trump demands Bombardier build in America; regulatory/supply pressure on aerospace company.",
    "price_since": {
     "ticker": "BDRBF",
-    "pct": -0.6,
+    "pct": -1.6,
     "base": 222.6,
-    "last": 221.23,
+    "last": 219.1,
     "base_date": "2026-09-08",
     "last_date": "2026-09-09"
    }
@@ -2241,78 +2353,6 @@
     "pct": -0.4,
     "base": 253.93,
     "last": 252.92,
-    "base_date": "2026-09-03",
-    "last_date": "2026-09-04"
-   }
-  },
-  {
-   "date": "2026-09-03T16:39:56Z",
-   "platform": "News",
-   "text": "American Airlines CEO Lavishes Praise On Trump In Oval Office, And The White House Loves It - Live and Let's Fly \u2014 American Airlines CEO Lavishes Praise On Trump In Oval Office, And The White House Loves It\u00a0\u00a0Live and Let's Fly",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5BWEQwaDlYaWZVcW4xX2FGSUpVVUMwaEZrZE5rdzcyQmxlcTlDSm9YQld2cXh6ck5tcEZCVmFtT3lRWFE2SklweWNRYWpWd1c3LVBaZjdpUUtvMkNGc0FNbmpzQ21DUzVJbUhDUXpuOEJHcEJ0dmc?oc=5",
-   "tickers": [
-    "AAL"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "AAL",
-   "strength": 35,
-   "reason": "Airline CEO praise in Oval Office suggests positive Trump administration sentiment toward airline sector.",
-   "price_since": {
-    "ticker": "AAL",
-    "pct": 1.2,
-    "base": 12.97,
-    "last": 13.13,
-    "base_date": "2026-09-03",
-    "last_date": "2026-09-04"
-   }
-  },
-  {
-   "date": "2026-09-03T16:39:56Z",
-   "platform": "News",
-   "text": "American Airlines CEO Lavishes Praise On Trump In Oval Office, And The White House Loves It - liveandletsfly.com \u2014 American Airlines CEO Lavishes Praise On Trump In Oval Office, And The White House Loves It\u00a0\u00a0liveandletsfly.com",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5BWEQwaDlYaWZVcW4xX2FGSUpVVUMwaEZrZE5rdzcyQmxlcTlDSm9YQld2cXh6ck5tcEZCVmFtT3lRWFE2SklweWNRYWpWd1c3LVBaZjdpUUtvMkNGc0FNbmpzQ21DUzVJbUhDUXpuOEJHcEJ0dmc?oc=5",
-   "tickers": [
-    "AAL"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "AAL",
-   "strength": 55,
-   "reason": "CEO praises Trump administration; potential regulatory/policy tailwind for airline",
-   "price_since": {
-    "ticker": "AAL",
-    "pct": 1.2,
-    "base": 12.97,
-    "last": 13.13,
-    "base_date": "2026-09-03",
-    "last_date": "2026-09-04"
-   }
-  },
-  {
-   "date": "2026-09-03T16:31:07Z",
-   "platform": "News",
-   "text": "David Sacks Urges AI Companies to Fund Trump Accounts, Says It Would 'Improve the Public\u2019s Image of AI' - Yahoo Finance \u2014 David Sacks Urges AI Companies to Fund Trump Accounts, Says It Would 'Improve the Public\u2019s Image of AI'\u00a0\u00a0Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNX0ZjUk8za3FtbmN6c3ZmalhmZHUzODNUcGhMV3ZwSVFnVnZLZXlqT29oSXJqU3ZxQ1MyVU40US1EdTBrcTNLZDZWNTROemY3ODZ3M2tXYTNJS2d3RTFOS3VaQS1MemV0aWxQRVp0X25LaFhxYV84MjV4djE4Ujg2N2MxQjFXMUhpeTBXN2QtT2ZhSi1XYTdWSFNB?oc=5",
-   "tickers": [
-    "QQQ"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "QQQ",
-   "strength": 25,
-   "reason": "AI funding/PR push is macro AI-sector relevant but direction ambiguous; lobbying signal rather than concrete catalyst.",
-   "price_since": {
-    "ticker": "QQQ",
-    "pct": 0.2,
-    "base": 717.67,
-    "last": 718.96,
     "base_date": "2026-09-03",
     "last_date": "2026-09-04"
    }
