@@ -1,7 +1,55 @@
 {
- "last_updated": "2026-09-08T23:24:20Z",
+ "last_updated": "2026-09-09T01:23:11Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-09-09T00:22:30Z",
+   "platform": "News",
+   "text": "Trump bans imports of certain Canadian goods, including booze and dairy. Live updates here. - BNN Bloomberg \u2014 Trump bans imports of certain Canadian goods, including booze and dairy. Live updates here.\u00a0\u00a0BNN Bloomberg",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQWNncUtyaWxoN0pqYVVCc0VHbWZPM0QydGhsMTNlQWJvajlobC05ZE9NT1hpamRuOWZiNnJ2TTYtMmFBNUpfRFRUN1REbU1Md0lwOW1mQzVuQm9TdjRXYVpUaDVsbUxlSTBLWWo5aVJ0bWhRbW16TktoMldoSzljT3hidExIYkN6anhNazZaVFotdl95VXFBRmdnSmVFV1ZXZlV1VmJza18waVVOTEZLTGNadmJNdjNMR2JaUFFXekJsWWlndXFRRDA3ZjROWGluU3c?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "SPY",
+   "strength": 65,
+   "reason": "Trump bans Canadian imports including booze and dairy; tariff action is bearish for broad market."
+  },
+  {
+   "date": "2026-09-09T00:17:00Z",
+   "platform": "News",
+   "text": "Bombardier\u2019s stock drops as the U.S.-Canada trade war intensifies. Here\u2019s what Trump is targeting next. - MarketWatch \u2014 Bombardier\u2019s stock drops as the U.S.-Canada trade war intensifies. Here\u2019s what Trump is targeting next.\u00a0\u00a0MarketWatch",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMTVTVE9SZXBTcVJMX09heTlxeWRFdkFyQklKdWpubVgzMFVTTXFRc3dkeHNPVlMwV2MyYjZMOEpiblU5eUFjOXVvakw2WW1JeGNOaUp0dGMzZWlOX3Zfd3o4STFWQlVRU3IzNEdUWFdhUGVLZEdCanZxa0tpOEwzeGxmSkNkTEQwQzdNWkd5ZzZZcXR5S1VlaDNMYUJJWjFycFRaTEVkOC15N2luMnV3QWFQRVNyY3ljdlJ3ZWRGY3Zha2ZTSUsxTk9sUkhXRmlzcFM1WVdR?oc=5",
+   "tickers": [
+    "BBD"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "SELL",
+   "primary_ticker": "BBD",
+   "strength": 75,
+   "reason": "Trump threatens Bombardier market access; direct bearish catalyst for named company stock."
+  },
+  {
+   "date": "2026-09-08T22:08:00Z",
+   "platform": "News",
+   "text": "Kansas officials react to Trump's threat to ban Bombardier - KMUW \u2014 Kansas officials react to Trump's threat to ban Bombardier\u00a0\u00a0KMUW",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTEJnMlp6ZHcyazU4dUQtdDIxZG1yWTZ5ZUplM3RiQTU1NTdub29XUTF5VV9SYmVRbFF3bjhqX3hmS2NUYTNBZVBYYmxhRkdMYVQ4UHdsUV9uOFBnSlRQaG8yYVZaY1BxdEhtaXFfTTZMX1JCUU1oak9hTjh3V0U2TjlpWTJ1NGNiNjY2LWM5dlhNazQ1cGFkRUc1aGxCdGViMG9xeFR5aw?oc=5",
+   "tickers": [
+    "BBD"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "SELL",
+   "primary_ticker": "BBD",
+   "strength": 70,
+   "reason": "Trump threatens Bombardier ban; direct bearish signal for Bombardier."
+  },
   {
    "date": "2026-09-08T21:34:42Z",
    "platform": "News",
@@ -17,22 +65,6 @@
    "primary_ticker": "SPY",
    "strength": 65,
    "reason": "U.S.-Canada trade war escalation with product bans on government contracts signals broader tariff/trade conflict, bearish for markets"
-  },
-  {
-   "date": "2026-09-08T21:29:00Z",
-   "platform": "News",
-   "text": "Bombardier\u2019s stock drops as the U.S.-Canada trade war intensifies. Here\u2019s what Trump is targeting next. - MarketWatch \u2014 Bombardier\u2019s stock drops as the U.S.-Canada trade war intensifies. Here\u2019s what Trump is targeting next.\u00a0\u00a0MarketWatch",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMTVTVE9SZXBTcVJMX09heTlxeWRFdkFyQklKdWpubVgzMFVTTXFRc3dkeHNPVlMwV2MyYjZMOEpiblU5eUFjOXVvakw2WW1JeGNOaUp0dGMzZWlOX3Zfd3o4STFWQlVRU3IzNEdUWFdhUGVLZEdCanZxa0tpOEwzeGxmSkNkTEQwQzdNWkd5ZzZZcXR5S1VlaDNMYUJJWjFycFRaTEVkOC15N2luMnV3QWFQRVNyY3ljdlJ3ZWRGY3Zha2ZTSUsxTk9sUkhXRmlzcFM1WVdR?oc=5",
-   "tickers": [
-    "BBD"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "BBD",
-   "strength": 75,
-   "reason": "Trump targeting Bombardier in trade war; Canadian jet maker faces U.S. market access restrictions, directly bearish for stock"
   },
   {
    "date": "2026-09-08T20:29:29.573Z",
@@ -68,6 +100,22 @@
    "reason": "Trump's high trading volume disclosure is market-relevant but direction ambiguous without knowing trade composition"
   },
   {
+   "date": "2026-09-08T17:18:06Z",
+   "platform": "News",
+   "text": "Trump praises Australian engineer behind nuclear reactor small enough to fit on truck - Baltimore Sun \u2014 Trump praises Australian engineer behind nuclear reactor small enough to fit on truck\u00a0\u00a0Baltimore Sun",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbGphLVBWZ1VtWXVuWTVrOWR1a0QzQ2tlSG1YSDZEODUtUHJTNTBYWkYyNEhIWXI4cFhfQ1I3bHJhOGMzRkQ5ZFpKSW5ONkNJZkRmbzAxS21aX1d6Mk5pN0hodUdvSnB4aEZId1htMDAxVWczS0U1TVBLN2RUZG1QSUlrRVVRNEl6cW45d0FDYmZIbXk4aDZRazk5YjhyTXJTbkduN09YclJKT3otOEhiMHVtTE9Xa2tNT3dpMkNTZDFxZVQ1?oc=5",
+   "tickers": [
+    "XLE"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "XLE",
+   "strength": 45,
+   "reason": "Trump praises nuclear reactor innovation; long-term bullish for energy sector but vague and indirect."
+  },
+  {
    "date": "2026-09-08T16:28:58Z",
    "platform": "News",
    "text": "Bombardier Shares Down as Trump\u2019s Trade War Targets Canadian Jet Maker - The New York Times \u2014 Bombardier Shares Down as Trump\u2019s Trade War Targets Canadian Jet Maker\u00a0\u00a0The New York Times",
@@ -98,6 +146,38 @@
    "primary_ticker": "BBD",
    "strength": 75,
    "reason": "Trump threatens to cut Bombardier's US market access; direct bearish impact on Canadian jet maker"
+  },
+  {
+   "date": "2026-09-08T15:21:23Z",
+   "platform": "News",
+   "text": "Bombardier Shares Tank 7% After Trump Threatens To Cut Canadian Jet Maker's US Market Access - ndtvprofit.com \u2014 Bombardier Shares Tank 7% After Trump Threatens To Cut Canadian Jet Maker's US Market Access\u00a0\u00a0ndtvprofit.com",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTWxXUjlodFdBX3E2Y0NmV2Rvc2QyUi1nRzktTTRtUG5XV3ROUTljVTJNbUZJbm5pY0p6RlpuR3VBYVVzblB2WEpNVXdTNzhtQUlCYmpoRWdjX2ttcXVRNU4tbVJOZkw5UE1lVFhMdjBJRE9TdThLMU5DNW1hckozTEtzemFRWl9ua3ZCT0JvQVNUYlBZbkNPUExEWHFRUHRXSlFFU0c0YUczdVVLZ05aYzhnZnFNMk8wR1p6RVc5MXpPWFNaeXoxbmZoQXhwb2RsQUNuQ3lKSdIB1wFBVV95cUxNTWxXUjlodFdBX3E2Y0NmV2Rvc2QyUi1nRzktTTRtUG5XV3ROUTljVTJNbUZJbm5pY0p6RlpuR3VBYVVzblB2WEpNVXdTNzhtQUlCYmpoRWdjX2ttcXVRNU4tbVJOZkw5UE1lVFhMdjBJRE9TdThLMU5DNW1hckozTEtzemFRWl9ua3ZCT0JvQVNUYlBZbkNPUExEWHFRUHRXSlFFU0c0YUczdVVLZ05aYzhnZnFNMk8wR1p6RVc5MXpPWFNaeXoxbmZoQXhwb2RsQUNuQ3lKSQ?oc=5",
+   "tickers": [
+    "BBD"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "SELL",
+   "primary_ticker": "BBD",
+   "strength": 80,
+   "reason": "Trump threatens to cut Bombardier's US market access; direct bearish signal with stock impact reported."
+  },
+  {
+   "date": "2026-09-08T14:24:33Z",
+   "platform": "News",
+   "text": "Bombardier shares fall after Trump threatens US market access - ca.news.yahoo.com \u2014 Bombardier shares fall after Trump threatens US market access\u00a0\u00a0ca.news.yahoo.com",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOLUpKYWpjbGpJdFdsZlhELVo0MVZsM240Vkx1QXM3VFlFQW5xdHMxVEZQc28tNkxYY1hiUTlXRGRwcFZIeUpKS3ZrU2FmUEp5UlBCMkNVZHNVV3lnMlcxaDcwT2V2UVh2WlFRcjhybVVpUUNYUDJXcnZDaUluaVZvRkJRVUVoUQ?oc=5",
+   "tickers": [
+    "BBD"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "SELL",
+   "primary_ticker": "BBD",
+   "strength": 75,
+   "reason": "Trump threatens Bombardier US market access; explicit bearish catalyst for Bombardier stock."
   },
   {
    "date": "2026-09-08T12:13:42Z",
@@ -2044,126 +2124,6 @@
    "primary_ticker": "QQQ",
    "strength": 40,
    "reason": "U.S. hands-off AI regulatory framework endorsed globally; bullish for unrestricted AI sector growth."
-  },
-  {
-   "date": "2026-09-03T10:36:38Z",
-   "platform": "News",
-   "text": "Trump Praises U.S. Strikes, Claims Control of Hormuz - wsj.com \u2014 Trump Praises U.S. Strikes, Claims Control of Hormuz\u00a0\u00a0wsj.com",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZl8yUlFPTS1mVzVfZlgwWkJKMnhXeG1FYmt0NkttZnVSUms1Tkxoa2tMdWxrazIxSE9YZzhTREdyeHZzam5ZeVpBTXBBSkhWSUx0Szc3VzVKSUJZMjlVcEdkbG5wNFBTM2cxSW93ZE9iMl9BNTFPVDVHU2pJXzMtQW1VVGRMNUpiQzIzQlNYd2lzRFhLNExhRWRnWEFuTXRfNmxpbzEwRFYwZTUyTEp6RHRn?oc=5",
-   "tickers": [
-    "XAR"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "XAR",
-   "strength": 50,
-   "reason": "Military/defense action; potential defense spending and Middle East tension tailwind",
-   "price_since": {
-    "ticker": "XAR",
-    "pct": -0.4,
-    "base": 253.93,
-    "last": 252.92,
-    "base_date": "2026-09-03",
-    "last_date": "2026-09-04"
-   }
-  },
-  {
-   "date": "2026-09-03T08:49:23Z",
-   "platform": "News",
-   "text": "Stock Futures Rebound Thursday as Markets Eye Jobs Data After Three-Day Slide - Blockonomi \u2014 Stock Futures Rebound Thursday as Markets Eye Jobs Data After Three-Day Slide\u00a0\u00a0Blockonomi",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNU0JRRDVDaklabl9HUjlOamFnNlpxQl9MVHNYN2hTdlZXMU1KZnVjOUhPbUhvZW1VWnBURVEwaG9jTmZuNENjek9lRjd5NC16MGNkZDdQQ2R4Q1Y2akw1aWhBT2lkVlRNYVo2Wk1MSGIybTlIMFF6RWxvVDlWZ2RyTjF1UjhueGszUHRIYXVSRWFlXzhNMXY3UlVCNGtuNDM3LWJj?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "SPY",
-   "strength": 15,
-   "reason": "Market rebound after three-day slide; generic macro sentiment, not Trump-specific",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": -0.4,
-    "base": 773.17,
-    "last": 770.19,
-    "base_date": "2026-09-03",
-    "last_date": "2026-09-04"
-   }
-  },
-  {
-   "date": "2026-09-03T08:15:00Z",
-   "platform": "News",
-   "text": "LONDON MARKET OPEN: FTSE subdued as oil falls on Trump remarks - London South East \u2014 LONDON MARKET OPEN: FTSE subdued as oil falls on Trump remarks\u00a0\u00a0London South East",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeG11MW5NNU96OGVpME5rVjF2eVQwb1FmZmhTYmxZRGlPU3FsRnVZY05XWHIyOThua0JJTnNFbW9HWFROY0N0aXdCV0tfQ3YwbDllYUFOemxVRmhBU2ZpbnM3NzVhdTl0MFIxVVNqWnJBNXQwd3pNMXFycmdaNlJpdlMzUE5YaUlNdUdiVF9BRDVoOFVpOEFiSmg1NWQtaDdtdUpqRDRhazBCMzB5Y2c?oc=5",
-   "tickers": [
-    "USO"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "USO",
-   "strength": 50,
-   "reason": "Oil falls on Trump remarks; explicit market reaction indicating bearish pressure on oil from Trump policy/rhetoric.",
-   "price_since": {
-    "ticker": "USO",
-    "pct": -0.1,
-    "base": 142.09,
-    "last": 141.96,
-    "base_date": "2026-09-03",
-    "last_date": "2026-09-04"
-   }
-  },
-  {
-   "date": "2026-09-03T07:26:08Z",
-   "platform": "News",
-   "text": "Donald Trump's face appears on new $1 coin to mark US' 250th anniversary - Business Standard \u2014 Donald Trump's face appears on new $1 coin to mark US' 250th anniversary\u00a0\u00a0Business Standard",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaWR1b1pCZnozX3NQTnAzZ3Q0NWEyTUluclQwM3V4UjRtVHBESEVrQ195TG14NGpHdTBIOHpNWHQ5ZTdmR1pqbUMteVd6b3RFUVkyZnMtUHBacXZ1LVBNWUFMZkxSOV9qU3ZCekI1X0ZKYTEzYnZqNVZHcEdYd0J2TlZhRUt3LXAyMV9KQjJQaE1jdXNwaW1ETjJFMnJRRTdBam0yLWJEOGhvNjIxbllDS2Q1UE43Q2xLYXliOC1oQ082MTFRR21LbEVMYnJlQ2tD0gHWAUFVX3lxTE9teThJekNVdkdmS21nR3JURmNMV21uY3dsaWxUVFpKNFVqTGk2Vy01OERKbE9OQThoS3B2NEhiU0VUaDVaS2JENHl4dWltN0g1b3h1aXBIUzdyZVo1OG1kTGVFeFR4VVdzNTRsV2xEM3BtZzI3TTRmNldBTC1pMDZHQ2tXOW9fc0djU1RmM2tFai1jeVFTWmdXX1F3ZTcxcmVjdlY1LW1VN09jR09hUndzNnlOTHgzUTNFNkRxU0RxU18zaVFnTVFmLVpINUd4aG1sU2lyWFE?oc=5",
-   "tickers": [
-    "DJT"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "DJT",
-   "strength": 25,
-   "reason": "Trump commemorative coin mints a Trump asset; minor bullish signal for Trump Media ecosystem",
-   "price_since": {
-    "ticker": "DJT",
-    "pct": -5.3,
-    "base": 9.52,
-    "last": 9.02,
-    "base_date": "2026-09-03",
-    "last_date": "2026-09-04"
-   }
-  },
-  {
-   "date": "2026-09-03T03:47:21Z",
-   "platform": "News",
-   "text": "Sensex, Nifty see rebound after 3 sessions of losses amid oil price concerns, global tensions | Business News - hindustantimes.com \u2014 Sensex, Nifty see rebound after 3 sessions of losses amid oil price concerns, global tensions | Business News\u00a0\u00a0hindustantimes.com",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVW5VeXFOUjRtRFpoaW1IeHdtNzF3QkxYM0dmd1NibHp5eVhjRzlpcmVnbGY2cEhGMklnclhMd1hZTFN2eVlyd2NoZTF0eUpvWnVaWmJJaHUzdUh1bFotOUVpSHZXTmJPMWFPQThTSGYyNU8xWkxPeFdLQWZMWWEyd0xyeHdxXzhscUNJZGg5dk83MVBHV1ljTUVGOEthWktJN3J6enRyMXNZTDJDLUlCNDdrSElMSE8xd1lhc1FXb0I0UzdF0gHKAUFVX3lxTE93VWhTenc2V0d4RUgxOXRUMzhDZm5OLU45MEFWTllpbGFHYzlRSmFwLWhDNW9mN1RuWXJ4eWtNVGJuUERVY09tNVdSYjQ1dW5pYjJhQVZZRFhSNWItQXFzWlRjLUJWdTgwZDdZUVFiWEctWXc2Unl6WUJrUUdzY3AyTUV2V1F0eTNwZ0pqZUxrb1Nyam4wT1RFSjIyNTVVaHZycmVRWkNpbk4tQTRYUFl5T3dFdEwza2NwdGw5eExIZk05QnppZVlndGc?oc=5",
-   "tickers": [
-    "XLE"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "XLE",
-   "strength": 25,
-   "reason": "Oil price concerns and geopolitical tensions affect energy sector but direction unclear",
-   "price_since": {
-    "ticker": "XLE",
-    "pct": -0.8,
-    "base": 64.62,
-    "last": 64.1,
-    "base_date": "2026-09-03",
-    "last_date": "2026-09-04"
-   }
   },
   {
    "curated": true,
