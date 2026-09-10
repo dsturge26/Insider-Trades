@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-09-10T21:33:25Z",
+ "last_updated": "2026-09-10T23:24:50Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -19,6 +19,22 @@
    "reason": "Tariff comments are market-relevant macro but direction ambiguous without specifics on scope or implementation"
   },
   {
+   "date": "2026-09-10T19:23:36Z",
+   "platform": "News",
+   "text": "Trump defends $5,000 dividend proposal, praises 'beautiful' tariffs on 'Ingraham Angle' - Fox News \u2014 Trump defends $5,000 dividend proposal, praises 'beautiful' tariffs on 'Ingraham Angle'\u00a0\u00a0Fox News",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYi1ya29wM2t3VzZfdEg0WWpYSFR6R0NvZVNrckFKQWY4VnVwVUNsSEs3QVo3RUluWWVaTnQxbG0yUEJGTGhHT2tXcXVnWmJXU2tnSURfQXFJZUQwNFBTUld6LW1vZGhOeXB2TThFNDVkNmR1NXUwYWhZTGdDQmhCMmtzdGRxVVAyLUhqY0lCS3F4TXNMMzhiYV95MDZzbEdybkR6cUtTQdIBrAFBVV95cUxNTldDRGk5bGNSVFhQcms2VjhzenRYVFBMTktNbUhKSmdrSjkzZmR4eWxlcVozM1BoeDhSSkZFUVVDLXVvOWxMNU1ULTRhcktfSnY2RkRHOUgxMzZYQWlmajZXRWZNX05sT25CaFAzRzVIUVl4Mi1VRXJnTVNiblhCQjF2SDg4ZWw4VlNXcVBkbS16LWtMN1ZCbC1wRk0yeHBFVE14WXJzaXBsTUxx?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "SPY",
+   "strength": 45,
+   "reason": "Tariffs praised as 'beautiful' signals continued protectionist policy, macro bearish for broad market"
+  },
+  {
    "date": "2026-09-10T18:01:16Z",
    "platform": "News",
    "text": "Ford Motor stock rises on China clash and higher guidance - ad-hoc-news.de \u2014 Ford Motor stock rises on China clash and higher guidance\u00a0\u00a0ad-hoc-news.de",
@@ -33,6 +49,38 @@
    "primary_ticker": "F",
    "strength": 45,
    "reason": "Ford rises on China trade tensions and guidance boost; tariff/trade friction can help US automakers."
+  },
+  {
+   "date": "2026-09-10T18:01:16Z",
+   "platform": "News",
+   "text": "Ford Motor stock rises on China clash and higher guidance - AD HOC NEWS \u2014 Ford Motor stock rises on China clash and higher guidance\u00a0\u00a0AD HOC NEWS",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVTBuYmpsN0JQcFM4SENmcWVPbDJ0dWExY3ZjLUJjR0JPNHlMQlFzQlZBZlY5MkFYVDVZdV95dDhpU0VfaC0wLW0wVkEyTTVSYnpiSVE2TWJuNllUOFF2VGZmNEl1bmV4ZUIxS3FSemRPLVlhbXp1U0J5dmFjQTU0RVIxeE50SzU3ODlQN05IdzVmWEZqRUtBb1djZVhYYng3M19hVXJJWk85ZmhHZDRpbkpZaDdKdGlPRnhvRw?oc=5",
+   "tickers": [
+    "F"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "F",
+   "strength": 55,
+   "reason": "Ford stock rises on China tension and raised guidance; China trade friction benefits domestic automakers"
+  },
+  {
+   "date": "2026-09-10T17:12:00Z",
+   "platform": "News",
+   "text": "Trump's Promised 'Dividend' Would Be the Biggest Direct Payment in U.S. History, 3.5 Times Bigger Than the Largest COVID Check - 24/7 Wall St. \u2014 Trump's Promised 'Dividend' Would Be the Biggest Direct Payment in U.S. History, 3.5 Times Bigger Than the Largest COVID Check\u00a0\u00a024/7 Wall St.",
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxObGZjbGd0cjdwNGxIZ2FwcW9qbVZNd1R3Vl8wcVhCcDh2Vm9hTlBXQklMcEEtbnFxT2RxeWx4UzRHYTc1WFZuT0l3ZURibUhaTmpYcHVielpUSzFTRUp0MmFpS0lvWUdvaVFaVXJlbVhSNmpvOGlFczBJNlVQQUZXRjExSXpzWUtxcmdhbmxTUGl3UVNSLVl6dmVsZXdpMXhNcVdIU0FlRDR6c19MT0l2eEtSNy1ZQlN6X05ZZVZQMTh4eXAtQWcxVFlUZzRoVWJxZzdMdVpfREN3NDBjNmc2MFdUc294M2pSUnoxb0hmLUFSUXdvNkFxMg?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "SPY",
+   "strength": 50,
+   "reason": "Large fiscal stimulus proposal ($5,000 dividend) would boost consumer spending and broad market"
   },
   {
    "date": "2026-09-10T14:16:48Z",
@@ -97,6 +145,22 @@
    "primary_ticker": "SPY",
    "strength": 25,
    "reason": "Stimulus ($5k handout) implies broad consumer spending and equity support, but headline is speculative"
+  },
+  {
+   "date": "2026-09-10T11:34:00Z",
+   "platform": "News",
+   "text": "Buy the Stocks Dip or Foldable iPhone? How to Spend Trump\u2019s $5,000 Handout. - Barron's \u2014 Buy the Stocks Dip or Foldable iPhone? How to Spend Trump\u2019s $5,000 Handout.\u00a0\u00a0Barron's",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMW44ZkRlREhRUHFnQTJVT2w4alZBaG1Td244YzBaR1FScVV1QkpCS2s2R0hUR201RUt3VlI0WHJHeHlhZVU3MGk5eGsyT2wtYUc5NW1QX2hkRFJjTDFNbVgzMXNRell5TnRHendLdTF6cXhyOU05cmRkOWRBMXVwSWh1Z2hQWXd6OGc0Rk5vRTVKbFJ6WkszOFNRemRTZw?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "SPY",
+   "strength": 45,
+   "reason": "Commentary on consumer spending from Trump's stimulus proposal; suggests equity market tailwind"
   },
   {
    "date": "2026-09-10T09:48:00Z",
@@ -321,6 +385,30 @@
    "primary_ticker": "SPY",
    "strength": 40,
    "reason": "Trump retaliation escalation against Canada signals trade war intensification, market headwind",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": -0.6,
+    "base": 762.4,
+    "last": 757.83,
+    "base_date": "2026-09-09",
+    "last_date": "2026-09-10"
+   }
+  },
+  {
+   "date": "2026-09-09T23:24:22Z",
+   "platform": "News",
+   "text": "Poilievre heads to U.S. with PMO\u2019s blessing as Trump ramps up retaliation against Canada. Live updates here. - cp24.com \u2014 Poilievre heads to U.S. with PMO\u2019s blessing as Trump ramps up retaliation against Canada. Live updates here.\u00a0\u00a0cp24.com",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZXozVXZIZWI2bFp5Q1VYMmtSb0E5c2dkY1ZPNk5kdFA5a1JmQjYzNExIVFctcXBOY080YW1OdHlkajJYbERKWEJtYjJ5N3lXSlFpLXp6d2FTWGpMVUc0cFlOZkRmclQzV2kxUFpiRXl4Wjc3aTROVjhuaUl6aTUtQWQ1WVdFdGJOdjJ6MUZQdmt2Z2ZKM3FGSEpaMUpUaC11c19iRTFRWHBMWUM3d0ZvVlphSWVYYlVCRjRZSlNyYXJmTEZMRXYtajhVc0U2MDN4WmE5LWl3SmJXNVRSd3hQdDdn?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "SPY",
+   "strength": 55,
+   "reason": "Trump trade retaliation against Canada threatens broad market via tariff escalation and cross-border commerce disruption.",
    "price_since": {
     "ticker": "SPY",
     "pct": -0.6,
@@ -2376,118 +2464,6 @@
    "primary_ticker": "AG",
    "strength": 30,
    "reason": "AG stock jump reason not stated; insufficient Trump-specific catalyst detail provided."
-  },
-  {
-   "date": "2026-09-05T13:33:50Z",
-   "platform": "News",
-   "text": "Why Is AG Stock Jumping Over 5% In Overnight Trading? - Stocktwits \u2014 Why Is AG Stock Jumping Over 5% In Overnight Trading?\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZWN4cjJ0TVQ3NUdWMm1CVVR2b2NWM3Q0QTdFX2h2NU8tQ3ZKNVNYUXlUNkt0NVkyZ0ZwV05DaWh3RVJzRzJzcVc5c3VBVWctc2dCdVZLMVU1U0NnY1Iwc3FKVjgxV1V5cHR3SklSSjFYTU5Mam41T0N5b3V0b041d20zOUo5RVZQMUxRSjhtN1g5ejA4Wmk2OWR4LXJDQQ?oc=5",
-   "tickers": [
-    "AG"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "AG",
-   "strength": 10,
-   "reason": "Stock jump with no reason stated; insufficient catalyst to determine direction."
-  },
-  {
-   "date": "2026-09-05T10:32:00Z",
-   "platform": "News",
-   "text": "Trump Threatens Trade Halt Unless Fed Cuts Interest Rates - Tempo.co English \u2014 Trump Threatens Trade Halt Unless Fed Cuts Interest Rates\u00a0\u00a0Tempo.co English",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTEtrdVQ4WWQ0aU92S1NDYzEyRVdDcEI4dXNyb2ZfX0s4eFR2MVVrcEpZVG5ZQkU2VGRWMjVXX28yQVV1bWdnVnNHZmFlUUkzb2xpTzQ1NUFpdU01bWpQU3l1LW42N2F6NkhlWHViOGZZWGpNV3Q2Y3dUY3VFY2Z2Z0JtYUFkTl9yRHNiVVhMQ2tja00?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "SPY",
-   "strength": 70,
-   "reason": "Trump threatens trade halt unless Fed cuts rates, macro economic pressure on broad market"
-  },
-  {
-   "date": "2026-09-05T05:56:10Z",
-   "platform": "News",
-   "text": "Trump secures drug pricing deals with 9 pharma firms, bringing total to 26 - scanx.trade \u2014 Trump secures drug pricing deals with 9 pharma firms, bringing total to 26\u00a0\u00a0scanx.trade",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOb3BTc3dmTktrX25zdE1hQ3ZXdkVUc1VKMGtlaTlnRlJBWm9PQlB4aklQZXRvNzUwdEhlRmxqV1hIeDBPYUthcHRmX1VEMHRtY2ZWT0J3QmJodm1QU2M1VUdtbmIwbGZFMzNXSGFPc1MycUVvTnZpSWxfNmxUbXozbmV4S1lmUW84LWNQX0RxRTlGYWtnVVlNREY1d3VZMkd5WG9JVldfS2ZYYkU?oc=5",
-   "tickers": [
-    "XBI"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "XBI",
-   "strength": 55,
-   "reason": "Drug pricing deals with 26 pharma firms suggest favorable regulatory environment for pharma sector; bullish for biotech/pharma ETF"
-  },
-  {
-   "date": "2026-09-05T04:15:55Z",
-   "platform": "News",
-   "text": "Nvidia\u2019s Monster Quarter Wins Praise From Elon Musk, \u2018Big Short\u2019 Investor And Ex-Trump Adviser As AI Bears Get \u2018Shredded\u2019 - Stocktwits \u2014 Nvidia\u2019s Monster Quarter Wins Praise From Elon Musk, \u2018Big Short\u2019 Investor And Ex-Trump Adviser As AI Bears Get \u2018Shredded\u2019\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZmNmckw5UFFDejdkd3p0bHRVS2E2NGUtYXcxdTctdmpSWFZudDQyVDliQ0Fwd2hKTV9PeWZXUXU2MzZnSnkxUURSQ3dDbDdaWjF3dHQ1REQ3TW1YTVcxcjBZZzBTTXl0bS1iTTR2M09MSDV2b2NRTFBfUFhIQkN5T25xV1M4STVld05xUlRfOHFPX2ZUQWJNbk43NmhaY2ljZ3ZJLXhPclN6UV9mQ3dSVWFQdnFpc2M?oc=5",
-   "tickers": [
-    "NVDA"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "NVDA",
-   "strength": 45,
-   "reason": "Nvidia's strong quarter praised by Elon Musk and Trump adviser is positive sentiment, but praise is indirect"
-  },
-  {
-   "date": "2026-09-05T03:38:02Z",
-   "platform": "News",
-   "text": "IBRX Stock Rally Not Over Yet? Chairman Says Trump Diplomacy Led To \u2018Amazing Results\u2019 For Cancer Drug - stocktwits.com \u2014 IBRX Stock Rally Not Over Yet? Chairman Says Trump Diplomacy Led To \u2018Amazing Results\u2019 For Cancer Drug\u00a0\u00a0stocktwits.com",
-   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOcVFTb3RQWTZrUG9ONVN6MEVNSk54ckxoS1E2bWNXQmRjRWIxaURpT1lyY3ItODk1LXRGb0MyeWtSMERnRmpmNHpha1JPZWZWa1NUWmNkOGJNbjJiTWMtRm52djZJZTVhQUVmNDVHTUE0N1RtN2M5ZmxMSE9RbVVUTi1vZENNdHhTZWJ6eDFlZXhIUFI0Nm5rLTZYWUIwblZCaXRHYlhyd3Zpa25XcWUtbTNEdGVXelpqcVN0eDBZZ3RMajBVZjdxaVJYV3E4V2lMNnlUODhYMzdTR1h4NFRGWlQ4b01SNDluNEZvZXJjT29pTXpj?oc=5",
-   "tickers": [
-    "IBRX"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "IBRX",
-   "strength": 50,
-   "reason": "Trump diplomacy credited with 'amazing results' on cancer drug approval; tailwind for biotech"
-  },
-  {
-   "date": "2026-09-05T03:37:26Z",
-   "platform": "News",
-   "text": "DOCN Stock Climbs On Strong Preliminary Q2 Numbers \u2013 CEO Touts Winning \u2018World\u2019s Most Sophisticated AI Customers\u2019 - Stocktwits \u2014 DOCN Stock Climbs On Strong Preliminary Q2 Numbers \u2013 CEO Touts Winning \u2018World\u2019s Most Sophisticated AI Customers\u2019\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQSDhLZWEzOWdNblNQSk5nQUZ0MVBTczJnbmRYQlhMWElpczZCRTlqdEw3RWh6Y0czc2dVakxtc2Q0RFFpLTU0LTUwZEVoajlTZzFReHlsRl9oVFoxYnlVTTU4SXQtYmFUT1FaeDNvaFNoT0xFMGxqM05UeDRQZVJEVUJIU1hYOUtyWWZJQ1RLRDdRNlhNa01tekRPOHpBLThLMzJvSl9TMkxhd3lzM09vR3VqcTZhc09USlNSLUp2OTRNY0FXWlVodkhfRmVCWGttZW9FTEliZ0tueVdrRnB6QVBoVUlrZVY0MWt5N2d4bHhpMWlNNVN4dThUdVZDSDBrM3c?oc=5",
-   "tickers": [
-    "DOCN"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "DOCN",
-   "strength": 45,
-   "reason": "DigitalOcean strong Q2 and AI customer wins; company fundamentals bullish, Trump indirect."
-  },
-  {
-   "date": "2026-09-05T03:37:26Z",
-   "platform": "News",
-   "text": "DOCN Stock Climbs On Strong Preliminary Q2 Numbers \u2013 CEO Touts Winning \u2018World\u2019s Most Sophisticated AI Customers\u2019 - stocktwits.com \u2014 DOCN Stock Climbs On Strong Preliminary Q2 Numbers \u2013 CEO Touts Winning \u2018World\u2019s Most Sophisticated AI Customers\u2019\u00a0\u00a0stocktwits.com",
-   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQSDhLZWEzOWdNblNQSk5nQUZ0MVBTczJnbmRYQlhMWElpczZCRTlqdEw3RWh6Y0czc2dVakxtc2Q0RFFpLTU0LTUwZEVoajlTZzFReHlsRl9oVFoxYnlVTTU4SXQtYmFUT1FaeDNvaFNoT0xFMGxqM05UeDRQZVJEVUJIU1hYOUtyWWZJQ1RLRDdRNlhNa01tekRPOHpBLThLMzJvSl9TMkxhd3lzM09vR3VqcTZhc09USlNSLUp2OTRNY0FXWlVodkhfRmVCWGttZW9FTEliZ0tueVdrRnB6QVBoVUlrZVY0MWt5N2d4bHhpMWlNNVN4dThUdVZDSDBrM3c?oc=5",
-   "tickers": [
-    "DOCN"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "DOCN",
-   "strength": 45,
-   "reason": "Strong Q2 and winning sophisticated AI customers; growth story independent but positive momentum"
   },
   {
    "curated": true,
