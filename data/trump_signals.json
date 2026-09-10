@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-09-10T18:58:51Z",
+ "last_updated": "2026-09-10T21:33:25Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-09-10T19:39:14Z",
+   "platform": "News",
+   "text": "Trump defends $5,000 dividend proposal, praises \u2018beautiful\u2019 tariffs on \u2018Ingraham Angle\u2019 - 930 WFMD Free Talk \u2014 Trump defends $5,000 dividend proposal, praises \u2018beautiful\u2019 tariffs on \u2018Ingraham Angle\u2019\u00a0\u00a0930 WFMD Free Talk",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVXZubi1UVHBXbTlMUjFveTctay0wbF9obmZwOVlENTVUcjE5WGM3X0JxbjY2bE5YZEhWMVpaOW9LN00wcmZOY2VNQmt6bmZJRkl5dW9PVG5zYlZTbFRDTDBZQkk5Y3hlNHpWbmJWVFRtMmJBa2RmSVZrWFc1Xy1VZDk3Y3RaVkhRcEhScHQ4NWJJWE0tZTNDa19aeXVyY2E0S194WGlBQTNadVlfUUlKakVETQ?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "SPY",
+   "strength": 35,
+   "reason": "Tariff comments are market-relevant macro but direction ambiguous without specifics on scope or implementation"
+  },
   {
    "date": "2026-09-10T18:01:16Z",
    "platform": "News",
@@ -33,6 +49,22 @@
    "primary_ticker": "XAR",
    "strength": 35,
    "reason": "Iran war warning; geopolitical risk can pressure defense/energy or broad market cautiously."
+  },
+  {
+   "date": "2026-09-10T14:16:48Z",
+   "platform": "News",
+   "text": "Trump Advisers Secretly Issue Dire Warning About Iran War - newrepublic.com \u2014 Trump Advisers Secretly Issue Dire Warning About Iran War\u00a0\u00a0newrepublic.com",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSjZaNDZIWlE4MlJnUnkxQzFSanB2cWZvUXhHSEZuMF9oUnFNN3kzb1ZKUDE5WGNHMkxJNFdWRXhNTDg3b0hGY19HNjBoTS1ZLWxEZGprT3AxX01fblR1REY4YnlreTF5c2kycF93bXhrd2ROMFVSdnNhTGIzd3Y1RXpZeDJ3aVdCTkNJ?oc=5",
+   "tickers": [
+    "XAR"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "XAR",
+   "strength": 40,
+   "reason": "Iran war warning is defense/geopolitical risk but direction ambiguous; could support defense stocks if war escalates"
   },
   {
    "date": "2026-09-10T12:06:15Z",
@@ -115,6 +147,22 @@
    "reason": "Trump sold AI stocks but Wall Street disagrees; mixed signal on AI sector direction"
   },
   {
+   "date": "2026-09-10T09:10:27Z",
+   "platform": "News",
+   "text": "President Trump Sold 2 Popular Artificial Intelligence (AI) Stocks. Wall Street Says Investors Should Buy Both. - theglobeandmail.com \u2014 President Trump Sold 2 Popular Artificial Intelligence (AI) Stocks. Wall Street Says Investors Should Buy Both.\u00a0\u00a0theglobeandmail.com",
+   "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNd0ZtMW1KQnRUUUtZOGlYM0pPalBLUHJBakxzS1JLcmwyQmt1WTZIUmxpekJxTlMzNVFNV2hjZ1lsdk9yOVo1bllVUVlITFVBYkI3TS1CT09qQUNHdGlWdDdwYlYwVXZPaGh1TzlsS1U3Y0tQc1BMUXZ6X3NRV0ZRM1FtcEIyck1BTU9nbFphSW5acXdramk0ZkV2QWs0WEw3Y3dweTBjWDlPV2diT0xKT2lFTWMxRy1Od1hnMW9HVXljUm9FSUpXVjFZckM0MTZfWVdhTTR4bHFaTVFJTHJ2RUZDMWFjU2lmNm16QUg0MmFzUVNwRS1sYXN1aXh3VE9yNmg0eG13QUh6T0dzU0hlVXdpR01HRXFVRWdPSGxlVQ?oc=5",
+   "tickers": [
+    "SMH"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "SMH",
+   "strength": 45,
+   "reason": "Trump selling AI stocks signals bearish view; Wall Street disagrees, creating split signal on semiconductor/AI sector"
+  },
+  {
    "date": "2026-09-10T09:08:01Z",
    "platform": "News",
    "text": "President Trump Sold 2 Popular Artificial Intelligence (AI) Stocks. Wall Street Says Investors Should Buy Both. - Yahoo Finance \u2014 President Trump Sold 2 Popular Artificial Intelligence (AI) Stocks. Wall Street Says Investors Should Buy Both.\u00a0\u00a0Yahoo Finance",
@@ -195,6 +243,54 @@
    "reason": "Trump signals trade deal with Canada on energy projects; deal upside for North American energy sector."
   },
   {
+   "date": "2026-09-10T05:18:00Z",
+   "platform": "News",
+   "text": "Trump says Canada \u2018dying\u2019 to make trade deal as Carney updates review process for major energy projects - BNN Bloomberg \u2014 Trump says Canada \u2018dying\u2019 to make trade deal as Carney updates review process for major energy projects\u00a0\u00a0BNN Bloomberg",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQR0pQNXhCYmVSQm04SFRkV0wwd2VpVTJwYXdNUUtfbmR5RGpKb2tJY3RnbWpwVU9tS2liX1NDYzVWT25NUGZfbDE1LW1oVUhobTcxUF9HNnF3MDVSZzRtMDFHdnJMTGJZWTRHUGhmekQ3NGtyLUYzWW1pbXFaT3U4NFcxN2ZxM1lxUjROMkg5N0J4Mkd0emYwNGxBd3VzcEh6NzRpREowTG1UNkt5MFVGenI0Z0g4el80dHZNWTY0endOdDFXVXVhREZoVTNNdXNqLWE4elVMajhUME9hZDZvQmFWTQ?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "SPY",
+   "strength": 55,
+   "reason": "Trade deal with Canada reduces tariff risk and supports broad market; pro-growth for energy/cross-border commerce"
+  },
+  {
+   "date": "2026-09-10T02:18:19Z",
+   "platform": "News",
+   "text": "DJT Stock Slips Overnight: Truth Social To Sell Wall Street 'Fastest' Access To Trump's Posts - Stocktwits \u2014 DJT Stock Slips Overnight: Truth Social To Sell Wall Street 'Fastest' Access To Trump's Posts\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPMlA4d1JobmFISDVhdUVNOG1KZ3lYTVJCYjc0U09RMGZtdEdnV19hV0tfRmpNeVpzUGNQTlpnajJkQTdPUUN6cGJmVU5rUkdUcE9uTHc1SFJTRXMwOHFodDdaZkltOWlEby1yUWFkS3VSb01rem1tQU0xY3ZBdmRGU3dZTkJ5SlZZZVJXZVkzQjV6N0JjaGIyV1dZRUVQUUFUazlFenhzTFlMT1dkakRBdXBuMVllZEIwdUszRlFkU2VVSHc3azEtcjd5NWkyQWdDMWFfTHhJeFVqMmtaeHdLeXBLeXRNZG1mTEE?oc=5",
+   "tickers": [
+    "DJT"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "DJT",
+   "strength": 50,
+   "reason": "Truth Social monetizing Wall Street access is revenue-positive for DJT but execution/adoption unclear"
+  },
+  {
+   "date": "2026-09-10T01:47:00Z",
+   "platform": "News",
+   "text": "PLTR Stock Faces Split Narrative: Retail Bulls Hold Firm As Burry Sounds Alarm, Trump Signals Support - Stocktwits \u2014 PLTR Stock Faces Split Narrative: Retail Bulls Hold Firm As Burry Sounds Alarm, Trump Signals Support\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSFRDSVNMdHk3NEtMbFEwQ1ZRT2tLY3h1cEFvOTVjb182Qm1QUnVqTlE2dWhzYXZpaXBoN3gyNlg4dWVWY0dldndhRDZoOGE2N2ZSMTgxb1Ayb0RWanA3a0hEeEhKWGtYRENBSGZ0d0wySmlrSWpzM1BmcXZpTUdDOXcwMVl0NXVKYjMyOEFvYmVpYk9uOVRSaWdleVNEQnZkZk1tUE5vRURtNjdubE0wTUhLSFFUbGc3OUs5UVpJQXhVTHdZLTdLTmZDQVkxMUVwd3c?oc=5",
+   "tickers": [
+    "PLTR"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "PLTR",
+   "strength": 65,
+   "reason": "Trump signals explicit support for Palantir; bullish catalyst for stock"
+  },
+  {
    "date": "2026-09-10T00:30:00Z",
    "platform": "News",
    "text": "Ford caught in escalating Washington clash over China deals By Reuters - Investing.com \u2014 Ford caught in escalating Washington clash over China deals By Reuters\u00a0\u00a0Investing.com",
@@ -229,7 +325,7 @@
     "ticker": "SPY",
     "pct": -0.6,
     "base": 762.4,
-    "last": 757.73,
+    "last": 757.83,
     "base_date": "2026-09-09",
     "last_date": "2026-09-10"
    }
@@ -253,7 +349,7 @@
     "ticker": "SPY",
     "pct": -0.6,
     "base": 762.4,
-    "last": 757.73,
+    "last": 757.83,
     "base_date": "2026-09-09",
     "last_date": "2026-09-10"
    }
@@ -275,9 +371,33 @@
    "reason": "Iran war escalation and no-end-in-sight rhetoric supports higher oil prices and energy sector upside",
    "price_since": {
     "ticker": "XLE",
-    "pct": -0.4,
+    "pct": -0.6,
     "base": 65.31,
-    "last": 65.08,
+    "last": 64.93,
+    "base_date": "2026-09-09",
+    "last_date": "2026-09-10"
+   }
+  },
+  {
+   "date": "2026-09-09T20:20:49Z",
+   "platform": "News",
+   "text": "Trump Makes Bank on Oil as He Declares Iran War Has No End in Sight - newrepublic.com \u2014 Trump Makes Bank on Oil as He Declares Iran War Has No End in Sight\u00a0\u00a0newrepublic.com",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE94TkRUSTdVYkxGRXRka0lYLUJLdUpJSmtzcFdLUVBuWWZlbW5PbFc2QTExSVlTUi1YUnRselBIa1RTQ3l5T01ZeFZkeHJZR3NjOExTMjd2Z05Xem9CY21fNzhrVDBJajhVcFRweTJn?oc=5",
+   "tickers": [
+    "XLE"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "XLE",
+   "strength": 55,
+   "reason": "Trump's Iran tensions and 'no end in sight' messaging supports higher geopolitical oil premium and energy sector bullish outlook.",
+   "price_since": {
+    "ticker": "XLE",
+    "pct": -0.6,
+    "base": 65.31,
+    "last": 64.93,
     "base_date": "2026-09-09",
     "last_date": "2026-09-10"
    }
@@ -301,7 +421,7 @@
     "ticker": "SPY",
     "pct": -0.6,
     "base": 762.4,
-    "last": 757.73,
+    "last": 757.83,
     "base_date": "2026-09-09",
     "last_date": "2026-09-10"
    }
@@ -325,7 +445,7 @@
     "ticker": "SPY",
     "pct": -0.6,
     "base": 762.4,
-    "last": 757.75,
+    "last": 757.83,
     "base_date": "2026-09-09",
     "last_date": "2026-09-10"
    }
@@ -349,7 +469,7 @@
     "ticker": "SPY",
     "pct": -0.6,
     "base": 762.4,
-    "last": 757.73,
+    "last": 757.83,
     "base_date": "2026-09-09",
     "last_date": "2026-09-10"
    }
@@ -373,7 +493,7 @@
     "ticker": "SPY",
     "pct": -0.6,
     "base": 762.4,
-    "last": 757.75,
+    "last": 757.83,
     "base_date": "2026-09-09",
     "last_date": "2026-09-10"
    }
@@ -396,9 +516,9 @@
    "reason": "Trump promotes oil/energy analyst commentary, signaling pro-energy policy stance",
    "price_since": {
     "ticker": "XLE",
-    "pct": -0.4,
+    "pct": -0.6,
     "base": 65.31,
-    "last": 65.08,
+    "last": 64.93,
     "base_date": "2026-09-09",
     "last_date": "2026-09-10"
    }
@@ -422,7 +542,7 @@
     "ticker": "SPY",
     "pct": -0.6,
     "base": 762.4,
-    "last": 757.73,
+    "last": 757.83,
     "base_date": "2026-09-09",
     "last_date": "2026-09-10"
    }
@@ -446,7 +566,7 @@
     "ticker": "SPY",
     "pct": -0.6,
     "base": 762.4,
-    "last": 757.75,
+    "last": 757.83,
     "base_date": "2026-09-09",
     "last_date": "2026-09-10"
    }
@@ -470,7 +590,7 @@
     "ticker": "SPY",
     "pct": -0.6,
     "base": 762.4,
-    "last": 757.75,
+    "last": 757.83,
     "base_date": "2026-09-09",
     "last_date": "2026-09-10"
    }
@@ -494,7 +614,7 @@
     "ticker": "SPY",
     "pct": -0.6,
     "base": 762.4,
-    "last": 757.78,
+    "last": 757.83,
     "base_date": "2026-09-09",
     "last_date": "2026-09-10"
    }
@@ -2368,70 +2488,6 @@
    "primary_ticker": "DOCN",
    "strength": 45,
    "reason": "Strong Q2 and winning sophisticated AI customers; growth story independent but positive momentum"
-  },
-  {
-   "date": "2026-09-05T03:28:02Z",
-   "platform": "News",
-   "text": "Trump calls Venezuela oil deal 'greatest ever', but US firms raise concerns - Business Standard \u2014 Trump calls Venezuela oil deal 'greatest ever', but US firms raise concerns\u00a0\u00a0Business Standard",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORUk2bHVCTW04M05mN0JfeU1YLXgtNFZCaVFhSHg1LWFGa2pCR2hjS0FVd19vQ0lRZG9JdjZZLU9fSFlzc2c4dU9RQ083MHlqeVpqZjN5a3hLYmNVcVZGZGJsX3gwY2p2Sm1YWHR2VU8wb1BUSlBJUVQtUlJ1MXhteC1zbTlMV0lQRjFoejBxYkU5MlU4Qk9fUHktLUoycGU2MlR1UUlKVTVSeDhEd0UtUWQxRkxZRTN3TWZYZ3QyYi1uOGJUVjdWbWp5X05NZW5ldy0w0gHYAUFVX3lxTFByV3V1OEIzcmlVMkhhVGcwd3lKQmd4WF9wbkliNkc5RGhfRXByeDFuVkhyM3NCcG5OX2MxY3M5MDZ2Qi1kV1MtUFB4VWZSTG1pRjJQLW93WkFiRHVXMzBSTEViQnNDcXhMc0J1dXFiR2lDZERvaG9SeXVxR0NBTGp4LVdUUm1VN1IxWGVsOGlQNUdhUGF3QU9sUXVxalUxZXNBUEQ4V1hDQ3hIQ1VHeTlIMDY5NmN1a2pWYlM2UlNyVTZRU3gtb1lNZkFuX3lhUjZPZ3NPNXNpUw?oc=5",
-   "tickers": [
-    "USO"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "USO",
-   "strength": 45,
-   "reason": "Venezuela oil deal framed positively but US firms raise concerns; ambiguous direction on US oil/energy upside vs. trade risk"
-  },
-  {
-   "date": "2026-09-05T03:27:55Z",
-   "platform": "News",
-   "text": "Donald Trump \u2018Doesn\u2019t Care\u2019 If Iran Talks Are Over, Says Oil Will Drop \u2018Like a Rock\u2019: Report - Stocktwits \u2014 Donald Trump \u2018Doesn\u2019t Care\u2019 If Iran Talks Are Over, Says Oil Will Drop \u2018Like a Rock\u2019: Report\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQVExtZHpyQjhpbFo1R20wZ2ZDTS1NLWJ1T2xwdklBN01UamxDSnBOODQ1aVVZaDZKVTVYemh2V05DTDFkZnF4aTJSSDhFMEx1dzUydzVQcGx1eHR5Y1lNTDVmOEEwaUo3UkZjbnRJZEVuS2VMaUZMX1JEWUswT1pNMnYxQmlVS2RydzlVOHJ4T1NDOHJmMjRFWm5vY1ltdDBOWWtIN0p4UThpX2FNMWcwQTdWZldBX3Z4UzdRb1M3QXdNZl9NcVJsM2tiZzg0a005MXY5THFSb2pfWmQ0eGVCTExwY3E0WjA?oc=5",
-   "tickers": [
-    "XLE"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "XLE",
-   "strength": 60,
-   "reason": "Trump expects oil to drop sharply on Iran talks collapse, bearish energy signal"
-  },
-  {
-   "date": "2026-09-05T02:19:49Z",
-   "platform": "News",
-   "text": "Trump calls Iran conflict 'small potatoes', backs Vance's 'not a war' stand - Business Standard \u2014 Trump calls Iran conflict 'small potatoes', backs Vance's 'not a war' stand\u00a0\u00a0Business Standard",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbzc3QVUyVTRsR2F2dVdicGtGeG9mdDByRG05bGxXVkZfbTFVN0pWUXQzZ2lRZTVIc091S281d0NOYUdEWjNUX2sxY2MyZFFFOURYOFk0S3dKMGR3SjI2QWh2TFpUa0g3Z2tTUk8tUk4td1hLX3c0eWM1OXVER0xwOFllMzhTMUpCR3dXM2xmc1Y5Q2FIR2d0VmY2NndfNDJaV3o5Sm1OcFJIak95SzFnRU1fWFRDbXl1ZWh5cjdRazFZTWdkVVFsTi03QTFXcWRXREJKSXVR0gHWAUFVX3lxTFBvNzdBVTJVNGxHYXZ1V2Jwa0Z4b2Z0MHJEbTlsbFdWRl9tMVU3SlZRdDNnaVFlNUhzT3VLbzV3Q05hR0RaM1RfazFjYzJkUUU5RFg4WTRLd0owZHdKMjZBaHZMWlRrSDdna1NSTy1STi13WEtfdzR5YzU5dURHTHA4WWUzOFMxSkJHd1czbGZzVjlDYUhHZ3RWZjY2d180MlpXejlKbU5wUkhqT3lLMWdFTV9YVENteXVlaHlyN1FrMVlNZ2RVUWxOLTdBMVdxZFdEQkpJdVE?oc=5",
-   "tickers": [
-    "XAR"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "XAR",
-   "strength": 35,
-   "reason": "Trump downplays Iran conflict; defense/war premium risk lower, defensive sector pressure."
-  },
-  {
-   "date": "2026-09-05T02:19:49Z",
-   "platform": "News",
-   "text": "Trump calls Iran conflict 'small potatoes', backs Vance's 'not a war' stand - business-standard.com \u2014 Trump calls Iran conflict 'small potatoes', backs Vance's 'not a war' stand\u00a0\u00a0business-standard.com",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbzc3QVUyVTRsR2F2dVdicGtGeG9mdDByRG05bGxXVkZfbTFVN0pWUXQzZ2lRZTVIc091S281d0NOYUdEWjNUX2sxY2MyZFFFOURYOFk0S3dKMGR3SjI2QWh2TFpUa0g3Z2tTUk8tUk4td1hLX3c0eWM1OXVER0xwOFllMzhTMUpCR3dXM2xmc1Y5Q2FIR2d0VmY2NndfNDJaV3o5Sm1OcFJIak95SzFnRU1fWFRDbXl1ZWh5cjdRazFZTWdkVVFsTi03QTFXcWRXREJKSXVR0gHWAUFVX3lxTFBvNzdBVTJVNGxHYXZ1V2Jwa0Z4b2Z0MHJEbTlsbFdWRl9tMVU3SlZRdDNnaVFlNUhzT3VLbzV3Q05hR0RaM1RfazFjYzJkUUU5RFg4WTRLd0owZHdKMjZBaHZMWlRrSDdna1NSTy1STi13WEtfdzR5YzU5dURHTHA4WWUzOFMxSkJHd1czbGZzVjlDYUhHZ3RWZjY2d180MlpXejlKbU5wUkhqT3lLMWdFTV9YVENteXVlaHlyN1FrMVlNZ2RVUWxOLTdBMVdxZFdEQkpJdVE?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "SPY",
-   "strength": 40,
-   "reason": "Trump de-escalates Iran conflict risk; reduces geopolitical premium and supports broad-market bullish sentiment"
   },
   {
    "curated": true,
