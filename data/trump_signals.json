@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-09-10T01:28:47Z",
+ "last_updated": "2026-09-10T06:35:18Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-09-10T00:30:00Z",
+   "platform": "News",
+   "text": "Ford caught in escalating Washington clash over China deals By Reuters - Investing.com \u2014 Ford caught in escalating Washington clash over China deals By Reuters\u00a0\u00a0Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZjNwM1Joc1NEZDBIQ2FBWnlWMi1YMEY5SXhNVG9xeTRQWlFJNVVnLTJPd0xEdGlhRVJ6c1l5cUhqWEpWenVLdVFDdDZKLS1XVHNCQXNQck1KdmRLQnRWa3FXODBBZXgxcEVmMkhEUWFVeEtKZDZiWWNabUctNnZxR2k0SC1wTWtwUmRmZUFER2Z6S2hwSTZKdC1HV2NjTjRRMlREcm12ZVBPVzBfYVNNOGwtTnpza0RXRWFQVk9TaXdDZw?oc=5",
+   "tickers": [
+    "F"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "F",
+   "strength": 45,
+   "reason": "Ford facing Washington pressure over China dealings amid trade tensions; sector headwinds for auto."
+  },
   {
    "date": "2026-09-09T20:20:49Z",
    "platform": "News",
@@ -212,6 +228,38 @@
    "reason": "SEC ETF rule change praised as pro-saver creates positive regulatory environment for retail investment and broader market confidence"
   },
   {
+   "date": "2026-09-09T11:41:11Z",
+   "platform": "News",
+   "text": "NOK Stock Rises Pre-Market: Trump Endorsement Adds Fuel To AI Growth Push For Nokia - Stocktwits \u2014 NOK Stock Rises Pre-Market: Trump Endorsement Adds Fuel To AI Growth Push For Nokia\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNaVBkeHg0Vi02NWZ0Tlp5bGh2bjdYaC10MUFVamtBcTFCbjByT05oVmIyeUJQSzFMVGZSLXpFdkd0NVVIMHY3UzNqOFFIQ3FvakVucnM4dms0VXZHQTdlSnJkTXpqdVVJclpEU2lEUUtKYTloWjFFRU5Db2cteVF5UGxkd05LakNaMWZpa1UtaVdodVVIU1I1Vkxjb0kyTG52eFVUaHdkR3Rjb0l4MmpQT2ZMTW5HWWNFdTA2elZuN3ZCckxMa2VrS0FXZm9VNUJWSDBSU2RDMV9WNkJmajVJ?oc=5",
+   "tickers": [
+    "NOK"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "NOK",
+   "strength": 70,
+   "reason": "Trump explicit endorsement of Nokia for AI growth; named company praise drives stock up."
+  },
+  {
+   "date": "2026-09-09T03:52:38Z",
+   "platform": "News",
+   "text": "MU, SNDK, STX, WDC Stocks Extend Slide Overnight As Memory Pump Fades: Retail Traders Hopeful For Rebound - Stocktwits \u2014 MU, SNDK, STX, WDC Stocks Extend Slide Overnight As Memory Pump Fades: Retail Traders Hopeful For Rebound\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPb0VPUHFyT3dNU1BkR3RTbUZ5dENaV0tfUUViMzZzVDJDcXZFVWdxZ1Raa3N4SkFYX0E3enVNUzdxN193Q1lkUVVfdUtqNkhJelJLUkwzVmhMYUEtWDBsRmw4LV9mQmVCQlMyUFJ2a3lZT0Z1QWF3clF0eUtPa2JsMDJGT3pJcEdiNVpTWHFobGxIUlRCeEV5N1dYQUp5LV9Pbjlyc1FNeS03OGhUZTViX29RTmM5d1BpalVIWDNTUDFja2lRb1FnY19pSi0zRXozSUNzaUJKS0tpdFcwa0NWbG94dzBvWnItOHF1dVNQM29Kc2h1SF9FUg?oc=5",
+   "tickers": [
+    "SMH"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "SMH",
+   "strength": 40,
+   "reason": "Memory chip sector volatility (MU, SNDK, STX, WDC) noted; direction unclear, retail trader sentiment mixed."
+  },
+  {
    "date": "2026-09-09T01:56:16Z",
    "platform": "News",
    "text": "Canada responds to new U.S. trade measures as Trump signs flurry of executive orders - BNN Bloomberg \u2014 Canada responds to new U.S. trade measures as Trump signs flurry of executive orders\u00a0\u00a0BNN Bloomberg",
@@ -305,7 +353,15 @@
    "direction": "WATCH",
    "primary_ticker": "XLE",
    "strength": 50,
-   "reason": "Question on Trump's ability to control oil prices; ambiguous signal on oil sector direction."
+   "reason": "Question on Trump's ability to control oil prices; ambiguous signal on oil sector direction.",
+   "price_since": {
+    "ticker": "XLE",
+    "pct": 0.8,
+    "base": 64.77,
+    "last": 65.31,
+    "base_date": "2026-09-08",
+    "last_date": "2026-09-09"
+   }
   },
   {
    "date": "2026-09-08T22:08:00Z",
@@ -321,7 +377,15 @@
    "direction": "SELL",
    "primary_ticker": "BBD",
    "strength": 70,
-   "reason": "Trump threatens Bombardier ban; direct bearish signal for Bombardier."
+   "reason": "Trump threatens Bombardier ban; direct bearish signal for Bombardier.",
+   "price_since": {
+    "ticker": "BBD",
+    "pct": -3.4,
+    "base": 3.55,
+    "last": 3.43,
+    "base_date": "2026-09-08",
+    "last_date": "2026-09-09"
+   }
   },
   {
    "date": "2026-09-08T22:08:00Z",
@@ -337,7 +401,15 @@
    "direction": "SELL",
    "primary_ticker": "BBD",
    "strength": 75,
-   "reason": "Trump threatens to ban Bombardier; explicit negative action on named company affects Kansas contracts."
+   "reason": "Trump threatens to ban Bombardier; explicit negative action on named company affects Kansas contracts.",
+   "price_since": {
+    "ticker": "BBD",
+    "pct": -3.4,
+    "base": 3.55,
+    "last": 3.43,
+    "base_date": "2026-09-08",
+    "last_date": "2026-09-09"
+   }
   },
   {
    "date": "2026-09-08T21:34:42Z",
@@ -353,7 +425,15 @@
    "direction": "SELL",
    "primary_ticker": "SPY",
    "strength": 65,
-   "reason": "U.S.-Canada trade war escalation with product bans on government contracts signals broader tariff/trade conflict, bearish for markets"
+   "reason": "U.S.-Canada trade war escalation with product bans on government contracts signals broader tariff/trade conflict, bearish for markets",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": -0.5,
+    "base": 765.96,
+    "last": 762.4,
+    "base_date": "2026-09-08",
+    "last_date": "2026-09-09"
+   }
   },
   {
    "date": "2026-09-08T20:59:00Z",
@@ -369,7 +449,15 @@
    "direction": "SELL",
    "primary_ticker": "DJT",
    "strength": 60,
-   "reason": "Trump's Wall Street venture reportedly failing; bearish on Trump Media"
+   "reason": "Trump's Wall Street venture reportedly failing; bearish on Trump Media",
+   "price_since": {
+    "ticker": "DJT",
+    "pct": -5.6,
+    "base": 9.23,
+    "last": 8.71,
+    "base_date": "2026-09-08",
+    "last_date": "2026-09-09"
+   }
   },
   {
    "date": "2026-09-08T20:29:29.573Z",
@@ -386,7 +474,15 @@
    "direction": "SELL",
    "primary_ticker": "SPY",
    "strength": 65,
-   "reason": "Trump threatens Canadian market access; tariff/trade war escalation bearish for broad market"
+   "reason": "Trump threatens Canadian market access; tariff/trade war escalation bearish for broad market",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": -0.5,
+    "base": 765.96,
+    "last": 762.4,
+    "base_date": "2026-09-08",
+    "last_date": "2026-09-09"
+   }
   },
   {
    "date": "2026-09-08T17:27:17Z",
@@ -402,7 +498,15 @@
    "direction": "WATCH",
    "primary_ticker": "DJT",
    "strength": 40,
-   "reason": "Trump's high trading volume disclosure is market-relevant but direction ambiguous without knowing trade composition"
+   "reason": "Trump's high trading volume disclosure is market-relevant but direction ambiguous without knowing trade composition",
+   "price_since": {
+    "ticker": "DJT",
+    "pct": -5.6,
+    "base": 9.23,
+    "last": 8.71,
+    "base_date": "2026-09-08",
+    "last_date": "2026-09-09"
+   }
   },
   {
    "date": "2026-09-08T17:18:06Z",
@@ -418,7 +522,15 @@
    "direction": "BUY",
    "primary_ticker": "XLE",
    "strength": 45,
-   "reason": "Trump praises nuclear reactor innovation; long-term bullish for energy sector but vague and indirect."
+   "reason": "Trump praises nuclear reactor innovation; long-term bullish for energy sector but vague and indirect.",
+   "price_since": {
+    "ticker": "XLE",
+    "pct": 0.8,
+    "base": 64.77,
+    "last": 65.31,
+    "base_date": "2026-09-08",
+    "last_date": "2026-09-09"
+   }
   },
   {
    "date": "2026-09-08T16:28:58Z",
@@ -434,7 +546,15 @@
    "direction": "SELL",
    "primary_ticker": "BBD",
    "strength": 75,
-   "reason": "Trump threatens Bombardier's US market access; direct bearish pressure on Canadian jet maker"
+   "reason": "Trump threatens Bombardier's US market access; direct bearish pressure on Canadian jet maker",
+   "price_since": {
+    "ticker": "BBD",
+    "pct": -3.4,
+    "base": 3.55,
+    "last": 3.43,
+    "base_date": "2026-09-08",
+    "last_date": "2026-09-09"
+   }
   },
   {
    "date": "2026-09-08T16:24:23Z",
@@ -936,22 +1056,6 @@
    "reason": "Trump claims market gains; weak signal since unverified claim with no new policy catalyst"
   },
   {
-   "date": "2026-09-07T11:39:04Z",
-   "platform": "News",
-   "text": "MU, SNDK, STX, WDC Stocks Extend Slide Overnight As Memory Pump Fades: Retail Traders Hopeful For Rebound - Stocktwits \u2014 MU, SNDK, STX, WDC Stocks Extend Slide Overnight As Memory Pump Fades: Retail Traders Hopeful For Rebound\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPb0VPUHFyT3dNU1BkR3RTbUZ5dENaV0tfUUViMzZzVDJDcXZFVWdxZ1Raa3N4SkFYX0E3enVNUzdxN193Q1lkUVVfdUtqNkhJelJLUkwzVmhMYUEtWDBsRmw4LV9mQmVCQlMyUFJ2a3lZT0Z1QWF3clF0eUtPa2JsMDJGT3pJcEdiNVpTWHFobGxIUlRCeEV5N1dYQUp5LV9Pbjlyc1FNeS03OGhUZTViX29RTmM5d1BpalVIWDNTUDFja2lRb1FnY19pSi0zRXozSUNzaUJKS0tpdFcwa0NWbG94dzBvWnItOHF1dVNQM29Kc2h1SF9FUg?oc=5",
-   "tickers": [
-    "MU"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "MU",
-   "strength": 45,
-   "reason": "Memory chip stocks sliding as tariff/AI cycle dynamics shift; direction ambiguous"
-  },
-  {
    "date": "2026-09-07T11:20:27Z",
    "platform": "News",
    "text": "MU Stock Eases After Record Run: Micron Backs Trump Accounts With $250M Commitment - Stocktwits \u2014 MU Stock Eases After Record Run: Micron Backs Trump Accounts With $250M Commitment\u00a0\u00a0Stocktwits",
@@ -1191,22 +1295,6 @@
    "primary_ticker": "SPY",
    "strength": 35,
    "reason": "Call for lower interest rates is macro-bullish but ambiguous on near-term direction; jobs report strength is mixed signal."
-  },
-  {
-   "date": "2026-09-06T23:58:24Z",
-   "platform": "News",
-   "text": "NOK Stock Rises Pre-Market: Trump Endorsement Adds Fuel To AI Growth Push For Nokia - Stocktwits \u2014 NOK Stock Rises Pre-Market: Trump Endorsement Adds Fuel To AI Growth Push For Nokia\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNaVBkeHg0Vi02NWZ0Tlp5bGh2bjdYaC10MUFVamtBcTFCbjByT05oVmIyeUJQSzFMVGZSLXpFdkd0NVVIMHY3UzNqOFFIQ3FvakVucnM4dms0VXZHQTdlSnJkTXpqdVVJclpEU2lEUUtKYTloWjFFRU5Db2cteVF5UGxkd05LakNaMWZpa1UtaVdodVVIU1I1Vkxjb0kyTG52eFVUaHdkR3Rjb0l4MmpQT2ZMTW5HWWNFdTA2elZuN3ZCckxMa2VrS0FXZm9VNUJWSDBSU2RDMV9WNkJmajVJ?oc=5",
-   "tickers": [
-    "NOK"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "NOK",
-   "strength": 75,
-   "reason": "Trump endorsement of Nokia explicitly mentioned; direct praise of named company's AI growth is strong bullish catalyst"
   },
   {
    "date": "2026-09-06T23:58:24Z",
@@ -2140,70 +2228,6 @@
    "primary_ticker": "SPY",
    "strength": 45,
    "reason": "Strong jobs data and argument for lower rates suggest economic strength and potential Fed accommodation, broadly bullish"
-  },
-  {
-   "date": "2026-09-04T13:19:54Z",
-   "platform": "News",
-   "text": "MU Rises Premarket Ahead Of Q3 Report: Analysts Set High Bar, Retail Investors See Tuesday\u2019s Selloff As Setup For Post-Earnings Rally - Stocktwits \u2014 MU Rises Premarket Ahead Of Q3 Report: Analysts Set High Bar, Retail Investors See Tuesday\u2019s Selloff As Setup For Post-Earnings Rally\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPWS1raE5ENUQyNVFuTzNKSk5hc1VZQmhUYTNDT0lXMnVQWUlzeWUzdnMzb05GVmpTSGhqV29HeHE5b3NIanFKd1ZQY1NjMDZ5ZU9QZWRPLTRjM193NUxtNkZqUG0yUjBBd2dZMjVuNFMycWJIcWRvMkI0RXJTTXhwS2pSMUo0ODRsbkxoaU5KVXY5cnNSYTBCVWpGaV9lc3B2UnU4RTYyclM5ZGNrM3F2QVVLRnFrT1djSXRtQ3ljMFQtYU9RbDZ0V2hLY1dCQlFYOE0wbVFxWWY5UFBFMWdYbDBrZXpVQXVYcXBJZUg1X2hUYXhqRDdCY2JhY1ZSSGtoTXh0R1l4c2VraG1XRGhmY1A2VlpQT0tBdnFPRnQ4d1U?oc=5",
-   "tickers": [
-    "MU"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "MU",
-   "strength": 45,
-   "reason": "Micron earnings catalyst; analyst expectations and retail sentiment mixed"
-  },
-  {
-   "date": "2026-09-04T12:38:39Z",
-   "platform": "News",
-   "text": "Billionaire Michael Dell's fortune gains $107 billion in 2026 on AI server boom - Billionaires.Africa \u2014 Billionaire Michael Dell's fortune gains $107 billion in 2026 on AI server boom\u00a0\u00a0Billionaires.Africa",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZVVRWl9UcmRfWUVsdUxlS05QZ0pwejZsS0ljaHFhLTYtZTFrVC1kUTBzUkhmOWZhVGhrT283RGtINHpKYlh3ZG1SQzljZktUM2VwNHUyMnZyQ3pQUGcyd09KSDZNQWtRTW9pWHVVaHAwTTZQR0xjQm45QVhFeUMtME81bkFxbEtRR1dVQjhIUjFLMnE0UXpxQmJLMU5ESEJkcWRnQ3hZNzNJeFRob2gxQ0JMVnZldw?oc=5",
-   "tickers": [
-    "DELL"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "DELL",
-   "strength": 55,
-   "reason": "AI server boom tailwind for Dell; billionaire wealth gains reflect strong demand"
-  },
-  {
-   "date": "2026-09-04T07:28:28Z",
-   "platform": "News",
-   "text": "Argentina's Milei escalates Falklands dispute, seizing on Trump comments and oil tensions - Barchart.com \u2014 Argentina's Milei escalates Falklands dispute, seizing on Trump comments and oil tensions\u00a0\u00a0Barchart.com",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdmpFUGtSVmMxazJLclN1aDQxRXNjQ0trZllfMG5lTlhkNjgyUjVrc19EUGRUb1djS19XX1ZyU0lEaFhlai11VG45VkhtSWhaTmdQaWVkUWRnbnI0N3dyYWUwNGd5TkFIRU5hWTFaZERYRzBISThQbFdZajg3ZHhoZkhGSTM2anZSc0VvNHRXSGtWbXdmbzlyai0wVDdYZ2lyZFdBZDVPY3VYaXIzQWRzbTJtR1RpWnlkdFJ4dWJjOVhVV0xvcWREMFZmTmk?oc=5",
-   "tickers": [
-    "XLE"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "XLE",
-   "strength": 25,
-   "reason": "Geopolitical tension over Falklands/oil could pressure energy markets"
-  },
-  {
-   "date": "2026-09-04T06:45:22Z",
-   "platform": "News",
-   "text": "ARVN Stock Drops On CEO Exit \u2014 Retail Is Bullish On New Chief\u2019s Credentials, Dismisses Selloff - Stocktwits \u2014 ARVN Stock Drops On CEO Exit \u2014 Retail Is Bullish On New Chief\u2019s Credentials, Dismisses Selloff\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeUNRRFpZbEEzS1p3LTlLNHRGblZSMnlOUko5WGlUN0VDQ0hIajVUWFp3MFBlUkljQU9YRmh5eDhFbS1vLTRTakRiYThtRWVnODV3NkVxTEI0VXU2clB0aEp5WDhNa09odTBGaTVzSDRlcWluczRRQ21GUGpoZFZUYTRaZ1RRaGFQd0NvZ3BjVExSTFE2aW53?oc=5",
-   "tickers": [
-    "ARVN"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "ARVN",
-   "strength": 40,
-   "reason": "CEO exit bearish near-term; retail sees new leadership positively but direction ambiguous"
   },
   {
    "curated": true,
