@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-09-10T11:51:00Z",
+ "last_updated": "2026-09-10T15:55:43Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-09-10T12:06:15Z",
+   "platform": "News",
+   "text": "Trump Promises $5,000 'Dividend' To Every American Adult If GOP Wins Midterm Elections This November - International Business Times Australia \u2014 Trump Promises $5,000 'Dividend' To Every American Adult If GOP Wins Midterm Elections This November\u00a0\u00a0International Business Times Australia",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBSakl5czEwbmQwTWFFV01MSkVnd2VYU0gxU0dsaG8yMU1HbDlrMjIwSlZrcnJKcUE2RUFNd2hoVXdkMUQxVjR0RFlCdmhNakFrU0drWWpVcXJOUFNnaHVBZE43S2JtR1RieFFFUVFxWUM4WUFXYy1oMUFpQS0xZw?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "SPY",
+   "strength": 35,
+   "reason": "Campaign promise of fiscal stimulus ($5k per adult) is macro-bullish if credible, but vague and election-contingent"
+  },
   {
    "date": "2026-09-10T11:34:00Z",
    "platform": "News",
@@ -17,6 +33,22 @@
    "primary_ticker": "SPY",
    "strength": 25,
    "reason": "Stimulus ($5k handout) implies broad consumer spending and equity support, but headline is speculative"
+  },
+  {
+   "date": "2026-09-10T09:48:00Z",
+   "platform": "News",
+   "text": "President Trump Sold 2 Popular Artificial Intelligence (AI) Stocks. Wall Street Says Investors Should Buy Both. - fool.com \u2014 President Trump Sold 2 Popular Artificial Intelligence (AI) Stocks. Wall Street Says Investors Should Buy Both.\u00a0\u00a0fool.com",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQY2t1cUdFT1RBcEwzRHhkaV9senJUcHJDa080RHRyb0s3SlJrSld1N1RtSFNyTVhiMFU4aGdudDI5V3FraTN5eHkxbHJRRnpxN242QUxUVi1MdzlhN3VqVTJSZVp0ZlVFY0RrQXlrU2JVV19DVFZqQXlwMEJUTFYtR0ZobWlSc294NEN6X0VGRDNVZEg4WGQ4LWdWbDM?oc=5",
+   "tickers": [
+    "SMH"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "SELL",
+   "primary_ticker": "SMH",
+   "strength": 45,
+   "reason": "Trump sold AI stocks; Wall Street disagrees but directional signal is bearish on his holdings"
   },
   {
    "date": "2026-09-10T09:10:27Z",
@@ -67,6 +99,22 @@
    "reason": "Trump sold AI stocks but Wall Street disagrees; mixed signal on AI sector direction"
   },
   {
+   "date": "2026-09-10T08:32:16Z",
+   "platform": "News",
+   "text": "Trump discloses 21,000 securities trades during first year in office - ABC News - Breaking News, Latest News and Videos \u2014 Trump discloses 21,000 securities trades during first year in office\u00a0\u00a0ABC News - Breaking News, Latest News and Videos",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRXRKN3Z0andHTXp5WjRNQ2xkUjcxS2tCeHpfdG9EeFRpaGM1Q2IxZFM4akNkQm5IZkt6NnEwRFNsNUQ2VUpYaXdaQW5LZEFsNC1OcHhKNWczS0QxSDZ6RE9qbGFieUdvaHpsNldGczhQa1hTQjF2aGZiSl9wcUhlaENId0I5VWx1cGJFZ1NCM0IyY2M2LWtKRkVDX3I4WDYz?oc=5",
+   "tickers": [
+    "DJT"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "DJT",
+   "strength": 25,
+   "reason": "Large portfolio activity disclosure suggests market position shifts but direction/intent unclear"
+  },
+  {
    "date": "2026-09-10T05:51:00Z",
    "platform": "News",
    "text": "Trump Pledges $5,000 for Each US Adult if Republicans Win Midterms - Tempo.co English \u2014 Trump Pledges $5,000 for Each US Adult if Republicans Win Midterms\u00a0\u00a0Tempo.co English",
@@ -112,7 +160,39 @@
    "direction": "SELL",
    "primary_ticker": "SPY",
    "strength": 40,
-   "reason": "Trump retaliation escalation against Canada signals trade war intensification, market headwind"
+   "reason": "Trump retaliation escalation against Canada signals trade war intensification, market headwind",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": -0.5,
+    "base": 762.4,
+    "last": 758.51,
+    "base_date": "2026-09-09",
+    "last_date": "2026-09-10"
+   }
+  },
+  {
+   "date": "2026-09-09T21:40:06Z",
+   "platform": "News",
+   "text": "Trump Weighs In On Elon Musk, OpenAI, Intel \u2014 And Takes Aim At The 'Hostile' Fed Board - Stocktwits \u2014 Trump Weighs In On Elon Musk, OpenAI, Intel \u2014 And Takes Aim At The 'Hostile' Fed Board\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSGdkS2RRUEt3TWdWdW8yWkZrN0NfU1lZak10VExCWGktUlg3enppTzF4UnpEVjg3YVZRR2JqRmFYdTVBQTdIcmJHYVFkX2ZtcHFiREF5UWZ3NExDNTJhTnd2VE5HM1A1WFZnVEpoY0Rfa1BYMVJrZ0lKNlhDdDBKVW41S0dCOTdncW5jWEhHRkZMU0lERlF4MlFyU0xxTXFNS25wMWVoa1c3SkliajdkUDUtTDdUWnZmUnI5aUhNeHJreTBacEE0Zk1WZVMzMXpfUDFIeU9GSEN2N2liM2c?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "SPY",
+   "strength": 35,
+   "reason": "Trump commentary on tech leaders and Fed criticism spans multiple directives; mixed bullish/bearish signals",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": -0.5,
+    "base": 762.4,
+    "last": 758.51,
+    "base_date": "2026-09-09",
+    "last_date": "2026-09-10"
+   }
   },
   {
    "date": "2026-09-09T20:20:49Z",
@@ -128,7 +208,15 @@
    "direction": "BUY",
    "primary_ticker": "XLE",
    "strength": 45,
-   "reason": "Iran war escalation and no-end-in-sight rhetoric supports higher oil prices and energy sector upside"
+   "reason": "Iran war escalation and no-end-in-sight rhetoric supports higher oil prices and energy sector upside",
+   "price_since": {
+    "ticker": "XLE",
+    "pct": -0.2,
+    "base": 65.31,
+    "last": 65.16,
+    "base_date": "2026-09-09",
+    "last_date": "2026-09-10"
+   }
   },
   {
    "date": "2026-09-09T19:44:15Z",
@@ -144,7 +232,15 @@
    "direction": "SELL",
    "primary_ticker": "SPY",
    "strength": 55,
-   "reason": "Canada trade war and threat to punish departing companies creates tariff/trade friction, broad market headwind"
+   "reason": "Canada trade war and threat to punish departing companies creates tariff/trade friction, broad market headwind",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": -0.5,
+    "base": 762.4,
+    "last": 758.5,
+    "base_date": "2026-09-09",
+    "last_date": "2026-09-10"
+   }
   },
   {
    "date": "2026-09-09T16:56:43Z",
@@ -160,7 +256,15 @@
    "direction": "WATCH",
    "primary_ticker": "SPY",
    "strength": 30,
-   "reason": "De-escalation calls on trade war suggest potential tariff pause; direction ambiguous without confirmation"
+   "reason": "De-escalation calls on trade war suggest potential tariff pause; direction ambiguous without confirmation",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": -0.5,
+    "base": 762.4,
+    "last": 758.5,
+    "base_date": "2026-09-09",
+    "last_date": "2026-09-10"
+   }
   },
   {
    "date": "2026-09-09T16:30:00Z",
@@ -176,7 +280,15 @@
    "direction": "BUY",
    "primary_ticker": "SPY",
    "strength": 45,
-   "reason": "MAGA-aligned company sales surge implied; broad market or retail sector BUY if Trump endorsement drives consumer spending"
+   "reason": "MAGA-aligned company sales surge implied; broad market or retail sector BUY if Trump endorsement drives consumer spending",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": -0.5,
+    "base": 762.4,
+    "last": 758.51,
+    "base_date": "2026-09-09",
+    "last_date": "2026-09-10"
+   }
   },
   {
    "date": "2026-09-09T14:28:06Z",
@@ -192,7 +304,15 @@
    "direction": "SELL",
    "primary_ticker": "SPY",
    "strength": 75,
-   "reason": "Tariff escalation and product bans on Canada create broad market headwinds and recession risk"
+   "reason": "Tariff escalation and product bans on Canada create broad market headwinds and recession risk",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": -0.5,
+    "base": 762.4,
+    "last": 758.5,
+    "base_date": "2026-09-09",
+    "last_date": "2026-09-10"
+   }
   },
   {
    "date": "2026-09-09T13:41:33.175Z",
@@ -209,7 +329,15 @@
    "direction": "BUY",
    "primary_ticker": "XLE",
    "strength": 45,
-   "reason": "Trump promotes oil/energy analyst commentary, signaling pro-energy policy stance"
+   "reason": "Trump promotes oil/energy analyst commentary, signaling pro-energy policy stance",
+   "price_since": {
+    "ticker": "XLE",
+    "pct": -0.2,
+    "base": 65.31,
+    "last": 65.15,
+    "base_date": "2026-09-09",
+    "last_date": "2026-09-10"
+   }
   },
   {
    "date": "2026-09-09T12:37:56Z",
@@ -225,7 +353,15 @@
    "direction": "SELL",
    "primary_ticker": "SPY",
    "strength": 55,
-   "reason": "New tariffs on Canada escalate trade war; bearish for broad market and affected sectors"
+   "reason": "New tariffs on Canada escalate trade war; bearish for broad market and affected sectors",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": -0.5,
+    "base": 762.4,
+    "last": 758.5,
+    "base_date": "2026-09-09",
+    "last_date": "2026-09-10"
+   }
   },
   {
    "date": "2026-09-09T12:37:56Z",
@@ -241,7 +377,15 @@
    "direction": "SELL",
    "primary_ticker": "SPY",
    "strength": 65,
-   "reason": "Tariff escalation on alcohol, motorcycles, dairy; broad market bearish; specific sectors (beverages, industrial) pressured"
+   "reason": "Tariff escalation on alcohol, motorcycles, dairy; broad market bearish; specific sectors (beverages, industrial) pressured",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": -0.5,
+    "base": 762.4,
+    "last": 758.5,
+    "base_date": "2026-09-09",
+    "last_date": "2026-09-10"
+   }
   },
   {
    "date": "2026-09-09T12:37:56Z",
@@ -257,7 +401,15 @@
    "direction": "SELL",
    "primary_ticker": "SPY",
    "strength": 60,
-   "reason": "Trump imposes new tariffs on Canada; broad trade friction headwind for US equities"
+   "reason": "Trump imposes new tariffs on Canada; broad trade friction headwind for US equities",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": -0.5,
+    "base": 762.4,
+    "last": 758.5,
+    "base_date": "2026-09-09",
+    "last_date": "2026-09-10"
+   }
   },
   {
    "date": "2026-09-09T12:37:56Z",
@@ -273,7 +425,15 @@
    "direction": "SELL",
    "primary_ticker": "SPY",
    "strength": 50,
-   "reason": "Trump trade war retaliation escalation against Canada creates economic uncertainty and tariff risk"
+   "reason": "Trump trade war retaliation escalation against Canada creates economic uncertainty and tariff risk",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": -0.5,
+    "base": 762.4,
+    "last": 758.5,
+    "base_date": "2026-09-09",
+    "last_date": "2026-09-10"
+   }
   },
   {
    "date": "2026-09-09T12:37:56Z",
@@ -289,7 +449,15 @@
    "direction": "SELL",
    "primary_ticker": "SPY",
    "strength": 65,
-   "reason": "Trump bans alcohol, motorcycles, dairy from Canada; escalated tariff/trade war creates broad market and sector headwinds"
+   "reason": "Trump bans alcohol, motorcycles, dairy from Canada; escalated tariff/trade war creates broad market and sector headwinds",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": -0.5,
+    "base": 762.4,
+    "last": 758.5,
+    "base_date": "2026-09-09",
+    "last_date": "2026-09-10"
+   }
   },
   {
    "date": "2026-09-09T12:37:56Z",
@@ -305,7 +473,15 @@
    "direction": "WATCH",
    "primary_ticker": "SPY",
    "strength": 40,
-   "reason": "Senator calls for de-escalation; mixed signal on trade war direction."
+   "reason": "Senator calls for de-escalation; mixed signal on trade war direction.",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": -0.5,
+    "base": 762.4,
+    "last": 758.5,
+    "base_date": "2026-09-09",
+    "last_date": "2026-09-10"
+   }
   },
   {
    "date": "2026-09-09T12:30:10Z",
@@ -321,7 +497,15 @@
    "direction": "BUY",
    "primary_ticker": "SPY",
    "strength": 50,
-   "reason": "SEC ETF rule change praised as pro-saver creates positive regulatory environment for retail investment and broader market confidence"
+   "reason": "SEC ETF rule change praised as pro-saver creates positive regulatory environment for retail investment and broader market confidence",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": -0.5,
+    "base": 762.4,
+    "last": 758.5,
+    "base_date": "2026-09-09",
+    "last_date": "2026-09-10"
+   }
   },
   {
    "date": "2026-09-09T11:41:11Z",
@@ -337,7 +521,15 @@
    "direction": "BUY",
    "primary_ticker": "NOK",
    "strength": 70,
-   "reason": "Trump explicit endorsement of Nokia for AI growth; named company praise drives stock up."
+   "reason": "Trump explicit endorsement of Nokia for AI growth; named company praise drives stock up.",
+   "price_since": {
+    "ticker": "NOK",
+    "pct": -0.9,
+    "base": 10.76,
+    "last": 10.66,
+    "base_date": "2026-09-09",
+    "last_date": "2026-09-10"
+   }
   },
   {
    "date": "2026-09-09T03:52:38Z",
@@ -353,7 +545,15 @@
    "direction": "WATCH",
    "primary_ticker": "SMH",
    "strength": 40,
-   "reason": "Memory chip sector volatility (MU, SNDK, STX, WDC) noted; direction unclear, retail trader sentiment mixed."
+   "reason": "Memory chip sector volatility (MU, SNDK, STX, WDC) noted; direction unclear, retail trader sentiment mixed.",
+   "price_since": {
+    "ticker": "SMH",
+    "pct": -1.8,
+    "base": 574.29,
+    "last": 564.1,
+    "base_date": "2026-09-09",
+    "last_date": "2026-09-10"
+   }
   },
   {
    "date": "2026-09-09T01:56:16Z",
@@ -369,7 +569,15 @@
    "direction": "SELL",
    "primary_ticker": "SPY",
    "strength": 65,
-   "reason": "New US-Canada trade measures signal tariff escalation, broad market headwind"
+   "reason": "New US-Canada trade measures signal tariff escalation, broad market headwind",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": -0.5,
+    "base": 762.4,
+    "last": 758.5,
+    "base_date": "2026-09-09",
+    "last_date": "2026-09-10"
+   }
   },
   {
    "date": "2026-09-09T00:22:30Z",
@@ -385,7 +593,15 @@
    "direction": "SELL",
    "primary_ticker": "SPY",
    "strength": 65,
-   "reason": "Trump bans Canadian imports including booze and dairy; tariff action is bearish for broad market."
+   "reason": "Trump bans Canadian imports including booze and dairy; tariff action is bearish for broad market.",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": -0.5,
+    "base": 762.4,
+    "last": 758.48,
+    "base_date": "2026-09-09",
+    "last_date": "2026-09-10"
+   }
   },
   {
    "date": "2026-09-09T00:17:00Z",
@@ -401,7 +617,15 @@
    "direction": "SELL",
    "primary_ticker": "BBD",
    "strength": 75,
-   "reason": "Trump threatens Bombardier market access; direct bearish catalyst for named company stock."
+   "reason": "Trump threatens Bombardier market access; direct bearish catalyst for named company stock.",
+   "price_since": {
+    "ticker": "BBD",
+    "pct": 3.5,
+    "base": 3.43,
+    "last": 3.55,
+    "base_date": "2026-09-09",
+    "last_date": "2026-09-10"
+   }
   },
   {
    "date": "2026-09-09T00:17:00Z",
@@ -417,7 +641,15 @@
    "direction": "SELL",
    "primary_ticker": "BBD",
    "strength": 70,
-   "reason": "Trump targets Bombardier in US-Canada trade war; named company stock drops on tariff/ban threat"
+   "reason": "Trump targets Bombardier in US-Canada trade war; named company stock drops on tariff/ban threat",
+   "price_since": {
+    "ticker": "BBD",
+    "pct": 3.5,
+    "base": 3.43,
+    "last": 3.55,
+    "base_date": "2026-09-09",
+    "last_date": "2026-09-10"
+   }
   },
   {
    "date": "2026-09-08T23:47:00Z",
@@ -576,30 +808,6 @@
     "pct": -0.5,
     "base": 765.96,
     "last": 762.4,
-    "base_date": "2026-09-08",
-    "last_date": "2026-09-09"
-   }
-  },
-  {
-   "date": "2026-09-08T17:27:17Z",
-   "platform": "News",
-   "text": "Trump discloses 21,000 securities trades during first year in office - ABC News - Breaking News, Latest News and Videos \u2014 Trump discloses 21,000 securities trades during first year in office\u00a0\u00a0ABC News - Breaking News, Latest News and Videos",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRXRKN3Z0andHTXp5WjRNQ2xkUjcxS2tCeHpfdG9EeFRpaGM1Q2IxZFM4akNkQm5IZkt6NnEwRFNsNUQ2VUpYaXdaQW5LZEFsNC1OcHhKNWczS0QxSDZ6RE9qbGFieUdvaHpsNldGczhQa1hTQjF2aGZiSl9wcUhlaENId0I5VWx1cGJFZ1NCM0IyY2M2LWtKRkVDX3I4WDYz0gGmAUFVX3lxTE9Dc2ZEcnpkNmxPUVphbjRJcnBpaGNsM0EyVXlsQTFwdmg3TWZXekcxSUR0cGp3RWttdU5NMkRFVkZlV280MHV1V0RQOWtrTzlLQTlRQkE5eGpXaF9Yajh2NC1ITkdqSmhYcFY2ZFlLeE9nTjFKWUdKaG12WDlVTzl3VWIxeTdJRldpOFpsbEdXM29abG1KejFLLWdnWVBBVEtXSHdtU2c?oc=5",
-   "tickers": [
-    "DJT"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "DJT",
-   "strength": 40,
-   "reason": "Trump's high trading volume disclosure is market-relevant but direction ambiguous without knowing trade composition",
-   "price_since": {
-    "ticker": "DJT",
-    "pct": -5.6,
-    "base": 9.23,
-    "last": 8.71,
     "base_date": "2026-09-08",
     "last_date": "2026-09-09"
    }
@@ -1890,22 +2098,6 @@
    "reason": "Trump comments on Fed board, Elon/OpenAI/Intel but no clear buy/sell signal \u2014 mixed macro read on Fed policy"
   },
   {
-   "date": "2026-09-05T20:08:21Z",
-   "platform": "News",
-   "text": "Trump Weighs In On Elon Musk, OpenAI, Intel \u2014 And Takes Aim At The 'Hostile' Fed Board - Stocktwits \u2014 Trump Weighs In On Elon Musk, OpenAI, Intel \u2014 And Takes Aim At The 'Hostile' Fed Board\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSGdkS2RRUEt3TWdWdW8yWkZrN0NfU1lZak10VExCWGktUlg3enppTzF4UnpEVjg3YVZRR2JqRmFYdTVBQTdIcmJHYVFkX2ZtcHFiREF5UWZ3NExDNTJhTnd2VE5HM1A1WFZnVEpoY0Rfa1BYMVJrZ0lKNlhDdDBKVW41S0dCOTdncW5jWEhHRkZMU0lERlF4MlFyU0xxTXFNS25wMWVoa1c3SkliajdkUDUtTDdUWnZmUnI5aUhNeHJreTBacEE0Zk1WZVMzMXpfUDFIeU9GSEN2N2liM2c?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "SPY",
-   "strength": 50,
-   "reason": "Trump comments on Musk, OpenAI, Intel, and attacks Fed; multiple mixed signals, macro uncertainty"
-  },
-  {
    "date": "2026-09-05T20:00:53Z",
    "platform": "News",
    "text": "Michael Burry Says He\u2019s Still Short Palantir After Stock Sees Recovery Following Trump\u2019s Endorsement - stocktwits.com \u2014 Michael Burry Says He\u2019s Still Short Palantir After Stock Sees Recovery Following Trump\u2019s Endorsement\u00a0\u00a0stocktwits.com",
@@ -2176,137 +2368,6 @@
    "primary_ticker": "SPY",
    "strength": 40,
    "reason": "Trump de-escalates Iran conflict risk; reduces geopolitical premium and supports broad-market bullish sentiment"
-  },
-  {
-   "date": "2026-09-05T01:52:45Z",
-   "platform": "News",
-   "text": "Meta's AI Workforce Academy Wins Praise From Former Trump Adviser, Ex-Facebook Exec: 'Hope More Companies Follow Suit' - Stocktwits \u2014 Meta's AI Workforce Academy Wins Praise From Former Trump Adviser, Ex-Facebook Exec: 'Hope More Companies Follow Suit'\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQU0E4QWNsTjlROXIwRTIyVHZyMTlHNHhxUndrNjlLbUxOajU2MEZIRFhHeE9xd2ZRdm9IQVMzdHlEMmU4NVBwckpvbEkyWURKRXFHMlR4Z0VWVk5qMGstTFNtVTZSNWpqVS0wWkZ3WTdEaktTd3FMUHlTRjc2M3UwZlpDY1NjeG5FZ2s2bDJVeGJiVjgwWXIzdVVOS0FhQ2E0WjNUMDIzY1ppOTdJNTJkanBEMjFzRUVzb2RBS1czdXZXVWoyb0xLcl9ycl81NG1zd0lNT0NRUmVMZVgyblRkTVlXU1ZUTENRdkJBQzdhU0VuSG9HN19jeFNna0NRVlVUN2E1blhrY0U5Zw?oc=5",
-   "tickers": [
-    "META"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "META",
-   "strength": 45,
-   "reason": "Meta AI Workforce Academy praised by Trump circle; reputational boost and policy alignment."
-  },
-  {
-   "date": "2026-09-05T01:44:00Z",
-   "platform": "News",
-   "text": "Three Wall Street Analysts Agree On One Solar Stock That Could Win Big From Trump\u2019s Proposed Inverter Import Curbs - Stocktwits \u2014 Three Wall Street Analysts Agree On One Solar Stock That Could Win Big From Trump\u2019s Proposed Inverter Import Curbs\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNM05pVHhyOW5kREd6Nm9YRklBbFQ5YjZZQ1VjZmZGNGpUb1F2VHhXUDR6MlcwTkZ6RGgza2FQR3l3MG4yXzhYeEt4RkZZb2pXTlRab2hUcDZRTzA5Nm50NkZjOUNqRG9EUjhlckJtTG9VdFVCYmVmTk9tOElrWEhVNGt4X0U1bTB0dnVvMHd0bHNpOW5wSnBpd3NTUUxzLW9oWFJrZEtndU85dXZIVWllM0UwRklQQndpMTdSbG9DTDNxWHBGLUFPQXdmbjk5T2Z3ZWdqLVRKSzN3ZllLcjV0TExYV3BDOHBFelVHMmdyUzhYNDBEVjRpYmEydw?oc=5",
-   "tickers": [
-    "TAN"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "TAN",
-   "strength": 65,
-   "reason": "Trump proposes inverter import curbs benefiting domestic solar; sector-specific tariff tailwind."
-  },
-  {
-   "date": "2026-09-05T01:11:00Z",
-   "platform": "News",
-   "text": "Why Is IBM Stock Surging Nearly 7% Higher In Overnight Trading? - Stocktwits \u2014 Why Is IBM Stock Surging Nearly 7% Higher In Overnight Trading?\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQk9pekpVQ1Q1NnRyVEdqWjdJN29OTFpDY3Rkc08wdG96eTdtMHRzVVRmUFItUlRQQS11WXBWZFpHWU50d3hoRHBENXM2eGhKMF9QZF9qb3ZQT2pXREgyU1pTMzBFU0JGZ0lOTk90VlU4YURiV3I1LWtPdTVzZDZRbUZGWEUySWxkZXg1a2dzYVVTVUpsOU1Yc25qQ2U4OE9tX1MtbEZFNDZDalpaS2JlbndvcnYyUU1Ca0E2cGxqMi02S2s?oc=5",
-   "tickers": [
-    "IBM"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "IBM",
-   "strength": 30,
-   "reason": "IBM overnight surge but no Trump catalyst mentioned; insufficient info to attribute to Trump action"
-  },
-  {
-   "date": "2026-09-04T23:27:07Z",
-   "platform": "News",
-   "text": "PLTR Stock Faces Split Narrative: Retail Bulls Hold Firm As Burry Sounds Alarm, Trump Signals Support - Stocktwits \u2014 PLTR Stock Faces Split Narrative: Retail Bulls Hold Firm As Burry Sounds Alarm, Trump Signals Support\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSFRDSVNMdHk3NEtMbFEwQ1ZRT2tLY3h1cEFvOTVjb182Qm1QUnVqTlE2dWhzYXZpaXBoN3gyNlg4dWVWY0dldndhRDZoOGE2N2ZSMTgxb1Ayb0RWanA3a0hEeEhKWGtYRENBSGZ0d0wySmlrSWpzM1BmcXZpTUdDOXcwMVl0NXVKYjMyOEFvYmVpYk9uOVRSaWdleVNEQnZkZk1tUE5vRURtNjdubE0wTUhLSFFUbGc3OUs5UVpJQXhVTHdZLTdLTmZDQVkxMUVwd3c?oc=5",
-   "tickers": [
-    "PLTR"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "PLTR",
-   "strength": 60,
-   "reason": "Trump signals support for Palantir; explicit endorsement"
-  },
-  {
-   "date": "2026-09-04T23:27:07Z",
-   "platform": "News",
-   "text": "PLTR Stock Faces Split Narrative: Retail Bulls Hold Firm As Burry Sounds Alarm, Trump Signals Support - stocktwits.com \u2014 PLTR Stock Faces Split Narrative: Retail Bulls Hold Firm As Burry Sounds Alarm, Trump Signals Support\u00a0\u00a0stocktwits.com",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSFRDSVNMdHk3NEtMbFEwQ1ZRT2tLY3h1cEFvOTVjb182Qm1QUnVqTlE2dWhzYXZpaXBoN3gyNlg4dWVWY0dldndhRDZoOGE2N2ZSMTgxb1Ayb0RWanA3a0hEeEhKWGtYRENBSGZ0d0wySmlrSWpzM1BmcXZpTUdDOXcwMVl0NXVKYjMyOEFvYmVpYk9uOVRSaWdleVNEQnZkZk1tUE5vRURtNjdubE0wTUhLSFFUbGc3OUs5UVpJQXhVTHdZLTdLTmZDQVkxMUVwd3c?oc=5",
-   "tickers": [
-    "PLTR"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "PLTR",
-   "strength": 60,
-   "reason": "Trump explicit signal of support for Palantir; direct positive call on named stock despite Burry dissent"
-  },
-  {
-   "date": "2026-09-04T22:27:05.922Z",
-   "platform": "Truth Social",
-   "text": "WHITE HOUSE PRESS RELEASE \u2014 Made in America: Manufacturing, Private Hiring Power Explosive August Jobs Report:https://www.whitehouse.gov/releases/2026/09/made-in-america-manufacturing-private-hiring-power-explosive-august-jobs-report/",
-   "tickers": [
-    "SPY"
-   ],
-   "engagement": 3253,
-   "url": "https://truthsocial.com/@realDonaldTrump/117215122287615906",
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "SPY",
-   "strength": 60,
-   "reason": "Strong jobs report and manufacturing boom narrative bullish for broad market"
-  },
-  {
-   "date": "2026-09-04T22:26:40.238Z",
-   "platform": "Truth Social",
-   "text": "GREAT NEWS! Our THRIVING Economy added 162 THOUSAND Jobs in August, in honor of our Great American Workers who we celebrate this (and every!) Labor Day. This strong number is nearly TRIPLE the predictions of the Bloomberg survey's so-called \"Economists,\" who continue to suffer from Trump Derangement Syndrome. The effects of the Trump Boom can be seen across many Industries.\u00a0My Administration's Fair Trade Policies, using a wonderful tool called \"TARIFFS,\" have reset the Global Economy, bringing Manufacturing Jobs BACK to America, like never before. Factory Construction is BOOMING as Companies take advantage of FULL EXPENSING \u2014 One year deduction. Before long, these Factories will be teeming with red, white, and blue-blooded AMERICAN Workers! President DONALD J. TRUMP",
-   "tickers": [
-    "SPY"
-   ],
-   "engagement": 3801,
-   "url": "https://truthsocial.com/@realDonaldTrump/117215120604420966",
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "SPY",
-   "strength": 65,
-   "reason": "Emphasis on thriving economy, job growth, and tariff-driven manufacturing revival bullish for equities"
-  },
-  {
-   "date": "2026-09-04T16:30:20.102Z",
-   "platform": "Truth Social",
-   "text": "How crazy is this? We just got GREAT Numbers on Jobs, the Market should go UP, because our Credit and Economy are better but, as always, for the past 25 years, the Stock Market goes DOWN, because we're living under False Reality that if things are good, you've got to \"KILL IT\" because of a \"fear\" of Inflation. It should be the opposite, and always was until 25 years ago. If we stay with this Theory, we will never be able to have the True Economic Greatness for our Country that it deserves, because every time we do well, the stupid people want to immediately stop this Great Upward Momentum. GROWTH DOES NOT CAUSE INFLATION! I knew this morning as soon as I looked at these fantastic Job Numbers that the Market would go down when it should be going UP like a Rocketship. We should be doing GDP of 15 and 20%, not 2, 3, and 4%, and America should become Far Greater Financially than it is right now. Our Debt would be paid off, and all of these other things would happen. Remember, every point in the Interest Rate costs the U.S. 650 Billion Dollars a year. We should pay the Lowest Interest Rates in the World because we make everything run, and give otherwise failed countries Great Economic Wealth! Thank you for your attention to this matter. President DONALD J. TRUMP",
-   "tickers": [
-    "SPY"
-   ],
-   "engagement": 3536,
-   "url": "https://truthsocial.com/@realDonaldTrump/117213719435854140",
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "SPY",
-   "strength": 35,
-   "reason": "Good jobs data and economic strength should lift market; argues Fed/policy wrongly constrains growth"
   },
   {
    "curated": true,
