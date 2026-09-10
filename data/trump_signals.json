@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-09-09T23:31:06Z",
+ "last_updated": "2026-09-10T01:28:47Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -180,6 +180,22 @@
    "reason": "Trump bans alcohol, motorcycles, dairy from Canada; escalated tariff/trade war creates broad market and sector headwinds"
   },
   {
+   "date": "2026-09-09T12:37:56Z",
+   "platform": "News",
+   "text": "Republican U.S. senator calls on Trump to \u2018de-escalate\u2019 trade war with Canada. Live updates here. - BNN Bloomberg \u2014 Republican U.S. senator calls on Trump to \u2018de-escalate\u2019 trade war with Canada. Live updates here.\u00a0\u00a0BNN Bloomberg",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPS3U0U1pmUEZkLTRLNUNVTE9XamEwSTZhekg2eExzbHZSMnluYWRDaW04Y1pyOTA0eWk0MkdrVGc3aWx2X0RrN2NDak5HZUtCR3Z5ZHRNRy13eUI0N0NTdUlwaVdRMlVUeVpoSEpqQU9LNGdzbXBnOTJLV2V0TVdFMFYtOGl0enBRS251ajdjSUZ4MlE4N096aUVRbHVyY3Y4SzNvRnlLdjhDc3IxN1l1LUZHYV9aeTRDMWpWZ0xMT2NMcUIy?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "SPY",
+   "strength": 40,
+   "reason": "Senator calls for de-escalation; mixed signal on trade war direction."
+  },
+  {
    "date": "2026-09-09T12:30:10Z",
    "platform": "News",
    "text": "Trump Heaps Praise on SEC's Paul Atkins for 'Helping Millions' of Retirement Investors With ETF Rule Change: 'Total Revolution for Savers' - Yahoo Finance \u2014 Trump Heaps Praise on SEC's Paul Atkins for 'Helping Millions' of Retirement Investors With ETF Rule Change: 'Total Revolution for Savers'\u00a0\u00a0Yahoo Finance",
@@ -276,6 +292,22 @@
    "reason": "Trump's words drive massive rally in Trump-linked asset (likely DJT or crypto reference)"
   },
   {
+   "date": "2026-09-08T22:08:46Z",
+   "platform": "News",
+   "text": "Can Trump stop the surge in oil prices? Experts weigh in - ABC News - Breaking News, Latest News and Videos \u2014 Can Trump stop the surge in oil prices? Experts weigh in\u00a0\u00a0ABC News - Breaking News, Latest News and Videos",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRkw4RU9xbDZSTmtFZTBfY0JESTZUWElMOVdvaWUzbFNiZ25wQmtGQWgyTk1FWkhLTDRNdEprY0ZMdUxvN2V4WDZaeVVuTnIyNndMVVFnazk1cjh2WVZkcjUyUElfRUJPMHMxVFktVWlaSURKb2VZVU93Qld4SU9Jc1pZOUFtcWZsUjlUVXAyRkExOFXSAZgBQVVfeXFMTWtTb3JPM3luaE9XT2dQRmxsODBSaFpJOHA4Y3NhVmR2Z1ZQeHMzRHNhUlZvaGRVYVZmM3pTeWxyWkZSdW03UlFMaFU3TWtOOThWUThxcGpXYmRrcklRZnpPSEd3TjBic0RUdlM4ZXFfaklkZVF3Q3c3ZTZNbWpaSS1rRDRYM1BEM2VqNFBiT0NQdFpPSFZFaFM?oc=5",
+   "tickers": [
+    "XLE"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "XLE",
+   "strength": 50,
+   "reason": "Question on Trump's ability to control oil prices; ambiguous signal on oil sector direction."
+  },
+  {
    "date": "2026-09-08T22:08:00Z",
    "platform": "News",
    "text": "Kansas officials react to Trump's threat to ban Bombardier - KMUW \u2014 Kansas officials react to Trump's threat to ban Bombardier\u00a0\u00a0KMUW",
@@ -289,15 +321,23 @@
    "direction": "SELL",
    "primary_ticker": "BBD",
    "strength": 70,
-   "reason": "Trump threatens Bombardier ban; direct bearish signal for Bombardier.",
-   "price_since": {
-    "ticker": "BBD",
-    "pct": -3.4,
-    "base": 3.55,
-    "last": 3.43,
-    "base_date": "2026-09-08",
-    "last_date": "2026-09-09"
-   }
+   "reason": "Trump threatens Bombardier ban; direct bearish signal for Bombardier."
+  },
+  {
+   "date": "2026-09-08T22:08:00Z",
+   "platform": "News",
+   "text": "Kansas officials react to Trump's threat to ban Bombardier - kmuw.org \u2014 Kansas officials react to Trump's threat to ban Bombardier\u00a0\u00a0kmuw.org",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTEJnMlp6ZHcyazU4dUQtdDIxZG1yWTZ5ZUplM3RiQTU1NTdub29XUTF5VV9SYmVRbFF3bjhqX3hmS2NUYTNBZVBYYmxhRkdMYVQ4UHdsUV9uOFBnSlRQaG8yYVZaY1BxdEhtaXFfTTZMX1JCUU1oak9hTjh3V0U2TjlpWTJ1NGNiNjY2LWM5dlhNazQ1cGFkRUc1aGxCdGViMG9xeFR5aw?oc=5",
+   "tickers": [
+    "BBD"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "SELL",
+   "primary_ticker": "BBD",
+   "strength": 75,
+   "reason": "Trump threatens to ban Bombardier; explicit negative action on named company affects Kansas contracts."
   },
   {
    "date": "2026-09-08T21:34:42Z",
@@ -313,15 +353,7 @@
    "direction": "SELL",
    "primary_ticker": "SPY",
    "strength": 65,
-   "reason": "U.S.-Canada trade war escalation with product bans on government contracts signals broader tariff/trade conflict, bearish for markets",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": -0.5,
-    "base": 765.96,
-    "last": 762.4,
-    "base_date": "2026-09-08",
-    "last_date": "2026-09-09"
-   }
+   "reason": "U.S.-Canada trade war escalation with product bans on government contracts signals broader tariff/trade conflict, bearish for markets"
   },
   {
    "date": "2026-09-08T20:59:00Z",
@@ -337,15 +369,7 @@
    "direction": "SELL",
    "primary_ticker": "DJT",
    "strength": 60,
-   "reason": "Trump's Wall Street venture reportedly failing; bearish on Trump Media",
-   "price_since": {
-    "ticker": "DJT",
-    "pct": -5.6,
-    "base": 9.23,
-    "last": 8.71,
-    "base_date": "2026-09-08",
-    "last_date": "2026-09-09"
-   }
+   "reason": "Trump's Wall Street venture reportedly failing; bearish on Trump Media"
   },
   {
    "date": "2026-09-08T20:29:29.573Z",
@@ -362,15 +386,7 @@
    "direction": "SELL",
    "primary_ticker": "SPY",
    "strength": 65,
-   "reason": "Trump threatens Canadian market access; tariff/trade war escalation bearish for broad market",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": -0.5,
-    "base": 765.96,
-    "last": 762.4,
-    "base_date": "2026-09-08",
-    "last_date": "2026-09-09"
-   }
+   "reason": "Trump threatens Canadian market access; tariff/trade war escalation bearish for broad market"
   },
   {
    "date": "2026-09-08T17:27:17Z",
@@ -386,15 +402,7 @@
    "direction": "WATCH",
    "primary_ticker": "DJT",
    "strength": 40,
-   "reason": "Trump's high trading volume disclosure is market-relevant but direction ambiguous without knowing trade composition",
-   "price_since": {
-    "ticker": "DJT",
-    "pct": -5.6,
-    "base": 9.23,
-    "last": 8.71,
-    "base_date": "2026-09-08",
-    "last_date": "2026-09-09"
-   }
+   "reason": "Trump's high trading volume disclosure is market-relevant but direction ambiguous without knowing trade composition"
   },
   {
    "date": "2026-09-08T17:18:06Z",
@@ -410,15 +418,7 @@
    "direction": "BUY",
    "primary_ticker": "XLE",
    "strength": 45,
-   "reason": "Trump praises nuclear reactor innovation; long-term bullish for energy sector but vague and indirect.",
-   "price_since": {
-    "ticker": "XLE",
-    "pct": 0.8,
-    "base": 64.77,
-    "last": 65.31,
-    "base_date": "2026-09-08",
-    "last_date": "2026-09-09"
-   }
+   "reason": "Trump praises nuclear reactor innovation; long-term bullish for energy sector but vague and indirect."
   },
   {
    "date": "2026-09-08T16:28:58Z",
@@ -434,15 +434,23 @@
    "direction": "SELL",
    "primary_ticker": "BBD",
    "strength": 75,
-   "reason": "Trump threatens Bombardier's US market access; direct bearish pressure on Canadian jet maker",
-   "price_since": {
-    "ticker": "BBD",
-    "pct": -3.4,
-    "base": 3.55,
-    "last": 3.43,
-    "base_date": "2026-09-08",
-    "last_date": "2026-09-09"
-   }
+   "reason": "Trump threatens Bombardier's US market access; direct bearish pressure on Canadian jet maker"
+  },
+  {
+   "date": "2026-09-08T16:24:23Z",
+   "platform": "News",
+   "text": "Trump\u2019s \u2018buy\u2019 tip on social media before his tariffs pause made money for investors who listened - Arab News PK \u2014 Trump\u2019s \u2018buy\u2019 tip on social media before his tariffs pause made money for investors who listened\u00a0\u00a0Arab News PK",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPV21fUEZqaXVHWVVQZkZ4Ym9LdlRsVUlhUFlWSmg2Y3JYbjVtNlNFekR4V09FSlFjOXhOc0NER3Rpc3E2dlNEbzRJT3lfNUJQVVRleUhoN1lKYlVmbUZnY2NnSXRiZVBfRzN1S2xQV1l0d19YZFpwM0dob3pqb210Zjlka19MdGh1ZlVURVhRcjZ3NWlHdk1UWjZ6T3hoZ215aGZybW5IVnFDc0c0Vml3Y2pjVk1pVDRKbEpsUzYwZFpuVm0zQkJ0cFctUQ?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "SPY",
+   "strength": 65,
+   "reason": "Trump's 'buy' signal before tariffs pause implies market rally on reduced trade tension; broad market bullish."
   },
   {
    "date": "2026-09-08T15:21:23Z",
@@ -458,15 +466,7 @@
    "direction": "SELL",
    "primary_ticker": "BBD",
    "strength": 75,
-   "reason": "Trump threatens to cut Bombardier's US market access; direct bearish impact on Canadian jet maker",
-   "price_since": {
-    "ticker": "BBD",
-    "pct": -3.4,
-    "base": 3.55,
-    "last": 3.43,
-    "base_date": "2026-09-08",
-    "last_date": "2026-09-09"
-   }
+   "reason": "Trump threatens to cut Bombardier's US market access; direct bearish impact on Canadian jet maker"
   },
   {
    "date": "2026-09-08T15:21:23Z",
@@ -482,15 +482,7 @@
    "direction": "SELL",
    "primary_ticker": "BBD",
    "strength": 80,
-   "reason": "Trump threatens to cut Bombardier's US market access; direct bearish signal with stock impact reported.",
-   "price_since": {
-    "ticker": "BBD",
-    "pct": -3.4,
-    "base": 3.55,
-    "last": 3.43,
-    "base_date": "2026-09-08",
-    "last_date": "2026-09-09"
-   }
+   "reason": "Trump threatens to cut Bombardier's US market access; direct bearish signal with stock impact reported."
   },
   {
    "date": "2026-09-08T14:24:33Z",
@@ -506,15 +498,7 @@
    "direction": "SELL",
    "primary_ticker": "BBD",
    "strength": 75,
-   "reason": "Trump threatens Bombardier US market access; explicit bearish catalyst for Bombardier stock.",
-   "price_since": {
-    "ticker": "BBD",
-    "pct": -3.4,
-    "base": 3.55,
-    "last": 3.43,
-    "base_date": "2026-09-08",
-    "last_date": "2026-09-09"
-   }
+   "reason": "Trump threatens Bombardier US market access; explicit bearish catalyst for Bombardier stock."
   },
   {
    "date": "2026-09-08T12:13:42Z",
@@ -2222,220 +2206,6 @@
    "reason": "CEO exit bearish near-term; retail sees new leadership positively but direction ambiguous"
   },
   {
-   "date": "2026-09-04T06:21:24Z",
-   "platform": "News",
-   "text": "MU Stock In Focus After Trump Hails Micron\u2019s $10B Investment In US Research Labs \u2014 \u2018One Of The Hottest Companies In The World\u2019 - Stocktwits \u2014 MU Stock In Focus After Trump Hails Micron\u2019s $10B Investment In US Research Labs \u2014 \u2018One Of The Hottest Companies In The World\u2019\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNT290YnlQMzBkRW1kRXNudXUtWVh2bEMwQ3F4bGJHZTFJVThhaDQ1d0pIbW1xX2U0djNHU245SU83a1dmRVpibjZiZWMtYTF3NDZ2QVY1NUl0Ymp6ZW10UjlyRHA5V2FkWFRUVURDVV9yRnE0c3Z6dzA2YXZlN1NCbERvWWx4ajZmTHFCaGt0Y2tveDRKMkRITXVKcW43b2dpZ3luZll5SHZ4aU5PS3pIV2RYUUVFQTZHdVRmc0lxY0IxTDMzV0U0VHlrX3VraUxseF84ZmJ5X01LOGFtcE5STlVKaDZ2ZDRKdzJ2UzZRWHZkZ3cwN0oxVkw2TDVtdExST0Q1VnR0SWg2a25QSFJQcTdSQzBkaEhJc0E?oc=5",
-   "tickers": [
-    "MU"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "MU",
-   "strength": 75,
-   "reason": "Trump explicitly praises Micron as 'one of the hottest companies' for $10B US investment; direct endorsement"
-  },
-  {
-   "date": "2026-09-04T04:54:30Z",
-   "platform": "News",
-   "text": "Trump $1 Coin Goes Out of Stock Hours After Launch: What to Know - en.tempo.co \u2014 Trump $1 Coin Goes Out of Stock Hours After Launch: What to Know\u00a0\u00a0en.tempo.co",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNT0NMXzlWOVNLbkg0UnRvd19pbTdnX3k0a2lpdkszSGd5U3UwVThWcjhCZjJGUmNGc182N0xBM09saUlOMjYyUkpDcThZZWkteUNGWGdqRFJIOVBBQUZhR0M5MUx4Ung1aF8wUlpnWXVwMVdvQktqaldiMzk4SzA0SEcxRGQxZnV0eVh2ai1VektPakVYMVRpNEtxTk15Y1NRY3dmU0x3bnBVX3E4clVISWhfRV9lX042SkRORWd0cE1hMTNMMlcwaHJKZXA0N0hWSmp6cmhfYnJFdw?oc=5",
-   "tickers": [
-    "DJT"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "DJT",
-   "strength": 40,
-   "reason": "Trump coin strong demand signal; bullish for Trump Media assets"
-  },
-  {
-   "date": "2026-09-04T04:54:30Z",
-   "platform": "News",
-   "text": "Trump $1 Coin Goes Out of Stock Hours After Launch: What to Know - Tempo.co English \u2014 Trump $1 Coin Goes Out of Stock Hours After Launch: What to Know\u00a0\u00a0Tempo.co English",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNT0NMXzlWOVNLbkg0UnRvd19pbTdnX3k0a2lpdkszSGd5U3UwVThWcjhCZjJGUmNGc182N0xBM09saUlOMjYyUkpDcThZZWkteUNGWGdqRFJIOVBBQUZhR0M5MUx4Ung1aF8wUlpnWXVwMVdvQktqaldiMzk4SzA0SEcxRGQxZnV0eVh2ai1VektPakVYMVRpNEtxTk15Y1NRY3dmU0x3bnBVX3E4clVISWhfRV9lX042SkRORWd0cE1hMTNMMlcwaHJKZXA0N0hWSmp6cmhfYnJFdw?oc=5",
-   "tickers": [
-    "TRUMP"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "TRUMP",
-   "strength": 40,
-   "reason": "Trump coin launch sellout suggests speculative demand for Trump-branded asset; direction unclear"
-  },
-  {
-   "date": "2026-09-04T04:37:00Z",
-   "platform": "News",
-   "text": "Mark Zuckerberg Opposes Federal AI Watchdog in Call With Trump: Report - TradingView \u2014 Mark Zuckerberg Opposes Federal AI Watchdog in Call With Trump: Report\u00a0\u00a0TradingView",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdGNnaS1mZUdIaTh6bTQ3NnhDNFFvdlRXbkhQdlVwYkluWElHMFhaQnZuR190b29IMVg5WmJjY2ZVSFIxdllXek9BZjFiZ0Q2QWttUkV0YnNhXzhhZmdtRkJOTjBOS1JhWW52S0NrYzN4bVBQdHQzOVVJeEZFZlhyalEwcmRxdDNnRnExNl9BcHQ0ZW5TRWlpcTRqZmY2UldHN2N2Tjh6c3lNdnVqT0lHZmNrNEtGeGtGNldsNDNaekliYUNqekdj?oc=5",
-   "tickers": [
-    "META"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "META",
-   "strength": 35,
-   "reason": "Zuckerberg opposition to AI regulation favorable for Meta's AI operations"
-  },
-  {
-   "date": "2026-09-04T03:15:37Z",
-   "platform": "News",
-   "text": "Trump\u2019s Praise of Bartiromo Highlights Sentiment Risks for Fox and Communication Services Stocks - TipRanks \u2014 Trump\u2019s Praise of Bartiromo Highlights Sentiment Risks for Fox and Communication Services Stocks\u00a0\u00a0TipRanks",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZ0xWQ1RmbV9MV0lSTlU4aUoydFNWeGNMS3BvbFg4WkZJTDJpX2NOS1Y5NDZZX3hjZXZQVnpWVFZUZW5nSWxwNXRXX21WeXZfZk1uRThmTGQ2SWpZdzVuS1VvdFhIS3JZallST29ianVQRVFlTjVzZ19UODhpajdSSmV3bXI5Y0tuY2JZYU81MFJOWF95UTJEenlWaUlsMEhiemxNcF9mZ3dYOE1NY041TE9zZjVoZGkycEZMc25URG91Q1hHcHl6aHEwMlotaDQ?oc=5",
-   "tickers": [
-    "FOXA"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "FOXA",
-   "strength": 30,
-   "reason": "Trump sentiment risk toward Fox News; potential negative pressure on stock"
-  },
-  {
-   "date": "2026-09-04T01:10:24Z",
-   "platform": "News",
-   "text": "Why Did PANW, AAL, MRNA Surge To 52-Week Highs? - Stocktwits \u2014 Why Did PANW, AAL, MRNA Surge To 52-Week Highs?\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTlBYYnRFLUw0ekRPSlg0bHViSVNLbkVHY1BYbXQ0RlFIX2pPX1dHNjJ3cTFJb3lfREw4OG1lbHNNUFhEYzd4d2N0dXZ4NnY0cFp6dUhSekhfTlhKbmIyYVlReWxIQVlzVnZPck45c2VLeEx4amRRa0xMRWZROHpEWnBJZFRKZ2FSQUJVRmJlUXpMWTJ0TzU3SFN5bl8zTVhxVU5BOU5GTGNhcnJH?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "SPY",
-   "strength": 15,
-   "reason": "Mixed stock moves (PANW, AAL, MRNA); no coherent Trump catalyst identified."
-  },
-  {
-   "date": "2026-09-04T01:08:26Z",
-   "platform": "News",
-   "text": "Nasdaq, S&P 500 Futures Rebound As Micron Rally Lifts Chip Stocks: Why SPCX, QCOM, TSM, BABA, PLTR, CBRS, WEN, IBRX Are In Focus - Stocktwits \u2014 Nasdaq, S&P 500 Futures Rebound As Micron Rally Lifts Chip Stocks: Why SPCX, QCOM, TSM, BABA, PLTR, CBRS, WEN, IBRX Are In Focus\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQZjEyUjNpdUFBSU1TbzlQNmpzSV9LcDA3cDJHcDdWRWdmN0pqa2Nma3lfdEdJdmM2eGwtUE9PMTdqYUh1bno4cC04b3lUUVNGMEVlY0xYMTRZODJHREltVkNSYzlsbnJFd0RMdjQ4X0lDSWZRM1pfR0RJYTdPbl9UYThhRUhtdU91T2NsSVJqQlBCT2J2YmNXbXFWV1BQdkkyMVZmM0NwLXRGWk52WmRUeU9CZzRnalNQX3BMWmQ3VEpYMUE3RVhaTWNNOElQTllMR1NVYnUtWVFIbHh4a25heWJjWjZfNjdoT1d2eFhhTnlHN3dTVU05MnhGZGxHZTRpWm1xc2o0MEdSZw?oc=5",
-   "tickers": [
-    "SMH"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "SMH",
-   "strength": 55,
-   "reason": "Micron-led chip sector rally; Trump's Micron praise lifts semiconductor sentiment broadly"
-  },
-  {
-   "date": "2026-09-03T14:56:21.515Z",
-   "platform": "Truth Social",
-   "text": "For the treasonous SCUM that refuses to accurately report on our Military Operation in Iran, we have virtually unlimited amounts of Mid to High Grade Ammunition, far more than we could ever use for this, or for any other War (which is highly unlikely!), that could improbably take place. In addition, we are producing Munitions at levels never seen before. We are stockpiling and preparing for any contingency that could happen. We are taking them for ourselves, the U.S.A., rather than selling them to others, but the sales to Allies will soon again, begin. Also, please let it be known, that the Biden Administration gave far more Munitions away to Ukraine, at no cost to them, whatsoever, than we have used in Iran. Hundreds of Billions of Dollars was given to Ukraine and NATO, free of charge, that Europe would have paid for \u2014 If they were only asked, but we will be asking for that money, though somewhat belatedly! Thank you for your attention to this matter. President DONALD J. TRUMP",
-   "tickers": [
-    "XAR"
-   ],
-   "engagement": 32894,
-   "url": "https://truthsocial.com/@realDonaldTrump/117207687594983323",
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "XAR",
-   "strength": 65,
-   "reason": "Military ammunition and munitions production surge signals defense spending boost"
-  },
-  {
-   "date": "2026-09-02T01:13:08.802Z",
-   "platform": "Truth Social",
-   "text": "I'm not trying to force Iran to the bargaining table, as ABC Fake News reported. I couldn't care less if they sign a worthless, to them, agreement. I like our position now much better, with almost total control of the Hormuz Strait, and their economy totally collapsing. They are just playing out the inevitable. When are the Iranian people going to rise up and fight? President DJT",
-   "tickers": [
-    "XLE"
-   ],
-   "engagement": 21344,
-   "url": "https://truthsocial.com/@realDonaldTrump/117198788283772326",
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "XLE",
-   "strength": 60,
-   "reason": "Iran economy collapse and US energy/geopolitical control bullish for oil and defense sectors"
-  },
-  {
-   "date": "2026-08-31T15:36:12.189Z",
-   "platform": "Truth Social",
-   "text": "RT @realDonaldTrumpThe only reason that communities throughout the U.S.A. should not want Data Centers is if they want to end up being backwards and poor. If they want to be successful and rich, with far lower taxes and jobs all over the place, let Data Reign. The good news is that there are plenty of other places that want them. If we kill the Golden Goose, you will only have yourselves to blame. China could not be happier with this anti Data Center movement. Actually, they can't believe it is happening! President DJT",
-   "tickers": [
-    "SPY"
-   ],
-   "engagement": 0,
-   "url": "https://truthsocial.com/@realDonaldTrump/117190857339012632",
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "SPY",
-   "strength": 55,
-   "reason": "Pro-data center stance signals pro-tech infrastructure and growth policy"
-  },
-  {
-   "date": "2026-08-31T13:59:35.393Z",
-   "platform": "Truth Social",
-   "text": "The only reason that communities throughout the U.S.A. should not want Data Centers is if they want to end up being backwards and poor. If they want to be successful and rich, with far lower taxes and jobs all over the place, let Data Reign. The good news is that there are plenty of other places that want them. If we kill the Golden Goose, you will only have yourselves to blame. China could not be happier with this anti Data Center movement. Actually, they can't believe it is happening! President DJT",
-   "tickers": [
-    "SPY"
-   ],
-   "engagement": 11581,
-   "url": "https://truthsocial.com/@realDonaldTrump/117190477440173795",
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "SPY",
-   "strength": 60,
-   "reason": "Strong pro-data center and pro-tech infrastructure advocacy signals bullish tech/growth policy"
-  },
-  {
-   "date": "2026-08-31T02:18:57.272Z",
-   "platform": "Truth Social",
-   "text": "Kharg Island being blown to smithereens!!! President DJT",
-   "tickers": [
-    "XLE"
-   ],
-   "engagement": 14075,
-   "url": "https://truthsocial.com/@realDonaldTrump/117187722429803464",
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "XLE",
-   "strength": 70,
-   "reason": "Iran military infrastructure destruction bullish for oil prices and US energy geopolitics"
-  },
-  {
-   "date": "2026-08-31T00:26:05.013Z",
-   "platform": "Truth Social",
-   "text": "For many years, the USA has been losing more than 60 Billion Dollars a year with Canada. Why??? Our long ago stolen businesses are now coming back to America in order to avoid paying tariffs. They are lining up, just like the rest of the World!!! President DJT",
-   "tickers": [
-    "SPY"
-   ],
-   "engagement": 18877,
-   "url": "https://truthsocial.com/@realDonaldTrump/117187278603098753",
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "SPY",
-   "strength": 65,
-   "reason": "Tariff threat driving US business repatriation signals economic nationalism and domestic reshoring"
-  },
-  {
    "curated": true,
    "classified": true,
    "is_market": true,
@@ -2488,108 +2258,6 @@
    "reason": "Trump's majority-owned stock debuts \u2014 pure sentiment play, extremely volatile and headline-driven.",
    "market_reaction": "DJT spiked on debut then stayed volatile, moving heavily on Trump political/legal news.",
    "url": "https://www.nasdaq.com/market-activity/stocks/djt"
-  },
-  {
-   "date": "2021-07-01T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "HARRIS CORPORATION was awarded a $2.2B federal contract from Department of Transportation.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_693KA821F00222_6920_DTFA0102D03006_6920",
-   "tickers": [
-    "HRS"
-   ],
-   "contract_amount": 2.19,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "HRS",
-   "strength": 80,
-   "reason": "$2.2B federal contract award to Harris Corporation is direct bullish catalyst"
-  },
-  {
-   "date": "2020-05-13T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "SPACE EXPLORATION TECHNOLOGIES CORP. was awarded a $3.2B federal contract from National Aeronautics and Space Administration.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_80MSFC20C0034_8000_-NONE-_-NONE-",
-   "tickers": [
-    "SPACE"
-   ],
-   "contract_amount": 3.21,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "SPACE",
-   "strength": 85,
-   "reason": "$3.2B NASA contract to SpaceX (Space Exploration Technologies) is major bullish catalyst"
-  },
-  {
-   "date": "2019-10-16T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "THE BOEING COMPANY was awarded a $2.7B federal contract from National Aeronautics and Space Administration.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_80MSFC20C0052_8000_-NONE-_-NONE-",
-   "tickers": [
-    "BA"
-   ],
-   "contract_amount": 2.74,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "BA",
-   "strength": 80,
-   "reason": "$2.7B NASA contract to Boeing is direct bullish catalyst"
-  },
-  {
-   "date": "2019-06-19T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "GENERAL DYNAMICS INFORMATION TECHNOLOGY, INC. was awarded a $1.8B federal contract from Department of State.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_19AQMM18C0185_1900_-NONE-_-NONE-",
-   "tickers": [
-    "GD"
-   ],
-   "contract_amount": 1.75,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "GD",
-   "strength": 80,
-   "reason": "$1.8B State Department contract to General Dynamics is direct bullish catalyst"
-  },
-  {
-   "date": "2015-09-03T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "NORTHROP GRUMMAN SYSTEMS CORPORATION was awarded a $1.7B federal contract from National Aeronautics and Space Administration.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_NNH15CN76C_8000_-NONE-_-NONE-",
-   "tickers": [
-    "NOC"
-   ],
-   "contract_amount": 1.67,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "NOC",
-   "strength": 80,
-   "reason": "$1.7B NASA contract to Northrop Grumman is direct bullish catalyst"
-  },
-  {
-   "date": "2011-12-23T12:00:00Z",
-   "platform": "Federal contract",
-   "text": "LEIDOS, INC. was awarded a $3.1B federal contract from National Science Foundation.",
-   "url": "https://www.usaspending.gov/award/CONT_AWD_NSFDACS1219442_4900_-NONE-_-NONE-",
-   "tickers": [
-    "LDOS"
-   ],
-   "contract_amount": 3.13,
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "LDOS",
-   "strength": 80,
-   "reason": "$3.1B NSF contract to Leidos is direct bullish catalyst"
   }
  ],
  "how_to_read": "Each card is Claude's read of a public Trump post: the affected ticker, whether it implies BUY / SELL / WATCH, a 0\u2013100 strength (how explicit/emphatic the post is \u2014 NOT a profit predictor), and why. A 2-year backtest found these don't beat buy-and-hold, so this is for awareness, not trading. Not financial advice."
