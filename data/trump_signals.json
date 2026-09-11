@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-09-11T21:20:33Z",
+ "last_updated": "2026-09-11T23:29:24Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -560,7 +560,15 @@
    "direction": "SELL",
    "primary_ticker": "SMH",
    "strength": 55,
-   "reason": "Trump sold popular AI stocks; insider selling by sitting president signals bearish sentiment on semiconductors/AI sector."
+   "reason": "Trump sold popular AI stocks; insider selling by sitting president signals bearish sentiment on semiconductors/AI sector.",
+   "price_since": {
+    "ticker": "SMH",
+    "pct": 1.5,
+    "base": 560.28,
+    "last": 568.53,
+    "base_date": "2026-09-10",
+    "last_date": "2026-09-11"
+   }
   },
   {
    "date": "2026-09-10T09:33:00Z",
