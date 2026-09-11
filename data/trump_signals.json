@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-09-11T06:26:37Z",
+ "last_updated": "2026-09-11T11:42:35Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-09-11T00:37:46Z",
+   "platform": "News",
+   "text": "Upstart CEO Paul Gu acquires $1.28 million in company stock on September 10 - Investing.com India \u2014 Upstart CEO Paul Gu acquires $1.28 million in company stock on September 10\u00a0\u00a0Investing.com India",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSGh1Um9sZEFsNHNhWlo4YnU4cEMtbGk4T2ltN0dKQ3hwVEZzM1M5WDlyTHExazRfME5oQXpJVzhueHdxN0JvbFVlZ0NtVTdVNWtFTXdRcFlfUEJaZGxFbkNkN3BtbkZaU1RSRGNTbHdoUnd2NEdOYjhsc2xqOFdwU0JKeHpvekhZQWtyQ1JzZERUQ0VnV2J6VUlpXzNwckRWdlZ6MTV1bUN2bzdIblRFcFBfN3lPcUVVTTh3QzBvZUNJXzJacFAybklRSDkwN1k?oc=5",
+   "tickers": [
+    "UPST"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "UPST",
+   "strength": 15,
+   "reason": "CEO insider stock purchase signals confidence but direction ambiguous without context"
+  },
   {
    "date": "2026-09-11T00:09:39Z",
    "platform": "News",
@@ -145,6 +161,22 @@
    "primary_ticker": "INTC",
    "strength": 15,
    "reason": "Market movement noted but no Trump catalyst specified in headline"
+  },
+  {
+   "date": "2026-09-10T14:59:34Z",
+   "platform": "News",
+   "text": "Mizuho cuts Cooper Companies stock price target on sales softness - Investing.com \u2014 Mizuho cuts Cooper Companies stock price target on sales softness\u00a0\u00a0Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTzJDN3lSdTVUeGFoQnZKSDZiYW42c1Rwd01pZkc4UGVDRERRVVBiY3UzZktua1daamdXcDdOYXlCVlVXV0FoX3RzV0c2OGU0X2VZYUNtN09TWldrX3hwSUtRUUJBMTg5VHRmNDdWMzlHdzdDU2x4OE4zUFdiU3poQk8tZlJCNTE1VVlKS2tYRXpJcU9FWjlEc1JVbHctNFlHcWpWNzc0SmhfenNCdWpUNncxX1pSVzJ4MlFKQ1VhZTU0a0E?oc=5",
+   "tickers": [
+    "COO"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "COO",
+   "strength": 35,
+   "reason": "Analyst downgrade on sales softness independent of Trump but reflects market headwind"
   },
   {
    "date": "2026-09-10T14:16:48Z",
@@ -353,6 +385,22 @@
    "primary_ticker": "DJT",
    "strength": 25,
    "reason": "Large portfolio activity disclosure suggests market position shifts but direction/intent unclear"
+  },
+  {
+   "date": "2026-09-10T07:59:25Z",
+   "platform": "News",
+   "text": "Trump on Iran war; Oracle, Adobe to report - what\u2019s moving markets By Investing.com - Investing.com South Africa \u2014 Trump on Iran war; Oracle, Adobe to report - what\u2019s moving markets By Investing.com\u00a0\u00a0Investing.com South Africa",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVnlVWHZRRWxQdnMzSXh4ZXBNWDFuWUtxaFRUaVBvTk9Zdlk0cTlBbnpsUk1hZEx3aUxmYnZxdzZ1LU9rZ0dHUm5BQjd6b2lfNTQ0TU9NV2ZvYk14dWg0YzZZVGRYSHEza3FJQXlpUEhEY0dkUzNHS0lsVWR3ZkNxZlRTQ0JKWGJsWFFyMHlFZjhlSkFYME5rVEFfTHJsczU4Tmw0Z0xLdkh2TUpWNHJnZGJwMA?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "SPY",
+   "strength": 25,
+   "reason": "Iran war risk and earnings reports create market uncertainty; direction ambiguous without details."
   },
   {
    "date": "2026-09-10T05:51:00Z",
