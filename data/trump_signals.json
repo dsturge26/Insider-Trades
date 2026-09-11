@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-09-11T11:42:35Z",
+ "last_updated": "2026-09-11T15:14:06Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-09-11T13:25:00Z",
+   "platform": "News",
+   "text": "NuScale Power Drops 5% as UBS Cuts to Sell on Timeline and Cash Burn, Oklo Slips - 247wallst.com \u2014 NuScale Power Drops 5% as UBS Cuts to Sell on Timeline and Cash Burn, Oklo Slips\u00a0\u00a0247wallst.com",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQa1ZCYXJZdGVodFVuV2xhOGo4NWExSEJEaFgwVjZCZEc5LXptZFNGSnpfMDNaUWlfNDR5czd2V2pZa0hPeUQxRDRhZDVQQ2hWSWxhdmhEdV9jUkgtcmEtdlpmTXN6bmp4c0JpYlVtSzNidV9SN0dzQnRQX09XbFowZkFxVUNha00wSEtsUTQ3cU82Yk5NMVVsUmtOX0VkWnJ2dXdoZ05KVmhnX3JYa2s5bjRJcDRQdG5odFRtRHVWMA?oc=5",
+   "tickers": [
+    "SMCI"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "SMCI",
+   "strength": 35,
+   "reason": "NuScale small modular reactor company faces downgrades on execution risk; sentiment hit in nuclear/clean energy sector"
+  },
   {
    "date": "2026-09-11T00:37:46Z",
    "platform": "News",
@@ -48,7 +64,15 @@
    "direction": "WATCH",
    "primary_ticker": "USO",
    "strength": 40,
-   "reason": "Trump's ability to influence oil prices via tariffs/policy is in question; ambiguous whether he will intervene bullishly or bearishly."
+   "reason": "Trump's ability to influence oil prices via tariffs/policy is in question; ambiguous whether he will intervene bullishly or bearishly.",
+   "price_since": {
+    "ticker": "USO",
+    "pct": -2.9,
+    "base": 158.38,
+    "last": 153.81,
+    "base_date": "2026-09-10",
+    "last_date": "2026-09-11"
+   }
   },
   {
    "date": "2026-09-10T19:55:36Z",
@@ -64,7 +88,39 @@
    "direction": "WATCH",
    "primary_ticker": "PLTR",
    "strength": 25,
-   "reason": "Criticism of Trump's dividend proposal; ambiguous net effect on Palantir stock"
+   "reason": "Criticism of Trump's dividend proposal; ambiguous net effect on Palantir stock",
+   "price_since": {
+    "ticker": "PLTR",
+    "pct": -0.2,
+    "base": 165.86,
+    "last": 165.57,
+    "base_date": "2026-09-10",
+    "last_date": "2026-09-11"
+   }
+  },
+  {
+   "date": "2026-09-10T19:55:00Z",
+   "platform": "News",
+   "text": "Palantir cofounder and GOP donor says Trump's proposed $5,000 dividend is a 'bribe' - businessinsider.com \u2014 Palantir cofounder and GOP donor says Trump's proposed $5,000 dividend is a 'bribe'\u00a0\u00a0businessinsider.com",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMDdkQnpYckJzLW9GV3EtM0c2aWlrNGMtUXFLck1FcTZ5WnFpb3BET1hyRnhPQ3RweFphLTN2eXktRW5PdGJjSnNLclF4T0NrSHJYcUpLdVZKTXVjWmpaeDdhLXpZS2Z1blV4cnhHdDE2LTB4bGJxVk9RWUpnTnhEMy1peEN4SVg2?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "SPY",
+   "strength": 40,
+   "reason": "Debate over Trump's proposed $5,000 dividend fiscal stimulus; mixed signal on market impact",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": 0.9,
+    "base": 757.83,
+    "last": 764.4,
+    "base_date": "2026-09-10",
+    "last_date": "2026-09-11"
+   }
   },
   {
    "date": "2026-09-10T19:39:14Z",
@@ -80,7 +136,15 @@
    "direction": "WATCH",
    "primary_ticker": "SPY",
    "strength": 35,
-   "reason": "Tariff comments are market-relevant macro but direction ambiguous without specifics on scope or implementation"
+   "reason": "Tariff comments are market-relevant macro but direction ambiguous without specifics on scope or implementation",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": 0.9,
+    "base": 757.83,
+    "last": 764.4,
+    "base_date": "2026-09-10",
+    "last_date": "2026-09-11"
+   }
   },
   {
    "date": "2026-09-10T19:23:36Z",
@@ -96,7 +160,15 @@
    "direction": "SELL",
    "primary_ticker": "SPY",
    "strength": 45,
-   "reason": "Tariffs praised as 'beautiful' signals continued protectionist policy, macro bearish for broad market"
+   "reason": "Tariffs praised as 'beautiful' signals continued protectionist policy, macro bearish for broad market",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": 0.9,
+    "base": 757.83,
+    "last": 764.4,
+    "base_date": "2026-09-10",
+    "last_date": "2026-09-11"
+   }
   },
   {
    "date": "2026-09-10T18:01:16Z",
@@ -112,7 +184,15 @@
    "direction": "BUY",
    "primary_ticker": "F",
    "strength": 45,
-   "reason": "Ford rises on China trade tensions and guidance boost; tariff/trade friction can help US automakers."
+   "reason": "Ford rises on China trade tensions and guidance boost; tariff/trade friction can help US automakers.",
+   "price_since": {
+    "ticker": "F",
+    "pct": 1.2,
+    "base": 13.88,
+    "last": 14.04,
+    "base_date": "2026-09-10",
+    "last_date": "2026-09-11"
+   }
   },
   {
    "date": "2026-09-10T18:01:16Z",
@@ -128,7 +208,15 @@
    "direction": "BUY",
    "primary_ticker": "F",
    "strength": 55,
-   "reason": "Ford stock rises on China tension and raised guidance; China trade friction benefits domestic automakers"
+   "reason": "Ford stock rises on China tension and raised guidance; China trade friction benefits domestic automakers",
+   "price_since": {
+    "ticker": "F",
+    "pct": 1.2,
+    "base": 13.88,
+    "last": 14.04,
+    "base_date": "2026-09-10",
+    "last_date": "2026-09-11"
+   }
   },
   {
    "date": "2026-09-10T17:12:00Z",
@@ -144,7 +232,15 @@
    "direction": "BUY",
    "primary_ticker": "SPY",
    "strength": 50,
-   "reason": "Large fiscal stimulus proposal ($5,000 dividend) would boost consumer spending and broad market"
+   "reason": "Large fiscal stimulus proposal ($5,000 dividend) would boost consumer spending and broad market",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": 0.9,
+    "base": 757.83,
+    "last": 764.4,
+    "base_date": "2026-09-10",
+    "last_date": "2026-09-11"
+   }
   },
   {
    "date": "2026-09-10T15:53:51Z",
@@ -160,7 +256,15 @@
    "direction": "WATCH",
    "primary_ticker": "INTC",
    "strength": 15,
-   "reason": "Market movement noted but no Trump catalyst specified in headline"
+   "reason": "Market movement noted but no Trump catalyst specified in headline",
+   "price_since": {
+    "ticker": "INTC",
+    "pct": 2.6,
+    "base": 100.32,
+    "last": 102.94,
+    "base_date": "2026-09-10",
+    "last_date": "2026-09-11"
+   }
   },
   {
    "date": "2026-09-10T14:59:34Z",
@@ -176,7 +280,15 @@
    "direction": "SELL",
    "primary_ticker": "COO",
    "strength": 35,
-   "reason": "Analyst downgrade on sales softness independent of Trump but reflects market headwind"
+   "reason": "Analyst downgrade on sales softness independent of Trump but reflects market headwind",
+   "price_since": {
+    "ticker": "COO",
+    "pct": -1.7,
+    "base": 54.17,
+    "last": 53.27,
+    "base_date": "2026-09-10",
+    "last_date": "2026-09-11"
+   }
   },
   {
    "date": "2026-09-10T14:16:48Z",
@@ -192,7 +304,15 @@
    "direction": "SELL",
    "primary_ticker": "XAR",
    "strength": 35,
-   "reason": "Iran war warning; geopolitical risk can pressure defense/energy or broad market cautiously."
+   "reason": "Iran war warning; geopolitical risk can pressure defense/energy or broad market cautiously.",
+   "price_since": {
+    "ticker": "XAR",
+    "pct": 0.3,
+    "base": 244.66,
+    "last": 245.34,
+    "base_date": "2026-09-10",
+    "last_date": "2026-09-11"
+   }
   },
   {
    "date": "2026-09-10T14:16:48Z",
@@ -208,7 +328,15 @@
    "direction": "WATCH",
    "primary_ticker": "XAR",
    "strength": 40,
-   "reason": "Iran war warning is defense/geopolitical risk but direction ambiguous; could support defense stocks if war escalates"
+   "reason": "Iran war warning is defense/geopolitical risk but direction ambiguous; could support defense stocks if war escalates",
+   "price_since": {
+    "ticker": "XAR",
+    "pct": 0.3,
+    "base": 244.66,
+    "last": 245.34,
+    "base_date": "2026-09-10",
+    "last_date": "2026-09-11"
+   }
   },
   {
    "date": "2026-09-10T14:07:11Z",
@@ -224,7 +352,15 @@
    "direction": "SELL",
    "primary_ticker": "AEO",
    "strength": 50,
-   "reason": "Weak margin outlook and brand weakness; company-specific bearish catalyst"
+   "reason": "Weak margin outlook and brand weakness; company-specific bearish catalyst",
+   "price_since": {
+    "ticker": "AEO",
+    "pct": 2.0,
+    "base": 14.53,
+    "last": 14.82,
+    "base_date": "2026-09-10",
+    "last_date": "2026-09-11"
+   }
   },
   {
    "date": "2026-09-10T12:06:15Z",
@@ -240,7 +376,15 @@
    "direction": "BUY",
    "primary_ticker": "SPY",
    "strength": 35,
-   "reason": "Campaign promise of fiscal stimulus ($5k per adult) is macro-bullish if credible, but vague and election-contingent"
+   "reason": "Campaign promise of fiscal stimulus ($5k per adult) is macro-bullish if credible, but vague and election-contingent",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": 0.9,
+    "base": 757.83,
+    "last": 764.39,
+    "base_date": "2026-09-10",
+    "last_date": "2026-09-11"
+   }
   },
   {
    "date": "2026-09-10T11:34:00Z",
@@ -256,7 +400,15 @@
    "direction": "BUY",
    "primary_ticker": "SPY",
    "strength": 25,
-   "reason": "Stimulus ($5k handout) implies broad consumer spending and equity support, but headline is speculative"
+   "reason": "Stimulus ($5k handout) implies broad consumer spending and equity support, but headline is speculative",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": 0.9,
+    "base": 757.83,
+    "last": 764.4,
+    "base_date": "2026-09-10",
+    "last_date": "2026-09-11"
+   }
   },
   {
    "date": "2026-09-10T11:34:00Z",
@@ -272,7 +424,15 @@
    "direction": "BUY",
    "primary_ticker": "SPY",
    "strength": 45,
-   "reason": "Commentary on consumer spending from Trump's stimulus proposal; suggests equity market tailwind"
+   "reason": "Commentary on consumer spending from Trump's stimulus proposal; suggests equity market tailwind",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": 0.9,
+    "base": 757.83,
+    "last": 764.39,
+    "base_date": "2026-09-10",
+    "last_date": "2026-09-11"
+   }
   },
   {
    "date": "2026-09-10T09:48:00Z",
@@ -288,7 +448,15 @@
    "direction": "SELL",
    "primary_ticker": "SMH",
    "strength": 45,
-   "reason": "Trump sold AI stocks; Wall Street disagrees but directional signal is bearish on his holdings"
+   "reason": "Trump sold AI stocks; Wall Street disagrees but directional signal is bearish on his holdings",
+   "price_since": {
+    "ticker": "SMH",
+    "pct": 1.6,
+    "base": 560.28,
+    "last": 569.21,
+    "base_date": "2026-09-10",
+    "last_date": "2026-09-11"
+   }
   },
   {
    "date": "2026-09-10T09:48:00Z",
@@ -304,7 +472,39 @@
    "direction": "SELL",
    "primary_ticker": "SMH",
    "strength": 55,
-   "reason": "Trump sold popular AI stocks; insider selling by sitting president signals bearish sentiment on semiconductors/AI sector."
+   "reason": "Trump sold popular AI stocks; insider selling by sitting president signals bearish sentiment on semiconductors/AI sector.",
+   "price_since": {
+    "ticker": "SMH",
+    "pct": 1.6,
+    "base": 560.28,
+    "last": 569.21,
+    "base_date": "2026-09-10",
+    "last_date": "2026-09-11"
+   }
+  },
+  {
+   "date": "2026-09-10T09:33:00Z",
+   "platform": "News",
+   "text": "Will Apple Convince People to Actually Buy a Foldable Phone? - businessinsider.com \u2014 Will Apple Convince People to Actually Buy a Foldable Phone?\u00a0\u00a0businessinsider.com",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNeHhkTV9Sc3hDdWJEcXo2QjJhUG83ZDBsRDNQVFkwU1RwUGt5Vy1PUVBjRmoyME5hc2J3d1A0MDVkUnpIWUJERWZ0QXhpVGp3OTNxb2U0dGNHU3FLSmNIeFg0UjByZmJMb1V2LU0yX1Jpa2MtQWxnZEU2cGZTbVFxc05iRUpMdw?oc=5",
+   "tickers": [
+    "AAPL"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "AAPL",
+   "strength": 25,
+   "reason": "Apple foldable phone adoption question; product speculation unrelated to Trump policy",
+   "price_since": {
+    "ticker": "AAPL",
+    "pct": 2.8,
+    "base": 326.57,
+    "last": 335.77,
+    "base_date": "2026-09-10",
+    "last_date": "2026-09-11"
+   }
   },
   {
    "date": "2026-09-10T09:10:27Z",
@@ -320,7 +520,15 @@
    "direction": "WATCH",
    "primary_ticker": "QQQ",
    "strength": 20,
-   "reason": "Trump sold AI stocks but Wall Street disagrees; mixed signal on AI sector direction"
+   "reason": "Trump sold AI stocks but Wall Street disagrees; mixed signal on AI sector direction",
+   "price_since": {
+    "ticker": "QQQ",
+    "pct": 0.9,
+    "base": 708.69,
+    "last": 714.95,
+    "base_date": "2026-09-10",
+    "last_date": "2026-09-11"
+   }
   },
   {
    "date": "2026-09-10T09:10:27Z",
@@ -336,7 +544,15 @@
    "direction": "WATCH",
    "primary_ticker": "SMH",
    "strength": 45,
-   "reason": "Trump selling AI stocks signals bearish view; Wall Street disagrees, creating split signal on semiconductor/AI sector"
+   "reason": "Trump selling AI stocks signals bearish view; Wall Street disagrees, creating split signal on semiconductor/AI sector",
+   "price_since": {
+    "ticker": "SMH",
+    "pct": 1.6,
+    "base": 560.28,
+    "last": 569.21,
+    "base_date": "2026-09-10",
+    "last_date": "2026-09-11"
+   }
   },
   {
    "date": "2026-09-10T09:08:01Z",
@@ -352,7 +568,15 @@
    "direction": "WATCH",
    "primary_ticker": "QQQ",
    "strength": 20,
-   "reason": "Trump sold AI stocks but Wall Street disagrees; mixed signal on AI sector direction"
+   "reason": "Trump sold AI stocks but Wall Street disagrees; mixed signal on AI sector direction",
+   "price_since": {
+    "ticker": "QQQ",
+    "pct": 0.9,
+    "base": 708.69,
+    "last": 714.95,
+    "base_date": "2026-09-10",
+    "last_date": "2026-09-11"
+   }
   },
   {
    "date": "2026-09-10T09:08:01Z",
@@ -368,7 +592,15 @@
    "direction": "SELL",
    "primary_ticker": "SMH",
    "strength": 55,
-   "reason": "Trump sold popular AI stocks; insider selling by sitting president signals bearish sentiment on semiconductors/AI sector."
+   "reason": "Trump sold popular AI stocks; insider selling by sitting president signals bearish sentiment on semiconductors/AI sector.",
+   "price_since": {
+    "ticker": "SMH",
+    "pct": 1.6,
+    "base": 560.28,
+    "last": 569.21,
+    "base_date": "2026-09-10",
+    "last_date": "2026-09-11"
+   }
   },
   {
    "date": "2026-09-10T08:32:16Z",
@@ -384,7 +616,15 @@
    "direction": "WATCH",
    "primary_ticker": "DJT",
    "strength": 25,
-   "reason": "Large portfolio activity disclosure suggests market position shifts but direction/intent unclear"
+   "reason": "Large portfolio activity disclosure suggests market position shifts but direction/intent unclear",
+   "price_since": {
+    "ticker": "DJT",
+    "pct": 1.1,
+    "base": 8.78,
+    "last": 8.88,
+    "base_date": "2026-09-10",
+    "last_date": "2026-09-11"
+   }
   },
   {
    "date": "2026-09-10T07:59:25Z",
@@ -400,7 +640,15 @@
    "direction": "WATCH",
    "primary_ticker": "SPY",
    "strength": 25,
-   "reason": "Iran war risk and earnings reports create market uncertainty; direction ambiguous without details."
+   "reason": "Iran war risk and earnings reports create market uncertainty; direction ambiguous without details.",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": 0.9,
+    "base": 757.83,
+    "last": 764.4,
+    "base_date": "2026-09-10",
+    "last_date": "2026-09-11"
+   }
   },
   {
    "date": "2026-09-10T05:51:00Z",
@@ -416,7 +664,15 @@
    "direction": "BUY",
    "primary_ticker": "SPY",
    "strength": 30,
-   "reason": "$5k per-adult stimulus pledge is broadly bullish for consumer spending and equities"
+   "reason": "$5k per-adult stimulus pledge is broadly bullish for consumer spending and equities",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": 0.9,
+    "base": 757.83,
+    "last": 764.42,
+    "base_date": "2026-09-10",
+    "last_date": "2026-09-11"
+   }
   },
   {
    "date": "2026-09-10T05:18:00Z",
@@ -432,7 +688,15 @@
    "direction": "BUY",
    "primary_ticker": "XLE",
    "strength": 50,
-   "reason": "Trump signals trade deal with Canada on energy projects; deal upside for North American energy sector."
+   "reason": "Trump signals trade deal with Canada on energy projects; deal upside for North American energy sector.",
+   "price_since": {
+    "ticker": "XLE",
+    "pct": -0.2,
+    "base": 64.93,
+    "last": 64.8,
+    "base_date": "2026-09-10",
+    "last_date": "2026-09-11"
+   }
   },
   {
    "date": "2026-09-10T05:18:00Z",
@@ -2360,54 +2624,6 @@
    "primary_ticker": "NOW",
    "strength": 55,
    "reason": "Trump personal stake in ServiceNow fuels bullish retail sentiment; implicit endorsement."
-  },
-  {
-   "date": "2026-09-05T22:14:38Z",
-   "platform": "News",
-   "text": "UNH Stock Becomes Dow\u2019s Biggest Driver Back To 50,000 \u2014 Will Trump Tailwinds Spark Another Leg Higher? - stocktwits.com \u2014 UNH Stock Becomes Dow\u2019s Biggest Driver Back To 50,000 \u2014 Will Trump Tailwinds Spark Another Leg Higher?\u00a0\u00a0stocktwits.com",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPc09TZEpPUXhaQndxcjc0MUd3T1RhaTNMb2FIamg3MWlfNWR0VHc5QXk0S01oQk9ucTBrcmRMRFdhOUd0MDE5NlBUWnBvOExFeVdyTHdyaDdIanE1YlRCd0VUbk5RZXNJSW9yVmRHejRVR0duRHJJS0U2dThGSmlHTzVmYzFEdzZfZER1aC1TSGx6M01BVlNPdXB5b1padWMyTEhjZlpuMWhEX1pkUnpPVVVleHdKbUZCd2c?oc=5",
-   "tickers": [
-    "UNH"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "UNH",
-   "strength": 45,
-   "reason": "UNH driving Dow recovery; Trump tailwinds speculated but direction ambiguous without specific policy detail."
-  },
-  {
-   "date": "2026-09-05T22:14:38Z",
-   "platform": "News",
-   "text": "UNH Stock Becomes Dow\u2019s Biggest Driver Back To 50,000 \u2014 Will Trump Tailwinds Spark Another Leg Higher? - Stocktwits \u2014 UNH Stock Becomes Dow\u2019s Biggest Driver Back To 50,000 \u2014 Will Trump Tailwinds Spark Another Leg Higher?\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPc09TZEpPUXhaQndxcjc0MUd3T1RhaTNMb2FIamg3MWlfNWR0VHc5QXk0S01oQk9ucTBrcmRMRFdhOUd0MDE5NlBUWnBvOExFeVdyTHdyaDdIanE1YlRCd0VUbk5RZXNJSW9yVmRHejRVR0duRHJJS0U2dThGSmlHTzVmYzFEdzZfZER1aC1TSGx6M01BVlNPdXB5b1padWMyTEhjZlpuMWhEX1pkUnpPVVVleHdKbUZCd2c?oc=5",
-   "tickers": [
-    "UNH"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "UNH",
-   "strength": 45,
-   "reason": "UNH as Dow driver; Trump 'tailwinds' vague\u2014healthcare policy direction unclear."
-  },
-  {
-   "date": "2026-09-05T21:59:42Z",
-   "platform": "News",
-   "text": "DELL Stock Spikes To Record Highs On President Trump\u2019s Endorsement - Stocktwits \u2014 DELL Stock Spikes To Record Highs On President Trump\u2019s Endorsement\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYWF1OUgweFU0d1NlNU4ya1FYQVJSVTRCX3IwM0NMd19VVmN5RzNtUmc1c2FhTU9abXdnTmVnMDE2QUxna3ZrUEF3Zkd0SFUtOWx3QkF2elBuNkNTcmZDRm1BRUkwMVRwYU0xaUVsWDZLSk0yeEtiMFFPV0t3ZXZ3OW15QUg5V0xHNnRrU1J5VXdvX09Oa0ZmRmJvV0VTVlFRRFh6c3E5RmtHckx0MXpNVVZTWmJpLTUtUXBHSG5pWEFfQll0ejRneDFB?oc=5",
-   "tickers": [
-    "DELL"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "DELL",
-   "strength": 85,
-   "reason": "Trump explicitly endorses Dell, stock spikes to record highs; direct named company praise"
   },
   {
    "curated": true,
