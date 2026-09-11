@@ -1,7 +1,39 @@
 {
- "last_updated": "2026-09-11T01:21:06Z",
+ "last_updated": "2026-09-11T06:26:37Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-09-11T00:09:39Z",
+   "platform": "News",
+   "text": "QCOM Stock Is 7% From Its Record High; Executives To Join Trump In China Visit - Stocktwits \u2014 QCOM Stock Is 7% From Its Record High; Executives To Join Trump In China Visit\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVXpadHNKQ3hrQS15eXBfZVNyZkRXR2hZZGpvbUF0OFp0VHJrWUhsck53RmFDb2l4eUdfVFQwY0QyZ0tYMERtRE1aaGRVSV9ORFVQd1I4WW9VOXNPS2o2Z3RqRnVReldvOWJneGJsbl81MDRkdTQ1TFd1RVQzWHgzcS01VU9ZY0RuVHZ4TWZOQWphQjlDZVQxMkJKb21PZkJYZXNxLVhnT0xKUDVEcHZYWWUyNncyZzJwX0V1YkJUTUluTU9rTFkxZ2RLRkx6eTk0dGRLSTg1T0Nwd0toT3c?oc=5",
+   "tickers": [
+    "QCOM"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "QCOM",
+   "strength": 35,
+   "reason": "Qualcomm executives joining Trump China visit signals potential trade/policy engagement; proximity to record high suggests momentum."
+  },
+  {
+   "date": "2026-09-10T22:05:03Z",
+   "platform": "News",
+   "text": "Can Trump stop the surge in oil prices? Experts weigh in - ABC News - Breaking News, Latest News and Videos \u2014 Can Trump stop the surge in oil prices? Experts weigh in\u00a0\u00a0ABC News - Breaking News, Latest News and Videos",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRkw4RU9xbDZSTmtFZTBfY0JESTZUWElMOVdvaWUzbFNiZ25wQmtGQWgyTk1FWkhLTDRNdEprY0ZMdUxvN2V4WDZaeVVuTnIyNndMVVFnazk1cjh2WVZkcjUyUElfRUJPMHMxVFktVWlaSURKb2VZVU93Qld4SU9Jc1pZOUFtcWZsUjlUVXAyRkExOFXSAZgBQVVfeXFMTWtTb3JPM3luaE9XT2dQRmxsODBSaFpJOHA4Y3NhVmR2Z1ZQeHMzRHNhUlZvaGRVYVZmM3pTeWxyWkZSdW03UlFMaFU3TWtOOThWUThxcGpXYmRrcklRZnpPSEd3TjBic0RUdlM4ZXFfaklkZVF3Q3c3ZTZNbWpaSS1rRDRYM1BEM2VqNFBiT0NQdFpPSFZFaFM?oc=5",
+   "tickers": [
+    "USO"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "USO",
+   "strength": 40,
+   "reason": "Trump's ability to influence oil prices via tariffs/policy is in question; ambiguous whether he will intervene bullishly or bearishly."
+  },
   {
    "date": "2026-09-10T19:55:36Z",
    "platform": "News",
@@ -385,6 +417,22 @@
    "primary_ticker": "NVDA",
    "strength": 30,
    "reason": "China restricts NVDA H200 chip purchases; bearish for NVDA revenue in key market"
+  },
+  {
+   "date": "2026-09-10T03:47:10Z",
+   "platform": "News",
+   "text": "TSLA Stock Slips Premarket: Musk Joins Trump\u2019s China Trip As FSD Delays Threaten Tesla\u2019s Biggest Factory - Stocktwits \u2014 TSLA Stock Slips Premarket: Musk Joins Trump\u2019s China Trip As FSD Delays Threaten Tesla\u2019s Biggest Factory\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVHl5OGJHalFWTEM0d0l2LXRjLVJ6QTVjV0t3a3J6YkxkMF9fT2ZGU2VkNGl2NGpEc0NxMjV0SkRHMDhQUWJVTXZUOTVFeVdfb1I4dDBzV25yNWc2UlRsaGpIb1h0dXZIcVMyUXNQZ0FUd01vMmVPQmd2NDBkMy0tV2E1TGs2emp0Xy1iMHA0Z21ISDNpSTFOQzRKRjZGSGhZQ21vY2R0dzZfbEVnOWh4VzhtRnVoWnRJRXMwblQ0VFdJRzVKWnAyOExR?oc=5",
+   "tickers": [
+    "TSLA"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "TSLA",
+   "strength": 35,
+   "reason": "FSD delays and China factory risks weigh on Tesla; Musk's China trip involvement suggests potential exposure to geopolitical tensions"
   },
   {
    "date": "2026-09-10T02:18:19Z",
@@ -986,30 +1034,6 @@
    "primary_ticker": "TRUMP",
    "strength": 65,
    "reason": "Trump's words drive massive rally in Trump-linked asset (likely DJT or crypto reference)"
-  },
-  {
-   "date": "2026-09-08T22:08:46Z",
-   "platform": "News",
-   "text": "Can Trump stop the surge in oil prices? Experts weigh in - ABC News - Breaking News, Latest News and Videos \u2014 Can Trump stop the surge in oil prices? Experts weigh in\u00a0\u00a0ABC News - Breaking News, Latest News and Videos",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRkw4RU9xbDZSTmtFZTBfY0JESTZUWElMOVdvaWUzbFNiZ25wQmtGQWgyTk1FWkhLTDRNdEprY0ZMdUxvN2V4WDZaeVVuTnIyNndMVVFnazk1cjh2WVZkcjUyUElfRUJPMHMxVFktVWlaSURKb2VZVU93Qld4SU9Jc1pZOUFtcWZsUjlUVXAyRkExOFXSAZgBQVVfeXFMTWtTb3JPM3luaE9XT2dQRmxsODBSaFpJOHA4Y3NhVmR2Z1ZQeHMzRHNhUlZvaGRVYVZmM3pTeWxyWkZSdW03UlFMaFU3TWtOOThWUThxcGpXYmRrcklRZnpPSEd3TjBic0RUdlM4ZXFfaklkZVF3Q3c3ZTZNbWpaSS1rRDRYM1BEM2VqNFBiT0NQdFpPSFZFaFM?oc=5",
-   "tickers": [
-    "XLE"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "XLE",
-   "strength": 50,
-   "reason": "Question on Trump's ability to control oil prices; ambiguous signal on oil sector direction.",
-   "price_since": {
-    "ticker": "XLE",
-    "pct": 0.8,
-    "base": 64.77,
-    "last": 65.31,
-    "base_date": "2026-09-08",
-    "last_date": "2026-09-09"
-   }
   },
   {
    "date": "2026-09-08T22:08:00Z",
@@ -2098,22 +2122,6 @@
    "reason": "Prominent investor warns of massive Palantir valuation downside, bearish outlook"
   },
   {
-   "date": "2026-09-06T10:24:12Z",
-   "platform": "News",
-   "text": "QCOM Stock Is 7% From Its Record High; Executives To Join Trump In China Visit - Stocktwits \u2014 QCOM Stock Is 7% From Its Record High; Executives To Join Trump In China Visit\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVXpadHNKQ3hrQS15eXBfZVNyZkRXR2hZZGpvbUF0OFp0VHJrWUhsck53RmFDb2l4eUdfVFQwY0QyZ0tYMERtRE1aaGRVSV9ORFVQd1I4WW9VOXNPS2o2Z3RqRnVReldvOWJneGJsbl81MDRkdTQ1TFd1RVQzWHgzcS01VU9ZY0RuVHZ4TWZOQWphQjlDZVQxMkJKb21PZkJYZXNxLVhnT0xKUDVEcHZYWWUyNncyZzJwX0V1YkJUTUluTU9rTFkxZ2RLRkx6eTk0dGRLSTg1T0Nwd0toT3c?oc=5",
-   "tickers": [
-    "QCOM"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "QCOM",
-   "strength": 35,
-   "reason": "Qualcomm executives join Trump China visit; diplomatic signal but direction unclear on deal vs. tensions."
-  },
-  {
    "date": "2026-09-06T06:02:00Z",
    "platform": "News",
    "text": "America\u2019s biggest investor Michael Burry issues '$100 billion warning' on America's biggest defence tech - The Times of India \u2014 America\u2019s biggest investor Michael Burry issues '$100 billion warning' on America's biggest defence tech\u00a0\u00a0The Times of India",
@@ -2144,22 +2152,6 @@
    "primary_ticker": "TSLA",
    "strength": 45,
    "reason": "FSD delays and China trip uncertainty threaten Tesla's largest factory; near-term bearish."
-  },
-  {
-   "date": "2026-09-06T01:54:26Z",
-   "platform": "News",
-   "text": "TSLA Stock Slips Premarket: Musk Joins Trump\u2019s China Trip As FSD Delays Threaten Tesla\u2019s Biggest Factory - Stocktwits \u2014 TSLA Stock Slips Premarket: Musk Joins Trump\u2019s China Trip As FSD Delays Threaten Tesla\u2019s Biggest Factory\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVHl5OGJHalFWTEM0d0l2LXRjLVJ6QTVjV0t3a3J6YkxkMF9fT2ZGU2VkNGl2NGpEc0NxMjV0SkRHMDhQUWJVTXZUOTVFeVdfb1I4dDBzV25yNWc2UlRsaGpIb1h0dXZIcVMyUXNQZ0FUd01vMmVPQmd2NDBkMy0tV2E1TGs2emp0Xy1iMHA0Z21ISDNpSTFOQzRKRjZGSGhZQ21vY2R0dzZfbEVnOWh4VzhtRnVoWnRJRXMwblQ0VFdJRzVKWnAyOExR?oc=5",
-   "tickers": [
-    "TSLA"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "TSLA",
-   "strength": 45,
-   "reason": "Tesla premarket slip amid FSD delays and China trip uncertainty; geopolitical and product risk."
   },
   {
    "date": "2026-09-06T01:26:42Z",
@@ -2368,54 +2360,6 @@
    "primary_ticker": "DELL",
    "strength": 85,
    "reason": "Trump explicitly endorses Dell, stock spikes to record highs; direct named company praise"
-  },
-  {
-   "date": "2026-09-05T21:59:42Z",
-   "platform": "News",
-   "text": "DELL Stock Spikes To Record Highs On President Trump\u2019s Endorsement - stocktwits.com \u2014 DELL Stock Spikes To Record Highs On President Trump\u2019s Endorsement\u00a0\u00a0stocktwits.com",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYWF1OUgweFU0d1NlNU4ya1FYQVJSVTRCX3IwM0NMd19VVmN5RzNtUmc1c2FhTU9abXdnTmVnMDE2QUxna3ZrUEF3Zkd0SFUtOWx3QkF2elBuNkNTcmZDRm1BRUkwMVRwYU0xaUVsWDZLSk0yeEtiMFFPV0t3ZXZ3OW15QUg5V0xHNnRrU1J5VXdvX09Oa0ZmRmJvV0VTVlFRRFh6c3E5RmtHckx0MXpNVVZTWmJpLTUtUXBHSG5pWEFfQll0ejRneDFB?oc=5",
-   "tickers": [
-    "DELL"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "DELL",
-   "strength": 75,
-   "reason": "Trump explicit endorsement of Dell; stock spikes to records on named-company praise."
-  },
-  {
-   "date": "2026-09-05T20:08:21Z",
-   "platform": "News",
-   "text": "Trump Weighs In On Elon Musk, OpenAI, Intel \u2014 And Takes Aim At The 'Hostile' Fed Board - stocktwits.com \u2014 Trump Weighs In On Elon Musk, OpenAI, Intel \u2014 And Takes Aim At The 'Hostile' Fed Board\u00a0\u00a0stocktwits.com",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSGdkS2RRUEt3TWdWdW8yWkZrN0NfU1lZak10VExCWGktUlg3enppTzF4UnpEVjg3YVZRR2JqRmFYdTVBQTdIcmJHYVFkX2ZtcHFiREF5UWZ3NExDNTJhTnd2VE5HM1A1WFZnVEpoY0Rfa1BYMVJrZ0lKNlhDdDBKVW41S0dCOTdncW5jWEhHRkZMU0lERlF4MlFyU0xxTXFNS25wMWVoa1c3SkliajdkUDUtTDdUWnZmUnI5aUhNeHJreTBacEE0Zk1WZVMzMXpfUDFIeU9GSEN2N2liM2c?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "SPY",
-   "strength": 35,
-   "reason": "Trump comments on Fed board, Elon/OpenAI/Intel but no clear buy/sell signal \u2014 mixed macro read on Fed policy"
-  },
-  {
-   "date": "2026-09-05T20:00:53Z",
-   "platform": "News",
-   "text": "Michael Burry Says He\u2019s Still Short Palantir After Stock Sees Recovery Following Trump\u2019s Endorsement - stocktwits.com \u2014 Michael Burry Says He\u2019s Still Short Palantir After Stock Sees Recovery Following Trump\u2019s Endorsement\u00a0\u00a0stocktwits.com",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUmNQdmN5STJOLU11dEhkR1U0ckhuS3JMcm1NUDNMY0dNZ1pQcGhFVmd2bkZqVHV5N3N4N01tY1gzZWZnTDlvbVRzTEtkQnZyUjlibXR1ZUJ5MnVNY0ZlYlVEUWtRMkdnRzBGcmxpdEJaQm55ZWlTWmZZUDBPNnhncTFlLWg3bjllZXNpeGpTVjd3b3dCZ2lWT1dPZE5RSlNKT01IVXlTa1c5YmFodzVEWkJtbHpvUHN1Ry00NWhxcVJpdw?oc=5",
-   "tickers": [
-    "PLTR"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "PLTR",
-   "strength": 20,
-   "reason": "Burry short despite Trump endorsement; conflicting signals, no new catalyst here"
   },
   {
    "curated": true,
