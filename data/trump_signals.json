@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-09-12T01:28:12Z",
+ "last_updated": "2026-09-12T06:21:41Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -80,7 +80,15 @@
    "direction": "WATCH",
    "primary_ticker": "USO",
    "strength": 40,
-   "reason": "Trump's ability to influence oil prices via tariffs/policy is in question; ambiguous whether he will intervene bullishly or bearishly."
+   "reason": "Trump's ability to influence oil prices via tariffs/policy is in question; ambiguous whether he will intervene bullishly or bearishly.",
+   "price_since": {
+    "ticker": "USO",
+    "pct": -2.2,
+    "base": 158.38,
+    "last": 154.9,
+    "base_date": "2026-09-10",
+    "last_date": "2026-09-11"
+   }
   },
   {
    "date": "2026-09-10T22:05:03Z",
@@ -96,7 +104,15 @@
    "direction": "WATCH",
    "primary_ticker": "XLE",
    "strength": 50,
-   "reason": "Question of Trump's ability to influence oil prices is ambiguous\u2014macro uncertainty on energy policy"
+   "reason": "Question of Trump's ability to influence oil prices is ambiguous\u2014macro uncertainty on energy policy",
+   "price_since": {
+    "ticker": "XLE",
+    "pct": 0.3,
+    "base": 64.93,
+    "last": 65.14,
+    "base_date": "2026-09-10",
+    "last_date": "2026-09-11"
+   }
   },
   {
    "date": "2026-09-10T19:55:36Z",
@@ -112,7 +128,15 @@
    "direction": "WATCH",
    "primary_ticker": "PLTR",
    "strength": 25,
-   "reason": "Criticism of Trump's dividend proposal; ambiguous net effect on Palantir stock"
+   "reason": "Criticism of Trump's dividend proposal; ambiguous net effect on Palantir stock",
+   "price_since": {
+    "ticker": "PLTR",
+    "pct": 0.8,
+    "base": 165.86,
+    "last": 167.23,
+    "base_date": "2026-09-10",
+    "last_date": "2026-09-11"
+   }
   },
   {
    "date": "2026-09-10T19:55:00Z",
@@ -128,7 +152,15 @@
    "direction": "WATCH",
    "primary_ticker": "SPY",
    "strength": 40,
-   "reason": "Debate over Trump's proposed $5,000 dividend fiscal stimulus; mixed signal on market impact"
+   "reason": "Debate over Trump's proposed $5,000 dividend fiscal stimulus; mixed signal on market impact",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": 0.9,
+    "base": 757.83,
+    "last": 764.29,
+    "base_date": "2026-09-10",
+    "last_date": "2026-09-11"
+   }
   },
   {
    "date": "2026-09-10T19:39:14Z",
@@ -144,7 +176,15 @@
    "direction": "WATCH",
    "primary_ticker": "SPY",
    "strength": 35,
-   "reason": "Tariff comments are market-relevant macro but direction ambiguous without specifics on scope or implementation"
+   "reason": "Tariff comments are market-relevant macro but direction ambiguous without specifics on scope or implementation",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": 0.9,
+    "base": 757.83,
+    "last": 764.29,
+    "base_date": "2026-09-10",
+    "last_date": "2026-09-11"
+   }
   },
   {
    "date": "2026-09-10T19:23:36Z",
@@ -160,7 +200,15 @@
    "direction": "SELL",
    "primary_ticker": "SPY",
    "strength": 45,
-   "reason": "Tariffs praised as 'beautiful' signals continued protectionist policy, macro bearish for broad market"
+   "reason": "Tariffs praised as 'beautiful' signals continued protectionist policy, macro bearish for broad market",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": 0.9,
+    "base": 757.83,
+    "last": 764.29,
+    "base_date": "2026-09-10",
+    "last_date": "2026-09-11"
+   }
   },
   {
    "date": "2026-09-10T18:01:16Z",
@@ -176,7 +224,15 @@
    "direction": "BUY",
    "primary_ticker": "F",
    "strength": 45,
-   "reason": "Ford rises on China trade tensions and guidance boost; tariff/trade friction can help US automakers."
+   "reason": "Ford rises on China trade tensions and guidance boost; tariff/trade friction can help US automakers.",
+   "price_since": {
+    "ticker": "F",
+    "pct": 0.6,
+    "base": 13.88,
+    "last": 13.97,
+    "base_date": "2026-09-10",
+    "last_date": "2026-09-11"
+   }
   },
   {
    "date": "2026-09-10T18:01:16Z",
@@ -192,7 +248,15 @@
    "direction": "BUY",
    "primary_ticker": "F",
    "strength": 55,
-   "reason": "Ford stock rises on China tension and raised guidance; China trade friction benefits domestic automakers"
+   "reason": "Ford stock rises on China tension and raised guidance; China trade friction benefits domestic automakers",
+   "price_since": {
+    "ticker": "F",
+    "pct": 0.6,
+    "base": 13.88,
+    "last": 13.97,
+    "base_date": "2026-09-10",
+    "last_date": "2026-09-11"
+   }
   },
   {
    "date": "2026-09-10T17:12:00Z",
@@ -208,7 +272,15 @@
    "direction": "BUY",
    "primary_ticker": "SPY",
    "strength": 50,
-   "reason": "Large fiscal stimulus proposal ($5,000 dividend) would boost consumer spending and broad market"
+   "reason": "Large fiscal stimulus proposal ($5,000 dividend) would boost consumer spending and broad market",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": 0.9,
+    "base": 757.83,
+    "last": 764.29,
+    "base_date": "2026-09-10",
+    "last_date": "2026-09-11"
+   }
   },
   {
    "date": "2026-09-10T15:53:51Z",
@@ -224,7 +296,15 @@
    "direction": "WATCH",
    "primary_ticker": "INTC",
    "strength": 15,
-   "reason": "Market movement noted but no Trump catalyst specified in headline"
+   "reason": "Market movement noted but no Trump catalyst specified in headline",
+   "price_since": {
+    "ticker": "INTC",
+    "pct": 2.6,
+    "base": 100.32,
+    "last": 102.94,
+    "base_date": "2026-09-10",
+    "last_date": "2026-09-11"
+   }
   },
   {
    "date": "2026-09-10T15:20:13Z",
@@ -240,7 +320,15 @@
    "direction": "WATCH",
    "primary_ticker": "SPY",
    "strength": 50,
-   "reason": "Iran war concern under Trump administration is geopolitical uncertainty affecting broad market sentiment"
+   "reason": "Iran war concern under Trump administration is geopolitical uncertainty affecting broad market sentiment",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": 0.9,
+    "base": 757.83,
+    "last": 764.29,
+    "base_date": "2026-09-10",
+    "last_date": "2026-09-11"
+   }
   },
   {
    "date": "2026-09-10T14:59:34Z",
@@ -256,7 +344,15 @@
    "direction": "SELL",
    "primary_ticker": "COO",
    "strength": 35,
-   "reason": "Analyst downgrade on sales softness independent of Trump but reflects market headwind"
+   "reason": "Analyst downgrade on sales softness independent of Trump but reflects market headwind",
+   "price_since": {
+    "ticker": "COO",
+    "pct": -0.5,
+    "base": 54.17,
+    "last": 53.91,
+    "base_date": "2026-09-10",
+    "last_date": "2026-09-11"
+   }
   },
   {
    "date": "2026-09-10T14:16:48Z",
@@ -272,7 +368,15 @@
    "direction": "SELL",
    "primary_ticker": "XAR",
    "strength": 35,
-   "reason": "Iran war warning; geopolitical risk can pressure defense/energy or broad market cautiously."
+   "reason": "Iran war warning; geopolitical risk can pressure defense/energy or broad market cautiously.",
+   "price_since": {
+    "ticker": "XAR",
+    "pct": 0.5,
+    "base": 244.66,
+    "last": 245.96,
+    "base_date": "2026-09-10",
+    "last_date": "2026-09-11"
+   }
   },
   {
    "date": "2026-09-10T14:16:48Z",
@@ -288,7 +392,15 @@
    "direction": "WATCH",
    "primary_ticker": "XAR",
    "strength": 40,
-   "reason": "Iran war warning is defense/geopolitical risk but direction ambiguous; could support defense stocks if war escalates"
+   "reason": "Iran war warning is defense/geopolitical risk but direction ambiguous; could support defense stocks if war escalates",
+   "price_since": {
+    "ticker": "XAR",
+    "pct": 0.5,
+    "base": 244.66,
+    "last": 245.96,
+    "base_date": "2026-09-10",
+    "last_date": "2026-09-11"
+   }
   },
   {
    "date": "2026-09-10T14:07:11Z",
@@ -304,7 +416,15 @@
    "direction": "SELL",
    "primary_ticker": "AEO",
    "strength": 50,
-   "reason": "Weak margin outlook and brand weakness; company-specific bearish catalyst"
+   "reason": "Weak margin outlook and brand weakness; company-specific bearish catalyst",
+   "price_since": {
+    "ticker": "AEO",
+    "pct": 3.4,
+    "base": 14.53,
+    "last": 15.02,
+    "base_date": "2026-09-10",
+    "last_date": "2026-09-11"
+   }
   },
   {
    "date": "2026-09-10T13:30:36Z",
@@ -320,7 +440,15 @@
    "direction": "SELL",
    "primary_ticker": "SPY",
    "strength": 50,
-   "reason": "Skepticism of Trump's $5k dividend promise undermines credibility of stimulus/fiscal policy boost"
+   "reason": "Skepticism of Trump's $5k dividend promise undermines credibility of stimulus/fiscal policy boost",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": 0.9,
+    "base": 757.83,
+    "last": 764.29,
+    "base_date": "2026-09-10",
+    "last_date": "2026-09-11"
+   }
   },
   {
    "date": "2026-09-10T12:06:15Z",
@@ -336,7 +464,15 @@
    "direction": "BUY",
    "primary_ticker": "SPY",
    "strength": 35,
-   "reason": "Campaign promise of fiscal stimulus ($5k per adult) is macro-bullish if credible, but vague and election-contingent"
+   "reason": "Campaign promise of fiscal stimulus ($5k per adult) is macro-bullish if credible, but vague and election-contingent",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": 0.9,
+    "base": 757.83,
+    "last": 764.29,
+    "base_date": "2026-09-10",
+    "last_date": "2026-09-11"
+   }
   },
   {
    "date": "2026-09-10T11:34:00Z",
@@ -352,7 +488,15 @@
    "direction": "BUY",
    "primary_ticker": "SPY",
    "strength": 25,
-   "reason": "Stimulus ($5k handout) implies broad consumer spending and equity support, but headline is speculative"
+   "reason": "Stimulus ($5k handout) implies broad consumer spending and equity support, but headline is speculative",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": 0.9,
+    "base": 757.83,
+    "last": 764.29,
+    "base_date": "2026-09-10",
+    "last_date": "2026-09-11"
+   }
   },
   {
    "date": "2026-09-10T11:34:00Z",
@@ -368,7 +512,15 @@
    "direction": "BUY",
    "primary_ticker": "SPY",
    "strength": 45,
-   "reason": "Commentary on consumer spending from Trump's stimulus proposal; suggests equity market tailwind"
+   "reason": "Commentary on consumer spending from Trump's stimulus proposal; suggests equity market tailwind",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": 0.9,
+    "base": 757.83,
+    "last": 764.29,
+    "base_date": "2026-09-10",
+    "last_date": "2026-09-11"
+   }
   },
   {
    "date": "2026-09-10T09:48:00Z",
@@ -384,7 +536,15 @@
    "direction": "SELL",
    "primary_ticker": "SMH",
    "strength": 45,
-   "reason": "Trump sold AI stocks; Wall Street disagrees but directional signal is bearish on his holdings"
+   "reason": "Trump sold AI stocks; Wall Street disagrees but directional signal is bearish on his holdings",
+   "price_since": {
+    "ticker": "SMH",
+    "pct": 1.5,
+    "base": 560.28,
+    "last": 568.53,
+    "base_date": "2026-09-10",
+    "last_date": "2026-09-11"
+   }
   },
   {
    "date": "2026-09-10T09:48:00Z",
@@ -400,7 +560,15 @@
    "direction": "SELL",
    "primary_ticker": "SMH",
    "strength": 55,
-   "reason": "Trump sold popular AI stocks; insider selling by sitting president signals bearish sentiment on semiconductors/AI sector."
+   "reason": "Trump sold popular AI stocks; insider selling by sitting president signals bearish sentiment on semiconductors/AI sector.",
+   "price_since": {
+    "ticker": "SMH",
+    "pct": 1.5,
+    "base": 560.28,
+    "last": 568.53,
+    "base_date": "2026-09-10",
+    "last_date": "2026-09-11"
+   }
   },
   {
    "date": "2026-09-10T09:33:00Z",
@@ -416,7 +584,15 @@
    "direction": "WATCH",
    "primary_ticker": "AAPL",
    "strength": 25,
-   "reason": "Apple foldable phone adoption question; product speculation unrelated to Trump policy"
+   "reason": "Apple foldable phone adoption question; product speculation unrelated to Trump policy",
+   "price_since": {
+    "ticker": "AAPL",
+    "pct": 1.7,
+    "base": 326.57,
+    "last": 332.27,
+    "base_date": "2026-09-10",
+    "last_date": "2026-09-11"
+   }
   },
   {
    "date": "2026-09-10T09:10:27Z",
@@ -432,7 +608,15 @@
    "direction": "WATCH",
    "primary_ticker": "QQQ",
    "strength": 20,
-   "reason": "Trump sold AI stocks but Wall Street disagrees; mixed signal on AI sector direction"
+   "reason": "Trump sold AI stocks but Wall Street disagrees; mixed signal on AI sector direction",
+   "price_since": {
+    "ticker": "QQQ",
+    "pct": 0.9,
+    "base": 708.69,
+    "last": 714.88,
+    "base_date": "2026-09-10",
+    "last_date": "2026-09-11"
+   }
   },
   {
    "date": "2026-09-10T09:10:27Z",
@@ -448,7 +632,15 @@
    "direction": "WATCH",
    "primary_ticker": "SMH",
    "strength": 45,
-   "reason": "Trump selling AI stocks signals bearish view; Wall Street disagrees, creating split signal on semiconductor/AI sector"
+   "reason": "Trump selling AI stocks signals bearish view; Wall Street disagrees, creating split signal on semiconductor/AI sector",
+   "price_since": {
+    "ticker": "SMH",
+    "pct": 1.5,
+    "base": 560.28,
+    "last": 568.53,
+    "base_date": "2026-09-10",
+    "last_date": "2026-09-11"
+   }
   },
   {
    "date": "2026-09-10T09:08:01Z",
@@ -464,7 +656,15 @@
    "direction": "WATCH",
    "primary_ticker": "QQQ",
    "strength": 20,
-   "reason": "Trump sold AI stocks but Wall Street disagrees; mixed signal on AI sector direction"
+   "reason": "Trump sold AI stocks but Wall Street disagrees; mixed signal on AI sector direction",
+   "price_since": {
+    "ticker": "QQQ",
+    "pct": 0.9,
+    "base": 708.69,
+    "last": 714.88,
+    "base_date": "2026-09-10",
+    "last_date": "2026-09-11"
+   }
   },
   {
    "date": "2026-09-10T09:08:01Z",
@@ -480,7 +680,15 @@
    "direction": "SELL",
    "primary_ticker": "SMH",
    "strength": 55,
-   "reason": "Trump sold popular AI stocks; insider selling by sitting president signals bearish sentiment on semiconductors/AI sector."
+   "reason": "Trump sold popular AI stocks; insider selling by sitting president signals bearish sentiment on semiconductors/AI sector.",
+   "price_since": {
+    "ticker": "SMH",
+    "pct": 1.5,
+    "base": 560.28,
+    "last": 568.53,
+    "base_date": "2026-09-10",
+    "last_date": "2026-09-11"
+   }
   },
   {
    "date": "2026-09-10T08:32:16Z",
@@ -496,7 +704,15 @@
    "direction": "WATCH",
    "primary_ticker": "DJT",
    "strength": 25,
-   "reason": "Large portfolio activity disclosure suggests market position shifts but direction/intent unclear"
+   "reason": "Large portfolio activity disclosure suggests market position shifts but direction/intent unclear",
+   "price_since": {
+    "ticker": "DJT",
+    "pct": -1.4,
+    "base": 8.78,
+    "last": 8.66,
+    "base_date": "2026-09-10",
+    "last_date": "2026-09-11"
+   }
   },
   {
    "date": "2026-09-10T07:59:25Z",
@@ -512,7 +728,15 @@
    "direction": "WATCH",
    "primary_ticker": "SPY",
    "strength": 25,
-   "reason": "Iran war risk and earnings reports create market uncertainty; direction ambiguous without details."
+   "reason": "Iran war risk and earnings reports create market uncertainty; direction ambiguous without details.",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": 0.9,
+    "base": 757.83,
+    "last": 764.29,
+    "base_date": "2026-09-10",
+    "last_date": "2026-09-11"
+   }
   },
   {
    "date": "2026-09-10T05:51:00Z",
@@ -528,7 +752,15 @@
    "direction": "BUY",
    "primary_ticker": "SPY",
    "strength": 30,
-   "reason": "$5k per-adult stimulus pledge is broadly bullish for consumer spending and equities"
+   "reason": "$5k per-adult stimulus pledge is broadly bullish for consumer spending and equities",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": 0.9,
+    "base": 757.83,
+    "last": 764.29,
+    "base_date": "2026-09-10",
+    "last_date": "2026-09-11"
+   }
   },
   {
    "date": "2026-09-10T05:18:00Z",
@@ -547,9 +779,9 @@
    "reason": "Trump signals trade deal with Canada on energy projects; deal upside for North American energy sector.",
    "price_since": {
     "ticker": "XLE",
-    "pct": -0.2,
+    "pct": 0.3,
     "base": 64.93,
-    "last": 64.8,
+    "last": 65.14,
     "base_date": "2026-09-10",
     "last_date": "2026-09-11"
    }
@@ -568,7 +800,15 @@
    "direction": "BUY",
    "primary_ticker": "SPY",
    "strength": 55,
-   "reason": "Trade deal with Canada reduces tariff risk and supports broad market; pro-growth for energy/cross-border commerce"
+   "reason": "Trade deal with Canada reduces tariff risk and supports broad market; pro-growth for energy/cross-border commerce",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": 0.9,
+    "base": 757.83,
+    "last": 764.29,
+    "base_date": "2026-09-10",
+    "last_date": "2026-09-11"
+   }
   },
   {
    "date": "2026-09-10T05:17:17Z",
@@ -584,7 +824,15 @@
    "direction": "SELL",
    "primary_ticker": "NVDA",
    "strength": 30,
-   "reason": "China restricts NVDA H200 chip purchases; bearish for NVDA revenue in key market"
+   "reason": "China restricts NVDA H200 chip purchases; bearish for NVDA revenue in key market",
+   "price_since": {
+    "ticker": "NVDA",
+    "pct": -0.0,
+    "base": 218.36,
+    "last": 218.29,
+    "base_date": "2026-09-10",
+    "last_date": "2026-09-11"
+   }
   },
   {
    "date": "2026-09-10T03:47:10Z",
@@ -600,7 +848,15 @@
    "direction": "SELL",
    "primary_ticker": "TSLA",
    "strength": 35,
-   "reason": "FSD delays and China factory risks weigh on Tesla; Musk's China trip involvement suggests potential exposure to geopolitical tensions"
+   "reason": "FSD delays and China factory risks weigh on Tesla; Musk's China trip involvement suggests potential exposure to geopolitical tensions",
+   "price_since": {
+    "ticker": "TSLA",
+    "pct": 0.5,
+    "base": 363.56,
+    "last": 365.44,
+    "base_date": "2026-09-10",
+    "last_date": "2026-09-11"
+   }
   },
   {
    "date": "2026-09-10T02:18:19Z",
@@ -616,7 +872,15 @@
    "direction": "WATCH",
    "primary_ticker": "DJT",
    "strength": 50,
-   "reason": "Truth Social monetizing Wall Street access is revenue-positive for DJT but execution/adoption unclear"
+   "reason": "Truth Social monetizing Wall Street access is revenue-positive for DJT but execution/adoption unclear",
+   "price_since": {
+    "ticker": "DJT",
+    "pct": -1.4,
+    "base": 8.78,
+    "last": 8.66,
+    "base_date": "2026-09-10",
+    "last_date": "2026-09-11"
+   }
   },
   {
    "date": "2026-09-10T01:47:00Z",
@@ -632,7 +896,15 @@
    "direction": "BUY",
    "primary_ticker": "PLTR",
    "strength": 65,
-   "reason": "Trump signals explicit support for Palantir; bullish catalyst for stock"
+   "reason": "Trump signals explicit support for Palantir; bullish catalyst for stock",
+   "price_since": {
+    "ticker": "PLTR",
+    "pct": 0.8,
+    "base": 165.86,
+    "last": 167.23,
+    "base_date": "2026-09-10",
+    "last_date": "2026-09-11"
+   }
   },
   {
    "date": "2026-09-10T00:30:00Z",
@@ -648,7 +920,15 @@
    "direction": "SELL",
    "primary_ticker": "F",
    "strength": 45,
-   "reason": "Ford facing Washington pressure over China dealings amid trade tensions; sector headwinds for auto."
+   "reason": "Ford facing Washington pressure over China dealings amid trade tensions; sector headwinds for auto.",
+   "price_since": {
+    "ticker": "F",
+    "pct": 0.6,
+    "base": 13.88,
+    "last": 13.97,
+    "base_date": "2026-09-10",
+    "last_date": "2026-09-11"
+   }
   },
   {
    "date": "2026-09-09T23:24:22Z",
@@ -2370,6 +2650,91 @@
    "reason": "Memory chip stocks (MU, SNDK, STX, WDC) extend slide; sector weakness."
   },
   {
+   "date": "2026-09-04T22:27:05.922Z",
+   "platform": "Truth Social",
+   "text": "WHITE HOUSE PRESS RELEASE \u2014 Made in America: Manufacturing, Private Hiring Power Explosive August Jobs Report:https://www.whitehouse.gov/releases/2026/09/made-in-america-manufacturing-private-hiring-power-explosive-august-jobs-report/",
+   "tickers": [
+    "SPY"
+   ],
+   "engagement": 12870,
+   "url": "https://truthsocial.com/@realDonaldTrump/117215122287615906",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "SPY",
+   "strength": 55,
+   "reason": "Jobs report beats expectations; economic strength implies broad market tailwind, though macro read not explicit."
+  },
+  {
+   "date": "2026-09-04T22:26:40.238Z",
+   "platform": "Truth Social",
+   "text": "GREAT NEWS! Our THRIVING Economy added 162 THOUSAND Jobs in August, in honor of our Great American Workers who we celebrate this (and every!) Labor Day. This strong number is nearly TRIPLE the predictions of the Bloomberg survey's so-called \"Economists,\" who continue to suffer from Trump Derangement Syndrome. The effects of the Trump Boom can be seen across many Industries.\u00a0My Administration's Fair Trade Policies, using a wonderful tool called \"TARIFFS,\" have reset the Global Economy, bringing Manufacturing Jobs BACK to America, like never before. Factory Construction is BOOMING as Companies take advantage of FULL EXPENSING \u2014 One year deduction. Before long, these Factories will be teeming with red, white, and blue-blooded AMERICAN Workers! President DONALD J. TRUMP",
+   "tickers": [
+    "SPY"
+   ],
+   "engagement": 15138,
+   "url": "https://truthsocial.com/@realDonaldTrump/117215120604420966",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "SPY",
+   "strength": 60,
+   "reason": "Trump touts strong jobs, tariff policy reset, manufacturing surge; broadly bullish on economy and equities, no single ticker."
+  },
+  {
+   "date": "2026-09-04T16:30:20.102Z",
+   "platform": "Truth Social",
+   "text": "How crazy is this? We just got GREAT Numbers on Jobs, the Market should go UP, because our Credit and Economy are better but, as always, for the past 25 years, the Stock Market goes DOWN, because we're living under False Reality that if things are good, you've got to \"KILL IT\" because of a \"fear\" of Inflation. It should be the opposite, and always was until 25 years ago. If we stay with this Theory, we will never be able to have the True Economic Greatness for our Country that it deserves, because every time we do well, the stupid people want to immediately stop this Great Upward Momentum. GROWTH DOES NOT CAUSE INFLATION! I knew this morning as soon as I looked at these fantastic Job Numbers that the Market would go down when it should be going UP like a Rocketship. We should be doing GDP of 15 and 20%, not 2, 3, and 4%, and America should become Far Greater Financially than it is right now. Our Debt would be paid off, and all of these other things would happen. Remember, every point in the Interest Rate costs the U.S. 650 Billion Dollars a year. We should pay the Lowest Interest Rates in the World because we make everything run, and give otherwise failed countries Great Economic Wealth! Thank you for your attention to this matter. President DONALD J. TRUMP",
+   "tickers": [
+    "SPY"
+   ],
+   "engagement": 13096,
+   "url": "https://truthsocial.com/@realDonaldTrump/117213719435854140",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "SPY",
+   "strength": 45,
+   "reason": "Trump confused on rate-growth dynamic; argues market should rise on good data but typically falls due to inflation fears; ambiguous directional read."
+  },
+  {
+   "date": "2026-09-04T13:41:46.774Z",
+   "platform": "Truth Social",
+   "text": "Great jobs number just announced, breaking all estimates (except mine!) by double and triple - And you haven't seen anything yet! EMPLOYERS ADDED 162,000 JOB IN AUGUST. Lower the interest rates because the U.S.A. is a much stronger credit than it was just a short time ago! A STRONG COUNTRY MEANS A LOWER INTEREST RATE - IT'S A BETTER CREDIT\u2026Very simple! We should have the LOWEST RATE of any country in the World, like \"the old days.\" Without the United States agreeing to allow them their big surpluses, and we could stop that immediately, they would no longer be considered financially ELITE! LOWER THE RATE OR I'LL STOP TRADING WITH COUNTRIES WITH WHICH WE HAVE A DEFICIT, which the U.S. Supreme Court, in its ridiculous and very costly Tariff decision, strongly acknowledged \"the President\" has an absolute right to do. IT'S BETTER THAN TARIFFS! The Fed Board, with its great new leader, must get smart - BE PATRIOTS for a change. High interest rates put the U.S.A. at a very unfair disadvantage, and I won't allow that to happen! President DONALD J. TRUMP",
+   "tickers": [
+    "SPY"
+   ],
+   "engagement": 26430,
+   "url": "https://truthsocial.com/@realDonaldTrump/117213056648777213",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "SPY",
+   "strength": 65,
+   "reason": "Strong jobs beat, explicit call for lower rates citing strong credit; bullish on growth and rate relief, market-moving macro signal."
+  },
+  {
+   "date": "2026-09-03T14:56:21.515Z",
+   "platform": "Truth Social",
+   "text": "For the treasonous SCUM that refuses to accurately report on our Military Operation in Iran, we have virtually unlimited amounts of Mid to High Grade Ammunition, far more than we could ever use for this, or for any other War (which is highly unlikely!), that could improbably take place. In addition, we are producing Munitions at levels never seen before. We are stockpiling and preparing for any contingency that could happen. We are taking them for ourselves, the U.S.A., rather than selling them to others, but the sales to Allies will soon again, begin. Also, please let it be known, that the Biden Administration gave far more Munitions away to Ukraine, at no cost to them, whatsoever, than we have used in Iran. Hundreds of Billions of Dollars was given to Ukraine and NATO, free of charge, that Europe would have paid for \u2014 If they were only asked, but we will be asking for that money, though somewhat belatedly! Thank you for your attention to this matter. President DONALD J. TRUMP",
+   "tickers": [
+    "XLE"
+   ],
+   "engagement": 32894,
+   "url": "https://truthsocial.com/@realDonaldTrump/117207687594983323",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "XLE",
+   "strength": 50,
+   "reason": "Military posture in Iran, munitions production surge, potential for defense/energy sector spending uptick; defense & energy relevant but vague."
+  },
+  {
    "curated": true,
    "classified": true,
    "is_market": true,
@@ -2422,6 +2787,193 @@
    "reason": "Trump's majority-owned stock debuts \u2014 pure sentiment play, extremely volatile and headline-driven.",
    "market_reaction": "DJT spiked on debut then stayed volatile, moving heavily on Trump political/legal news.",
    "url": "https://www.nasdaq.com/market-activity/stocks/djt"
+  },
+  {
+   "date": "2021-07-01T12:00:00Z",
+   "platform": "Federal contract",
+   "text": "HARRIS CORPORATION was awarded a $2.2B federal contract from Department of Transportation.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_693KA821F00222_6920_DTFA0102D03006_6920",
+   "tickers": [
+    "HRS"
+   ],
+   "contract_amount": 2.19,
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "HRS",
+   "strength": 85,
+   "reason": "Harris Corporation awarded $2.2B DOT federal contract; large defense/aerospace contractor bullish signal."
+  },
+  {
+   "date": "2020-05-13T12:00:00Z",
+   "platform": "Federal contract",
+   "text": "SPACE EXPLORATION TECHNOLOGIES CORP. was awarded a $3.2B federal contract from National Aeronautics and Space Administration.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_80MSFC20C0034_8000_-NONE-_-NONE-",
+   "tickers": [
+    "SPACE"
+   ],
+   "contract_amount": 3.21,
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "SPACE",
+   "strength": 85,
+   "reason": "SpaceX awarded $3.2B NASA contract; major aerospace/defense win, bullish for space sector."
+  },
+  {
+   "date": "2019-10-16T12:00:00Z",
+   "platform": "Federal contract",
+   "text": "THE BOEING COMPANY was awarded a $2.7B federal contract from National Aeronautics and Space Administration.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_80MSFC20C0052_8000_-NONE-_-NONE-",
+   "tickers": [
+    "BA"
+   ],
+   "contract_amount": 2.74,
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "BA",
+   "strength": 85,
+   "reason": "Boeing awarded $2.7B NASA contract; significant defense/aerospace contract bullish for BA."
+  },
+  {
+   "date": "2019-06-19T12:00:00Z",
+   "platform": "Federal contract",
+   "text": "GENERAL DYNAMICS INFORMATION TECHNOLOGY, INC. was awarded a $1.8B federal contract from Department of State.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_19AQMM18C0185_1900_-NONE-_-NONE-",
+   "tickers": [
+    "GD"
+   ],
+   "contract_amount": 1.78,
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "GD",
+   "strength": 85,
+   "reason": "General Dynamics IT awarded $1.8B State Dept contract; defense contractor significant contract win."
+  },
+  {
+   "date": "2015-09-03T12:00:00Z",
+   "platform": "Federal contract",
+   "text": "NORTHROP GRUMMAN SYSTEMS CORPORATION was awarded a $1.7B federal contract from National Aeronautics and Space Administration.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_NNH15CN76C_8000_-NONE-_-NONE-",
+   "tickers": [
+    "NOC"
+   ],
+   "contract_amount": 1.67,
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "NOC",
+   "strength": 85,
+   "reason": "Northrop Grumman awarded $1.7B NASA contract; major defense/aerospace contractor bullish signal."
+  },
+  {
+   "date": "2011-12-23T12:00:00Z",
+   "platform": "Federal contract",
+   "text": "LEIDOS, INC. was awarded a $3.1B federal contract from National Science Foundation.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_NSFDACS1219442_4900_-NONE-_-NONE-",
+   "tickers": [
+    "LDOS"
+   ],
+   "contract_amount": 3.13,
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "LDOS",
+   "strength": 85,
+   "reason": "Leidos awarded $3.1B NSF contract; defense/tech contractor significant contract win."
+  },
+  {
+   "date": "2008-07-25T12:00:00Z",
+   "platform": "Federal contract",
+   "text": "HARRIS CORPORATION was awarded a $1.6B federal contract from Department of Transportation.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_DTFA0102D03006CALL0001_6920_DTFA0102D03006_6920",
+   "tickers": [
+    "HRS"
+   ],
+   "contract_amount": 1.58,
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "HRS",
+   "strength": 85,
+   "reason": "Harris Corporation awarded $1.6B DOT contract; additional major federal contract for defense contractor."
+  },
+  {
+   "date": "2007-09-01T12:00:00Z",
+   "platform": "Federal contract",
+   "text": "THE BOEING COMPANY was awarded a $10.5B federal contract from National Aeronautics and Space Administration.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_NNM07AB03C_8000_-NONE-_-NONE-",
+   "tickers": [
+    "BA"
+   ],
+   "contract_amount": 10.52,
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "BA",
+   "strength": 90,
+   "reason": "Boeing awarded $10.5B NASA contract; largest contract, major bullish signal for aerospace leader."
+  },
+  {
+   "date": "2006-04-17T12:00:00Z",
+   "platform": "Federal contract",
+   "text": "NORTHROP GRUMMAN SYSTEMS CORPORATION was awarded a $4.4B federal contract from National Aeronautics and Space Administration.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_NNM07AA75C_8000_-NONE-_-NONE-",
+   "tickers": [
+    "NOC"
+   ],
+   "contract_amount": 4.43,
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "NOC",
+   "strength": 90,
+   "reason": "Northrop Grumman awarded $4.4B NASA contract; large aerospace/defense win, significant contract value."
+  },
+  {
+   "date": "1993-11-15T12:00:00Z",
+   "platform": "Federal contract",
+   "text": "THE BOEING COMPANY was awarded a $22.4B federal contract from National Aeronautics and Space Administration.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_NAS1510000_8000_-NONE-_-NONE-",
+   "tickers": [
+    "BA"
+   ],
+   "contract_amount": 22.44,
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "BA",
+   "strength": 95,
+   "reason": "Boeing awarded $22.4B NASA contract; largest single contract value, major bullish catalyst for aerospace leader."
+  },
+  {
+   "date": "1984-04-30T12:00:00Z",
+   "platform": "Federal contract",
+   "text": "LOCKHEED MARTIN SERVICES, LLC was awarded a $20.6B federal contract from Department of Energy.",
+   "url": "https://www.usaspending.gov/award/CONT_AWD_DEAC0584OR21400_8900_-NONE-_-NONE-",
+   "tickers": [
+    "LMT"
+   ],
+   "contract_amount": 20.65,
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "LMT",
+   "strength": 95,
+   "reason": "Lockheed Martin awarded $20.6B DOE contract; second-largest contract, massive bullish signal for defense giant."
   }
  ],
  "how_to_read": "Each card is Claude's read of a public Trump post: the affected ticker, whether it implies BUY / SELL / WATCH, a 0\u2013100 strength (how explicit/emphatic the post is \u2014 NOT a profit predictor), and why. A 2-year backtest found these don't beat buy-and-hold, so this is for awareness, not trading. Not financial advice."
