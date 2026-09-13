@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-09-13T01:18:31Z",
+ "last_updated": "2026-09-13T06:35:00Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -17,6 +17,38 @@
    "primary_ticker": "SPY",
    "strength": 45,
    "reason": "Iran geopolitical warning creates broad market uncertainty; futures whipsaw suggests two-sided reaction."
+  },
+  {
+   "date": "2026-09-12T18:31:11Z",
+   "platform": "News",
+   "text": "Trump Says After Iran, US May Turn Its Attention To Cuba: Report - Stocktwits \u2014 Trump Says After Iran, US May Turn Its Attention To Cuba: Report\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQWZ4TldDMUd6TUpfRWZzZFdHSmNPQ19WdUVQaFl0UWR6dHZwZnA2cUFHUVRpU3cxenFXOVFSaEg1SVc5UWZCMlFLWWtjaEhVMVlFWXhwNjdmN1RZU0NrejZWN29oOXVIS2dzejA1WVhVUDhsOVhWVG84dk9KZ1JFdC1ZWmxmbDFFVGZYNnR5T2JwTGZBZGZFTWxCWWFTc1JUQ0F5VTNCelYwd1psZkoxOG5jNEp1OUg2bDNTbzZOTnE1OGFw?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "SPY",
+   "strength": 35,
+   "reason": "Cuba escalation threat; geopolitical tension adds macro uncertainty and downside risk."
+  },
+  {
+   "date": "2026-09-12T18:03:41Z",
+   "platform": "News",
+   "text": "Citi Stock Hits 52-Week High Before Fading As Trump Lauds Bank's 'Big Comeback' In M&A \u2014 But Full Picture Has Changed Now - Stocktwits \u2014 Citi Stock Hits 52-Week High Before Fading As Trump Lauds Bank's 'Big Comeback' In M&A \u2014 But Full Picture Has Changed Now\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWUpacUZnX014SV9nTnRZbVQ0dWhFQlZiV3ZjLV9nWExYUjVMdmlZdkdoNnFLcUhZUEhuZ1k3a2JENWJrYkhqdjJqNFlLaVlVYzBRb3dJOFA2Q1dESmhCTVJnQXJJaU15VjVFUFo2cWJDOEx3QTIzN0NSQjExRWhRZlNLaDFXeEZMQ0poajdjbGhmNlhPd1ZQSnVOSmNVa0pVTF94Z1RVdXlSU2JrR0N3X2dHSENINjZHNWdTYzB1dEZPaERK?oc=5",
+   "tickers": [
+    "C"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "C",
+   "strength": 60,
+   "reason": "Trump explicitly praises Citigroup's 'big comeback' in M&A; direct positive company signal."
   },
   {
    "date": "2026-09-12T17:18:39Z",
@@ -51,7 +83,7 @@
    "reason": "$19B Anthropic lease commitment to WULF data center bullish despite short-term stock weakness."
   },
   {
-   "date": "2026-09-12T15:09:09Z",
+   "date": "2026-09-12T15:38:33Z",
    "platform": "News",
    "text": "TSLA Stock Eyes Weekly Loss: Retail Investors Grill Musk On Missed Robotaxi Targets Ahead Of Q2 Earnings - Stocktwits \u2014 TSLA Stock Eyes Weekly Loss: Retail Investors Grill Musk On Missed Robotaxi Targets Ahead Of Q2 Earnings\u00a0\u00a0Stocktwits",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPc2VqM1JQbmZfbWdMR2gzRDc3QUo0MUhJaUtBVFQ4TjBvR1dja1lnekNnakVnVmJmb2k5M0JJeGdSVGFPdDBodDZTa3JjOHB1TXR5Mm1PQzZLQXczdGl1TUEwV2V0dnRCaXc3Q2FGQ1BRMkd1MkFaUlM4SlcxVW9KT081TG1xTjdHa2NsN0VaOUh5QVQ2dGZ3X0cteE1YYS1OTHlsck5ldHlycl8zRVE?oc=5",
@@ -61,10 +93,10 @@
    "classified": true,
    "is_market": true,
    "explicit": false,
-   "direction": "WATCH",
+   "direction": "SELL",
    "primary_ticker": "TSLA",
-   "strength": 40,
-   "reason": "Tesla earnings jitters and missed robotaxi targets; not Trump-specific but he owns significant stake via wealth."
+   "strength": 45,
+   "reason": "Tesla earnings concern; retail criticism of robotaxi delays and missed targets."
   },
   {
    "date": "2026-09-12T14:04:04Z",
@@ -2502,22 +2534,6 @@
    "primary_ticker": "USO",
    "strength": 70,
    "reason": "Iranian blockade reinstatement with 20% cargo tax restricts oil flow through Strait of Hormuz; bearish for oil supply and energy prices on geopolitical escalation"
-  },
-  {
-   "date": "2026-09-07T01:20:29Z",
-   "platform": "News",
-   "text": "Citi Stock Hits 52-Week High Before Fading As Trump Lauds Bank's 'Big Comeback' In M&A \u2014 But Full Picture Has Changed Now - Stocktwits \u2014 Citi Stock Hits 52-Week High Before Fading As Trump Lauds Bank's 'Big Comeback' In M&A \u2014 But Full Picture Has Changed Now\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWUpacUZnX014SV9nTnRZbVQ0dWhFQlZiV3ZjLV9nWExYUjVMdmlZdkdoNnFLcUhZUEhuZ1k3a2JENWJrYkhqdjJqNFlLaVlVYzBRb3dJOFA2Q1dESmhCTVJnQXJJaU15VjVFUFo2cWJDOEx3QTIzN0NSQjExRWhRZlNLaDFXeEZMQ0poajdjbGhmNlhPd1ZQSnVOSmNVa0pVTF94Z1RVdXlSU2JrR0N3X2dHSENINjZHNWdTYzB1dEZPaERK?oc=5",
-   "tickers": [
-    "C"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "C",
-   "strength": 70,
-   "reason": "Trump explicitly praises Citi's M&A comeback; direct named-company praise drives bullish signal"
   },
   {
    "date": "2026-09-07T01:20:29Z",
