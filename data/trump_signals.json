@@ -1,9 +1,9 @@
 {
- "last_updated": "2026-09-13T21:22:38Z",
+ "last_updated": "2026-09-13T23:20:38Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
-   "date": "2026-09-13T20:03:03Z",
+   "date": "2026-09-13T23:03:03Z",
    "platform": "News",
    "text": "Trump resists AI slowdown as the political tide turns - The Washington Post \u2014 Trump resists AI slowdown as the political tide turns\u00a0\u00a0The Washington Post",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUC1sNlREa2ZpZmZkaklBb3dodW5GQV95czZiNVJCYXlhNlQxQXdpQ0pEWU5vZ3FsUVVEMzh0eUt1UVN0LXNvM2U5N0wtNVVkclVPbmRYZHBzanliXzhJMXZaUGp6MGthbWNoVUg2T3VSeFlIeVdNOFpwbmdrNkJZcENKd3ptaTVvakRlSDJWNUlMa1lOSG1MQkhzeHdVMXBYTVQ3ZHRRUXUwbkktZVAwRGFZZERhZk5rSEJudzhR?oc=5",
@@ -15,8 +15,24 @@
    "explicit": false,
    "direction": "BUY",
    "primary_ticker": "QQQ",
+   "strength": 65,
+   "reason": "Trump resists AI slowdown, implying pro-growth AI policy favorable to tech sector"
+  },
+  {
+   "date": "2026-09-13T18:46:00Z",
+   "platform": "News",
+   "text": "Ex-Trump adviser backs self-imposed AI slowdown, rejects \u2018cartel\u2019 framework - Washington Examiner \u2014 Ex-Trump adviser backs self-imposed AI slowdown, rejects \u2018cartel\u2019 framework\u00a0\u00a0Washington Examiner",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPczYyX3RrZ3FCb1lDM01LOHZFS2JSVGl5WmdmUjYxTU4ya3lWUldxRm5pOUhqWnVQVnlSd2wzOHZjY1BaZmtRN2Q0emVGWTk3YUNoVDRTMERCUlZZX0hkUVVEWlhYOERualc3am14VjNTVTlLRXNsVXJEWTZ6YzJfMEFoM0pNNzRBVmxwTG5CS0tkN1RTSmFMc21TMWFUOHhFeDlmaFlKLTFYNzg4TlJFOFlB?oc=5",
+   "tickers": [
+    "QQQ"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "QQQ",
    "strength": 45,
-   "reason": "Trump resists AI slowdown; implies pro-AI deregulation, bullish for tech sector"
+   "reason": "Conflicting signals: ex-adviser backs AI slowdown while Trump resists; ambiguous direction for AI sector"
   },
   {
    "date": "2026-09-13T18:42:59Z",
@@ -339,6 +355,22 @@
    "reason": "Trump explicitly praises Citigroup's 'big comeback' in M&A; direct positive company signal."
   },
   {
+   "date": "2026-09-12T18:03:41Z",
+   "platform": "News",
+   "text": "Citi Stock Hits 52-Week High Before Fading As Trump Lauds Bank's 'Big Comeback' In M&A \u2014 But Full Picture Has Changed Now - stocktwits.com \u2014 Citi Stock Hits 52-Week High Before Fading As Trump Lauds Bank's 'Big Comeback' In M&A \u2014 But Full Picture Has Changed Now\u00a0\u00a0stocktwits.com",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWUpacUZnX014SV9nTnRZbVQ0dWhFQlZiV3ZjLV9nWExYUjVMdmlZdkdoNnFLcUhZUEhuZ1k3a2JENWJrYkhqdjJqNFlLaVlVYzBRb3dJOFA2Q1dESmhCTVJnQXJJaU15VjVFUFo2cWJDOEx3QTIzN0NSQjExRWhRZlNLaDFXeEZMQ0poajdjbGhmNlhPd1ZQSnVOSmNVa0pVTF94Z1RVdXlSU2JrR0N3X2dHSENINjZHNWdTYzB1dEZPaERK?oc=5",
+   "tickers": [
+    "C"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "C",
+   "strength": 55,
+   "reason": "Trump directly lauds Citigroup's M&A comeback; explicit praise of named bank"
+  },
+  {
    "date": "2026-09-12T17:18:39Z",
    "platform": "News",
    "text": "MU, SNDK, STX, WDC Stocks Extend Slide Overnight As Memory Pump Fades: Retail Traders Hopeful For Rebound - Stocktwits \u2014 MU, SNDK, STX, WDC Stocks Extend Slide Overnight As Memory Pump Fades: Retail Traders Hopeful For Rebound\u00a0\u00a0Stocktwits",
@@ -403,9 +435,9 @@
    "reason": "Eric Trump's bullish bitcoin call signals family confidence in crypto upside",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": 0.2,
+    "pct": -0.9,
     "base": 77270.47,
-    "last": 77387.99,
+    "last": 76592.62,
     "base_date": "2026-09-12",
     "last_date": "2026-09-13"
    }
@@ -427,9 +459,9 @@
    "reason": "Eric Trump bullish call on Bitcoin to $1M signals Trump-family confidence in crypto upside.",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": 0.2,
+    "pct": -0.9,
     "base": 77270.47,
-    "last": 77387.99,
+    "last": 76592.62,
     "base_date": "2026-09-12",
     "last_date": "2026-09-13"
    }
@@ -2621,175 +2653,6 @@
     "base_date": "2026-09-08",
     "last_date": "2026-09-09"
    }
-  },
-  {
-   "date": "2026-09-07T18:52:24Z",
-   "platform": "News",
-   "text": "Bombardier points out U.S. footprint after Trump says aerospace giant must build in America - CNBC \u2014 Bombardier points out U.S. footprint after Trump says aerospace giant must build in America\u00a0\u00a0CNBC",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMlpueldQaUNhSVFJc2tqWjhZZGdGVzgyWGo3WFBEdUt5c2h6aTY1YW1yTUdHaW03Q3htX3BhVWlfUVZoMU1icE9aTDd3YkJDYjdSWGQ5NE41YkNMMWZGNEZ5REhKeEY4ZHNlYzJ3T3ZlRHJ1N3BSTWpYTmIzVFBhWlg2MmRNUmpsQkpjSlBXSWlUM3BCRGlPc2h5N1kwOFpIZGZwbjBEc1YyRjI1ZmJac0530gG3AUFVX3lxTE9JTm9JNGFYaE1nb2pkdFZ3M25CcThKYUlwd1JpMExKQ0xpQmExZk1FOS16eTFUSDBSajVuRkRsVHZZQ24tbDFweS1WVDBrVEtDXzdWQjktUU82NV9ZcVRxWjMxSDRESkhRWXBCVHVXTmUzY280cU16bmdGdGI2WkVDVlVib2ZDT194ejdlMkxkbEJ4Ni0yeFQxcTVLMS1OZF9DSDg3YnBrZkhVbU42S3JBN0ozVm93TQ?oc=5",
-   "tickers": [
-    "BDRBF"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "SELL",
-   "primary_ticker": "BDRBF",
-   "strength": 70,
-   "reason": "Trump demands Bombardier build in America; regulatory/supply pressure on aerospace company.",
-   "price_since": {
-    "ticker": "BDRBF",
-    "pct": -1.6,
-    "base": 222.6,
-    "last": 219.1,
-    "base_date": "2026-09-08",
-    "last_date": "2026-09-09"
-   }
-  },
-  {
-   "date": "2026-09-07T17:39:29.684Z",
-   "platform": "Truth Social",
-   "text": "NO MORE SELLING BOMBARDIER IN THE UNITED STATES! Their products aren't good enough! Over 50% of their revenue comes from the United States \u2014 They live off American Buyers, American Companies, American Airports, and American Service \u2014 All while Canada blocks our GREAT American Banks, and Companies, throughout the U.S.A. They even blocked Gulfstream Aerospace from doing business in Canada \u2014 Completely unjust and unfair! That Era is OVER! If they want our Market, they must build here, and stop treating America like a \"piggybank.\" BUY AMERICAN. FLY ON AMERICAN AIRLINERS. ENJOY AMERICAN LIQUOR AND BEVERAGES. SAIL ON LAKE AMERICA. AMERICA FIRST! Thank you for your attention to this matter. President DONALD J. TRUMP",
-   "tickers": [
-    "BBD"
-   ],
-   "engagement": 24402,
-   "url": "https://truthsocial.com/@realDonaldTrump/117230978314061095",
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "SELL",
-   "primary_ticker": "BBD",
-   "strength": 75,
-   "reason": "Trump explicitly attacks Bombardier as unworthy, warns of US market exclusion unless they build domestically\u2014bearish for the company.",
-   "price_since": {
-    "ticker": "BBD",
-    "pct": -3.1,
-    "base": 3.55,
-    "last": 3.44,
-    "base_date": "2026-09-08",
-    "last_date": "2026-09-09"
-   }
-  },
-  {
-   "date": "2026-09-07T14:53:45Z",
-   "platform": "News",
-   "text": "Trump Praises ETF Tax Cuts: Potential Ripple Effects on Financial Sector ETFs - TipRanks \u2014 Trump Praises ETF Tax Cuts: Potential Ripple Effects on Financial Sector ETFs\u00a0\u00a0TipRanks",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSXk4aXhWNml5c0QwYk12b2ZGcDBEeERyUEE2dUZTd2FVUVdfS2prMXliRlo4VlJxRUtPVVVxb1FTTG1Fb3RqbjN4dlNtZTJUNjNEY3ZuR2JOZENrLURqaFBqTFl4YzRYRXh6UktCLVNtZmZ3SmFXTy1yMTNFRmUzMU8tUHk5U2ZhWkxGVFhBTDM3RV9mTXNlSnJhRFI0R1RGX3Y1VmV2d1RsTlVTX1NSMFpJc2JLZw?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "SPY",
-   "strength": 35,
-   "reason": "Trump praise for tax cuts is macro-bullish for broad market and financials; vague, indirect signal",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": -0.5,
-    "base": 765.96,
-    "last": 762.05,
-    "base_date": "2026-09-08",
-    "last_date": "2026-09-09"
-   }
-  },
-  {
-   "date": "2026-09-07T14:53:45Z",
-   "platform": "News",
-   "text": "Trump Praises ETF Tax Cuts: Potential Ripple Effects on Financial Sector ETFs - tipranks.com \u2014 Trump Praises ETF Tax Cuts: Potential Ripple Effects on Financial Sector ETFs\u00a0\u00a0tipranks.com",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSXk4aXhWNml5c0QwYk12b2ZGcDBEeERyUEE2dUZTd2FVUVdfS2prMXliRlo4VlJxRUtPVVVxb1FTTG1Fb3RqbjN4dlNtZTJUNjNEY3ZuR2JOZENrLURqaFBqTFl4YzRYRXh6UktCLVNtZmZ3SmFXTy1yMTNFRmUzMU8tUHk5U2ZhWkxGVFhBTDM3RV9mTXNlSnJhRFI0R1RGX3Y1VmV2d1RsTlVTX1NSMFpJc2JLZw?oc=5",
-   "tickers": [
-    "VFV"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "VFV",
-   "strength": 50,
-   "reason": "Trump praises ETF tax cuts; potential bullish signal for financial sector ETFs if policy enacted"
-  },
-  {
-   "date": "2026-09-07T14:17:46Z",
-   "platform": "News",
-   "text": "IBRX Stock Rallies Into Trump\u2019s Big SOTU Night \u2014 Here\u2019s What Traders Think Could Fuel The Next Move - Stocktwits \u2014 IBRX Stock Rallies Into Trump\u2019s Big SOTU Night \u2014 Here\u2019s What Traders Think Could Fuel The Next Move\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWFdFall2YVNMN3Rialp3SE9sU0h6YUQ1MDFiX2JaeXMxNlFFZUZveFU0TkVxUFI4cTQ5bW5VdkFlTDd1dFNwSUN2YTRtRl83aVRRXzZ6d09TeEhlR1NJb1JaMHlMWDhrQXpmZW40c1B1Y21KNjhxdm90Ny1uU3p4MzJZSW9GNGduMEdyRzFIU2RGLWlYWXg4TFJUU0N6ZlhFemxtUmprVXY0YkVRZk5vZHljazQ?oc=5",
-   "tickers": [
-    "IBRX"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "IBRX",
-   "strength": 35,
-   "reason": "Stock rallying ahead of SOTU; direction depends on speech content, not yet determined"
-  },
-  {
-   "date": "2026-09-07T14:09:26Z",
-   "platform": "News",
-   "text": "Trump Claims U.S. Made \u2018Hundreds of Billions\u2019 on Stocks, Offers No Evidence - TipRanks \u2014 Trump Claims U.S. Made \u2018Hundreds of Billions\u2019 on Stocks, Offers No Evidence\u00a0\u00a0TipRanks",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbUFCMU4zSTlHZG80N3hhdXJQZG94azY3NzdLQmF4Zm55NFpYZXNBa0pybVhtMTlsRnhxYlk3VWRtT1ZtZWJqalhzWFJULVdIV0w5UHFHTnNhdEx5Q3EtT1kwNDZsM0FLeG5ySzhtNU5PVmM4bG5TaGZlSU1wMnp1V0dJU1I2UmhoSTcyYWpOa1VaUlhnZHVmTHlYbE5hRmpUZjBn?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "SPY",
-   "strength": 25,
-   "reason": "Trump claims market gains; weak signal since unverified claim with no new policy catalyst"
-  },
-  {
-   "date": "2026-09-07T11:06:20Z",
-   "platform": "News",
-   "text": "Trump says he's made 'Hundreds of Billions of Dollars on Stocks' for the U.S., in stream of AI posts - CNBC \u2014 Trump says he's made 'Hundreds of Billions of Dollars on Stocks' for the U.S., in stream of AI posts\u00a0\u00a0CNBC",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZk9UZ1N2d2pack13Um5mcUNYOXFSMFE4elo0Rnh1UVZLU21RZGhKbWlFZHRvWVdhS3lwUVZabDZtR000VFZ6bWJMcWJ4OWxLUkc1REl1N0VfcTJOLURZSVNReUtnYWRRc1VZaThaRW82czU4VDc3M3prY2l4VnFiYThiTVI2UdIBiwFBVV95cUxQWWo4RjNJbmtRQlY3S0x6Rnc3WUo4T2t6TmVXODB2WEVfUmlrb0U0UnlFYnpWbDNDYmFIZ1NyNnlna2Y1Wng2dW5oeXFvM3E1ZzUtQm9LbWNCSW9nWjBfMGU3Rl82ZjJZbHFHSUZvd1NJLTU5bEhUTXZnbkE4SEtMTlJ6Um42akZrVjk0?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "SPY",
-   "strength": 25,
-   "reason": "Trump touts market gains in AI posts; vague macro bullishness but no concrete actionable catalyst"
-  },
-  {
-   "date": "2026-09-07T10:48:31Z",
-   "platform": "News",
-   "text": "Trump boasts about making billions since returning to office: \u2018I\u2019m doing it for the country, not me\u2019 - Newswav \u2014 Trump boasts about making billions since returning to office: \u2018I\u2019m doing it for the country, not me\u2019\u00a0\u00a0Newswav",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNREpmcGM2TXNNbHRfc0xZWUU1bkFrSFJHTnpTNkY2UGlWMmc1Q2pfUG45UURVRWMzaS1wQlhMLVdoYm9kQXp5V0hSQmxqenViSHA5UUsyTU5qVnlrUW5veC1IOVd5cDd3QTdCUlQzeGMzWGNKZlEwaFV1N1g1cWJ5THFNY24xR0ZIUjZoZjIwYURSeVBHQkcxa2VwNmxlajdBZmNBOHFvVmk4d3NnZGZGVy1XY3dEcE0?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "SPY",
-   "strength": 30,
-   "reason": "Trump boasts market returns under his administration; general market sentiment claim without concrete near-term catalyst."
-  },
-  {
-   "date": "2026-09-07T08:40:04Z",
-   "platform": "News",
-   "text": "CRML, UUUU, USAR, ALOY, GLND: Greenland\u2019s Rare-Earth Trade Draws Investors As Trump Revives Arctic Ambitions - stocktwits.com \u2014 CRML, UUUU, USAR, ALOY, GLND: Greenland\u2019s Rare-Earth Trade Draws Investors As Trump Revives Arctic Ambitions\u00a0\u00a0stocktwits.com",
-   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPS2w5bklfdmlQVG1ZZDgtRGo5QnlTdW5FZ3dWdnh3aGhJU1FoVHk3aW0tSUU5eDB3bmptb21TSmZvbkZSR2pDR0QydXJFNGV3MFVZWDRxV0YxYkV5R1FtVlVza1B0NU9teWNCN053QU1mNzJXbE83T1E1UElUN1VTZGpqOFBmLUJlbGJZYnRDYy1mYWpYY0dpNFh2OE01SnM1ZnRBall0MFVJTE9DcFJoRnR0NXd3cTQzZnhsdENCM2xrVm1HN00zYUQxRG1ScFo5U19TWG1rcDVuXzEteEhHVzhFQlNmeVhRZXF5UktfSkhYQ2IxNE9iVg?oc=5",
-   "tickers": [
-    "UUUU"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "UUUU",
-   "strength": 55,
-   "reason": "Greenland rare-earth ambitions revival signals demand for uranium and rare-earth mining stocks; bullish on Arctic trade policy pivot"
   },
   {
    "curated": true,
