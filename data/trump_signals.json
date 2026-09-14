@@ -1,9 +1,9 @@
 {
- "last_updated": "2026-09-13T23:20:38Z",
+ "last_updated": "2026-09-14T01:24:13Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
-   "date": "2026-09-13T23:03:03Z",
+   "date": "2026-09-14T00:43:51Z",
    "platform": "News",
    "text": "Trump resists AI slowdown as the political tide turns - The Washington Post \u2014 Trump resists AI slowdown as the political tide turns\u00a0\u00a0The Washington Post",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUC1sNlREa2ZpZmZkaklBb3dodW5GQV95czZiNVJCYXlhNlQxQXdpQ0pEWU5vZ3FsUVVEMzh0eUt1UVN0LXNvM2U5N0wtNVVkclVPbmRYZHBzanliXzhJMXZaUGp6MGthbWNoVUg2T3VSeFlIeVdNOFpwbmdrNkJZcENKd3ptaTVvakRlSDJWNUlMa1lOSG1MQkhzeHdVMXBYTVQ3ZHRRUXUwbkktZVAwRGFZZERhZk5rSEJudzhR?oc=5",
@@ -15,8 +15,8 @@
    "explicit": false,
    "direction": "BUY",
    "primary_ticker": "QQQ",
-   "strength": 65,
-   "reason": "Trump resists AI slowdown, implying pro-growth AI policy favorable to tech sector"
+   "strength": 45,
+   "reason": "Trump resists AI slowdown, bullish for AI/tech sector growth"
   },
   {
    "date": "2026-09-13T18:46:00Z",
@@ -211,6 +211,22 @@
    "reason": "TSLA eyes weekly loss on missed robotaxi targets; company-specific weakness"
   },
   {
+   "date": "2026-09-13T03:47:43Z",
+   "platform": "News",
+   "text": "Top AI leaders unite to warn the technology is advancing too fast - The Washington Post \u2014 Top AI leaders unite to warn the technology is advancing too fast\u00a0\u00a0The Washington Post",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTk40dU5BRzRyeUN1ajlFb0Zfb053UXBaZTdiMlJZejJIOVhKWGc3Y3RuV3I3UHUwV0hQWjZ6c0NBOWV5cXA5V1JoQ0p2SjBObmhjWlB1UUJZWkdTUnBFb284bFN0Q2RSOTZMcjJHUnM5Q3ZfMkdZcHo0ZTNYem16WlJzSGVOd1dqRXdPV0RmZjBVM1BVRnM3M19sYlFDSy1QcE1YOGkzZjhiQlFl?oc=5",
+   "tickers": [
+    "QQQ"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "QQQ",
+   "strength": 35,
+   "reason": "AI leaders warn tech advancing too fast, regulatory/slowdown risk for AI/tech sector"
+  },
+  {
    "date": "2026-09-13T01:04:12Z",
    "platform": "News",
    "text": "Charles Payne praises 'phenomenal' blue-collar boom under Trump - Fox News \u2014 Charles Payne praises 'phenomenal' blue-collar boom under Trump\u00a0\u00a0Fox News",
@@ -257,6 +273,22 @@
    "primary_ticker": "DOCN",
    "strength": 55,
    "reason": "DOCN strong Q2 numbers and AI customer wins; company-specific positive catalyst"
+  },
+  {
+   "date": "2026-09-12T21:03:33Z",
+   "platform": "News",
+   "text": "CRML, UUUU, USAR, ALOY, GLND: Greenland\u2019s Rare-Earth Trade Draws Investors As Trump Revives Arctic Ambitions - Stocktwits \u2014 CRML, UUUU, USAR, ALOY, GLND: Greenland\u2019s Rare-Earth Trade Draws Investors As Trump Revives Arctic Ambitions\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPS2w5bklfdmlQVG1ZZDgtRGo5QnlTdW5FZ3dWdnh3aGhJU1FoVHk3aW0tSUU5eDB3bmptb21TSmZvbkZSR2pDR0QydXJFNGV3MFVZWDRxV0YxYkV5R1FtVlVza1B0NU9teWNCN053QU1mNzJXbE83T1E1UElUN1VTZGpqOFBmLUJlbGJZYnRDYy1mYWpYY0dpNFh2OE01SnM1ZnRBall0MFVJTE9DcFJoRnR0NXd3cTQzZnhsdENCM2xrVm1HN00zYUQxRG1ScFo5U19TWG1rcDVuXzEteEhHVzhFQlNmeVhRZXF5UktfSkhYQ2IxNE9iVg?oc=5",
+   "tickers": [
+    "UUUU"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "UUUU",
+   "strength": 65,
+   "reason": "Trump Arctic/Greenland ambitions revive rare-earth and uranium demand; UUUU (uranium) most liquid direct play"
   },
   {
    "date": "2026-09-12T19:17:29Z",
@@ -435,11 +467,11 @@
    "reason": "Eric Trump's bullish bitcoin call signals family confidence in crypto upside",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": -0.9,
+    "pct": -0.7,
     "base": 77270.47,
-    "last": 76592.62,
+    "last": 76732.54,
     "base_date": "2026-09-12",
-    "last_date": "2026-09-13"
+    "last_date": "2026-09-14"
    }
   },
   {
@@ -459,11 +491,11 @@
    "reason": "Eric Trump bullish call on Bitcoin to $1M signals Trump-family confidence in crypto upside.",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": -0.9,
+    "pct": -0.7,
     "base": 77270.47,
-    "last": 76592.62,
+    "last": 76732.54,
     "base_date": "2026-09-12",
-    "last_date": "2026-09-13"
+    "last_date": "2026-09-14"
    }
   },
   {
@@ -577,22 +609,6 @@
    "primary_ticker": "IBRX",
    "strength": 45,
    "reason": "Trump diplomacy credited with cancer drug regulatory/approval success; implied tailwind for biotech company"
-  },
-  {
-   "date": "2026-09-12T03:17:52Z",
-   "platform": "News",
-   "text": "CRML, UUUU, USAR, ALOY, GLND: Greenland\u2019s Rare-Earth Trade Draws Investors As Trump Revives Arctic Ambitions - Stocktwits \u2014 CRML, UUUU, USAR, ALOY, GLND: Greenland\u2019s Rare-Earth Trade Draws Investors As Trump Revives Arctic Ambitions\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPS2w5bklfdmlQVG1ZZDgtRGo5QnlTdW5FZ3dWdnh3aGhJU1FoVHk3aW0tSUU5eDB3bmptb21TSmZvbkZSR2pDR0QydXJFNGV3MFVZWDRxV0YxYkV5R1FtVlVza1B0NU9teWNCN053QU1mNzJXbE83T1E1UElUN1VTZGpqOFBmLUJlbGJZYnRDYy1mYWpYY0dpNFh2OE01SnM1ZnRBall0MFVJTE9DcFJoRnR0NXd3cTQzZnhsdENCM2xrVm1HN00zYUQxRG1ScFo5U19TWG1rcDVuXzEteEhHVzhFQlNmeVhRZXF5UktfSkhYQ2IxNE9iVg?oc=5",
-   "tickers": [
-    "UUUU"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "UUUU",
-   "strength": 55,
-   "reason": "Trump Arctic/Greenland ambitions revive rare-earth and uranium trade; uranium ETF/producers benefit"
   },
   {
    "date": "2026-09-12T03:16:26Z",
@@ -2601,55 +2617,6 @@
     "pct": -2.6,
     "base": 253.27,
     "last": 246.7,
-    "base_date": "2026-09-08",
-    "last_date": "2026-09-09"
-   }
-  },
-  {
-   "date": "2026-09-07T21:35:50.447Z",
-   "platform": "Truth Social",
-   "text": "US producer prices post largest drop in 14 months; inflation risks still tilted to the upside: https://www.reuters.com/business/us-producer-prices-unexpectedly-fall-june-2026-07-15/",
-   "tickers": [
-    "SPY"
-   ],
-   "engagement": 2608,
-   "url": "https://truthsocial.com/@realDonaldTrump/117231907664551152",
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "SPY",
-   "strength": 45,
-   "reason": "Deflation signal mixed with upside inflation risks; macro economic data suggests market uncertainty.",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": -0.5,
-    "base": 765.96,
-    "last": 762.4,
-    "base_date": "2026-09-08",
-    "last_date": "2026-09-09"
-   }
-  },
-  {
-   "date": "2026-09-07T21:31:30Z",
-   "platform": "News",
-   "text": "Micron stock falls 2% as tariff fears overshadow AI memory demand - scanx.trade \u2014 Micron stock falls 2% as tariff fears overshadow AI memory demand\u00a0\u00a0scanx.trade",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQc3B4QnkwQ3JpWlRLMUxKMS1nS3EtTS1SS0lXeUtWU2U3R00tY0d2VjYyelRZSTFWVU5ud2tGdWJQNEM2NEtHazVrTlZ2b0ktN29FX0R0T0Zwc2xPSmt1WUxzQVVERmkyMzY1d3h2UHJuSmRyWW5fR0NkMkxIQVNKZ2pYRW5jNjFPd1hJcTk4QklSazNMdXBIdDBqbmhlbjh2b081Rk4wajNydWVTYXMw?oc=5",
-   "tickers": [
-    "MU"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "MU",
-   "strength": 45,
-   "reason": "Tariff fears cited as headwind for semiconductor memory; bearish sector read on trade policy risk",
-   "price_since": {
-    "ticker": "MU",
-    "pct": 2.8,
-    "base": 1000.26,
-    "last": 1027.77,
     "base_date": "2026-09-08",
     "last_date": "2026-09-09"
    }
