@@ -1,7 +1,71 @@
 {
- "last_updated": "2026-09-14T06:46:18Z",
+ "last_updated": "2026-09-14T13:41:52Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-09-14T12:50:37Z",
+   "platform": "News",
+   "text": "Global AI Stocks Fall As Industry Chiefs Call For Slowing Development - HuffPost \u2014 Global AI Stocks Fall As Industry Chiefs Call For Slowing Development\u00a0\u00a0HuffPost",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNER4amh3Q3dodkNnSDJuUGtKdzZDcjM3RlpxM1B2cy1WSWJveDJ5RW9aLTVmYmZ4V2FVcy1DYl9iREVYT20wb2J5cTNJNWhEMWVXVjdZRmtfZHBpbVpnYktMeGRncjNTUkRDWnE5cnRDT0RxdDJEeTJEZFh5TlhfcFBKTU41M2VN0gGOAUFVX3lxTFBqd25qNFdjSV9LT0VvWXU0Z2w3TWZKVGJsLV9ja0JET2VaRENpa01Fd3ZRMXYxdFl3LTN2aC1EU29hUWJZRlFsZzJXUWVkOG5vSzRYbGU5dDl0U0dpNDZXbUw3U1BWRGdvamxwQUYxTnRrSmFfNjFjd3lPY2VSMzRFdlZybTRKLWt3eGMxbmc?oc=5",
+   "tickers": [
+    "QQQ"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "QQQ",
+   "strength": 45,
+   "reason": "AI sector concerns -> tech stocks down"
+  },
+  {
+   "date": "2026-09-14T12:37:45Z",
+   "platform": "News",
+   "text": "Tech Stocks Shudder in Response to Calls to Slow A.I. Progress - The New York Times \u2014 Tech Stocks Shudder in Response to Calls to Slow A.I. Progress\u00a0\u00a0The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4teEhEV3lFNEY0RGNiYTR1LWZ2TFlya2dVeGZaS2JkSEhtWnBpQmRIU2FzT2YyY1V0TnNGMXZwYXlQZzlyWDRMY2Q0QVBnVUgybW5mRzEyazNjZl84WEFSai1nTnFtUGJDV2dhNWV2NS0?oc=5",
+   "tickers": [
+    "QQQ"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "QQQ",
+   "strength": 48,
+   "reason": "AI development slowdown calls -> tech selloff"
+  },
+  {
+   "date": "2026-09-14T11:08:35Z",
+   "platform": "News",
+   "text": "AI-linked stocks slump after CEOs call for slowing technology\u2019s development - The Globe and Mail \u2014 AI-linked stocks slump after CEOs call for slowing technology\u2019s development\u00a0\u00a0The Globe and Mail",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOM0I3Z1pxLVg5UkRxdmRfcEJIZHNMVUtCY0hQeVdsamZGVE5EWWwzSkVlZ1ZvOUFOcEdoZW1ob1ZfVTcyZ1RWbG5IUDlWampBVWpCMTZhS2hJVExHamtvU2VXVTlYdFhEV0NOUW1DU01XemV3Mk83THN1MnB0MHhlNHJUc3EzRlRJTTVxdF9JblJQWmJYWFQ0ODgxbGpOdlk4M0puR0lBNXQ?oc=5",
+   "tickers": [
+    "QQQ"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "QQQ",
+   "strength": 45,
+   "reason": "CEO calls to slow AI development -> AI-linked stocks down"
+  },
+  {
+   "date": "2026-09-14T10:10:37Z",
+   "platform": "News",
+   "text": "U.S. futures slide on AI blowback; oil and gas jump after Houthis intensify campaign - BNN Bloomberg \u2014 U.S. futures slide on AI blowback; oil and gas jump after Houthis intensify campaign\u00a0\u00a0BNN Bloomberg",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcldnZW9Nb1RtRTZOWldQalg3OVZ6eHozenB3LXJCOXV4TnQzOEJtRWVFaGZXamNKYjVaa3NsSnk2SVhfRGwyR1g3OTh4Z2tUWDVib3d5cFFqMFNuN0RnX1o4b3VYV0Q1Yk54N2xOdkdENXg1Q0JocUUwcFhFOTV6R2ExTnd2SEVIOUVKNU9FR1AyUjN6RU1xOHlKbEhEYmZTWlJ1aXZMeG5MeTY4WUhrd2tzSmpvTll5elRUX0JNeElTSHB5V3hOOA?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "SPY",
+   "strength": 35,
+   "reason": "Broad futures decline on AI concerns; oil jump on geopolitical tension"
+  },
   {
    "date": "2026-09-14T06:21:28Z",
    "platform": "News",
@@ -17,6 +81,22 @@
    "primary_ticker": "QQQ",
    "strength": 35,
    "reason": "Trump emphasizes US AI lead over China; pro-US tech growth sentiment."
+  },
+  {
+   "date": "2026-09-14T06:21:10Z",
+   "platform": "News",
+   "text": "Sam Altman urges caution on AI; Trump says US must keep its lead over China - Business Standard \u2014 Sam Altman urges caution on AI; Trump says US must keep its lead over China\u00a0\u00a0Business Standard",
+   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPSVJneHRod29XWFRpOGhiMkN4bFRvenBHRXN3VkVEMXJsMUZTVWxRbVZWLS1wbVdTNWMybzNXSklERWVsd3BNaXVVTUhlOGtER0g3aXZNZW9SMkI4MElrYnlCemJ0R1RFODhpU05hVlFWZFNMNGstUXp2cXloTFZkcXZVME40ZHgxODNkTEIxbjh4dW5NZFdXOHF2emJqeGlYc202SExEZXo4Nm9oUzRORENCd015Q1V6WDB6NnRZcmJKMXFKQmZKaHVGUUY5UUVhNXI3WkVWOWYtTjhRTXJRaHNNSnljZ21DTmZ1bEtKMGFMYl9yN3p1Vkd3b05MYXfSAYQCQVVfeXFMT2ljRDQ2Q2hyNDlpYnRQQnVNcFAzTzlJVm9kNmdOYWxNWFdHRGt4T0ZUTWFkMUswWkJvQWNqRnZrUUJELWxkUGxQQWZUcTdqcTNQWl84VUxsdTVkemduSlFQZ2lVY3hjT21LdWxzX0JMSk1BazFXZ05JbElmM2xRVVk3SnVoQ2wxb1haVXp3Tl82ejd5WmRNdjk4S3hsaHNwTWJZRm9objFwOXpVUlVVLUtSampYWTE0dFlYdEZ1bFJFVDg2eXBDLUV2NE5QMUJycnhla1lvRDZGUnI1ZzBiZWVPWllzRUNaalRIVkRtWkJRWlhmYms1eUwwakdfWUpDOE5mOUM?oc=5",
+   "tickers": [
+    "QQQ"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "QQQ",
+   "strength": 55,
+   "reason": "Trump backs US AI leadership over China; pro-tech/AI bullish signal"
   },
   {
    "date": "2026-09-14T04:49:49Z",
@@ -51,6 +131,22 @@
    "reason": "AI slowdown calls push tech stocks down; sector-wide bearish pressure."
   },
   {
+   "date": "2026-09-14T04:20:37Z",
+   "platform": "News",
+   "text": "AI-linked Asian stocks slump after top lab CEOs call for slowing down technology\u2019s development - WTVB \u2014 AI-linked Asian stocks slump after top lab CEOs call for slowing down technology\u2019s development\u00a0\u00a0WTVB",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaGNNR3pQT3dEeVJwS09IOWFudGEwUFpERUU3d2ZfWkVKUHc0Qm5HeVR5ZW1SLXFhZEY2NFc1bTd3OEtCaHFDU3h1UjhyYjV5a1BTZUdRSUpkd0ZKTVk3Zy1yTVZGQzNyS3NNUlAtZTZxb3g5SVNYQUJxaU1JX3B1SUR6Um54OWp6a2xLa1ZGamtLdFUyYWtOdVd6cm1QdWR6OU81ZHNBb1hhVWFGaFpVaWR3MVc3VWNWQmVfbW1LTFVLUQ?oc=5",
+   "tickers": [
+    "QQQ"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "QQQ",
+   "strength": 45,
+   "reason": "AI lab CEOs call for slowdown -> Asian/global AI stocks decline"
+  },
+  {
    "date": "2026-09-14T04:10:56Z",
    "platform": "News",
    "text": "Trump resists AI slowdown as the political tide turns - The Washington Post \u2014 Trump resists AI slowdown as the political tide turns\u00a0\u00a0The Washington Post",
@@ -67,6 +163,38 @@
    "reason": "Trump resists AI slowdown; pro-growth stance bullish for AI/tech sector."
   },
   {
+   "date": "2026-09-14T04:01:41Z",
+   "platform": "News",
+   "text": "Tech stocks fall after big AI groups call for slowdown - ft.com \u2014 Tech stocks fall after big AI groups call for slowdown\u00a0\u00a0ft.com",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYWtoSDV4bG9HZm83MmNTZ1BaT003NTM0ckdUNFBVRlItZE04YnU4eGtlY1gxdmMyRnFfai1hbGY3cGg5SThhaTVTOXRtUnRNYW5QUUlfYVVQVmI3YklUUTdWVWZ0MEJHNTZPc2haMWdoMmpMeVFZcGVseGpVdENoLUhCdmk?oc=5",
+   "tickers": [
+    "QQQ"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "QQQ",
+   "strength": 48,
+   "reason": "AI industry slowdown calls -> tech sector pullback"
+  },
+  {
+   "date": "2026-09-14T01:42:29Z",
+   "platform": "News",
+   "text": "Micron Stock Price Drops 10%\u2014Why the AI Memory Bull Case Still Looks Intact - TradingKey \u2014 Micron Stock Price Drops 10%\u2014Why the AI Memory Bull Case Still Looks Intact\u00a0\u00a0TradingKey",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOQUs0NW1YSUcxWDVvWHVrdVpENnVJcG95dHhOc2UzM01zcDlQU3N5OFVTdVJ4YVpyd29xUUZaaTVpWm1YaHpTZFprTGgzM0hYYV9NTllIU0VKMy1hMHg0bnQtQ3ZaeHoxeU5iSVNrUmwtT1BERTAzbXBuSWFnTGZOdDhDTUVfYzk3Z3ZPeFJmVDZfSmhHRFpGaC1LemgwcktJcEhhS3N6cE1QMnRIdExJSmR4ai1EbTBqeFVnYkppYWxWdXVicHI4clI3cVZCQ1F2bkNkTlh4UU9EQQ?oc=5",
+   "tickers": [
+    "MU"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "MU",
+   "strength": 35,
+   "reason": "Micron down 10% amid AI slowdown talk; bull case remains intact but near-term pressure"
+  },
+  {
    "date": "2026-09-14T01:30:00Z",
    "platform": "News",
    "text": "OpenAI boss and Elon Musk back calls to put brakes on \u2018reckless\u2019 AI development - The Guardian \u2014 OpenAI boss and Elon Musk back calls to put brakes on \u2018reckless\u2019 AI development\u00a0\u00a0The Guardian",
@@ -81,6 +209,38 @@
    "primary_ticker": "QQQ",
    "strength": 50,
    "reason": "AI leaders call for slowdown; bearish for tech and AI-linked stocks."
+  },
+  {
+   "date": "2026-09-14T00:34:22Z",
+   "platform": "News",
+   "text": "Why Is AG Stock Jumping Over 5% In Overnight Trading? - Stocktwits \u2014 Why Is AG Stock Jumping Over 5% In Overnight Trading?\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZWN4cjJ0TVQ3NUdWMm1CVVR2b2NWM3Q0QTdFX2h2NU8tQ3ZKNVNYUXlUNkt0NVkyZ0ZwV05DaWh3RVJzRzJzcVc5c3VBVWctc2dCdVZLMVU1U0NnY1Iwc3FKVjgxV1V5cHR3SklSSjFYTU5Mam41T0N5b3V0b041d20zOUo5RVZQMUxRSjhtN1g5ejA4Wmk2OWR4LXJDQQ?oc=5",
+   "tickers": [
+    "AG"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "AG",
+   "strength": 25,
+   "reason": "Stock jumping 5% overnight; unclear catalyst from headline alone"
+  },
+  {
+   "date": "2026-09-14T00:33:23Z",
+   "platform": "News",
+   "text": "Michael Burry Says He\u2019s Still Short Palantir After Stock Sees Recovery Following Trump\u2019s Endorsement - Stocktwits \u2014 Michael Burry Says He\u2019s Still Short Palantir After Stock Sees Recovery Following Trump\u2019s Endorsement\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUmNQdmN5STJOLU11dEhkR1U0ckhuS3JMcm1NUDNMY0dNZ1pQcGhFVmd2bkZqVHV5N3N4N01tY1gzZWZnTDlvbVRzTEtkQnZyUjlibXR1ZUJ5MnVNY0ZlYlVEUWtRMkdnRzBGcmxpdEJaQm55ZWlTWmZZUDBPNnhncTFlLWg3bjllZXNpeGpTVjd3b3dCZ2lWT1dPZE5RSlNKT01IVXlTa1c5YmFodzVEWkJtbHpvUHN1Ry00NWhxcVJpdw?oc=5",
+   "tickers": [
+    "PLTR"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "WATCH",
+   "primary_ticker": "PLTR",
+   "strength": 40,
+   "reason": "Trump endorsement bullish for Palantir; Burry remains short despite recovery"
   },
   {
    "date": "2026-09-13T19:40:50Z",
@@ -225,22 +385,6 @@
    "primary_ticker": "SPY",
    "strength": 50,
    "reason": "Trump rate-cut pressure and 'Trumpflation' concerns\u2014bearish on stagflation risk and Fed independence erosion"
-  },
-  {
-   "date": "2026-09-13T08:47:35Z",
-   "platform": "News",
-   "text": "Why Is AG Stock Jumping Over 5% In Overnight Trading? - Stocktwits \u2014 Why Is AG Stock Jumping Over 5% In Overnight Trading?\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZWN4cjJ0TVQ3NUdWMm1CVVR2b2NWM3Q0QTdFX2h2NU8tQ3ZKNVNYUXlUNkt0NVkyZ0ZwV05DaWh3RVJzRzJzcVc5c3VBVWctc2dCdVZLMVU1U0NnY1Iwc3FKVjgxV1V5cHR3SklSSjFYTU5Mam41T0N5b3V0b041d20zOUo5RVZQMUxRSjhtN1g5ejA4Wmk2OWR4LXJDQQ?oc=5",
-   "tickers": [
-    "AG"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "AG",
-   "strength": 35,
-   "reason": "Stock movement cited but no Trump-specific catalyst or reason disclosed"
   },
   {
    "date": "2026-09-13T08:47:35Z",
@@ -673,22 +817,6 @@
    "primary_ticker": "IBRX",
    "strength": 45,
    "reason": "Trump diplomacy credited with cancer drug regulatory/approval success; implied tailwind for biotech company"
-  },
-  {
-   "date": "2026-09-12T03:16:26Z",
-   "platform": "News",
-   "text": "Michael Burry Says He\u2019s Still Short Palantir After Stock Sees Recovery Following Trump\u2019s Endorsement - Stocktwits \u2014 Michael Burry Says He\u2019s Still Short Palantir After Stock Sees Recovery Following Trump\u2019s Endorsement\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUmNQdmN5STJOLU11dEhkR1U0ckhuS3JMcm1NUDNMY0dNZ1pQcGhFVmd2bkZqVHV5N3N4N01tY1gzZWZnTDlvbVRzTEtkQnZyUjlibXR1ZUJ5MnVNY0ZlYlVEUWtRMkdnRzBGcmxpdEJaQm55ZWlTWmZZUDBPNnhncTFlLWg3bjllZXNpeGpTVjd3b3dCZ2lWT1dPZE5RSlNKT01IVXlTa1c5YmFodzVEWkJtbHpvUHN1Ry00NWhxcVJpdw?oc=5",
-   "tickers": [
-    "PLTR"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "WATCH",
-   "primary_ticker": "PLTR",
-   "strength": 50,
-   "reason": "Trump endorsement lifted PLTR stock, but contrarian Burry remains short; direction ambiguous"
   },
   {
    "date": "2026-09-12T03:10:56Z",
@@ -2560,103 +2688,6 @@
     "pct": -0.5,
     "base": 765.96,
     "last": 762.4,
-    "base_date": "2026-09-08",
-    "last_date": "2026-09-09"
-   }
-  },
-  {
-   "date": "2026-09-08T06:45:48Z",
-   "platform": "News",
-   "text": "Trump Threatens to Block Bombardier Planes From US Market - Tempo.co English \u2014 Trump Threatens to Block Bombardier Planes From US Market\u00a0\u00a0Tempo.co English",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcnVubWpkSVNXUFRUWkk2UXpxcnQ1UHdrQzRtei1nMGFrM2pCZ084bDA5b3hURUNKaHZtTUo4a1VhSEJGekFlOS1tdmh0NEJfZEota2hPUzhNWlh2WDZPc3Z0ekxiTEd1OTYyUV9PdEJMMDg1M1RXVm4xalpfQzFTU0lXcVdIWTM1SlRoUDAxRUN1UktC?oc=5",
-   "tickers": [
-    "BDRBF"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "SELL",
-   "primary_ticker": "BDRBF",
-   "strength": 75,
-   "reason": "Trump threatens to block Bombardier planes from US market, bearish for manufacturer",
-   "price_since": {
-    "ticker": "BDRBF",
-    "pct": -1.6,
-    "base": 222.6,
-    "last": 219.09,
-    "base_date": "2026-09-08",
-    "last_date": "2026-09-09"
-   }
-  },
-  {
-   "date": "2026-09-08T06:01:00Z",
-   "platform": "News",
-   "text": "INTC Jumps Overnight: Trump Touts Intel Stock In AI-Generated Trading Image, Claims He Made \u2018Billions\u2019 For US - Stocktwits \u2014 INTC Jumps Overnight: Trump Touts Intel Stock In AI-Generated Trading Image, Claims He Made \u2018Billions\u2019 For US\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNbWFMUVhCdjQ2RloxMVl3RmFtZHA5aWwwQXJ0SGlQX2piODhMUE5DWUVrOFlQVVc2QmljSkJZOUtDclFsWjY3cWZZUGpvMl9QalExek81dmctU0prNk13RmlHVzNJVTNNbC1TVnVRa21PRTRUVF80c2NHeE9rNjF5clJHR3ZOcHpSSHpURkpyS1R3UHFrSGpjWTZKVVU1OUtJS05GdVVSWGdsUFNGSmMxdFVKTE5hVDN1ZmN4cVZMb29LV0tqVXctbHR6TENyUnY5b0dMREhxTnZzTGtiNWxra0pZaXhWSUtWS0w1alJZczI0Rkp2cjBrbk42UGF2UQ?oc=5",
-   "tickers": [
-    "INTC"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "INTC",
-   "strength": 85,
-   "reason": "Trump explicitly touts Intel stock in image and claims gains; direct bullish signal for INTC",
-   "price_since": {
-    "ticker": "INTC",
-    "pct": 1.7,
-    "base": 104.47,
-    "last": 106.24,
-    "base_date": "2026-09-08",
-    "last_date": "2026-09-09"
-   }
-  },
-  {
-   "date": "2026-09-08T00:35:10Z",
-   "platform": "News",
-   "text": "Trump threatens to stop sale of Bombardier planes in U.S. (BDRBF:OTCMKTS) - Seeking Alpha \u2014 Trump threatens to stop sale of Bombardier planes in U.S. (BDRBF:OTCMKTS)\u00a0\u00a0Seeking Alpha",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOT0RSMDJnZjdhclYxQ0MzQ3o4eUlaUlNfZUpNdXNtVzkxNVVTbE8za1FLYkcxQnV5WlNsZ3BKNTdHOG1uMFN6cG5EUWd2emJQQVo2cHJKeFZkWU1uTndFSWJjX2NsSWc2RGxHeWJPQTlZNGQ4S1F5U1lyVWJreWdLNW92V3FVQk4zeDdFLTVtdWRGQ3BCS3BUbA?oc=5",
-   "tickers": [
-    "BDRBF"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "SELL",
-   "primary_ticker": "BDRBF",
-   "strength": 75,
-   "reason": "Trump threatens to block Bombardier plane sales in U.S., direct bearish call on the company.",
-   "price_since": {
-    "ticker": "BDRBF",
-    "pct": -1.6,
-    "base": 222.6,
-    "last": 219.09,
-    "base_date": "2026-09-08",
-    "last_date": "2026-09-09"
-   }
-  },
-  {
-   "date": "2026-09-07T23:16:45.890Z",
-   "platform": "Truth Social",
-   "text": "Oil prices will drop precipitously, like everything else is dropping (but more!), when we WIN the war with Iran. Three Dollars a gallon, but ultimately, below Two Dollars a gallon. It will all happen quickly, and Iran will never have a Nuclear Weapon. MAGA! President DJT",
-   "tickers": [
-    "USO"
-   ],
-   "engagement": 5584,
-   "url": "https://truthsocial.com/@realDonaldTrump/117232304514057261",
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "USO",
-   "strength": 60,
-   "reason": "War resolution with Iran and oil price collapse forecast implies oil demand/supply shock; bullish for energy sector on geopolitical de-escalation narrative",
-   "price_since": {
-    "ticker": "USO",
-    "pct": 2.7,
-    "base": 146.03,
-    "last": 149.97,
     "base_date": "2026-09-08",
     "last_date": "2026-09-09"
    }
