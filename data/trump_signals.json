@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-09-15T19:13:52Z",
+ "last_updated": "2026-09-15T22:17:03Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-09-15T16:05:00Z",
+   "platform": "News",
+   "text": "Markets on edge as US Fed meets to tackle high inflation - The Korea Times \u2014 Markets on edge as US Fed meets to tackle high inflation\u00a0\u00a0The Korea Times",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSUxFSS14SzVVUnZtNzlmOVFfS0R4MDJYdFNNcUwybWEyNXFVa1hWNDlRWFlFWmtHUHZhdkF1MlBnVWlkTjkyRkNWcHBoYWZyeGJ4M1UtZWhsbi02SFdzcktWWWtLZ0VxbXVnM2ZXRFhLUFRhVUhvUmJiOWRZSmVrd3haMUVFSzZCV1hlUWVRZHhQNk5GTWdiZlEtMkNQV0lmNEHSAacBQVVfeXFMUFZmWFY5SHJrR1dESFhsclV0czdRVWxOQjg3eEozSVFMLWpVc0h4cEJmVmdIXzdhSFhzeUZCTExQWXFiczA2WmFORUplbFVfRm5WaHFtS2VPMGVqTUNqcDVGelJBbi11WjlxZTUwTUQxbks2ZnB4QURQLVFBNnVNRUluTnEzZ29sRVI5SnY2X1E5WVBqNktrdXhtN01iZ3UteE9XMWw5WFU?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "SPY",
+   "strength": 25,
+   "reason": "Fed inflation meeting creates broad market uncertainty"
+  },
   {
    "date": "2026-09-15T14:35:55Z",
    "platform": "News",
@@ -67,6 +83,22 @@
    "reason": "Global stock selloff and bond market risk signal broad market weakness"
   },
   {
+   "date": "2026-09-15T10:33:00Z",
+   "platform": "News",
+   "text": "Global selloff in stocks as bond market enters \u2018new era\u2019 of risk - Fortune \u2014 Global selloff in stocks as bond market enters \u2018new era\u2019 of risk\u00a0\u00a0Fortune",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZ2hSb2V1UmhRTkFQRTJYNm9HMXdhd29yM3lXeDdsQ3F0dXpudzA2VTFVNXdKS2JQemFnSFhSRUJZVDNQV051aTQzNkNFaU83TEZwZm16Nkp0U0Zoa281eVBtQXpFUlJZbVhIRnpWTDhUOFk5UHpoMzBOUHdmVy1BbXZULW9Edm5ieWZkNVltWTJkRnJzODB4MWhn?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "SPY",
+   "strength": 45,
+   "reason": "Global stock selloff and bond market shift; broad market bearish"
+  },
+  {
    "date": "2026-09-15T09:37:30Z",
    "platform": "News",
    "text": "Trump Calls Nvidia CEO on Stage to Defend AI Boom - Gulte \u2014 Trump Calls Nvidia CEO on Stage to Defend AI Boom\u00a0\u00a0Gulte",
@@ -81,6 +113,22 @@
    "primary_ticker": "NVDA",
    "strength": 75,
    "reason": "Trump publicly supports Nvidia CEO and AI boom acceleration, bullish for chip leaders"
+  },
+  {
+   "date": "2026-09-15T09:37:30Z",
+   "platform": "News",
+   "text": "Trump Calls Nvidia CEO on Stage to Defend AI Boom - gulte.com \u2014 Trump Calls Nvidia CEO on Stage to Defend AI Boom\u00a0\u00a0gulte.com",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMXlRSmNSYVMwRGFySUhsVFJiU0toRXVmTTVCN3J3czZLVktKcHR2V1owWEhwdmlMdm5PRVFfdDFwX0JDYVRoTzVnMkJIZzRWXzR3aVZqMmNETG9PTEptcjVqOE1oQ2JrdGplMzBaNmYtRHBtS3BSNi01ejJIR3R6YUxFVm5lX2RjQkpGQ0dR0gGTAUFVX3lxTFBnU2h6c0psRnRNM3MtSXVnMnN3R1hOVVdhTWE0TEVlamFieHN0NE1zNTI5SWtKdHVHTGNtSDFFWkxpQURfbllGNFZGUU9sUmYyTGVRSHhKMGFJQ3ZHQ1I3czlieFBQZDhtZ1VqUXlCRXhmengyazFXZVd6elRlQ1VNRUlSb3J0aGZGdWdHc25Bd29sTQ?oc=5",
+   "tickers": [
+    "NVDA"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "NVDA",
+   "strength": 75,
+   "reason": "Trump publicly endorses AI boom and Nvidia CEO; strong bullish signal for chip leader"
   },
   {
    "date": "2026-09-15T07:39:00Z",
@@ -145,6 +193,22 @@
    "primary_ticker": "MYSZ",
    "strength": 50,
    "reason": "Stock spike reported but reason unclear; may be unrelated to Trump content"
+  },
+  {
+   "date": "2026-09-15T06:18:13Z",
+   "platform": "News",
+   "text": "Nvidia CEO puts Trump on phone while downplaying AI risks - The Edge Malaysia \u2014 Nvidia CEO puts Trump on phone while downplaying AI risks\u00a0\u00a0The Edge Malaysia",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9lX0otNXNLMWNPRFVyNThCejJOb183VlJ3QTFvbXF3amxUeDYyNHRGQTdQZmJGWU1WdGZBZ3lFa1VDcWN3d2MyUS10OGNpQWU2?oc=5",
+   "tickers": [
+    "NVDA"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "NVDA",
+   "strength": 70,
+   "reason": "Nvidia CEO stages Trump call downplaying AI risks; implies Trump support for NVDA thesis"
   },
   {
    "date": "2026-09-15T05:30:00Z",
@@ -241,6 +305,22 @@
    "primary_ticker": "NVDA",
    "strength": 68,
    "reason": "Trump backs faster AI race tempo vs. slowdown calls\u2014bullish for AI chip makers like Nvidia and data center growth"
+  },
+  {
+   "date": "2026-09-15T03:17:47Z",
+   "platform": "News",
+   "text": "Trump wants to push tempo of AI race, countering tech leaders\u2019 call for slowdown - washingtonpost.com \u2014 Trump wants to push tempo of AI race, countering tech leaders\u2019 call for slowdown\u00a0\u00a0washingtonpost.com",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbFpkVktGTDVQYlRMQjBkem9USkVXZE9ha3ZOU2l3ZlVWSnNObFJlbGU1TzhFNzRfTGRtSlZDbU14Z3FLWVJlSVFZMlk5N0l3ZG9Pa2tqOHUtSnUwSnp4Q244OVhEYVd0LVBzdjB5bkxRdVBoSGNtSS03V09qVXBTMXEyTzJvSzh5ZFozZUtUVFhyYUZ2WEUya0xhMkN6ZFhrc281Z0NfY0xUd29wb3dPcGpjZk51dw?oc=5",
+   "tickers": [
+    "QQQ"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "QQQ",
+   "strength": 70,
+   "reason": "Trump pushes AI race acceleration; bullish for tech sector growth"
   },
   {
    "date": "2026-09-15T02:55:37Z",
@@ -457,6 +537,22 @@
     "base_date": "2026-09-14",
     "last_date": "2026-09-15"
    }
+  },
+  {
+   "date": "2026-09-14T23:16:42Z",
+   "platform": "News",
+   "text": "Trump calls AI risks a \u2018hoax,\u2019 says there is a \u2018SICK conspiracy\u2019 against AI and data centres - bnnbloomberg.ca \u2014 Trump calls AI risks a \u2018hoax,\u2019 says there is a \u2018SICK conspiracy\u2019 against AI and data centres\u00a0\u00a0bnnbloomberg.ca",
+   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQMW1YSTI1YmVSbXF4ZlBLR3RNSzF1LUJIN0NjQ0xQYmVXMWhxdWxOZk1aeHh1WTdwX3A0VnlDdUdRdVVFYlVabkh5WGpvMlZvVWtvT3JVZ01aMDBWZXBMUGtsbFV2Q1hqZGlZZHJCX3E5QWJUbEdZbGhKTU1pclJKSTRXMFRmX2tBX1lnbWxXSjBGSDM0V3ZvdmM3bmJLeEFNVE5lZ29rR0NtZVZXYjJiV2ROU1puRkRtVkdWNVBXSHJOeWx5SHFLdVhuVVFiRGsyby1tQlhoTjU4SEtHc2lYa0xydFJRcjIxb0RRdWRwcUExdw?oc=5",
+   "tickers": [
+    "NVDA"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "NVDA",
+   "strength": 68,
+   "reason": "Trump attacks AI-risk narrative and defends data centers; bullish framing for AI/chip sector, especially Nvidia."
   },
   {
    "date": "2026-09-14T22:20:00Z",
@@ -2087,102 +2183,6 @@
    "primary_ticker": "NOK",
    "strength": 60,
    "reason": "Trump endorsement of Nokia for AI growth; explicit named company praise"
-  },
-  {
-   "date": "2026-09-12T02:23:39Z",
-   "platform": "News",
-   "text": "UNH Stock Becomes Dow\u2019s Biggest Driver Back To 50,000 \u2014 Will Trump Tailwinds Spark Another Leg Higher? - Stocktwits \u2014 UNH Stock Becomes Dow\u2019s Biggest Driver Back To 50,000 \u2014 Will Trump Tailwinds Spark Another Leg Higher?\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPc09TZEpPUXhaQndxcjc0MUd3T1RhaTNMb2FIamg3MWlfNWR0VHc5QXk0S01oQk9ucTBrcmRMRFdhOUd0MDE5NlBUWnBvOExFeVdyTHdyaDdIanE1YlRCd0VUbk5RZXNJSW9yVmRHejRVR0duRHJJS0U2dThGSmlHTzVmYzFEdzZfZER1aC1TSGx6M01BVlNPdXB5b1padWMyTEhjZlpuMWhEX1pkUnpPVVVleHdKbUZCd2c?oc=5",
-   "tickers": [
-    "UNH"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "UNH",
-   "strength": 40,
-   "reason": "UNH rally attributed to Trump tailwinds; vague but healthcare/insurance favorable under Trump policy"
-  },
-  {
-   "date": "2026-09-12T01:51:20Z",
-   "platform": "News",
-   "text": "Dow, S&P 500, Nasdaq Futures Slip As Trump\u2019s Hormuz Deadline Looms: Why UNH, CAR, TSLA, AVGO, ENVX Are Trending After-Hours - Stocktwits \u2014 Dow, S&P 500, Nasdaq Futures Slip As Trump\u2019s Hormuz Deadline Looms: Why UNH, CAR, TSLA, AVGO, ENVX Are Trending After-Hours\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaTFzRnFlV1J4WU0xM2JWeWFSbXJRVkJvS19IRVNRVEN6TnZxOWJKSW0zSzhqY2xWZDJ3b0VFbGstZ0lGN1NYZDVHZkdRb1ZmUnRoQk9DRXpMUTROWVpqWXVlYkc0RkpfM1duX3FFTHN3ZGk2VF9YSTlyandwdDl4TUZwazRZb3BkbVBCQ0thUzFGMGVuS3IzUVlIX2xlTG5TeFNueU9mRXBCZjh4QUkxOFBGXzBVRk1zLWk0VzM1RV9WWEl3Mk9KT0wzSjNIeFE?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "SPY",
-   "strength": 55,
-   "reason": "Trump Hormuz deadline creates geopolitical risk; futures slip on Middle East tension"
-  },
-  {
-   "date": "2026-09-11T13:25:00Z",
-   "platform": "News",
-   "text": "NuScale Power Drops 5% as UBS Cuts to Sell on Timeline and Cash Burn, Oklo Slips - 247wallst.com \u2014 NuScale Power Drops 5% as UBS Cuts to Sell on Timeline and Cash Burn, Oklo Slips\u00a0\u00a0247wallst.com",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQa1ZCYXJZdGVodFVuV2xhOGo4NWExSEJEaFgwVjZCZEc5LXptZFNGSnpfMDNaUWlfNDR5czd2V2pZa0hPeUQxRDRhZDVQQ2hWSWxhdmhEdV9jUkgtcmEtdlpmTXN6bmp4c0JpYlVtSzNidV9SN0dzQnRQX09XbFowZkFxVUNha00wSEtsUTQ3cU82Yk5NMVVsUmtOX0VkWnJ2dXdoZ05KVmhnX3JYa2s5bjRJcDRQdG5odFRtRHVWMA?oc=5",
-   "tickers": [
-    "SMCI"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "SMCI",
-   "strength": 35,
-   "reason": "NuScale small modular reactor company faces downgrades on execution risk; sentiment hit in nuclear/clean energy sector"
-  },
-  {
-   "date": "2026-09-11T13:25:00Z",
-   "platform": "News",
-   "text": "NuScale Power Drops 5% as UBS Cuts to Sell on Timeline and Cash Burn, Oklo Slips - 24/7 Wall St. \u2014 NuScale Power Drops 5% as UBS Cuts to Sell on Timeline and Cash Burn, Oklo Slips\u00a0\u00a024/7 Wall St.",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQa1ZCYXJZdGVodFVuV2xhOGo4NWExSEJEaFgwVjZCZEc5LXptZFNGSnpfMDNaUWlfNDR5czd2V2pZa0hPeUQxRDRhZDVQQ2hWSWxhdmhEdV9jUkgtcmEtdlpmTXN6bmp4c0JpYlVtSzNidV9SN0dzQnRQX09XbFowZkFxVUNha00wSEtsUTQ3cU82Yk5NMVVsUmtOX0VkWnJ2dXdoZ05KVmhnX3JYa2s5bjRJcDRQdG5odFRtRHVWMA?oc=5",
-   "tickers": [
-    "SMSR"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "SMSR",
-   "strength": 65,
-   "reason": "UBS downgrade on NuScale Power due to timeline and cash burn concerns signals weakness in small modular reactor sector"
-  },
-  {
-   "date": "2026-09-11T00:37:46Z",
-   "platform": "News",
-   "text": "Upstart CEO Paul Gu acquires $1.28 million in company stock on September 10 - Investing.com India \u2014 Upstart CEO Paul Gu acquires $1.28 million in company stock on September 10\u00a0\u00a0Investing.com India",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSGh1Um9sZEFsNHNhWlo4YnU4cEMtbGk4T2ltN0dKQ3hwVEZzM1M5WDlyTHExazRfME5oQXpJVzhueHdxN0JvbFVlZ0NtVTdVNWtFTXdRcFlfUEJaZGxFbkNkN3BtbkZaU1RSRGNTbHdoUnd2NEdOYjhsc2xqOFdwU0JKeHpvekhZQWtyQ1JzZERUQ0VnV2J6VUlpXzNwckRWdlZ6MTV1bUN2bzdIblRFcFBfN3lPcUVVTTh3QzBvZUNJXzJacFAybklRSDkwN1k?oc=5",
-   "tickers": [
-    "UPST"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "UPST",
-   "strength": 15,
-   "reason": "CEO insider stock purchase signals confidence but direction ambiguous without context"
-  },
-  {
-   "date": "2026-09-11T00:09:39Z",
-   "platform": "News",
-   "text": "QCOM Stock Is 7% From Its Record High; Executives To Join Trump In China Visit - Stocktwits \u2014 QCOM Stock Is 7% From Its Record High; Executives To Join Trump In China Visit\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVXpadHNKQ3hrQS15eXBfZVNyZkRXR2hZZGpvbUF0OFp0VHJrWUhsck53RmFDb2l4eUdfVFQwY0QyZ0tYMERtRE1aaGRVSV9ORFVQd1I4WW9VOXNPS2o2Z3RqRnVReldvOWJneGJsbl81MDRkdTQ1TFd1RVQzWHgzcS01VU9ZY0RuVHZ4TWZOQWphQjlDZVQxMkJKb21PZkJYZXNxLVhnT0xKUDVEcHZYWWUyNncyZzJwX0V1YkJUTUluTU9rTFkxZ2RLRkx6eTk0dGRLSTg1T0Nwd0toT3c?oc=5",
-   "tickers": [
-    "QCOM"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "QCOM",
-   "strength": 35,
-   "reason": "Qualcomm executives joining Trump China visit signals potential trade/policy engagement; proximity to record high suggests momentum."
   },
   {
    "curated": true,
