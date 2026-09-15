@@ -1,22 +1,134 @@
 {
- "last_updated": "2026-09-15T00:47:41Z",
+ "last_updated": "2026-09-15T05:53:59Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
-   "date": "2026-09-15T00:02:34Z",
+   "date": "2026-09-15T05:30:00Z",
    "platform": "News",
-   "text": "Trump wants to push tempo of AI race, countering tech leaders\u2019 call for slowdown - The Washington Post \u2014 Trump wants to push tempo of AI race, countering tech leaders\u2019 call for slowdown\u00a0\u00a0The Washington Post",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbFpkVktGTDVQYlRMQjBkem9USkVXZE9ha3ZOU2l3ZlVWSnNObFJlbGU1TzhFNzRfTGRtSlZDbU14Z3FLWVJlSVFZMlk5N0l3ZG9Pa2tqOHUtSnUwSnp4Q244OVhEYVd0LVBzdjB5bkxRdVBoSGNtSS03V09qVXBTMXEyTzJvSzh5ZFozZUtUVFhyYUZ2WEUya0xhMkN6ZFhrc281Z0NfY0xUd29wb3dPcGpjZk51dw?oc=5",
+   "text": "Trump calls Nvidia\u2019s Jensen Huang onstage, dismisses safety fears: \u2018AI will not be taking over\u2019 - Ynetnews \u2014 Trump calls Nvidia\u2019s Jensen Huang onstage, dismisses safety fears: \u2018AI will not be taking over\u2019\u00a0\u00a0Ynetnews",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB1Q3VPQlA4MTlWTS01UmRNQk0wU0VuMk82T0lTOEZNeUlHTXplQXFiUm1VRHpjcDY5NmE5RzdmQXJaMVdzSEpydWtLelNoZ3lwVEhIUENoS1dTQlJwNUQyYlhVZnVPY2VsazJERw?oc=5",
    "tickers": [
-    "QQQ"
+    "NVDA"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "NVDA",
+   "strength": 72,
+   "reason": "Trump calls Nvidia CEO onstage, dismisses AI safety fears and implicitly endorses AI/data center push\u2014bullish for Nvidia growth narrative"
+  },
+  {
+   "date": "2026-09-15T03:31:08Z",
+   "platform": "News",
+   "text": "\u2018A sick conspiracy\u2019: Trump dismisses AI danger warnings as a hoax - The Indian Express \u2014 \u2018A sick conspiracy\u2019: Trump dismisses AI danger warnings as a hoax\u00a0\u00a0The Indian Express",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZHVHZnFlRlNUWWRReHlmRE4wcHd5dWtxQjBZM195YWhsbHBubnc5XzExZEVFaEsyN2lydTZHdTJyazItVTlzUkxsb0N3X0RKVk5JeHduYjNObUZ6QjlxQk1reXlhZUpwUWdXNDFBb2NJaDhURjNRVFVRdm1KNWFQenZMSFRqUmd1Z2dsdVI3QmM0TnVxV3RYanp6ZU5JUdIBpAFBVV95cUxOX3NpS1V3N1dnckNzbUp0Z2JlblRRMWk3QUpKYWtaQUI3NUhod2lqbklTdjF3dGNhbXM2bXBvZ3JWaURBOE1aYy1UZTFzd2NaZjVVZ2NNNVBtcHJaU1dQQmFmeWFTZXF4UXZIXzZkWHhhUUVVUm02OHp0b2ttYlVsVGZieFlxVHRLRUdTazM0bmF2SVFZS25GVXBjX0x6ZWowSlNpZQ?oc=5",
+   "tickers": [
+    "NVDA"
    ],
    "classified": true,
    "is_market": true,
    "explicit": false,
    "direction": "BUY",
-   "primary_ticker": "QQQ",
+   "primary_ticker": "NVDA",
    "strength": 65,
-   "reason": "Trump pro-AI policy stance bullish for tech sector; signals regulatory tailwind for AI companies."
+   "reason": "Trump dismisses AI danger warnings as hoax, supporting rapid AI deployment\u2014favorable for Nvidia and AI chip demand"
+  },
+  {
+   "date": "2026-09-15T03:17:47Z",
+   "platform": "News",
+   "text": "Trump wants to push tempo of AI race, countering tech leaders\u2019 call for slowdown - The Washington Post \u2014 Trump wants to push tempo of AI race, countering tech leaders\u2019 call for slowdown\u00a0\u00a0The Washington Post",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbFpkVktGTDVQYlRMQjBkem9USkVXZE9ha3ZOU2l3ZlVWSnNObFJlbGU1TzhFNzRfTGRtSlZDbU14Z3FLWVJlSVFZMlk5N0l3ZG9Pa2tqOHUtSnUwSnp4Q244OVhEYVd0LVBzdjB5bkxRdVBoSGNtSS03V09qVXBTMXEyTzJvSzh5ZFozZUtUVFhyYUZ2WEUya0xhMkN6ZFhrc281Z0NfY0xUd29wb3dPcGpjZk51dw?oc=5",
+   "tickers": [
+    "NVDA"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "NVDA",
+   "strength": 68,
+   "reason": "Trump backs faster AI race tempo vs. slowdown calls\u2014bullish for AI chip makers like Nvidia and data center growth"
+  },
+  {
+   "date": "2026-09-15T02:17:12Z",
+   "platform": "News",
+   "text": "Nvidia CEO Puts Trump On Phone While Downplaying AI Risks - NDTV Profit \u2014 Nvidia CEO Puts Trump On Phone While Downplaying AI Risks\u00a0\u00a0NDTV Profit",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWWNIaXNUQXJxYVlIc1ItMlFFVWl4WVZNT3Utcm9LbjZ1WW5HWWVndC10RHJpMXczS0ZlNTdFVWJsbmozbjBTSkVZSDd4U3NvVHpjN0oybDZnc2hGbTAtTUdkYXB1ZmJLNEJFX25haHZxZWtIRUpDeFhpUmJBWXZmZl95Mk1KODV4SS1WWnpVVjVyd3l6ajNuQ0s2VWZIWDF1anYyMVFCWdIBrwFBVV95cUxOOFU5cFh1djBtNHZ3UERnV3htZERvazBYaG5QdUhobmJiSUJ5bHNkSHNUdWtnR1doTndtVkdSZ2ZTTFd1OXNjZ01OOGV0b2xvOW5hUDlzVHQ1TW5hX2VvZGwxMloxUFFKaHl3MTJTZWNxZ0hRMVlabkJGNjZwOEg3RnlQbnBkRzdOX2tSWlR2dE4xeUJpNUFKMjF2d2R1eExucmF1cmdzV25OSVlYcFgw?oc=5",
+   "tickers": [
+    "NVDA"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "NVDA",
+   "strength": 75,
+   "reason": "Nvidia CEO puts Trump on phone downplaying AI risks; Trump endorsement of AI expansion\u2014direct support for Nvidia's core business thesis"
+  },
+  {
+   "date": "2026-09-15T02:15:43Z",
+   "platform": "News",
+   "text": "Sick conspiracy against AI, data centres: Trump calls AI risks a 'hoax' - Business Standard \u2014 Sick conspiracy against AI, data centres: Trump calls AI risks a 'hoax'\u00a0\u00a0Business Standard",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZmpXZlhrRmtRWDFQLWhHZ3N3TjlBOF9XUFhjN0ZRX1dpSDYyY25yQTh0a0ljaDJENDJqUnA5N09ENUhvckFwQURkX3VORVRzMXI1eU44RURjdXAxSk9tMWVHYThUQm5zZ1pFY0RtNU5xZkZKR3ljaXNkV0t6ZGctcEQ3c3AwZkpTYXZwUUpIbnlYSnNCaDF6WUNsT2M5VXQ4dTJ3QS1rMThUMTBQSkFVSmx6MHBWUzBEaEJoODNrQlFTSG9VNzBTRHQyaTDSAdIBQVVfeXFMTWR0THRpaEtOTlk4VDlZWkl4MnJ3S0pQa1dvdDlQSWM2N1NSMnBzVTVoOFUwb0FrancwSThsLTZneEFpM3ZkQUJyM1pYODZqd3BDd01JX2Vkb1o1NnYwYUNaa3hjMEFQRXVtVmlISFF3QzNEb2pFV1htUDBSd096dWhFZl8tMmp3QlpMWWFsbW1qUEN6WnlhQTI5X0xVUEFUcnRZeFl3bTdCdU9WelpEOGo0TDF6RDE3Xy1mWW5US1FCWUlZYTNCVEFvei1QMmpZX1RB?oc=5",
+   "tickers": [
+    "NVDA"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "NVDA",
+   "strength": 67,
+   "reason": "Trump calls AI risk concerns a hoax and supports data centers\u2014encourages continued AI investment, bullish for Nvidia"
+  },
+  {
+   "date": "2026-09-15T02:10:55Z",
+   "platform": "News",
+   "text": "\"Hoax\": Nvidia CEO Puts Trump on Phone While Downplaying Dangers Of AI - NDTV \u2014 \"Hoax\": Nvidia CEO Puts Trump on Phone While Downplaying Dangers Of AI\u00a0\u00a0NDTV",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeGJUSWJpZzllY0Z4amVrMXVEd3dZaDF5MWtBQWQ4MVJNUk5OYnVkc1RZa0JDS29Jcnp3cWNuVUhGcmM3aDJHYlR2WnFuSnBQQ00zR29kOWplS0hlREZ0YzlTZi1qMlI5QTNJbW5VMjBjVHBoZUlXV1lpNHZlUC1FSlFrNmE3SXBibTdBemhRNGVQTkpBRWFKRXlFNUp5bFh5Uk9nQzRKWkY4SDFH0gG0AUFVX3lxTE5rYzdxWk1jSkxPR1h6RmItMHRPelNfOV80WXRSTVRwY0RseWVTMi1MRHVJeUR6Zk9YUy1RNVVhcW5hcEIxelBDZ05JaG5UdC1RN3UxelBMX3RsdlZaWldQUUJCcmlzVnpWNWhkZTFwUEpCTWE1ZF9jSFp2NjJZX1NfNUJQR1RXZUJqRDdSblZtZUZnVFl2bGt6aDJNUko0d1dXbUVTb0d3Ym5MXzRWMmQxVGZIZA?oc=5",
+   "tickers": [
+    "NVDA"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "NVDA",
+   "strength": 74,
+   "reason": "Trump on call with Nvidia CEO downplaying AI dangers\u2014explicit alignment with Nvidia's expansion agenda"
+  },
+  {
+   "date": "2026-09-15T01:09:00Z",
+   "platform": "News",
+   "text": "Trump dismisses AI safety alarm, says US already has tools to police industry - The Business Times \u2014 Trump dismisses AI safety alarm, says US already has tools to police industry\u00a0\u00a0The Business Times",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVmc4bU9wd0QxRGRySFd0TVNIYU4zbTJaLU9mdVJhWGs3enM2cVA3cHpLS1M2QVV5Wi1yMWVveVpZY3dXMm1hSTE2VGh2Qm9HdFRnYmVyZ2VYQ3l3YVl5c2JvdWVxUGtsZlcyU0JkX3l4Ri0ycEhSSzBraERGTngwZHlzSmV2NjVROWdzQTlXTDBPbVVybTB6eGJHemxQTkQ4eEhSYlJmSHVZZjFLdHIzUDh3TFZHUmNWNXBOZkNiZ2tTTkNVdkE?oc=5",
+   "tickers": [
+    "NVDA"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "NVDA",
+   "strength": 64,
+   "reason": "Trump dismisses AI safety alarm, signals light regulation\u2014supports unfettered AI/data center growth favoring chip makers"
+  },
+  {
+   "date": "2026-09-15T00:25:00Z",
+   "platform": "News",
+   "text": "Trump Calls Jensen Huang Live Onstage, Dismisses AI Doomsday Talk as a \"Scam,\" Voices Full Support for Data Centers - finance.biggo.com \u2014 Trump Calls Jensen Huang Live Onstage, Dismisses AI Doomsday Talk as a \"Scam,\" Voices Full Support for Data Centers\u00a0\u00a0finance.biggo.com",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBVDZpajktNXNjRDNidjhoTV9adG9tZS1mTUZtYkYtaUF0ZndEMWV6X0Jna3pLRGs5ZEZsYkM1Q3RsVFpaLXY5dDMwa1Zyb3dlc0dpeDNkTk9Qb19nOWNPNVVWSGNCRUQ4M2ZFVzVLYVpMUklDSGc?oc=5",
+   "tickers": [
+    "NVDA"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "NVDA",
+   "strength": 76,
+   "reason": "Trump calls Huang live onstage, dismisses AI doomsday as scam, voices full support for data centers\u2014explicit bullish signal for Nvidia"
   },
   {
    "date": "2026-09-14T22:20:00Z",
@@ -193,6 +305,38 @@
    "primary_ticker": "QQQ",
    "strength": 70,
    "reason": "Trump calls AI/data centers greatest economic opportunity; major pro-tech, pro-growth macro call."
+  },
+  {
+   "date": "2026-09-14T20:10:48Z",
+   "platform": "News",
+   "text": "US tech stocks fall after big AI groups call for slowdown - Financial Times \u2014 US tech stocks fall after big AI groups call for slowdown\u00a0\u00a0Financial Times",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYWtoSDV4bG9HZm83MmNTZ1BaT003NTM0ckdUNFBVRlItZE04YnU4eGtlY1gxdmMyRnFfai1hbGY3cGg5SThhaTVTOXRtUnRNYW5QUUlfYVVQVmI3YklUUTdWVWZ0MEJHNTZPc2haMWdoMmpMeVFZcGVseGpVdENoLUhCdmk?oc=5",
+   "tickers": [
+    "QQQ"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "QQQ",
+   "strength": 40,
+   "reason": "AI groups call for slowdown, tech sector headwind independent of Trump signal"
+  },
+  {
+   "date": "2026-09-14T20:01:00Z",
+   "platform": "News",
+   "text": "AI stocks drop, but the rest of Wall Street holds steadier after oil prices give back an early jump - Chattanooga Times Free Press \u2014 AI stocks drop, but the rest of Wall Street holds steadier after oil prices give back an early jump\u00a0\u00a0Chattanooga Times Free Press",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVU1mSlZDOUdvM01aS0ZtcnBnX1g4X1NTYWhHOHFmSmdqN0VGUXVkZkFlU1hBVFdPUzlSVzBqWDh5a3lDSnpqWllrcFVyb3pZLXp0RUNpclN6dWJuZTlmVlBOdGFmMFRRMVlhbjh0clBaVmhNRVJzYjJaaUUyQVJNWnRxeXVZUWRrdUlEMkREWmpYRUJWSkNXODNoSm0wUQ?oc=5",
+   "tickers": [
+    "QQQ"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "QQQ",
+   "strength": 35,
+   "reason": "AI stock weakness but broad market resilience, mixed directional signal"
   },
   {
    "date": "2026-09-14T18:27:26Z",
@@ -2236,198 +2380,6 @@
     "pct": 1.5,
     "base": 560.28,
     "last": 568.53,
-    "base_date": "2026-09-10",
-    "last_date": "2026-09-11"
-   }
-  },
-  {
-   "date": "2026-09-10T08:32:16Z",
-   "platform": "News",
-   "text": "Trump discloses 21,000 securities trades during first year in office - ABC News - Breaking News, Latest News and Videos \u2014 Trump discloses 21,000 securities trades during first year in office\u00a0\u00a0ABC News - Breaking News, Latest News and Videos",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRXRKN3Z0andHTXp5WjRNQ2xkUjcxS2tCeHpfdG9EeFRpaGM1Q2IxZFM4akNkQm5IZkt6NnEwRFNsNUQ2VUpYaXdaQW5LZEFsNC1OcHhKNWczS0QxSDZ6RE9qbGFieUdvaHpsNldGczhQa1hTQjF2aGZiSl9wcUhlaENId0I5VWx1cGJFZ1NCM0IyY2M2LWtKRkVDX3I4WDYz?oc=5",
-   "tickers": [
-    "DJT"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "DJT",
-   "strength": 25,
-   "reason": "Large portfolio activity disclosure suggests market position shifts but direction/intent unclear",
-   "price_since": {
-    "ticker": "DJT",
-    "pct": -1.4,
-    "base": 8.78,
-    "last": 8.66,
-    "base_date": "2026-09-10",
-    "last_date": "2026-09-11"
-   }
-  },
-  {
-   "date": "2026-09-10T07:59:25Z",
-   "platform": "News",
-   "text": "Trump on Iran war; Oracle, Adobe to report - what\u2019s moving markets By Investing.com - Investing.com South Africa \u2014 Trump on Iran war; Oracle, Adobe to report - what\u2019s moving markets By Investing.com\u00a0\u00a0Investing.com South Africa",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVnlVWHZRRWxQdnMzSXh4ZXBNWDFuWUtxaFRUaVBvTk9Zdlk0cTlBbnpsUk1hZEx3aUxmYnZxdzZ1LU9rZ0dHUm5BQjd6b2lfNTQ0TU9NV2ZvYk14dWg0YzZZVGRYSHEza3FJQXlpUEhEY0dkUzNHS0lsVWR3ZkNxZlRTQ0JKWGJsWFFyMHlFZjhlSkFYME5rVEFfTHJsczU4Tmw0Z0xLdkh2TUpWNHJnZGJwMA?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "SPY",
-   "strength": 25,
-   "reason": "Iran war risk and earnings reports create market uncertainty; direction ambiguous without details.",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": 0.9,
-    "base": 757.83,
-    "last": 764.29,
-    "base_date": "2026-09-10",
-    "last_date": "2026-09-11"
-   }
-  },
-  {
-   "date": "2026-09-10T05:51:00Z",
-   "platform": "News",
-   "text": "Trump Pledges $5,000 for Each US Adult if Republicans Win Midterms - Tempo.co English \u2014 Trump Pledges $5,000 for Each US Adult if Republicans Win Midterms\u00a0\u00a0Tempo.co English",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRnhBcnZfU2VZbHdHLXBBTTZjamM0SjQwZHMtTGk2UDhYQ1ZGSzVpUHBwWWU0YU5lV0FCRXNoZHpvR3lfcTl6VjZ4Q0VROXpUNExGVXp3M1FKWmlxWHJqUGNGUEh4YmdVYWRadzN5dHVZb01mRnhIeE5RRG1LNkNXbUk2YV9OelMzLW9kYXB6YWhWWjc2R3Rjb0ozT0c?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "SPY",
-   "strength": 30,
-   "reason": "$5k per-adult stimulus pledge is broadly bullish for consumer spending and equities",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": 0.9,
-    "base": 757.83,
-    "last": 764.29,
-    "base_date": "2026-09-10",
-    "last_date": "2026-09-11"
-   }
-  },
-  {
-   "date": "2026-09-10T05:18:00Z",
-   "platform": "News",
-   "text": "Trump says Canada \u2018dying\u2019 to make trade deal as Carney updates review process for major energy projects - bnnbloomberg.ca \u2014 Trump says Canada \u2018dying\u2019 to make trade deal as Carney updates review process for major energy projects\u00a0\u00a0bnnbloomberg.ca",
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQR0pQNXhCYmVSQm04SFRkV0wwd2VpVTJwYXdNUUtfbmR5RGpKb2tJY3RnbWpwVU9tS2liX1NDYzVWT25NUGZfbDE1LW1oVUhobTcxUF9HNnF3MDVSZzRtMDFHdnJMTGJZWTRHUGhmekQ3NGtyLUYzWW1pbXFaT3U4NFcxN2ZxM1lxUjROMkg5N0J4Mkd0emYwNGxBd3VzcEh6NzRpREowTG1UNkt5MFVGenI0Z0g4el80dHZNWTY0endOdDFXVXVhREZoVTNNdXNqLWE4elVMajhUME9hZDZvQmFWTQ?oc=5",
-   "tickers": [
-    "XLE"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "XLE",
-   "strength": 50,
-   "reason": "Trump signals trade deal with Canada on energy projects; deal upside for North American energy sector.",
-   "price_since": {
-    "ticker": "XLE",
-    "pct": 0.3,
-    "base": 64.93,
-    "last": 65.14,
-    "base_date": "2026-09-10",
-    "last_date": "2026-09-11"
-   }
-  },
-  {
-   "date": "2026-09-10T05:18:00Z",
-   "platform": "News",
-   "text": "Trump says Canada \u2018dying\u2019 to make trade deal as Carney updates review process for major energy projects - BNN Bloomberg \u2014 Trump says Canada \u2018dying\u2019 to make trade deal as Carney updates review process for major energy projects\u00a0\u00a0BNN Bloomberg",
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQR0pQNXhCYmVSQm04SFRkV0wwd2VpVTJwYXdNUUtfbmR5RGpKb2tJY3RnbWpwVU9tS2liX1NDYzVWT25NUGZfbDE1LW1oVUhobTcxUF9HNnF3MDVSZzRtMDFHdnJMTGJZWTRHUGhmekQ3NGtyLUYzWW1pbXFaT3U4NFcxN2ZxM1lxUjROMkg5N0J4Mkd0emYwNGxBd3VzcEh6NzRpREowTG1UNkt5MFVGenI0Z0g4el80dHZNWTY0endOdDFXVXVhREZoVTNNdXNqLWE4elVMajhUME9hZDZvQmFWTQ?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "SPY",
-   "strength": 55,
-   "reason": "Trade deal with Canada reduces tariff risk and supports broad market; pro-growth for energy/cross-border commerce",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": 0.9,
-    "base": 757.83,
-    "last": 764.29,
-    "base_date": "2026-09-10",
-    "last_date": "2026-09-11"
-   }
-  },
-  {
-   "date": "2026-09-10T05:17:17Z",
-   "platform": "News",
-   "text": "Trump Says China Has Not Approved NVDA H200 Chip Purchases Yet \u2014 'They Want To Develop Their Own' - Stocktwits \u2014 Trump Says China Has Not Approved NVDA H200 Chip Purchases Yet \u2014 'They Want To Develop Their Own'\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZ2oxZ3ZfNVpTWGQwLTY3T0xzazUxbWY2a3ZreDlRRGE0ZHQxbmNRR29RSm11VXBPajBkd1V1M0VhRUJvVUp0V2lfM3ladmswQ2hMWGlsUjY5RE1ERXR0LTBwN2JLYTBNUk1GRC1QbjktYTlkeTU5MlgteEpYeURwZmhaR2NjUUJMVWs5SGVnbm9uTEZ2dkdmSmVVdzctQ0I3clJZZFM1YnVqbkd1RG9kQlpXUjY?oc=5",
-   "tickers": [
-    "NVDA"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "NVDA",
-   "strength": 30,
-   "reason": "China restricts NVDA H200 chip purchases; bearish for NVDA revenue in key market",
-   "price_since": {
-    "ticker": "NVDA",
-    "pct": -0.0,
-    "base": 218.36,
-    "last": 218.29,
-    "base_date": "2026-09-10",
-    "last_date": "2026-09-11"
-   }
-  },
-  {
-   "date": "2026-09-10T03:47:10Z",
-   "platform": "News",
-   "text": "TSLA Stock Slips Premarket: Musk Joins Trump\u2019s China Trip As FSD Delays Threaten Tesla\u2019s Biggest Factory - Stocktwits \u2014 TSLA Stock Slips Premarket: Musk Joins Trump\u2019s China Trip As FSD Delays Threaten Tesla\u2019s Biggest Factory\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVHl5OGJHalFWTEM0d0l2LXRjLVJ6QTVjV0t3a3J6YkxkMF9fT2ZGU2VkNGl2NGpEc0NxMjV0SkRHMDhQUWJVTXZUOTVFeVdfb1I4dDBzV25yNWc2UlRsaGpIb1h0dXZIcVMyUXNQZ0FUd01vMmVPQmd2NDBkMy0tV2E1TGs2emp0Xy1iMHA0Z21ISDNpSTFOQzRKRjZGSGhZQ21vY2R0dzZfbEVnOWh4VzhtRnVoWnRJRXMwblQ0VFdJRzVKWnAyOExR?oc=5",
-   "tickers": [
-    "TSLA"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "TSLA",
-   "strength": 35,
-   "reason": "FSD delays and China factory risks weigh on Tesla; Musk's China trip involvement suggests potential exposure to geopolitical tensions",
-   "price_since": {
-    "ticker": "TSLA",
-    "pct": 0.5,
-    "base": 363.56,
-    "last": 365.44,
-    "base_date": "2026-09-10",
-    "last_date": "2026-09-11"
-   }
-  },
-  {
-   "date": "2026-09-10T02:18:19Z",
-   "platform": "News",
-   "text": "DJT Stock Slips Overnight: Truth Social To Sell Wall Street 'Fastest' Access To Trump's Posts - Stocktwits \u2014 DJT Stock Slips Overnight: Truth Social To Sell Wall Street 'Fastest' Access To Trump's Posts\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPMlA4d1JobmFISDVhdUVNOG1KZ3lYTVJCYjc0U09RMGZtdEdnV19hV0tfRmpNeVpzUGNQTlpnajJkQTdPUUN6cGJmVU5rUkdUcE9uTHc1SFJTRXMwOHFodDdaZkltOWlEby1yUWFkS3VSb01rem1tQU0xY3ZBdmRGU3dZTkJ5SlZZZVJXZVkzQjV6N0JjaGIyV1dZRUVQUUFUazlFenhzTFlMT1dkakRBdXBuMVllZEIwdUszRlFkU2VVSHc3azEtcjd5NWkyQWdDMWFfTHhJeFVqMmtaeHdLeXBLeXRNZG1mTEE?oc=5",
-   "tickers": [
-    "DJT"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "DJT",
-   "strength": 50,
-   "reason": "Truth Social monetizing Wall Street access is revenue-positive for DJT but execution/adoption unclear",
-   "price_since": {
-    "ticker": "DJT",
-    "pct": -1.4,
-    "base": 8.78,
-    "last": 8.66,
     "base_date": "2026-09-10",
     "last_date": "2026-09-11"
    }
