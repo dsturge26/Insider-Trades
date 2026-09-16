@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-09-16T10:11:54Z",
+ "last_updated": "2026-09-16T14:59:25Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-09-16T13:57:00Z",
+   "platform": "News",
+   "text": "Nvidia Stock Rises as Meta\u2019s Zuckerberg Weighs In on AI Safety After Trump - barrons.com \u2014 Nvidia Stock Rises as Meta\u2019s Zuckerberg Weighs In on AI Safety After Trump\u00a0\u00a0barrons.com",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1FbHAwcnlPcmtPbVZMLTVLTWZXaFk0bnlUcG4zR1Y4U0Y1QUdnV3BtcUJCWVdPekdYZ2dFV2xvTEdwc3RCUzZPMGRRdDJmci16ZUJzQjlsN1QweDBlLXQ3OHRsVGlFRjFWNWV1RWtmYWpjeTZKU2gxaEFadUk0c28?oc=5",
+   "tickers": [
+    "NVDA"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "NVDA",
+   "strength": 25,
+   "reason": "Nvidia rises amid AI safety discussion; direction ambiguous\u2014guardrails debate cuts both ways for AI sector"
+  },
   {
    "date": "2026-09-15T23:20:04Z",
    "platform": "News",
@@ -16,7 +32,15 @@
    "direction": "WATCH",
    "primary_ticker": "NVDA",
    "strength": 25,
-   "reason": "Nvidia CEO attending Trump dinner with Chinese leader; suggests potential trade/China relations developments affecting semiconductors"
+   "reason": "Nvidia CEO attending Trump dinner with Chinese leader; suggests potential trade/China relations developments affecting semiconductors",
+   "price_since": {
+    "ticker": "NVDA",
+    "pct": 1.5,
+    "base": 212.17,
+    "last": 215.34,
+    "base_date": "2026-09-15",
+    "last_date": "2026-09-16"
+   }
   },
   {
    "date": "2026-09-15T22:53:00Z",
@@ -32,7 +56,15 @@
    "direction": "BUY",
    "primary_ticker": "QQQ",
    "strength": 45,
-   "reason": "Trump dismisses AI safety concerns; pro-AI acceleration is bullish for tech/AI stocks"
+   "reason": "Trump dismisses AI safety concerns; pro-AI acceleration is bullish for tech/AI stocks",
+   "price_since": {
+    "ticker": "QQQ",
+    "pct": 0.8,
+    "base": 704.54,
+    "last": 710.28,
+    "base_date": "2026-09-15",
+    "last_date": "2026-09-16"
+   }
   },
   {
    "date": "2026-09-15T22:30:55Z",
@@ -48,7 +80,15 @@
    "direction": "WATCH",
    "primary_ticker": "RKLB",
    "strength": 30,
-   "reason": "Trump hidden stakes in space stocks emerging; suggests Trump portfolio interest but direction unclear without policy catalyst"
+   "reason": "Trump hidden stakes in space stocks emerging; suggests Trump portfolio interest but direction unclear without policy catalyst",
+   "price_since": {
+    "ticker": "RKLB",
+    "pct": -0.2,
+    "base": 63.55,
+    "last": 63.45,
+    "base_date": "2026-09-15",
+    "last_date": "2026-09-16"
+   }
   },
   {
    "date": "2026-09-15T19:14:42Z",
@@ -64,7 +104,15 @@
    "direction": "SELL",
    "primary_ticker": "QQQ",
    "strength": 40,
-   "reason": "Calls to slow AI development pressure tech/semiconductor growth sector broadly"
+   "reason": "Calls to slow AI development pressure tech/semiconductor growth sector broadly",
+   "price_since": {
+    "ticker": "QQQ",
+    "pct": 0.8,
+    "base": 704.54,
+    "last": 710.3,
+    "base_date": "2026-09-15",
+    "last_date": "2026-09-16"
+   }
   },
   {
    "date": "2026-09-15T19:14:42Z",
@@ -80,7 +128,15 @@
    "direction": "SELL",
    "primary_ticker": "QQQ",
    "strength": 40,
-   "reason": "Calls to slow AI development; regulatory/developmental concerns weigh on AI/tech sector"
+   "reason": "Calls to slow AI development; regulatory/developmental concerns weigh on AI/tech sector",
+   "price_since": {
+    "ticker": "QQQ",
+    "pct": 0.8,
+    "base": 704.54,
+    "last": 710.3,
+    "base_date": "2026-09-15",
+    "last_date": "2026-09-16"
+   }
   },
   {
    "date": "2026-09-15T18:56:54Z",
@@ -96,7 +152,15 @@
    "direction": "WATCH",
    "primary_ticker": "QCOM",
    "strength": 25,
-   "reason": "Qualcomm executives joining Trump China visit; suggests potential trade/China policy developments affecting chip sector"
+   "reason": "Qualcomm executives joining Trump China visit; suggests potential trade/China policy developments affecting chip sector",
+   "price_since": {
+    "ticker": "QCOM",
+    "pct": 0.9,
+    "base": 187.8,
+    "last": 189.42,
+    "base_date": "2026-09-15",
+    "last_date": "2026-09-16"
+   }
   },
   {
    "date": "2026-09-15T18:51:53Z",
@@ -112,7 +176,15 @@
    "direction": "BUY",
    "primary_ticker": "NOW",
    "strength": 60,
-   "reason": "Trump stake in ServiceNow revealed; explicit Trump portfolio ownership drives bullish sentiment"
+   "reason": "Trump stake in ServiceNow revealed; explicit Trump portfolio ownership drives bullish sentiment",
+   "price_since": {
+    "ticker": "NOW",
+    "pct": -1.2,
+    "base": 141.9,
+    "last": 140.24,
+    "base_date": "2026-09-15",
+    "last_date": "2026-09-16"
+   }
   },
   {
    "date": "2026-09-15T16:05:00Z",
@@ -128,7 +200,15 @@
    "direction": "WATCH",
    "primary_ticker": "SPY",
    "strength": 25,
-   "reason": "Fed inflation meeting creates broad market uncertainty"
+   "reason": "Fed inflation meeting creates broad market uncertainty",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": 0.3,
+    "base": 757.39,
+    "last": 759.94,
+    "base_date": "2026-09-15",
+    "last_date": "2026-09-16"
+   }
   },
   {
    "date": "2026-09-15T16:05:00Z",
@@ -144,7 +224,15 @@
    "direction": "WATCH",
    "primary_ticker": "SPY",
    "strength": 20,
-   "reason": "Fed meeting on inflation; macro policy event affecting broad market direction but outcome uncertain"
+   "reason": "Fed meeting on inflation; macro policy event affecting broad market direction but outcome uncertain",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": 0.3,
+    "base": 757.39,
+    "last": 759.94,
+    "base_date": "2026-09-15",
+    "last_date": "2026-09-16"
+   }
   },
   {
    "date": "2026-09-15T14:35:55Z",
@@ -160,7 +248,15 @@
    "direction": "BUY",
    "primary_ticker": "XAR",
    "strength": 35,
-   "reason": "Military UAS system development supports defense sector"
+   "reason": "Military UAS system development supports defense sector",
+   "price_since": {
+    "ticker": "XAR",
+    "pct": 0.4,
+    "base": 241.53,
+    "last": 242.59,
+    "base_date": "2026-09-15",
+    "last_date": "2026-09-16"
+   }
   },
   {
    "date": "2026-09-15T13:23:15Z",
@@ -176,7 +272,15 @@
    "direction": "BUY",
    "primary_ticker": "SMH",
    "strength": 35,
-   "reason": "Large DRAM offering and upcoming earnings signal semiconductor sector momentum"
+   "reason": "Large DRAM offering and upcoming earnings signal semiconductor sector momentum",
+   "price_since": {
+    "ticker": "SMH",
+    "pct": 1.6,
+    "base": 542.11,
+    "last": 550.98,
+    "base_date": "2026-09-15",
+    "last_date": "2026-09-16"
+   }
   },
   {
    "date": "2026-09-15T12:16:00Z",
@@ -192,7 +296,15 @@
    "direction": "BUY",
    "primary_ticker": "QQQ",
    "strength": 45,
-   "reason": "Trump opposes AI safety regulation, bullish for AI/tech acceleration"
+   "reason": "Trump opposes AI safety regulation, bullish for AI/tech acceleration",
+   "price_since": {
+    "ticker": "QQQ",
+    "pct": 0.8,
+    "base": 704.54,
+    "last": 710.3,
+    "base_date": "2026-09-15",
+    "last_date": "2026-09-16"
+   }
   },
   {
    "date": "2026-09-15T11:23:55Z",
@@ -208,7 +320,15 @@
    "direction": "WATCH",
    "primary_ticker": "SPY",
    "strength": 30,
-   "reason": "Fed policy meeting on inflation affects broad market direction"
+   "reason": "Fed policy meeting on inflation affects broad market direction",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": 0.3,
+    "base": 757.39,
+    "last": 759.96,
+    "base_date": "2026-09-15",
+    "last_date": "2026-09-16"
+   }
   },
   {
    "date": "2026-09-15T10:42:36Z",
@@ -224,7 +344,15 @@
    "direction": "WATCH",
    "primary_ticker": "SPY",
    "strength": 35,
-   "reason": "India tech services may benefit from AI restraint debate but US market impact mixed"
+   "reason": "India tech services may benefit from AI restraint debate but US market impact mixed",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": 0.3,
+    "base": 757.39,
+    "last": 759.94,
+    "base_date": "2026-09-15",
+    "last_date": "2026-09-16"
+   }
   },
   {
    "date": "2026-09-15T10:33:00Z",
@@ -240,7 +368,15 @@
    "direction": "SELL",
    "primary_ticker": "SPY",
    "strength": 40,
-   "reason": "Global stock selloff and bond market risk signal broad market weakness"
+   "reason": "Global stock selloff and bond market risk signal broad market weakness",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": 0.3,
+    "base": 757.39,
+    "last": 759.96,
+    "base_date": "2026-09-15",
+    "last_date": "2026-09-16"
+   }
   },
   {
    "date": "2026-09-15T10:33:00Z",
@@ -256,7 +392,15 @@
    "direction": "SELL",
    "primary_ticker": "SPY",
    "strength": 45,
-   "reason": "Global stock selloff and bond market shift; broad market bearish"
+   "reason": "Global stock selloff and bond market shift; broad market bearish",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": 0.3,
+    "base": 757.39,
+    "last": 759.96,
+    "base_date": "2026-09-15",
+    "last_date": "2026-09-16"
+   }
   },
   {
    "date": "2026-09-15T09:37:30Z",
@@ -272,7 +416,15 @@
    "direction": "BUY",
    "primary_ticker": "NVDA",
    "strength": 75,
-   "reason": "Trump publicly supports Nvidia CEO and AI boom acceleration, bullish for chip leaders"
+   "reason": "Trump publicly supports Nvidia CEO and AI boom acceleration, bullish for chip leaders",
+   "price_since": {
+    "ticker": "NVDA",
+    "pct": 1.5,
+    "base": 212.17,
+    "last": 215.35,
+    "base_date": "2026-09-15",
+    "last_date": "2026-09-16"
+   }
   },
   {
    "date": "2026-09-15T09:37:30Z",
@@ -288,7 +440,15 @@
    "direction": "BUY",
    "primary_ticker": "NVDA",
    "strength": 75,
-   "reason": "Trump publicly endorses AI boom and Nvidia CEO; strong bullish signal for chip leader"
+   "reason": "Trump publicly endorses AI boom and Nvidia CEO; strong bullish signal for chip leader",
+   "price_since": {
+    "ticker": "NVDA",
+    "pct": 1.5,
+    "base": 212.17,
+    "last": 215.35,
+    "base_date": "2026-09-15",
+    "last_date": "2026-09-16"
+   }
   },
   {
    "date": "2026-09-15T09:14:41Z",
@@ -304,7 +464,15 @@
    "direction": "BUY",
    "primary_ticker": "QQQ",
    "strength": 40,
-   "reason": "Anthropic IPO and AI race acceleration implied bullish for AI/tech sector"
+   "reason": "Anthropic IPO and AI race acceleration implied bullish for AI/tech sector",
+   "price_since": {
+    "ticker": "QQQ",
+    "pct": 0.8,
+    "base": 704.54,
+    "last": 710.3,
+    "base_date": "2026-09-15",
+    "last_date": "2026-09-16"
+   }
   },
   {
    "date": "2026-09-15T07:39:00Z",
@@ -320,7 +488,15 @@
    "direction": "BUY",
    "primary_ticker": "QQQ",
    "strength": 50,
-   "reason": "Trump rejects AI regulation, supporting deregulation and faster tech advancement"
+   "reason": "Trump rejects AI regulation, supporting deregulation and faster tech advancement",
+   "price_since": {
+    "ticker": "QQQ",
+    "pct": 0.8,
+    "base": 704.54,
+    "last": 710.3,
+    "base_date": "2026-09-15",
+    "last_date": "2026-09-16"
+   }
   },
   {
    "date": "2026-09-15T07:07:00Z",
@@ -336,7 +512,15 @@
    "direction": "BUY",
    "primary_ticker": "SMH",
    "strength": 70,
-   "reason": "Trump pushes AI race acceleration, favoring semiconductor/AI sector over slowdown calls"
+   "reason": "Trump pushes AI race acceleration, favoring semiconductor/AI sector over slowdown calls",
+   "price_since": {
+    "ticker": "SMH",
+    "pct": 1.7,
+    "base": 542.11,
+    "last": 551.06,
+    "base_date": "2026-09-15",
+    "last_date": "2026-09-16"
+   }
   },
   {
    "date": "2026-09-15T06:51:35Z",
@@ -352,7 +536,15 @@
    "direction": "BUY",
    "primary_ticker": "NVDA",
    "strength": 80,
-   "reason": "Trump live endorses Nvidia CEO, dismisses AI safety fears to boost industry confidence"
+   "reason": "Trump live endorses Nvidia CEO, dismisses AI safety fears to boost industry confidence",
+   "price_since": {
+    "ticker": "NVDA",
+    "pct": 1.5,
+    "base": 212.17,
+    "last": 215.35,
+    "base_date": "2026-09-15",
+    "last_date": "2026-09-16"
+   }
   },
   {
    "date": "2026-09-15T06:49:00Z",
@@ -368,7 +560,15 @@
    "direction": "WATCH",
    "primary_ticker": "MYSZ",
    "strength": 50,
-   "reason": "Stock spike reported but reason unclear; may be unrelated to Trump content"
+   "reason": "Stock spike reported but reason unclear; may be unrelated to Trump content",
+   "price_since": {
+    "ticker": "MYSZ",
+    "pct": -25.4,
+    "base": 2.32,
+    "last": 1.73,
+    "base_date": "2026-09-15",
+    "last_date": "2026-09-16"
+   }
   },
   {
    "date": "2026-09-15T06:18:13Z",
@@ -384,7 +584,15 @@
    "direction": "BUY",
    "primary_ticker": "NVDA",
    "strength": 70,
-   "reason": "Nvidia CEO stages Trump call downplaying AI risks; implies Trump support for NVDA thesis"
+   "reason": "Nvidia CEO stages Trump call downplaying AI risks; implies Trump support for NVDA thesis",
+   "price_since": {
+    "ticker": "NVDA",
+    "pct": 1.5,
+    "base": 212.17,
+    "last": 215.35,
+    "base_date": "2026-09-15",
+    "last_date": "2026-09-16"
+   }
   },
   {
    "date": "2026-09-15T05:30:00Z",
@@ -400,7 +608,15 @@
    "direction": "BUY",
    "primary_ticker": "NVDA",
    "strength": 72,
-   "reason": "Trump calls Nvidia CEO onstage, dismisses AI safety fears and implicitly endorses AI/data center push\u2014bullish for Nvidia growth narrative"
+   "reason": "Trump calls Nvidia CEO onstage, dismisses AI safety fears and implicitly endorses AI/data center push\u2014bullish for Nvidia growth narrative",
+   "price_since": {
+    "ticker": "NVDA",
+    "pct": 1.5,
+    "base": 212.17,
+    "last": 215.35,
+    "base_date": "2026-09-15",
+    "last_date": "2026-09-16"
+   }
   },
   {
    "date": "2026-09-15T05:30:00Z",
@@ -416,7 +632,15 @@
    "direction": "BUY",
    "primary_ticker": "NVDA",
    "strength": 80,
-   "reason": "Trump onstage dismisses AI safety concerns, explicitly supports Nvidia growth trajectory"
+   "reason": "Trump onstage dismisses AI safety concerns, explicitly supports Nvidia growth trajectory",
+   "price_since": {
+    "ticker": "NVDA",
+    "pct": 1.5,
+    "base": 212.17,
+    "last": 215.35,
+    "base_date": "2026-09-15",
+    "last_date": "2026-09-16"
+   }
   },
   {
    "date": "2026-09-15T04:44:57Z",
@@ -432,7 +656,15 @@
    "direction": "BUY",
    "primary_ticker": "QQQ",
    "strength": 45,
-   "reason": "Trump defends AI despite voter unease; pro-AI policy stance bullish for tech"
+   "reason": "Trump defends AI despite voter unease; pro-AI policy stance bullish for tech",
+   "price_since": {
+    "ticker": "QQQ",
+    "pct": 0.8,
+    "base": 704.54,
+    "last": 710.3,
+    "base_date": "2026-09-15",
+    "last_date": "2026-09-16"
+   }
   },
   {
    "date": "2026-09-15T04:09:00Z",
@@ -448,7 +680,15 @@
    "direction": "BUY",
    "primary_ticker": "SMH",
    "strength": 75,
-   "reason": "Trump rejects AI slowdown, favors accelerated race benefiting Nvidia and AMD"
+   "reason": "Trump rejects AI slowdown, favors accelerated race benefiting Nvidia and AMD",
+   "price_since": {
+    "ticker": "SMH",
+    "pct": 1.7,
+    "base": 542.11,
+    "last": 551.06,
+    "base_date": "2026-09-15",
+    "last_date": "2026-09-16"
+   }
   },
   {
    "date": "2026-09-15T04:09:00Z",
@@ -464,7 +704,15 @@
    "direction": "BUY",
    "primary_ticker": "QQQ",
    "strength": 60,
-   "reason": "Trump opposes AI slowdown, bullish for Nvidia, AMD and semiconductor acceleration"
+   "reason": "Trump opposes AI slowdown, bullish for Nvidia, AMD and semiconductor acceleration",
+   "price_since": {
+    "ticker": "QQQ",
+    "pct": 0.8,
+    "base": 704.54,
+    "last": 710.3,
+    "base_date": "2026-09-15",
+    "last_date": "2026-09-16"
+   }
   },
   {
    "date": "2026-09-15T03:31:08Z",
@@ -2087,110 +2335,6 @@
    "primary_ticker": "SPY",
    "strength": 25,
    "reason": "Potential US foreign policy shift toward Cuba; macro geopolitical risk with uncertain near-term market impact."
-  },
-  {
-   "date": "2026-09-12T18:03:41Z",
-   "platform": "News",
-   "text": "Citi Stock Hits 52-Week High Before Fading As Trump Lauds Bank's 'Big Comeback' In M&A \u2014 But Full Picture Has Changed Now - Stocktwits \u2014 Citi Stock Hits 52-Week High Before Fading As Trump Lauds Bank's 'Big Comeback' In M&A \u2014 But Full Picture Has Changed Now\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWUpacUZnX014SV9nTnRZbVQ0dWhFQlZiV3ZjLV9nWExYUjVMdmlZdkdoNnFLcUhZUEhuZ1k3a2JENWJrYkhqdjJqNFlLaVlVYzBRb3dJOFA2Q1dESmhCTVJnQXJJaU15VjVFUFo2cWJDOEx3QTIzN0NSQjExRWhRZlNLaDFXeEZMQ0poajdjbGhmNlhPd1ZQSnVOSmNVa0pVTF94Z1RVdXlSU2JrR0N3X2dHSENINjZHNWdTYzB1dEZPaERK?oc=5",
-   "tickers": [
-    "C"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "C",
-   "strength": 60,
-   "reason": "Trump explicitly praises Citigroup's 'big comeback' in M&A; direct positive company signal."
-  },
-  {
-   "date": "2026-09-12T18:03:41Z",
-   "platform": "News",
-   "text": "Citi Stock Hits 52-Week High Before Fading As Trump Lauds Bank's 'Big Comeback' In M&A \u2014 But Full Picture Has Changed Now - stocktwits.com \u2014 Citi Stock Hits 52-Week High Before Fading As Trump Lauds Bank's 'Big Comeback' In M&A \u2014 But Full Picture Has Changed Now\u00a0\u00a0stocktwits.com",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWUpacUZnX014SV9nTnRZbVQ0dWhFQlZiV3ZjLV9nWExYUjVMdmlZdkdoNnFLcUhZUEhuZ1k3a2JENWJrYkhqdjJqNFlLaVlVYzBRb3dJOFA2Q1dESmhCTVJnQXJJaU15VjVFUFo2cWJDOEx3QTIzN0NSQjExRWhRZlNLaDFXeEZMQ0poajdjbGhmNlhPd1ZQSnVOSmNVa0pVTF94Z1RVdXlSU2JrR0N3X2dHSENINjZHNWdTYzB1dEZPaERK?oc=5",
-   "tickers": [
-    "C"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "C",
-   "strength": 55,
-   "reason": "Trump directly lauds Citigroup's M&A comeback; explicit praise of named bank"
-  },
-  {
-   "date": "2026-09-12T17:18:39Z",
-   "platform": "News",
-   "text": "MU, SNDK, STX, WDC Stocks Extend Slide Overnight As Memory Pump Fades: Retail Traders Hopeful For Rebound - Stocktwits \u2014 MU, SNDK, STX, WDC Stocks Extend Slide Overnight As Memory Pump Fades: Retail Traders Hopeful For Rebound\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPb0VPUHFyT3dNU1BkR3RTbUZ5dENaV0tfUUViMzZzVDJDcXZFVWdxZ1Raa3N4SkFYX0E3enVNUzdxN193Q1lkUVVfdUtqNkhJelJLUkwzVmhMYUEtWDBsRmw4LV9mQmVCQlMyUFJ2a3lZT0Z1QWF3clF0eUtPa2JsMDJGT3pJcEdiNVpTWHFobGxIUlRCeEV5N1dYQUp5LV9Pbjlyc1FNeS03OGhUZTViX29RTmM5d1BpalVIWDNTUDFja2lRb1FnY19pSi0zRXozSUNzaUJKS0tpdFcwa0NWbG94dzBvWnItOHF1dVNQM29Kc2h1SF9FUg?oc=5",
-   "tickers": [
-    "SMH"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "SMH",
-   "strength": 25,
-   "reason": "Memory chip stocks slide as 'pump fades'; sector momentum weakness"
-  },
-  {
-   "date": "2026-09-12T16:07:26Z",
-   "platform": "News",
-   "text": "WULF Stock Drops Despite Price Target Hikes From Wall Street On $19B Anthropic Lease - Stocktwits \u2014 WULF Stock Drops Despite Price Target Hikes From Wall Street On $19B Anthropic Lease\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZkNMOVRxOWRRS0YyQUl5S0JsbENGN3Y1Qy02RHE1eWNFblM1WVdmUWFsamloREdtWjZPQ3Y5VFU2cUFVakZOQ29lWG0waDJmS3pyZWFxbGpLYW5IaTNjV2ZWajBIaXA4cnV0LUEwSG5aOWFxOVRtZ3dfS0Y4SXR3OFBpekRJVEpHZmxNRVhUSUtaWF9ocnkzY3ZwOExuT3h3dTlsM2VCN2FuTVllSnBsMk5QRHNUZw?oc=5",
-   "tickers": [
-    "WULF"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "WULF",
-   "strength": 35,
-   "reason": "$19B Anthropic lease commitment to WULF data center bullish despite short-term stock weakness."
-  },
-  {
-   "date": "2026-09-12T15:52:11Z",
-   "platform": "News",
-   "text": "Praxis Precision Shares Rally On Price Target Hikes: Analyst Sees Upside As High As 100% For Stock - Stocktwits \u2014 Praxis Precision Shares Rally On Price Target Hikes: Analyst Sees Upside As High As 100% For Stock\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZ3c0dm5hU2NSZE1USngwNnRMTU5fc0dIbmFpOVVUdnZ3OHRDYjVSTzVPTk5qZFFhODZYVnpSSTRNY3NieGtkWFd4bGJyLXdWLTcwQjliRnp2WUtPdmVfQnB3X2F6S296MVBNaFNhbEljYVc0WkVvSjk2LTB4TDBqSmpKNmJoY0VpbXdDejhsYUd1YlBJbmVQeFNBS0E0czRtWnl1OWxvMkhxbHV6eWUyTkJXTmFkUQ?oc=5",
-   "tickers": [
-    "PRAX"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "PRAX",
-   "strength": 30,
-   "reason": "Stock rally tied to analyst upgrade, not Trump; no Trump-driven catalyst"
-  },
-  {
-   "date": "2026-09-12T14:59:26Z",
-   "platform": "News",
-   "text": "Eric Trump Doubles Down On $1 Million Bitcoin Call \u2013 Says Crypto Is \u2018On The One-Yard Line\u2019 - Stocktwits \u2014 Eric Trump Doubles Down On $1 Million Bitcoin Call \u2013 Says Crypto Is \u2018On The One-Yard Line\u2019\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNX1pmRkZXRjdiRW5hMjBIczJUNUJIdGF6aldVWUh5a3NyTXlfM2RqczdicF96cDk3T1hqNmpNLWp5QXBJT0JkcWpJU0VzWXpUVWFFRkVEWlN6LTBCLUFkSGswd3BkRGZNWDZBa1pwdUtwTWpwUVlONEF6Ny1pMHpReUtsa2VNenVURDltcjRQcmFNWU1xT1RWOWMtdGdGenJ6Q0R6UnVSTS1qZlhkb1NsUHFxYTV2OW5wWjJVdmpLWkxFa3BaN1JSenpEX2o5VUFCSnFXT0FfM1B5alJNQ3c?oc=5",
-   "tickers": [
-    "BTC-USD"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "BTC-USD",
-   "strength": 50,
-   "reason": "Eric Trump's bullish bitcoin call signals family confidence in crypto upside",
-   "price_since": {
-    "ticker": "BTC-USD",
-    "pct": 0.5,
-    "base": 77270.47,
-    "last": 77659.34,
-    "base_date": "2026-09-12",
-    "last_date": "2026-09-14"
-   }
   },
   {
    "curated": true,
