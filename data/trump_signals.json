@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-09-16T00:40:42Z",
+ "last_updated": "2026-09-16T05:18:16Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -19,7 +19,7 @@
    "reason": "Trump dismisses AI safety concerns; pro-AI acceleration is bullish for tech/AI stocks"
   },
   {
-   "date": "2026-09-15T17:50:41Z",
+   "date": "2026-09-15T19:14:42Z",
    "platform": "News",
    "text": "Global AI stocks plunge on calls to slow development - The Daily Star \u2014 Global AI stocks plunge on calls to slow development\u00a0\u00a0The Daily Star",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQb09XbkpLZEl3THBFZVBmQll1aHF2a2hvd3lmS0l6VUhsVlNZcnJnLUQ5dHZ4c0pOQWJubE1neTVxWmN1c2pNSjFMSFNuc05aalFqUWhsQlhpLUVJQmNPWWgtNlFScGRPanNjRDRaaml2T0JWdGxULWUzU2tyTjNkcmE5V3hFXzdla29VN0w3YmtoRTlnYWdTbDdRNDhEV05teHFpeEp5dGhIZ0sxa2VsWnFR?oc=5",
@@ -31,8 +31,8 @@
    "explicit": false,
    "direction": "SELL",
    "primary_ticker": "QQQ",
-   "strength": 50,
-   "reason": "Calls to slow AI development bearish for AI-heavy tech sector"
+   "strength": 40,
+   "reason": "Calls to slow AI development pressure tech/semiconductor growth sector broadly"
   },
   {
    "date": "2026-09-15T16:05:00Z",
@@ -65,6 +65,22 @@
    "primary_ticker": "XAR",
    "strength": 35,
    "reason": "Military UAS system development supports defense sector"
+  },
+  {
+   "date": "2026-09-15T13:23:15Z",
+   "platform": "News",
+   "text": "SK Hynix Targets $29B Nasdaq Offering \u2013 DRAM Jumps Over 4% Ahead Of Micron's Report - Stocktwits \u2014 SK Hynix Targets $29B Nasdaq Offering \u2013 DRAM Jumps Over 4% Ahead Of Micron's Report\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQVWh6bUc2UTNReFhfeldjczVpMzFLU2p6VXZEalVfSUd2MnFTbURJamJSWjdYdWNSaElTY3R2aG9YR1U2bDM1U3ljSXYxeTFJVUQxdVlrdlRLeEk2ZzlJNS10bEkyOTVKdWxVcEdfemFzdUFTMkNnUnhEYWdfTWJhOW9FX2dYcnVaYjJsQ1hDVVBTUXJwTTFlcjRUVWROYUFwcnJOZ0oteUJsWEFuUGdpaGJJejVhczZFZjZaa3F4Rk1scW9jalotbjh6S19rWkZTTXNjckVDaEtfOFZE?oc=5",
+   "tickers": [
+    "SMH"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "SMH",
+   "strength": 35,
+   "reason": "Large DRAM offering and upcoming earnings signal semiconductor sector momentum"
   },
   {
    "date": "2026-09-15T12:16:00Z",
@@ -2103,70 +2119,6 @@
     "base_date": "2026-09-12",
     "last_date": "2026-09-14"
    }
-  },
-  {
-   "date": "2026-09-12T14:04:04Z",
-   "platform": "News",
-   "text": "MU Stock Eases After Record Run: Micron Backs Trump Accounts With $250M Commitment - Stocktwits \u2014 MU Stock Eases After Record Run: Micron Backs Trump Accounts With $250M Commitment\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPVDE3TEpTVWtjT281REUwbWFGQzN0ZHpWNnU1UlpVRWRYMDExdzEyRVZ1MHlpbDd6V3ZFNjlmUVRyYXlabHpkVUpSejJmb3p5bF9mbkpobEpQanF5bzM2NjNpcDZ5N01rOEYyeDZvLTRZc0xIeG9xaEpESjc0bERrUTQwbTRMcXdCUHE0N0UzaTNoZFd2ZTU1Qk5JaDlMOG1GUG1icU9SMU9ja0Y5c21SUEcwN2EyYVpRUFQxY1JqOUZBeUJZT2QyYVppalpTSnhSUER1M0pMcjlLRG5YeVE?oc=5",
-   "tickers": [
-    "MU"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "MU",
-   "strength": 50,
-   "reason": "Micron's $250M Trump-linked commitment signals corporate alignment and support"
-  },
-  {
-   "date": "2026-09-12T13:31:09Z",
-   "platform": "News",
-   "text": "CADL Stock On Track For Best Day In Nearly 16 Months \u2014 What\u2019s Driving The Rally? - Stocktwits \u2014 CADL Stock On Track For Best Day In Nearly 16 Months \u2014 What\u2019s Driving The Rally?\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcUJyYUl3Q0dVbEZyZ19yZ2Jyd0U2UTBVU0I2czF4YXl1QklmTHBhWjR3WDdCZ3d0R29Wejl6cG5YVmdkRE5FanBNNXBRVkljbTVkbGdNRGFZakhxR2dfZ0pvSUVyeWtnenB5RnlGaEdqeG1CRTBpSFkwdVo3c0NxOU9pazZaRHRfRC1CZE1SMDNDaGFkZ2RPT2w2N3c5ZjFmM19UOUpiYWRvV193OEpfcnE1c1hfS253UjUyUjdCR3lNbExqUk8zbUktd1IyeHprVTVhYk1qUQ?oc=5",
-   "tickers": [
-    "CADL"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "CADL",
-   "strength": 25,
-   "reason": "Stock rally reported but no Trump catalyst or reason disclosed"
-  },
-  {
-   "date": "2026-09-12T12:42:01Z",
-   "platform": "News",
-   "text": "ORCL Stock Snaps 3-Day Losing Streak: What\u2019s Making Retail Traders \u2018Extremely Bullish\u2019? - Stocktwits \u2014 ORCL Stock Snaps 3-Day Losing Streak: What\u2019s Making Retail Traders \u2018Extremely Bullish\u2019?\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdzdIamhLMEtNQm1rRzNBdTJGQTAwWEVlMVNSWllmV05vMkRYX3Y3NExKWlVRR1JzbUpwYUVWa0hWSml2NW4zUE54X05LX015cU5xMlRyQThXSmdDUVhCWldzUUN5bUllQmJZRW94ZzlvaWtEc1RScElLaVdTZEdGWWpyR0U1aGhGQ1hoQ2lNMWNNdzZzalZhRHZ0UTNKZEU2Zk1tNkxWSldvZGYyX2ZxTTg5cUdvOWgyUmtKd1NiN0tWYWZ1ZUhCTXpHLXVmUlpYRUZkTHA1YThEbjNGaVgweA?oc=5",
-   "tickers": [
-    "ORCL"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "ORCL",
-   "strength": 25,
-   "reason": "Stock recovery noted but headline does not attribute to Trump action or statement; insufficient clarity on catalyst"
-  },
-  {
-   "date": "2026-09-12T07:15:01Z",
-   "platform": "News",
-   "text": "KEEL Stock Jumps Onto Retail Radar As Investors Eye First Data Center Lease Announcement - Stocktwits \u2014 KEEL Stock Jumps Onto Retail Radar As Investors Eye First Data Center Lease Announcement\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVHpiUDN5T2I5aVFzNkpxZGZjdUJEVG0xLXN0c3pVRWo2REVuRGNZTFpvLXJTT2luZVhnTC1iVmFtcFYxbkpnanphZ3E0N0ExWmx5UGh4cGw2QmRiQXl3RG81OWlKRnEwOHVHT0FWdXlGd2VIZVhjM1k2TTU0THctQ3cyUVhNNG9JcGJQMlhPVHdWbkFVSVpfR25lNzVCMTJ4cGZRR05JcnR2SWFvSGc1VnYyMzFMMnFDLURZLW5pMGk3UUwyWktaVVNmZUdDZ21QZGQ0bEZfU0o1LXRvREhFd3h2NXBTMjQ?oc=5",
-   "tickers": [
-    "KEEL"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "KEEL",
-   "strength": 35,
-   "reason": "Data center lease announcement; speculative investor interest but no Trump direct catalyst."
   },
   {
    "curated": true,
