@@ -1,8 +1,20 @@
 {
- "last_updated": "2026-09-16T21:55:16Z",
+ "last_updated": "2026-09-17T14:43:05Z",
  "source": "Financial Modeling Prep (Form 4)",
  "is_sample": false,
  "signals": [
+  {
+   "date": "2026-09-16",
+   "ticker": "MXF",
+   "direction": "BUY",
+   "source": "Insider",
+   "insider": "Saba Capital Management, L.P.",
+   "title": "10 percent owner",
+   "value": 132093,
+   "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001510281&type=4",
+   "strength": 70,
+   "reason": "Saba Capital Management, L.P. bought $132,093"
+  },
   {
    "date": "2026-09-15",
    "ticker": "RWT",
@@ -38,6 +50,30 @@
    "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001862739&type=4",
    "strength": 94,
    "reason": "3 insiders buying Carillo Brooke bought $100,238"
+  },
+  {
+   "date": "2026-09-15",
+   "ticker": "SBLK",
+   "direction": "BUY",
+   "source": "Insider",
+   "insider": "Pappa Milena Maria",
+   "title": "director",
+   "value": 2103288,
+   "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002113812&type=4",
+   "strength": 87,
+   "reason": "2 insiders buying Pappa Milena Maria bought $2,103,288"
+  },
+  {
+   "date": "2026-09-15",
+   "ticker": "SBLK",
+   "direction": "BUY",
+   "source": "Insider",
+   "insider": "Pappas Alexandros",
+   "title": "other: Head of Operations",
+   "value": 2103288,
+   "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002107497&type=4",
+   "strength": 87,
+   "reason": "2 insiders buying Pappas Alexandros bought $2,103,288"
   },
   {
    "date": "2026-09-14",

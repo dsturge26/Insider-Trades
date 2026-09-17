@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-09-17T09:50:50Z",
+ "last_updated": "2026-09-17T14:43:04Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -49,6 +49,22 @@
    "primary_ticker": "SPY",
    "strength": 60,
    "reason": "Trump warning of 'very serious tariffs' on EU and Canada is bearish for broad US market and trade"
+  },
+  {
+   "date": "2026-09-17T03:26:16Z",
+   "platform": "News",
+   "text": "'Very serious tariffs...': Donald Trump warns EU, Canada on 'laughable' alliance proposal - businesstoday.in \u2014 'Very serious tariffs...': Donald Trump warns EU, Canada on 'laughable' alliance proposal\u00a0\u00a0businesstoday.in",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYmRjSnBOa3ktLVp4bHFSZjJBMFRvTFFOYmgyeVV5S0RqVldLa1BEdDZ6VElkeERodWh5a29JUUVOc3BjUWx2UG1SWW5uS2ZXY0MxQm4wbjBLc01heXNJaTduZUo5a080WVVxc0FqbzZZQTI3WWZZakxRTHVGNGhNVDEwbU01YkJaLXhHMzVkcUpZbXRFSGNzRmpZaHVfdl9weG5zanpRVVNXQ3N1WEczdHhIOU4xcTZDdmVNY2lXWDlfU3NYYmt4TE5yOUU3REh5X0c0c1930gHbAUFVX3lxTFBGZUI1YklTMEFBVTlNbXZ4bzA2cmlta0RIZ3JSQlBlUjItT2F6R29lQUNTU0k0MjJXR1Jha25CZlhscmdTdTJoUThkZ1NHdmFLdzFfYW5CMlZaRDhiYU00VmxYYkNENkNzVkxaVHZDeDUxOXFacWxPdVo1VjJkeVBoTlVKbDZNWkpQclU4Wno5Mzd2Ymc4YUdIUFBsYjhzOHY0VFpwRmJTdXZnel85N0hDeXB3c1U0Uk9qdVBMNzVIQUhYN29XZHRod1ZKYUxPdEtQOUM3ZzBhRlBRRQ?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "SPY",
+   "strength": 55,
+   "reason": "Trump threatens very serious tariffs on EU/Canada; broad tariff threat bearish for equities"
   },
   {
    "date": "2026-09-17T03:13:00Z",
@@ -112,7 +128,15 @@
    "direction": "WATCH",
    "primary_ticker": "SPY",
    "strength": 55,
-   "reason": "Trump's Iran warning ('Power Plant Day') creates geopolitical uncertainty; mixed sector effects (energy up, broad market volatile)"
+   "reason": "Trump's Iran warning ('Power Plant Day') creates geopolitical uncertainty; mixed sector effects (energy up, broad market volatile)",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": 1.1,
+    "base": 754.05,
+    "last": 762.07,
+    "base_date": "2026-09-16",
+    "last_date": "2026-09-17"
+   }
   },
   {
    "date": "2026-09-16T20:56:55Z",
@@ -128,7 +152,15 @@
    "direction": "SELL",
    "primary_ticker": "XLE",
    "strength": 35,
-   "reason": "Energy weakness cited as driver of market decline"
+   "reason": "Energy weakness cited as driver of market decline",
+   "price_since": {
+    "ticker": "XLE",
+    "pct": -0.1,
+    "base": 64.03,
+    "last": 63.96,
+    "base_date": "2026-09-16",
+    "last_date": "2026-09-17"
+   }
   },
   {
    "date": "2026-09-16T20:56:55Z",
@@ -144,7 +176,15 @@
    "direction": "SELL",
    "primary_ticker": "XLE",
    "strength": 40,
-   "reason": "Energy weakness reported in North American markets; sector headwind"
+   "reason": "Energy weakness reported in North American markets; sector headwind",
+   "price_since": {
+    "ticker": "XLE",
+    "pct": -0.1,
+    "base": 64.03,
+    "last": 63.96,
+    "base_date": "2026-09-16",
+    "last_date": "2026-09-17"
+   }
   },
   {
    "date": "2026-09-16T20:38:35.091Z",
@@ -161,7 +201,15 @@
    "direction": "BUY",
    "primary_ticker": "SPY",
    "strength": 65,
-   "reason": "Trump calls for lower interest rates; implies Fed pressure and macro stimulus bullish for broad market."
+   "reason": "Trump calls for lower interest rates; implies Fed pressure and macro stimulus bullish for broad market.",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": 1.1,
+    "base": 754.05,
+    "last": 762.13,
+    "base_date": "2026-09-16",
+    "last_date": "2026-09-17"
+   }
   },
   {
    "date": "2026-09-16T18:33:00Z",
@@ -177,7 +225,15 @@
    "direction": "WATCH",
    "primary_ticker": "NVDA",
    "strength": 35,
-   "reason": "Headline mentions Nvidia and AI safety; ambiguous whether net positive or negative for stock."
+   "reason": "Headline mentions Nvidia and AI safety; ambiguous whether net positive or negative for stock.",
+   "price_since": {
+    "ticker": "NVDA",
+    "pct": 2.6,
+    "base": 213.9,
+    "last": 219.51,
+    "base_date": "2026-09-16",
+    "last_date": "2026-09-17"
+   }
   },
   {
    "date": "2026-09-16T13:57:00Z",
@@ -193,7 +249,15 @@
    "direction": "WATCH",
    "primary_ticker": "NVDA",
    "strength": 25,
-   "reason": "Nvidia rises amid AI safety discussion; direction ambiguous\u2014guardrails debate cuts both ways for AI sector"
+   "reason": "Nvidia rises amid AI safety discussion; direction ambiguous\u2014guardrails debate cuts both ways for AI sector",
+   "price_since": {
+    "ticker": "NVDA",
+    "pct": 2.6,
+    "base": 213.9,
+    "last": 219.51,
+    "base_date": "2026-09-16",
+    "last_date": "2026-09-17"
+   }
   },
   {
    "date": "2026-09-16T12:09:35Z",
@@ -209,7 +273,15 @@
    "direction": "WATCH",
    "primary_ticker": "SPY",
    "strength": 40,
-   "reason": "Global stocks edge higher ahead of Fed rate decision; macro uncertainty"
+   "reason": "Global stocks edge higher ahead of Fed rate decision; macro uncertainty",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": 1.1,
+    "base": 754.05,
+    "last": 762.13,
+    "base_date": "2026-09-16",
+    "last_date": "2026-09-17"
+   }
   },
   {
    "date": "2026-09-16T10:45:16Z",
@@ -225,7 +297,15 @@
    "direction": "WATCH",
    "primary_ticker": "SPY",
    "strength": 25,
-   "reason": "Trump-backed senator shifts stance on $5,000 dividend proposal; policy ambiguity on fiscal impact."
+   "reason": "Trump-backed senator shifts stance on $5,000 dividend proposal; policy ambiguity on fiscal impact.",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": 1.1,
+    "base": 754.05,
+    "last": 762.13,
+    "base_date": "2026-09-16",
+    "last_date": "2026-09-17"
+   }
   },
   {
    "date": "2026-09-16T08:41:44Z",
@@ -241,7 +321,15 @@
    "direction": "BUY",
    "primary_ticker": "QQQ",
    "strength": 50,
-   "reason": "Trump backing AI broadly; bullish for tech/AI sector."
+   "reason": "Trump backing AI broadly; bullish for tech/AI sector.",
+   "price_since": {
+    "ticker": "QQQ",
+    "pct": 1.7,
+    "base": 704.72,
+    "last": 716.64,
+    "base_date": "2026-09-16",
+    "last_date": "2026-09-17"
+   }
   },
   {
    "date": "2026-09-16T00:03:44Z",
@@ -260,9 +348,9 @@
    "reason": "Virtual asset stocks and Bitcoin plunge on bill to restrict crypto; bearish regulatory news.",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": 0.4,
+    "pct": 0.6,
     "base": 76150.32,
-    "last": 76482.52,
+    "last": 76580.91,
     "base_date": "2026-09-16",
     "last_date": "2026-09-17"
    }
@@ -284,11 +372,11 @@
    "reason": "Nvidia CEO attending Trump dinner with Chinese leader; suggests potential trade/China relations developments affecting semiconductors",
    "price_since": {
     "ticker": "NVDA",
-    "pct": 0.8,
+    "pct": 3.5,
     "base": 212.17,
-    "last": 213.9,
+    "last": 219.51,
     "base_date": "2026-09-15",
-    "last_date": "2026-09-16"
+    "last_date": "2026-09-17"
    }
   },
   {
@@ -308,11 +396,11 @@
    "reason": "Trump dismisses AI safety concerns; pro-AI acceleration is bullish for tech/AI stocks",
    "price_since": {
     "ticker": "QQQ",
-    "pct": 0.0,
+    "pct": 1.7,
     "base": 704.54,
-    "last": 704.72,
+    "last": 716.64,
     "base_date": "2026-09-15",
-    "last_date": "2026-09-16"
+    "last_date": "2026-09-17"
    }
   },
   {
@@ -332,11 +420,11 @@
    "reason": "Calls to slow AI development pressure tech/semiconductor growth sector broadly",
    "price_since": {
     "ticker": "QQQ",
-    "pct": 0.0,
+    "pct": 1.7,
     "base": 704.54,
-    "last": 704.72,
+    "last": 716.64,
     "base_date": "2026-09-15",
-    "last_date": "2026-09-16"
+    "last_date": "2026-09-17"
    }
   },
   {
@@ -356,11 +444,11 @@
    "reason": "Calls to slow AI development; regulatory/developmental concerns weigh on AI/tech sector",
    "price_since": {
     "ticker": "QQQ",
-    "pct": 0.0,
+    "pct": 1.7,
     "base": 704.54,
-    "last": 704.72,
+    "last": 716.64,
     "base_date": "2026-09-15",
-    "last_date": "2026-09-16"
+    "last_date": "2026-09-17"
    }
   },
   {
@@ -380,11 +468,11 @@
    "reason": "Qualcomm executives joining Trump China visit; suggests potential trade/China policy developments affecting chip sector",
    "price_since": {
     "ticker": "QCOM",
-    "pct": -1.6,
+    "pct": 1.0,
     "base": 187.8,
-    "last": 184.84,
+    "last": 189.71,
     "base_date": "2026-09-15",
-    "last_date": "2026-09-16"
+    "last_date": "2026-09-17"
    }
   },
   {
@@ -404,11 +492,11 @@
    "reason": "Ukraine Patriot missile production approval signals defense spending; bullish for defense contractors.",
    "price_since": {
     "ticker": "XAR",
-    "pct": 0.3,
+    "pct": 0.5,
     "base": 241.53,
-    "last": 242.29,
+    "last": 242.77,
     "base_date": "2026-09-15",
-    "last_date": "2026-09-16"
+    "last_date": "2026-09-17"
    }
   },
   {
@@ -428,11 +516,11 @@
    "reason": "Ukraine Patriot missile production approval bullish for US defense contractors supplying components.",
    "price_since": {
     "ticker": "XAR",
-    "pct": 0.3,
+    "pct": 0.5,
     "base": 241.53,
-    "last": 242.29,
+    "last": 242.77,
     "base_date": "2026-09-15",
-    "last_date": "2026-09-16"
+    "last_date": "2026-09-17"
    }
   },
   {
@@ -452,11 +540,11 @@
    "reason": "Trump stake in ServiceNow revealed; explicit Trump portfolio ownership drives bullish sentiment",
    "price_since": {
     "ticker": "NOW",
-    "pct": -1.5,
+    "pct": -1.9,
     "base": 141.9,
-    "last": 139.82,
+    "last": 139.27,
     "base_date": "2026-09-15",
-    "last_date": "2026-09-16"
+    "last_date": "2026-09-17"
    }
   },
   {
@@ -476,11 +564,11 @@
    "reason": "Fed inflation meeting creates broad market uncertainty",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.4,
+    "pct": 0.6,
     "base": 757.39,
-    "last": 754.05,
+    "last": 762.15,
     "base_date": "2026-09-15",
-    "last_date": "2026-09-16"
+    "last_date": "2026-09-17"
    }
   },
   {
@@ -500,11 +588,11 @@
    "reason": "Fed meeting on inflation; macro policy event affecting broad market direction but outcome uncertain",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.4,
+    "pct": 0.6,
     "base": 757.39,
-    "last": 754.05,
+    "last": 762.14,
     "base_date": "2026-09-15",
-    "last_date": "2026-09-16"
+    "last_date": "2026-09-17"
    }
   },
   {
@@ -524,11 +612,11 @@
    "reason": "Military UAS system development supports defense sector",
    "price_since": {
     "ticker": "XAR",
-    "pct": 0.3,
+    "pct": 0.5,
     "base": 241.53,
-    "last": 242.29,
+    "last": 242.77,
     "base_date": "2026-09-15",
-    "last_date": "2026-09-16"
+    "last_date": "2026-09-17"
    }
   },
   {
@@ -548,11 +636,11 @@
    "reason": "Large DRAM offering and upcoming earnings signal semiconductor sector momentum",
    "price_since": {
     "ticker": "SMH",
-    "pct": 0.6,
+    "pct": 3.3,
     "base": 542.11,
-    "last": 545.56,
+    "last": 560.07,
     "base_date": "2026-09-15",
-    "last_date": "2026-09-16"
+    "last_date": "2026-09-17"
    }
   },
   {
@@ -572,11 +660,11 @@
    "reason": "Trump opposes AI safety regulation, bullish for AI/tech acceleration",
    "price_since": {
     "ticker": "QQQ",
-    "pct": 0.0,
+    "pct": 1.7,
     "base": 704.54,
-    "last": 704.72,
+    "last": 716.64,
     "base_date": "2026-09-15",
-    "last_date": "2026-09-16"
+    "last_date": "2026-09-17"
    }
   },
   {
@@ -596,11 +684,11 @@
    "reason": "Fed policy meeting on inflation affects broad market direction",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.4,
+    "pct": 0.6,
     "base": 757.39,
-    "last": 754.05,
+    "last": 762.15,
     "base_date": "2026-09-15",
-    "last_date": "2026-09-16"
+    "last_date": "2026-09-17"
    }
   },
   {
@@ -620,11 +708,11 @@
    "reason": "India tech services may benefit from AI restraint debate but US market impact mixed",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.4,
+    "pct": 0.6,
     "base": 757.39,
-    "last": 754.05,
+    "last": 762.07,
     "base_date": "2026-09-15",
-    "last_date": "2026-09-16"
+    "last_date": "2026-09-17"
    }
   },
   {
@@ -644,11 +732,11 @@
    "reason": "Global stock selloff and bond market risk signal broad market weakness",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.4,
+    "pct": 0.6,
     "base": 757.39,
-    "last": 754.05,
+    "last": 762.14,
     "base_date": "2026-09-15",
-    "last_date": "2026-09-16"
+    "last_date": "2026-09-17"
    }
   },
   {
@@ -2352,54 +2440,6 @@
    "primary_ticker": "QQQ",
    "strength": 50,
    "reason": "Trump scoffs at AI regulation; signals light-touch AI policy, bullish for tech"
-  },
-  {
-   "date": "2026-09-13T09:20:13Z",
-   "platform": "News",
-   "text": "Roger Marshall Softens Support for Trump's $5,000 Dividend Checks - Benzinga \u2014 Roger Marshall Softens Support for Trump's $5,000 Dividend Checks\u00a0\u00a0Benzinga",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUnlDUmtoX0pzRVl6bzI3WW9aaWZETzZZWTIxaVUtaHN3bEh5ZGV2QVlZbHgyRm9PbUR0TVU1QjY3c0FvbnhQR1FGbTF1V0duNmY3X2c1T3p6Nl9Ddk1jV3J1MUt1eVpUT015aC1zMFRvM3ZseVdEUl9weDZFOGVfcHhIWnlkNUZhdkFpNkt5SGZiLXZteG8wOVRMNmRjQWpQRFVwcA?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "SPY",
-   "strength": 25,
-   "reason": "Dividend checks proposal is macro fiscal policy; ambiguous whether stimulus is bullish or inflationary headwind"
-  },
-  {
-   "date": "2026-09-13T09:01:41Z",
-   "platform": "News",
-   "text": "Trump Warns Of Tariffs Up To 200% For Companies That Don't Build In The US \u2014 'We're Doing Great On Steel Because We Charge Tariffs' - Stocktwits \u2014 Trump Warns Of Tariffs Up To 200% For Companies That Don't Build In The US \u2014 'We're Doing Great On Steel Because We Charge Tariffs'\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMm40WW15RHg0T0ZIMkQzNzBxd2RZZ3ZxbDVMSi1zTE9HQkNBdHdmdFlWendxcC1acHJmX0lmY1hRREpWYTRrZ2FsOGh3TnN0N0dwTEdLbTN0QlFjdXFPQTEyUWtEV1RIc3AyZ1hMR0lQOVpDM190ZmdEVWtLeWlpakxtYkY0QzF4ZlU3enY4a2FBUUZ5Zk9VNVAtemxnWDl1S3Ywc3l3R1FlZmpLZ2RoRmY2MzZ4dw?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "SPY",
-   "strength": 75,
-   "reason": "Tariffs up to 200% on offshoring companies are broadly bearish for equities and supply chains"
-  },
-  {
-   "date": "2026-09-13T09:01:41Z",
-   "platform": "News",
-   "text": "Trump Warns Of Tariffs Up To 200% For Companies That Don't Build In The US \u2014 'We're Doing Great On Steel Because We Charge Tariffs' - stocktwits.com \u2014 Trump Warns Of Tariffs Up To 200% For Companies That Don't Build In The US \u2014 'We're Doing Great On Steel Because We Charge Tariffs'\u00a0\u00a0stocktwits.com",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMm40WW15RHg0T0ZIMkQzNzBxd2RZZ3ZxbDVMSi1zTE9HQkNBdHdmdFlWendxcC1acHJmX0lmY1hRREpWYTRrZ2FsOGh3TnN0N0dwTEdLbTN0QlFjdXFPQTEyUWtEV1RIc3AyZ1hMR0lQOVpDM190ZmdEVWtLeWlpakxtYkY0QzF4ZlU3enY4a2FBUUZ5Zk9VNVAtemxnWDl1S3Ywc3l3R1FlZmpLZ2RoRmY2MzZ4dw?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "SPY",
-   "strength": 70,
-   "reason": "Trump threatens up to 200% tariffs on companies not building in US; broad tariff threat bearish for market and equities"
   },
   {
    "curated": true,
