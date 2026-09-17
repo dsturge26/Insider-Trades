@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-09-17T21:46:49Z",
+ "last_updated": "2026-09-17T23:55:51Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -300,6 +300,30 @@
    }
   },
   {
+   "date": "2026-09-16T21:32:36Z",
+   "platform": "News",
+   "text": "U.S. stocks slip after the Fed raises interest rates, hints more hikes may be on the way - PBS \u2014 U.S. stocks slip after the Fed raises interest rates, hints more hikes may be on the way\u00a0\u00a0PBS",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQ0o4SEFnLXVuc0pFakhWQXNrNVdZOFBqTmZsR3dlMlFFZEluX2VWbEJPOGJkRkZ6a2tfaHZySVdpaVhYZk1aeGZFdjM2UExoOGMxc1BDbkcwUVFMaElEXzBUb2ItX1hmRVkxWjhHanJyV3ppMGJFcjhNY3BVYlZMNFVCemRaSW94Z1hBZy0yNmd3R29KMEppZThtNmxWaERxa3hfZzZ4WU5BV3AzN19xSTY0OEZwQmwzdGVSWC1SNNIBxAFBVV95cUxNQ3ZKZVFHbHpRSEo2cGs4RjlfMG1UdURsamh2Y3ExeEVkZzdmaGQ3OElrd0FpclpvUGQ1MFlKSHZ2VGFOc1hVN3ZmSVc4aGhIY3hvVm5UUlY0emc2bFNyU3ZGU0RFckhMekh6WE5FeklHLU9uUGZNOVZCQWJPdnctcTNJTmpTOGp0Q3ZVUjEzSWROc0V6VE1lY2hLLWNJWUlwTkEwQkJ1SVVtRlZrYlg5QUxoZEZFOFFzMXgwbkNPNzgzdlRa?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "SPY",
+   "strength": 75,
+   "reason": "Fed rate hike and forward guidance signal higher rates ahead; bearish for equities.",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": 1.1,
+    "base": 754.05,
+    "last": 762.6,
+    "base_date": "2026-09-16",
+    "last_date": "2026-09-17"
+   }
+  },
+  {
    "date": "2026-09-16T20:56:55Z",
    "platform": "News",
    "text": "S&P/TSX composite edges lower on energy weakness, U.S. stock markets also negative - ctvnews.ca \u2014 S&P/TSX composite edges lower on energy weakness, U.S. stock markets also negative\u00a0\u00a0ctvnews.ca",
@@ -509,9 +533,9 @@
    "reason": "Virtual asset stocks and Bitcoin plunge on bill to restrict crypto; bearish regulatory news.",
    "price_since": {
     "ticker": "BTC-USD",
-    "pct": 0.4,
+    "pct": 0.3,
     "base": 76150.32,
-    "last": 76435.28,
+    "last": 76405.06,
     "base_date": "2026-09-16",
     "last_date": "2026-09-17"
    }
@@ -2441,38 +2465,6 @@
    "primary_ticker": "QQQ",
    "strength": 50,
    "reason": "Trump resists AI slowdown; pro-growth stance bullish for AI/tech sector."
-  },
-  {
-   "date": "2026-09-14T04:01:41Z",
-   "platform": "News",
-   "text": "Tech stocks fall after big AI groups call for slowdown - ft.com \u2014 Tech stocks fall after big AI groups call for slowdown\u00a0\u00a0ft.com",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYWtoSDV4bG9HZm83MmNTZ1BaT003NTM0ckdUNFBVRlItZE04YnU4eGtlY1gxdmMyRnFfai1hbGY3cGg5SThhaTVTOXRtUnRNYW5QUUlfYVVQVmI3YklUUTdWVWZ0MEJHNTZPc2haMWdoMmpMeVFZcGVseGpVdENoLUhCdmk?oc=5",
-   "tickers": [
-    "QQQ"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "QQQ",
-   "strength": 48,
-   "reason": "AI industry slowdown calls -> tech sector pullback"
-  },
-  {
-   "date": "2026-09-14T04:01:41Z",
-   "platform": "News",
-   "text": "US tech stocks fall after big AI groups call for slowdown - ft.com \u2014 US tech stocks fall after big AI groups call for slowdown\u00a0\u00a0ft.com",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYWtoSDV4bG9HZm83MmNTZ1BaT003NTM0ckdUNFBVRlItZE04YnU4eGtlY1gxdmMyRnFfai1hbGY3cGg5SThhaTVTOXRtUnRNYW5QUUlfYVVQVmI3YklUUTdWVWZ0MEJHNTZPc2haMWdoMmpMeVFZcGVseGpVdENoLUhCdmk?oc=5",
-   "tickers": [
-    "QQQ"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "QQQ",
-   "strength": 45,
-   "reason": "AI sector pullback on slowdown calls; near-term tech headwind"
   },
   {
    "curated": true,
