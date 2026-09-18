@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-09-18T19:36:41Z",
+ "last_updated": "2026-09-18T21:53:21Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -49,6 +49,22 @@
    "primary_ticker": "UNH",
    "strength": 30,
    "reason": "MFN pricing for Medicaid could impact healthcare provider margins; policy ambiguity on direction"
+  },
+  {
+   "date": "2026-09-18T15:11:54Z",
+   "platform": "News",
+   "text": "Trump announces MFN pricing for Medicaid in all states - Seeking Alpha \u2014 Trump announces MFN pricing for Medicaid in all states\u00a0\u00a0Seeking Alpha",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNXl0X3ZCZXZGT29TN0w2RE5iaDJnM2lHeFNqWjF3RHA2ell4NlB3enRBYTI3U2lWdXVYaERyQ1IwVHl0OTlHaGhldFFQRUlxQnRhTnRnRno1SE5NNFpDc084R0ZIQUZXNVBlZk5XM3hNak1wNlkwdXB3ZWtfcUNjeHFQc1V1ZDlRR25sTDA2TzE4QQ?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "SPY",
+   "strength": 40,
+   "reason": "MFN pricing for Medicaid is healthcare policy with broad sector implications; direction ambiguous (cost controls vs. operational impact)."
   },
   {
    "date": "2026-09-18T12:30:47Z",
@@ -147,9 +163,9 @@
    "reason": "Retail pressure on Musk over missed robotaxi targets; bearish earnings sentiment",
    "price_since": {
     "ticker": "TSLA",
-    "pct": -0.9,
+    "pct": -0.5,
     "base": 366.2,
-    "last": 363.06,
+    "last": 364.27,
     "base_date": "2026-09-17",
     "last_date": "2026-09-18"
    }
@@ -187,9 +203,9 @@
    "reason": "Menu revamp is operational news; modest stock reaction; unclear if bullish long-term",
    "price_since": {
     "ticker": "MCD",
-    "pct": 0.4,
+    "pct": -0.1,
     "base": 248.48,
-    "last": 249.46,
+    "last": 248.24,
     "base_date": "2026-09-17",
     "last_date": "2026-09-18"
    }
@@ -211,9 +227,9 @@
    "reason": "DRAM sector rally on SK Hynix IPO momentum; positive for Micron ahead of earnings",
    "price_since": {
     "ticker": "MU",
-    "pct": 3.1,
+    "pct": 3.9,
     "base": 977.5,
-    "last": 1007.82,
+    "last": 1015.8,
     "base_date": "2026-09-17",
     "last_date": "2026-09-18"
    }
@@ -236,9 +252,9 @@
    "reason": "Farm Bill passage supports agricultural sector and commodity prices",
    "price_since": {
     "ticker": "DBC",
-    "pct": -0.2,
+    "pct": -0.4,
     "base": 33.05,
-    "last": 32.97,
+    "last": 32.93,
     "base_date": "2026-09-17",
     "last_date": "2026-09-18"
    }
@@ -284,9 +300,9 @@
    "reason": "Tech giants (Zuckerberg, Musk, Huang) lobbying Trump against AI regulation; bullish for tech/AI stocks",
    "price_since": {
     "ticker": "QQQ",
-    "pct": 0.3,
+    "pct": 0.6,
     "base": 716.92,
-    "last": 719.08,
+    "last": 721.45,
     "base_date": "2026-09-17",
     "last_date": "2026-09-18"
    }
@@ -308,9 +324,9 @@
    "reason": "Retirement security bill heads to Trump implies potential pro-business regulatory relief",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.2,
+    "pct": -0.1,
     "base": 762.6,
-    "last": 760.91,
+    "last": 761.69,
     "base_date": "2026-09-17",
     "last_date": "2026-09-18"
    }
@@ -332,9 +348,9 @@
    "reason": "Global AI stock sell-off on regulation/slowdown calls; bearish tech/AI sentiment",
    "price_since": {
     "ticker": "QQQ",
-    "pct": 0.3,
+    "pct": 0.6,
     "base": 716.92,
-    "last": 719.09,
+    "last": 721.45,
     "base_date": "2026-09-17",
     "last_date": "2026-09-18"
    }
@@ -356,9 +372,9 @@
    "reason": "Trump isolated on interest rates; policy/Fed conflict creates macro uncertainty for broad market",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.2,
+    "pct": -0.1,
     "base": 762.6,
-    "last": 760.9,
+    "last": 761.69,
     "base_date": "2026-09-17",
     "last_date": "2026-09-18"
    }
@@ -380,9 +396,9 @@
    "reason": "Oil retreat and Fed inflation calm are broad bullish macro signals for equities",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.2,
+    "pct": -0.1,
     "base": 762.6,
-    "last": 760.91,
+    "last": 761.69,
     "base_date": "2026-09-17",
     "last_date": "2026-09-18"
    }
@@ -404,9 +420,9 @@
    "reason": "General market news: Fed calms inflation, oil retreats \u2014 typical broad bullish signals",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.2,
+    "pct": -0.1,
     "base": 762.6,
-    "last": 760.91,
+    "last": 761.69,
     "base_date": "2026-09-17",
     "last_date": "2026-09-18"
    }
@@ -444,9 +460,9 @@
    "reason": "Rocket Lab FCC approval for Iridium deal and solar breakthrough are concrete catalysts, bullish for the stock",
    "price_since": {
     "ticker": "RKLB",
-    "pct": -5.4,
+    "pct": -4.8,
     "base": 67.82,
-    "last": 64.15,
+    "last": 64.57,
     "base_date": "2026-09-17",
     "last_date": "2026-09-18"
    }
@@ -468,9 +484,9 @@
    "reason": "Chipotle AI food safety partnership with Palantir; specific company catalyst, modest strength",
    "price_since": {
     "ticker": "CMG",
-    "pct": -0.5,
+    "pct": -0.2,
     "base": 33.51,
-    "last": 33.35,
+    "last": 33.43,
     "base_date": "2026-09-17",
     "last_date": "2026-09-18"
    }
@@ -492,9 +508,9 @@
    "reason": "Trump warning of 'very serious tariffs' on EU and Canada is bearish for broad US market and trade",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.2,
+    "pct": -0.1,
     "base": 762.6,
-    "last": 760.9,
+    "last": 761.69,
     "base_date": "2026-09-17",
     "last_date": "2026-09-18"
    }
@@ -516,9 +532,9 @@
    "reason": "Trump threatens very serious tariffs on EU/Canada; broad tariff threat bearish for equities",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.2,
+    "pct": -0.1,
     "base": 762.6,
-    "last": 760.91,
+    "last": 761.69,
     "base_date": "2026-09-17",
     "last_date": "2026-09-18"
    }
@@ -612,9 +628,9 @@
    "reason": "Trump-Xi summit with tariffs and trade imbalance on agenda; high uncertainty, two-sided impact likely",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.2,
+    "pct": -0.1,
     "base": 762.6,
-    "last": 760.9,
+    "last": 761.69,
     "base_date": "2026-09-17",
     "last_date": "2026-09-18"
    }
@@ -636,9 +652,9 @@
    "reason": "Canada-EU tensions signal potential geopolitical/trade friction affecting North American equities",
    "price_since": {
     "ticker": "SPY",
-    "pct": -0.2,
+    "pct": -0.1,
     "base": 762.6,
-    "last": 760.9,
+    "last": 761.69,
     "base_date": "2026-09-17",
     "last_date": "2026-09-18"
    }
@@ -660,9 +676,9 @@
    "reason": "Trump's hidden space stock bets (ASTS, RKLB) emerge, suggesting bullish view on space/satellite sector",
    "price_since": {
     "ticker": "RKLB",
-    "pct": -5.4,
+    "pct": -4.8,
     "base": 67.82,
-    "last": 64.14,
+    "last": 64.57,
     "base_date": "2026-09-17",
     "last_date": "2026-09-18"
    }
@@ -684,9 +700,9 @@
    "reason": "Trump's Iran warning ('Power Plant Day') creates geopolitical uncertainty; mixed sector effects (energy up, broad market volatile)",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.9,
+    "pct": 1.0,
     "base": 754.05,
-    "last": 760.91,
+    "last": 761.69,
     "base_date": "2026-09-16",
     "last_date": "2026-09-18"
    }
@@ -708,9 +724,9 @@
    "reason": "Fed rate hike typically supportive of equity futures in near term; broad market directional signal.",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.9,
+    "pct": 1.0,
     "base": 754.05,
-    "last": 760.91,
+    "last": 761.69,
     "base_date": "2026-09-16",
     "last_date": "2026-09-18"
    }
@@ -2601,38 +2617,6 @@
    "primary_ticker": "QQQ",
    "strength": 45,
    "reason": "AI sector concerns -> tech stocks down"
-  },
-  {
-   "date": "2026-09-14T12:37:45Z",
-   "platform": "News",
-   "text": "Tech Stocks Shudder in Response to Calls to Slow A.I. Progress - The New York Times \u2014 Tech Stocks Shudder in Response to Calls to Slow A.I. Progress\u00a0\u00a0The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4teEhEV3lFNEY0RGNiYTR1LWZ2TFlya2dVeGZaS2JkSEhtWnBpQmRIU2FzT2YyY1V0TnNGMXZwYXlQZzlyWDRMY2Q0QVBnVUgybW5mRzEyazNjZl84WEFSai1nTnFtUGJDV2dhNWV2NS0?oc=5",
-   "tickers": [
-    "QQQ"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "QQQ",
-   "strength": 48,
-   "reason": "AI development slowdown calls -> tech selloff"
-  },
-  {
-   "date": "2026-09-14T12:14:29Z",
-   "platform": "News",
-   "text": "China dismisses AI slowdown calls and blasts \u2018fearmongering\u2019 from U.S. tech leaders - NBC News \u2014 China dismisses AI slowdown calls and blasts \u2018fearmongering\u2019 from U.S. tech leaders\u00a0\u00a0NBC News",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOLS0wQU1BV1hGOG9qdTBkNFhpN1JkdHdnUVhNSE5uVVZzYTdzRFBVT3dmYlZaVi1xVGVGc1I4V2prdVhjZ0xsM0FiU2pYaHA0ZnFDYXVDSHBFUi1Tc2xsN01BdWdmbzVvcGMyS2Q2VXNyS2NPcUNtb19FVFQ2djFVOHJhSkFmTWV3ZjFDLWJBSjlySlNZai1OTFlYSGZSMllNa1E?oc=5",
-   "tickers": [
-    "QQQ"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "QQQ",
-   "strength": 30,
-   "reason": "China rejects AI slowdown, backing accelerated development; mirrors Trump stance favoring tech growth"
   },
   {
    "curated": true,
