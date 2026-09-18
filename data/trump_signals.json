@@ -1,7 +1,39 @@
 {
- "last_updated": "2026-09-18T13:07:54Z",
+ "last_updated": "2026-09-18T17:05:39Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-09-18T16:20:38Z",
+   "platform": "News",
+   "text": "The A.I. Industry\u2019s New Worry: \u2018Liability Exposure\u2019 - nytimes.com \u2014 The A.I. Industry\u2019s New Worry: \u2018Liability Exposure\u2019\u00a0\u00a0nytimes.com",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdGt5enpFT2RsRkhORHdHai1BNDZvTFp6WmVydS1CbVVqRDEwY0VsZnZJNzdWblhuVkNtSnJKNmE2Nkpia0F5QjNpOFFMZ1lfcHN1bUxQNU41MmVZbkZhSmMza0NVNnEwTkhBbE52V1FJOGlaMU13aHJLMnFra0dtWVBn?oc=5",
+   "tickers": [
+    "SMH"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "SMH",
+   "strength": 45,
+   "reason": "AI industry liability concerns create headwind for semiconductor/AI chip makers"
+  },
+  {
+   "date": "2026-09-18T12:30:47Z",
+   "platform": "News",
+   "text": "What's next for Trump's aluminum smelter project in Oklahoma? - Reuters \u2014 What's next for Trump's aluminum smelter project in Oklahoma?\u00a0\u00a0Reuters",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZGZCTzAyQklQemdiR2FmWVhZbDZMYmtFTUc0NjJzdC1yTmF0Tkh6cG5MT0ZLMXFwYVhiOFlNQklPaUJIdmpBZ3pQR1NlaGFVLW1QSEFtR3h6dUJzWlY0ZDNUWnduX2Vmb3VXYUoyUFltQ0NpQmJhWElvMGk3cG50MFRMbklnUXktWWZwU0tDTVVlbjQ1cEtCZE5LT0VLM1BpdUhaTWtB?oc=5",
+   "tickers": [
+    "XLE"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "XLE",
+   "strength": 40,
+   "reason": "Aluminum smelter project affects energy/materials sector; Trump-linked but direction unclear"
+  },
   {
    "date": "2026-09-18T11:51:00Z",
    "platform": "News",
@@ -64,7 +96,15 @@
    "direction": "SELL",
    "primary_ticker": "TSLA",
    "strength": 25,
-   "reason": "Retail pressure on Musk over missed robotaxi targets; bearish earnings sentiment"
+   "reason": "Retail pressure on Musk over missed robotaxi targets; bearish earnings sentiment",
+   "price_since": {
+    "ticker": "TSLA",
+    "pct": -1.0,
+    "base": 366.2,
+    "last": 362.67,
+    "base_date": "2026-09-17",
+    "last_date": "2026-09-18"
+   }
   },
   {
    "date": "2026-09-17T23:06:25Z",
@@ -96,7 +136,15 @@
    "direction": "WATCH",
    "primary_ticker": "MCD",
    "strength": 15,
-   "reason": "Menu revamp is operational news; modest stock reaction; unclear if bullish long-term"
+   "reason": "Menu revamp is operational news; modest stock reaction; unclear if bullish long-term",
+   "price_since": {
+    "ticker": "MCD",
+    "pct": 0.5,
+    "base": 248.48,
+    "last": 249.65,
+    "base_date": "2026-09-17",
+    "last_date": "2026-09-18"
+   }
   },
   {
    "date": "2026-09-17T20:06:48Z",
@@ -112,7 +160,15 @@
    "direction": "BUY",
    "primary_ticker": "MU",
    "strength": 30,
-   "reason": "DRAM sector rally on SK Hynix IPO momentum; positive for Micron ahead of earnings"
+   "reason": "DRAM sector rally on SK Hynix IPO momentum; positive for Micron ahead of earnings",
+   "price_since": {
+    "ticker": "MU",
+    "pct": 2.2,
+    "base": 977.5,
+    "last": 998.7,
+    "base_date": "2026-09-17",
+    "last_date": "2026-09-18"
+   }
   },
   {
    "date": "2026-09-17T19:35:54.030Z",
@@ -129,7 +185,15 @@
    "direction": "BUY",
    "primary_ticker": "DBC",
    "strength": 35,
-   "reason": "Farm Bill passage supports agricultural sector and commodity prices"
+   "reason": "Farm Bill passage supports agricultural sector and commodity prices",
+   "price_since": {
+    "ticker": "DBC",
+    "pct": -0.3,
+    "base": 33.05,
+    "last": 32.96,
+    "base_date": "2026-09-17",
+    "last_date": "2026-09-18"
+   }
   },
   {
    "date": "2026-09-17T18:17:36Z",
@@ -145,7 +209,15 @@
    "direction": "WATCH",
    "primary_ticker": "XLE",
    "strength": 40,
-   "reason": "Trump potential impact on oil prices; ambiguous whether he pauses drilling restrictions (bullish) or manages market (neutral)"
+   "reason": "Trump potential impact on oil prices; ambiguous whether he pauses drilling restrictions (bullish) or manages market (neutral)",
+   "price_since": {
+    "ticker": "XLE",
+    "pct": -0.2,
+    "base": 64.48,
+    "last": 64.33,
+    "base_date": "2026-09-17",
+    "last_date": "2026-09-18"
+   }
   },
   {
    "date": "2026-09-17T15:57:00Z",
@@ -161,7 +233,15 @@
    "direction": "BUY",
    "primary_ticker": "QQQ",
    "strength": 50,
-   "reason": "Tech giants (Zuckerberg, Musk, Huang) lobbying Trump against AI regulation; bullish for tech/AI stocks"
+   "reason": "Tech giants (Zuckerberg, Musk, Huang) lobbying Trump against AI regulation; bullish for tech/AI stocks",
+   "price_since": {
+    "ticker": "QQQ",
+    "pct": 0.0,
+    "base": 716.92,
+    "last": 716.92,
+    "base_date": "2026-09-17",
+    "last_date": "2026-09-18"
+   }
   },
   {
    "date": "2026-09-17T13:48:00Z",
@@ -177,7 +257,15 @@
    "direction": "BUY",
    "primary_ticker": "SPY",
    "strength": 25,
-   "reason": "Retirement security bill heads to Trump implies potential pro-business regulatory relief"
+   "reason": "Retirement security bill heads to Trump implies potential pro-business regulatory relief",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": -0.4,
+    "base": 762.6,
+    "last": 759.4,
+    "base_date": "2026-09-17",
+    "last_date": "2026-09-18"
+   }
   },
   {
    "date": "2026-09-17T13:06:53Z",
@@ -193,7 +281,15 @@
    "direction": "SELL",
    "primary_ticker": "QQQ",
    "strength": 40,
-   "reason": "Global AI stock sell-off on regulation/slowdown calls; bearish tech/AI sentiment"
+   "reason": "Global AI stock sell-off on regulation/slowdown calls; bearish tech/AI sentiment",
+   "price_since": {
+    "ticker": "QQQ",
+    "pct": 0.0,
+    "base": 716.92,
+    "last": 716.92,
+    "base_date": "2026-09-17",
+    "last_date": "2026-09-18"
+   }
   },
   {
    "date": "2026-09-17T12:13:42Z",
@@ -209,7 +305,15 @@
    "direction": "WATCH",
    "primary_ticker": "SPY",
    "strength": 45,
-   "reason": "Trump isolated on interest rates; policy/Fed conflict creates macro uncertainty for broad market"
+   "reason": "Trump isolated on interest rates; policy/Fed conflict creates macro uncertainty for broad market",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": -0.4,
+    "base": 762.6,
+    "last": 759.4,
+    "base_date": "2026-09-17",
+    "last_date": "2026-09-18"
+   }
   },
   {
    "date": "2026-09-17T10:28:50Z",
@@ -225,7 +329,15 @@
    "direction": "BUY",
    "primary_ticker": "SPY",
    "strength": 45,
-   "reason": "Oil retreat and Fed inflation calm are broad bullish macro signals for equities"
+   "reason": "Oil retreat and Fed inflation calm are broad bullish macro signals for equities",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": -0.4,
+    "base": 762.6,
+    "last": 759.4,
+    "base_date": "2026-09-17",
+    "last_date": "2026-09-18"
+   }
   },
   {
    "date": "2026-09-17T10:28:50Z",
@@ -241,7 +353,15 @@
    "direction": "BUY",
    "primary_ticker": "SPY",
    "strength": 25,
-   "reason": "General market news: Fed calms inflation, oil retreats \u2014 typical broad bullish signals"
+   "reason": "General market news: Fed calms inflation, oil retreats \u2014 typical broad bullish signals",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": -0.4,
+    "base": 762.6,
+    "last": 759.4,
+    "base_date": "2026-09-17",
+    "last_date": "2026-09-18"
+   }
   },
   {
    "date": "2026-09-17T04:15:33Z",
@@ -273,7 +393,15 @@
    "direction": "BUY",
    "primary_ticker": "RKLB",
    "strength": 45,
-   "reason": "Rocket Lab FCC approval for Iridium deal and solar breakthrough are concrete catalysts, bullish for the stock"
+   "reason": "Rocket Lab FCC approval for Iridium deal and solar breakthrough are concrete catalysts, bullish for the stock",
+   "price_since": {
+    "ticker": "RKLB",
+    "pct": -5.1,
+    "base": 67.82,
+    "last": 64.37,
+    "base_date": "2026-09-17",
+    "last_date": "2026-09-18"
+   }
   },
   {
    "date": "2026-09-17T03:40:00Z",
@@ -289,7 +417,15 @@
    "direction": "BUY",
    "primary_ticker": "CMG",
    "strength": 35,
-   "reason": "Chipotle AI food safety partnership with Palantir; specific company catalyst, modest strength"
+   "reason": "Chipotle AI food safety partnership with Palantir; specific company catalyst, modest strength",
+   "price_since": {
+    "ticker": "CMG",
+    "pct": -1.3,
+    "base": 33.51,
+    "last": 33.06,
+    "base_date": "2026-09-17",
+    "last_date": "2026-09-18"
+   }
   },
   {
    "date": "2026-09-17T03:26:16Z",
@@ -305,7 +441,15 @@
    "direction": "SELL",
    "primary_ticker": "SPY",
    "strength": 60,
-   "reason": "Trump warning of 'very serious tariffs' on EU and Canada is bearish for broad US market and trade"
+   "reason": "Trump warning of 'very serious tariffs' on EU and Canada is bearish for broad US market and trade",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": -0.4,
+    "base": 762.6,
+    "last": 759.44,
+    "base_date": "2026-09-17",
+    "last_date": "2026-09-18"
+   }
   },
   {
    "date": "2026-09-17T03:26:16Z",
@@ -321,7 +465,15 @@
    "direction": "SELL",
    "primary_ticker": "SPY",
    "strength": 55,
-   "reason": "Trump threatens very serious tariffs on EU/Canada; broad tariff threat bearish for equities"
+   "reason": "Trump threatens very serious tariffs on EU/Canada; broad tariff threat bearish for equities",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": -0.4,
+    "base": 762.6,
+    "last": 759.44,
+    "base_date": "2026-09-17",
+    "last_date": "2026-09-18"
+   }
   },
   {
    "date": "2026-09-17T03:13:00Z",
@@ -337,7 +489,15 @@
    "direction": "WATCH",
    "primary_ticker": "XLE",
    "strength": 30,
-   "reason": "Trump hints Iran war ending; ambiguous for oil\u2014ceasefire could lower prices, hawkish signals could raise"
+   "reason": "Trump hints Iran war ending; ambiguous for oil\u2014ceasefire could lower prices, hawkish signals could raise",
+   "price_since": {
+    "ticker": "XLE",
+    "pct": -0.2,
+    "base": 64.48,
+    "last": 64.33,
+    "base_date": "2026-09-17",
+    "last_date": "2026-09-18"
+   }
   },
   {
    "date": "2026-09-17T03:13:00Z",
@@ -353,7 +513,15 @@
    "direction": "BUY",
    "primary_ticker": "XLE",
    "strength": 35,
-   "reason": "Trump signals potential de-escalation in Iran conflict; bullish for oil and energy sector"
+   "reason": "Trump signals potential de-escalation in Iran conflict; bullish for oil and energy sector",
+   "price_since": {
+    "ticker": "XLE",
+    "pct": -0.2,
+    "base": 64.48,
+    "last": 64.33,
+    "base_date": "2026-09-17",
+    "last_date": "2026-09-18"
+   }
   },
   {
    "date": "2026-09-17T03:03:00Z",
@@ -369,7 +537,15 @@
    "direction": "WATCH",
    "primary_ticker": "FXI",
    "strength": 50,
-   "reason": "Trump-Xi summit looms with tariffs and rare earths on agenda; US-China trade tension creates two-sided risk"
+   "reason": "Trump-Xi summit looms with tariffs and rare earths on agenda; US-China trade tension creates two-sided risk",
+   "price_since": {
+    "ticker": "FXI",
+    "pct": 0.3,
+    "base": 34.19,
+    "last": 34.29,
+    "base_date": "2026-09-17",
+    "last_date": "2026-09-18"
+   }
   },
   {
    "date": "2026-09-17T03:03:00Z",
@@ -385,7 +561,15 @@
    "direction": "WATCH",
    "primary_ticker": "SPY",
    "strength": 50,
-   "reason": "Trump-Xi summit with tariffs and trade imbalance on agenda; high uncertainty, two-sided impact likely"
+   "reason": "Trump-Xi summit with tariffs and trade imbalance on agenda; high uncertainty, two-sided impact likely",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": -0.4,
+    "base": 762.6,
+    "last": 759.45,
+    "base_date": "2026-09-17",
+    "last_date": "2026-09-18"
+   }
   },
   {
    "date": "2026-09-17T02:00:00Z",
@@ -401,7 +585,15 @@
    "direction": "SELL",
    "primary_ticker": "SPY",
    "strength": 50,
-   "reason": "Canada-EU tensions signal potential geopolitical/trade friction affecting North American equities"
+   "reason": "Canada-EU tensions signal potential geopolitical/trade friction affecting North American equities",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": -0.4,
+    "base": 762.6,
+    "last": 759.45,
+    "base_date": "2026-09-17",
+    "last_date": "2026-09-18"
+   }
   },
   {
    "date": "2026-09-17T00:34:38Z",
@@ -417,7 +609,15 @@
    "direction": "BUY",
    "primary_ticker": "RKLB",
    "strength": 50,
-   "reason": "Trump's hidden space stock bets (ASTS, RKLB) emerge, suggesting bullish view on space/satellite sector"
+   "reason": "Trump's hidden space stock bets (ASTS, RKLB) emerge, suggesting bullish view on space/satellite sector",
+   "price_since": {
+    "ticker": "RKLB",
+    "pct": -5.1,
+    "base": 67.82,
+    "last": 64.36,
+    "base_date": "2026-09-17",
+    "last_date": "2026-09-18"
+   }
   },
   {
    "date": "2026-09-16T23:37:59Z",
@@ -436,11 +636,11 @@
    "reason": "Trump's Iran warning ('Power Plant Day') creates geopolitical uncertainty; mixed sector effects (energy up, broad market volatile)",
    "price_since": {
     "ticker": "SPY",
-    "pct": 1.1,
+    "pct": 0.7,
     "base": 754.05,
-    "last": 762.6,
+    "last": 759.45,
     "base_date": "2026-09-16",
-    "last_date": "2026-09-17"
+    "last_date": "2026-09-18"
    }
   },
   {
@@ -460,11 +660,11 @@
    "reason": "Fed rate hike typically supportive of equity futures in near term; broad market directional signal.",
    "price_since": {
     "ticker": "SPY",
-    "pct": 1.1,
+    "pct": 0.7,
     "base": 754.05,
-    "last": 762.6,
+    "last": 759.45,
     "base_date": "2026-09-16",
-    "last_date": "2026-09-17"
+    "last_date": "2026-09-18"
    }
   },
   {
@@ -484,11 +684,11 @@
    "reason": "Wendy's stock decline reported but headline does not explain Trump or market-moving catalyst; directional ambiguity.",
    "price_since": {
     "ticker": "WEN",
-    "pct": -0.6,
+    "pct": -2.4,
     "base": 7.03,
-    "last": 6.99,
+    "last": 6.86,
     "base_date": "2026-09-16",
-    "last_date": "2026-09-17"
+    "last_date": "2026-09-18"
    }
   },
   {
@@ -508,11 +708,11 @@
    "reason": "Fed rate hike and forward guidance signal higher rates ahead; bearish for equities.",
    "price_since": {
     "ticker": "SPY",
-    "pct": 1.1,
+    "pct": 0.7,
     "base": 754.05,
-    "last": 762.6,
+    "last": 759.44,
     "base_date": "2026-09-16",
-    "last_date": "2026-09-17"
+    "last_date": "2026-09-18"
    }
   },
   {
@@ -532,11 +732,11 @@
    "reason": "Energy weakness cited as driver of market decline",
    "price_since": {
     "ticker": "XLE",
-    "pct": 0.7,
+    "pct": 0.5,
     "base": 64.03,
-    "last": 64.48,
+    "last": 64.33,
     "base_date": "2026-09-16",
-    "last_date": "2026-09-17"
+    "last_date": "2026-09-18"
    }
   },
   {
@@ -556,11 +756,11 @@
    "reason": "Energy weakness reported in North American markets; sector headwind",
    "price_since": {
     "ticker": "XLE",
-    "pct": 0.7,
+    "pct": 0.5,
     "base": 64.03,
-    "last": 64.48,
+    "last": 64.33,
     "base_date": "2026-09-16",
-    "last_date": "2026-09-17"
+    "last_date": "2026-09-18"
    }
   },
   {
@@ -2417,54 +2617,6 @@
    "primary_ticker": "QQQ",
    "strength": 35,
    "reason": "Trump's pro-AI sentiment supports tech sector bullish outlook, but vague optimism lacks specificity or urgency"
-  },
-  {
-   "date": "2026-09-14T11:08:35Z",
-   "platform": "News",
-   "text": "AI-linked stocks slump after CEOs call for slowing technology\u2019s development - The Globe and Mail \u2014 AI-linked stocks slump after CEOs call for slowing technology\u2019s development\u00a0\u00a0The Globe and Mail",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOM0I3Z1pxLVg5UkRxdmRfcEJIZHNMVUtCY0hQeVdsamZGVE5EWWwzSkVlZ1ZvOUFOcEdoZW1ob1ZfVTcyZ1RWbG5IUDlWampBVWpCMTZhS2hJVExHamtvU2VXVTlYdFhEV0NOUW1DU01XemV3Mk83THN1MnB0MHhlNHJUc3EzRlRJTTVxdF9JblJQWmJYWFQ0ODgxbGpOdlk4M0puR0lBNXQ?oc=5",
-   "tickers": [
-    "QQQ"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "QQQ",
-   "strength": 45,
-   "reason": "CEO calls to slow AI development -> AI-linked stocks down"
-  },
-  {
-   "date": "2026-09-14T11:08:35Z",
-   "platform": "News",
-   "text": "Global AI stocks fall as industry chiefs call for slowing development - The Globe and Mail \u2014 Global AI stocks fall as industry chiefs call for slowing development\u00a0\u00a0The Globe and Mail",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOM0I3Z1pxLVg5UkRxdmRfcEJIZHNMVUtCY0hQeVdsamZGVE5EWWwzSkVlZ1ZvOUFOcEdoZW1ob1ZfVTcyZ1RWbG5IUDlWampBVWpCMTZhS2hJVExHamtvU2VXVTlYdFhEV0NOUW1DU01XemV3Mk83THN1MnB0MHhlNHJUc3EzRlRJTTVxdF9JblJQWmJYWFQ0ODgxbGpOdlk4M0puR0lBNXQ?oc=5",
-   "tickers": [
-    "QQQ"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "QQQ",
-   "strength": 40,
-   "reason": "Industry calls to slow AI development create uncertainty; market reaction mixed between safety concerns and growth headwinds"
-  },
-  {
-   "date": "2026-09-14T10:10:37Z",
-   "platform": "News",
-   "text": "U.S. futures slide on AI blowback; oil and gas jump after Houthis intensify campaign - BNN Bloomberg \u2014 U.S. futures slide on AI blowback; oil and gas jump after Houthis intensify campaign\u00a0\u00a0BNN Bloomberg",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcldnZW9Nb1RtRTZOWldQalg3OVZ6eHozenB3LXJCOXV4TnQzOEJtRWVFaGZXamNKYjVaa3NsSnk2SVhfRGwyR1g3OTh4Z2tUWDVib3d5cFFqMFNuN0RnX1o4b3VYV0Q1Yk54N2xOdkdENXg1Q0JocUUwcFhFOTV6R2ExTnd2SEVIOUVKNU9FR1AyUjN6RU1xOHlKbEhEYmZTWlJ1aXZMeG5MeTY4WUhrd2tzSmpvTll5elRUX0JNeElTSHB5V3hOOA?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "SPY",
-   "strength": 35,
-   "reason": "Broad futures decline on AI concerns; oil jump on geopolitical tension"
   },
   {
    "curated": true,
