@@ -1,7 +1,39 @@
 {
- "last_updated": "2026-09-18T08:30:57Z",
+ "last_updated": "2026-09-18T13:07:54Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-09-18T11:51:00Z",
+   "platform": "News",
+   "text": "Wall Street is betting Trump backs down on Iran \u2014 but what if the \u2018TACO\u2019 trade fails this time? - MarketWatch \u2014 Wall Street is betting Trump backs down on Iran \u2014 but what if the \u2018TACO\u2019 trade fails this time?\u00a0\u00a0MarketWatch",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWDNOVFF1eF9kVnU2VEUyTDhkX21SMUlOT2NNNkNIMWVnWHhzUlFzRDI3dU5Yc0hmNEtUUG55UjZfZ01pcFlLRVhjcW5Ic1BZR1JCNko0aGowRjQ0MWo0UlJydlJsQVAyMzNHUFdlNlpyamMya0NLeGxVOWZhYUJnN1RaMVlwYy1rTU4wS2hjOWMxRC16Ujd6cjlicGdYWUNHSGFScFBjTkNvaFJKRm50TGU2SGc4dXhPOTBxVnpibS05OVZtTHRsRlBWVEpjQQ?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "SPY",
+   "strength": 35,
+   "reason": "Iran trade policy uncertainty creates ambiguous market signal; could go either way depending on outcome"
+  },
+  {
+   "date": "2026-09-18T10:06:00Z",
+   "platform": "News",
+   "text": "Explainer-What's next for Trump's aluminum smelter project in Oklahoma? - Tacoma News Tribune \u2014 Explainer-What's next for Trump's aluminum smelter project in Oklahoma?\u00a0\u00a0Tacoma News Tribune",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNN2tjRTYzU1J4Z2l3NEhoUExIOHlDTGM3UlFQU3VIYlVzXzJteHJTZnM0WV8wU2g0NnRIZmpPMWNYYVJZQ3NMMlF2WDVNblllX3c1LUs0NDJBV0gtbWp6MVZPUjJRaGIxcm11aHI2aHVLU3BvTG1JSVg2WnJTQlA3TU8wSkdvZw?oc=5",
+   "tickers": [
+    "XLE"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "XLE",
+   "strength": 45,
+   "reason": "Trump aluminum smelter project bullish for energy/industrial sector; commodity/construction play"
+  },
   {
    "date": "2026-09-18T02:09:25Z",
    "platform": "News",
@@ -49,22 +81,6 @@
    "primary_ticker": "AGH",
    "strength": 45,
    "reason": "Trump-linked drone manufacturer gets Pentagon/military demand signal; pre-market rally"
-  },
-  {
-   "date": "2026-09-17T21:09:00Z",
-   "platform": "News",
-   "text": "Wall Street is betting Trump backs down on Iran \u2014 but what if the \u2018TACO\u2019 trade fails this time? - MarketWatch \u2014 Wall Street is betting Trump backs down on Iran \u2014 but what if the \u2018TACO\u2019 trade fails this time?\u00a0\u00a0MarketWatch",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWDNOVFF1eF9kVnU2VEUyTDhkX21SMUlOT2NNNkNIMWVnWHhzUlFzRDI3dU5Yc0hmNEtUUG55UjZfZ01pcFlLRVhjcW5Ic1BZR1JCNko0aGowRjQ0MWo0UlJydlJsQVAyMzNHUFdlNlpyamMya0NLeGxVOWZhYUJnN1RaMVlwYy1rTU4wS2hjOWMxRC16Ujd6cjlicGdYWUNHSGFScFBjTkNvaFJKRm50TGU2SGc4dXhPOTBxVnpibS05OVZtTHRsRlBWVEpjQQ?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "SPY",
-   "strength": 40,
-   "reason": "Iran trade policy uncertainty; market betting on Trump de-escalation vs. risk of 'TACO' failure"
   },
   {
    "date": "2026-09-17T20:54:00Z",
@@ -178,6 +194,22 @@
    "primary_ticker": "QQQ",
    "strength": 40,
    "reason": "Global AI stock sell-off on regulation/slowdown calls; bearish tech/AI sentiment"
+  },
+  {
+   "date": "2026-09-17T12:13:42Z",
+   "platform": "News",
+   "text": "Trump Looks Isolated on Interest Rates - The New York Times \u2014 Trump Looks Isolated on Interest Rates\u00a0\u00a0The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1vN3dJZTRTZDBzSHo5M3prWkFWSlRfd1JpLWpXNWNyTV9abURrWEVtM0x6Q3Z3WHFtS29wVm1WN3lDb3NvS0pPbXd6U3pBZEREeXVLbTlHajZ0X25FdU1OekMwci1CME5XcEd0VlI5Y3d3U2Z5S1A2THZibTN0QQ?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "SPY",
+   "strength": 45,
+   "reason": "Trump isolated on interest rates; policy/Fed conflict creates macro uncertainty for broad market"
   },
   {
    "date": "2026-09-17T10:28:50Z",
@@ -2433,86 +2465,6 @@
    "primary_ticker": "SPY",
    "strength": 35,
    "reason": "Broad futures decline on AI concerns; oil jump on geopolitical tension"
-  },
-  {
-   "date": "2026-09-14T09:44:29Z",
-   "platform": "News",
-   "text": "Calls for tapping brakes on AI development rattle tech stocks - Daily Sabah \u2014 Calls for tapping brakes on AI development rattle tech stocks\u00a0\u00a0Daily Sabah",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQX2hMUDNrR1V0R2JIUmpueUg2ckZmX1pRRVNpU2VaM2tuTERDTmVJN0ZCb19aazFFMFM3YVhYTGhtSlRWN2JBVFFORlNkSGFGSmUxUmdDSUVFVGE3ZmlrLXlRanNwU1Z1YXM0bkxKdjFPejl0bXEtM05NOThEZkU3TGNGV0RaU3ozNk02MkJNODZsOUhfNFNxRXJBYmNiV0NrS2pKOUJSMmxiX2wyUGc?oc=5",
-   "tickers": [
-    "QQQ"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "QQQ",
-   "strength": 45,
-   "reason": "Pressure to brake AI development weighs on tech stocks; headlines suggest near-term sector headwinds"
-  },
-  {
-   "date": "2026-09-14T06:21:28Z",
-   "platform": "News",
-   "text": "Sam Altman urges caution on AI; Trump says US must keep its lead over China - business-standard.com \u2014 Sam Altman urges caution on AI; Trump says US must keep its lead over China\u00a0\u00a0business-standard.com",
-   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPSVJneHRod29XWFRpOGhiMkN4bFRvenBHRXN3VkVEMXJsMUZTVWxRbVZWLS1wbVdTNWMybzNXSklERWVsd3BNaXVVTUhlOGtER0g3aXZNZW9SMkI4MElrYnlCemJ0R1RFODhpU05hVlFWZFNMNGstUXp2cXloTFZkcXZVME40ZHgxODNkTEIxbjh4dW5NZFdXOHF2emJqeGlYc202SExEZXo4Nm9oUzRORENCd015Q1V6WDB6NnRZcmJKMXFKQmZKaHVGUUY5UUVhNXI3WkVWOWYtTjhRTXJRaHNNSnljZ21DTmZ1bEtKMGFMYl9yN3p1Vkd3b05MYXfSAYQCQVVfeXFMT2ljRDQ2Q2hyNDlpYnRQQnVNcFAzTzlJVm9kNmdOYWxNWFdHRGt4T0ZUTWFkMUswWkJvQWNqRnZrUUJELWxkUGxQQWZUcTdqcTNQWl84VUxsdTVkemduSlFQZ2lVY3hjT21LdWxzX0JMSk1BazFXZ05JbElmM2xRVVk3SnVoQ2wxb1haVXp3Tl82ejd5WmRNdjk4S3hsaHNwTWJZRm9objFwOXpVUlVVLUtSampYWTE0dFlYdEZ1bFJFVDg2eXBDLUV2NE5QMUJycnhla1lvRDZGUnI1ZzBiZWVPWllzRUNaalRIVkRtWkJRWlhmYms1eUwwakdfWUpDOE5mOUM?oc=5",
-   "tickers": [
-    "QQQ"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "QQQ",
-   "strength": 35,
-   "reason": "Trump emphasizes US AI lead over China; pro-US tech growth sentiment."
-  },
-  {
-   "date": "2026-09-14T06:21:10Z",
-   "platform": "News",
-   "text": "Sam Altman urges caution on AI; Trump says US must keep its lead over China - Business Standard \u2014 Sam Altman urges caution on AI; Trump says US must keep its lead over China\u00a0\u00a0Business Standard",
-   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPSVJneHRod29XWFRpOGhiMkN4bFRvenBHRXN3VkVEMXJsMUZTVWxRbVZWLS1wbVdTNWMybzNXSklERWVsd3BNaXVVTUhlOGtER0g3aXZNZW9SMkI4MElrYnlCemJ0R1RFODhpU05hVlFWZFNMNGstUXp2cXloTFZkcXZVME40ZHgxODNkTEIxbjh4dW5NZFdXOHF2emJqeGlYc202SExEZXo4Nm9oUzRORENCd015Q1V6WDB6NnRZcmJKMXFKQmZKaHVGUUY5UUVhNXI3WkVWOWYtTjhRTXJRaHNNSnljZ21DTmZ1bEtKMGFMYl9yN3p1Vkd3b05MYXfSAYQCQVVfeXFMT2ljRDQ2Q2hyNDlpYnRQQnVNcFAzTzlJVm9kNmdOYWxNWFdHRGt4T0ZUTWFkMUswWkJvQWNqRnZrUUJELWxkUGxQQWZUcTdqcTNQWl84VUxsdTVkemduSlFQZ2lVY3hjT21LdWxzX0JMSk1BazFXZ05JbElmM2xRVVk3SnVoQ2wxb1haVXp3Tl82ejd5WmRNdjk4S3hsaHNwTWJZRm9objFwOXpVUlVVLUtSampYWTE0dFlYdEZ1bFJFVDg2eXBDLUV2NE5QMUJycnhla1lvRDZGUnI1ZzBiZWVPWllzRUNaalRIVkRtWkJRWlhmYms1eUwwakdfWUpDOE5mOUM?oc=5",
-   "tickers": [
-    "QQQ"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "QQQ",
-   "strength": 55,
-   "reason": "Trump backs US AI leadership over China; pro-tech/AI bullish signal"
-  },
-  {
-   "date": "2026-09-14T05:30:09Z",
-   "platform": "News",
-   "text": "Slow Down AI? Microsoft CEO, President Trump Line Up Against Anthropic's Call \u2014 Big Tech's Divide Is Now Out In The Open - Stocktwits \u2014 Slow Down AI? Microsoft CEO, President Trump Line Up Against Anthropic's Call \u2014 Big Tech's Divide Is Now Out In The Open\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNbjFFdWsxLTBrRGF4MUlMVFRscVU3ckhrem0zdjVGWFdpVEFWUXVSa1FmNlA3aXJYQW5KUE1EZU1iV01HT3l2RUdKVVJ5WEtnV2hESEFHWC1IcDFENWdfVjFheFBvdVhTRXktZVotMFo0VThIVzFlbDdrdU1nb1pHWnNmSkZhS0t4a28tRWRaMElEcnRfMEIyUkRqWGplZnAyZlAtMjNXc2VFUDVBTXRLODV0MDJfLUg1QkFQb0lpYWhXVXF2b2N3LVBDcklyZkc1ZVpJeEJlaGt2bkcwN0pkd09MS0xoWGZyZEEwaFhfV3dwNjZicnJmREJWdEtaWF9NNUtPTHVaTWZwV1Q5?oc=5",
-   "tickers": [
-    "MSFT"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "MSFT",
-   "strength": 40,
-   "reason": "Trump and Microsoft CEO aligned against AI slowdown; bullish for big tech"
-  },
-  {
-   "date": "2026-09-14T05:28:26Z",
-   "platform": "News",
-   "text": "Slow Down AI? Microsoft CEO, President Trump Line Up Against Anthropic's Call \u2014 Big Tech's Divide Is Now Out In The Open - Yahoo Finance \u2014 Slow Down AI? Microsoft CEO, President Trump Line Up Against Anthropic's Call \u2014 Big Tech's Divide Is Now Out In The Open\u00a0\u00a0Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMTJxRy1aSEFaYmpIQmpsNGVKLVVBY2s2RkFxTjRjVUxJRzNYTkVyOVFuSXYwMHBWQmlkWmZjNEVBX3NXOVZScUYxbHVTWmdza0dZdnJBS1ZlS2tFVDJ4SnlKSjdKM1RJdGdZTEdFd3ZreTJMOWVRZVV4Rko5dXhOU0txSllNa1BCNVNpN0hkbl8yUXoz?oc=5",
-   "tickers": [
-    "MSFT"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "MSFT",
-   "strength": 40,
-   "reason": "Trump and Microsoft CEO aligned against AI slowdown; bullish for big tech"
   },
   {
    "curated": true,
