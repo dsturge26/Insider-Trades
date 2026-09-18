@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-09-18T21:53:21Z",
+ "last_updated": "2026-09-18T23:54:46Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -279,6 +279,30 @@
     "pct": -0.3,
     "base": 64.48,
     "last": 64.31,
+    "base_date": "2026-09-17",
+    "last_date": "2026-09-18"
+   }
+  },
+  {
+   "date": "2026-09-17T16:59:52Z",
+   "platform": "News",
+   "text": "US securities regulator rolls out five-year exemption for tokenized stock trading - Reuters \u2014 US securities regulator rolls out five-year exemption for tokenized stock trading\u00a0\u00a0Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMGJTTHZsX1M4S3BWWjZkQXZZOWs4aU13T0VXRVB4QTVYdGF3QWRYMUh2LVJzYjhObm9YV3pkdFZnRmRya05xQ09VWm9od1U5OTBTRXZJTjZsc0tEV2hfUUVJSS1xMWF0STluTGZuTVdVQ3IxaTRuXzNMS3FOT216bFduaGVGQnlleG1XNkQxTU14aTNsTHlHWHlEbVlVTkFacTJtLTFJUnJQNXJyOTdZcWxLTFlIWlJBRzZJ?oc=5",
+   "tickers": [
+    "COIN"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "COIN",
+   "strength": 45,
+   "reason": "SEC tokenized stock exemption is bullish for crypto and digital asset trading infrastructure.",
+   "price_since": {
+    "ticker": "COIN",
+    "pct": 11.7,
+    "base": 173.97,
+    "last": 194.25,
     "base_date": "2026-09-17",
     "last_date": "2026-09-18"
    }
@@ -2601,22 +2625,6 @@
    "primary_ticker": "SPY",
    "strength": 40,
    "reason": "Mixed market signals: tech weakness from AI blowback offset by energy strength from geopolitical risk"
-  },
-  {
-   "date": "2026-09-14T12:50:37Z",
-   "platform": "News",
-   "text": "Global AI Stocks Fall As Industry Chiefs Call For Slowing Development - HuffPost \u2014 Global AI Stocks Fall As Industry Chiefs Call For Slowing Development\u00a0\u00a0HuffPost",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNER4amh3Q3dodkNnSDJuUGtKdzZDcjM3RlpxM1B2cy1WSWJveDJ5RW9aLTVmYmZ4V2FVcy1DYl9iREVYT20wb2J5cTNJNWhEMWVXVjdZRmtfZHBpbVpnYktMeGRncjNTUkRDWnE5cnRDT0RxdDJEeTJEZFh5TlhfcFBKTU41M2VN0gGOAUFVX3lxTFBqd25qNFdjSV9LT0VvWXU0Z2w3TWZKVGJsLV9ja0JET2VaRENpa01Fd3ZRMXYxdFl3LTN2aC1EU29hUWJZRlFsZzJXUWVkOG5vSzRYbGU5dDl0U0dpNDZXbUw3U1BWRGdvamxwQUYxTnRrSmFfNjFjd3lPY2VSMzRFdlZybTRKLWt3eGMxbmc?oc=5",
-   "tickers": [
-    "QQQ"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "QQQ",
-   "strength": 45,
-   "reason": "AI sector concerns -> tech stocks down"
   },
   {
    "curated": true,
