@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-09-19T21:02:54Z",
+ "last_updated": "2026-09-19T23:05:26Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -51,6 +51,22 @@
    "primary_ticker": "SPY",
    "strength": 35,
    "reason": "Trump-Xi summit and China-US tensions on sanctions affect broad trade/geopolitical risk; direction unclear pending outcome"
+  },
+  {
+   "date": "2026-09-19T13:55:16Z",
+   "platform": "News",
+   "text": "Ahead of Trump-Xi summit, China slams US sanctions on Russia, Iran - business-standard.com \u2014 Ahead of Trump-Xi summit, China slams US sanctions on Russia, Iran\u00a0\u00a0business-standard.com",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWUx5cWxqOXNYWHZCUWk3VEI3RklSRjlrZlBvaERCUDBtbXRtMllSR2kxV3hiakFPbld3OUt5TnZxenlQRnNjTFhyUV9kU3BwclU1UEtkd1EyNl9lRm9ObW1IZ2FuMHNseUVLc2tQdkF3cFZCWGdNNWlHdDVxOEptVld1MnpUXy14d0ZNSlhxa19RRW9KWVJYTVpqOWxrQUV2WGV4N2FXUGI4TzV4OEtnUmVwekVxOUNCdXhkUE50eW9mN1Y5QW51VERTMkxXUdIBzgFBVV95cUxPWUx5cWxqOXNYWHZCUWk3VEI3RklSRjlrZlBvaERCUDBtbXRtMllSR2kxV3hiakFPbld3OUt5TnZxenlQRnNjTFhyUV9kU3BwclU1UEtkd1EyNl9lRm9ObW1IZ2FuMHNseUVLc2tQdkF3cFZCWGdNNWlHdDVxOEptVld1MnpUXy14d0ZNSlhxa19RRW9KWVJYTVpqOWxrQUV2WGV4N2FXUGI4TzV4OEtnUmVwekVxOUNCdXhkUE50eW9mN1Y5QW51VERTMkxXUQ?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "SPY",
+   "strength": 25,
+   "reason": "China-US trade tensions ahead of summit; geopolitical risk but direction unclear"
   },
   {
    "date": "2026-09-19T10:00:00Z",
@@ -211,6 +227,22 @@
    "primary_ticker": "QQQ",
    "strength": 40,
    "reason": "AI liability concerns bearish for AI/tech sector growth and margins"
+  },
+  {
+   "date": "2026-09-18T15:37:30Z",
+   "platform": "News",
+   "text": "'Profoundly corrupt': Trump sued in federal court over selling early access to Truth Social posts - ABC News - Breaking News, Latest News and Videos \u2014 'Profoundly corrupt': Trump sued in federal court over selling early access to Truth Social posts\u00a0\u00a0ABC News - Breaking News, Latest News and Videos",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTlNxLWhIR2xFeDYzZTRuQjU2RUZJcjVkSTVIbGJvN3NyX0Q3eTNvaWVXQndoT3BtRTNqWHlFQkFyb2RRaUZ4ZjFnQVV2bGpUbWxSVklMNlJiam9sdHR6em1GTHZxQmRWVm9XRzBzV3l5NHZGT0w4SmVfQTRzR3ptVmNqNURhZ1QxZ3E4VURyMTg1NHQwbklMbjRZcDJXRzI3MGZ2c3dJeGvSAa4BQVVfeXFMUDdGSHgweGtzWU5EZ3VDQ0E3ZVp3OUtIaVlZLU80dkZUckhXUWt5cXIyQ0h2ZGh4MzNRRUFDT2Z4OWN4RUp2TkZSLWxkaFFTamUxckM0dWgxQzBOZE05Wm52cHdtb1hWTWNsSGk3cHJkaHlLWnBlWGVyZTl6RVhjdEktaGpJQUtaczI1N0lRQkpBX1pqVjVUUVBCTFNyR1R3eVlpOW94Q0I1OWhMeXdB?oc=5",
+   "tickers": [
+    "DJT"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "DJT",
+   "strength": 40,
+   "reason": "Lawsuit alleges Truth Social scheme to sell early access; reputational/legal risk to Trump's company"
   },
   {
    "date": "2026-09-18T15:11:54Z",
@@ -2583,6 +2615,23 @@
    "primary_ticker": "XLE",
    "strength": 35,
    "reason": "Trump signals oil prices will drop post-Iran conflict, oil sector pressure relief expected"
+  },
+  {
+   "date": "2026-09-14T16:25:46.455Z",
+   "platform": "Truth Social",
+   "text": "Oil is flowing through the Hormuz Strait. The Countries of the World, which have been no help to us whatsoever, should, and will, reimburse the United States of America when this SCAM Confligration is all over. We are doing it much more for others, than we are for ourselves, and we have been for Generations! President DONALD J. TRUMP",
+   "tickers": [
+    "USO"
+   ],
+   "engagement": 12436,
+   "url": "https://truthsocial.com/@realDonaldTrump/117270324606038555",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "USO",
+   "strength": 45,
+   "reason": "Trump assertion that US will enforce reimbursement for Strait of Hormuz security implies defense/energy spending and potential oil price support."
   },
   {
    "curated": true,
