@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-09-19T12:32:14Z",
+ "last_updated": "2026-09-19T16:04:44Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-09-19T13:55:16Z",
+   "platform": "News",
+   "text": "Ahead of Trump-Xi summit, China slams US sanctions on Russia, Iran - Business Standard \u2014 Ahead of Trump-Xi summit, China slams US sanctions on Russia, Iran\u00a0\u00a0Business Standard",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWUx5cWxqOXNYWHZCUWk3VEI3RklSRjlrZlBvaERCUDBtbXRtMllSR2kxV3hiakFPbld3OUt5TnZxenlQRnNjTFhyUV9kU3BwclU1UEtkd1EyNl9lRm9ObW1IZ2FuMHNseUVLc2tQdkF3cFZCWGdNNWlHdDVxOEptVld1MnpUXy14d0ZNSlhxa19RRW9KWVJYTVpqOWxrQUV2WGV4N2FXUGI4TzV4OEtnUmVwekVxOUNCdXhkUE50eW9mN1Y5QW51VERTMkxXUdIBzgFBVV95cUxPWUx5cWxqOXNYWHZCUWk3VEI3RklSRjlrZlBvaERCUDBtbXRtMllSR2kxV3hiakFPbld3OUt5TnZxenlQRnNjTFhyUV9kU3BwclU1UEtkd1EyNl9lRm9ObW1IZ2FuMHNseUVLc2tQdkF3cFZCWGdNNWlHdDVxOEptVld1MnpUXy14d0ZNSlhxa19RRW9KWVJYTVpqOWxrQUV2WGV4N2FXUGI4TzV4OEtnUmVwekVxOUNCdXhkUE50eW9mN1Y5QW51VERTMkxXUQ?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "SPY",
+   "strength": 35,
+   "reason": "Trump-Xi summit and China-US tensions on sanctions affect broad trade/geopolitical risk; direction unclear pending outcome"
+  },
   {
    "date": "2026-09-19T10:00:00Z",
    "platform": "News",
@@ -49,6 +65,22 @@
    "primary_ticker": "XBI",
    "strength": 35,
    "reason": "Vaccine policy demand could create regulatory/market uncertainty for biotech/vaccine makers"
+  },
+  {
+   "date": "2026-09-18T19:26:56Z",
+   "platform": "News",
+   "text": "Pak buys Trump support via drone deal with Trump family-backed company - wionews.com \u2014 Pak buys Trump support via drone deal with Trump family-backed company\u00a0\u00a0wionews.com",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZXJBSHN5TXppN3IxMi1VSENZV051bHRhdFVnOWI0cmRBajJLWlRiN1k1ODdSNjZOMmVpQzdGTTVWdVU1MTJrNWhtSURFWDV5clp2WlQycmEtSUNQRXpNLTRpakY2Y0g4TWVXSE1hTEo0Q21BUTF3WWE0NUJ2TVB4YmdEWHByYWsxRzFUb2dzSVg1dzFCTmk5NnZJYTFQWVpkcy10OVFySGVwX0tmMG84aWZzSFFiUVVncFMw0gG7AUFVX3lxTE9lckFIc3lNemk3cjEyLVVIQ1lXTnVsdGF0VWc5YjRyZEFqMktaVGI3WTU4N1I2Nk4yZWlDN0ZNNVZ1VTUxMms1aG1JREVYNXlyWnZaVDJyYS1JQ1BFek0tNGlqRjZjSDhNZVdITWFMSjRDbUFRMXdZYTQ1QnZNUHhiZ0RYcHJhazFHMVRvZ3NJWDV3MUJOaTk2dklhMVBZWmRzLXQ5UXJIZXBfS2YwbzhpZnNIUWJRVWdwUzA?oc=5",
+   "tickers": [
+    "DJT"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "DJT",
+   "strength": 55,
+   "reason": "Trump family-backed company wins foreign drone deal; bullish signal for Trump Organization-linked assets and potential DJT valuation"
   },
   {
    "date": "2026-09-18T19:10:30Z",
@@ -2592,38 +2624,6 @@
    "primary_ticker": "QQQ",
    "strength": 48,
    "reason": "Trump frames AI guardrails as conspiracy, pro-development stance supports tech growth"
-  },
-  {
-   "date": "2026-09-14T14:55:23Z",
-   "platform": "News",
-   "text": "Global AI Stocks Fall as Industry Chiefs Call for Slowing Development - mb.ntd.com \u2014 Global AI Stocks Fall as Industry Chiefs Call for Slowing Development\u00a0\u00a0mb.ntd.com",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTm84akFna1hHUE9Ra3BCOW5KbFU4c1Y4V0RodEdUUlBvYlRpRDdUc0MyR3V4ZmYxLWRxbXBPM09tbmJUS1NnUE8ybEIwX2hCUnE4Y1JVaXNUdXNaSzRfZ0FaWHlvTHRNV3dlaF9aRUtaMU1ZWjc3YXJONzlxWWtwelFuY0ZwTThKaDYtc2hFbDJaY0lhOGhNNXJEZjgxN0I5aHVr?oc=5",
-   "tickers": [
-    "QQQ"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "QQQ",
-   "strength": 45,
-   "reason": "AI industry slowdown calls drive tech stock decline despite Trump's pro-AI stance"
-  },
-  {
-   "date": "2026-09-14T14:53:35Z",
-   "platform": "News",
-   "text": "Global tech stocks slide on AI slowdown talks - RTE.ie \u2014 Global tech stocks slide on AI slowdown talks\u00a0\u00a0RTE.ie",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9TcU9KZWlSNHR4TXVRMGMwOUtQYklPZFBqaG5EYUVPUUc0VGM0REtLQ3Zwbl8zS1RiSUJiQVhpLWZ1dFR2d0JrNzI2UHhWMjdNNFBLQWZDSnlUcTBBdTNwdDgyV2dieE9xclNMQWlpUFZpODhXMWc?oc=5",
-   "tickers": [
-    "QQQ"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "QQQ",
-   "strength": 40,
-   "reason": "AI slowdown talk drives tech stock selloff independent of Trump but signals near-term headwind"
   },
   {
    "curated": true,
