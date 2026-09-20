@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-09-20T06:17:05Z",
+ "last_updated": "2026-09-20T11:43:10Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-09-20T07:27:25Z",
+   "platform": "News",
+   "text": "Discover Trump says he will put 100% tariff on computer chips - qz.com \u2014 Discover Trump says he will put 100% tariff on computer chips\u00a0\u00a0qz.com",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1rOUU5N3lPT043OXJ0ajRwcVQ5VTQzRlNQNUxWT3BiTTBkN0FCa1JvOFhQQnJCY08zMERoSmxHb3FRMTJPSzlMbVNUS1FoTkthU3YzM0gzS1dnWm1NbHFuOUtnZlNXN2I3?oc=5",
+   "tickers": [
+    "SMH"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "SELL",
+   "primary_ticker": "SMH",
+   "strength": 85,
+   "reason": "Trump proposes 100% tariff on computer chips\u2014explicit policy bearish for semiconductor sector."
+  },
   {
    "date": "2026-09-20T04:23:41Z",
    "platform": "News",
@@ -17,6 +33,22 @@
    "primary_ticker": "SPY",
    "strength": 35,
    "reason": "Trump warming to China suggests reduced trade tension and tariff risk; moderately bullish for broad market"
+  },
+  {
+   "date": "2026-09-20T02:31:00Z",
+   "platform": "News",
+   "text": "Trump proposes striking new names for AI as he doubles down on aggressively pro-tech stance - dailymail.com \u2014 Trump proposes striking new names for AI as he doubles down on aggressively pro-tech stance\u00a0\u00a0dailymail.com",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNTBUdWpsd0NDM0c4NUI4NXl0YkVhM2JZSm83OFhiTFFid1UwSDZkbVg0MGhlMUU3dTZtb1hnaEs2Z2szS3BOZnBvT1pDaWM1TmNiUWFSUlBRTnpVdERYWks4ZVpPblVJN2VmOFB2blVlWjNWb1BXX0dMbWRtWWZ2cEtNRHl3a1NXSlBoYUZHcDUtUWotZl9NZk1BMks?oc=5",
+   "tickers": [
+    "QQQ"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "QQQ",
+   "strength": 65,
+   "reason": "Trump doubles down on pro-tech stance; bullish for tech sector broadly."
   },
   {
    "date": "2026-09-19T22:14:57Z",
@@ -49,6 +81,22 @@
    "primary_ticker": "SMH",
    "strength": 45,
    "reason": "Trump weighing in on Elon, OpenAI, Intel suggests tech sector focus; Fed criticism is macro-bearish but tech praise is mixed"
+  },
+  {
+   "date": "2026-09-19T21:00:46Z",
+   "platform": "News",
+   "text": "QCOM Stock Is 7% From Its Record High; Executives To Join Trump In China Visit - Stocktwits \u2014 QCOM Stock Is 7% From Its Record High; Executives To Join Trump In China Visit\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVXpadHNKQ3hrQS15eXBfZVNyZkRXR2hZZGpvbUF0OFp0VHJrWUhsck53RmFDb2l4eUdfVFQwY0QyZ0tYMERtRE1aaGRVSV9ORFVQd1I4WW9VOXNPS2o2Z3RqRnVReldvOWJneGJsbl81MDRkdTQ1TFd1RVQzWHgzcS01VU9ZY0RuVHZ4TWZOQWphQjlDZVQxMkJKb21PZkJYZXNxLVhnT0xKUDVEcHZYWWUyNncyZzJwX0V1YkJUTUluTU9rTFkxZ2RLRkx6eTk0dGRLSTg1T0Nwd0toT3c?oc=5",
+   "tickers": [
+    "QCOM"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "QCOM",
+   "strength": 60,
+   "reason": "QCOM executives joining Trump in China visit; positive engagement signal."
   },
   {
    "date": "2026-09-19T17:12:55.494Z",
@@ -149,6 +197,22 @@
    "reason": "Fed chair confirmation is macro-relevant but opinion piece offers no directional clarity on policy"
   },
   {
+   "date": "2026-09-19T08:45:33Z",
+   "platform": "News",
+   "text": "IBM Stock Rallies On Trump Administration\u2019s $1B Grant: Analysts Say \u2018Big Blue\u2019 Could Become First US Quantum Foundry - Stocktwits \u2014 IBM Stock Rallies On Trump Administration\u2019s $1B Grant: Analysts Say \u2018Big Blue\u2019 Could Become First US Quantum Foundry\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOVG52c0VBRjZ6TzVuLThuSWdTN3NxMlIzUEc0aWVkUllDZDJMSVVMRlo1Rkgxb1Rja2swU1JlcVhlbmg4ejlfeGJoRGkzVG1VSEM4ZC1McWtGQnNVYklYVjYwQVliTHRoX3NqZDJZV0dlQ2NTaC1NaHhFaVAtdmVjdzVGcFhSangwdDluaTltYXZ3TXhaWWxISmlPREpkQ0N2VHdEMENJUkpDaDBGcUhSdXFZdExXbkhPaENSWlAxbVhPS3EyTnoyc3NoX2RpOXNqeEFYaFhhaGYxQUxRaWR0QUJwQ0J5VmhBY3ZpOV9YMVNjeUZlRHRzVXBLS3BpSER4VXpVWTVsYS1aZw?oc=5",
+   "tickers": [
+    "IBM"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "IBM",
+   "strength": 75,
+   "reason": "$1B federal grant for quantum foundry development is bullish for IBM's advanced tech portfolio"
+  },
+  {
    "date": "2026-09-19T06:22:39Z",
    "platform": "News",
    "text": "DJT Stock Slips Overnight: Truth Social To Sell Wall Street 'Fastest' Access To Trump's Posts - Stocktwits \u2014 DJT Stock Slips Overnight: Truth Social To Sell Wall Street 'Fastest' Access To Trump's Posts\u00a0\u00a0Stocktwits",
@@ -179,6 +243,22 @@
    "primary_ticker": "COIN",
    "strength": 25,
    "reason": "Semiconductor/DRAM news unrelated to Trump; included as context but not Trump-driven"
+  },
+  {
+   "date": "2026-09-18T20:30:29Z",
+   "platform": "News",
+   "text": "Trump to talk to Thune about bill to curb data center-driven electricity costs - Devdiscourse \u2014 Trump to talk to Thune about bill to curb data center-driven electricity costs\u00a0\u00a0Devdiscourse",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNcS1zajk2bHQ0ay1HYkRtbnphbFVOSnY5bUd5OE04RzdDdWUxTDNpc0RvYkFqeVlNM1hKVUxnX25NUUVOVlY2dmprLTQ4SmdERmxJa2o3TERfa3R2UC1VSjhmTjRVODZzeWdsR3Z0UDB2SG9zeVlFYy15cW1IOGMxb0hKTTI0bzVadjhoMG1OYkxxYWNpMnowa2FLd21FbFBpLUJCclJ5Y3FySGU4VWNHUlUzTC1wLXFuRnFuUm91bUpnUXB5UF93LU9HcmNCVDhSa1JORXhkbVrSAdgBQVVfeXFMTXEtc2o5Nmx0NGstR2JEbW56YWxVTkp2OW1HeThNOEc3Q3VlMUwzaXNEb2JBanlZTTNYSlVMZ19uTVFFTlZWNnZqay00OEpnREZsSWtqN0xEX2t0dlAtVUo4Zk40VTg2c3lnbEd2dFAwdkhvc3lZRWMteXFtSDhjMW9ISk0yNG81WnY4aDBtTmJMcWFjaTJ6MGthS3dtRWxQaS1CQnJSeWNxckhlOFVjR1JVM0wtcC1xbkZxblJvdW1KZ1FweVBfdy1PR3JjQlQ4UmtSTkV4ZG1a?oc=5",
+   "tickers": [
+    "SMH"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "SMH",
+   "strength": 50,
+   "reason": "Proposed bill to curb data center electricity costs is bullish for semiconductor and chip manufacturers dependent on power-efficient infrastructure"
   },
   {
    "date": "2026-09-18T20:29:08Z",
@@ -1375,30 +1455,6 @@
    }
   },
   {
-   "date": "2026-09-15T18:56:54Z",
-   "platform": "News",
-   "text": "QCOM Stock Is 7% From Its Record High; Executives To Join Trump In China Visit - Stocktwits \u2014 QCOM Stock Is 7% From Its Record High; Executives To Join Trump In China Visit\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVXpadHNKQ3hrQS15eXBfZVNyZkRXR2hZZGpvbUF0OFp0VHJrWUhsck53RmFDb2l4eUdfVFQwY0QyZ0tYMERtRE1aaGRVSV9ORFVQd1I4WW9VOXNPS2o2Z3RqRnVReldvOWJneGJsbl81MDRkdTQ1TFd1RVQzWHgzcS01VU9ZY0RuVHZ4TWZOQWphQjlDZVQxMkJKb21PZkJYZXNxLVhnT0xKUDVEcHZYWWUyNncyZzJwX0V1YkJUTUluTU9rTFkxZ2RLRkx6eTk0dGRLSTg1T0Nwd0toT3c?oc=5",
-   "tickers": [
-    "QCOM"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "QCOM",
-   "strength": 25,
-   "reason": "Qualcomm executives joining Trump China visit; suggests potential trade/China policy developments affecting chip sector",
-   "price_since": {
-    "ticker": "QCOM",
-    "pct": 0.5,
-    "base": 187.8,
-    "last": 188.71,
-    "base_date": "2026-09-15",
-    "last_date": "2026-09-17"
-   }
-  },
-  {
    "date": "2026-09-15T18:51:56Z",
    "platform": "News",
    "text": "Trump gives Ukraine OK to produce Patriot missiles as war with Russia drags on - ABC News - Breaking News, Latest News and Videos \u2014 Trump gives Ukraine OK to produce Patriot missiles as war with Russia drags on\u00a0\u00a0ABC News - Breaking News, Latest News and Videos",
@@ -2581,87 +2637,6 @@
    "primary_ticker": "QQQ",
    "strength": 35,
    "reason": "AI stock weakness but broad market resilience, mixed directional signal"
-  },
-  {
-   "date": "2026-09-14T18:27:26Z",
-   "platform": "News",
-   "text": "Trump dismisses AI safety alarm, says US already has tools to police industry - The Mighty 790 KFGO \u2014 Trump dismisses AI safety alarm, says US already has tools to police industry\u00a0\u00a0The Mighty 790 KFGO",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQM09yY3ZLUV9CSTZDN2RRSnowaDlJUHlvTmctNWhtczhvMmk5eUh3ckhPVlZKcW84bjRrUExSNmZHOEpkMkU4NjNnRFhhQzE0bS1iNkZiODZ4UG1oOHQwX3VYQTlzbzEyTHBPYk9EcWtHQ3JiOFNad05DTUFqdVltUHJQTTJsU1l6YVhJSGdJbEJ1dE1z?oc=5",
-   "tickers": [
-    "QQQ"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "QQQ",
-   "strength": 45,
-   "reason": "Trump downplays AI safety concerns, supports light-touch regulatory approach favorable to expansion"
-  },
-  {
-   "date": "2026-09-14T18:25:00Z",
-   "platform": "News",
-   "text": "Trump says fears of AI \u2018taking over the world and destroying humanity\u2019 are a hoax - Washington Examiner \u2014 Trump says fears of AI \u2018taking over the world and destroying humanity\u2019 are a hoax\u00a0\u00a0Washington Examiner",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUk5tNVZSNWprbVJQYmZtSHRBYVBIblNpR2RwVlIwWTAtTml2bmJzd0NHbFd6T3pRQlY4T1oxT0RLMVBBUE82M0FSU21UdV81aDR1enQ5ZVhJeTdjVzlXcV9xN05qMDRkeDBDaEZHLVFZNGRUcFpKRXdKOF9sbzhiZl9NWGpLVGRpdVJzbnZabXBIa3dURG5DNWJGRWJOQ214c19mQWhyM0g0TWdtRWpHSmlDNG5Vd2ZGcXpDMDA0VkI?oc=5",
-   "tickers": [
-    "QQQ"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "QQQ",
-   "strength": 60,
-   "reason": "Trump dismisses AI regulation fears; pro-innovation stance bullish for AI/tech sector."
-  },
-  {
-   "date": "2026-09-14T17:55:08Z",
-   "platform": "News",
-   "text": "'Bitcoin Senator' Praises Trump for 'More than Expected' CLARITY Act Concessions - Benzinga \u2014 'Bitcoin Senator' Praises Trump for 'More than Expected' CLARITY Act Concessions\u00a0\u00a0Benzinga",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUS1ieVN5RWNKcmgxZkZWVGZfa2swZ1ZJYnh3T0ZqR3NfNm5aWTZKOHhCeGVEcmNUMW41TVNoZWU0VXNKVWl2TVRBTDFqdGdQZWl2bkRGYThOa21QWkQ0MUxzRzh1dThVeTlGX1FZeFRLbThDc0k3eTNVSmNrMVFJYVpDd1ZTbjZfTmRXOVNJNXlzMktEUXBNT1lkdTFTa1AxdGNrWkF5c2tETThJM2Z0OFpRU1BFRnJwRjYzOE8zNHc4NWJCWFpFMll0aVNNeE05UUJmdA?oc=5",
-   "tickers": [
-    "BTC-USD"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "BTC-USD",
-   "strength": 65,
-   "reason": "Trump supports pro-crypto regulatory clarity (CLARITY Act); bullish signal for Bitcoin and crypto."
-  },
-  {
-   "date": "2026-09-14T17:33:39.115Z",
-   "platform": "Truth Social",
-   "text": "Concerning AI, when, in the History of Business, did anyone see the Leaders of an Industry call for Regulation that, if strongly implemented, will drive them into oblivion and bankruptcy? AI taking over the World, destroying Humanity, and all other things bad, is a HOAX, no different from RUSSIA, RUSSIA, RUSSIA \u2014 UKRAINE, UKRAINE, UKRAINE \u2014 IMPEACHMENT HOAX #1 \u2014 IMPEACHMENT HOAX #2 \u2014 and all of the other HOAXES and SCAMS that America was forced to endure through the Destructionists' and Deviants' foul play and illegal conduct. President Xi, of China, just announced that China will be doing absolutely nothing to stand in the way of AI, or its future. Google has recently stated that they want to build a massive Plant in Finland, all because they are finding permitting too difficult in the United States. I am not happy about this, and want them to change their thinking. AI, and Data Centers, will be the Greatest Economic Development Engine in History \u00ad\u00ad\u2014 Bigger than Oil, Gold, Diamonds, or even the Internet. It will not be stopped by brilliantly run Destructive Forces during the Term of President DONALD J. TRUMP!",
-   "tickers": [
-    "QQQ"
-   ],
-   "engagement": 8804,
-   "url": "https://truthsocial.com/@realDonaldTrump/117270591511950591",
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "QQQ",
-   "strength": 50,
-   "reason": "Trump dismisses AI regulation as hoax, backs rapid AI development benefiting tech leaders"
-  },
-  {
-   "date": "2026-09-14T17:23:00Z",
-   "platform": "News",
-   "text": "Trump Social Media Storm Bashes Biden, Praises Data Centers - Mediaite \u2014 Trump Social Media Storm Bashes Biden, Praises Data Centers\u00a0\u00a0Mediaite",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdHI3WHBncVZjUDBfMFltZVVCTWVqU2lDVnRSbXE3ZEtKeVI5enZQSU00V1ZpdUZUNmpZeC1QbjZ1UDBKek1rcERwenVUVzc3c2VDNTdmbGo4QU1ZanR1aXlhWmpIb0NCeDVSQ0YzV1Y1bk9fSWkwMW5LWVdTU0ZaZ0VDZjhGbnliZkxfSnJQN3dXZll1aFJqRzJPSWd1Vks3ZzcwaXB2bkpqbjV1?oc=5",
-   "tickers": [
-    "QQQ"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "QQQ",
-   "strength": 55,
-   "reason": "Trump praises data centers, criticizes slowdown calls, bullish for AI infrastructure expansion"
   },
   {
    "curated": true,
