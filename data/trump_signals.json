@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-09-20T11:43:10Z",
+ "last_updated": "2026-09-20T14:53:39Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-09-20T13:36:07Z",
+   "platform": "News",
+   "text": "Jensen Huang Emerges as Trump AI Policy Ally as Nvidia Opposes Industry-Wide R&D Slowdown, Report Says - TradingKey \u2014 Jensen Huang Emerges as Trump AI Policy Ally as Nvidia Opposes Industry-Wide R&D Slowdown, Report Says\u00a0\u00a0TradingKey",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOYXlmUWRDRjFpQzA3SVdkbUZIZzRnbGl5R3JBOXBiUl9adXVveEdfRVhyOU9Da095WnlNcF9xSFpzN3k0bWJZelA0X203cWJ0WFoyQVRQRmo4NndMRjVKZjdiOElZMEo3bVFrNnBjR0RoVmQwSGR6Zkh5SXpoMzlJejhzb0RpdGFPWTg4WEFKZUtmX3JFc0x6M1RPRjhmZ3pSUk5qTnZ0M0pUcDdUM05NMmduNHZMOVdvajljZ0p3M2YwUE9fWEtMME8ycFRKYm14WVh5T25RVEdkRWtVRVgtR2NydHpERVRySmc?oc=5",
+   "tickers": [
+    "NVDA"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "NVDA",
+   "strength": 60,
+   "reason": "Nvidia allies with Trump on AI policy; opposes R&D slowdown, signaling favorable regulatory environment for chip R&D expansion."
+  },
   {
    "date": "2026-09-20T07:27:25Z",
    "platform": "News",
@@ -49,6 +65,38 @@
    "primary_ticker": "QQQ",
    "strength": 65,
    "reason": "Trump doubles down on pro-tech stance; bullish for tech sector broadly."
+  },
+  {
+   "date": "2026-09-20T02:31:00Z",
+   "platform": "News",
+   "text": "Trump proposes striking new names for AI as he doubles down on aggressively pro-tech stance - Daily Mail \u2014 Trump proposes striking new names for AI as he doubles down on aggressively pro-tech stance\u00a0\u00a0Daily Mail",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNTBUdWpsd0NDM0c4NUI4NXl0YkVhM2JZSm83OFhiTFFid1UwSDZkbVg0MGhlMUU3dTZtb1hnaEs2Z2szS3BOZnBvT1pDaWM1TmNiUWFSUlBRTnpVdERYWks4ZVpPblVJN2VmOFB2blVlWjNWb1BXX0dMbWRtWWZ2cEtNRHl3a1NXSlBoYUZHcDUtUWotZl9NZk1BMkvSAaIBQVVfeXFMTWdQU090LTl6amQxMGlhNzFhdm55VTBiUXJGTXdrcUdxcktqVXNtcHV0ZmpCdGtfeDRWOGlGMVY2enprRmh6WDNIb3NPSFctVWFSV1BIbEJNOHd1M29XcE0wNTFwYmFFeEtlaWw4RUVBVW1pQS11ZXRyUTM5Q1MzZ0RuSm1ZcUFjNzN1dTI5dWpfU3otMkp1cEpmci1SQTVXSDlR?oc=5",
+   "tickers": [
+    "QQQ"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "QQQ",
+   "strength": 55,
+   "reason": "Trump doubles down on pro-tech AI stance; bullish for tech sector and AI-related growth."
+  },
+  {
+   "date": "2026-09-19T22:31:10Z",
+   "platform": "News",
+   "text": "Jamie Dimon Warns Inflation Ticking Up Is 'Not Good' \u2014 Praises Trump's 'One Big Beautiful Bill,' Deregulation Push To Stimulate Economic Growth - Stocktwits \u2014 Jamie Dimon Warns Inflation Ticking Up Is 'Not Good' \u2014 Praises Trump's 'One Big Beautiful Bill,' Deregulation Push To Stimulate Economic Growth\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNT0doNFRsMDktVlctR3pFZkNTc2g5WUNfanZvQktOVkdOTkRsQmZPdGZpSmVCQ3dlY1l1VXdQekRaNmg5VFhCQjAtLUd0czB5X0RGdTVPNEs5VUxOQ2Y0Vk9LU00wdDlKQ3hYekEySzRXVWlsajl3RHpESVV3SUdObTVlNlZ1UnJJSHVXb2thclRfaGlPLWNHY2JzczlfTWhKeUlBS3EyTlg3SXRpQ19mSWhGNnZkWjI0eWYydmNUNl9aTDB1Y2hzWFdMT05CanFLVkVZa2Zsc05MUQ?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "SPY",
+   "strength": 70,
+   "reason": "JPMorgan CEO praises Trump's deregulation and growth plans; broad bullish signal for equities and economic stimulus."
   },
   {
    "date": "2026-09-19T22:14:57Z",
@@ -2589,54 +2637,6 @@
    "primary_ticker": "SMH",
    "strength": 40,
    "reason": "Trump dismisses AI guardrail concerns as conspiracy, suggests pro-AI/deregulation stance favorable to semiconductor and AI sector growth"
-  },
-  {
-   "date": "2026-09-14T20:22:00Z",
-   "platform": "News",
-   "text": "Bigger than internet, oil, gold, diamonds: Trump says AI, data centres will be \u2018greatest economic developm - The Economic Times \u2014 Bigger than internet, oil, gold, diamonds: Trump says AI, data centres will be \u2018greatest economic developm\u00a0\u00a0The Economic Times",
-   "url": "https://news.google.com/rss/articles/CBMioANBVV95cUxQQ0g3eHFuOVJkQ21Ici1OVkpqaUJFZlNmRDRMUnJQT0ZEUmkyUUtSdUZQYndJZGhvUDR2bHNFUUJjOFdXRm1sTjRMcUtfdmpXb1hxNmV3YXRza1VhbC1UVVNkNnI3UmFGV08weFBzV24yZlNMbjhwSHRnSmdrS05MU08zclZURjBQOGZlTGlMa1pmMjhQTkk3UXBUTEJ6YllJVVFDMWxMcXZ5cGdsS2RKMWVpaFdRVUllNGxjeXlrSkhlVFhmTmpNUzNwaWU2Ym1nZTZKWmRmWFUxYW85UUI4cnVfMk91enFzcjJRcmFOWTdITnhYV0lzdHJxYl9uMFNpUWhnZVJKQzhreC1fRU1GbV83R2VwakZGN19YcUo3eEFLamxhZG1lQ0JzbnhDNGNZNjlVLTVlTkZncXROVGswdXJHVUNqZ1B1cUQwXzBoaXZRS0pLMmlxdGtSZ3FmZ2x2cUZCcDdkRkxuN3laeHpJUWxDM28wRHo1dk1qRmQ1Z1dsbUxOZUVKVGd2X0Y2a1RCRXhvSzBOT09Id19icmhhQ9IBoANBVV95cUxQQ0g3eHFuOVJkQ21Ici1OVkpqaUJFZlNmRDRMUnJQT0ZEUmkyUUtSdUZQYndJZGhvUDR2bHNFUUJjOFdXRm1sTjRMcUtfdmpXb1hxNmV3YXRza1VhbC1UVVNkNnI3UmFGV08weFBzV24yZlNMbjhwSHRnSmdrS05MU08zclZURjBQOGZlTGlMa1pmMjhQTkk3UXBUTEJ6YllJVVFDMWxMcXZ5cGdsS2RKMWVpaFdRVUllNGxjeXlrSkhlVFhmTmpNUzNwaWU2Ym1nZTZKWmRmWFUxYW85UUI4cnVfMk91enFzcjJRcmFOWTdITnhYV0lzdHJxYl9uMFNpUWhnZVJKQzhreC1fRU1GbV83R2VwakZGN19YcUo3eEFLamxhZG1lQ0JzbnhDNGNZNjlVLTVlTkZncXROVGswdXJHVUNqZ1B1cUQwXzBoaXZRS0pLMmlxdGtSZ3FmZ2x2cUZCcDdkRkxuN3laeHpJUWxDM28wRHo1dk1qRmQ1Z1dsbUxOZUVKVGd2X0Y2a1RCRXhvSzBOT09Id19icmhhQw?oc=5",
-   "tickers": [
-    "QQQ"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "QQQ",
-   "strength": 70,
-   "reason": "Trump calls AI/data centers greatest economic opportunity; major pro-tech, pro-growth macro call."
-  },
-  {
-   "date": "2026-09-14T20:10:48Z",
-   "platform": "News",
-   "text": "US tech stocks fall after big AI groups call for slowdown - Financial Times \u2014 US tech stocks fall after big AI groups call for slowdown\u00a0\u00a0Financial Times",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYWtoSDV4bG9HZm83MmNTZ1BaT003NTM0ckdUNFBVRlItZE04YnU4eGtlY1gxdmMyRnFfai1hbGY3cGg5SThhaTVTOXRtUnRNYW5QUUlfYVVQVmI3YklUUTdWVWZ0MEJHNTZPc2haMWdoMmpMeVFZcGVseGpVdENoLUhCdmk?oc=5",
-   "tickers": [
-    "QQQ"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "QQQ",
-   "strength": 40,
-   "reason": "AI groups call for slowdown, tech sector headwind independent of Trump signal"
-  },
-  {
-   "date": "2026-09-14T20:01:00Z",
-   "platform": "News",
-   "text": "AI stocks drop, but the rest of Wall Street holds steadier after oil prices give back an early jump - Chattanooga Times Free Press \u2014 AI stocks drop, but the rest of Wall Street holds steadier after oil prices give back an early jump\u00a0\u00a0Chattanooga Times Free Press",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVU1mSlZDOUdvM01aS0ZtcnBnX1g4X1NTYWhHOHFmSmdqN0VGUXVkZkFlU1hBVFdPUzlSVzBqWDh5a3lDSnpqWllrcFVyb3pZLXp0RUNpclN6dWJuZTlmVlBOdGFmMFRRMVlhbjh0clBaVmhNRVJzYjJaaUUyQVJNWnRxeXVZUWRrdUlEMkREWmpYRUJWSkNXODNoSm0wUQ?oc=5",
-   "tickers": [
-    "QQQ"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "QQQ",
-   "strength": 35,
-   "reason": "AI stock weakness but broad market resilience, mixed directional signal"
   },
   {
    "curated": true,
