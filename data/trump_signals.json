@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-09-20T22:43:24Z",
+ "last_updated": "2026-09-21T00:32:25Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-09-20T21:02:05Z",
+   "platform": "News",
+   "text": "Trump, Xi to Meet at White House on the 24th With Tech CEOs in Tow - Seoul Economic Daily \u2014 Trump, Xi to Meet at White House on the 24th With Tech CEOs in Tow\u00a0\u00a0Seoul Economic Daily",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOS2NlSEdjcERiUDFZeHFBQTFCLWxtcW5JNmZTTGE4QlBuUUN4a3pPLVIybWVBcVlQSnFQZXVqQW5qVDM3MnlEc3pRSmt0RHNsMWxCWmptaVNGT1Y1MUJSZE9XNnRaQTJjZXd0d3QwT1VoMEw5QnRUSEgxVUs2SmswZktCN0ViUzNpT0ptbnVmamxIQ0JiWWV0Rmp2M0h2N2pwV2djeUNyMHFHZw?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "SPY",
+   "strength": 45,
+   "reason": "Trump-Xi meeting with tech CEOs signals potential trade negotiations; outcome unclear, could be bullish or bearish depending on deal terms."
+  },
   {
    "date": "2026-09-20T16:21:54Z",
    "platform": "News",
@@ -209,6 +225,22 @@
    "primary_ticker": "QQQ",
    "strength": 55,
    "reason": "Trump doubles down on pro-tech AI stance; bullish for tech sector and AI-related growth."
+  },
+  {
+   "date": "2026-09-19T23:35:46Z",
+   "platform": "News",
+   "text": "Trump Replaces Proposed 20% Strait Of Hormuz Toll With Investment Deals With Gulf States \u2014 \u2018Those Investments Will Be Massive\u2019 - Stocktwits \u2014 Trump Replaces Proposed 20% Strait Of Hormuz Toll With Investment Deals With Gulf States \u2014 \u2018Those Investments Will Be Massive\u2019\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOR1RpdmMzNEpiVHF0QzJodThobDlfS1h1VDREN2JsXzRYamJkWDhRTkxTVzVMUzY0aUNIdHZvWkJ0Zll0TUFnTENVYzBRcnJzTnVSVGY4ZXpXejRJb0hIRllLNmVhek8zWXVWZzh0LVFkUmhiVy1Cd0FHUDV5d0lzeC15ZFNPNjBzb2hLZzBQcExfdVJUeUVPeHRJSTFQR1hmUFhVY1BqLVhFTlZ6NUxWR1U0YUk3ZTVHcFF4RXBRVXNDWDlOcVpfaUJSZ3g?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "SPY",
+   "strength": 65,
+   "reason": "Trump replacing Strait of Hormuz toll with Gulf investment deals; avoids economic friction, signals pro-growth strategy."
   },
   {
    "date": "2026-09-19T22:31:10Z",
@@ -2509,126 +2541,6 @@
    "primary_ticker": "NVDA",
    "strength": 68,
    "reason": "Trump attacks AI-risk narrative and defends data centers; bullish framing for AI/chip sector, especially Nvidia."
-  },
-  {
-   "date": "2026-09-14T22:20:00Z",
-   "platform": "News",
-   "text": "Nvidia CEO Jensen Huang puts Trump on speakerphone while downplaying AI risks - The Straits Times \u2014 Nvidia CEO Jensen Huang puts Trump on speakerphone while downplaying AI risks\u00a0\u00a0The Straits Times",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRk9ReW4wMUtTVU56NUZkN09YRjgtXzlPQkV3bk5teVZwampGTDFlNU5MMGJwbTh6TzljSk0wNk02YmpKb2RWZWdCZmdsOFpjTGZhRGpCUzJhQm1BVWN1dTBVUjMwZ01SVktiQ2hOYmhjUUloUTEzbFB5djdsQmVkdkVhOUNGeHNpa0txVlNTdDdVOWlZeDBCLV9hQU5qc1Nybzl6ek1zLXFfSGNMU3kzWlpWdVRycEtIaElYMVpRT0UwZFdw?oc=5",
-   "tickers": [
-    "NVDA"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "NVDA",
-   "strength": 55,
-   "reason": "Trump alliance with Nvidia CEO signals pro-tech, pro-AI regulatory environment; bullish for Nvidia.",
-   "price_since": {
-    "ticker": "NVDA",
-    "pct": 0.5,
-    "base": 210.96,
-    "last": 212.07,
-    "base_date": "2026-09-14",
-    "last_date": "2026-09-15"
-   }
-  },
-  {
-   "date": "2026-09-14T22:20:00Z",
-   "platform": "News",
-   "text": "Nvidia CEO Jensen Huang puts Trump on speakerphone while downplaying AI risks - straitstimes.com \u2014 Nvidia CEO Jensen Huang puts Trump on speakerphone while downplaying AI risks\u00a0\u00a0straitstimes.com",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRk9ReW4wMUtTVU56NUZkN09YRjgtXzlPQkV3bk5teVZwampGTDFlNU5MMGJwbTh6TzljSk0wNk02YmpKb2RWZWdCZmdsOFpjTGZhRGpCUzJhQm1BVWN1dTBVUjMwZ01SVktiQ2hOYmhjUUloUTEzbFB5djdsQmVkdkVhOUNGeHNpa0txVlNTdDdVOWlZeDBCLV9hQU5qc1Nybzl6ek1zLXFfSGNMU3kzWlpWdVRycEtIaElYMVpRT0UwZFdw?oc=5",
-   "tickers": [
-    "NVDA"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "NVDA",
-   "strength": 70,
-   "reason": "Trump and Nvidia CEO align on AI; implies regulatory tailwind for Nvidia.",
-   "price_since": {
-    "ticker": "NVDA",
-    "pct": 0.5,
-    "base": 210.96,
-    "last": 212.07,
-    "base_date": "2026-09-14",
-    "last_date": "2026-09-15"
-   }
-  },
-  {
-   "date": "2026-09-14T22:06:57Z",
-   "platform": "News",
-   "text": "US futures slide on AI blowback; oil and gas jump after Houthis intensify campaign - ABC News - Breaking News, Latest News and Videos \u2014 US futures slide on AI blowback; oil and gas jump after Houthis intensify campaign\u00a0\u00a0ABC News - Breaking News, Latest News and Videos",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbXAxYVU4SFJPWnB4dnVTeE02anQ0bndYc2N0cWhIdlBBYUNVeTJyYTVlc2dLcjgyeXlpVjQxdjBvaTgwTnpEME5XMGhYR0l2WXdzekdwZnZIbTg1VmxZRkpncEJUc0diQ0taa0J1VWtwd0VhMzd5elYwalo0amc3b1d2N1lmTWROU2xSRHlwamxUbFJFZDF1NHRvVnU2YURCOXRmUFBYOHd5QdIBrwFBVV95cUxOUVJRSFhmZV90NDVTZmtDN1c1NDFrOGRzUE9TNTdJMXhTTW50NGEybnJOVGVyS3A0SHh5S3JrdHB1MjNJUXJoVW1YLXRTanZKT2UxY3ZYNEE5U2ZjRTBLWEdhWjJLRzhXZjN5X2JsRGIzZVRLMmp6UE82Sy1Wckw2MVJST2pzY1RQWF9nR2t4dGIwTEVsWkZKMDk5OE00dFN4Y216bzh1el9SdlJNWFpv?oc=5",
-   "tickers": [
-    "XLE"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "XLE",
-   "strength": 45,
-   "reason": "Oil and gas rally on Houthi intensification of shipping campaign; energy sector bullish",
-   "price_since": {
-    "ticker": "XLE",
-    "pct": 2.0,
-    "base": 64.53,
-    "last": 65.8,
-    "base_date": "2026-09-14",
-    "last_date": "2026-09-15"
-   }
-  },
-  {
-   "date": "2026-09-14T22:02:23Z",
-   "platform": "News",
-   "text": "IBRX Stock Rallies Into Trump\u2019s Big SOTU Night \u2014 Here\u2019s What Traders Think Could Fuel The Next Move - Stocktwits \u2014 IBRX Stock Rallies Into Trump\u2019s Big SOTU Night \u2014 Here\u2019s What Traders Think Could Fuel The Next Move\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWFdFall2YVNMN3Rialp3SE9sU0h6YUQ1MDFiX2JaeXMxNlFFZUZveFU0TkVxUFI4cTQ5bW5VdkFlTDd1dFNwSUN2YTRtRl83aVRRXzZ6d09TeEhlR1NJb1JaMHlMWDhrQXpmZW40c1B1Y21KNjhxdm90Ny1uU3p4MzJZSW9GNGduMEdyRzFIU2RGLWlYWXg4TFJUU0N6ZlhFemxtUmprVXY0YkVRZk5vZHljazQ?oc=5",
-   "tickers": [
-    "IBRX"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "IBRX",
-   "strength": 40,
-   "reason": "Stock rallies into Trump SOTU; direction ambiguous without specific catalyst detail",
-   "price_since": {
-    "ticker": "IBRX",
-    "pct": -4.3,
-    "base": 8.37,
-    "last": 8.01,
-    "base_date": "2026-09-14",
-    "last_date": "2026-09-15"
-   }
-  },
-  {
-   "date": "2026-09-14T21:51:31Z",
-   "platform": "News",
-   "text": "Trump rejects tech leaders\u2019 call for AI slowdown - finance-commerce.com \u2014 Trump rejects tech leaders\u2019 call for AI slowdown\u00a0\u00a0finance-commerce.com",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBGcDFtVlVzVDVjMG1DOEFVNjdyVnI4SG5XMVNldE8zYUk4NGVTbkRONFY2T2c2X2M3VnZNZlNJTUYzc3V5NnZrRHJxSXl2Y0ZYbnRjZWZWa2taRkpiM002ZjZSeEpfaEZBN1h3QkxyUVFHUmVFLVN3U1c0bXlvaW8?oc=5",
-   "tickers": [
-    "QQQ"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "QQQ",
-   "strength": 60,
-   "reason": "Trump rejects AI slowdown, pro-growth stance; bullish for tech/AI sector.",
-   "price_since": {
-    "ticker": "QQQ",
-    "pct": -0.5,
-    "base": 709.18,
-    "last": 705.45,
-    "base_date": "2026-09-14",
-    "last_date": "2026-09-15"
-   }
   },
   {
    "curated": true,
