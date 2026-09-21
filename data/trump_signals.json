@@ -1,7 +1,24 @@
 {
- "last_updated": "2026-09-21T00:32:25Z",
+ "last_updated": "2026-09-21T05:31:13Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-09-21T02:02:54.235Z",
+   "platform": "Truth Social",
+   "text": "Gas prices were much higher under Biden than under \"TRUMP.\" So were almost all other prices. President DJT",
+   "tickers": [
+    "SPY"
+   ],
+   "engagement": 6244,
+   "url": "https://truthsocial.com/@realDonaldTrump/117306567834657729",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "SPY",
+   "strength": 25,
+   "reason": "post implies Trump-era lower inflation/prices vs Biden, macro bullish backdrop"
+  },
   {
    "date": "2026-09-20T21:02:05Z",
    "platform": "News",
@@ -225,6 +242,38 @@
    "primary_ticker": "QQQ",
    "strength": 55,
    "reason": "Trump doubles down on pro-tech AI stance; bullish for tech sector and AI-related growth."
+  },
+  {
+   "date": "2026-09-20T01:44:02Z",
+   "platform": "News",
+   "text": "MU Stock Eases After Record Run: Micron Backs Trump Accounts With $250M Commitment - Stocktwits \u2014 MU Stock Eases After Record Run: Micron Backs Trump Accounts With $250M Commitment\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPVDE3TEpTVWtjT281REUwbWFGQzN0ZHpWNnU1UlpVRWRYMDExdzEyRVZ1MHlpbDd6V3ZFNjlmUVRyYXlabHpkVUpSejJmb3p5bF9mbkpobEpQanF5bzM2NjNpcDZ5N01rOEYyeDZvLTRZc0xIeG9xaEpESjc0bERrUTQwbTRMcXdCUHE0N0UzaTNoZFd2ZTU1Qk5JaDlMOG1GUG1icU9SMU9ja0Y5c21SUEcwN2EyYVpRUFQxY1JqOUZBeUJZT2QyYVppalpTSnhSUER1M0pMcjlLRG5YeVE?oc=5",
+   "tickers": [
+    "MU"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "MU",
+   "strength": 65,
+   "reason": "Micron $250M commitment to Trump accounts signals alignment/partnership, bullish for MU stock"
+  },
+  {
+   "date": "2026-09-20T01:06:33Z",
+   "platform": "News",
+   "text": "TSLA Stock Eyes Weekly Loss: Retail Investors Grill Musk On Missed Robotaxi Targets Ahead Of Q2 Earnings - Stocktwits \u2014 TSLA Stock Eyes Weekly Loss: Retail Investors Grill Musk On Missed Robotaxi Targets Ahead Of Q2 Earnings\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPc2VqM1JQbmZfbWdMR2gzRDc3QUo0MUhJaUtBVFQ4TjBvR1dja1lnekNnakVnVmJmb2k5M0JJeGdSVGFPdDBodDZTa3JjOHB1TXR5Mm1PQzZLQXczdGl1TUEwV2V0dnRCaXc3Q2FGQ1BRMkd1MkFaUlM4SlcxVW9KT081TG1xTjdHa2NsN0VaOUh5QVQ2dGZ3X0cteE1YYS1OTHlsck5ldHlycl8zRVE?oc=5",
+   "tickers": [
+    "TSLA"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "TSLA",
+   "strength": 45,
+   "reason": "Retail criticism of missed robotaxi targets ahead of earnings signals near-term negative sentiment on TSLA."
   },
   {
    "date": "2026-09-19T23:35:46Z",
@@ -787,30 +836,6 @@
    "primary_ticker": "FOX",
    "strength": 35,
    "reason": "Trump praise for Fox News suggests potential bullish sentiment on the network and communications sector"
-  },
-  {
-   "date": "2026-09-17T23:54:31Z",
-   "platform": "News",
-   "text": "TSLA Stock Eyes Weekly Loss: Retail Investors Grill Musk On Missed Robotaxi Targets Ahead Of Q2 Earnings - Stocktwits \u2014 TSLA Stock Eyes Weekly Loss: Retail Investors Grill Musk On Missed Robotaxi Targets Ahead Of Q2 Earnings\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPc2VqM1JQbmZfbWdMR2gzRDc3QUo0MUhJaUtBVFQ4TjBvR1dja1lnekNnakVnVmJmb2k5M0JJeGdSVGFPdDBodDZTa3JjOHB1TXR5Mm1PQzZLQXczdGl1TUEwV2V0dnRCaXc3Q2FGQ1BRMkd1MkFaUlM4SlcxVW9KT081TG1xTjdHa2NsN0VaOUh5QVQ2dGZ3X0cteE1YYS1OTHlsck5ldHlycl8zRVE?oc=5",
-   "tickers": [
-    "TSLA"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "TSLA",
-   "strength": 25,
-   "reason": "Retail pressure on Musk over missed robotaxi targets; bearish earnings sentiment",
-   "price_since": {
-    "ticker": "TSLA",
-    "pct": -0.5,
-    "base": 366.2,
-    "last": 364.27,
-    "base_date": "2026-09-17",
-    "last_date": "2026-09-18"
-   }
   },
   {
    "date": "2026-09-17T23:06:25Z",
@@ -2485,62 +2510,6 @@
    "primary_ticker": "NVDA",
    "strength": 64,
    "reason": "Trump dismisses AI safety alarm, signals light regulation\u2014supports unfettered AI/data center growth favoring chip makers"
-  },
-  {
-   "date": "2026-09-15T00:25:00Z",
-   "platform": "News",
-   "text": "Trump Calls Jensen Huang Live Onstage, Dismisses AI Doomsday Talk as a \"Scam,\" Voices Full Support for Data Centers - finance.biggo.com \u2014 Trump Calls Jensen Huang Live Onstage, Dismisses AI Doomsday Talk as a \"Scam,\" Voices Full Support for Data Centers\u00a0\u00a0finance.biggo.com",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBVDZpajktNXNjRDNidjhoTV9adG9tZS1mTUZtYkYtaUF0ZndEMWV6X0Jna3pLRGs5ZEZsYkM1Q3RsVFpaLXY5dDMwa1Zyb3dlc0dpeDNkTk9Qb19nOWNPNVVWSGNCRUQ4M2ZFVzVLYVpMUklDSGc?oc=5",
-   "tickers": [
-    "NVDA"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "NVDA",
-   "strength": 76,
-   "reason": "Trump calls Huang live onstage, dismisses AI doomsday as scam, voices full support for data centers\u2014explicit bullish signal for Nvidia"
-  },
-  {
-   "date": "2026-09-14T23:16:42Z",
-   "platform": "News",
-   "text": "Trump calls AI risks a \u2018hoax,\u2019 says there is a \u2018SICK conspiracy\u2019 against AI and data centres - BNN Bloomberg \u2014 Trump calls AI risks a \u2018hoax,\u2019 says there is a \u2018SICK conspiracy\u2019 against AI and data centres\u00a0\u00a0BNN Bloomberg",
-   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQMW1YSTI1YmVSbXF4ZlBLR3RNSzF1LUJIN0NjQ0xQYmVXMWhxdWxOZk1aeHh1WTdwX3A0VnlDdUdRdVVFYlVabkh5WGpvMlZvVWtvT3JVZ01aMDBWZXBMUGtsbFV2Q1hqZGlZZHJCX3E5QWJUbEdZbGhKTU1pclJKSTRXMFRmX2tBX1lnbWxXSjBGSDM0V3ZvdmM3bmJLeEFNVE5lZ29rR0NtZVZXYjJiV2ROU1puRkRtVkdWNVBXSHJOeWx5SHFLdVhuVVFiRGsyby1tQlhoTjU4SEtHc2lYa0xydFJRcjIxb0RRdWRwcUExdw?oc=5",
-   "tickers": [
-    "SMH"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "SMH",
-   "strength": 65,
-   "reason": "Trump defends AI and data centres against regulation; bullish for AI/chip sector.",
-   "price_since": {
-    "ticker": "SMH",
-    "pct": 0.0,
-    "base": 541.5,
-    "last": 541.76,
-    "base_date": "2026-09-14",
-    "last_date": "2026-09-15"
-   }
-  },
-  {
-   "date": "2026-09-14T23:16:42Z",
-   "platform": "News",
-   "text": "Trump calls AI risks a \u2018hoax,\u2019 says there is a \u2018SICK conspiracy\u2019 against AI and data centres - bnnbloomberg.ca \u2014 Trump calls AI risks a \u2018hoax,\u2019 says there is a \u2018SICK conspiracy\u2019 against AI and data centres\u00a0\u00a0bnnbloomberg.ca",
-   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQMW1YSTI1YmVSbXF4ZlBLR3RNSzF1LUJIN0NjQ0xQYmVXMWhxdWxOZk1aeHh1WTdwX3A0VnlDdUdRdVVFYlVabkh5WGpvMlZvVWtvT3JVZ01aMDBWZXBMUGtsbFV2Q1hqZGlZZHJCX3E5QWJUbEdZbGhKTU1pclJKSTRXMFRmX2tBX1lnbWxXSjBGSDM0V3ZvdmM3bmJLeEFNVE5lZ29rR0NtZVZXYjJiV2ROU1puRkRtVkdWNVBXSHJOeWx5SHFLdVhuVVFiRGsyby1tQlhoTjU4SEtHc2lYa0xydFJRcjIxb0RRdWRwcUExdw?oc=5",
-   "tickers": [
-    "NVDA"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "NVDA",
-   "strength": 68,
-   "reason": "Trump attacks AI-risk narrative and defends data centers; bullish framing for AI/chip sector, especially Nvidia."
   },
   {
    "curated": true,
