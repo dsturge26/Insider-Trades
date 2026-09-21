@@ -1,8 +1,32 @@
 {
- "last_updated": "2026-09-18T21:53:21Z",
+ "last_updated": "2026-09-21T17:04:30Z",
  "source": "Financial Modeling Prep (Form 4)",
  "is_sample": false,
  "signals": [
+  {
+   "date": "2026-09-18",
+   "ticker": "CTRI",
+   "direction": "BUY",
+   "source": "Insider",
+   "insider": "Demaria Dustin",
+   "title": "director",
+   "value": 100204,
+   "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002016650&type=4",
+   "strength": 70,
+   "reason": "Demaria Dustin bought $100,204"
+  },
+  {
+   "date": "2026-09-18",
+   "ticker": "GF",
+   "direction": "BUY",
+   "source": "Insider",
+   "insider": "Saba Capital Management, L.P.",
+   "title": "10 percent owner",
+   "value": 153481,
+   "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001510281&type=4",
+   "strength": 71,
+   "reason": "Saba Capital Management, L.P. bought $153,481"
+  },
   {
    "date": "2026-09-17",
    "ticker": "BORR",
@@ -26,6 +50,18 @@
    "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001534574&type=4",
    "strength": 75,
    "reason": "Lyons Michael P. bought $1,015,576"
+  },
+  {
+   "date": "2026-09-17",
+   "ticker": "RTB",
+   "direction": "BUY",
+   "source": "Insider",
+   "insider": "Dorsett Jason Christopher",
+   "title": "10 percent owner",
+   "value": 196840,
+   "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002146263&type=4",
+   "strength": 71,
+   "reason": "Dorsett Jason Christopher bought $196,840"
   },
   {
    "date": "2026-09-16",
