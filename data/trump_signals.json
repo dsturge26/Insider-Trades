@@ -1,7 +1,55 @@
 {
- "last_updated": "2026-09-22T18:07:09Z",
+ "last_updated": "2026-09-22T21:19:19Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-09-22T20:16:00Z",
+   "platform": "News",
+   "text": "Trump made over 1,000 July stock trades worth up to $270m, filings reveal - The Guardian \u2014 Trump made over 1,000 July stock trades worth up to $270m, filings reveal\u00a0\u00a0The Guardian",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMG00ZkZTSHBpNzY0MFUxeWNqUVdNSnlpeERpWW9FVFNIRUlZakg5c1VqN1V0SFNYMEM0S1BuUVV6SEQ2SlBTS2t2WkxpSzc1LXNKOU1ZWUtqUjc2MmktYnZJODZKeG41SW5JQ001WkJ6V0E4VURseXFjX2xrSWphUVhsZmM?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "SPY",
+   "strength": 25,
+   "reason": "Trump's own trading activity; suggests market positioning but direction unclear"
+  },
+  {
+   "date": "2026-09-22T19:30:11Z",
+   "platform": "News",
+   "text": "Wall Street holds near its record after Brent oil briefly falls below $98 per barrel - Union-Bulletin \u2014 Wall Street holds near its record after Brent oil briefly falls below $98 per barrel\u00a0\u00a0Union-Bulletin",
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPT2Q2YVNQdmNVZG1KcFFZc3JNZUNFOGZBa2VfN05WdzJycnNMVXIxTUN3UG5HS0RYU0MtT2V1Qk1nYWhoYmt2ZEEtbEd2cmdlV3d3bHhxT0I1WDBCYUpXOE1Db2Z5TzJwQzAwMG5xYkw1OTR0ejNPZFJ5OW9KSW5MeWdaekFibDZIMUVOUm9KWVFfLXgxb3ZmenhFczJ4SVhDNVBRVWhJN01oSzdtM1d3eHlZT0tEakt6OUZzVHpENkhSLWVEQUVmQUx3bjhkU3BjbTVUTmEyMFJQNUhKejA0dGtITlZNcV9wUHNheVp4VGpPVm9wMFNFTA?oc=5",
+   "tickers": [
+    "XLE"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "XLE",
+   "strength": 30,
+   "reason": "Oil price movement affects energy sector and broad market"
+  },
+  {
+   "date": "2026-09-22T17:16:06Z",
+   "platform": "News",
+   "text": "Trump praises NATO on 5% defence spending push: \u2018Greater protection for them\u2019 | World News - Hindustan Times \u2014 Trump praises NATO on 5% defence spending push: \u2018Greater protection for them\u2019 | World News\u00a0\u00a0Hindustan Times",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPX3BNeTluTWo1cEZxdHRsR3U5cWFLMFlpRkpSbGF2Mk9lR2wyazZvbkh3WmlOQ2lvVUJmaWVwQkRYWC05Yk5tMXBiYTNldTdKS1NtanRBWURfNUxkM3lBbGJOdVY3MUcxWkpadFh0b0NfMHJfdUI3MUJ3QlZ1N2plcFhoVWZmb3VtT2xnZFA5dm54Tmx1bHBSYmwwYjNhTWs5aVhmeXE1V0xqZ2pZWTZGcTRObUU4cVd0UHE3QkhTOW9qME9PVmM2cjBwZTFGTUlBUExF0gHYAUFVX3lxTFBtUmMtM09fSHdvM3NoTF8wYTZaQVU3U3RmZ3F5WDkxbmRpZmF4VzJfcjRHWjFtN2UzcThWSXVGUmVKeGJRRXdlcnRtSzhlNVNJeWJZWFc0cmVfbnN4cmo2WFNaSzY2a21MQTdOdW92cDQzT09venU2NGZxVVk5YnpFZ05CdUlGeUdCUmtOc01Rd2hSblcxNlYwTExuSzVqaFVhLVRwaEdkR0xEMlNfaUpUNHBHWnpKdkdNRVpsbE5mVURWcHN4NDdzMkhOLXp0SWxLcWdpUEFQNQ?oc=5",
+   "tickers": [
+    "XAR"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "XAR",
+   "strength": 40,
+   "reason": "NATO 5% defense spending push is bullish for defense contractors"
+  },
   {
    "date": "2026-09-22T11:31:54Z",
    "platform": "News",
@@ -131,9 +179,9 @@
    "reason": "$800M stock market investment announced for Americans; macro bullish signal but vague on timing/mechanism",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.1,
+    "pct": -0.0,
     "base": 773.5,
-    "last": 774.04,
+    "last": 773.38,
     "base_date": "2026-09-21",
     "last_date": "2026-09-22"
    }
@@ -155,9 +203,9 @@
    "reason": "Trump holdings in space stocks (ASTS, RKLB) emerge; implicit endorsement via personal portfolio",
    "price_since": {
     "ticker": "RKLB",
-    "pct": 3.2,
+    "pct": 3.0,
     "base": 69.89,
-    "last": 72.16,
+    "last": 71.98,
     "base_date": "2026-09-21",
     "last_date": "2026-09-22"
    }
@@ -203,9 +251,9 @@
    "reason": "AG (First Majestic Silver) stock jump reported; likely commodity/precious metals driven, no Trump nexus stated.",
    "price_since": {
     "ticker": "AG",
-    "pct": 4.1,
+    "pct": 5.2,
     "base": 19.31,
-    "last": 20.11,
+    "last": 20.32,
     "base_date": "2026-09-21",
     "last_date": "2026-09-22"
    }
@@ -227,9 +275,9 @@
    "reason": "Market surge ahead of Trump-Xi summit; trade deal anticipation but direction uncertain",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.1,
+    "pct": -0.0,
     "base": 773.5,
-    "last": 774.04,
+    "last": 773.38,
     "base_date": "2026-09-21",
     "last_date": "2026-09-22"
    }
@@ -251,9 +299,9 @@
    "reason": "Trump's Strait of Hormuz deadline creates geopolitical risk; futures decline and market uncertainty on tariffs/conflict.",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.1,
+    "pct": -0.0,
     "base": 773.5,
-    "last": 774.11,
+    "last": 773.38,
     "base_date": "2026-09-21",
     "last_date": "2026-09-22"
    }
@@ -275,9 +323,9 @@
    "reason": "Nuclear energy sector bullish; Centrus Energy specifically highlighted as safer nuclear bet, implicit Trump pro-nuclear push.",
    "price_since": {
     "ticker": "LEU",
-    "pct": 2.0,
+    "pct": 1.9,
     "base": 154.85,
-    "last": 158.01,
+    "last": 157.83,
     "base_date": "2026-09-21",
     "last_date": "2026-09-22"
    }
@@ -299,9 +347,9 @@
    "reason": "Trump praise for defense/aerospace product suggests positive sentiment toward Lockheed Martin; weak signal without explicit endorsement.",
    "price_since": {
     "ticker": "LMT",
-    "pct": -2.9,
+    "pct": -2.4,
     "base": 535.4,
-    "last": 519.81,
+    "last": 522.34,
     "base_date": "2026-09-21",
     "last_date": "2026-09-22"
    }
@@ -323,9 +371,9 @@
    "reason": "Trade deal (potash sourcing from Belarus vs. Canada) ambiguous direction; could lower US input costs (bullish) or signal broader tariff/trade friction (bearish).",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.1,
+    "pct": -0.0,
     "base": 773.5,
-    "last": 774.04,
+    "last": 773.38,
     "base_date": "2026-09-21",
     "last_date": "2026-09-22"
    }
@@ -347,9 +395,9 @@
    "reason": "Energy stock upside call; Trump pro-drilling/deregulation stance supports energy sector",
    "price_since": {
     "ticker": "XLE",
-    "pct": -0.5,
+    "pct": -1.1,
     "base": 62.46,
-    "last": 62.12,
+    "last": 61.78,
     "base_date": "2026-09-21",
     "last_date": "2026-09-22"
    }
@@ -371,9 +419,9 @@
    "reason": "Rubio (Secretary of State) discusses critical minerals policy; potential bullish for domestic mining/materials but direction unclear without details.",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.1,
+    "pct": -0.0,
     "base": 773.5,
-    "last": 774.04,
+    "last": 773.38,
     "base_date": "2026-09-21",
     "last_date": "2026-09-22"
    }
@@ -396,9 +444,9 @@
    "reason": "Trump signals AI-growth friendly policy; no stifling innovation",
    "price_since": {
     "ticker": "QQQ",
-    "pct": 0.6,
+    "pct": 0.8,
     "base": 741.47,
-    "last": 746.11,
+    "last": 747.46,
     "base_date": "2026-09-21",
     "last_date": "2026-09-22"
    }
@@ -420,9 +468,9 @@
    "reason": "US potash deal with Belarus at lower cost than Canada benefits domestic agriculture and potash supply",
    "price_since": {
     "ticker": "MOS",
-    "pct": 3.2,
+    "pct": 2.7,
     "base": 24.07,
-    "last": 24.83,
+    "last": 24.73,
     "base_date": "2026-09-21",
     "last_date": "2026-09-22"
    }
@@ -444,9 +492,9 @@
    "reason": "Potash sourcing deal (Belarus vs. Canada); ambiguous macro signal on trade friction and input costs.",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.1,
+    "pct": -0.0,
     "base": 773.5,
-    "last": 774.02,
+    "last": 773.38,
     "base_date": "2026-09-21",
     "last_date": "2026-09-22"
    }
@@ -469,9 +517,9 @@
    "reason": "Trump confirms major potash deal from Belarus below current Canadian prices, bullish for farmers and potash producers",
    "price_since": {
     "ticker": "MOS",
-    "pct": 3.2,
+    "pct": 2.7,
     "base": 24.07,
-    "last": 24.83,
+    "last": 24.73,
     "base_date": "2026-09-21",
     "last_date": "2026-09-22"
    }
@@ -494,9 +542,9 @@
    "reason": "Russian diesel refinery disruption tightens global oil supply, bullish for energy sector",
    "price_since": {
     "ticker": "XLE",
-    "pct": -0.5,
+    "pct": -1.1,
     "base": 62.46,
-    "last": 62.12,
+    "last": 61.78,
     "base_date": "2026-09-21",
     "last_date": "2026-09-22"
    }
@@ -518,9 +566,9 @@
    "reason": "Apeland secures major $7.5B hyperscaler lease; strong positive catalyst for data center/infrastructure stock.",
    "price_since": {
     "ticker": "APLD",
-    "pct": 1.7,
+    "pct": 1.2,
     "base": 28.19,
-    "last": 28.67,
+    "last": 28.54,
     "base_date": "2026-09-21",
     "last_date": "2026-09-22"
    }
@@ -542,9 +590,9 @@
    "reason": "Trump tariff action on textiles/Russia sector bearish for broad market",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.1,
+    "pct": -0.0,
     "base": 773.5,
-    "last": 774.02,
+    "last": 773.38,
     "base_date": "2026-09-21",
     "last_date": "2026-09-22"
    }
@@ -566,9 +614,9 @@
    "reason": "Trump tariff action signals new trade restrictions, bearish for broad market and textile stocks",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.1,
+    "pct": -0.0,
     "base": 773.5,
-    "last": 774.02,
+    "last": 773.38,
     "base_date": "2026-09-21",
     "last_date": "2026-09-22"
    }
@@ -590,9 +638,9 @@
    "reason": "Trump-Xi meeting uncertain outcome on tech; could be bullish or bearish",
    "price_since": {
     "ticker": "QQQ",
-    "pct": 0.6,
+    "pct": 0.8,
     "base": 741.47,
-    "last": 746.1,
+    "last": 747.46,
     "base_date": "2026-09-21",
     "last_date": "2026-09-22"
    }
@@ -614,9 +662,9 @@
    "reason": "Iranian blockade reinstatement + shipping toll bullish for oil prices and geopolitical risk premium.",
    "price_since": {
     "ticker": "USO",
-    "pct": -2.6,
+    "pct": -2.8,
     "base": 148.16,
-    "last": 144.32,
+    "last": 144.08,
     "base_date": "2026-09-21",
     "last_date": "2026-09-22"
    }
@@ -639,9 +687,9 @@
    "reason": "post implies Trump-era lower inflation/prices vs Biden, macro bullish backdrop",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.1,
+    "pct": -0.0,
     "base": 773.5,
-    "last": 774.41,
+    "last": 773.38,
     "base_date": "2026-09-21",
     "last_date": "2026-09-22"
    }
@@ -663,9 +711,9 @@
    "reason": "Diesel export embargo discussion bearish for energy exports and oil market sentiment.",
    "price_since": {
     "ticker": "USO",
-    "pct": -1.3,
+    "pct": -2.8,
     "base": 148.16,
-    "last": 146.2,
+    "last": 144.08,
     "base_date": "2026-09-21",
     "last_date": "2026-09-22"
    }
@@ -687,9 +735,9 @@
    "reason": "Trump-Xi meeting with tech CEOs signals potential trade negotiations; outcome unclear, could be bullish or bearish depending on deal terms.",
    "price_since": {
     "ticker": "SPY",
-    "pct": 0.1,
+    "pct": -0.0,
     "base": 773.5,
-    "last": 774.41,
+    "last": 773.38,
     "base_date": "2026-09-21",
     "last_date": "2026-09-22"
    }
@@ -711,9 +759,9 @@
    "reason": "IBM surge overnight; no Trump catalyst evident in headline; direction unclear without context.",
    "price_since": {
     "ticker": "IBM",
-    "pct": 0.1,
+    "pct": -0.2,
     "base": 231.93,
-    "last": 232.13,
+    "last": 231.38,
     "base_date": "2026-09-21",
     "last_date": "2026-09-22"
    }
