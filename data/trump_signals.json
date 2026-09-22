@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-09-22T21:19:19Z",
+ "last_updated": "2026-09-22T23:43:09Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-09-22T20:51:54Z",
+   "platform": "News",
+   "text": "Trump Made Tens of Millions Selling Amazon and Microsoft Stock - The New Republic \u2014 Trump Made Tens of Millions Selling Amazon and Microsoft Stock\u00a0\u00a0The New Republic",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNFlXVFpLaVFtaUVIMGtKeGZNVHlBZXdGeEg3SXlFcTdEWXpFanU3d1hLNTZyTE9udUZwMUUzZ1pFVmhEOGVkeXJLbEFhNmRJWVUyU3BXemdYWVNBWmhMa1dvalp3NnBvT3dGaGhfaU1OaS1SaGJXRm1WUy1jakh3UTJtLUZOeXhkc0lyWFFEU1BtTUpm?oc=5",
+   "tickers": [
+    "AMZN"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "AMZN",
+   "strength": 35,
+   "reason": "Trump sold significant positions in Amazon and Microsoft; large insider selling by a high-profile figure may signal weakness or portfolio adjustment."
+  },
   {
    "date": "2026-09-22T20:16:00Z",
    "platform": "News",
@@ -2510,78 +2526,6 @@
     "pct": -0.1,
     "base": 241.53,
     "last": 241.32,
-    "base_date": "2026-09-15",
-    "last_date": "2026-09-17"
-   }
-  },
-  {
-   "date": "2026-09-15T18:51:53Z",
-   "platform": "News",
-   "text": "NOW Stock Rises Overnight: Trump\u2019s ServiceNow Stake Fuels Retail Buzz Around SAAS Comeback - Stocktwits \u2014 NOW Stock Rises Overnight: Trump\u2019s ServiceNow Stake Fuels Retail Buzz Around SAAS Comeback\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQcEF0OFRRa3hIWF9rS21NMTBqNk53MDA4eWFQcDJad1Z2QkQyTTdmd3prLUVaVUUwdVRSWWpCOGs3N3JaYTZCcG1KMjg1c1Q0WWdjSnlWbHkteXVxcnFoUXFZMEg4ejh0YjA4ZG5BRnBEX1huMFNaS0dXdEx4LWNEOXBLcmNpMzlCQzc1OC0yRDFKeWFMWEZzWUpNQXBWTFFDQlJ6dmFWamU5cUpFZnVfcU1ocFdTa0tfdjByTlZZUHo4QUx1QzJOMHpzZEdaZjdqSVhoWFB0cVRKZW9BbnNLMi1XYUF2MlhaZGc?oc=5",
-   "tickers": [
-    "NOW"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "NOW",
-   "strength": 60,
-   "reason": "Trump stake in ServiceNow revealed; explicit Trump portfolio ownership drives bullish sentiment",
-   "price_since": {
-    "ticker": "NOW",
-    "pct": -2.4,
-    "base": 141.9,
-    "last": 138.47,
-    "base_date": "2026-09-15",
-    "last_date": "2026-09-17"
-   }
-  },
-  {
-   "date": "2026-09-15T16:05:00Z",
-   "platform": "News",
-   "text": "Markets on edge as US Fed meets to tackle high inflation - The Korea Times \u2014 Markets on edge as US Fed meets to tackle high inflation\u00a0\u00a0The Korea Times",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSUxFSS14SzVVUnZtNzlmOVFfS0R4MDJYdFNNcUwybWEyNXFVa1hWNDlRWFlFWmtHUHZhdkF1MlBnVWlkTjkyRkNWcHBoYWZyeGJ4M1UtZWhsbi02SFdzcktWWWtLZ0VxbXVnM2ZXRFhLUFRhVUhvUmJiOWRZSmVrd3haMUVFSzZCV1hlUWVRZHhQNk5GTWdiZlEtMkNQV0lmNEHSAacBQVVfeXFMUFZmWFY5SHJrR1dESFhsclV0czdRVWxOQjg3eEozSVFMLWpVc0h4cEJmVmdIXzdhSFhzeUZCTExQWXFiczA2WmFORUplbFVfRm5WaHFtS2VPMGVqTUNqcDVGelJBbi11WjlxZTUwTUQxbks2ZnB4QURQLVFBNnVNRUluTnEzZ29sRVI5SnY2X1E5WVBqNktrdXhtN01iZ3UteE9XMWw5WFU?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "SPY",
-   "strength": 25,
-   "reason": "Fed inflation meeting creates broad market uncertainty",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": 0.7,
-    "base": 757.39,
-    "last": 762.42,
-    "base_date": "2026-09-15",
-    "last_date": "2026-09-17"
-   }
-  },
-  {
-   "date": "2026-09-15T16:05:00Z",
-   "platform": "News",
-   "text": "Markets on edge as US Fed meets to tackle high inflation - koreatimes.co.kr \u2014 Markets on edge as US Fed meets to tackle high inflation\u00a0\u00a0koreatimes.co.kr",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSUxFSS14SzVVUnZtNzlmOVFfS0R4MDJYdFNNcUwybWEyNXFVa1hWNDlRWFlFWmtHUHZhdkF1MlBnVWlkTjkyRkNWcHBoYWZyeGJ4M1UtZWhsbi02SFdzcktWWWtLZ0VxbXVnM2ZXRFhLUFRhVUhvUmJiOWRZSmVrd3haMUVFSzZCV1hlUWVRZHhQNk5GTWdiZlEtMkNQV0lmNEHSAacBQVVfeXFMUFZmWFY5SHJrR1dESFhsclV0czdRVWxOQjg3eEozSVFMLWpVc0h4cEJmVmdIXzdhSFhzeUZCTExQWXFiczA2WmFORUplbFVfRm5WaHFtS2VPMGVqTUNqcDVGelJBbi11WjlxZTUwTUQxbks2ZnB4QURQLVFBNnVNRUluTnEzZ29sRVI5SnY2X1E5WVBqNktrdXhtN01iZ3UteE9XMWw5WFU?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "SPY",
-   "strength": 20,
-   "reason": "Fed meeting on inflation; macro policy event affecting broad market direction but outcome uncertain",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": 0.7,
-    "base": 757.39,
-    "last": 762.42,
     "base_date": "2026-09-15",
     "last_date": "2026-09-17"
    }
