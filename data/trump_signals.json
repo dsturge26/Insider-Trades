@@ -1,7 +1,55 @@
 {
- "last_updated": "2026-09-22T00:08:08Z",
+ "last_updated": "2026-09-22T04:57:06Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-09-21T22:59:37Z",
+   "platform": "News",
+   "text": "Trump Says $800M Will Be Invested In Stock Market This Week For American Children As Trump Accounts Go Live - Stocktwits \u2014 Trump Says $800M Will Be Invested In Stock Market This Week For American Children As Trump Accounts Go Live\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNemVFZHVJdEo1TUFCNmNSZGFMRGJaaE5CVnl4LW1GVGs2cDFqNy1IcUtNZXpqT0NZUDAwTU56WU5BajYyVHVRZVdTd19RelMyMXhxaG5KdlVOZTQ5eFFRMFNIdGZBRGZxeXpMTjktZ3BVU2thb1oyWDJUZ1ZlZFJBQnRza0RieEdYeFNQdVVlWnBHNUlnY0xBTGo1bVpMZ1kzaFFCN1JGWlVxLWxveUFnQ2NmaG9jajRhMU9lN1Y1M3V5WWg2YzRnMw?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "SPY",
+   "strength": 45,
+   "reason": "$800M stock market investment announced for Americans; macro bullish signal but vague on timing/mechanism"
+  },
+  {
+   "date": "2026-09-21T22:21:25Z",
+   "platform": "News",
+   "text": "ASTS, RKLB Stocks Get The Trump Pump After Hidden Space Stock Bets Emerge - Stocktwits \u2014 ASTS, RKLB Stocks Get The Trump Pump After Hidden Space Stock Bets Emerge\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYlgtQnFIQ21RTHhqRVMtMUF4aWNUR2w3WHo5QzFfWVRyaExWYXJDUk9WaEFDaW90THVYcHVSd3J4Nk82T3lkMVBGZnhIQW43bHpGdURhaTgxYnRlR25BYmp6SWR1cjVhUHlXZXdWSFdkNlFTekNoQXZCSXNVem1Oc0NBYXBKQXhnRnNCTTVvOU5xSEZrUlNxdzZCczQyZmdVOW1jQVRBczU4cHlpU3M3dnBWZnBjdw?oc=5",
+   "tickers": [
+    "RKLB"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "RKLB",
+   "strength": 55,
+   "reason": "Trump holdings in space stocks (ASTS, RKLB) emerge; implicit endorsement via personal portfolio"
+  },
+  {
+   "date": "2026-09-21T20:08:00Z",
+   "platform": "News",
+   "text": "Wall Street surged higher to start the week ahead of the Trump-Xi summit - Seeking Alpha \u2014 Wall Street surged higher to start the week ahead of the Trump-Xi summit\u00a0\u00a0Seeking Alpha",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNb1M3U3BtVm1zbEIyTmFRdkNkcm5XNEpNVW1BcDhlYjBiSXFUNHJYb2RjVklSRlBCMXBVTEpacy05X0pnNTByNUN0dXVBNUt0LTJLWGdpRXdMNEUtSUd1R0RPeGhNQzhSdFJWY21pdTRlSlhranU4bkhROEF0RURpOXN2SThES1h2Yl9wYUFWWF9hQTg?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "SPY",
+   "strength": 40,
+   "reason": "Market surge ahead of Trump-Xi summit; trade deal anticipation but direction uncertain"
+  },
   {
    "date": "2026-09-21T19:28:06Z",
    "platform": "News",
@@ -709,22 +757,6 @@
    "primary_ticker": "QCOM",
    "strength": 60,
    "reason": "QCOM executives joining Trump in China visit; positive engagement signal."
-  },
-  {
-   "date": "2026-09-19T20:08:51Z",
-   "platform": "News",
-   "text": "Trump Says $800M Will Be Invested In Stock Market This Week For American Children As Trump Accounts Go Live - Stocktwits \u2014 Trump Says $800M Will Be Invested In Stock Market This Week For American Children As Trump Accounts Go Live\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNemVFZHVJdEo1TUFCNmNSZGFMRGJaaE5CVnl4LW1GVGs2cDFqNy1IcUtNZXpqT0NZUDAwTU56WU5BajYyVHVRZVdTd19RelMyMXhxaG5KdlVOZTQ5eFFRMFNIdGZBRGZxeXpMTjktZ3BVU2thb1oyWDJUZ1ZlZFJBQnRza0RieEdYeFNQdVVlWnBHNUlnY0xBTGo1bVpMZ1kzaFFCN1JGWlVxLWxveUFnQ2NmaG9jajRhMU9lN1Y1M3V5WWg2YzRnMw?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "SPY",
-   "strength": 45,
-   "reason": "$800M stock market investment for Americans signals bullish market sentiment"
   },
   {
    "date": "2026-09-19T17:32:35Z",
@@ -1642,30 +1674,6 @@
    }
   },
   {
-   "date": "2026-09-17T00:34:38Z",
-   "platform": "News",
-   "text": "ASTS, RKLB Stocks Get The Trump Pump After Hidden Space Stock Bets Emerge - Stocktwits \u2014 ASTS, RKLB Stocks Get The Trump Pump After Hidden Space Stock Bets Emerge\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYlgtQnFIQ21RTHhqRVMtMUF4aWNUR2w3WHo5QzFfWVRyaExWYXJDUk9WaEFDaW90THVYcHVSd3J4Nk82T3lkMVBGZnhIQW43bHpGdURhaTgxYnRlR25BYmp6SWR1cjVhUHlXZXdWSFdkNlFTekNoQXZCSXNVem1Oc0NBYXBKQXhnRnNCTTVvOU5xSEZrUlNxdzZCczQyZmdVOW1jQVRBczU4cHlpU3M3dnBWZnBjdw?oc=5",
-   "tickers": [
-    "RKLB"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "RKLB",
-   "strength": 50,
-   "reason": "Trump's hidden space stock bets (ASTS, RKLB) emerge, suggesting bullish view on space/satellite sector",
-   "price_since": {
-    "ticker": "RKLB",
-    "pct": -4.8,
-    "base": 67.82,
-    "last": 64.57,
-    "base_date": "2026-09-17",
-    "last_date": "2026-09-18"
-   }
-  },
-  {
    "date": "2026-09-16T23:37:59Z",
    "platform": "News",
    "text": "Dow, S&P 500, Nasdaq Futures Whipsaw After Trump\u2019s \u2018Power Plant Day\u2019 Warning To Iran: Why ASTS, VELO, MRVL, LUNR, FCEL Are In Focus - Stocktwits \u2014 Dow, S&P 500, Nasdaq Futures Whipsaw After Trump\u2019s \u2018Power Plant Day\u2019 Warning To Iran: Why ASTS, VELO, MRVL, LUNR, FCEL Are In Focus\u00a0\u00a0Stocktwits",
@@ -2406,30 +2414,6 @@
     "pct": 0.0,
     "base": 704.54,
     "last": 704.72,
-    "base_date": "2026-09-15",
-    "last_date": "2026-09-16"
-   }
-  },
-  {
-   "date": "2026-09-15T07:07:00Z",
-   "platform": "News",
-   "text": "Trump Pushes To Accelerate AI Race As Tech Leaders Call For Industry-wide Slowdown - i24NEWS \u2014 Trump Pushes To Accelerate AI Race As Tech Leaders Call For Industry-wide Slowdown\u00a0\u00a0i24NEWS",
-   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQcFFyNHBwRWRpVVJrR3BXLVV0VDRCVUkwZWtNcE0zd3BZc21Yd2tkazZWVVIwaGUtS05feTFwTjFYQmZDV1B0MHdGaFBla1ZfMHZhaHJpOElWYVF5ODhuc0RNNEJMTUVJd0l5WldLcjFVclV0ZjZlcGpmR1A0bkNYWDA0Vk94Z1ZrbWV3RmFYaHoxdTRzRXFvTURUVjNwN1J0d0NHWmwtSE9UaGlUdmlhT3hEZURhMnpocnI0ajJlUEQxSmRYNHNvdHNQc1RHa1pCSXhIdGNEY2Z3MXoyRUdiWG9kS3NwQQ?oc=5",
-   "tickers": [
-    "SMH"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "SMH",
-   "strength": 70,
-   "reason": "Trump pushes AI race acceleration, favoring semiconductor/AI sector over slowdown calls",
-   "price_since": {
-    "ticker": "SMH",
-    "pct": 0.6,
-    "base": 542.11,
-    "last": 545.56,
     "base_date": "2026-09-15",
     "last_date": "2026-09-16"
    }
