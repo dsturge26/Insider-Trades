@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-09-22T14:12:13Z",
+ "last_updated": "2026-09-22T18:07:09Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -49,6 +49,22 @@
    "primary_ticker": "ORCL",
    "strength": 30,
    "reason": "Oracle stock price action reported; retail bullish sentiment noted but no Trump-specific catalyst mentioned."
+  },
+  {
+   "date": "2026-09-22T07:37:05Z",
+   "platform": "News",
+   "text": "DJT Stock Slips Overnight: Truth Social To Sell Wall Street 'Fastest' Access To Trump's Posts - Stocktwits \u2014 DJT Stock Slips Overnight: Truth Social To Sell Wall Street 'Fastest' Access To Trump's Posts\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPMlA4d1JobmFISDVhdUVNOG1KZ3lYTVJCYjc0U09RMGZtdEdnV19hV0tfRmpNeVpzUGNQTlpnajJkQTdPUUN6cGJmVU5rUkdUcE9uTHc1SFJTRXMwOHFodDdaZkltOWlEby1yUWFkS3VSb01rem1tQU0xY3ZBdmRGU3dZTkJ5SlZZZVJXZVkzQjV6N0JjaGIyV1dZRUVQUUFUazlFenhzTFlMT1dkakRBdXBuMVllZEIwdUszRlFkU2VVSHc3azEtcjd5NWkyQWdDMWFfTHhJeFVqMmtaeHdLeXBLeXRNZG1mTEE?oc=5",
+   "tickers": [
+    "DJT"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "DJT",
+   "strength": 40,
+   "reason": "Truth Social monetization via Wall Street data access; mixed sentiment"
   },
   {
    "date": "2026-09-22T05:55:34Z",
@@ -117,7 +133,7 @@
     "ticker": "SPY",
     "pct": 0.1,
     "base": 773.5,
-    "last": 774.41,
+    "last": 774.04,
     "base_date": "2026-09-21",
     "last_date": "2026-09-22"
    }
@@ -139,9 +155,9 @@
    "reason": "Trump holdings in space stocks (ASTS, RKLB) emerge; implicit endorsement via personal portfolio",
    "price_since": {
     "ticker": "RKLB",
-    "pct": 2.0,
+    "pct": 3.2,
     "base": 69.89,
-    "last": 71.27,
+    "last": 72.16,
     "base_date": "2026-09-21",
     "last_date": "2026-09-22"
    }
@@ -163,9 +179,9 @@
    "reason": "NIO EV stock sentiment update; analyst view mixed on model drag but breakeven potential; no Trump catalyst.",
    "price_since": {
     "ticker": "NIO",
-    "pct": 2.2,
+    "pct": 1.4,
     "base": 3.67,
-    "last": 3.75,
+    "last": 3.72,
     "base_date": "2026-09-21",
     "last_date": "2026-09-22"
    }
@@ -187,9 +203,9 @@
    "reason": "AG (First Majestic Silver) stock jump reported; likely commodity/precious metals driven, no Trump nexus stated.",
    "price_since": {
     "ticker": "AG",
-    "pct": 2.0,
+    "pct": 4.1,
     "base": 19.31,
-    "last": 19.69,
+    "last": 20.11,
     "base_date": "2026-09-21",
     "last_date": "2026-09-22"
    }
@@ -213,7 +229,7 @@
     "ticker": "SPY",
     "pct": 0.1,
     "base": 773.5,
-    "last": 774.41,
+    "last": 774.04,
     "base_date": "2026-09-21",
     "last_date": "2026-09-22"
    }
@@ -237,7 +253,7 @@
     "ticker": "SPY",
     "pct": 0.1,
     "base": 773.5,
-    "last": 774.41,
+    "last": 774.11,
     "base_date": "2026-09-21",
     "last_date": "2026-09-22"
    }
@@ -259,9 +275,9 @@
    "reason": "Nuclear energy sector bullish; Centrus Energy specifically highlighted as safer nuclear bet, implicit Trump pro-nuclear push.",
    "price_since": {
     "ticker": "LEU",
-    "pct": -1.6,
+    "pct": 2.0,
     "base": 154.85,
-    "last": 152.34,
+    "last": 158.01,
     "base_date": "2026-09-21",
     "last_date": "2026-09-22"
    }
@@ -285,7 +301,7 @@
     "ticker": "LMT",
     "pct": -2.9,
     "base": 535.4,
-    "last": 519.99,
+    "last": 519.81,
     "base_date": "2026-09-21",
     "last_date": "2026-09-22"
    }
@@ -309,7 +325,7 @@
     "ticker": "SPY",
     "pct": 0.1,
     "base": 773.5,
-    "last": 774.41,
+    "last": 774.04,
     "base_date": "2026-09-21",
     "last_date": "2026-09-22"
    }
@@ -331,9 +347,9 @@
    "reason": "Energy stock upside call; Trump pro-drilling/deregulation stance supports energy sector",
    "price_since": {
     "ticker": "XLE",
-    "pct": -0.3,
+    "pct": -0.5,
     "base": 62.46,
-    "last": 62.25,
+    "last": 62.12,
     "base_date": "2026-09-21",
     "last_date": "2026-09-22"
    }
@@ -357,7 +373,7 @@
     "ticker": "SPY",
     "pct": 0.1,
     "base": 773.5,
-    "last": 774.41,
+    "last": 774.04,
     "base_date": "2026-09-21",
     "last_date": "2026-09-22"
    }
@@ -382,7 +398,7 @@
     "ticker": "QQQ",
     "pct": 0.6,
     "base": 741.47,
-    "last": 745.78,
+    "last": 746.11,
     "base_date": "2026-09-21",
     "last_date": "2026-09-22"
    }
@@ -404,9 +420,9 @@
    "reason": "US potash deal with Belarus at lower cost than Canada benefits domestic agriculture and potash supply",
    "price_since": {
     "ticker": "MOS",
-    "pct": 1.1,
+    "pct": 3.2,
     "base": 24.07,
-    "last": 24.33,
+    "last": 24.83,
     "base_date": "2026-09-21",
     "last_date": "2026-09-22"
    }
@@ -430,7 +446,7 @@
     "ticker": "SPY",
     "pct": 0.1,
     "base": 773.5,
-    "last": 774.41,
+    "last": 774.02,
     "base_date": "2026-09-21",
     "last_date": "2026-09-22"
    }
@@ -453,9 +469,9 @@
    "reason": "Trump confirms major potash deal from Belarus below current Canadian prices, bullish for farmers and potash producers",
    "price_since": {
     "ticker": "MOS",
-    "pct": 1.1,
+    "pct": 3.2,
     "base": 24.07,
-    "last": 24.33,
+    "last": 24.83,
     "base_date": "2026-09-21",
     "last_date": "2026-09-22"
    }
@@ -478,9 +494,9 @@
    "reason": "Russian diesel refinery disruption tightens global oil supply, bullish for energy sector",
    "price_since": {
     "ticker": "XLE",
-    "pct": -0.4,
+    "pct": -0.5,
     "base": 62.46,
-    "last": 62.24,
+    "last": 62.12,
     "base_date": "2026-09-21",
     "last_date": "2026-09-22"
    }
@@ -502,9 +518,9 @@
    "reason": "Apeland secures major $7.5B hyperscaler lease; strong positive catalyst for data center/infrastructure stock.",
    "price_since": {
     "ticker": "APLD",
-    "pct": 2.3,
+    "pct": 1.7,
     "base": 28.19,
-    "last": 28.84,
+    "last": 28.67,
     "base_date": "2026-09-21",
     "last_date": "2026-09-22"
    }
@@ -528,7 +544,7 @@
     "ticker": "SPY",
     "pct": 0.1,
     "base": 773.5,
-    "last": 774.41,
+    "last": 774.02,
     "base_date": "2026-09-21",
     "last_date": "2026-09-22"
    }
@@ -552,7 +568,7 @@
     "ticker": "SPY",
     "pct": 0.1,
     "base": 773.5,
-    "last": 774.41,
+    "last": 774.02,
     "base_date": "2026-09-21",
     "last_date": "2026-09-22"
    }
@@ -576,7 +592,7 @@
     "ticker": "QQQ",
     "pct": 0.6,
     "base": 741.47,
-    "last": 745.78,
+    "last": 746.1,
     "base_date": "2026-09-21",
     "last_date": "2026-09-22"
    }
@@ -598,9 +614,9 @@
    "reason": "Iranian blockade reinstatement + shipping toll bullish for oil prices and geopolitical risk premium.",
    "price_since": {
     "ticker": "USO",
-    "pct": -1.3,
+    "pct": -2.6,
     "base": 148.16,
-    "last": 146.2,
+    "last": 144.32,
     "base_date": "2026-09-21",
     "last_date": "2026-09-22"
    }
@@ -722,30 +738,6 @@
     "pct": 0.1,
     "base": 773.5,
     "last": 774.41,
-    "base_date": "2026-09-21",
-    "last_date": "2026-09-22"
-   }
-  },
-  {
-   "date": "2026-09-20T14:32:48Z",
-   "platform": "News",
-   "text": "DJT Stock Slips Overnight: Truth Social To Sell Wall Street 'Fastest' Access To Trump's Posts - Stocktwits \u2014 DJT Stock Slips Overnight: Truth Social To Sell Wall Street 'Fastest' Access To Trump's Posts\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPMlA4d1JobmFISDVhdUVNOG1KZ3lYTVJCYjc0U09RMGZtdEdnV19hV0tfRmpNeVpzUGNQTlpnajJkQTdPUUN6cGJmVU5rUkdUcE9uTHc1SFJTRXMwOHFodDdaZkltOWlEby1yUWFkS3VSb01rem1tQU0xY3ZBdmRGU3dZTkJ5SlZZZVJXZVkzQjV6N0JjaGIyV1dZRUVQUUFUazlFenhzTFlMT1dkakRBdXBuMVllZEIwdUszRlFkU2VVSHc3azEtcjd5NWkyQWdDMWFfTHhJeFVqMmtaeHdLeXBLeXRNZG1mTEE?oc=5",
-   "tickers": [
-    "DJT"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "DJT",
-   "strength": 55,
-   "reason": "Truth Social monetization move (Wall Street data access) directly affects DJT value proposition and revenue.",
-   "price_since": {
-    "ticker": "DJT",
-    "pct": -0.5,
-    "base": 9.12,
-    "last": 9.07,
     "base_date": "2026-09-21",
     "last_date": "2026-09-22"
    }
@@ -2544,222 +2536,6 @@
     "last": 762.42,
     "base_date": "2026-09-15",
     "last_date": "2026-09-17"
-   }
-  },
-  {
-   "date": "2026-09-15T14:35:55Z",
-   "platform": "News",
-   "text": "GA-ASI Unveils Wildfire UAS for Military, Civil and Commercial Roles - Yahoo Finance Singapore \u2014 GA-ASI Unveils Wildfire UAS for Military, Civil and Commercial Roles\u00a0\u00a0Yahoo Finance Singapore",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTnE4MllFaU5fNHFNUU56N2NKaWx1SzJQOGYtSktTUjlsSHlpajZFeVgtNExWZWJsMlJnal90cVZqVExWci1rbFJRLURyQ1dHckZ4bElPbHktSHZMa3ktS3ZDVUpnai1sdktTV09uVXpyWU9RaUVfaUczekxJdzYxcDRhMXA?oc=5",
-   "tickers": [
-    "XAR"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "XAR",
-   "strength": 35,
-   "reason": "Military UAS system development supports defense sector",
-   "price_since": {
-    "ticker": "XAR",
-    "pct": -0.3,
-    "base": 241.53,
-    "last": 240.82,
-    "base_date": "2026-09-15",
-    "last_date": "2026-09-17"
-   }
-  },
-  {
-   "date": "2026-09-15T12:16:00Z",
-   "platform": "News",
-   "text": "Trump says AI safety fears a 'hoax', rejects calls for greater safeguards - Saudi Gazette \u2014 Trump says AI safety fears a 'hoax', rejects calls for greater safeguards\u00a0\u00a0Saudi Gazette",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObTZiRGZScE9QZkZyYVhWSk9kbDlwRDZYNXJOU28yMzVsSG43SWRpWGZHek9yX3Fab1F1MVZtNjFCZG5OZXZDdERnZTlucUZ1a0o5NmVhOHkxdzZvQTVXVHpDV1g4Y2g0d3dBUzJWeWpyTURxYWN4eG5jaUdPVDVYZzdHeG9NX1lSNGdjMXlRUTlBOXNXU1Z1WkhzWHRnaVNicWRQMDh1V0pHWFB2SENJb3BPcng3Y3pOYzN3?oc=5",
-   "tickers": [
-    "QQQ"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "QQQ",
-   "strength": 45,
-   "reason": "Trump opposes AI safety regulation, bullish for AI/tech acceleration",
-   "price_since": {
-    "ticker": "QQQ",
-    "pct": 1.7,
-    "base": 704.54,
-    "last": 716.64,
-    "base_date": "2026-09-15",
-    "last_date": "2026-09-17"
-   }
-  },
-  {
-   "date": "2026-09-15T11:23:55Z",
-   "platform": "News",
-   "text": "Markets On Edge As US Fed Meets To Tackle High Inflation - Channels Television \u2014 Markets On Edge As US Fed Meets To Tackle High Inflation\u00a0\u00a0Channels Television",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPc2Z3cm9NYXBWVjlQMjF5T0pfd0RsQ2ZBMlg3dEQyUE5kUHVUdEF1UXJxNkxzaWVDS1RwX2RWVHlLOUJzTVpIZTZfS2lTU1Z6NFE4XzJXcmJYbE40OW5aRTBwdWthNU5LZU1ON2dwa2dxOFNSNGRmby1tbE84djZ6MEpwbGluYmdCZlNWbnBQNEV2d2FYenRWRS11cw?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "SPY",
-   "strength": 30,
-   "reason": "Fed policy meeting on inflation affects broad market direction",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": 0.6,
-    "base": 757.39,
-    "last": 762.15,
-    "base_date": "2026-09-15",
-    "last_date": "2026-09-17"
-   }
-  },
-  {
-   "date": "2026-09-15T10:42:36Z",
-   "platform": "News",
-   "text": "AI Restraint Debate Lifts Outlook for India Tech Services Stocks - Bloomberg.com \u2014 AI Restraint Debate Lifts Outlook for India Tech Services Stocks\u00a0\u00a0Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVGFwWXhGV1VlY19uLXRuUldYZDFfNzAzNllvcmRSU3U3ZzJDSkhCTERtNE54SDh4c3A5Z09kQmhKd0ZyTUVoQXNHWGtlOE50c2RZcFdqei1fd2RjNVVSa0dBNnJRbF9sTUFVU01fZmhwdWl6c3pKbU9oNkU2U0VLTWoxRC1wRFRkZUNLSnNHZWhTY2F1aFNheG1oZWt2RGQ3YkRLY3dpNmhFSG5oekJ5ZGhtNFNLZw?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "SPY",
-   "strength": 35,
-   "reason": "India tech services may benefit from AI restraint debate but US market impact mixed",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": 0.6,
-    "base": 757.39,
-    "last": 762.07,
-    "base_date": "2026-09-15",
-    "last_date": "2026-09-17"
-   }
-  },
-  {
-   "date": "2026-09-15T10:33:00Z",
-   "platform": "News",
-   "text": "Global selloff in stocks as bond market enters \u2018new era\u2019 of risk - fortune.com \u2014 Global selloff in stocks as bond market enters \u2018new era\u2019 of risk\u00a0\u00a0fortune.com",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZ2hSb2V1UmhRTkFQRTJYNm9HMXdhd29yM3lXeDdsQ3F0dXpudzA2VTFVNXdKS2JQemFnSFhSRUJZVDNQV051aTQzNkNFaU83TEZwZm16Nkp0U0Zoa281eVBtQXpFUlJZbVhIRnpWTDhUOFk5UHpoMzBOUHdmVy1BbXZULW9Edm5ieWZkNVltWTJkRnJzODB4MWhn?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "SPY",
-   "strength": 40,
-   "reason": "Global stock selloff and bond market risk signal broad market weakness",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": 0.6,
-    "base": 757.39,
-    "last": 762.14,
-    "base_date": "2026-09-15",
-    "last_date": "2026-09-17"
-   }
-  },
-  {
-   "date": "2026-09-15T10:33:00Z",
-   "platform": "News",
-   "text": "Global selloff in stocks as bond market enters \u2018new era\u2019 of risk - Fortune \u2014 Global selloff in stocks as bond market enters \u2018new era\u2019 of risk\u00a0\u00a0Fortune",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZ2hSb2V1UmhRTkFQRTJYNm9HMXdhd29yM3lXeDdsQ3F0dXpudzA2VTFVNXdKS2JQemFnSFhSRUJZVDNQV051aTQzNkNFaU83TEZwZm16Nkp0U0Zoa281eVBtQXpFUlJZbVhIRnpWTDhUOFk5UHpoMzBOUHdmVy1BbXZULW9Edm5ieWZkNVltWTJkRnJzODB4MWhn?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "SPY",
-   "strength": 45,
-   "reason": "Global stock selloff and bond market shift; broad market bearish",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": -0.4,
-    "base": 757.39,
-    "last": 754.05,
-    "base_date": "2026-09-15",
-    "last_date": "2026-09-16"
-   }
-  },
-  {
-   "date": "2026-09-15T09:37:30Z",
-   "platform": "News",
-   "text": "Trump Calls Nvidia CEO on Stage to Defend AI Boom - Gulte \u2014 Trump Calls Nvidia CEO on Stage to Defend AI Boom\u00a0\u00a0Gulte",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMXlRSmNSYVMwRGFySUhsVFJiU0toRXVmTTVCN3J3czZLVktKcHR2V1owWEhwdmlMdm5PRVFfdDFwX0JDYVRoTzVnMkJIZzRWXzR3aVZqMmNETG9PTEptcjVqOE1oQ2JrdGplMzBaNmYtRHBtS3BSNi01ejJIR3R6YUxFVm5lX2RjQkpGQ0dR0gGTAUFVX3lxTFBnU2h6c0psRnRNM3MtSXVnMnN3R1hOVVdhTWE0TEVlamFieHN0NE1zNTI5SWtKdHVHTGNtSDFFWkxpQURfbllGNFZGUU9sUmYyTGVRSHhKMGFJQ3ZHQ1I3czlieFBQZDhtZ1VqUXlCRXhmengyazFXZVd6elRlQ1VNRUlSb3J0aGZGdWdHc25Bd29sTQ?oc=5",
-   "tickers": [
-    "NVDA"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "NVDA",
-   "strength": 75,
-   "reason": "Trump publicly supports Nvidia CEO and AI boom acceleration, bullish for chip leaders",
-   "price_since": {
-    "ticker": "NVDA",
-    "pct": 0.8,
-    "base": 212.17,
-    "last": 213.9,
-    "base_date": "2026-09-15",
-    "last_date": "2026-09-16"
-   }
-  },
-  {
-   "date": "2026-09-15T09:37:30Z",
-   "platform": "News",
-   "text": "Trump Calls Nvidia CEO on Stage to Defend AI Boom - gulte.com \u2014 Trump Calls Nvidia CEO on Stage to Defend AI Boom\u00a0\u00a0gulte.com",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMXlRSmNSYVMwRGFySUhsVFJiU0toRXVmTTVCN3J3czZLVktKcHR2V1owWEhwdmlMdm5PRVFfdDFwX0JDYVRoTzVnMkJIZzRWXzR3aVZqMmNETG9PTEptcjVqOE1oQ2JrdGplMzBaNmYtRHBtS3BSNi01ejJIR3R6YUxFVm5lX2RjQkpGQ0dR0gGTAUFVX3lxTFBnU2h6c0psRnRNM3MtSXVnMnN3R1hOVVdhTWE0TEVlamFieHN0NE1zNTI5SWtKdHVHTGNtSDFFWkxpQURfbllGNFZGUU9sUmYyTGVRSHhKMGFJQ3ZHQ1I3czlieFBQZDhtZ1VqUXlCRXhmengyazFXZVd6elRlQ1VNRUlSb3J0aGZGdWdHc25Bd29sTQ?oc=5",
-   "tickers": [
-    "NVDA"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "NVDA",
-   "strength": 75,
-   "reason": "Trump publicly endorses AI boom and Nvidia CEO; strong bullish signal for chip leader",
-   "price_since": {
-    "ticker": "NVDA",
-    "pct": 0.8,
-    "base": 212.17,
-    "last": 213.9,
-    "base_date": "2026-09-15",
-    "last_date": "2026-09-16"
-   }
-  },
-  {
-   "date": "2026-09-15T09:14:41Z",
-   "platform": "News",
-   "text": "Anthropic's $2 Trillion IPO Is Still On. And So Is the AI Race - Bloomberg.com \u2014 Anthropic's $2 Trillion IPO Is Still On. And So Is the AI Race\u00a0\u00a0Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNckVKWktKbHNxUnBHa0RINVdzWkVnLUo4SUt2cVRzNjBORTNlVVJENlEyMGVaT05WMUNmOWlfS21mOU9adlIxeHB2Z2F1LWdlb0V2aEZQZFRpX1dNWmN4MVd0Rm01M0JHcDJoZ1hCbk1fSW92YTZyZnFLRWd1RmtmUlRwbnpUUE5XNzd3cThVdjhHZ2RvTEZsaGNkVmRPMmZYSk1DMGFWR0toMFR5ZDlBRnNXV2c?oc=5",
-   "tickers": [
-    "QQQ"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "QQQ",
-   "strength": 40,
-   "reason": "Anthropic IPO and AI race acceleration implied bullish for AI/tech sector",
-   "price_since": {
-    "ticker": "QQQ",
-    "pct": 0.0,
-    "base": 704.54,
-    "last": 704.72,
-    "base_date": "2026-09-15",
-    "last_date": "2026-09-16"
    }
   },
   {
