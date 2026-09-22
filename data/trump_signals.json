@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-09-21T21:05:09Z",
+ "last_updated": "2026-09-22T00:08:08Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -49,6 +49,22 @@
    "primary_ticker": "SPY",
    "strength": 40,
    "reason": "Trade deal (potash sourcing from Belarus vs. Canada) ambiguous direction; could lower US input costs (bullish) or signal broader tariff/trade friction (bearish)."
+  },
+  {
+   "date": "2026-09-21T18:00:00Z",
+   "platform": "News",
+   "text": "This Energy Stock Has 130% Upside Potential - 24/7 Wall St. \u2014 This Energy Stock Has 130% Upside Potential\u00a0\u00a024/7 Wall St.",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZUZwUTdSOWYzbGoydi1LWmZFN3B3MlRTNWRPZHQ0ZDd6RV9XaHoyVy11OHVMd0F5UlZQaWpQby1femNBb2c5S3VVR3RUVDFkTDA0SmxTemlkSzg5b210ZDhiTWR2ZXg5ZFhOOHFkRVgtRmY4OWRwZTdVS2wyaGpNS0t5RGJqZEJVRkI3LVNhcE5rR1RwSU9vQnVPLW9tV29IejdXWkV5QTJIVEdjZno0Ug?oc=5",
+   "tickers": [
+    "XLE"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "XLE",
+   "strength": 35,
+   "reason": "Energy stock upside call; Trump pro-drilling/deregulation stance supports energy sector"
   },
   {
    "date": "2026-09-21T17:05:47Z",
@@ -2414,198 +2430,6 @@
     "pct": 0.6,
     "base": 542.11,
     "last": 545.56,
-    "base_date": "2026-09-15",
-    "last_date": "2026-09-16"
-   }
-  },
-  {
-   "date": "2026-09-15T06:51:35Z",
-   "platform": "News",
-   "text": "Trump Dials Nvidia CEO Jensen Huang Live On Stage, Says AI Takeover Claims Are A \u2018Hoax\u2019: WATCH - ABP Live English \u2014 Trump Dials Nvidia CEO Jensen Huang Live On Stage, Says AI Takeover Claims Are A \u2018Hoax\u2019: WATCH\u00a0\u00a0ABP Live English",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUDYxdlN3eWt5TW9GRVBsSWkyVlZDNXZHcGRwRWllZFlMckJyc0hKZnQyRk1iWEFoaXdjcmc1dXFOdUpmdXBDNWpaMjJvc3Q2WWQ5WUJEWFJRR3NjYnpNekl6ekU3aENmXzM1R3o0WlQ2LW5UTTVPOGk2V3dZWW45M1dzZnBoWjR6RFcxZk9uX0VPcGU4RDF6WTI3dzA4VVNvSDBfRUJqWGswNDdEWWtZQmxxY3M4eG8tUk14RmpzZi1WYVBIY29zajB30gHPAUFVX3lxTE4tYXZJZ2swNTJzRjJaVHVTS3dUeFM0cEd1djVmVE93a1I3ZWZDQVdibjAzWmpVQ2JjcDVoSmJscW9iOEJWTk9LNFFMYjQ2NHA2TU12R0JDQ1Q3SmZjQUhWTTQtb2ROc25tSzllOW9yZm80YkRwVFV6alpQRUdWUnVWLU9sNms4M3NxWkVSaGpzYjdvMGdfckV5Q215SUJLRklmTnMtaTRFT2lZbEY2UFhOQ2ZnTjl0TzRwSHZqejZqdUd4VkI0a2ZEQUhQMFVEMA?oc=5",
-   "tickers": [
-    "NVDA"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "NVDA",
-   "strength": 80,
-   "reason": "Trump live endorses Nvidia CEO, dismisses AI safety fears to boost industry confidence",
-   "price_since": {
-    "ticker": "NVDA",
-    "pct": 0.8,
-    "base": 212.17,
-    "last": 213.9,
-    "base_date": "2026-09-15",
-    "last_date": "2026-09-16"
-   }
-  },
-  {
-   "date": "2026-09-15T06:49:00Z",
-   "platform": "News",
-   "text": "MySize Inc. (MYSZ) Shares Jump 51% After Hours: Here's Why - TradingView \u2014 MySize Inc. (MYSZ) Shares Jump 51% After Hours: Here's Why\u00a0\u00a0TradingView",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZ3FtZWhsTEc1T2dTVEJIam5SeF8wREZEMHZJRVFIY0hkWGhGU2ZSRV9OVDJ2d2VVeWplWGJDeFd1ZHQ2ZGJXemZMVmJ2N3RlbjFzYVJSWDdWYVcxdnlrSG5qMTgwZE9ETmUwbXVvNEVjME5UYmVfQm1aYnZoR1VsZkNCS0lPRnNWUjc2MmxaM3dndGthNk4wMndNOWxpeGNCVk1Nd3lHejlmYUV2TDM1Qjh3?oc=5",
-   "tickers": [
-    "MYSZ"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "MYSZ",
-   "strength": 50,
-   "reason": "Stock spike reported but reason unclear; may be unrelated to Trump content",
-   "price_since": {
-    "ticker": "MYSZ",
-    "pct": -15.1,
-    "base": 2.32,
-    "last": 1.97,
-    "base_date": "2026-09-15",
-    "last_date": "2026-09-16"
-   }
-  },
-  {
-   "date": "2026-09-15T06:18:13Z",
-   "platform": "News",
-   "text": "Nvidia CEO puts Trump on phone while downplaying AI risks - The Edge Malaysia \u2014 Nvidia CEO puts Trump on phone while downplaying AI risks\u00a0\u00a0The Edge Malaysia",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9lX0otNXNLMWNPRFVyNThCejJOb183VlJ3QTFvbXF3amxUeDYyNHRGQTdQZmJGWU1WdGZBZ3lFa1VDcWN3d2MyUS10OGNpQWU2?oc=5",
-   "tickers": [
-    "NVDA"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "NVDA",
-   "strength": 70,
-   "reason": "Nvidia CEO stages Trump call downplaying AI risks; implies Trump support for NVDA thesis",
-   "price_since": {
-    "ticker": "NVDA",
-    "pct": 0.8,
-    "base": 212.17,
-    "last": 213.9,
-    "base_date": "2026-09-15",
-    "last_date": "2026-09-16"
-   }
-  },
-  {
-   "date": "2026-09-15T05:30:00Z",
-   "platform": "News",
-   "text": "Trump calls Nvidia\u2019s Jensen Huang onstage, dismisses safety fears: \u2018AI will not be taking over\u2019 - Ynetnews \u2014 Trump calls Nvidia\u2019s Jensen Huang onstage, dismisses safety fears: \u2018AI will not be taking over\u2019\u00a0\u00a0Ynetnews",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB1Q3VPQlA4MTlWTS01UmRNQk0wU0VuMk82T0lTOEZNeUlHTXplQXFiUm1VRHpjcDY5NmE5RzdmQXJaMVdzSEpydWtLelNoZ3lwVEhIUENoS1dTQlJwNUQyYlhVZnVPY2VsazJERw?oc=5",
-   "tickers": [
-    "NVDA"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "NVDA",
-   "strength": 72,
-   "reason": "Trump calls Nvidia CEO onstage, dismisses AI safety fears and implicitly endorses AI/data center push\u2014bullish for Nvidia growth narrative",
-   "price_since": {
-    "ticker": "NVDA",
-    "pct": 0.8,
-    "base": 212.17,
-    "last": 213.9,
-    "base_date": "2026-09-15",
-    "last_date": "2026-09-16"
-   }
-  },
-  {
-   "date": "2026-09-15T05:30:00Z",
-   "platform": "News",
-   "text": "Trump calls Nvidia\u2019s Jensen Huang onstage, dismisses safety fears: \u2018AI will not be taking over\u2019 - ynetnews.com \u2014 Trump calls Nvidia\u2019s Jensen Huang onstage, dismisses safety fears: \u2018AI will not be taking over\u2019\u00a0\u00a0ynetnews.com",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB1Q3VPQlA4MTlWTS01UmRNQk0wU0VuMk82T0lTOEZNeUlHTXplQXFiUm1VRHpjcDY5NmE5RzdmQXJaMVdzSEpydWtLelNoZ3lwVEhIUENoS1dTQlJwNUQyYlhVZnVPY2VsazJERw?oc=5",
-   "tickers": [
-    "NVDA"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "NVDA",
-   "strength": 80,
-   "reason": "Trump onstage dismisses AI safety concerns, explicitly supports Nvidia growth trajectory",
-   "price_since": {
-    "ticker": "NVDA",
-    "pct": 1.2,
-    "base": 212.17,
-    "last": 214.78,
-    "base_date": "2026-09-15",
-    "last_date": "2026-09-16"
-   }
-  },
-  {
-   "date": "2026-09-15T04:44:57Z",
-   "platform": "News",
-   "text": "Trump\u2019s AI defense defies voter unease heading into midterms - The Japan Times \u2014 Trump\u2019s AI defense defies voter unease heading into midterms\u00a0\u00a0The Japan Times",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOck9lNlZQUlB3WGtYOVkzSEdNY2dtY2lCR29XdGo0d3FNcl80MW5zOTVVV1dKZnZNUDRJR2l1TFJ6T01HbXcyVUZLZDZGX1B1a1cxX1c3ZDgzZ3hMX24zZEJLVnJyLXdYWm1SZXJWMktJeVZrbzd2eWZhUDI2eWxFenpZdG4tTmw1cFdMOVhJaUNkOFE?oc=5",
-   "tickers": [
-    "QQQ"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "QQQ",
-   "strength": 45,
-   "reason": "Trump defends AI despite voter unease; pro-AI policy stance bullish for tech",
-   "price_since": {
-    "ticker": "QQQ",
-    "pct": 0.5,
-    "base": 704.54,
-    "last": 707.84,
-    "base_date": "2026-09-15",
-    "last_date": "2026-09-16"
-   }
-  },
-  {
-   "date": "2026-09-15T04:09:00Z",
-   "platform": "News",
-   "text": "Donald Trump Rejects Calls For AI Slowdown. That Changes the Game for Nvidia and AMD - Yahoo! Finance Canada \u2014 Donald Trump Rejects Calls For AI Slowdown. That Changes the Game for Nvidia and AMD\u00a0\u00a0Yahoo! Finance Canada",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSU1mUTNuSkFTLTd2Vy1YOUVlOHBVZlRjMzRjR0FKTjdLUFZ4Y05YT0trLVlQTC16cFhCbzMxZHhyaDh3NU9yRGRHTDhhY3NBMElGM2hvRVRPU05BQTlWcGJPdE5KZEhCRENra21vUE92SF9iMWNJUzBxZ2g2aEdtSjI5M2E?oc=5",
-   "tickers": [
-    "SMH"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "SMH",
-   "strength": 75,
-   "reason": "Trump rejects AI slowdown, favors accelerated race benefiting Nvidia and AMD",
-   "price_since": {
-    "ticker": "SMH",
-    "pct": 0.9,
-    "base": 542.11,
-    "last": 546.95,
-    "base_date": "2026-09-15",
-    "last_date": "2026-09-16"
-   }
-  },
-  {
-   "date": "2026-09-15T04:09:00Z",
-   "platform": "News",
-   "text": "Donald Trump Rejects Calls For AI Slowdown. That Changes the Game for Nvidia and AMD - ca.finance.yahoo.com \u2014 Donald Trump Rejects Calls For AI Slowdown. That Changes the Game for Nvidia and AMD\u00a0\u00a0ca.finance.yahoo.com",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSU1mUTNuSkFTLTd2Vy1YOUVlOHBVZlRjMzRjR0FKTjdLUFZ4Y05YT0trLVlQTC16cFhCbzMxZHhyaDh3NU9yRGRHTDhhY3NBMElGM2hvRVRPU05BQTlWcGJPdE5KZEhCRENra21vUE92SF9iMWNJUzBxZ2g2aEdtSjI5M2E?oc=5",
-   "tickers": [
-    "QQQ"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "QQQ",
-   "strength": 60,
-   "reason": "Trump opposes AI slowdown, bullish for Nvidia, AMD and semiconductor acceleration",
-   "price_since": {
-    "ticker": "QQQ",
-    "pct": 0.5,
-    "base": 704.54,
-    "last": 707.84,
     "base_date": "2026-09-15",
     "last_date": "2026-09-16"
    }
