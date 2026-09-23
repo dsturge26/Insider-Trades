@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-09-23T20:42:29Z",
+ "last_updated": "2026-09-23T23:11:56Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -49,6 +49,22 @@
    "primary_ticker": "MSTR",
    "strength": 50,
    "reason": "Trump's large stock trades in tech/AI including MSTR draw scrutiny; unclear if positions signal bullish conviction or mere portfolio moves."
+  },
+  {
+   "date": "2026-09-23T14:49:22Z",
+   "platform": "News",
+   "text": "Trump's Strategy Stock Trades Draw Scrutiny as MSTR Surges 83% - benzinga.com \u2014 Trump's Strategy Stock Trades Draw Scrutiny as MSTR Surges 83%\u00a0\u00a0benzinga.com",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMDdGbW5LdmJUNHhVQlA2LXJlN0xJU292WDNiUHJuMklXM1NMZTM1VzdfSklNTjBQYzJWSGRtZWVIQmhYOE5fMDVUc3RwOHRKQjI4NGJNSnVFdlEtU0pfZEtXaFRlcThZQnhzSVo5VTNGS1hMT0IwbEdpaHpSLVNDa1IyU1pSNkloZVhUYXRFbjFfa0s0UEhmeXdobC1kd19S?oc=5",
+   "tickers": [
+    "MSTR"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "MSTR",
+   "strength": 40,
+   "reason": "Trump's stock trades draw scrutiny; MSTR surge may reflect broader crypto/strategy stock strength tied to Trump positions."
   },
   {
    "date": "2026-09-23T14:35:30Z",
@@ -116,12 +132,36 @@
    "reason": "1,156 trades across sectors reveal Trump's portfolio positioning but lack clear directional signal"
   },
   {
-   "date": "2026-09-23T10:05:00Z",
+   "date": "2026-09-23T10:44:52Z",
    "platform": "News",
-   "text": "DEI initiatives didn't cost companies. Just the opposite. | Opinion - USA Today \u2014 DEI initiatives didn't cost companies. Just the opposite. | Opinion\u00a0\u00a0USA Today",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQckh3blppb082V05qcVFHYjlFSHY4Yk1aY09MLS1GUHlwMTN6VWFkdkkyMnBaczJPbnlzMVBnSG5jVEN1RjNRLWd5MVpyeVJXLW1NVFZmOTF3aGxIVktLZE1uWUVuU3I5ZGpxaXByRDB5b0RvZmR6UGctSHJsNjZQWUloUTBiRlRQWlNSZHRITU1qNC1OQjA5SzQ2alI2c1FEMzg0Z2EwOV9JSVNPU3h3N3FWLXlqdw?oc=5",
-   "tickers": [],
-   "classified": false
+   "text": "TSLA Stock Eyes Weekly Loss: Retail Investors Grill Musk On Missed Robotaxi Targets Ahead Of Q2 Earnings - Stocktwits \u2014 TSLA Stock Eyes Weekly Loss: Retail Investors Grill Musk On Missed Robotaxi Targets Ahead Of Q2 Earnings\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPc2VqM1JQbmZfbWdMR2gzRDc3QUo0MUhJaUtBVFQ4TjBvR1dja1lnekNnakVnVmJmb2k5M0JJeGdSVGFPdDBodDZTa3JjOHB1TXR5Mm1PQzZLQXczdGl1TUEwV2V0dnRCaXc3Q2FGQ1BRMkd1MkFaUlM4SlcxVW9KT081TG1xTjdHa2NsN0VaOUh5QVQ2dGZ3X0cteE1YYS1OTHlsck5ldHlycl8zRVE?oc=5",
+   "tickers": [
+    "TSLA"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "TSLA",
+   "strength": 50,
+   "reason": "Retail investor criticism on missed robotaxi targets and upcoming earnings; bearish sentiment on execution."
+  },
+  {
+   "date": "2026-09-23T09:00:00Z",
+   "platform": "News",
+   "text": "Trump trades about US$50,000 in SpaceX shares amid price plunge - IDNFinancials \u2014 Trump trades about US$50,000 in SpaceX shares amid price plunge\u00a0\u00a0IDNFinancials",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQW1kMlR2RXVjVWJjWkhRczZ3NWdva1BJYlBiZ2UxdVdjTVF2d2I0Tk96bzdQLXQtZThobk12a3lXSHdjaDI2OS1xQVFYc3M2TVptMkRWV2RLNkpiekhTd3ltNlk0V0ZDUXozaGZnNjlWU3o5WUhpb0xsS3Y0UVBBTkxVUEpZTnppNUlQNnhVbWEyQV92RXFEX1o1X09qV3NIWEtQQ3Fn?oc=5",
+   "tickers": [
+    "RLUSU"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "RLUSU",
+   "strength": 25,
+   "reason": "Trump trades SpaceX shares ($50k) during price plunge; modest position size and unclear direction."
   },
   {
    "date": "2026-09-23T08:05:00Z",
@@ -186,6 +226,22 @@
    "primary_ticker": "QQQ",
    "strength": 35,
    "reason": "Nasdaq all-time high on AI momentum; market sentiment positive but no Trump-specific catalyst"
+  },
+  {
+   "date": "2026-09-23T02:59:46Z",
+   "platform": "News",
+   "text": "Wall Street\u2019s Nasdaq hits all-time high as AI frenzy gathers pace - aljazeera.com \u2014 Wall Street\u2019s Nasdaq hits all-time high as AI frenzy gathers pace\u00a0\u00a0aljazeera.com",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeHpTeHdzUzRDT2hXc052OG13c3p1LXR2QWx2MlJFNF9ZcHNYQTVmNnI5eGZUVXgwd20yUW1CMlBieURxX3RDUkdQOVIyRHQwLWVReHVVZWRGY0kyaGhVdUJ1NnlqNkxBTHlHQjkyeGpnTFlwMlVmekIzNWJGVjAzZzg4XzVjc0JhUHlvR1BuTUx5ZTVfX1NuaU5VTmRrVmN5Snd5RWxvSnlXbnBq0gGyAUFVX3lxTE44TFdKYmIzVjZkam5ELVZnSkJPSEZ0YjVRUDdIUVZfckxDdFl0QVRHWWRpamN6UE04NnpFLXExdlRtZ0s2N0d6a3YzUktXczM0eFd2Q0ctNTJqUkU2LWRIaE15M1lIcUowUENmM3hDd09PdHpHSzdEeXdNWFg0Z1NQWTlSdjNSMUFhZEtDckFScDlFSV9GY0F1UE1xOG42cUpSZGl2Q1Z6YUtuTjBZQlRSV0E?oc=5",
+   "tickers": [
+    "QQQ"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "QQQ",
+   "strength": 60,
+   "reason": "Nasdaq all-time high driven by AI frenzy; bullish momentum for tech and AI-linked equities."
   },
   {
    "date": "2026-09-23T02:24:34Z",
@@ -1512,22 +1568,6 @@
    "reason": "Micron commits $250M to Trump accounts/initiatives; signals alignment and potential favorable policy treatment"
   },
   {
-   "date": "2026-09-20T01:06:33Z",
-   "platform": "News",
-   "text": "TSLA Stock Eyes Weekly Loss: Retail Investors Grill Musk On Missed Robotaxi Targets Ahead Of Q2 Earnings - Stocktwits \u2014 TSLA Stock Eyes Weekly Loss: Retail Investors Grill Musk On Missed Robotaxi Targets Ahead Of Q2 Earnings\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPc2VqM1JQbmZfbWdMR2gzRDc3QUo0MUhJaUtBVFQ4TjBvR1dja1lnekNnakVnVmJmb2k5M0JJeGdSVGFPdDBodDZTa3JjOHB1TXR5Mm1PQzZLQXczdGl1TUEwV2V0dnRCaXc3Q2FGQ1BRMkd1MkFaUlM4SlcxVW9KT081TG1xTjdHa2NsN0VaOUh5QVQ2dGZ3X0cteE1YYS1OTHlsck5ldHlycl8zRVE?oc=5",
-   "tickers": [
-    "TSLA"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "TSLA",
-   "strength": 45,
-   "reason": "Retail criticism of missed robotaxi targets ahead of earnings signals near-term negative sentiment on TSLA."
-  },
-  {
    "date": "2026-09-19T23:35:46Z",
    "platform": "News",
    "text": "Trump Replaces Proposed 20% Strait Of Hormuz Toll With Investment Deals With Gulf States \u2014 \u2018Those Investments Will Be Massive\u2019 - Stocktwits \u2014 Trump Replaces Proposed 20% Strait Of Hormuz Toll With Investment Deals With Gulf States \u2014 \u2018Those Investments Will Be Massive\u2019\u00a0\u00a0Stocktwits",
@@ -2326,126 +2366,6 @@
     "pct": -4.8,
     "base": 67.82,
     "last": 64.57,
-    "base_date": "2026-09-17",
-    "last_date": "2026-09-18"
-   }
-  },
-  {
-   "date": "2026-09-17T03:40:00Z",
-   "platform": "News",
-   "text": "CMG Stock Ticks Up On AI Food Safety Bet With Palantir: Retail Bullish On \u2018Ontological Burritos' - Stocktwits \u2014 CMG Stock Ticks Up On AI Food Safety Bet With Palantir: Retail Bullish On \u2018Ontological Burritos'\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPeWJ3bjRJRHVOOFM2SEY5M3BTcWtGUXlLVWx3dGhDaERxb3JZUG8xOXV0S0t6Q1FGYVJFOXNtRHc2N2RoNFdZaVJMZDlxeXFVRmtVdF9Fa05RemRvTHRwM1Y0QkhXMloxODU4NjlOZzVqXzNCbDlFcDlMNndfUXY5eFpWdVZHVGsyU2ZmU1FDanlzcFYzTERZdVFzQXFmR3pfNXVWbUxQQWp5bUJDcXlqbFJHUy0wNDZUbWxXT2ZaRS1WT1RhNjZxaF9vSHl6M2NCVTZJRFF2MFRqS0tXSXljRG45RTJwT0dWRG9Yd1Z3?oc=5",
-   "tickers": [
-    "CMG"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "CMG",
-   "strength": 35,
-   "reason": "Chipotle AI food safety partnership with Palantir; specific company catalyst, modest strength",
-   "price_since": {
-    "ticker": "CMG",
-    "pct": -0.2,
-    "base": 33.51,
-    "last": 33.43,
-    "base_date": "2026-09-17",
-    "last_date": "2026-09-18"
-   }
-  },
-  {
-   "date": "2026-09-17T03:26:16Z",
-   "platform": "News",
-   "text": "'Very serious tariffs...': Donald Trump warns EU, Canada on 'laughable' alliance proposal - Business Today \u2014 'Very serious tariffs...': Donald Trump warns EU, Canada on 'laughable' alliance proposal\u00a0\u00a0Business Today",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYmRjSnBOa3ktLVp4bHFSZjJBMFRvTFFOYmgyeVV5S0RqVldLa1BEdDZ6VElkeERodWh5a29JUUVOc3BjUWx2UG1SWW5uS2ZXY0MxQm4wbjBLc01heXNJaTduZUo5a080WVVxc0FqbzZZQTI3WWZZakxRTHVGNGhNVDEwbU01YkJaLXhHMzVkcUpZbXRFSGNzRmpZaHVfdl9weG5zanpRVVNXQ3N1WEczdHhIOU4xcTZDdmVNY2lXWDlfU3NYYmt4TE5yOUU3REh5X0c0c1930gHbAUFVX3lxTFBGZUI1YklTMEFBVTlNbXZ4bzA2cmlta0RIZ3JSQlBlUjItT2F6R29lQUNTU0k0MjJXR1Jha25CZlhscmdTdTJoUThkZ1NHdmFLdzFfYW5CMlZaRDhiYU00VmxYYkNENkNzVkxaVHZDeDUxOXFacWxPdVo1VjJkeVBoTlVKbDZNWkpQclU4Wno5Mzd2Ymc4YUdIUFBsYjhzOHY0VFpwRmJTdXZnel85N0hDeXB3c1U0Uk9qdVBMNzVIQUhYN29XZHRod1ZKYUxPdEtQOUM3ZzBhRlBRRQ?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "SPY",
-   "strength": 60,
-   "reason": "Trump warning of 'very serious tariffs' on EU and Canada is bearish for broad US market and trade",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": -0.1,
-    "base": 762.6,
-    "last": 761.69,
-    "base_date": "2026-09-17",
-    "last_date": "2026-09-18"
-   }
-  },
-  {
-   "date": "2026-09-17T03:26:16Z",
-   "platform": "News",
-   "text": "'Very serious tariffs...': Donald Trump warns EU, Canada on 'laughable' alliance proposal - businesstoday.in \u2014 'Very serious tariffs...': Donald Trump warns EU, Canada on 'laughable' alliance proposal\u00a0\u00a0businesstoday.in",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYmRjSnBOa3ktLVp4bHFSZjJBMFRvTFFOYmgyeVV5S0RqVldLa1BEdDZ6VElkeERodWh5a29JUUVOc3BjUWx2UG1SWW5uS2ZXY0MxQm4wbjBLc01heXNJaTduZUo5a080WVVxc0FqbzZZQTI3WWZZakxRTHVGNGhNVDEwbU01YkJaLXhHMzVkcUpZbXRFSGNzRmpZaHVfdl9weG5zanpRVVNXQ3N1WEczdHhIOU4xcTZDdmVNY2lXWDlfU3NYYmt4TE5yOUU3REh5X0c0c1930gHbAUFVX3lxTFBGZUI1YklTMEFBVTlNbXZ4bzA2cmlta0RIZ3JSQlBlUjItT2F6R29lQUNTU0k0MjJXR1Jha25CZlhscmdTdTJoUThkZ1NHdmFLdzFfYW5CMlZaRDhiYU00VmxYYkNENkNzVkxaVHZDeDUxOXFacWxPdVo1VjJkeVBoTlVKbDZNWkpQclU4Wno5Mzd2Ymc4YUdIUFBsYjhzOHY0VFpwRmJTdXZnel85N0hDeXB3c1U0Uk9qdVBMNzVIQUhYN29XZHRod1ZKYUxPdEtQOUM3ZzBhRlBRRQ?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "SPY",
-   "strength": 55,
-   "reason": "Trump threatens very serious tariffs on EU/Canada; broad tariff threat bearish for equities",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": -0.1,
-    "base": 762.6,
-    "last": 761.69,
-    "base_date": "2026-09-17",
-    "last_date": "2026-09-18"
-   }
-  },
-  {
-   "date": "2026-09-17T03:13:00Z",
-   "platform": "News",
-   "text": "Trump says 'hopefully we are towards end' of Iran war - The Economic Times \u2014 Trump says 'hopefully we are towards end' of Iran war\u00a0\u00a0The Economic Times",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMkxRaXRuQXlhT3NMVEdvN0tCU2htdkhqTWx3MTlOcWtRNGphdDdDcUREcUpLQ2RUSTNsV0JEN2o4Zy1Hd3pKMGtodVVsR0k5SVhKLWs4Y2dLZTIwaVU5dUpsZGkxVS1xXzBOODIwTzZDUlNUNEt4X1Jxa2k0eDBFQnROc2NQd1RNZXkwSUtaWkV1b3h0eXRwb25TcGlDRXhhcjE1VTFVMEswdEtmUDBIZ0NnZEZPdlpuV0NqZDRISdIBvwFBVV95cUxPMkxRaXRuQXlhT3NMVEdvN0tCU2htdkhqTWx3MTlOcWtRNGphdDdDcUREcUpLQ2RUSTNsV0JEN2o4Zy1Hd3pKMGtodVVsR0k5SVhKLWs4Y2dLZTIwaVU5dUpsZGkxVS1xXzBOODIwTzZDUlNUNEt4X1Jxa2k0eDBFQnROc2NQd1RNZXkwSUtaWkV1b3h0eXRwb25TcGlDRXhhcjE1VTFVMEswdEtmUDBIZ0NnZEZPdlpuV0NqZDRISQ?oc=5",
-   "tickers": [
-    "XLE"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "XLE",
-   "strength": 30,
-   "reason": "Trump hints Iran war ending; ambiguous for oil\u2014ceasefire could lower prices, hawkish signals could raise",
-   "price_since": {
-    "ticker": "XLE",
-    "pct": -0.3,
-    "base": 64.48,
-    "last": 64.31,
-    "base_date": "2026-09-17",
-    "last_date": "2026-09-18"
-   }
-  },
-  {
-   "date": "2026-09-17T03:13:00Z",
-   "platform": "News",
-   "text": "Trump says 'hopefully we are towards end' of Iran war - economictimes.com \u2014 Trump says 'hopefully we are towards end' of Iran war\u00a0\u00a0economictimes.com",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMkxRaXRuQXlhT3NMVEdvN0tCU2htdkhqTWx3MTlOcWtRNGphdDdDcUREcUpLQ2RUSTNsV0JEN2o4Zy1Hd3pKMGtodVVsR0k5SVhKLWs4Y2dLZTIwaVU5dUpsZGkxVS1xXzBOODIwTzZDUlNUNEt4X1Jxa2k0eDBFQnROc2NQd1RNZXkwSUtaWkV1b3h0eXRwb25TcGlDRXhhcjE1VTFVMEswdEtmUDBIZ0NnZEZPdlpuV0NqZDRISdIBvwFBVV95cUxPMkxRaXRuQXlhT3NMVEdvN0tCU2htdkhqTWx3MTlOcWtRNGphdDdDcUREcUpLQ2RUSTNsV0JEN2o4Zy1Hd3pKMGtodVVsR0k5SVhKLWs4Y2dLZTIwaVU5dUpsZGkxVS1xXzBOODIwTzZDUlNUNEt4X1Jxa2k0eDBFQnROc2NQd1RNZXkwSUtaWkV1b3h0eXRwb25TcGlDRXhhcjE1VTFVMEswdEtmUDBIZ0NnZEZPdlpuV0NqZDRISQ?oc=5",
-   "tickers": [
-    "XLE"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "XLE",
-   "strength": 35,
-   "reason": "Trump signals potential de-escalation in Iran conflict; bullish for oil and energy sector",
-   "price_since": {
-    "ticker": "XLE",
-    "pct": -0.3,
-    "base": 64.48,
-    "last": 64.31,
     "base_date": "2026-09-17",
     "last_date": "2026-09-18"
    }
