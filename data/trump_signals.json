@@ -1,7 +1,71 @@
 {
- "last_updated": "2026-09-23T01:49:56Z",
+ "last_updated": "2026-09-23T07:25:22Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-09-23T04:03:35Z",
+   "platform": "News",
+   "text": "Donald Trump's financial disclosure: Heavy trades executed in Elon Musk's SpaceX; sells Microsoft, Amazon worth $25-mn - Livemint \u2014 Donald Trump's financial disclosure: Heavy trades executed in Elon Musk's SpaceX; sells Microsoft, Amazon worth $25-mn\u00a0\u00a0Livemint",
+   "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQX2I1TWdZVGpIZHp4MGw4N2M0d25RS244b2lPcTZxN3VrSFVoNm1EUjMtdTdOUFZ0aEdWRlNlSmc0bTJreGNrMjExN3dCRGlpN04zZHhqZ0hsbGhJajU3cjgteGt2aUVDa1BrUzdHeDUzUzlGczVxYktRZmtTZWZpS0w5blFINGIzTUN6T3B2bm5oaXN2TzFXTmNEcVMyLXZLM1BRd0hSeHVOY3QxcFQwTGs5MGVWdVNBQXlyTEVMRjBZVTRwTmEtSWRia0hWMjFRWlZ6a29CS2ZCd2hXMEhYeTV5SHRCTHd3dm5SRUlrbUpEeW5wbk9mUUNoRy1FbTd0OVFNLTFRaEtHTTdJTWxZ0gGUAkFVX3lxTE14ejBxWFJZQm5wT3BQUmd6b2w1OFN2YngtbWR0Q013S1BpYkpVNnljektzTTV5Y0VGOXZNQUVPT1N1enkwNWtVVFh0RzkxbGk2MGZ2M0d0aVJuY2tRUjUwS19PdFpWOFlwMGtxOHhyTkJ3U3AwMUVBaWpZNUROQVBGSDBjUFpwOVNxX2h4XzVxUkNDUkUwVW5fV09rR3c4R0pWZDYzS2V5dktHQ3N5VE0tRE12Um82UUJkaC1IR0tHVm1WSHRoRlhkaXNocGlFaXd2bUxxSXZ0VVNXcG1jVFh3QUxPQkJxb01sY1oyalYtMUdNX0F6Wi0zZUVvSzI3cjBHV3dWSGhrMHZvX3NRemlGRXk5Ng?oc=5",
+   "tickers": [
+    "MSFT"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "MSFT",
+   "strength": 25,
+   "reason": "Trump sells Microsoft and Amazon; mild bearish signal for MSFT; limited strength as routine portfolio adjustment"
+  },
+  {
+   "date": "2026-09-23T04:03:00Z",
+   "platform": "News",
+   "text": "Trump buys up to $50,000 of Musk\u2019s SpaceX, sells some a week later - The Times of India \u2014 Trump buys up to $50,000 of Musk\u2019s SpaceX, sells some a week later\u00a0\u00a0The Times of India",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPNHdYLWcxbHZOaFBCVFFrQmo2c09BeTU2RWlwZm1Bazg4UDFXZGgzNC1XVy1lMXVzdl85cWRCb3hSa2xlWm9lOWdKZW1CQW9lVzFjRjE1RFp6X2VRdFRrY0M5blJvWFdUeUhTTjdUOWRRMXprRHNmb0dsS3hXZFVTVGNsOVk0QXUzdFoteDlLTGZ3c0ZqSS14SDdlOEFNamdOMFNUTUxrQ0VvUHRfX2NnNmhoZDFYbTAxaTBYUGwwYzlSaGlrZldmZ1pPb0lWVTN6c2NIMDB5UEpTd1VpVHJqdWlpb1lxRjhTQWY0d9IB8gFBVV95cUxOV3l1MVYyM3VxNmVpdnh6OXZZTzJYZ2FQczBCM0piREJuZGZzWDlJTlo2SWQ0UVhra0xfR1RjY3FUVm90dTJJZndHQUFUbGl4Y25IbHBESzRaMUVxOWlfV0YweTNOTjJqS28zY2t1ZXh0akdSdWplcllCaXhuUzFaczRabmFWZ2tndW5uZWVTcVdQc2EyTGxBbjBBcVUwTV96Z1lHcGR6YnlBdHZWVjU2c3UyNGNleGNNQnlSajFkVmhyNUZRZEpwSHVsLWhVUDAxZll3X3lSODZoS3pCc0FuUVNwX2MwZ3hhakdHQmY0NlltUQ?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "SPY",
+   "strength": 15,
+   "reason": "Trump short-term SpaceX trade; routine portfolio moves; minimal market signal"
+  },
+  {
+   "date": "2026-09-23T02:24:34Z",
+   "platform": "News",
+   "text": "New US Sanctions law gives Trump 'additional options' on Russian, Iranian oil: US State Department - The Economic Times \u2014 New US Sanctions law gives Trump 'additional options' on Russian, Iranian oil: US State Department\u00a0\u00a0The Economic Times",
+   "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNSWRCaWc4UVFMVHlrQzVlb245MjBMUW5kcXBnUzlvbzI0emJ0Z2ZOSTNZQ0tEX0lFRklyUC1EVklRSEJZSnhSWFpUSVBNQ0drQWh1aGtBVjlpWFc1Y0pFdHpUNVdhRnc0eUV0ZzEtT3F0dWFadE53c25acVBOeVJfdXFkS3ppODUzQ3FYdGthdFNpUjV6cGQ5dDVHX1dueHpPcEdnbU5GOGdOdFlWN0ZTdlZhZ2ZVdXBwU2swcFNyWlZzeW5xU0hCTVgtLU54NF9rMjZ2YXlqWFl6ODJqNlRuQmpXVnk2bnlZV3lVRUV3TEFVWHl1cWZxdnREVEdyMEItQ2UybjVFVlJHb0szTEo3VkhVTlpjQQ?oc=5",
+   "tickers": [
+    "XLE"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "XLE",
+   "strength": 35,
+   "reason": "Trump sanctions law on Russian/Iranian oil gives additional leverage; ambiguous direction for oil prices; could support or pressure energy sector"
+  },
+  {
+   "date": "2026-09-23T01:37:55Z",
+   "platform": "News",
+   "text": "Trump backs the idea of a ban on diesel exports to curb the soaring energy costs - The Economic Times \u2014 Trump backs the idea of a ban on diesel exports to curb the soaring energy costs\u00a0\u00a0The Economic Times",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOYVlDU3N5SkVHXzZUVFdFOVFmX0hiNFd2TkhINFhpQ25BRnV4RmUtQmJkalI5dTZEcWl6TWJkQ2xNclZsN3IxTzhqSmNLZFh4S1lvYUZoaFB5VXBEVldoV21ORl9HZlpfLWR2VXRWNi14Ujg0TjFOX3lhang4amhScF9xV3UzMF9kNG9HZ1dqTkp5a0lWMEhSZmNxZlFaUGtBUER2dDF3bVFDNDlGNFhKQ1ZHTGg0bFlxZllDVlNheEowY3hScWZFUTJja2Q5ZWhzcGJBdURQWQ?oc=5",
+   "tickers": [
+    "XLE"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "XLE",
+   "strength": 40,
+   "reason": "Trump backs diesel export ban to curb energy costs; bearish for energy prices and XLE"
+  },
   {
    "date": "2026-09-22T23:53:59Z",
    "platform": "News",
@@ -33,6 +97,22 @@
    "primary_ticker": "TSLA",
    "strength": 25,
    "reason": "Trump personal trading in SpaceX (private); signal ambiguous, modest size relative to his portfolio"
+  },
+  {
+   "date": "2026-09-22T22:34:17Z",
+   "platform": "News",
+   "text": "Trump bought and sold shares in Musk's SpaceX in July, financial disclosure shows - reuters.com \u2014 Trump bought and sold shares in Musk's SpaceX in July, financial disclosure shows\u00a0\u00a0reuters.com",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdzhnVngxUmJueEVxdFFBX3JwR3RsNFpkZjE3UmdpX1ljWlJMc1ZHUFpuZnppMnJZRE9VR1pMSUJQNzFuaDVIMTFsZGlycDdjaUNqVjJ0NVBYdUVYcUlYNTZVWkNlYjBPdm9QY3VlNXBvNEhhaVBxVWZFaTRzS3JJb0Zqb2hkdkVaSjVCVUdYV3pYTlBDeHNSSWVyQmRKQWRaWVF0VE9uSUFZaWVFU0NjYk04UzZxdUM5M2lLMkFycw?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "SPY",
+   "strength": 10,
+   "reason": "Trump SpaceX trading in July; routine disclosure; no actionable market signal"
   },
   {
    "date": "2026-09-22T21:25:00Z",
@@ -83,6 +163,54 @@
    "reason": "Trump's own trading activity; suggests market positioning but direction unclear"
   },
   {
+   "date": "2026-09-22T20:16:00Z",
+   "platform": "News",
+   "text": "Trump made over 1,000 July stock trades worth up to $270m, filings reveal - theguardian.com \u2014 Trump made over 1,000 July stock trades worth up to $270m, filings reveal\u00a0\u00a0theguardian.com",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMG00ZkZTSHBpNzY0MFUxeWNqUVdNSnlpeERpWW9FVFNIRUlZakg5c1VqN1V0SFNYMEM0S1BuUVV6SEQ2SlBTS2t2WkxpSzc1LXNKOU1ZWUtqUjc2MmktYnZJODZKeG41SW5JQ001WkJ6V0E4VURseXFjX2xrSWphUVhsZmM?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "SPY",
+   "strength": 15,
+   "reason": "Trump large July trades (~$270M); portfolio activity; no directional market thesis"
+  },
+  {
+   "date": "2026-09-22T20:08:10Z",
+   "platform": "News",
+   "text": "Trump discloses July trades in SpaceX - Yahoo! Finance Canada \u2014 Trump discloses July trades in SpaceX\u00a0\u00a0Yahoo! Finance Canada",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUlJ4Mmt4VmllcTZiSkxEZ2ZMY1lkYVRZR3hEVnJNTko4S04xcUUwazJLbUZGS2hJWVRONjVxa202QVBIZDFLd2dOWlFNblBvUkJWY21ULVFYbjZhZndja2R0MTRISjdXR1FRb1pCUmtMTWlCWUY5ZWFmdDM4dENaaDVPaGttZ2x4RG44?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "SPY",
+   "strength": 10,
+   "reason": "Trump SpaceX trades disclosure; routine filing; limited market catalyst"
+  },
+  {
+   "date": "2026-09-22T19:31:56Z",
+   "platform": "News",
+   "text": "Dow, S&P 500, Nasdaq Futures Whipsaw After Trump\u2019s \u2018Power Plant Day\u2019 Warning To Iran: Why ASTS, VELO, MRVL, LUNR, FCEL Are In Focus - Stocktwits \u2014 Dow, S&P 500, Nasdaq Futures Whipsaw After Trump\u2019s \u2018Power Plant Day\u2019 Warning To Iran: Why ASTS, VELO, MRVL, LUNR, FCEL Are In Focus\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZXoyV3RqQ1I4NjdmNkktNFNlNHZ4MVFpRzNzNldsTEZRTFhaN0RMVXhGWnROVG9USWhwWWdkaEl3VzB4Q2xtYWt0WDNWcjdyUWF2T0x5SV83aWw0cTlXV2ZxV3ozZ0lybmZ3LVEtOUNEODB2emp5V2hTdjhfM29JXzJrTnFTOUhvb29wcURZNi1BdVI1UTlYdjdfWEpCTi1Cd1BkVm9EQUhwVElTS3ZYNEUwYkhzWkwtUUo1S2NHN0FTZnFmN3UwVHpCWWdpSkRwX2dObWV1MHV6RDdUWm81N1Jn?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "SPY",
+   "strength": 45,
+   "reason": "Trump 'Power Plant Day' warning to Iran; geopolitical escalation risk; futures whipsaw; ambiguous near-term market direction"
+  },
+  {
    "date": "2026-09-22T19:30:11Z",
    "platform": "News",
    "text": "Wall Street holds near its record after Brent oil briefly falls below $98 per barrel - Union-Bulletin \u2014 Wall Street holds near its record after Brent oil briefly falls below $98 per barrel\u00a0\u00a0Union-Bulletin",
@@ -97,6 +225,22 @@
    "primary_ticker": "XLE",
    "strength": 30,
    "reason": "Oil price movement affects energy sector and broad market"
+  },
+  {
+   "date": "2026-09-22T19:30:11Z",
+   "platform": "News",
+   "text": "Wall Street holds near its record after Brent oil briefly falls below $98 per barrel - union-bulletin.com \u2014 Wall Street holds near its record after Brent oil briefly falls below $98 per barrel\u00a0\u00a0union-bulletin.com",
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPT2Q2YVNQdmNVZG1KcFFZc3JNZUNFOGZBa2VfN05WdzJycnNMVXIxTUN3UG5HS0RYU0MtT2V1Qk1nYWhoYmt2ZEEtbEd2cmdlV3d3bHhxT0I1WDBCYUpXOE1Db2Z5TzJwQzAwMG5xYkw1OTR0ejNPZFJ5OW9KSW5MeWdaekFibDZIMUVOUm9KWVFfLXgxb3ZmenhFczJ4SVhDNVBRVWhJN01oSzdtM1d3eHlZT0tEakt6OUZzVHpENkhSLWVEQUVmQUx3bjhkU3BjbTVUTmEyMFJQNUhKejA0dGtITlZNcV9wUHNheVp4VGpPVm9wMFNFTA?oc=5",
+   "tickers": [
+    "XLE"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "XLE",
+   "strength": 25,
+   "reason": "Brent oil below $98; Wall Street near record; no Trump catalyst; routine energy/market update"
   },
   {
    "date": "2026-09-22T19:20:15Z",
@@ -129,6 +273,22 @@
    "primary_ticker": "XAR",
    "strength": 40,
    "reason": "NATO 5% defense spending push is bullish for defense contractors"
+  },
+  {
+   "date": "2026-09-22T15:23:49Z",
+   "platform": "News",
+   "text": "Citi Stock Hits 52-Week High Before Fading As Trump Lauds Bank's 'Big Comeback' In M&A \u2014 But Full Picture Has Changed Now - Stocktwits \u2014 Citi Stock Hits 52-Week High Before Fading As Trump Lauds Bank's 'Big Comeback' In M&A \u2014 But Full Picture Has Changed Now\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWUpacUZnX014SV9nTnRZbVQ0dWhFQlZiV3ZjLV9nWExYUjVMdmlZdkdoNnFLcUhZUEhuZ1k3a2JENWJrYkhqdjJqNFlLaVlVYzBRb3dJOFA2Q1dESmhCTVJnQXJJaU15VjVFUFo2cWJDOEx3QTIzN0NSQjExRWhRZlNLaDFXeEZMQ0poajdjbGhmNlhPd1ZQSnVOSmNVa0pVTF94Z1RVdXlSU2JrR0N3X2dHSENINjZHNWdTYzB1dEZPaERK?oc=5",
+   "tickers": [
+    "C"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": true,
+   "direction": "BUY",
+   "primary_ticker": "C",
+   "strength": 65,
+   "reason": "Trump explicitly praised Citi's M&A comeback; direct positive commentary on named bank stock"
   },
   {
    "date": "2026-09-22T13:04:25Z",
@@ -1087,22 +1247,6 @@
    "reason": "Trump reviving Arctic/Greenland ambitions attracts rare-earth investor interest; uranium and critical minerals demand implied"
   },
   {
-   "date": "2026-09-19T21:48:26Z",
-   "platform": "News",
-   "text": "Citi Stock Hits 52-Week High Before Fading As Trump Lauds Bank's 'Big Comeback' In M&A \u2014 But Full Picture Has Changed Now - Stocktwits \u2014 Citi Stock Hits 52-Week High Before Fading As Trump Lauds Bank's 'Big Comeback' In M&A \u2014 But Full Picture Has Changed Now\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWUpacUZnX014SV9nTnRZbVQ0dWhFQlZiV3ZjLV9nWExYUjVMdmlZdkdoNnFLcUhZUEhuZ1k3a2JENWJrYkhqdjJqNFlLaVlVYzBRb3dJOFA2Q1dESmhCTVJnQXJJaU15VjVFUFo2cWJDOEx3QTIzN0NSQjExRWhRZlNLaDFXeEZMQ0poajdjbGhmNlhPd1ZQSnVOSmNVa0pVTF94Z1RVdXlSU2JrR0N3X2dHSENINjZHNWdTYzB1dEZPaERK?oc=5",
-   "tickers": [
-    "C"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": true,
-   "direction": "BUY",
-   "primary_ticker": "C",
-   "strength": 60,
-   "reason": "Trump explicitly lauds Citi's M&A comeback; direct company praise bullish for Citigroup stock."
-  },
-  {
    "date": "2026-09-19T21:32:31Z",
    "platform": "News",
    "text": "Trump Weighs In On Elon Musk, OpenAI, Intel \u2014 And Takes Aim At The 'Hostile' Fed Board - Stocktwits \u2014 Trump Weighs In On Elon Musk, OpenAI, Intel \u2014 And Takes Aim At The 'Hostile' Fed Board\u00a0\u00a0Stocktwits",
@@ -2050,30 +2194,6 @@
    }
   },
   {
-   "date": "2026-09-16T23:37:59Z",
-   "platform": "News",
-   "text": "Dow, S&P 500, Nasdaq Futures Whipsaw After Trump\u2019s \u2018Power Plant Day\u2019 Warning To Iran: Why ASTS, VELO, MRVL, LUNR, FCEL Are In Focus - Stocktwits \u2014 Dow, S&P 500, Nasdaq Futures Whipsaw After Trump\u2019s \u2018Power Plant Day\u2019 Warning To Iran: Why ASTS, VELO, MRVL, LUNR, FCEL Are In Focus\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZXoyV3RqQ1I4NjdmNkktNFNlNHZ4MVFpRzNzNldsTEZRTFhaN0RMVXhGWnROVG9USWhwWWdkaEl3VzB4Q2xtYWt0WDNWcjdyUWF2T0x5SV83aWw0cTlXV2ZxV3ozZ0lybmZ3LVEtOUNEODB2emp5V2hTdjhfM29JXzJrTnFTOUhvb29wcURZNi1BdVI1UTlYdjdfWEpCTi1Cd1BkVm9EQUhwVElTS3ZYNEUwYkhzWkwtUUo1S2NHN0FTZnFmN3UwVHpCWWdpSkRwX2dObWV1MHV6RDdUWm81N1Jn?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "SPY",
-   "strength": 55,
-   "reason": "Trump's Iran warning ('Power Plant Day') creates geopolitical uncertainty; mixed sector effects (energy up, broad market volatile)",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": 1.0,
-    "base": 754.05,
-    "last": 761.69,
-    "base_date": "2026-09-16",
-    "last_date": "2026-09-18"
-   }
-  },
-  {
    "date": "2026-09-16T23:26:28Z",
    "platform": "News",
    "text": "Dow, S&P 500, Nasdaq Futures Edge Higher After Fed Delivers Rate Hike: SPCX, CADL, SNAP, FLNC Stocks In Focus - Stocktwits \u2014 Dow, S&P 500, Nasdaq Futures Edge Higher After Fed Delivers Rate Hike: SPCX, CADL, SNAP, FLNC Stocks In Focus\u00a0\u00a0Stocktwits",
@@ -2335,126 +2455,6 @@
     "base": 704.72,
     "last": 716.92,
     "base_date": "2026-09-16",
-    "last_date": "2026-09-17"
-   }
-  },
-  {
-   "date": "2026-09-16T00:03:44Z",
-   "platform": "News",
-   "text": "Stock prices of major virtual asset-related companies, including Bitcoin, plunged as a bill to restr.. - \ub9e4\uc77c\uacbd\uc81c \u2014 Stock prices of major virtual asset-related companies, including Bitcoin, plunged as a bill to restr..\u00a0\u00a0\ub9e4\uc77c\uacbd\uc81c",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1OU1gzdGR1NTZZelZIdHQzLVNOM2NtaXA1TGZza0cySXZBV1EtWmtJUmVycUtjUFl2REJyQTk1NGgzT3AxS21CekVlQVl3N2M?oc=5",
-   "tickers": [
-    "BTC-USD"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "BTC-USD",
-   "strength": 45,
-   "reason": "Virtual asset stocks and Bitcoin plunge on bill to restrict crypto; bearish regulatory news.",
-   "price_since": {
-    "ticker": "BTC-USD",
-    "pct": 2.3,
-    "base": 76150.32,
-    "last": 77879.35,
-    "base_date": "2026-09-16",
-    "last_date": "2026-09-18"
-   }
-  },
-  {
-   "date": "2026-09-15T23:20:04Z",
-   "platform": "News",
-   "text": "Nvidia\u2019s Huang Set to Attend Trump Dinner With Chinese President - Yahoo Finance \u2014 Nvidia\u2019s Huang Set to Attend Trump Dinner With Chinese President\u00a0\u00a0Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNODVxLUwxSUwzTUNMZk04XzBPR2xyUElKdkk5M04tRWZHdXhyTnFvbk1GTXUxaHJSbmdlR2dORXE4RUV2QXlwSWxwUmlsUnZNd0ZPQXRtbmFpZzc2SzRJYXNVZEJ0ckpvVjlMcjJrQzJRQlhoSHJvajVfaDNfcWdPV0xWVEpDNGlQYVFFSFpLRG9lQmdtSVFQbA?oc=5",
-   "tickers": [
-    "NVDA"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "NVDA",
-   "strength": 25,
-   "reason": "Nvidia CEO attending Trump dinner with Chinese leader; suggests potential trade/China relations developments affecting semiconductors",
-   "price_since": {
-    "ticker": "NVDA",
-    "pct": 3.4,
-    "base": 212.17,
-    "last": 219.34,
-    "base_date": "2026-09-15",
-    "last_date": "2026-09-17"
-   }
-  },
-  {
-   "date": "2026-09-15T22:53:00Z",
-   "platform": "News",
-   "text": "Trump dismisses AI guardrails, calling concerns a 'conspiracy' - USA Today \u2014 Trump dismisses AI guardrails, calling concerns a 'conspiracy'\u00a0\u00a0USA Today",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVm84LTIzR2EwdUM5ckNwbVdhWXZHOGJ2em02Q3o1eDhRUkd4WlVTaV95cFlOZV9KczI5TUNWYVJVZUFvekxhLTFyMG5jb3FHNS1kSnNtSjlVVmc4anQ5MEN5dWY0d0g5MUxKYmczVnJBZjdpR3FkdTZ0LVg5a1Jka0VmOHFLelFIVEFyWHFwVkFJdGVJYU1zWlN3OFlScTQ?oc=5",
-   "tickers": [
-    "QQQ"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "QQQ",
-   "strength": 45,
-   "reason": "Trump dismisses AI safety concerns; pro-AI acceleration is bullish for tech/AI stocks",
-   "price_since": {
-    "ticker": "QQQ",
-    "pct": 1.8,
-    "base": 704.54,
-    "last": 716.92,
-    "base_date": "2026-09-15",
-    "last_date": "2026-09-17"
-   }
-  },
-  {
-   "date": "2026-09-15T19:14:42Z",
-   "platform": "News",
-   "text": "Global AI stocks plunge on calls to slow development - thedailystar.net \u2014 Global AI stocks plunge on calls to slow development\u00a0\u00a0thedailystar.net",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQb09XbkpLZEl3THBFZVBmQll1aHF2a2hvd3lmS0l6VUhsVlNZcnJnLUQ5dHZ4c0pOQWJubE1neTVxWmN1c2pNSjFMSFNuc05aalFqUWhsQlhpLUVJQmNPWWgtNlFScGRPanNjRDRaaml2T0JWdGxULWUzU2tyTjNkcmE5V3hFXzdla29VN0w3YmtoRTlnYWdTbDdRNDhEV05teHFpeEp5dGhIZ0sxa2VsWnFR?oc=5",
-   "tickers": [
-    "QQQ"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "QQQ",
-   "strength": 40,
-   "reason": "Calls to slow AI development; regulatory/developmental concerns weigh on AI/tech sector",
-   "price_since": {
-    "ticker": "QQQ",
-    "pct": 1.8,
-    "base": 704.54,
-    "last": 716.92,
-    "base_date": "2026-09-15",
-    "last_date": "2026-09-17"
-   }
-  },
-  {
-   "date": "2026-09-15T18:51:56Z",
-   "platform": "News",
-   "text": "Trump gives Ukraine OK to produce Patriot missiles as war with Russia drags on - ABC News - Breaking News, Latest News and Videos \u2014 Trump gives Ukraine OK to produce Patriot missiles as war with Russia drags on\u00a0\u00a0ABC News - Breaking News, Latest News and Videos",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNzUxYW1DQXFGR3RsYThFQ3UxMmhQZTIwNG44ZHI1VENmWWNLYjN4Rm5QWTVpY1Rpa2JHX0ZrTHgzaEFldnFXeXVqbk9YajVmdk1tZTQ2bkNSZksxNmtGYk0tQ20zeFg1UVVqUGlReVhUMFRnV3RXTVc2TmR1VTZXNmRMTFlqQUZOMlVITTlQaXowUVl2UkHSAZsBQVVfeXFMTTJ5Y050Vm52ZWFjTkhvQzd2eHpxMm9FbXVSVU9KOXp5eXJYQzBDbnFXdVh1MS1iWXVRQ2RUemJqdVNIa2FHakozaW1rTHh5dldHeF9hU1p3SmNYRFVUSW4zTHBpUmoxTWFFS0VTSDdOZVhTWUJ6aTN3UnFWN2d3SndMb3lKRmhUWExBZGQxQzIxdmdERElvd0xJbm8?oc=5",
-   "tickers": [
-    "XAR"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "XAR",
-   "strength": 40,
-   "reason": "Ukraine Patriot missile production approval signals defense spending; bullish for defense contractors.",
-   "price_since": {
-    "ticker": "XAR",
-    "pct": -0.1,
-    "base": 241.53,
-    "last": 241.32,
-    "base_date": "2026-09-15",
     "last_date": "2026-09-17"
    }
   },
