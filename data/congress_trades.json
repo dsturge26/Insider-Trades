@@ -1,8 +1,21 @@
 {
- "last_updated": "2026-09-23T12:55:06Z",
+ "last_updated": "2026-09-23T20:41:58Z",
  "source": "Financial Modeling Prep (live)",
  "is_sample": false,
  "trades": [
+  {
+   "date": "2026-09-22",
+   "politician": "Pete Sessions",
+   "chamber": "House",
+   "party": "",
+   "ticker": "AAPL",
+   "company": "Apple Inc",
+   "type": "Sale",
+   "owner": "Spouse",
+   "amount": "$100,001 - $250,000",
+   "amount_mid": 175000,
+   "disclosure_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035499.pdf"
+  },
   {
    "date": "2026-09-14",
    "politician": "Pete Sessions",
@@ -80,6 +93,19 @@
    "amount": "$15,001 - $50,000",
    "amount_mid": 32500,
    "disclosure_url": "https://efdsearch.senate.gov/search/view/ptr/028aef33-dc0d-44a1-992f-aa35ee42685b/"
+  },
+  {
+   "date": "2026-09-01",
+   "politician": "Sheri Biggs",
+   "chamber": "House",
+   "party": "",
+   "ticker": "BNS",
+   "company": "The Bank of Nova Scotia",
+   "type": "Purchase",
+   "owner": "Spouse",
+   "amount": "$500,001 - $1,000,000",
+   "amount_mid": 750000,
+   "disclosure_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035489.pdf"
   },
   {
    "date": "2026-08-28",
@@ -1421,6 +1447,19 @@
    "disclosure_url": "https://efdsearch.senate.gov/search/view/ptr/b999bc0e-3eb0-4ca9-ab07-8e8f2e04b41f/"
   },
   {
+   "date": "2026-08-19",
+   "politician": "Sheri Biggs",
+   "chamber": "House",
+   "party": "",
+   "ticker": "BNS",
+   "company": "The Bank of Nova Scotia",
+   "type": "Sale",
+   "owner": "Spouse",
+   "amount": "$500,001 - $1,000,000",
+   "amount_mid": 750000,
+   "disclosure_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035489.pdf"
+  },
+  {
    "date": "2026-08-18",
    "politician": "Dave McCormick",
    "chamber": "Senate",
@@ -2342,6 +2381,45 @@
    "amount": "$1,001 - $15,000",
    "amount_mid": 8000,
    "disclosure_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035420.pdf"
+  },
+  {
+   "date": "2026-08-12",
+   "politician": "Richard W. Allen",
+   "chamber": "House",
+   "party": "",
+   "ticker": "TSM",
+   "company": "Taiwan Semiconductor Manufacturing Co Ltd",
+   "type": "Purchase",
+   "owner": "Spouse",
+   "amount": "$1,001 - $15,000",
+   "amount_mid": 8000,
+   "disclosure_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035492.pdf"
+  },
+  {
+   "date": "2026-08-12",
+   "politician": "Richard W. Allen",
+   "chamber": "House",
+   "party": "",
+   "ticker": "AVGO",
+   "company": "Broadcom Inc",
+   "type": "Purchase",
+   "owner": "Spouse",
+   "amount": "$1,001 - $15,000",
+   "amount_mid": 8000,
+   "disclosure_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035492.pdf"
+  },
+  {
+   "date": "2026-08-12",
+   "politician": "Richard W. Allen",
+   "chamber": "House",
+   "party": "",
+   "ticker": "ROL",
+   "company": "ROLLINS Inc",
+   "type": "Sale",
+   "owner": "Spouse",
+   "amount": "$15,001 - $50,000",
+   "amount_mid": 32500,
+   "disclosure_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035492.pdf"
   },
   {
    "date": "2026-08-11",
@@ -19424,84 +19502,6 @@
    "amount": "$1,001 - $15,000",
    "amount_mid": 8000,
    "disclosure_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116197.pdf"
-  },
-  {
-   "date": "2025-01-10",
-   "politician": "Keith Self",
-   "chamber": "House",
-   "party": "",
-   "ticker": "T",
-   "company": "AT&T Inc",
-   "type": "Sale",
-   "owner": "Self",
-   "amount": "$1,001 - $15,000",
-   "amount_mid": 8000,
-   "disclosure_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116197.pdf"
-  },
-  {
-   "date": "2025-01-10",
-   "politician": "Tommy Tuberville",
-   "chamber": "Senate",
-   "party": "",
-   "ticker": "TXN",
-   "company": "Texas Instruments Inc",
-   "type": "Sale",
-   "owner": "Joint",
-   "amount": "$15,001 - $50,000",
-   "amount_mid": 32500,
-   "disclosure_url": "https://efdsearch.senate.gov/search/view/ptr/d1afafd0-a78f-44ef-ae47-da99dfb01317/"
-  },
-  {
-   "date": "2025-01-10",
-   "politician": "Tommy Tuberville",
-   "chamber": "Senate",
-   "party": "",
-   "ticker": "AAPL",
-   "company": "Apple Inc",
-   "type": "Sale",
-   "owner": "Joint",
-   "amount": "$15,001 - $50,000",
-   "amount_mid": 32500,
-   "disclosure_url": "https://efdsearch.senate.gov/search/view/ptr/d1afafd0-a78f-44ef-ae47-da99dfb01317/"
-  },
-  {
-   "date": "2025-01-07",
-   "politician": "Ritchie Torres",
-   "chamber": "House",
-   "party": "",
-   "ticker": "MCK",
-   "company": "McKesson Corp",
-   "type": "Purchase",
-   "owner": "",
-   "amount": "$1,001 - $15,000",
-   "amount_mid": 8000,
-   "disclosure_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034224.pdf"
-  },
-  {
-   "date": "2024-12-16",
-   "politician": "Michael Rulli",
-   "chamber": "House",
-   "party": "",
-   "ticker": "NOW",
-   "company": "ServiceNow Inc",
-   "type": "Sale",
-   "owner": "",
-   "amount": "$1,001 - $15,000",
-   "amount_mid": 8000,
-   "disclosure_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035147.pdf"
-  },
-  {
-   "date": "2024-12-12",
-   "politician": "Michael Rulli",
-   "chamber": "House",
-   "party": "",
-   "ticker": "TMO",
-   "company": "Thermo Fisher Scientific Inc",
-   "type": "Sale",
-   "owner": "",
-   "amount": "$1,001 - $15,000",
-   "amount_mid": 8000,
-   "disclosure_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035147.pdf"
   }
  ]
 }

@@ -1,7 +1,23 @@
 {
- "last_updated": "2026-09-23T17:44:15Z",
+ "last_updated": "2026-09-23T20:42:29Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-09-23T18:40:00Z",
+   "platform": "News",
+   "text": "Trump discloses millions of dollars in big tech, AI stock trades - The Business Standard \u2014 Trump discloses millions of dollars in big tech, AI stock trades\u00a0\u00a0The Business Standard",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNLVNwNzZwVlNsMXpCYmFaUTZ1eWZ6SGxGbV9jQVNkNlhXU0tmVy1WYzZGTVc3VFBwRFhCazR1Zk4xRnV5Wm8yVEpqMUpMQlFUYWNjVlRYZE9qTnBGY1NiM0t1NDZjWll2dmlGQVplYU1rc3pSLUQtSDNLOXlZUUl0TXZHelp4bkZSRE5hb3dYdHdFN2xvemVmS2E4OGNGTmRSd2dNZg?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "SPY",
+   "strength": 35,
+   "reason": "Trump's personal tech/AI stock trades signal sector interest but unclear if bullish or hedging"
+  },
   {
    "date": "2026-09-23T17:00:00Z",
    "platform": "News",
@@ -66,6 +82,62 @@
    "primary_ticker": "FXI",
    "strength": 45,
    "reason": "Trump attacks Canada's immigration policy as economically harmful; bearish for Canadian-linked assets and cross-border trade; mild spillover to North American equities."
+  },
+  {
+   "date": "2026-09-23T12:20:10Z",
+   "platform": "News",
+   "text": "Trump made stock transactions worth up to $270M in July - NewsBytes \u2014 Trump made stock transactions worth up to $270M in July\u00a0\u00a0NewsBytes",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNYjBlZW5sVHYxcVpDcXd6U3BFV2c1SUl6LTBENndsb1c0Tkhwa1RLSldwMllDZGZoelM5VVRzVllVZnQ2YlVWNWx4WkZaZFVubkFtd05yanNDVTJPNkNQMl85NmtDTkdkTEJJczBXSno5LV9uQ0FsMFI1eG1wYjdGOFV3SDRrcWtNQjVFUUwwbklRWlVONmpLUm5SQl9wemFPaTczVjAwYmU0blVCeU9r?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "SPY",
+   "strength": 40,
+   "reason": "$270M in stock transactions span multiple sectors, direction unclear"
+  },
+  {
+   "date": "2026-09-23T11:02:46Z",
+   "platform": "News",
+   "text": "Trump discloses 1,156 trades in July: What he sold, bought and what the filing reveals - financialexpress.com \u2014 Trump discloses 1,156 trades in July: What he sold, bought and what the filing reveals\u00a0\u00a0financialexpress.com",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVWlXWFpCdjJGb1FxdDh1Zld1ZUpkOXdKT2UwMzVYYm1XWW1CeDRaN1lKNk1lSHdZY3VuQVRqZ1NycHAxN3FxYmFhZjA2eGl1RTcxNlQ3SUR3akdlZXE0UnBlcVNNYXdCemZPTzBDbVFSZzZfZzdtN3FzNmowVTBDN2NrdXh3QWVjYlFPU2k3dF85T2E0bW51Q2pFYXRhNVR6RXZQbTBxQVBPdWN1dVVrQmw5bVpyZE5UTzBYbVdQLVRndncwMGV2S0RwTHRXM1hWY2RjcU9KN2k3R29E0gHjAUFVX3lxTFAyajFOaEtPeXU5bWVMcnJqd0VJZWxXOE55Wmt0V2cxdFF3cUg1VUZhRDNFRTE4SVFsMzlVQUNZdjN6WHlCN01QdUI2MU9ESlZid0RyWEo5NVhiUW15NTl6ZEhMd1JUbW5zQ1BGY1hjbjgtUGJ2R1JFSFJEQ0N6a0JMZE5ZUkxnVHVGVFhIak5GdXVwb2EtS1NRRTROaWFaU08tdmVzNlhDMG52WTQ0aEpqV2o5aWI0blJjQTNOZkcxM0NRWURHYV8wRC1XSnItdGp0S0JKMEZyRk1vMU1DOFQ4a3RN?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "SPY",
+   "strength": 45,
+   "reason": "1,156 trades across sectors reveal Trump's portfolio positioning but lack clear directional signal"
+  },
+  {
+   "date": "2026-09-23T10:05:00Z",
+   "platform": "News",
+   "text": "DEI initiatives didn't cost companies. Just the opposite. | Opinion - USA Today \u2014 DEI initiatives didn't cost companies. Just the opposite. | Opinion\u00a0\u00a0USA Today",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQckh3blppb082V05qcVFHYjlFSHY4Yk1aY09MLS1GUHlwMTN6VWFkdkkyMnBaczJPbnlzMVBnSG5jVEN1RjNRLWd5MVpyeVJXLW1NVFZmOTF3aGxIVktLZE1uWUVuU3I5ZGpxaXByRDB5b0RvZmR6UGctSHJsNjZQWUloUTBiRlRQWlNSZHRITU1qNC1OQjA5SzQ2alI2c1FEMzg0Z2EwOV9JSVNPU3h3N3FWLXlqdw?oc=5",
+   "tickers": [],
+   "classified": false
+  },
+  {
+   "date": "2026-09-23T08:05:00Z",
+   "platform": "News",
+   "text": "QCOM Stock On Track For Best Month Since May: Analysts See AI Gains From Dual Flagship Snapdragon Launch - Stocktwits \u2014 QCOM Stock On Track For Best Month Since May: Analysts See AI Gains From Dual Flagship Snapdragon Launch\u00a0\u00a0Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPZnBkUllaNU5SbGNWNjQ2NVpKZlF6bFFuRGV5QklhVHVkQzB3cGpMMF9BUFV3OXlxRXJqZXgtdS1jS1Fuby1HTWV3TzRLNWNZdmlQZ1VxWk02WExOTkU2amYyUUtsZjVhNTl5RXNfRThRa2NneERHdFdGOFhDWWd3bUhySEZwRmdXNTZ4Zlo0N29OY2t6cEtyc0NJSVhGRTl3WjE1V3UtaVRpZ05EbThTekVwYmltbHhWSnd2MmdoRHdRV3R0MU81anB0RWFfdmQyc2NTRXpzemZLQlF2dDJqSGx5Z0F1ekVoMFBmZ1F2Qlo5MXFIX2ZPMEktWQ?oc=5",
+   "tickers": [
+    "QCOM"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "QCOM",
+   "strength": 55,
+   "reason": "Analyst bullish call on AI gains from Snapdragon launch drives stock strength"
   },
   {
    "date": "2026-09-23T04:03:35Z",
@@ -177,7 +249,15 @@
    "direction": "WATCH",
    "primary_ticker": "TSLA",
    "strength": 25,
-   "reason": "Trump personal trading in SpaceX (private); signal ambiguous, modest size relative to his portfolio"
+   "reason": "Trump personal trading in SpaceX (private); signal ambiguous, modest size relative to his portfolio",
+   "price_since": {
+    "ticker": "TSLA",
+    "pct": 0.3,
+    "base": 378.9,
+    "last": 380.12,
+    "base_date": "2026-09-22",
+    "last_date": "2026-09-23"
+   }
   },
   {
    "date": "2026-09-22T22:34:17Z",
@@ -193,7 +273,15 @@
    "direction": "WATCH",
    "primary_ticker": "TSLA",
    "strength": 25,
-   "reason": "Trump personal trading in SpaceX (private); signal ambiguous, modest size relative to his portfolio"
+   "reason": "Trump personal trading in SpaceX (private); signal ambiguous, modest size relative to his portfolio",
+   "price_since": {
+    "ticker": "TSLA",
+    "pct": 0.3,
+    "base": 378.9,
+    "last": 380.12,
+    "base_date": "2026-09-22",
+    "last_date": "2026-09-23"
+   }
   },
   {
    "date": "2026-09-22T22:34:17Z",
@@ -209,7 +297,15 @@
    "direction": "WATCH",
    "primary_ticker": "SPY",
    "strength": 10,
-   "reason": "Trump SpaceX trading in July; routine disclosure; no actionable market signal"
+   "reason": "Trump SpaceX trading in July; routine disclosure; no actionable market signal",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": -0.7,
+    "base": 773.38,
+    "last": 767.81,
+    "base_date": "2026-09-22",
+    "last_date": "2026-09-23"
+   }
   },
   {
    "date": "2026-09-22T21:25:00Z",
@@ -225,7 +321,15 @@
    "direction": "WATCH",
    "primary_ticker": "TSLA",
    "strength": 25,
-   "reason": "Trump personal trading in SpaceX (private); signal ambiguous, modest size relative to his portfolio"
+   "reason": "Trump personal trading in SpaceX (private); signal ambiguous, modest size relative to his portfolio",
+   "price_since": {
+    "ticker": "TSLA",
+    "pct": 0.3,
+    "base": 378.9,
+    "last": 380.12,
+    "base_date": "2026-09-22",
+    "last_date": "2026-09-23"
+   }
   },
   {
    "date": "2026-09-22T20:51:54Z",
@@ -241,7 +345,15 @@
    "direction": "SELL",
    "primary_ticker": "AMZN",
    "strength": 35,
-   "reason": "Trump sold significant positions in Amazon and Microsoft; large insider selling by a high-profile figure may signal weakness or portfolio adjustment."
+   "reason": "Trump sold significant positions in Amazon and Microsoft; large insider selling by a high-profile figure may signal weakness or portfolio adjustment.",
+   "price_since": {
+    "ticker": "AMZN",
+    "pct": -2.2,
+    "base": 254.98,
+    "last": 249.27,
+    "base_date": "2026-09-22",
+    "last_date": "2026-09-23"
+   }
   },
   {
    "date": "2026-09-22T20:16:00Z",
@@ -257,7 +369,15 @@
    "direction": "WATCH",
    "primary_ticker": "SPY",
    "strength": 25,
-   "reason": "Trump's own trading activity; suggests market positioning but direction unclear"
+   "reason": "Trump's own trading activity; suggests market positioning but direction unclear",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": -0.7,
+    "base": 773.38,
+    "last": 767.81,
+    "base_date": "2026-09-22",
+    "last_date": "2026-09-23"
+   }
   },
   {
    "date": "2026-09-22T20:16:00Z",
@@ -273,7 +393,15 @@
    "direction": "WATCH",
    "primary_ticker": "SPY",
    "strength": 15,
-   "reason": "Trump large July trades (~$270M); portfolio activity; no directional market thesis"
+   "reason": "Trump large July trades (~$270M); portfolio activity; no directional market thesis",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": -0.7,
+    "base": 773.38,
+    "last": 767.81,
+    "base_date": "2026-09-22",
+    "last_date": "2026-09-23"
+   }
   },
   {
    "date": "2026-09-22T20:08:10Z",
@@ -289,7 +417,15 @@
    "direction": "WATCH",
    "primary_ticker": "SPY",
    "strength": 10,
-   "reason": "Trump SpaceX trades disclosure; routine filing; limited market catalyst"
+   "reason": "Trump SpaceX trades disclosure; routine filing; limited market catalyst",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": -0.7,
+    "base": 773.38,
+    "last": 767.81,
+    "base_date": "2026-09-22",
+    "last_date": "2026-09-23"
+   }
   },
   {
    "date": "2026-09-22T19:31:56Z",
@@ -305,7 +441,15 @@
    "direction": "WATCH",
    "primary_ticker": "SPY",
    "strength": 45,
-   "reason": "Trump 'Power Plant Day' warning to Iran; geopolitical escalation risk; futures whipsaw; ambiguous near-term market direction"
+   "reason": "Trump 'Power Plant Day' warning to Iran; geopolitical escalation risk; futures whipsaw; ambiguous near-term market direction",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": -0.7,
+    "base": 773.38,
+    "last": 767.81,
+    "base_date": "2026-09-22",
+    "last_date": "2026-09-23"
+   }
   },
   {
    "date": "2026-09-22T19:30:11Z",
@@ -321,7 +465,15 @@
    "direction": "WATCH",
    "primary_ticker": "XLE",
    "strength": 30,
-   "reason": "Oil price movement affects energy sector and broad market"
+   "reason": "Oil price movement affects energy sector and broad market",
+   "price_since": {
+    "ticker": "XLE",
+    "pct": 1.0,
+    "base": 61.78,
+    "last": 62.37,
+    "base_date": "2026-09-22",
+    "last_date": "2026-09-23"
+   }
   },
   {
    "date": "2026-09-22T19:30:11Z",
@@ -337,7 +489,15 @@
    "direction": "WATCH",
    "primary_ticker": "XLE",
    "strength": 25,
-   "reason": "Brent oil below $98; Wall Street near record; no Trump catalyst; routine energy/market update"
+   "reason": "Brent oil below $98; Wall Street near record; no Trump catalyst; routine energy/market update",
+   "price_since": {
+    "ticker": "XLE",
+    "pct": 1.0,
+    "base": 61.78,
+    "last": 62.37,
+    "base_date": "2026-09-22",
+    "last_date": "2026-09-23"
+   }
   },
   {
    "date": "2026-09-22T19:20:15Z",
@@ -353,7 +513,15 @@
    "direction": "WATCH",
    "primary_ticker": "TSLA",
    "strength": 25,
-   "reason": "Trump personal trading in SpaceX (private); signal ambiguous, modest size relative to his portfolio"
+   "reason": "Trump personal trading in SpaceX (private); signal ambiguous, modest size relative to his portfolio",
+   "price_since": {
+    "ticker": "TSLA",
+    "pct": 0.3,
+    "base": 378.9,
+    "last": 380.12,
+    "base_date": "2026-09-22",
+    "last_date": "2026-09-23"
+   }
   },
   {
    "date": "2026-09-22T17:16:06Z",
@@ -401,7 +569,15 @@
    "direction": "SELL",
    "primary_ticker": "SMH",
    "strength": 40,
-   "reason": "Semiconductor memory stocks declining; sector weakness signal"
+   "reason": "Semiconductor memory stocks declining; sector weakness signal",
+   "price_since": {
+    "ticker": "SMH",
+    "pct": -1.0,
+    "base": 607.46,
+    "last": 601.41,
+    "base_date": "2026-09-22",
+    "last_date": "2026-09-23"
+   }
   },
   {
    "date": "2026-09-22T11:31:54Z",
@@ -417,7 +593,15 @@
    "direction": "WATCH",
    "primary_ticker": "SPY",
    "strength": 25,
-   "reason": "Macro comment on oil decline and AI rebound; broad market sentiment neutral to positive, direction unclear."
+   "reason": "Macro comment on oil decline and AI rebound; broad market sentiment neutral to positive, direction unclear.",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": -0.7,
+    "base": 773.38,
+    "last": 767.81,
+    "base_date": "2026-09-22",
+    "last_date": "2026-09-23"
+   }
   },
   {
    "date": "2026-09-22T11:31:13Z",
@@ -433,7 +617,15 @@
    "direction": "BUY",
    "primary_ticker": "QQQ",
    "strength": 40,
-   "reason": "Trump dismisses AI regulation concerns; pro-AI stance suggests bullish sentiment for AI/defense tech sector."
+   "reason": "Trump dismisses AI regulation concerns; pro-AI stance suggests bullish sentiment for AI/defense tech sector.",
+   "price_since": {
+    "ticker": "QQQ",
+    "pct": -0.8,
+    "base": 747.46,
+    "last": 741.21,
+    "base_date": "2026-09-22",
+    "last_date": "2026-09-23"
+   }
   },
   {
    "date": "2026-09-22T09:38:08Z",
@@ -449,7 +641,15 @@
    "direction": "WATCH",
    "primary_ticker": "ORCL",
    "strength": 30,
-   "reason": "Oracle stock price action reported; retail bullish sentiment noted but no Trump-specific catalyst mentioned."
+   "reason": "Oracle stock price action reported; retail bullish sentiment noted but no Trump-specific catalyst mentioned.",
+   "price_since": {
+    "ticker": "ORCL",
+    "pct": -3.1,
+    "base": 149.2,
+    "last": 144.56,
+    "base_date": "2026-09-22",
+    "last_date": "2026-09-23"
+   }
   },
   {
    "date": "2026-09-22T07:37:05Z",
@@ -2246,78 +2446,6 @@
     "pct": -0.3,
     "base": 64.48,
     "last": 64.31,
-    "base_date": "2026-09-17",
-    "last_date": "2026-09-18"
-   }
-  },
-  {
-   "date": "2026-09-17T03:03:00Z",
-   "platform": "News",
-   "text": "Trump-Xi summit: Tariffs, trade imbalance and rare earths loom over US-China talks - The Economic Times \u2014 Trump-Xi summit: Tariffs, trade imbalance and rare earths loom over US-China talks\u00a0\u00a0The Economic Times",
-   "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQSjNhQUpMNHFXUmExNlFIb0hmWk1EdW1YRWNVa1h3dTZBWTVwVFp0dUVJUXBkYVlfeDdROGFXTC0tUnh0VTFaMlhUTE1mNGtPa1FJRXVJWmpDWG9uaXdYVG1nM25UWVhCU2dMSFVtbWRSUGl6ejdWN3hpUzBWd24yWTlqUm1lOUI2eXBSa3IxZ0pZQ0ZFQXd4NTBWX0JzSkJ4MHBEVDBSWTdWbC1VSlFBc1JTMUJVbG1kVmNsOWxNWWJXTzVhWWRVOW12eUFucmRUN1V5RGF3YjRBTG10cW1sQWJhWGs1UGlwalBWWlo3VEp6bnhqV1JsR2p6SkY4Q2Ns0gGAAkFVX3lxTFBKM2FBSkw0cVdSYTE2UUhvSGZaTUR1bVhFY1VrWHd1NkFZNXBUWnR1RUlRcGRhWV94N1E4YVdMLS1SeHRVMVoyWFRMTWY0a09rUUlFdUlaakNYb25pd1hUbWczblRZWEJTZ0xIVW1tZFJQaXp6N1Y3eGlTMFZ3bjJZOWpSbWU5QjZ5cFJrcjFnSllDRkVBd3g1MFZfQnNKQngwcERUMFJZN1ZsLVVKUUFzUlMxQlVsbWRWY2w5bE1ZYldPNWFZZFU5bXZ5QW5yZFQ3VXlEYXdiNEFMbXRxbWxBYmFYazVQaXBqUFZaWjdUSnpueGpXUmxHanpKRjhDY2w?oc=5",
-   "tickers": [
-    "FXI"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "FXI",
-   "strength": 50,
-   "reason": "Trump-Xi summit looms with tariffs and rare earths on agenda; US-China trade tension creates two-sided risk",
-   "price_since": {
-    "ticker": "FXI",
-    "pct": 0.4,
-    "base": 34.19,
-    "last": 34.32,
-    "base_date": "2026-09-17",
-    "last_date": "2026-09-18"
-   }
-  },
-  {
-   "date": "2026-09-17T03:03:00Z",
-   "platform": "News",
-   "text": "Trump-Xi summit: Tariffs, trade imbalance and rare earths loom over US-China talks - economictimes.com \u2014 Trump-Xi summit: Tariffs, trade imbalance and rare earths loom over US-China talks\u00a0\u00a0economictimes.com",
-   "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQSjNhQUpMNHFXUmExNlFIb0hmWk1EdW1YRWNVa1h3dTZBWTVwVFp0dUVJUXBkYVlfeDdROGFXTC0tUnh0VTFaMlhUTE1mNGtPa1FJRXVJWmpDWG9uaXdYVG1nM25UWVhCU2dMSFVtbWRSUGl6ejdWN3hpUzBWd24yWTlqUm1lOUI2eXBSa3IxZ0pZQ0ZFQXd4NTBWX0JzSkJ4MHBEVDBSWTdWbC1VSlFBc1JTMUJVbG1kVmNsOWxNWWJXTzVhWWRVOW12eUFucmRUN1V5RGF3YjRBTG10cW1sQWJhWGs1UGlwalBWWlo3VEp6bnhqV1JsR2p6SkY4Q2Ns0gGAAkFVX3lxTFBKM2FBSkw0cVdSYTE2UUhvSGZaTUR1bVhFY1VrWHd1NkFZNXBUWnR1RUlRcGRhWV94N1E4YVdMLS1SeHRVMVoyWFRMTWY0a09rUUlFdUlaakNYb25pd1hUbWczblRZWEJTZ0xIVW1tZFJQaXp6N1Y3eGlTMFZ3bjJZOWpSbWU5QjZ5cFJrcjFnSllDRkVBd3g1MFZfQnNKQngwcERUMFJZN1ZsLVVKUUFzUlMxQlVsbWRWY2w5bE1ZYldPNWFZZFU5bXZ5QW5yZFQ3VXlEYXdiNEFMbXRxbWxBYmFYazVQaXBqUFZaWjdUSnpueGpXUmxHanpKRjhDY2w?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "SPY",
-   "strength": 50,
-   "reason": "Trump-Xi summit with tariffs and trade imbalance on agenda; high uncertainty, two-sided impact likely",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": -0.1,
-    "base": 762.6,
-    "last": 761.69,
-    "base_date": "2026-09-17",
-    "last_date": "2026-09-18"
-   }
-  },
-  {
-   "date": "2026-09-17T02:00:00Z",
-   "platform": "News",
-   "text": "Trump says Canada becoming an EU associate member could be \u2018hostile act\u2019 - BNN Bloomberg \u2014 Trump says Canada becoming an EU associate member could be \u2018hostile act\u2019\u00a0\u00a0BNN Bloomberg",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMk1jQXJHRjNUMVJqZUVBOWFQWjViS2Nrbm1mTzdldUo5anZIQm4tWEFvVTNtbmNpQi1mOG9sbWw1bEVHQktQLWJzVHU1WVJFbC1OWEtIOWEwMDAzOGtib3RseUppcENYOGMyUnlsSkJrMDNxVmRlcUlZU3ZSOHpMcmFHa1ExdjREbTUtY1NQMktOY3E3cVB5d09OZk1VWGxuR3JId3BYelpEM3JqN3FMMWJkN2d0TmtDbF96MDNRUkhUakN4WENr?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "SPY",
-   "strength": 50,
-   "reason": "Canada-EU tensions signal potential geopolitical/trade friction affecting North American equities",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": -0.1,
-    "base": 762.6,
-    "last": 761.69,
     "base_date": "2026-09-17",
     "last_date": "2026-09-18"
    }
