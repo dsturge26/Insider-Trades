@@ -1,7 +1,72 @@
 {
- "last_updated": "2026-09-23T12:55:24Z",
+ "last_updated": "2026-09-23T17:44:15Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
+  {
+   "date": "2026-09-23T17:00:00Z",
+   "platform": "News",
+   "text": "Nvidia Scores Winning Streak: Trump-Xi Meeting, China Sales Outlook In Focus - Investor's Business Daily \u2014 Nvidia Scores Winning Streak: Trump-Xi Meeting, China Sales Outlook In Focus\u00a0\u00a0Investor's Business Daily",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5OaEllOUdaN01GNGFudFRQLWV3Wk9RNDd3SHJ2R1RRby13S0tMeS1NZ2Vic21oZjJkVGtEUG9DcTBwRHVIeUF5V2F1RHc0RE04SER2Z0dTNkZIRktLNVEzaTZMRjFCN0dmbGQ2YVJMVlNSVkUzYm5GSVN1bWtNQQ?oc=5",
+   "tickers": [
+    "NVDA"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "NVDA",
+   "strength": 35,
+   "reason": "Trump-Xi meeting and China sales outlook create two-way risk for Nvidia; ambiguous direction without deal details."
+  },
+  {
+   "date": "2026-09-23T14:49:22Z",
+   "platform": "News",
+   "text": "Trump's Strategy Stock Trades Draw Scrutiny as MSTR Surges 83% - Benzinga \u2014 Trump's Strategy Stock Trades Draw Scrutiny as MSTR Surges 83%\u00a0\u00a0Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMDdGbW5LdmJUNHhVQlA2LXJlN0xJU292WDNiUHJuMklXM1NMZTM1VzdfSklNTjBQYzJWSGRtZWVIQmhYOE5fMDVUc3RwOHRKQjI4NGJNSnVFdlEtU0pfZEtXaFRlcThZQnhzSVo5VTNGS1hMT0IwbEdpaHpSLVNDa1IyU1pSNkloZVhUYXRFbjFfa0s0UEhmeXdobC1kd19S?oc=5",
+   "tickers": [
+    "MSTR"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "MSTR",
+   "strength": 50,
+   "reason": "Trump's large stock trades in tech/AI including MSTR draw scrutiny; unclear if positions signal bullish conviction or mere portfolio moves."
+  },
+  {
+   "date": "2026-09-23T14:35:30Z",
+   "platform": "News",
+   "text": "Trump reveals millions of dollars' worth of share deals in big tech and AI - BBC \u2014 Trump reveals millions of dollars' worth of share deals in big tech and AI\u00a0\u00a0BBC",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9RM2owUFlKRFA1YVRyOXlhOGt6ZUxBT1BwZ3FMdm04ZFc2RVFKYnBMWC10bW5KZG53Ri15UXdHbDVDNGc0RDNJWldicm1jN2VqbG9hWlotbUx3d1A5cXc?oc=5",
+   "tickers": [
+    "QQQ"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "QQQ",
+   "strength": 40,
+   "reason": "Trump's disclosed multi-million dollar share deals in big tech and AI suggest positive positioning, but without explicit recommendation direction is ambiguous."
+  },
+  {
+   "date": "2026-09-23T13:08:24.060Z",
+   "platform": "Truth Social",
+   "text": "Canada is destroying itself by allowing millions and millions of people into the Country, essentially unchecked and unvetted, and who are causing problems that will soon be too big to handle. It is a Liberal takeover that will end very badly. Already showing up in their numbers. Big unemployment. 'Oh Canada! President DJT",
+   "tickers": [
+    "FXI"
+   ],
+   "engagement": 20900,
+   "url": "https://truthsocial.com/@realDonaldTrump/117320509296515188",
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "SELL",
+   "primary_ticker": "FXI",
+   "strength": 45,
+   "reason": "Trump attacks Canada's immigration policy as economically harmful; bearish for Canadian-linked assets and cross-border trade; mild spillover to North American equities."
+  },
   {
    "date": "2026-09-23T04:03:35Z",
    "platform": "News",
@@ -464,7 +529,15 @@
    "direction": "BUY",
    "primary_ticker": "SPY",
    "strength": 45,
-   "reason": "$800M stock market investment announced for Americans; macro bullish signal but vague on timing/mechanism"
+   "reason": "$800M stock market investment announced for Americans; macro bullish signal but vague on timing/mechanism",
+   "price_since": {
+    "ticker": "SPY",
+    "pct": -0.7,
+    "base": 773.5,
+    "last": 768.39,
+    "base_date": "2026-09-21",
+    "last_date": "2026-09-23"
+   }
   },
   {
    "date": "2026-09-21T22:21:25Z",
@@ -480,7 +553,15 @@
    "direction": "BUY",
    "primary_ticker": "RKLB",
    "strength": 55,
-   "reason": "Trump holdings in space stocks (ASTS, RKLB) emerge; implicit endorsement via personal portfolio"
+   "reason": "Trump holdings in space stocks (ASTS, RKLB) emerge; implicit endorsement via personal portfolio",
+   "price_since": {
+    "ticker": "RKLB",
+    "pct": 1.2,
+    "base": 69.89,
+    "last": 70.75,
+    "base_date": "2026-09-21",
+    "last_date": "2026-09-23"
+   }
   },
   {
    "date": "2026-09-21T21:51:47Z",
@@ -496,7 +577,15 @@
    "direction": "WATCH",
    "primary_ticker": "NIO",
    "strength": 25,
-   "reason": "NIO EV stock sentiment update; analyst view mixed on model drag but breakeven potential; no Trump catalyst."
+   "reason": "NIO EV stock sentiment update; analyst view mixed on model drag but breakeven potential; no Trump catalyst.",
+   "price_since": {
+    "ticker": "NIO",
+    "pct": 0.3,
+    "base": 3.67,
+    "last": 3.68,
+    "base_date": "2026-09-21",
+    "last_date": "2026-09-23"
+   }
   },
   {
    "date": "2026-09-21T21:25:08Z",
@@ -512,7 +601,15 @@
    "direction": "WATCH",
    "primary_ticker": "AG",
    "strength": 20,
-   "reason": "AG (First Majestic Silver) stock jump reported; likely commodity/precious metals driven, no Trump nexus stated."
+   "reason": "AG (First Majestic Silver) stock jump reported; likely commodity/precious metals driven, no Trump nexus stated.",
+   "price_since": {
+    "ticker": "AG",
+    "pct": -1.2,
+    "base": 19.31,
+    "last": 19.07,
+    "base_date": "2026-09-21",
+    "last_date": "2026-09-23"
+   }
   },
   {
    "date": "2026-09-21T20:08:00Z",
@@ -2222,78 +2319,6 @@
     "base": 762.6,
     "last": 761.69,
     "base_date": "2026-09-17",
-    "last_date": "2026-09-18"
-   }
-  },
-  {
-   "date": "2026-09-16T23:26:28Z",
-   "platform": "News",
-   "text": "Dow, S&P 500, Nasdaq Futures Edge Higher After Fed Delivers Rate Hike: SPCX, CADL, SNAP, FLNC Stocks In Focus - Stocktwits \u2014 Dow, S&P 500, Nasdaq Futures Edge Higher After Fed Delivers Rate Hike: SPCX, CADL, SNAP, FLNC Stocks In Focus\u00a0\u00a0Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOVEVmQjVOQ0hraVdBa3k3dkFVaVQ0MUNVcmZBZWtfWTBvTVZhUnV6UHJIY3BUaFdNNWlqM2VNS2xXYjlKMGRMTmliRG42UEh6V0UweFlYMUNaTWdzNlZlQ3hBbW5WN211OVhWNzhpU05HN3EwRENiRE4yV25JdXMyZ1ppZXg1Z1NWYkdZQzFrNElXU1RXTFZQdEprMTlDbHRWcEpfS3B2aV9tTGdRTW53TXJUQnNoN2xJWkc1czRmbDdab2RKTXc1dXJvRmxuRWF0R2dpd1lWLVhqSl9NVEctdGtGU2JRVzMyVUxuT1VuMVJKZmxqTmFuQjFXX1B0VEIy?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "SPY",
-   "strength": 25,
-   "reason": "Fed rate hike typically supportive of equity futures in near term; broad market directional signal.",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": 1.0,
-    "base": 754.05,
-    "last": 761.69,
-    "base_date": "2026-09-16",
-    "last_date": "2026-09-18"
-   }
-  },
-  {
-   "date": "2026-09-16T22:45:24Z",
-   "platform": "News",
-   "text": "Why Wendy's Stock Withered on Wednesday - AOL.com \u2014 Why Wendy's Stock Withered on Wednesday\u00a0\u00a0AOL.com",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbGV4dmVRVWdhdlFuOF83UHBxVVlRMUEtWjl1NmRMcllxeHJNaUliTFc3d2pqNm1hRXphdzVjcXo0U2ptQTdtOWk3MlRUSU9TNDc2ekI2VFVzSGViWDQzbjZYdVNtV0dXcHVnV2dlVmJxelBHSENFaGkwQmRydmllT0J3OHBIdw?oc=5",
-   "tickers": [
-    "WEN"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "WEN",
-   "strength": 35,
-   "reason": "Wendy's stock decline reported but headline does not explain Trump or market-moving catalyst; directional ambiguity.",
-   "price_since": {
-    "ticker": "WEN",
-    "pct": -3.8,
-    "base": 7.03,
-    "last": 6.76,
-    "base_date": "2026-09-16",
-    "last_date": "2026-09-18"
-   }
-  },
-  {
-   "date": "2026-09-16T21:32:36Z",
-   "platform": "News",
-   "text": "U.S. stocks slip after the Fed raises interest rates, hints more hikes may be on the way - PBS \u2014 U.S. stocks slip after the Fed raises interest rates, hints more hikes may be on the way\u00a0\u00a0PBS",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQ0o4SEFnLXVuc0pFakhWQXNrNVdZOFBqTmZsR3dlMlFFZEluX2VWbEJPOGJkRkZ6a2tfaHZySVdpaVhYZk1aeGZFdjM2UExoOGMxc1BDbkcwUVFMaElEXzBUb2ItX1hmRVkxWjhHanJyV3ppMGJFcjhNY3BVYlZMNFVCemRaSW94Z1hBZy0yNmd3R29KMEppZThtNmxWaERxa3hfZzZ4WU5BV3AzN19xSTY0OEZwQmwzdGVSWC1SNNIBxAFBVV95cUxNQ3ZKZVFHbHpRSEo2cGs4RjlfMG1UdURsamh2Y3ExeEVkZzdmaGQ3OElrd0FpclpvUGQ1MFlKSHZ2VGFOc1hVN3ZmSVc4aGhIY3hvVm5UUlY0emc2bFNyU3ZGU0RFckhMekh6WE5FeklHLU9uUGZNOVZCQWJPdnctcTNJTmpTOGp0Q3ZVUjEzSWROc0V6VE1lY2hLLWNJWUlwTkEwQkJ1SVVtRlZrYlg5QUxoZEZFOFFzMXgwbkNPNzgzdlRa?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "SPY",
-   "strength": 75,
-   "reason": "Fed rate hike and forward guidance signal higher rates ahead; bearish for equities.",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": 0.7,
-    "base": 754.05,
-    "last": 759.44,
-    "base_date": "2026-09-16",
     "last_date": "2026-09-18"
    }
   },
