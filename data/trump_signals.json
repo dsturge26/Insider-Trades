@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-09-23T07:25:22Z",
+ "last_updated": "2026-09-23T12:55:24Z",
  "note": "Market-relevant Trump posts. Live posts are pulled from CNN's Truth Social archive and classified by Claude (ticker / direction / strength / reason). Entries with \"curated\": true are hand-written highlights. NOT financial advice.",
  "events": [
   {
@@ -35,6 +35,22 @@
    "reason": "Trump short-term SpaceX trade; routine portfolio moves; minimal market signal"
   },
   {
+   "date": "2026-09-23T02:59:46Z",
+   "platform": "News",
+   "text": "Wall Street\u2019s Nasdaq hits all-time high as AI frenzy gathers pace - Al Jazeera \u2014 Wall Street\u2019s Nasdaq hits all-time high as AI frenzy gathers pace\u00a0\u00a0Al Jazeera",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeHpTeHdzUzRDT2hXc052OG13c3p1LXR2QWx2MlJFNF9ZcHNYQTVmNnI5eGZUVXgwd20yUW1CMlBieURxX3RDUkdQOVIyRHQwLWVReHVVZWRGY0kyaGhVdUJ1NnlqNkxBTHlHQjkyeGpnTFlwMlVmekIzNWJGVjAzZzg4XzVjc0JhUHlvR1BuTUx5ZTVfX1NuaU5VTmRrVmN5Snd5RWxvSnlXbnBq0gGyAUFVX3lxTE44TFdKYmIzVjZkam5ELVZnSkJPSEZ0YjVRUDdIUVZfckxDdFl0QVRHWWRpamN6UE04NnpFLXExdlRtZ0s2N0d6a3YzUktXczM0eFd2Q0ctNTJqUkU2LWRIaE15M1lIcUowUENmM3hDd09PdHpHSzdEeXdNWFg0Z1NQWTlSdjNSMUFhZEtDckFScDlFSV9GY0F1UE1xOG42cUpSZGl2Q1Z6YUtuTjBZQlRSV0E?oc=5",
+   "tickers": [
+    "QQQ"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "BUY",
+   "primary_ticker": "QQQ",
+   "strength": 35,
+   "reason": "Nasdaq all-time high on AI momentum; market sentiment positive but no Trump-specific catalyst"
+  },
+  {
    "date": "2026-09-23T02:24:34Z",
    "platform": "News",
    "text": "New US Sanctions law gives Trump 'additional options' on Russian, Iranian oil: US State Department - The Economic Times \u2014 New US Sanctions law gives Trump 'additional options' on Russian, Iranian oil: US State Department\u00a0\u00a0The Economic Times",
@@ -49,6 +65,22 @@
    "primary_ticker": "XLE",
    "strength": 35,
    "reason": "Trump sanctions law on Russian/Iranian oil gives additional leverage; ambiguous direction for oil prices; could support or pressure energy sector"
+  },
+  {
+   "date": "2026-09-23T02:04:00Z",
+   "platform": "News",
+   "text": "Donald Trump to meet Venezuela's Rodriguez for first time since Maduro's capture - The Economic Times \u2014 Donald Trump to meet Venezuela's Rodriguez for first time since Maduro's capture\u00a0\u00a0The Economic Times",
+   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNRk5sQjNlTm05Mjg3TGtuR3RpejVudUZ3R0FnNVEtcDc0bmJwRHVNUjJqN2xlR2pOTjVHblFYY0FRMTlSR0E3VzJkMEIyb1pQd1FPRHprVmZYZnBWX2NGUmFjbzhpOXhCWUxOcFcyOEg5a0VkOTJ6Ti1FTjluUWtqSEgyWkJ0YVhseWRfUHhMc0VFejZITktVcXFwMENCMTU2RklvZlJFdFlvaUR1YzV6LWUwemo5OERTamFaUmZWMmlRQTVFT3lHcjZhZzNKNWJiQ3YydmNUd2oxaTJnU2N0SGd2dlhmNklZekEtcENYcl9NVUxzRC1WX1Nn0gH6AUFVX3lxTE1GTmxCM2VObTkyODdMa25HdGl6NW51RndHQWc1US1wNzRuYnBEdU1SMmo3bGVHak5ONUduUVhjQVExOVJHQTdXMmQwQjJvWlB3UU9EemtWZlhmcFZfY0ZSYWNvOGk5eEJZTE5wVzI4SDlrRWQ5MnpOLUVOOW5Ra2pISDJaQnRhWGx5ZF9QeExzRUV6NkhOS1VxcXAwQ0IxNTZGSW9mUkV0WW9pRHVjNXotZTB6ajk4RFNqYVpSZlYyaVFBNUVPeUdyNmFnM0o1YmJDdjJ2Y1R3ajFpMmdTY3RIZ3Z2WGY2SVl6QS1wQ1hyX01VTHNELVZfU2c?oc=5",
+   "tickers": [
+    "SPY"
+   ],
+   "classified": true,
+   "is_market": true,
+   "explicit": false,
+   "direction": "WATCH",
+   "primary_ticker": "SPY",
+   "strength": 25,
+   "reason": "Venezuela geopolitical shift; ambiguous impact on US markets; WATCH pending concrete policy"
   },
   {
    "date": "2026-09-23T01:37:55Z",
@@ -2263,199 +2295,6 @@
     "last": 759.44,
     "base_date": "2026-09-16",
     "last_date": "2026-09-18"
-   }
-  },
-  {
-   "date": "2026-09-16T20:56:55Z",
-   "platform": "News",
-   "text": "S&P/TSX composite edges lower on energy weakness, U.S. stock markets also negative - ctvnews.ca \u2014 S&P/TSX composite edges lower on energy weakness, U.S. stock markets also negative\u00a0\u00a0ctvnews.ca",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMG1pS05qVTBnTzQzUmpPak9TLUktU1NvN0QwdFdiSmVvSlBaS3M0Y05jbV84VDE0cjhraGMydUJfWXdsbnotcHpoQlM3X2h3dE1wWk53c2pEeVlocXdWOXQwaDk0M1V4T3pXM052clF6V0FzeXZ6WHd1cnlMeTdhZ3RUcFYtdmJRVDNGLUJn?oc=5",
-   "tickers": [
-    "XLE"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "XLE",
-   "strength": 35,
-   "reason": "Energy weakness cited as driver of market decline",
-   "price_since": {
-    "ticker": "XLE",
-    "pct": 0.5,
-    "base": 64.03,
-    "last": 64.33,
-    "base_date": "2026-09-16",
-    "last_date": "2026-09-18"
-   }
-  },
-  {
-   "date": "2026-09-16T20:56:55Z",
-   "platform": "News",
-   "text": "S&P/TSX composite edges lower on energy weakness, U.S. stock markets also negative - CTV News \u2014 S&P/TSX composite edges lower on energy weakness, U.S. stock markets also negative\u00a0\u00a0CTV News",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMG1pS05qVTBnTzQzUmpPak9TLUktU1NvN0QwdFdiSmVvSlBaS3M0Y05jbV84VDE0cjhraGMydUJfWXdsbnotcHpoQlM3X2h3dE1wWk53c2pEeVlocXdWOXQwaDk0M1V4T3pXM052clF6V0FzeXZ6WHd1cnlMeTdhZ3RUcFYtdmJRVDNGLUJn?oc=5",
-   "tickers": [
-    "XLE"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "SELL",
-   "primary_ticker": "XLE",
-   "strength": 40,
-   "reason": "Energy weakness reported in North American markets; sector headwind",
-   "price_since": {
-    "ticker": "XLE",
-    "pct": 0.5,
-    "base": 64.03,
-    "last": 64.33,
-    "base_date": "2026-09-16",
-    "last_date": "2026-09-18"
-   }
-  },
-  {
-   "date": "2026-09-16T20:38:35.091Z",
-   "platform": "Truth Social",
-   "text": "Interest Rates in the United States should be 1%, or less, because we are the Best Credit in the World \u2014 BY FAR. Our Country is BOOMING with new Investment! If we stopped Trading with every country that we have a Deficit with, which is most of them, we would make, at least, 1.5 Trillion Dollars a year. The word \"Deficit\" is nothing more than a fancy word for LOSS. We are \"carrying\" almost every country in the World, and that cannot go on any longer. LOWER THE INTEREST RATES FOR THE UNITED STATES OF AMERICA, AND FAST! President DONALD J. TRUMP",
-   "tickers": [
-    "SPY"
-   ],
-   "engagement": 19044,
-   "url": "https://truthsocial.com/@realDonaldTrump/117282643318690567",
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "SPY",
-   "strength": 65,
-   "reason": "Trump calls for lower interest rates; implies Fed pressure and macro stimulus bullish for broad market.",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": 1.1,
-    "base": 754.05,
-    "last": 762.6,
-    "base_date": "2026-09-16",
-    "last_date": "2026-09-17"
-   }
-  },
-  {
-   "date": "2026-09-16T18:33:00Z",
-   "platform": "News",
-   "text": "Nvidia Stock Rises as Meta\u2019s Zuckerberg Weighs In on AI Safety After Trump - Barron's \u2014 Nvidia Stock Rises as Meta\u2019s Zuckerberg Weighs In on AI Safety After Trump\u00a0\u00a0Barron's",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1FbHAwcnlPcmtPbVZMLTVLTWZXaFk0bnlUcG4zR1Y4U0Y1QUdnV3BtcUJCWVdPekdYZ2dFV2xvTEdwc3RCUzZPMGRRdDJmci16ZUJzQjlsN1QweDBlLXQ3OHRsVGlFRjFWNWV1RWtmYWpjeTZKU2gxaEFadUk0c28?oc=5",
-   "tickers": [
-    "NVDA"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "NVDA",
-   "strength": 35,
-   "reason": "Headline mentions Nvidia and AI safety; ambiguous whether net positive or negative for stock.",
-   "price_since": {
-    "ticker": "NVDA",
-    "pct": 2.5,
-    "base": 213.9,
-    "last": 219.34,
-    "base_date": "2026-09-16",
-    "last_date": "2026-09-17"
-   }
-  },
-  {
-   "date": "2026-09-16T13:57:00Z",
-   "platform": "News",
-   "text": "Nvidia Stock Rises as Meta\u2019s Zuckerberg Weighs In on AI Safety After Trump - barrons.com \u2014 Nvidia Stock Rises as Meta\u2019s Zuckerberg Weighs In on AI Safety After Trump\u00a0\u00a0barrons.com",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1FbHAwcnlPcmtPbVZMLTVLTWZXaFk0bnlUcG4zR1Y4U0Y1QUdnV3BtcUJCWVdPekdYZ2dFV2xvTEdwc3RCUzZPMGRRdDJmci16ZUJzQjlsN1QweDBlLXQ3OHRsVGlFRjFWNWV1RWtmYWpjeTZKU2gxaEFadUk0c28?oc=5",
-   "tickers": [
-    "NVDA"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "NVDA",
-   "strength": 25,
-   "reason": "Nvidia rises amid AI safety discussion; direction ambiguous\u2014guardrails debate cuts both ways for AI sector",
-   "price_since": {
-    "ticker": "NVDA",
-    "pct": 2.5,
-    "base": 213.9,
-    "last": 219.34,
-    "base_date": "2026-09-16",
-    "last_date": "2026-09-17"
-   }
-  },
-  {
-   "date": "2026-09-16T12:09:35Z",
-   "platform": "News",
-   "text": "Global stocks edge higher ahead of US Fed rate call - Markets & Companies - Business - Ahram Online \u2014 Global stocks edge higher ahead of US Fed rate call - Markets & Companies - Business\u00a0\u00a0Ahram Online",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQ3ItODBYN0VDdHh2RFc5QUdJLVZENnl3MWxGZlFhQjROQ1VISzJuUjB3OHdkeWx5NXIwMnhrajJwTXZrdnhTQ3VDYnVaV3hRYUNLQWxEdWh3TUpEeVhPOGdWbGRYQS1HeUVzOVZuVHBXcUgwamZiNGw1eERRZi10cWV0V2dKNEcydmtIandSVzVLUmtBeFdhVXJ4NXYxOXR6aG1BUTF1eUczeGxaTnpuQzl0c0ZTc01remVoRzVMMlVEVHpFdVR4YjBiNy02d2FJelE?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "SPY",
-   "strength": 40,
-   "reason": "Global stocks edge higher ahead of Fed rate decision; macro uncertainty",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": 1.1,
-    "base": 754.05,
-    "last": 762.6,
-    "base_date": "2026-09-16",
-    "last_date": "2026-09-17"
-   }
-  },
-  {
-   "date": "2026-09-16T10:45:16Z",
-   "platform": "News",
-   "text": "Republican Senator Endorsed by Trump Shifts Stance on $5,000 Dividend: \u2018This Is Not the First Time I\u2019ve Disagreed...\u2019 - Yahoo \u2014 Republican Senator Endorsed by Trump Shifts Stance on $5,000 Dividend: \u2018This Is Not the First Time I\u2019ve Disagreed...\u2019\u00a0\u00a0Yahoo",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcF9oazNyX1FpMll5aU5FZGxiQ0FZT0xMQ0kzclVEaDNnSnlkT3N3bGloS0VhZGVCN3RkMWJHU3lObjlwaEpnZHJRTjZDaUdSMXVsa0RiRW9weFZjMEdXc3hYa0lHOGpBQjRsWjVRQnRWdkh3M280NEdRYmlxNmNUQ0FTQ3hCQTFGSndkeGh0REZhd0w5blRUNmNSdTlQLUJPeXc?oc=5",
-   "tickers": [
-    "SPY"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "WATCH",
-   "primary_ticker": "SPY",
-   "strength": 25,
-   "reason": "Trump-backed senator shifts stance on $5,000 dividend proposal; policy ambiguity on fiscal impact.",
-   "price_since": {
-    "ticker": "SPY",
-    "pct": 1.1,
-    "base": 754.05,
-    "last": 762.6,
-    "base_date": "2026-09-16",
-    "last_date": "2026-09-17"
-   }
-  },
-  {
-   "date": "2026-09-16T08:41:44Z",
-   "platform": "News",
-   "text": "Why Trump is all-in on AI despite the warnings - BBC \u2014 Why Trump is all-in on AI despite the warnings\u00a0\u00a0BBC",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE13TzF4STFvelJEcFNkcGpHSEY4ZUx6RVNFeEtlQmF0c0YyYlZ6NWlxVks5VmlpdWhaWWd1OHllUnd5UjBPcU9uWEZLTmJBOHdRTGtOSkREM3FQUnB6YlE?oc=5",
-   "tickers": [
-    "QQQ"
-   ],
-   "classified": true,
-   "is_market": true,
-   "explicit": false,
-   "direction": "BUY",
-   "primary_ticker": "QQQ",
-   "strength": 50,
-   "reason": "Trump backing AI broadly; bullish for tech/AI sector.",
-   "price_since": {
-    "ticker": "QQQ",
-    "pct": 1.7,
-    "base": 704.72,
-    "last": 716.92,
-    "base_date": "2026-09-16",
-    "last_date": "2026-09-17"
    }
   },
   {
