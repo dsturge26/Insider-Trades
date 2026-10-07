@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-10-07T13:10:36Z",
+ "last_updated": "2026-10-07T19:20:34Z",
  "note": "Trump-linked / 'Trump trade' tickers to watch. Prices are refreshed by the GitHub Action from Yahoo Finance (intraday quote + trend, no key; Stooq is a fallback). Stocks are ~15-min delayed, crypto is real-time.",
  "tickers": [
   {
@@ -8,10 +8,6 @@
    "why": "Trump is majority owner. The purest 'Trump sentiment' stock \u2014 moves on his political/legal/business news.",
    "stooq": "djt.us",
    "prices": [
-    {
-     "date": "2026-07-14",
-     "close": 9.03
-    },
     {
      "date": "2026-07-15",
      "close": 9.57
@@ -247,12 +243,16 @@
     {
      "date": "2026-10-06",
      "close": 8.65
+    },
+    {
+     "date": "2026-10-07",
+     "close": 8.23
     }
    ],
-   "last": 8.65,
-   "prev_close": 8.66,
-   "day_pct": -0.12,
-   "as_of": "2026-10-06T20:00:01Z"
+   "last": 8.23,
+   "prev_close": 8.13,
+   "day_pct": 1.23,
+   "as_of": "2026-10-07T19:20:27Z"
   },
   {
    "ticker": "SPY",
@@ -260,10 +260,6 @@
    "why": "Broad market. Trump policy/tariff posts move the whole index \u2014 the cleanest way to play a 'great time to buy' signal.",
    "stooq": "spy.us",
    "prices": [
-    {
-     "date": "2026-07-14",
-     "close": 751.83
-    },
     {
      "date": "2026-07-15",
      "close": 754.81
@@ -499,12 +495,16 @@
     {
      "date": "2026-10-06",
      "close": 779.09
+    },
+    {
+     "date": "2026-10-07",
+     "close": 777.14
     }
    ],
-   "last": 779.09,
-   "prev_close": 751.28,
-   "day_pct": 3.7,
-   "as_of": "2026-10-06T20:00:00Z"
+   "last": 777.14,
+   "prev_close": 747.71,
+   "day_pct": 3.94,
+   "as_of": "2026-10-07T19:20:31Z"
   },
   {
    "ticker": "QQQ",
@@ -512,10 +512,6 @@
    "why": "Tech-heavy index; amplifies the same macro/tariff swings as SPY.",
    "stooq": "qqq.us",
    "prices": [
-    {
-     "date": "2026-07-14",
-     "close": 719.69
-    },
     {
      "date": "2026-07-15",
      "close": 717.74
@@ -751,12 +747,16 @@
     {
      "date": "2026-10-06",
      "close": 759.66
+    },
+    {
+     "date": "2026-10-07",
+     "close": 756.89
     }
    ],
-   "last": 759.66,
-   "prev_close": 722.82,
-   "day_pct": 5.1,
-   "as_of": "2026-10-06T20:00:00Z"
+   "last": 756.89,
+   "prev_close": 709.43,
+   "day_pct": 6.69,
+   "as_of": "2026-10-07T19:20:32Z"
   },
   {
    "ticker": "PLTR",
@@ -764,10 +764,6 @@
    "why": "Frequent congressional buy and a 'government contracts / Trump era' favorite.",
    "stooq": "pltr.us",
    "prices": [
-    {
-     "date": "2026-07-14",
-     "close": 133.72
-    },
     {
      "date": "2026-07-15",
      "close": 133.76
@@ -1003,12 +999,16 @@
     {
      "date": "2026-10-06",
      "close": 192.07
+    },
+    {
+     "date": "2026-10-07",
+     "close": 193.34
     }
    ],
-   "last": 192.07,
-   "prev_close": 132.54,
-   "day_pct": 44.91,
-   "as_of": "2026-10-06T20:00:00Z"
+   "last": 193.34,
+   "prev_close": 134.37,
+   "day_pct": 43.89,
+   "as_of": "2026-10-07T19:20:30Z"
   },
   {
    "ticker": "XAR",
@@ -1016,10 +1016,6 @@
    "why": "Defense names rally on conflict/spending headlines tied to administration policy.",
    "stooq": "xar.us",
    "prices": [
-    {
-     "date": "2026-07-14",
-     "close": 266.56
-    },
     {
      "date": "2026-07-15",
      "close": 266.32
@@ -1255,12 +1251,16 @@
     {
      "date": "2026-10-06",
      "close": 233.62
+    },
+    {
+     "date": "2026-10-07",
+     "close": 226.67
     }
    ],
-   "last": 233.62,
-   "prev_close": 289.73,
-   "day_pct": -19.37,
-   "as_of": "2026-10-06T20:00:00Z"
+   "last": 226.67,
+   "prev_close": 279.33,
+   "day_pct": -18.85,
+   "as_of": "2026-10-07T19:20:32Z"
   }
  ]
 }
