@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-10-09T21:18:13Z",
+ "last_updated": "2026-10-10T01:06:43Z",
  "note": "Trump-linked / 'Trump trade' tickers to watch. Prices are refreshed by the GitHub Action from Yahoo Finance (intraday quote + trend, no key; Stooq is a fallback). Stocks are ~15-min delayed, crypto is real-time.",
  "tickers": [
   {
@@ -8,6 +8,10 @@
    "why": "Trump is majority owner. The purest 'Trump sentiment' stock \u2014 moves on his political/legal/business news.",
    "stooq": "djt.us",
    "prices": [
+    {
+     "date": "2026-07-16",
+     "close": 9.63
+    },
     {
      "date": "2026-07-17",
      "close": 9.66
@@ -243,10 +247,6 @@
     {
      "date": "2026-10-08",
      "close": 8.2
-    },
-    {
-     "date": "2026-10-09",
-     "close": 8.11
     }
    ],
    "last": 8.11,
@@ -260,6 +260,10 @@
    "why": "Broad market. Trump policy/tariff posts move the whole index \u2014 the cleanest way to play a 'great time to buy' signal.",
    "stooq": "spy.us",
    "prices": [
+    {
+     "date": "2026-07-16",
+     "close": 750.72
+    },
     {
      "date": "2026-07-17",
      "close": 743.29
@@ -495,10 +499,6 @@
     {
      "date": "2026-10-08",
      "close": 773.93
-    },
-    {
-     "date": "2026-10-09",
-     "close": 778.57
     }
    ],
    "last": 778.57,
@@ -512,6 +512,10 @@
    "why": "Tech-heavy index; amplifies the same macro/tariff swings as SPY.",
    "stooq": "qqq.us",
    "prices": [
+    {
+     "date": "2026-07-16",
+     "close": 705.94
+    },
     {
      "date": "2026-07-17",
      "close": 695.33
@@ -747,10 +751,6 @@
     {
      "date": "2026-10-08",
      "close": 747.58
-    },
-    {
-     "date": "2026-10-09",
-     "close": 751.27
     }
    ],
    "last": 751.27,
@@ -764,6 +764,10 @@
    "why": "Frequent congressional buy and a 'government contracts / Trump era' favorite.",
    "stooq": "pltr.us",
    "prices": [
+    {
+     "date": "2026-07-16",
+     "close": 134.44
+    },
     {
      "date": "2026-07-17",
      "close": 132.38
@@ -999,10 +1003,6 @@
     {
      "date": "2026-10-08",
      "close": 198.78
-    },
-    {
-     "date": "2026-10-09",
-     "close": 209.05
     }
    ],
    "last": 209.05,
@@ -1016,6 +1016,10 @@
    "why": "Defense names rally on conflict/spending headlines tied to administration policy.",
    "stooq": "xar.us",
    "prices": [
+    {
+     "date": "2026-07-16",
+     "close": 259.06
+    },
     {
      "date": "2026-07-17",
      "close": 258.57
@@ -1251,10 +1255,6 @@
     {
      "date": "2026-10-08",
      "close": 226.86
-    },
-    {
-     "date": "2026-10-09",
-     "close": 228.36
     }
    ],
    "last": 228.36,
