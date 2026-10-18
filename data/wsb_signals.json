@@ -1,42 +1,33 @@
 {
- "last_updated": "2026-10-18T06:22:52Z",
+ "last_updated": "2026-10-18T11:33:54Z",
  "source": "ApeWisdom / r/wallstreetbets",
  "signals": [
   {
-   "ticker": "SPY",
-   "name": "SPDR S&amp;P 500 ETF Trust",
-   "mentions": 42,
-   "mentions_24h_ago": 297,
-   "change_pct": -85.9,
-   "rank": 1,
-   "upvotes": 171
-  },
-  {
    "ticker": "MU",
    "name": "Micron Technology",
-   "mentions": 38,
-   "mentions_24h_ago": 207,
-   "change_pct": -81.6,
+   "mentions": 45,
+   "mentions_24h_ago": 192,
+   "change_pct": -76.6,
+   "rank": 1,
+   "upvotes": 156
+  },
+  {
+   "ticker": "SPY",
+   "name": "SPDR S&amp;P 500 ETF Trust",
+   "mentions": 41,
+   "mentions_24h_ago": 292,
+   "change_pct": -86.0,
    "rank": 2,
-   "upvotes": 118
+   "upvotes": 177
   },
   {
    "ticker": "QQQ",
    "name": "Invesco QQQ ETF",
-   "mentions": 38,
-   "mentions_24h_ago": 214,
-   "change_pct": -82.2,
+   "mentions": 34,
+   "mentions_24h_ago": 217,
+   "change_pct": -84.3,
    "rank": 3,
-   "upvotes": 137
-  },
-  {
-   "ticker": "NVDA",
-   "name": "NVIDIA",
-   "mentions": 33,
-   "mentions_24h_ago": 65,
-   "change_pct": -49.2,
-   "rank": 4,
-   "upvotes": 88
+   "upvotes": 130
   },
   {
    "ticker": "NBIS",
@@ -44,152 +35,188 @@
    "mentions": 31,
    "mentions_24h_ago": 116,
    "change_pct": -73.3,
+   "rank": 4,
+   "upvotes": 102
+  },
+  {
+   "ticker": "NVDA",
+   "name": "NVIDIA",
+   "mentions": 30,
+   "mentions_24h_ago": 62,
+   "change_pct": -51.6,
    "rank": 5,
-   "upvotes": 72
+   "upvotes": 92
   },
   {
    "ticker": "CRWV",
    "name": "CoreWeave",
-   "mentions": 31,
-   "mentions_24h_ago": 111,
-   "change_pct": -72.1,
+   "mentions": 30,
+   "mentions_24h_ago": 104,
+   "change_pct": -71.2,
    "rank": 6,
-   "upvotes": 91
+   "upvotes": 150
   },
   {
    "ticker": "SNDK",
    "name": "Sandisk",
-   "mentions": 23,
-   "mentions_24h_ago": 56,
-   "change_pct": -58.9,
+   "mentions": 25,
+   "mentions_24h_ago": 53,
+   "change_pct": -52.8,
    "rank": 7,
-   "upvotes": 119
+   "upvotes": 147
   },
   {
    "ticker": "VOO",
    "name": "Vanguard S&amp;P 500 ETF",
-   "mentions": 21,
-   "mentions_24h_ago": 51,
-   "change_pct": -58.8,
+   "mentions": 24,
+   "mentions_24h_ago": 50,
+   "change_pct": -52.0,
    "rank": 8,
-   "upvotes": 13
+   "upvotes": 17
   },
   {
    "ticker": "AMD",
    "name": "AMD",
-   "mentions": 16,
-   "mentions_24h_ago": 71,
-   "change_pct": -77.5,
+   "mentions": 20,
+   "mentions_24h_ago": 60,
+   "change_pct": -66.7,
    "rank": 9,
-   "upvotes": 30
+   "upvotes": 52
+  },
+  {
+   "ticker": "EU",
+   "name": "enCore Energy",
+   "mentions": 19,
+   "mentions_24h_ago": 6,
+   "change_pct": 216.7,
+   "rank": 10,
+   "upvotes": 129
   },
   {
    "ticker": "SOXL",
    "name": "Direxion Shares ETF Trust - Direxion Daily Semiconductor Bull 3X Share",
    "mentions": 16,
-   "mentions_24h_ago": 61,
-   "change_pct": -73.8,
-   "rank": 10,
-   "upvotes": 67
-  },
-  {
-   "ticker": "EU",
-   "name": "enCore Energy",
-   "mentions": 15,
-   "mentions_24h_ago": 10,
-   "change_pct": 50.0,
+   "mentions_24h_ago": 53,
+   "change_pct": -69.8,
    "rank": 11,
-   "upvotes": 112
-  },
-  {
-   "ticker": "TSLA",
-   "name": "Tesla",
-   "mentions": 14,
-   "mentions_24h_ago": 214,
-   "change_pct": -93.5,
-   "rank": 12,
-   "upvotes": 33
-  },
-  {
-   "ticker": "DTE",
-   "name": "DTE Energy",
-   "mentions": 14,
-   "mentions_24h_ago": 63,
-   "change_pct": -77.8,
-   "rank": 13,
-   "upvotes": 59
+   "upvotes": 72
   },
   {
    "ticker": "META",
    "name": "Meta Platforms (Facebook)",
-   "mentions": 12,
-   "mentions_24h_ago": 33,
-   "change_pct": -63.6,
-   "rank": 14,
-   "upvotes": 24
+   "mentions": 15,
+   "mentions_24h_ago": 30,
+   "change_pct": -50.0,
+   "rank": 12,
+   "upvotes": 26
+  },
+  {
+   "ticker": "GME",
+   "name": "GameStop",
+   "mentions": 14,
+   "mentions_24h_ago": 8,
+   "change_pct": 75.0,
+   "rank": 13,
+   "upvotes": 132
   },
   {
    "ticker": "ASTS",
    "name": "AST SpaceMobile",
-   "mentions": 11,
-   "mentions_24h_ago": 27,
-   "change_pct": -59.3,
-   "rank": 15,
-   "upvotes": 81
+   "mentions": 14,
+   "mentions_24h_ago": 25,
+   "change_pct": -44.0,
+   "rank": 14,
+   "upvotes": 174
   },
   {
    "ticker": "MSFT",
    "name": "Microsoft",
-   "mentions": 10,
-   "mentions_24h_ago": 18,
-   "change_pct": -44.4,
+   "mentions": 13,
+   "mentions_24h_ago": 17,
+   "change_pct": -23.5,
+   "rank": 15,
+   "upvotes": 69
+  },
+  {
+   "ticker": "DTE",
+   "name": "DTE Energy",
+   "mentions": 12,
+   "mentions_24h_ago": 65,
+   "change_pct": -81.5,
    "rank": 16,
-   "upvotes": 31
+   "upvotes": 44
+  },
+  {
+   "ticker": "AVGO",
+   "name": "Broadcom",
+   "mentions": 11,
+   "mentions_24h_ago": 27,
+   "change_pct": -59.3,
+   "rank": 17,
+   "upvotes": 21
   },
   {
    "ticker": "AMZN",
    "name": "Amazon",
    "mentions": 10,
-   "mentions_24h_ago": 18,
-   "change_pct": -44.4,
-   "rank": 17,
-   "upvotes": 14
+   "mentions_24h_ago": 17,
+   "change_pct": -41.2,
+   "rank": 18,
+   "upvotes": 28
   },
   {
-   "ticker": "GME",
-   "name": "GameStop",
+   "ticker": "TSLA",
+   "name": "Tesla",
    "mentions": 10,
-   "mentions_24h_ago": 12,
-   "change_pct": -16.7,
-   "rank": 18,
-   "upvotes": 63
+   "mentions_24h_ago": 178,
+   "change_pct": -94.4,
+   "rank": 19,
+   "upvotes": 26
+  },
+  {
+   "ticker": "NFLX",
+   "name": "Netflix",
+   "mentions": 10,
+   "mentions_24h_ago": 6,
+   "change_pct": 66.7,
+   "rank": 20,
+   "upvotes": 16
+  },
+  {
+   "ticker": "VTI",
+   "name": "Vanguard Total Stock Market ETF",
+   "mentions": 10,
+   "mentions_24h_ago": 2,
+   "change_pct": 400.0,
+   "rank": 21,
+   "upvotes": 201
+  },
+  {
+   "ticker": "RKLB",
+   "name": "Rocket Lab USA",
+   "mentions": 10,
+   "mentions_24h_ago": 21,
+   "change_pct": -52.4,
+   "rank": 22,
+   "upvotes": 157
   },
   {
    "ticker": "IREN",
    "name": "Iris Energy",
    "mentions": 10,
-   "mentions_24h_ago": 38,
-   "change_pct": -73.7,
-   "rank": 19,
+   "mentions_24h_ago": 34,
+   "change_pct": -70.6,
+   "rank": 23,
    "upvotes": 16
   },
   {
-   "ticker": "NFLX",
-   "name": "Netflix",
+   "ticker": "WDC",
+   "name": "Western Digital",
    "mentions": 9,
-   "mentions_24h_ago": 6,
-   "change_pct": 50.0,
-   "rank": 20,
-   "upvotes": 15
-  },
-  {
-   "ticker": "AVGO",
-   "name": "Broadcom",
-   "mentions": 9,
-   "mentions_24h_ago": 30,
-   "change_pct": -70.0,
-   "rank": 21,
-   "upvotes": 18
+   "mentions_24h_ago": 8,
+   "change_pct": 12.5,
+   "rank": 24,
+   "upvotes": 24
   },
   {
    "ticker": "SCHD",
@@ -197,35 +224,8 @@
    "mentions": 9,
    "mentions_24h_ago": 12,
    "change_pct": -25.0,
-   "rank": 22,
-   "upvotes": 53
-  },
-  {
-   "ticker": "VTI",
-   "name": "Vanguard Total Stock Market ETF",
-   "mentions": 8,
-   "mentions_24h_ago": 2,
-   "change_pct": 300.0,
-   "rank": 23,
-   "upvotes": 106
-  },
-  {
-   "ticker": "GOOGL",
-   "name": "Alphabet (Google)",
-   "mentions": 8,
-   "mentions_24h_ago": 18,
-   "change_pct": -55.6,
-   "rank": 24,
-   "upvotes": 17
-  },
-  {
-   "ticker": "RDDT",
-   "name": "Reddit",
-   "mentions": 8,
-   "mentions_24h_ago": 7,
-   "change_pct": 14.3,
    "rank": 25,
-   "upvotes": 108
+   "upvotes": 53
   }
  ]
 }
