@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-10-23T03:37:18Z",
+ "last_updated": "2026-10-23T18:21:40Z",
  "source": "Financial Modeling Prep (Form 4)",
  "is_sample": false,
  "signals": [
@@ -24,8 +24,20 @@
    "title": "director, 10 percent owner: ",
    "value": 1120324,
    "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001467837&type=4",
-   "strength": 75,
-   "reason": "Alford Tony L bought $1,120,324"
+   "strength": 87,
+   "reason": "2 insiders buying Alford Tony L bought $1,120,324"
+  },
+  {
+   "date": "2026-10-20",
+   "ticker": "LCU",
+   "direction": "BUY",
+   "source": "Insider",
+   "insider": "Sharman Mark Brady",
+   "title": "director",
+   "value": 360104,
+   "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002158395&type=4",
+   "strength": 85,
+   "reason": "2 insiders buying Sharman Mark Brady bought $360,104"
   },
   {
    "date": "2026-10-16",
