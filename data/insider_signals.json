@@ -1,8 +1,32 @@
 {
- "last_updated": "2026-10-23T18:21:40Z",
+ "last_updated": "2026-10-26T21:45:49Z",
  "source": "Financial Modeling Prep (Form 4)",
  "is_sample": false,
  "signals": [
+  {
+   "date": "2026-10-23",
+   "ticker": "LEO",
+   "direction": "BUY",
+   "source": "Insider",
+   "insider": "Saba Capital Management, L.P.",
+   "title": "10 percent owner",
+   "value": 369200,
+   "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001510281&type=4",
+   "strength": 73,
+   "reason": "Saba Capital Management, L.P. bought $369,200"
+  },
+  {
+   "date": "2026-10-23",
+   "ticker": "THRM",
+   "direction": "BUY",
+   "source": "Insider",
+   "insider": "Presley William T.",
+   "title": "director, officer: President & CEO",
+   "value": 130000,
+   "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001824971&type=4",
+   "strength": 70,
+   "reason": "Presley William T. bought $130,000"
+  },
   {
    "date": "2026-10-20",
    "ticker": "GF",
