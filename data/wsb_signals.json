@@ -1,222 +1,195 @@
 {
- "last_updated": "2026-10-25T22:04:10Z",
+ "last_updated": "2026-10-26T00:23:28Z",
  "source": "ApeWisdom / r/wallstreetbets",
  "signals": [
   {
    "ticker": "SPY",
    "name": "SPDR S&amp;P 500 ETF Trust",
-   "mentions": 32,
-   "mentions_24h_ago": 32,
-   "change_pct": 0.0,
+   "mentions": 34,
+   "mentions_24h_ago": 24,
+   "change_pct": 41.7,
    "rank": 1,
-   "upvotes": 158
+   "upvotes": 204
   },
   {
    "ticker": "QQQ",
    "name": "Invesco QQQ ETF",
-   "mentions": 19,
-   "mentions_24h_ago": 21,
-   "change_pct": -9.5,
+   "mentions": 22,
+   "mentions_24h_ago": 20,
+   "change_pct": 10.0,
    "rank": 2,
-   "upvotes": 29
+   "upvotes": 32
   },
   {
    "ticker": "MSFT",
    "name": "Microsoft",
-   "mentions": 18,
+   "mentions": 17,
    "mentions_24h_ago": 12,
-   "change_pct": 50.0,
+   "change_pct": 41.7,
    "rank": 3,
    "upvotes": 43
   },
   {
    "ticker": "NOW",
    "name": "ServiceNow",
-   "mentions": 16,
+   "mentions": 17,
    "mentions_24h_ago": 5,
-   "change_pct": 220.0,
+   "change_pct": 240.0,
    "rank": 4,
-   "upvotes": 44
+   "upvotes": 48
   },
   {
    "ticker": "MU",
    "name": "Micron Technology",
    "mentions": 14,
-   "mentions_24h_ago": 8,
-   "change_pct": 75.0,
+   "mentions_24h_ago": 9,
+   "change_pct": 55.6,
    "rank": 5,
-   "upvotes": 71
+   "upvotes": 77
   },
   {
    "ticker": "GOOG",
    "name": "Alphabet (Google)",
-   "mentions": 10,
-   "mentions_24h_ago": 21,
-   "change_pct": -52.4,
+   "mentions": 12,
+   "mentions_24h_ago": 20,
+   "change_pct": -40.0,
    "rank": 6,
-   "upvotes": 49
-  },
-  {
-   "ticker": "IT",
-   "name": "Gartner",
-   "mentions": 10,
-   "mentions_24h_ago": 14,
-   "change_pct": -28.6,
-   "rank": 7,
-   "upvotes": 28
-  },
-  {
-   "ticker": "SNDK",
-   "name": "Sandisk",
-   "mentions": 10,
-   "mentions_24h_ago": 2,
-   "change_pct": 400.0,
-   "rank": 8,
-   "upvotes": 13
-  },
-  {
-   "ticker": "NVDA",
-   "name": "NVIDIA",
-   "mentions": 9,
-   "mentions_24h_ago": 16,
-   "change_pct": -43.8,
-   "rank": 9,
-   "upvotes": 8
+   "upvotes": 62
   },
   {
    "ticker": "AMZN",
    "name": "Amazon",
-   "mentions": 8,
-   "mentions_24h_ago": 13,
-   "change_pct": -38.5,
-   "rank": 10,
-   "upvotes": 42
-  },
-  {
-   "ticker": "HR",
-   "name": "Healthcare Realty",
-   "mentions": 8,
-   "mentions_24h_ago": 1,
-   "change_pct": 700.0,
-   "rank": 11,
-   "upvotes": 35
+   "mentions": 9,
+   "mentions_24h_ago": 12,
+   "change_pct": -25.0,
+   "rank": 7,
+   "upvotes": 48
   },
   {
    "ticker": "ET",
    "name": "Energy Transfer Partners",
-   "mentions": 7,
+   "mentions": 9,
    "mentions_24h_ago": 1,
-   "change_pct": 600.0,
-   "rank": 12,
-   "upvotes": 12
+   "change_pct": 800.0,
+   "rank": 8,
+   "upvotes": 16
   },
   {
-   "ticker": "SPCX",
-   "name": "SpaceX",
+   "ticker": "NBIS",
+   "name": "Nebius Group",
+   "mentions": 9,
+   "mentions_24h_ago": 1,
+   "change_pct": 800.0,
+   "rank": 9,
+   "upvotes": 19
+  },
+  {
+   "ticker": "CRWV",
+   "name": "CoreWeave",
+   "mentions": 9,
+   "mentions_24h_ago": 4,
+   "change_pct": 125.0,
+   "rank": 10,
+   "upvotes": 30
+  },
+  {
+   "ticker": "YOU",
+   "name": "CLEAR Secure",
+   "mentions": 8,
+   "mentions_24h_ago": 10,
+   "change_pct": -20.0,
+   "rank": 11,
+   "upvotes": 16
+  },
+  {
+   "ticker": "NVDA",
+   "name": "NVIDIA",
    "mentions": 7,
-   "mentions_24h_ago": 21,
-   "change_pct": -66.7,
-   "rank": 13,
-   "upvotes": 17
+   "mentions_24h_ago": 11,
+   "change_pct": -36.4,
+   "rank": 12,
+   "upvotes": 5
   },
   {
    "ticker": "RDDT",
    "name": "Reddit",
    "mentions": 7,
-   "mentions_24h_ago": 7,
-   "change_pct": 0.0,
-   "rank": 14,
-   "upvotes": 20
-  },
-  {
-   "ticker": "CRWV",
-   "name": "CoreWeave",
-   "mentions": 7,
    "mentions_24h_ago": 6,
    "change_pct": 16.7,
-   "rank": 15,
+   "rank": 13,
    "upvotes": 17
   },
   {
-   "ticker": "TSLA",
-   "name": "Tesla",
+   "ticker": "SPCX",
+   "name": "SpaceX",
    "mentions": 6,
-   "mentions_24h_ago": 17,
-   "change_pct": -64.7,
-   "rank": 16,
-   "upvotes": 9
-  },
-  {
-   "ticker": "AVGO",
-   "name": "Broadcom",
-   "mentions": 6,
-   "mentions_24h_ago": 5,
-   "change_pct": 20.0,
-   "rank": 17,
-   "upvotes": 12
+   "mentions_24h_ago": 21,
+   "change_pct": -71.4,
+   "rank": 14,
+   "upvotes": 17
   },
   {
    "ticker": "SOXL",
    "name": "Direxion Shares ETF Trust - Direxion Daily Semiconductor Bull 3X Share",
    "mentions": 6,
-   "mentions_24h_ago": 9,
-   "change_pct": -33.3,
-   "rank": 18,
-   "upvotes": 15
-  },
-  {
-   "ticker": "YOU",
-   "name": "CLEAR Secure",
-   "mentions": 6,
-   "mentions_24h_ago": 10,
-   "change_pct": -40.0,
-   "rank": 19,
-   "upvotes": 15
-  },
-  {
-   "ticker": "ALGM",
-   "name": "Allegro MicroSystems",
-   "mentions": 6,
-   "mentions_24h_ago": 0,
-   "change_pct": null,
-   "rank": 20,
-   "upvotes": 6
-  },
-  {
-   "ticker": "NBIS",
-   "name": "Nebius Group",
-   "mentions": 6,
-   "mentions_24h_ago": 4,
-   "change_pct": 50.0,
-   "rank": 21,
+   "mentions_24h_ago": 8,
+   "change_pct": -25.0,
+   "rank": 15,
    "upvotes": 12
   },
   {
    "ticker": "GOOGL",
    "name": "Alphabet (Google)",
+   "mentions": 6,
+   "mentions_24h_ago": 9,
+   "change_pct": -33.3,
+   "rank": 16,
+   "upvotes": 31
+  },
+  {
+   "ticker": "SNDK",
+   "name": "Sandisk",
+   "mentions": 6,
+   "mentions_24h_ago": 4,
+   "change_pct": 50.0,
+   "rank": 17,
+   "upvotes": 8
+  },
+  {
+   "ticker": "TSLA",
+   "name": "Tesla",
    "mentions": 5,
-   "mentions_24h_ago": 15,
-   "change_pct": -66.7,
-   "rank": 22,
+   "mentions_24h_ago": 16,
+   "change_pct": -68.8,
+   "rank": 18,
+   "upvotes": 7
+  },
+  {
+   "ticker": "IT",
+   "name": "Gartner",
+   "mentions": 5,
+   "mentions_24h_ago": 12,
+   "change_pct": -58.3,
+   "rank": 19,
    "upvotes": 23
   },
   {
    "ticker": "DTE",
    "name": "DTE Energy",
    "mentions": 4,
-   "mentions_24h_ago": 11,
-   "change_pct": -63.6,
-   "rank": 23,
+   "mentions_24h_ago": 8,
+   "change_pct": -50.0,
+   "rank": 20,
    "upvotes": 9
   },
   {
-   "ticker": "IQ",
-   "name": "iQIYI",
+   "ticker": "BE",
+   "name": "Bloom Energy",
    "mentions": 4,
-   "mentions_24h_ago": 2,
-   "change_pct": 100.0,
-   "rank": 24,
-   "upvotes": 11
+   "mentions_24h_ago": 3,
+   "change_pct": 33.3,
+   "rank": 21,
+   "upvotes": 6
   },
   {
    "ticker": "JD",
@@ -224,8 +197,35 @@
    "mentions": 4,
    "mentions_24h_ago": 1,
    "change_pct": 300.0,
-   "rank": 25,
+   "rank": 22,
    "upvotes": 63
+  },
+  {
+   "ticker": "FCF",
+   "name": "First Commonwealth Financial Corp",
+   "mentions": 4,
+   "mentions_24h_ago": 5,
+   "change_pct": -20.0,
+   "rank": 23,
+   "upvotes": 25
+  },
+  {
+   "ticker": "ASTS",
+   "name": "AST SpaceMobile",
+   "mentions": 4,
+   "mentions_24h_ago": 9,
+   "change_pct": -55.6,
+   "rank": 24,
+   "upvotes": 10
+  },
+  {
+   "ticker": "ORCL",
+   "name": "Oracle",
+   "mentions": 3,
+   "mentions_24h_ago": 1,
+   "change_pct": 200.0,
+   "rank": 25,
+   "upvotes": 16
   }
  ]
 }
