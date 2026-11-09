@@ -1,8 +1,20 @@
 {
- "last_updated": "2026-11-06T06:45:44Z",
+ "last_updated": "2026-11-09T20:27:15Z",
  "source": "Financial Modeling Prep (Form 4)",
  "is_sample": false,
  "signals": [
+  {
+   "date": "2026-11-06",
+   "ticker": "NSLR",
+   "direction": "BUY",
+   "source": "Insider",
+   "insider": "Potter Leonard",
+   "title": "director",
+   "value": 115200,
+   "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001476217&type=4",
+   "strength": 70,
+   "reason": "Potter Leonard bought $115,200"
+  },
   {
    "date": "2026-11-05",
    "ticker": "MTUS",
@@ -14,6 +26,42 @@
    "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001224027&type=4",
    "strength": 71,
    "reason": "Rice Ronald A bought $166,100"
+  },
+  {
+   "date": "2026-11-05",
+   "ticker": "NFRX",
+   "direction": "BUY",
+   "source": "Insider",
+   "insider": "Harrison Street Real Assets Fund Llc",
+   "title": "10 percent owner",
+   "value": 45199994,
+   "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001687898&type=4",
+   "strength": 75,
+   "reason": "Harrison Street Real Assets Fund Llc bought $45,199,994"
+  },
+  {
+   "date": "2026-11-05",
+   "ticker": "PAM",
+   "direction": "BUY",
+   "source": "Insider",
+   "insider": "Mindlin Damian Miguel",
+   "title": "officer: Vicepresident",
+   "value": 1287400,
+   "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002028916&type=4",
+   "strength": 87,
+   "reason": "2 insiders buying Mindlin Damian Miguel bought $1,287,400"
+  },
+  {
+   "date": "2026-11-05",
+   "ticker": "VDTA",
+   "direction": "BUY",
+   "source": "Insider",
+   "insider": "Hamble International Inc.",
+   "title": "10 percent owner",
+   "value": 499941,
+   "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002145730&type=4",
+   "strength": 74,
+   "reason": "Hamble International Inc. bought $499,941"
   },
   {
    "date": "2026-11-04",
