@@ -1,8 +1,20 @@
 {
- "last_updated": "2026-11-10T23:39:41Z",
+ "last_updated": "2026-11-13T02:55:29Z",
  "source": "Financial Modeling Prep (Form 4)",
  "is_sample": false,
  "signals": [
+  {
+   "date": "2026-11-12",
+   "ticker": "LRMR",
+   "direction": "BUY",
+   "source": "Insider",
+   "insider": "Hamilton Thomas Edward",
+   "title": "director",
+   "value": 187082,
+   "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001769848&type=4",
+   "strength": 71,
+   "reason": "Hamilton Thomas Edward bought $187,082"
+  },
   {
    "date": "2026-11-09",
    "ticker": "STLN",
@@ -14,6 +26,18 @@
    "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002042077&type=4",
    "strength": 71,
    "reason": "Chernett Jorey bought $176,273"
+  },
+  {
+   "date": "2026-11-09",
+   "ticker": "ASR",
+   "direction": "BUY",
+   "source": "Insider",
+   "insider": "Perez Anton Jose Antonio",
+   "title": "director",
+   "value": 477648,
+   "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002122908&type=4",
+   "strength": 74,
+   "reason": "Perez Anton Jose Antonio bought $477,648"
   },
   {
    "date": "2026-11-06",
