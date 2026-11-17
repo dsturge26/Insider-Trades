@@ -1,8 +1,21 @@
 {
- "last_updated": "2026-11-16T17:00:51Z",
+ "last_updated": "2026-11-17T00:47:49Z",
  "source": "Financial Modeling Prep (live)",
  "is_sample": false,
  "trades": [
+  {
+   "date": "2026-11-09",
+   "politician": "James French Hill",
+   "chamber": "House",
+   "party": "",
+   "ticker": "JBGS",
+   "company": "JBG SMITH Properties",
+   "type": "Sale",
+   "owner": "",
+   "amount": "$1,001 - $15,000",
+   "amount_mid": 8000,
+   "disclosure_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035807.pdf"
+  },
   {
    "date": "2026-11-05",
    "politician": "David Taylor",
@@ -392,6 +405,19 @@
    "amount": "$1,001 - $15,000",
    "amount_mid": 8000,
    "disclosure_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116403.pdf"
+  },
+  {
+   "date": "2026-10-22",
+   "politician": "Jonathan Jackson",
+   "chamber": "House",
+   "party": "",
+   "ticker": "DDOG",
+   "company": "Datadog Inc",
+   "type": "Purchase",
+   "owner": "",
+   "amount": "$1,001 - $15,000",
+   "amount_mid": 8000,
+   "disclosure_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035757.pdf"
   },
   {
    "date": "2026-10-21",
@@ -1122,6 +1148,32 @@
    "disclosure_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116399.pdf"
   },
   {
+   "date": "2026-10-12",
+   "politician": "Jonathan Jackson",
+   "chamber": "House",
+   "party": "",
+   "ticker": "EL",
+   "company": "The Estee Lauder Cos Inc",
+   "type": "Purchase",
+   "owner": "Spouse",
+   "amount": "$1,001 - $15,000",
+   "amount_mid": 8000,
+   "disclosure_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035757.pdf"
+  },
+  {
+   "date": "2026-10-12",
+   "politician": "Jonathan Jackson",
+   "chamber": "House",
+   "party": "",
+   "ticker": "MSGE",
+   "company": "Madison Square Garden Entertainment Corp",
+   "type": "Sale",
+   "owner": "Spouse",
+   "amount": "$1,001 - $15,000",
+   "amount_mid": 8000,
+   "disclosure_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035757.pdf"
+  },
+  {
    "date": "2026-10-09",
    "politician": "David Taylor",
    "chamber": "House",
@@ -1731,6 +1783,19 @@
    "amount": "$1,001 - $15,000",
    "amount_mid": 8000,
    "disclosure_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035826.pdf"
+  },
+  {
+   "date": "2026-10-01",
+   "politician": "Jonathan Jackson",
+   "chamber": "House",
+   "party": "",
+   "ticker": "BP",
+   "company": "BP PLC",
+   "type": "Sale",
+   "owner": "Joint",
+   "amount": "$1,001 - $15,000",
+   "amount_mid": 8000,
+   "disclosure_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035757.pdf"
   },
   {
    "date": "2026-09-30",
@@ -19433,71 +19498,6 @@
    "ticker": "TPH",
    "company": "Tri Pointe Homes Inc",
    "type": "Sale",
-   "owner": "",
-   "amount": "$1,001 - $15,000",
-   "amount_mid": 8000,
-   "disclosure_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034713.pdf"
-  },
-  {
-   "date": "2026-05-15",
-   "politician": "Gilbert Cisneros",
-   "chamber": "House",
-   "party": "",
-   "ticker": "MDT",
-   "company": "Medtronic PLC",
-   "type": "Sale",
-   "owner": "",
-   "amount": "$1,001 - $15,000",
-   "amount_mid": 8000,
-   "disclosure_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034713.pdf"
-  },
-  {
-   "date": "2026-05-15",
-   "politician": "Gilbert Cisneros",
-   "chamber": "House",
-   "party": "",
-   "ticker": "MU",
-   "company": "Micron Technology Inc",
-   "type": "Sale",
-   "owner": "",
-   "amount": "$1,001 - $15,000",
-   "amount_mid": 8000,
-   "disclosure_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034713.pdf"
-  },
-  {
-   "date": "2026-05-15",
-   "politician": "Gilbert Cisneros",
-   "chamber": "House",
-   "party": "",
-   "ticker": "CRWD",
-   "company": "CrowdStrike Holdings Inc",
-   "type": "Purchase",
-   "owner": "",
-   "amount": "$1,001 - $15,000",
-   "amount_mid": 8000,
-   "disclosure_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034713.pdf"
-  },
-  {
-   "date": "2026-05-15",
-   "politician": "Gilbert Cisneros",
-   "chamber": "House",
-   "party": "",
-   "ticker": "APP",
-   "company": "APPLOVIN CORP",
-   "type": "Purchase",
-   "owner": "",
-   "amount": "$1,001 - $15,000",
-   "amount_mid": 8000,
-   "disclosure_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034713.pdf"
-  },
-  {
-   "date": "2026-05-15",
-   "politician": "Gilbert Cisneros",
-   "chamber": "House",
-   "party": "",
-   "ticker": "TTD",
-   "company": "The Trade Desk Inc",
-   "type": "Purchase",
    "owner": "",
    "amount": "$1,001 - $15,000",
    "amount_mid": 8000,
