@@ -1,8 +1,44 @@
 {
- "last_updated": "2026-11-20T19:01:22Z",
+ "last_updated": "2026-11-23T12:07:34Z",
  "source": "Financial Modeling Prep (Form 4)",
  "is_sample": false,
  "signals": [
+  {
+   "date": "2026-11-20",
+   "ticker": "HOS",
+   "direction": "BUY",
+   "source": "Insider",
+   "insider": "Fink Benjamin Matthew",
+   "title": "director",
+   "value": 230300,
+   "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001312482&type=4",
+   "strength": 72,
+   "reason": "Fink Benjamin Matthew bought $230,300"
+  },
+  {
+   "date": "2026-11-20",
+   "ticker": "GNL",
+   "direction": "BUY",
+   "source": "Insider",
+   "insider": "Richardson Leon",
+   "title": "director",
+   "value": 150238,
+   "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002060334&type=4",
+   "strength": 83,
+   "reason": "2 insiders buying Richardson Leon bought $150,238"
+  },
+  {
+   "date": "2026-11-20",
+   "ticker": "GNL",
+   "direction": "BUY",
+   "source": "Insider",
+   "insider": "Weil Edward M Jr.",
+   "title": "director, officer: CEO, President",
+   "value": 200221,
+   "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001490448&type=4",
+   "strength": 83,
+   "reason": "2 insiders buying Weil Edward M Jr. bought $200,221"
+  },
   {
    "date": "2026-11-18",
    "ticker": "TEAM",
